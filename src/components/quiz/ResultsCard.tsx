@@ -197,7 +197,7 @@ export const ResultsCard: React.FC<ResultsCardProps> = ({
           <button
             type="button"
             onClick={onRestart}
-            className="btn btn-primary"
+            className="btn btn-primary btn-mobile-full"
             style={{ borderRadius: 'var(--radius-full)' }}
           >
             <RotateCcw size={16} />
@@ -208,7 +208,7 @@ export const ResultsCard: React.FC<ResultsCardProps> = ({
             <button
               type="button"
               onClick={onRetryIncorrect}
-              className="btn btn-secondary"
+              className="btn btn-secondary btn-mobile-full"
               style={{
                 borderRadius: 'var(--radius-full)',
                 borderColor: 'var(--color-error)',
@@ -222,7 +222,7 @@ export const ResultsCard: React.FC<ResultsCardProps> = ({
 
           <Link
             to="/quizzes/mixed-knowledge-classic"
-            className="btn btn-secondary"
+            className="btn btn-secondary btn-mobile-full"
             style={{ borderRadius: 'var(--radius-full)' }}
           >
             <Play size={16} />
@@ -232,7 +232,7 @@ export const ResultsCard: React.FC<ResultsCardProps> = ({
           {categorySlug && (
             <Link
               to={`/categories/${categorySlug}`}
-              className="btn btn-secondary"
+              className="btn btn-secondary btn-mobile-full"
               style={{ borderRadius: 'var(--radius-full)' }}
             >
               <Grid size={16} />
@@ -242,7 +242,7 @@ export const ResultsCard: React.FC<ResultsCardProps> = ({
 
           <Link
             to="/"
-            className="btn btn-secondary"
+            className="btn btn-secondary btn-mobile-full"
             style={{ borderRadius: 'var(--radius-full)' }}
           >
             <Home size={16} />

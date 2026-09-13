@@ -49,7 +49,7 @@ export const HomePage: React.FC = () => {
           <div
             style={{
               display: 'grid',
-              gridTemplateColumns: 'repeat(auto-fit, minmax(320px, 1fr))',
+              gridTemplateColumns: 'repeat(auto-fit, minmax(min(100%, 300px), 1fr))',
               gap: 'var(--space-2xl)',
               alignItems: 'center'
             }}
@@ -84,7 +84,7 @@ export const HomePage: React.FC = () => {
               {/* Subheading */}
               <p
                 style={{
-                  fontSize: '1.15rem',
+                  fontSize: '1.1rem',
                   lineHeight: 1.6,
                   color: 'var(--color-text-secondary)',
                   marginBottom: 'var(--space-xl)',
@@ -98,7 +98,7 @@ export const HomePage: React.FC = () => {
               <div style={{ display: 'flex', flexWrap: 'wrap', gap: 'var(--space-md)' }}>
                 <Link
                   to="/quizzes/mixed-knowledge-classic"
-                  className="btn btn-primary btn-lg"
+                  className="btn btn-primary btn-lg btn-mobile-full"
                   style={{ borderRadius: 'var(--radius-full)' }}
                 >
                   <Play size={18} fill="currentColor" />
@@ -107,7 +107,7 @@ export const HomePage: React.FC = () => {
 
                 <Link
                   to="/categories"
-                  className="btn btn-secondary btn-lg"
+                  className="btn btn-secondary btn-lg btn-mobile-full"
                   style={{ borderRadius: 'var(--radius-full)' }}
                 >
                   <span>Browse Categories</span>
@@ -119,8 +119,9 @@ export const HomePage: React.FC = () => {
               <div
                 style={{
                   display: 'flex',
+                  flexWrap: 'wrap',
                   alignItems: 'center',
-                  gap: 'var(--space-lg)',
+                  gap: 'var(--space-md)',
                   marginTop: 'var(--space-xl)',
                   fontSize: '0.85rem',
                   color: 'var(--color-text-muted)'
@@ -128,7 +129,7 @@ export const HomePage: React.FC = () => {
               >
                 <span>✓ 34+ Categories</span>
                 <span>✓ Instant Explanations</span>
-                <span>✓ No Account Required</span>
+                <span>✓ 100% Free</span>
               </div>
             </div>
 
@@ -137,7 +138,8 @@ export const HomePage: React.FC = () => {
               style={{
                 display: 'flex',
                 justifyContent: 'center',
-                alignItems: 'center'
+                alignItems: 'center',
+                width: '100%'
               }}
             >
               <div
@@ -147,7 +149,7 @@ export const HomePage: React.FC = () => {
                   backgroundColor: 'var(--color-surface)',
                   border: '1px solid var(--color-border)',
                   borderRadius: 'var(--radius-xl)',
-                  padding: 'var(--space-xl)',
+                  padding: 'var(--space-lg)',
                   boxShadow: 'var(--shadow-lg)',
                   position: 'relative'
                 }}
@@ -158,19 +160,19 @@ export const HomePage: React.FC = () => {
                   <span style={{ fontSize: '0.8rem', color: 'var(--color-text-muted)' }}>10s left</span>
                 </div>
 
-                <p style={{ fontWeight: 700, fontSize: '1.1rem', color: 'var(--color-text-primary)', marginBottom: 'var(--space-lg)', lineHeight: 1.4 }}>
+                <p style={{ fontWeight: 700, fontSize: '1.05rem', color: 'var(--color-text-primary)', marginBottom: 'var(--space-md)', lineHeight: 1.4 }}>
                   Which organelle produces cellular energy in the form of ATP?
                 </p>
 
                 {/* Sample visual options */}
-                <div style={{ display: 'flex', flexDirection: 'column', gap: '10px' }}>
+                <div style={{ display: 'flex', flexDirection: 'column', gap: '10px', marginBottom: 'var(--space-md)' }}>
                   <div
                     style={{
                       padding: '10px 14px',
                       borderRadius: 'var(--radius-md)',
                       backgroundColor: 'var(--color-bg)',
                       border: '1px solid var(--color-border)',
-                      fontSize: '0.9rem',
+                      fontSize: '0.875rem',
                       display: 'flex',
                       alignItems: 'center',
                       gap: '10px'
@@ -187,7 +189,7 @@ export const HomePage: React.FC = () => {
                       backgroundColor: 'var(--color-success-light)',
                       border: '1.5px solid var(--color-success)',
                       color: 'var(--color-text-primary)',
-                      fontSize: '0.9rem',
+                      fontSize: '0.875rem',
                       display: 'flex',
                       alignItems: 'center',
                       justifyContent: 'space-between'
@@ -206,7 +208,7 @@ export const HomePage: React.FC = () => {
                       borderRadius: 'var(--radius-md)',
                       backgroundColor: 'var(--color-bg)',
                       border: '1px solid var(--color-border)',
-                      fontSize: '0.9rem',
+                      fontSize: '0.875rem',
                       display: 'flex',
                       alignItems: 'center',
                       gap: '10px'
@@ -217,25 +219,21 @@ export const HomePage: React.FC = () => {
                   </div>
                 </div>
 
-                {/* Floating micro-badge */}
+                {/* XP Badge */}
                 <div
                   style={{
-                    position: 'absolute',
-                    bottom: '-16px',
-                    right: '-16px',
                     backgroundColor: 'var(--color-primary)',
                     color: '#FFFFFF',
                     borderRadius: 'var(--radius-full)',
-                    padding: '8px 16px',
-                    boxShadow: 'var(--shadow-md)',
-                    display: 'flex',
+                    padding: '6px 14px',
+                    display: 'inline-flex',
                     alignItems: 'center',
                     gap: '6px',
                     fontSize: '0.8rem',
                     fontWeight: 700
                   }}
                 >
-                  <Zap size={15} />
+                  <Zap size={14} />
                   <span>+10 XP Earned!</span>
                 </div>
               </div>
@@ -398,8 +396,8 @@ export const HomePage: React.FC = () => {
           <div
             style={{
               display: 'grid',
-              gridTemplateColumns: 'repeat(auto-fill, minmax(260px, 1fr))',
-              gap: 'var(--space-lg)'
+              gridTemplateColumns: 'repeat(auto-fill, minmax(min(100%, 260px), 1fr))',
+              gap: 'var(--space-md)'
             }}
           >
             {popularCategories.map(cat => (
@@ -427,8 +425,8 @@ export const HomePage: React.FC = () => {
           <div
             style={{
               display: 'grid',
-              gridTemplateColumns: 'repeat(auto-fill, minmax(280px, 1fr))',
-              gap: 'var(--space-lg)'
+              gridTemplateColumns: 'repeat(auto-fill, minmax(min(100%, 280px), 1fr))',
+              gap: 'var(--space-md)'
             }}
           >
             {popularQuizzes.map(quiz => (
@@ -451,8 +449,8 @@ export const HomePage: React.FC = () => {
           <div
             style={{
               display: 'grid',
-              gridTemplateColumns: 'repeat(auto-fill, minmax(280px, 1fr))',
-              gap: 'var(--space-lg)'
+              gridTemplateColumns: 'repeat(auto-fill, minmax(min(100%, 280px), 1fr))',
+              gap: 'var(--space-md)'
             }}
           >
             {newQuizzes.map(quiz => (

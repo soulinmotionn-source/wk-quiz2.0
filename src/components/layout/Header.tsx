@@ -35,7 +35,7 @@ export const Header: React.FC = () => {
           alignItems: 'center',
           justifyContent: 'space-between',
           height: 'var(--header-height)',
-          gap: 'var(--space-md)'
+          gap: 'var(--space-sm)'
         }}
       >
         {/* Logo */}
@@ -44,7 +44,7 @@ export const Header: React.FC = () => {
           style={{
             display: 'flex',
             alignItems: 'center',
-            gap: '10px',
+            gap: '8px',
             textDecoration: 'none',
             flexShrink: 0
           }}
@@ -52,23 +52,24 @@ export const Header: React.FC = () => {
         >
           <div
             style={{
-              width: '40px',
-              height: '40px',
-              borderRadius: '12px',
+              width: '36px',
+              height: '36px',
+              borderRadius: '10px',
               background: 'linear-gradient(135deg, #FF6B35 0%, #FF8C42 100%)',
               display: 'flex',
               alignItems: 'center',
               justifyContent: 'center',
               boxShadow: '0 4px 10px rgba(255, 107, 53, 0.3)',
-              color: '#FFFFFF'
+              color: '#FFFFFF',
+              flexShrink: 0
             }}
           >
-            <Zap size={22} fill="#FFFFFF" />
+            <Zap size={20} fill="#FFFFFF" />
           </div>
           <div>
             <div
               style={{
-                fontSize: '1.35rem',
+                fontSize: '1.2rem',
                 fontWeight: 800,
                 letterSpacing: '-0.03em',
                 lineHeight: 1.1,
@@ -76,16 +77,17 @@ export const Header: React.FC = () => {
               }}
             >
               WK<span style={{ color: 'var(--color-primary)' }}>Quiz</span>
-              <span style={{ fontSize: '0.85rem', color: 'var(--color-text-muted)', fontWeight: 600 }}>.com</span>
+              <span style={{ fontSize: '0.8rem', color: 'var(--color-text-muted)', fontWeight: 600 }}>.com</span>
             </div>
             <div
               style={{
-                fontSize: '0.65rem',
-                letterSpacing: '0.05em',
+                fontSize: '0.6rem',
+                letterSpacing: '0.04em',
                 textTransform: 'uppercase',
                 fontWeight: 600,
                 color: 'var(--color-text-muted)'
               }}
+              className="logo-tagline"
             >
               Learn • Play • Grow
             </div>
@@ -106,8 +108,7 @@ export const Header: React.FC = () => {
             style={{
               fontWeight: 600,
               fontSize: '0.95rem',
-              color: 'var(--color-text-secondary)',
-              transition: 'color var(--transition-fast)'
+              color: 'var(--color-text-secondary)'
             }}
           >
             Home
@@ -117,8 +118,7 @@ export const Header: React.FC = () => {
             style={{
               fontWeight: 600,
               fontSize: '0.95rem',
-              color: 'var(--color-text-secondary)',
-              transition: 'color var(--transition-fast)'
+              color: 'var(--color-text-secondary)'
             }}
           >
             Categories
@@ -171,10 +171,10 @@ export const Header: React.FC = () => {
           style={{
             display: 'flex',
             alignItems: 'center',
-            gap: 'var(--space-md)'
+            gap: '8px'
           }}
         >
-          {/* Desktop Search */}
+          {/* Desktop Search Form */}
           <form
             onSubmit={handleSearchSubmit}
             style={{
@@ -200,7 +200,7 @@ export const Header: React.FC = () => {
               onChange={e => setSearchQuery(e.target.value)}
               style={{
                 height: '40px',
-                width: '200px',
+                width: '180px',
                 paddingLeft: '38px',
                 paddingRight: '12px',
                 borderRadius: 'var(--radius-full)',
@@ -208,30 +208,30 @@ export const Header: React.FC = () => {
                 background: 'var(--color-bg)',
                 fontSize: '0.875rem',
                 outline: 'none',
-                transition: 'width var(--transition-fast), border-color var(--transition-fast)'
+                transition: 'width var(--transition-fast)'
               }}
-              onFocus={e => (e.target.style.width = '240px')}
-              onBlur={e => (e.target.style.width = '200px')}
+              onFocus={e => (e.target.style.width = '220px')}
+              onBlur={e => (e.target.style.width = '180px')}
             />
           </form>
 
           {/* Theme Toggle */}
-          <div className="desktop-theme">
+          <div className="header-theme-toggle">
             <ThemeToggle />
           </div>
 
-          {/* Start Quiz CTA */}
+          {/* Desktop Start Quiz CTA */}
           <Link
             to="/quizzes/mixed-knowledge-classic"
-            className="btn btn-primary"
+            className="btn btn-primary desktop-cta"
             style={{
-              height: '42px',
-              padding: '0 18px',
+              height: '40px',
+              padding: '0 16px',
               borderRadius: 'var(--radius-full)',
-              fontSize: '0.9rem'
+              fontSize: '0.875rem'
             }}
           >
-            <Play size={16} fill="currentColor" />
+            <Play size={15} fill="currentColor" />
             <span>Start Quiz</span>
           </Link>
 
@@ -245,14 +245,15 @@ export const Header: React.FC = () => {
               display: 'flex',
               alignItems: 'center',
               justifyContent: 'center',
-              width: '44px',
-              height: '44px',
+              width: '40px',
+              height: '40px',
               borderRadius: 'var(--radius-md)',
               border: '1px solid var(--color-border)',
-              backgroundColor: 'var(--color-surface)'
+              backgroundColor: 'var(--color-surface)',
+              flexShrink: 0
             }}
           >
-            {mobileMenuOpen ? <X size={24} /> : <Menu size={24} />}
+            {mobileMenuOpen ? <X size={22} /> : <Menu size={22} />}
           </button>
         </div>
       </div>
@@ -266,7 +267,7 @@ export const Header: React.FC = () => {
             padding: 'var(--space-lg) var(--space-md)',
             boxShadow: 'var(--shadow-lg)'
           }}
-          className="mobile-drawer"
+          className="mobile-drawer animate-fade-in"
         >
           {/* Mobile Search */}
           <form onSubmit={handleSearchSubmit} style={{ marginBottom: 'var(--space-md)' }}>
@@ -300,13 +301,13 @@ export const Header: React.FC = () => {
           </form>
 
           {/* Mobile Links */}
-          <div style={{ display: 'flex', flexDirection: 'column', gap: 'var(--space-sm)' }}>
+          <div style={{ display: 'flex', flexDirection: 'column', gap: 'var(--space-xs)' }}>
             <Link
               to="/"
               onClick={() => setMobileMenuOpen(false)}
               style={{
-                padding: '10px 14px',
-                borderRadius: 'var(--radius-sm)',
+                padding: '12px 14px',
+                borderRadius: 'var(--radius-md)',
                 fontWeight: 600,
                 color: 'var(--color-text-primary)'
               }}
@@ -317,32 +318,32 @@ export const Header: React.FC = () => {
               to="/categories"
               onClick={() => setMobileMenuOpen(false)}
               style={{
-                padding: '10px 14px',
-                borderRadius: 'var(--radius-sm)',
+                padding: '12px 14px',
+                borderRadius: 'var(--radius-md)',
                 fontWeight: 600,
                 color: 'var(--color-text-primary)'
               }}
             >
-              Categories
+              All 34 Categories
             </Link>
             <Link
               to="/daily-quiz"
               onClick={() => setMobileMenuOpen(false)}
               style={{
-                padding: '10px 14px',
-                borderRadius: 'var(--radius-sm)',
+                padding: '12px 14px',
+                borderRadius: 'var(--radius-md)',
                 fontWeight: 600,
                 color: 'var(--color-primary)'
               }}
             >
-              Daily Quiz
+              Today's Daily Quiz
             </Link>
             <Link
               to="/quizzes"
               onClick={() => setMobileMenuOpen(false)}
               style={{
-                padding: '10px 14px',
-                borderRadius: 'var(--radius-sm)',
+                padding: '12px 14px',
+                borderRadius: 'var(--radius-md)',
                 fontWeight: 600,
                 color: 'var(--color-text-primary)'
               }}
@@ -353,35 +354,35 @@ export const Header: React.FC = () => {
               to="/about"
               onClick={() => setMobileMenuOpen(false)}
               style={{
-                padding: '10px 14px',
-                borderRadius: 'var(--radius-sm)',
+                padding: '12px 14px',
+                borderRadius: 'var(--radius-md)',
                 fontWeight: 600,
                 color: 'var(--color-text-primary)'
               }}
             >
-              About
+              About WKQuiz
             </Link>
             <Link
               to="/contact"
               onClick={() => setMobileMenuOpen(false)}
               style={{
-                padding: '10px 14px',
-                borderRadius: 'var(--radius-sm)',
+                padding: '12px 14px',
+                borderRadius: 'var(--radius-md)',
                 fontWeight: 600,
                 color: 'var(--color-text-primary)'
               }}
             >
-              Contact
+              Contact Us
             </Link>
 
             <div style={{ height: '1px', backgroundColor: 'var(--color-border)', margin: 'var(--space-sm) 0' }} />
 
-            <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', padding: '6px 14px' }}>
-              <span style={{ fontSize: '0.85rem', color: 'var(--color-text-muted)' }}>Theme</span>
+            <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', padding: '8px 14px' }}>
+              <span style={{ fontSize: '0.9rem', color: 'var(--color-text-muted)', fontWeight: 600 }}>Visual Theme</span>
               <ThemeToggle />
             </div>
 
-            <div style={{ display: 'flex', flexWrap: 'wrap', gap: 'var(--space-md)', padding: '10px 14px', fontSize: '0.8rem', color: 'var(--color-text-muted)' }}>
+            <div style={{ display: 'flex', flexWrap: 'wrap', gap: 'var(--space-md)', padding: '12px 14px', fontSize: '0.8rem', color: 'var(--color-text-muted)' }}>
               <Link to="/privacy-policy" onClick={() => setMobileMenuOpen(false)}>Privacy</Link>
               <Link to="/terms-and-conditions" onClick={() => setMobileMenuOpen(false)}>Terms</Link>
               <Link to="/cookie-policy" onClick={() => setMobileMenuOpen(false)}>Cookies</Link>
@@ -391,16 +392,18 @@ export const Header: React.FC = () => {
         </div>
       )}
 
-      {/* Style hook for responsive desktop nav visibility */}
       <style>{`
         @media (min-width: 900px) {
           .desktop-nav { display: flex !important; }
           .desktop-search { display: flex !important; }
-          .desktop-theme { display: block !important; }
           .mobile-menu-btn { display: none !important; }
+          .desktop-cta { display: inline-flex !important; }
         }
         @media (max-width: 899px) {
-          .desktop-theme { display: none !important; }
+          .desktop-cta { display: none !important; }
+        }
+        @media (max-width: 480px) {
+          .logo-tagline { display: none !important; }
         }
       `}</style>
     </header>

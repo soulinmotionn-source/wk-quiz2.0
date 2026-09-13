@@ -237,8 +237,8 @@ export const QuizPlayer: React.FC<QuizPlayerProps> = ({
             <button
               type="button"
               onClick={nextQuestion}
-              className="btn btn-primary btn-lg"
-              style={{ borderRadius: 'var(--radius-full)', padding: '12px 32px' }}
+              className="btn btn-primary btn-lg btn-mobile-full"
+              style={{ borderRadius: 'var(--radius-full)', padding: '14px 32px' }}
             >
               <span>{isLastQuestion ? 'View Results' : 'Next Question'}</span>
               {isLastQuestion ? <Check size={18} /> : <ArrowRight size={18} />}
