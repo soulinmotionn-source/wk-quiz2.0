@@ -9,8 +9,10 @@ import { AdSlot } from '../components/common/AdSlot';
 import { InteractiveHeroQuiz } from '../components/home/InteractiveHeroQuiz';
 import { CATEGORIES } from '../data/categories';
 import { FEATURED_QUIZZES } from '../data/quizzes';
+import { getQuestionStats } from '../data/questionBank';
 
 export const HomePage: React.FC = () => {
+  const stats = getQuestionStats();
   const popularCategories = CATEGORIES.filter(c => c.popular).slice(0, 8);
   const popularQuizzes = FEATURED_QUIZZES.filter(q => q.popular).slice(0, 4);
   const newQuizzes = FEATURED_QUIZZES.filter(q => q.isNew || q.featured).slice(0, 4);
@@ -128,7 +130,8 @@ export const HomePage: React.FC = () => {
                   color: 'var(--color-text-muted)'
                 }}
               >
-                <span>✓ 34+ Categories</span>
+                <span>✓ {stats.totalQuestions.toLocaleString()}+ Questions</span>
+                <span>✓ {CATEGORIES.length} Categories</span>
                 <span>✓ Instant Explanations</span>
                 <span>✓ 100% Free</span>
               </div>
@@ -178,7 +181,7 @@ export const HomePage: React.FC = () => {
               <div>
                 <h4 style={{ fontWeight: 700, fontSize: '1rem', marginBottom: '4px' }}>Multiple Categories</h4>
                 <p style={{ color: 'var(--color-text-secondary)', fontSize: '0.875rem', lineHeight: 1.5 }}>
-                  Over 34 diverse categories from NCLEX nursing to electrical symbols and US capitals.
+                  Over {CATEGORIES.length} diverse categories from NCLEX nursing to electrical symbols and US capitals.
                 </p>
               </div>
             </div>
@@ -295,7 +298,7 @@ export const HomePage: React.FC = () => {
                 color: 'var(--color-primary)'
               }}
             >
-              <span>View All 34 Categories</span>
+              <span>View All {CATEGORIES.length} Categories</span>
               <ArrowRight size={18} />
             </Link>
           </div>

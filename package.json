@@ -5,8 +5,9 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "node scripts/cleanDist.js && tsc -b && vite build && node scripts/cleanDist.js --post",
+    "build": "node scripts/cleanDist.js && node scripts/validateQuestions.js && node scripts/generateQuestionStats.js && tsc -b && vite build && node scripts/cleanDist.js --post",
     "validate:questions": "node scripts/validateQuestions.js",
+    "stats:questions": "node scripts/statsReport.js",
     "lint": "oxlint",
     "preview": "vite preview"
   },

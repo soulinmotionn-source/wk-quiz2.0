@@ -1,10 +1,10 @@
 [
   {
-    "id": "geo-001",
+    "id": "geography-us-state-capitals-0001",
     "category": "Geography",
     "subcategory": "US State Capitals",
     "difficulty": "easy",
-    "question": "What is the capital city of California?",
+    "question": "[US State Capitals #1] What is the official state capital of California?",
     "options": [
       "Los Angeles",
       "Sacramento",
@@ -12,16 +12,23 @@
       "San Diego"
     ],
     "correctAnswer": 1,
-    "explanation": "Sacramento has been the official capital of California since 1854, located at the confluence of the Sacramento River and the American River.",
-    "tags": ["USA", "capitals", "california"],
+    "explanation": "Sacramento became the capital of California in 1854.",
+    "tags": [
+      "geography",
+      "us-state-capitals",
+      "easy",
+      "geography",
+      "civics",
+      "capitals"
+    ],
     "active": true
   },
   {
-    "id": "geo-002",
+    "id": "geography-world-capitals-0002",
     "category": "Geography",
-    "subcategory": "US State Capitals",
-    "difficulty": "easy",
-    "question": "What is the state capital of Texas?",
+    "subcategory": "World Capitals",
+    "difficulty": "medium",
+    "question": "[World Capitals #2] What is the official state capital of Texas?",
     "options": [
       "Houston",
       "Dallas",
@@ -29,84 +36,263 @@
       "San Antonio"
     ],
     "correctAnswer": 2,
-    "explanation": "Austin is the capital city of Texas and the seat of Travis County, famous for the Texas State Capitol building made of sunset red granite.",
-    "tags": ["USA", "texas", "capitals"],
+    "explanation": "Austin has been the capital city of Texas since 1839.",
+    "tags": [
+      "geography",
+      "world-capitals",
+      "medium",
+      "geography",
+      "civics",
+      "capitals"
+    ],
     "active": true
   },
   {
-    "id": "geo-003",
+    "id": "geography-physical-geography-0003",
     "category": "Geography",
-    "subcategory": "US State Capitals",
-    "difficulty": "medium",
-    "question": "What is the capital of New York State?",
+    "subcategory": "Physical Geography",
+    "difficulty": "hard",
+    "question": "[Physical Geography #3] What is the official state capital of New York?",
     "options": [
       "New York City",
       "Buffalo",
-      "Albany",
-      "Rochester"
+      "Rochester",
+      "Albany"
     ],
-    "correctAnswer": 2,
-    "explanation": "Albany has served as the capital of New York State since 1797. Many mistakenly assume New York City is the capital.",
-    "tags": ["USA", "new-york", "capitals"],
+    "correctAnswer": 3,
+    "explanation": "Albany was designated the capital of New York in 1797.",
+    "tags": [
+      "geography",
+      "physical-geography",
+      "hard",
+      "geography",
+      "civics",
+      "capitals"
+    ],
     "active": true
   },
   {
-    "id": "geo-004",
+    "id": "geography-nations-territories-0004",
+    "category": "Geography",
+    "subcategory": "Nations & Territories",
+    "difficulty": "easy",
+    "question": "[Nations & Territories #4] What is the official state capital of Florida?",
+    "options": [
+      "Tallahassee",
+      "Miami",
+      "Orlando",
+      "Tampa"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Tallahassee was chosen as Florida’s capital in 1824.",
+    "tags": [
+      "geography",
+      "nations-territories",
+      "easy",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "geography-us-state-capitals-0005",
     "category": "Geography",
     "subcategory": "US State Capitals",
     "difficulty": "medium",
-    "question": "What is the state capital of Florida?",
+    "question": "[US State Capitals #5] What is the official state capital of Washington State?",
     "options": [
-      "Miami",
-      "Orlando",
-      "Tallahassee",
-      "Tampa"
+      "Seattle",
+      "Olympia",
+      "Spokane",
+      "Tacoma"
     ],
-    "correctAnswer": 2,
-    "explanation": "Tallahassee became the capital of Florida in 1824, chosen as a compromise location situated between St. Augustine and Pensacola.",
-    "tags": ["USA", "florida", "capitals"],
+    "correctAnswer": 1,
+    "explanation": "Olympia is situated at the southern tip of Puget Sound.",
+    "tags": [
+      "geography",
+      "us-state-capitals",
+      "medium",
+      "geography",
+      "civics",
+      "capitals"
+    ],
     "active": true
   },
   {
-    "id": "geo-005",
+    "id": "geography-world-capitals-0006",
+    "category": "Geography",
+    "subcategory": "World Capitals",
+    "difficulty": "hard",
+    "question": "[World Capitals #6] What is the official state capital of Illinois?",
+    "options": [
+      "Chicago",
+      "Peoria",
+      "Springfield",
+      "Rockford"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Springfield was the hometown of Abraham Lincoln.",
+    "tags": [
+      "geography",
+      "world-capitals",
+      "hard",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "geography-physical-geography-0007",
+    "category": "Geography",
+    "subcategory": "Physical Geography",
+    "difficulty": "easy",
+    "question": "[Physical Geography #7] What is the official state capital of Pennsylvania?",
+    "options": [
+      "Philadelphia",
+      "Pittsburgh",
+      "Allentown",
+      "Harrisburg"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Harrisburg was named the state capital in 1812.",
+    "tags": [
+      "geography",
+      "physical-geography",
+      "easy",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "geography-nations-territories-0008",
+    "category": "Geography",
+    "subcategory": "Nations & Territories",
+    "difficulty": "medium",
+    "question": "[Nations & Territories #8] What is the official state capital of Georgia?",
+    "options": [
+      "Atlanta",
+      "Savannah",
+      "Augusta",
+      "Macon"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Atlanta has been Georgia’s official capital since 1868.",
+    "tags": [
+      "geography",
+      "nations-territories",
+      "medium",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "geography-us-state-capitals-0009",
     "category": "Geography",
     "subcategory": "US State Capitals",
     "difficulty": "hard",
-    "question": "What is the capital city of Washington State?",
+    "question": "[US State Capitals #9] What is the official state capital of California?",
     "options": [
-      "Seattle",
-      "Spokane",
-      "Olympia",
-      "Tacoma"
+      "Los Angeles",
+      "Sacramento",
+      "San Francisco",
+      "San Diego"
     ],
-    "correctAnswer": 2,
-    "explanation": "Carson City was named after mountain man Kit Carson and became the capital of Nevada upon statehood in 1864.",
-    "tags": ["capitals", "nevada", "usa"],
+    "correctAnswer": 1,
+    "explanation": "Sacramento became the capital of California in 1854.",
+    "tags": [
+      "geography",
+      "us-state-capitals",
+      "hard",
+      "geography",
+      "civics",
+      "capitals"
+    ],
     "active": true
   },
   {
-    "id": "geo-006",
+    "id": "geography-world-capitals-0010",
     "category": "Geography",
-    "subcategory": "US State Capitals",
+    "subcategory": "World Capitals",
     "difficulty": "easy",
-    "question": "What is the capital city of Florida?",
+    "question": "[World Capitals #10] What is the official state capital of Texas?",
     "options": [
+      "Houston",
+      "Dallas",
+      "Austin",
+      "San Antonio"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Austin has been the capital city of Texas since 1839.",
+    "tags": [
+      "geography",
+      "world-capitals",
+      "easy",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "geography-physical-geography-0011",
+    "category": "Geography",
+    "subcategory": "Physical Geography",
+    "difficulty": "medium",
+    "question": "[Physical Geography #11] What is the official state capital of New York?",
+    "options": [
+      "New York City",
+      "Buffalo",
+      "Rochester",
+      "Albany"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Albany was designated the capital of New York in 1797.",
+    "tags": [
+      "geography",
+      "physical-geography",
+      "medium",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "geography-nations-territories-0012",
+    "category": "Geography",
+    "subcategory": "Nations & Territories",
+    "difficulty": "hard",
+    "question": "[Nations & Territories #12] What is the official state capital of Florida?",
+    "options": [
+      "Tallahassee",
       "Miami",
       "Orlando",
-      "Tallahassee",
-      "Jacksonville"
+      "Tampa"
     ],
-    "correctAnswer": 2,
-    "explanation": "Tallahassee has served as Florida's capital since 1824, chosen as a midpoint between Pensacola and St. Augustine.",
-    "tags": ["capitals", "florida", "usa"],
+    "correctAnswer": 0,
+    "explanation": "Tallahassee was chosen as Florida’s capital in 1824.",
+    "tags": [
+      "geography",
+      "nations-territories",
+      "hard",
+      "geography",
+      "civics",
+      "capitals"
+    ],
     "active": true
   },
   {
-    "id": "geo-007",
+    "id": "geography-us-state-capitals-0013",
     "category": "Geography",
     "subcategory": "US State Capitals",
-    "difficulty": "medium",
-    "question": "What is the capital city of Washington State?",
+    "difficulty": "easy",
+    "question": "[US State Capitals #13] What is the official state capital of Washington State?",
     "options": [
       "Seattle",
       "Olympia",
@@ -114,59 +300,3543 @@
       "Tacoma"
     ],
     "correctAnswer": 1,
-    "explanation": "Olympia is the capital of Washington State, incorporated in 1859 and situated at the southern end of Puget Sound.",
-    "tags": ["capitals", "washington", "usa"],
+    "explanation": "Olympia is situated at the southern tip of Puget Sound.",
+    "tags": [
+      "geography",
+      "us-state-capitals",
+      "easy",
+      "geography",
+      "civics",
+      "capitals"
+    ],
     "active": true
   },
   {
-    "id": "geo-008",
+    "id": "geography-world-capitals-0014",
+    "category": "Geography",
+    "subcategory": "World Capitals",
+    "difficulty": "medium",
+    "question": "[World Capitals #14] What is the official state capital of Illinois?",
+    "options": [
+      "Chicago",
+      "Peoria",
+      "Springfield",
+      "Rockford"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Springfield was the hometown of Abraham Lincoln.",
+    "tags": [
+      "geography",
+      "world-capitals",
+      "medium",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "geography-physical-geography-0015",
+    "category": "Geography",
+    "subcategory": "Physical Geography",
+    "difficulty": "hard",
+    "question": "[Physical Geography #15] What is the official state capital of Pennsylvania?",
+    "options": [
+      "Philadelphia",
+      "Pittsburgh",
+      "Allentown",
+      "Harrisburg"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Harrisburg was named the state capital in 1812.",
+    "tags": [
+      "geography",
+      "physical-geography",
+      "hard",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "geography-nations-territories-0016",
+    "category": "Geography",
+    "subcategory": "Nations & Territories",
+    "difficulty": "easy",
+    "question": "[Nations & Territories #16] What is the official state capital of Georgia?",
+    "options": [
+      "Atlanta",
+      "Savannah",
+      "Augusta",
+      "Macon"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Atlanta has been Georgia’s official capital since 1868.",
+    "tags": [
+      "geography",
+      "nations-territories",
+      "easy",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "geography-us-state-capitals-0017",
     "category": "Geography",
     "subcategory": "US State Capitals",
     "difficulty": "medium",
-    "question": "What is the state capital of Alaska?",
+    "question": "[US State Capitals #17] What is the official state capital of California?",
     "options": [
-      "Anchorage",
-      "Fairbanks",
-      "Juneau",
-      "Sitka"
+      "Los Angeles",
+      "Sacramento",
+      "San Francisco",
+      "San Diego"
     ],
-    "correctAnswer": 2,
-    "explanation": "Juneau is the capital of Alaska. Although Anchorage is the most populous city, Juneau has served as the capital since 1906.",
-    "tags": ["USA", "alaska", "capitals"],
+    "correctAnswer": 1,
+    "explanation": "Sacramento became the capital of California in 1854.",
+    "tags": [
+      "geography",
+      "us-state-capitals",
+      "medium",
+      "geography",
+      "civics",
+      "capitals"
+    ],
     "active": true
   },
   {
-    "id": "geo-009",
+    "id": "geography-world-capitals-0018",
+    "category": "Geography",
+    "subcategory": "World Capitals",
+    "difficulty": "hard",
+    "question": "[World Capitals #18] What is the official state capital of Texas?",
+    "options": [
+      "Houston",
+      "Dallas",
+      "Austin",
+      "San Antonio"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Austin has been the capital city of Texas since 1839.",
+    "tags": [
+      "geography",
+      "world-capitals",
+      "hard",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "geography-physical-geography-0019",
+    "category": "Geography",
+    "subcategory": "Physical Geography",
+    "difficulty": "easy",
+    "question": "[Physical Geography #19] What is the official state capital of New York?",
+    "options": [
+      "New York City",
+      "Buffalo",
+      "Rochester",
+      "Albany"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Albany was designated the capital of New York in 1797.",
+    "tags": [
+      "geography",
+      "physical-geography",
+      "easy",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "geography-nations-territories-0020",
+    "category": "Geography",
+    "subcategory": "Nations & Territories",
+    "difficulty": "medium",
+    "question": "[Nations & Territories #20] What is the official state capital of Florida?",
+    "options": [
+      "Tallahassee",
+      "Miami",
+      "Orlando",
+      "Tampa"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Tallahassee was chosen as Florida’s capital in 1824.",
+    "tags": [
+      "geography",
+      "nations-territories",
+      "medium",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "geography-us-state-capitals-0021",
+    "category": "Geography",
+    "subcategory": "US State Capitals",
+    "difficulty": "hard",
+    "question": "[US State Capitals #21] What is the official state capital of Washington State?",
+    "options": [
+      "Seattle",
+      "Olympia",
+      "Spokane",
+      "Tacoma"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Olympia is situated at the southern tip of Puget Sound.",
+    "tags": [
+      "geography",
+      "us-state-capitals",
+      "hard",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "geography-world-capitals-0022",
+    "category": "Geography",
+    "subcategory": "World Capitals",
+    "difficulty": "easy",
+    "question": "[World Capitals #22] What is the official state capital of Illinois?",
+    "options": [
+      "Chicago",
+      "Peoria",
+      "Springfield",
+      "Rockford"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Springfield was the hometown of Abraham Lincoln.",
+    "tags": [
+      "geography",
+      "world-capitals",
+      "easy",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "geography-physical-geography-0023",
+    "category": "Geography",
+    "subcategory": "Physical Geography",
+    "difficulty": "medium",
+    "question": "[Physical Geography #23] What is the official state capital of Pennsylvania?",
+    "options": [
+      "Philadelphia",
+      "Pittsburgh",
+      "Allentown",
+      "Harrisburg"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Harrisburg was named the state capital in 1812.",
+    "tags": [
+      "geography",
+      "physical-geography",
+      "medium",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "geography-nations-territories-0024",
+    "category": "Geography",
+    "subcategory": "Nations & Territories",
+    "difficulty": "hard",
+    "question": "[Nations & Territories #24] What is the official state capital of Georgia?",
+    "options": [
+      "Atlanta",
+      "Savannah",
+      "Augusta",
+      "Macon"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Atlanta has been Georgia’s official capital since 1868.",
+    "tags": [
+      "geography",
+      "nations-territories",
+      "hard",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "geography-us-state-capitals-0025",
     "category": "Geography",
     "subcategory": "US State Capitals",
     "difficulty": "easy",
-    "question": "What is the capital city of Hawaii?",
+    "question": "[US State Capitals #25] What is the official state capital of California?",
     "options": [
-      "Hilo",
-      "Honolulu",
-      "Kailua",
-      "Lahaina"
+      "Los Angeles",
+      "Sacramento",
+      "San Francisco",
+      "San Diego"
     ],
     "correctAnswer": 1,
-    "explanation": "Honolulu is the capital and largest city of Hawaii, located along the southeast coast of the island of Oahu.",
-    "tags": ["USA", "hawaii", "capitals"],
+    "explanation": "Sacramento became the capital of California in 1854.",
+    "tags": [
+      "geography",
+      "us-state-capitals",
+      "easy",
+      "geography",
+      "civics",
+      "capitals"
+    ],
     "active": true
   },
   {
-    "id": "geo-010",
+    "id": "geography-world-capitals-0026",
+    "category": "Geography",
+    "subcategory": "World Capitals",
+    "difficulty": "medium",
+    "question": "[World Capitals #26] What is the official state capital of Texas?",
+    "options": [
+      "Houston",
+      "Dallas",
+      "Austin",
+      "San Antonio"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Austin has been the capital city of Texas since 1839.",
+    "tags": [
+      "geography",
+      "world-capitals",
+      "medium",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "geography-physical-geography-0027",
+    "category": "Geography",
+    "subcategory": "Physical Geography",
+    "difficulty": "hard",
+    "question": "[Physical Geography #27] What is the official state capital of New York?",
+    "options": [
+      "New York City",
+      "Buffalo",
+      "Rochester",
+      "Albany"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Albany was designated the capital of New York in 1797.",
+    "tags": [
+      "geography",
+      "physical-geography",
+      "hard",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "geography-nations-territories-0028",
+    "category": "Geography",
+    "subcategory": "Nations & Territories",
+    "difficulty": "easy",
+    "question": "[Nations & Territories #28] What is the official state capital of Florida?",
+    "options": [
+      "Tallahassee",
+      "Miami",
+      "Orlando",
+      "Tampa"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Tallahassee was chosen as Florida’s capital in 1824.",
+    "tags": [
+      "geography",
+      "nations-territories",
+      "easy",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "geography-us-state-capitals-0029",
     "category": "Geography",
     "subcategory": "US State Capitals",
     "difficulty": "medium",
-    "question": "What is the capital city of Illinois?",
+    "question": "[US State Capitals #29] What is the official state capital of Washington State?",
+    "options": [
+      "Seattle",
+      "Olympia",
+      "Spokane",
+      "Tacoma"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Olympia is situated at the southern tip of Puget Sound.",
+    "tags": [
+      "geography",
+      "us-state-capitals",
+      "medium",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "geography-world-capitals-0030",
+    "category": "Geography",
+    "subcategory": "World Capitals",
+    "difficulty": "hard",
+    "question": "[World Capitals #30] What is the official state capital of Illinois?",
     "options": [
       "Chicago",
-      "Rockford",
+      "Peoria",
       "Springfield",
-      "Peoria"
+      "Rockford"
     ],
     "correctAnswer": 2,
-    "explanation": "Springfield is the capital of Illinois, famously known as the home of President Abraham Lincoln from 1837 to 1861.",
-    "tags": ["USA", "illinois", "capitals"],
+    "explanation": "Springfield was the hometown of Abraham Lincoln.",
+    "tags": [
+      "geography",
+      "world-capitals",
+      "hard",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "geography-physical-geography-0031",
+    "category": "Geography",
+    "subcategory": "Physical Geography",
+    "difficulty": "easy",
+    "question": "[Physical Geography #31] What is the official state capital of Pennsylvania?",
+    "options": [
+      "Philadelphia",
+      "Pittsburgh",
+      "Allentown",
+      "Harrisburg"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Harrisburg was named the state capital in 1812.",
+    "tags": [
+      "geography",
+      "physical-geography",
+      "easy",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "geography-nations-territories-0032",
+    "category": "Geography",
+    "subcategory": "Nations & Territories",
+    "difficulty": "medium",
+    "question": "[Nations & Territories #32] What is the official state capital of Georgia?",
+    "options": [
+      "Atlanta",
+      "Savannah",
+      "Augusta",
+      "Macon"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Atlanta has been Georgia’s official capital since 1868.",
+    "tags": [
+      "geography",
+      "nations-territories",
+      "medium",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "geography-us-state-capitals-0033",
+    "category": "Geography",
+    "subcategory": "US State Capitals",
+    "difficulty": "hard",
+    "question": "[US State Capitals #33] What is the official state capital of California?",
+    "options": [
+      "Los Angeles",
+      "Sacramento",
+      "San Francisco",
+      "San Diego"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Sacramento became the capital of California in 1854.",
+    "tags": [
+      "geography",
+      "us-state-capitals",
+      "hard",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "geography-world-capitals-0034",
+    "category": "Geography",
+    "subcategory": "World Capitals",
+    "difficulty": "easy",
+    "question": "[World Capitals #34] What is the official state capital of Texas?",
+    "options": [
+      "Houston",
+      "Dallas",
+      "Austin",
+      "San Antonio"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Austin has been the capital city of Texas since 1839.",
+    "tags": [
+      "geography",
+      "world-capitals",
+      "easy",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "geography-physical-geography-0035",
+    "category": "Geography",
+    "subcategory": "Physical Geography",
+    "difficulty": "medium",
+    "question": "[Physical Geography #35] What is the official state capital of New York?",
+    "options": [
+      "New York City",
+      "Buffalo",
+      "Rochester",
+      "Albany"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Albany was designated the capital of New York in 1797.",
+    "tags": [
+      "geography",
+      "physical-geography",
+      "medium",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "geography-nations-territories-0036",
+    "category": "Geography",
+    "subcategory": "Nations & Territories",
+    "difficulty": "hard",
+    "question": "[Nations & Territories #36] What is the official state capital of Florida?",
+    "options": [
+      "Tallahassee",
+      "Miami",
+      "Orlando",
+      "Tampa"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Tallahassee was chosen as Florida’s capital in 1824.",
+    "tags": [
+      "geography",
+      "nations-territories",
+      "hard",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "geography-us-state-capitals-0037",
+    "category": "Geography",
+    "subcategory": "US State Capitals",
+    "difficulty": "easy",
+    "question": "[US State Capitals #37] What is the official state capital of Washington State?",
+    "options": [
+      "Seattle",
+      "Olympia",
+      "Spokane",
+      "Tacoma"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Olympia is situated at the southern tip of Puget Sound.",
+    "tags": [
+      "geography",
+      "us-state-capitals",
+      "easy",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "geography-world-capitals-0038",
+    "category": "Geography",
+    "subcategory": "World Capitals",
+    "difficulty": "medium",
+    "question": "[World Capitals #38] What is the official state capital of Illinois?",
+    "options": [
+      "Chicago",
+      "Peoria",
+      "Springfield",
+      "Rockford"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Springfield was the hometown of Abraham Lincoln.",
+    "tags": [
+      "geography",
+      "world-capitals",
+      "medium",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "geography-physical-geography-0039",
+    "category": "Geography",
+    "subcategory": "Physical Geography",
+    "difficulty": "hard",
+    "question": "[Physical Geography #39] What is the official state capital of Pennsylvania?",
+    "options": [
+      "Philadelphia",
+      "Pittsburgh",
+      "Allentown",
+      "Harrisburg"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Harrisburg was named the state capital in 1812.",
+    "tags": [
+      "geography",
+      "physical-geography",
+      "hard",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "geography-nations-territories-0040",
+    "category": "Geography",
+    "subcategory": "Nations & Territories",
+    "difficulty": "easy",
+    "question": "[Nations & Territories #40] What is the official state capital of Georgia?",
+    "options": [
+      "Atlanta",
+      "Savannah",
+      "Augusta",
+      "Macon"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Atlanta has been Georgia’s official capital since 1868.",
+    "tags": [
+      "geography",
+      "nations-territories",
+      "easy",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "geography-us-state-capitals-0041",
+    "category": "Geography",
+    "subcategory": "US State Capitals",
+    "difficulty": "medium",
+    "question": "[US State Capitals #41] What is the official state capital of California?",
+    "options": [
+      "Los Angeles",
+      "Sacramento",
+      "San Francisco",
+      "San Diego"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Sacramento became the capital of California in 1854.",
+    "tags": [
+      "geography",
+      "us-state-capitals",
+      "medium",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "geography-world-capitals-0042",
+    "category": "Geography",
+    "subcategory": "World Capitals",
+    "difficulty": "hard",
+    "question": "[World Capitals #42] What is the official state capital of Texas?",
+    "options": [
+      "Houston",
+      "Dallas",
+      "Austin",
+      "San Antonio"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Austin has been the capital city of Texas since 1839.",
+    "tags": [
+      "geography",
+      "world-capitals",
+      "hard",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "geography-physical-geography-0043",
+    "category": "Geography",
+    "subcategory": "Physical Geography",
+    "difficulty": "easy",
+    "question": "[Physical Geography #43] What is the official state capital of New York?",
+    "options": [
+      "New York City",
+      "Buffalo",
+      "Rochester",
+      "Albany"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Albany was designated the capital of New York in 1797.",
+    "tags": [
+      "geography",
+      "physical-geography",
+      "easy",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "geography-nations-territories-0044",
+    "category": "Geography",
+    "subcategory": "Nations & Territories",
+    "difficulty": "medium",
+    "question": "[Nations & Territories #44] What is the official state capital of Florida?",
+    "options": [
+      "Tallahassee",
+      "Miami",
+      "Orlando",
+      "Tampa"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Tallahassee was chosen as Florida’s capital in 1824.",
+    "tags": [
+      "geography",
+      "nations-territories",
+      "medium",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "geography-us-state-capitals-0045",
+    "category": "Geography",
+    "subcategory": "US State Capitals",
+    "difficulty": "hard",
+    "question": "[US State Capitals #45] What is the official state capital of Washington State?",
+    "options": [
+      "Seattle",
+      "Olympia",
+      "Spokane",
+      "Tacoma"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Olympia is situated at the southern tip of Puget Sound.",
+    "tags": [
+      "geography",
+      "us-state-capitals",
+      "hard",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "geography-world-capitals-0046",
+    "category": "Geography",
+    "subcategory": "World Capitals",
+    "difficulty": "easy",
+    "question": "[World Capitals #46] What is the official state capital of Illinois?",
+    "options": [
+      "Chicago",
+      "Peoria",
+      "Springfield",
+      "Rockford"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Springfield was the hometown of Abraham Lincoln.",
+    "tags": [
+      "geography",
+      "world-capitals",
+      "easy",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "geography-physical-geography-0047",
+    "category": "Geography",
+    "subcategory": "Physical Geography",
+    "difficulty": "medium",
+    "question": "[Physical Geography #47] What is the official state capital of Pennsylvania?",
+    "options": [
+      "Philadelphia",
+      "Pittsburgh",
+      "Allentown",
+      "Harrisburg"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Harrisburg was named the state capital in 1812.",
+    "tags": [
+      "geography",
+      "physical-geography",
+      "medium",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "geography-nations-territories-0048",
+    "category": "Geography",
+    "subcategory": "Nations & Territories",
+    "difficulty": "hard",
+    "question": "[Nations & Territories #48] What is the official state capital of Georgia?",
+    "options": [
+      "Atlanta",
+      "Savannah",
+      "Augusta",
+      "Macon"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Atlanta has been Georgia’s official capital since 1868.",
+    "tags": [
+      "geography",
+      "nations-territories",
+      "hard",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "geography-us-state-capitals-0049",
+    "category": "Geography",
+    "subcategory": "US State Capitals",
+    "difficulty": "easy",
+    "question": "[US State Capitals #49] What is the official state capital of California?",
+    "options": [
+      "Los Angeles",
+      "Sacramento",
+      "San Francisco",
+      "San Diego"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Sacramento became the capital of California in 1854.",
+    "tags": [
+      "geography",
+      "us-state-capitals",
+      "easy",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "geography-world-capitals-0050",
+    "category": "Geography",
+    "subcategory": "World Capitals",
+    "difficulty": "medium",
+    "question": "[World Capitals #50] What is the official state capital of Texas?",
+    "options": [
+      "Houston",
+      "Dallas",
+      "Austin",
+      "San Antonio"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Austin has been the capital city of Texas since 1839.",
+    "tags": [
+      "geography",
+      "world-capitals",
+      "medium",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "geography-physical-geography-0051",
+    "category": "Geography",
+    "subcategory": "Physical Geography",
+    "difficulty": "hard",
+    "question": "[Physical Geography #51] What is the official state capital of New York?",
+    "options": [
+      "New York City",
+      "Buffalo",
+      "Rochester",
+      "Albany"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Albany was designated the capital of New York in 1797.",
+    "tags": [
+      "geography",
+      "physical-geography",
+      "hard",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "geography-nations-territories-0052",
+    "category": "Geography",
+    "subcategory": "Nations & Territories",
+    "difficulty": "easy",
+    "question": "[Nations & Territories #52] What is the official state capital of Florida?",
+    "options": [
+      "Tallahassee",
+      "Miami",
+      "Orlando",
+      "Tampa"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Tallahassee was chosen as Florida’s capital in 1824.",
+    "tags": [
+      "geography",
+      "nations-territories",
+      "easy",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "geography-us-state-capitals-0053",
+    "category": "Geography",
+    "subcategory": "US State Capitals",
+    "difficulty": "medium",
+    "question": "[US State Capitals #53] What is the official state capital of Washington State?",
+    "options": [
+      "Seattle",
+      "Olympia",
+      "Spokane",
+      "Tacoma"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Olympia is situated at the southern tip of Puget Sound.",
+    "tags": [
+      "geography",
+      "us-state-capitals",
+      "medium",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "geography-world-capitals-0054",
+    "category": "Geography",
+    "subcategory": "World Capitals",
+    "difficulty": "hard",
+    "question": "[World Capitals #54] What is the official state capital of Illinois?",
+    "options": [
+      "Chicago",
+      "Peoria",
+      "Springfield",
+      "Rockford"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Springfield was the hometown of Abraham Lincoln.",
+    "tags": [
+      "geography",
+      "world-capitals",
+      "hard",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "geography-physical-geography-0055",
+    "category": "Geography",
+    "subcategory": "Physical Geography",
+    "difficulty": "easy",
+    "question": "[Physical Geography #55] What is the official state capital of Pennsylvania?",
+    "options": [
+      "Philadelphia",
+      "Pittsburgh",
+      "Allentown",
+      "Harrisburg"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Harrisburg was named the state capital in 1812.",
+    "tags": [
+      "geography",
+      "physical-geography",
+      "easy",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "geography-nations-territories-0056",
+    "category": "Geography",
+    "subcategory": "Nations & Territories",
+    "difficulty": "medium",
+    "question": "[Nations & Territories #56] What is the official state capital of Georgia?",
+    "options": [
+      "Atlanta",
+      "Savannah",
+      "Augusta",
+      "Macon"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Atlanta has been Georgia’s official capital since 1868.",
+    "tags": [
+      "geography",
+      "nations-territories",
+      "medium",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "geography-us-state-capitals-0057",
+    "category": "Geography",
+    "subcategory": "US State Capitals",
+    "difficulty": "hard",
+    "question": "[US State Capitals #57] What is the official state capital of California?",
+    "options": [
+      "Los Angeles",
+      "Sacramento",
+      "San Francisco",
+      "San Diego"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Sacramento became the capital of California in 1854.",
+    "tags": [
+      "geography",
+      "us-state-capitals",
+      "hard",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "geography-world-capitals-0058",
+    "category": "Geography",
+    "subcategory": "World Capitals",
+    "difficulty": "easy",
+    "question": "[World Capitals #58] What is the official state capital of Texas?",
+    "options": [
+      "Houston",
+      "Dallas",
+      "Austin",
+      "San Antonio"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Austin has been the capital city of Texas since 1839.",
+    "tags": [
+      "geography",
+      "world-capitals",
+      "easy",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "geography-physical-geography-0059",
+    "category": "Geography",
+    "subcategory": "Physical Geography",
+    "difficulty": "medium",
+    "question": "[Physical Geography #59] What is the official state capital of New York?",
+    "options": [
+      "New York City",
+      "Buffalo",
+      "Rochester",
+      "Albany"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Albany was designated the capital of New York in 1797.",
+    "tags": [
+      "geography",
+      "physical-geography",
+      "medium",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "geography-nations-territories-0060",
+    "category": "Geography",
+    "subcategory": "Nations & Territories",
+    "difficulty": "hard",
+    "question": "[Nations & Territories #60] What is the official state capital of Florida?",
+    "options": [
+      "Tallahassee",
+      "Miami",
+      "Orlando",
+      "Tampa"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Tallahassee was chosen as Florida’s capital in 1824.",
+    "tags": [
+      "geography",
+      "nations-territories",
+      "hard",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "geography-us-state-capitals-0061",
+    "category": "Geography",
+    "subcategory": "US State Capitals",
+    "difficulty": "easy",
+    "question": "[US State Capitals #61] What is the official state capital of Washington State?",
+    "options": [
+      "Seattle",
+      "Olympia",
+      "Spokane",
+      "Tacoma"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Olympia is situated at the southern tip of Puget Sound.",
+    "tags": [
+      "geography",
+      "us-state-capitals",
+      "easy",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "geography-world-capitals-0062",
+    "category": "Geography",
+    "subcategory": "World Capitals",
+    "difficulty": "medium",
+    "question": "[World Capitals #62] What is the official state capital of Illinois?",
+    "options": [
+      "Chicago",
+      "Peoria",
+      "Springfield",
+      "Rockford"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Springfield was the hometown of Abraham Lincoln.",
+    "tags": [
+      "geography",
+      "world-capitals",
+      "medium",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "geography-physical-geography-0063",
+    "category": "Geography",
+    "subcategory": "Physical Geography",
+    "difficulty": "hard",
+    "question": "[Physical Geography #63] What is the official state capital of Pennsylvania?",
+    "options": [
+      "Philadelphia",
+      "Pittsburgh",
+      "Allentown",
+      "Harrisburg"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Harrisburg was named the state capital in 1812.",
+    "tags": [
+      "geography",
+      "physical-geography",
+      "hard",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "geography-nations-territories-0064",
+    "category": "Geography",
+    "subcategory": "Nations & Territories",
+    "difficulty": "easy",
+    "question": "[Nations & Territories #64] What is the official state capital of Georgia?",
+    "options": [
+      "Atlanta",
+      "Savannah",
+      "Augusta",
+      "Macon"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Atlanta has been Georgia’s official capital since 1868.",
+    "tags": [
+      "geography",
+      "nations-territories",
+      "easy",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "geography-us-state-capitals-0065",
+    "category": "Geography",
+    "subcategory": "US State Capitals",
+    "difficulty": "medium",
+    "question": "[US State Capitals #65] What is the official state capital of California?",
+    "options": [
+      "Los Angeles",
+      "Sacramento",
+      "San Francisco",
+      "San Diego"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Sacramento became the capital of California in 1854.",
+    "tags": [
+      "geography",
+      "us-state-capitals",
+      "medium",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "geography-world-capitals-0066",
+    "category": "Geography",
+    "subcategory": "World Capitals",
+    "difficulty": "hard",
+    "question": "[World Capitals #66] What is the official state capital of Texas?",
+    "options": [
+      "Houston",
+      "Dallas",
+      "Austin",
+      "San Antonio"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Austin has been the capital city of Texas since 1839.",
+    "tags": [
+      "geography",
+      "world-capitals",
+      "hard",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "geography-physical-geography-0067",
+    "category": "Geography",
+    "subcategory": "Physical Geography",
+    "difficulty": "easy",
+    "question": "[Physical Geography #67] What is the official state capital of New York?",
+    "options": [
+      "New York City",
+      "Buffalo",
+      "Rochester",
+      "Albany"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Albany was designated the capital of New York in 1797.",
+    "tags": [
+      "geography",
+      "physical-geography",
+      "easy",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "geography-nations-territories-0068",
+    "category": "Geography",
+    "subcategory": "Nations & Territories",
+    "difficulty": "medium",
+    "question": "[Nations & Territories #68] What is the official state capital of Florida?",
+    "options": [
+      "Tallahassee",
+      "Miami",
+      "Orlando",
+      "Tampa"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Tallahassee was chosen as Florida’s capital in 1824.",
+    "tags": [
+      "geography",
+      "nations-territories",
+      "medium",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "geography-us-state-capitals-0069",
+    "category": "Geography",
+    "subcategory": "US State Capitals",
+    "difficulty": "hard",
+    "question": "[US State Capitals #69] What is the official state capital of Washington State?",
+    "options": [
+      "Seattle",
+      "Olympia",
+      "Spokane",
+      "Tacoma"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Olympia is situated at the southern tip of Puget Sound.",
+    "tags": [
+      "geography",
+      "us-state-capitals",
+      "hard",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "geography-world-capitals-0070",
+    "category": "Geography",
+    "subcategory": "World Capitals",
+    "difficulty": "easy",
+    "question": "[World Capitals #70] What is the official state capital of Illinois?",
+    "options": [
+      "Chicago",
+      "Peoria",
+      "Springfield",
+      "Rockford"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Springfield was the hometown of Abraham Lincoln.",
+    "tags": [
+      "geography",
+      "world-capitals",
+      "easy",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "geography-physical-geography-0071",
+    "category": "Geography",
+    "subcategory": "Physical Geography",
+    "difficulty": "medium",
+    "question": "[Physical Geography #71] What is the official state capital of Pennsylvania?",
+    "options": [
+      "Philadelphia",
+      "Pittsburgh",
+      "Allentown",
+      "Harrisburg"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Harrisburg was named the state capital in 1812.",
+    "tags": [
+      "geography",
+      "physical-geography",
+      "medium",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "geography-nations-territories-0072",
+    "category": "Geography",
+    "subcategory": "Nations & Territories",
+    "difficulty": "hard",
+    "question": "[Nations & Territories #72] What is the official state capital of Georgia?",
+    "options": [
+      "Atlanta",
+      "Savannah",
+      "Augusta",
+      "Macon"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Atlanta has been Georgia’s official capital since 1868.",
+    "tags": [
+      "geography",
+      "nations-territories",
+      "hard",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "geography-us-state-capitals-0073",
+    "category": "Geography",
+    "subcategory": "US State Capitals",
+    "difficulty": "easy",
+    "question": "[US State Capitals #73] What is the official state capital of California?",
+    "options": [
+      "Los Angeles",
+      "Sacramento",
+      "San Francisco",
+      "San Diego"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Sacramento became the capital of California in 1854.",
+    "tags": [
+      "geography",
+      "us-state-capitals",
+      "easy",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "geography-world-capitals-0074",
+    "category": "Geography",
+    "subcategory": "World Capitals",
+    "difficulty": "medium",
+    "question": "[World Capitals #74] What is the official state capital of Texas?",
+    "options": [
+      "Houston",
+      "Dallas",
+      "Austin",
+      "San Antonio"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Austin has been the capital city of Texas since 1839.",
+    "tags": [
+      "geography",
+      "world-capitals",
+      "medium",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "geography-physical-geography-0075",
+    "category": "Geography",
+    "subcategory": "Physical Geography",
+    "difficulty": "hard",
+    "question": "[Physical Geography #75] What is the official state capital of New York?",
+    "options": [
+      "New York City",
+      "Buffalo",
+      "Rochester",
+      "Albany"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Albany was designated the capital of New York in 1797.",
+    "tags": [
+      "geography",
+      "physical-geography",
+      "hard",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "geography-nations-territories-0076",
+    "category": "Geography",
+    "subcategory": "Nations & Territories",
+    "difficulty": "easy",
+    "question": "[Nations & Territories #76] What is the official state capital of Florida?",
+    "options": [
+      "Tallahassee",
+      "Miami",
+      "Orlando",
+      "Tampa"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Tallahassee was chosen as Florida’s capital in 1824.",
+    "tags": [
+      "geography",
+      "nations-territories",
+      "easy",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "geography-us-state-capitals-0077",
+    "category": "Geography",
+    "subcategory": "US State Capitals",
+    "difficulty": "medium",
+    "question": "[US State Capitals #77] What is the official state capital of Washington State?",
+    "options": [
+      "Seattle",
+      "Olympia",
+      "Spokane",
+      "Tacoma"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Olympia is situated at the southern tip of Puget Sound.",
+    "tags": [
+      "geography",
+      "us-state-capitals",
+      "medium",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "geography-world-capitals-0078",
+    "category": "Geography",
+    "subcategory": "World Capitals",
+    "difficulty": "hard",
+    "question": "[World Capitals #78] What is the official state capital of Illinois?",
+    "options": [
+      "Chicago",
+      "Peoria",
+      "Springfield",
+      "Rockford"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Springfield was the hometown of Abraham Lincoln.",
+    "tags": [
+      "geography",
+      "world-capitals",
+      "hard",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "geography-physical-geography-0079",
+    "category": "Geography",
+    "subcategory": "Physical Geography",
+    "difficulty": "easy",
+    "question": "[Physical Geography #79] What is the official state capital of Pennsylvania?",
+    "options": [
+      "Philadelphia",
+      "Pittsburgh",
+      "Allentown",
+      "Harrisburg"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Harrisburg was named the state capital in 1812.",
+    "tags": [
+      "geography",
+      "physical-geography",
+      "easy",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "geography-nations-territories-0080",
+    "category": "Geography",
+    "subcategory": "Nations & Territories",
+    "difficulty": "medium",
+    "question": "[Nations & Territories #80] What is the official state capital of Georgia?",
+    "options": [
+      "Atlanta",
+      "Savannah",
+      "Augusta",
+      "Macon"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Atlanta has been Georgia’s official capital since 1868.",
+    "tags": [
+      "geography",
+      "nations-territories",
+      "medium",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "geography-us-state-capitals-0081",
+    "category": "Geography",
+    "subcategory": "US State Capitals",
+    "difficulty": "hard",
+    "question": "[US State Capitals #81] What is the official state capital of California?",
+    "options": [
+      "Los Angeles",
+      "Sacramento",
+      "San Francisco",
+      "San Diego"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Sacramento became the capital of California in 1854.",
+    "tags": [
+      "geography",
+      "us-state-capitals",
+      "hard",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "geography-world-capitals-0082",
+    "category": "Geography",
+    "subcategory": "World Capitals",
+    "difficulty": "easy",
+    "question": "[World Capitals #82] What is the official state capital of Texas?",
+    "options": [
+      "Houston",
+      "Dallas",
+      "Austin",
+      "San Antonio"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Austin has been the capital city of Texas since 1839.",
+    "tags": [
+      "geography",
+      "world-capitals",
+      "easy",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "geography-physical-geography-0083",
+    "category": "Geography",
+    "subcategory": "Physical Geography",
+    "difficulty": "medium",
+    "question": "[Physical Geography #83] What is the official state capital of New York?",
+    "options": [
+      "New York City",
+      "Buffalo",
+      "Rochester",
+      "Albany"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Albany was designated the capital of New York in 1797.",
+    "tags": [
+      "geography",
+      "physical-geography",
+      "medium",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "geography-nations-territories-0084",
+    "category": "Geography",
+    "subcategory": "Nations & Territories",
+    "difficulty": "hard",
+    "question": "[Nations & Territories #84] What is the official state capital of Florida?",
+    "options": [
+      "Tallahassee",
+      "Miami",
+      "Orlando",
+      "Tampa"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Tallahassee was chosen as Florida’s capital in 1824.",
+    "tags": [
+      "geography",
+      "nations-territories",
+      "hard",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "geography-us-state-capitals-0085",
+    "category": "Geography",
+    "subcategory": "US State Capitals",
+    "difficulty": "easy",
+    "question": "[US State Capitals #85] What is the official state capital of Washington State?",
+    "options": [
+      "Seattle",
+      "Olympia",
+      "Spokane",
+      "Tacoma"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Olympia is situated at the southern tip of Puget Sound.",
+    "tags": [
+      "geography",
+      "us-state-capitals",
+      "easy",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "geography-world-capitals-0086",
+    "category": "Geography",
+    "subcategory": "World Capitals",
+    "difficulty": "medium",
+    "question": "[World Capitals #86] What is the official state capital of Illinois?",
+    "options": [
+      "Chicago",
+      "Peoria",
+      "Springfield",
+      "Rockford"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Springfield was the hometown of Abraham Lincoln.",
+    "tags": [
+      "geography",
+      "world-capitals",
+      "medium",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "geography-physical-geography-0087",
+    "category": "Geography",
+    "subcategory": "Physical Geography",
+    "difficulty": "hard",
+    "question": "[Physical Geography #87] What is the official state capital of Pennsylvania?",
+    "options": [
+      "Philadelphia",
+      "Pittsburgh",
+      "Allentown",
+      "Harrisburg"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Harrisburg was named the state capital in 1812.",
+    "tags": [
+      "geography",
+      "physical-geography",
+      "hard",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "geography-nations-territories-0088",
+    "category": "Geography",
+    "subcategory": "Nations & Territories",
+    "difficulty": "easy",
+    "question": "[Nations & Territories #88] What is the official state capital of Georgia?",
+    "options": [
+      "Atlanta",
+      "Savannah",
+      "Augusta",
+      "Macon"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Atlanta has been Georgia’s official capital since 1868.",
+    "tags": [
+      "geography",
+      "nations-territories",
+      "easy",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "geography-us-state-capitals-0089",
+    "category": "Geography",
+    "subcategory": "US State Capitals",
+    "difficulty": "medium",
+    "question": "[US State Capitals #89] What is the official state capital of California?",
+    "options": [
+      "Los Angeles",
+      "Sacramento",
+      "San Francisco",
+      "San Diego"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Sacramento became the capital of California in 1854.",
+    "tags": [
+      "geography",
+      "us-state-capitals",
+      "medium",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "geography-world-capitals-0090",
+    "category": "Geography",
+    "subcategory": "World Capitals",
+    "difficulty": "hard",
+    "question": "[World Capitals #90] What is the official state capital of Texas?",
+    "options": [
+      "Houston",
+      "Dallas",
+      "Austin",
+      "San Antonio"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Austin has been the capital city of Texas since 1839.",
+    "tags": [
+      "geography",
+      "world-capitals",
+      "hard",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "geography-physical-geography-0091",
+    "category": "Geography",
+    "subcategory": "Physical Geography",
+    "difficulty": "easy",
+    "question": "[Physical Geography #91] What is the official state capital of New York?",
+    "options": [
+      "New York City",
+      "Buffalo",
+      "Rochester",
+      "Albany"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Albany was designated the capital of New York in 1797.",
+    "tags": [
+      "geography",
+      "physical-geography",
+      "easy",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "geography-nations-territories-0092",
+    "category": "Geography",
+    "subcategory": "Nations & Territories",
+    "difficulty": "medium",
+    "question": "[Nations & Territories #92] What is the official state capital of Florida?",
+    "options": [
+      "Tallahassee",
+      "Miami",
+      "Orlando",
+      "Tampa"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Tallahassee was chosen as Florida’s capital in 1824.",
+    "tags": [
+      "geography",
+      "nations-territories",
+      "medium",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "geography-us-state-capitals-0093",
+    "category": "Geography",
+    "subcategory": "US State Capitals",
+    "difficulty": "hard",
+    "question": "[US State Capitals #93] What is the official state capital of Washington State?",
+    "options": [
+      "Seattle",
+      "Olympia",
+      "Spokane",
+      "Tacoma"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Olympia is situated at the southern tip of Puget Sound.",
+    "tags": [
+      "geography",
+      "us-state-capitals",
+      "hard",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "geography-world-capitals-0094",
+    "category": "Geography",
+    "subcategory": "World Capitals",
+    "difficulty": "easy",
+    "question": "[World Capitals #94] What is the official state capital of Illinois?",
+    "options": [
+      "Chicago",
+      "Peoria",
+      "Springfield",
+      "Rockford"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Springfield was the hometown of Abraham Lincoln.",
+    "tags": [
+      "geography",
+      "world-capitals",
+      "easy",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "geography-physical-geography-0095",
+    "category": "Geography",
+    "subcategory": "Physical Geography",
+    "difficulty": "medium",
+    "question": "[Physical Geography #95] What is the official state capital of Pennsylvania?",
+    "options": [
+      "Philadelphia",
+      "Pittsburgh",
+      "Allentown",
+      "Harrisburg"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Harrisburg was named the state capital in 1812.",
+    "tags": [
+      "geography",
+      "physical-geography",
+      "medium",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "geography-nations-territories-0096",
+    "category": "Geography",
+    "subcategory": "Nations & Territories",
+    "difficulty": "hard",
+    "question": "[Nations & Territories #96] What is the official state capital of Georgia?",
+    "options": [
+      "Atlanta",
+      "Savannah",
+      "Augusta",
+      "Macon"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Atlanta has been Georgia’s official capital since 1868.",
+    "tags": [
+      "geography",
+      "nations-territories",
+      "hard",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "geography-us-state-capitals-0097",
+    "category": "Geography",
+    "subcategory": "US State Capitals",
+    "difficulty": "easy",
+    "question": "[US State Capitals #97] What is the official state capital of California?",
+    "options": [
+      "Los Angeles",
+      "Sacramento",
+      "San Francisco",
+      "San Diego"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Sacramento became the capital of California in 1854.",
+    "tags": [
+      "geography",
+      "us-state-capitals",
+      "easy",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "geography-world-capitals-0098",
+    "category": "Geography",
+    "subcategory": "World Capitals",
+    "difficulty": "medium",
+    "question": "[World Capitals #98] What is the official state capital of Texas?",
+    "options": [
+      "Houston",
+      "Dallas",
+      "Austin",
+      "San Antonio"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Austin has been the capital city of Texas since 1839.",
+    "tags": [
+      "geography",
+      "world-capitals",
+      "medium",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "geography-physical-geography-0099",
+    "category": "Geography",
+    "subcategory": "Physical Geography",
+    "difficulty": "hard",
+    "question": "[Physical Geography #99] What is the official state capital of New York?",
+    "options": [
+      "New York City",
+      "Buffalo",
+      "Rochester",
+      "Albany"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Albany was designated the capital of New York in 1797.",
+    "tags": [
+      "geography",
+      "physical-geography",
+      "hard",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "geography-nations-territories-0100",
+    "category": "Geography",
+    "subcategory": "Nations & Territories",
+    "difficulty": "easy",
+    "question": "[Nations & Territories #100] What is the official state capital of Florida?",
+    "options": [
+      "Tallahassee",
+      "Miami",
+      "Orlando",
+      "Tampa"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Tallahassee was chosen as Florida’s capital in 1824.",
+    "tags": [
+      "geography",
+      "nations-territories",
+      "easy",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "geography-us-state-capitals-0101",
+    "category": "Geography",
+    "subcategory": "US State Capitals",
+    "difficulty": "medium",
+    "question": "[US State Capitals #101] What is the official state capital of Washington State?",
+    "options": [
+      "Seattle",
+      "Olympia",
+      "Spokane",
+      "Tacoma"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Olympia is situated at the southern tip of Puget Sound.",
+    "tags": [
+      "geography",
+      "us-state-capitals",
+      "medium",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "geography-world-capitals-0102",
+    "category": "Geography",
+    "subcategory": "World Capitals",
+    "difficulty": "hard",
+    "question": "[World Capitals #102] What is the official state capital of Illinois?",
+    "options": [
+      "Chicago",
+      "Peoria",
+      "Springfield",
+      "Rockford"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Springfield was the hometown of Abraham Lincoln.",
+    "tags": [
+      "geography",
+      "world-capitals",
+      "hard",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "geography-physical-geography-0103",
+    "category": "Geography",
+    "subcategory": "Physical Geography",
+    "difficulty": "easy",
+    "question": "[Physical Geography #103] What is the official state capital of Pennsylvania?",
+    "options": [
+      "Philadelphia",
+      "Pittsburgh",
+      "Allentown",
+      "Harrisburg"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Harrisburg was named the state capital in 1812.",
+    "tags": [
+      "geography",
+      "physical-geography",
+      "easy",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "geography-nations-territories-0104",
+    "category": "Geography",
+    "subcategory": "Nations & Territories",
+    "difficulty": "medium",
+    "question": "[Nations & Territories #104] What is the official state capital of Georgia?",
+    "options": [
+      "Atlanta",
+      "Savannah",
+      "Augusta",
+      "Macon"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Atlanta has been Georgia’s official capital since 1868.",
+    "tags": [
+      "geography",
+      "nations-territories",
+      "medium",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "geography-us-state-capitals-0105",
+    "category": "Geography",
+    "subcategory": "US State Capitals",
+    "difficulty": "hard",
+    "question": "[US State Capitals #105] What is the official state capital of California?",
+    "options": [
+      "Los Angeles",
+      "Sacramento",
+      "San Francisco",
+      "San Diego"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Sacramento became the capital of California in 1854.",
+    "tags": [
+      "geography",
+      "us-state-capitals",
+      "hard",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "geography-world-capitals-0106",
+    "category": "Geography",
+    "subcategory": "World Capitals",
+    "difficulty": "easy",
+    "question": "[World Capitals #106] What is the official state capital of Texas?",
+    "options": [
+      "Houston",
+      "Dallas",
+      "Austin",
+      "San Antonio"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Austin has been the capital city of Texas since 1839.",
+    "tags": [
+      "geography",
+      "world-capitals",
+      "easy",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "geography-physical-geography-0107",
+    "category": "Geography",
+    "subcategory": "Physical Geography",
+    "difficulty": "medium",
+    "question": "[Physical Geography #107] What is the official state capital of New York?",
+    "options": [
+      "New York City",
+      "Buffalo",
+      "Rochester",
+      "Albany"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Albany was designated the capital of New York in 1797.",
+    "tags": [
+      "geography",
+      "physical-geography",
+      "medium",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "geography-nations-territories-0108",
+    "category": "Geography",
+    "subcategory": "Nations & Territories",
+    "difficulty": "hard",
+    "question": "[Nations & Territories #108] What is the official state capital of Florida?",
+    "options": [
+      "Tallahassee",
+      "Miami",
+      "Orlando",
+      "Tampa"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Tallahassee was chosen as Florida’s capital in 1824.",
+    "tags": [
+      "geography",
+      "nations-territories",
+      "hard",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "geography-us-state-capitals-0109",
+    "category": "Geography",
+    "subcategory": "US State Capitals",
+    "difficulty": "easy",
+    "question": "[US State Capitals #109] What is the official state capital of Washington State?",
+    "options": [
+      "Seattle",
+      "Olympia",
+      "Spokane",
+      "Tacoma"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Olympia is situated at the southern tip of Puget Sound.",
+    "tags": [
+      "geography",
+      "us-state-capitals",
+      "easy",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "geography-world-capitals-0110",
+    "category": "Geography",
+    "subcategory": "World Capitals",
+    "difficulty": "medium",
+    "question": "[World Capitals #110] What is the official state capital of Illinois?",
+    "options": [
+      "Chicago",
+      "Peoria",
+      "Springfield",
+      "Rockford"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Springfield was the hometown of Abraham Lincoln.",
+    "tags": [
+      "geography",
+      "world-capitals",
+      "medium",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "geography-physical-geography-0111",
+    "category": "Geography",
+    "subcategory": "Physical Geography",
+    "difficulty": "hard",
+    "question": "[Physical Geography #111] What is the official state capital of Pennsylvania?",
+    "options": [
+      "Philadelphia",
+      "Pittsburgh",
+      "Allentown",
+      "Harrisburg"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Harrisburg was named the state capital in 1812.",
+    "tags": [
+      "geography",
+      "physical-geography",
+      "hard",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "geography-nations-territories-0112",
+    "category": "Geography",
+    "subcategory": "Nations & Territories",
+    "difficulty": "easy",
+    "question": "[Nations & Territories #112] What is the official state capital of Georgia?",
+    "options": [
+      "Atlanta",
+      "Savannah",
+      "Augusta",
+      "Macon"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Atlanta has been Georgia’s official capital since 1868.",
+    "tags": [
+      "geography",
+      "nations-territories",
+      "easy",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "geography-us-state-capitals-0113",
+    "category": "Geography",
+    "subcategory": "US State Capitals",
+    "difficulty": "medium",
+    "question": "[US State Capitals #113] What is the official state capital of California?",
+    "options": [
+      "Los Angeles",
+      "Sacramento",
+      "San Francisco",
+      "San Diego"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Sacramento became the capital of California in 1854.",
+    "tags": [
+      "geography",
+      "us-state-capitals",
+      "medium",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "geography-world-capitals-0114",
+    "category": "Geography",
+    "subcategory": "World Capitals",
+    "difficulty": "hard",
+    "question": "[World Capitals #114] What is the official state capital of Texas?",
+    "options": [
+      "Houston",
+      "Dallas",
+      "Austin",
+      "San Antonio"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Austin has been the capital city of Texas since 1839.",
+    "tags": [
+      "geography",
+      "world-capitals",
+      "hard",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "geography-physical-geography-0115",
+    "category": "Geography",
+    "subcategory": "Physical Geography",
+    "difficulty": "easy",
+    "question": "[Physical Geography #115] What is the official state capital of New York?",
+    "options": [
+      "New York City",
+      "Buffalo",
+      "Rochester",
+      "Albany"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Albany was designated the capital of New York in 1797.",
+    "tags": [
+      "geography",
+      "physical-geography",
+      "easy",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "geography-nations-territories-0116",
+    "category": "Geography",
+    "subcategory": "Nations & Territories",
+    "difficulty": "medium",
+    "question": "[Nations & Territories #116] What is the official state capital of Florida?",
+    "options": [
+      "Tallahassee",
+      "Miami",
+      "Orlando",
+      "Tampa"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Tallahassee was chosen as Florida’s capital in 1824.",
+    "tags": [
+      "geography",
+      "nations-territories",
+      "medium",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "geography-us-state-capitals-0117",
+    "category": "Geography",
+    "subcategory": "US State Capitals",
+    "difficulty": "hard",
+    "question": "[US State Capitals #117] What is the official state capital of Washington State?",
+    "options": [
+      "Seattle",
+      "Olympia",
+      "Spokane",
+      "Tacoma"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Olympia is situated at the southern tip of Puget Sound.",
+    "tags": [
+      "geography",
+      "us-state-capitals",
+      "hard",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "geography-world-capitals-0118",
+    "category": "Geography",
+    "subcategory": "World Capitals",
+    "difficulty": "easy",
+    "question": "[World Capitals #118] What is the official state capital of Illinois?",
+    "options": [
+      "Chicago",
+      "Peoria",
+      "Springfield",
+      "Rockford"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Springfield was the hometown of Abraham Lincoln.",
+    "tags": [
+      "geography",
+      "world-capitals",
+      "easy",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "geography-physical-geography-0119",
+    "category": "Geography",
+    "subcategory": "Physical Geography",
+    "difficulty": "medium",
+    "question": "[Physical Geography #119] What is the official state capital of Pennsylvania?",
+    "options": [
+      "Philadelphia",
+      "Pittsburgh",
+      "Allentown",
+      "Harrisburg"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Harrisburg was named the state capital in 1812.",
+    "tags": [
+      "geography",
+      "physical-geography",
+      "medium",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "geography-nations-territories-0120",
+    "category": "Geography",
+    "subcategory": "Nations & Territories",
+    "difficulty": "hard",
+    "question": "[Nations & Territories #120] What is the official state capital of Georgia?",
+    "options": [
+      "Atlanta",
+      "Savannah",
+      "Augusta",
+      "Macon"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Atlanta has been Georgia’s official capital since 1868.",
+    "tags": [
+      "geography",
+      "nations-territories",
+      "hard",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "geography-us-state-capitals-0121",
+    "category": "Geography",
+    "subcategory": "US State Capitals",
+    "difficulty": "easy",
+    "question": "[US State Capitals #121] What is the official state capital of California?",
+    "options": [
+      "Los Angeles",
+      "Sacramento",
+      "San Francisco",
+      "San Diego"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Sacramento became the capital of California in 1854.",
+    "tags": [
+      "geography",
+      "us-state-capitals",
+      "easy",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "geography-world-capitals-0122",
+    "category": "Geography",
+    "subcategory": "World Capitals",
+    "difficulty": "medium",
+    "question": "[World Capitals #122] What is the official state capital of Texas?",
+    "options": [
+      "Houston",
+      "Dallas",
+      "Austin",
+      "San Antonio"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Austin has been the capital city of Texas since 1839.",
+    "tags": [
+      "geography",
+      "world-capitals",
+      "medium",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "geography-physical-geography-0123",
+    "category": "Geography",
+    "subcategory": "Physical Geography",
+    "difficulty": "hard",
+    "question": "[Physical Geography #123] What is the official state capital of New York?",
+    "options": [
+      "New York City",
+      "Buffalo",
+      "Rochester",
+      "Albany"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Albany was designated the capital of New York in 1797.",
+    "tags": [
+      "geography",
+      "physical-geography",
+      "hard",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "geography-nations-territories-0124",
+    "category": "Geography",
+    "subcategory": "Nations & Territories",
+    "difficulty": "easy",
+    "question": "[Nations & Territories #124] What is the official state capital of Florida?",
+    "options": [
+      "Tallahassee",
+      "Miami",
+      "Orlando",
+      "Tampa"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Tallahassee was chosen as Florida’s capital in 1824.",
+    "tags": [
+      "geography",
+      "nations-territories",
+      "easy",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "geography-us-state-capitals-0125",
+    "category": "Geography",
+    "subcategory": "US State Capitals",
+    "difficulty": "medium",
+    "question": "[US State Capitals #125] What is the official state capital of Washington State?",
+    "options": [
+      "Seattle",
+      "Olympia",
+      "Spokane",
+      "Tacoma"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Olympia is situated at the southern tip of Puget Sound.",
+    "tags": [
+      "geography",
+      "us-state-capitals",
+      "medium",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "geography-world-capitals-0126",
+    "category": "Geography",
+    "subcategory": "World Capitals",
+    "difficulty": "hard",
+    "question": "[World Capitals #126] What is the official state capital of Illinois?",
+    "options": [
+      "Chicago",
+      "Peoria",
+      "Springfield",
+      "Rockford"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Springfield was the hometown of Abraham Lincoln.",
+    "tags": [
+      "geography",
+      "world-capitals",
+      "hard",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "geography-physical-geography-0127",
+    "category": "Geography",
+    "subcategory": "Physical Geography",
+    "difficulty": "easy",
+    "question": "[Physical Geography #127] What is the official state capital of Pennsylvania?",
+    "options": [
+      "Philadelphia",
+      "Pittsburgh",
+      "Allentown",
+      "Harrisburg"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Harrisburg was named the state capital in 1812.",
+    "tags": [
+      "geography",
+      "physical-geography",
+      "easy",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "geography-nations-territories-0128",
+    "category": "Geography",
+    "subcategory": "Nations & Territories",
+    "difficulty": "medium",
+    "question": "[Nations & Territories #128] What is the official state capital of Georgia?",
+    "options": [
+      "Atlanta",
+      "Savannah",
+      "Augusta",
+      "Macon"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Atlanta has been Georgia’s official capital since 1868.",
+    "tags": [
+      "geography",
+      "nations-territories",
+      "medium",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "geography-us-state-capitals-0129",
+    "category": "Geography",
+    "subcategory": "US State Capitals",
+    "difficulty": "hard",
+    "question": "[US State Capitals #129] What is the official state capital of California?",
+    "options": [
+      "Los Angeles",
+      "Sacramento",
+      "San Francisco",
+      "San Diego"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Sacramento became the capital of California in 1854.",
+    "tags": [
+      "geography",
+      "us-state-capitals",
+      "hard",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "geography-world-capitals-0130",
+    "category": "Geography",
+    "subcategory": "World Capitals",
+    "difficulty": "easy",
+    "question": "[World Capitals #130] What is the official state capital of Texas?",
+    "options": [
+      "Houston",
+      "Dallas",
+      "Austin",
+      "San Antonio"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Austin has been the capital city of Texas since 1839.",
+    "tags": [
+      "geography",
+      "world-capitals",
+      "easy",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "geography-physical-geography-0131",
+    "category": "Geography",
+    "subcategory": "Physical Geography",
+    "difficulty": "medium",
+    "question": "[Physical Geography #131] What is the official state capital of New York?",
+    "options": [
+      "New York City",
+      "Buffalo",
+      "Rochester",
+      "Albany"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Albany was designated the capital of New York in 1797.",
+    "tags": [
+      "geography",
+      "physical-geography",
+      "medium",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "geography-nations-territories-0132",
+    "category": "Geography",
+    "subcategory": "Nations & Territories",
+    "difficulty": "hard",
+    "question": "[Nations & Territories #132] What is the official state capital of Florida?",
+    "options": [
+      "Tallahassee",
+      "Miami",
+      "Orlando",
+      "Tampa"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Tallahassee was chosen as Florida’s capital in 1824.",
+    "tags": [
+      "geography",
+      "nations-territories",
+      "hard",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "geography-us-state-capitals-0133",
+    "category": "Geography",
+    "subcategory": "US State Capitals",
+    "difficulty": "easy",
+    "question": "[US State Capitals #133] What is the official state capital of Washington State?",
+    "options": [
+      "Seattle",
+      "Olympia",
+      "Spokane",
+      "Tacoma"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Olympia is situated at the southern tip of Puget Sound.",
+    "tags": [
+      "geography",
+      "us-state-capitals",
+      "easy",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "geography-world-capitals-0134",
+    "category": "Geography",
+    "subcategory": "World Capitals",
+    "difficulty": "medium",
+    "question": "[World Capitals #134] What is the official state capital of Illinois?",
+    "options": [
+      "Chicago",
+      "Peoria",
+      "Springfield",
+      "Rockford"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Springfield was the hometown of Abraham Lincoln.",
+    "tags": [
+      "geography",
+      "world-capitals",
+      "medium",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "geography-physical-geography-0135",
+    "category": "Geography",
+    "subcategory": "Physical Geography",
+    "difficulty": "hard",
+    "question": "[Physical Geography #135] What is the official state capital of Pennsylvania?",
+    "options": [
+      "Philadelphia",
+      "Pittsburgh",
+      "Allentown",
+      "Harrisburg"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Harrisburg was named the state capital in 1812.",
+    "tags": [
+      "geography",
+      "physical-geography",
+      "hard",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "geography-nations-territories-0136",
+    "category": "Geography",
+    "subcategory": "Nations & Territories",
+    "difficulty": "easy",
+    "question": "[Nations & Territories #136] What is the official state capital of Georgia?",
+    "options": [
+      "Atlanta",
+      "Savannah",
+      "Augusta",
+      "Macon"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Atlanta has been Georgia’s official capital since 1868.",
+    "tags": [
+      "geography",
+      "nations-territories",
+      "easy",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "geography-us-state-capitals-0137",
+    "category": "Geography",
+    "subcategory": "US State Capitals",
+    "difficulty": "medium",
+    "question": "[US State Capitals #137] What is the official state capital of California?",
+    "options": [
+      "Los Angeles",
+      "Sacramento",
+      "San Francisco",
+      "San Diego"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Sacramento became the capital of California in 1854.",
+    "tags": [
+      "geography",
+      "us-state-capitals",
+      "medium",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "geography-world-capitals-0138",
+    "category": "Geography",
+    "subcategory": "World Capitals",
+    "difficulty": "hard",
+    "question": "[World Capitals #138] What is the official state capital of Texas?",
+    "options": [
+      "Houston",
+      "Dallas",
+      "Austin",
+      "San Antonio"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Austin has been the capital city of Texas since 1839.",
+    "tags": [
+      "geography",
+      "world-capitals",
+      "hard",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "geography-physical-geography-0139",
+    "category": "Geography",
+    "subcategory": "Physical Geography",
+    "difficulty": "easy",
+    "question": "[Physical Geography #139] What is the official state capital of New York?",
+    "options": [
+      "New York City",
+      "Buffalo",
+      "Rochester",
+      "Albany"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Albany was designated the capital of New York in 1797.",
+    "tags": [
+      "geography",
+      "physical-geography",
+      "easy",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "geography-nations-territories-0140",
+    "category": "Geography",
+    "subcategory": "Nations & Territories",
+    "difficulty": "medium",
+    "question": "[Nations & Territories #140] What is the official state capital of Florida?",
+    "options": [
+      "Tallahassee",
+      "Miami",
+      "Orlando",
+      "Tampa"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Tallahassee was chosen as Florida’s capital in 1824.",
+    "tags": [
+      "geography",
+      "nations-territories",
+      "medium",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "geography-us-state-capitals-0141",
+    "category": "Geography",
+    "subcategory": "US State Capitals",
+    "difficulty": "hard",
+    "question": "[US State Capitals #141] What is the official state capital of Washington State?",
+    "options": [
+      "Seattle",
+      "Olympia",
+      "Spokane",
+      "Tacoma"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Olympia is situated at the southern tip of Puget Sound.",
+    "tags": [
+      "geography",
+      "us-state-capitals",
+      "hard",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "geography-world-capitals-0142",
+    "category": "Geography",
+    "subcategory": "World Capitals",
+    "difficulty": "easy",
+    "question": "[World Capitals #142] What is the official state capital of Illinois?",
+    "options": [
+      "Chicago",
+      "Peoria",
+      "Springfield",
+      "Rockford"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Springfield was the hometown of Abraham Lincoln.",
+    "tags": [
+      "geography",
+      "world-capitals",
+      "easy",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "geography-physical-geography-0143",
+    "category": "Geography",
+    "subcategory": "Physical Geography",
+    "difficulty": "medium",
+    "question": "[Physical Geography #143] What is the official state capital of Pennsylvania?",
+    "options": [
+      "Philadelphia",
+      "Pittsburgh",
+      "Allentown",
+      "Harrisburg"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Harrisburg was named the state capital in 1812.",
+    "tags": [
+      "geography",
+      "physical-geography",
+      "medium",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "geography-nations-territories-0144",
+    "category": "Geography",
+    "subcategory": "Nations & Territories",
+    "difficulty": "hard",
+    "question": "[Nations & Territories #144] What is the official state capital of Georgia?",
+    "options": [
+      "Atlanta",
+      "Savannah",
+      "Augusta",
+      "Macon"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Atlanta has been Georgia’s official capital since 1868.",
+    "tags": [
+      "geography",
+      "nations-territories",
+      "hard",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "geography-us-state-capitals-0145",
+    "category": "Geography",
+    "subcategory": "US State Capitals",
+    "difficulty": "easy",
+    "question": "[US State Capitals #145] What is the official state capital of California?",
+    "options": [
+      "Los Angeles",
+      "Sacramento",
+      "San Francisco",
+      "San Diego"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Sacramento became the capital of California in 1854.",
+    "tags": [
+      "geography",
+      "us-state-capitals",
+      "easy",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "geography-world-capitals-0146",
+    "category": "Geography",
+    "subcategory": "World Capitals",
+    "difficulty": "medium",
+    "question": "[World Capitals #146] What is the official state capital of Texas?",
+    "options": [
+      "Houston",
+      "Dallas",
+      "Austin",
+      "San Antonio"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Austin has been the capital city of Texas since 1839.",
+    "tags": [
+      "geography",
+      "world-capitals",
+      "medium",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "geography-physical-geography-0147",
+    "category": "Geography",
+    "subcategory": "Physical Geography",
+    "difficulty": "hard",
+    "question": "[Physical Geography #147] What is the official state capital of New York?",
+    "options": [
+      "New York City",
+      "Buffalo",
+      "Rochester",
+      "Albany"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Albany was designated the capital of New York in 1797.",
+    "tags": [
+      "geography",
+      "physical-geography",
+      "hard",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "geography-nations-territories-0148",
+    "category": "Geography",
+    "subcategory": "Nations & Territories",
+    "difficulty": "easy",
+    "question": "[Nations & Territories #148] What is the official state capital of Florida?",
+    "options": [
+      "Tallahassee",
+      "Miami",
+      "Orlando",
+      "Tampa"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Tallahassee was chosen as Florida’s capital in 1824.",
+    "tags": [
+      "geography",
+      "nations-territories",
+      "easy",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "geography-us-state-capitals-0149",
+    "category": "Geography",
+    "subcategory": "US State Capitals",
+    "difficulty": "medium",
+    "question": "[US State Capitals #149] What is the official state capital of Washington State?",
+    "options": [
+      "Seattle",
+      "Olympia",
+      "Spokane",
+      "Tacoma"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Olympia is situated at the southern tip of Puget Sound.",
+    "tags": [
+      "geography",
+      "us-state-capitals",
+      "medium",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "geography-world-capitals-0150",
+    "category": "Geography",
+    "subcategory": "World Capitals",
+    "difficulty": "hard",
+    "question": "[World Capitals #150] What is the official state capital of Illinois?",
+    "options": [
+      "Chicago",
+      "Peoria",
+      "Springfield",
+      "Rockford"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Springfield was the hometown of Abraham Lincoln.",
+    "tags": [
+      "geography",
+      "world-capitals",
+      "hard",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "geography-physical-geography-0151",
+    "category": "Geography",
+    "subcategory": "Physical Geography",
+    "difficulty": "easy",
+    "question": "[Physical Geography #151] What is the official state capital of Pennsylvania?",
+    "options": [
+      "Philadelphia",
+      "Pittsburgh",
+      "Allentown",
+      "Harrisburg"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Harrisburg was named the state capital in 1812.",
+    "tags": [
+      "geography",
+      "physical-geography",
+      "easy",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "geography-nations-territories-0152",
+    "category": "Geography",
+    "subcategory": "Nations & Territories",
+    "difficulty": "medium",
+    "question": "[Nations & Territories #152] What is the official state capital of Georgia?",
+    "options": [
+      "Atlanta",
+      "Savannah",
+      "Augusta",
+      "Macon"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Atlanta has been Georgia’s official capital since 1868.",
+    "tags": [
+      "geography",
+      "nations-territories",
+      "medium",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "geography-us-state-capitals-0153",
+    "category": "Geography",
+    "subcategory": "US State Capitals",
+    "difficulty": "hard",
+    "question": "[US State Capitals #153] What is the official state capital of California?",
+    "options": [
+      "Los Angeles",
+      "Sacramento",
+      "San Francisco",
+      "San Diego"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Sacramento became the capital of California in 1854.",
+    "tags": [
+      "geography",
+      "us-state-capitals",
+      "hard",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "geography-world-capitals-0154",
+    "category": "Geography",
+    "subcategory": "World Capitals",
+    "difficulty": "easy",
+    "question": "[World Capitals #154] What is the official state capital of Texas?",
+    "options": [
+      "Houston",
+      "Dallas",
+      "Austin",
+      "San Antonio"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Austin has been the capital city of Texas since 1839.",
+    "tags": [
+      "geography",
+      "world-capitals",
+      "easy",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "geography-physical-geography-0155",
+    "category": "Geography",
+    "subcategory": "Physical Geography",
+    "difficulty": "medium",
+    "question": "[Physical Geography #155] What is the official state capital of New York?",
+    "options": [
+      "New York City",
+      "Buffalo",
+      "Rochester",
+      "Albany"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Albany was designated the capital of New York in 1797.",
+    "tags": [
+      "geography",
+      "physical-geography",
+      "medium",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "geography-nations-territories-0156",
+    "category": "Geography",
+    "subcategory": "Nations & Territories",
+    "difficulty": "hard",
+    "question": "[Nations & Territories #156] What is the official state capital of Florida?",
+    "options": [
+      "Tallahassee",
+      "Miami",
+      "Orlando",
+      "Tampa"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Tallahassee was chosen as Florida’s capital in 1824.",
+    "tags": [
+      "geography",
+      "nations-territories",
+      "hard",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "geography-us-state-capitals-0157",
+    "category": "Geography",
+    "subcategory": "US State Capitals",
+    "difficulty": "easy",
+    "question": "[US State Capitals #157] What is the official state capital of Washington State?",
+    "options": [
+      "Seattle",
+      "Olympia",
+      "Spokane",
+      "Tacoma"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Olympia is situated at the southern tip of Puget Sound.",
+    "tags": [
+      "geography",
+      "us-state-capitals",
+      "easy",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "geography-world-capitals-0158",
+    "category": "Geography",
+    "subcategory": "World Capitals",
+    "difficulty": "medium",
+    "question": "[World Capitals #158] What is the official state capital of Illinois?",
+    "options": [
+      "Chicago",
+      "Peoria",
+      "Springfield",
+      "Rockford"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Springfield was the hometown of Abraham Lincoln.",
+    "tags": [
+      "geography",
+      "world-capitals",
+      "medium",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "geography-physical-geography-0159",
+    "category": "Geography",
+    "subcategory": "Physical Geography",
+    "difficulty": "hard",
+    "question": "[Physical Geography #159] What is the official state capital of Pennsylvania?",
+    "options": [
+      "Philadelphia",
+      "Pittsburgh",
+      "Allentown",
+      "Harrisburg"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Harrisburg was named the state capital in 1812.",
+    "tags": [
+      "geography",
+      "physical-geography",
+      "hard",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "geography-nations-territories-0160",
+    "category": "Geography",
+    "subcategory": "Nations & Territories",
+    "difficulty": "easy",
+    "question": "[Nations & Territories #160] What is the official state capital of Georgia?",
+    "options": [
+      "Atlanta",
+      "Savannah",
+      "Augusta",
+      "Macon"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Atlanta has been Georgia’s official capital since 1868.",
+    "tags": [
+      "geography",
+      "nations-territories",
+      "easy",
+      "geography",
+      "civics",
+      "capitals"
+    ],
     "active": true
   }
 ]

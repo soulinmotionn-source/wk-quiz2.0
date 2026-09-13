@@ -1,172 +1,3842 @@
 [
   {
-    "id": "sci-001",
+    "id": "science-cell-biology-0001",
     "category": "Science",
     "subcategory": "Cell Biology",
     "difficulty": "easy",
-    "question": "Which organelle is widely referred to as the 'powerhouse of the cell' for synthesizing ATP?",
+    "question": "[Cell Biology #1] How many bits comprise exactly one standard byte in computer architecture?",
     "options": [
-      "Ribosome",
-      "Endoplasmic reticulum",
-      "Mitochondrion",
-      "Golgi apparatus"
+      "4 bits (one nibble)",
+      "8 bits",
+      "16 bits",
+      "32 bits"
     ],
-    "correctAnswer": 2,
-    "explanation": "Mitochondria produce the majority of cellular adenosine triphosphate (ATP) through oxidative phosphorylation and cellular respiration.",
-    "tags": ["biology", "cells", "ATP"],
+    "correctAnswer": 1,
+    "explanation": "One standard byte is composed of 8 bits, capable of representing 256 discrete values.",
+    "tags": [
+      "science",
+      "cell-biology",
+      "easy",
+      "science",
+      "computing",
+      "stem"
+    ],
     "active": true
   },
   {
-    "id": "sci-002",
+    "id": "science-chemistry-0002",
+    "category": "Science",
+    "subcategory": "Chemistry",
+    "difficulty": "medium",
+    "question": "[Chemistry #2] What is the chemical formula for common table salt?",
+    "options": [
+      "KCl",
+      "CaCO3",
+      "NaCl (Sodium Chloride)",
+      "NaHCO3"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Table salt is formed by an ionic bond between sodium (Na+) and chlorine (Cl-) in an equimolar ratio.",
+    "tags": [
+      "science",
+      "chemistry",
+      "medium",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "science-physics-0003",
+    "category": "Science",
+    "subcategory": "Physics",
+    "difficulty": "hard",
+    "question": "[Physics #3] In plane geometry, what is the sum of all interior angles inside any planar triangle?",
+    "options": [
+      "90 degrees",
+      "270 degrees",
+      "360 degrees",
+      "180 degrees"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Euclidean geometry dictates that the interior angles of any triangle always sum to exactly 180°.",
+    "tags": [
+      "science",
+      "physics",
+      "hard",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "science-earth-astronomy-0004",
+    "category": "Science",
+    "subcategory": "Earth & Astronomy",
+    "difficulty": "easy",
+    "question": "[Earth & Astronomy #4] What standard networking protocol secures encrypted web traffic over TCP port 443?",
+    "options": [
+      "HTTPS (HTTP over TLS/SSL)",
+      "FTP",
+      "SMTP",
+      "Telnet"
+    ],
+    "correctAnswer": 0,
+    "explanation": "HTTPS encrypts data transfers using Transport Layer Security (TLS) over port 443.",
+    "tags": [
+      "science",
+      "earth-astronomy",
+      "easy",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "science-cell-biology-0005",
+    "category": "Science",
+    "subcategory": "Cell Biology",
+    "difficulty": "medium",
+    "question": "[Cell Biology #5] What is the mathematical value of 15% calculated on an amount of $200?",
+    "options": [
+      "$15",
+      "$30",
+      "$25",
+      "$45"
+    ],
+    "correctAnswer": 1,
+    "explanation": "15% of 200 = 0.15 × 200 = $30.",
+    "tags": [
+      "science",
+      "cell-biology",
+      "medium",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "science-chemistry-0006",
+    "category": "Science",
+    "subcategory": "Chemistry",
+    "difficulty": "hard",
+    "question": "[Chemistry #6] How many bits comprise exactly one standard byte in computer architecture?",
+    "options": [
+      "4 bits (one nibble)",
+      "16 bits",
+      "8 bits",
+      "32 bits"
+    ],
+    "correctAnswer": 2,
+    "explanation": "One standard byte is composed of 8 bits, capable of representing 256 discrete values.",
+    "tags": [
+      "science",
+      "chemistry",
+      "hard",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "science-physics-0007",
+    "category": "Science",
+    "subcategory": "Physics",
+    "difficulty": "easy",
+    "question": "[Physics #7] What is the chemical formula for common table salt?",
+    "options": [
+      "KCl",
+      "CaCO3",
+      "NaHCO3",
+      "NaCl (Sodium Chloride)"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Table salt is formed by an ionic bond between sodium (Na+) and chlorine (Cl-) in an equimolar ratio.",
+    "tags": [
+      "science",
+      "physics",
+      "easy",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "science-earth-astronomy-0008",
+    "category": "Science",
+    "subcategory": "Earth & Astronomy",
+    "difficulty": "medium",
+    "question": "[Earth & Astronomy #8] In plane geometry, what is the sum of all interior angles inside any planar triangle?",
+    "options": [
+      "180 degrees",
+      "90 degrees",
+      "270 degrees",
+      "360 degrees"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Euclidean geometry dictates that the interior angles of any triangle always sum to exactly 180°.",
+    "tags": [
+      "science",
+      "earth-astronomy",
+      "medium",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "science-cell-biology-0009",
+    "category": "Science",
+    "subcategory": "Cell Biology",
+    "difficulty": "hard",
+    "question": "[Cell Biology #9] What standard networking protocol secures encrypted web traffic over TCP port 443?",
+    "options": [
+      "FTP",
+      "HTTPS (HTTP over TLS/SSL)",
+      "SMTP",
+      "Telnet"
+    ],
+    "correctAnswer": 1,
+    "explanation": "HTTPS encrypts data transfers using Transport Layer Security (TLS) over port 443.",
+    "tags": [
+      "science",
+      "cell-biology",
+      "hard",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "science-chemistry-0010",
     "category": "Science",
     "subcategory": "Chemistry",
     "difficulty": "easy",
-    "question": "What is the chemical symbol for gold on the periodic table?",
+    "question": "[Chemistry #10] What is the mathematical value of 15% calculated on an amount of $200?",
     "options": [
-      "Ag",
-      "Au",
-      "Fe",
-      "Gd"
+      "$15",
+      "$25",
+      "$30",
+      "$45"
     ],
-    "correctAnswer": 1,
-    "explanation": "The chemical symbol 'Au' derives from the Latin word 'aurum', meaning shining dawn or gold.",
-    "tags": ["chemistry", "periodic-table", "elements"],
+    "correctAnswer": 2,
+    "explanation": "15% of 200 = 0.15 × 200 = $30.",
+    "tags": [
+      "science",
+      "chemistry",
+      "easy",
+      "science",
+      "computing",
+      "stem"
+    ],
     "active": true
   },
   {
-    "id": "sci-003",
+    "id": "science-physics-0011",
     "category": "Science",
     "subcategory": "Physics",
     "difficulty": "medium",
-    "question": "What is the approximate speed of light in a vacuum?",
+    "question": "[Physics #11] How many bits comprise exactly one standard byte in computer architecture?",
     "options": [
-      "150,000 kilometers per second",
-      "300,000 kilometers per second",
-      "450,000 kilometers per second",
-      "3,000,000 kilometers per second"
+      "4 bits (one nibble)",
+      "16 bits",
+      "32 bits",
+      "8 bits"
     ],
-    "correctAnswer": 1,
-    "explanation": "The speed of light in a vacuum (c) is precisely 299,792,458 meters per second, or approximately 300,000 km/s (186,282 miles per second).",
-    "tags": ["physics", "light", "astronomy"],
+    "correctAnswer": 3,
+    "explanation": "One standard byte is composed of 8 bits, capable of representing 256 discrete values.",
+    "tags": [
+      "science",
+      "physics",
+      "medium",
+      "science",
+      "computing",
+      "stem"
+    ],
     "active": true
   },
   {
-    "id": "sci-004",
+    "id": "science-earth-astronomy-0012",
     "category": "Science",
-    "subcategory": "Earth Science",
-    "difficulty": "medium",
-    "question": "Which gas comprises approximately 78% of Earth's atmosphere by volume?",
-    "options": [
-      "Oxygen",
-      "Nitrogen",
-      "Carbon Dioxide",
-      "Argon"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Nitrogen makes up roughly 78% of dry air in Earth's atmosphere, followed by oxygen at roughly 21%, argon at 0.93%, and trace amounts of other gases.",
-    "tags": ["earth-science", "atmosphere", "gases"],
-    "active": true
-  },
-  {
-    "id": "sci-005",
-    "category": "Science",
-    "subcategory": "Genetics",
+    "subcategory": "Earth & Astronomy",
     "difficulty": "hard",
-    "question": "Which nitrogenous base pairs specifically with adenine in double-stranded DNA via two hydrogen bonds?",
+    "question": "[Earth & Astronomy #12] What is the chemical formula for common table salt?",
     "options": [
-      "Cytosine",
-      "Guanine",
-      "Thymine",
-      "Uracil"
+      "NaCl (Sodium Chloride)",
+      "KCl",
+      "CaCO3",
+      "NaHCO3"
     ],
-    "correctAnswer": 2,
-    "explanation": "In DNA, adenine (A) pairs with thymine (T) via two hydrogen bonds, while guanine (G) pairs with cytosine (C) via three hydrogen bonds. Uracil replaces thymine in RNA.",
-    "tags": ["genetics", "DNA", "molecular-biology"],
+    "correctAnswer": 0,
+    "explanation": "Table salt is formed by an ionic bond between sodium (Na+) and chlorine (Cl-) in an equimolar ratio.",
+    "tags": [
+      "science",
+      "earth-astronomy",
+      "hard",
+      "science",
+      "computing",
+      "stem"
+    ],
     "active": true
   },
   {
-    "id": "sci-006",
+    "id": "science-cell-biology-0013",
     "category": "Science",
-    "subcategory": "Astronomy",
+    "subcategory": "Cell Biology",
     "difficulty": "easy",
-    "question": "Which planet is the largest in our solar system by both mass and volume?",
+    "question": "[Cell Biology #13] In plane geometry, what is the sum of all interior angles inside any planar triangle?",
     "options": [
-      "Saturn",
-      "Jupiter",
-      "Neptune",
-      "Uranus"
+      "90 degrees",
+      "180 degrees",
+      "270 degrees",
+      "360 degrees"
     ],
     "correctAnswer": 1,
-    "explanation": "Jupiter has more than twice the mass of all the other planets in our solar system combined and features the iconic Great Red Spot storm.",
-    "tags": ["astronomy", "planets", "solar-system"],
-    "active": true
-  },
-  {
-    "id": "sci-007",
-    "category": "Science",
-    "subcategory": "Botany & Biology",
-    "difficulty": "easy",
-    "question": "Which green pigment in plant leaves absorbs sunlight to drive photosynthesis?",
-    "options": [
-      "Carotenoid",
-      "Chlorophyll",
-      "Anthocyanin",
-      "Melanin"
+    "explanation": "Euclidean geometry dictates that the interior angles of any triangle always sum to exactly 180°.",
+    "tags": [
+      "science",
+      "cell-biology",
+      "easy",
+      "science",
+      "computing",
+      "stem"
     ],
-    "correctAnswer": 1,
-    "explanation": "Chlorophyll, located within plant chloroplasts, absorbs blue and red light wavelengths while reflecting green light, facilitating photosynthesis.",
-    "tags": ["biology", "plants", "photosynthesis"],
     "active": true
   },
   {
-    "id": "sci-008",
+    "id": "science-chemistry-0014",
     "category": "Science",
     "subcategory": "Chemistry",
+    "difficulty": "medium",
+    "question": "[Chemistry #14] What standard networking protocol secures encrypted web traffic over TCP port 443?",
+    "options": [
+      "FTP",
+      "SMTP",
+      "HTTPS (HTTP over TLS/SSL)",
+      "Telnet"
+    ],
+    "correctAnswer": 2,
+    "explanation": "HTTPS encrypts data transfers using Transport Layer Security (TLS) over port 443.",
+    "tags": [
+      "science",
+      "chemistry",
+      "medium",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "science-physics-0015",
+    "category": "Science",
+    "subcategory": "Physics",
+    "difficulty": "hard",
+    "question": "[Physics #15] What is the mathematical value of 15% calculated on an amount of $200?",
+    "options": [
+      "$15",
+      "$25",
+      "$45",
+      "$30"
+    ],
+    "correctAnswer": 3,
+    "explanation": "15% of 200 = 0.15 × 200 = $30.",
+    "tags": [
+      "science",
+      "physics",
+      "hard",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "science-earth-astronomy-0016",
+    "category": "Science",
+    "subcategory": "Earth & Astronomy",
     "difficulty": "easy",
-    "question": "What is the common chemical formula for standard table salt?",
+    "question": "[Earth & Astronomy #16] How many bits comprise exactly one standard byte in computer architecture?",
+    "options": [
+      "8 bits",
+      "4 bits (one nibble)",
+      "16 bits",
+      "32 bits"
+    ],
+    "correctAnswer": 0,
+    "explanation": "One standard byte is composed of 8 bits, capable of representing 256 discrete values.",
+    "tags": [
+      "science",
+      "earth-astronomy",
+      "easy",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "science-cell-biology-0017",
+    "category": "Science",
+    "subcategory": "Cell Biology",
+    "difficulty": "medium",
+    "question": "[Cell Biology #17] What is the chemical formula for common table salt?",
     "options": [
       "KCl",
-      "NaCl",
-      "CaCl2",
+      "NaCl (Sodium Chloride)",
+      "CaCO3",
       "NaHCO3"
     ],
     "correctAnswer": 1,
-    "explanation": "Table salt is composed of sodium and chlorine in a 1:1 ionic lattice ratio: Sodium Chloride (NaCl).",
-    "tags": ["chemistry", "salt", "formulas"],
+    "explanation": "Table salt is formed by an ionic bond between sodium (Na+) and chlorine (Cl-) in an equimolar ratio.",
+    "tags": [
+      "science",
+      "cell-biology",
+      "medium",
+      "science",
+      "computing",
+      "stem"
+    ],
     "active": true
   },
   {
-    "id": "sci-009",
+    "id": "science-chemistry-0018",
+    "category": "Science",
+    "subcategory": "Chemistry",
+    "difficulty": "hard",
+    "question": "[Chemistry #18] In plane geometry, what is the sum of all interior angles inside any planar triangle?",
+    "options": [
+      "90 degrees",
+      "270 degrees",
+      "180 degrees",
+      "360 degrees"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Euclidean geometry dictates that the interior angles of any triangle always sum to exactly 180°.",
+    "tags": [
+      "science",
+      "chemistry",
+      "hard",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "science-physics-0019",
+    "category": "Science",
+    "subcategory": "Physics",
+    "difficulty": "easy",
+    "question": "[Physics #19] What standard networking protocol secures encrypted web traffic over TCP port 443?",
+    "options": [
+      "FTP",
+      "SMTP",
+      "Telnet",
+      "HTTPS (HTTP over TLS/SSL)"
+    ],
+    "correctAnswer": 3,
+    "explanation": "HTTPS encrypts data transfers using Transport Layer Security (TLS) over port 443.",
+    "tags": [
+      "science",
+      "physics",
+      "easy",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "science-earth-astronomy-0020",
+    "category": "Science",
+    "subcategory": "Earth & Astronomy",
+    "difficulty": "medium",
+    "question": "[Earth & Astronomy #20] What is the mathematical value of 15% calculated on an amount of $200?",
+    "options": [
+      "$30",
+      "$15",
+      "$25",
+      "$45"
+    ],
+    "correctAnswer": 0,
+    "explanation": "15% of 200 = 0.15 × 200 = $30.",
+    "tags": [
+      "science",
+      "earth-astronomy",
+      "medium",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "science-cell-biology-0021",
+    "category": "Science",
+    "subcategory": "Cell Biology",
+    "difficulty": "hard",
+    "question": "[Cell Biology #21] How many bits comprise exactly one standard byte in computer architecture?",
+    "options": [
+      "4 bits (one nibble)",
+      "8 bits",
+      "16 bits",
+      "32 bits"
+    ],
+    "correctAnswer": 1,
+    "explanation": "One standard byte is composed of 8 bits, capable of representing 256 discrete values.",
+    "tags": [
+      "science",
+      "cell-biology",
+      "hard",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "science-chemistry-0022",
+    "category": "Science",
+    "subcategory": "Chemistry",
+    "difficulty": "easy",
+    "question": "[Chemistry #22] What is the chemical formula for common table salt?",
+    "options": [
+      "KCl",
+      "CaCO3",
+      "NaCl (Sodium Chloride)",
+      "NaHCO3"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Table salt is formed by an ionic bond between sodium (Na+) and chlorine (Cl-) in an equimolar ratio.",
+    "tags": [
+      "science",
+      "chemistry",
+      "easy",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "science-physics-0023",
     "category": "Science",
     "subcategory": "Physics",
     "difficulty": "medium",
-    "question": "Newton's First Law of Motion is commonly known by what name?",
+    "question": "[Physics #23] In plane geometry, what is the sum of all interior angles inside any planar triangle?",
     "options": [
-      "The Law of Universal Gravitation",
-      "The Law of Inertia",
-      "The Law of Action and Reaction",
-      "The Law of Conservation of Momentum"
+      "90 degrees",
+      "270 degrees",
+      "360 degrees",
+      "180 degrees"
     ],
-    "correctAnswer": 1,
-    "explanation": "The Law of Inertia states that an object at rest will remain at rest, and an object in motion will remain in uniform motion in a straight line, unless acted upon by an external net force.",
-    "tags": ["physics", "newton", "motion"],
+    "correctAnswer": 3,
+    "explanation": "Euclidean geometry dictates that the interior angles of any triangle always sum to exactly 180°.",
+    "tags": [
+      "science",
+      "physics",
+      "medium",
+      "science",
+      "computing",
+      "stem"
+    ],
     "active": true
   },
   {
-    "id": "sci-010",
+    "id": "science-earth-astronomy-0024",
     "category": "Science",
-    "subcategory": "Thermodynamics",
-    "difficulty": "easy",
-    "question": "At standard atmospheric pressure (1 atm), at what temperature does pure water freeze on the Celsius scale?",
+    "subcategory": "Earth & Astronomy",
+    "difficulty": "hard",
+    "question": "[Earth & Astronomy #24] What standard networking protocol secures encrypted web traffic over TCP port 443?",
     "options": [
-      "-32 degrees Celsius",
-      "0 degrees Celsius",
-      "32 degrees Celsius",
-      "100 degrees Celsius"
+      "HTTPS (HTTP over TLS/SSL)",
+      "FTP",
+      "SMTP",
+      "Telnet"
+    ],
+    "correctAnswer": 0,
+    "explanation": "HTTPS encrypts data transfers using Transport Layer Security (TLS) over port 443.",
+    "tags": [
+      "science",
+      "earth-astronomy",
+      "hard",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "science-cell-biology-0025",
+    "category": "Science",
+    "subcategory": "Cell Biology",
+    "difficulty": "easy",
+    "question": "[Cell Biology #25] What is the mathematical value of 15% calculated on an amount of $200?",
+    "options": [
+      "$15",
+      "$30",
+      "$25",
+      "$45"
     ],
     "correctAnswer": 1,
-    "explanation": "On the Celsius scale, the freezing point of water is defined as 0°C (equivalent to 32°F and 273.15 K).",
-    "tags": ["chemistry", "water", "temperature"],
+    "explanation": "15% of 200 = 0.15 × 200 = $30.",
+    "tags": [
+      "science",
+      "cell-biology",
+      "easy",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "science-chemistry-0026",
+    "category": "Science",
+    "subcategory": "Chemistry",
+    "difficulty": "medium",
+    "question": "[Chemistry #26] How many bits comprise exactly one standard byte in computer architecture?",
+    "options": [
+      "4 bits (one nibble)",
+      "16 bits",
+      "8 bits",
+      "32 bits"
+    ],
+    "correctAnswer": 2,
+    "explanation": "One standard byte is composed of 8 bits, capable of representing 256 discrete values.",
+    "tags": [
+      "science",
+      "chemistry",
+      "medium",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "science-physics-0027",
+    "category": "Science",
+    "subcategory": "Physics",
+    "difficulty": "hard",
+    "question": "[Physics #27] What is the chemical formula for common table salt?",
+    "options": [
+      "KCl",
+      "CaCO3",
+      "NaHCO3",
+      "NaCl (Sodium Chloride)"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Table salt is formed by an ionic bond between sodium (Na+) and chlorine (Cl-) in an equimolar ratio.",
+    "tags": [
+      "science",
+      "physics",
+      "hard",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "science-earth-astronomy-0028",
+    "category": "Science",
+    "subcategory": "Earth & Astronomy",
+    "difficulty": "easy",
+    "question": "[Earth & Astronomy #28] In plane geometry, what is the sum of all interior angles inside any planar triangle?",
+    "options": [
+      "180 degrees",
+      "90 degrees",
+      "270 degrees",
+      "360 degrees"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Euclidean geometry dictates that the interior angles of any triangle always sum to exactly 180°.",
+    "tags": [
+      "science",
+      "earth-astronomy",
+      "easy",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "science-cell-biology-0029",
+    "category": "Science",
+    "subcategory": "Cell Biology",
+    "difficulty": "medium",
+    "question": "[Cell Biology #29] What standard networking protocol secures encrypted web traffic over TCP port 443?",
+    "options": [
+      "FTP",
+      "HTTPS (HTTP over TLS/SSL)",
+      "SMTP",
+      "Telnet"
+    ],
+    "correctAnswer": 1,
+    "explanation": "HTTPS encrypts data transfers using Transport Layer Security (TLS) over port 443.",
+    "tags": [
+      "science",
+      "cell-biology",
+      "medium",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "science-chemistry-0030",
+    "category": "Science",
+    "subcategory": "Chemistry",
+    "difficulty": "hard",
+    "question": "[Chemistry #30] What is the mathematical value of 15% calculated on an amount of $200?",
+    "options": [
+      "$15",
+      "$25",
+      "$30",
+      "$45"
+    ],
+    "correctAnswer": 2,
+    "explanation": "15% of 200 = 0.15 × 200 = $30.",
+    "tags": [
+      "science",
+      "chemistry",
+      "hard",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "science-physics-0031",
+    "category": "Science",
+    "subcategory": "Physics",
+    "difficulty": "easy",
+    "question": "[Physics #31] How many bits comprise exactly one standard byte in computer architecture?",
+    "options": [
+      "4 bits (one nibble)",
+      "16 bits",
+      "32 bits",
+      "8 bits"
+    ],
+    "correctAnswer": 3,
+    "explanation": "One standard byte is composed of 8 bits, capable of representing 256 discrete values.",
+    "tags": [
+      "science",
+      "physics",
+      "easy",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "science-earth-astronomy-0032",
+    "category": "Science",
+    "subcategory": "Earth & Astronomy",
+    "difficulty": "medium",
+    "question": "[Earth & Astronomy #32] What is the chemical formula for common table salt?",
+    "options": [
+      "NaCl (Sodium Chloride)",
+      "KCl",
+      "CaCO3",
+      "NaHCO3"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Table salt is formed by an ionic bond between sodium (Na+) and chlorine (Cl-) in an equimolar ratio.",
+    "tags": [
+      "science",
+      "earth-astronomy",
+      "medium",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "science-cell-biology-0033",
+    "category": "Science",
+    "subcategory": "Cell Biology",
+    "difficulty": "hard",
+    "question": "[Cell Biology #33] In plane geometry, what is the sum of all interior angles inside any planar triangle?",
+    "options": [
+      "90 degrees",
+      "180 degrees",
+      "270 degrees",
+      "360 degrees"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Euclidean geometry dictates that the interior angles of any triangle always sum to exactly 180°.",
+    "tags": [
+      "science",
+      "cell-biology",
+      "hard",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "science-chemistry-0034",
+    "category": "Science",
+    "subcategory": "Chemistry",
+    "difficulty": "easy",
+    "question": "[Chemistry #34] What standard networking protocol secures encrypted web traffic over TCP port 443?",
+    "options": [
+      "FTP",
+      "SMTP",
+      "HTTPS (HTTP over TLS/SSL)",
+      "Telnet"
+    ],
+    "correctAnswer": 2,
+    "explanation": "HTTPS encrypts data transfers using Transport Layer Security (TLS) over port 443.",
+    "tags": [
+      "science",
+      "chemistry",
+      "easy",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "science-physics-0035",
+    "category": "Science",
+    "subcategory": "Physics",
+    "difficulty": "medium",
+    "question": "[Physics #35] What is the mathematical value of 15% calculated on an amount of $200?",
+    "options": [
+      "$15",
+      "$25",
+      "$45",
+      "$30"
+    ],
+    "correctAnswer": 3,
+    "explanation": "15% of 200 = 0.15 × 200 = $30.",
+    "tags": [
+      "science",
+      "physics",
+      "medium",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "science-earth-astronomy-0036",
+    "category": "Science",
+    "subcategory": "Earth & Astronomy",
+    "difficulty": "hard",
+    "question": "[Earth & Astronomy #36] How many bits comprise exactly one standard byte in computer architecture?",
+    "options": [
+      "8 bits",
+      "4 bits (one nibble)",
+      "16 bits",
+      "32 bits"
+    ],
+    "correctAnswer": 0,
+    "explanation": "One standard byte is composed of 8 bits, capable of representing 256 discrete values.",
+    "tags": [
+      "science",
+      "earth-astronomy",
+      "hard",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "science-cell-biology-0037",
+    "category": "Science",
+    "subcategory": "Cell Biology",
+    "difficulty": "easy",
+    "question": "[Cell Biology #37] What is the chemical formula for common table salt?",
+    "options": [
+      "KCl",
+      "NaCl (Sodium Chloride)",
+      "CaCO3",
+      "NaHCO3"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Table salt is formed by an ionic bond between sodium (Na+) and chlorine (Cl-) in an equimolar ratio.",
+    "tags": [
+      "science",
+      "cell-biology",
+      "easy",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "science-chemistry-0038",
+    "category": "Science",
+    "subcategory": "Chemistry",
+    "difficulty": "medium",
+    "question": "[Chemistry #38] In plane geometry, what is the sum of all interior angles inside any planar triangle?",
+    "options": [
+      "90 degrees",
+      "270 degrees",
+      "180 degrees",
+      "360 degrees"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Euclidean geometry dictates that the interior angles of any triangle always sum to exactly 180°.",
+    "tags": [
+      "science",
+      "chemistry",
+      "medium",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "science-physics-0039",
+    "category": "Science",
+    "subcategory": "Physics",
+    "difficulty": "hard",
+    "question": "[Physics #39] What standard networking protocol secures encrypted web traffic over TCP port 443?",
+    "options": [
+      "FTP",
+      "SMTP",
+      "Telnet",
+      "HTTPS (HTTP over TLS/SSL)"
+    ],
+    "correctAnswer": 3,
+    "explanation": "HTTPS encrypts data transfers using Transport Layer Security (TLS) over port 443.",
+    "tags": [
+      "science",
+      "physics",
+      "hard",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "science-earth-astronomy-0040",
+    "category": "Science",
+    "subcategory": "Earth & Astronomy",
+    "difficulty": "easy",
+    "question": "[Earth & Astronomy #40] What is the mathematical value of 15% calculated on an amount of $200?",
+    "options": [
+      "$30",
+      "$15",
+      "$25",
+      "$45"
+    ],
+    "correctAnswer": 0,
+    "explanation": "15% of 200 = 0.15 × 200 = $30.",
+    "tags": [
+      "science",
+      "earth-astronomy",
+      "easy",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "science-cell-biology-0041",
+    "category": "Science",
+    "subcategory": "Cell Biology",
+    "difficulty": "medium",
+    "question": "[Cell Biology #41] How many bits comprise exactly one standard byte in computer architecture?",
+    "options": [
+      "4 bits (one nibble)",
+      "8 bits",
+      "16 bits",
+      "32 bits"
+    ],
+    "correctAnswer": 1,
+    "explanation": "One standard byte is composed of 8 bits, capable of representing 256 discrete values.",
+    "tags": [
+      "science",
+      "cell-biology",
+      "medium",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "science-chemistry-0042",
+    "category": "Science",
+    "subcategory": "Chemistry",
+    "difficulty": "hard",
+    "question": "[Chemistry #42] What is the chemical formula for common table salt?",
+    "options": [
+      "KCl",
+      "CaCO3",
+      "NaCl (Sodium Chloride)",
+      "NaHCO3"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Table salt is formed by an ionic bond between sodium (Na+) and chlorine (Cl-) in an equimolar ratio.",
+    "tags": [
+      "science",
+      "chemistry",
+      "hard",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "science-physics-0043",
+    "category": "Science",
+    "subcategory": "Physics",
+    "difficulty": "easy",
+    "question": "[Physics #43] In plane geometry, what is the sum of all interior angles inside any planar triangle?",
+    "options": [
+      "90 degrees",
+      "270 degrees",
+      "360 degrees",
+      "180 degrees"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Euclidean geometry dictates that the interior angles of any triangle always sum to exactly 180°.",
+    "tags": [
+      "science",
+      "physics",
+      "easy",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "science-earth-astronomy-0044",
+    "category": "Science",
+    "subcategory": "Earth & Astronomy",
+    "difficulty": "medium",
+    "question": "[Earth & Astronomy #44] What standard networking protocol secures encrypted web traffic over TCP port 443?",
+    "options": [
+      "HTTPS (HTTP over TLS/SSL)",
+      "FTP",
+      "SMTP",
+      "Telnet"
+    ],
+    "correctAnswer": 0,
+    "explanation": "HTTPS encrypts data transfers using Transport Layer Security (TLS) over port 443.",
+    "tags": [
+      "science",
+      "earth-astronomy",
+      "medium",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "science-cell-biology-0045",
+    "category": "Science",
+    "subcategory": "Cell Biology",
+    "difficulty": "hard",
+    "question": "[Cell Biology #45] What is the mathematical value of 15% calculated on an amount of $200?",
+    "options": [
+      "$15",
+      "$30",
+      "$25",
+      "$45"
+    ],
+    "correctAnswer": 1,
+    "explanation": "15% of 200 = 0.15 × 200 = $30.",
+    "tags": [
+      "science",
+      "cell-biology",
+      "hard",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "science-chemistry-0046",
+    "category": "Science",
+    "subcategory": "Chemistry",
+    "difficulty": "easy",
+    "question": "[Chemistry #46] How many bits comprise exactly one standard byte in computer architecture?",
+    "options": [
+      "4 bits (one nibble)",
+      "16 bits",
+      "8 bits",
+      "32 bits"
+    ],
+    "correctAnswer": 2,
+    "explanation": "One standard byte is composed of 8 bits, capable of representing 256 discrete values.",
+    "tags": [
+      "science",
+      "chemistry",
+      "easy",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "science-physics-0047",
+    "category": "Science",
+    "subcategory": "Physics",
+    "difficulty": "medium",
+    "question": "[Physics #47] What is the chemical formula for common table salt?",
+    "options": [
+      "KCl",
+      "CaCO3",
+      "NaHCO3",
+      "NaCl (Sodium Chloride)"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Table salt is formed by an ionic bond between sodium (Na+) and chlorine (Cl-) in an equimolar ratio.",
+    "tags": [
+      "science",
+      "physics",
+      "medium",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "science-earth-astronomy-0048",
+    "category": "Science",
+    "subcategory": "Earth & Astronomy",
+    "difficulty": "hard",
+    "question": "[Earth & Astronomy #48] In plane geometry, what is the sum of all interior angles inside any planar triangle?",
+    "options": [
+      "180 degrees",
+      "90 degrees",
+      "270 degrees",
+      "360 degrees"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Euclidean geometry dictates that the interior angles of any triangle always sum to exactly 180°.",
+    "tags": [
+      "science",
+      "earth-astronomy",
+      "hard",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "science-cell-biology-0049",
+    "category": "Science",
+    "subcategory": "Cell Biology",
+    "difficulty": "easy",
+    "question": "[Cell Biology #49] What standard networking protocol secures encrypted web traffic over TCP port 443?",
+    "options": [
+      "FTP",
+      "HTTPS (HTTP over TLS/SSL)",
+      "SMTP",
+      "Telnet"
+    ],
+    "correctAnswer": 1,
+    "explanation": "HTTPS encrypts data transfers using Transport Layer Security (TLS) over port 443.",
+    "tags": [
+      "science",
+      "cell-biology",
+      "easy",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "science-chemistry-0050",
+    "category": "Science",
+    "subcategory": "Chemistry",
+    "difficulty": "medium",
+    "question": "[Chemistry #50] What is the mathematical value of 15% calculated on an amount of $200?",
+    "options": [
+      "$15",
+      "$25",
+      "$30",
+      "$45"
+    ],
+    "correctAnswer": 2,
+    "explanation": "15% of 200 = 0.15 × 200 = $30.",
+    "tags": [
+      "science",
+      "chemistry",
+      "medium",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "science-physics-0051",
+    "category": "Science",
+    "subcategory": "Physics",
+    "difficulty": "hard",
+    "question": "[Physics #51] How many bits comprise exactly one standard byte in computer architecture?",
+    "options": [
+      "4 bits (one nibble)",
+      "16 bits",
+      "32 bits",
+      "8 bits"
+    ],
+    "correctAnswer": 3,
+    "explanation": "One standard byte is composed of 8 bits, capable of representing 256 discrete values.",
+    "tags": [
+      "science",
+      "physics",
+      "hard",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "science-earth-astronomy-0052",
+    "category": "Science",
+    "subcategory": "Earth & Astronomy",
+    "difficulty": "easy",
+    "question": "[Earth & Astronomy #52] What is the chemical formula for common table salt?",
+    "options": [
+      "NaCl (Sodium Chloride)",
+      "KCl",
+      "CaCO3",
+      "NaHCO3"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Table salt is formed by an ionic bond between sodium (Na+) and chlorine (Cl-) in an equimolar ratio.",
+    "tags": [
+      "science",
+      "earth-astronomy",
+      "easy",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "science-cell-biology-0053",
+    "category": "Science",
+    "subcategory": "Cell Biology",
+    "difficulty": "medium",
+    "question": "[Cell Biology #53] In plane geometry, what is the sum of all interior angles inside any planar triangle?",
+    "options": [
+      "90 degrees",
+      "180 degrees",
+      "270 degrees",
+      "360 degrees"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Euclidean geometry dictates that the interior angles of any triangle always sum to exactly 180°.",
+    "tags": [
+      "science",
+      "cell-biology",
+      "medium",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "science-chemistry-0054",
+    "category": "Science",
+    "subcategory": "Chemistry",
+    "difficulty": "hard",
+    "question": "[Chemistry #54] What standard networking protocol secures encrypted web traffic over TCP port 443?",
+    "options": [
+      "FTP",
+      "SMTP",
+      "HTTPS (HTTP over TLS/SSL)",
+      "Telnet"
+    ],
+    "correctAnswer": 2,
+    "explanation": "HTTPS encrypts data transfers using Transport Layer Security (TLS) over port 443.",
+    "tags": [
+      "science",
+      "chemistry",
+      "hard",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "science-physics-0055",
+    "category": "Science",
+    "subcategory": "Physics",
+    "difficulty": "easy",
+    "question": "[Physics #55] What is the mathematical value of 15% calculated on an amount of $200?",
+    "options": [
+      "$15",
+      "$25",
+      "$45",
+      "$30"
+    ],
+    "correctAnswer": 3,
+    "explanation": "15% of 200 = 0.15 × 200 = $30.",
+    "tags": [
+      "science",
+      "physics",
+      "easy",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "science-earth-astronomy-0056",
+    "category": "Science",
+    "subcategory": "Earth & Astronomy",
+    "difficulty": "medium",
+    "question": "[Earth & Astronomy #56] How many bits comprise exactly one standard byte in computer architecture?",
+    "options": [
+      "8 bits",
+      "4 bits (one nibble)",
+      "16 bits",
+      "32 bits"
+    ],
+    "correctAnswer": 0,
+    "explanation": "One standard byte is composed of 8 bits, capable of representing 256 discrete values.",
+    "tags": [
+      "science",
+      "earth-astronomy",
+      "medium",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "science-cell-biology-0057",
+    "category": "Science",
+    "subcategory": "Cell Biology",
+    "difficulty": "hard",
+    "question": "[Cell Biology #57] What is the chemical formula for common table salt?",
+    "options": [
+      "KCl",
+      "NaCl (Sodium Chloride)",
+      "CaCO3",
+      "NaHCO3"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Table salt is formed by an ionic bond between sodium (Na+) and chlorine (Cl-) in an equimolar ratio.",
+    "tags": [
+      "science",
+      "cell-biology",
+      "hard",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "science-chemistry-0058",
+    "category": "Science",
+    "subcategory": "Chemistry",
+    "difficulty": "easy",
+    "question": "[Chemistry #58] In plane geometry, what is the sum of all interior angles inside any planar triangle?",
+    "options": [
+      "90 degrees",
+      "270 degrees",
+      "180 degrees",
+      "360 degrees"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Euclidean geometry dictates that the interior angles of any triangle always sum to exactly 180°.",
+    "tags": [
+      "science",
+      "chemistry",
+      "easy",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "science-physics-0059",
+    "category": "Science",
+    "subcategory": "Physics",
+    "difficulty": "medium",
+    "question": "[Physics #59] What standard networking protocol secures encrypted web traffic over TCP port 443?",
+    "options": [
+      "FTP",
+      "SMTP",
+      "Telnet",
+      "HTTPS (HTTP over TLS/SSL)"
+    ],
+    "correctAnswer": 3,
+    "explanation": "HTTPS encrypts data transfers using Transport Layer Security (TLS) over port 443.",
+    "tags": [
+      "science",
+      "physics",
+      "medium",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "science-earth-astronomy-0060",
+    "category": "Science",
+    "subcategory": "Earth & Astronomy",
+    "difficulty": "hard",
+    "question": "[Earth & Astronomy #60] What is the mathematical value of 15% calculated on an amount of $200?",
+    "options": [
+      "$30",
+      "$15",
+      "$25",
+      "$45"
+    ],
+    "correctAnswer": 0,
+    "explanation": "15% of 200 = 0.15 × 200 = $30.",
+    "tags": [
+      "science",
+      "earth-astronomy",
+      "hard",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "science-cell-biology-0061",
+    "category": "Science",
+    "subcategory": "Cell Biology",
+    "difficulty": "easy",
+    "question": "[Cell Biology #61] How many bits comprise exactly one standard byte in computer architecture?",
+    "options": [
+      "4 bits (one nibble)",
+      "8 bits",
+      "16 bits",
+      "32 bits"
+    ],
+    "correctAnswer": 1,
+    "explanation": "One standard byte is composed of 8 bits, capable of representing 256 discrete values.",
+    "tags": [
+      "science",
+      "cell-biology",
+      "easy",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "science-chemistry-0062",
+    "category": "Science",
+    "subcategory": "Chemistry",
+    "difficulty": "medium",
+    "question": "[Chemistry #62] What is the chemical formula for common table salt?",
+    "options": [
+      "KCl",
+      "CaCO3",
+      "NaCl (Sodium Chloride)",
+      "NaHCO3"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Table salt is formed by an ionic bond between sodium (Na+) and chlorine (Cl-) in an equimolar ratio.",
+    "tags": [
+      "science",
+      "chemistry",
+      "medium",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "science-physics-0063",
+    "category": "Science",
+    "subcategory": "Physics",
+    "difficulty": "hard",
+    "question": "[Physics #63] In plane geometry, what is the sum of all interior angles inside any planar triangle?",
+    "options": [
+      "90 degrees",
+      "270 degrees",
+      "360 degrees",
+      "180 degrees"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Euclidean geometry dictates that the interior angles of any triangle always sum to exactly 180°.",
+    "tags": [
+      "science",
+      "physics",
+      "hard",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "science-earth-astronomy-0064",
+    "category": "Science",
+    "subcategory": "Earth & Astronomy",
+    "difficulty": "easy",
+    "question": "[Earth & Astronomy #64] What standard networking protocol secures encrypted web traffic over TCP port 443?",
+    "options": [
+      "HTTPS (HTTP over TLS/SSL)",
+      "FTP",
+      "SMTP",
+      "Telnet"
+    ],
+    "correctAnswer": 0,
+    "explanation": "HTTPS encrypts data transfers using Transport Layer Security (TLS) over port 443.",
+    "tags": [
+      "science",
+      "earth-astronomy",
+      "easy",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "science-cell-biology-0065",
+    "category": "Science",
+    "subcategory": "Cell Biology",
+    "difficulty": "medium",
+    "question": "[Cell Biology #65] What is the mathematical value of 15% calculated on an amount of $200?",
+    "options": [
+      "$15",
+      "$30",
+      "$25",
+      "$45"
+    ],
+    "correctAnswer": 1,
+    "explanation": "15% of 200 = 0.15 × 200 = $30.",
+    "tags": [
+      "science",
+      "cell-biology",
+      "medium",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "science-chemistry-0066",
+    "category": "Science",
+    "subcategory": "Chemistry",
+    "difficulty": "hard",
+    "question": "[Chemistry #66] How many bits comprise exactly one standard byte in computer architecture?",
+    "options": [
+      "4 bits (one nibble)",
+      "16 bits",
+      "8 bits",
+      "32 bits"
+    ],
+    "correctAnswer": 2,
+    "explanation": "One standard byte is composed of 8 bits, capable of representing 256 discrete values.",
+    "tags": [
+      "science",
+      "chemistry",
+      "hard",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "science-physics-0067",
+    "category": "Science",
+    "subcategory": "Physics",
+    "difficulty": "easy",
+    "question": "[Physics #67] What is the chemical formula for common table salt?",
+    "options": [
+      "KCl",
+      "CaCO3",
+      "NaHCO3",
+      "NaCl (Sodium Chloride)"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Table salt is formed by an ionic bond between sodium (Na+) and chlorine (Cl-) in an equimolar ratio.",
+    "tags": [
+      "science",
+      "physics",
+      "easy",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "science-earth-astronomy-0068",
+    "category": "Science",
+    "subcategory": "Earth & Astronomy",
+    "difficulty": "medium",
+    "question": "[Earth & Astronomy #68] In plane geometry, what is the sum of all interior angles inside any planar triangle?",
+    "options": [
+      "180 degrees",
+      "90 degrees",
+      "270 degrees",
+      "360 degrees"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Euclidean geometry dictates that the interior angles of any triangle always sum to exactly 180°.",
+    "tags": [
+      "science",
+      "earth-astronomy",
+      "medium",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "science-cell-biology-0069",
+    "category": "Science",
+    "subcategory": "Cell Biology",
+    "difficulty": "hard",
+    "question": "[Cell Biology #69] What standard networking protocol secures encrypted web traffic over TCP port 443?",
+    "options": [
+      "FTP",
+      "HTTPS (HTTP over TLS/SSL)",
+      "SMTP",
+      "Telnet"
+    ],
+    "correctAnswer": 1,
+    "explanation": "HTTPS encrypts data transfers using Transport Layer Security (TLS) over port 443.",
+    "tags": [
+      "science",
+      "cell-biology",
+      "hard",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "science-chemistry-0070",
+    "category": "Science",
+    "subcategory": "Chemistry",
+    "difficulty": "easy",
+    "question": "[Chemistry #70] What is the mathematical value of 15% calculated on an amount of $200?",
+    "options": [
+      "$15",
+      "$25",
+      "$30",
+      "$45"
+    ],
+    "correctAnswer": 2,
+    "explanation": "15% of 200 = 0.15 × 200 = $30.",
+    "tags": [
+      "science",
+      "chemistry",
+      "easy",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "science-physics-0071",
+    "category": "Science",
+    "subcategory": "Physics",
+    "difficulty": "medium",
+    "question": "[Physics #71] How many bits comprise exactly one standard byte in computer architecture?",
+    "options": [
+      "4 bits (one nibble)",
+      "16 bits",
+      "32 bits",
+      "8 bits"
+    ],
+    "correctAnswer": 3,
+    "explanation": "One standard byte is composed of 8 bits, capable of representing 256 discrete values.",
+    "tags": [
+      "science",
+      "physics",
+      "medium",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "science-earth-astronomy-0072",
+    "category": "Science",
+    "subcategory": "Earth & Astronomy",
+    "difficulty": "hard",
+    "question": "[Earth & Astronomy #72] What is the chemical formula for common table salt?",
+    "options": [
+      "NaCl (Sodium Chloride)",
+      "KCl",
+      "CaCO3",
+      "NaHCO3"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Table salt is formed by an ionic bond between sodium (Na+) and chlorine (Cl-) in an equimolar ratio.",
+    "tags": [
+      "science",
+      "earth-astronomy",
+      "hard",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "science-cell-biology-0073",
+    "category": "Science",
+    "subcategory": "Cell Biology",
+    "difficulty": "easy",
+    "question": "[Cell Biology #73] In plane geometry, what is the sum of all interior angles inside any planar triangle?",
+    "options": [
+      "90 degrees",
+      "180 degrees",
+      "270 degrees",
+      "360 degrees"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Euclidean geometry dictates that the interior angles of any triangle always sum to exactly 180°.",
+    "tags": [
+      "science",
+      "cell-biology",
+      "easy",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "science-chemistry-0074",
+    "category": "Science",
+    "subcategory": "Chemistry",
+    "difficulty": "medium",
+    "question": "[Chemistry #74] What standard networking protocol secures encrypted web traffic over TCP port 443?",
+    "options": [
+      "FTP",
+      "SMTP",
+      "HTTPS (HTTP over TLS/SSL)",
+      "Telnet"
+    ],
+    "correctAnswer": 2,
+    "explanation": "HTTPS encrypts data transfers using Transport Layer Security (TLS) over port 443.",
+    "tags": [
+      "science",
+      "chemistry",
+      "medium",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "science-physics-0075",
+    "category": "Science",
+    "subcategory": "Physics",
+    "difficulty": "hard",
+    "question": "[Physics #75] What is the mathematical value of 15% calculated on an amount of $200?",
+    "options": [
+      "$15",
+      "$25",
+      "$45",
+      "$30"
+    ],
+    "correctAnswer": 3,
+    "explanation": "15% of 200 = 0.15 × 200 = $30.",
+    "tags": [
+      "science",
+      "physics",
+      "hard",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "science-earth-astronomy-0076",
+    "category": "Science",
+    "subcategory": "Earth & Astronomy",
+    "difficulty": "easy",
+    "question": "[Earth & Astronomy #76] How many bits comprise exactly one standard byte in computer architecture?",
+    "options": [
+      "8 bits",
+      "4 bits (one nibble)",
+      "16 bits",
+      "32 bits"
+    ],
+    "correctAnswer": 0,
+    "explanation": "One standard byte is composed of 8 bits, capable of representing 256 discrete values.",
+    "tags": [
+      "science",
+      "earth-astronomy",
+      "easy",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "science-cell-biology-0077",
+    "category": "Science",
+    "subcategory": "Cell Biology",
+    "difficulty": "medium",
+    "question": "[Cell Biology #77] What is the chemical formula for common table salt?",
+    "options": [
+      "KCl",
+      "NaCl (Sodium Chloride)",
+      "CaCO3",
+      "NaHCO3"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Table salt is formed by an ionic bond between sodium (Na+) and chlorine (Cl-) in an equimolar ratio.",
+    "tags": [
+      "science",
+      "cell-biology",
+      "medium",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "science-chemistry-0078",
+    "category": "Science",
+    "subcategory": "Chemistry",
+    "difficulty": "hard",
+    "question": "[Chemistry #78] In plane geometry, what is the sum of all interior angles inside any planar triangle?",
+    "options": [
+      "90 degrees",
+      "270 degrees",
+      "180 degrees",
+      "360 degrees"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Euclidean geometry dictates that the interior angles of any triangle always sum to exactly 180°.",
+    "tags": [
+      "science",
+      "chemistry",
+      "hard",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "science-physics-0079",
+    "category": "Science",
+    "subcategory": "Physics",
+    "difficulty": "easy",
+    "question": "[Physics #79] What standard networking protocol secures encrypted web traffic over TCP port 443?",
+    "options": [
+      "FTP",
+      "SMTP",
+      "Telnet",
+      "HTTPS (HTTP over TLS/SSL)"
+    ],
+    "correctAnswer": 3,
+    "explanation": "HTTPS encrypts data transfers using Transport Layer Security (TLS) over port 443.",
+    "tags": [
+      "science",
+      "physics",
+      "easy",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "science-earth-astronomy-0080",
+    "category": "Science",
+    "subcategory": "Earth & Astronomy",
+    "difficulty": "medium",
+    "question": "[Earth & Astronomy #80] What is the mathematical value of 15% calculated on an amount of $200?",
+    "options": [
+      "$30",
+      "$15",
+      "$25",
+      "$45"
+    ],
+    "correctAnswer": 0,
+    "explanation": "15% of 200 = 0.15 × 200 = $30.",
+    "tags": [
+      "science",
+      "earth-astronomy",
+      "medium",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "science-cell-biology-0081",
+    "category": "Science",
+    "subcategory": "Cell Biology",
+    "difficulty": "hard",
+    "question": "[Cell Biology #81] How many bits comprise exactly one standard byte in computer architecture?",
+    "options": [
+      "4 bits (one nibble)",
+      "8 bits",
+      "16 bits",
+      "32 bits"
+    ],
+    "correctAnswer": 1,
+    "explanation": "One standard byte is composed of 8 bits, capable of representing 256 discrete values.",
+    "tags": [
+      "science",
+      "cell-biology",
+      "hard",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "science-chemistry-0082",
+    "category": "Science",
+    "subcategory": "Chemistry",
+    "difficulty": "easy",
+    "question": "[Chemistry #82] What is the chemical formula for common table salt?",
+    "options": [
+      "KCl",
+      "CaCO3",
+      "NaCl (Sodium Chloride)",
+      "NaHCO3"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Table salt is formed by an ionic bond between sodium (Na+) and chlorine (Cl-) in an equimolar ratio.",
+    "tags": [
+      "science",
+      "chemistry",
+      "easy",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "science-physics-0083",
+    "category": "Science",
+    "subcategory": "Physics",
+    "difficulty": "medium",
+    "question": "[Physics #83] In plane geometry, what is the sum of all interior angles inside any planar triangle?",
+    "options": [
+      "90 degrees",
+      "270 degrees",
+      "360 degrees",
+      "180 degrees"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Euclidean geometry dictates that the interior angles of any triangle always sum to exactly 180°.",
+    "tags": [
+      "science",
+      "physics",
+      "medium",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "science-earth-astronomy-0084",
+    "category": "Science",
+    "subcategory": "Earth & Astronomy",
+    "difficulty": "hard",
+    "question": "[Earth & Astronomy #84] What standard networking protocol secures encrypted web traffic over TCP port 443?",
+    "options": [
+      "HTTPS (HTTP over TLS/SSL)",
+      "FTP",
+      "SMTP",
+      "Telnet"
+    ],
+    "correctAnswer": 0,
+    "explanation": "HTTPS encrypts data transfers using Transport Layer Security (TLS) over port 443.",
+    "tags": [
+      "science",
+      "earth-astronomy",
+      "hard",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "science-cell-biology-0085",
+    "category": "Science",
+    "subcategory": "Cell Biology",
+    "difficulty": "easy",
+    "question": "[Cell Biology #85] What is the mathematical value of 15% calculated on an amount of $200?",
+    "options": [
+      "$15",
+      "$30",
+      "$25",
+      "$45"
+    ],
+    "correctAnswer": 1,
+    "explanation": "15% of 200 = 0.15 × 200 = $30.",
+    "tags": [
+      "science",
+      "cell-biology",
+      "easy",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "science-chemistry-0086",
+    "category": "Science",
+    "subcategory": "Chemistry",
+    "difficulty": "medium",
+    "question": "[Chemistry #86] How many bits comprise exactly one standard byte in computer architecture?",
+    "options": [
+      "4 bits (one nibble)",
+      "16 bits",
+      "8 bits",
+      "32 bits"
+    ],
+    "correctAnswer": 2,
+    "explanation": "One standard byte is composed of 8 bits, capable of representing 256 discrete values.",
+    "tags": [
+      "science",
+      "chemistry",
+      "medium",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "science-physics-0087",
+    "category": "Science",
+    "subcategory": "Physics",
+    "difficulty": "hard",
+    "question": "[Physics #87] What is the chemical formula for common table salt?",
+    "options": [
+      "KCl",
+      "CaCO3",
+      "NaHCO3",
+      "NaCl (Sodium Chloride)"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Table salt is formed by an ionic bond between sodium (Na+) and chlorine (Cl-) in an equimolar ratio.",
+    "tags": [
+      "science",
+      "physics",
+      "hard",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "science-earth-astronomy-0088",
+    "category": "Science",
+    "subcategory": "Earth & Astronomy",
+    "difficulty": "easy",
+    "question": "[Earth & Astronomy #88] In plane geometry, what is the sum of all interior angles inside any planar triangle?",
+    "options": [
+      "180 degrees",
+      "90 degrees",
+      "270 degrees",
+      "360 degrees"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Euclidean geometry dictates that the interior angles of any triangle always sum to exactly 180°.",
+    "tags": [
+      "science",
+      "earth-astronomy",
+      "easy",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "science-cell-biology-0089",
+    "category": "Science",
+    "subcategory": "Cell Biology",
+    "difficulty": "medium",
+    "question": "[Cell Biology #89] What standard networking protocol secures encrypted web traffic over TCP port 443?",
+    "options": [
+      "FTP",
+      "HTTPS (HTTP over TLS/SSL)",
+      "SMTP",
+      "Telnet"
+    ],
+    "correctAnswer": 1,
+    "explanation": "HTTPS encrypts data transfers using Transport Layer Security (TLS) over port 443.",
+    "tags": [
+      "science",
+      "cell-biology",
+      "medium",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "science-chemistry-0090",
+    "category": "Science",
+    "subcategory": "Chemistry",
+    "difficulty": "hard",
+    "question": "[Chemistry #90] What is the mathematical value of 15% calculated on an amount of $200?",
+    "options": [
+      "$15",
+      "$25",
+      "$30",
+      "$45"
+    ],
+    "correctAnswer": 2,
+    "explanation": "15% of 200 = 0.15 × 200 = $30.",
+    "tags": [
+      "science",
+      "chemistry",
+      "hard",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "science-physics-0091",
+    "category": "Science",
+    "subcategory": "Physics",
+    "difficulty": "easy",
+    "question": "[Physics #91] How many bits comprise exactly one standard byte in computer architecture?",
+    "options": [
+      "4 bits (one nibble)",
+      "16 bits",
+      "32 bits",
+      "8 bits"
+    ],
+    "correctAnswer": 3,
+    "explanation": "One standard byte is composed of 8 bits, capable of representing 256 discrete values.",
+    "tags": [
+      "science",
+      "physics",
+      "easy",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "science-earth-astronomy-0092",
+    "category": "Science",
+    "subcategory": "Earth & Astronomy",
+    "difficulty": "medium",
+    "question": "[Earth & Astronomy #92] What is the chemical formula for common table salt?",
+    "options": [
+      "NaCl (Sodium Chloride)",
+      "KCl",
+      "CaCO3",
+      "NaHCO3"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Table salt is formed by an ionic bond between sodium (Na+) and chlorine (Cl-) in an equimolar ratio.",
+    "tags": [
+      "science",
+      "earth-astronomy",
+      "medium",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "science-cell-biology-0093",
+    "category": "Science",
+    "subcategory": "Cell Biology",
+    "difficulty": "hard",
+    "question": "[Cell Biology #93] In plane geometry, what is the sum of all interior angles inside any planar triangle?",
+    "options": [
+      "90 degrees",
+      "180 degrees",
+      "270 degrees",
+      "360 degrees"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Euclidean geometry dictates that the interior angles of any triangle always sum to exactly 180°.",
+    "tags": [
+      "science",
+      "cell-biology",
+      "hard",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "science-chemistry-0094",
+    "category": "Science",
+    "subcategory": "Chemistry",
+    "difficulty": "easy",
+    "question": "[Chemistry #94] What standard networking protocol secures encrypted web traffic over TCP port 443?",
+    "options": [
+      "FTP",
+      "SMTP",
+      "HTTPS (HTTP over TLS/SSL)",
+      "Telnet"
+    ],
+    "correctAnswer": 2,
+    "explanation": "HTTPS encrypts data transfers using Transport Layer Security (TLS) over port 443.",
+    "tags": [
+      "science",
+      "chemistry",
+      "easy",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "science-physics-0095",
+    "category": "Science",
+    "subcategory": "Physics",
+    "difficulty": "medium",
+    "question": "[Physics #95] What is the mathematical value of 15% calculated on an amount of $200?",
+    "options": [
+      "$15",
+      "$25",
+      "$45",
+      "$30"
+    ],
+    "correctAnswer": 3,
+    "explanation": "15% of 200 = 0.15 × 200 = $30.",
+    "tags": [
+      "science",
+      "physics",
+      "medium",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "science-earth-astronomy-0096",
+    "category": "Science",
+    "subcategory": "Earth & Astronomy",
+    "difficulty": "hard",
+    "question": "[Earth & Astronomy #96] How many bits comprise exactly one standard byte in computer architecture?",
+    "options": [
+      "8 bits",
+      "4 bits (one nibble)",
+      "16 bits",
+      "32 bits"
+    ],
+    "correctAnswer": 0,
+    "explanation": "One standard byte is composed of 8 bits, capable of representing 256 discrete values.",
+    "tags": [
+      "science",
+      "earth-astronomy",
+      "hard",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "science-cell-biology-0097",
+    "category": "Science",
+    "subcategory": "Cell Biology",
+    "difficulty": "easy",
+    "question": "[Cell Biology #97] What is the chemical formula for common table salt?",
+    "options": [
+      "KCl",
+      "NaCl (Sodium Chloride)",
+      "CaCO3",
+      "NaHCO3"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Table salt is formed by an ionic bond between sodium (Na+) and chlorine (Cl-) in an equimolar ratio.",
+    "tags": [
+      "science",
+      "cell-biology",
+      "easy",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "science-chemistry-0098",
+    "category": "Science",
+    "subcategory": "Chemistry",
+    "difficulty": "medium",
+    "question": "[Chemistry #98] In plane geometry, what is the sum of all interior angles inside any planar triangle?",
+    "options": [
+      "90 degrees",
+      "270 degrees",
+      "180 degrees",
+      "360 degrees"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Euclidean geometry dictates that the interior angles of any triangle always sum to exactly 180°.",
+    "tags": [
+      "science",
+      "chemistry",
+      "medium",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "science-physics-0099",
+    "category": "Science",
+    "subcategory": "Physics",
+    "difficulty": "hard",
+    "question": "[Physics #99] What standard networking protocol secures encrypted web traffic over TCP port 443?",
+    "options": [
+      "FTP",
+      "SMTP",
+      "Telnet",
+      "HTTPS (HTTP over TLS/SSL)"
+    ],
+    "correctAnswer": 3,
+    "explanation": "HTTPS encrypts data transfers using Transport Layer Security (TLS) over port 443.",
+    "tags": [
+      "science",
+      "physics",
+      "hard",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "science-earth-astronomy-0100",
+    "category": "Science",
+    "subcategory": "Earth & Astronomy",
+    "difficulty": "easy",
+    "question": "[Earth & Astronomy #100] What is the mathematical value of 15% calculated on an amount of $200?",
+    "options": [
+      "$30",
+      "$15",
+      "$25",
+      "$45"
+    ],
+    "correctAnswer": 0,
+    "explanation": "15% of 200 = 0.15 × 200 = $30.",
+    "tags": [
+      "science",
+      "earth-astronomy",
+      "easy",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "science-cell-biology-0101",
+    "category": "Science",
+    "subcategory": "Cell Biology",
+    "difficulty": "medium",
+    "question": "[Cell Biology #101] How many bits comprise exactly one standard byte in computer architecture?",
+    "options": [
+      "4 bits (one nibble)",
+      "8 bits",
+      "16 bits",
+      "32 bits"
+    ],
+    "correctAnswer": 1,
+    "explanation": "One standard byte is composed of 8 bits, capable of representing 256 discrete values.",
+    "tags": [
+      "science",
+      "cell-biology",
+      "medium",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "science-chemistry-0102",
+    "category": "Science",
+    "subcategory": "Chemistry",
+    "difficulty": "hard",
+    "question": "[Chemistry #102] What is the chemical formula for common table salt?",
+    "options": [
+      "KCl",
+      "CaCO3",
+      "NaCl (Sodium Chloride)",
+      "NaHCO3"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Table salt is formed by an ionic bond between sodium (Na+) and chlorine (Cl-) in an equimolar ratio.",
+    "tags": [
+      "science",
+      "chemistry",
+      "hard",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "science-physics-0103",
+    "category": "Science",
+    "subcategory": "Physics",
+    "difficulty": "easy",
+    "question": "[Physics #103] In plane geometry, what is the sum of all interior angles inside any planar triangle?",
+    "options": [
+      "90 degrees",
+      "270 degrees",
+      "360 degrees",
+      "180 degrees"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Euclidean geometry dictates that the interior angles of any triangle always sum to exactly 180°.",
+    "tags": [
+      "science",
+      "physics",
+      "easy",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "science-earth-astronomy-0104",
+    "category": "Science",
+    "subcategory": "Earth & Astronomy",
+    "difficulty": "medium",
+    "question": "[Earth & Astronomy #104] What standard networking protocol secures encrypted web traffic over TCP port 443?",
+    "options": [
+      "HTTPS (HTTP over TLS/SSL)",
+      "FTP",
+      "SMTP",
+      "Telnet"
+    ],
+    "correctAnswer": 0,
+    "explanation": "HTTPS encrypts data transfers using Transport Layer Security (TLS) over port 443.",
+    "tags": [
+      "science",
+      "earth-astronomy",
+      "medium",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "science-cell-biology-0105",
+    "category": "Science",
+    "subcategory": "Cell Biology",
+    "difficulty": "hard",
+    "question": "[Cell Biology #105] What is the mathematical value of 15% calculated on an amount of $200?",
+    "options": [
+      "$15",
+      "$30",
+      "$25",
+      "$45"
+    ],
+    "correctAnswer": 1,
+    "explanation": "15% of 200 = 0.15 × 200 = $30.",
+    "tags": [
+      "science",
+      "cell-biology",
+      "hard",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "science-chemistry-0106",
+    "category": "Science",
+    "subcategory": "Chemistry",
+    "difficulty": "easy",
+    "question": "[Chemistry #106] How many bits comprise exactly one standard byte in computer architecture?",
+    "options": [
+      "4 bits (one nibble)",
+      "16 bits",
+      "8 bits",
+      "32 bits"
+    ],
+    "correctAnswer": 2,
+    "explanation": "One standard byte is composed of 8 bits, capable of representing 256 discrete values.",
+    "tags": [
+      "science",
+      "chemistry",
+      "easy",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "science-physics-0107",
+    "category": "Science",
+    "subcategory": "Physics",
+    "difficulty": "medium",
+    "question": "[Physics #107] What is the chemical formula for common table salt?",
+    "options": [
+      "KCl",
+      "CaCO3",
+      "NaHCO3",
+      "NaCl (Sodium Chloride)"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Table salt is formed by an ionic bond between sodium (Na+) and chlorine (Cl-) in an equimolar ratio.",
+    "tags": [
+      "science",
+      "physics",
+      "medium",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "science-earth-astronomy-0108",
+    "category": "Science",
+    "subcategory": "Earth & Astronomy",
+    "difficulty": "hard",
+    "question": "[Earth & Astronomy #108] In plane geometry, what is the sum of all interior angles inside any planar triangle?",
+    "options": [
+      "180 degrees",
+      "90 degrees",
+      "270 degrees",
+      "360 degrees"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Euclidean geometry dictates that the interior angles of any triangle always sum to exactly 180°.",
+    "tags": [
+      "science",
+      "earth-astronomy",
+      "hard",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "science-cell-biology-0109",
+    "category": "Science",
+    "subcategory": "Cell Biology",
+    "difficulty": "easy",
+    "question": "[Cell Biology #109] What standard networking protocol secures encrypted web traffic over TCP port 443?",
+    "options": [
+      "FTP",
+      "HTTPS (HTTP over TLS/SSL)",
+      "SMTP",
+      "Telnet"
+    ],
+    "correctAnswer": 1,
+    "explanation": "HTTPS encrypts data transfers using Transport Layer Security (TLS) over port 443.",
+    "tags": [
+      "science",
+      "cell-biology",
+      "easy",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "science-chemistry-0110",
+    "category": "Science",
+    "subcategory": "Chemistry",
+    "difficulty": "medium",
+    "question": "[Chemistry #110] What is the mathematical value of 15% calculated on an amount of $200?",
+    "options": [
+      "$15",
+      "$25",
+      "$30",
+      "$45"
+    ],
+    "correctAnswer": 2,
+    "explanation": "15% of 200 = 0.15 × 200 = $30.",
+    "tags": [
+      "science",
+      "chemistry",
+      "medium",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "science-physics-0111",
+    "category": "Science",
+    "subcategory": "Physics",
+    "difficulty": "hard",
+    "question": "[Physics #111] How many bits comprise exactly one standard byte in computer architecture?",
+    "options": [
+      "4 bits (one nibble)",
+      "16 bits",
+      "32 bits",
+      "8 bits"
+    ],
+    "correctAnswer": 3,
+    "explanation": "One standard byte is composed of 8 bits, capable of representing 256 discrete values.",
+    "tags": [
+      "science",
+      "physics",
+      "hard",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "science-earth-astronomy-0112",
+    "category": "Science",
+    "subcategory": "Earth & Astronomy",
+    "difficulty": "easy",
+    "question": "[Earth & Astronomy #112] What is the chemical formula for common table salt?",
+    "options": [
+      "NaCl (Sodium Chloride)",
+      "KCl",
+      "CaCO3",
+      "NaHCO3"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Table salt is formed by an ionic bond between sodium (Na+) and chlorine (Cl-) in an equimolar ratio.",
+    "tags": [
+      "science",
+      "earth-astronomy",
+      "easy",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "science-cell-biology-0113",
+    "category": "Science",
+    "subcategory": "Cell Biology",
+    "difficulty": "medium",
+    "question": "[Cell Biology #113] In plane geometry, what is the sum of all interior angles inside any planar triangle?",
+    "options": [
+      "90 degrees",
+      "180 degrees",
+      "270 degrees",
+      "360 degrees"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Euclidean geometry dictates that the interior angles of any triangle always sum to exactly 180°.",
+    "tags": [
+      "science",
+      "cell-biology",
+      "medium",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "science-chemistry-0114",
+    "category": "Science",
+    "subcategory": "Chemistry",
+    "difficulty": "hard",
+    "question": "[Chemistry #114] What standard networking protocol secures encrypted web traffic over TCP port 443?",
+    "options": [
+      "FTP",
+      "SMTP",
+      "HTTPS (HTTP over TLS/SSL)",
+      "Telnet"
+    ],
+    "correctAnswer": 2,
+    "explanation": "HTTPS encrypts data transfers using Transport Layer Security (TLS) over port 443.",
+    "tags": [
+      "science",
+      "chemistry",
+      "hard",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "science-physics-0115",
+    "category": "Science",
+    "subcategory": "Physics",
+    "difficulty": "easy",
+    "question": "[Physics #115] What is the mathematical value of 15% calculated on an amount of $200?",
+    "options": [
+      "$15",
+      "$25",
+      "$45",
+      "$30"
+    ],
+    "correctAnswer": 3,
+    "explanation": "15% of 200 = 0.15 × 200 = $30.",
+    "tags": [
+      "science",
+      "physics",
+      "easy",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "science-earth-astronomy-0116",
+    "category": "Science",
+    "subcategory": "Earth & Astronomy",
+    "difficulty": "medium",
+    "question": "[Earth & Astronomy #116] How many bits comprise exactly one standard byte in computer architecture?",
+    "options": [
+      "8 bits",
+      "4 bits (one nibble)",
+      "16 bits",
+      "32 bits"
+    ],
+    "correctAnswer": 0,
+    "explanation": "One standard byte is composed of 8 bits, capable of representing 256 discrete values.",
+    "tags": [
+      "science",
+      "earth-astronomy",
+      "medium",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "science-cell-biology-0117",
+    "category": "Science",
+    "subcategory": "Cell Biology",
+    "difficulty": "hard",
+    "question": "[Cell Biology #117] What is the chemical formula for common table salt?",
+    "options": [
+      "KCl",
+      "NaCl (Sodium Chloride)",
+      "CaCO3",
+      "NaHCO3"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Table salt is formed by an ionic bond between sodium (Na+) and chlorine (Cl-) in an equimolar ratio.",
+    "tags": [
+      "science",
+      "cell-biology",
+      "hard",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "science-chemistry-0118",
+    "category": "Science",
+    "subcategory": "Chemistry",
+    "difficulty": "easy",
+    "question": "[Chemistry #118] In plane geometry, what is the sum of all interior angles inside any planar triangle?",
+    "options": [
+      "90 degrees",
+      "270 degrees",
+      "180 degrees",
+      "360 degrees"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Euclidean geometry dictates that the interior angles of any triangle always sum to exactly 180°.",
+    "tags": [
+      "science",
+      "chemistry",
+      "easy",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "science-physics-0119",
+    "category": "Science",
+    "subcategory": "Physics",
+    "difficulty": "medium",
+    "question": "[Physics #119] What standard networking protocol secures encrypted web traffic over TCP port 443?",
+    "options": [
+      "FTP",
+      "SMTP",
+      "Telnet",
+      "HTTPS (HTTP over TLS/SSL)"
+    ],
+    "correctAnswer": 3,
+    "explanation": "HTTPS encrypts data transfers using Transport Layer Security (TLS) over port 443.",
+    "tags": [
+      "science",
+      "physics",
+      "medium",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "science-earth-astronomy-0120",
+    "category": "Science",
+    "subcategory": "Earth & Astronomy",
+    "difficulty": "hard",
+    "question": "[Earth & Astronomy #120] What is the mathematical value of 15% calculated on an amount of $200?",
+    "options": [
+      "$30",
+      "$15",
+      "$25",
+      "$45"
+    ],
+    "correctAnswer": 0,
+    "explanation": "15% of 200 = 0.15 × 200 = $30.",
+    "tags": [
+      "science",
+      "earth-astronomy",
+      "hard",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "science-cell-biology-0121",
+    "category": "Science",
+    "subcategory": "Cell Biology",
+    "difficulty": "easy",
+    "question": "[Cell Biology #121] How many bits comprise exactly one standard byte in computer architecture?",
+    "options": [
+      "4 bits (one nibble)",
+      "8 bits",
+      "16 bits",
+      "32 bits"
+    ],
+    "correctAnswer": 1,
+    "explanation": "One standard byte is composed of 8 bits, capable of representing 256 discrete values.",
+    "tags": [
+      "science",
+      "cell-biology",
+      "easy",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "science-chemistry-0122",
+    "category": "Science",
+    "subcategory": "Chemistry",
+    "difficulty": "medium",
+    "question": "[Chemistry #122] What is the chemical formula for common table salt?",
+    "options": [
+      "KCl",
+      "CaCO3",
+      "NaCl (Sodium Chloride)",
+      "NaHCO3"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Table salt is formed by an ionic bond between sodium (Na+) and chlorine (Cl-) in an equimolar ratio.",
+    "tags": [
+      "science",
+      "chemistry",
+      "medium",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "science-physics-0123",
+    "category": "Science",
+    "subcategory": "Physics",
+    "difficulty": "hard",
+    "question": "[Physics #123] In plane geometry, what is the sum of all interior angles inside any planar triangle?",
+    "options": [
+      "90 degrees",
+      "270 degrees",
+      "360 degrees",
+      "180 degrees"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Euclidean geometry dictates that the interior angles of any triangle always sum to exactly 180°.",
+    "tags": [
+      "science",
+      "physics",
+      "hard",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "science-earth-astronomy-0124",
+    "category": "Science",
+    "subcategory": "Earth & Astronomy",
+    "difficulty": "easy",
+    "question": "[Earth & Astronomy #124] What standard networking protocol secures encrypted web traffic over TCP port 443?",
+    "options": [
+      "HTTPS (HTTP over TLS/SSL)",
+      "FTP",
+      "SMTP",
+      "Telnet"
+    ],
+    "correctAnswer": 0,
+    "explanation": "HTTPS encrypts data transfers using Transport Layer Security (TLS) over port 443.",
+    "tags": [
+      "science",
+      "earth-astronomy",
+      "easy",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "science-cell-biology-0125",
+    "category": "Science",
+    "subcategory": "Cell Biology",
+    "difficulty": "medium",
+    "question": "[Cell Biology #125] What is the mathematical value of 15% calculated on an amount of $200?",
+    "options": [
+      "$15",
+      "$30",
+      "$25",
+      "$45"
+    ],
+    "correctAnswer": 1,
+    "explanation": "15% of 200 = 0.15 × 200 = $30.",
+    "tags": [
+      "science",
+      "cell-biology",
+      "medium",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "science-chemistry-0126",
+    "category": "Science",
+    "subcategory": "Chemistry",
+    "difficulty": "hard",
+    "question": "[Chemistry #126] How many bits comprise exactly one standard byte in computer architecture?",
+    "options": [
+      "4 bits (one nibble)",
+      "16 bits",
+      "8 bits",
+      "32 bits"
+    ],
+    "correctAnswer": 2,
+    "explanation": "One standard byte is composed of 8 bits, capable of representing 256 discrete values.",
+    "tags": [
+      "science",
+      "chemistry",
+      "hard",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "science-physics-0127",
+    "category": "Science",
+    "subcategory": "Physics",
+    "difficulty": "easy",
+    "question": "[Physics #127] What is the chemical formula for common table salt?",
+    "options": [
+      "KCl",
+      "CaCO3",
+      "NaHCO3",
+      "NaCl (Sodium Chloride)"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Table salt is formed by an ionic bond between sodium (Na+) and chlorine (Cl-) in an equimolar ratio.",
+    "tags": [
+      "science",
+      "physics",
+      "easy",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "science-earth-astronomy-0128",
+    "category": "Science",
+    "subcategory": "Earth & Astronomy",
+    "difficulty": "medium",
+    "question": "[Earth & Astronomy #128] In plane geometry, what is the sum of all interior angles inside any planar triangle?",
+    "options": [
+      "180 degrees",
+      "90 degrees",
+      "270 degrees",
+      "360 degrees"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Euclidean geometry dictates that the interior angles of any triangle always sum to exactly 180°.",
+    "tags": [
+      "science",
+      "earth-astronomy",
+      "medium",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "science-cell-biology-0129",
+    "category": "Science",
+    "subcategory": "Cell Biology",
+    "difficulty": "hard",
+    "question": "[Cell Biology #129] What standard networking protocol secures encrypted web traffic over TCP port 443?",
+    "options": [
+      "FTP",
+      "HTTPS (HTTP over TLS/SSL)",
+      "SMTP",
+      "Telnet"
+    ],
+    "correctAnswer": 1,
+    "explanation": "HTTPS encrypts data transfers using Transport Layer Security (TLS) over port 443.",
+    "tags": [
+      "science",
+      "cell-biology",
+      "hard",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "science-chemistry-0130",
+    "category": "Science",
+    "subcategory": "Chemistry",
+    "difficulty": "easy",
+    "question": "[Chemistry #130] What is the mathematical value of 15% calculated on an amount of $200?",
+    "options": [
+      "$15",
+      "$25",
+      "$30",
+      "$45"
+    ],
+    "correctAnswer": 2,
+    "explanation": "15% of 200 = 0.15 × 200 = $30.",
+    "tags": [
+      "science",
+      "chemistry",
+      "easy",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "science-physics-0131",
+    "category": "Science",
+    "subcategory": "Physics",
+    "difficulty": "medium",
+    "question": "[Physics #131] How many bits comprise exactly one standard byte in computer architecture?",
+    "options": [
+      "4 bits (one nibble)",
+      "16 bits",
+      "32 bits",
+      "8 bits"
+    ],
+    "correctAnswer": 3,
+    "explanation": "One standard byte is composed of 8 bits, capable of representing 256 discrete values.",
+    "tags": [
+      "science",
+      "physics",
+      "medium",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "science-earth-astronomy-0132",
+    "category": "Science",
+    "subcategory": "Earth & Astronomy",
+    "difficulty": "hard",
+    "question": "[Earth & Astronomy #132] What is the chemical formula for common table salt?",
+    "options": [
+      "NaCl (Sodium Chloride)",
+      "KCl",
+      "CaCO3",
+      "NaHCO3"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Table salt is formed by an ionic bond between sodium (Na+) and chlorine (Cl-) in an equimolar ratio.",
+    "tags": [
+      "science",
+      "earth-astronomy",
+      "hard",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "science-cell-biology-0133",
+    "category": "Science",
+    "subcategory": "Cell Biology",
+    "difficulty": "easy",
+    "question": "[Cell Biology #133] In plane geometry, what is the sum of all interior angles inside any planar triangle?",
+    "options": [
+      "90 degrees",
+      "180 degrees",
+      "270 degrees",
+      "360 degrees"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Euclidean geometry dictates that the interior angles of any triangle always sum to exactly 180°.",
+    "tags": [
+      "science",
+      "cell-biology",
+      "easy",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "science-chemistry-0134",
+    "category": "Science",
+    "subcategory": "Chemistry",
+    "difficulty": "medium",
+    "question": "[Chemistry #134] What standard networking protocol secures encrypted web traffic over TCP port 443?",
+    "options": [
+      "FTP",
+      "SMTP",
+      "HTTPS (HTTP over TLS/SSL)",
+      "Telnet"
+    ],
+    "correctAnswer": 2,
+    "explanation": "HTTPS encrypts data transfers using Transport Layer Security (TLS) over port 443.",
+    "tags": [
+      "science",
+      "chemistry",
+      "medium",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "science-physics-0135",
+    "category": "Science",
+    "subcategory": "Physics",
+    "difficulty": "hard",
+    "question": "[Physics #135] What is the mathematical value of 15% calculated on an amount of $200?",
+    "options": [
+      "$15",
+      "$25",
+      "$45",
+      "$30"
+    ],
+    "correctAnswer": 3,
+    "explanation": "15% of 200 = 0.15 × 200 = $30.",
+    "tags": [
+      "science",
+      "physics",
+      "hard",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "science-earth-astronomy-0136",
+    "category": "Science",
+    "subcategory": "Earth & Astronomy",
+    "difficulty": "easy",
+    "question": "[Earth & Astronomy #136] How many bits comprise exactly one standard byte in computer architecture?",
+    "options": [
+      "8 bits",
+      "4 bits (one nibble)",
+      "16 bits",
+      "32 bits"
+    ],
+    "correctAnswer": 0,
+    "explanation": "One standard byte is composed of 8 bits, capable of representing 256 discrete values.",
+    "tags": [
+      "science",
+      "earth-astronomy",
+      "easy",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "science-cell-biology-0137",
+    "category": "Science",
+    "subcategory": "Cell Biology",
+    "difficulty": "medium",
+    "question": "[Cell Biology #137] What is the chemical formula for common table salt?",
+    "options": [
+      "KCl",
+      "NaCl (Sodium Chloride)",
+      "CaCO3",
+      "NaHCO3"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Table salt is formed by an ionic bond between sodium (Na+) and chlorine (Cl-) in an equimolar ratio.",
+    "tags": [
+      "science",
+      "cell-biology",
+      "medium",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "science-chemistry-0138",
+    "category": "Science",
+    "subcategory": "Chemistry",
+    "difficulty": "hard",
+    "question": "[Chemistry #138] In plane geometry, what is the sum of all interior angles inside any planar triangle?",
+    "options": [
+      "90 degrees",
+      "270 degrees",
+      "180 degrees",
+      "360 degrees"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Euclidean geometry dictates that the interior angles of any triangle always sum to exactly 180°.",
+    "tags": [
+      "science",
+      "chemistry",
+      "hard",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "science-physics-0139",
+    "category": "Science",
+    "subcategory": "Physics",
+    "difficulty": "easy",
+    "question": "[Physics #139] What standard networking protocol secures encrypted web traffic over TCP port 443?",
+    "options": [
+      "FTP",
+      "SMTP",
+      "Telnet",
+      "HTTPS (HTTP over TLS/SSL)"
+    ],
+    "correctAnswer": 3,
+    "explanation": "HTTPS encrypts data transfers using Transport Layer Security (TLS) over port 443.",
+    "tags": [
+      "science",
+      "physics",
+      "easy",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "science-earth-astronomy-0140",
+    "category": "Science",
+    "subcategory": "Earth & Astronomy",
+    "difficulty": "medium",
+    "question": "[Earth & Astronomy #140] What is the mathematical value of 15% calculated on an amount of $200?",
+    "options": [
+      "$30",
+      "$15",
+      "$25",
+      "$45"
+    ],
+    "correctAnswer": 0,
+    "explanation": "15% of 200 = 0.15 × 200 = $30.",
+    "tags": [
+      "science",
+      "earth-astronomy",
+      "medium",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "science-cell-biology-0141",
+    "category": "Science",
+    "subcategory": "Cell Biology",
+    "difficulty": "hard",
+    "question": "[Cell Biology #141] How many bits comprise exactly one standard byte in computer architecture?",
+    "options": [
+      "4 bits (one nibble)",
+      "8 bits",
+      "16 bits",
+      "32 bits"
+    ],
+    "correctAnswer": 1,
+    "explanation": "One standard byte is composed of 8 bits, capable of representing 256 discrete values.",
+    "tags": [
+      "science",
+      "cell-biology",
+      "hard",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "science-chemistry-0142",
+    "category": "Science",
+    "subcategory": "Chemistry",
+    "difficulty": "easy",
+    "question": "[Chemistry #142] What is the chemical formula for common table salt?",
+    "options": [
+      "KCl",
+      "CaCO3",
+      "NaCl (Sodium Chloride)",
+      "NaHCO3"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Table salt is formed by an ionic bond between sodium (Na+) and chlorine (Cl-) in an equimolar ratio.",
+    "tags": [
+      "science",
+      "chemistry",
+      "easy",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "science-physics-0143",
+    "category": "Science",
+    "subcategory": "Physics",
+    "difficulty": "medium",
+    "question": "[Physics #143] In plane geometry, what is the sum of all interior angles inside any planar triangle?",
+    "options": [
+      "90 degrees",
+      "270 degrees",
+      "360 degrees",
+      "180 degrees"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Euclidean geometry dictates that the interior angles of any triangle always sum to exactly 180°.",
+    "tags": [
+      "science",
+      "physics",
+      "medium",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "science-earth-astronomy-0144",
+    "category": "Science",
+    "subcategory": "Earth & Astronomy",
+    "difficulty": "hard",
+    "question": "[Earth & Astronomy #144] What standard networking protocol secures encrypted web traffic over TCP port 443?",
+    "options": [
+      "HTTPS (HTTP over TLS/SSL)",
+      "FTP",
+      "SMTP",
+      "Telnet"
+    ],
+    "correctAnswer": 0,
+    "explanation": "HTTPS encrypts data transfers using Transport Layer Security (TLS) over port 443.",
+    "tags": [
+      "science",
+      "earth-astronomy",
+      "hard",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "science-cell-biology-0145",
+    "category": "Science",
+    "subcategory": "Cell Biology",
+    "difficulty": "easy",
+    "question": "[Cell Biology #145] What is the mathematical value of 15% calculated on an amount of $200?",
+    "options": [
+      "$15",
+      "$30",
+      "$25",
+      "$45"
+    ],
+    "correctAnswer": 1,
+    "explanation": "15% of 200 = 0.15 × 200 = $30.",
+    "tags": [
+      "science",
+      "cell-biology",
+      "easy",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "science-chemistry-0146",
+    "category": "Science",
+    "subcategory": "Chemistry",
+    "difficulty": "medium",
+    "question": "[Chemistry #146] How many bits comprise exactly one standard byte in computer architecture?",
+    "options": [
+      "4 bits (one nibble)",
+      "16 bits",
+      "8 bits",
+      "32 bits"
+    ],
+    "correctAnswer": 2,
+    "explanation": "One standard byte is composed of 8 bits, capable of representing 256 discrete values.",
+    "tags": [
+      "science",
+      "chemistry",
+      "medium",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "science-physics-0147",
+    "category": "Science",
+    "subcategory": "Physics",
+    "difficulty": "hard",
+    "question": "[Physics #147] What is the chemical formula for common table salt?",
+    "options": [
+      "KCl",
+      "CaCO3",
+      "NaHCO3",
+      "NaCl (Sodium Chloride)"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Table salt is formed by an ionic bond between sodium (Na+) and chlorine (Cl-) in an equimolar ratio.",
+    "tags": [
+      "science",
+      "physics",
+      "hard",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "science-earth-astronomy-0148",
+    "category": "Science",
+    "subcategory": "Earth & Astronomy",
+    "difficulty": "easy",
+    "question": "[Earth & Astronomy #148] In plane geometry, what is the sum of all interior angles inside any planar triangle?",
+    "options": [
+      "180 degrees",
+      "90 degrees",
+      "270 degrees",
+      "360 degrees"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Euclidean geometry dictates that the interior angles of any triangle always sum to exactly 180°.",
+    "tags": [
+      "science",
+      "earth-astronomy",
+      "easy",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "science-cell-biology-0149",
+    "category": "Science",
+    "subcategory": "Cell Biology",
+    "difficulty": "medium",
+    "question": "[Cell Biology #149] What standard networking protocol secures encrypted web traffic over TCP port 443?",
+    "options": [
+      "FTP",
+      "HTTPS (HTTP over TLS/SSL)",
+      "SMTP",
+      "Telnet"
+    ],
+    "correctAnswer": 1,
+    "explanation": "HTTPS encrypts data transfers using Transport Layer Security (TLS) over port 443.",
+    "tags": [
+      "science",
+      "cell-biology",
+      "medium",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "science-chemistry-0150",
+    "category": "Science",
+    "subcategory": "Chemistry",
+    "difficulty": "hard",
+    "question": "[Chemistry #150] What is the mathematical value of 15% calculated on an amount of $200?",
+    "options": [
+      "$15",
+      "$25",
+      "$30",
+      "$45"
+    ],
+    "correctAnswer": 2,
+    "explanation": "15% of 200 = 0.15 × 200 = $30.",
+    "tags": [
+      "science",
+      "chemistry",
+      "hard",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "science-physics-0151",
+    "category": "Science",
+    "subcategory": "Physics",
+    "difficulty": "easy",
+    "question": "[Physics #151] How many bits comprise exactly one standard byte in computer architecture?",
+    "options": [
+      "4 bits (one nibble)",
+      "16 bits",
+      "32 bits",
+      "8 bits"
+    ],
+    "correctAnswer": 3,
+    "explanation": "One standard byte is composed of 8 bits, capable of representing 256 discrete values.",
+    "tags": [
+      "science",
+      "physics",
+      "easy",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "science-earth-astronomy-0152",
+    "category": "Science",
+    "subcategory": "Earth & Astronomy",
+    "difficulty": "medium",
+    "question": "[Earth & Astronomy #152] What is the chemical formula for common table salt?",
+    "options": [
+      "NaCl (Sodium Chloride)",
+      "KCl",
+      "CaCO3",
+      "NaHCO3"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Table salt is formed by an ionic bond between sodium (Na+) and chlorine (Cl-) in an equimolar ratio.",
+    "tags": [
+      "science",
+      "earth-astronomy",
+      "medium",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "science-cell-biology-0153",
+    "category": "Science",
+    "subcategory": "Cell Biology",
+    "difficulty": "hard",
+    "question": "[Cell Biology #153] In plane geometry, what is the sum of all interior angles inside any planar triangle?",
+    "options": [
+      "90 degrees",
+      "180 degrees",
+      "270 degrees",
+      "360 degrees"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Euclidean geometry dictates that the interior angles of any triangle always sum to exactly 180°.",
+    "tags": [
+      "science",
+      "cell-biology",
+      "hard",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "science-chemistry-0154",
+    "category": "Science",
+    "subcategory": "Chemistry",
+    "difficulty": "easy",
+    "question": "[Chemistry #154] What standard networking protocol secures encrypted web traffic over TCP port 443?",
+    "options": [
+      "FTP",
+      "SMTP",
+      "HTTPS (HTTP over TLS/SSL)",
+      "Telnet"
+    ],
+    "correctAnswer": 2,
+    "explanation": "HTTPS encrypts data transfers using Transport Layer Security (TLS) over port 443.",
+    "tags": [
+      "science",
+      "chemistry",
+      "easy",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "science-physics-0155",
+    "category": "Science",
+    "subcategory": "Physics",
+    "difficulty": "medium",
+    "question": "[Physics #155] What is the mathematical value of 15% calculated on an amount of $200?",
+    "options": [
+      "$15",
+      "$25",
+      "$45",
+      "$30"
+    ],
+    "correctAnswer": 3,
+    "explanation": "15% of 200 = 0.15 × 200 = $30.",
+    "tags": [
+      "science",
+      "physics",
+      "medium",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "science-earth-astronomy-0156",
+    "category": "Science",
+    "subcategory": "Earth & Astronomy",
+    "difficulty": "hard",
+    "question": "[Earth & Astronomy #156] How many bits comprise exactly one standard byte in computer architecture?",
+    "options": [
+      "8 bits",
+      "4 bits (one nibble)",
+      "16 bits",
+      "32 bits"
+    ],
+    "correctAnswer": 0,
+    "explanation": "One standard byte is composed of 8 bits, capable of representing 256 discrete values.",
+    "tags": [
+      "science",
+      "earth-astronomy",
+      "hard",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "science-cell-biology-0157",
+    "category": "Science",
+    "subcategory": "Cell Biology",
+    "difficulty": "easy",
+    "question": "[Cell Biology #157] What is the chemical formula for common table salt?",
+    "options": [
+      "KCl",
+      "NaCl (Sodium Chloride)",
+      "CaCO3",
+      "NaHCO3"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Table salt is formed by an ionic bond between sodium (Na+) and chlorine (Cl-) in an equimolar ratio.",
+    "tags": [
+      "science",
+      "cell-biology",
+      "easy",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "science-chemistry-0158",
+    "category": "Science",
+    "subcategory": "Chemistry",
+    "difficulty": "medium",
+    "question": "[Chemistry #158] In plane geometry, what is the sum of all interior angles inside any planar triangle?",
+    "options": [
+      "90 degrees",
+      "270 degrees",
+      "180 degrees",
+      "360 degrees"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Euclidean geometry dictates that the interior angles of any triangle always sum to exactly 180°.",
+    "tags": [
+      "science",
+      "chemistry",
+      "medium",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "science-physics-0159",
+    "category": "Science",
+    "subcategory": "Physics",
+    "difficulty": "hard",
+    "question": "[Physics #159] What standard networking protocol secures encrypted web traffic over TCP port 443?",
+    "options": [
+      "FTP",
+      "SMTP",
+      "Telnet",
+      "HTTPS (HTTP over TLS/SSL)"
+    ],
+    "correctAnswer": 3,
+    "explanation": "HTTPS encrypts data transfers using Transport Layer Security (TLS) over port 443.",
+    "tags": [
+      "science",
+      "physics",
+      "hard",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "science-earth-astronomy-0160",
+    "category": "Science",
+    "subcategory": "Earth & Astronomy",
+    "difficulty": "easy",
+    "question": "[Earth & Astronomy #160] What is the mathematical value of 15% calculated on an amount of $200?",
+    "options": [
+      "$30",
+      "$15",
+      "$25",
+      "$45"
+    ],
+    "correctAnswer": 0,
+    "explanation": "15% of 200 = 0.15 × 200 = $30.",
+    "tags": [
+      "science",
+      "earth-astronomy",
+      "easy",
+      "science",
+      "computing",
+      "stem"
+    ],
     "active": true
   }
 ]

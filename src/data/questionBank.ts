@@ -1,98 +1,82 @@
 import type { Question, ShuffledQuestion, Difficulty } from '../types/quiz';
+import statsData from '../generated/question-stats.json';
+import { CATEGORY_REGISTRY } from './categoryRegistry';
 
+// Import all 33 canonical category question banks
 import nursingQuestions from './questions/nursing.json';
+import nclexQuestions from './questions/nclex.json';
 import medicalQuestions from './questions/medical.json';
+import anatomyQuestions from './questions/anatomy-physiology.json';
 import pharmacologyQuestions from './questions/pharmacology.json';
-import anatomyQuestions from './questions/anatomy.json';
+import diseasesQuestions from './questions/diseases-disorders.json';
+import generalQuestions from './questions/general-knowledge.json';
+import historyQuestions from './questions/history.json';
 import geographyQuestions from './questions/geography.json';
 import scienceQuestions from './questions/science.json';
-import technologyQuestions from './questions/technology.json';
+import engineeringQuestions from './questions/engineering.json';
 import electricalQuestions from './questions/electrical.json';
-import historyQuestions from './questions/history.json';
-import entertainmentQuestions from './questions/entertainment.json';
-import usaTestsQuestions from './questions/usa-tests.json';
+import electricalSymbolsQuestions from './questions/electrical-symbols.json';
+import electronicsQuestions from './questions/electronics.json';
+import hvacQuestions from './questions/hvac.json';
+import technologyQuestions from './questions/technology.json';
+import computersQuestions from './questions/computers.json';
+import automotiveQuestions from './questions/automotive.json';
+import iqLogicQuestions from './questions/iq-logic.json';
 import mathematicsQuestions from './questions/mathematics.json';
-import generalKnowledgeQuestions from './questions/general-knowledge.json';
+import grammarQuestions from './questions/english-grammar.json';
+import usaTestsQuestions from './questions/usa-tests.json';
+import dmvQuestions from './questions/dmv-test.json';
+import licensePlateQuestions from './questions/license-plate-quiz.json';
+import entertainmentQuestions from './questions/entertainment.json';
+import moviesQuestions from './questions/movies.json';
+import tvShowsQuestions from './questions/tv-shows.json';
+import dramaQuestions from './questions/drama.json';
+import celebrityQuestions from './questions/celebrity.json';
+import musicQuestions from './questions/music.json';
+import cartoonQuestions from './questions/cartoon-characters.json';
+import relationshipsQuestions from './questions/relationships.json';
+import wisdomQuestions from './questions/wisdom.json';
 
-// Aggregate all verified question banks
-const ALL_QUESTIONS: Question[] = [
+// Single source of truth for all 5,000 questions
+const ALL_STORED_QUESTIONS: Question[] = [
   ...(nursingQuestions as Question[]),
+  ...(nclexQuestions as Question[]),
   ...(medicalQuestions as Question[]),
-  ...(pharmacologyQuestions as Question[]),
   ...(anatomyQuestions as Question[]),
+  ...(pharmacologyQuestions as Question[]),
+  ...(diseasesQuestions as Question[]),
+  ...(generalQuestions as Question[]),
+  ...(historyQuestions as Question[]),
   ...(geographyQuestions as Question[]),
   ...(scienceQuestions as Question[]),
-  ...(technologyQuestions as Question[]),
+  ...(engineeringQuestions as Question[]),
   ...(electricalQuestions as Question[]),
-  ...(historyQuestions as Question[]),
-  ...(entertainmentQuestions as Question[]),
-  ...(usaTestsQuestions as Question[]),
+  ...(electricalSymbolsQuestions as Question[]),
+  ...(electronicsQuestions as Question[]),
+  ...(hvacQuestions as Question[]),
+  ...(technologyQuestions as Question[]),
+  ...(computersQuestions as Question[]),
+  ...(automotiveQuestions as Question[]),
+  ...(iqLogicQuestions as Question[]),
   ...(mathematicsQuestions as Question[]),
-  ...(generalKnowledgeQuestions as Question[])
-].filter(q => q.active !== false);
+  ...(grammarQuestions as Question[]),
+  ...(usaTestsQuestions as Question[]),
+  ...(dmvQuestions as Question[]),
+  ...(licensePlateQuestions as Question[]),
+  ...(entertainmentQuestions as Question[]),
+  ...(moviesQuestions as Question[]),
+  ...(tvShowsQuestions as Question[]),
+  ...(dramaQuestions as Question[]),
+  ...(celebrityQuestions as Question[]),
+  ...(musicQuestions as Question[]),
+  ...(cartoonQuestions as Question[]),
+  ...(relationshipsQuestions as Question[]),
+  ...(wisdomQuestions as Question[])
+];
 
-/**
- * Normalizes text for strict, resilient key matching
- */
-function normalizeKey(str: string): string {
+export function normalizeKey(str: string): string {
   return str.toLowerCase().replace(/[^a-z0-9]/g, '');
 }
-
-/**
- * Explicit mapping of subcategories, aliases, and slugs to their target category/subcategory
- */
-const CATEGORY_MAP: Record<string, { category: string; subcategory?: string }> = {
-  // Nursing & NCLEX
-  'nursing': { category: 'Nursing' },
-  'nclex': { category: 'Nursing' },
-  'nursingnclex': { category: 'Nursing' },
-
-  // Medical & Healthcare
-  'medical': { category: 'Medical' },
-  'medicalterminology': { category: 'Medical' },
-  'pharmacology': { category: 'Pharmacology' },
-  'anatomy': { category: 'Anatomy & Physiology' },
-  'anatomyphysiology': { category: 'Anatomy & Physiology' },
-  'skeletalsystem': { category: 'Anatomy & Physiology', subcategory: 'Skeletal System' },
-
-  // Geography
-  'geography': { category: 'Geography' },
-  'usstatecapitals': { category: 'Geography', subcategory: 'US State Capitals' },
-  'worldgeography': { category: 'Geography' },
-
-  // Science & Tech
-  'science': { category: 'Science' },
-  'generalscience': { category: 'Science' },
-  'technology': { category: 'Technology' },
-  'computers': { category: 'Technology' },
-  'electrical': { category: 'Electrical' },
-  'electricalsymbols': { category: 'Electrical', subcategory: 'Electrical Symbols' },
-  'electronics': { category: 'Electrical' },
-
-  // History & Civics
-  'history': { category: 'History' },
-  'ushistory': { category: 'History' },
-  'worldhistory': { category: 'History' },
-  'usatests': { category: 'USA Tests' },
-  'dmv': { category: 'USA Tests', subcategory: 'DMV Test' },
-  'dmvtest': { category: 'USA Tests', subcategory: 'DMV Test' },
-  'civics': { category: 'USA Tests' },
-
-  // Mathematics & Logic
-  'mathematics': { category: 'Mathematics' },
-  'math': { category: 'Mathematics' },
-  'speedmath': { category: 'Mathematics' },
-  'iqlogic': { category: 'Mathematics' },
-
-  // Entertainment
-  'entertainment': { category: 'Entertainment' },
-  'cartooncharacters': { category: 'Entertainment', subcategory: 'Cartoon Characters' },
-  'movies': { category: 'Entertainment', subcategory: 'Movies' },
-
-  // General
-  'generalknowledge': { category: 'General Knowledge' },
-  'general': { category: 'General Knowledge' }
-};
 
 /**
  * Fisher-Yates array shuffle (in-place clone)
@@ -116,9 +100,6 @@ export function shuffleArray<T>(array: T[], seed?: number): T[] {
   return result;
 }
 
-/**
- * Shuffle answer options while maintaining reference to the correct option text.
- */
 export function prepareShuffledQuestion(q: Question, seed?: number): ShuffledQuestion {
   const correctOptionText = q.options[q.correctAnswer];
   const shuffledOptions = shuffleArray(q.options, seed);
@@ -137,52 +118,91 @@ export function prepareShuffledQuestion(q: Question, seed?: number): ShuffledQue
   };
 }
 
+// --------------------------------------------------------
+// DATA ACCESS LAYER (Section 42)
+// --------------------------------------------------------
+
 export function getAllQuestions(): Question[] {
-  return ALL_QUESTIONS;
+  return ALL_STORED_QUESTIONS;
 }
 
-/**
- * Robust category filtering:
- * 1. Checks explicit alias mapping (e.g. 'nclex' -> Nursing, 'dmv-test' -> USA Tests).
- * 2. Matches normalized category name strictly.
- * 3. Never returns mixed questions from other categories when a specific category is requested.
- */
+export function getActiveQuestions(): Question[] {
+  return ALL_STORED_QUESTIONS.filter(q => q.active !== false);
+}
+
 export function getQuestionsByCategory(categoryNameOrSlug: string): Question[] {
-  const cleanTarget = categoryNameOrSlug.trim();
-  const normalized = normalizeKey(cleanTarget);
+  const normalized = normalizeKey(categoryNameOrSlug);
 
-  // Mixed or All request
+  // Virtual Mixed Quiz pulls dynamically across all active categories without duplication (Section 7 & 48)
   if (normalized === 'mixedquiz' || normalized === 'all' || normalized === 'sampler') {
-    return ALL_QUESTIONS;
+    return getActiveQuestions();
   }
 
-  // Check alias mapping
-  const mapped = CATEGORY_MAP[normalized];
-  if (mapped) {
-    let matches = ALL_QUESTIONS.filter(q => normalizeKey(q.category) === normalizeKey(mapped.category));
-    if (mapped.subcategory) {
-      const subMatches = matches.filter(q => normalizeKey(q.subcategory) === normalizeKey(mapped.subcategory!));
-      if (subMatches.length > 0) return subMatches;
-    }
-    return matches;
-  }
+  // Registry lookup
+  const registryItem = CATEGORY_REGISTRY.find(
+    c => normalizeKey(c.name) === normalized || normalizeKey(c.slug) === normalized || normalizeKey(c.id) === normalized
+  );
 
-  // Strict normalized match against category name
-  const strictMatches = ALL_QUESTIONS.filter(q => normalizeKey(q.category) === normalized);
-  if (strictMatches.length > 0) return strictMatches;
+  const targetCategoryName = registryItem ? registryItem.name : categoryNameOrSlug;
 
-  // Strict match against subcategory
-  const subMatches = ALL_QUESTIONS.filter(q => normalizeKey(q.subcategory) === normalized);
-  if (subMatches.length > 0) return subMatches;
-
-  return [];
+  return getActiveQuestions().filter(
+    q => normalizeKey(q.category) === normalizeKey(targetCategoryName)
+  );
 }
 
-/**
- * Returns the exact verified question count for a category or slug
- */
+export function getQuestionsBySubcategory(category: string, subcategory: string): Question[] {
+  const catPool = getQuestionsByCategory(category);
+  const targetSub = normalizeKey(subcategory);
+  return catPool.filter(q => normalizeKey(q.subcategory) === targetSub);
+}
+
+export function getQuestionsByDifficulty(difficulty: string): Question[] {
+  return getActiveQuestions().filter(q => q.difficulty === difficulty);
+}
+
 export function getCategoryQuestionCount(categoryNameOrSlug: string): number {
+  const normalized = normalizeKey(categoryNameOrSlug);
+  if (normalized === 'mixedquiz' || normalized === 'all') {
+    return getActiveQuestions().length;
+  }
   return getQuestionsByCategory(categoryNameOrSlug).length;
+}
+
+export interface CategoryStatItem {
+  name: string;
+  slug?: string;
+  total: number;
+  easy: number;
+  medium: number;
+  hard: number;
+  subcategories: Record<string, number>;
+}
+
+export function getQuestionStats() {
+  return statsData;
+}
+
+export function getCategoryStats(categoryNameOrSlug: string): CategoryStatItem | null {
+  const normalized = normalizeKey(categoryNameOrSlug);
+  const item = CATEGORY_REGISTRY.find(
+    c => normalizeKey(c.name) === normalized || normalizeKey(c.slug) === normalized
+  );
+  if (!item) return null;
+  return ((statsData.categories as unknown as Record<string, CategoryStatItem>)[item.slug]) || null;
+}
+
+export function searchQuestions(query: string): Question[] {
+  const qClean = query.toLowerCase().trim();
+  if (!qClean) return [];
+
+  return getActiveQuestions().filter(q => {
+    return (
+      q.question.toLowerCase().includes(qClean) ||
+      q.category.toLowerCase().includes(qClean) ||
+      q.subcategory.toLowerCase().includes(qClean) ||
+      q.tags.some(t => t.toLowerCase().includes(qClean))
+    );
+  });
 }
 
 export interface QuizFilterOptions {
@@ -193,20 +213,16 @@ export interface QuizFilterOptions {
   seed?: number;
 }
 
-/**
- * Select and prepare randomized questions for any quiz configuration.
- * Strictly guarantees that non-mixed quizzes NEVER pull questions from other categories.
- */
 export function generateQuizQuestions(options: QuizFilterOptions = {}): ShuffledQuestion[] {
   let pool: Question[];
 
   if (options.category && normalizeKey(options.category) !== 'mixedquiz' && normalizeKey(options.category) !== 'all') {
-    // Strictly filter by category - NEVER fall back to ALL_QUESTIONS
     pool = getQuestionsByCategory(options.category);
   } else {
-    pool = [...ALL_QUESTIONS];
+    pool = getActiveQuestions();
   }
 
+  // Prioritize subcategory if provided, but never truncate below count if more questions exist in same category
   if (options.subcategory && pool.length > 0) {
     const subKey = normalizeKey(options.subcategory);
     const subFiltered = pool.filter(q => normalizeKey(q.subcategory).includes(subKey));
@@ -220,6 +236,7 @@ export function generateQuizQuestions(options: QuizFilterOptions = {}): Shuffled
     }
   }
 
+  // Prioritize difficulty if provided, but never truncate below count if more questions exist in same category
   if (options.difficulty && options.difficulty !== 'mixed' && pool.length > 0) {
     const diffFiltered = pool.filter(q => q.difficulty === options.difficulty);
     if (diffFiltered.length > 0) {
@@ -232,12 +249,10 @@ export function generateQuizQuestions(options: QuizFilterOptions = {}): Shuffled
     }
   }
 
-  // If pool is empty, return empty array immediately (no bleed from other categories)
   if (pool.length === 0) {
     return [];
   }
 
-  // Shuffle pool
   const shuffledPool = shuffleArray(pool, options.seed);
   const limit = options.count && options.count > 0 ? Math.min(options.count, shuffledPool.length) : Math.min(10, shuffledPool.length);
   const selected = shuffledPool.slice(0, limit);
@@ -245,15 +260,10 @@ export function generateQuizQuestions(options: QuizFilterOptions = {}): Shuffled
   return selected.map(q => prepareShuffledQuestion(q, options.seed));
 }
 
-/**
- * Deterministic Daily Quiz Generator based on Calendar Date (YYYY-MM-DD)
- */
 export function getDailyQuizQuestions(dateString?: string): ShuffledQuestion[] {
   const targetDate = dateString || new Date().toISOString().slice(0, 10);
-  
   const numericSeed = targetDate.split('-').reduce((acc, part) => acc * 100 + parseInt(part, 10), 0);
 
-  // Blend easy, medium, and hard across categories
   return generateQuizQuestions({
     count: 10,
     seed: numericSeed

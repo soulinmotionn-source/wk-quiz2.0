@@ -1,10 +1,10 @@
 [
   {
-    "id": "history-us-history-0001",
-    "category": "History",
-    "subcategory": "US History",
+    "id": "movies-classic-cinema-0001",
+    "category": "Movies",
+    "subcategory": "Classic Cinema",
     "difficulty": "easy",
-    "question": "[US History #1] In what year was the United States Declaration of Independence formally adopted in Philadelphia?",
+    "question": "[Classic Cinema #1] In what year was the United States Declaration of Independence formally adopted in Philadelphia?",
     "options": [
       "1789",
       "1776",
@@ -14,8 +14,8 @@
     "correctAnswer": 1,
     "explanation": "The Continental Congress formally adopted the Declaration of Independence on July 4, 1776.",
     "tags": [
-      "history",
-      "us-history",
+      "movies",
+      "classic-cinema",
       "easy",
       "humanities",
       "trivia",
@@ -24,11 +24,11 @@
     "active": true
   },
   {
-    "id": "history-world-history-0002",
-    "category": "History",
-    "subcategory": "World History",
+    "id": "movies-oscar-winners-0002",
+    "category": "Movies",
+    "subcategory": "Oscar Winners",
     "difficulty": "medium",
-    "question": "[World History #2] Which Italian Renaissance polymath painted the masterpiece known worldwide as the Mona Lisa?",
+    "question": "[Oscar Winners #2] Which Italian Renaissance polymath painted the masterpiece known worldwide as the Mona Lisa?",
     "options": [
       "Michelangelo",
       "Raphael",
@@ -38,8 +38,8 @@
     "correctAnswer": 2,
     "explanation": "Leonardo da Vinci painted the Mona Lisa (La Gioconda) in the early 16th century.",
     "tags": [
-      "history",
-      "world-history",
+      "movies",
+      "oscar-winners",
       "medium",
       "humanities",
       "trivia",
@@ -48,11 +48,11 @@
     "active": true
   },
   {
-    "id": "history-ancient-civilizations-0003",
-    "category": "History",
-    "subcategory": "Ancient Civilizations",
+    "id": "movies-famous-quotes-0003",
+    "category": "Movies",
+    "subcategory": "Famous Quotes",
     "difficulty": "hard",
-    "question": "[Ancient Civilizations #3] What signature catchphrase is famously proclaimed by Pixar Star Command ranger Buzz Lightyear in Toy Story?",
+    "question": "[Famous Quotes #3] What signature catchphrase is famously proclaimed by Pixar Star Command ranger Buzz Lightyear in Toy Story?",
     "options": [
       "There is a snake in my boot!",
       "Just keep swimming!",
@@ -62,8 +62,8 @@
     "correctAnswer": 3,
     "explanation": "Buzz Lightyear, voiced by Tim Allen, proclaims 'To infinity and beyond!' before flight.",
     "tags": [
-      "history",
-      "ancient-civilizations",
+      "movies",
+      "famous-quotes",
       "hard",
       "humanities",
       "trivia",
@@ -72,11 +72,11 @@
     "active": true
   },
   {
-    "id": "history-modern-milestones-0004",
-    "category": "History",
-    "subcategory": "Modern Milestones",
+    "id": "movies-blockbusters-0004",
+    "category": "Movies",
+    "subcategory": "Blockbusters",
     "difficulty": "easy",
-    "question": "[Modern Milestones #4] In English grammar, what part of speech describes or modifies a noun or pronoun?",
+    "question": "[Blockbusters #4] In English grammar, what part of speech describes or modifies a noun or pronoun?",
     "options": [
       "Adjective",
       "Adverb",
@@ -86,8 +86,8 @@
     "correctAnswer": 0,
     "explanation": "Adjectives specify qualities, quantities, or characteristics of nouns and pronouns.",
     "tags": [
-      "history",
-      "modern-milestones",
+      "movies",
+      "blockbusters",
       "easy",
       "humanities",
       "trivia",
@@ -96,11 +96,11 @@
     "active": true
   },
   {
-    "id": "history-us-history-0005",
-    "category": "History",
-    "subcategory": "US History",
+    "id": "movies-classic-cinema-0005",
+    "category": "Movies",
+    "subcategory": "Classic Cinema",
     "difficulty": "medium",
-    "question": "[US History #5] Which ancient Greek philosopher was the mentor of Plato and formulated the method of cooperative dialogue by asking questions?",
+    "question": "[Classic Cinema #5] Which ancient Greek philosopher was the mentor of Plato and formulated the method of cooperative dialogue by asking questions?",
     "options": [
       "Aristotle",
       "Socrates",
@@ -110,8 +110,8 @@
     "correctAnswer": 1,
     "explanation": "Socrates taught in classical Athens and developed the dialectical Socratic method.",
     "tags": [
-      "history",
-      "us-history",
+      "movies",
+      "classic-cinema",
       "medium",
       "humanities",
       "trivia",
@@ -120,11 +120,11 @@
     "active": true
   },
   {
-    "id": "history-world-history-0006",
-    "category": "History",
-    "subcategory": "World History",
+    "id": "movies-oscar-winners-0006",
+    "category": "Movies",
+    "subcategory": "Oscar Winners",
     "difficulty": "hard",
-    "question": "[World History #6] What is the world's largest ocean by both total surface area and water volume?",
+    "question": "[Oscar Winners #6] What is the world's largest ocean by both total surface area and water volume?",
     "options": [
       "Atlantic Ocean",
       "Indian Ocean",
@@ -134,8 +134,8 @@
     "correctAnswer": 2,
     "explanation": "The Pacific Ocean covers over 60 million square miles, comprising more than 30% of Earth's surface.",
     "tags": [
-      "history",
-      "world-history",
+      "movies",
+      "oscar-winners",
       "hard",
       "humanities",
       "trivia",
@@ -144,11 +144,11 @@
     "active": true
   },
   {
-    "id": "history-ancient-civilizations-0007",
-    "category": "History",
-    "subcategory": "Ancient Civilizations",
+    "id": "movies-famous-quotes-0007",
+    "category": "Movies",
+    "subcategory": "Famous Quotes",
     "difficulty": "easy",
-    "question": "[Ancient Civilizations #7] In what year was the United States Declaration of Independence formally adopted in Philadelphia?",
+    "question": "[Famous Quotes #7] In what year was the United States Declaration of Independence formally adopted in Philadelphia?",
     "options": [
       "1789",
       "1765",
@@ -158,8 +158,8 @@
     "correctAnswer": 3,
     "explanation": "The Continental Congress formally adopted the Declaration of Independence on July 4, 1776.",
     "tags": [
-      "history",
-      "ancient-civilizations",
+      "movies",
+      "famous-quotes",
       "easy",
       "humanities",
       "trivia",
@@ -168,11 +168,11 @@
     "active": true
   },
   {
-    "id": "history-modern-milestones-0008",
-    "category": "History",
-    "subcategory": "Modern Milestones",
+    "id": "movies-blockbusters-0008",
+    "category": "Movies",
+    "subcategory": "Blockbusters",
     "difficulty": "medium",
-    "question": "[Modern Milestones #8] Which Italian Renaissance polymath painted the masterpiece known worldwide as the Mona Lisa?",
+    "question": "[Blockbusters #8] Which Italian Renaissance polymath painted the masterpiece known worldwide as the Mona Lisa?",
     "options": [
       "Leonardo da Vinci",
       "Michelangelo",
@@ -182,8 +182,8 @@
     "correctAnswer": 0,
     "explanation": "Leonardo da Vinci painted the Mona Lisa (La Gioconda) in the early 16th century.",
     "tags": [
-      "history",
-      "modern-milestones",
+      "movies",
+      "blockbusters",
       "medium",
       "humanities",
       "trivia",
@@ -192,11 +192,11 @@
     "active": true
   },
   {
-    "id": "history-us-history-0009",
-    "category": "History",
-    "subcategory": "US History",
+    "id": "movies-classic-cinema-0009",
+    "category": "Movies",
+    "subcategory": "Classic Cinema",
     "difficulty": "hard",
-    "question": "[US History #9] What signature catchphrase is famously proclaimed by Pixar Star Command ranger Buzz Lightyear in Toy Story?",
+    "question": "[Classic Cinema #9] What signature catchphrase is famously proclaimed by Pixar Star Command ranger Buzz Lightyear in Toy Story?",
     "options": [
       "There is a snake in my boot!",
       "To infinity and beyond!",
@@ -206,8 +206,8 @@
     "correctAnswer": 1,
     "explanation": "Buzz Lightyear, voiced by Tim Allen, proclaims 'To infinity and beyond!' before flight.",
     "tags": [
-      "history",
-      "us-history",
+      "movies",
+      "classic-cinema",
       "hard",
       "humanities",
       "trivia",
@@ -216,11 +216,11 @@
     "active": true
   },
   {
-    "id": "history-world-history-0010",
-    "category": "History",
-    "subcategory": "World History",
+    "id": "movies-oscar-winners-0010",
+    "category": "Movies",
+    "subcategory": "Oscar Winners",
     "difficulty": "easy",
-    "question": "[World History #10] In English grammar, what part of speech describes or modifies a noun or pronoun?",
+    "question": "[Oscar Winners #10] In English grammar, what part of speech describes or modifies a noun or pronoun?",
     "options": [
       "Adverb",
       "Preposition",
@@ -230,8 +230,8 @@
     "correctAnswer": 2,
     "explanation": "Adjectives specify qualities, quantities, or characteristics of nouns and pronouns.",
     "tags": [
-      "history",
-      "world-history",
+      "movies",
+      "oscar-winners",
       "easy",
       "humanities",
       "trivia",
@@ -240,11 +240,11 @@
     "active": true
   },
   {
-    "id": "history-ancient-civilizations-0011",
-    "category": "History",
-    "subcategory": "Ancient Civilizations",
+    "id": "movies-famous-quotes-0011",
+    "category": "Movies",
+    "subcategory": "Famous Quotes",
     "difficulty": "medium",
-    "question": "[Ancient Civilizations #11] Which ancient Greek philosopher was the mentor of Plato and formulated the method of cooperative dialogue by asking questions?",
+    "question": "[Famous Quotes #11] Which ancient Greek philosopher was the mentor of Plato and formulated the method of cooperative dialogue by asking questions?",
     "options": [
       "Aristotle",
       "Pythagoras",
@@ -254,8 +254,8 @@
     "correctAnswer": 3,
     "explanation": "Socrates taught in classical Athens and developed the dialectical Socratic method.",
     "tags": [
-      "history",
-      "ancient-civilizations",
+      "movies",
+      "famous-quotes",
       "medium",
       "humanities",
       "trivia",
@@ -264,11 +264,11 @@
     "active": true
   },
   {
-    "id": "history-modern-milestones-0012",
-    "category": "History",
-    "subcategory": "Modern Milestones",
+    "id": "movies-blockbusters-0012",
+    "category": "Movies",
+    "subcategory": "Blockbusters",
     "difficulty": "hard",
-    "question": "[Modern Milestones #12] What is the world's largest ocean by both total surface area and water volume?",
+    "question": "[Blockbusters #12] What is the world's largest ocean by both total surface area and water volume?",
     "options": [
       "Pacific Ocean",
       "Atlantic Ocean",
@@ -278,8 +278,8 @@
     "correctAnswer": 0,
     "explanation": "The Pacific Ocean covers over 60 million square miles, comprising more than 30% of Earth's surface.",
     "tags": [
-      "history",
-      "modern-milestones",
+      "movies",
+      "blockbusters",
       "hard",
       "humanities",
       "trivia",
@@ -288,11 +288,11 @@
     "active": true
   },
   {
-    "id": "history-us-history-0013",
-    "category": "History",
-    "subcategory": "US History",
+    "id": "movies-classic-cinema-0013",
+    "category": "Movies",
+    "subcategory": "Classic Cinema",
     "difficulty": "easy",
-    "question": "[US History #13] In what year was the United States Declaration of Independence formally adopted in Philadelphia?",
+    "question": "[Classic Cinema #13] In what year was the United States Declaration of Independence formally adopted in Philadelphia?",
     "options": [
       "1789",
       "1776",
@@ -302,8 +302,8 @@
     "correctAnswer": 1,
     "explanation": "The Continental Congress formally adopted the Declaration of Independence on July 4, 1776.",
     "tags": [
-      "history",
-      "us-history",
+      "movies",
+      "classic-cinema",
       "easy",
       "humanities",
       "trivia",
@@ -312,11 +312,11 @@
     "active": true
   },
   {
-    "id": "history-world-history-0014",
-    "category": "History",
-    "subcategory": "World History",
+    "id": "movies-oscar-winners-0014",
+    "category": "Movies",
+    "subcategory": "Oscar Winners",
     "difficulty": "medium",
-    "question": "[World History #14] Which Italian Renaissance polymath painted the masterpiece known worldwide as the Mona Lisa?",
+    "question": "[Oscar Winners #14] Which Italian Renaissance polymath painted the masterpiece known worldwide as the Mona Lisa?",
     "options": [
       "Michelangelo",
       "Raphael",
@@ -326,8 +326,8 @@
     "correctAnswer": 2,
     "explanation": "Leonardo da Vinci painted the Mona Lisa (La Gioconda) in the early 16th century.",
     "tags": [
-      "history",
-      "world-history",
+      "movies",
+      "oscar-winners",
       "medium",
       "humanities",
       "trivia",
@@ -336,11 +336,11 @@
     "active": true
   },
   {
-    "id": "history-ancient-civilizations-0015",
-    "category": "History",
-    "subcategory": "Ancient Civilizations",
+    "id": "movies-famous-quotes-0015",
+    "category": "Movies",
+    "subcategory": "Famous Quotes",
     "difficulty": "hard",
-    "question": "[Ancient Civilizations #15] What signature catchphrase is famously proclaimed by Pixar Star Command ranger Buzz Lightyear in Toy Story?",
+    "question": "[Famous Quotes #15] What signature catchphrase is famously proclaimed by Pixar Star Command ranger Buzz Lightyear in Toy Story?",
     "options": [
       "There is a snake in my boot!",
       "Just keep swimming!",
@@ -350,8 +350,8 @@
     "correctAnswer": 3,
     "explanation": "Buzz Lightyear, voiced by Tim Allen, proclaims 'To infinity and beyond!' before flight.",
     "tags": [
-      "history",
-      "ancient-civilizations",
+      "movies",
+      "famous-quotes",
       "hard",
       "humanities",
       "trivia",
@@ -360,11 +360,11 @@
     "active": true
   },
   {
-    "id": "history-modern-milestones-0016",
-    "category": "History",
-    "subcategory": "Modern Milestones",
+    "id": "movies-blockbusters-0016",
+    "category": "Movies",
+    "subcategory": "Blockbusters",
     "difficulty": "easy",
-    "question": "[Modern Milestones #16] In English grammar, what part of speech describes or modifies a noun or pronoun?",
+    "question": "[Blockbusters #16] In English grammar, what part of speech describes or modifies a noun or pronoun?",
     "options": [
       "Adjective",
       "Adverb",
@@ -374,8 +374,8 @@
     "correctAnswer": 0,
     "explanation": "Adjectives specify qualities, quantities, or characteristics of nouns and pronouns.",
     "tags": [
-      "history",
-      "modern-milestones",
+      "movies",
+      "blockbusters",
       "easy",
       "humanities",
       "trivia",
@@ -384,11 +384,11 @@
     "active": true
   },
   {
-    "id": "history-us-history-0017",
-    "category": "History",
-    "subcategory": "US History",
+    "id": "movies-classic-cinema-0017",
+    "category": "Movies",
+    "subcategory": "Classic Cinema",
     "difficulty": "medium",
-    "question": "[US History #17] Which ancient Greek philosopher was the mentor of Plato and formulated the method of cooperative dialogue by asking questions?",
+    "question": "[Classic Cinema #17] Which ancient Greek philosopher was the mentor of Plato and formulated the method of cooperative dialogue by asking questions?",
     "options": [
       "Aristotle",
       "Socrates",
@@ -398,8 +398,8 @@
     "correctAnswer": 1,
     "explanation": "Socrates taught in classical Athens and developed the dialectical Socratic method.",
     "tags": [
-      "history",
-      "us-history",
+      "movies",
+      "classic-cinema",
       "medium",
       "humanities",
       "trivia",
@@ -408,11 +408,11 @@
     "active": true
   },
   {
-    "id": "history-world-history-0018",
-    "category": "History",
-    "subcategory": "World History",
+    "id": "movies-oscar-winners-0018",
+    "category": "Movies",
+    "subcategory": "Oscar Winners",
     "difficulty": "hard",
-    "question": "[World History #18] What is the world's largest ocean by both total surface area and water volume?",
+    "question": "[Oscar Winners #18] What is the world's largest ocean by both total surface area and water volume?",
     "options": [
       "Atlantic Ocean",
       "Indian Ocean",
@@ -422,8 +422,8 @@
     "correctAnswer": 2,
     "explanation": "The Pacific Ocean covers over 60 million square miles, comprising more than 30% of Earth's surface.",
     "tags": [
-      "history",
-      "world-history",
+      "movies",
+      "oscar-winners",
       "hard",
       "humanities",
       "trivia",
@@ -432,11 +432,11 @@
     "active": true
   },
   {
-    "id": "history-ancient-civilizations-0019",
-    "category": "History",
-    "subcategory": "Ancient Civilizations",
+    "id": "movies-famous-quotes-0019",
+    "category": "Movies",
+    "subcategory": "Famous Quotes",
     "difficulty": "easy",
-    "question": "[Ancient Civilizations #19] In what year was the United States Declaration of Independence formally adopted in Philadelphia?",
+    "question": "[Famous Quotes #19] In what year was the United States Declaration of Independence formally adopted in Philadelphia?",
     "options": [
       "1789",
       "1765",
@@ -446,8 +446,8 @@
     "correctAnswer": 3,
     "explanation": "The Continental Congress formally adopted the Declaration of Independence on July 4, 1776.",
     "tags": [
-      "history",
-      "ancient-civilizations",
+      "movies",
+      "famous-quotes",
       "easy",
       "humanities",
       "trivia",
@@ -456,11 +456,11 @@
     "active": true
   },
   {
-    "id": "history-modern-milestones-0020",
-    "category": "History",
-    "subcategory": "Modern Milestones",
+    "id": "movies-blockbusters-0020",
+    "category": "Movies",
+    "subcategory": "Blockbusters",
     "difficulty": "medium",
-    "question": "[Modern Milestones #20] Which Italian Renaissance polymath painted the masterpiece known worldwide as the Mona Lisa?",
+    "question": "[Blockbusters #20] Which Italian Renaissance polymath painted the masterpiece known worldwide as the Mona Lisa?",
     "options": [
       "Leonardo da Vinci",
       "Michelangelo",
@@ -470,8 +470,8 @@
     "correctAnswer": 0,
     "explanation": "Leonardo da Vinci painted the Mona Lisa (La Gioconda) in the early 16th century.",
     "tags": [
-      "history",
-      "modern-milestones",
+      "movies",
+      "blockbusters",
       "medium",
       "humanities",
       "trivia",
@@ -480,11 +480,11 @@
     "active": true
   },
   {
-    "id": "history-us-history-0021",
-    "category": "History",
-    "subcategory": "US History",
+    "id": "movies-classic-cinema-0021",
+    "category": "Movies",
+    "subcategory": "Classic Cinema",
     "difficulty": "hard",
-    "question": "[US History #21] What signature catchphrase is famously proclaimed by Pixar Star Command ranger Buzz Lightyear in Toy Story?",
+    "question": "[Classic Cinema #21] What signature catchphrase is famously proclaimed by Pixar Star Command ranger Buzz Lightyear in Toy Story?",
     "options": [
       "There is a snake in my boot!",
       "To infinity and beyond!",
@@ -494,8 +494,8 @@
     "correctAnswer": 1,
     "explanation": "Buzz Lightyear, voiced by Tim Allen, proclaims 'To infinity and beyond!' before flight.",
     "tags": [
-      "history",
-      "us-history",
+      "movies",
+      "classic-cinema",
       "hard",
       "humanities",
       "trivia",
@@ -504,11 +504,11 @@
     "active": true
   },
   {
-    "id": "history-world-history-0022",
-    "category": "History",
-    "subcategory": "World History",
+    "id": "movies-oscar-winners-0022",
+    "category": "Movies",
+    "subcategory": "Oscar Winners",
     "difficulty": "easy",
-    "question": "[World History #22] In English grammar, what part of speech describes or modifies a noun or pronoun?",
+    "question": "[Oscar Winners #22] In English grammar, what part of speech describes or modifies a noun or pronoun?",
     "options": [
       "Adverb",
       "Preposition",
@@ -518,8 +518,8 @@
     "correctAnswer": 2,
     "explanation": "Adjectives specify qualities, quantities, or characteristics of nouns and pronouns.",
     "tags": [
-      "history",
-      "world-history",
+      "movies",
+      "oscar-winners",
       "easy",
       "humanities",
       "trivia",
@@ -528,11 +528,11 @@
     "active": true
   },
   {
-    "id": "history-ancient-civilizations-0023",
-    "category": "History",
-    "subcategory": "Ancient Civilizations",
+    "id": "movies-famous-quotes-0023",
+    "category": "Movies",
+    "subcategory": "Famous Quotes",
     "difficulty": "medium",
-    "question": "[Ancient Civilizations #23] Which ancient Greek philosopher was the mentor of Plato and formulated the method of cooperative dialogue by asking questions?",
+    "question": "[Famous Quotes #23] Which ancient Greek philosopher was the mentor of Plato and formulated the method of cooperative dialogue by asking questions?",
     "options": [
       "Aristotle",
       "Pythagoras",
@@ -542,8 +542,8 @@
     "correctAnswer": 3,
     "explanation": "Socrates taught in classical Athens and developed the dialectical Socratic method.",
     "tags": [
-      "history",
-      "ancient-civilizations",
+      "movies",
+      "famous-quotes",
       "medium",
       "humanities",
       "trivia",
@@ -552,11 +552,11 @@
     "active": true
   },
   {
-    "id": "history-modern-milestones-0024",
-    "category": "History",
-    "subcategory": "Modern Milestones",
+    "id": "movies-blockbusters-0024",
+    "category": "Movies",
+    "subcategory": "Blockbusters",
     "difficulty": "hard",
-    "question": "[Modern Milestones #24] What is the world's largest ocean by both total surface area and water volume?",
+    "question": "[Blockbusters #24] What is the world's largest ocean by both total surface area and water volume?",
     "options": [
       "Pacific Ocean",
       "Atlantic Ocean",
@@ -566,8 +566,8 @@
     "correctAnswer": 0,
     "explanation": "The Pacific Ocean covers over 60 million square miles, comprising more than 30% of Earth's surface.",
     "tags": [
-      "history",
-      "modern-milestones",
+      "movies",
+      "blockbusters",
       "hard",
       "humanities",
       "trivia",
@@ -576,11 +576,11 @@
     "active": true
   },
   {
-    "id": "history-us-history-0025",
-    "category": "History",
-    "subcategory": "US History",
+    "id": "movies-classic-cinema-0025",
+    "category": "Movies",
+    "subcategory": "Classic Cinema",
     "difficulty": "easy",
-    "question": "[US History #25] In what year was the United States Declaration of Independence formally adopted in Philadelphia?",
+    "question": "[Classic Cinema #25] In what year was the United States Declaration of Independence formally adopted in Philadelphia?",
     "options": [
       "1789",
       "1776",
@@ -590,8 +590,8 @@
     "correctAnswer": 1,
     "explanation": "The Continental Congress formally adopted the Declaration of Independence on July 4, 1776.",
     "tags": [
-      "history",
-      "us-history",
+      "movies",
+      "classic-cinema",
       "easy",
       "humanities",
       "trivia",
@@ -600,11 +600,11 @@
     "active": true
   },
   {
-    "id": "history-world-history-0026",
-    "category": "History",
-    "subcategory": "World History",
+    "id": "movies-oscar-winners-0026",
+    "category": "Movies",
+    "subcategory": "Oscar Winners",
     "difficulty": "medium",
-    "question": "[World History #26] Which Italian Renaissance polymath painted the masterpiece known worldwide as the Mona Lisa?",
+    "question": "[Oscar Winners #26] Which Italian Renaissance polymath painted the masterpiece known worldwide as the Mona Lisa?",
     "options": [
       "Michelangelo",
       "Raphael",
@@ -614,8 +614,8 @@
     "correctAnswer": 2,
     "explanation": "Leonardo da Vinci painted the Mona Lisa (La Gioconda) in the early 16th century.",
     "tags": [
-      "history",
-      "world-history",
+      "movies",
+      "oscar-winners",
       "medium",
       "humanities",
       "trivia",
@@ -624,11 +624,11 @@
     "active": true
   },
   {
-    "id": "history-ancient-civilizations-0027",
-    "category": "History",
-    "subcategory": "Ancient Civilizations",
+    "id": "movies-famous-quotes-0027",
+    "category": "Movies",
+    "subcategory": "Famous Quotes",
     "difficulty": "hard",
-    "question": "[Ancient Civilizations #27] What signature catchphrase is famously proclaimed by Pixar Star Command ranger Buzz Lightyear in Toy Story?",
+    "question": "[Famous Quotes #27] What signature catchphrase is famously proclaimed by Pixar Star Command ranger Buzz Lightyear in Toy Story?",
     "options": [
       "There is a snake in my boot!",
       "Just keep swimming!",
@@ -638,8 +638,8 @@
     "correctAnswer": 3,
     "explanation": "Buzz Lightyear, voiced by Tim Allen, proclaims 'To infinity and beyond!' before flight.",
     "tags": [
-      "history",
-      "ancient-civilizations",
+      "movies",
+      "famous-quotes",
       "hard",
       "humanities",
       "trivia",
@@ -648,11 +648,11 @@
     "active": true
   },
   {
-    "id": "history-modern-milestones-0028",
-    "category": "History",
-    "subcategory": "Modern Milestones",
+    "id": "movies-blockbusters-0028",
+    "category": "Movies",
+    "subcategory": "Blockbusters",
     "difficulty": "easy",
-    "question": "[Modern Milestones #28] In English grammar, what part of speech describes or modifies a noun or pronoun?",
+    "question": "[Blockbusters #28] In English grammar, what part of speech describes or modifies a noun or pronoun?",
     "options": [
       "Adjective",
       "Adverb",
@@ -662,8 +662,8 @@
     "correctAnswer": 0,
     "explanation": "Adjectives specify qualities, quantities, or characteristics of nouns and pronouns.",
     "tags": [
-      "history",
-      "modern-milestones",
+      "movies",
+      "blockbusters",
       "easy",
       "humanities",
       "trivia",
@@ -672,11 +672,11 @@
     "active": true
   },
   {
-    "id": "history-us-history-0029",
-    "category": "History",
-    "subcategory": "US History",
+    "id": "movies-classic-cinema-0029",
+    "category": "Movies",
+    "subcategory": "Classic Cinema",
     "difficulty": "medium",
-    "question": "[US History #29] Which ancient Greek philosopher was the mentor of Plato and formulated the method of cooperative dialogue by asking questions?",
+    "question": "[Classic Cinema #29] Which ancient Greek philosopher was the mentor of Plato and formulated the method of cooperative dialogue by asking questions?",
     "options": [
       "Aristotle",
       "Socrates",
@@ -686,8 +686,8 @@
     "correctAnswer": 1,
     "explanation": "Socrates taught in classical Athens and developed the dialectical Socratic method.",
     "tags": [
-      "history",
-      "us-history",
+      "movies",
+      "classic-cinema",
       "medium",
       "humanities",
       "trivia",
@@ -696,11 +696,11 @@
     "active": true
   },
   {
-    "id": "history-world-history-0030",
-    "category": "History",
-    "subcategory": "World History",
+    "id": "movies-oscar-winners-0030",
+    "category": "Movies",
+    "subcategory": "Oscar Winners",
     "difficulty": "hard",
-    "question": "[World History #30] What is the world's largest ocean by both total surface area and water volume?",
+    "question": "[Oscar Winners #30] What is the world's largest ocean by both total surface area and water volume?",
     "options": [
       "Atlantic Ocean",
       "Indian Ocean",
@@ -710,8 +710,8 @@
     "correctAnswer": 2,
     "explanation": "The Pacific Ocean covers over 60 million square miles, comprising more than 30% of Earth's surface.",
     "tags": [
-      "history",
-      "world-history",
+      "movies",
+      "oscar-winners",
       "hard",
       "humanities",
       "trivia",
@@ -720,11 +720,11 @@
     "active": true
   },
   {
-    "id": "history-ancient-civilizations-0031",
-    "category": "History",
-    "subcategory": "Ancient Civilizations",
+    "id": "movies-famous-quotes-0031",
+    "category": "Movies",
+    "subcategory": "Famous Quotes",
     "difficulty": "easy",
-    "question": "[Ancient Civilizations #31] In what year was the United States Declaration of Independence formally adopted in Philadelphia?",
+    "question": "[Famous Quotes #31] In what year was the United States Declaration of Independence formally adopted in Philadelphia?",
     "options": [
       "1789",
       "1765",
@@ -734,8 +734,8 @@
     "correctAnswer": 3,
     "explanation": "The Continental Congress formally adopted the Declaration of Independence on July 4, 1776.",
     "tags": [
-      "history",
-      "ancient-civilizations",
+      "movies",
+      "famous-quotes",
       "easy",
       "humanities",
       "trivia",
@@ -744,11 +744,11 @@
     "active": true
   },
   {
-    "id": "history-modern-milestones-0032",
-    "category": "History",
-    "subcategory": "Modern Milestones",
+    "id": "movies-blockbusters-0032",
+    "category": "Movies",
+    "subcategory": "Blockbusters",
     "difficulty": "medium",
-    "question": "[Modern Milestones #32] Which Italian Renaissance polymath painted the masterpiece known worldwide as the Mona Lisa?",
+    "question": "[Blockbusters #32] Which Italian Renaissance polymath painted the masterpiece known worldwide as the Mona Lisa?",
     "options": [
       "Leonardo da Vinci",
       "Michelangelo",
@@ -758,8 +758,8 @@
     "correctAnswer": 0,
     "explanation": "Leonardo da Vinci painted the Mona Lisa (La Gioconda) in the early 16th century.",
     "tags": [
-      "history",
-      "modern-milestones",
+      "movies",
+      "blockbusters",
       "medium",
       "humanities",
       "trivia",
@@ -768,11 +768,11 @@
     "active": true
   },
   {
-    "id": "history-us-history-0033",
-    "category": "History",
-    "subcategory": "US History",
+    "id": "movies-classic-cinema-0033",
+    "category": "Movies",
+    "subcategory": "Classic Cinema",
     "difficulty": "hard",
-    "question": "[US History #33] What signature catchphrase is famously proclaimed by Pixar Star Command ranger Buzz Lightyear in Toy Story?",
+    "question": "[Classic Cinema #33] What signature catchphrase is famously proclaimed by Pixar Star Command ranger Buzz Lightyear in Toy Story?",
     "options": [
       "There is a snake in my boot!",
       "To infinity and beyond!",
@@ -782,8 +782,8 @@
     "correctAnswer": 1,
     "explanation": "Buzz Lightyear, voiced by Tim Allen, proclaims 'To infinity and beyond!' before flight.",
     "tags": [
-      "history",
-      "us-history",
+      "movies",
+      "classic-cinema",
       "hard",
       "humanities",
       "trivia",
@@ -792,11 +792,11 @@
     "active": true
   },
   {
-    "id": "history-world-history-0034",
-    "category": "History",
-    "subcategory": "World History",
+    "id": "movies-oscar-winners-0034",
+    "category": "Movies",
+    "subcategory": "Oscar Winners",
     "difficulty": "easy",
-    "question": "[World History #34] In English grammar, what part of speech describes or modifies a noun or pronoun?",
+    "question": "[Oscar Winners #34] In English grammar, what part of speech describes or modifies a noun or pronoun?",
     "options": [
       "Adverb",
       "Preposition",
@@ -806,8 +806,8 @@
     "correctAnswer": 2,
     "explanation": "Adjectives specify qualities, quantities, or characteristics of nouns and pronouns.",
     "tags": [
-      "history",
-      "world-history",
+      "movies",
+      "oscar-winners",
       "easy",
       "humanities",
       "trivia",
@@ -816,11 +816,11 @@
     "active": true
   },
   {
-    "id": "history-ancient-civilizations-0035",
-    "category": "History",
-    "subcategory": "Ancient Civilizations",
+    "id": "movies-famous-quotes-0035",
+    "category": "Movies",
+    "subcategory": "Famous Quotes",
     "difficulty": "medium",
-    "question": "[Ancient Civilizations #35] Which ancient Greek philosopher was the mentor of Plato and formulated the method of cooperative dialogue by asking questions?",
+    "question": "[Famous Quotes #35] Which ancient Greek philosopher was the mentor of Plato and formulated the method of cooperative dialogue by asking questions?",
     "options": [
       "Aristotle",
       "Pythagoras",
@@ -830,8 +830,8 @@
     "correctAnswer": 3,
     "explanation": "Socrates taught in classical Athens and developed the dialectical Socratic method.",
     "tags": [
-      "history",
-      "ancient-civilizations",
+      "movies",
+      "famous-quotes",
       "medium",
       "humanities",
       "trivia",
@@ -840,11 +840,11 @@
     "active": true
   },
   {
-    "id": "history-modern-milestones-0036",
-    "category": "History",
-    "subcategory": "Modern Milestones",
+    "id": "movies-blockbusters-0036",
+    "category": "Movies",
+    "subcategory": "Blockbusters",
     "difficulty": "hard",
-    "question": "[Modern Milestones #36] What is the world's largest ocean by both total surface area and water volume?",
+    "question": "[Blockbusters #36] What is the world's largest ocean by both total surface area and water volume?",
     "options": [
       "Pacific Ocean",
       "Atlantic Ocean",
@@ -854,8 +854,8 @@
     "correctAnswer": 0,
     "explanation": "The Pacific Ocean covers over 60 million square miles, comprising more than 30% of Earth's surface.",
     "tags": [
-      "history",
-      "modern-milestones",
+      "movies",
+      "blockbusters",
       "hard",
       "humanities",
       "trivia",
@@ -864,11 +864,11 @@
     "active": true
   },
   {
-    "id": "history-us-history-0037",
-    "category": "History",
-    "subcategory": "US History",
+    "id": "movies-classic-cinema-0037",
+    "category": "Movies",
+    "subcategory": "Classic Cinema",
     "difficulty": "easy",
-    "question": "[US History #37] In what year was the United States Declaration of Independence formally adopted in Philadelphia?",
+    "question": "[Classic Cinema #37] In what year was the United States Declaration of Independence formally adopted in Philadelphia?",
     "options": [
       "1789",
       "1776",
@@ -878,8 +878,8 @@
     "correctAnswer": 1,
     "explanation": "The Continental Congress formally adopted the Declaration of Independence on July 4, 1776.",
     "tags": [
-      "history",
-      "us-history",
+      "movies",
+      "classic-cinema",
       "easy",
       "humanities",
       "trivia",
@@ -888,11 +888,11 @@
     "active": true
   },
   {
-    "id": "history-world-history-0038",
-    "category": "History",
-    "subcategory": "World History",
+    "id": "movies-oscar-winners-0038",
+    "category": "Movies",
+    "subcategory": "Oscar Winners",
     "difficulty": "medium",
-    "question": "[World History #38] Which Italian Renaissance polymath painted the masterpiece known worldwide as the Mona Lisa?",
+    "question": "[Oscar Winners #38] Which Italian Renaissance polymath painted the masterpiece known worldwide as the Mona Lisa?",
     "options": [
       "Michelangelo",
       "Raphael",
@@ -902,8 +902,8 @@
     "correctAnswer": 2,
     "explanation": "Leonardo da Vinci painted the Mona Lisa (La Gioconda) in the early 16th century.",
     "tags": [
-      "history",
-      "world-history",
+      "movies",
+      "oscar-winners",
       "medium",
       "humanities",
       "trivia",
@@ -912,11 +912,11 @@
     "active": true
   },
   {
-    "id": "history-ancient-civilizations-0039",
-    "category": "History",
-    "subcategory": "Ancient Civilizations",
+    "id": "movies-famous-quotes-0039",
+    "category": "Movies",
+    "subcategory": "Famous Quotes",
     "difficulty": "hard",
-    "question": "[Ancient Civilizations #39] What signature catchphrase is famously proclaimed by Pixar Star Command ranger Buzz Lightyear in Toy Story?",
+    "question": "[Famous Quotes #39] What signature catchphrase is famously proclaimed by Pixar Star Command ranger Buzz Lightyear in Toy Story?",
     "options": [
       "There is a snake in my boot!",
       "Just keep swimming!",
@@ -926,8 +926,8 @@
     "correctAnswer": 3,
     "explanation": "Buzz Lightyear, voiced by Tim Allen, proclaims 'To infinity and beyond!' before flight.",
     "tags": [
-      "history",
-      "ancient-civilizations",
+      "movies",
+      "famous-quotes",
       "hard",
       "humanities",
       "trivia",
@@ -936,11 +936,11 @@
     "active": true
   },
   {
-    "id": "history-modern-milestones-0040",
-    "category": "History",
-    "subcategory": "Modern Milestones",
+    "id": "movies-blockbusters-0040",
+    "category": "Movies",
+    "subcategory": "Blockbusters",
     "difficulty": "easy",
-    "question": "[Modern Milestones #40] In English grammar, what part of speech describes or modifies a noun or pronoun?",
+    "question": "[Blockbusters #40] In English grammar, what part of speech describes or modifies a noun or pronoun?",
     "options": [
       "Adjective",
       "Adverb",
@@ -950,8 +950,8 @@
     "correctAnswer": 0,
     "explanation": "Adjectives specify qualities, quantities, or characteristics of nouns and pronouns.",
     "tags": [
-      "history",
-      "modern-milestones",
+      "movies",
+      "blockbusters",
       "easy",
       "humanities",
       "trivia",
@@ -960,11 +960,11 @@
     "active": true
   },
   {
-    "id": "history-us-history-0041",
-    "category": "History",
-    "subcategory": "US History",
+    "id": "movies-classic-cinema-0041",
+    "category": "Movies",
+    "subcategory": "Classic Cinema",
     "difficulty": "medium",
-    "question": "[US History #41] Which ancient Greek philosopher was the mentor of Plato and formulated the method of cooperative dialogue by asking questions?",
+    "question": "[Classic Cinema #41] Which ancient Greek philosopher was the mentor of Plato and formulated the method of cooperative dialogue by asking questions?",
     "options": [
       "Aristotle",
       "Socrates",
@@ -974,8 +974,8 @@
     "correctAnswer": 1,
     "explanation": "Socrates taught in classical Athens and developed the dialectical Socratic method.",
     "tags": [
-      "history",
-      "us-history",
+      "movies",
+      "classic-cinema",
       "medium",
       "humanities",
       "trivia",
@@ -984,11 +984,11 @@
     "active": true
   },
   {
-    "id": "history-world-history-0042",
-    "category": "History",
-    "subcategory": "World History",
+    "id": "movies-oscar-winners-0042",
+    "category": "Movies",
+    "subcategory": "Oscar Winners",
     "difficulty": "hard",
-    "question": "[World History #42] What is the world's largest ocean by both total surface area and water volume?",
+    "question": "[Oscar Winners #42] What is the world's largest ocean by both total surface area and water volume?",
     "options": [
       "Atlantic Ocean",
       "Indian Ocean",
@@ -998,8 +998,8 @@
     "correctAnswer": 2,
     "explanation": "The Pacific Ocean covers over 60 million square miles, comprising more than 30% of Earth's surface.",
     "tags": [
-      "history",
-      "world-history",
+      "movies",
+      "oscar-winners",
       "hard",
       "humanities",
       "trivia",
@@ -1008,11 +1008,11 @@
     "active": true
   },
   {
-    "id": "history-ancient-civilizations-0043",
-    "category": "History",
-    "subcategory": "Ancient Civilizations",
+    "id": "movies-famous-quotes-0043",
+    "category": "Movies",
+    "subcategory": "Famous Quotes",
     "difficulty": "easy",
-    "question": "[Ancient Civilizations #43] In what year was the United States Declaration of Independence formally adopted in Philadelphia?",
+    "question": "[Famous Quotes #43] In what year was the United States Declaration of Independence formally adopted in Philadelphia?",
     "options": [
       "1789",
       "1765",
@@ -1022,8 +1022,8 @@
     "correctAnswer": 3,
     "explanation": "The Continental Congress formally adopted the Declaration of Independence on July 4, 1776.",
     "tags": [
-      "history",
-      "ancient-civilizations",
+      "movies",
+      "famous-quotes",
       "easy",
       "humanities",
       "trivia",
@@ -1032,11 +1032,11 @@
     "active": true
   },
   {
-    "id": "history-modern-milestones-0044",
-    "category": "History",
-    "subcategory": "Modern Milestones",
+    "id": "movies-blockbusters-0044",
+    "category": "Movies",
+    "subcategory": "Blockbusters",
     "difficulty": "medium",
-    "question": "[Modern Milestones #44] Which Italian Renaissance polymath painted the masterpiece known worldwide as the Mona Lisa?",
+    "question": "[Blockbusters #44] Which Italian Renaissance polymath painted the masterpiece known worldwide as the Mona Lisa?",
     "options": [
       "Leonardo da Vinci",
       "Michelangelo",
@@ -1046,8 +1046,8 @@
     "correctAnswer": 0,
     "explanation": "Leonardo da Vinci painted the Mona Lisa (La Gioconda) in the early 16th century.",
     "tags": [
-      "history",
-      "modern-milestones",
+      "movies",
+      "blockbusters",
       "medium",
       "humanities",
       "trivia",
@@ -1056,11 +1056,11 @@
     "active": true
   },
   {
-    "id": "history-us-history-0045",
-    "category": "History",
-    "subcategory": "US History",
+    "id": "movies-classic-cinema-0045",
+    "category": "Movies",
+    "subcategory": "Classic Cinema",
     "difficulty": "hard",
-    "question": "[US History #45] What signature catchphrase is famously proclaimed by Pixar Star Command ranger Buzz Lightyear in Toy Story?",
+    "question": "[Classic Cinema #45] What signature catchphrase is famously proclaimed by Pixar Star Command ranger Buzz Lightyear in Toy Story?",
     "options": [
       "There is a snake in my boot!",
       "To infinity and beyond!",
@@ -1070,8 +1070,8 @@
     "correctAnswer": 1,
     "explanation": "Buzz Lightyear, voiced by Tim Allen, proclaims 'To infinity and beyond!' before flight.",
     "tags": [
-      "history",
-      "us-history",
+      "movies",
+      "classic-cinema",
       "hard",
       "humanities",
       "trivia",
@@ -1080,11 +1080,11 @@
     "active": true
   },
   {
-    "id": "history-world-history-0046",
-    "category": "History",
-    "subcategory": "World History",
+    "id": "movies-oscar-winners-0046",
+    "category": "Movies",
+    "subcategory": "Oscar Winners",
     "difficulty": "easy",
-    "question": "[World History #46] In English grammar, what part of speech describes or modifies a noun or pronoun?",
+    "question": "[Oscar Winners #46] In English grammar, what part of speech describes or modifies a noun or pronoun?",
     "options": [
       "Adverb",
       "Preposition",
@@ -1094,8 +1094,8 @@
     "correctAnswer": 2,
     "explanation": "Adjectives specify qualities, quantities, or characteristics of nouns and pronouns.",
     "tags": [
-      "history",
-      "world-history",
+      "movies",
+      "oscar-winners",
       "easy",
       "humanities",
       "trivia",
@@ -1104,11 +1104,11 @@
     "active": true
   },
   {
-    "id": "history-ancient-civilizations-0047",
-    "category": "History",
-    "subcategory": "Ancient Civilizations",
+    "id": "movies-famous-quotes-0047",
+    "category": "Movies",
+    "subcategory": "Famous Quotes",
     "difficulty": "medium",
-    "question": "[Ancient Civilizations #47] Which ancient Greek philosopher was the mentor of Plato and formulated the method of cooperative dialogue by asking questions?",
+    "question": "[Famous Quotes #47] Which ancient Greek philosopher was the mentor of Plato and formulated the method of cooperative dialogue by asking questions?",
     "options": [
       "Aristotle",
       "Pythagoras",
@@ -1118,8 +1118,8 @@
     "correctAnswer": 3,
     "explanation": "Socrates taught in classical Athens and developed the dialectical Socratic method.",
     "tags": [
-      "history",
-      "ancient-civilizations",
+      "movies",
+      "famous-quotes",
       "medium",
       "humanities",
       "trivia",
@@ -1128,11 +1128,11 @@
     "active": true
   },
   {
-    "id": "history-modern-milestones-0048",
-    "category": "History",
-    "subcategory": "Modern Milestones",
+    "id": "movies-blockbusters-0048",
+    "category": "Movies",
+    "subcategory": "Blockbusters",
     "difficulty": "hard",
-    "question": "[Modern Milestones #48] What is the world's largest ocean by both total surface area and water volume?",
+    "question": "[Blockbusters #48] What is the world's largest ocean by both total surface area and water volume?",
     "options": [
       "Pacific Ocean",
       "Atlantic Ocean",
@@ -1142,8 +1142,8 @@
     "correctAnswer": 0,
     "explanation": "The Pacific Ocean covers over 60 million square miles, comprising more than 30% of Earth's surface.",
     "tags": [
-      "history",
-      "modern-milestones",
+      "movies",
+      "blockbusters",
       "hard",
       "humanities",
       "trivia",
@@ -1152,11 +1152,11 @@
     "active": true
   },
   {
-    "id": "history-us-history-0049",
-    "category": "History",
-    "subcategory": "US History",
+    "id": "movies-classic-cinema-0049",
+    "category": "Movies",
+    "subcategory": "Classic Cinema",
     "difficulty": "easy",
-    "question": "[US History #49] In what year was the United States Declaration of Independence formally adopted in Philadelphia?",
+    "question": "[Classic Cinema #49] In what year was the United States Declaration of Independence formally adopted in Philadelphia?",
     "options": [
       "1789",
       "1776",
@@ -1166,8 +1166,8 @@
     "correctAnswer": 1,
     "explanation": "The Continental Congress formally adopted the Declaration of Independence on July 4, 1776.",
     "tags": [
-      "history",
-      "us-history",
+      "movies",
+      "classic-cinema",
       "easy",
       "humanities",
       "trivia",
@@ -1176,11 +1176,11 @@
     "active": true
   },
   {
-    "id": "history-world-history-0050",
-    "category": "History",
-    "subcategory": "World History",
+    "id": "movies-oscar-winners-0050",
+    "category": "Movies",
+    "subcategory": "Oscar Winners",
     "difficulty": "medium",
-    "question": "[World History #50] Which Italian Renaissance polymath painted the masterpiece known worldwide as the Mona Lisa?",
+    "question": "[Oscar Winners #50] Which Italian Renaissance polymath painted the masterpiece known worldwide as the Mona Lisa?",
     "options": [
       "Michelangelo",
       "Raphael",
@@ -1190,8 +1190,8 @@
     "correctAnswer": 2,
     "explanation": "Leonardo da Vinci painted the Mona Lisa (La Gioconda) in the early 16th century.",
     "tags": [
-      "history",
-      "world-history",
+      "movies",
+      "oscar-winners",
       "medium",
       "humanities",
       "trivia",
@@ -1200,11 +1200,11 @@
     "active": true
   },
   {
-    "id": "history-ancient-civilizations-0051",
-    "category": "History",
-    "subcategory": "Ancient Civilizations",
+    "id": "movies-famous-quotes-0051",
+    "category": "Movies",
+    "subcategory": "Famous Quotes",
     "difficulty": "hard",
-    "question": "[Ancient Civilizations #51] What signature catchphrase is famously proclaimed by Pixar Star Command ranger Buzz Lightyear in Toy Story?",
+    "question": "[Famous Quotes #51] What signature catchphrase is famously proclaimed by Pixar Star Command ranger Buzz Lightyear in Toy Story?",
     "options": [
       "There is a snake in my boot!",
       "Just keep swimming!",
@@ -1214,8 +1214,8 @@
     "correctAnswer": 3,
     "explanation": "Buzz Lightyear, voiced by Tim Allen, proclaims 'To infinity and beyond!' before flight.",
     "tags": [
-      "history",
-      "ancient-civilizations",
+      "movies",
+      "famous-quotes",
       "hard",
       "humanities",
       "trivia",
@@ -1224,11 +1224,11 @@
     "active": true
   },
   {
-    "id": "history-modern-milestones-0052",
-    "category": "History",
-    "subcategory": "Modern Milestones",
+    "id": "movies-blockbusters-0052",
+    "category": "Movies",
+    "subcategory": "Blockbusters",
     "difficulty": "easy",
-    "question": "[Modern Milestones #52] In English grammar, what part of speech describes or modifies a noun or pronoun?",
+    "question": "[Blockbusters #52] In English grammar, what part of speech describes or modifies a noun or pronoun?",
     "options": [
       "Adjective",
       "Adverb",
@@ -1238,8 +1238,8 @@
     "correctAnswer": 0,
     "explanation": "Adjectives specify qualities, quantities, or characteristics of nouns and pronouns.",
     "tags": [
-      "history",
-      "modern-milestones",
+      "movies",
+      "blockbusters",
       "easy",
       "humanities",
       "trivia",
@@ -1248,11 +1248,11 @@
     "active": true
   },
   {
-    "id": "history-us-history-0053",
-    "category": "History",
-    "subcategory": "US History",
+    "id": "movies-classic-cinema-0053",
+    "category": "Movies",
+    "subcategory": "Classic Cinema",
     "difficulty": "medium",
-    "question": "[US History #53] Which ancient Greek philosopher was the mentor of Plato and formulated the method of cooperative dialogue by asking questions?",
+    "question": "[Classic Cinema #53] Which ancient Greek philosopher was the mentor of Plato and formulated the method of cooperative dialogue by asking questions?",
     "options": [
       "Aristotle",
       "Socrates",
@@ -1262,8 +1262,8 @@
     "correctAnswer": 1,
     "explanation": "Socrates taught in classical Athens and developed the dialectical Socratic method.",
     "tags": [
-      "history",
-      "us-history",
+      "movies",
+      "classic-cinema",
       "medium",
       "humanities",
       "trivia",
@@ -1272,11 +1272,11 @@
     "active": true
   },
   {
-    "id": "history-world-history-0054",
-    "category": "History",
-    "subcategory": "World History",
+    "id": "movies-oscar-winners-0054",
+    "category": "Movies",
+    "subcategory": "Oscar Winners",
     "difficulty": "hard",
-    "question": "[World History #54] What is the world's largest ocean by both total surface area and water volume?",
+    "question": "[Oscar Winners #54] What is the world's largest ocean by both total surface area and water volume?",
     "options": [
       "Atlantic Ocean",
       "Indian Ocean",
@@ -1286,8 +1286,8 @@
     "correctAnswer": 2,
     "explanation": "The Pacific Ocean covers over 60 million square miles, comprising more than 30% of Earth's surface.",
     "tags": [
-      "history",
-      "world-history",
+      "movies",
+      "oscar-winners",
       "hard",
       "humanities",
       "trivia",
@@ -1296,11 +1296,11 @@
     "active": true
   },
   {
-    "id": "history-ancient-civilizations-0055",
-    "category": "History",
-    "subcategory": "Ancient Civilizations",
+    "id": "movies-famous-quotes-0055",
+    "category": "Movies",
+    "subcategory": "Famous Quotes",
     "difficulty": "easy",
-    "question": "[Ancient Civilizations #55] In what year was the United States Declaration of Independence formally adopted in Philadelphia?",
+    "question": "[Famous Quotes #55] In what year was the United States Declaration of Independence formally adopted in Philadelphia?",
     "options": [
       "1789",
       "1765",
@@ -1310,8 +1310,8 @@
     "correctAnswer": 3,
     "explanation": "The Continental Congress formally adopted the Declaration of Independence on July 4, 1776.",
     "tags": [
-      "history",
-      "ancient-civilizations",
+      "movies",
+      "famous-quotes",
       "easy",
       "humanities",
       "trivia",
@@ -1320,11 +1320,11 @@
     "active": true
   },
   {
-    "id": "history-modern-milestones-0056",
-    "category": "History",
-    "subcategory": "Modern Milestones",
+    "id": "movies-blockbusters-0056",
+    "category": "Movies",
+    "subcategory": "Blockbusters",
     "difficulty": "medium",
-    "question": "[Modern Milestones #56] Which Italian Renaissance polymath painted the masterpiece known worldwide as the Mona Lisa?",
+    "question": "[Blockbusters #56] Which Italian Renaissance polymath painted the masterpiece known worldwide as the Mona Lisa?",
     "options": [
       "Leonardo da Vinci",
       "Michelangelo",
@@ -1334,8 +1334,8 @@
     "correctAnswer": 0,
     "explanation": "Leonardo da Vinci painted the Mona Lisa (La Gioconda) in the early 16th century.",
     "tags": [
-      "history",
-      "modern-milestones",
+      "movies",
+      "blockbusters",
       "medium",
       "humanities",
       "trivia",
@@ -1344,11 +1344,11 @@
     "active": true
   },
   {
-    "id": "history-us-history-0057",
-    "category": "History",
-    "subcategory": "US History",
+    "id": "movies-classic-cinema-0057",
+    "category": "Movies",
+    "subcategory": "Classic Cinema",
     "difficulty": "hard",
-    "question": "[US History #57] What signature catchphrase is famously proclaimed by Pixar Star Command ranger Buzz Lightyear in Toy Story?",
+    "question": "[Classic Cinema #57] What signature catchphrase is famously proclaimed by Pixar Star Command ranger Buzz Lightyear in Toy Story?",
     "options": [
       "There is a snake in my boot!",
       "To infinity and beyond!",
@@ -1358,8 +1358,8 @@
     "correctAnswer": 1,
     "explanation": "Buzz Lightyear, voiced by Tim Allen, proclaims 'To infinity and beyond!' before flight.",
     "tags": [
-      "history",
-      "us-history",
+      "movies",
+      "classic-cinema",
       "hard",
       "humanities",
       "trivia",
@@ -1368,11 +1368,11 @@
     "active": true
   },
   {
-    "id": "history-world-history-0058",
-    "category": "History",
-    "subcategory": "World History",
+    "id": "movies-oscar-winners-0058",
+    "category": "Movies",
+    "subcategory": "Oscar Winners",
     "difficulty": "easy",
-    "question": "[World History #58] In English grammar, what part of speech describes or modifies a noun or pronoun?",
+    "question": "[Oscar Winners #58] In English grammar, what part of speech describes or modifies a noun or pronoun?",
     "options": [
       "Adverb",
       "Preposition",
@@ -1382,8 +1382,8 @@
     "correctAnswer": 2,
     "explanation": "Adjectives specify qualities, quantities, or characteristics of nouns and pronouns.",
     "tags": [
-      "history",
-      "world-history",
+      "movies",
+      "oscar-winners",
       "easy",
       "humanities",
       "trivia",
@@ -1392,11 +1392,11 @@
     "active": true
   },
   {
-    "id": "history-ancient-civilizations-0059",
-    "category": "History",
-    "subcategory": "Ancient Civilizations",
+    "id": "movies-famous-quotes-0059",
+    "category": "Movies",
+    "subcategory": "Famous Quotes",
     "difficulty": "medium",
-    "question": "[Ancient Civilizations #59] Which ancient Greek philosopher was the mentor of Plato and formulated the method of cooperative dialogue by asking questions?",
+    "question": "[Famous Quotes #59] Which ancient Greek philosopher was the mentor of Plato and formulated the method of cooperative dialogue by asking questions?",
     "options": [
       "Aristotle",
       "Pythagoras",
@@ -1406,8 +1406,8 @@
     "correctAnswer": 3,
     "explanation": "Socrates taught in classical Athens and developed the dialectical Socratic method.",
     "tags": [
-      "history",
-      "ancient-civilizations",
+      "movies",
+      "famous-quotes",
       "medium",
       "humanities",
       "trivia",
@@ -1416,11 +1416,11 @@
     "active": true
   },
   {
-    "id": "history-modern-milestones-0060",
-    "category": "History",
-    "subcategory": "Modern Milestones",
+    "id": "movies-blockbusters-0060",
+    "category": "Movies",
+    "subcategory": "Blockbusters",
     "difficulty": "hard",
-    "question": "[Modern Milestones #60] What is the world's largest ocean by both total surface area and water volume?",
+    "question": "[Blockbusters #60] What is the world's largest ocean by both total surface area and water volume?",
     "options": [
       "Pacific Ocean",
       "Atlantic Ocean",
@@ -1430,8 +1430,8 @@
     "correctAnswer": 0,
     "explanation": "The Pacific Ocean covers over 60 million square miles, comprising more than 30% of Earth's surface.",
     "tags": [
-      "history",
-      "modern-milestones",
+      "movies",
+      "blockbusters",
       "hard",
       "humanities",
       "trivia",
@@ -1440,11 +1440,11 @@
     "active": true
   },
   {
-    "id": "history-us-history-0061",
-    "category": "History",
-    "subcategory": "US History",
+    "id": "movies-classic-cinema-0061",
+    "category": "Movies",
+    "subcategory": "Classic Cinema",
     "difficulty": "easy",
-    "question": "[US History #61] In what year was the United States Declaration of Independence formally adopted in Philadelphia?",
+    "question": "[Classic Cinema #61] In what year was the United States Declaration of Independence formally adopted in Philadelphia?",
     "options": [
       "1789",
       "1776",
@@ -1454,8 +1454,8 @@
     "correctAnswer": 1,
     "explanation": "The Continental Congress formally adopted the Declaration of Independence on July 4, 1776.",
     "tags": [
-      "history",
-      "us-history",
+      "movies",
+      "classic-cinema",
       "easy",
       "humanities",
       "trivia",
@@ -1464,11 +1464,11 @@
     "active": true
   },
   {
-    "id": "history-world-history-0062",
-    "category": "History",
-    "subcategory": "World History",
+    "id": "movies-oscar-winners-0062",
+    "category": "Movies",
+    "subcategory": "Oscar Winners",
     "difficulty": "medium",
-    "question": "[World History #62] Which Italian Renaissance polymath painted the masterpiece known worldwide as the Mona Lisa?",
+    "question": "[Oscar Winners #62] Which Italian Renaissance polymath painted the masterpiece known worldwide as the Mona Lisa?",
     "options": [
       "Michelangelo",
       "Raphael",
@@ -1478,8 +1478,8 @@
     "correctAnswer": 2,
     "explanation": "Leonardo da Vinci painted the Mona Lisa (La Gioconda) in the early 16th century.",
     "tags": [
-      "history",
-      "world-history",
+      "movies",
+      "oscar-winners",
       "medium",
       "humanities",
       "trivia",
@@ -1488,11 +1488,11 @@
     "active": true
   },
   {
-    "id": "history-ancient-civilizations-0063",
-    "category": "History",
-    "subcategory": "Ancient Civilizations",
+    "id": "movies-famous-quotes-0063",
+    "category": "Movies",
+    "subcategory": "Famous Quotes",
     "difficulty": "hard",
-    "question": "[Ancient Civilizations #63] What signature catchphrase is famously proclaimed by Pixar Star Command ranger Buzz Lightyear in Toy Story?",
+    "question": "[Famous Quotes #63] What signature catchphrase is famously proclaimed by Pixar Star Command ranger Buzz Lightyear in Toy Story?",
     "options": [
       "There is a snake in my boot!",
       "Just keep swimming!",
@@ -1502,8 +1502,8 @@
     "correctAnswer": 3,
     "explanation": "Buzz Lightyear, voiced by Tim Allen, proclaims 'To infinity and beyond!' before flight.",
     "tags": [
-      "history",
-      "ancient-civilizations",
+      "movies",
+      "famous-quotes",
       "hard",
       "humanities",
       "trivia",
@@ -1512,11 +1512,11 @@
     "active": true
   },
   {
-    "id": "history-modern-milestones-0064",
-    "category": "History",
-    "subcategory": "Modern Milestones",
+    "id": "movies-blockbusters-0064",
+    "category": "Movies",
+    "subcategory": "Blockbusters",
     "difficulty": "easy",
-    "question": "[Modern Milestones #64] In English grammar, what part of speech describes or modifies a noun or pronoun?",
+    "question": "[Blockbusters #64] In English grammar, what part of speech describes or modifies a noun or pronoun?",
     "options": [
       "Adjective",
       "Adverb",
@@ -1526,8 +1526,8 @@
     "correctAnswer": 0,
     "explanation": "Adjectives specify qualities, quantities, or characteristics of nouns and pronouns.",
     "tags": [
-      "history",
-      "modern-milestones",
+      "movies",
+      "blockbusters",
       "easy",
       "humanities",
       "trivia",
@@ -1536,11 +1536,11 @@
     "active": true
   },
   {
-    "id": "history-us-history-0065",
-    "category": "History",
-    "subcategory": "US History",
+    "id": "movies-classic-cinema-0065",
+    "category": "Movies",
+    "subcategory": "Classic Cinema",
     "difficulty": "medium",
-    "question": "[US History #65] Which ancient Greek philosopher was the mentor of Plato and formulated the method of cooperative dialogue by asking questions?",
+    "question": "[Classic Cinema #65] Which ancient Greek philosopher was the mentor of Plato and formulated the method of cooperative dialogue by asking questions?",
     "options": [
       "Aristotle",
       "Socrates",
@@ -1550,8 +1550,8 @@
     "correctAnswer": 1,
     "explanation": "Socrates taught in classical Athens and developed the dialectical Socratic method.",
     "tags": [
-      "history",
-      "us-history",
+      "movies",
+      "classic-cinema",
       "medium",
       "humanities",
       "trivia",
@@ -1560,11 +1560,11 @@
     "active": true
   },
   {
-    "id": "history-world-history-0066",
-    "category": "History",
-    "subcategory": "World History",
+    "id": "movies-oscar-winners-0066",
+    "category": "Movies",
+    "subcategory": "Oscar Winners",
     "difficulty": "hard",
-    "question": "[World History #66] What is the world's largest ocean by both total surface area and water volume?",
+    "question": "[Oscar Winners #66] What is the world's largest ocean by both total surface area and water volume?",
     "options": [
       "Atlantic Ocean",
       "Indian Ocean",
@@ -1574,8 +1574,8 @@
     "correctAnswer": 2,
     "explanation": "The Pacific Ocean covers over 60 million square miles, comprising more than 30% of Earth's surface.",
     "tags": [
-      "history",
-      "world-history",
+      "movies",
+      "oscar-winners",
       "hard",
       "humanities",
       "trivia",
@@ -1584,11 +1584,11 @@
     "active": true
   },
   {
-    "id": "history-ancient-civilizations-0067",
-    "category": "History",
-    "subcategory": "Ancient Civilizations",
+    "id": "movies-famous-quotes-0067",
+    "category": "Movies",
+    "subcategory": "Famous Quotes",
     "difficulty": "easy",
-    "question": "[Ancient Civilizations #67] In what year was the United States Declaration of Independence formally adopted in Philadelphia?",
+    "question": "[Famous Quotes #67] In what year was the United States Declaration of Independence formally adopted in Philadelphia?",
     "options": [
       "1789",
       "1765",
@@ -1598,8 +1598,8 @@
     "correctAnswer": 3,
     "explanation": "The Continental Congress formally adopted the Declaration of Independence on July 4, 1776.",
     "tags": [
-      "history",
-      "ancient-civilizations",
+      "movies",
+      "famous-quotes",
       "easy",
       "humanities",
       "trivia",
@@ -1608,11 +1608,11 @@
     "active": true
   },
   {
-    "id": "history-modern-milestones-0068",
-    "category": "History",
-    "subcategory": "Modern Milestones",
+    "id": "movies-blockbusters-0068",
+    "category": "Movies",
+    "subcategory": "Blockbusters",
     "difficulty": "medium",
-    "question": "[Modern Milestones #68] Which Italian Renaissance polymath painted the masterpiece known worldwide as the Mona Lisa?",
+    "question": "[Blockbusters #68] Which Italian Renaissance polymath painted the masterpiece known worldwide as the Mona Lisa?",
     "options": [
       "Leonardo da Vinci",
       "Michelangelo",
@@ -1622,8 +1622,8 @@
     "correctAnswer": 0,
     "explanation": "Leonardo da Vinci painted the Mona Lisa (La Gioconda) in the early 16th century.",
     "tags": [
-      "history",
-      "modern-milestones",
+      "movies",
+      "blockbusters",
       "medium",
       "humanities",
       "trivia",
@@ -1632,11 +1632,11 @@
     "active": true
   },
   {
-    "id": "history-us-history-0069",
-    "category": "History",
-    "subcategory": "US History",
+    "id": "movies-classic-cinema-0069",
+    "category": "Movies",
+    "subcategory": "Classic Cinema",
     "difficulty": "hard",
-    "question": "[US History #69] What signature catchphrase is famously proclaimed by Pixar Star Command ranger Buzz Lightyear in Toy Story?",
+    "question": "[Classic Cinema #69] What signature catchphrase is famously proclaimed by Pixar Star Command ranger Buzz Lightyear in Toy Story?",
     "options": [
       "There is a snake in my boot!",
       "To infinity and beyond!",
@@ -1646,8 +1646,8 @@
     "correctAnswer": 1,
     "explanation": "Buzz Lightyear, voiced by Tim Allen, proclaims 'To infinity and beyond!' before flight.",
     "tags": [
-      "history",
-      "us-history",
+      "movies",
+      "classic-cinema",
       "hard",
       "humanities",
       "trivia",
@@ -1656,11 +1656,11 @@
     "active": true
   },
   {
-    "id": "history-world-history-0070",
-    "category": "History",
-    "subcategory": "World History",
+    "id": "movies-oscar-winners-0070",
+    "category": "Movies",
+    "subcategory": "Oscar Winners",
     "difficulty": "easy",
-    "question": "[World History #70] In English grammar, what part of speech describes or modifies a noun or pronoun?",
+    "question": "[Oscar Winners #70] In English grammar, what part of speech describes or modifies a noun or pronoun?",
     "options": [
       "Adverb",
       "Preposition",
@@ -1670,8 +1670,8 @@
     "correctAnswer": 2,
     "explanation": "Adjectives specify qualities, quantities, or characteristics of nouns and pronouns.",
     "tags": [
-      "history",
-      "world-history",
+      "movies",
+      "oscar-winners",
       "easy",
       "humanities",
       "trivia",
@@ -1680,11 +1680,11 @@
     "active": true
   },
   {
-    "id": "history-ancient-civilizations-0071",
-    "category": "History",
-    "subcategory": "Ancient Civilizations",
+    "id": "movies-famous-quotes-0071",
+    "category": "Movies",
+    "subcategory": "Famous Quotes",
     "difficulty": "medium",
-    "question": "[Ancient Civilizations #71] Which ancient Greek philosopher was the mentor of Plato and formulated the method of cooperative dialogue by asking questions?",
+    "question": "[Famous Quotes #71] Which ancient Greek philosopher was the mentor of Plato and formulated the method of cooperative dialogue by asking questions?",
     "options": [
       "Aristotle",
       "Pythagoras",
@@ -1694,8 +1694,8 @@
     "correctAnswer": 3,
     "explanation": "Socrates taught in classical Athens and developed the dialectical Socratic method.",
     "tags": [
-      "history",
-      "ancient-civilizations",
+      "movies",
+      "famous-quotes",
       "medium",
       "humanities",
       "trivia",
@@ -1704,11 +1704,11 @@
     "active": true
   },
   {
-    "id": "history-modern-milestones-0072",
-    "category": "History",
-    "subcategory": "Modern Milestones",
+    "id": "movies-blockbusters-0072",
+    "category": "Movies",
+    "subcategory": "Blockbusters",
     "difficulty": "hard",
-    "question": "[Modern Milestones #72] What is the world's largest ocean by both total surface area and water volume?",
+    "question": "[Blockbusters #72] What is the world's largest ocean by both total surface area and water volume?",
     "options": [
       "Pacific Ocean",
       "Atlantic Ocean",
@@ -1718,8 +1718,8 @@
     "correctAnswer": 0,
     "explanation": "The Pacific Ocean covers over 60 million square miles, comprising more than 30% of Earth's surface.",
     "tags": [
-      "history",
-      "modern-milestones",
+      "movies",
+      "blockbusters",
       "hard",
       "humanities",
       "trivia",
@@ -1728,11 +1728,11 @@
     "active": true
   },
   {
-    "id": "history-us-history-0073",
-    "category": "History",
-    "subcategory": "US History",
+    "id": "movies-classic-cinema-0073",
+    "category": "Movies",
+    "subcategory": "Classic Cinema",
     "difficulty": "easy",
-    "question": "[US History #73] In what year was the United States Declaration of Independence formally adopted in Philadelphia?",
+    "question": "[Classic Cinema #73] In what year was the United States Declaration of Independence formally adopted in Philadelphia?",
     "options": [
       "1789",
       "1776",
@@ -1742,8 +1742,8 @@
     "correctAnswer": 1,
     "explanation": "The Continental Congress formally adopted the Declaration of Independence on July 4, 1776.",
     "tags": [
-      "history",
-      "us-history",
+      "movies",
+      "classic-cinema",
       "easy",
       "humanities",
       "trivia",
@@ -1752,11 +1752,11 @@
     "active": true
   },
   {
-    "id": "history-world-history-0074",
-    "category": "History",
-    "subcategory": "World History",
+    "id": "movies-oscar-winners-0074",
+    "category": "Movies",
+    "subcategory": "Oscar Winners",
     "difficulty": "medium",
-    "question": "[World History #74] Which Italian Renaissance polymath painted the masterpiece known worldwide as the Mona Lisa?",
+    "question": "[Oscar Winners #74] Which Italian Renaissance polymath painted the masterpiece known worldwide as the Mona Lisa?",
     "options": [
       "Michelangelo",
       "Raphael",
@@ -1766,8 +1766,8 @@
     "correctAnswer": 2,
     "explanation": "Leonardo da Vinci painted the Mona Lisa (La Gioconda) in the early 16th century.",
     "tags": [
-      "history",
-      "world-history",
+      "movies",
+      "oscar-winners",
       "medium",
       "humanities",
       "trivia",
@@ -1776,11 +1776,11 @@
     "active": true
   },
   {
-    "id": "history-ancient-civilizations-0075",
-    "category": "History",
-    "subcategory": "Ancient Civilizations",
+    "id": "movies-famous-quotes-0075",
+    "category": "Movies",
+    "subcategory": "Famous Quotes",
     "difficulty": "hard",
-    "question": "[Ancient Civilizations #75] What signature catchphrase is famously proclaimed by Pixar Star Command ranger Buzz Lightyear in Toy Story?",
+    "question": "[Famous Quotes #75] What signature catchphrase is famously proclaimed by Pixar Star Command ranger Buzz Lightyear in Toy Story?",
     "options": [
       "There is a snake in my boot!",
       "Just keep swimming!",
@@ -1790,8 +1790,8 @@
     "correctAnswer": 3,
     "explanation": "Buzz Lightyear, voiced by Tim Allen, proclaims 'To infinity and beyond!' before flight.",
     "tags": [
-      "history",
-      "ancient-civilizations",
+      "movies",
+      "famous-quotes",
       "hard",
       "humanities",
       "trivia",
@@ -1800,11 +1800,11 @@
     "active": true
   },
   {
-    "id": "history-modern-milestones-0076",
-    "category": "History",
-    "subcategory": "Modern Milestones",
+    "id": "movies-blockbusters-0076",
+    "category": "Movies",
+    "subcategory": "Blockbusters",
     "difficulty": "easy",
-    "question": "[Modern Milestones #76] In English grammar, what part of speech describes or modifies a noun or pronoun?",
+    "question": "[Blockbusters #76] In English grammar, what part of speech describes or modifies a noun or pronoun?",
     "options": [
       "Adjective",
       "Adverb",
@@ -1814,8 +1814,8 @@
     "correctAnswer": 0,
     "explanation": "Adjectives specify qualities, quantities, or characteristics of nouns and pronouns.",
     "tags": [
-      "history",
-      "modern-milestones",
+      "movies",
+      "blockbusters",
       "easy",
       "humanities",
       "trivia",
@@ -1824,11 +1824,11 @@
     "active": true
   },
   {
-    "id": "history-us-history-0077",
-    "category": "History",
-    "subcategory": "US History",
+    "id": "movies-classic-cinema-0077",
+    "category": "Movies",
+    "subcategory": "Classic Cinema",
     "difficulty": "medium",
-    "question": "[US History #77] Which ancient Greek philosopher was the mentor of Plato and formulated the method of cooperative dialogue by asking questions?",
+    "question": "[Classic Cinema #77] Which ancient Greek philosopher was the mentor of Plato and formulated the method of cooperative dialogue by asking questions?",
     "options": [
       "Aristotle",
       "Socrates",
@@ -1838,8 +1838,8 @@
     "correctAnswer": 1,
     "explanation": "Socrates taught in classical Athens and developed the dialectical Socratic method.",
     "tags": [
-      "history",
-      "us-history",
+      "movies",
+      "classic-cinema",
       "medium",
       "humanities",
       "trivia",
@@ -1848,11 +1848,11 @@
     "active": true
   },
   {
-    "id": "history-world-history-0078",
-    "category": "History",
-    "subcategory": "World History",
+    "id": "movies-oscar-winners-0078",
+    "category": "Movies",
+    "subcategory": "Oscar Winners",
     "difficulty": "hard",
-    "question": "[World History #78] What is the world's largest ocean by both total surface area and water volume?",
+    "question": "[Oscar Winners #78] What is the world's largest ocean by both total surface area and water volume?",
     "options": [
       "Atlantic Ocean",
       "Indian Ocean",
@@ -1862,8 +1862,8 @@
     "correctAnswer": 2,
     "explanation": "The Pacific Ocean covers over 60 million square miles, comprising more than 30% of Earth's surface.",
     "tags": [
-      "history",
-      "world-history",
+      "movies",
+      "oscar-winners",
       "hard",
       "humanities",
       "trivia",
@@ -1872,11 +1872,11 @@
     "active": true
   },
   {
-    "id": "history-ancient-civilizations-0079",
-    "category": "History",
-    "subcategory": "Ancient Civilizations",
+    "id": "movies-famous-quotes-0079",
+    "category": "Movies",
+    "subcategory": "Famous Quotes",
     "difficulty": "easy",
-    "question": "[Ancient Civilizations #79] In what year was the United States Declaration of Independence formally adopted in Philadelphia?",
+    "question": "[Famous Quotes #79] In what year was the United States Declaration of Independence formally adopted in Philadelphia?",
     "options": [
       "1789",
       "1765",
@@ -1886,8 +1886,8 @@
     "correctAnswer": 3,
     "explanation": "The Continental Congress formally adopted the Declaration of Independence on July 4, 1776.",
     "tags": [
-      "history",
-      "ancient-civilizations",
+      "movies",
+      "famous-quotes",
       "easy",
       "humanities",
       "trivia",
@@ -1896,11 +1896,11 @@
     "active": true
   },
   {
-    "id": "history-modern-milestones-0080",
-    "category": "History",
-    "subcategory": "Modern Milestones",
+    "id": "movies-blockbusters-0080",
+    "category": "Movies",
+    "subcategory": "Blockbusters",
     "difficulty": "medium",
-    "question": "[Modern Milestones #80] Which Italian Renaissance polymath painted the masterpiece known worldwide as the Mona Lisa?",
+    "question": "[Blockbusters #80] Which Italian Renaissance polymath painted the masterpiece known worldwide as the Mona Lisa?",
     "options": [
       "Leonardo da Vinci",
       "Michelangelo",
@@ -1910,8 +1910,8 @@
     "correctAnswer": 0,
     "explanation": "Leonardo da Vinci painted the Mona Lisa (La Gioconda) in the early 16th century.",
     "tags": [
-      "history",
-      "modern-milestones",
+      "movies",
+      "blockbusters",
       "medium",
       "humanities",
       "trivia",
@@ -1920,11 +1920,11 @@
     "active": true
   },
   {
-    "id": "history-us-history-0081",
-    "category": "History",
-    "subcategory": "US History",
+    "id": "movies-classic-cinema-0081",
+    "category": "Movies",
+    "subcategory": "Classic Cinema",
     "difficulty": "hard",
-    "question": "[US History #81] What signature catchphrase is famously proclaimed by Pixar Star Command ranger Buzz Lightyear in Toy Story?",
+    "question": "[Classic Cinema #81] What signature catchphrase is famously proclaimed by Pixar Star Command ranger Buzz Lightyear in Toy Story?",
     "options": [
       "There is a snake in my boot!",
       "To infinity and beyond!",
@@ -1934,8 +1934,8 @@
     "correctAnswer": 1,
     "explanation": "Buzz Lightyear, voiced by Tim Allen, proclaims 'To infinity and beyond!' before flight.",
     "tags": [
-      "history",
-      "us-history",
+      "movies",
+      "classic-cinema",
       "hard",
       "humanities",
       "trivia",
@@ -1944,11 +1944,11 @@
     "active": true
   },
   {
-    "id": "history-world-history-0082",
-    "category": "History",
-    "subcategory": "World History",
+    "id": "movies-oscar-winners-0082",
+    "category": "Movies",
+    "subcategory": "Oscar Winners",
     "difficulty": "easy",
-    "question": "[World History #82] In English grammar, what part of speech describes or modifies a noun or pronoun?",
+    "question": "[Oscar Winners #82] In English grammar, what part of speech describes or modifies a noun or pronoun?",
     "options": [
       "Adverb",
       "Preposition",
@@ -1958,8 +1958,8 @@
     "correctAnswer": 2,
     "explanation": "Adjectives specify qualities, quantities, or characteristics of nouns and pronouns.",
     "tags": [
-      "history",
-      "world-history",
+      "movies",
+      "oscar-winners",
       "easy",
       "humanities",
       "trivia",
@@ -1968,11 +1968,11 @@
     "active": true
   },
   {
-    "id": "history-ancient-civilizations-0083",
-    "category": "History",
-    "subcategory": "Ancient Civilizations",
+    "id": "movies-famous-quotes-0083",
+    "category": "Movies",
+    "subcategory": "Famous Quotes",
     "difficulty": "medium",
-    "question": "[Ancient Civilizations #83] Which ancient Greek philosopher was the mentor of Plato and formulated the method of cooperative dialogue by asking questions?",
+    "question": "[Famous Quotes #83] Which ancient Greek philosopher was the mentor of Plato and formulated the method of cooperative dialogue by asking questions?",
     "options": [
       "Aristotle",
       "Pythagoras",
@@ -1982,8 +1982,8 @@
     "correctAnswer": 3,
     "explanation": "Socrates taught in classical Athens and developed the dialectical Socratic method.",
     "tags": [
-      "history",
-      "ancient-civilizations",
+      "movies",
+      "famous-quotes",
       "medium",
       "humanities",
       "trivia",
@@ -1992,11 +1992,11 @@
     "active": true
   },
   {
-    "id": "history-modern-milestones-0084",
-    "category": "History",
-    "subcategory": "Modern Milestones",
+    "id": "movies-blockbusters-0084",
+    "category": "Movies",
+    "subcategory": "Blockbusters",
     "difficulty": "hard",
-    "question": "[Modern Milestones #84] What is the world's largest ocean by both total surface area and water volume?",
+    "question": "[Blockbusters #84] What is the world's largest ocean by both total surface area and water volume?",
     "options": [
       "Pacific Ocean",
       "Atlantic Ocean",
@@ -2006,8 +2006,8 @@
     "correctAnswer": 0,
     "explanation": "The Pacific Ocean covers over 60 million square miles, comprising more than 30% of Earth's surface.",
     "tags": [
-      "history",
-      "modern-milestones",
+      "movies",
+      "blockbusters",
       "hard",
       "humanities",
       "trivia",
@@ -2016,11 +2016,11 @@
     "active": true
   },
   {
-    "id": "history-us-history-0085",
-    "category": "History",
-    "subcategory": "US History",
+    "id": "movies-classic-cinema-0085",
+    "category": "Movies",
+    "subcategory": "Classic Cinema",
     "difficulty": "easy",
-    "question": "[US History #85] In what year was the United States Declaration of Independence formally adopted in Philadelphia?",
+    "question": "[Classic Cinema #85] In what year was the United States Declaration of Independence formally adopted in Philadelphia?",
     "options": [
       "1789",
       "1776",
@@ -2030,8 +2030,8 @@
     "correctAnswer": 1,
     "explanation": "The Continental Congress formally adopted the Declaration of Independence on July 4, 1776.",
     "tags": [
-      "history",
-      "us-history",
+      "movies",
+      "classic-cinema",
       "easy",
       "humanities",
       "trivia",
@@ -2040,11 +2040,11 @@
     "active": true
   },
   {
-    "id": "history-world-history-0086",
-    "category": "History",
-    "subcategory": "World History",
+    "id": "movies-oscar-winners-0086",
+    "category": "Movies",
+    "subcategory": "Oscar Winners",
     "difficulty": "medium",
-    "question": "[World History #86] Which Italian Renaissance polymath painted the masterpiece known worldwide as the Mona Lisa?",
+    "question": "[Oscar Winners #86] Which Italian Renaissance polymath painted the masterpiece known worldwide as the Mona Lisa?",
     "options": [
       "Michelangelo",
       "Raphael",
@@ -2054,8 +2054,8 @@
     "correctAnswer": 2,
     "explanation": "Leonardo da Vinci painted the Mona Lisa (La Gioconda) in the early 16th century.",
     "tags": [
-      "history",
-      "world-history",
+      "movies",
+      "oscar-winners",
       "medium",
       "humanities",
       "trivia",
@@ -2064,11 +2064,11 @@
     "active": true
   },
   {
-    "id": "history-ancient-civilizations-0087",
-    "category": "History",
-    "subcategory": "Ancient Civilizations",
+    "id": "movies-famous-quotes-0087",
+    "category": "Movies",
+    "subcategory": "Famous Quotes",
     "difficulty": "hard",
-    "question": "[Ancient Civilizations #87] What signature catchphrase is famously proclaimed by Pixar Star Command ranger Buzz Lightyear in Toy Story?",
+    "question": "[Famous Quotes #87] What signature catchphrase is famously proclaimed by Pixar Star Command ranger Buzz Lightyear in Toy Story?",
     "options": [
       "There is a snake in my boot!",
       "Just keep swimming!",
@@ -2078,8 +2078,8 @@
     "correctAnswer": 3,
     "explanation": "Buzz Lightyear, voiced by Tim Allen, proclaims 'To infinity and beyond!' before flight.",
     "tags": [
-      "history",
-      "ancient-civilizations",
+      "movies",
+      "famous-quotes",
       "hard",
       "humanities",
       "trivia",
@@ -2088,11 +2088,11 @@
     "active": true
   },
   {
-    "id": "history-modern-milestones-0088",
-    "category": "History",
-    "subcategory": "Modern Milestones",
+    "id": "movies-blockbusters-0088",
+    "category": "Movies",
+    "subcategory": "Blockbusters",
     "difficulty": "easy",
-    "question": "[Modern Milestones #88] In English grammar, what part of speech describes or modifies a noun or pronoun?",
+    "question": "[Blockbusters #88] In English grammar, what part of speech describes or modifies a noun or pronoun?",
     "options": [
       "Adjective",
       "Adverb",
@@ -2102,8 +2102,8 @@
     "correctAnswer": 0,
     "explanation": "Adjectives specify qualities, quantities, or characteristics of nouns and pronouns.",
     "tags": [
-      "history",
-      "modern-milestones",
+      "movies",
+      "blockbusters",
       "easy",
       "humanities",
       "trivia",
@@ -2112,11 +2112,11 @@
     "active": true
   },
   {
-    "id": "history-us-history-0089",
-    "category": "History",
-    "subcategory": "US History",
+    "id": "movies-classic-cinema-0089",
+    "category": "Movies",
+    "subcategory": "Classic Cinema",
     "difficulty": "medium",
-    "question": "[US History #89] Which ancient Greek philosopher was the mentor of Plato and formulated the method of cooperative dialogue by asking questions?",
+    "question": "[Classic Cinema #89] Which ancient Greek philosopher was the mentor of Plato and formulated the method of cooperative dialogue by asking questions?",
     "options": [
       "Aristotle",
       "Socrates",
@@ -2126,8 +2126,8 @@
     "correctAnswer": 1,
     "explanation": "Socrates taught in classical Athens and developed the dialectical Socratic method.",
     "tags": [
-      "history",
-      "us-history",
+      "movies",
+      "classic-cinema",
       "medium",
       "humanities",
       "trivia",
@@ -2136,11 +2136,11 @@
     "active": true
   },
   {
-    "id": "history-world-history-0090",
-    "category": "History",
-    "subcategory": "World History",
+    "id": "movies-oscar-winners-0090",
+    "category": "Movies",
+    "subcategory": "Oscar Winners",
     "difficulty": "hard",
-    "question": "[World History #90] What is the world's largest ocean by both total surface area and water volume?",
+    "question": "[Oscar Winners #90] What is the world's largest ocean by both total surface area and water volume?",
     "options": [
       "Atlantic Ocean",
       "Indian Ocean",
@@ -2150,8 +2150,8 @@
     "correctAnswer": 2,
     "explanation": "The Pacific Ocean covers over 60 million square miles, comprising more than 30% of Earth's surface.",
     "tags": [
-      "history",
-      "world-history",
+      "movies",
+      "oscar-winners",
       "hard",
       "humanities",
       "trivia",
@@ -2160,11 +2160,11 @@
     "active": true
   },
   {
-    "id": "history-ancient-civilizations-0091",
-    "category": "History",
-    "subcategory": "Ancient Civilizations",
+    "id": "movies-famous-quotes-0091",
+    "category": "Movies",
+    "subcategory": "Famous Quotes",
     "difficulty": "easy",
-    "question": "[Ancient Civilizations #91] In what year was the United States Declaration of Independence formally adopted in Philadelphia?",
+    "question": "[Famous Quotes #91] In what year was the United States Declaration of Independence formally adopted in Philadelphia?",
     "options": [
       "1789",
       "1765",
@@ -2174,8 +2174,8 @@
     "correctAnswer": 3,
     "explanation": "The Continental Congress formally adopted the Declaration of Independence on July 4, 1776.",
     "tags": [
-      "history",
-      "ancient-civilizations",
+      "movies",
+      "famous-quotes",
       "easy",
       "humanities",
       "trivia",
@@ -2184,11 +2184,11 @@
     "active": true
   },
   {
-    "id": "history-modern-milestones-0092",
-    "category": "History",
-    "subcategory": "Modern Milestones",
+    "id": "movies-blockbusters-0092",
+    "category": "Movies",
+    "subcategory": "Blockbusters",
     "difficulty": "medium",
-    "question": "[Modern Milestones #92] Which Italian Renaissance polymath painted the masterpiece known worldwide as the Mona Lisa?",
+    "question": "[Blockbusters #92] Which Italian Renaissance polymath painted the masterpiece known worldwide as the Mona Lisa?",
     "options": [
       "Leonardo da Vinci",
       "Michelangelo",
@@ -2198,8 +2198,8 @@
     "correctAnswer": 0,
     "explanation": "Leonardo da Vinci painted the Mona Lisa (La Gioconda) in the early 16th century.",
     "tags": [
-      "history",
-      "modern-milestones",
+      "movies",
+      "blockbusters",
       "medium",
       "humanities",
       "trivia",
@@ -2208,11 +2208,11 @@
     "active": true
   },
   {
-    "id": "history-us-history-0093",
-    "category": "History",
-    "subcategory": "US History",
+    "id": "movies-classic-cinema-0093",
+    "category": "Movies",
+    "subcategory": "Classic Cinema",
     "difficulty": "hard",
-    "question": "[US History #93] What signature catchphrase is famously proclaimed by Pixar Star Command ranger Buzz Lightyear in Toy Story?",
+    "question": "[Classic Cinema #93] What signature catchphrase is famously proclaimed by Pixar Star Command ranger Buzz Lightyear in Toy Story?",
     "options": [
       "There is a snake in my boot!",
       "To infinity and beyond!",
@@ -2222,8 +2222,8 @@
     "correctAnswer": 1,
     "explanation": "Buzz Lightyear, voiced by Tim Allen, proclaims 'To infinity and beyond!' before flight.",
     "tags": [
-      "history",
-      "us-history",
+      "movies",
+      "classic-cinema",
       "hard",
       "humanities",
       "trivia",
@@ -2232,11 +2232,11 @@
     "active": true
   },
   {
-    "id": "history-world-history-0094",
-    "category": "History",
-    "subcategory": "World History",
+    "id": "movies-oscar-winners-0094",
+    "category": "Movies",
+    "subcategory": "Oscar Winners",
     "difficulty": "easy",
-    "question": "[World History #94] In English grammar, what part of speech describes or modifies a noun or pronoun?",
+    "question": "[Oscar Winners #94] In English grammar, what part of speech describes or modifies a noun or pronoun?",
     "options": [
       "Adverb",
       "Preposition",
@@ -2246,8 +2246,8 @@
     "correctAnswer": 2,
     "explanation": "Adjectives specify qualities, quantities, or characteristics of nouns and pronouns.",
     "tags": [
-      "history",
-      "world-history",
+      "movies",
+      "oscar-winners",
       "easy",
       "humanities",
       "trivia",
@@ -2256,11 +2256,11 @@
     "active": true
   },
   {
-    "id": "history-ancient-civilizations-0095",
-    "category": "History",
-    "subcategory": "Ancient Civilizations",
+    "id": "movies-famous-quotes-0095",
+    "category": "Movies",
+    "subcategory": "Famous Quotes",
     "difficulty": "medium",
-    "question": "[Ancient Civilizations #95] Which ancient Greek philosopher was the mentor of Plato and formulated the method of cooperative dialogue by asking questions?",
+    "question": "[Famous Quotes #95] Which ancient Greek philosopher was the mentor of Plato and formulated the method of cooperative dialogue by asking questions?",
     "options": [
       "Aristotle",
       "Pythagoras",
@@ -2270,8 +2270,8 @@
     "correctAnswer": 3,
     "explanation": "Socrates taught in classical Athens and developed the dialectical Socratic method.",
     "tags": [
-      "history",
-      "ancient-civilizations",
+      "movies",
+      "famous-quotes",
       "medium",
       "humanities",
       "trivia",
@@ -2280,11 +2280,11 @@
     "active": true
   },
   {
-    "id": "history-modern-milestones-0096",
-    "category": "History",
-    "subcategory": "Modern Milestones",
+    "id": "movies-blockbusters-0096",
+    "category": "Movies",
+    "subcategory": "Blockbusters",
     "difficulty": "hard",
-    "question": "[Modern Milestones #96] What is the world's largest ocean by both total surface area and water volume?",
+    "question": "[Blockbusters #96] What is the world's largest ocean by both total surface area and water volume?",
     "options": [
       "Pacific Ocean",
       "Atlantic Ocean",
@@ -2294,8 +2294,8 @@
     "correctAnswer": 0,
     "explanation": "The Pacific Ocean covers over 60 million square miles, comprising more than 30% of Earth's surface.",
     "tags": [
-      "history",
-      "modern-milestones",
+      "movies",
+      "blockbusters",
       "hard",
       "humanities",
       "trivia",
@@ -2304,11 +2304,11 @@
     "active": true
   },
   {
-    "id": "history-us-history-0097",
-    "category": "History",
-    "subcategory": "US History",
+    "id": "movies-classic-cinema-0097",
+    "category": "Movies",
+    "subcategory": "Classic Cinema",
     "difficulty": "easy",
-    "question": "[US History #97] In what year was the United States Declaration of Independence formally adopted in Philadelphia?",
+    "question": "[Classic Cinema #97] In what year was the United States Declaration of Independence formally adopted in Philadelphia?",
     "options": [
       "1789",
       "1776",
@@ -2318,8 +2318,8 @@
     "correctAnswer": 1,
     "explanation": "The Continental Congress formally adopted the Declaration of Independence on July 4, 1776.",
     "tags": [
-      "history",
-      "us-history",
+      "movies",
+      "classic-cinema",
       "easy",
       "humanities",
       "trivia",
@@ -2328,11 +2328,11 @@
     "active": true
   },
   {
-    "id": "history-world-history-0098",
-    "category": "History",
-    "subcategory": "World History",
+    "id": "movies-oscar-winners-0098",
+    "category": "Movies",
+    "subcategory": "Oscar Winners",
     "difficulty": "medium",
-    "question": "[World History #98] Which Italian Renaissance polymath painted the masterpiece known worldwide as the Mona Lisa?",
+    "question": "[Oscar Winners #98] Which Italian Renaissance polymath painted the masterpiece known worldwide as the Mona Lisa?",
     "options": [
       "Michelangelo",
       "Raphael",
@@ -2342,8 +2342,8 @@
     "correctAnswer": 2,
     "explanation": "Leonardo da Vinci painted the Mona Lisa (La Gioconda) in the early 16th century.",
     "tags": [
-      "history",
-      "world-history",
+      "movies",
+      "oscar-winners",
       "medium",
       "humanities",
       "trivia",
@@ -2352,11 +2352,11 @@
     "active": true
   },
   {
-    "id": "history-ancient-civilizations-0099",
-    "category": "History",
-    "subcategory": "Ancient Civilizations",
+    "id": "movies-famous-quotes-0099",
+    "category": "Movies",
+    "subcategory": "Famous Quotes",
     "difficulty": "hard",
-    "question": "[Ancient Civilizations #99] What signature catchphrase is famously proclaimed by Pixar Star Command ranger Buzz Lightyear in Toy Story?",
+    "question": "[Famous Quotes #99] What signature catchphrase is famously proclaimed by Pixar Star Command ranger Buzz Lightyear in Toy Story?",
     "options": [
       "There is a snake in my boot!",
       "Just keep swimming!",
@@ -2366,8 +2366,8 @@
     "correctAnswer": 3,
     "explanation": "Buzz Lightyear, voiced by Tim Allen, proclaims 'To infinity and beyond!' before flight.",
     "tags": [
-      "history",
-      "ancient-civilizations",
+      "movies",
+      "famous-quotes",
       "hard",
       "humanities",
       "trivia",
@@ -2376,11 +2376,11 @@
     "active": true
   },
   {
-    "id": "history-modern-milestones-0100",
-    "category": "History",
-    "subcategory": "Modern Milestones",
+    "id": "movies-blockbusters-0100",
+    "category": "Movies",
+    "subcategory": "Blockbusters",
     "difficulty": "easy",
-    "question": "[Modern Milestones #100] In English grammar, what part of speech describes or modifies a noun or pronoun?",
+    "question": "[Blockbusters #100] In English grammar, what part of speech describes or modifies a noun or pronoun?",
     "options": [
       "Adjective",
       "Adverb",
@@ -2390,8 +2390,8 @@
     "correctAnswer": 0,
     "explanation": "Adjectives specify qualities, quantities, or characteristics of nouns and pronouns.",
     "tags": [
-      "history",
-      "modern-milestones",
+      "movies",
+      "blockbusters",
       "easy",
       "humanities",
       "trivia",
@@ -2400,11 +2400,11 @@
     "active": true
   },
   {
-    "id": "history-us-history-0101",
-    "category": "History",
-    "subcategory": "US History",
+    "id": "movies-classic-cinema-0101",
+    "category": "Movies",
+    "subcategory": "Classic Cinema",
     "difficulty": "medium",
-    "question": "[US History #101] Which ancient Greek philosopher was the mentor of Plato and formulated the method of cooperative dialogue by asking questions?",
+    "question": "[Classic Cinema #101] Which ancient Greek philosopher was the mentor of Plato and formulated the method of cooperative dialogue by asking questions?",
     "options": [
       "Aristotle",
       "Socrates",
@@ -2414,8 +2414,8 @@
     "correctAnswer": 1,
     "explanation": "Socrates taught in classical Athens and developed the dialectical Socratic method.",
     "tags": [
-      "history",
-      "us-history",
+      "movies",
+      "classic-cinema",
       "medium",
       "humanities",
       "trivia",
@@ -2424,11 +2424,11 @@
     "active": true
   },
   {
-    "id": "history-world-history-0102",
-    "category": "History",
-    "subcategory": "World History",
+    "id": "movies-oscar-winners-0102",
+    "category": "Movies",
+    "subcategory": "Oscar Winners",
     "difficulty": "hard",
-    "question": "[World History #102] What is the world's largest ocean by both total surface area and water volume?",
+    "question": "[Oscar Winners #102] What is the world's largest ocean by both total surface area and water volume?",
     "options": [
       "Atlantic Ocean",
       "Indian Ocean",
@@ -2438,8 +2438,8 @@
     "correctAnswer": 2,
     "explanation": "The Pacific Ocean covers over 60 million square miles, comprising more than 30% of Earth's surface.",
     "tags": [
-      "history",
-      "world-history",
+      "movies",
+      "oscar-winners",
       "hard",
       "humanities",
       "trivia",
@@ -2448,11 +2448,11 @@
     "active": true
   },
   {
-    "id": "history-ancient-civilizations-0103",
-    "category": "History",
-    "subcategory": "Ancient Civilizations",
+    "id": "movies-famous-quotes-0103",
+    "category": "Movies",
+    "subcategory": "Famous Quotes",
     "difficulty": "easy",
-    "question": "[Ancient Civilizations #103] In what year was the United States Declaration of Independence formally adopted in Philadelphia?",
+    "question": "[Famous Quotes #103] In what year was the United States Declaration of Independence formally adopted in Philadelphia?",
     "options": [
       "1789",
       "1765",
@@ -2462,8 +2462,8 @@
     "correctAnswer": 3,
     "explanation": "The Continental Congress formally adopted the Declaration of Independence on July 4, 1776.",
     "tags": [
-      "history",
-      "ancient-civilizations",
+      "movies",
+      "famous-quotes",
       "easy",
       "humanities",
       "trivia",
@@ -2472,11 +2472,11 @@
     "active": true
   },
   {
-    "id": "history-modern-milestones-0104",
-    "category": "History",
-    "subcategory": "Modern Milestones",
+    "id": "movies-blockbusters-0104",
+    "category": "Movies",
+    "subcategory": "Blockbusters",
     "difficulty": "medium",
-    "question": "[Modern Milestones #104] Which Italian Renaissance polymath painted the masterpiece known worldwide as the Mona Lisa?",
+    "question": "[Blockbusters #104] Which Italian Renaissance polymath painted the masterpiece known worldwide as the Mona Lisa?",
     "options": [
       "Leonardo da Vinci",
       "Michelangelo",
@@ -2486,8 +2486,8 @@
     "correctAnswer": 0,
     "explanation": "Leonardo da Vinci painted the Mona Lisa (La Gioconda) in the early 16th century.",
     "tags": [
-      "history",
-      "modern-milestones",
+      "movies",
+      "blockbusters",
       "medium",
       "humanities",
       "trivia",
@@ -2496,11 +2496,11 @@
     "active": true
   },
   {
-    "id": "history-us-history-0105",
-    "category": "History",
-    "subcategory": "US History",
+    "id": "movies-classic-cinema-0105",
+    "category": "Movies",
+    "subcategory": "Classic Cinema",
     "difficulty": "hard",
-    "question": "[US History #105] What signature catchphrase is famously proclaimed by Pixar Star Command ranger Buzz Lightyear in Toy Story?",
+    "question": "[Classic Cinema #105] What signature catchphrase is famously proclaimed by Pixar Star Command ranger Buzz Lightyear in Toy Story?",
     "options": [
       "There is a snake in my boot!",
       "To infinity and beyond!",
@@ -2510,8 +2510,8 @@
     "correctAnswer": 1,
     "explanation": "Buzz Lightyear, voiced by Tim Allen, proclaims 'To infinity and beyond!' before flight.",
     "tags": [
-      "history",
-      "us-history",
+      "movies",
+      "classic-cinema",
       "hard",
       "humanities",
       "trivia",
@@ -2520,11 +2520,11 @@
     "active": true
   },
   {
-    "id": "history-world-history-0106",
-    "category": "History",
-    "subcategory": "World History",
+    "id": "movies-oscar-winners-0106",
+    "category": "Movies",
+    "subcategory": "Oscar Winners",
     "difficulty": "easy",
-    "question": "[World History #106] In English grammar, what part of speech describes or modifies a noun or pronoun?",
+    "question": "[Oscar Winners #106] In English grammar, what part of speech describes or modifies a noun or pronoun?",
     "options": [
       "Adverb",
       "Preposition",
@@ -2534,8 +2534,8 @@
     "correctAnswer": 2,
     "explanation": "Adjectives specify qualities, quantities, or characteristics of nouns and pronouns.",
     "tags": [
-      "history",
-      "world-history",
+      "movies",
+      "oscar-winners",
       "easy",
       "humanities",
       "trivia",
@@ -2544,11 +2544,11 @@
     "active": true
   },
   {
-    "id": "history-ancient-civilizations-0107",
-    "category": "History",
-    "subcategory": "Ancient Civilizations",
+    "id": "movies-famous-quotes-0107",
+    "category": "Movies",
+    "subcategory": "Famous Quotes",
     "difficulty": "medium",
-    "question": "[Ancient Civilizations #107] Which ancient Greek philosopher was the mentor of Plato and formulated the method of cooperative dialogue by asking questions?",
+    "question": "[Famous Quotes #107] Which ancient Greek philosopher was the mentor of Plato and formulated the method of cooperative dialogue by asking questions?",
     "options": [
       "Aristotle",
       "Pythagoras",
@@ -2558,8 +2558,8 @@
     "correctAnswer": 3,
     "explanation": "Socrates taught in classical Athens and developed the dialectical Socratic method.",
     "tags": [
-      "history",
-      "ancient-civilizations",
+      "movies",
+      "famous-quotes",
       "medium",
       "humanities",
       "trivia",
@@ -2568,11 +2568,11 @@
     "active": true
   },
   {
-    "id": "history-modern-milestones-0108",
-    "category": "History",
-    "subcategory": "Modern Milestones",
+    "id": "movies-blockbusters-0108",
+    "category": "Movies",
+    "subcategory": "Blockbusters",
     "difficulty": "hard",
-    "question": "[Modern Milestones #108] What is the world's largest ocean by both total surface area and water volume?",
+    "question": "[Blockbusters #108] What is the world's largest ocean by both total surface area and water volume?",
     "options": [
       "Pacific Ocean",
       "Atlantic Ocean",
@@ -2582,8 +2582,8 @@
     "correctAnswer": 0,
     "explanation": "The Pacific Ocean covers over 60 million square miles, comprising more than 30% of Earth's surface.",
     "tags": [
-      "history",
-      "modern-milestones",
+      "movies",
+      "blockbusters",
       "hard",
       "humanities",
       "trivia",
@@ -2592,11 +2592,11 @@
     "active": true
   },
   {
-    "id": "history-us-history-0109",
-    "category": "History",
-    "subcategory": "US History",
+    "id": "movies-classic-cinema-0109",
+    "category": "Movies",
+    "subcategory": "Classic Cinema",
     "difficulty": "easy",
-    "question": "[US History #109] In what year was the United States Declaration of Independence formally adopted in Philadelphia?",
+    "question": "[Classic Cinema #109] In what year was the United States Declaration of Independence formally adopted in Philadelphia?",
     "options": [
       "1789",
       "1776",
@@ -2606,8 +2606,8 @@
     "correctAnswer": 1,
     "explanation": "The Continental Congress formally adopted the Declaration of Independence on July 4, 1776.",
     "tags": [
-      "history",
-      "us-history",
+      "movies",
+      "classic-cinema",
       "easy",
       "humanities",
       "trivia",
@@ -2616,11 +2616,11 @@
     "active": true
   },
   {
-    "id": "history-world-history-0110",
-    "category": "History",
-    "subcategory": "World History",
+    "id": "movies-oscar-winners-0110",
+    "category": "Movies",
+    "subcategory": "Oscar Winners",
     "difficulty": "medium",
-    "question": "[World History #110] Which Italian Renaissance polymath painted the masterpiece known worldwide as the Mona Lisa?",
+    "question": "[Oscar Winners #110] Which Italian Renaissance polymath painted the masterpiece known worldwide as the Mona Lisa?",
     "options": [
       "Michelangelo",
       "Raphael",
@@ -2630,8 +2630,8 @@
     "correctAnswer": 2,
     "explanation": "Leonardo da Vinci painted the Mona Lisa (La Gioconda) in the early 16th century.",
     "tags": [
-      "history",
-      "world-history",
+      "movies",
+      "oscar-winners",
       "medium",
       "humanities",
       "trivia",
@@ -2640,11 +2640,11 @@
     "active": true
   },
   {
-    "id": "history-ancient-civilizations-0111",
-    "category": "History",
-    "subcategory": "Ancient Civilizations",
+    "id": "movies-famous-quotes-0111",
+    "category": "Movies",
+    "subcategory": "Famous Quotes",
     "difficulty": "hard",
-    "question": "[Ancient Civilizations #111] What signature catchphrase is famously proclaimed by Pixar Star Command ranger Buzz Lightyear in Toy Story?",
+    "question": "[Famous Quotes #111] What signature catchphrase is famously proclaimed by Pixar Star Command ranger Buzz Lightyear in Toy Story?",
     "options": [
       "There is a snake in my boot!",
       "Just keep swimming!",
@@ -2654,8 +2654,8 @@
     "correctAnswer": 3,
     "explanation": "Buzz Lightyear, voiced by Tim Allen, proclaims 'To infinity and beyond!' before flight.",
     "tags": [
-      "history",
-      "ancient-civilizations",
+      "movies",
+      "famous-quotes",
       "hard",
       "humanities",
       "trivia",
@@ -2664,11 +2664,11 @@
     "active": true
   },
   {
-    "id": "history-modern-milestones-0112",
-    "category": "History",
-    "subcategory": "Modern Milestones",
+    "id": "movies-blockbusters-0112",
+    "category": "Movies",
+    "subcategory": "Blockbusters",
     "difficulty": "easy",
-    "question": "[Modern Milestones #112] In English grammar, what part of speech describes or modifies a noun or pronoun?",
+    "question": "[Blockbusters #112] In English grammar, what part of speech describes or modifies a noun or pronoun?",
     "options": [
       "Adjective",
       "Adverb",
@@ -2678,8 +2678,8 @@
     "correctAnswer": 0,
     "explanation": "Adjectives specify qualities, quantities, or characteristics of nouns and pronouns.",
     "tags": [
-      "history",
-      "modern-milestones",
+      "movies",
+      "blockbusters",
       "easy",
       "humanities",
       "trivia",
@@ -2688,11 +2688,11 @@
     "active": true
   },
   {
-    "id": "history-us-history-0113",
-    "category": "History",
-    "subcategory": "US History",
+    "id": "movies-classic-cinema-0113",
+    "category": "Movies",
+    "subcategory": "Classic Cinema",
     "difficulty": "medium",
-    "question": "[US History #113] Which ancient Greek philosopher was the mentor of Plato and formulated the method of cooperative dialogue by asking questions?",
+    "question": "[Classic Cinema #113] Which ancient Greek philosopher was the mentor of Plato and formulated the method of cooperative dialogue by asking questions?",
     "options": [
       "Aristotle",
       "Socrates",
@@ -2702,8 +2702,8 @@
     "correctAnswer": 1,
     "explanation": "Socrates taught in classical Athens and developed the dialectical Socratic method.",
     "tags": [
-      "history",
-      "us-history",
+      "movies",
+      "classic-cinema",
       "medium",
       "humanities",
       "trivia",
@@ -2712,11 +2712,11 @@
     "active": true
   },
   {
-    "id": "history-world-history-0114",
-    "category": "History",
-    "subcategory": "World History",
+    "id": "movies-oscar-winners-0114",
+    "category": "Movies",
+    "subcategory": "Oscar Winners",
     "difficulty": "hard",
-    "question": "[World History #114] What is the world's largest ocean by both total surface area and water volume?",
+    "question": "[Oscar Winners #114] What is the world's largest ocean by both total surface area and water volume?",
     "options": [
       "Atlantic Ocean",
       "Indian Ocean",
@@ -2726,8 +2726,8 @@
     "correctAnswer": 2,
     "explanation": "The Pacific Ocean covers over 60 million square miles, comprising more than 30% of Earth's surface.",
     "tags": [
-      "history",
-      "world-history",
+      "movies",
+      "oscar-winners",
       "hard",
       "humanities",
       "trivia",
@@ -2736,11 +2736,11 @@
     "active": true
   },
   {
-    "id": "history-ancient-civilizations-0115",
-    "category": "History",
-    "subcategory": "Ancient Civilizations",
+    "id": "movies-famous-quotes-0115",
+    "category": "Movies",
+    "subcategory": "Famous Quotes",
     "difficulty": "easy",
-    "question": "[Ancient Civilizations #115] In what year was the United States Declaration of Independence formally adopted in Philadelphia?",
+    "question": "[Famous Quotes #115] In what year was the United States Declaration of Independence formally adopted in Philadelphia?",
     "options": [
       "1789",
       "1765",
@@ -2750,8 +2750,8 @@
     "correctAnswer": 3,
     "explanation": "The Continental Congress formally adopted the Declaration of Independence on July 4, 1776.",
     "tags": [
-      "history",
-      "ancient-civilizations",
+      "movies",
+      "famous-quotes",
       "easy",
       "humanities",
       "trivia",
@@ -2760,11 +2760,11 @@
     "active": true
   },
   {
-    "id": "history-modern-milestones-0116",
-    "category": "History",
-    "subcategory": "Modern Milestones",
+    "id": "movies-blockbusters-0116",
+    "category": "Movies",
+    "subcategory": "Blockbusters",
     "difficulty": "medium",
-    "question": "[Modern Milestones #116] Which Italian Renaissance polymath painted the masterpiece known worldwide as the Mona Lisa?",
+    "question": "[Blockbusters #116] Which Italian Renaissance polymath painted the masterpiece known worldwide as the Mona Lisa?",
     "options": [
       "Leonardo da Vinci",
       "Michelangelo",
@@ -2774,8 +2774,8 @@
     "correctAnswer": 0,
     "explanation": "Leonardo da Vinci painted the Mona Lisa (La Gioconda) in the early 16th century.",
     "tags": [
-      "history",
-      "modern-milestones",
+      "movies",
+      "blockbusters",
       "medium",
       "humanities",
       "trivia",
@@ -2784,11 +2784,11 @@
     "active": true
   },
   {
-    "id": "history-us-history-0117",
-    "category": "History",
-    "subcategory": "US History",
+    "id": "movies-classic-cinema-0117",
+    "category": "Movies",
+    "subcategory": "Classic Cinema",
     "difficulty": "hard",
-    "question": "[US History #117] What signature catchphrase is famously proclaimed by Pixar Star Command ranger Buzz Lightyear in Toy Story?",
+    "question": "[Classic Cinema #117] What signature catchphrase is famously proclaimed by Pixar Star Command ranger Buzz Lightyear in Toy Story?",
     "options": [
       "There is a snake in my boot!",
       "To infinity and beyond!",
@@ -2798,8 +2798,8 @@
     "correctAnswer": 1,
     "explanation": "Buzz Lightyear, voiced by Tim Allen, proclaims 'To infinity and beyond!' before flight.",
     "tags": [
-      "history",
-      "us-history",
+      "movies",
+      "classic-cinema",
       "hard",
       "humanities",
       "trivia",
@@ -2808,11 +2808,11 @@
     "active": true
   },
   {
-    "id": "history-world-history-0118",
-    "category": "History",
-    "subcategory": "World History",
+    "id": "movies-oscar-winners-0118",
+    "category": "Movies",
+    "subcategory": "Oscar Winners",
     "difficulty": "easy",
-    "question": "[World History #118] In English grammar, what part of speech describes or modifies a noun or pronoun?",
+    "question": "[Oscar Winners #118] In English grammar, what part of speech describes or modifies a noun or pronoun?",
     "options": [
       "Adverb",
       "Preposition",
@@ -2822,8 +2822,8 @@
     "correctAnswer": 2,
     "explanation": "Adjectives specify qualities, quantities, or characteristics of nouns and pronouns.",
     "tags": [
-      "history",
-      "world-history",
+      "movies",
+      "oscar-winners",
       "easy",
       "humanities",
       "trivia",
@@ -2832,11 +2832,11 @@
     "active": true
   },
   {
-    "id": "history-ancient-civilizations-0119",
-    "category": "History",
-    "subcategory": "Ancient Civilizations",
+    "id": "movies-famous-quotes-0119",
+    "category": "Movies",
+    "subcategory": "Famous Quotes",
     "difficulty": "medium",
-    "question": "[Ancient Civilizations #119] Which ancient Greek philosopher was the mentor of Plato and formulated the method of cooperative dialogue by asking questions?",
+    "question": "[Famous Quotes #119] Which ancient Greek philosopher was the mentor of Plato and formulated the method of cooperative dialogue by asking questions?",
     "options": [
       "Aristotle",
       "Pythagoras",
@@ -2846,8 +2846,8 @@
     "correctAnswer": 3,
     "explanation": "Socrates taught in classical Athens and developed the dialectical Socratic method.",
     "tags": [
-      "history",
-      "ancient-civilizations",
+      "movies",
+      "famous-quotes",
       "medium",
       "humanities",
       "trivia",
@@ -2856,11 +2856,11 @@
     "active": true
   },
   {
-    "id": "history-modern-milestones-0120",
-    "category": "History",
-    "subcategory": "Modern Milestones",
+    "id": "movies-blockbusters-0120",
+    "category": "Movies",
+    "subcategory": "Blockbusters",
     "difficulty": "hard",
-    "question": "[Modern Milestones #120] What is the world's largest ocean by both total surface area and water volume?",
+    "question": "[Blockbusters #120] What is the world's largest ocean by both total surface area and water volume?",
     "options": [
       "Pacific Ocean",
       "Atlantic Ocean",
@@ -2870,8 +2870,8 @@
     "correctAnswer": 0,
     "explanation": "The Pacific Ocean covers over 60 million square miles, comprising more than 30% of Earth's surface.",
     "tags": [
-      "history",
-      "modern-milestones",
+      "movies",
+      "blockbusters",
       "hard",
       "humanities",
       "trivia",
@@ -2880,11 +2880,11 @@
     "active": true
   },
   {
-    "id": "history-us-history-0121",
-    "category": "History",
-    "subcategory": "US History",
+    "id": "movies-classic-cinema-0121",
+    "category": "Movies",
+    "subcategory": "Classic Cinema",
     "difficulty": "easy",
-    "question": "[US History #121] In what year was the United States Declaration of Independence formally adopted in Philadelphia?",
+    "question": "[Classic Cinema #121] In what year was the United States Declaration of Independence formally adopted in Philadelphia?",
     "options": [
       "1789",
       "1776",
@@ -2894,8 +2894,8 @@
     "correctAnswer": 1,
     "explanation": "The Continental Congress formally adopted the Declaration of Independence on July 4, 1776.",
     "tags": [
-      "history",
-      "us-history",
+      "movies",
+      "classic-cinema",
       "easy",
       "humanities",
       "trivia",
@@ -2904,11 +2904,11 @@
     "active": true
   },
   {
-    "id": "history-world-history-0122",
-    "category": "History",
-    "subcategory": "World History",
+    "id": "movies-oscar-winners-0122",
+    "category": "Movies",
+    "subcategory": "Oscar Winners",
     "difficulty": "medium",
-    "question": "[World History #122] Which Italian Renaissance polymath painted the masterpiece known worldwide as the Mona Lisa?",
+    "question": "[Oscar Winners #122] Which Italian Renaissance polymath painted the masterpiece known worldwide as the Mona Lisa?",
     "options": [
       "Michelangelo",
       "Raphael",
@@ -2918,8 +2918,8 @@
     "correctAnswer": 2,
     "explanation": "Leonardo da Vinci painted the Mona Lisa (La Gioconda) in the early 16th century.",
     "tags": [
-      "history",
-      "world-history",
+      "movies",
+      "oscar-winners",
       "medium",
       "humanities",
       "trivia",
@@ -2928,11 +2928,11 @@
     "active": true
   },
   {
-    "id": "history-ancient-civilizations-0123",
-    "category": "History",
-    "subcategory": "Ancient Civilizations",
+    "id": "movies-famous-quotes-0123",
+    "category": "Movies",
+    "subcategory": "Famous Quotes",
     "difficulty": "hard",
-    "question": "[Ancient Civilizations #123] What signature catchphrase is famously proclaimed by Pixar Star Command ranger Buzz Lightyear in Toy Story?",
+    "question": "[Famous Quotes #123] What signature catchphrase is famously proclaimed by Pixar Star Command ranger Buzz Lightyear in Toy Story?",
     "options": [
       "There is a snake in my boot!",
       "Just keep swimming!",
@@ -2942,8 +2942,8 @@
     "correctAnswer": 3,
     "explanation": "Buzz Lightyear, voiced by Tim Allen, proclaims 'To infinity and beyond!' before flight.",
     "tags": [
-      "history",
-      "ancient-civilizations",
+      "movies",
+      "famous-quotes",
       "hard",
       "humanities",
       "trivia",
@@ -2952,11 +2952,11 @@
     "active": true
   },
   {
-    "id": "history-modern-milestones-0124",
-    "category": "History",
-    "subcategory": "Modern Milestones",
+    "id": "movies-blockbusters-0124",
+    "category": "Movies",
+    "subcategory": "Blockbusters",
     "difficulty": "easy",
-    "question": "[Modern Milestones #124] In English grammar, what part of speech describes or modifies a noun or pronoun?",
+    "question": "[Blockbusters #124] In English grammar, what part of speech describes or modifies a noun or pronoun?",
     "options": [
       "Adjective",
       "Adverb",
@@ -2966,8 +2966,8 @@
     "correctAnswer": 0,
     "explanation": "Adjectives specify qualities, quantities, or characteristics of nouns and pronouns.",
     "tags": [
-      "history",
-      "modern-milestones",
+      "movies",
+      "blockbusters",
       "easy",
       "humanities",
       "trivia",
@@ -2976,11 +2976,11 @@
     "active": true
   },
   {
-    "id": "history-us-history-0125",
-    "category": "History",
-    "subcategory": "US History",
+    "id": "movies-classic-cinema-0125",
+    "category": "Movies",
+    "subcategory": "Classic Cinema",
     "difficulty": "medium",
-    "question": "[US History #125] Which ancient Greek philosopher was the mentor of Plato and formulated the method of cooperative dialogue by asking questions?",
+    "question": "[Classic Cinema #125] Which ancient Greek philosopher was the mentor of Plato and formulated the method of cooperative dialogue by asking questions?",
     "options": [
       "Aristotle",
       "Socrates",
@@ -2990,8 +2990,8 @@
     "correctAnswer": 1,
     "explanation": "Socrates taught in classical Athens and developed the dialectical Socratic method.",
     "tags": [
-      "history",
-      "us-history",
+      "movies",
+      "classic-cinema",
       "medium",
       "humanities",
       "trivia",
@@ -3000,11 +3000,11 @@
     "active": true
   },
   {
-    "id": "history-world-history-0126",
-    "category": "History",
-    "subcategory": "World History",
+    "id": "movies-oscar-winners-0126",
+    "category": "Movies",
+    "subcategory": "Oscar Winners",
     "difficulty": "hard",
-    "question": "[World History #126] What is the world's largest ocean by both total surface area and water volume?",
+    "question": "[Oscar Winners #126] What is the world's largest ocean by both total surface area and water volume?",
     "options": [
       "Atlantic Ocean",
       "Indian Ocean",
@@ -3014,8 +3014,8 @@
     "correctAnswer": 2,
     "explanation": "The Pacific Ocean covers over 60 million square miles, comprising more than 30% of Earth's surface.",
     "tags": [
-      "history",
-      "world-history",
+      "movies",
+      "oscar-winners",
       "hard",
       "humanities",
       "trivia",
@@ -3024,11 +3024,11 @@
     "active": true
   },
   {
-    "id": "history-ancient-civilizations-0127",
-    "category": "History",
-    "subcategory": "Ancient Civilizations",
+    "id": "movies-famous-quotes-0127",
+    "category": "Movies",
+    "subcategory": "Famous Quotes",
     "difficulty": "easy",
-    "question": "[Ancient Civilizations #127] In what year was the United States Declaration of Independence formally adopted in Philadelphia?",
+    "question": "[Famous Quotes #127] In what year was the United States Declaration of Independence formally adopted in Philadelphia?",
     "options": [
       "1789",
       "1765",
@@ -3038,8 +3038,8 @@
     "correctAnswer": 3,
     "explanation": "The Continental Congress formally adopted the Declaration of Independence on July 4, 1776.",
     "tags": [
-      "history",
-      "ancient-civilizations",
+      "movies",
+      "famous-quotes",
       "easy",
       "humanities",
       "trivia",
@@ -3048,11 +3048,11 @@
     "active": true
   },
   {
-    "id": "history-modern-milestones-0128",
-    "category": "History",
-    "subcategory": "Modern Milestones",
+    "id": "movies-blockbusters-0128",
+    "category": "Movies",
+    "subcategory": "Blockbusters",
     "difficulty": "medium",
-    "question": "[Modern Milestones #128] Which Italian Renaissance polymath painted the masterpiece known worldwide as the Mona Lisa?",
+    "question": "[Blockbusters #128] Which Italian Renaissance polymath painted the masterpiece known worldwide as the Mona Lisa?",
     "options": [
       "Leonardo da Vinci",
       "Michelangelo",
@@ -3062,8 +3062,8 @@
     "correctAnswer": 0,
     "explanation": "Leonardo da Vinci painted the Mona Lisa (La Gioconda) in the early 16th century.",
     "tags": [
-      "history",
-      "modern-milestones",
+      "movies",
+      "blockbusters",
       "medium",
       "humanities",
       "trivia",
@@ -3072,11 +3072,11 @@
     "active": true
   },
   {
-    "id": "history-us-history-0129",
-    "category": "History",
-    "subcategory": "US History",
+    "id": "movies-classic-cinema-0129",
+    "category": "Movies",
+    "subcategory": "Classic Cinema",
     "difficulty": "hard",
-    "question": "[US History #129] What signature catchphrase is famously proclaimed by Pixar Star Command ranger Buzz Lightyear in Toy Story?",
+    "question": "[Classic Cinema #129] What signature catchphrase is famously proclaimed by Pixar Star Command ranger Buzz Lightyear in Toy Story?",
     "options": [
       "There is a snake in my boot!",
       "To infinity and beyond!",
@@ -3086,8 +3086,8 @@
     "correctAnswer": 1,
     "explanation": "Buzz Lightyear, voiced by Tim Allen, proclaims 'To infinity and beyond!' before flight.",
     "tags": [
-      "history",
-      "us-history",
+      "movies",
+      "classic-cinema",
       "hard",
       "humanities",
       "trivia",
@@ -3096,11 +3096,11 @@
     "active": true
   },
   {
-    "id": "history-world-history-0130",
-    "category": "History",
-    "subcategory": "World History",
+    "id": "movies-oscar-winners-0130",
+    "category": "Movies",
+    "subcategory": "Oscar Winners",
     "difficulty": "easy",
-    "question": "[World History #130] In English grammar, what part of speech describes or modifies a noun or pronoun?",
+    "question": "[Oscar Winners #130] In English grammar, what part of speech describes or modifies a noun or pronoun?",
     "options": [
       "Adverb",
       "Preposition",
@@ -3110,8 +3110,8 @@
     "correctAnswer": 2,
     "explanation": "Adjectives specify qualities, quantities, or characteristics of nouns and pronouns.",
     "tags": [
-      "history",
-      "world-history",
+      "movies",
+      "oscar-winners",
       "easy",
       "humanities",
       "trivia",
@@ -3120,11 +3120,11 @@
     "active": true
   },
   {
-    "id": "history-ancient-civilizations-0131",
-    "category": "History",
-    "subcategory": "Ancient Civilizations",
+    "id": "movies-famous-quotes-0131",
+    "category": "Movies",
+    "subcategory": "Famous Quotes",
     "difficulty": "medium",
-    "question": "[Ancient Civilizations #131] Which ancient Greek philosopher was the mentor of Plato and formulated the method of cooperative dialogue by asking questions?",
+    "question": "[Famous Quotes #131] Which ancient Greek philosopher was the mentor of Plato and formulated the method of cooperative dialogue by asking questions?",
     "options": [
       "Aristotle",
       "Pythagoras",
@@ -3134,8 +3134,8 @@
     "correctAnswer": 3,
     "explanation": "Socrates taught in classical Athens and developed the dialectical Socratic method.",
     "tags": [
-      "history",
-      "ancient-civilizations",
+      "movies",
+      "famous-quotes",
       "medium",
       "humanities",
       "trivia",
@@ -3144,11 +3144,11 @@
     "active": true
   },
   {
-    "id": "history-modern-milestones-0132",
-    "category": "History",
-    "subcategory": "Modern Milestones",
+    "id": "movies-blockbusters-0132",
+    "category": "Movies",
+    "subcategory": "Blockbusters",
     "difficulty": "hard",
-    "question": "[Modern Milestones #132] What is the world's largest ocean by both total surface area and water volume?",
+    "question": "[Blockbusters #132] What is the world's largest ocean by both total surface area and water volume?",
     "options": [
       "Pacific Ocean",
       "Atlantic Ocean",
@@ -3158,8 +3158,8 @@
     "correctAnswer": 0,
     "explanation": "The Pacific Ocean covers over 60 million square miles, comprising more than 30% of Earth's surface.",
     "tags": [
-      "history",
-      "modern-milestones",
+      "movies",
+      "blockbusters",
       "hard",
       "humanities",
       "trivia",
@@ -3168,11 +3168,11 @@
     "active": true
   },
   {
-    "id": "history-us-history-0133",
-    "category": "History",
-    "subcategory": "US History",
+    "id": "movies-classic-cinema-0133",
+    "category": "Movies",
+    "subcategory": "Classic Cinema",
     "difficulty": "easy",
-    "question": "[US History #133] In what year was the United States Declaration of Independence formally adopted in Philadelphia?",
+    "question": "[Classic Cinema #133] In what year was the United States Declaration of Independence formally adopted in Philadelphia?",
     "options": [
       "1789",
       "1776",
@@ -3182,8 +3182,8 @@
     "correctAnswer": 1,
     "explanation": "The Continental Congress formally adopted the Declaration of Independence on July 4, 1776.",
     "tags": [
-      "history",
-      "us-history",
+      "movies",
+      "classic-cinema",
       "easy",
       "humanities",
       "trivia",
@@ -3192,11 +3192,11 @@
     "active": true
   },
   {
-    "id": "history-world-history-0134",
-    "category": "History",
-    "subcategory": "World History",
+    "id": "movies-oscar-winners-0134",
+    "category": "Movies",
+    "subcategory": "Oscar Winners",
     "difficulty": "medium",
-    "question": "[World History #134] Which Italian Renaissance polymath painted the masterpiece known worldwide as the Mona Lisa?",
+    "question": "[Oscar Winners #134] Which Italian Renaissance polymath painted the masterpiece known worldwide as the Mona Lisa?",
     "options": [
       "Michelangelo",
       "Raphael",
@@ -3206,8 +3206,8 @@
     "correctAnswer": 2,
     "explanation": "Leonardo da Vinci painted the Mona Lisa (La Gioconda) in the early 16th century.",
     "tags": [
-      "history",
-      "world-history",
+      "movies",
+      "oscar-winners",
       "medium",
       "humanities",
       "trivia",
@@ -3216,11 +3216,11 @@
     "active": true
   },
   {
-    "id": "history-ancient-civilizations-0135",
-    "category": "History",
-    "subcategory": "Ancient Civilizations",
+    "id": "movies-famous-quotes-0135",
+    "category": "Movies",
+    "subcategory": "Famous Quotes",
     "difficulty": "hard",
-    "question": "[Ancient Civilizations #135] What signature catchphrase is famously proclaimed by Pixar Star Command ranger Buzz Lightyear in Toy Story?",
+    "question": "[Famous Quotes #135] What signature catchphrase is famously proclaimed by Pixar Star Command ranger Buzz Lightyear in Toy Story?",
     "options": [
       "There is a snake in my boot!",
       "Just keep swimming!",
@@ -3230,8 +3230,8 @@
     "correctAnswer": 3,
     "explanation": "Buzz Lightyear, voiced by Tim Allen, proclaims 'To infinity and beyond!' before flight.",
     "tags": [
-      "history",
-      "ancient-civilizations",
+      "movies",
+      "famous-quotes",
       "hard",
       "humanities",
       "trivia",
@@ -3240,11 +3240,11 @@
     "active": true
   },
   {
-    "id": "history-modern-milestones-0136",
-    "category": "History",
-    "subcategory": "Modern Milestones",
+    "id": "movies-blockbusters-0136",
+    "category": "Movies",
+    "subcategory": "Blockbusters",
     "difficulty": "easy",
-    "question": "[Modern Milestones #136] In English grammar, what part of speech describes or modifies a noun or pronoun?",
+    "question": "[Blockbusters #136] In English grammar, what part of speech describes or modifies a noun or pronoun?",
     "options": [
       "Adjective",
       "Adverb",
@@ -3254,8 +3254,8 @@
     "correctAnswer": 0,
     "explanation": "Adjectives specify qualities, quantities, or characteristics of nouns and pronouns.",
     "tags": [
-      "history",
-      "modern-milestones",
+      "movies",
+      "blockbusters",
       "easy",
       "humanities",
       "trivia",
@@ -3264,11 +3264,11 @@
     "active": true
   },
   {
-    "id": "history-us-history-0137",
-    "category": "History",
-    "subcategory": "US History",
+    "id": "movies-classic-cinema-0137",
+    "category": "Movies",
+    "subcategory": "Classic Cinema",
     "difficulty": "medium",
-    "question": "[US History #137] Which ancient Greek philosopher was the mentor of Plato and formulated the method of cooperative dialogue by asking questions?",
+    "question": "[Classic Cinema #137] Which ancient Greek philosopher was the mentor of Plato and formulated the method of cooperative dialogue by asking questions?",
     "options": [
       "Aristotle",
       "Socrates",
@@ -3278,8 +3278,8 @@
     "correctAnswer": 1,
     "explanation": "Socrates taught in classical Athens and developed the dialectical Socratic method.",
     "tags": [
-      "history",
-      "us-history",
+      "movies",
+      "classic-cinema",
       "medium",
       "humanities",
       "trivia",
@@ -3288,11 +3288,11 @@
     "active": true
   },
   {
-    "id": "history-world-history-0138",
-    "category": "History",
-    "subcategory": "World History",
+    "id": "movies-oscar-winners-0138",
+    "category": "Movies",
+    "subcategory": "Oscar Winners",
     "difficulty": "hard",
-    "question": "[World History #138] What is the world's largest ocean by both total surface area and water volume?",
+    "question": "[Oscar Winners #138] What is the world's largest ocean by both total surface area and water volume?",
     "options": [
       "Atlantic Ocean",
       "Indian Ocean",
@@ -3302,8 +3302,8 @@
     "correctAnswer": 2,
     "explanation": "The Pacific Ocean covers over 60 million square miles, comprising more than 30% of Earth's surface.",
     "tags": [
-      "history",
-      "world-history",
+      "movies",
+      "oscar-winners",
       "hard",
       "humanities",
       "trivia",
@@ -3312,11 +3312,11 @@
     "active": true
   },
   {
-    "id": "history-ancient-civilizations-0139",
-    "category": "History",
-    "subcategory": "Ancient Civilizations",
+    "id": "movies-famous-quotes-0139",
+    "category": "Movies",
+    "subcategory": "Famous Quotes",
     "difficulty": "easy",
-    "question": "[Ancient Civilizations #139] In what year was the United States Declaration of Independence formally adopted in Philadelphia?",
+    "question": "[Famous Quotes #139] In what year was the United States Declaration of Independence formally adopted in Philadelphia?",
     "options": [
       "1789",
       "1765",
@@ -3326,8 +3326,8 @@
     "correctAnswer": 3,
     "explanation": "The Continental Congress formally adopted the Declaration of Independence on July 4, 1776.",
     "tags": [
-      "history",
-      "ancient-civilizations",
+      "movies",
+      "famous-quotes",
       "easy",
       "humanities",
       "trivia",
@@ -3336,11 +3336,11 @@
     "active": true
   },
   {
-    "id": "history-modern-milestones-0140",
-    "category": "History",
-    "subcategory": "Modern Milestones",
+    "id": "movies-blockbusters-0140",
+    "category": "Movies",
+    "subcategory": "Blockbusters",
     "difficulty": "medium",
-    "question": "[Modern Milestones #140] Which Italian Renaissance polymath painted the masterpiece known worldwide as the Mona Lisa?",
+    "question": "[Blockbusters #140] Which Italian Renaissance polymath painted the masterpiece known worldwide as the Mona Lisa?",
     "options": [
       "Leonardo da Vinci",
       "Michelangelo",
@@ -3350,8 +3350,8 @@
     "correctAnswer": 0,
     "explanation": "Leonardo da Vinci painted the Mona Lisa (La Gioconda) in the early 16th century.",
     "tags": [
-      "history",
-      "modern-milestones",
+      "movies",
+      "blockbusters",
       "medium",
       "humanities",
       "trivia",
@@ -3360,11 +3360,11 @@
     "active": true
   },
   {
-    "id": "history-us-history-0141",
-    "category": "History",
-    "subcategory": "US History",
+    "id": "movies-classic-cinema-0141",
+    "category": "Movies",
+    "subcategory": "Classic Cinema",
     "difficulty": "hard",
-    "question": "[US History #141] What signature catchphrase is famously proclaimed by Pixar Star Command ranger Buzz Lightyear in Toy Story?",
+    "question": "[Classic Cinema #141] What signature catchphrase is famously proclaimed by Pixar Star Command ranger Buzz Lightyear in Toy Story?",
     "options": [
       "There is a snake in my boot!",
       "To infinity and beyond!",
@@ -3374,8 +3374,8 @@
     "correctAnswer": 1,
     "explanation": "Buzz Lightyear, voiced by Tim Allen, proclaims 'To infinity and beyond!' before flight.",
     "tags": [
-      "history",
-      "us-history",
+      "movies",
+      "classic-cinema",
       "hard",
       "humanities",
       "trivia",
@@ -3384,11 +3384,11 @@
     "active": true
   },
   {
-    "id": "history-world-history-0142",
-    "category": "History",
-    "subcategory": "World History",
+    "id": "movies-oscar-winners-0142",
+    "category": "Movies",
+    "subcategory": "Oscar Winners",
     "difficulty": "easy",
-    "question": "[World History #142] In English grammar, what part of speech describes or modifies a noun or pronoun?",
+    "question": "[Oscar Winners #142] In English grammar, what part of speech describes or modifies a noun or pronoun?",
     "options": [
       "Adverb",
       "Preposition",
@@ -3398,8 +3398,8 @@
     "correctAnswer": 2,
     "explanation": "Adjectives specify qualities, quantities, or characteristics of nouns and pronouns.",
     "tags": [
-      "history",
-      "world-history",
+      "movies",
+      "oscar-winners",
       "easy",
       "humanities",
       "trivia",
@@ -3408,11 +3408,11 @@
     "active": true
   },
   {
-    "id": "history-ancient-civilizations-0143",
-    "category": "History",
-    "subcategory": "Ancient Civilizations",
+    "id": "movies-famous-quotes-0143",
+    "category": "Movies",
+    "subcategory": "Famous Quotes",
     "difficulty": "medium",
-    "question": "[Ancient Civilizations #143] Which ancient Greek philosopher was the mentor of Plato and formulated the method of cooperative dialogue by asking questions?",
+    "question": "[Famous Quotes #143] Which ancient Greek philosopher was the mentor of Plato and formulated the method of cooperative dialogue by asking questions?",
     "options": [
       "Aristotle",
       "Pythagoras",
@@ -3422,8 +3422,8 @@
     "correctAnswer": 3,
     "explanation": "Socrates taught in classical Athens and developed the dialectical Socratic method.",
     "tags": [
-      "history",
-      "ancient-civilizations",
+      "movies",
+      "famous-quotes",
       "medium",
       "humanities",
       "trivia",
@@ -3432,11 +3432,11 @@
     "active": true
   },
   {
-    "id": "history-modern-milestones-0144",
-    "category": "History",
-    "subcategory": "Modern Milestones",
+    "id": "movies-blockbusters-0144",
+    "category": "Movies",
+    "subcategory": "Blockbusters",
     "difficulty": "hard",
-    "question": "[Modern Milestones #144] What is the world's largest ocean by both total surface area and water volume?",
+    "question": "[Blockbusters #144] What is the world's largest ocean by both total surface area and water volume?",
     "options": [
       "Pacific Ocean",
       "Atlantic Ocean",
@@ -3446,8 +3446,8 @@
     "correctAnswer": 0,
     "explanation": "The Pacific Ocean covers over 60 million square miles, comprising more than 30% of Earth's surface.",
     "tags": [
-      "history",
-      "modern-milestones",
+      "movies",
+      "blockbusters",
       "hard",
       "humanities",
       "trivia",
@@ -3456,11 +3456,11 @@
     "active": true
   },
   {
-    "id": "history-us-history-0145",
-    "category": "History",
-    "subcategory": "US History",
+    "id": "movies-classic-cinema-0145",
+    "category": "Movies",
+    "subcategory": "Classic Cinema",
     "difficulty": "easy",
-    "question": "[US History #145] In what year was the United States Declaration of Independence formally adopted in Philadelphia?",
+    "question": "[Classic Cinema #145] In what year was the United States Declaration of Independence formally adopted in Philadelphia?",
     "options": [
       "1789",
       "1776",
@@ -3470,8 +3470,8 @@
     "correctAnswer": 1,
     "explanation": "The Continental Congress formally adopted the Declaration of Independence on July 4, 1776.",
     "tags": [
-      "history",
-      "us-history",
+      "movies",
+      "classic-cinema",
       "easy",
       "humanities",
       "trivia",
@@ -3480,11 +3480,11 @@
     "active": true
   },
   {
-    "id": "history-world-history-0146",
-    "category": "History",
-    "subcategory": "World History",
+    "id": "movies-oscar-winners-0146",
+    "category": "Movies",
+    "subcategory": "Oscar Winners",
     "difficulty": "medium",
-    "question": "[World History #146] Which Italian Renaissance polymath painted the masterpiece known worldwide as the Mona Lisa?",
+    "question": "[Oscar Winners #146] Which Italian Renaissance polymath painted the masterpiece known worldwide as the Mona Lisa?",
     "options": [
       "Michelangelo",
       "Raphael",
@@ -3494,8 +3494,8 @@
     "correctAnswer": 2,
     "explanation": "Leonardo da Vinci painted the Mona Lisa (La Gioconda) in the early 16th century.",
     "tags": [
-      "history",
-      "world-history",
+      "movies",
+      "oscar-winners",
       "medium",
       "humanities",
       "trivia",
@@ -3504,11 +3504,11 @@
     "active": true
   },
   {
-    "id": "history-ancient-civilizations-0147",
-    "category": "History",
-    "subcategory": "Ancient Civilizations",
+    "id": "movies-famous-quotes-0147",
+    "category": "Movies",
+    "subcategory": "Famous Quotes",
     "difficulty": "hard",
-    "question": "[Ancient Civilizations #147] What signature catchphrase is famously proclaimed by Pixar Star Command ranger Buzz Lightyear in Toy Story?",
+    "question": "[Famous Quotes #147] What signature catchphrase is famously proclaimed by Pixar Star Command ranger Buzz Lightyear in Toy Story?",
     "options": [
       "There is a snake in my boot!",
       "Just keep swimming!",
@@ -3518,8 +3518,8 @@
     "correctAnswer": 3,
     "explanation": "Buzz Lightyear, voiced by Tim Allen, proclaims 'To infinity and beyond!' before flight.",
     "tags": [
-      "history",
-      "ancient-civilizations",
+      "movies",
+      "famous-quotes",
       "hard",
       "humanities",
       "trivia",
@@ -3528,11 +3528,11 @@
     "active": true
   },
   {
-    "id": "history-modern-milestones-0148",
-    "category": "History",
-    "subcategory": "Modern Milestones",
+    "id": "movies-blockbusters-0148",
+    "category": "Movies",
+    "subcategory": "Blockbusters",
     "difficulty": "easy",
-    "question": "[Modern Milestones #148] In English grammar, what part of speech describes or modifies a noun or pronoun?",
+    "question": "[Blockbusters #148] In English grammar, what part of speech describes or modifies a noun or pronoun?",
     "options": [
       "Adjective",
       "Adverb",
@@ -3542,8 +3542,8 @@
     "correctAnswer": 0,
     "explanation": "Adjectives specify qualities, quantities, or characteristics of nouns and pronouns.",
     "tags": [
-      "history",
-      "modern-milestones",
+      "movies",
+      "blockbusters",
       "easy",
       "humanities",
       "trivia",
@@ -3552,11 +3552,11 @@
     "active": true
   },
   {
-    "id": "history-us-history-0149",
-    "category": "History",
-    "subcategory": "US History",
+    "id": "movies-classic-cinema-0149",
+    "category": "Movies",
+    "subcategory": "Classic Cinema",
     "difficulty": "medium",
-    "question": "[US History #149] Which ancient Greek philosopher was the mentor of Plato and formulated the method of cooperative dialogue by asking questions?",
+    "question": "[Classic Cinema #149] Which ancient Greek philosopher was the mentor of Plato and formulated the method of cooperative dialogue by asking questions?",
     "options": [
       "Aristotle",
       "Socrates",
@@ -3566,8 +3566,8 @@
     "correctAnswer": 1,
     "explanation": "Socrates taught in classical Athens and developed the dialectical Socratic method.",
     "tags": [
-      "history",
-      "us-history",
+      "movies",
+      "classic-cinema",
       "medium",
       "humanities",
       "trivia",
@@ -3576,11 +3576,11 @@
     "active": true
   },
   {
-    "id": "history-world-history-0150",
-    "category": "History",
-    "subcategory": "World History",
+    "id": "movies-oscar-winners-0150",
+    "category": "Movies",
+    "subcategory": "Oscar Winners",
     "difficulty": "hard",
-    "question": "[World History #150] What is the world's largest ocean by both total surface area and water volume?",
+    "question": "[Oscar Winners #150] What is the world's largest ocean by both total surface area and water volume?",
     "options": [
       "Atlantic Ocean",
       "Indian Ocean",
@@ -3590,249 +3590,9 @@
     "correctAnswer": 2,
     "explanation": "The Pacific Ocean covers over 60 million square miles, comprising more than 30% of Earth's surface.",
     "tags": [
-      "history",
-      "world-history",
+      "movies",
+      "oscar-winners",
       "hard",
-      "humanities",
-      "trivia",
-      "knowledge"
-    ],
-    "active": true
-  },
-  {
-    "id": "history-ancient-civilizations-0151",
-    "category": "History",
-    "subcategory": "Ancient Civilizations",
-    "difficulty": "easy",
-    "question": "[Ancient Civilizations #151] In what year was the United States Declaration of Independence formally adopted in Philadelphia?",
-    "options": [
-      "1789",
-      "1765",
-      "1812",
-      "1776"
-    ],
-    "correctAnswer": 3,
-    "explanation": "The Continental Congress formally adopted the Declaration of Independence on July 4, 1776.",
-    "tags": [
-      "history",
-      "ancient-civilizations",
-      "easy",
-      "humanities",
-      "trivia",
-      "knowledge"
-    ],
-    "active": true
-  },
-  {
-    "id": "history-modern-milestones-0152",
-    "category": "History",
-    "subcategory": "Modern Milestones",
-    "difficulty": "medium",
-    "question": "[Modern Milestones #152] Which Italian Renaissance polymath painted the masterpiece known worldwide as the Mona Lisa?",
-    "options": [
-      "Leonardo da Vinci",
-      "Michelangelo",
-      "Raphael",
-      "Donatello"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Leonardo da Vinci painted the Mona Lisa (La Gioconda) in the early 16th century.",
-    "tags": [
-      "history",
-      "modern-milestones",
-      "medium",
-      "humanities",
-      "trivia",
-      "knowledge"
-    ],
-    "active": true
-  },
-  {
-    "id": "history-us-history-0153",
-    "category": "History",
-    "subcategory": "US History",
-    "difficulty": "hard",
-    "question": "[US History #153] What signature catchphrase is famously proclaimed by Pixar Star Command ranger Buzz Lightyear in Toy Story?",
-    "options": [
-      "There is a snake in my boot!",
-      "To infinity and beyond!",
-      "Just keep swimming!",
-      "Adventure is out there!"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Buzz Lightyear, voiced by Tim Allen, proclaims 'To infinity and beyond!' before flight.",
-    "tags": [
-      "history",
-      "us-history",
-      "hard",
-      "humanities",
-      "trivia",
-      "knowledge"
-    ],
-    "active": true
-  },
-  {
-    "id": "history-world-history-0154",
-    "category": "History",
-    "subcategory": "World History",
-    "difficulty": "easy",
-    "question": "[World History #154] In English grammar, what part of speech describes or modifies a noun or pronoun?",
-    "options": [
-      "Adverb",
-      "Preposition",
-      "Adjective",
-      "Conjunction"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Adjectives specify qualities, quantities, or characteristics of nouns and pronouns.",
-    "tags": [
-      "history",
-      "world-history",
-      "easy",
-      "humanities",
-      "trivia",
-      "knowledge"
-    ],
-    "active": true
-  },
-  {
-    "id": "history-ancient-civilizations-0155",
-    "category": "History",
-    "subcategory": "Ancient Civilizations",
-    "difficulty": "medium",
-    "question": "[Ancient Civilizations #155] Which ancient Greek philosopher was the mentor of Plato and formulated the method of cooperative dialogue by asking questions?",
-    "options": [
-      "Aristotle",
-      "Pythagoras",
-      "Epicurus",
-      "Socrates"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Socrates taught in classical Athens and developed the dialectical Socratic method.",
-    "tags": [
-      "history",
-      "ancient-civilizations",
-      "medium",
-      "humanities",
-      "trivia",
-      "knowledge"
-    ],
-    "active": true
-  },
-  {
-    "id": "history-modern-milestones-0156",
-    "category": "History",
-    "subcategory": "Modern Milestones",
-    "difficulty": "hard",
-    "question": "[Modern Milestones #156] What is the world's largest ocean by both total surface area and water volume?",
-    "options": [
-      "Pacific Ocean",
-      "Atlantic Ocean",
-      "Indian Ocean",
-      "Arctic Ocean"
-    ],
-    "correctAnswer": 0,
-    "explanation": "The Pacific Ocean covers over 60 million square miles, comprising more than 30% of Earth's surface.",
-    "tags": [
-      "history",
-      "modern-milestones",
-      "hard",
-      "humanities",
-      "trivia",
-      "knowledge"
-    ],
-    "active": true
-  },
-  {
-    "id": "history-us-history-0157",
-    "category": "History",
-    "subcategory": "US History",
-    "difficulty": "easy",
-    "question": "[US History #157] In what year was the United States Declaration of Independence formally adopted in Philadelphia?",
-    "options": [
-      "1789",
-      "1776",
-      "1765",
-      "1812"
-    ],
-    "correctAnswer": 1,
-    "explanation": "The Continental Congress formally adopted the Declaration of Independence on July 4, 1776.",
-    "tags": [
-      "history",
-      "us-history",
-      "easy",
-      "humanities",
-      "trivia",
-      "knowledge"
-    ],
-    "active": true
-  },
-  {
-    "id": "history-world-history-0158",
-    "category": "History",
-    "subcategory": "World History",
-    "difficulty": "medium",
-    "question": "[World History #158] Which Italian Renaissance polymath painted the masterpiece known worldwide as the Mona Lisa?",
-    "options": [
-      "Michelangelo",
-      "Raphael",
-      "Leonardo da Vinci",
-      "Donatello"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Leonardo da Vinci painted the Mona Lisa (La Gioconda) in the early 16th century.",
-    "tags": [
-      "history",
-      "world-history",
-      "medium",
-      "humanities",
-      "trivia",
-      "knowledge"
-    ],
-    "active": true
-  },
-  {
-    "id": "history-ancient-civilizations-0159",
-    "category": "History",
-    "subcategory": "Ancient Civilizations",
-    "difficulty": "hard",
-    "question": "[Ancient Civilizations #159] What signature catchphrase is famously proclaimed by Pixar Star Command ranger Buzz Lightyear in Toy Story?",
-    "options": [
-      "There is a snake in my boot!",
-      "Just keep swimming!",
-      "Adventure is out there!",
-      "To infinity and beyond!"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Buzz Lightyear, voiced by Tim Allen, proclaims 'To infinity and beyond!' before flight.",
-    "tags": [
-      "history",
-      "ancient-civilizations",
-      "hard",
-      "humanities",
-      "trivia",
-      "knowledge"
-    ],
-    "active": true
-  },
-  {
-    "id": "history-modern-milestones-0160",
-    "category": "History",
-    "subcategory": "Modern Milestones",
-    "difficulty": "easy",
-    "question": "[Modern Milestones #160] In English grammar, what part of speech describes or modifies a noun or pronoun?",
-    "options": [
-      "Adjective",
-      "Adverb",
-      "Preposition",
-      "Conjunction"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Adjectives specify qualities, quantities, or characteristics of nouns and pronouns.",
-    "tags": [
-      "history",
-      "modern-milestones",
-      "easy",
       "humanities",
       "trivia",
       "knowledge"

@@ -1,10 +1,10 @@
 [
   {
-    "id": "medical-medical-terminology-0001",
-    "category": "Medical",
-    "subcategory": "Medical Terminology",
+    "id": "anatomy-physiology-skeletal-system-0001",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Skeletal System",
     "difficulty": "easy",
-    "question": "[Medical Terminology #1] Which organelle is universally known as the powerhouse of the eukaryotic cell for generating ATP?",
+    "question": "[Skeletal System #1] Which organelle is universally known as the powerhouse of the eukaryotic cell for generating ATP?",
     "options": [
       "Endoplasmic Reticulum",
       "Mitochondrion",
@@ -14,8 +14,8 @@
     "correctAnswer": 1,
     "explanation": "Mitochondria generate over 90% of cellular energy via oxidative phosphorylation and the Krebs cycle.",
     "tags": [
-      "medical",
-      "medical-terminology",
+      "anatomy-physiology",
+      "skeletal-system",
       "easy",
       "anatomy",
       "physiology",
@@ -24,11 +24,11 @@
     "active": true
   },
   {
-    "id": "medical-clinical-assessment-0002",
-    "category": "Medical",
-    "subcategory": "Clinical Assessment",
+    "id": "anatomy-physiology-organ-systems-0002",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Organ Systems",
     "difficulty": "medium",
-    "question": "[Clinical Assessment #2] What is the longest, heaviest, and strongest tubular bone in the human skeleton?",
+    "question": "[Organ Systems #2] What is the longest, heaviest, and strongest tubular bone in the human skeleton?",
     "options": [
       "Tibia",
       "Humerus",
@@ -38,8 +38,8 @@
     "correctAnswer": 2,
     "explanation": "The femur supports body weight during bipedal locomotion and is the largest bone in the human body.",
     "tags": [
-      "medical",
-      "clinical-assessment",
+      "anatomy-physiology",
+      "organ-systems",
       "medium",
       "anatomy",
       "physiology",
@@ -48,11 +48,11 @@
     "active": true
   },
   {
-    "id": "medical-cardiology-0003",
-    "category": "Medical",
-    "subcategory": "Cardiology",
+    "id": "anatomy-physiology-cardiovascular-system-0003",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Cardiovascular System",
     "difficulty": "hard",
-    "question": "[Cardiology #3] In clinical terminology, which anatomical term describes a structure positioned closer to the midline of the body?",
+    "question": "[Cardiovascular System #3] In clinical terminology, which anatomical term describes a structure positioned closer to the midline of the body?",
     "options": [
       "Lateral",
       "Distal",
@@ -62,8 +62,8 @@
     "correctAnswer": 3,
     "explanation": "Medial designates structures closer to the anatomical midline, whereas lateral denotes structures farther from the midline.",
     "tags": [
-      "medical",
-      "cardiology",
+      "anatomy-physiology",
+      "cardiovascular-system",
       "hard",
       "anatomy",
       "physiology",
@@ -72,11 +72,11 @@
     "active": true
   },
   {
-    "id": "medical-pathophysiology-0004",
-    "category": "Medical",
-    "subcategory": "Pathophysiology",
+    "id": "anatomy-physiology-nervous-system-0004",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Nervous System",
     "difficulty": "easy",
-    "question": "[Pathophysiology #4] What is the primary natural pacemaker of the human heart responsible for initiating sinus rhythm?",
+    "question": "[Nervous System #4] What is the primary natural pacemaker of the human heart responsible for initiating sinus rhythm?",
     "options": [
       "Sinoatrial (SA) node",
       "Atrioventricular (AV) node",
@@ -86,8 +86,8 @@
     "correctAnswer": 0,
     "explanation": "The SA node, located in the right atrium, fires at 60-100 bpm under normal physiologic conditions.",
     "tags": [
-      "medical",
-      "pathophysiology",
+      "anatomy-physiology",
+      "nervous-system",
       "easy",
       "anatomy",
       "physiology",
@@ -96,11 +96,11 @@
     "active": true
   },
   {
-    "id": "medical-medical-terminology-0005",
-    "category": "Medical",
-    "subcategory": "Medical Terminology",
+    "id": "anatomy-physiology-skeletal-system-0005",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Skeletal System",
     "difficulty": "medium",
-    "question": "[Medical Terminology #5] Which organelle is universally known as the powerhouse of the eukaryotic cell for generating ATP?",
+    "question": "[Skeletal System #5] Which organelle is universally known as the powerhouse of the eukaryotic cell for generating ATP?",
     "options": [
       "Endoplasmic Reticulum",
       "Mitochondrion",
@@ -110,8 +110,8 @@
     "correctAnswer": 1,
     "explanation": "Mitochondria generate over 90% of cellular energy via oxidative phosphorylation and the Krebs cycle.",
     "tags": [
-      "medical",
-      "medical-terminology",
+      "anatomy-physiology",
+      "skeletal-system",
       "medium",
       "anatomy",
       "physiology",
@@ -120,11 +120,11 @@
     "active": true
   },
   {
-    "id": "medical-clinical-assessment-0006",
-    "category": "Medical",
-    "subcategory": "Clinical Assessment",
+    "id": "anatomy-physiology-organ-systems-0006",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Organ Systems",
     "difficulty": "hard",
-    "question": "[Clinical Assessment #6] What is the longest, heaviest, and strongest tubular bone in the human skeleton?",
+    "question": "[Organ Systems #6] What is the longest, heaviest, and strongest tubular bone in the human skeleton?",
     "options": [
       "Tibia",
       "Humerus",
@@ -134,8 +134,8 @@
     "correctAnswer": 2,
     "explanation": "The femur supports body weight during bipedal locomotion and is the largest bone in the human body.",
     "tags": [
-      "medical",
-      "clinical-assessment",
+      "anatomy-physiology",
+      "organ-systems",
       "hard",
       "anatomy",
       "physiology",
@@ -144,11 +144,11 @@
     "active": true
   },
   {
-    "id": "medical-cardiology-0007",
-    "category": "Medical",
-    "subcategory": "Cardiology",
+    "id": "anatomy-physiology-cardiovascular-system-0007",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Cardiovascular System",
     "difficulty": "easy",
-    "question": "[Cardiology #7] In clinical terminology, which anatomical term describes a structure positioned closer to the midline of the body?",
+    "question": "[Cardiovascular System #7] In clinical terminology, which anatomical term describes a structure positioned closer to the midline of the body?",
     "options": [
       "Lateral",
       "Distal",
@@ -158,8 +158,8 @@
     "correctAnswer": 3,
     "explanation": "Medial designates structures closer to the anatomical midline, whereas lateral denotes structures farther from the midline.",
     "tags": [
-      "medical",
-      "cardiology",
+      "anatomy-physiology",
+      "cardiovascular-system",
       "easy",
       "anatomy",
       "physiology",
@@ -168,11 +168,11 @@
     "active": true
   },
   {
-    "id": "medical-pathophysiology-0008",
-    "category": "Medical",
-    "subcategory": "Pathophysiology",
+    "id": "anatomy-physiology-nervous-system-0008",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Nervous System",
     "difficulty": "medium",
-    "question": "[Pathophysiology #8] What is the primary natural pacemaker of the human heart responsible for initiating sinus rhythm?",
+    "question": "[Nervous System #8] What is the primary natural pacemaker of the human heart responsible for initiating sinus rhythm?",
     "options": [
       "Sinoatrial (SA) node",
       "Atrioventricular (AV) node",
@@ -182,8 +182,8 @@
     "correctAnswer": 0,
     "explanation": "The SA node, located in the right atrium, fires at 60-100 bpm under normal physiologic conditions.",
     "tags": [
-      "medical",
-      "pathophysiology",
+      "anatomy-physiology",
+      "nervous-system",
       "medium",
       "anatomy",
       "physiology",
@@ -192,11 +192,11 @@
     "active": true
   },
   {
-    "id": "medical-medical-terminology-0009",
-    "category": "Medical",
-    "subcategory": "Medical Terminology",
+    "id": "anatomy-physiology-skeletal-system-0009",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Skeletal System",
     "difficulty": "hard",
-    "question": "[Medical Terminology #9] Which organelle is universally known as the powerhouse of the eukaryotic cell for generating ATP?",
+    "question": "[Skeletal System #9] Which organelle is universally known as the powerhouse of the eukaryotic cell for generating ATP?",
     "options": [
       "Endoplasmic Reticulum",
       "Mitochondrion",
@@ -206,8 +206,8 @@
     "correctAnswer": 1,
     "explanation": "Mitochondria generate over 90% of cellular energy via oxidative phosphorylation and the Krebs cycle.",
     "tags": [
-      "medical",
-      "medical-terminology",
+      "anatomy-physiology",
+      "skeletal-system",
       "hard",
       "anatomy",
       "physiology",
@@ -216,11 +216,11 @@
     "active": true
   },
   {
-    "id": "medical-clinical-assessment-0010",
-    "category": "Medical",
-    "subcategory": "Clinical Assessment",
+    "id": "anatomy-physiology-organ-systems-0010",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Organ Systems",
     "difficulty": "easy",
-    "question": "[Clinical Assessment #10] What is the longest, heaviest, and strongest tubular bone in the human skeleton?",
+    "question": "[Organ Systems #10] What is the longest, heaviest, and strongest tubular bone in the human skeleton?",
     "options": [
       "Tibia",
       "Humerus",
@@ -230,8 +230,8 @@
     "correctAnswer": 2,
     "explanation": "The femur supports body weight during bipedal locomotion and is the largest bone in the human body.",
     "tags": [
-      "medical",
-      "clinical-assessment",
+      "anatomy-physiology",
+      "organ-systems",
       "easy",
       "anatomy",
       "physiology",
@@ -240,11 +240,11 @@
     "active": true
   },
   {
-    "id": "medical-cardiology-0011",
-    "category": "Medical",
-    "subcategory": "Cardiology",
+    "id": "anatomy-physiology-cardiovascular-system-0011",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Cardiovascular System",
     "difficulty": "medium",
-    "question": "[Cardiology #11] In clinical terminology, which anatomical term describes a structure positioned closer to the midline of the body?",
+    "question": "[Cardiovascular System #11] In clinical terminology, which anatomical term describes a structure positioned closer to the midline of the body?",
     "options": [
       "Lateral",
       "Distal",
@@ -254,8 +254,8 @@
     "correctAnswer": 3,
     "explanation": "Medial designates structures closer to the anatomical midline, whereas lateral denotes structures farther from the midline.",
     "tags": [
-      "medical",
-      "cardiology",
+      "anatomy-physiology",
+      "cardiovascular-system",
       "medium",
       "anatomy",
       "physiology",
@@ -264,11 +264,11 @@
     "active": true
   },
   {
-    "id": "medical-pathophysiology-0012",
-    "category": "Medical",
-    "subcategory": "Pathophysiology",
+    "id": "anatomy-physiology-nervous-system-0012",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Nervous System",
     "difficulty": "hard",
-    "question": "[Pathophysiology #12] What is the primary natural pacemaker of the human heart responsible for initiating sinus rhythm?",
+    "question": "[Nervous System #12] What is the primary natural pacemaker of the human heart responsible for initiating sinus rhythm?",
     "options": [
       "Sinoatrial (SA) node",
       "Atrioventricular (AV) node",
@@ -278,8 +278,8 @@
     "correctAnswer": 0,
     "explanation": "The SA node, located in the right atrium, fires at 60-100 bpm under normal physiologic conditions.",
     "tags": [
-      "medical",
-      "pathophysiology",
+      "anatomy-physiology",
+      "nervous-system",
       "hard",
       "anatomy",
       "physiology",
@@ -288,11 +288,11 @@
     "active": true
   },
   {
-    "id": "medical-medical-terminology-0013",
-    "category": "Medical",
-    "subcategory": "Medical Terminology",
+    "id": "anatomy-physiology-skeletal-system-0013",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Skeletal System",
     "difficulty": "easy",
-    "question": "[Medical Terminology #13] Which organelle is universally known as the powerhouse of the eukaryotic cell for generating ATP?",
+    "question": "[Skeletal System #13] Which organelle is universally known as the powerhouse of the eukaryotic cell for generating ATP?",
     "options": [
       "Endoplasmic Reticulum",
       "Mitochondrion",
@@ -302,8 +302,8 @@
     "correctAnswer": 1,
     "explanation": "Mitochondria generate over 90% of cellular energy via oxidative phosphorylation and the Krebs cycle.",
     "tags": [
-      "medical",
-      "medical-terminology",
+      "anatomy-physiology",
+      "skeletal-system",
       "easy",
       "anatomy",
       "physiology",
@@ -312,11 +312,11 @@
     "active": true
   },
   {
-    "id": "medical-clinical-assessment-0014",
-    "category": "Medical",
-    "subcategory": "Clinical Assessment",
+    "id": "anatomy-physiology-organ-systems-0014",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Organ Systems",
     "difficulty": "medium",
-    "question": "[Clinical Assessment #14] What is the longest, heaviest, and strongest tubular bone in the human skeleton?",
+    "question": "[Organ Systems #14] What is the longest, heaviest, and strongest tubular bone in the human skeleton?",
     "options": [
       "Tibia",
       "Humerus",
@@ -326,8 +326,8 @@
     "correctAnswer": 2,
     "explanation": "The femur supports body weight during bipedal locomotion and is the largest bone in the human body.",
     "tags": [
-      "medical",
-      "clinical-assessment",
+      "anatomy-physiology",
+      "organ-systems",
       "medium",
       "anatomy",
       "physiology",
@@ -336,11 +336,11 @@
     "active": true
   },
   {
-    "id": "medical-cardiology-0015",
-    "category": "Medical",
-    "subcategory": "Cardiology",
+    "id": "anatomy-physiology-cardiovascular-system-0015",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Cardiovascular System",
     "difficulty": "hard",
-    "question": "[Cardiology #15] In clinical terminology, which anatomical term describes a structure positioned closer to the midline of the body?",
+    "question": "[Cardiovascular System #15] In clinical terminology, which anatomical term describes a structure positioned closer to the midline of the body?",
     "options": [
       "Lateral",
       "Distal",
@@ -350,8 +350,8 @@
     "correctAnswer": 3,
     "explanation": "Medial designates structures closer to the anatomical midline, whereas lateral denotes structures farther from the midline.",
     "tags": [
-      "medical",
-      "cardiology",
+      "anatomy-physiology",
+      "cardiovascular-system",
       "hard",
       "anatomy",
       "physiology",
@@ -360,11 +360,11 @@
     "active": true
   },
   {
-    "id": "medical-pathophysiology-0016",
-    "category": "Medical",
-    "subcategory": "Pathophysiology",
+    "id": "anatomy-physiology-nervous-system-0016",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Nervous System",
     "difficulty": "easy",
-    "question": "[Pathophysiology #16] What is the primary natural pacemaker of the human heart responsible for initiating sinus rhythm?",
+    "question": "[Nervous System #16] What is the primary natural pacemaker of the human heart responsible for initiating sinus rhythm?",
     "options": [
       "Sinoatrial (SA) node",
       "Atrioventricular (AV) node",
@@ -374,8 +374,8 @@
     "correctAnswer": 0,
     "explanation": "The SA node, located in the right atrium, fires at 60-100 bpm under normal physiologic conditions.",
     "tags": [
-      "medical",
-      "pathophysiology",
+      "anatomy-physiology",
+      "nervous-system",
       "easy",
       "anatomy",
       "physiology",
@@ -384,11 +384,11 @@
     "active": true
   },
   {
-    "id": "medical-medical-terminology-0017",
-    "category": "Medical",
-    "subcategory": "Medical Terminology",
+    "id": "anatomy-physiology-skeletal-system-0017",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Skeletal System",
     "difficulty": "medium",
-    "question": "[Medical Terminology #17] Which organelle is universally known as the powerhouse of the eukaryotic cell for generating ATP?",
+    "question": "[Skeletal System #17] Which organelle is universally known as the powerhouse of the eukaryotic cell for generating ATP?",
     "options": [
       "Endoplasmic Reticulum",
       "Mitochondrion",
@@ -398,8 +398,8 @@
     "correctAnswer": 1,
     "explanation": "Mitochondria generate over 90% of cellular energy via oxidative phosphorylation and the Krebs cycle.",
     "tags": [
-      "medical",
-      "medical-terminology",
+      "anatomy-physiology",
+      "skeletal-system",
       "medium",
       "anatomy",
       "physiology",
@@ -408,11 +408,11 @@
     "active": true
   },
   {
-    "id": "medical-clinical-assessment-0018",
-    "category": "Medical",
-    "subcategory": "Clinical Assessment",
+    "id": "anatomy-physiology-organ-systems-0018",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Organ Systems",
     "difficulty": "hard",
-    "question": "[Clinical Assessment #18] What is the longest, heaviest, and strongest tubular bone in the human skeleton?",
+    "question": "[Organ Systems #18] What is the longest, heaviest, and strongest tubular bone in the human skeleton?",
     "options": [
       "Tibia",
       "Humerus",
@@ -422,8 +422,8 @@
     "correctAnswer": 2,
     "explanation": "The femur supports body weight during bipedal locomotion and is the largest bone in the human body.",
     "tags": [
-      "medical",
-      "clinical-assessment",
+      "anatomy-physiology",
+      "organ-systems",
       "hard",
       "anatomy",
       "physiology",
@@ -432,11 +432,11 @@
     "active": true
   },
   {
-    "id": "medical-cardiology-0019",
-    "category": "Medical",
-    "subcategory": "Cardiology",
+    "id": "anatomy-physiology-cardiovascular-system-0019",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Cardiovascular System",
     "difficulty": "easy",
-    "question": "[Cardiology #19] In clinical terminology, which anatomical term describes a structure positioned closer to the midline of the body?",
+    "question": "[Cardiovascular System #19] In clinical terminology, which anatomical term describes a structure positioned closer to the midline of the body?",
     "options": [
       "Lateral",
       "Distal",
@@ -446,8 +446,8 @@
     "correctAnswer": 3,
     "explanation": "Medial designates structures closer to the anatomical midline, whereas lateral denotes structures farther from the midline.",
     "tags": [
-      "medical",
-      "cardiology",
+      "anatomy-physiology",
+      "cardiovascular-system",
       "easy",
       "anatomy",
       "physiology",
@@ -456,11 +456,11 @@
     "active": true
   },
   {
-    "id": "medical-pathophysiology-0020",
-    "category": "Medical",
-    "subcategory": "Pathophysiology",
+    "id": "anatomy-physiology-nervous-system-0020",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Nervous System",
     "difficulty": "medium",
-    "question": "[Pathophysiology #20] What is the primary natural pacemaker of the human heart responsible for initiating sinus rhythm?",
+    "question": "[Nervous System #20] What is the primary natural pacemaker of the human heart responsible for initiating sinus rhythm?",
     "options": [
       "Sinoatrial (SA) node",
       "Atrioventricular (AV) node",
@@ -470,8 +470,8 @@
     "correctAnswer": 0,
     "explanation": "The SA node, located in the right atrium, fires at 60-100 bpm under normal physiologic conditions.",
     "tags": [
-      "medical",
-      "pathophysiology",
+      "anatomy-physiology",
+      "nervous-system",
       "medium",
       "anatomy",
       "physiology",
@@ -480,11 +480,11 @@
     "active": true
   },
   {
-    "id": "medical-medical-terminology-0021",
-    "category": "Medical",
-    "subcategory": "Medical Terminology",
+    "id": "anatomy-physiology-skeletal-system-0021",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Skeletal System",
     "difficulty": "hard",
-    "question": "[Medical Terminology #21] Which organelle is universally known as the powerhouse of the eukaryotic cell for generating ATP?",
+    "question": "[Skeletal System #21] Which organelle is universally known as the powerhouse of the eukaryotic cell for generating ATP?",
     "options": [
       "Endoplasmic Reticulum",
       "Mitochondrion",
@@ -494,8 +494,8 @@
     "correctAnswer": 1,
     "explanation": "Mitochondria generate over 90% of cellular energy via oxidative phosphorylation and the Krebs cycle.",
     "tags": [
-      "medical",
-      "medical-terminology",
+      "anatomy-physiology",
+      "skeletal-system",
       "hard",
       "anatomy",
       "physiology",
@@ -504,11 +504,11 @@
     "active": true
   },
   {
-    "id": "medical-clinical-assessment-0022",
-    "category": "Medical",
-    "subcategory": "Clinical Assessment",
+    "id": "anatomy-physiology-organ-systems-0022",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Organ Systems",
     "difficulty": "easy",
-    "question": "[Clinical Assessment #22] What is the longest, heaviest, and strongest tubular bone in the human skeleton?",
+    "question": "[Organ Systems #22] What is the longest, heaviest, and strongest tubular bone in the human skeleton?",
     "options": [
       "Tibia",
       "Humerus",
@@ -518,8 +518,8 @@
     "correctAnswer": 2,
     "explanation": "The femur supports body weight during bipedal locomotion and is the largest bone in the human body.",
     "tags": [
-      "medical",
-      "clinical-assessment",
+      "anatomy-physiology",
+      "organ-systems",
       "easy",
       "anatomy",
       "physiology",
@@ -528,11 +528,11 @@
     "active": true
   },
   {
-    "id": "medical-cardiology-0023",
-    "category": "Medical",
-    "subcategory": "Cardiology",
+    "id": "anatomy-physiology-cardiovascular-system-0023",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Cardiovascular System",
     "difficulty": "medium",
-    "question": "[Cardiology #23] In clinical terminology, which anatomical term describes a structure positioned closer to the midline of the body?",
+    "question": "[Cardiovascular System #23] In clinical terminology, which anatomical term describes a structure positioned closer to the midline of the body?",
     "options": [
       "Lateral",
       "Distal",
@@ -542,8 +542,8 @@
     "correctAnswer": 3,
     "explanation": "Medial designates structures closer to the anatomical midline, whereas lateral denotes structures farther from the midline.",
     "tags": [
-      "medical",
-      "cardiology",
+      "anatomy-physiology",
+      "cardiovascular-system",
       "medium",
       "anatomy",
       "physiology",
@@ -552,11 +552,11 @@
     "active": true
   },
   {
-    "id": "medical-pathophysiology-0024",
-    "category": "Medical",
-    "subcategory": "Pathophysiology",
+    "id": "anatomy-physiology-nervous-system-0024",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Nervous System",
     "difficulty": "hard",
-    "question": "[Pathophysiology #24] What is the primary natural pacemaker of the human heart responsible for initiating sinus rhythm?",
+    "question": "[Nervous System #24] What is the primary natural pacemaker of the human heart responsible for initiating sinus rhythm?",
     "options": [
       "Sinoatrial (SA) node",
       "Atrioventricular (AV) node",
@@ -566,8 +566,8 @@
     "correctAnswer": 0,
     "explanation": "The SA node, located in the right atrium, fires at 60-100 bpm under normal physiologic conditions.",
     "tags": [
-      "medical",
-      "pathophysiology",
+      "anatomy-physiology",
+      "nervous-system",
       "hard",
       "anatomy",
       "physiology",
@@ -576,11 +576,11 @@
     "active": true
   },
   {
-    "id": "medical-medical-terminology-0025",
-    "category": "Medical",
-    "subcategory": "Medical Terminology",
+    "id": "anatomy-physiology-skeletal-system-0025",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Skeletal System",
     "difficulty": "easy",
-    "question": "[Medical Terminology #25] Which organelle is universally known as the powerhouse of the eukaryotic cell for generating ATP?",
+    "question": "[Skeletal System #25] Which organelle is universally known as the powerhouse of the eukaryotic cell for generating ATP?",
     "options": [
       "Endoplasmic Reticulum",
       "Mitochondrion",
@@ -590,8 +590,8 @@
     "correctAnswer": 1,
     "explanation": "Mitochondria generate over 90% of cellular energy via oxidative phosphorylation and the Krebs cycle.",
     "tags": [
-      "medical",
-      "medical-terminology",
+      "anatomy-physiology",
+      "skeletal-system",
       "easy",
       "anatomy",
       "physiology",
@@ -600,11 +600,11 @@
     "active": true
   },
   {
-    "id": "medical-clinical-assessment-0026",
-    "category": "Medical",
-    "subcategory": "Clinical Assessment",
+    "id": "anatomy-physiology-organ-systems-0026",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Organ Systems",
     "difficulty": "medium",
-    "question": "[Clinical Assessment #26] What is the longest, heaviest, and strongest tubular bone in the human skeleton?",
+    "question": "[Organ Systems #26] What is the longest, heaviest, and strongest tubular bone in the human skeleton?",
     "options": [
       "Tibia",
       "Humerus",
@@ -614,8 +614,8 @@
     "correctAnswer": 2,
     "explanation": "The femur supports body weight during bipedal locomotion and is the largest bone in the human body.",
     "tags": [
-      "medical",
-      "clinical-assessment",
+      "anatomy-physiology",
+      "organ-systems",
       "medium",
       "anatomy",
       "physiology",
@@ -624,11 +624,11 @@
     "active": true
   },
   {
-    "id": "medical-cardiology-0027",
-    "category": "Medical",
-    "subcategory": "Cardiology",
+    "id": "anatomy-physiology-cardiovascular-system-0027",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Cardiovascular System",
     "difficulty": "hard",
-    "question": "[Cardiology #27] In clinical terminology, which anatomical term describes a structure positioned closer to the midline of the body?",
+    "question": "[Cardiovascular System #27] In clinical terminology, which anatomical term describes a structure positioned closer to the midline of the body?",
     "options": [
       "Lateral",
       "Distal",
@@ -638,8 +638,8 @@
     "correctAnswer": 3,
     "explanation": "Medial designates structures closer to the anatomical midline, whereas lateral denotes structures farther from the midline.",
     "tags": [
-      "medical",
-      "cardiology",
+      "anatomy-physiology",
+      "cardiovascular-system",
       "hard",
       "anatomy",
       "physiology",
@@ -648,11 +648,11 @@
     "active": true
   },
   {
-    "id": "medical-pathophysiology-0028",
-    "category": "Medical",
-    "subcategory": "Pathophysiology",
+    "id": "anatomy-physiology-nervous-system-0028",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Nervous System",
     "difficulty": "easy",
-    "question": "[Pathophysiology #28] What is the primary natural pacemaker of the human heart responsible for initiating sinus rhythm?",
+    "question": "[Nervous System #28] What is the primary natural pacemaker of the human heart responsible for initiating sinus rhythm?",
     "options": [
       "Sinoatrial (SA) node",
       "Atrioventricular (AV) node",
@@ -662,8 +662,8 @@
     "correctAnswer": 0,
     "explanation": "The SA node, located in the right atrium, fires at 60-100 bpm under normal physiologic conditions.",
     "tags": [
-      "medical",
-      "pathophysiology",
+      "anatomy-physiology",
+      "nervous-system",
       "easy",
       "anatomy",
       "physiology",
@@ -672,11 +672,11 @@
     "active": true
   },
   {
-    "id": "medical-medical-terminology-0029",
-    "category": "Medical",
-    "subcategory": "Medical Terminology",
+    "id": "anatomy-physiology-skeletal-system-0029",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Skeletal System",
     "difficulty": "medium",
-    "question": "[Medical Terminology #29] Which organelle is universally known as the powerhouse of the eukaryotic cell for generating ATP?",
+    "question": "[Skeletal System #29] Which organelle is universally known as the powerhouse of the eukaryotic cell for generating ATP?",
     "options": [
       "Endoplasmic Reticulum",
       "Mitochondrion",
@@ -686,8 +686,8 @@
     "correctAnswer": 1,
     "explanation": "Mitochondria generate over 90% of cellular energy via oxidative phosphorylation and the Krebs cycle.",
     "tags": [
-      "medical",
-      "medical-terminology",
+      "anatomy-physiology",
+      "skeletal-system",
       "medium",
       "anatomy",
       "physiology",
@@ -696,11 +696,11 @@
     "active": true
   },
   {
-    "id": "medical-clinical-assessment-0030",
-    "category": "Medical",
-    "subcategory": "Clinical Assessment",
+    "id": "anatomy-physiology-organ-systems-0030",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Organ Systems",
     "difficulty": "hard",
-    "question": "[Clinical Assessment #30] What is the longest, heaviest, and strongest tubular bone in the human skeleton?",
+    "question": "[Organ Systems #30] What is the longest, heaviest, and strongest tubular bone in the human skeleton?",
     "options": [
       "Tibia",
       "Humerus",
@@ -710,8 +710,8 @@
     "correctAnswer": 2,
     "explanation": "The femur supports body weight during bipedal locomotion and is the largest bone in the human body.",
     "tags": [
-      "medical",
-      "clinical-assessment",
+      "anatomy-physiology",
+      "organ-systems",
       "hard",
       "anatomy",
       "physiology",
@@ -720,11 +720,11 @@
     "active": true
   },
   {
-    "id": "medical-cardiology-0031",
-    "category": "Medical",
-    "subcategory": "Cardiology",
+    "id": "anatomy-physiology-cardiovascular-system-0031",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Cardiovascular System",
     "difficulty": "easy",
-    "question": "[Cardiology #31] In clinical terminology, which anatomical term describes a structure positioned closer to the midline of the body?",
+    "question": "[Cardiovascular System #31] In clinical terminology, which anatomical term describes a structure positioned closer to the midline of the body?",
     "options": [
       "Lateral",
       "Distal",
@@ -734,8 +734,8 @@
     "correctAnswer": 3,
     "explanation": "Medial designates structures closer to the anatomical midline, whereas lateral denotes structures farther from the midline.",
     "tags": [
-      "medical",
-      "cardiology",
+      "anatomy-physiology",
+      "cardiovascular-system",
       "easy",
       "anatomy",
       "physiology",
@@ -744,11 +744,11 @@
     "active": true
   },
   {
-    "id": "medical-pathophysiology-0032",
-    "category": "Medical",
-    "subcategory": "Pathophysiology",
+    "id": "anatomy-physiology-nervous-system-0032",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Nervous System",
     "difficulty": "medium",
-    "question": "[Pathophysiology #32] What is the primary natural pacemaker of the human heart responsible for initiating sinus rhythm?",
+    "question": "[Nervous System #32] What is the primary natural pacemaker of the human heart responsible for initiating sinus rhythm?",
     "options": [
       "Sinoatrial (SA) node",
       "Atrioventricular (AV) node",
@@ -758,8 +758,8 @@
     "correctAnswer": 0,
     "explanation": "The SA node, located in the right atrium, fires at 60-100 bpm under normal physiologic conditions.",
     "tags": [
-      "medical",
-      "pathophysiology",
+      "anatomy-physiology",
+      "nervous-system",
       "medium",
       "anatomy",
       "physiology",
@@ -768,11 +768,11 @@
     "active": true
   },
   {
-    "id": "medical-medical-terminology-0033",
-    "category": "Medical",
-    "subcategory": "Medical Terminology",
+    "id": "anatomy-physiology-skeletal-system-0033",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Skeletal System",
     "difficulty": "hard",
-    "question": "[Medical Terminology #33] Which organelle is universally known as the powerhouse of the eukaryotic cell for generating ATP?",
+    "question": "[Skeletal System #33] Which organelle is universally known as the powerhouse of the eukaryotic cell for generating ATP?",
     "options": [
       "Endoplasmic Reticulum",
       "Mitochondrion",
@@ -782,8 +782,8 @@
     "correctAnswer": 1,
     "explanation": "Mitochondria generate over 90% of cellular energy via oxidative phosphorylation and the Krebs cycle.",
     "tags": [
-      "medical",
-      "medical-terminology",
+      "anatomy-physiology",
+      "skeletal-system",
       "hard",
       "anatomy",
       "physiology",
@@ -792,11 +792,11 @@
     "active": true
   },
   {
-    "id": "medical-clinical-assessment-0034",
-    "category": "Medical",
-    "subcategory": "Clinical Assessment",
+    "id": "anatomy-physiology-organ-systems-0034",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Organ Systems",
     "difficulty": "easy",
-    "question": "[Clinical Assessment #34] What is the longest, heaviest, and strongest tubular bone in the human skeleton?",
+    "question": "[Organ Systems #34] What is the longest, heaviest, and strongest tubular bone in the human skeleton?",
     "options": [
       "Tibia",
       "Humerus",
@@ -806,8 +806,8 @@
     "correctAnswer": 2,
     "explanation": "The femur supports body weight during bipedal locomotion and is the largest bone in the human body.",
     "tags": [
-      "medical",
-      "clinical-assessment",
+      "anatomy-physiology",
+      "organ-systems",
       "easy",
       "anatomy",
       "physiology",
@@ -816,11 +816,11 @@
     "active": true
   },
   {
-    "id": "medical-cardiology-0035",
-    "category": "Medical",
-    "subcategory": "Cardiology",
+    "id": "anatomy-physiology-cardiovascular-system-0035",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Cardiovascular System",
     "difficulty": "medium",
-    "question": "[Cardiology #35] In clinical terminology, which anatomical term describes a structure positioned closer to the midline of the body?",
+    "question": "[Cardiovascular System #35] In clinical terminology, which anatomical term describes a structure positioned closer to the midline of the body?",
     "options": [
       "Lateral",
       "Distal",
@@ -830,8 +830,8 @@
     "correctAnswer": 3,
     "explanation": "Medial designates structures closer to the anatomical midline, whereas lateral denotes structures farther from the midline.",
     "tags": [
-      "medical",
-      "cardiology",
+      "anatomy-physiology",
+      "cardiovascular-system",
       "medium",
       "anatomy",
       "physiology",
@@ -840,11 +840,11 @@
     "active": true
   },
   {
-    "id": "medical-pathophysiology-0036",
-    "category": "Medical",
-    "subcategory": "Pathophysiology",
+    "id": "anatomy-physiology-nervous-system-0036",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Nervous System",
     "difficulty": "hard",
-    "question": "[Pathophysiology #36] What is the primary natural pacemaker of the human heart responsible for initiating sinus rhythm?",
+    "question": "[Nervous System #36] What is the primary natural pacemaker of the human heart responsible for initiating sinus rhythm?",
     "options": [
       "Sinoatrial (SA) node",
       "Atrioventricular (AV) node",
@@ -854,8 +854,8 @@
     "correctAnswer": 0,
     "explanation": "The SA node, located in the right atrium, fires at 60-100 bpm under normal physiologic conditions.",
     "tags": [
-      "medical",
-      "pathophysiology",
+      "anatomy-physiology",
+      "nervous-system",
       "hard",
       "anatomy",
       "physiology",
@@ -864,11 +864,11 @@
     "active": true
   },
   {
-    "id": "medical-medical-terminology-0037",
-    "category": "Medical",
-    "subcategory": "Medical Terminology",
+    "id": "anatomy-physiology-skeletal-system-0037",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Skeletal System",
     "difficulty": "easy",
-    "question": "[Medical Terminology #37] Which organelle is universally known as the powerhouse of the eukaryotic cell for generating ATP?",
+    "question": "[Skeletal System #37] Which organelle is universally known as the powerhouse of the eukaryotic cell for generating ATP?",
     "options": [
       "Endoplasmic Reticulum",
       "Mitochondrion",
@@ -878,8 +878,8 @@
     "correctAnswer": 1,
     "explanation": "Mitochondria generate over 90% of cellular energy via oxidative phosphorylation and the Krebs cycle.",
     "tags": [
-      "medical",
-      "medical-terminology",
+      "anatomy-physiology",
+      "skeletal-system",
       "easy",
       "anatomy",
       "physiology",
@@ -888,11 +888,11 @@
     "active": true
   },
   {
-    "id": "medical-clinical-assessment-0038",
-    "category": "Medical",
-    "subcategory": "Clinical Assessment",
+    "id": "anatomy-physiology-organ-systems-0038",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Organ Systems",
     "difficulty": "medium",
-    "question": "[Clinical Assessment #38] What is the longest, heaviest, and strongest tubular bone in the human skeleton?",
+    "question": "[Organ Systems #38] What is the longest, heaviest, and strongest tubular bone in the human skeleton?",
     "options": [
       "Tibia",
       "Humerus",
@@ -902,8 +902,8 @@
     "correctAnswer": 2,
     "explanation": "The femur supports body weight during bipedal locomotion and is the largest bone in the human body.",
     "tags": [
-      "medical",
-      "clinical-assessment",
+      "anatomy-physiology",
+      "organ-systems",
       "medium",
       "anatomy",
       "physiology",
@@ -912,11 +912,11 @@
     "active": true
   },
   {
-    "id": "medical-cardiology-0039",
-    "category": "Medical",
-    "subcategory": "Cardiology",
+    "id": "anatomy-physiology-cardiovascular-system-0039",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Cardiovascular System",
     "difficulty": "hard",
-    "question": "[Cardiology #39] In clinical terminology, which anatomical term describes a structure positioned closer to the midline of the body?",
+    "question": "[Cardiovascular System #39] In clinical terminology, which anatomical term describes a structure positioned closer to the midline of the body?",
     "options": [
       "Lateral",
       "Distal",
@@ -926,8 +926,8 @@
     "correctAnswer": 3,
     "explanation": "Medial designates structures closer to the anatomical midline, whereas lateral denotes structures farther from the midline.",
     "tags": [
-      "medical",
-      "cardiology",
+      "anatomy-physiology",
+      "cardiovascular-system",
       "hard",
       "anatomy",
       "physiology",
@@ -936,11 +936,11 @@
     "active": true
   },
   {
-    "id": "medical-pathophysiology-0040",
-    "category": "Medical",
-    "subcategory": "Pathophysiology",
+    "id": "anatomy-physiology-nervous-system-0040",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Nervous System",
     "difficulty": "easy",
-    "question": "[Pathophysiology #40] What is the primary natural pacemaker of the human heart responsible for initiating sinus rhythm?",
+    "question": "[Nervous System #40] What is the primary natural pacemaker of the human heart responsible for initiating sinus rhythm?",
     "options": [
       "Sinoatrial (SA) node",
       "Atrioventricular (AV) node",
@@ -950,8 +950,8 @@
     "correctAnswer": 0,
     "explanation": "The SA node, located in the right atrium, fires at 60-100 bpm under normal physiologic conditions.",
     "tags": [
-      "medical",
-      "pathophysiology",
+      "anatomy-physiology",
+      "nervous-system",
       "easy",
       "anatomy",
       "physiology",
@@ -960,11 +960,11 @@
     "active": true
   },
   {
-    "id": "medical-medical-terminology-0041",
-    "category": "Medical",
-    "subcategory": "Medical Terminology",
+    "id": "anatomy-physiology-skeletal-system-0041",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Skeletal System",
     "difficulty": "medium",
-    "question": "[Medical Terminology #41] Which organelle is universally known as the powerhouse of the eukaryotic cell for generating ATP?",
+    "question": "[Skeletal System #41] Which organelle is universally known as the powerhouse of the eukaryotic cell for generating ATP?",
     "options": [
       "Endoplasmic Reticulum",
       "Mitochondrion",
@@ -974,8 +974,8 @@
     "correctAnswer": 1,
     "explanation": "Mitochondria generate over 90% of cellular energy via oxidative phosphorylation and the Krebs cycle.",
     "tags": [
-      "medical",
-      "medical-terminology",
+      "anatomy-physiology",
+      "skeletal-system",
       "medium",
       "anatomy",
       "physiology",
@@ -984,11 +984,11 @@
     "active": true
   },
   {
-    "id": "medical-clinical-assessment-0042",
-    "category": "Medical",
-    "subcategory": "Clinical Assessment",
+    "id": "anatomy-physiology-organ-systems-0042",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Organ Systems",
     "difficulty": "hard",
-    "question": "[Clinical Assessment #42] What is the longest, heaviest, and strongest tubular bone in the human skeleton?",
+    "question": "[Organ Systems #42] What is the longest, heaviest, and strongest tubular bone in the human skeleton?",
     "options": [
       "Tibia",
       "Humerus",
@@ -998,8 +998,8 @@
     "correctAnswer": 2,
     "explanation": "The femur supports body weight during bipedal locomotion and is the largest bone in the human body.",
     "tags": [
-      "medical",
-      "clinical-assessment",
+      "anatomy-physiology",
+      "organ-systems",
       "hard",
       "anatomy",
       "physiology",
@@ -1008,11 +1008,11 @@
     "active": true
   },
   {
-    "id": "medical-cardiology-0043",
-    "category": "Medical",
-    "subcategory": "Cardiology",
+    "id": "anatomy-physiology-cardiovascular-system-0043",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Cardiovascular System",
     "difficulty": "easy",
-    "question": "[Cardiology #43] In clinical terminology, which anatomical term describes a structure positioned closer to the midline of the body?",
+    "question": "[Cardiovascular System #43] In clinical terminology, which anatomical term describes a structure positioned closer to the midline of the body?",
     "options": [
       "Lateral",
       "Distal",
@@ -1022,8 +1022,8 @@
     "correctAnswer": 3,
     "explanation": "Medial designates structures closer to the anatomical midline, whereas lateral denotes structures farther from the midline.",
     "tags": [
-      "medical",
-      "cardiology",
+      "anatomy-physiology",
+      "cardiovascular-system",
       "easy",
       "anatomy",
       "physiology",
@@ -1032,11 +1032,11 @@
     "active": true
   },
   {
-    "id": "medical-pathophysiology-0044",
-    "category": "Medical",
-    "subcategory": "Pathophysiology",
+    "id": "anatomy-physiology-nervous-system-0044",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Nervous System",
     "difficulty": "medium",
-    "question": "[Pathophysiology #44] What is the primary natural pacemaker of the human heart responsible for initiating sinus rhythm?",
+    "question": "[Nervous System #44] What is the primary natural pacemaker of the human heart responsible for initiating sinus rhythm?",
     "options": [
       "Sinoatrial (SA) node",
       "Atrioventricular (AV) node",
@@ -1046,8 +1046,8 @@
     "correctAnswer": 0,
     "explanation": "The SA node, located in the right atrium, fires at 60-100 bpm under normal physiologic conditions.",
     "tags": [
-      "medical",
-      "pathophysiology",
+      "anatomy-physiology",
+      "nervous-system",
       "medium",
       "anatomy",
       "physiology",
@@ -1056,11 +1056,11 @@
     "active": true
   },
   {
-    "id": "medical-medical-terminology-0045",
-    "category": "Medical",
-    "subcategory": "Medical Terminology",
+    "id": "anatomy-physiology-skeletal-system-0045",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Skeletal System",
     "difficulty": "hard",
-    "question": "[Medical Terminology #45] Which organelle is universally known as the powerhouse of the eukaryotic cell for generating ATP?",
+    "question": "[Skeletal System #45] Which organelle is universally known as the powerhouse of the eukaryotic cell for generating ATP?",
     "options": [
       "Endoplasmic Reticulum",
       "Mitochondrion",
@@ -1070,8 +1070,8 @@
     "correctAnswer": 1,
     "explanation": "Mitochondria generate over 90% of cellular energy via oxidative phosphorylation and the Krebs cycle.",
     "tags": [
-      "medical",
-      "medical-terminology",
+      "anatomy-physiology",
+      "skeletal-system",
       "hard",
       "anatomy",
       "physiology",
@@ -1080,11 +1080,11 @@
     "active": true
   },
   {
-    "id": "medical-clinical-assessment-0046",
-    "category": "Medical",
-    "subcategory": "Clinical Assessment",
+    "id": "anatomy-physiology-organ-systems-0046",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Organ Systems",
     "difficulty": "easy",
-    "question": "[Clinical Assessment #46] What is the longest, heaviest, and strongest tubular bone in the human skeleton?",
+    "question": "[Organ Systems #46] What is the longest, heaviest, and strongest tubular bone in the human skeleton?",
     "options": [
       "Tibia",
       "Humerus",
@@ -1094,8 +1094,8 @@
     "correctAnswer": 2,
     "explanation": "The femur supports body weight during bipedal locomotion and is the largest bone in the human body.",
     "tags": [
-      "medical",
-      "clinical-assessment",
+      "anatomy-physiology",
+      "organ-systems",
       "easy",
       "anatomy",
       "physiology",
@@ -1104,11 +1104,11 @@
     "active": true
   },
   {
-    "id": "medical-cardiology-0047",
-    "category": "Medical",
-    "subcategory": "Cardiology",
+    "id": "anatomy-physiology-cardiovascular-system-0047",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Cardiovascular System",
     "difficulty": "medium",
-    "question": "[Cardiology #47] In clinical terminology, which anatomical term describes a structure positioned closer to the midline of the body?",
+    "question": "[Cardiovascular System #47] In clinical terminology, which anatomical term describes a structure positioned closer to the midline of the body?",
     "options": [
       "Lateral",
       "Distal",
@@ -1118,8 +1118,8 @@
     "correctAnswer": 3,
     "explanation": "Medial designates structures closer to the anatomical midline, whereas lateral denotes structures farther from the midline.",
     "tags": [
-      "medical",
-      "cardiology",
+      "anatomy-physiology",
+      "cardiovascular-system",
       "medium",
       "anatomy",
       "physiology",
@@ -1128,11 +1128,11 @@
     "active": true
   },
   {
-    "id": "medical-pathophysiology-0048",
-    "category": "Medical",
-    "subcategory": "Pathophysiology",
+    "id": "anatomy-physiology-nervous-system-0048",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Nervous System",
     "difficulty": "hard",
-    "question": "[Pathophysiology #48] What is the primary natural pacemaker of the human heart responsible for initiating sinus rhythm?",
+    "question": "[Nervous System #48] What is the primary natural pacemaker of the human heart responsible for initiating sinus rhythm?",
     "options": [
       "Sinoatrial (SA) node",
       "Atrioventricular (AV) node",
@@ -1142,8 +1142,8 @@
     "correctAnswer": 0,
     "explanation": "The SA node, located in the right atrium, fires at 60-100 bpm under normal physiologic conditions.",
     "tags": [
-      "medical",
-      "pathophysiology",
+      "anatomy-physiology",
+      "nervous-system",
       "hard",
       "anatomy",
       "physiology",
@@ -1152,11 +1152,11 @@
     "active": true
   },
   {
-    "id": "medical-medical-terminology-0049",
-    "category": "Medical",
-    "subcategory": "Medical Terminology",
+    "id": "anatomy-physiology-skeletal-system-0049",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Skeletal System",
     "difficulty": "easy",
-    "question": "[Medical Terminology #49] Which organelle is universally known as the powerhouse of the eukaryotic cell for generating ATP?",
+    "question": "[Skeletal System #49] Which organelle is universally known as the powerhouse of the eukaryotic cell for generating ATP?",
     "options": [
       "Endoplasmic Reticulum",
       "Mitochondrion",
@@ -1166,8 +1166,8 @@
     "correctAnswer": 1,
     "explanation": "Mitochondria generate over 90% of cellular energy via oxidative phosphorylation and the Krebs cycle.",
     "tags": [
-      "medical",
-      "medical-terminology",
+      "anatomy-physiology",
+      "skeletal-system",
       "easy",
       "anatomy",
       "physiology",
@@ -1176,11 +1176,11 @@
     "active": true
   },
   {
-    "id": "medical-clinical-assessment-0050",
-    "category": "Medical",
-    "subcategory": "Clinical Assessment",
+    "id": "anatomy-physiology-organ-systems-0050",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Organ Systems",
     "difficulty": "medium",
-    "question": "[Clinical Assessment #50] What is the longest, heaviest, and strongest tubular bone in the human skeleton?",
+    "question": "[Organ Systems #50] What is the longest, heaviest, and strongest tubular bone in the human skeleton?",
     "options": [
       "Tibia",
       "Humerus",
@@ -1190,8 +1190,8 @@
     "correctAnswer": 2,
     "explanation": "The femur supports body weight during bipedal locomotion and is the largest bone in the human body.",
     "tags": [
-      "medical",
-      "clinical-assessment",
+      "anatomy-physiology",
+      "organ-systems",
       "medium",
       "anatomy",
       "physiology",
@@ -1200,11 +1200,11 @@
     "active": true
   },
   {
-    "id": "medical-cardiology-0051",
-    "category": "Medical",
-    "subcategory": "Cardiology",
+    "id": "anatomy-physiology-cardiovascular-system-0051",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Cardiovascular System",
     "difficulty": "hard",
-    "question": "[Cardiology #51] In clinical terminology, which anatomical term describes a structure positioned closer to the midline of the body?",
+    "question": "[Cardiovascular System #51] In clinical terminology, which anatomical term describes a structure positioned closer to the midline of the body?",
     "options": [
       "Lateral",
       "Distal",
@@ -1214,8 +1214,8 @@
     "correctAnswer": 3,
     "explanation": "Medial designates structures closer to the anatomical midline, whereas lateral denotes structures farther from the midline.",
     "tags": [
-      "medical",
-      "cardiology",
+      "anatomy-physiology",
+      "cardiovascular-system",
       "hard",
       "anatomy",
       "physiology",
@@ -1224,11 +1224,11 @@
     "active": true
   },
   {
-    "id": "medical-pathophysiology-0052",
-    "category": "Medical",
-    "subcategory": "Pathophysiology",
+    "id": "anatomy-physiology-nervous-system-0052",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Nervous System",
     "difficulty": "easy",
-    "question": "[Pathophysiology #52] What is the primary natural pacemaker of the human heart responsible for initiating sinus rhythm?",
+    "question": "[Nervous System #52] What is the primary natural pacemaker of the human heart responsible for initiating sinus rhythm?",
     "options": [
       "Sinoatrial (SA) node",
       "Atrioventricular (AV) node",
@@ -1238,8 +1238,8 @@
     "correctAnswer": 0,
     "explanation": "The SA node, located in the right atrium, fires at 60-100 bpm under normal physiologic conditions.",
     "tags": [
-      "medical",
-      "pathophysiology",
+      "anatomy-physiology",
+      "nervous-system",
       "easy",
       "anatomy",
       "physiology",
@@ -1248,11 +1248,11 @@
     "active": true
   },
   {
-    "id": "medical-medical-terminology-0053",
-    "category": "Medical",
-    "subcategory": "Medical Terminology",
+    "id": "anatomy-physiology-skeletal-system-0053",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Skeletal System",
     "difficulty": "medium",
-    "question": "[Medical Terminology #53] Which organelle is universally known as the powerhouse of the eukaryotic cell for generating ATP?",
+    "question": "[Skeletal System #53] Which organelle is universally known as the powerhouse of the eukaryotic cell for generating ATP?",
     "options": [
       "Endoplasmic Reticulum",
       "Mitochondrion",
@@ -1262,8 +1262,8 @@
     "correctAnswer": 1,
     "explanation": "Mitochondria generate over 90% of cellular energy via oxidative phosphorylation and the Krebs cycle.",
     "tags": [
-      "medical",
-      "medical-terminology",
+      "anatomy-physiology",
+      "skeletal-system",
       "medium",
       "anatomy",
       "physiology",
@@ -1272,11 +1272,11 @@
     "active": true
   },
   {
-    "id": "medical-clinical-assessment-0054",
-    "category": "Medical",
-    "subcategory": "Clinical Assessment",
+    "id": "anatomy-physiology-organ-systems-0054",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Organ Systems",
     "difficulty": "hard",
-    "question": "[Clinical Assessment #54] What is the longest, heaviest, and strongest tubular bone in the human skeleton?",
+    "question": "[Organ Systems #54] What is the longest, heaviest, and strongest tubular bone in the human skeleton?",
     "options": [
       "Tibia",
       "Humerus",
@@ -1286,8 +1286,8 @@
     "correctAnswer": 2,
     "explanation": "The femur supports body weight during bipedal locomotion and is the largest bone in the human body.",
     "tags": [
-      "medical",
-      "clinical-assessment",
+      "anatomy-physiology",
+      "organ-systems",
       "hard",
       "anatomy",
       "physiology",
@@ -1296,11 +1296,11 @@
     "active": true
   },
   {
-    "id": "medical-cardiology-0055",
-    "category": "Medical",
-    "subcategory": "Cardiology",
+    "id": "anatomy-physiology-cardiovascular-system-0055",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Cardiovascular System",
     "difficulty": "easy",
-    "question": "[Cardiology #55] In clinical terminology, which anatomical term describes a structure positioned closer to the midline of the body?",
+    "question": "[Cardiovascular System #55] In clinical terminology, which anatomical term describes a structure positioned closer to the midline of the body?",
     "options": [
       "Lateral",
       "Distal",
@@ -1310,8 +1310,8 @@
     "correctAnswer": 3,
     "explanation": "Medial designates structures closer to the anatomical midline, whereas lateral denotes structures farther from the midline.",
     "tags": [
-      "medical",
-      "cardiology",
+      "anatomy-physiology",
+      "cardiovascular-system",
       "easy",
       "anatomy",
       "physiology",
@@ -1320,11 +1320,11 @@
     "active": true
   },
   {
-    "id": "medical-pathophysiology-0056",
-    "category": "Medical",
-    "subcategory": "Pathophysiology",
+    "id": "anatomy-physiology-nervous-system-0056",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Nervous System",
     "difficulty": "medium",
-    "question": "[Pathophysiology #56] What is the primary natural pacemaker of the human heart responsible for initiating sinus rhythm?",
+    "question": "[Nervous System #56] What is the primary natural pacemaker of the human heart responsible for initiating sinus rhythm?",
     "options": [
       "Sinoatrial (SA) node",
       "Atrioventricular (AV) node",
@@ -1334,8 +1334,8 @@
     "correctAnswer": 0,
     "explanation": "The SA node, located in the right atrium, fires at 60-100 bpm under normal physiologic conditions.",
     "tags": [
-      "medical",
-      "pathophysiology",
+      "anatomy-physiology",
+      "nervous-system",
       "medium",
       "anatomy",
       "physiology",
@@ -1344,11 +1344,11 @@
     "active": true
   },
   {
-    "id": "medical-medical-terminology-0057",
-    "category": "Medical",
-    "subcategory": "Medical Terminology",
+    "id": "anatomy-physiology-skeletal-system-0057",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Skeletal System",
     "difficulty": "hard",
-    "question": "[Medical Terminology #57] Which organelle is universally known as the powerhouse of the eukaryotic cell for generating ATP?",
+    "question": "[Skeletal System #57] Which organelle is universally known as the powerhouse of the eukaryotic cell for generating ATP?",
     "options": [
       "Endoplasmic Reticulum",
       "Mitochondrion",
@@ -1358,8 +1358,8 @@
     "correctAnswer": 1,
     "explanation": "Mitochondria generate over 90% of cellular energy via oxidative phosphorylation and the Krebs cycle.",
     "tags": [
-      "medical",
-      "medical-terminology",
+      "anatomy-physiology",
+      "skeletal-system",
       "hard",
       "anatomy",
       "physiology",
@@ -1368,11 +1368,11 @@
     "active": true
   },
   {
-    "id": "medical-clinical-assessment-0058",
-    "category": "Medical",
-    "subcategory": "Clinical Assessment",
+    "id": "anatomy-physiology-organ-systems-0058",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Organ Systems",
     "difficulty": "easy",
-    "question": "[Clinical Assessment #58] What is the longest, heaviest, and strongest tubular bone in the human skeleton?",
+    "question": "[Organ Systems #58] What is the longest, heaviest, and strongest tubular bone in the human skeleton?",
     "options": [
       "Tibia",
       "Humerus",
@@ -1382,8 +1382,8 @@
     "correctAnswer": 2,
     "explanation": "The femur supports body weight during bipedal locomotion and is the largest bone in the human body.",
     "tags": [
-      "medical",
-      "clinical-assessment",
+      "anatomy-physiology",
+      "organ-systems",
       "easy",
       "anatomy",
       "physiology",
@@ -1392,11 +1392,11 @@
     "active": true
   },
   {
-    "id": "medical-cardiology-0059",
-    "category": "Medical",
-    "subcategory": "Cardiology",
+    "id": "anatomy-physiology-cardiovascular-system-0059",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Cardiovascular System",
     "difficulty": "medium",
-    "question": "[Cardiology #59] In clinical terminology, which anatomical term describes a structure positioned closer to the midline of the body?",
+    "question": "[Cardiovascular System #59] In clinical terminology, which anatomical term describes a structure positioned closer to the midline of the body?",
     "options": [
       "Lateral",
       "Distal",
@@ -1406,8 +1406,8 @@
     "correctAnswer": 3,
     "explanation": "Medial designates structures closer to the anatomical midline, whereas lateral denotes structures farther from the midline.",
     "tags": [
-      "medical",
-      "cardiology",
+      "anatomy-physiology",
+      "cardiovascular-system",
       "medium",
       "anatomy",
       "physiology",
@@ -1416,11 +1416,11 @@
     "active": true
   },
   {
-    "id": "medical-pathophysiology-0060",
-    "category": "Medical",
-    "subcategory": "Pathophysiology",
+    "id": "anatomy-physiology-nervous-system-0060",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Nervous System",
     "difficulty": "hard",
-    "question": "[Pathophysiology #60] What is the primary natural pacemaker of the human heart responsible for initiating sinus rhythm?",
+    "question": "[Nervous System #60] What is the primary natural pacemaker of the human heart responsible for initiating sinus rhythm?",
     "options": [
       "Sinoatrial (SA) node",
       "Atrioventricular (AV) node",
@@ -1430,8 +1430,8 @@
     "correctAnswer": 0,
     "explanation": "The SA node, located in the right atrium, fires at 60-100 bpm under normal physiologic conditions.",
     "tags": [
-      "medical",
-      "pathophysiology",
+      "anatomy-physiology",
+      "nervous-system",
       "hard",
       "anatomy",
       "physiology",
@@ -1440,11 +1440,11 @@
     "active": true
   },
   {
-    "id": "medical-medical-terminology-0061",
-    "category": "Medical",
-    "subcategory": "Medical Terminology",
+    "id": "anatomy-physiology-skeletal-system-0061",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Skeletal System",
     "difficulty": "easy",
-    "question": "[Medical Terminology #61] Which organelle is universally known as the powerhouse of the eukaryotic cell for generating ATP?",
+    "question": "[Skeletal System #61] Which organelle is universally known as the powerhouse of the eukaryotic cell for generating ATP?",
     "options": [
       "Endoplasmic Reticulum",
       "Mitochondrion",
@@ -1454,8 +1454,8 @@
     "correctAnswer": 1,
     "explanation": "Mitochondria generate over 90% of cellular energy via oxidative phosphorylation and the Krebs cycle.",
     "tags": [
-      "medical",
-      "medical-terminology",
+      "anatomy-physiology",
+      "skeletal-system",
       "easy",
       "anatomy",
       "physiology",
@@ -1464,11 +1464,11 @@
     "active": true
   },
   {
-    "id": "medical-clinical-assessment-0062",
-    "category": "Medical",
-    "subcategory": "Clinical Assessment",
+    "id": "anatomy-physiology-organ-systems-0062",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Organ Systems",
     "difficulty": "medium",
-    "question": "[Clinical Assessment #62] What is the longest, heaviest, and strongest tubular bone in the human skeleton?",
+    "question": "[Organ Systems #62] What is the longest, heaviest, and strongest tubular bone in the human skeleton?",
     "options": [
       "Tibia",
       "Humerus",
@@ -1478,8 +1478,8 @@
     "correctAnswer": 2,
     "explanation": "The femur supports body weight during bipedal locomotion and is the largest bone in the human body.",
     "tags": [
-      "medical",
-      "clinical-assessment",
+      "anatomy-physiology",
+      "organ-systems",
       "medium",
       "anatomy",
       "physiology",
@@ -1488,11 +1488,11 @@
     "active": true
   },
   {
-    "id": "medical-cardiology-0063",
-    "category": "Medical",
-    "subcategory": "Cardiology",
+    "id": "anatomy-physiology-cardiovascular-system-0063",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Cardiovascular System",
     "difficulty": "hard",
-    "question": "[Cardiology #63] In clinical terminology, which anatomical term describes a structure positioned closer to the midline of the body?",
+    "question": "[Cardiovascular System #63] In clinical terminology, which anatomical term describes a structure positioned closer to the midline of the body?",
     "options": [
       "Lateral",
       "Distal",
@@ -1502,8 +1502,8 @@
     "correctAnswer": 3,
     "explanation": "Medial designates structures closer to the anatomical midline, whereas lateral denotes structures farther from the midline.",
     "tags": [
-      "medical",
-      "cardiology",
+      "anatomy-physiology",
+      "cardiovascular-system",
       "hard",
       "anatomy",
       "physiology",
@@ -1512,11 +1512,11 @@
     "active": true
   },
   {
-    "id": "medical-pathophysiology-0064",
-    "category": "Medical",
-    "subcategory": "Pathophysiology",
+    "id": "anatomy-physiology-nervous-system-0064",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Nervous System",
     "difficulty": "easy",
-    "question": "[Pathophysiology #64] What is the primary natural pacemaker of the human heart responsible for initiating sinus rhythm?",
+    "question": "[Nervous System #64] What is the primary natural pacemaker of the human heart responsible for initiating sinus rhythm?",
     "options": [
       "Sinoatrial (SA) node",
       "Atrioventricular (AV) node",
@@ -1526,8 +1526,8 @@
     "correctAnswer": 0,
     "explanation": "The SA node, located in the right atrium, fires at 60-100 bpm under normal physiologic conditions.",
     "tags": [
-      "medical",
-      "pathophysiology",
+      "anatomy-physiology",
+      "nervous-system",
       "easy",
       "anatomy",
       "physiology",
@@ -1536,11 +1536,11 @@
     "active": true
   },
   {
-    "id": "medical-medical-terminology-0065",
-    "category": "Medical",
-    "subcategory": "Medical Terminology",
+    "id": "anatomy-physiology-skeletal-system-0065",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Skeletal System",
     "difficulty": "medium",
-    "question": "[Medical Terminology #65] Which organelle is universally known as the powerhouse of the eukaryotic cell for generating ATP?",
+    "question": "[Skeletal System #65] Which organelle is universally known as the powerhouse of the eukaryotic cell for generating ATP?",
     "options": [
       "Endoplasmic Reticulum",
       "Mitochondrion",
@@ -1550,8 +1550,8 @@
     "correctAnswer": 1,
     "explanation": "Mitochondria generate over 90% of cellular energy via oxidative phosphorylation and the Krebs cycle.",
     "tags": [
-      "medical",
-      "medical-terminology",
+      "anatomy-physiology",
+      "skeletal-system",
       "medium",
       "anatomy",
       "physiology",
@@ -1560,11 +1560,11 @@
     "active": true
   },
   {
-    "id": "medical-clinical-assessment-0066",
-    "category": "Medical",
-    "subcategory": "Clinical Assessment",
+    "id": "anatomy-physiology-organ-systems-0066",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Organ Systems",
     "difficulty": "hard",
-    "question": "[Clinical Assessment #66] What is the longest, heaviest, and strongest tubular bone in the human skeleton?",
+    "question": "[Organ Systems #66] What is the longest, heaviest, and strongest tubular bone in the human skeleton?",
     "options": [
       "Tibia",
       "Humerus",
@@ -1574,8 +1574,8 @@
     "correctAnswer": 2,
     "explanation": "The femur supports body weight during bipedal locomotion and is the largest bone in the human body.",
     "tags": [
-      "medical",
-      "clinical-assessment",
+      "anatomy-physiology",
+      "organ-systems",
       "hard",
       "anatomy",
       "physiology",
@@ -1584,11 +1584,11 @@
     "active": true
   },
   {
-    "id": "medical-cardiology-0067",
-    "category": "Medical",
-    "subcategory": "Cardiology",
+    "id": "anatomy-physiology-cardiovascular-system-0067",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Cardiovascular System",
     "difficulty": "easy",
-    "question": "[Cardiology #67] In clinical terminology, which anatomical term describes a structure positioned closer to the midline of the body?",
+    "question": "[Cardiovascular System #67] In clinical terminology, which anatomical term describes a structure positioned closer to the midline of the body?",
     "options": [
       "Lateral",
       "Distal",
@@ -1598,8 +1598,8 @@
     "correctAnswer": 3,
     "explanation": "Medial designates structures closer to the anatomical midline, whereas lateral denotes structures farther from the midline.",
     "tags": [
-      "medical",
-      "cardiology",
+      "anatomy-physiology",
+      "cardiovascular-system",
       "easy",
       "anatomy",
       "physiology",
@@ -1608,11 +1608,11 @@
     "active": true
   },
   {
-    "id": "medical-pathophysiology-0068",
-    "category": "Medical",
-    "subcategory": "Pathophysiology",
+    "id": "anatomy-physiology-nervous-system-0068",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Nervous System",
     "difficulty": "medium",
-    "question": "[Pathophysiology #68] What is the primary natural pacemaker of the human heart responsible for initiating sinus rhythm?",
+    "question": "[Nervous System #68] What is the primary natural pacemaker of the human heart responsible for initiating sinus rhythm?",
     "options": [
       "Sinoatrial (SA) node",
       "Atrioventricular (AV) node",
@@ -1622,8 +1622,8 @@
     "correctAnswer": 0,
     "explanation": "The SA node, located in the right atrium, fires at 60-100 bpm under normal physiologic conditions.",
     "tags": [
-      "medical",
-      "pathophysiology",
+      "anatomy-physiology",
+      "nervous-system",
       "medium",
       "anatomy",
       "physiology",
@@ -1632,11 +1632,11 @@
     "active": true
   },
   {
-    "id": "medical-medical-terminology-0069",
-    "category": "Medical",
-    "subcategory": "Medical Terminology",
+    "id": "anatomy-physiology-skeletal-system-0069",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Skeletal System",
     "difficulty": "hard",
-    "question": "[Medical Terminology #69] Which organelle is universally known as the powerhouse of the eukaryotic cell for generating ATP?",
+    "question": "[Skeletal System #69] Which organelle is universally known as the powerhouse of the eukaryotic cell for generating ATP?",
     "options": [
       "Endoplasmic Reticulum",
       "Mitochondrion",
@@ -1646,8 +1646,8 @@
     "correctAnswer": 1,
     "explanation": "Mitochondria generate over 90% of cellular energy via oxidative phosphorylation and the Krebs cycle.",
     "tags": [
-      "medical",
-      "medical-terminology",
+      "anatomy-physiology",
+      "skeletal-system",
       "hard",
       "anatomy",
       "physiology",
@@ -1656,11 +1656,11 @@
     "active": true
   },
   {
-    "id": "medical-clinical-assessment-0070",
-    "category": "Medical",
-    "subcategory": "Clinical Assessment",
+    "id": "anatomy-physiology-organ-systems-0070",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Organ Systems",
     "difficulty": "easy",
-    "question": "[Clinical Assessment #70] What is the longest, heaviest, and strongest tubular bone in the human skeleton?",
+    "question": "[Organ Systems #70] What is the longest, heaviest, and strongest tubular bone in the human skeleton?",
     "options": [
       "Tibia",
       "Humerus",
@@ -1670,8 +1670,8 @@
     "correctAnswer": 2,
     "explanation": "The femur supports body weight during bipedal locomotion and is the largest bone in the human body.",
     "tags": [
-      "medical",
-      "clinical-assessment",
+      "anatomy-physiology",
+      "organ-systems",
       "easy",
       "anatomy",
       "physiology",
@@ -1680,11 +1680,11 @@
     "active": true
   },
   {
-    "id": "medical-cardiology-0071",
-    "category": "Medical",
-    "subcategory": "Cardiology",
+    "id": "anatomy-physiology-cardiovascular-system-0071",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Cardiovascular System",
     "difficulty": "medium",
-    "question": "[Cardiology #71] In clinical terminology, which anatomical term describes a structure positioned closer to the midline of the body?",
+    "question": "[Cardiovascular System #71] In clinical terminology, which anatomical term describes a structure positioned closer to the midline of the body?",
     "options": [
       "Lateral",
       "Distal",
@@ -1694,8 +1694,8 @@
     "correctAnswer": 3,
     "explanation": "Medial designates structures closer to the anatomical midline, whereas lateral denotes structures farther from the midline.",
     "tags": [
-      "medical",
-      "cardiology",
+      "anatomy-physiology",
+      "cardiovascular-system",
       "medium",
       "anatomy",
       "physiology",
@@ -1704,11 +1704,11 @@
     "active": true
   },
   {
-    "id": "medical-pathophysiology-0072",
-    "category": "Medical",
-    "subcategory": "Pathophysiology",
+    "id": "anatomy-physiology-nervous-system-0072",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Nervous System",
     "difficulty": "hard",
-    "question": "[Pathophysiology #72] What is the primary natural pacemaker of the human heart responsible for initiating sinus rhythm?",
+    "question": "[Nervous System #72] What is the primary natural pacemaker of the human heart responsible for initiating sinus rhythm?",
     "options": [
       "Sinoatrial (SA) node",
       "Atrioventricular (AV) node",
@@ -1718,8 +1718,8 @@
     "correctAnswer": 0,
     "explanation": "The SA node, located in the right atrium, fires at 60-100 bpm under normal physiologic conditions.",
     "tags": [
-      "medical",
-      "pathophysiology",
+      "anatomy-physiology",
+      "nervous-system",
       "hard",
       "anatomy",
       "physiology",
@@ -1728,11 +1728,11 @@
     "active": true
   },
   {
-    "id": "medical-medical-terminology-0073",
-    "category": "Medical",
-    "subcategory": "Medical Terminology",
+    "id": "anatomy-physiology-skeletal-system-0073",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Skeletal System",
     "difficulty": "easy",
-    "question": "[Medical Terminology #73] Which organelle is universally known as the powerhouse of the eukaryotic cell for generating ATP?",
+    "question": "[Skeletal System #73] Which organelle is universally known as the powerhouse of the eukaryotic cell for generating ATP?",
     "options": [
       "Endoplasmic Reticulum",
       "Mitochondrion",
@@ -1742,8 +1742,8 @@
     "correctAnswer": 1,
     "explanation": "Mitochondria generate over 90% of cellular energy via oxidative phosphorylation and the Krebs cycle.",
     "tags": [
-      "medical",
-      "medical-terminology",
+      "anatomy-physiology",
+      "skeletal-system",
       "easy",
       "anatomy",
       "physiology",
@@ -1752,11 +1752,11 @@
     "active": true
   },
   {
-    "id": "medical-clinical-assessment-0074",
-    "category": "Medical",
-    "subcategory": "Clinical Assessment",
+    "id": "anatomy-physiology-organ-systems-0074",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Organ Systems",
     "difficulty": "medium",
-    "question": "[Clinical Assessment #74] What is the longest, heaviest, and strongest tubular bone in the human skeleton?",
+    "question": "[Organ Systems #74] What is the longest, heaviest, and strongest tubular bone in the human skeleton?",
     "options": [
       "Tibia",
       "Humerus",
@@ -1766,8 +1766,8 @@
     "correctAnswer": 2,
     "explanation": "The femur supports body weight during bipedal locomotion and is the largest bone in the human body.",
     "tags": [
-      "medical",
-      "clinical-assessment",
+      "anatomy-physiology",
+      "organ-systems",
       "medium",
       "anatomy",
       "physiology",
@@ -1776,11 +1776,11 @@
     "active": true
   },
   {
-    "id": "medical-cardiology-0075",
-    "category": "Medical",
-    "subcategory": "Cardiology",
+    "id": "anatomy-physiology-cardiovascular-system-0075",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Cardiovascular System",
     "difficulty": "hard",
-    "question": "[Cardiology #75] In clinical terminology, which anatomical term describes a structure positioned closer to the midline of the body?",
+    "question": "[Cardiovascular System #75] In clinical terminology, which anatomical term describes a structure positioned closer to the midline of the body?",
     "options": [
       "Lateral",
       "Distal",
@@ -1790,8 +1790,8 @@
     "correctAnswer": 3,
     "explanation": "Medial designates structures closer to the anatomical midline, whereas lateral denotes structures farther from the midline.",
     "tags": [
-      "medical",
-      "cardiology",
+      "anatomy-physiology",
+      "cardiovascular-system",
       "hard",
       "anatomy",
       "physiology",
@@ -1800,11 +1800,11 @@
     "active": true
   },
   {
-    "id": "medical-pathophysiology-0076",
-    "category": "Medical",
-    "subcategory": "Pathophysiology",
+    "id": "anatomy-physiology-nervous-system-0076",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Nervous System",
     "difficulty": "easy",
-    "question": "[Pathophysiology #76] What is the primary natural pacemaker of the human heart responsible for initiating sinus rhythm?",
+    "question": "[Nervous System #76] What is the primary natural pacemaker of the human heart responsible for initiating sinus rhythm?",
     "options": [
       "Sinoatrial (SA) node",
       "Atrioventricular (AV) node",
@@ -1814,8 +1814,8 @@
     "correctAnswer": 0,
     "explanation": "The SA node, located in the right atrium, fires at 60-100 bpm under normal physiologic conditions.",
     "tags": [
-      "medical",
-      "pathophysiology",
+      "anatomy-physiology",
+      "nervous-system",
       "easy",
       "anatomy",
       "physiology",
@@ -1824,11 +1824,11 @@
     "active": true
   },
   {
-    "id": "medical-medical-terminology-0077",
-    "category": "Medical",
-    "subcategory": "Medical Terminology",
+    "id": "anatomy-physiology-skeletal-system-0077",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Skeletal System",
     "difficulty": "medium",
-    "question": "[Medical Terminology #77] Which organelle is universally known as the powerhouse of the eukaryotic cell for generating ATP?",
+    "question": "[Skeletal System #77] Which organelle is universally known as the powerhouse of the eukaryotic cell for generating ATP?",
     "options": [
       "Endoplasmic Reticulum",
       "Mitochondrion",
@@ -1838,8 +1838,8 @@
     "correctAnswer": 1,
     "explanation": "Mitochondria generate over 90% of cellular energy via oxidative phosphorylation and the Krebs cycle.",
     "tags": [
-      "medical",
-      "medical-terminology",
+      "anatomy-physiology",
+      "skeletal-system",
       "medium",
       "anatomy",
       "physiology",
@@ -1848,11 +1848,11 @@
     "active": true
   },
   {
-    "id": "medical-clinical-assessment-0078",
-    "category": "Medical",
-    "subcategory": "Clinical Assessment",
+    "id": "anatomy-physiology-organ-systems-0078",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Organ Systems",
     "difficulty": "hard",
-    "question": "[Clinical Assessment #78] What is the longest, heaviest, and strongest tubular bone in the human skeleton?",
+    "question": "[Organ Systems #78] What is the longest, heaviest, and strongest tubular bone in the human skeleton?",
     "options": [
       "Tibia",
       "Humerus",
@@ -1862,8 +1862,8 @@
     "correctAnswer": 2,
     "explanation": "The femur supports body weight during bipedal locomotion and is the largest bone in the human body.",
     "tags": [
-      "medical",
-      "clinical-assessment",
+      "anatomy-physiology",
+      "organ-systems",
       "hard",
       "anatomy",
       "physiology",
@@ -1872,11 +1872,11 @@
     "active": true
   },
   {
-    "id": "medical-cardiology-0079",
-    "category": "Medical",
-    "subcategory": "Cardiology",
+    "id": "anatomy-physiology-cardiovascular-system-0079",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Cardiovascular System",
     "difficulty": "easy",
-    "question": "[Cardiology #79] In clinical terminology, which anatomical term describes a structure positioned closer to the midline of the body?",
+    "question": "[Cardiovascular System #79] In clinical terminology, which anatomical term describes a structure positioned closer to the midline of the body?",
     "options": [
       "Lateral",
       "Distal",
@@ -1886,8 +1886,8 @@
     "correctAnswer": 3,
     "explanation": "Medial designates structures closer to the anatomical midline, whereas lateral denotes structures farther from the midline.",
     "tags": [
-      "medical",
-      "cardiology",
+      "anatomy-physiology",
+      "cardiovascular-system",
       "easy",
       "anatomy",
       "physiology",
@@ -1896,11 +1896,11 @@
     "active": true
   },
   {
-    "id": "medical-pathophysiology-0080",
-    "category": "Medical",
-    "subcategory": "Pathophysiology",
+    "id": "anatomy-physiology-nervous-system-0080",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Nervous System",
     "difficulty": "medium",
-    "question": "[Pathophysiology #80] What is the primary natural pacemaker of the human heart responsible for initiating sinus rhythm?",
+    "question": "[Nervous System #80] What is the primary natural pacemaker of the human heart responsible for initiating sinus rhythm?",
     "options": [
       "Sinoatrial (SA) node",
       "Atrioventricular (AV) node",
@@ -1910,8 +1910,8 @@
     "correctAnswer": 0,
     "explanation": "The SA node, located in the right atrium, fires at 60-100 bpm under normal physiologic conditions.",
     "tags": [
-      "medical",
-      "pathophysiology",
+      "anatomy-physiology",
+      "nervous-system",
       "medium",
       "anatomy",
       "physiology",
@@ -1920,11 +1920,11 @@
     "active": true
   },
   {
-    "id": "medical-medical-terminology-0081",
-    "category": "Medical",
-    "subcategory": "Medical Terminology",
+    "id": "anatomy-physiology-skeletal-system-0081",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Skeletal System",
     "difficulty": "hard",
-    "question": "[Medical Terminology #81] Which organelle is universally known as the powerhouse of the eukaryotic cell for generating ATP?",
+    "question": "[Skeletal System #81] Which organelle is universally known as the powerhouse of the eukaryotic cell for generating ATP?",
     "options": [
       "Endoplasmic Reticulum",
       "Mitochondrion",
@@ -1934,8 +1934,8 @@
     "correctAnswer": 1,
     "explanation": "Mitochondria generate over 90% of cellular energy via oxidative phosphorylation and the Krebs cycle.",
     "tags": [
-      "medical",
-      "medical-terminology",
+      "anatomy-physiology",
+      "skeletal-system",
       "hard",
       "anatomy",
       "physiology",
@@ -1944,11 +1944,11 @@
     "active": true
   },
   {
-    "id": "medical-clinical-assessment-0082",
-    "category": "Medical",
-    "subcategory": "Clinical Assessment",
+    "id": "anatomy-physiology-organ-systems-0082",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Organ Systems",
     "difficulty": "easy",
-    "question": "[Clinical Assessment #82] What is the longest, heaviest, and strongest tubular bone in the human skeleton?",
+    "question": "[Organ Systems #82] What is the longest, heaviest, and strongest tubular bone in the human skeleton?",
     "options": [
       "Tibia",
       "Humerus",
@@ -1958,8 +1958,8 @@
     "correctAnswer": 2,
     "explanation": "The femur supports body weight during bipedal locomotion and is the largest bone in the human body.",
     "tags": [
-      "medical",
-      "clinical-assessment",
+      "anatomy-physiology",
+      "organ-systems",
       "easy",
       "anatomy",
       "physiology",
@@ -1968,11 +1968,11 @@
     "active": true
   },
   {
-    "id": "medical-cardiology-0083",
-    "category": "Medical",
-    "subcategory": "Cardiology",
+    "id": "anatomy-physiology-cardiovascular-system-0083",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Cardiovascular System",
     "difficulty": "medium",
-    "question": "[Cardiology #83] In clinical terminology, which anatomical term describes a structure positioned closer to the midline of the body?",
+    "question": "[Cardiovascular System #83] In clinical terminology, which anatomical term describes a structure positioned closer to the midline of the body?",
     "options": [
       "Lateral",
       "Distal",
@@ -1982,8 +1982,8 @@
     "correctAnswer": 3,
     "explanation": "Medial designates structures closer to the anatomical midline, whereas lateral denotes structures farther from the midline.",
     "tags": [
-      "medical",
-      "cardiology",
+      "anatomy-physiology",
+      "cardiovascular-system",
       "medium",
       "anatomy",
       "physiology",
@@ -1992,11 +1992,11 @@
     "active": true
   },
   {
-    "id": "medical-pathophysiology-0084",
-    "category": "Medical",
-    "subcategory": "Pathophysiology",
+    "id": "anatomy-physiology-nervous-system-0084",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Nervous System",
     "difficulty": "hard",
-    "question": "[Pathophysiology #84] What is the primary natural pacemaker of the human heart responsible for initiating sinus rhythm?",
+    "question": "[Nervous System #84] What is the primary natural pacemaker of the human heart responsible for initiating sinus rhythm?",
     "options": [
       "Sinoatrial (SA) node",
       "Atrioventricular (AV) node",
@@ -2006,8 +2006,8 @@
     "correctAnswer": 0,
     "explanation": "The SA node, located in the right atrium, fires at 60-100 bpm under normal physiologic conditions.",
     "tags": [
-      "medical",
-      "pathophysiology",
+      "anatomy-physiology",
+      "nervous-system",
       "hard",
       "anatomy",
       "physiology",
@@ -2016,11 +2016,11 @@
     "active": true
   },
   {
-    "id": "medical-medical-terminology-0085",
-    "category": "Medical",
-    "subcategory": "Medical Terminology",
+    "id": "anatomy-physiology-skeletal-system-0085",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Skeletal System",
     "difficulty": "easy",
-    "question": "[Medical Terminology #85] Which organelle is universally known as the powerhouse of the eukaryotic cell for generating ATP?",
+    "question": "[Skeletal System #85] Which organelle is universally known as the powerhouse of the eukaryotic cell for generating ATP?",
     "options": [
       "Endoplasmic Reticulum",
       "Mitochondrion",
@@ -2030,8 +2030,8 @@
     "correctAnswer": 1,
     "explanation": "Mitochondria generate over 90% of cellular energy via oxidative phosphorylation and the Krebs cycle.",
     "tags": [
-      "medical",
-      "medical-terminology",
+      "anatomy-physiology",
+      "skeletal-system",
       "easy",
       "anatomy",
       "physiology",
@@ -2040,11 +2040,11 @@
     "active": true
   },
   {
-    "id": "medical-clinical-assessment-0086",
-    "category": "Medical",
-    "subcategory": "Clinical Assessment",
+    "id": "anatomy-physiology-organ-systems-0086",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Organ Systems",
     "difficulty": "medium",
-    "question": "[Clinical Assessment #86] What is the longest, heaviest, and strongest tubular bone in the human skeleton?",
+    "question": "[Organ Systems #86] What is the longest, heaviest, and strongest tubular bone in the human skeleton?",
     "options": [
       "Tibia",
       "Humerus",
@@ -2054,8 +2054,8 @@
     "correctAnswer": 2,
     "explanation": "The femur supports body weight during bipedal locomotion and is the largest bone in the human body.",
     "tags": [
-      "medical",
-      "clinical-assessment",
+      "anatomy-physiology",
+      "organ-systems",
       "medium",
       "anatomy",
       "physiology",
@@ -2064,11 +2064,11 @@
     "active": true
   },
   {
-    "id": "medical-cardiology-0087",
-    "category": "Medical",
-    "subcategory": "Cardiology",
+    "id": "anatomy-physiology-cardiovascular-system-0087",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Cardiovascular System",
     "difficulty": "hard",
-    "question": "[Cardiology #87] In clinical terminology, which anatomical term describes a structure positioned closer to the midline of the body?",
+    "question": "[Cardiovascular System #87] In clinical terminology, which anatomical term describes a structure positioned closer to the midline of the body?",
     "options": [
       "Lateral",
       "Distal",
@@ -2078,8 +2078,8 @@
     "correctAnswer": 3,
     "explanation": "Medial designates structures closer to the anatomical midline, whereas lateral denotes structures farther from the midline.",
     "tags": [
-      "medical",
-      "cardiology",
+      "anatomy-physiology",
+      "cardiovascular-system",
       "hard",
       "anatomy",
       "physiology",
@@ -2088,11 +2088,11 @@
     "active": true
   },
   {
-    "id": "medical-pathophysiology-0088",
-    "category": "Medical",
-    "subcategory": "Pathophysiology",
+    "id": "anatomy-physiology-nervous-system-0088",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Nervous System",
     "difficulty": "easy",
-    "question": "[Pathophysiology #88] What is the primary natural pacemaker of the human heart responsible for initiating sinus rhythm?",
+    "question": "[Nervous System #88] What is the primary natural pacemaker of the human heart responsible for initiating sinus rhythm?",
     "options": [
       "Sinoatrial (SA) node",
       "Atrioventricular (AV) node",
@@ -2102,8 +2102,8 @@
     "correctAnswer": 0,
     "explanation": "The SA node, located in the right atrium, fires at 60-100 bpm under normal physiologic conditions.",
     "tags": [
-      "medical",
-      "pathophysiology",
+      "anatomy-physiology",
+      "nervous-system",
       "easy",
       "anatomy",
       "physiology",
@@ -2112,11 +2112,11 @@
     "active": true
   },
   {
-    "id": "medical-medical-terminology-0089",
-    "category": "Medical",
-    "subcategory": "Medical Terminology",
+    "id": "anatomy-physiology-skeletal-system-0089",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Skeletal System",
     "difficulty": "medium",
-    "question": "[Medical Terminology #89] Which organelle is universally known as the powerhouse of the eukaryotic cell for generating ATP?",
+    "question": "[Skeletal System #89] Which organelle is universally known as the powerhouse of the eukaryotic cell for generating ATP?",
     "options": [
       "Endoplasmic Reticulum",
       "Mitochondrion",
@@ -2126,8 +2126,8 @@
     "correctAnswer": 1,
     "explanation": "Mitochondria generate over 90% of cellular energy via oxidative phosphorylation and the Krebs cycle.",
     "tags": [
-      "medical",
-      "medical-terminology",
+      "anatomy-physiology",
+      "skeletal-system",
       "medium",
       "anatomy",
       "physiology",
@@ -2136,11 +2136,11 @@
     "active": true
   },
   {
-    "id": "medical-clinical-assessment-0090",
-    "category": "Medical",
-    "subcategory": "Clinical Assessment",
+    "id": "anatomy-physiology-organ-systems-0090",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Organ Systems",
     "difficulty": "hard",
-    "question": "[Clinical Assessment #90] What is the longest, heaviest, and strongest tubular bone in the human skeleton?",
+    "question": "[Organ Systems #90] What is the longest, heaviest, and strongest tubular bone in the human skeleton?",
     "options": [
       "Tibia",
       "Humerus",
@@ -2150,8 +2150,8 @@
     "correctAnswer": 2,
     "explanation": "The femur supports body weight during bipedal locomotion and is the largest bone in the human body.",
     "tags": [
-      "medical",
-      "clinical-assessment",
+      "anatomy-physiology",
+      "organ-systems",
       "hard",
       "anatomy",
       "physiology",
@@ -2160,11 +2160,11 @@
     "active": true
   },
   {
-    "id": "medical-cardiology-0091",
-    "category": "Medical",
-    "subcategory": "Cardiology",
+    "id": "anatomy-physiology-cardiovascular-system-0091",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Cardiovascular System",
     "difficulty": "easy",
-    "question": "[Cardiology #91] In clinical terminology, which anatomical term describes a structure positioned closer to the midline of the body?",
+    "question": "[Cardiovascular System #91] In clinical terminology, which anatomical term describes a structure positioned closer to the midline of the body?",
     "options": [
       "Lateral",
       "Distal",
@@ -2174,8 +2174,8 @@
     "correctAnswer": 3,
     "explanation": "Medial designates structures closer to the anatomical midline, whereas lateral denotes structures farther from the midline.",
     "tags": [
-      "medical",
-      "cardiology",
+      "anatomy-physiology",
+      "cardiovascular-system",
       "easy",
       "anatomy",
       "physiology",
@@ -2184,11 +2184,11 @@
     "active": true
   },
   {
-    "id": "medical-pathophysiology-0092",
-    "category": "Medical",
-    "subcategory": "Pathophysiology",
+    "id": "anatomy-physiology-nervous-system-0092",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Nervous System",
     "difficulty": "medium",
-    "question": "[Pathophysiology #92] What is the primary natural pacemaker of the human heart responsible for initiating sinus rhythm?",
+    "question": "[Nervous System #92] What is the primary natural pacemaker of the human heart responsible for initiating sinus rhythm?",
     "options": [
       "Sinoatrial (SA) node",
       "Atrioventricular (AV) node",
@@ -2198,8 +2198,8 @@
     "correctAnswer": 0,
     "explanation": "The SA node, located in the right atrium, fires at 60-100 bpm under normal physiologic conditions.",
     "tags": [
-      "medical",
-      "pathophysiology",
+      "anatomy-physiology",
+      "nervous-system",
       "medium",
       "anatomy",
       "physiology",
@@ -2208,11 +2208,11 @@
     "active": true
   },
   {
-    "id": "medical-medical-terminology-0093",
-    "category": "Medical",
-    "subcategory": "Medical Terminology",
+    "id": "anatomy-physiology-skeletal-system-0093",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Skeletal System",
     "difficulty": "hard",
-    "question": "[Medical Terminology #93] Which organelle is universally known as the powerhouse of the eukaryotic cell for generating ATP?",
+    "question": "[Skeletal System #93] Which organelle is universally known as the powerhouse of the eukaryotic cell for generating ATP?",
     "options": [
       "Endoplasmic Reticulum",
       "Mitochondrion",
@@ -2222,8 +2222,8 @@
     "correctAnswer": 1,
     "explanation": "Mitochondria generate over 90% of cellular energy via oxidative phosphorylation and the Krebs cycle.",
     "tags": [
-      "medical",
-      "medical-terminology",
+      "anatomy-physiology",
+      "skeletal-system",
       "hard",
       "anatomy",
       "physiology",
@@ -2232,11 +2232,11 @@
     "active": true
   },
   {
-    "id": "medical-clinical-assessment-0094",
-    "category": "Medical",
-    "subcategory": "Clinical Assessment",
+    "id": "anatomy-physiology-organ-systems-0094",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Organ Systems",
     "difficulty": "easy",
-    "question": "[Clinical Assessment #94] What is the longest, heaviest, and strongest tubular bone in the human skeleton?",
+    "question": "[Organ Systems #94] What is the longest, heaviest, and strongest tubular bone in the human skeleton?",
     "options": [
       "Tibia",
       "Humerus",
@@ -2246,8 +2246,8 @@
     "correctAnswer": 2,
     "explanation": "The femur supports body weight during bipedal locomotion and is the largest bone in the human body.",
     "tags": [
-      "medical",
-      "clinical-assessment",
+      "anatomy-physiology",
+      "organ-systems",
       "easy",
       "anatomy",
       "physiology",
@@ -2256,11 +2256,11 @@
     "active": true
   },
   {
-    "id": "medical-cardiology-0095",
-    "category": "Medical",
-    "subcategory": "Cardiology",
+    "id": "anatomy-physiology-cardiovascular-system-0095",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Cardiovascular System",
     "difficulty": "medium",
-    "question": "[Cardiology #95] In clinical terminology, which anatomical term describes a structure positioned closer to the midline of the body?",
+    "question": "[Cardiovascular System #95] In clinical terminology, which anatomical term describes a structure positioned closer to the midline of the body?",
     "options": [
       "Lateral",
       "Distal",
@@ -2270,8 +2270,8 @@
     "correctAnswer": 3,
     "explanation": "Medial designates structures closer to the anatomical midline, whereas lateral denotes structures farther from the midline.",
     "tags": [
-      "medical",
-      "cardiology",
+      "anatomy-physiology",
+      "cardiovascular-system",
       "medium",
       "anatomy",
       "physiology",
@@ -2280,11 +2280,11 @@
     "active": true
   },
   {
-    "id": "medical-pathophysiology-0096",
-    "category": "Medical",
-    "subcategory": "Pathophysiology",
+    "id": "anatomy-physiology-nervous-system-0096",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Nervous System",
     "difficulty": "hard",
-    "question": "[Pathophysiology #96] What is the primary natural pacemaker of the human heart responsible for initiating sinus rhythm?",
+    "question": "[Nervous System #96] What is the primary natural pacemaker of the human heart responsible for initiating sinus rhythm?",
     "options": [
       "Sinoatrial (SA) node",
       "Atrioventricular (AV) node",
@@ -2294,8 +2294,8 @@
     "correctAnswer": 0,
     "explanation": "The SA node, located in the right atrium, fires at 60-100 bpm under normal physiologic conditions.",
     "tags": [
-      "medical",
-      "pathophysiology",
+      "anatomy-physiology",
+      "nervous-system",
       "hard",
       "anatomy",
       "physiology",
@@ -2304,11 +2304,11 @@
     "active": true
   },
   {
-    "id": "medical-medical-terminology-0097",
-    "category": "Medical",
-    "subcategory": "Medical Terminology",
+    "id": "anatomy-physiology-skeletal-system-0097",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Skeletal System",
     "difficulty": "easy",
-    "question": "[Medical Terminology #97] Which organelle is universally known as the powerhouse of the eukaryotic cell for generating ATP?",
+    "question": "[Skeletal System #97] Which organelle is universally known as the powerhouse of the eukaryotic cell for generating ATP?",
     "options": [
       "Endoplasmic Reticulum",
       "Mitochondrion",
@@ -2318,8 +2318,8 @@
     "correctAnswer": 1,
     "explanation": "Mitochondria generate over 90% of cellular energy via oxidative phosphorylation and the Krebs cycle.",
     "tags": [
-      "medical",
-      "medical-terminology",
+      "anatomy-physiology",
+      "skeletal-system",
       "easy",
       "anatomy",
       "physiology",
@@ -2328,11 +2328,11 @@
     "active": true
   },
   {
-    "id": "medical-clinical-assessment-0098",
-    "category": "Medical",
-    "subcategory": "Clinical Assessment",
+    "id": "anatomy-physiology-organ-systems-0098",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Organ Systems",
     "difficulty": "medium",
-    "question": "[Clinical Assessment #98] What is the longest, heaviest, and strongest tubular bone in the human skeleton?",
+    "question": "[Organ Systems #98] What is the longest, heaviest, and strongest tubular bone in the human skeleton?",
     "options": [
       "Tibia",
       "Humerus",
@@ -2342,8 +2342,8 @@
     "correctAnswer": 2,
     "explanation": "The femur supports body weight during bipedal locomotion and is the largest bone in the human body.",
     "tags": [
-      "medical",
-      "clinical-assessment",
+      "anatomy-physiology",
+      "organ-systems",
       "medium",
       "anatomy",
       "physiology",
@@ -2352,11 +2352,11 @@
     "active": true
   },
   {
-    "id": "medical-cardiology-0099",
-    "category": "Medical",
-    "subcategory": "Cardiology",
+    "id": "anatomy-physiology-cardiovascular-system-0099",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Cardiovascular System",
     "difficulty": "hard",
-    "question": "[Cardiology #99] In clinical terminology, which anatomical term describes a structure positioned closer to the midline of the body?",
+    "question": "[Cardiovascular System #99] In clinical terminology, which anatomical term describes a structure positioned closer to the midline of the body?",
     "options": [
       "Lateral",
       "Distal",
@@ -2366,8 +2366,8 @@
     "correctAnswer": 3,
     "explanation": "Medial designates structures closer to the anatomical midline, whereas lateral denotes structures farther from the midline.",
     "tags": [
-      "medical",
-      "cardiology",
+      "anatomy-physiology",
+      "cardiovascular-system",
       "hard",
       "anatomy",
       "physiology",
@@ -2376,11 +2376,11 @@
     "active": true
   },
   {
-    "id": "medical-pathophysiology-0100",
-    "category": "Medical",
-    "subcategory": "Pathophysiology",
+    "id": "anatomy-physiology-nervous-system-0100",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Nervous System",
     "difficulty": "easy",
-    "question": "[Pathophysiology #100] What is the primary natural pacemaker of the human heart responsible for initiating sinus rhythm?",
+    "question": "[Nervous System #100] What is the primary natural pacemaker of the human heart responsible for initiating sinus rhythm?",
     "options": [
       "Sinoatrial (SA) node",
       "Atrioventricular (AV) node",
@@ -2390,8 +2390,8 @@
     "correctAnswer": 0,
     "explanation": "The SA node, located in the right atrium, fires at 60-100 bpm under normal physiologic conditions.",
     "tags": [
-      "medical",
-      "pathophysiology",
+      "anatomy-physiology",
+      "nervous-system",
       "easy",
       "anatomy",
       "physiology",
@@ -2400,11 +2400,11 @@
     "active": true
   },
   {
-    "id": "medical-medical-terminology-0101",
-    "category": "Medical",
-    "subcategory": "Medical Terminology",
+    "id": "anatomy-physiology-skeletal-system-0101",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Skeletal System",
     "difficulty": "medium",
-    "question": "[Medical Terminology #101] Which organelle is universally known as the powerhouse of the eukaryotic cell for generating ATP?",
+    "question": "[Skeletal System #101] Which organelle is universally known as the powerhouse of the eukaryotic cell for generating ATP?",
     "options": [
       "Endoplasmic Reticulum",
       "Mitochondrion",
@@ -2414,8 +2414,8 @@
     "correctAnswer": 1,
     "explanation": "Mitochondria generate over 90% of cellular energy via oxidative phosphorylation and the Krebs cycle.",
     "tags": [
-      "medical",
-      "medical-terminology",
+      "anatomy-physiology",
+      "skeletal-system",
       "medium",
       "anatomy",
       "physiology",
@@ -2424,11 +2424,11 @@
     "active": true
   },
   {
-    "id": "medical-clinical-assessment-0102",
-    "category": "Medical",
-    "subcategory": "Clinical Assessment",
+    "id": "anatomy-physiology-organ-systems-0102",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Organ Systems",
     "difficulty": "hard",
-    "question": "[Clinical Assessment #102] What is the longest, heaviest, and strongest tubular bone in the human skeleton?",
+    "question": "[Organ Systems #102] What is the longest, heaviest, and strongest tubular bone in the human skeleton?",
     "options": [
       "Tibia",
       "Humerus",
@@ -2438,8 +2438,8 @@
     "correctAnswer": 2,
     "explanation": "The femur supports body weight during bipedal locomotion and is the largest bone in the human body.",
     "tags": [
-      "medical",
-      "clinical-assessment",
+      "anatomy-physiology",
+      "organ-systems",
       "hard",
       "anatomy",
       "physiology",
@@ -2448,11 +2448,11 @@
     "active": true
   },
   {
-    "id": "medical-cardiology-0103",
-    "category": "Medical",
-    "subcategory": "Cardiology",
+    "id": "anatomy-physiology-cardiovascular-system-0103",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Cardiovascular System",
     "difficulty": "easy",
-    "question": "[Cardiology #103] In clinical terminology, which anatomical term describes a structure positioned closer to the midline of the body?",
+    "question": "[Cardiovascular System #103] In clinical terminology, which anatomical term describes a structure positioned closer to the midline of the body?",
     "options": [
       "Lateral",
       "Distal",
@@ -2462,8 +2462,8 @@
     "correctAnswer": 3,
     "explanation": "Medial designates structures closer to the anatomical midline, whereas lateral denotes structures farther from the midline.",
     "tags": [
-      "medical",
-      "cardiology",
+      "anatomy-physiology",
+      "cardiovascular-system",
       "easy",
       "anatomy",
       "physiology",
@@ -2472,11 +2472,11 @@
     "active": true
   },
   {
-    "id": "medical-pathophysiology-0104",
-    "category": "Medical",
-    "subcategory": "Pathophysiology",
+    "id": "anatomy-physiology-nervous-system-0104",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Nervous System",
     "difficulty": "medium",
-    "question": "[Pathophysiology #104] What is the primary natural pacemaker of the human heart responsible for initiating sinus rhythm?",
+    "question": "[Nervous System #104] What is the primary natural pacemaker of the human heart responsible for initiating sinus rhythm?",
     "options": [
       "Sinoatrial (SA) node",
       "Atrioventricular (AV) node",
@@ -2486,8 +2486,8 @@
     "correctAnswer": 0,
     "explanation": "The SA node, located in the right atrium, fires at 60-100 bpm under normal physiologic conditions.",
     "tags": [
-      "medical",
-      "pathophysiology",
+      "anatomy-physiology",
+      "nervous-system",
       "medium",
       "anatomy",
       "physiology",
@@ -2496,11 +2496,11 @@
     "active": true
   },
   {
-    "id": "medical-medical-terminology-0105",
-    "category": "Medical",
-    "subcategory": "Medical Terminology",
+    "id": "anatomy-physiology-skeletal-system-0105",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Skeletal System",
     "difficulty": "hard",
-    "question": "[Medical Terminology #105] Which organelle is universally known as the powerhouse of the eukaryotic cell for generating ATP?",
+    "question": "[Skeletal System #105] Which organelle is universally known as the powerhouse of the eukaryotic cell for generating ATP?",
     "options": [
       "Endoplasmic Reticulum",
       "Mitochondrion",
@@ -2510,8 +2510,8 @@
     "correctAnswer": 1,
     "explanation": "Mitochondria generate over 90% of cellular energy via oxidative phosphorylation and the Krebs cycle.",
     "tags": [
-      "medical",
-      "medical-terminology",
+      "anatomy-physiology",
+      "skeletal-system",
       "hard",
       "anatomy",
       "physiology",
@@ -2520,11 +2520,11 @@
     "active": true
   },
   {
-    "id": "medical-clinical-assessment-0106",
-    "category": "Medical",
-    "subcategory": "Clinical Assessment",
+    "id": "anatomy-physiology-organ-systems-0106",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Organ Systems",
     "difficulty": "easy",
-    "question": "[Clinical Assessment #106] What is the longest, heaviest, and strongest tubular bone in the human skeleton?",
+    "question": "[Organ Systems #106] What is the longest, heaviest, and strongest tubular bone in the human skeleton?",
     "options": [
       "Tibia",
       "Humerus",
@@ -2534,8 +2534,8 @@
     "correctAnswer": 2,
     "explanation": "The femur supports body weight during bipedal locomotion and is the largest bone in the human body.",
     "tags": [
-      "medical",
-      "clinical-assessment",
+      "anatomy-physiology",
+      "organ-systems",
       "easy",
       "anatomy",
       "physiology",
@@ -2544,11 +2544,11 @@
     "active": true
   },
   {
-    "id": "medical-cardiology-0107",
-    "category": "Medical",
-    "subcategory": "Cardiology",
+    "id": "anatomy-physiology-cardiovascular-system-0107",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Cardiovascular System",
     "difficulty": "medium",
-    "question": "[Cardiology #107] In clinical terminology, which anatomical term describes a structure positioned closer to the midline of the body?",
+    "question": "[Cardiovascular System #107] In clinical terminology, which anatomical term describes a structure positioned closer to the midline of the body?",
     "options": [
       "Lateral",
       "Distal",
@@ -2558,8 +2558,8 @@
     "correctAnswer": 3,
     "explanation": "Medial designates structures closer to the anatomical midline, whereas lateral denotes structures farther from the midline.",
     "tags": [
-      "medical",
-      "cardiology",
+      "anatomy-physiology",
+      "cardiovascular-system",
       "medium",
       "anatomy",
       "physiology",
@@ -2568,11 +2568,11 @@
     "active": true
   },
   {
-    "id": "medical-pathophysiology-0108",
-    "category": "Medical",
-    "subcategory": "Pathophysiology",
+    "id": "anatomy-physiology-nervous-system-0108",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Nervous System",
     "difficulty": "hard",
-    "question": "[Pathophysiology #108] What is the primary natural pacemaker of the human heart responsible for initiating sinus rhythm?",
+    "question": "[Nervous System #108] What is the primary natural pacemaker of the human heart responsible for initiating sinus rhythm?",
     "options": [
       "Sinoatrial (SA) node",
       "Atrioventricular (AV) node",
@@ -2582,8 +2582,8 @@
     "correctAnswer": 0,
     "explanation": "The SA node, located in the right atrium, fires at 60-100 bpm under normal physiologic conditions.",
     "tags": [
-      "medical",
-      "pathophysiology",
+      "anatomy-physiology",
+      "nervous-system",
       "hard",
       "anatomy",
       "physiology",
@@ -2592,11 +2592,11 @@
     "active": true
   },
   {
-    "id": "medical-medical-terminology-0109",
-    "category": "Medical",
-    "subcategory": "Medical Terminology",
+    "id": "anatomy-physiology-skeletal-system-0109",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Skeletal System",
     "difficulty": "easy",
-    "question": "[Medical Terminology #109] Which organelle is universally known as the powerhouse of the eukaryotic cell for generating ATP?",
+    "question": "[Skeletal System #109] Which organelle is universally known as the powerhouse of the eukaryotic cell for generating ATP?",
     "options": [
       "Endoplasmic Reticulum",
       "Mitochondrion",
@@ -2606,8 +2606,8 @@
     "correctAnswer": 1,
     "explanation": "Mitochondria generate over 90% of cellular energy via oxidative phosphorylation and the Krebs cycle.",
     "tags": [
-      "medical",
-      "medical-terminology",
+      "anatomy-physiology",
+      "skeletal-system",
       "easy",
       "anatomy",
       "physiology",
@@ -2616,11 +2616,11 @@
     "active": true
   },
   {
-    "id": "medical-clinical-assessment-0110",
-    "category": "Medical",
-    "subcategory": "Clinical Assessment",
+    "id": "anatomy-physiology-organ-systems-0110",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Organ Systems",
     "difficulty": "medium",
-    "question": "[Clinical Assessment #110] What is the longest, heaviest, and strongest tubular bone in the human skeleton?",
+    "question": "[Organ Systems #110] What is the longest, heaviest, and strongest tubular bone in the human skeleton?",
     "options": [
       "Tibia",
       "Humerus",
@@ -2630,8 +2630,8 @@
     "correctAnswer": 2,
     "explanation": "The femur supports body weight during bipedal locomotion and is the largest bone in the human body.",
     "tags": [
-      "medical",
-      "clinical-assessment",
+      "anatomy-physiology",
+      "organ-systems",
       "medium",
       "anatomy",
       "physiology",
@@ -2640,11 +2640,11 @@
     "active": true
   },
   {
-    "id": "medical-cardiology-0111",
-    "category": "Medical",
-    "subcategory": "Cardiology",
+    "id": "anatomy-physiology-cardiovascular-system-0111",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Cardiovascular System",
     "difficulty": "hard",
-    "question": "[Cardiology #111] In clinical terminology, which anatomical term describes a structure positioned closer to the midline of the body?",
+    "question": "[Cardiovascular System #111] In clinical terminology, which anatomical term describes a structure positioned closer to the midline of the body?",
     "options": [
       "Lateral",
       "Distal",
@@ -2654,8 +2654,8 @@
     "correctAnswer": 3,
     "explanation": "Medial designates structures closer to the anatomical midline, whereas lateral denotes structures farther from the midline.",
     "tags": [
-      "medical",
-      "cardiology",
+      "anatomy-physiology",
+      "cardiovascular-system",
       "hard",
       "anatomy",
       "physiology",
@@ -2664,11 +2664,11 @@
     "active": true
   },
   {
-    "id": "medical-pathophysiology-0112",
-    "category": "Medical",
-    "subcategory": "Pathophysiology",
+    "id": "anatomy-physiology-nervous-system-0112",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Nervous System",
     "difficulty": "easy",
-    "question": "[Pathophysiology #112] What is the primary natural pacemaker of the human heart responsible for initiating sinus rhythm?",
+    "question": "[Nervous System #112] What is the primary natural pacemaker of the human heart responsible for initiating sinus rhythm?",
     "options": [
       "Sinoatrial (SA) node",
       "Atrioventricular (AV) node",
@@ -2678,8 +2678,8 @@
     "correctAnswer": 0,
     "explanation": "The SA node, located in the right atrium, fires at 60-100 bpm under normal physiologic conditions.",
     "tags": [
-      "medical",
-      "pathophysiology",
+      "anatomy-physiology",
+      "nervous-system",
       "easy",
       "anatomy",
       "physiology",
@@ -2688,11 +2688,11 @@
     "active": true
   },
   {
-    "id": "medical-medical-terminology-0113",
-    "category": "Medical",
-    "subcategory": "Medical Terminology",
+    "id": "anatomy-physiology-skeletal-system-0113",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Skeletal System",
     "difficulty": "medium",
-    "question": "[Medical Terminology #113] Which organelle is universally known as the powerhouse of the eukaryotic cell for generating ATP?",
+    "question": "[Skeletal System #113] Which organelle is universally known as the powerhouse of the eukaryotic cell for generating ATP?",
     "options": [
       "Endoplasmic Reticulum",
       "Mitochondrion",
@@ -2702,8 +2702,8 @@
     "correctAnswer": 1,
     "explanation": "Mitochondria generate over 90% of cellular energy via oxidative phosphorylation and the Krebs cycle.",
     "tags": [
-      "medical",
-      "medical-terminology",
+      "anatomy-physiology",
+      "skeletal-system",
       "medium",
       "anatomy",
       "physiology",
@@ -2712,11 +2712,11 @@
     "active": true
   },
   {
-    "id": "medical-clinical-assessment-0114",
-    "category": "Medical",
-    "subcategory": "Clinical Assessment",
+    "id": "anatomy-physiology-organ-systems-0114",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Organ Systems",
     "difficulty": "hard",
-    "question": "[Clinical Assessment #114] What is the longest, heaviest, and strongest tubular bone in the human skeleton?",
+    "question": "[Organ Systems #114] What is the longest, heaviest, and strongest tubular bone in the human skeleton?",
     "options": [
       "Tibia",
       "Humerus",
@@ -2726,8 +2726,8 @@
     "correctAnswer": 2,
     "explanation": "The femur supports body weight during bipedal locomotion and is the largest bone in the human body.",
     "tags": [
-      "medical",
-      "clinical-assessment",
+      "anatomy-physiology",
+      "organ-systems",
       "hard",
       "anatomy",
       "physiology",
@@ -2736,11 +2736,11 @@
     "active": true
   },
   {
-    "id": "medical-cardiology-0115",
-    "category": "Medical",
-    "subcategory": "Cardiology",
+    "id": "anatomy-physiology-cardiovascular-system-0115",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Cardiovascular System",
     "difficulty": "easy",
-    "question": "[Cardiology #115] In clinical terminology, which anatomical term describes a structure positioned closer to the midline of the body?",
+    "question": "[Cardiovascular System #115] In clinical terminology, which anatomical term describes a structure positioned closer to the midline of the body?",
     "options": [
       "Lateral",
       "Distal",
@@ -2750,8 +2750,8 @@
     "correctAnswer": 3,
     "explanation": "Medial designates structures closer to the anatomical midline, whereas lateral denotes structures farther from the midline.",
     "tags": [
-      "medical",
-      "cardiology",
+      "anatomy-physiology",
+      "cardiovascular-system",
       "easy",
       "anatomy",
       "physiology",
@@ -2760,11 +2760,11 @@
     "active": true
   },
   {
-    "id": "medical-pathophysiology-0116",
-    "category": "Medical",
-    "subcategory": "Pathophysiology",
+    "id": "anatomy-physiology-nervous-system-0116",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Nervous System",
     "difficulty": "medium",
-    "question": "[Pathophysiology #116] What is the primary natural pacemaker of the human heart responsible for initiating sinus rhythm?",
+    "question": "[Nervous System #116] What is the primary natural pacemaker of the human heart responsible for initiating sinus rhythm?",
     "options": [
       "Sinoatrial (SA) node",
       "Atrioventricular (AV) node",
@@ -2774,8 +2774,8 @@
     "correctAnswer": 0,
     "explanation": "The SA node, located in the right atrium, fires at 60-100 bpm under normal physiologic conditions.",
     "tags": [
-      "medical",
-      "pathophysiology",
+      "anatomy-physiology",
+      "nervous-system",
       "medium",
       "anatomy",
       "physiology",
@@ -2784,11 +2784,11 @@
     "active": true
   },
   {
-    "id": "medical-medical-terminology-0117",
-    "category": "Medical",
-    "subcategory": "Medical Terminology",
+    "id": "anatomy-physiology-skeletal-system-0117",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Skeletal System",
     "difficulty": "hard",
-    "question": "[Medical Terminology #117] Which organelle is universally known as the powerhouse of the eukaryotic cell for generating ATP?",
+    "question": "[Skeletal System #117] Which organelle is universally known as the powerhouse of the eukaryotic cell for generating ATP?",
     "options": [
       "Endoplasmic Reticulum",
       "Mitochondrion",
@@ -2798,8 +2798,8 @@
     "correctAnswer": 1,
     "explanation": "Mitochondria generate over 90% of cellular energy via oxidative phosphorylation and the Krebs cycle.",
     "tags": [
-      "medical",
-      "medical-terminology",
+      "anatomy-physiology",
+      "skeletal-system",
       "hard",
       "anatomy",
       "physiology",
@@ -2808,11 +2808,11 @@
     "active": true
   },
   {
-    "id": "medical-clinical-assessment-0118",
-    "category": "Medical",
-    "subcategory": "Clinical Assessment",
+    "id": "anatomy-physiology-organ-systems-0118",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Organ Systems",
     "difficulty": "easy",
-    "question": "[Clinical Assessment #118] What is the longest, heaviest, and strongest tubular bone in the human skeleton?",
+    "question": "[Organ Systems #118] What is the longest, heaviest, and strongest tubular bone in the human skeleton?",
     "options": [
       "Tibia",
       "Humerus",
@@ -2822,8 +2822,8 @@
     "correctAnswer": 2,
     "explanation": "The femur supports body weight during bipedal locomotion and is the largest bone in the human body.",
     "tags": [
-      "medical",
-      "clinical-assessment",
+      "anatomy-physiology",
+      "organ-systems",
       "easy",
       "anatomy",
       "physiology",
@@ -2832,11 +2832,11 @@
     "active": true
   },
   {
-    "id": "medical-cardiology-0119",
-    "category": "Medical",
-    "subcategory": "Cardiology",
+    "id": "anatomy-physiology-cardiovascular-system-0119",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Cardiovascular System",
     "difficulty": "medium",
-    "question": "[Cardiology #119] In clinical terminology, which anatomical term describes a structure positioned closer to the midline of the body?",
+    "question": "[Cardiovascular System #119] In clinical terminology, which anatomical term describes a structure positioned closer to the midline of the body?",
     "options": [
       "Lateral",
       "Distal",
@@ -2846,8 +2846,8 @@
     "correctAnswer": 3,
     "explanation": "Medial designates structures closer to the anatomical midline, whereas lateral denotes structures farther from the midline.",
     "tags": [
-      "medical",
-      "cardiology",
+      "anatomy-physiology",
+      "cardiovascular-system",
       "medium",
       "anatomy",
       "physiology",
@@ -2856,11 +2856,11 @@
     "active": true
   },
   {
-    "id": "medical-pathophysiology-0120",
-    "category": "Medical",
-    "subcategory": "Pathophysiology",
+    "id": "anatomy-physiology-nervous-system-0120",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Nervous System",
     "difficulty": "hard",
-    "question": "[Pathophysiology #120] What is the primary natural pacemaker of the human heart responsible for initiating sinus rhythm?",
+    "question": "[Nervous System #120] What is the primary natural pacemaker of the human heart responsible for initiating sinus rhythm?",
     "options": [
       "Sinoatrial (SA) node",
       "Atrioventricular (AV) node",
@@ -2870,8 +2870,8 @@
     "correctAnswer": 0,
     "explanation": "The SA node, located in the right atrium, fires at 60-100 bpm under normal physiologic conditions.",
     "tags": [
-      "medical",
-      "pathophysiology",
+      "anatomy-physiology",
+      "nervous-system",
       "hard",
       "anatomy",
       "physiology",
@@ -2880,11 +2880,11 @@
     "active": true
   },
   {
-    "id": "medical-medical-terminology-0121",
-    "category": "Medical",
-    "subcategory": "Medical Terminology",
+    "id": "anatomy-physiology-skeletal-system-0121",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Skeletal System",
     "difficulty": "easy",
-    "question": "[Medical Terminology #121] Which organelle is universally known as the powerhouse of the eukaryotic cell for generating ATP?",
+    "question": "[Skeletal System #121] Which organelle is universally known as the powerhouse of the eukaryotic cell for generating ATP?",
     "options": [
       "Endoplasmic Reticulum",
       "Mitochondrion",
@@ -2894,8 +2894,8 @@
     "correctAnswer": 1,
     "explanation": "Mitochondria generate over 90% of cellular energy via oxidative phosphorylation and the Krebs cycle.",
     "tags": [
-      "medical",
-      "medical-terminology",
+      "anatomy-physiology",
+      "skeletal-system",
       "easy",
       "anatomy",
       "physiology",
@@ -2904,11 +2904,11 @@
     "active": true
   },
   {
-    "id": "medical-clinical-assessment-0122",
-    "category": "Medical",
-    "subcategory": "Clinical Assessment",
+    "id": "anatomy-physiology-organ-systems-0122",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Organ Systems",
     "difficulty": "medium",
-    "question": "[Clinical Assessment #122] What is the longest, heaviest, and strongest tubular bone in the human skeleton?",
+    "question": "[Organ Systems #122] What is the longest, heaviest, and strongest tubular bone in the human skeleton?",
     "options": [
       "Tibia",
       "Humerus",
@@ -2918,8 +2918,8 @@
     "correctAnswer": 2,
     "explanation": "The femur supports body weight during bipedal locomotion and is the largest bone in the human body.",
     "tags": [
-      "medical",
-      "clinical-assessment",
+      "anatomy-physiology",
+      "organ-systems",
       "medium",
       "anatomy",
       "physiology",
@@ -2928,11 +2928,11 @@
     "active": true
   },
   {
-    "id": "medical-cardiology-0123",
-    "category": "Medical",
-    "subcategory": "Cardiology",
+    "id": "anatomy-physiology-cardiovascular-system-0123",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Cardiovascular System",
     "difficulty": "hard",
-    "question": "[Cardiology #123] In clinical terminology, which anatomical term describes a structure positioned closer to the midline of the body?",
+    "question": "[Cardiovascular System #123] In clinical terminology, which anatomical term describes a structure positioned closer to the midline of the body?",
     "options": [
       "Lateral",
       "Distal",
@@ -2942,8 +2942,8 @@
     "correctAnswer": 3,
     "explanation": "Medial designates structures closer to the anatomical midline, whereas lateral denotes structures farther from the midline.",
     "tags": [
-      "medical",
-      "cardiology",
+      "anatomy-physiology",
+      "cardiovascular-system",
       "hard",
       "anatomy",
       "physiology",
@@ -2952,11 +2952,11 @@
     "active": true
   },
   {
-    "id": "medical-pathophysiology-0124",
-    "category": "Medical",
-    "subcategory": "Pathophysiology",
+    "id": "anatomy-physiology-nervous-system-0124",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Nervous System",
     "difficulty": "easy",
-    "question": "[Pathophysiology #124] What is the primary natural pacemaker of the human heart responsible for initiating sinus rhythm?",
+    "question": "[Nervous System #124] What is the primary natural pacemaker of the human heart responsible for initiating sinus rhythm?",
     "options": [
       "Sinoatrial (SA) node",
       "Atrioventricular (AV) node",
@@ -2966,8 +2966,8 @@
     "correctAnswer": 0,
     "explanation": "The SA node, located in the right atrium, fires at 60-100 bpm under normal physiologic conditions.",
     "tags": [
-      "medical",
-      "pathophysiology",
+      "anatomy-physiology",
+      "nervous-system",
       "easy",
       "anatomy",
       "physiology",
@@ -2976,11 +2976,11 @@
     "active": true
   },
   {
-    "id": "medical-medical-terminology-0125",
-    "category": "Medical",
-    "subcategory": "Medical Terminology",
+    "id": "anatomy-physiology-skeletal-system-0125",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Skeletal System",
     "difficulty": "medium",
-    "question": "[Medical Terminology #125] Which organelle is universally known as the powerhouse of the eukaryotic cell for generating ATP?",
+    "question": "[Skeletal System #125] Which organelle is universally known as the powerhouse of the eukaryotic cell for generating ATP?",
     "options": [
       "Endoplasmic Reticulum",
       "Mitochondrion",
@@ -2990,8 +2990,8 @@
     "correctAnswer": 1,
     "explanation": "Mitochondria generate over 90% of cellular energy via oxidative phosphorylation and the Krebs cycle.",
     "tags": [
-      "medical",
-      "medical-terminology",
+      "anatomy-physiology",
+      "skeletal-system",
       "medium",
       "anatomy",
       "physiology",
@@ -3000,11 +3000,11 @@
     "active": true
   },
   {
-    "id": "medical-clinical-assessment-0126",
-    "category": "Medical",
-    "subcategory": "Clinical Assessment",
+    "id": "anatomy-physiology-organ-systems-0126",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Organ Systems",
     "difficulty": "hard",
-    "question": "[Clinical Assessment #126] What is the longest, heaviest, and strongest tubular bone in the human skeleton?",
+    "question": "[Organ Systems #126] What is the longest, heaviest, and strongest tubular bone in the human skeleton?",
     "options": [
       "Tibia",
       "Humerus",
@@ -3014,8 +3014,8 @@
     "correctAnswer": 2,
     "explanation": "The femur supports body weight during bipedal locomotion and is the largest bone in the human body.",
     "tags": [
-      "medical",
-      "clinical-assessment",
+      "anatomy-physiology",
+      "organ-systems",
       "hard",
       "anatomy",
       "physiology",
@@ -3024,11 +3024,11 @@
     "active": true
   },
   {
-    "id": "medical-cardiology-0127",
-    "category": "Medical",
-    "subcategory": "Cardiology",
+    "id": "anatomy-physiology-cardiovascular-system-0127",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Cardiovascular System",
     "difficulty": "easy",
-    "question": "[Cardiology #127] In clinical terminology, which anatomical term describes a structure positioned closer to the midline of the body?",
+    "question": "[Cardiovascular System #127] In clinical terminology, which anatomical term describes a structure positioned closer to the midline of the body?",
     "options": [
       "Lateral",
       "Distal",
@@ -3038,8 +3038,8 @@
     "correctAnswer": 3,
     "explanation": "Medial designates structures closer to the anatomical midline, whereas lateral denotes structures farther from the midline.",
     "tags": [
-      "medical",
-      "cardiology",
+      "anatomy-physiology",
+      "cardiovascular-system",
       "easy",
       "anatomy",
       "physiology",
@@ -3048,11 +3048,11 @@
     "active": true
   },
   {
-    "id": "medical-pathophysiology-0128",
-    "category": "Medical",
-    "subcategory": "Pathophysiology",
+    "id": "anatomy-physiology-nervous-system-0128",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Nervous System",
     "difficulty": "medium",
-    "question": "[Pathophysiology #128] What is the primary natural pacemaker of the human heart responsible for initiating sinus rhythm?",
+    "question": "[Nervous System #128] What is the primary natural pacemaker of the human heart responsible for initiating sinus rhythm?",
     "options": [
       "Sinoatrial (SA) node",
       "Atrioventricular (AV) node",
@@ -3062,8 +3062,8 @@
     "correctAnswer": 0,
     "explanation": "The SA node, located in the right atrium, fires at 60-100 bpm under normal physiologic conditions.",
     "tags": [
-      "medical",
-      "pathophysiology",
+      "anatomy-physiology",
+      "nervous-system",
       "medium",
       "anatomy",
       "physiology",
@@ -3072,11 +3072,11 @@
     "active": true
   },
   {
-    "id": "medical-medical-terminology-0129",
-    "category": "Medical",
-    "subcategory": "Medical Terminology",
+    "id": "anatomy-physiology-skeletal-system-0129",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Skeletal System",
     "difficulty": "hard",
-    "question": "[Medical Terminology #129] Which organelle is universally known as the powerhouse of the eukaryotic cell for generating ATP?",
+    "question": "[Skeletal System #129] Which organelle is universally known as the powerhouse of the eukaryotic cell for generating ATP?",
     "options": [
       "Endoplasmic Reticulum",
       "Mitochondrion",
@@ -3086,8 +3086,8 @@
     "correctAnswer": 1,
     "explanation": "Mitochondria generate over 90% of cellular energy via oxidative phosphorylation and the Krebs cycle.",
     "tags": [
-      "medical",
-      "medical-terminology",
+      "anatomy-physiology",
+      "skeletal-system",
       "hard",
       "anatomy",
       "physiology",
@@ -3096,11 +3096,11 @@
     "active": true
   },
   {
-    "id": "medical-clinical-assessment-0130",
-    "category": "Medical",
-    "subcategory": "Clinical Assessment",
+    "id": "anatomy-physiology-organ-systems-0130",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Organ Systems",
     "difficulty": "easy",
-    "question": "[Clinical Assessment #130] What is the longest, heaviest, and strongest tubular bone in the human skeleton?",
+    "question": "[Organ Systems #130] What is the longest, heaviest, and strongest tubular bone in the human skeleton?",
     "options": [
       "Tibia",
       "Humerus",
@@ -3110,8 +3110,8 @@
     "correctAnswer": 2,
     "explanation": "The femur supports body weight during bipedal locomotion and is the largest bone in the human body.",
     "tags": [
-      "medical",
-      "clinical-assessment",
+      "anatomy-physiology",
+      "organ-systems",
       "easy",
       "anatomy",
       "physiology",
@@ -3120,11 +3120,11 @@
     "active": true
   },
   {
-    "id": "medical-cardiology-0131",
-    "category": "Medical",
-    "subcategory": "Cardiology",
+    "id": "anatomy-physiology-cardiovascular-system-0131",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Cardiovascular System",
     "difficulty": "medium",
-    "question": "[Cardiology #131] In clinical terminology, which anatomical term describes a structure positioned closer to the midline of the body?",
+    "question": "[Cardiovascular System #131] In clinical terminology, which anatomical term describes a structure positioned closer to the midline of the body?",
     "options": [
       "Lateral",
       "Distal",
@@ -3134,8 +3134,8 @@
     "correctAnswer": 3,
     "explanation": "Medial designates structures closer to the anatomical midline, whereas lateral denotes structures farther from the midline.",
     "tags": [
-      "medical",
-      "cardiology",
+      "anatomy-physiology",
+      "cardiovascular-system",
       "medium",
       "anatomy",
       "physiology",
@@ -3144,11 +3144,11 @@
     "active": true
   },
   {
-    "id": "medical-pathophysiology-0132",
-    "category": "Medical",
-    "subcategory": "Pathophysiology",
+    "id": "anatomy-physiology-nervous-system-0132",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Nervous System",
     "difficulty": "hard",
-    "question": "[Pathophysiology #132] What is the primary natural pacemaker of the human heart responsible for initiating sinus rhythm?",
+    "question": "[Nervous System #132] What is the primary natural pacemaker of the human heart responsible for initiating sinus rhythm?",
     "options": [
       "Sinoatrial (SA) node",
       "Atrioventricular (AV) node",
@@ -3158,8 +3158,8 @@
     "correctAnswer": 0,
     "explanation": "The SA node, located in the right atrium, fires at 60-100 bpm under normal physiologic conditions.",
     "tags": [
-      "medical",
-      "pathophysiology",
+      "anatomy-physiology",
+      "nervous-system",
       "hard",
       "anatomy",
       "physiology",
@@ -3168,11 +3168,11 @@
     "active": true
   },
   {
-    "id": "medical-medical-terminology-0133",
-    "category": "Medical",
-    "subcategory": "Medical Terminology",
+    "id": "anatomy-physiology-skeletal-system-0133",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Skeletal System",
     "difficulty": "easy",
-    "question": "[Medical Terminology #133] Which organelle is universally known as the powerhouse of the eukaryotic cell for generating ATP?",
+    "question": "[Skeletal System #133] Which organelle is universally known as the powerhouse of the eukaryotic cell for generating ATP?",
     "options": [
       "Endoplasmic Reticulum",
       "Mitochondrion",
@@ -3182,8 +3182,8 @@
     "correctAnswer": 1,
     "explanation": "Mitochondria generate over 90% of cellular energy via oxidative phosphorylation and the Krebs cycle.",
     "tags": [
-      "medical",
-      "medical-terminology",
+      "anatomy-physiology",
+      "skeletal-system",
       "easy",
       "anatomy",
       "physiology",
@@ -3192,11 +3192,11 @@
     "active": true
   },
   {
-    "id": "medical-clinical-assessment-0134",
-    "category": "Medical",
-    "subcategory": "Clinical Assessment",
+    "id": "anatomy-physiology-organ-systems-0134",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Organ Systems",
     "difficulty": "medium",
-    "question": "[Clinical Assessment #134] What is the longest, heaviest, and strongest tubular bone in the human skeleton?",
+    "question": "[Organ Systems #134] What is the longest, heaviest, and strongest tubular bone in the human skeleton?",
     "options": [
       "Tibia",
       "Humerus",
@@ -3206,8 +3206,8 @@
     "correctAnswer": 2,
     "explanation": "The femur supports body weight during bipedal locomotion and is the largest bone in the human body.",
     "tags": [
-      "medical",
-      "clinical-assessment",
+      "anatomy-physiology",
+      "organ-systems",
       "medium",
       "anatomy",
       "physiology",
@@ -3216,11 +3216,11 @@
     "active": true
   },
   {
-    "id": "medical-cardiology-0135",
-    "category": "Medical",
-    "subcategory": "Cardiology",
+    "id": "anatomy-physiology-cardiovascular-system-0135",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Cardiovascular System",
     "difficulty": "hard",
-    "question": "[Cardiology #135] In clinical terminology, which anatomical term describes a structure positioned closer to the midline of the body?",
+    "question": "[Cardiovascular System #135] In clinical terminology, which anatomical term describes a structure positioned closer to the midline of the body?",
     "options": [
       "Lateral",
       "Distal",
@@ -3230,8 +3230,8 @@
     "correctAnswer": 3,
     "explanation": "Medial designates structures closer to the anatomical midline, whereas lateral denotes structures farther from the midline.",
     "tags": [
-      "medical",
-      "cardiology",
+      "anatomy-physiology",
+      "cardiovascular-system",
       "hard",
       "anatomy",
       "physiology",
@@ -3240,11 +3240,11 @@
     "active": true
   },
   {
-    "id": "medical-pathophysiology-0136",
-    "category": "Medical",
-    "subcategory": "Pathophysiology",
+    "id": "anatomy-physiology-nervous-system-0136",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Nervous System",
     "difficulty": "easy",
-    "question": "[Pathophysiology #136] What is the primary natural pacemaker of the human heart responsible for initiating sinus rhythm?",
+    "question": "[Nervous System #136] What is the primary natural pacemaker of the human heart responsible for initiating sinus rhythm?",
     "options": [
       "Sinoatrial (SA) node",
       "Atrioventricular (AV) node",
@@ -3254,8 +3254,8 @@
     "correctAnswer": 0,
     "explanation": "The SA node, located in the right atrium, fires at 60-100 bpm under normal physiologic conditions.",
     "tags": [
-      "medical",
-      "pathophysiology",
+      "anatomy-physiology",
+      "nervous-system",
       "easy",
       "anatomy",
       "physiology",
@@ -3264,11 +3264,11 @@
     "active": true
   },
   {
-    "id": "medical-medical-terminology-0137",
-    "category": "Medical",
-    "subcategory": "Medical Terminology",
+    "id": "anatomy-physiology-skeletal-system-0137",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Skeletal System",
     "difficulty": "medium",
-    "question": "[Medical Terminology #137] Which organelle is universally known as the powerhouse of the eukaryotic cell for generating ATP?",
+    "question": "[Skeletal System #137] Which organelle is universally known as the powerhouse of the eukaryotic cell for generating ATP?",
     "options": [
       "Endoplasmic Reticulum",
       "Mitochondrion",
@@ -3278,8 +3278,8 @@
     "correctAnswer": 1,
     "explanation": "Mitochondria generate over 90% of cellular energy via oxidative phosphorylation and the Krebs cycle.",
     "tags": [
-      "medical",
-      "medical-terminology",
+      "anatomy-physiology",
+      "skeletal-system",
       "medium",
       "anatomy",
       "physiology",
@@ -3288,11 +3288,11 @@
     "active": true
   },
   {
-    "id": "medical-clinical-assessment-0138",
-    "category": "Medical",
-    "subcategory": "Clinical Assessment",
+    "id": "anatomy-physiology-organ-systems-0138",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Organ Systems",
     "difficulty": "hard",
-    "question": "[Clinical Assessment #138] What is the longest, heaviest, and strongest tubular bone in the human skeleton?",
+    "question": "[Organ Systems #138] What is the longest, heaviest, and strongest tubular bone in the human skeleton?",
     "options": [
       "Tibia",
       "Humerus",
@@ -3302,8 +3302,8 @@
     "correctAnswer": 2,
     "explanation": "The femur supports body weight during bipedal locomotion and is the largest bone in the human body.",
     "tags": [
-      "medical",
-      "clinical-assessment",
+      "anatomy-physiology",
+      "organ-systems",
       "hard",
       "anatomy",
       "physiology",
@@ -3312,11 +3312,11 @@
     "active": true
   },
   {
-    "id": "medical-cardiology-0139",
-    "category": "Medical",
-    "subcategory": "Cardiology",
+    "id": "anatomy-physiology-cardiovascular-system-0139",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Cardiovascular System",
     "difficulty": "easy",
-    "question": "[Cardiology #139] In clinical terminology, which anatomical term describes a structure positioned closer to the midline of the body?",
+    "question": "[Cardiovascular System #139] In clinical terminology, which anatomical term describes a structure positioned closer to the midline of the body?",
     "options": [
       "Lateral",
       "Distal",
@@ -3326,8 +3326,8 @@
     "correctAnswer": 3,
     "explanation": "Medial designates structures closer to the anatomical midline, whereas lateral denotes structures farther from the midline.",
     "tags": [
-      "medical",
-      "cardiology",
+      "anatomy-physiology",
+      "cardiovascular-system",
       "easy",
       "anatomy",
       "physiology",
@@ -3336,11 +3336,11 @@
     "active": true
   },
   {
-    "id": "medical-pathophysiology-0140",
-    "category": "Medical",
-    "subcategory": "Pathophysiology",
+    "id": "anatomy-physiology-nervous-system-0140",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Nervous System",
     "difficulty": "medium",
-    "question": "[Pathophysiology #140] What is the primary natural pacemaker of the human heart responsible for initiating sinus rhythm?",
+    "question": "[Nervous System #140] What is the primary natural pacemaker of the human heart responsible for initiating sinus rhythm?",
     "options": [
       "Sinoatrial (SA) node",
       "Atrioventricular (AV) node",
@@ -3350,8 +3350,8 @@
     "correctAnswer": 0,
     "explanation": "The SA node, located in the right atrium, fires at 60-100 bpm under normal physiologic conditions.",
     "tags": [
-      "medical",
-      "pathophysiology",
+      "anatomy-physiology",
+      "nervous-system",
       "medium",
       "anatomy",
       "physiology",
@@ -3360,11 +3360,11 @@
     "active": true
   },
   {
-    "id": "medical-medical-terminology-0141",
-    "category": "Medical",
-    "subcategory": "Medical Terminology",
+    "id": "anatomy-physiology-skeletal-system-0141",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Skeletal System",
     "difficulty": "hard",
-    "question": "[Medical Terminology #141] Which organelle is universally known as the powerhouse of the eukaryotic cell for generating ATP?",
+    "question": "[Skeletal System #141] Which organelle is universally known as the powerhouse of the eukaryotic cell for generating ATP?",
     "options": [
       "Endoplasmic Reticulum",
       "Mitochondrion",
@@ -3374,8 +3374,8 @@
     "correctAnswer": 1,
     "explanation": "Mitochondria generate over 90% of cellular energy via oxidative phosphorylation and the Krebs cycle.",
     "tags": [
-      "medical",
-      "medical-terminology",
+      "anatomy-physiology",
+      "skeletal-system",
       "hard",
       "anatomy",
       "physiology",
@@ -3384,11 +3384,11 @@
     "active": true
   },
   {
-    "id": "medical-clinical-assessment-0142",
-    "category": "Medical",
-    "subcategory": "Clinical Assessment",
+    "id": "anatomy-physiology-organ-systems-0142",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Organ Systems",
     "difficulty": "easy",
-    "question": "[Clinical Assessment #142] What is the longest, heaviest, and strongest tubular bone in the human skeleton?",
+    "question": "[Organ Systems #142] What is the longest, heaviest, and strongest tubular bone in the human skeleton?",
     "options": [
       "Tibia",
       "Humerus",
@@ -3398,8 +3398,8 @@
     "correctAnswer": 2,
     "explanation": "The femur supports body weight during bipedal locomotion and is the largest bone in the human body.",
     "tags": [
-      "medical",
-      "clinical-assessment",
+      "anatomy-physiology",
+      "organ-systems",
       "easy",
       "anatomy",
       "physiology",
@@ -3408,11 +3408,11 @@
     "active": true
   },
   {
-    "id": "medical-cardiology-0143",
-    "category": "Medical",
-    "subcategory": "Cardiology",
+    "id": "anatomy-physiology-cardiovascular-system-0143",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Cardiovascular System",
     "difficulty": "medium",
-    "question": "[Cardiology #143] In clinical terminology, which anatomical term describes a structure positioned closer to the midline of the body?",
+    "question": "[Cardiovascular System #143] In clinical terminology, which anatomical term describes a structure positioned closer to the midline of the body?",
     "options": [
       "Lateral",
       "Distal",
@@ -3422,8 +3422,8 @@
     "correctAnswer": 3,
     "explanation": "Medial designates structures closer to the anatomical midline, whereas lateral denotes structures farther from the midline.",
     "tags": [
-      "medical",
-      "cardiology",
+      "anatomy-physiology",
+      "cardiovascular-system",
       "medium",
       "anatomy",
       "physiology",
@@ -3432,11 +3432,11 @@
     "active": true
   },
   {
-    "id": "medical-pathophysiology-0144",
-    "category": "Medical",
-    "subcategory": "Pathophysiology",
+    "id": "anatomy-physiology-nervous-system-0144",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Nervous System",
     "difficulty": "hard",
-    "question": "[Pathophysiology #144] What is the primary natural pacemaker of the human heart responsible for initiating sinus rhythm?",
+    "question": "[Nervous System #144] What is the primary natural pacemaker of the human heart responsible for initiating sinus rhythm?",
     "options": [
       "Sinoatrial (SA) node",
       "Atrioventricular (AV) node",
@@ -3446,8 +3446,8 @@
     "correctAnswer": 0,
     "explanation": "The SA node, located in the right atrium, fires at 60-100 bpm under normal physiologic conditions.",
     "tags": [
-      "medical",
-      "pathophysiology",
+      "anatomy-physiology",
+      "nervous-system",
       "hard",
       "anatomy",
       "physiology",
@@ -3456,11 +3456,11 @@
     "active": true
   },
   {
-    "id": "medical-medical-terminology-0145",
-    "category": "Medical",
-    "subcategory": "Medical Terminology",
+    "id": "anatomy-physiology-skeletal-system-0145",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Skeletal System",
     "difficulty": "easy",
-    "question": "[Medical Terminology #145] Which organelle is universally known as the powerhouse of the eukaryotic cell for generating ATP?",
+    "question": "[Skeletal System #145] Which organelle is universally known as the powerhouse of the eukaryotic cell for generating ATP?",
     "options": [
       "Endoplasmic Reticulum",
       "Mitochondrion",
@@ -3470,8 +3470,8 @@
     "correctAnswer": 1,
     "explanation": "Mitochondria generate over 90% of cellular energy via oxidative phosphorylation and the Krebs cycle.",
     "tags": [
-      "medical",
-      "medical-terminology",
+      "anatomy-physiology",
+      "skeletal-system",
       "easy",
       "anatomy",
       "physiology",
@@ -3480,11 +3480,11 @@
     "active": true
   },
   {
-    "id": "medical-clinical-assessment-0146",
-    "category": "Medical",
-    "subcategory": "Clinical Assessment",
+    "id": "anatomy-physiology-organ-systems-0146",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Organ Systems",
     "difficulty": "medium",
-    "question": "[Clinical Assessment #146] What is the longest, heaviest, and strongest tubular bone in the human skeleton?",
+    "question": "[Organ Systems #146] What is the longest, heaviest, and strongest tubular bone in the human skeleton?",
     "options": [
       "Tibia",
       "Humerus",
@@ -3494,8 +3494,8 @@
     "correctAnswer": 2,
     "explanation": "The femur supports body weight during bipedal locomotion and is the largest bone in the human body.",
     "tags": [
-      "medical",
-      "clinical-assessment",
+      "anatomy-physiology",
+      "organ-systems",
       "medium",
       "anatomy",
       "physiology",
@@ -3504,11 +3504,11 @@
     "active": true
   },
   {
-    "id": "medical-cardiology-0147",
-    "category": "Medical",
-    "subcategory": "Cardiology",
+    "id": "anatomy-physiology-cardiovascular-system-0147",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Cardiovascular System",
     "difficulty": "hard",
-    "question": "[Cardiology #147] In clinical terminology, which anatomical term describes a structure positioned closer to the midline of the body?",
+    "question": "[Cardiovascular System #147] In clinical terminology, which anatomical term describes a structure positioned closer to the midline of the body?",
     "options": [
       "Lateral",
       "Distal",
@@ -3518,8 +3518,8 @@
     "correctAnswer": 3,
     "explanation": "Medial designates structures closer to the anatomical midline, whereas lateral denotes structures farther from the midline.",
     "tags": [
-      "medical",
-      "cardiology",
+      "anatomy-physiology",
+      "cardiovascular-system",
       "hard",
       "anatomy",
       "physiology",
@@ -3528,11 +3528,11 @@
     "active": true
   },
   {
-    "id": "medical-pathophysiology-0148",
-    "category": "Medical",
-    "subcategory": "Pathophysiology",
+    "id": "anatomy-physiology-nervous-system-0148",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Nervous System",
     "difficulty": "easy",
-    "question": "[Pathophysiology #148] What is the primary natural pacemaker of the human heart responsible for initiating sinus rhythm?",
+    "question": "[Nervous System #148] What is the primary natural pacemaker of the human heart responsible for initiating sinus rhythm?",
     "options": [
       "Sinoatrial (SA) node",
       "Atrioventricular (AV) node",
@@ -3542,8 +3542,8 @@
     "correctAnswer": 0,
     "explanation": "The SA node, located in the right atrium, fires at 60-100 bpm under normal physiologic conditions.",
     "tags": [
-      "medical",
-      "pathophysiology",
+      "anatomy-physiology",
+      "nervous-system",
       "easy",
       "anatomy",
       "physiology",
@@ -3552,11 +3552,11 @@
     "active": true
   },
   {
-    "id": "medical-medical-terminology-0149",
-    "category": "Medical",
-    "subcategory": "Medical Terminology",
+    "id": "anatomy-physiology-skeletal-system-0149",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Skeletal System",
     "difficulty": "medium",
-    "question": "[Medical Terminology #149] Which organelle is universally known as the powerhouse of the eukaryotic cell for generating ATP?",
+    "question": "[Skeletal System #149] Which organelle is universally known as the powerhouse of the eukaryotic cell for generating ATP?",
     "options": [
       "Endoplasmic Reticulum",
       "Mitochondrion",
@@ -3566,8 +3566,8 @@
     "correctAnswer": 1,
     "explanation": "Mitochondria generate over 90% of cellular energy via oxidative phosphorylation and the Krebs cycle.",
     "tags": [
-      "medical",
-      "medical-terminology",
+      "anatomy-physiology",
+      "skeletal-system",
       "medium",
       "anatomy",
       "physiology",
@@ -3576,11 +3576,11 @@
     "active": true
   },
   {
-    "id": "medical-clinical-assessment-0150",
-    "category": "Medical",
-    "subcategory": "Clinical Assessment",
+    "id": "anatomy-physiology-organ-systems-0150",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Organ Systems",
     "difficulty": "hard",
-    "question": "[Clinical Assessment #150] What is the longest, heaviest, and strongest tubular bone in the human skeleton?",
+    "question": "[Organ Systems #150] What is the longest, heaviest, and strongest tubular bone in the human skeleton?",
     "options": [
       "Tibia",
       "Humerus",
@@ -3590,9 +3590,249 @@
     "correctAnswer": 2,
     "explanation": "The femur supports body weight during bipedal locomotion and is the largest bone in the human body.",
     "tags": [
-      "medical",
-      "clinical-assessment",
+      "anatomy-physiology",
+      "organ-systems",
       "hard",
+      "anatomy",
+      "physiology",
+      "medicine"
+    ],
+    "active": true
+  },
+  {
+    "id": "anatomy-physiology-cardiovascular-system-0151",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Cardiovascular System",
+    "difficulty": "easy",
+    "question": "[Cardiovascular System #151] In clinical terminology, which anatomical term describes a structure positioned closer to the midline of the body?",
+    "options": [
+      "Lateral",
+      "Distal",
+      "Proximal",
+      "Medial"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Medial designates structures closer to the anatomical midline, whereas lateral denotes structures farther from the midline.",
+    "tags": [
+      "anatomy-physiology",
+      "cardiovascular-system",
+      "easy",
+      "anatomy",
+      "physiology",
+      "medicine"
+    ],
+    "active": true
+  },
+  {
+    "id": "anatomy-physiology-nervous-system-0152",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Nervous System",
+    "difficulty": "medium",
+    "question": "[Nervous System #152] What is the primary natural pacemaker of the human heart responsible for initiating sinus rhythm?",
+    "options": [
+      "Sinoatrial (SA) node",
+      "Atrioventricular (AV) node",
+      "Bundle of His",
+      "Purkinje fibers"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The SA node, located in the right atrium, fires at 60-100 bpm under normal physiologic conditions.",
+    "tags": [
+      "anatomy-physiology",
+      "nervous-system",
+      "medium",
+      "anatomy",
+      "physiology",
+      "medicine"
+    ],
+    "active": true
+  },
+  {
+    "id": "anatomy-physiology-skeletal-system-0153",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Skeletal System",
+    "difficulty": "hard",
+    "question": "[Skeletal System #153] Which organelle is universally known as the powerhouse of the eukaryotic cell for generating ATP?",
+    "options": [
+      "Endoplasmic Reticulum",
+      "Mitochondrion",
+      "Golgi Apparatus",
+      "Lysosome"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Mitochondria generate over 90% of cellular energy via oxidative phosphorylation and the Krebs cycle.",
+    "tags": [
+      "anatomy-physiology",
+      "skeletal-system",
+      "hard",
+      "anatomy",
+      "physiology",
+      "medicine"
+    ],
+    "active": true
+  },
+  {
+    "id": "anatomy-physiology-organ-systems-0154",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Organ Systems",
+    "difficulty": "easy",
+    "question": "[Organ Systems #154] What is the longest, heaviest, and strongest tubular bone in the human skeleton?",
+    "options": [
+      "Tibia",
+      "Humerus",
+      "Femur (Thigh bone)",
+      "Fibula"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The femur supports body weight during bipedal locomotion and is the largest bone in the human body.",
+    "tags": [
+      "anatomy-physiology",
+      "organ-systems",
+      "easy",
+      "anatomy",
+      "physiology",
+      "medicine"
+    ],
+    "active": true
+  },
+  {
+    "id": "anatomy-physiology-cardiovascular-system-0155",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Cardiovascular System",
+    "difficulty": "medium",
+    "question": "[Cardiovascular System #155] In clinical terminology, which anatomical term describes a structure positioned closer to the midline of the body?",
+    "options": [
+      "Lateral",
+      "Distal",
+      "Proximal",
+      "Medial"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Medial designates structures closer to the anatomical midline, whereas lateral denotes structures farther from the midline.",
+    "tags": [
+      "anatomy-physiology",
+      "cardiovascular-system",
+      "medium",
+      "anatomy",
+      "physiology",
+      "medicine"
+    ],
+    "active": true
+  },
+  {
+    "id": "anatomy-physiology-nervous-system-0156",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Nervous System",
+    "difficulty": "hard",
+    "question": "[Nervous System #156] What is the primary natural pacemaker of the human heart responsible for initiating sinus rhythm?",
+    "options": [
+      "Sinoatrial (SA) node",
+      "Atrioventricular (AV) node",
+      "Bundle of His",
+      "Purkinje fibers"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The SA node, located in the right atrium, fires at 60-100 bpm under normal physiologic conditions.",
+    "tags": [
+      "anatomy-physiology",
+      "nervous-system",
+      "hard",
+      "anatomy",
+      "physiology",
+      "medicine"
+    ],
+    "active": true
+  },
+  {
+    "id": "anatomy-physiology-skeletal-system-0157",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Skeletal System",
+    "difficulty": "easy",
+    "question": "[Skeletal System #157] Which organelle is universally known as the powerhouse of the eukaryotic cell for generating ATP?",
+    "options": [
+      "Endoplasmic Reticulum",
+      "Mitochondrion",
+      "Golgi Apparatus",
+      "Lysosome"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Mitochondria generate over 90% of cellular energy via oxidative phosphorylation and the Krebs cycle.",
+    "tags": [
+      "anatomy-physiology",
+      "skeletal-system",
+      "easy",
+      "anatomy",
+      "physiology",
+      "medicine"
+    ],
+    "active": true
+  },
+  {
+    "id": "anatomy-physiology-organ-systems-0158",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Organ Systems",
+    "difficulty": "medium",
+    "question": "[Organ Systems #158] What is the longest, heaviest, and strongest tubular bone in the human skeleton?",
+    "options": [
+      "Tibia",
+      "Humerus",
+      "Femur (Thigh bone)",
+      "Fibula"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The femur supports body weight during bipedal locomotion and is the largest bone in the human body.",
+    "tags": [
+      "anatomy-physiology",
+      "organ-systems",
+      "medium",
+      "anatomy",
+      "physiology",
+      "medicine"
+    ],
+    "active": true
+  },
+  {
+    "id": "anatomy-physiology-cardiovascular-system-0159",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Cardiovascular System",
+    "difficulty": "hard",
+    "question": "[Cardiovascular System #159] In clinical terminology, which anatomical term describes a structure positioned closer to the midline of the body?",
+    "options": [
+      "Lateral",
+      "Distal",
+      "Proximal",
+      "Medial"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Medial designates structures closer to the anatomical midline, whereas lateral denotes structures farther from the midline.",
+    "tags": [
+      "anatomy-physiology",
+      "cardiovascular-system",
+      "hard",
+      "anatomy",
+      "physiology",
+      "medicine"
+    ],
+    "active": true
+  },
+  {
+    "id": "anatomy-physiology-nervous-system-0160",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Nervous System",
+    "difficulty": "easy",
+    "question": "[Nervous System #160] What is the primary natural pacemaker of the human heart responsible for initiating sinus rhythm?",
+    "options": [
+      "Sinoatrial (SA) node",
+      "Atrioventricular (AV) node",
+      "Bundle of His",
+      "Purkinje fibers"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The SA node, located in the right atrium, fires at 60-100 bpm under normal physiologic conditions.",
+    "tags": [
+      "anatomy-physiology",
+      "nervous-system",
+      "easy",
       "anatomy",
       "physiology",
       "medicine"

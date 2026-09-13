@@ -1,10 +1,10 @@
 [
   {
-    "id": "technology-web-software-0001",
-    "category": "Technology",
-    "subcategory": "Web & Software",
+    "id": "iq-logic-pattern-sequences-0001",
+    "category": "IQ & Logic",
+    "subcategory": "Pattern Sequences",
     "difficulty": "easy",
-    "question": "[Web & Software #1] How many bits comprise exactly one standard byte in computer architecture?",
+    "question": "[Pattern Sequences #1] How many bits comprise exactly one standard byte in computer architecture?",
     "options": [
       "4 bits (one nibble)",
       "8 bits",
@@ -14,8 +14,8 @@
     "correctAnswer": 1,
     "explanation": "One standard byte is composed of 8 bits, capable of representing 256 discrete values.",
     "tags": [
-      "technology",
-      "web-software",
+      "iq-logic",
+      "pattern-sequences",
       "easy",
       "science",
       "computing",
@@ -24,11 +24,11 @@
     "active": true
   },
   {
-    "id": "technology-networking-security-0002",
-    "category": "Technology",
-    "subcategory": "Networking & Security",
+    "id": "iq-logic-spatial-reasoning-0002",
+    "category": "IQ & Logic",
+    "subcategory": "Spatial Reasoning",
     "difficulty": "medium",
-    "question": "[Networking & Security #2] What is the chemical formula for common table salt?",
+    "question": "[Spatial Reasoning #2] What is the chemical formula for common table salt?",
     "options": [
       "KCl",
       "CaCO3",
@@ -38,8 +38,8 @@
     "correctAnswer": 2,
     "explanation": "Table salt is formed by an ionic bond between sodium (Na+) and chlorine (Cl-) in an equimolar ratio.",
     "tags": [
-      "technology",
-      "networking-security",
+      "iq-logic",
+      "spatial-reasoning",
       "medium",
       "science",
       "computing",
@@ -48,11 +48,11 @@
     "active": true
   },
   {
-    "id": "technology-operating-systems-0003",
-    "category": "Technology",
-    "subcategory": "Operating Systems",
+    "id": "iq-logic-logical-deductions-0003",
+    "category": "IQ & Logic",
+    "subcategory": "Logical Deductions",
     "difficulty": "hard",
-    "question": "[Operating Systems #3] In plane geometry, what is the sum of all interior angles inside any planar triangle?",
+    "question": "[Logical Deductions #3] In plane geometry, what is the sum of all interior angles inside any planar triangle?",
     "options": [
       "90 degrees",
       "270 degrees",
@@ -62,8 +62,8 @@
     "correctAnswer": 3,
     "explanation": "Euclidean geometry dictates that the interior angles of any triangle always sum to exactly 180°.",
     "tags": [
-      "technology",
-      "operating-systems",
+      "iq-logic",
+      "logical-deductions",
       "hard",
       "science",
       "computing",
@@ -72,11 +72,11 @@
     "active": true
   },
   {
-    "id": "technology-data-cloud-0004",
-    "category": "Technology",
-    "subcategory": "Data & Cloud",
+    "id": "iq-logic-lateral-thinking-0004",
+    "category": "IQ & Logic",
+    "subcategory": "Lateral Thinking",
     "difficulty": "easy",
-    "question": "[Data & Cloud #4] What standard networking protocol secures encrypted web traffic over TCP port 443?",
+    "question": "[Lateral Thinking #4] What standard networking protocol secures encrypted web traffic over TCP port 443?",
     "options": [
       "HTTPS (HTTP over TLS/SSL)",
       "FTP",
@@ -86,8 +86,8 @@
     "correctAnswer": 0,
     "explanation": "HTTPS encrypts data transfers using Transport Layer Security (TLS) over port 443.",
     "tags": [
-      "technology",
-      "data-cloud",
+      "iq-logic",
+      "lateral-thinking",
       "easy",
       "science",
       "computing",
@@ -96,11 +96,11 @@
     "active": true
   },
   {
-    "id": "technology-web-software-0005",
-    "category": "Technology",
-    "subcategory": "Web & Software",
+    "id": "iq-logic-pattern-sequences-0005",
+    "category": "IQ & Logic",
+    "subcategory": "Pattern Sequences",
     "difficulty": "medium",
-    "question": "[Web & Software #5] What is the mathematical value of 15% calculated on an amount of $200?",
+    "question": "[Pattern Sequences #5] What is the mathematical value of 15% calculated on an amount of $200?",
     "options": [
       "$15",
       "$30",
@@ -110,8 +110,8 @@
     "correctAnswer": 1,
     "explanation": "15% of 200 = 0.15 × 200 = $30.",
     "tags": [
-      "technology",
-      "web-software",
+      "iq-logic",
+      "pattern-sequences",
       "medium",
       "science",
       "computing",
@@ -120,11 +120,11 @@
     "active": true
   },
   {
-    "id": "technology-networking-security-0006",
-    "category": "Technology",
-    "subcategory": "Networking & Security",
+    "id": "iq-logic-spatial-reasoning-0006",
+    "category": "IQ & Logic",
+    "subcategory": "Spatial Reasoning",
     "difficulty": "hard",
-    "question": "[Networking & Security #6] How many bits comprise exactly one standard byte in computer architecture?",
+    "question": "[Spatial Reasoning #6] How many bits comprise exactly one standard byte in computer architecture?",
     "options": [
       "4 bits (one nibble)",
       "16 bits",
@@ -134,8 +134,8 @@
     "correctAnswer": 2,
     "explanation": "One standard byte is composed of 8 bits, capable of representing 256 discrete values.",
     "tags": [
-      "technology",
-      "networking-security",
+      "iq-logic",
+      "spatial-reasoning",
       "hard",
       "science",
       "computing",
@@ -144,11 +144,11 @@
     "active": true
   },
   {
-    "id": "technology-operating-systems-0007",
-    "category": "Technology",
-    "subcategory": "Operating Systems",
+    "id": "iq-logic-logical-deductions-0007",
+    "category": "IQ & Logic",
+    "subcategory": "Logical Deductions",
     "difficulty": "easy",
-    "question": "[Operating Systems #7] What is the chemical formula for common table salt?",
+    "question": "[Logical Deductions #7] What is the chemical formula for common table salt?",
     "options": [
       "KCl",
       "CaCO3",
@@ -158,8 +158,8 @@
     "correctAnswer": 3,
     "explanation": "Table salt is formed by an ionic bond between sodium (Na+) and chlorine (Cl-) in an equimolar ratio.",
     "tags": [
-      "technology",
-      "operating-systems",
+      "iq-logic",
+      "logical-deductions",
       "easy",
       "science",
       "computing",
@@ -168,11 +168,11 @@
     "active": true
   },
   {
-    "id": "technology-data-cloud-0008",
-    "category": "Technology",
-    "subcategory": "Data & Cloud",
+    "id": "iq-logic-lateral-thinking-0008",
+    "category": "IQ & Logic",
+    "subcategory": "Lateral Thinking",
     "difficulty": "medium",
-    "question": "[Data & Cloud #8] In plane geometry, what is the sum of all interior angles inside any planar triangle?",
+    "question": "[Lateral Thinking #8] In plane geometry, what is the sum of all interior angles inside any planar triangle?",
     "options": [
       "180 degrees",
       "90 degrees",
@@ -182,8 +182,8 @@
     "correctAnswer": 0,
     "explanation": "Euclidean geometry dictates that the interior angles of any triangle always sum to exactly 180°.",
     "tags": [
-      "technology",
-      "data-cloud",
+      "iq-logic",
+      "lateral-thinking",
       "medium",
       "science",
       "computing",
@@ -192,11 +192,11 @@
     "active": true
   },
   {
-    "id": "technology-web-software-0009",
-    "category": "Technology",
-    "subcategory": "Web & Software",
+    "id": "iq-logic-pattern-sequences-0009",
+    "category": "IQ & Logic",
+    "subcategory": "Pattern Sequences",
     "difficulty": "hard",
-    "question": "[Web & Software #9] What standard networking protocol secures encrypted web traffic over TCP port 443?",
+    "question": "[Pattern Sequences #9] What standard networking protocol secures encrypted web traffic over TCP port 443?",
     "options": [
       "FTP",
       "HTTPS (HTTP over TLS/SSL)",
@@ -206,8 +206,8 @@
     "correctAnswer": 1,
     "explanation": "HTTPS encrypts data transfers using Transport Layer Security (TLS) over port 443.",
     "tags": [
-      "technology",
-      "web-software",
+      "iq-logic",
+      "pattern-sequences",
       "hard",
       "science",
       "computing",
@@ -216,11 +216,11 @@
     "active": true
   },
   {
-    "id": "technology-networking-security-0010",
-    "category": "Technology",
-    "subcategory": "Networking & Security",
+    "id": "iq-logic-spatial-reasoning-0010",
+    "category": "IQ & Logic",
+    "subcategory": "Spatial Reasoning",
     "difficulty": "easy",
-    "question": "[Networking & Security #10] What is the mathematical value of 15% calculated on an amount of $200?",
+    "question": "[Spatial Reasoning #10] What is the mathematical value of 15% calculated on an amount of $200?",
     "options": [
       "$15",
       "$25",
@@ -230,8 +230,8 @@
     "correctAnswer": 2,
     "explanation": "15% of 200 = 0.15 × 200 = $30.",
     "tags": [
-      "technology",
-      "networking-security",
+      "iq-logic",
+      "spatial-reasoning",
       "easy",
       "science",
       "computing",
@@ -240,11 +240,11 @@
     "active": true
   },
   {
-    "id": "technology-operating-systems-0011",
-    "category": "Technology",
-    "subcategory": "Operating Systems",
+    "id": "iq-logic-logical-deductions-0011",
+    "category": "IQ & Logic",
+    "subcategory": "Logical Deductions",
     "difficulty": "medium",
-    "question": "[Operating Systems #11] How many bits comprise exactly one standard byte in computer architecture?",
+    "question": "[Logical Deductions #11] How many bits comprise exactly one standard byte in computer architecture?",
     "options": [
       "4 bits (one nibble)",
       "16 bits",
@@ -254,8 +254,8 @@
     "correctAnswer": 3,
     "explanation": "One standard byte is composed of 8 bits, capable of representing 256 discrete values.",
     "tags": [
-      "technology",
-      "operating-systems",
+      "iq-logic",
+      "logical-deductions",
       "medium",
       "science",
       "computing",
@@ -264,11 +264,11 @@
     "active": true
   },
   {
-    "id": "technology-data-cloud-0012",
-    "category": "Technology",
-    "subcategory": "Data & Cloud",
+    "id": "iq-logic-lateral-thinking-0012",
+    "category": "IQ & Logic",
+    "subcategory": "Lateral Thinking",
     "difficulty": "hard",
-    "question": "[Data & Cloud #12] What is the chemical formula for common table salt?",
+    "question": "[Lateral Thinking #12] What is the chemical formula for common table salt?",
     "options": [
       "NaCl (Sodium Chloride)",
       "KCl",
@@ -278,8 +278,8 @@
     "correctAnswer": 0,
     "explanation": "Table salt is formed by an ionic bond between sodium (Na+) and chlorine (Cl-) in an equimolar ratio.",
     "tags": [
-      "technology",
-      "data-cloud",
+      "iq-logic",
+      "lateral-thinking",
       "hard",
       "science",
       "computing",
@@ -288,11 +288,11 @@
     "active": true
   },
   {
-    "id": "technology-web-software-0013",
-    "category": "Technology",
-    "subcategory": "Web & Software",
+    "id": "iq-logic-pattern-sequences-0013",
+    "category": "IQ & Logic",
+    "subcategory": "Pattern Sequences",
     "difficulty": "easy",
-    "question": "[Web & Software #13] In plane geometry, what is the sum of all interior angles inside any planar triangle?",
+    "question": "[Pattern Sequences #13] In plane geometry, what is the sum of all interior angles inside any planar triangle?",
     "options": [
       "90 degrees",
       "180 degrees",
@@ -302,8 +302,8 @@
     "correctAnswer": 1,
     "explanation": "Euclidean geometry dictates that the interior angles of any triangle always sum to exactly 180°.",
     "tags": [
-      "technology",
-      "web-software",
+      "iq-logic",
+      "pattern-sequences",
       "easy",
       "science",
       "computing",
@@ -312,11 +312,11 @@
     "active": true
   },
   {
-    "id": "technology-networking-security-0014",
-    "category": "Technology",
-    "subcategory": "Networking & Security",
+    "id": "iq-logic-spatial-reasoning-0014",
+    "category": "IQ & Logic",
+    "subcategory": "Spatial Reasoning",
     "difficulty": "medium",
-    "question": "[Networking & Security #14] What standard networking protocol secures encrypted web traffic over TCP port 443?",
+    "question": "[Spatial Reasoning #14] What standard networking protocol secures encrypted web traffic over TCP port 443?",
     "options": [
       "FTP",
       "SMTP",
@@ -326,8 +326,8 @@
     "correctAnswer": 2,
     "explanation": "HTTPS encrypts data transfers using Transport Layer Security (TLS) over port 443.",
     "tags": [
-      "technology",
-      "networking-security",
+      "iq-logic",
+      "spatial-reasoning",
       "medium",
       "science",
       "computing",
@@ -336,11 +336,11 @@
     "active": true
   },
   {
-    "id": "technology-operating-systems-0015",
-    "category": "Technology",
-    "subcategory": "Operating Systems",
+    "id": "iq-logic-logical-deductions-0015",
+    "category": "IQ & Logic",
+    "subcategory": "Logical Deductions",
     "difficulty": "hard",
-    "question": "[Operating Systems #15] What is the mathematical value of 15% calculated on an amount of $200?",
+    "question": "[Logical Deductions #15] What is the mathematical value of 15% calculated on an amount of $200?",
     "options": [
       "$15",
       "$25",
@@ -350,8 +350,8 @@
     "correctAnswer": 3,
     "explanation": "15% of 200 = 0.15 × 200 = $30.",
     "tags": [
-      "technology",
-      "operating-systems",
+      "iq-logic",
+      "logical-deductions",
       "hard",
       "science",
       "computing",
@@ -360,11 +360,11 @@
     "active": true
   },
   {
-    "id": "technology-data-cloud-0016",
-    "category": "Technology",
-    "subcategory": "Data & Cloud",
+    "id": "iq-logic-lateral-thinking-0016",
+    "category": "IQ & Logic",
+    "subcategory": "Lateral Thinking",
     "difficulty": "easy",
-    "question": "[Data & Cloud #16] How many bits comprise exactly one standard byte in computer architecture?",
+    "question": "[Lateral Thinking #16] How many bits comprise exactly one standard byte in computer architecture?",
     "options": [
       "8 bits",
       "4 bits (one nibble)",
@@ -374,8 +374,8 @@
     "correctAnswer": 0,
     "explanation": "One standard byte is composed of 8 bits, capable of representing 256 discrete values.",
     "tags": [
-      "technology",
-      "data-cloud",
+      "iq-logic",
+      "lateral-thinking",
       "easy",
       "science",
       "computing",
@@ -384,11 +384,11 @@
     "active": true
   },
   {
-    "id": "technology-web-software-0017",
-    "category": "Technology",
-    "subcategory": "Web & Software",
+    "id": "iq-logic-pattern-sequences-0017",
+    "category": "IQ & Logic",
+    "subcategory": "Pattern Sequences",
     "difficulty": "medium",
-    "question": "[Web & Software #17] What is the chemical formula for common table salt?",
+    "question": "[Pattern Sequences #17] What is the chemical formula for common table salt?",
     "options": [
       "KCl",
       "NaCl (Sodium Chloride)",
@@ -398,8 +398,8 @@
     "correctAnswer": 1,
     "explanation": "Table salt is formed by an ionic bond between sodium (Na+) and chlorine (Cl-) in an equimolar ratio.",
     "tags": [
-      "technology",
-      "web-software",
+      "iq-logic",
+      "pattern-sequences",
       "medium",
       "science",
       "computing",
@@ -408,11 +408,11 @@
     "active": true
   },
   {
-    "id": "technology-networking-security-0018",
-    "category": "Technology",
-    "subcategory": "Networking & Security",
+    "id": "iq-logic-spatial-reasoning-0018",
+    "category": "IQ & Logic",
+    "subcategory": "Spatial Reasoning",
     "difficulty": "hard",
-    "question": "[Networking & Security #18] In plane geometry, what is the sum of all interior angles inside any planar triangle?",
+    "question": "[Spatial Reasoning #18] In plane geometry, what is the sum of all interior angles inside any planar triangle?",
     "options": [
       "90 degrees",
       "270 degrees",
@@ -422,8 +422,8 @@
     "correctAnswer": 2,
     "explanation": "Euclidean geometry dictates that the interior angles of any triangle always sum to exactly 180°.",
     "tags": [
-      "technology",
-      "networking-security",
+      "iq-logic",
+      "spatial-reasoning",
       "hard",
       "science",
       "computing",
@@ -432,11 +432,11 @@
     "active": true
   },
   {
-    "id": "technology-operating-systems-0019",
-    "category": "Technology",
-    "subcategory": "Operating Systems",
+    "id": "iq-logic-logical-deductions-0019",
+    "category": "IQ & Logic",
+    "subcategory": "Logical Deductions",
     "difficulty": "easy",
-    "question": "[Operating Systems #19] What standard networking protocol secures encrypted web traffic over TCP port 443?",
+    "question": "[Logical Deductions #19] What standard networking protocol secures encrypted web traffic over TCP port 443?",
     "options": [
       "FTP",
       "SMTP",
@@ -446,8 +446,8 @@
     "correctAnswer": 3,
     "explanation": "HTTPS encrypts data transfers using Transport Layer Security (TLS) over port 443.",
     "tags": [
-      "technology",
-      "operating-systems",
+      "iq-logic",
+      "logical-deductions",
       "easy",
       "science",
       "computing",
@@ -456,11 +456,11 @@
     "active": true
   },
   {
-    "id": "technology-data-cloud-0020",
-    "category": "Technology",
-    "subcategory": "Data & Cloud",
+    "id": "iq-logic-lateral-thinking-0020",
+    "category": "IQ & Logic",
+    "subcategory": "Lateral Thinking",
     "difficulty": "medium",
-    "question": "[Data & Cloud #20] What is the mathematical value of 15% calculated on an amount of $200?",
+    "question": "[Lateral Thinking #20] What is the mathematical value of 15% calculated on an amount of $200?",
     "options": [
       "$30",
       "$15",
@@ -470,8 +470,8 @@
     "correctAnswer": 0,
     "explanation": "15% of 200 = 0.15 × 200 = $30.",
     "tags": [
-      "technology",
-      "data-cloud",
+      "iq-logic",
+      "lateral-thinking",
       "medium",
       "science",
       "computing",
@@ -480,11 +480,11 @@
     "active": true
   },
   {
-    "id": "technology-web-software-0021",
-    "category": "Technology",
-    "subcategory": "Web & Software",
+    "id": "iq-logic-pattern-sequences-0021",
+    "category": "IQ & Logic",
+    "subcategory": "Pattern Sequences",
     "difficulty": "hard",
-    "question": "[Web & Software #21] How many bits comprise exactly one standard byte in computer architecture?",
+    "question": "[Pattern Sequences #21] How many bits comprise exactly one standard byte in computer architecture?",
     "options": [
       "4 bits (one nibble)",
       "8 bits",
@@ -494,8 +494,8 @@
     "correctAnswer": 1,
     "explanation": "One standard byte is composed of 8 bits, capable of representing 256 discrete values.",
     "tags": [
-      "technology",
-      "web-software",
+      "iq-logic",
+      "pattern-sequences",
       "hard",
       "science",
       "computing",
@@ -504,11 +504,11 @@
     "active": true
   },
   {
-    "id": "technology-networking-security-0022",
-    "category": "Technology",
-    "subcategory": "Networking & Security",
+    "id": "iq-logic-spatial-reasoning-0022",
+    "category": "IQ & Logic",
+    "subcategory": "Spatial Reasoning",
     "difficulty": "easy",
-    "question": "[Networking & Security #22] What is the chemical formula for common table salt?",
+    "question": "[Spatial Reasoning #22] What is the chemical formula for common table salt?",
     "options": [
       "KCl",
       "CaCO3",
@@ -518,8 +518,8 @@
     "correctAnswer": 2,
     "explanation": "Table salt is formed by an ionic bond between sodium (Na+) and chlorine (Cl-) in an equimolar ratio.",
     "tags": [
-      "technology",
-      "networking-security",
+      "iq-logic",
+      "spatial-reasoning",
       "easy",
       "science",
       "computing",
@@ -528,11 +528,11 @@
     "active": true
   },
   {
-    "id": "technology-operating-systems-0023",
-    "category": "Technology",
-    "subcategory": "Operating Systems",
+    "id": "iq-logic-logical-deductions-0023",
+    "category": "IQ & Logic",
+    "subcategory": "Logical Deductions",
     "difficulty": "medium",
-    "question": "[Operating Systems #23] In plane geometry, what is the sum of all interior angles inside any planar triangle?",
+    "question": "[Logical Deductions #23] In plane geometry, what is the sum of all interior angles inside any planar triangle?",
     "options": [
       "90 degrees",
       "270 degrees",
@@ -542,8 +542,8 @@
     "correctAnswer": 3,
     "explanation": "Euclidean geometry dictates that the interior angles of any triangle always sum to exactly 180°.",
     "tags": [
-      "technology",
-      "operating-systems",
+      "iq-logic",
+      "logical-deductions",
       "medium",
       "science",
       "computing",
@@ -552,11 +552,11 @@
     "active": true
   },
   {
-    "id": "technology-data-cloud-0024",
-    "category": "Technology",
-    "subcategory": "Data & Cloud",
+    "id": "iq-logic-lateral-thinking-0024",
+    "category": "IQ & Logic",
+    "subcategory": "Lateral Thinking",
     "difficulty": "hard",
-    "question": "[Data & Cloud #24] What standard networking protocol secures encrypted web traffic over TCP port 443?",
+    "question": "[Lateral Thinking #24] What standard networking protocol secures encrypted web traffic over TCP port 443?",
     "options": [
       "HTTPS (HTTP over TLS/SSL)",
       "FTP",
@@ -566,8 +566,8 @@
     "correctAnswer": 0,
     "explanation": "HTTPS encrypts data transfers using Transport Layer Security (TLS) over port 443.",
     "tags": [
-      "technology",
-      "data-cloud",
+      "iq-logic",
+      "lateral-thinking",
       "hard",
       "science",
       "computing",
@@ -576,11 +576,11 @@
     "active": true
   },
   {
-    "id": "technology-web-software-0025",
-    "category": "Technology",
-    "subcategory": "Web & Software",
+    "id": "iq-logic-pattern-sequences-0025",
+    "category": "IQ & Logic",
+    "subcategory": "Pattern Sequences",
     "difficulty": "easy",
-    "question": "[Web & Software #25] What is the mathematical value of 15% calculated on an amount of $200?",
+    "question": "[Pattern Sequences #25] What is the mathematical value of 15% calculated on an amount of $200?",
     "options": [
       "$15",
       "$30",
@@ -590,8 +590,8 @@
     "correctAnswer": 1,
     "explanation": "15% of 200 = 0.15 × 200 = $30.",
     "tags": [
-      "technology",
-      "web-software",
+      "iq-logic",
+      "pattern-sequences",
       "easy",
       "science",
       "computing",
@@ -600,11 +600,11 @@
     "active": true
   },
   {
-    "id": "technology-networking-security-0026",
-    "category": "Technology",
-    "subcategory": "Networking & Security",
+    "id": "iq-logic-spatial-reasoning-0026",
+    "category": "IQ & Logic",
+    "subcategory": "Spatial Reasoning",
     "difficulty": "medium",
-    "question": "[Networking & Security #26] How many bits comprise exactly one standard byte in computer architecture?",
+    "question": "[Spatial Reasoning #26] How many bits comprise exactly one standard byte in computer architecture?",
     "options": [
       "4 bits (one nibble)",
       "16 bits",
@@ -614,8 +614,8 @@
     "correctAnswer": 2,
     "explanation": "One standard byte is composed of 8 bits, capable of representing 256 discrete values.",
     "tags": [
-      "technology",
-      "networking-security",
+      "iq-logic",
+      "spatial-reasoning",
       "medium",
       "science",
       "computing",
@@ -624,11 +624,11 @@
     "active": true
   },
   {
-    "id": "technology-operating-systems-0027",
-    "category": "Technology",
-    "subcategory": "Operating Systems",
+    "id": "iq-logic-logical-deductions-0027",
+    "category": "IQ & Logic",
+    "subcategory": "Logical Deductions",
     "difficulty": "hard",
-    "question": "[Operating Systems #27] What is the chemical formula for common table salt?",
+    "question": "[Logical Deductions #27] What is the chemical formula for common table salt?",
     "options": [
       "KCl",
       "CaCO3",
@@ -638,8 +638,8 @@
     "correctAnswer": 3,
     "explanation": "Table salt is formed by an ionic bond between sodium (Na+) and chlorine (Cl-) in an equimolar ratio.",
     "tags": [
-      "technology",
-      "operating-systems",
+      "iq-logic",
+      "logical-deductions",
       "hard",
       "science",
       "computing",
@@ -648,11 +648,11 @@
     "active": true
   },
   {
-    "id": "technology-data-cloud-0028",
-    "category": "Technology",
-    "subcategory": "Data & Cloud",
+    "id": "iq-logic-lateral-thinking-0028",
+    "category": "IQ & Logic",
+    "subcategory": "Lateral Thinking",
     "difficulty": "easy",
-    "question": "[Data & Cloud #28] In plane geometry, what is the sum of all interior angles inside any planar triangle?",
+    "question": "[Lateral Thinking #28] In plane geometry, what is the sum of all interior angles inside any planar triangle?",
     "options": [
       "180 degrees",
       "90 degrees",
@@ -662,8 +662,8 @@
     "correctAnswer": 0,
     "explanation": "Euclidean geometry dictates that the interior angles of any triangle always sum to exactly 180°.",
     "tags": [
-      "technology",
-      "data-cloud",
+      "iq-logic",
+      "lateral-thinking",
       "easy",
       "science",
       "computing",
@@ -672,11 +672,11 @@
     "active": true
   },
   {
-    "id": "technology-web-software-0029",
-    "category": "Technology",
-    "subcategory": "Web & Software",
+    "id": "iq-logic-pattern-sequences-0029",
+    "category": "IQ & Logic",
+    "subcategory": "Pattern Sequences",
     "difficulty": "medium",
-    "question": "[Web & Software #29] What standard networking protocol secures encrypted web traffic over TCP port 443?",
+    "question": "[Pattern Sequences #29] What standard networking protocol secures encrypted web traffic over TCP port 443?",
     "options": [
       "FTP",
       "HTTPS (HTTP over TLS/SSL)",
@@ -686,8 +686,8 @@
     "correctAnswer": 1,
     "explanation": "HTTPS encrypts data transfers using Transport Layer Security (TLS) over port 443.",
     "tags": [
-      "technology",
-      "web-software",
+      "iq-logic",
+      "pattern-sequences",
       "medium",
       "science",
       "computing",
@@ -696,11 +696,11 @@
     "active": true
   },
   {
-    "id": "technology-networking-security-0030",
-    "category": "Technology",
-    "subcategory": "Networking & Security",
+    "id": "iq-logic-spatial-reasoning-0030",
+    "category": "IQ & Logic",
+    "subcategory": "Spatial Reasoning",
     "difficulty": "hard",
-    "question": "[Networking & Security #30] What is the mathematical value of 15% calculated on an amount of $200?",
+    "question": "[Spatial Reasoning #30] What is the mathematical value of 15% calculated on an amount of $200?",
     "options": [
       "$15",
       "$25",
@@ -710,8 +710,8 @@
     "correctAnswer": 2,
     "explanation": "15% of 200 = 0.15 × 200 = $30.",
     "tags": [
-      "technology",
-      "networking-security",
+      "iq-logic",
+      "spatial-reasoning",
       "hard",
       "science",
       "computing",
@@ -720,11 +720,11 @@
     "active": true
   },
   {
-    "id": "technology-operating-systems-0031",
-    "category": "Technology",
-    "subcategory": "Operating Systems",
+    "id": "iq-logic-logical-deductions-0031",
+    "category": "IQ & Logic",
+    "subcategory": "Logical Deductions",
     "difficulty": "easy",
-    "question": "[Operating Systems #31] How many bits comprise exactly one standard byte in computer architecture?",
+    "question": "[Logical Deductions #31] How many bits comprise exactly one standard byte in computer architecture?",
     "options": [
       "4 bits (one nibble)",
       "16 bits",
@@ -734,8 +734,8 @@
     "correctAnswer": 3,
     "explanation": "One standard byte is composed of 8 bits, capable of representing 256 discrete values.",
     "tags": [
-      "technology",
-      "operating-systems",
+      "iq-logic",
+      "logical-deductions",
       "easy",
       "science",
       "computing",
@@ -744,11 +744,11 @@
     "active": true
   },
   {
-    "id": "technology-data-cloud-0032",
-    "category": "Technology",
-    "subcategory": "Data & Cloud",
+    "id": "iq-logic-lateral-thinking-0032",
+    "category": "IQ & Logic",
+    "subcategory": "Lateral Thinking",
     "difficulty": "medium",
-    "question": "[Data & Cloud #32] What is the chemical formula for common table salt?",
+    "question": "[Lateral Thinking #32] What is the chemical formula for common table salt?",
     "options": [
       "NaCl (Sodium Chloride)",
       "KCl",
@@ -758,8 +758,8 @@
     "correctAnswer": 0,
     "explanation": "Table salt is formed by an ionic bond between sodium (Na+) and chlorine (Cl-) in an equimolar ratio.",
     "tags": [
-      "technology",
-      "data-cloud",
+      "iq-logic",
+      "lateral-thinking",
       "medium",
       "science",
       "computing",
@@ -768,11 +768,11 @@
     "active": true
   },
   {
-    "id": "technology-web-software-0033",
-    "category": "Technology",
-    "subcategory": "Web & Software",
+    "id": "iq-logic-pattern-sequences-0033",
+    "category": "IQ & Logic",
+    "subcategory": "Pattern Sequences",
     "difficulty": "hard",
-    "question": "[Web & Software #33] In plane geometry, what is the sum of all interior angles inside any planar triangle?",
+    "question": "[Pattern Sequences #33] In plane geometry, what is the sum of all interior angles inside any planar triangle?",
     "options": [
       "90 degrees",
       "180 degrees",
@@ -782,8 +782,8 @@
     "correctAnswer": 1,
     "explanation": "Euclidean geometry dictates that the interior angles of any triangle always sum to exactly 180°.",
     "tags": [
-      "technology",
-      "web-software",
+      "iq-logic",
+      "pattern-sequences",
       "hard",
       "science",
       "computing",
@@ -792,11 +792,11 @@
     "active": true
   },
   {
-    "id": "technology-networking-security-0034",
-    "category": "Technology",
-    "subcategory": "Networking & Security",
+    "id": "iq-logic-spatial-reasoning-0034",
+    "category": "IQ & Logic",
+    "subcategory": "Spatial Reasoning",
     "difficulty": "easy",
-    "question": "[Networking & Security #34] What standard networking protocol secures encrypted web traffic over TCP port 443?",
+    "question": "[Spatial Reasoning #34] What standard networking protocol secures encrypted web traffic over TCP port 443?",
     "options": [
       "FTP",
       "SMTP",
@@ -806,8 +806,8 @@
     "correctAnswer": 2,
     "explanation": "HTTPS encrypts data transfers using Transport Layer Security (TLS) over port 443.",
     "tags": [
-      "technology",
-      "networking-security",
+      "iq-logic",
+      "spatial-reasoning",
       "easy",
       "science",
       "computing",
@@ -816,11 +816,11 @@
     "active": true
   },
   {
-    "id": "technology-operating-systems-0035",
-    "category": "Technology",
-    "subcategory": "Operating Systems",
+    "id": "iq-logic-logical-deductions-0035",
+    "category": "IQ & Logic",
+    "subcategory": "Logical Deductions",
     "difficulty": "medium",
-    "question": "[Operating Systems #35] What is the mathematical value of 15% calculated on an amount of $200?",
+    "question": "[Logical Deductions #35] What is the mathematical value of 15% calculated on an amount of $200?",
     "options": [
       "$15",
       "$25",
@@ -830,8 +830,8 @@
     "correctAnswer": 3,
     "explanation": "15% of 200 = 0.15 × 200 = $30.",
     "tags": [
-      "technology",
-      "operating-systems",
+      "iq-logic",
+      "logical-deductions",
       "medium",
       "science",
       "computing",
@@ -840,11 +840,11 @@
     "active": true
   },
   {
-    "id": "technology-data-cloud-0036",
-    "category": "Technology",
-    "subcategory": "Data & Cloud",
+    "id": "iq-logic-lateral-thinking-0036",
+    "category": "IQ & Logic",
+    "subcategory": "Lateral Thinking",
     "difficulty": "hard",
-    "question": "[Data & Cloud #36] How many bits comprise exactly one standard byte in computer architecture?",
+    "question": "[Lateral Thinking #36] How many bits comprise exactly one standard byte in computer architecture?",
     "options": [
       "8 bits",
       "4 bits (one nibble)",
@@ -854,8 +854,8 @@
     "correctAnswer": 0,
     "explanation": "One standard byte is composed of 8 bits, capable of representing 256 discrete values.",
     "tags": [
-      "technology",
-      "data-cloud",
+      "iq-logic",
+      "lateral-thinking",
       "hard",
       "science",
       "computing",
@@ -864,11 +864,11 @@
     "active": true
   },
   {
-    "id": "technology-web-software-0037",
-    "category": "Technology",
-    "subcategory": "Web & Software",
+    "id": "iq-logic-pattern-sequences-0037",
+    "category": "IQ & Logic",
+    "subcategory": "Pattern Sequences",
     "difficulty": "easy",
-    "question": "[Web & Software #37] What is the chemical formula for common table salt?",
+    "question": "[Pattern Sequences #37] What is the chemical formula for common table salt?",
     "options": [
       "KCl",
       "NaCl (Sodium Chloride)",
@@ -878,8 +878,8 @@
     "correctAnswer": 1,
     "explanation": "Table salt is formed by an ionic bond between sodium (Na+) and chlorine (Cl-) in an equimolar ratio.",
     "tags": [
-      "technology",
-      "web-software",
+      "iq-logic",
+      "pattern-sequences",
       "easy",
       "science",
       "computing",
@@ -888,11 +888,11 @@
     "active": true
   },
   {
-    "id": "technology-networking-security-0038",
-    "category": "Technology",
-    "subcategory": "Networking & Security",
+    "id": "iq-logic-spatial-reasoning-0038",
+    "category": "IQ & Logic",
+    "subcategory": "Spatial Reasoning",
     "difficulty": "medium",
-    "question": "[Networking & Security #38] In plane geometry, what is the sum of all interior angles inside any planar triangle?",
+    "question": "[Spatial Reasoning #38] In plane geometry, what is the sum of all interior angles inside any planar triangle?",
     "options": [
       "90 degrees",
       "270 degrees",
@@ -902,8 +902,8 @@
     "correctAnswer": 2,
     "explanation": "Euclidean geometry dictates that the interior angles of any triangle always sum to exactly 180°.",
     "tags": [
-      "technology",
-      "networking-security",
+      "iq-logic",
+      "spatial-reasoning",
       "medium",
       "science",
       "computing",
@@ -912,11 +912,11 @@
     "active": true
   },
   {
-    "id": "technology-operating-systems-0039",
-    "category": "Technology",
-    "subcategory": "Operating Systems",
+    "id": "iq-logic-logical-deductions-0039",
+    "category": "IQ & Logic",
+    "subcategory": "Logical Deductions",
     "difficulty": "hard",
-    "question": "[Operating Systems #39] What standard networking protocol secures encrypted web traffic over TCP port 443?",
+    "question": "[Logical Deductions #39] What standard networking protocol secures encrypted web traffic over TCP port 443?",
     "options": [
       "FTP",
       "SMTP",
@@ -926,8 +926,8 @@
     "correctAnswer": 3,
     "explanation": "HTTPS encrypts data transfers using Transport Layer Security (TLS) over port 443.",
     "tags": [
-      "technology",
-      "operating-systems",
+      "iq-logic",
+      "logical-deductions",
       "hard",
       "science",
       "computing",
@@ -936,11 +936,11 @@
     "active": true
   },
   {
-    "id": "technology-data-cloud-0040",
-    "category": "Technology",
-    "subcategory": "Data & Cloud",
+    "id": "iq-logic-lateral-thinking-0040",
+    "category": "IQ & Logic",
+    "subcategory": "Lateral Thinking",
     "difficulty": "easy",
-    "question": "[Data & Cloud #40] What is the mathematical value of 15% calculated on an amount of $200?",
+    "question": "[Lateral Thinking #40] What is the mathematical value of 15% calculated on an amount of $200?",
     "options": [
       "$30",
       "$15",
@@ -950,8 +950,8 @@
     "correctAnswer": 0,
     "explanation": "15% of 200 = 0.15 × 200 = $30.",
     "tags": [
-      "technology",
-      "data-cloud",
+      "iq-logic",
+      "lateral-thinking",
       "easy",
       "science",
       "computing",
@@ -960,11 +960,11 @@
     "active": true
   },
   {
-    "id": "technology-web-software-0041",
-    "category": "Technology",
-    "subcategory": "Web & Software",
+    "id": "iq-logic-pattern-sequences-0041",
+    "category": "IQ & Logic",
+    "subcategory": "Pattern Sequences",
     "difficulty": "medium",
-    "question": "[Web & Software #41] How many bits comprise exactly one standard byte in computer architecture?",
+    "question": "[Pattern Sequences #41] How many bits comprise exactly one standard byte in computer architecture?",
     "options": [
       "4 bits (one nibble)",
       "8 bits",
@@ -974,8 +974,8 @@
     "correctAnswer": 1,
     "explanation": "One standard byte is composed of 8 bits, capable of representing 256 discrete values.",
     "tags": [
-      "technology",
-      "web-software",
+      "iq-logic",
+      "pattern-sequences",
       "medium",
       "science",
       "computing",
@@ -984,11 +984,11 @@
     "active": true
   },
   {
-    "id": "technology-networking-security-0042",
-    "category": "Technology",
-    "subcategory": "Networking & Security",
+    "id": "iq-logic-spatial-reasoning-0042",
+    "category": "IQ & Logic",
+    "subcategory": "Spatial Reasoning",
     "difficulty": "hard",
-    "question": "[Networking & Security #42] What is the chemical formula for common table salt?",
+    "question": "[Spatial Reasoning #42] What is the chemical formula for common table salt?",
     "options": [
       "KCl",
       "CaCO3",
@@ -998,8 +998,8 @@
     "correctAnswer": 2,
     "explanation": "Table salt is formed by an ionic bond between sodium (Na+) and chlorine (Cl-) in an equimolar ratio.",
     "tags": [
-      "technology",
-      "networking-security",
+      "iq-logic",
+      "spatial-reasoning",
       "hard",
       "science",
       "computing",
@@ -1008,11 +1008,11 @@
     "active": true
   },
   {
-    "id": "technology-operating-systems-0043",
-    "category": "Technology",
-    "subcategory": "Operating Systems",
+    "id": "iq-logic-logical-deductions-0043",
+    "category": "IQ & Logic",
+    "subcategory": "Logical Deductions",
     "difficulty": "easy",
-    "question": "[Operating Systems #43] In plane geometry, what is the sum of all interior angles inside any planar triangle?",
+    "question": "[Logical Deductions #43] In plane geometry, what is the sum of all interior angles inside any planar triangle?",
     "options": [
       "90 degrees",
       "270 degrees",
@@ -1022,8 +1022,8 @@
     "correctAnswer": 3,
     "explanation": "Euclidean geometry dictates that the interior angles of any triangle always sum to exactly 180°.",
     "tags": [
-      "technology",
-      "operating-systems",
+      "iq-logic",
+      "logical-deductions",
       "easy",
       "science",
       "computing",
@@ -1032,11 +1032,11 @@
     "active": true
   },
   {
-    "id": "technology-data-cloud-0044",
-    "category": "Technology",
-    "subcategory": "Data & Cloud",
+    "id": "iq-logic-lateral-thinking-0044",
+    "category": "IQ & Logic",
+    "subcategory": "Lateral Thinking",
     "difficulty": "medium",
-    "question": "[Data & Cloud #44] What standard networking protocol secures encrypted web traffic over TCP port 443?",
+    "question": "[Lateral Thinking #44] What standard networking protocol secures encrypted web traffic over TCP port 443?",
     "options": [
       "HTTPS (HTTP over TLS/SSL)",
       "FTP",
@@ -1046,8 +1046,8 @@
     "correctAnswer": 0,
     "explanation": "HTTPS encrypts data transfers using Transport Layer Security (TLS) over port 443.",
     "tags": [
-      "technology",
-      "data-cloud",
+      "iq-logic",
+      "lateral-thinking",
       "medium",
       "science",
       "computing",
@@ -1056,11 +1056,11 @@
     "active": true
   },
   {
-    "id": "technology-web-software-0045",
-    "category": "Technology",
-    "subcategory": "Web & Software",
+    "id": "iq-logic-pattern-sequences-0045",
+    "category": "IQ & Logic",
+    "subcategory": "Pattern Sequences",
     "difficulty": "hard",
-    "question": "[Web & Software #45] What is the mathematical value of 15% calculated on an amount of $200?",
+    "question": "[Pattern Sequences #45] What is the mathematical value of 15% calculated on an amount of $200?",
     "options": [
       "$15",
       "$30",
@@ -1070,8 +1070,8 @@
     "correctAnswer": 1,
     "explanation": "15% of 200 = 0.15 × 200 = $30.",
     "tags": [
-      "technology",
-      "web-software",
+      "iq-logic",
+      "pattern-sequences",
       "hard",
       "science",
       "computing",
@@ -1080,11 +1080,11 @@
     "active": true
   },
   {
-    "id": "technology-networking-security-0046",
-    "category": "Technology",
-    "subcategory": "Networking & Security",
+    "id": "iq-logic-spatial-reasoning-0046",
+    "category": "IQ & Logic",
+    "subcategory": "Spatial Reasoning",
     "difficulty": "easy",
-    "question": "[Networking & Security #46] How many bits comprise exactly one standard byte in computer architecture?",
+    "question": "[Spatial Reasoning #46] How many bits comprise exactly one standard byte in computer architecture?",
     "options": [
       "4 bits (one nibble)",
       "16 bits",
@@ -1094,8 +1094,8 @@
     "correctAnswer": 2,
     "explanation": "One standard byte is composed of 8 bits, capable of representing 256 discrete values.",
     "tags": [
-      "technology",
-      "networking-security",
+      "iq-logic",
+      "spatial-reasoning",
       "easy",
       "science",
       "computing",
@@ -1104,11 +1104,11 @@
     "active": true
   },
   {
-    "id": "technology-operating-systems-0047",
-    "category": "Technology",
-    "subcategory": "Operating Systems",
+    "id": "iq-logic-logical-deductions-0047",
+    "category": "IQ & Logic",
+    "subcategory": "Logical Deductions",
     "difficulty": "medium",
-    "question": "[Operating Systems #47] What is the chemical formula for common table salt?",
+    "question": "[Logical Deductions #47] What is the chemical formula for common table salt?",
     "options": [
       "KCl",
       "CaCO3",
@@ -1118,8 +1118,8 @@
     "correctAnswer": 3,
     "explanation": "Table salt is formed by an ionic bond between sodium (Na+) and chlorine (Cl-) in an equimolar ratio.",
     "tags": [
-      "technology",
-      "operating-systems",
+      "iq-logic",
+      "logical-deductions",
       "medium",
       "science",
       "computing",
@@ -1128,11 +1128,11 @@
     "active": true
   },
   {
-    "id": "technology-data-cloud-0048",
-    "category": "Technology",
-    "subcategory": "Data & Cloud",
+    "id": "iq-logic-lateral-thinking-0048",
+    "category": "IQ & Logic",
+    "subcategory": "Lateral Thinking",
     "difficulty": "hard",
-    "question": "[Data & Cloud #48] In plane geometry, what is the sum of all interior angles inside any planar triangle?",
+    "question": "[Lateral Thinking #48] In plane geometry, what is the sum of all interior angles inside any planar triangle?",
     "options": [
       "180 degrees",
       "90 degrees",
@@ -1142,8 +1142,8 @@
     "correctAnswer": 0,
     "explanation": "Euclidean geometry dictates that the interior angles of any triangle always sum to exactly 180°.",
     "tags": [
-      "technology",
-      "data-cloud",
+      "iq-logic",
+      "lateral-thinking",
       "hard",
       "science",
       "computing",
@@ -1152,11 +1152,11 @@
     "active": true
   },
   {
-    "id": "technology-web-software-0049",
-    "category": "Technology",
-    "subcategory": "Web & Software",
+    "id": "iq-logic-pattern-sequences-0049",
+    "category": "IQ & Logic",
+    "subcategory": "Pattern Sequences",
     "difficulty": "easy",
-    "question": "[Web & Software #49] What standard networking protocol secures encrypted web traffic over TCP port 443?",
+    "question": "[Pattern Sequences #49] What standard networking protocol secures encrypted web traffic over TCP port 443?",
     "options": [
       "FTP",
       "HTTPS (HTTP over TLS/SSL)",
@@ -1166,8 +1166,8 @@
     "correctAnswer": 1,
     "explanation": "HTTPS encrypts data transfers using Transport Layer Security (TLS) over port 443.",
     "tags": [
-      "technology",
-      "web-software",
+      "iq-logic",
+      "pattern-sequences",
       "easy",
       "science",
       "computing",
@@ -1176,11 +1176,11 @@
     "active": true
   },
   {
-    "id": "technology-networking-security-0050",
-    "category": "Technology",
-    "subcategory": "Networking & Security",
+    "id": "iq-logic-spatial-reasoning-0050",
+    "category": "IQ & Logic",
+    "subcategory": "Spatial Reasoning",
     "difficulty": "medium",
-    "question": "[Networking & Security #50] What is the mathematical value of 15% calculated on an amount of $200?",
+    "question": "[Spatial Reasoning #50] What is the mathematical value of 15% calculated on an amount of $200?",
     "options": [
       "$15",
       "$25",
@@ -1190,8 +1190,8 @@
     "correctAnswer": 2,
     "explanation": "15% of 200 = 0.15 × 200 = $30.",
     "tags": [
-      "technology",
-      "networking-security",
+      "iq-logic",
+      "spatial-reasoning",
       "medium",
       "science",
       "computing",
@@ -1200,11 +1200,11 @@
     "active": true
   },
   {
-    "id": "technology-operating-systems-0051",
-    "category": "Technology",
-    "subcategory": "Operating Systems",
+    "id": "iq-logic-logical-deductions-0051",
+    "category": "IQ & Logic",
+    "subcategory": "Logical Deductions",
     "difficulty": "hard",
-    "question": "[Operating Systems #51] How many bits comprise exactly one standard byte in computer architecture?",
+    "question": "[Logical Deductions #51] How many bits comprise exactly one standard byte in computer architecture?",
     "options": [
       "4 bits (one nibble)",
       "16 bits",
@@ -1214,8 +1214,8 @@
     "correctAnswer": 3,
     "explanation": "One standard byte is composed of 8 bits, capable of representing 256 discrete values.",
     "tags": [
-      "technology",
-      "operating-systems",
+      "iq-logic",
+      "logical-deductions",
       "hard",
       "science",
       "computing",
@@ -1224,11 +1224,11 @@
     "active": true
   },
   {
-    "id": "technology-data-cloud-0052",
-    "category": "Technology",
-    "subcategory": "Data & Cloud",
+    "id": "iq-logic-lateral-thinking-0052",
+    "category": "IQ & Logic",
+    "subcategory": "Lateral Thinking",
     "difficulty": "easy",
-    "question": "[Data & Cloud #52] What is the chemical formula for common table salt?",
+    "question": "[Lateral Thinking #52] What is the chemical formula for common table salt?",
     "options": [
       "NaCl (Sodium Chloride)",
       "KCl",
@@ -1238,8 +1238,8 @@
     "correctAnswer": 0,
     "explanation": "Table salt is formed by an ionic bond between sodium (Na+) and chlorine (Cl-) in an equimolar ratio.",
     "tags": [
-      "technology",
-      "data-cloud",
+      "iq-logic",
+      "lateral-thinking",
       "easy",
       "science",
       "computing",
@@ -1248,11 +1248,11 @@
     "active": true
   },
   {
-    "id": "technology-web-software-0053",
-    "category": "Technology",
-    "subcategory": "Web & Software",
+    "id": "iq-logic-pattern-sequences-0053",
+    "category": "IQ & Logic",
+    "subcategory": "Pattern Sequences",
     "difficulty": "medium",
-    "question": "[Web & Software #53] In plane geometry, what is the sum of all interior angles inside any planar triangle?",
+    "question": "[Pattern Sequences #53] In plane geometry, what is the sum of all interior angles inside any planar triangle?",
     "options": [
       "90 degrees",
       "180 degrees",
@@ -1262,8 +1262,8 @@
     "correctAnswer": 1,
     "explanation": "Euclidean geometry dictates that the interior angles of any triangle always sum to exactly 180°.",
     "tags": [
-      "technology",
-      "web-software",
+      "iq-logic",
+      "pattern-sequences",
       "medium",
       "science",
       "computing",
@@ -1272,11 +1272,11 @@
     "active": true
   },
   {
-    "id": "technology-networking-security-0054",
-    "category": "Technology",
-    "subcategory": "Networking & Security",
+    "id": "iq-logic-spatial-reasoning-0054",
+    "category": "IQ & Logic",
+    "subcategory": "Spatial Reasoning",
     "difficulty": "hard",
-    "question": "[Networking & Security #54] What standard networking protocol secures encrypted web traffic over TCP port 443?",
+    "question": "[Spatial Reasoning #54] What standard networking protocol secures encrypted web traffic over TCP port 443?",
     "options": [
       "FTP",
       "SMTP",
@@ -1286,8 +1286,8 @@
     "correctAnswer": 2,
     "explanation": "HTTPS encrypts data transfers using Transport Layer Security (TLS) over port 443.",
     "tags": [
-      "technology",
-      "networking-security",
+      "iq-logic",
+      "spatial-reasoning",
       "hard",
       "science",
       "computing",
@@ -1296,11 +1296,11 @@
     "active": true
   },
   {
-    "id": "technology-operating-systems-0055",
-    "category": "Technology",
-    "subcategory": "Operating Systems",
+    "id": "iq-logic-logical-deductions-0055",
+    "category": "IQ & Logic",
+    "subcategory": "Logical Deductions",
     "difficulty": "easy",
-    "question": "[Operating Systems #55] What is the mathematical value of 15% calculated on an amount of $200?",
+    "question": "[Logical Deductions #55] What is the mathematical value of 15% calculated on an amount of $200?",
     "options": [
       "$15",
       "$25",
@@ -1310,8 +1310,8 @@
     "correctAnswer": 3,
     "explanation": "15% of 200 = 0.15 × 200 = $30.",
     "tags": [
-      "technology",
-      "operating-systems",
+      "iq-logic",
+      "logical-deductions",
       "easy",
       "science",
       "computing",
@@ -1320,11 +1320,11 @@
     "active": true
   },
   {
-    "id": "technology-data-cloud-0056",
-    "category": "Technology",
-    "subcategory": "Data & Cloud",
+    "id": "iq-logic-lateral-thinking-0056",
+    "category": "IQ & Logic",
+    "subcategory": "Lateral Thinking",
     "difficulty": "medium",
-    "question": "[Data & Cloud #56] How many bits comprise exactly one standard byte in computer architecture?",
+    "question": "[Lateral Thinking #56] How many bits comprise exactly one standard byte in computer architecture?",
     "options": [
       "8 bits",
       "4 bits (one nibble)",
@@ -1334,8 +1334,8 @@
     "correctAnswer": 0,
     "explanation": "One standard byte is composed of 8 bits, capable of representing 256 discrete values.",
     "tags": [
-      "technology",
-      "data-cloud",
+      "iq-logic",
+      "lateral-thinking",
       "medium",
       "science",
       "computing",
@@ -1344,11 +1344,11 @@
     "active": true
   },
   {
-    "id": "technology-web-software-0057",
-    "category": "Technology",
-    "subcategory": "Web & Software",
+    "id": "iq-logic-pattern-sequences-0057",
+    "category": "IQ & Logic",
+    "subcategory": "Pattern Sequences",
     "difficulty": "hard",
-    "question": "[Web & Software #57] What is the chemical formula for common table salt?",
+    "question": "[Pattern Sequences #57] What is the chemical formula for common table salt?",
     "options": [
       "KCl",
       "NaCl (Sodium Chloride)",
@@ -1358,8 +1358,8 @@
     "correctAnswer": 1,
     "explanation": "Table salt is formed by an ionic bond between sodium (Na+) and chlorine (Cl-) in an equimolar ratio.",
     "tags": [
-      "technology",
-      "web-software",
+      "iq-logic",
+      "pattern-sequences",
       "hard",
       "science",
       "computing",
@@ -1368,11 +1368,11 @@
     "active": true
   },
   {
-    "id": "technology-networking-security-0058",
-    "category": "Technology",
-    "subcategory": "Networking & Security",
+    "id": "iq-logic-spatial-reasoning-0058",
+    "category": "IQ & Logic",
+    "subcategory": "Spatial Reasoning",
     "difficulty": "easy",
-    "question": "[Networking & Security #58] In plane geometry, what is the sum of all interior angles inside any planar triangle?",
+    "question": "[Spatial Reasoning #58] In plane geometry, what is the sum of all interior angles inside any planar triangle?",
     "options": [
       "90 degrees",
       "270 degrees",
@@ -1382,8 +1382,8 @@
     "correctAnswer": 2,
     "explanation": "Euclidean geometry dictates that the interior angles of any triangle always sum to exactly 180°.",
     "tags": [
-      "technology",
-      "networking-security",
+      "iq-logic",
+      "spatial-reasoning",
       "easy",
       "science",
       "computing",
@@ -1392,11 +1392,11 @@
     "active": true
   },
   {
-    "id": "technology-operating-systems-0059",
-    "category": "Technology",
-    "subcategory": "Operating Systems",
+    "id": "iq-logic-logical-deductions-0059",
+    "category": "IQ & Logic",
+    "subcategory": "Logical Deductions",
     "difficulty": "medium",
-    "question": "[Operating Systems #59] What standard networking protocol secures encrypted web traffic over TCP port 443?",
+    "question": "[Logical Deductions #59] What standard networking protocol secures encrypted web traffic over TCP port 443?",
     "options": [
       "FTP",
       "SMTP",
@@ -1406,8 +1406,8 @@
     "correctAnswer": 3,
     "explanation": "HTTPS encrypts data transfers using Transport Layer Security (TLS) over port 443.",
     "tags": [
-      "technology",
-      "operating-systems",
+      "iq-logic",
+      "logical-deductions",
       "medium",
       "science",
       "computing",
@@ -1416,11 +1416,11 @@
     "active": true
   },
   {
-    "id": "technology-data-cloud-0060",
-    "category": "Technology",
-    "subcategory": "Data & Cloud",
+    "id": "iq-logic-lateral-thinking-0060",
+    "category": "IQ & Logic",
+    "subcategory": "Lateral Thinking",
     "difficulty": "hard",
-    "question": "[Data & Cloud #60] What is the mathematical value of 15% calculated on an amount of $200?",
+    "question": "[Lateral Thinking #60] What is the mathematical value of 15% calculated on an amount of $200?",
     "options": [
       "$30",
       "$15",
@@ -1430,8 +1430,8 @@
     "correctAnswer": 0,
     "explanation": "15% of 200 = 0.15 × 200 = $30.",
     "tags": [
-      "technology",
-      "data-cloud",
+      "iq-logic",
+      "lateral-thinking",
       "hard",
       "science",
       "computing",
@@ -1440,11 +1440,11 @@
     "active": true
   },
   {
-    "id": "technology-web-software-0061",
-    "category": "Technology",
-    "subcategory": "Web & Software",
+    "id": "iq-logic-pattern-sequences-0061",
+    "category": "IQ & Logic",
+    "subcategory": "Pattern Sequences",
     "difficulty": "easy",
-    "question": "[Web & Software #61] How many bits comprise exactly one standard byte in computer architecture?",
+    "question": "[Pattern Sequences #61] How many bits comprise exactly one standard byte in computer architecture?",
     "options": [
       "4 bits (one nibble)",
       "8 bits",
@@ -1454,8 +1454,8 @@
     "correctAnswer": 1,
     "explanation": "One standard byte is composed of 8 bits, capable of representing 256 discrete values.",
     "tags": [
-      "technology",
-      "web-software",
+      "iq-logic",
+      "pattern-sequences",
       "easy",
       "science",
       "computing",
@@ -1464,11 +1464,11 @@
     "active": true
   },
   {
-    "id": "technology-networking-security-0062",
-    "category": "Technology",
-    "subcategory": "Networking & Security",
+    "id": "iq-logic-spatial-reasoning-0062",
+    "category": "IQ & Logic",
+    "subcategory": "Spatial Reasoning",
     "difficulty": "medium",
-    "question": "[Networking & Security #62] What is the chemical formula for common table salt?",
+    "question": "[Spatial Reasoning #62] What is the chemical formula for common table salt?",
     "options": [
       "KCl",
       "CaCO3",
@@ -1478,8 +1478,8 @@
     "correctAnswer": 2,
     "explanation": "Table salt is formed by an ionic bond between sodium (Na+) and chlorine (Cl-) in an equimolar ratio.",
     "tags": [
-      "technology",
-      "networking-security",
+      "iq-logic",
+      "spatial-reasoning",
       "medium",
       "science",
       "computing",
@@ -1488,11 +1488,11 @@
     "active": true
   },
   {
-    "id": "technology-operating-systems-0063",
-    "category": "Technology",
-    "subcategory": "Operating Systems",
+    "id": "iq-logic-logical-deductions-0063",
+    "category": "IQ & Logic",
+    "subcategory": "Logical Deductions",
     "difficulty": "hard",
-    "question": "[Operating Systems #63] In plane geometry, what is the sum of all interior angles inside any planar triangle?",
+    "question": "[Logical Deductions #63] In plane geometry, what is the sum of all interior angles inside any planar triangle?",
     "options": [
       "90 degrees",
       "270 degrees",
@@ -1502,8 +1502,8 @@
     "correctAnswer": 3,
     "explanation": "Euclidean geometry dictates that the interior angles of any triangle always sum to exactly 180°.",
     "tags": [
-      "technology",
-      "operating-systems",
+      "iq-logic",
+      "logical-deductions",
       "hard",
       "science",
       "computing",
@@ -1512,11 +1512,11 @@
     "active": true
   },
   {
-    "id": "technology-data-cloud-0064",
-    "category": "Technology",
-    "subcategory": "Data & Cloud",
+    "id": "iq-logic-lateral-thinking-0064",
+    "category": "IQ & Logic",
+    "subcategory": "Lateral Thinking",
     "difficulty": "easy",
-    "question": "[Data & Cloud #64] What standard networking protocol secures encrypted web traffic over TCP port 443?",
+    "question": "[Lateral Thinking #64] What standard networking protocol secures encrypted web traffic over TCP port 443?",
     "options": [
       "HTTPS (HTTP over TLS/SSL)",
       "FTP",
@@ -1526,8 +1526,8 @@
     "correctAnswer": 0,
     "explanation": "HTTPS encrypts data transfers using Transport Layer Security (TLS) over port 443.",
     "tags": [
-      "technology",
-      "data-cloud",
+      "iq-logic",
+      "lateral-thinking",
       "easy",
       "science",
       "computing",
@@ -1536,11 +1536,11 @@
     "active": true
   },
   {
-    "id": "technology-web-software-0065",
-    "category": "Technology",
-    "subcategory": "Web & Software",
+    "id": "iq-logic-pattern-sequences-0065",
+    "category": "IQ & Logic",
+    "subcategory": "Pattern Sequences",
     "difficulty": "medium",
-    "question": "[Web & Software #65] What is the mathematical value of 15% calculated on an amount of $200?",
+    "question": "[Pattern Sequences #65] What is the mathematical value of 15% calculated on an amount of $200?",
     "options": [
       "$15",
       "$30",
@@ -1550,8 +1550,8 @@
     "correctAnswer": 1,
     "explanation": "15% of 200 = 0.15 × 200 = $30.",
     "tags": [
-      "technology",
-      "web-software",
+      "iq-logic",
+      "pattern-sequences",
       "medium",
       "science",
       "computing",
@@ -1560,11 +1560,11 @@
     "active": true
   },
   {
-    "id": "technology-networking-security-0066",
-    "category": "Technology",
-    "subcategory": "Networking & Security",
+    "id": "iq-logic-spatial-reasoning-0066",
+    "category": "IQ & Logic",
+    "subcategory": "Spatial Reasoning",
     "difficulty": "hard",
-    "question": "[Networking & Security #66] How many bits comprise exactly one standard byte in computer architecture?",
+    "question": "[Spatial Reasoning #66] How many bits comprise exactly one standard byte in computer architecture?",
     "options": [
       "4 bits (one nibble)",
       "16 bits",
@@ -1574,8 +1574,8 @@
     "correctAnswer": 2,
     "explanation": "One standard byte is composed of 8 bits, capable of representing 256 discrete values.",
     "tags": [
-      "technology",
-      "networking-security",
+      "iq-logic",
+      "spatial-reasoning",
       "hard",
       "science",
       "computing",
@@ -1584,11 +1584,11 @@
     "active": true
   },
   {
-    "id": "technology-operating-systems-0067",
-    "category": "Technology",
-    "subcategory": "Operating Systems",
+    "id": "iq-logic-logical-deductions-0067",
+    "category": "IQ & Logic",
+    "subcategory": "Logical Deductions",
     "difficulty": "easy",
-    "question": "[Operating Systems #67] What is the chemical formula for common table salt?",
+    "question": "[Logical Deductions #67] What is the chemical formula for common table salt?",
     "options": [
       "KCl",
       "CaCO3",
@@ -1598,8 +1598,8 @@
     "correctAnswer": 3,
     "explanation": "Table salt is formed by an ionic bond between sodium (Na+) and chlorine (Cl-) in an equimolar ratio.",
     "tags": [
-      "technology",
-      "operating-systems",
+      "iq-logic",
+      "logical-deductions",
       "easy",
       "science",
       "computing",
@@ -1608,11 +1608,11 @@
     "active": true
   },
   {
-    "id": "technology-data-cloud-0068",
-    "category": "Technology",
-    "subcategory": "Data & Cloud",
+    "id": "iq-logic-lateral-thinking-0068",
+    "category": "IQ & Logic",
+    "subcategory": "Lateral Thinking",
     "difficulty": "medium",
-    "question": "[Data & Cloud #68] In plane geometry, what is the sum of all interior angles inside any planar triangle?",
+    "question": "[Lateral Thinking #68] In plane geometry, what is the sum of all interior angles inside any planar triangle?",
     "options": [
       "180 degrees",
       "90 degrees",
@@ -1622,8 +1622,8 @@
     "correctAnswer": 0,
     "explanation": "Euclidean geometry dictates that the interior angles of any triangle always sum to exactly 180°.",
     "tags": [
-      "technology",
-      "data-cloud",
+      "iq-logic",
+      "lateral-thinking",
       "medium",
       "science",
       "computing",
@@ -1632,11 +1632,11 @@
     "active": true
   },
   {
-    "id": "technology-web-software-0069",
-    "category": "Technology",
-    "subcategory": "Web & Software",
+    "id": "iq-logic-pattern-sequences-0069",
+    "category": "IQ & Logic",
+    "subcategory": "Pattern Sequences",
     "difficulty": "hard",
-    "question": "[Web & Software #69] What standard networking protocol secures encrypted web traffic over TCP port 443?",
+    "question": "[Pattern Sequences #69] What standard networking protocol secures encrypted web traffic over TCP port 443?",
     "options": [
       "FTP",
       "HTTPS (HTTP over TLS/SSL)",
@@ -1646,8 +1646,8 @@
     "correctAnswer": 1,
     "explanation": "HTTPS encrypts data transfers using Transport Layer Security (TLS) over port 443.",
     "tags": [
-      "technology",
-      "web-software",
+      "iq-logic",
+      "pattern-sequences",
       "hard",
       "science",
       "computing",
@@ -1656,11 +1656,11 @@
     "active": true
   },
   {
-    "id": "technology-networking-security-0070",
-    "category": "Technology",
-    "subcategory": "Networking & Security",
+    "id": "iq-logic-spatial-reasoning-0070",
+    "category": "IQ & Logic",
+    "subcategory": "Spatial Reasoning",
     "difficulty": "easy",
-    "question": "[Networking & Security #70] What is the mathematical value of 15% calculated on an amount of $200?",
+    "question": "[Spatial Reasoning #70] What is the mathematical value of 15% calculated on an amount of $200?",
     "options": [
       "$15",
       "$25",
@@ -1670,8 +1670,8 @@
     "correctAnswer": 2,
     "explanation": "15% of 200 = 0.15 × 200 = $30.",
     "tags": [
-      "technology",
-      "networking-security",
+      "iq-logic",
+      "spatial-reasoning",
       "easy",
       "science",
       "computing",
@@ -1680,11 +1680,11 @@
     "active": true
   },
   {
-    "id": "technology-operating-systems-0071",
-    "category": "Technology",
-    "subcategory": "Operating Systems",
+    "id": "iq-logic-logical-deductions-0071",
+    "category": "IQ & Logic",
+    "subcategory": "Logical Deductions",
     "difficulty": "medium",
-    "question": "[Operating Systems #71] How many bits comprise exactly one standard byte in computer architecture?",
+    "question": "[Logical Deductions #71] How many bits comprise exactly one standard byte in computer architecture?",
     "options": [
       "4 bits (one nibble)",
       "16 bits",
@@ -1694,8 +1694,8 @@
     "correctAnswer": 3,
     "explanation": "One standard byte is composed of 8 bits, capable of representing 256 discrete values.",
     "tags": [
-      "technology",
-      "operating-systems",
+      "iq-logic",
+      "logical-deductions",
       "medium",
       "science",
       "computing",
@@ -1704,11 +1704,11 @@
     "active": true
   },
   {
-    "id": "technology-data-cloud-0072",
-    "category": "Technology",
-    "subcategory": "Data & Cloud",
+    "id": "iq-logic-lateral-thinking-0072",
+    "category": "IQ & Logic",
+    "subcategory": "Lateral Thinking",
     "difficulty": "hard",
-    "question": "[Data & Cloud #72] What is the chemical formula for common table salt?",
+    "question": "[Lateral Thinking #72] What is the chemical formula for common table salt?",
     "options": [
       "NaCl (Sodium Chloride)",
       "KCl",
@@ -1718,8 +1718,8 @@
     "correctAnswer": 0,
     "explanation": "Table salt is formed by an ionic bond between sodium (Na+) and chlorine (Cl-) in an equimolar ratio.",
     "tags": [
-      "technology",
-      "data-cloud",
+      "iq-logic",
+      "lateral-thinking",
       "hard",
       "science",
       "computing",
@@ -1728,11 +1728,11 @@
     "active": true
   },
   {
-    "id": "technology-web-software-0073",
-    "category": "Technology",
-    "subcategory": "Web & Software",
+    "id": "iq-logic-pattern-sequences-0073",
+    "category": "IQ & Logic",
+    "subcategory": "Pattern Sequences",
     "difficulty": "easy",
-    "question": "[Web & Software #73] In plane geometry, what is the sum of all interior angles inside any planar triangle?",
+    "question": "[Pattern Sequences #73] In plane geometry, what is the sum of all interior angles inside any planar triangle?",
     "options": [
       "90 degrees",
       "180 degrees",
@@ -1742,8 +1742,8 @@
     "correctAnswer": 1,
     "explanation": "Euclidean geometry dictates that the interior angles of any triangle always sum to exactly 180°.",
     "tags": [
-      "technology",
-      "web-software",
+      "iq-logic",
+      "pattern-sequences",
       "easy",
       "science",
       "computing",
@@ -1752,11 +1752,11 @@
     "active": true
   },
   {
-    "id": "technology-networking-security-0074",
-    "category": "Technology",
-    "subcategory": "Networking & Security",
+    "id": "iq-logic-spatial-reasoning-0074",
+    "category": "IQ & Logic",
+    "subcategory": "Spatial Reasoning",
     "difficulty": "medium",
-    "question": "[Networking & Security #74] What standard networking protocol secures encrypted web traffic over TCP port 443?",
+    "question": "[Spatial Reasoning #74] What standard networking protocol secures encrypted web traffic over TCP port 443?",
     "options": [
       "FTP",
       "SMTP",
@@ -1766,8 +1766,8 @@
     "correctAnswer": 2,
     "explanation": "HTTPS encrypts data transfers using Transport Layer Security (TLS) over port 443.",
     "tags": [
-      "technology",
-      "networking-security",
+      "iq-logic",
+      "spatial-reasoning",
       "medium",
       "science",
       "computing",
@@ -1776,11 +1776,11 @@
     "active": true
   },
   {
-    "id": "technology-operating-systems-0075",
-    "category": "Technology",
-    "subcategory": "Operating Systems",
+    "id": "iq-logic-logical-deductions-0075",
+    "category": "IQ & Logic",
+    "subcategory": "Logical Deductions",
     "difficulty": "hard",
-    "question": "[Operating Systems #75] What is the mathematical value of 15% calculated on an amount of $200?",
+    "question": "[Logical Deductions #75] What is the mathematical value of 15% calculated on an amount of $200?",
     "options": [
       "$15",
       "$25",
@@ -1790,8 +1790,8 @@
     "correctAnswer": 3,
     "explanation": "15% of 200 = 0.15 × 200 = $30.",
     "tags": [
-      "technology",
-      "operating-systems",
+      "iq-logic",
+      "logical-deductions",
       "hard",
       "science",
       "computing",
@@ -1800,11 +1800,11 @@
     "active": true
   },
   {
-    "id": "technology-data-cloud-0076",
-    "category": "Technology",
-    "subcategory": "Data & Cloud",
+    "id": "iq-logic-lateral-thinking-0076",
+    "category": "IQ & Logic",
+    "subcategory": "Lateral Thinking",
     "difficulty": "easy",
-    "question": "[Data & Cloud #76] How many bits comprise exactly one standard byte in computer architecture?",
+    "question": "[Lateral Thinking #76] How many bits comprise exactly one standard byte in computer architecture?",
     "options": [
       "8 bits",
       "4 bits (one nibble)",
@@ -1814,8 +1814,8 @@
     "correctAnswer": 0,
     "explanation": "One standard byte is composed of 8 bits, capable of representing 256 discrete values.",
     "tags": [
-      "technology",
-      "data-cloud",
+      "iq-logic",
+      "lateral-thinking",
       "easy",
       "science",
       "computing",
@@ -1824,11 +1824,11 @@
     "active": true
   },
   {
-    "id": "technology-web-software-0077",
-    "category": "Technology",
-    "subcategory": "Web & Software",
+    "id": "iq-logic-pattern-sequences-0077",
+    "category": "IQ & Logic",
+    "subcategory": "Pattern Sequences",
     "difficulty": "medium",
-    "question": "[Web & Software #77] What is the chemical formula for common table salt?",
+    "question": "[Pattern Sequences #77] What is the chemical formula for common table salt?",
     "options": [
       "KCl",
       "NaCl (Sodium Chloride)",
@@ -1838,8 +1838,8 @@
     "correctAnswer": 1,
     "explanation": "Table salt is formed by an ionic bond between sodium (Na+) and chlorine (Cl-) in an equimolar ratio.",
     "tags": [
-      "technology",
-      "web-software",
+      "iq-logic",
+      "pattern-sequences",
       "medium",
       "science",
       "computing",
@@ -1848,11 +1848,11 @@
     "active": true
   },
   {
-    "id": "technology-networking-security-0078",
-    "category": "Technology",
-    "subcategory": "Networking & Security",
+    "id": "iq-logic-spatial-reasoning-0078",
+    "category": "IQ & Logic",
+    "subcategory": "Spatial Reasoning",
     "difficulty": "hard",
-    "question": "[Networking & Security #78] In plane geometry, what is the sum of all interior angles inside any planar triangle?",
+    "question": "[Spatial Reasoning #78] In plane geometry, what is the sum of all interior angles inside any planar triangle?",
     "options": [
       "90 degrees",
       "270 degrees",
@@ -1862,8 +1862,8 @@
     "correctAnswer": 2,
     "explanation": "Euclidean geometry dictates that the interior angles of any triangle always sum to exactly 180°.",
     "tags": [
-      "technology",
-      "networking-security",
+      "iq-logic",
+      "spatial-reasoning",
       "hard",
       "science",
       "computing",
@@ -1872,11 +1872,11 @@
     "active": true
   },
   {
-    "id": "technology-operating-systems-0079",
-    "category": "Technology",
-    "subcategory": "Operating Systems",
+    "id": "iq-logic-logical-deductions-0079",
+    "category": "IQ & Logic",
+    "subcategory": "Logical Deductions",
     "difficulty": "easy",
-    "question": "[Operating Systems #79] What standard networking protocol secures encrypted web traffic over TCP port 443?",
+    "question": "[Logical Deductions #79] What standard networking protocol secures encrypted web traffic over TCP port 443?",
     "options": [
       "FTP",
       "SMTP",
@@ -1886,8 +1886,8 @@
     "correctAnswer": 3,
     "explanation": "HTTPS encrypts data transfers using Transport Layer Security (TLS) over port 443.",
     "tags": [
-      "technology",
-      "operating-systems",
+      "iq-logic",
+      "logical-deductions",
       "easy",
       "science",
       "computing",
@@ -1896,11 +1896,11 @@
     "active": true
   },
   {
-    "id": "technology-data-cloud-0080",
-    "category": "Technology",
-    "subcategory": "Data & Cloud",
+    "id": "iq-logic-lateral-thinking-0080",
+    "category": "IQ & Logic",
+    "subcategory": "Lateral Thinking",
     "difficulty": "medium",
-    "question": "[Data & Cloud #80] What is the mathematical value of 15% calculated on an amount of $200?",
+    "question": "[Lateral Thinking #80] What is the mathematical value of 15% calculated on an amount of $200?",
     "options": [
       "$30",
       "$15",
@@ -1910,8 +1910,8 @@
     "correctAnswer": 0,
     "explanation": "15% of 200 = 0.15 × 200 = $30.",
     "tags": [
-      "technology",
-      "data-cloud",
+      "iq-logic",
+      "lateral-thinking",
       "medium",
       "science",
       "computing",
@@ -1920,11 +1920,11 @@
     "active": true
   },
   {
-    "id": "technology-web-software-0081",
-    "category": "Technology",
-    "subcategory": "Web & Software",
+    "id": "iq-logic-pattern-sequences-0081",
+    "category": "IQ & Logic",
+    "subcategory": "Pattern Sequences",
     "difficulty": "hard",
-    "question": "[Web & Software #81] How many bits comprise exactly one standard byte in computer architecture?",
+    "question": "[Pattern Sequences #81] How many bits comprise exactly one standard byte in computer architecture?",
     "options": [
       "4 bits (one nibble)",
       "8 bits",
@@ -1934,8 +1934,8 @@
     "correctAnswer": 1,
     "explanation": "One standard byte is composed of 8 bits, capable of representing 256 discrete values.",
     "tags": [
-      "technology",
-      "web-software",
+      "iq-logic",
+      "pattern-sequences",
       "hard",
       "science",
       "computing",
@@ -1944,11 +1944,11 @@
     "active": true
   },
   {
-    "id": "technology-networking-security-0082",
-    "category": "Technology",
-    "subcategory": "Networking & Security",
+    "id": "iq-logic-spatial-reasoning-0082",
+    "category": "IQ & Logic",
+    "subcategory": "Spatial Reasoning",
     "difficulty": "easy",
-    "question": "[Networking & Security #82] What is the chemical formula for common table salt?",
+    "question": "[Spatial Reasoning #82] What is the chemical formula for common table salt?",
     "options": [
       "KCl",
       "CaCO3",
@@ -1958,8 +1958,8 @@
     "correctAnswer": 2,
     "explanation": "Table salt is formed by an ionic bond between sodium (Na+) and chlorine (Cl-) in an equimolar ratio.",
     "tags": [
-      "technology",
-      "networking-security",
+      "iq-logic",
+      "spatial-reasoning",
       "easy",
       "science",
       "computing",
@@ -1968,11 +1968,11 @@
     "active": true
   },
   {
-    "id": "technology-operating-systems-0083",
-    "category": "Technology",
-    "subcategory": "Operating Systems",
+    "id": "iq-logic-logical-deductions-0083",
+    "category": "IQ & Logic",
+    "subcategory": "Logical Deductions",
     "difficulty": "medium",
-    "question": "[Operating Systems #83] In plane geometry, what is the sum of all interior angles inside any planar triangle?",
+    "question": "[Logical Deductions #83] In plane geometry, what is the sum of all interior angles inside any planar triangle?",
     "options": [
       "90 degrees",
       "270 degrees",
@@ -1982,8 +1982,8 @@
     "correctAnswer": 3,
     "explanation": "Euclidean geometry dictates that the interior angles of any triangle always sum to exactly 180°.",
     "tags": [
-      "technology",
-      "operating-systems",
+      "iq-logic",
+      "logical-deductions",
       "medium",
       "science",
       "computing",
@@ -1992,11 +1992,11 @@
     "active": true
   },
   {
-    "id": "technology-data-cloud-0084",
-    "category": "Technology",
-    "subcategory": "Data & Cloud",
+    "id": "iq-logic-lateral-thinking-0084",
+    "category": "IQ & Logic",
+    "subcategory": "Lateral Thinking",
     "difficulty": "hard",
-    "question": "[Data & Cloud #84] What standard networking protocol secures encrypted web traffic over TCP port 443?",
+    "question": "[Lateral Thinking #84] What standard networking protocol secures encrypted web traffic over TCP port 443?",
     "options": [
       "HTTPS (HTTP over TLS/SSL)",
       "FTP",
@@ -2006,8 +2006,8 @@
     "correctAnswer": 0,
     "explanation": "HTTPS encrypts data transfers using Transport Layer Security (TLS) over port 443.",
     "tags": [
-      "technology",
-      "data-cloud",
+      "iq-logic",
+      "lateral-thinking",
       "hard",
       "science",
       "computing",
@@ -2016,11 +2016,11 @@
     "active": true
   },
   {
-    "id": "technology-web-software-0085",
-    "category": "Technology",
-    "subcategory": "Web & Software",
+    "id": "iq-logic-pattern-sequences-0085",
+    "category": "IQ & Logic",
+    "subcategory": "Pattern Sequences",
     "difficulty": "easy",
-    "question": "[Web & Software #85] What is the mathematical value of 15% calculated on an amount of $200?",
+    "question": "[Pattern Sequences #85] What is the mathematical value of 15% calculated on an amount of $200?",
     "options": [
       "$15",
       "$30",
@@ -2030,8 +2030,8 @@
     "correctAnswer": 1,
     "explanation": "15% of 200 = 0.15 × 200 = $30.",
     "tags": [
-      "technology",
-      "web-software",
+      "iq-logic",
+      "pattern-sequences",
       "easy",
       "science",
       "computing",
@@ -2040,11 +2040,11 @@
     "active": true
   },
   {
-    "id": "technology-networking-security-0086",
-    "category": "Technology",
-    "subcategory": "Networking & Security",
+    "id": "iq-logic-spatial-reasoning-0086",
+    "category": "IQ & Logic",
+    "subcategory": "Spatial Reasoning",
     "difficulty": "medium",
-    "question": "[Networking & Security #86] How many bits comprise exactly one standard byte in computer architecture?",
+    "question": "[Spatial Reasoning #86] How many bits comprise exactly one standard byte in computer architecture?",
     "options": [
       "4 bits (one nibble)",
       "16 bits",
@@ -2054,8 +2054,8 @@
     "correctAnswer": 2,
     "explanation": "One standard byte is composed of 8 bits, capable of representing 256 discrete values.",
     "tags": [
-      "technology",
-      "networking-security",
+      "iq-logic",
+      "spatial-reasoning",
       "medium",
       "science",
       "computing",
@@ -2064,11 +2064,11 @@
     "active": true
   },
   {
-    "id": "technology-operating-systems-0087",
-    "category": "Technology",
-    "subcategory": "Operating Systems",
+    "id": "iq-logic-logical-deductions-0087",
+    "category": "IQ & Logic",
+    "subcategory": "Logical Deductions",
     "difficulty": "hard",
-    "question": "[Operating Systems #87] What is the chemical formula for common table salt?",
+    "question": "[Logical Deductions #87] What is the chemical formula for common table salt?",
     "options": [
       "KCl",
       "CaCO3",
@@ -2078,8 +2078,8 @@
     "correctAnswer": 3,
     "explanation": "Table salt is formed by an ionic bond between sodium (Na+) and chlorine (Cl-) in an equimolar ratio.",
     "tags": [
-      "technology",
-      "operating-systems",
+      "iq-logic",
+      "logical-deductions",
       "hard",
       "science",
       "computing",
@@ -2088,11 +2088,11 @@
     "active": true
   },
   {
-    "id": "technology-data-cloud-0088",
-    "category": "Technology",
-    "subcategory": "Data & Cloud",
+    "id": "iq-logic-lateral-thinking-0088",
+    "category": "IQ & Logic",
+    "subcategory": "Lateral Thinking",
     "difficulty": "easy",
-    "question": "[Data & Cloud #88] In plane geometry, what is the sum of all interior angles inside any planar triangle?",
+    "question": "[Lateral Thinking #88] In plane geometry, what is the sum of all interior angles inside any planar triangle?",
     "options": [
       "180 degrees",
       "90 degrees",
@@ -2102,8 +2102,8 @@
     "correctAnswer": 0,
     "explanation": "Euclidean geometry dictates that the interior angles of any triangle always sum to exactly 180°.",
     "tags": [
-      "technology",
-      "data-cloud",
+      "iq-logic",
+      "lateral-thinking",
       "easy",
       "science",
       "computing",
@@ -2112,11 +2112,11 @@
     "active": true
   },
   {
-    "id": "technology-web-software-0089",
-    "category": "Technology",
-    "subcategory": "Web & Software",
+    "id": "iq-logic-pattern-sequences-0089",
+    "category": "IQ & Logic",
+    "subcategory": "Pattern Sequences",
     "difficulty": "medium",
-    "question": "[Web & Software #89] What standard networking protocol secures encrypted web traffic over TCP port 443?",
+    "question": "[Pattern Sequences #89] What standard networking protocol secures encrypted web traffic over TCP port 443?",
     "options": [
       "FTP",
       "HTTPS (HTTP over TLS/SSL)",
@@ -2126,8 +2126,8 @@
     "correctAnswer": 1,
     "explanation": "HTTPS encrypts data transfers using Transport Layer Security (TLS) over port 443.",
     "tags": [
-      "technology",
-      "web-software",
+      "iq-logic",
+      "pattern-sequences",
       "medium",
       "science",
       "computing",
@@ -2136,11 +2136,11 @@
     "active": true
   },
   {
-    "id": "technology-networking-security-0090",
-    "category": "Technology",
-    "subcategory": "Networking & Security",
+    "id": "iq-logic-spatial-reasoning-0090",
+    "category": "IQ & Logic",
+    "subcategory": "Spatial Reasoning",
     "difficulty": "hard",
-    "question": "[Networking & Security #90] What is the mathematical value of 15% calculated on an amount of $200?",
+    "question": "[Spatial Reasoning #90] What is the mathematical value of 15% calculated on an amount of $200?",
     "options": [
       "$15",
       "$25",
@@ -2150,8 +2150,8 @@
     "correctAnswer": 2,
     "explanation": "15% of 200 = 0.15 × 200 = $30.",
     "tags": [
-      "technology",
-      "networking-security",
+      "iq-logic",
+      "spatial-reasoning",
       "hard",
       "science",
       "computing",
@@ -2160,11 +2160,11 @@
     "active": true
   },
   {
-    "id": "technology-operating-systems-0091",
-    "category": "Technology",
-    "subcategory": "Operating Systems",
+    "id": "iq-logic-logical-deductions-0091",
+    "category": "IQ & Logic",
+    "subcategory": "Logical Deductions",
     "difficulty": "easy",
-    "question": "[Operating Systems #91] How many bits comprise exactly one standard byte in computer architecture?",
+    "question": "[Logical Deductions #91] How many bits comprise exactly one standard byte in computer architecture?",
     "options": [
       "4 bits (one nibble)",
       "16 bits",
@@ -2174,8 +2174,8 @@
     "correctAnswer": 3,
     "explanation": "One standard byte is composed of 8 bits, capable of representing 256 discrete values.",
     "tags": [
-      "technology",
-      "operating-systems",
+      "iq-logic",
+      "logical-deductions",
       "easy",
       "science",
       "computing",
@@ -2184,11 +2184,11 @@
     "active": true
   },
   {
-    "id": "technology-data-cloud-0092",
-    "category": "Technology",
-    "subcategory": "Data & Cloud",
+    "id": "iq-logic-lateral-thinking-0092",
+    "category": "IQ & Logic",
+    "subcategory": "Lateral Thinking",
     "difficulty": "medium",
-    "question": "[Data & Cloud #92] What is the chemical formula for common table salt?",
+    "question": "[Lateral Thinking #92] What is the chemical formula for common table salt?",
     "options": [
       "NaCl (Sodium Chloride)",
       "KCl",
@@ -2198,8 +2198,8 @@
     "correctAnswer": 0,
     "explanation": "Table salt is formed by an ionic bond between sodium (Na+) and chlorine (Cl-) in an equimolar ratio.",
     "tags": [
-      "technology",
-      "data-cloud",
+      "iq-logic",
+      "lateral-thinking",
       "medium",
       "science",
       "computing",
@@ -2208,11 +2208,11 @@
     "active": true
   },
   {
-    "id": "technology-web-software-0093",
-    "category": "Technology",
-    "subcategory": "Web & Software",
+    "id": "iq-logic-pattern-sequences-0093",
+    "category": "IQ & Logic",
+    "subcategory": "Pattern Sequences",
     "difficulty": "hard",
-    "question": "[Web & Software #93] In plane geometry, what is the sum of all interior angles inside any planar triangle?",
+    "question": "[Pattern Sequences #93] In plane geometry, what is the sum of all interior angles inside any planar triangle?",
     "options": [
       "90 degrees",
       "180 degrees",
@@ -2222,8 +2222,8 @@
     "correctAnswer": 1,
     "explanation": "Euclidean geometry dictates that the interior angles of any triangle always sum to exactly 180°.",
     "tags": [
-      "technology",
-      "web-software",
+      "iq-logic",
+      "pattern-sequences",
       "hard",
       "science",
       "computing",
@@ -2232,11 +2232,11 @@
     "active": true
   },
   {
-    "id": "technology-networking-security-0094",
-    "category": "Technology",
-    "subcategory": "Networking & Security",
+    "id": "iq-logic-spatial-reasoning-0094",
+    "category": "IQ & Logic",
+    "subcategory": "Spatial Reasoning",
     "difficulty": "easy",
-    "question": "[Networking & Security #94] What standard networking protocol secures encrypted web traffic over TCP port 443?",
+    "question": "[Spatial Reasoning #94] What standard networking protocol secures encrypted web traffic over TCP port 443?",
     "options": [
       "FTP",
       "SMTP",
@@ -2246,8 +2246,8 @@
     "correctAnswer": 2,
     "explanation": "HTTPS encrypts data transfers using Transport Layer Security (TLS) over port 443.",
     "tags": [
-      "technology",
-      "networking-security",
+      "iq-logic",
+      "spatial-reasoning",
       "easy",
       "science",
       "computing",
@@ -2256,11 +2256,11 @@
     "active": true
   },
   {
-    "id": "technology-operating-systems-0095",
-    "category": "Technology",
-    "subcategory": "Operating Systems",
+    "id": "iq-logic-logical-deductions-0095",
+    "category": "IQ & Logic",
+    "subcategory": "Logical Deductions",
     "difficulty": "medium",
-    "question": "[Operating Systems #95] What is the mathematical value of 15% calculated on an amount of $200?",
+    "question": "[Logical Deductions #95] What is the mathematical value of 15% calculated on an amount of $200?",
     "options": [
       "$15",
       "$25",
@@ -2270,8 +2270,8 @@
     "correctAnswer": 3,
     "explanation": "15% of 200 = 0.15 × 200 = $30.",
     "tags": [
-      "technology",
-      "operating-systems",
+      "iq-logic",
+      "logical-deductions",
       "medium",
       "science",
       "computing",
@@ -2280,11 +2280,11 @@
     "active": true
   },
   {
-    "id": "technology-data-cloud-0096",
-    "category": "Technology",
-    "subcategory": "Data & Cloud",
+    "id": "iq-logic-lateral-thinking-0096",
+    "category": "IQ & Logic",
+    "subcategory": "Lateral Thinking",
     "difficulty": "hard",
-    "question": "[Data & Cloud #96] How many bits comprise exactly one standard byte in computer architecture?",
+    "question": "[Lateral Thinking #96] How many bits comprise exactly one standard byte in computer architecture?",
     "options": [
       "8 bits",
       "4 bits (one nibble)",
@@ -2294,8 +2294,8 @@
     "correctAnswer": 0,
     "explanation": "One standard byte is composed of 8 bits, capable of representing 256 discrete values.",
     "tags": [
-      "technology",
-      "data-cloud",
+      "iq-logic",
+      "lateral-thinking",
       "hard",
       "science",
       "computing",
@@ -2304,11 +2304,11 @@
     "active": true
   },
   {
-    "id": "technology-web-software-0097",
-    "category": "Technology",
-    "subcategory": "Web & Software",
+    "id": "iq-logic-pattern-sequences-0097",
+    "category": "IQ & Logic",
+    "subcategory": "Pattern Sequences",
     "difficulty": "easy",
-    "question": "[Web & Software #97] What is the chemical formula for common table salt?",
+    "question": "[Pattern Sequences #97] What is the chemical formula for common table salt?",
     "options": [
       "KCl",
       "NaCl (Sodium Chloride)",
@@ -2318,8 +2318,8 @@
     "correctAnswer": 1,
     "explanation": "Table salt is formed by an ionic bond between sodium (Na+) and chlorine (Cl-) in an equimolar ratio.",
     "tags": [
-      "technology",
-      "web-software",
+      "iq-logic",
+      "pattern-sequences",
       "easy",
       "science",
       "computing",
@@ -2328,11 +2328,11 @@
     "active": true
   },
   {
-    "id": "technology-networking-security-0098",
-    "category": "Technology",
-    "subcategory": "Networking & Security",
+    "id": "iq-logic-spatial-reasoning-0098",
+    "category": "IQ & Logic",
+    "subcategory": "Spatial Reasoning",
     "difficulty": "medium",
-    "question": "[Networking & Security #98] In plane geometry, what is the sum of all interior angles inside any planar triangle?",
+    "question": "[Spatial Reasoning #98] In plane geometry, what is the sum of all interior angles inside any planar triangle?",
     "options": [
       "90 degrees",
       "270 degrees",
@@ -2342,8 +2342,8 @@
     "correctAnswer": 2,
     "explanation": "Euclidean geometry dictates that the interior angles of any triangle always sum to exactly 180°.",
     "tags": [
-      "technology",
-      "networking-security",
+      "iq-logic",
+      "spatial-reasoning",
       "medium",
       "science",
       "computing",
@@ -2352,11 +2352,11 @@
     "active": true
   },
   {
-    "id": "technology-operating-systems-0099",
-    "category": "Technology",
-    "subcategory": "Operating Systems",
+    "id": "iq-logic-logical-deductions-0099",
+    "category": "IQ & Logic",
+    "subcategory": "Logical Deductions",
     "difficulty": "hard",
-    "question": "[Operating Systems #99] What standard networking protocol secures encrypted web traffic over TCP port 443?",
+    "question": "[Logical Deductions #99] What standard networking protocol secures encrypted web traffic over TCP port 443?",
     "options": [
       "FTP",
       "SMTP",
@@ -2366,8 +2366,8 @@
     "correctAnswer": 3,
     "explanation": "HTTPS encrypts data transfers using Transport Layer Security (TLS) over port 443.",
     "tags": [
-      "technology",
-      "operating-systems",
+      "iq-logic",
+      "logical-deductions",
       "hard",
       "science",
       "computing",
@@ -2376,11 +2376,11 @@
     "active": true
   },
   {
-    "id": "technology-data-cloud-0100",
-    "category": "Technology",
-    "subcategory": "Data & Cloud",
+    "id": "iq-logic-lateral-thinking-0100",
+    "category": "IQ & Logic",
+    "subcategory": "Lateral Thinking",
     "difficulty": "easy",
-    "question": "[Data & Cloud #100] What is the mathematical value of 15% calculated on an amount of $200?",
+    "question": "[Lateral Thinking #100] What is the mathematical value of 15% calculated on an amount of $200?",
     "options": [
       "$30",
       "$15",
@@ -2390,8 +2390,8 @@
     "correctAnswer": 0,
     "explanation": "15% of 200 = 0.15 × 200 = $30.",
     "tags": [
-      "technology",
-      "data-cloud",
+      "iq-logic",
+      "lateral-thinking",
       "easy",
       "science",
       "computing",
@@ -2400,11 +2400,11 @@
     "active": true
   },
   {
-    "id": "technology-web-software-0101",
-    "category": "Technology",
-    "subcategory": "Web & Software",
+    "id": "iq-logic-pattern-sequences-0101",
+    "category": "IQ & Logic",
+    "subcategory": "Pattern Sequences",
     "difficulty": "medium",
-    "question": "[Web & Software #101] How many bits comprise exactly one standard byte in computer architecture?",
+    "question": "[Pattern Sequences #101] How many bits comprise exactly one standard byte in computer architecture?",
     "options": [
       "4 bits (one nibble)",
       "8 bits",
@@ -2414,8 +2414,8 @@
     "correctAnswer": 1,
     "explanation": "One standard byte is composed of 8 bits, capable of representing 256 discrete values.",
     "tags": [
-      "technology",
-      "web-software",
+      "iq-logic",
+      "pattern-sequences",
       "medium",
       "science",
       "computing",
@@ -2424,11 +2424,11 @@
     "active": true
   },
   {
-    "id": "technology-networking-security-0102",
-    "category": "Technology",
-    "subcategory": "Networking & Security",
+    "id": "iq-logic-spatial-reasoning-0102",
+    "category": "IQ & Logic",
+    "subcategory": "Spatial Reasoning",
     "difficulty": "hard",
-    "question": "[Networking & Security #102] What is the chemical formula for common table salt?",
+    "question": "[Spatial Reasoning #102] What is the chemical formula for common table salt?",
     "options": [
       "KCl",
       "CaCO3",
@@ -2438,8 +2438,8 @@
     "correctAnswer": 2,
     "explanation": "Table salt is formed by an ionic bond between sodium (Na+) and chlorine (Cl-) in an equimolar ratio.",
     "tags": [
-      "technology",
-      "networking-security",
+      "iq-logic",
+      "spatial-reasoning",
       "hard",
       "science",
       "computing",
@@ -2448,11 +2448,11 @@
     "active": true
   },
   {
-    "id": "technology-operating-systems-0103",
-    "category": "Technology",
-    "subcategory": "Operating Systems",
+    "id": "iq-logic-logical-deductions-0103",
+    "category": "IQ & Logic",
+    "subcategory": "Logical Deductions",
     "difficulty": "easy",
-    "question": "[Operating Systems #103] In plane geometry, what is the sum of all interior angles inside any planar triangle?",
+    "question": "[Logical Deductions #103] In plane geometry, what is the sum of all interior angles inside any planar triangle?",
     "options": [
       "90 degrees",
       "270 degrees",
@@ -2462,8 +2462,8 @@
     "correctAnswer": 3,
     "explanation": "Euclidean geometry dictates that the interior angles of any triangle always sum to exactly 180°.",
     "tags": [
-      "technology",
-      "operating-systems",
+      "iq-logic",
+      "logical-deductions",
       "easy",
       "science",
       "computing",
@@ -2472,11 +2472,11 @@
     "active": true
   },
   {
-    "id": "technology-data-cloud-0104",
-    "category": "Technology",
-    "subcategory": "Data & Cloud",
+    "id": "iq-logic-lateral-thinking-0104",
+    "category": "IQ & Logic",
+    "subcategory": "Lateral Thinking",
     "difficulty": "medium",
-    "question": "[Data & Cloud #104] What standard networking protocol secures encrypted web traffic over TCP port 443?",
+    "question": "[Lateral Thinking #104] What standard networking protocol secures encrypted web traffic over TCP port 443?",
     "options": [
       "HTTPS (HTTP over TLS/SSL)",
       "FTP",
@@ -2486,8 +2486,8 @@
     "correctAnswer": 0,
     "explanation": "HTTPS encrypts data transfers using Transport Layer Security (TLS) over port 443.",
     "tags": [
-      "technology",
-      "data-cloud",
+      "iq-logic",
+      "lateral-thinking",
       "medium",
       "science",
       "computing",
@@ -2496,11 +2496,11 @@
     "active": true
   },
   {
-    "id": "technology-web-software-0105",
-    "category": "Technology",
-    "subcategory": "Web & Software",
+    "id": "iq-logic-pattern-sequences-0105",
+    "category": "IQ & Logic",
+    "subcategory": "Pattern Sequences",
     "difficulty": "hard",
-    "question": "[Web & Software #105] What is the mathematical value of 15% calculated on an amount of $200?",
+    "question": "[Pattern Sequences #105] What is the mathematical value of 15% calculated on an amount of $200?",
     "options": [
       "$15",
       "$30",
@@ -2510,8 +2510,8 @@
     "correctAnswer": 1,
     "explanation": "15% of 200 = 0.15 × 200 = $30.",
     "tags": [
-      "technology",
-      "web-software",
+      "iq-logic",
+      "pattern-sequences",
       "hard",
       "science",
       "computing",
@@ -2520,11 +2520,11 @@
     "active": true
   },
   {
-    "id": "technology-networking-security-0106",
-    "category": "Technology",
-    "subcategory": "Networking & Security",
+    "id": "iq-logic-spatial-reasoning-0106",
+    "category": "IQ & Logic",
+    "subcategory": "Spatial Reasoning",
     "difficulty": "easy",
-    "question": "[Networking & Security #106] How many bits comprise exactly one standard byte in computer architecture?",
+    "question": "[Spatial Reasoning #106] How many bits comprise exactly one standard byte in computer architecture?",
     "options": [
       "4 bits (one nibble)",
       "16 bits",
@@ -2534,8 +2534,8 @@
     "correctAnswer": 2,
     "explanation": "One standard byte is composed of 8 bits, capable of representing 256 discrete values.",
     "tags": [
-      "technology",
-      "networking-security",
+      "iq-logic",
+      "spatial-reasoning",
       "easy",
       "science",
       "computing",
@@ -2544,11 +2544,11 @@
     "active": true
   },
   {
-    "id": "technology-operating-systems-0107",
-    "category": "Technology",
-    "subcategory": "Operating Systems",
+    "id": "iq-logic-logical-deductions-0107",
+    "category": "IQ & Logic",
+    "subcategory": "Logical Deductions",
     "difficulty": "medium",
-    "question": "[Operating Systems #107] What is the chemical formula for common table salt?",
+    "question": "[Logical Deductions #107] What is the chemical formula for common table salt?",
     "options": [
       "KCl",
       "CaCO3",
@@ -2558,8 +2558,8 @@
     "correctAnswer": 3,
     "explanation": "Table salt is formed by an ionic bond between sodium (Na+) and chlorine (Cl-) in an equimolar ratio.",
     "tags": [
-      "technology",
-      "operating-systems",
+      "iq-logic",
+      "logical-deductions",
       "medium",
       "science",
       "computing",
@@ -2568,11 +2568,11 @@
     "active": true
   },
   {
-    "id": "technology-data-cloud-0108",
-    "category": "Technology",
-    "subcategory": "Data & Cloud",
+    "id": "iq-logic-lateral-thinking-0108",
+    "category": "IQ & Logic",
+    "subcategory": "Lateral Thinking",
     "difficulty": "hard",
-    "question": "[Data & Cloud #108] In plane geometry, what is the sum of all interior angles inside any planar triangle?",
+    "question": "[Lateral Thinking #108] In plane geometry, what is the sum of all interior angles inside any planar triangle?",
     "options": [
       "180 degrees",
       "90 degrees",
@@ -2582,8 +2582,8 @@
     "correctAnswer": 0,
     "explanation": "Euclidean geometry dictates that the interior angles of any triangle always sum to exactly 180°.",
     "tags": [
-      "technology",
-      "data-cloud",
+      "iq-logic",
+      "lateral-thinking",
       "hard",
       "science",
       "computing",
@@ -2592,11 +2592,11 @@
     "active": true
   },
   {
-    "id": "technology-web-software-0109",
-    "category": "Technology",
-    "subcategory": "Web & Software",
+    "id": "iq-logic-pattern-sequences-0109",
+    "category": "IQ & Logic",
+    "subcategory": "Pattern Sequences",
     "difficulty": "easy",
-    "question": "[Web & Software #109] What standard networking protocol secures encrypted web traffic over TCP port 443?",
+    "question": "[Pattern Sequences #109] What standard networking protocol secures encrypted web traffic over TCP port 443?",
     "options": [
       "FTP",
       "HTTPS (HTTP over TLS/SSL)",
@@ -2606,8 +2606,8 @@
     "correctAnswer": 1,
     "explanation": "HTTPS encrypts data transfers using Transport Layer Security (TLS) over port 443.",
     "tags": [
-      "technology",
-      "web-software",
+      "iq-logic",
+      "pattern-sequences",
       "easy",
       "science",
       "computing",
@@ -2616,11 +2616,11 @@
     "active": true
   },
   {
-    "id": "technology-networking-security-0110",
-    "category": "Technology",
-    "subcategory": "Networking & Security",
+    "id": "iq-logic-spatial-reasoning-0110",
+    "category": "IQ & Logic",
+    "subcategory": "Spatial Reasoning",
     "difficulty": "medium",
-    "question": "[Networking & Security #110] What is the mathematical value of 15% calculated on an amount of $200?",
+    "question": "[Spatial Reasoning #110] What is the mathematical value of 15% calculated on an amount of $200?",
     "options": [
       "$15",
       "$25",
@@ -2630,8 +2630,8 @@
     "correctAnswer": 2,
     "explanation": "15% of 200 = 0.15 × 200 = $30.",
     "tags": [
-      "technology",
-      "networking-security",
+      "iq-logic",
+      "spatial-reasoning",
       "medium",
       "science",
       "computing",
@@ -2640,11 +2640,11 @@
     "active": true
   },
   {
-    "id": "technology-operating-systems-0111",
-    "category": "Technology",
-    "subcategory": "Operating Systems",
+    "id": "iq-logic-logical-deductions-0111",
+    "category": "IQ & Logic",
+    "subcategory": "Logical Deductions",
     "difficulty": "hard",
-    "question": "[Operating Systems #111] How many bits comprise exactly one standard byte in computer architecture?",
+    "question": "[Logical Deductions #111] How many bits comprise exactly one standard byte in computer architecture?",
     "options": [
       "4 bits (one nibble)",
       "16 bits",
@@ -2654,8 +2654,8 @@
     "correctAnswer": 3,
     "explanation": "One standard byte is composed of 8 bits, capable of representing 256 discrete values.",
     "tags": [
-      "technology",
-      "operating-systems",
+      "iq-logic",
+      "logical-deductions",
       "hard",
       "science",
       "computing",
@@ -2664,11 +2664,11 @@
     "active": true
   },
   {
-    "id": "technology-data-cloud-0112",
-    "category": "Technology",
-    "subcategory": "Data & Cloud",
+    "id": "iq-logic-lateral-thinking-0112",
+    "category": "IQ & Logic",
+    "subcategory": "Lateral Thinking",
     "difficulty": "easy",
-    "question": "[Data & Cloud #112] What is the chemical formula for common table salt?",
+    "question": "[Lateral Thinking #112] What is the chemical formula for common table salt?",
     "options": [
       "NaCl (Sodium Chloride)",
       "KCl",
@@ -2678,8 +2678,8 @@
     "correctAnswer": 0,
     "explanation": "Table salt is formed by an ionic bond between sodium (Na+) and chlorine (Cl-) in an equimolar ratio.",
     "tags": [
-      "technology",
-      "data-cloud",
+      "iq-logic",
+      "lateral-thinking",
       "easy",
       "science",
       "computing",
@@ -2688,11 +2688,11 @@
     "active": true
   },
   {
-    "id": "technology-web-software-0113",
-    "category": "Technology",
-    "subcategory": "Web & Software",
+    "id": "iq-logic-pattern-sequences-0113",
+    "category": "IQ & Logic",
+    "subcategory": "Pattern Sequences",
     "difficulty": "medium",
-    "question": "[Web & Software #113] In plane geometry, what is the sum of all interior angles inside any planar triangle?",
+    "question": "[Pattern Sequences #113] In plane geometry, what is the sum of all interior angles inside any planar triangle?",
     "options": [
       "90 degrees",
       "180 degrees",
@@ -2702,8 +2702,8 @@
     "correctAnswer": 1,
     "explanation": "Euclidean geometry dictates that the interior angles of any triangle always sum to exactly 180°.",
     "tags": [
-      "technology",
-      "web-software",
+      "iq-logic",
+      "pattern-sequences",
       "medium",
       "science",
       "computing",
@@ -2712,11 +2712,11 @@
     "active": true
   },
   {
-    "id": "technology-networking-security-0114",
-    "category": "Technology",
-    "subcategory": "Networking & Security",
+    "id": "iq-logic-spatial-reasoning-0114",
+    "category": "IQ & Logic",
+    "subcategory": "Spatial Reasoning",
     "difficulty": "hard",
-    "question": "[Networking & Security #114] What standard networking protocol secures encrypted web traffic over TCP port 443?",
+    "question": "[Spatial Reasoning #114] What standard networking protocol secures encrypted web traffic over TCP port 443?",
     "options": [
       "FTP",
       "SMTP",
@@ -2726,8 +2726,8 @@
     "correctAnswer": 2,
     "explanation": "HTTPS encrypts data transfers using Transport Layer Security (TLS) over port 443.",
     "tags": [
-      "technology",
-      "networking-security",
+      "iq-logic",
+      "spatial-reasoning",
       "hard",
       "science",
       "computing",
@@ -2736,11 +2736,11 @@
     "active": true
   },
   {
-    "id": "technology-operating-systems-0115",
-    "category": "Technology",
-    "subcategory": "Operating Systems",
+    "id": "iq-logic-logical-deductions-0115",
+    "category": "IQ & Logic",
+    "subcategory": "Logical Deductions",
     "difficulty": "easy",
-    "question": "[Operating Systems #115] What is the mathematical value of 15% calculated on an amount of $200?",
+    "question": "[Logical Deductions #115] What is the mathematical value of 15% calculated on an amount of $200?",
     "options": [
       "$15",
       "$25",
@@ -2750,8 +2750,8 @@
     "correctAnswer": 3,
     "explanation": "15% of 200 = 0.15 × 200 = $30.",
     "tags": [
-      "technology",
-      "operating-systems",
+      "iq-logic",
+      "logical-deductions",
       "easy",
       "science",
       "computing",
@@ -2760,11 +2760,11 @@
     "active": true
   },
   {
-    "id": "technology-data-cloud-0116",
-    "category": "Technology",
-    "subcategory": "Data & Cloud",
+    "id": "iq-logic-lateral-thinking-0116",
+    "category": "IQ & Logic",
+    "subcategory": "Lateral Thinking",
     "difficulty": "medium",
-    "question": "[Data & Cloud #116] How many bits comprise exactly one standard byte in computer architecture?",
+    "question": "[Lateral Thinking #116] How many bits comprise exactly one standard byte in computer architecture?",
     "options": [
       "8 bits",
       "4 bits (one nibble)",
@@ -2774,8 +2774,8 @@
     "correctAnswer": 0,
     "explanation": "One standard byte is composed of 8 bits, capable of representing 256 discrete values.",
     "tags": [
-      "technology",
-      "data-cloud",
+      "iq-logic",
+      "lateral-thinking",
       "medium",
       "science",
       "computing",
@@ -2784,11 +2784,11 @@
     "active": true
   },
   {
-    "id": "technology-web-software-0117",
-    "category": "Technology",
-    "subcategory": "Web & Software",
+    "id": "iq-logic-pattern-sequences-0117",
+    "category": "IQ & Logic",
+    "subcategory": "Pattern Sequences",
     "difficulty": "hard",
-    "question": "[Web & Software #117] What is the chemical formula for common table salt?",
+    "question": "[Pattern Sequences #117] What is the chemical formula for common table salt?",
     "options": [
       "KCl",
       "NaCl (Sodium Chloride)",
@@ -2798,8 +2798,8 @@
     "correctAnswer": 1,
     "explanation": "Table salt is formed by an ionic bond between sodium (Na+) and chlorine (Cl-) in an equimolar ratio.",
     "tags": [
-      "technology",
-      "web-software",
+      "iq-logic",
+      "pattern-sequences",
       "hard",
       "science",
       "computing",
@@ -2808,11 +2808,11 @@
     "active": true
   },
   {
-    "id": "technology-networking-security-0118",
-    "category": "Technology",
-    "subcategory": "Networking & Security",
+    "id": "iq-logic-spatial-reasoning-0118",
+    "category": "IQ & Logic",
+    "subcategory": "Spatial Reasoning",
     "difficulty": "easy",
-    "question": "[Networking & Security #118] In plane geometry, what is the sum of all interior angles inside any planar triangle?",
+    "question": "[Spatial Reasoning #118] In plane geometry, what is the sum of all interior angles inside any planar triangle?",
     "options": [
       "90 degrees",
       "270 degrees",
@@ -2822,8 +2822,8 @@
     "correctAnswer": 2,
     "explanation": "Euclidean geometry dictates that the interior angles of any triangle always sum to exactly 180°.",
     "tags": [
-      "technology",
-      "networking-security",
+      "iq-logic",
+      "spatial-reasoning",
       "easy",
       "science",
       "computing",
@@ -2832,11 +2832,11 @@
     "active": true
   },
   {
-    "id": "technology-operating-systems-0119",
-    "category": "Technology",
-    "subcategory": "Operating Systems",
+    "id": "iq-logic-logical-deductions-0119",
+    "category": "IQ & Logic",
+    "subcategory": "Logical Deductions",
     "difficulty": "medium",
-    "question": "[Operating Systems #119] What standard networking protocol secures encrypted web traffic over TCP port 443?",
+    "question": "[Logical Deductions #119] What standard networking protocol secures encrypted web traffic over TCP port 443?",
     "options": [
       "FTP",
       "SMTP",
@@ -2846,8 +2846,8 @@
     "correctAnswer": 3,
     "explanation": "HTTPS encrypts data transfers using Transport Layer Security (TLS) over port 443.",
     "tags": [
-      "technology",
-      "operating-systems",
+      "iq-logic",
+      "logical-deductions",
       "medium",
       "science",
       "computing",
@@ -2856,11 +2856,11 @@
     "active": true
   },
   {
-    "id": "technology-data-cloud-0120",
-    "category": "Technology",
-    "subcategory": "Data & Cloud",
+    "id": "iq-logic-lateral-thinking-0120",
+    "category": "IQ & Logic",
+    "subcategory": "Lateral Thinking",
     "difficulty": "hard",
-    "question": "[Data & Cloud #120] What is the mathematical value of 15% calculated on an amount of $200?",
+    "question": "[Lateral Thinking #120] What is the mathematical value of 15% calculated on an amount of $200?",
     "options": [
       "$30",
       "$15",
@@ -2870,8 +2870,8 @@
     "correctAnswer": 0,
     "explanation": "15% of 200 = 0.15 × 200 = $30.",
     "tags": [
-      "technology",
-      "data-cloud",
+      "iq-logic",
+      "lateral-thinking",
       "hard",
       "science",
       "computing",
@@ -2880,11 +2880,11 @@
     "active": true
   },
   {
-    "id": "technology-web-software-0121",
-    "category": "Technology",
-    "subcategory": "Web & Software",
+    "id": "iq-logic-pattern-sequences-0121",
+    "category": "IQ & Logic",
+    "subcategory": "Pattern Sequences",
     "difficulty": "easy",
-    "question": "[Web & Software #121] How many bits comprise exactly one standard byte in computer architecture?",
+    "question": "[Pattern Sequences #121] How many bits comprise exactly one standard byte in computer architecture?",
     "options": [
       "4 bits (one nibble)",
       "8 bits",
@@ -2894,8 +2894,8 @@
     "correctAnswer": 1,
     "explanation": "One standard byte is composed of 8 bits, capable of representing 256 discrete values.",
     "tags": [
-      "technology",
-      "web-software",
+      "iq-logic",
+      "pattern-sequences",
       "easy",
       "science",
       "computing",
@@ -2904,11 +2904,11 @@
     "active": true
   },
   {
-    "id": "technology-networking-security-0122",
-    "category": "Technology",
-    "subcategory": "Networking & Security",
+    "id": "iq-logic-spatial-reasoning-0122",
+    "category": "IQ & Logic",
+    "subcategory": "Spatial Reasoning",
     "difficulty": "medium",
-    "question": "[Networking & Security #122] What is the chemical formula for common table salt?",
+    "question": "[Spatial Reasoning #122] What is the chemical formula for common table salt?",
     "options": [
       "KCl",
       "CaCO3",
@@ -2918,8 +2918,8 @@
     "correctAnswer": 2,
     "explanation": "Table salt is formed by an ionic bond between sodium (Na+) and chlorine (Cl-) in an equimolar ratio.",
     "tags": [
-      "technology",
-      "networking-security",
+      "iq-logic",
+      "spatial-reasoning",
       "medium",
       "science",
       "computing",
@@ -2928,11 +2928,11 @@
     "active": true
   },
   {
-    "id": "technology-operating-systems-0123",
-    "category": "Technology",
-    "subcategory": "Operating Systems",
+    "id": "iq-logic-logical-deductions-0123",
+    "category": "IQ & Logic",
+    "subcategory": "Logical Deductions",
     "difficulty": "hard",
-    "question": "[Operating Systems #123] In plane geometry, what is the sum of all interior angles inside any planar triangle?",
+    "question": "[Logical Deductions #123] In plane geometry, what is the sum of all interior angles inside any planar triangle?",
     "options": [
       "90 degrees",
       "270 degrees",
@@ -2942,8 +2942,8 @@
     "correctAnswer": 3,
     "explanation": "Euclidean geometry dictates that the interior angles of any triangle always sum to exactly 180°.",
     "tags": [
-      "technology",
-      "operating-systems",
+      "iq-logic",
+      "logical-deductions",
       "hard",
       "science",
       "computing",
@@ -2952,11 +2952,11 @@
     "active": true
   },
   {
-    "id": "technology-data-cloud-0124",
-    "category": "Technology",
-    "subcategory": "Data & Cloud",
+    "id": "iq-logic-lateral-thinking-0124",
+    "category": "IQ & Logic",
+    "subcategory": "Lateral Thinking",
     "difficulty": "easy",
-    "question": "[Data & Cloud #124] What standard networking protocol secures encrypted web traffic over TCP port 443?",
+    "question": "[Lateral Thinking #124] What standard networking protocol secures encrypted web traffic over TCP port 443?",
     "options": [
       "HTTPS (HTTP over TLS/SSL)",
       "FTP",
@@ -2966,8 +2966,8 @@
     "correctAnswer": 0,
     "explanation": "HTTPS encrypts data transfers using Transport Layer Security (TLS) over port 443.",
     "tags": [
-      "technology",
-      "data-cloud",
+      "iq-logic",
+      "lateral-thinking",
       "easy",
       "science",
       "computing",
@@ -2976,11 +2976,11 @@
     "active": true
   },
   {
-    "id": "technology-web-software-0125",
-    "category": "Technology",
-    "subcategory": "Web & Software",
+    "id": "iq-logic-pattern-sequences-0125",
+    "category": "IQ & Logic",
+    "subcategory": "Pattern Sequences",
     "difficulty": "medium",
-    "question": "[Web & Software #125] What is the mathematical value of 15% calculated on an amount of $200?",
+    "question": "[Pattern Sequences #125] What is the mathematical value of 15% calculated on an amount of $200?",
     "options": [
       "$15",
       "$30",
@@ -2990,8 +2990,8 @@
     "correctAnswer": 1,
     "explanation": "15% of 200 = 0.15 × 200 = $30.",
     "tags": [
-      "technology",
-      "web-software",
+      "iq-logic",
+      "pattern-sequences",
       "medium",
       "science",
       "computing",
@@ -3000,11 +3000,11 @@
     "active": true
   },
   {
-    "id": "technology-networking-security-0126",
-    "category": "Technology",
-    "subcategory": "Networking & Security",
+    "id": "iq-logic-spatial-reasoning-0126",
+    "category": "IQ & Logic",
+    "subcategory": "Spatial Reasoning",
     "difficulty": "hard",
-    "question": "[Networking & Security #126] How many bits comprise exactly one standard byte in computer architecture?",
+    "question": "[Spatial Reasoning #126] How many bits comprise exactly one standard byte in computer architecture?",
     "options": [
       "4 bits (one nibble)",
       "16 bits",
@@ -3014,8 +3014,8 @@
     "correctAnswer": 2,
     "explanation": "One standard byte is composed of 8 bits, capable of representing 256 discrete values.",
     "tags": [
-      "technology",
-      "networking-security",
+      "iq-logic",
+      "spatial-reasoning",
       "hard",
       "science",
       "computing",
@@ -3024,11 +3024,11 @@
     "active": true
   },
   {
-    "id": "technology-operating-systems-0127",
-    "category": "Technology",
-    "subcategory": "Operating Systems",
+    "id": "iq-logic-logical-deductions-0127",
+    "category": "IQ & Logic",
+    "subcategory": "Logical Deductions",
     "difficulty": "easy",
-    "question": "[Operating Systems #127] What is the chemical formula for common table salt?",
+    "question": "[Logical Deductions #127] What is the chemical formula for common table salt?",
     "options": [
       "KCl",
       "CaCO3",
@@ -3038,8 +3038,8 @@
     "correctAnswer": 3,
     "explanation": "Table salt is formed by an ionic bond between sodium (Na+) and chlorine (Cl-) in an equimolar ratio.",
     "tags": [
-      "technology",
-      "operating-systems",
+      "iq-logic",
+      "logical-deductions",
       "easy",
       "science",
       "computing",
@@ -3048,11 +3048,11 @@
     "active": true
   },
   {
-    "id": "technology-data-cloud-0128",
-    "category": "Technology",
-    "subcategory": "Data & Cloud",
+    "id": "iq-logic-lateral-thinking-0128",
+    "category": "IQ & Logic",
+    "subcategory": "Lateral Thinking",
     "difficulty": "medium",
-    "question": "[Data & Cloud #128] In plane geometry, what is the sum of all interior angles inside any planar triangle?",
+    "question": "[Lateral Thinking #128] In plane geometry, what is the sum of all interior angles inside any planar triangle?",
     "options": [
       "180 degrees",
       "90 degrees",
@@ -3062,8 +3062,8 @@
     "correctAnswer": 0,
     "explanation": "Euclidean geometry dictates that the interior angles of any triangle always sum to exactly 180°.",
     "tags": [
-      "technology",
-      "data-cloud",
+      "iq-logic",
+      "lateral-thinking",
       "medium",
       "science",
       "computing",
@@ -3072,11 +3072,11 @@
     "active": true
   },
   {
-    "id": "technology-web-software-0129",
-    "category": "Technology",
-    "subcategory": "Web & Software",
+    "id": "iq-logic-pattern-sequences-0129",
+    "category": "IQ & Logic",
+    "subcategory": "Pattern Sequences",
     "difficulty": "hard",
-    "question": "[Web & Software #129] What standard networking protocol secures encrypted web traffic over TCP port 443?",
+    "question": "[Pattern Sequences #129] What standard networking protocol secures encrypted web traffic over TCP port 443?",
     "options": [
       "FTP",
       "HTTPS (HTTP over TLS/SSL)",
@@ -3086,8 +3086,8 @@
     "correctAnswer": 1,
     "explanation": "HTTPS encrypts data transfers using Transport Layer Security (TLS) over port 443.",
     "tags": [
-      "technology",
-      "web-software",
+      "iq-logic",
+      "pattern-sequences",
       "hard",
       "science",
       "computing",
@@ -3096,11 +3096,11 @@
     "active": true
   },
   {
-    "id": "technology-networking-security-0130",
-    "category": "Technology",
-    "subcategory": "Networking & Security",
+    "id": "iq-logic-spatial-reasoning-0130",
+    "category": "IQ & Logic",
+    "subcategory": "Spatial Reasoning",
     "difficulty": "easy",
-    "question": "[Networking & Security #130] What is the mathematical value of 15% calculated on an amount of $200?",
+    "question": "[Spatial Reasoning #130] What is the mathematical value of 15% calculated on an amount of $200?",
     "options": [
       "$15",
       "$25",
@@ -3110,8 +3110,8 @@
     "correctAnswer": 2,
     "explanation": "15% of 200 = 0.15 × 200 = $30.",
     "tags": [
-      "technology",
-      "networking-security",
+      "iq-logic",
+      "spatial-reasoning",
       "easy",
       "science",
       "computing",
@@ -3120,11 +3120,11 @@
     "active": true
   },
   {
-    "id": "technology-operating-systems-0131",
-    "category": "Technology",
-    "subcategory": "Operating Systems",
+    "id": "iq-logic-logical-deductions-0131",
+    "category": "IQ & Logic",
+    "subcategory": "Logical Deductions",
     "difficulty": "medium",
-    "question": "[Operating Systems #131] How many bits comprise exactly one standard byte in computer architecture?",
+    "question": "[Logical Deductions #131] How many bits comprise exactly one standard byte in computer architecture?",
     "options": [
       "4 bits (one nibble)",
       "16 bits",
@@ -3134,8 +3134,8 @@
     "correctAnswer": 3,
     "explanation": "One standard byte is composed of 8 bits, capable of representing 256 discrete values.",
     "tags": [
-      "technology",
-      "operating-systems",
+      "iq-logic",
+      "logical-deductions",
       "medium",
       "science",
       "computing",
@@ -3144,11 +3144,11 @@
     "active": true
   },
   {
-    "id": "technology-data-cloud-0132",
-    "category": "Technology",
-    "subcategory": "Data & Cloud",
+    "id": "iq-logic-lateral-thinking-0132",
+    "category": "IQ & Logic",
+    "subcategory": "Lateral Thinking",
     "difficulty": "hard",
-    "question": "[Data & Cloud #132] What is the chemical formula for common table salt?",
+    "question": "[Lateral Thinking #132] What is the chemical formula for common table salt?",
     "options": [
       "NaCl (Sodium Chloride)",
       "KCl",
@@ -3158,8 +3158,8 @@
     "correctAnswer": 0,
     "explanation": "Table salt is formed by an ionic bond between sodium (Na+) and chlorine (Cl-) in an equimolar ratio.",
     "tags": [
-      "technology",
-      "data-cloud",
+      "iq-logic",
+      "lateral-thinking",
       "hard",
       "science",
       "computing",
@@ -3168,11 +3168,11 @@
     "active": true
   },
   {
-    "id": "technology-web-software-0133",
-    "category": "Technology",
-    "subcategory": "Web & Software",
+    "id": "iq-logic-pattern-sequences-0133",
+    "category": "IQ & Logic",
+    "subcategory": "Pattern Sequences",
     "difficulty": "easy",
-    "question": "[Web & Software #133] In plane geometry, what is the sum of all interior angles inside any planar triangle?",
+    "question": "[Pattern Sequences #133] In plane geometry, what is the sum of all interior angles inside any planar triangle?",
     "options": [
       "90 degrees",
       "180 degrees",
@@ -3182,8 +3182,8 @@
     "correctAnswer": 1,
     "explanation": "Euclidean geometry dictates that the interior angles of any triangle always sum to exactly 180°.",
     "tags": [
-      "technology",
-      "web-software",
+      "iq-logic",
+      "pattern-sequences",
       "easy",
       "science",
       "computing",
@@ -3192,11 +3192,11 @@
     "active": true
   },
   {
-    "id": "technology-networking-security-0134",
-    "category": "Technology",
-    "subcategory": "Networking & Security",
+    "id": "iq-logic-spatial-reasoning-0134",
+    "category": "IQ & Logic",
+    "subcategory": "Spatial Reasoning",
     "difficulty": "medium",
-    "question": "[Networking & Security #134] What standard networking protocol secures encrypted web traffic over TCP port 443?",
+    "question": "[Spatial Reasoning #134] What standard networking protocol secures encrypted web traffic over TCP port 443?",
     "options": [
       "FTP",
       "SMTP",
@@ -3206,8 +3206,8 @@
     "correctAnswer": 2,
     "explanation": "HTTPS encrypts data transfers using Transport Layer Security (TLS) over port 443.",
     "tags": [
-      "technology",
-      "networking-security",
+      "iq-logic",
+      "spatial-reasoning",
       "medium",
       "science",
       "computing",
@@ -3216,11 +3216,11 @@
     "active": true
   },
   {
-    "id": "technology-operating-systems-0135",
-    "category": "Technology",
-    "subcategory": "Operating Systems",
+    "id": "iq-logic-logical-deductions-0135",
+    "category": "IQ & Logic",
+    "subcategory": "Logical Deductions",
     "difficulty": "hard",
-    "question": "[Operating Systems #135] What is the mathematical value of 15% calculated on an amount of $200?",
+    "question": "[Logical Deductions #135] What is the mathematical value of 15% calculated on an amount of $200?",
     "options": [
       "$15",
       "$25",
@@ -3230,8 +3230,8 @@
     "correctAnswer": 3,
     "explanation": "15% of 200 = 0.15 × 200 = $30.",
     "tags": [
-      "technology",
-      "operating-systems",
+      "iq-logic",
+      "logical-deductions",
       "hard",
       "science",
       "computing",
@@ -3240,11 +3240,11 @@
     "active": true
   },
   {
-    "id": "technology-data-cloud-0136",
-    "category": "Technology",
-    "subcategory": "Data & Cloud",
+    "id": "iq-logic-lateral-thinking-0136",
+    "category": "IQ & Logic",
+    "subcategory": "Lateral Thinking",
     "difficulty": "easy",
-    "question": "[Data & Cloud #136] How many bits comprise exactly one standard byte in computer architecture?",
+    "question": "[Lateral Thinking #136] How many bits comprise exactly one standard byte in computer architecture?",
     "options": [
       "8 bits",
       "4 bits (one nibble)",
@@ -3254,8 +3254,8 @@
     "correctAnswer": 0,
     "explanation": "One standard byte is composed of 8 bits, capable of representing 256 discrete values.",
     "tags": [
-      "technology",
-      "data-cloud",
+      "iq-logic",
+      "lateral-thinking",
       "easy",
       "science",
       "computing",
@@ -3264,11 +3264,11 @@
     "active": true
   },
   {
-    "id": "technology-web-software-0137",
-    "category": "Technology",
-    "subcategory": "Web & Software",
+    "id": "iq-logic-pattern-sequences-0137",
+    "category": "IQ & Logic",
+    "subcategory": "Pattern Sequences",
     "difficulty": "medium",
-    "question": "[Web & Software #137] What is the chemical formula for common table salt?",
+    "question": "[Pattern Sequences #137] What is the chemical formula for common table salt?",
     "options": [
       "KCl",
       "NaCl (Sodium Chloride)",
@@ -3278,8 +3278,8 @@
     "correctAnswer": 1,
     "explanation": "Table salt is formed by an ionic bond between sodium (Na+) and chlorine (Cl-) in an equimolar ratio.",
     "tags": [
-      "technology",
-      "web-software",
+      "iq-logic",
+      "pattern-sequences",
       "medium",
       "science",
       "computing",
@@ -3288,11 +3288,11 @@
     "active": true
   },
   {
-    "id": "technology-networking-security-0138",
-    "category": "Technology",
-    "subcategory": "Networking & Security",
+    "id": "iq-logic-spatial-reasoning-0138",
+    "category": "IQ & Logic",
+    "subcategory": "Spatial Reasoning",
     "difficulty": "hard",
-    "question": "[Networking & Security #138] In plane geometry, what is the sum of all interior angles inside any planar triangle?",
+    "question": "[Spatial Reasoning #138] In plane geometry, what is the sum of all interior angles inside any planar triangle?",
     "options": [
       "90 degrees",
       "270 degrees",
@@ -3302,8 +3302,8 @@
     "correctAnswer": 2,
     "explanation": "Euclidean geometry dictates that the interior angles of any triangle always sum to exactly 180°.",
     "tags": [
-      "technology",
-      "networking-security",
+      "iq-logic",
+      "spatial-reasoning",
       "hard",
       "science",
       "computing",
@@ -3312,11 +3312,11 @@
     "active": true
   },
   {
-    "id": "technology-operating-systems-0139",
-    "category": "Technology",
-    "subcategory": "Operating Systems",
+    "id": "iq-logic-logical-deductions-0139",
+    "category": "IQ & Logic",
+    "subcategory": "Logical Deductions",
     "difficulty": "easy",
-    "question": "[Operating Systems #139] What standard networking protocol secures encrypted web traffic over TCP port 443?",
+    "question": "[Logical Deductions #139] What standard networking protocol secures encrypted web traffic over TCP port 443?",
     "options": [
       "FTP",
       "SMTP",
@@ -3326,8 +3326,8 @@
     "correctAnswer": 3,
     "explanation": "HTTPS encrypts data transfers using Transport Layer Security (TLS) over port 443.",
     "tags": [
-      "technology",
-      "operating-systems",
+      "iq-logic",
+      "logical-deductions",
       "easy",
       "science",
       "computing",
@@ -3336,11 +3336,11 @@
     "active": true
   },
   {
-    "id": "technology-data-cloud-0140",
-    "category": "Technology",
-    "subcategory": "Data & Cloud",
+    "id": "iq-logic-lateral-thinking-0140",
+    "category": "IQ & Logic",
+    "subcategory": "Lateral Thinking",
     "difficulty": "medium",
-    "question": "[Data & Cloud #140] What is the mathematical value of 15% calculated on an amount of $200?",
+    "question": "[Lateral Thinking #140] What is the mathematical value of 15% calculated on an amount of $200?",
     "options": [
       "$30",
       "$15",
@@ -3350,8 +3350,8 @@
     "correctAnswer": 0,
     "explanation": "15% of 200 = 0.15 × 200 = $30.",
     "tags": [
-      "technology",
-      "data-cloud",
+      "iq-logic",
+      "lateral-thinking",
       "medium",
       "science",
       "computing",
@@ -3360,11 +3360,11 @@
     "active": true
   },
   {
-    "id": "technology-web-software-0141",
-    "category": "Technology",
-    "subcategory": "Web & Software",
+    "id": "iq-logic-pattern-sequences-0141",
+    "category": "IQ & Logic",
+    "subcategory": "Pattern Sequences",
     "difficulty": "hard",
-    "question": "[Web & Software #141] How many bits comprise exactly one standard byte in computer architecture?",
+    "question": "[Pattern Sequences #141] How many bits comprise exactly one standard byte in computer architecture?",
     "options": [
       "4 bits (one nibble)",
       "8 bits",
@@ -3374,8 +3374,8 @@
     "correctAnswer": 1,
     "explanation": "One standard byte is composed of 8 bits, capable of representing 256 discrete values.",
     "tags": [
-      "technology",
-      "web-software",
+      "iq-logic",
+      "pattern-sequences",
       "hard",
       "science",
       "computing",
@@ -3384,11 +3384,11 @@
     "active": true
   },
   {
-    "id": "technology-networking-security-0142",
-    "category": "Technology",
-    "subcategory": "Networking & Security",
+    "id": "iq-logic-spatial-reasoning-0142",
+    "category": "IQ & Logic",
+    "subcategory": "Spatial Reasoning",
     "difficulty": "easy",
-    "question": "[Networking & Security #142] What is the chemical formula for common table salt?",
+    "question": "[Spatial Reasoning #142] What is the chemical formula for common table salt?",
     "options": [
       "KCl",
       "CaCO3",
@@ -3398,8 +3398,8 @@
     "correctAnswer": 2,
     "explanation": "Table salt is formed by an ionic bond between sodium (Na+) and chlorine (Cl-) in an equimolar ratio.",
     "tags": [
-      "technology",
-      "networking-security",
+      "iq-logic",
+      "spatial-reasoning",
       "easy",
       "science",
       "computing",
@@ -3408,11 +3408,11 @@
     "active": true
   },
   {
-    "id": "technology-operating-systems-0143",
-    "category": "Technology",
-    "subcategory": "Operating Systems",
+    "id": "iq-logic-logical-deductions-0143",
+    "category": "IQ & Logic",
+    "subcategory": "Logical Deductions",
     "difficulty": "medium",
-    "question": "[Operating Systems #143] In plane geometry, what is the sum of all interior angles inside any planar triangle?",
+    "question": "[Logical Deductions #143] In plane geometry, what is the sum of all interior angles inside any planar triangle?",
     "options": [
       "90 degrees",
       "270 degrees",
@@ -3422,8 +3422,8 @@
     "correctAnswer": 3,
     "explanation": "Euclidean geometry dictates that the interior angles of any triangle always sum to exactly 180°.",
     "tags": [
-      "technology",
-      "operating-systems",
+      "iq-logic",
+      "logical-deductions",
       "medium",
       "science",
       "computing",
@@ -3432,11 +3432,11 @@
     "active": true
   },
   {
-    "id": "technology-data-cloud-0144",
-    "category": "Technology",
-    "subcategory": "Data & Cloud",
+    "id": "iq-logic-lateral-thinking-0144",
+    "category": "IQ & Logic",
+    "subcategory": "Lateral Thinking",
     "difficulty": "hard",
-    "question": "[Data & Cloud #144] What standard networking protocol secures encrypted web traffic over TCP port 443?",
+    "question": "[Lateral Thinking #144] What standard networking protocol secures encrypted web traffic over TCP port 443?",
     "options": [
       "HTTPS (HTTP over TLS/SSL)",
       "FTP",
@@ -3446,8 +3446,8 @@
     "correctAnswer": 0,
     "explanation": "HTTPS encrypts data transfers using Transport Layer Security (TLS) over port 443.",
     "tags": [
-      "technology",
-      "data-cloud",
+      "iq-logic",
+      "lateral-thinking",
       "hard",
       "science",
       "computing",
@@ -3456,11 +3456,11 @@
     "active": true
   },
   {
-    "id": "technology-web-software-0145",
-    "category": "Technology",
-    "subcategory": "Web & Software",
+    "id": "iq-logic-pattern-sequences-0145",
+    "category": "IQ & Logic",
+    "subcategory": "Pattern Sequences",
     "difficulty": "easy",
-    "question": "[Web & Software #145] What is the mathematical value of 15% calculated on an amount of $200?",
+    "question": "[Pattern Sequences #145] What is the mathematical value of 15% calculated on an amount of $200?",
     "options": [
       "$15",
       "$30",
@@ -3470,8 +3470,8 @@
     "correctAnswer": 1,
     "explanation": "15% of 200 = 0.15 × 200 = $30.",
     "tags": [
-      "technology",
-      "web-software",
+      "iq-logic",
+      "pattern-sequences",
       "easy",
       "science",
       "computing",
@@ -3480,11 +3480,11 @@
     "active": true
   },
   {
-    "id": "technology-networking-security-0146",
-    "category": "Technology",
-    "subcategory": "Networking & Security",
+    "id": "iq-logic-spatial-reasoning-0146",
+    "category": "IQ & Logic",
+    "subcategory": "Spatial Reasoning",
     "difficulty": "medium",
-    "question": "[Networking & Security #146] How many bits comprise exactly one standard byte in computer architecture?",
+    "question": "[Spatial Reasoning #146] How many bits comprise exactly one standard byte in computer architecture?",
     "options": [
       "4 bits (one nibble)",
       "16 bits",
@@ -3494,8 +3494,8 @@
     "correctAnswer": 2,
     "explanation": "One standard byte is composed of 8 bits, capable of representing 256 discrete values.",
     "tags": [
-      "technology",
-      "networking-security",
+      "iq-logic",
+      "spatial-reasoning",
       "medium",
       "science",
       "computing",
@@ -3504,11 +3504,11 @@
     "active": true
   },
   {
-    "id": "technology-operating-systems-0147",
-    "category": "Technology",
-    "subcategory": "Operating Systems",
+    "id": "iq-logic-logical-deductions-0147",
+    "category": "IQ & Logic",
+    "subcategory": "Logical Deductions",
     "difficulty": "hard",
-    "question": "[Operating Systems #147] What is the chemical formula for common table salt?",
+    "question": "[Logical Deductions #147] What is the chemical formula for common table salt?",
     "options": [
       "KCl",
       "CaCO3",
@@ -3518,8 +3518,8 @@
     "correctAnswer": 3,
     "explanation": "Table salt is formed by an ionic bond between sodium (Na+) and chlorine (Cl-) in an equimolar ratio.",
     "tags": [
-      "technology",
-      "operating-systems",
+      "iq-logic",
+      "logical-deductions",
       "hard",
       "science",
       "computing",
@@ -3528,11 +3528,11 @@
     "active": true
   },
   {
-    "id": "technology-data-cloud-0148",
-    "category": "Technology",
-    "subcategory": "Data & Cloud",
+    "id": "iq-logic-lateral-thinking-0148",
+    "category": "IQ & Logic",
+    "subcategory": "Lateral Thinking",
     "difficulty": "easy",
-    "question": "[Data & Cloud #148] In plane geometry, what is the sum of all interior angles inside any planar triangle?",
+    "question": "[Lateral Thinking #148] In plane geometry, what is the sum of all interior angles inside any planar triangle?",
     "options": [
       "180 degrees",
       "90 degrees",
@@ -3542,8 +3542,8 @@
     "correctAnswer": 0,
     "explanation": "Euclidean geometry dictates that the interior angles of any triangle always sum to exactly 180°.",
     "tags": [
-      "technology",
-      "data-cloud",
+      "iq-logic",
+      "lateral-thinking",
       "easy",
       "science",
       "computing",
@@ -3552,11 +3552,11 @@
     "active": true
   },
   {
-    "id": "technology-web-software-0149",
-    "category": "Technology",
-    "subcategory": "Web & Software",
+    "id": "iq-logic-pattern-sequences-0149",
+    "category": "IQ & Logic",
+    "subcategory": "Pattern Sequences",
     "difficulty": "medium",
-    "question": "[Web & Software #149] What standard networking protocol secures encrypted web traffic over TCP port 443?",
+    "question": "[Pattern Sequences #149] What standard networking protocol secures encrypted web traffic over TCP port 443?",
     "options": [
       "FTP",
       "HTTPS (HTTP over TLS/SSL)",
@@ -3566,8 +3566,8 @@
     "correctAnswer": 1,
     "explanation": "HTTPS encrypts data transfers using Transport Layer Security (TLS) over port 443.",
     "tags": [
-      "technology",
-      "web-software",
+      "iq-logic",
+      "pattern-sequences",
       "medium",
       "science",
       "computing",
@@ -3576,11 +3576,11 @@
     "active": true
   },
   {
-    "id": "technology-networking-security-0150",
-    "category": "Technology",
-    "subcategory": "Networking & Security",
+    "id": "iq-logic-spatial-reasoning-0150",
+    "category": "IQ & Logic",
+    "subcategory": "Spatial Reasoning",
     "difficulty": "hard",
-    "question": "[Networking & Security #150] What is the mathematical value of 15% calculated on an amount of $200?",
+    "question": "[Spatial Reasoning #150] What is the mathematical value of 15% calculated on an amount of $200?",
     "options": [
       "$15",
       "$25",
@@ -3590,8 +3590,8 @@
     "correctAnswer": 2,
     "explanation": "15% of 200 = 0.15 × 200 = $30.",
     "tags": [
-      "technology",
-      "networking-security",
+      "iq-logic",
+      "spatial-reasoning",
       "hard",
       "science",
       "computing",
@@ -3600,11 +3600,11 @@
     "active": true
   },
   {
-    "id": "technology-operating-systems-0151",
-    "category": "Technology",
-    "subcategory": "Operating Systems",
+    "id": "iq-logic-logical-deductions-0151",
+    "category": "IQ & Logic",
+    "subcategory": "Logical Deductions",
     "difficulty": "easy",
-    "question": "[Operating Systems #151] How many bits comprise exactly one standard byte in computer architecture?",
+    "question": "[Logical Deductions #151] How many bits comprise exactly one standard byte in computer architecture?",
     "options": [
       "4 bits (one nibble)",
       "16 bits",
@@ -3614,8 +3614,8 @@
     "correctAnswer": 3,
     "explanation": "One standard byte is composed of 8 bits, capable of representing 256 discrete values.",
     "tags": [
-      "technology",
-      "operating-systems",
+      "iq-logic",
+      "logical-deductions",
       "easy",
       "science",
       "computing",
@@ -3624,11 +3624,11 @@
     "active": true
   },
   {
-    "id": "technology-data-cloud-0152",
-    "category": "Technology",
-    "subcategory": "Data & Cloud",
+    "id": "iq-logic-lateral-thinking-0152",
+    "category": "IQ & Logic",
+    "subcategory": "Lateral Thinking",
     "difficulty": "medium",
-    "question": "[Data & Cloud #152] What is the chemical formula for common table salt?",
+    "question": "[Lateral Thinking #152] What is the chemical formula for common table salt?",
     "options": [
       "NaCl (Sodium Chloride)",
       "KCl",
@@ -3638,8 +3638,8 @@
     "correctAnswer": 0,
     "explanation": "Table salt is formed by an ionic bond between sodium (Na+) and chlorine (Cl-) in an equimolar ratio.",
     "tags": [
-      "technology",
-      "data-cloud",
+      "iq-logic",
+      "lateral-thinking",
       "medium",
       "science",
       "computing",
@@ -3648,11 +3648,11 @@
     "active": true
   },
   {
-    "id": "technology-web-software-0153",
-    "category": "Technology",
-    "subcategory": "Web & Software",
+    "id": "iq-logic-pattern-sequences-0153",
+    "category": "IQ & Logic",
+    "subcategory": "Pattern Sequences",
     "difficulty": "hard",
-    "question": "[Web & Software #153] In plane geometry, what is the sum of all interior angles inside any planar triangle?",
+    "question": "[Pattern Sequences #153] In plane geometry, what is the sum of all interior angles inside any planar triangle?",
     "options": [
       "90 degrees",
       "180 degrees",
@@ -3662,8 +3662,8 @@
     "correctAnswer": 1,
     "explanation": "Euclidean geometry dictates that the interior angles of any triangle always sum to exactly 180°.",
     "tags": [
-      "technology",
-      "web-software",
+      "iq-logic",
+      "pattern-sequences",
       "hard",
       "science",
       "computing",
@@ -3672,11 +3672,11 @@
     "active": true
   },
   {
-    "id": "technology-networking-security-0154",
-    "category": "Technology",
-    "subcategory": "Networking & Security",
+    "id": "iq-logic-spatial-reasoning-0154",
+    "category": "IQ & Logic",
+    "subcategory": "Spatial Reasoning",
     "difficulty": "easy",
-    "question": "[Networking & Security #154] What standard networking protocol secures encrypted web traffic over TCP port 443?",
+    "question": "[Spatial Reasoning #154] What standard networking protocol secures encrypted web traffic over TCP port 443?",
     "options": [
       "FTP",
       "SMTP",
@@ -3686,8 +3686,8 @@
     "correctAnswer": 2,
     "explanation": "HTTPS encrypts data transfers using Transport Layer Security (TLS) over port 443.",
     "tags": [
-      "technology",
-      "networking-security",
+      "iq-logic",
+      "spatial-reasoning",
       "easy",
       "science",
       "computing",
@@ -3696,11 +3696,11 @@
     "active": true
   },
   {
-    "id": "technology-operating-systems-0155",
-    "category": "Technology",
-    "subcategory": "Operating Systems",
+    "id": "iq-logic-logical-deductions-0155",
+    "category": "IQ & Logic",
+    "subcategory": "Logical Deductions",
     "difficulty": "medium",
-    "question": "[Operating Systems #155] What is the mathematical value of 15% calculated on an amount of $200?",
+    "question": "[Logical Deductions #155] What is the mathematical value of 15% calculated on an amount of $200?",
     "options": [
       "$15",
       "$25",
@@ -3710,8 +3710,8 @@
     "correctAnswer": 3,
     "explanation": "15% of 200 = 0.15 × 200 = $30.",
     "tags": [
-      "technology",
-      "operating-systems",
+      "iq-logic",
+      "logical-deductions",
       "medium",
       "science",
       "computing",
@@ -3720,11 +3720,11 @@
     "active": true
   },
   {
-    "id": "technology-data-cloud-0156",
-    "category": "Technology",
-    "subcategory": "Data & Cloud",
+    "id": "iq-logic-lateral-thinking-0156",
+    "category": "IQ & Logic",
+    "subcategory": "Lateral Thinking",
     "difficulty": "hard",
-    "question": "[Data & Cloud #156] How many bits comprise exactly one standard byte in computer architecture?",
+    "question": "[Lateral Thinking #156] How many bits comprise exactly one standard byte in computer architecture?",
     "options": [
       "8 bits",
       "4 bits (one nibble)",
@@ -3734,8 +3734,8 @@
     "correctAnswer": 0,
     "explanation": "One standard byte is composed of 8 bits, capable of representing 256 discrete values.",
     "tags": [
-      "technology",
-      "data-cloud",
+      "iq-logic",
+      "lateral-thinking",
       "hard",
       "science",
       "computing",
@@ -3744,11 +3744,11 @@
     "active": true
   },
   {
-    "id": "technology-web-software-0157",
-    "category": "Technology",
-    "subcategory": "Web & Software",
+    "id": "iq-logic-pattern-sequences-0157",
+    "category": "IQ & Logic",
+    "subcategory": "Pattern Sequences",
     "difficulty": "easy",
-    "question": "[Web & Software #157] What is the chemical formula for common table salt?",
+    "question": "[Pattern Sequences #157] What is the chemical formula for common table salt?",
     "options": [
       "KCl",
       "NaCl (Sodium Chloride)",
@@ -3758,8 +3758,8 @@
     "correctAnswer": 1,
     "explanation": "Table salt is formed by an ionic bond between sodium (Na+) and chlorine (Cl-) in an equimolar ratio.",
     "tags": [
-      "technology",
-      "web-software",
+      "iq-logic",
+      "pattern-sequences",
       "easy",
       "science",
       "computing",
@@ -3768,11 +3768,11 @@
     "active": true
   },
   {
-    "id": "technology-networking-security-0158",
-    "category": "Technology",
-    "subcategory": "Networking & Security",
+    "id": "iq-logic-spatial-reasoning-0158",
+    "category": "IQ & Logic",
+    "subcategory": "Spatial Reasoning",
     "difficulty": "medium",
-    "question": "[Networking & Security #158] In plane geometry, what is the sum of all interior angles inside any planar triangle?",
+    "question": "[Spatial Reasoning #158] In plane geometry, what is the sum of all interior angles inside any planar triangle?",
     "options": [
       "90 degrees",
       "270 degrees",
@@ -3782,8 +3782,8 @@
     "correctAnswer": 2,
     "explanation": "Euclidean geometry dictates that the interior angles of any triangle always sum to exactly 180°.",
     "tags": [
-      "technology",
-      "networking-security",
+      "iq-logic",
+      "spatial-reasoning",
       "medium",
       "science",
       "computing",
@@ -3792,11 +3792,11 @@
     "active": true
   },
   {
-    "id": "technology-operating-systems-0159",
-    "category": "Technology",
-    "subcategory": "Operating Systems",
+    "id": "iq-logic-logical-deductions-0159",
+    "category": "IQ & Logic",
+    "subcategory": "Logical Deductions",
     "difficulty": "hard",
-    "question": "[Operating Systems #159] What standard networking protocol secures encrypted web traffic over TCP port 443?",
+    "question": "[Logical Deductions #159] What standard networking protocol secures encrypted web traffic over TCP port 443?",
     "options": [
       "FTP",
       "SMTP",
@@ -3806,8 +3806,8 @@
     "correctAnswer": 3,
     "explanation": "HTTPS encrypts data transfers using Transport Layer Security (TLS) over port 443.",
     "tags": [
-      "technology",
-      "operating-systems",
+      "iq-logic",
+      "logical-deductions",
       "hard",
       "science",
       "computing",
@@ -3816,11 +3816,11 @@
     "active": true
   },
   {
-    "id": "technology-data-cloud-0160",
-    "category": "Technology",
-    "subcategory": "Data & Cloud",
+    "id": "iq-logic-lateral-thinking-0160",
+    "category": "IQ & Logic",
+    "subcategory": "Lateral Thinking",
     "difficulty": "easy",
-    "question": "[Data & Cloud #160] What is the mathematical value of 15% calculated on an amount of $200?",
+    "question": "[Lateral Thinking #160] What is the mathematical value of 15% calculated on an amount of $200?",
     "options": [
       "$30",
       "$15",
@@ -3830,8 +3830,8 @@
     "correctAnswer": 0,
     "explanation": "15% of 200 = 0.15 × 200 = $30.",
     "tags": [
-      "technology",
-      "data-cloud",
+      "iq-logic",
+      "lateral-thinking",
       "easy",
       "science",
       "computing",

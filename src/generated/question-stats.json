@@ -1,0 +1,611 @@
+{
+  "generatedAt": "2026-09-13T17:40:45.422Z",
+  "totalQuestions": 5000,
+  "activeQuestions": 5000,
+  "inactiveQuestions": 0,
+  "questionsByCategory": {
+    "Anatomy & Physiology": 160,
+    "Automotive": 150,
+    "Cartoon Characters": 150,
+    "Celebrity": 130,
+    "Computers": 160,
+    "Diseases & Disorders": 160,
+    "DMV Test": 160,
+    "Drama": 130,
+    "Electrical Symbols": 150,
+    "Electrical": 160,
+    "Electronics": 150,
+    "Engineering": 150,
+    "English & Grammar": 160,
+    "Entertainment": 150,
+    "General Knowledge": 160,
+    "Geography": 160,
+    "History": 160,
+    "HVAC": 150,
+    "IQ & Logic": 160,
+    "License Plate Quiz": 130,
+    "Mathematics": 160,
+    "Medical": 150,
+    "Movies": 150,
+    "Music": 150,
+    "NCLEX": 150,
+    "Nursing": 150,
+    "Pharmacology": 160,
+    "Relationships": 130,
+    "Science": 160,
+    "Technology": 160,
+    "TV Shows": 150,
+    "USA Tests": 160,
+    "Wisdom": 130
+  },
+  "questionsBySubcategory": {
+    "Anatomy & Physiology > Skeletal System": 40,
+    "Anatomy & Physiology > Organ Systems": 40,
+    "Anatomy & Physiology > Cardiovascular System": 40,
+    "Anatomy & Physiology > Nervous System": 40,
+    "Automotive > Engine Mechanics": 38,
+    "Automotive > Brakes & Suspension": 38,
+    "Automotive > Electrical & Diagnostics": 37,
+    "Automotive > Transmissions": 37,
+    "Cartoon Characters > Classic Cartoons": 38,
+    "Cartoon Characters > Disney & Pixar": 38,
+    "Cartoon Characters > Modern Animation": 37,
+    "Cartoon Characters > Superhero Cartoons": 37,
+    "Celebrity > Hollywood Icons": 33,
+    "Celebrity > Music Icons": 33,
+    "Celebrity > Biographical Facts": 32,
+    "Celebrity > Award Records": 32,
+    "Computers > Hardware Architecture": 40,
+    "Computers > Memory & Storage": 40,
+    "Computers > Motherboards & Buses": 40,
+    "Computers > Peripherals & Ports": 40,
+    "Diseases & Disorders > Chronic Illness": 40,
+    "Diseases & Disorders > Infectious Diseases": 40,
+    "Diseases & Disorders > Autoimmune Disorders": 40,
+    "Diseases & Disorders > Emergency Conditions": 40,
+    "DMV Test > Rules of the Road": 40,
+    "DMV Test > Traffic Signs": 40,
+    "DMV Test > Right of Way": 40,
+    "DMV Test > Safe Driving Practices": 40,
+    "Drama > Shakespeare": 33,
+    "Drama > Modern Theater": 33,
+    "Drama > Dramatic Arts": 32,
+    "Drama > Stage Trivia": 32,
+    "Electrical Symbols > Schematic Symbols": 38,
+    "Electrical Symbols > Passive Components": 38,
+    "Electrical Symbols > Semiconductor Symbols": 37,
+    "Electrical Symbols > Switch & Relay Symbols": 37,
+    "Electrical > Basic Circuits": 40,
+    "Electrical > Power Calculations": 40,
+    "Electrical > Wiring & Codes": 40,
+    "Electrical > Electrical Safety": 40,
+    "Electronics > Semiconductors": 38,
+    "Electronics > Digital Logic": 38,
+    "Electronics > Microcontrollers": 37,
+    "Electronics > Amplifiers & Filters": 37,
+    "Engineering > Mechanical Engineering": 38,
+    "Engineering > Civil Structures": 38,
+    "Engineering > Materials Science": 37,
+    "Engineering > Fluid Dynamics": 37,
+    "English & Grammar > Parts of Speech": 40,
+    "English & Grammar > Punctuation & Syntax": 40,
+    "English & Grammar > Vocabulary & Etymology": 40,
+    "English & Grammar > Common Errors": 40,
+    "Entertainment > Pop Culture": 38,
+    "Entertainment > Franchises & Fandoms": 38,
+    "Entertainment > Streaming Hits": 37,
+    "Entertainment > Trivia Milestones": 37,
+    "General Knowledge > World Trivia": 40,
+    "General Knowledge > Nature & Geography": 40,
+    "General Knowledge > Culture & Arts": 40,
+    "General Knowledge > Curiosities": 40,
+    "Geography > US State Capitals": 40,
+    "Geography > World Capitals": 40,
+    "Geography > Physical Geography": 40,
+    "Geography > Nations & Territories": 40,
+    "History > US History": 40,
+    "History > World History": 40,
+    "History > Ancient Civilizations": 40,
+    "History > Modern Milestones": 40,
+    "HVAC > Refrigeration Cycle": 38,
+    "HVAC > Airflow & Ventilation": 38,
+    "HVAC > Heating Principles": 37,
+    "HVAC > EPA & Safety": 37,
+    "IQ & Logic > Pattern Sequences": 40,
+    "IQ & Logic > Spatial Reasoning": 40,
+    "IQ & Logic > Logical Deductions": 40,
+    "IQ & Logic > Lateral Thinking": 40,
+    "License Plate Quiz > State Slogans": 33,
+    "License Plate Quiz > Plate Motifs": 33,
+    "License Plate Quiz > Regional Nicknames": 32,
+    "License Plate Quiz > Historical Plates": 32,
+    "Mathematics > Mental Math & Arithmetic": 40,
+    "Mathematics > Algebra & Equations": 40,
+    "Mathematics > Geometry & Angles": 40,
+    "Mathematics > Percentages & Ratios": 40,
+    "Medical > Medical Terminology": 38,
+    "Medical > Clinical Assessment": 38,
+    "Medical > Cardiology": 37,
+    "Medical > Pathophysiology": 37,
+    "Movies > Classic Cinema": 38,
+    "Movies > Oscar Winners": 38,
+    "Movies > Famous Quotes": 37,
+    "Movies > Blockbusters": 37,
+    "Music > Rock & Pop": 38,
+    "Music > Music Theory": 38,
+    "Music > Classical Masters": 37,
+    "Music > Musical Instruments": 37,
+    "NCLEX > Priority & Delegation": 38,
+    "NCLEX > Safe & Effective Care": 38,
+    "NCLEX > Health Promotion": 37,
+    "NCLEX > Pharmacological Therapies": 37,
+    "Nursing > Fundamentals": 38,
+    "Nursing > Patient Safety": 38,
+    "Nursing > Clinical Judgment": 37,
+    "Nursing > Infection Control": 37,
+    "Pharmacology > Cardiovascular Pharmacology": 40,
+    "Pharmacology > Antibiotics & Antivirals": 40,
+    "Pharmacology > Antidotes & Toxicity": 40,
+    "Pharmacology > Endocrine Pharmacology": 40,
+    "Relationships > Communication": 33,
+    "Relationships > Conflict Resolution": 33,
+    "Relationships > Emotional Intelligence": 32,
+    "Relationships > Friendship & Trust": 32,
+    "Science > Cell Biology": 40,
+    "Science > Chemistry": 40,
+    "Science > Physics": 40,
+    "Science > Earth & Astronomy": 40,
+    "Technology > Web & Software": 40,
+    "Technology > Networking & Security": 40,
+    "Technology > Operating Systems": 40,
+    "Technology > Data & Cloud": 40,
+    "TV Shows > Sitcoms": 38,
+    "TV Shows > Drama Series": 38,
+    "TV Shows > TV History": 37,
+    "TV Shows > Iconic Episodes": 37,
+    "USA Tests > US Civics": 40,
+    "USA Tests > US Constitution": 40,
+    "USA Tests > American Government": 40,
+    "USA Tests > Rights & Symbols": 40,
+    "Wisdom > Proverbs & Sayings": 33,
+    "Wisdom > Ethics & Philosophy": 33,
+    "Wisdom > Life Lessons": 32,
+    "Wisdom > Mindfulness": 32
+  },
+  "questionsByDifficulty": {
+    "easy": 1680,
+    "medium": 1660,
+    "hard": 1660
+  },
+  "categories": {
+    "anatomy-physiology": {
+      "name": "Anatomy & Physiology",
+      "total": 160,
+      "easy": 54,
+      "medium": 53,
+      "hard": 53,
+      "subcategories": {
+        "Skeletal System": 40,
+        "Organ Systems": 40,
+        "Cardiovascular System": 40,
+        "Nervous System": 40
+      }
+    },
+    "automotive": {
+      "name": "Automotive",
+      "total": 150,
+      "easy": 50,
+      "medium": 50,
+      "hard": 50,
+      "subcategories": {
+        "Engine Mechanics": 38,
+        "Brakes & Suspension": 38,
+        "Electrical & Diagnostics": 37,
+        "Transmissions": 37
+      }
+    },
+    "cartoon-characters": {
+      "name": "Cartoon Characters",
+      "total": 150,
+      "easy": 50,
+      "medium": 50,
+      "hard": 50,
+      "subcategories": {
+        "Classic Cartoons": 38,
+        "Disney & Pixar": 38,
+        "Modern Animation": 37,
+        "Superhero Cartoons": 37
+      }
+    },
+    "celebrity": {
+      "name": "Celebrity",
+      "total": 130,
+      "easy": 44,
+      "medium": 43,
+      "hard": 43,
+      "subcategories": {
+        "Hollywood Icons": 33,
+        "Music Icons": 33,
+        "Biographical Facts": 32,
+        "Award Records": 32
+      }
+    },
+    "computers": {
+      "name": "Computers",
+      "total": 160,
+      "easy": 54,
+      "medium": 53,
+      "hard": 53,
+      "subcategories": {
+        "Hardware Architecture": 40,
+        "Memory & Storage": 40,
+        "Motherboards & Buses": 40,
+        "Peripherals & Ports": 40
+      }
+    },
+    "diseases-disorders": {
+      "name": "Diseases & Disorders",
+      "total": 160,
+      "easy": 54,
+      "medium": 53,
+      "hard": 53,
+      "subcategories": {
+        "Chronic Illness": 40,
+        "Infectious Diseases": 40,
+        "Autoimmune Disorders": 40,
+        "Emergency Conditions": 40
+      }
+    },
+    "dmv-test": {
+      "name": "DMV Test",
+      "total": 160,
+      "easy": 54,
+      "medium": 53,
+      "hard": 53,
+      "subcategories": {
+        "Rules of the Road": 40,
+        "Traffic Signs": 40,
+        "Right of Way": 40,
+        "Safe Driving Practices": 40
+      }
+    },
+    "drama": {
+      "name": "Drama",
+      "total": 130,
+      "easy": 44,
+      "medium": 43,
+      "hard": 43,
+      "subcategories": {
+        "Shakespeare": 33,
+        "Modern Theater": 33,
+        "Dramatic Arts": 32,
+        "Stage Trivia": 32
+      }
+    },
+    "electrical-symbols": {
+      "name": "Electrical Symbols",
+      "total": 150,
+      "easy": 50,
+      "medium": 50,
+      "hard": 50,
+      "subcategories": {
+        "Schematic Symbols": 38,
+        "Passive Components": 38,
+        "Semiconductor Symbols": 37,
+        "Switch & Relay Symbols": 37
+      }
+    },
+    "electrical": {
+      "name": "Electrical",
+      "total": 160,
+      "easy": 54,
+      "medium": 53,
+      "hard": 53,
+      "subcategories": {
+        "Basic Circuits": 40,
+        "Power Calculations": 40,
+        "Wiring & Codes": 40,
+        "Electrical Safety": 40
+      }
+    },
+    "electronics": {
+      "name": "Electronics",
+      "total": 150,
+      "easy": 50,
+      "medium": 50,
+      "hard": 50,
+      "subcategories": {
+        "Semiconductors": 38,
+        "Digital Logic": 38,
+        "Microcontrollers": 37,
+        "Amplifiers & Filters": 37
+      }
+    },
+    "engineering": {
+      "name": "Engineering",
+      "total": 150,
+      "easy": 50,
+      "medium": 50,
+      "hard": 50,
+      "subcategories": {
+        "Mechanical Engineering": 38,
+        "Civil Structures": 38,
+        "Materials Science": 37,
+        "Fluid Dynamics": 37
+      }
+    },
+    "english-grammar": {
+      "name": "English & Grammar",
+      "total": 160,
+      "easy": 54,
+      "medium": 53,
+      "hard": 53,
+      "subcategories": {
+        "Parts of Speech": 40,
+        "Punctuation & Syntax": 40,
+        "Vocabulary & Etymology": 40,
+        "Common Errors": 40
+      }
+    },
+    "entertainment": {
+      "name": "Entertainment",
+      "total": 150,
+      "easy": 50,
+      "medium": 50,
+      "hard": 50,
+      "subcategories": {
+        "Pop Culture": 38,
+        "Franchises & Fandoms": 38,
+        "Streaming Hits": 37,
+        "Trivia Milestones": 37
+      }
+    },
+    "general-knowledge": {
+      "name": "General Knowledge",
+      "total": 160,
+      "easy": 54,
+      "medium": 53,
+      "hard": 53,
+      "subcategories": {
+        "World Trivia": 40,
+        "Nature & Geography": 40,
+        "Culture & Arts": 40,
+        "Curiosities": 40
+      }
+    },
+    "geography": {
+      "name": "Geography",
+      "total": 160,
+      "easy": 54,
+      "medium": 53,
+      "hard": 53,
+      "subcategories": {
+        "US State Capitals": 40,
+        "World Capitals": 40,
+        "Physical Geography": 40,
+        "Nations & Territories": 40
+      }
+    },
+    "history": {
+      "name": "History",
+      "total": 160,
+      "easy": 54,
+      "medium": 53,
+      "hard": 53,
+      "subcategories": {
+        "US History": 40,
+        "World History": 40,
+        "Ancient Civilizations": 40,
+        "Modern Milestones": 40
+      }
+    },
+    "hvac": {
+      "name": "HVAC",
+      "total": 150,
+      "easy": 50,
+      "medium": 50,
+      "hard": 50,
+      "subcategories": {
+        "Refrigeration Cycle": 38,
+        "Airflow & Ventilation": 38,
+        "Heating Principles": 37,
+        "EPA & Safety": 37
+      }
+    },
+    "iq-logic": {
+      "name": "IQ & Logic",
+      "total": 160,
+      "easy": 54,
+      "medium": 53,
+      "hard": 53,
+      "subcategories": {
+        "Pattern Sequences": 40,
+        "Spatial Reasoning": 40,
+        "Logical Deductions": 40,
+        "Lateral Thinking": 40
+      }
+    },
+    "license-plate-quiz": {
+      "name": "License Plate Quiz",
+      "total": 130,
+      "easy": 44,
+      "medium": 43,
+      "hard": 43,
+      "subcategories": {
+        "State Slogans": 33,
+        "Plate Motifs": 33,
+        "Regional Nicknames": 32,
+        "Historical Plates": 32
+      }
+    },
+    "mathematics": {
+      "name": "Mathematics",
+      "total": 160,
+      "easy": 54,
+      "medium": 53,
+      "hard": 53,
+      "subcategories": {
+        "Mental Math & Arithmetic": 40,
+        "Algebra & Equations": 40,
+        "Geometry & Angles": 40,
+        "Percentages & Ratios": 40
+      }
+    },
+    "medical": {
+      "name": "Medical",
+      "total": 150,
+      "easy": 50,
+      "medium": 50,
+      "hard": 50,
+      "subcategories": {
+        "Medical Terminology": 38,
+        "Clinical Assessment": 38,
+        "Cardiology": 37,
+        "Pathophysiology": 37
+      }
+    },
+    "movies": {
+      "name": "Movies",
+      "total": 150,
+      "easy": 50,
+      "medium": 50,
+      "hard": 50,
+      "subcategories": {
+        "Classic Cinema": 38,
+        "Oscar Winners": 38,
+        "Famous Quotes": 37,
+        "Blockbusters": 37
+      }
+    },
+    "music": {
+      "name": "Music",
+      "total": 150,
+      "easy": 50,
+      "medium": 50,
+      "hard": 50,
+      "subcategories": {
+        "Rock & Pop": 38,
+        "Music Theory": 38,
+        "Classical Masters": 37,
+        "Musical Instruments": 37
+      }
+    },
+    "nclex": {
+      "name": "NCLEX",
+      "total": 150,
+      "easy": 50,
+      "medium": 50,
+      "hard": 50,
+      "subcategories": {
+        "Priority & Delegation": 38,
+        "Safe & Effective Care": 38,
+        "Health Promotion": 37,
+        "Pharmacological Therapies": 37
+      }
+    },
+    "nursing": {
+      "name": "Nursing",
+      "total": 150,
+      "easy": 50,
+      "medium": 50,
+      "hard": 50,
+      "subcategories": {
+        "Fundamentals": 38,
+        "Patient Safety": 38,
+        "Clinical Judgment": 37,
+        "Infection Control": 37
+      }
+    },
+    "pharmacology": {
+      "name": "Pharmacology",
+      "total": 160,
+      "easy": 54,
+      "medium": 53,
+      "hard": 53,
+      "subcategories": {
+        "Cardiovascular Pharmacology": 40,
+        "Antibiotics & Antivirals": 40,
+        "Antidotes & Toxicity": 40,
+        "Endocrine Pharmacology": 40
+      }
+    },
+    "relationships": {
+      "name": "Relationships",
+      "total": 130,
+      "easy": 44,
+      "medium": 43,
+      "hard": 43,
+      "subcategories": {
+        "Communication": 33,
+        "Conflict Resolution": 33,
+        "Emotional Intelligence": 32,
+        "Friendship & Trust": 32
+      }
+    },
+    "science": {
+      "name": "Science",
+      "total": 160,
+      "easy": 54,
+      "medium": 53,
+      "hard": 53,
+      "subcategories": {
+        "Cell Biology": 40,
+        "Chemistry": 40,
+        "Physics": 40,
+        "Earth & Astronomy": 40
+      }
+    },
+    "technology": {
+      "name": "Technology",
+      "total": 160,
+      "easy": 54,
+      "medium": 53,
+      "hard": 53,
+      "subcategories": {
+        "Web & Software": 40,
+        "Networking & Security": 40,
+        "Operating Systems": 40,
+        "Data & Cloud": 40
+      }
+    },
+    "tv-shows": {
+      "name": "TV Shows",
+      "total": 150,
+      "easy": 50,
+      "medium": 50,
+      "hard": 50,
+      "subcategories": {
+        "Sitcoms": 38,
+        "Drama Series": 38,
+        "TV History": 37,
+        "Iconic Episodes": 37
+      }
+    },
+    "usa-tests": {
+      "name": "USA Tests",
+      "total": 160,
+      "easy": 54,
+      "medium": 53,
+      "hard": 53,
+      "subcategories": {
+        "US Civics": 40,
+        "US Constitution": 40,
+        "American Government": 40,
+        "Rights & Symbols": 40
+      }
+    },
+    "wisdom": {
+      "name": "Wisdom",
+      "total": 130,
+      "easy": 44,
+      "medium": 43,
+      "hard": 43,
+      "subcategories": {
+        "Proverbs & Sayings": 33,
+        "Ethics & Philosophy": 33,
+        "Life Lessons": 32,
+        "Mindfulness": 32
+      }
+    }
+  }
+}

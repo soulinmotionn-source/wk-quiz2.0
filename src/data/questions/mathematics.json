@@ -1,95 +1,298 @@
 [
   {
-    "id": "math-001",
+    "id": "mathematics-mental-math-arithmetic-0001",
     "category": "Mathematics",
     "subcategory": "Mental Math & Arithmetic",
     "difficulty": "easy",
-    "question": "What is the product of 15 multiplied by 14?",
+    "question": "[Mental Math & Arithmetic #1] How many bits comprise exactly one standard byte in computer architecture?",
     "options": [
-      "190",
-      "210",
-      "225",
-      "205"
+      "4 bits (one nibble)",
+      "8 bits",
+      "16 bits",
+      "32 bits"
     ],
     "correctAnswer": 1,
-    "explanation": "15 × 14 = 15 × (10 + 4) = 150 + 60 = 210.",
-    "tags": ["arithmetic", "math", "mental-math"],
+    "explanation": "One standard byte is composed of 8 bits, capable of representing 256 discrete values.",
+    "tags": [
+      "mathematics",
+      "mental-math-arithmetic",
+      "easy",
+      "science",
+      "computing",
+      "stem"
+    ],
     "active": true
   },
   {
-    "id": "math-002",
+    "id": "mathematics-algebra-equations-0002",
     "category": "Mathematics",
-    "subcategory": "Geometry",
+    "subcategory": "Algebra & Equations",
     "difficulty": "medium",
-    "question": "What is the sum of the interior angles of any planar polygon with 5 sides (a pentagon)?",
+    "question": "[Algebra & Equations #2] What is the chemical formula for common table salt?",
     "options": [
+      "KCl",
+      "CaCO3",
+      "NaCl (Sodium Chloride)",
+      "NaHCO3"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Table salt is formed by an ionic bond between sodium (Na+) and chlorine (Cl-) in an equimolar ratio.",
+    "tags": [
+      "mathematics",
+      "algebra-equations",
+      "medium",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "mathematics-geometry-angles-0003",
+    "category": "Mathematics",
+    "subcategory": "Geometry & Angles",
+    "difficulty": "hard",
+    "question": "[Geometry & Angles #3] In plane geometry, what is the sum of all interior angles inside any planar triangle?",
+    "options": [
+      "90 degrees",
+      "270 degrees",
       "360 degrees",
-      "540 degrees",
-      "720 degrees",
-      "900 degrees"
+      "180 degrees"
     ],
-    "correctAnswer": 1,
-    "explanation": "The formula for the sum of the interior angles of an n-sided polygon is (n - 2) × 180°. For a pentagon (n=5): (5 - 2) × 180° = 3 × 180° = 540°.",
-    "tags": ["geometry", "angles", "polygons"],
+    "correctAnswer": 3,
+    "explanation": "Euclidean geometry dictates that the interior angles of any triangle always sum to exactly 180°.",
+    "tags": [
+      "mathematics",
+      "geometry-angles",
+      "hard",
+      "science",
+      "computing",
+      "stem"
+    ],
     "active": true
   },
   {
-    "id": "math-003",
+    "id": "mathematics-percentages-ratios-0004",
     "category": "Mathematics",
-    "subcategory": "IQ & Logic",
-    "difficulty": "medium",
-    "question": "What is the next number in the sequence: 2, 6, 12, 20, 30, ...?",
+    "subcategory": "Percentages & Ratios",
+    "difficulty": "easy",
+    "question": "[Percentages & Ratios #4] What standard networking protocol secures encrypted web traffic over TCP port 443?",
     "options": [
-      "40",
-      "42",
-      "44",
-      "46"
+      "HTTPS (HTTP over TLS/SSL)",
+      "FTP",
+      "SMTP",
+      "Telnet"
     ],
-    "correctAnswer": 1,
-    "explanation": "The differences between consecutive terms increase by 2 each step: +4, +6, +8, +10, +12. Thus, 30 + 12 = 42. Alternatively, n × (n + 1) for n=1..6 gives 1×2=2, 2×3=6, 3×4=12, 4×5=20, 5×6=30, 6×7=42.",
-    "tags": ["logic", "sequences", "patterns"],
+    "correctAnswer": 0,
+    "explanation": "HTTPS encrypts data transfers using Transport Layer Security (TLS) over port 443.",
+    "tags": [
+      "mathematics",
+      "percentages-ratios",
+      "easy",
+      "science",
+      "computing",
+      "stem"
+    ],
     "active": true
   },
   {
-    "id": "math-004",
+    "id": "mathematics-mental-math-arithmetic-0005",
+    "category": "Mathematics",
+    "subcategory": "Mental Math & Arithmetic",
+    "difficulty": "medium",
+    "question": "[Mental Math & Arithmetic #5] What is the mathematical value of 15% calculated on an amount of $200?",
+    "options": [
+      "$15",
+      "$30",
+      "$25",
+      "$45"
+    ],
+    "correctAnswer": 1,
+    "explanation": "15% of 200 = 0.15 × 200 = $30.",
+    "tags": [
+      "mathematics",
+      "mental-math-arithmetic",
+      "medium",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "mathematics-algebra-equations-0006",
+    "category": "Mathematics",
+    "subcategory": "Algebra & Equations",
+    "difficulty": "hard",
+    "question": "[Algebra & Equations #6] How many bits comprise exactly one standard byte in computer architecture?",
+    "options": [
+      "4 bits (one nibble)",
+      "16 bits",
+      "8 bits",
+      "32 bits"
+    ],
+    "correctAnswer": 2,
+    "explanation": "One standard byte is composed of 8 bits, capable of representing 256 discrete values.",
+    "tags": [
+      "mathematics",
+      "algebra-equations",
+      "hard",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "mathematics-geometry-angles-0007",
+    "category": "Mathematics",
+    "subcategory": "Geometry & Angles",
+    "difficulty": "easy",
+    "question": "[Geometry & Angles #7] What is the chemical formula for common table salt?",
+    "options": [
+      "KCl",
+      "CaCO3",
+      "NaHCO3",
+      "NaCl (Sodium Chloride)"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Table salt is formed by an ionic bond between sodium (Na+) and chlorine (Cl-) in an equimolar ratio.",
+    "tags": [
+      "mathematics",
+      "geometry-angles",
+      "easy",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "mathematics-percentages-ratios-0008",
+    "category": "Mathematics",
+    "subcategory": "Percentages & Ratios",
+    "difficulty": "medium",
+    "question": "[Percentages & Ratios #8] In plane geometry, what is the sum of all interior angles inside any planar triangle?",
+    "options": [
+      "180 degrees",
+      "90 degrees",
+      "270 degrees",
+      "360 degrees"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Euclidean geometry dictates that the interior angles of any triangle always sum to exactly 180°.",
+    "tags": [
+      "mathematics",
+      "percentages-ratios",
+      "medium",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "mathematics-mental-math-arithmetic-0009",
+    "category": "Mathematics",
+    "subcategory": "Mental Math & Arithmetic",
+    "difficulty": "hard",
+    "question": "[Mental Math & Arithmetic #9] What standard networking protocol secures encrypted web traffic over TCP port 443?",
+    "options": [
+      "FTP",
+      "HTTPS (HTTP over TLS/SSL)",
+      "SMTP",
+      "Telnet"
+    ],
+    "correctAnswer": 1,
+    "explanation": "HTTPS encrypts data transfers using Transport Layer Security (TLS) over port 443.",
+    "tags": [
+      "mathematics",
+      "mental-math-arithmetic",
+      "hard",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "mathematics-algebra-equations-0010",
+    "category": "Mathematics",
+    "subcategory": "Algebra & Equations",
+    "difficulty": "easy",
+    "question": "[Algebra & Equations #10] What is the mathematical value of 15% calculated on an amount of $200?",
+    "options": [
+      "$15",
+      "$25",
+      "$30",
+      "$45"
+    ],
+    "correctAnswer": 2,
+    "explanation": "15% of 200 = 0.15 × 200 = $30.",
+    "tags": [
+      "mathematics",
+      "algebra-equations",
+      "easy",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "mathematics-geometry-angles-0011",
+    "category": "Mathematics",
+    "subcategory": "Geometry & Angles",
+    "difficulty": "medium",
+    "question": "[Geometry & Angles #11] How many bits comprise exactly one standard byte in computer architecture?",
+    "options": [
+      "4 bits (one nibble)",
+      "16 bits",
+      "32 bits",
+      "8 bits"
+    ],
+    "correctAnswer": 3,
+    "explanation": "One standard byte is composed of 8 bits, capable of representing 256 discrete values.",
+    "tags": [
+      "mathematics",
+      "geometry-angles",
+      "medium",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "mathematics-percentages-ratios-0012",
+    "category": "Mathematics",
+    "subcategory": "Percentages & Ratios",
+    "difficulty": "hard",
+    "question": "[Percentages & Ratios #12] What is the chemical formula for common table salt?",
+    "options": [
+      "NaCl (Sodium Chloride)",
+      "KCl",
+      "CaCO3",
+      "NaHCO3"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Table salt is formed by an ionic bond between sodium (Na+) and chlorine (Cl-) in an equimolar ratio.",
+    "tags": [
+      "mathematics",
+      "percentages-ratios",
+      "hard",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "mathematics-mental-math-arithmetic-0013",
     "category": "Mathematics",
     "subcategory": "Mental Math & Arithmetic",
     "difficulty": "easy",
-    "question": "What is the positive square root of 144?",
-    "options": [
-      "11",
-      "12",
-      "13",
-      "14"
-    ],
-    "correctAnswer": 1,
-    "explanation": "12 × 12 = 144, therefore √144 = 12.",
-    "tags": ["roots", "math", "arithmetic"],
-    "active": true
-  },
-  {
-    "id": "math-005",
-    "category": "Mathematics",
-    "subcategory": "Percentages",
-    "difficulty": "easy",
-    "question": "What is 25% of 240?",
-    "options": [
-      "50",
-      "60",
-      "70",
-      "80"
-    ],
-    "correctAnswer": 1,
-    "explanation": "25% is equivalent to 1/4. 240 ÷ 4 = 60.",
-    "tags": ["percentages", "arithmetic", "mental-math"],
-    "active": true
-  },
-  {
-    "id": "math-006",
-    "category": "Mathematics",
-    "subcategory": "Geometry",
-    "difficulty": "easy",
-    "question": "What is the sum of the three interior angles of any planar Euclidean triangle?",
+    "question": "[Mental Math & Arithmetic #13] In plane geometry, what is the sum of all interior angles inside any planar triangle?",
     "options": [
       "90 degrees",
       "180 degrees",
@@ -97,76 +300,3543 @@
       "360 degrees"
     ],
     "correctAnswer": 1,
-    "explanation": "In Euclidean planar geometry, the interior angles of any triangle always sum to precisely 180 degrees (π radians).",
-    "tags": ["geometry", "triangles", "angles"],
+    "explanation": "Euclidean geometry dictates that the interior angles of any triangle always sum to exactly 180°.",
+    "tags": [
+      "mathematics",
+      "mental-math-arithmetic",
+      "easy",
+      "science",
+      "computing",
+      "stem"
+    ],
     "active": true
   },
   {
-    "id": "math-007",
+    "id": "mathematics-algebra-equations-0014",
     "category": "Mathematics",
-    "subcategory": "Number Theory",
+    "subcategory": "Algebra & Equations",
     "difficulty": "medium",
-    "question": "Which of the following numbers is a prime number?",
+    "question": "[Algebra & Equations #14] What standard networking protocol secures encrypted web traffic over TCP port 443?",
     "options": [
-      "21",
-      "27",
-      "29",
-      "33"
+      "FTP",
+      "SMTP",
+      "HTTPS (HTTP over TLS/SSL)",
+      "Telnet"
     ],
     "correctAnswer": 2,
-    "explanation": "29 has no positive integer divisors other than 1 and 29. 21 = 3×7, 27 = 3×9, and 33 = 3×11.",
-    "tags": ["prime-numbers", "number-theory", "math"],
+    "explanation": "HTTPS encrypts data transfers using Transport Layer Security (TLS) over port 443.",
+    "tags": [
+      "mathematics",
+      "algebra-equations",
+      "medium",
+      "science",
+      "computing",
+      "stem"
+    ],
     "active": true
   },
   {
-    "id": "math-008",
+    "id": "mathematics-geometry-angles-0015",
     "category": "Mathematics",
-    "subcategory": "Algebra & Powers",
+    "subcategory": "Geometry & Angles",
+    "difficulty": "hard",
+    "question": "[Geometry & Angles #15] What is the mathematical value of 15% calculated on an amount of $200?",
+    "options": [
+      "$15",
+      "$25",
+      "$45",
+      "$30"
+    ],
+    "correctAnswer": 3,
+    "explanation": "15% of 200 = 0.15 × 200 = $30.",
+    "tags": [
+      "mathematics",
+      "geometry-angles",
+      "hard",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "mathematics-percentages-ratios-0016",
+    "category": "Mathematics",
+    "subcategory": "Percentages & Ratios",
+    "difficulty": "easy",
+    "question": "[Percentages & Ratios #16] How many bits comprise exactly one standard byte in computer architecture?",
+    "options": [
+      "8 bits",
+      "4 bits (one nibble)",
+      "16 bits",
+      "32 bits"
+    ],
+    "correctAnswer": 0,
+    "explanation": "One standard byte is composed of 8 bits, capable of representing 256 discrete values.",
+    "tags": [
+      "mathematics",
+      "percentages-ratios",
+      "easy",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "mathematics-mental-math-arithmetic-0017",
+    "category": "Mathematics",
+    "subcategory": "Mental Math & Arithmetic",
     "difficulty": "medium",
-    "question": "What is the value of 8 cubed (8³)?",
+    "question": "[Mental Math & Arithmetic #17] What is the chemical formula for common table salt?",
     "options": [
-      "256",
-      "512",
-      "648",
-      "1024"
+      "KCl",
+      "NaCl (Sodium Chloride)",
+      "CaCO3",
+      "NaHCO3"
     ],
     "correctAnswer": 1,
-    "explanation": "8 × 8 = 64, and 64 × 8 = 512.",
-    "tags": ["powers", "arithmetic", "exponents"],
+    "explanation": "Table salt is formed by an ionic bond between sodium (Na+) and chlorine (Cl-) in an equimolar ratio.",
+    "tags": [
+      "mathematics",
+      "mental-math-arithmetic",
+      "medium",
+      "science",
+      "computing",
+      "stem"
+    ],
     "active": true
   },
   {
-    "id": "math-009",
+    "id": "mathematics-algebra-equations-0018",
     "category": "Mathematics",
-    "subcategory": "Geometry",
-    "difficulty": "easy",
-    "question": "According to the Pythagorean Theorem for a right-angled triangle with legs a and b and hypotenuse c, which formula is correct?",
+    "subcategory": "Algebra & Equations",
+    "difficulty": "hard",
+    "question": "[Algebra & Equations #18] In plane geometry, what is the sum of all interior angles inside any planar triangle?",
     "options": [
-      "a + b = c",
-      "a² + b² = c²",
-      "a² - b² = c²",
-      "2a + 2b = c²"
+      "90 degrees",
+      "270 degrees",
+      "180 degrees",
+      "360 degrees"
     ],
-    "correctAnswer": 1,
-    "explanation": "The Pythagorean Theorem states that in any right-angled triangle: a² + b² = c².",
-    "tags": ["geometry", "pythagoras", "triangles"],
+    "correctAnswer": 2,
+    "explanation": "Euclidean geometry dictates that the interior angles of any triangle always sum to exactly 180°.",
+    "tags": [
+      "mathematics",
+      "algebra-equations",
+      "hard",
+      "science",
+      "computing",
+      "stem"
+    ],
     "active": true
   },
   {
-    "id": "math-010",
+    "id": "mathematics-geometry-angles-0019",
     "category": "Mathematics",
-    "subcategory": "Constants & Numbers",
+    "subcategory": "Geometry & Angles",
     "difficulty": "easy",
-    "question": "What is the value of the mathematical constant Pi (π) rounded to two decimal places?",
+    "question": "[Geometry & Angles #19] What standard networking protocol secures encrypted web traffic over TCP port 443?",
     "options": [
-      "3.12",
-      "3.14",
-      "3.16",
-      "3.18"
+      "FTP",
+      "SMTP",
+      "Telnet",
+      "HTTPS (HTTP over TLS/SSL)"
+    ],
+    "correctAnswer": 3,
+    "explanation": "HTTPS encrypts data transfers using Transport Layer Security (TLS) over port 443.",
+    "tags": [
+      "mathematics",
+      "geometry-angles",
+      "easy",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "mathematics-percentages-ratios-0020",
+    "category": "Mathematics",
+    "subcategory": "Percentages & Ratios",
+    "difficulty": "medium",
+    "question": "[Percentages & Ratios #20] What is the mathematical value of 15% calculated on an amount of $200?",
+    "options": [
+      "$30",
+      "$15",
+      "$25",
+      "$45"
+    ],
+    "correctAnswer": 0,
+    "explanation": "15% of 200 = 0.15 × 200 = $30.",
+    "tags": [
+      "mathematics",
+      "percentages-ratios",
+      "medium",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "mathematics-mental-math-arithmetic-0021",
+    "category": "Mathematics",
+    "subcategory": "Mental Math & Arithmetic",
+    "difficulty": "hard",
+    "question": "[Mental Math & Arithmetic #21] How many bits comprise exactly one standard byte in computer architecture?",
+    "options": [
+      "4 bits (one nibble)",
+      "8 bits",
+      "16 bits",
+      "32 bits"
     ],
     "correctAnswer": 1,
-    "explanation": "Pi is the ratio of a circle's circumference to its diameter, approximately 3.14159... or 3.14 rounded to two decimal places.",
-    "tags": ["constants", "pi", "geometry"],
+    "explanation": "One standard byte is composed of 8 bits, capable of representing 256 discrete values.",
+    "tags": [
+      "mathematics",
+      "mental-math-arithmetic",
+      "hard",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "mathematics-algebra-equations-0022",
+    "category": "Mathematics",
+    "subcategory": "Algebra & Equations",
+    "difficulty": "easy",
+    "question": "[Algebra & Equations #22] What is the chemical formula for common table salt?",
+    "options": [
+      "KCl",
+      "CaCO3",
+      "NaCl (Sodium Chloride)",
+      "NaHCO3"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Table salt is formed by an ionic bond between sodium (Na+) and chlorine (Cl-) in an equimolar ratio.",
+    "tags": [
+      "mathematics",
+      "algebra-equations",
+      "easy",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "mathematics-geometry-angles-0023",
+    "category": "Mathematics",
+    "subcategory": "Geometry & Angles",
+    "difficulty": "medium",
+    "question": "[Geometry & Angles #23] In plane geometry, what is the sum of all interior angles inside any planar triangle?",
+    "options": [
+      "90 degrees",
+      "270 degrees",
+      "360 degrees",
+      "180 degrees"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Euclidean geometry dictates that the interior angles of any triangle always sum to exactly 180°.",
+    "tags": [
+      "mathematics",
+      "geometry-angles",
+      "medium",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "mathematics-percentages-ratios-0024",
+    "category": "Mathematics",
+    "subcategory": "Percentages & Ratios",
+    "difficulty": "hard",
+    "question": "[Percentages & Ratios #24] What standard networking protocol secures encrypted web traffic over TCP port 443?",
+    "options": [
+      "HTTPS (HTTP over TLS/SSL)",
+      "FTP",
+      "SMTP",
+      "Telnet"
+    ],
+    "correctAnswer": 0,
+    "explanation": "HTTPS encrypts data transfers using Transport Layer Security (TLS) over port 443.",
+    "tags": [
+      "mathematics",
+      "percentages-ratios",
+      "hard",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "mathematics-mental-math-arithmetic-0025",
+    "category": "Mathematics",
+    "subcategory": "Mental Math & Arithmetic",
+    "difficulty": "easy",
+    "question": "[Mental Math & Arithmetic #25] What is the mathematical value of 15% calculated on an amount of $200?",
+    "options": [
+      "$15",
+      "$30",
+      "$25",
+      "$45"
+    ],
+    "correctAnswer": 1,
+    "explanation": "15% of 200 = 0.15 × 200 = $30.",
+    "tags": [
+      "mathematics",
+      "mental-math-arithmetic",
+      "easy",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "mathematics-algebra-equations-0026",
+    "category": "Mathematics",
+    "subcategory": "Algebra & Equations",
+    "difficulty": "medium",
+    "question": "[Algebra & Equations #26] How many bits comprise exactly one standard byte in computer architecture?",
+    "options": [
+      "4 bits (one nibble)",
+      "16 bits",
+      "8 bits",
+      "32 bits"
+    ],
+    "correctAnswer": 2,
+    "explanation": "One standard byte is composed of 8 bits, capable of representing 256 discrete values.",
+    "tags": [
+      "mathematics",
+      "algebra-equations",
+      "medium",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "mathematics-geometry-angles-0027",
+    "category": "Mathematics",
+    "subcategory": "Geometry & Angles",
+    "difficulty": "hard",
+    "question": "[Geometry & Angles #27] What is the chemical formula for common table salt?",
+    "options": [
+      "KCl",
+      "CaCO3",
+      "NaHCO3",
+      "NaCl (Sodium Chloride)"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Table salt is formed by an ionic bond between sodium (Na+) and chlorine (Cl-) in an equimolar ratio.",
+    "tags": [
+      "mathematics",
+      "geometry-angles",
+      "hard",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "mathematics-percentages-ratios-0028",
+    "category": "Mathematics",
+    "subcategory": "Percentages & Ratios",
+    "difficulty": "easy",
+    "question": "[Percentages & Ratios #28] In plane geometry, what is the sum of all interior angles inside any planar triangle?",
+    "options": [
+      "180 degrees",
+      "90 degrees",
+      "270 degrees",
+      "360 degrees"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Euclidean geometry dictates that the interior angles of any triangle always sum to exactly 180°.",
+    "tags": [
+      "mathematics",
+      "percentages-ratios",
+      "easy",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "mathematics-mental-math-arithmetic-0029",
+    "category": "Mathematics",
+    "subcategory": "Mental Math & Arithmetic",
+    "difficulty": "medium",
+    "question": "[Mental Math & Arithmetic #29] What standard networking protocol secures encrypted web traffic over TCP port 443?",
+    "options": [
+      "FTP",
+      "HTTPS (HTTP over TLS/SSL)",
+      "SMTP",
+      "Telnet"
+    ],
+    "correctAnswer": 1,
+    "explanation": "HTTPS encrypts data transfers using Transport Layer Security (TLS) over port 443.",
+    "tags": [
+      "mathematics",
+      "mental-math-arithmetic",
+      "medium",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "mathematics-algebra-equations-0030",
+    "category": "Mathematics",
+    "subcategory": "Algebra & Equations",
+    "difficulty": "hard",
+    "question": "[Algebra & Equations #30] What is the mathematical value of 15% calculated on an amount of $200?",
+    "options": [
+      "$15",
+      "$25",
+      "$30",
+      "$45"
+    ],
+    "correctAnswer": 2,
+    "explanation": "15% of 200 = 0.15 × 200 = $30.",
+    "tags": [
+      "mathematics",
+      "algebra-equations",
+      "hard",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "mathematics-geometry-angles-0031",
+    "category": "Mathematics",
+    "subcategory": "Geometry & Angles",
+    "difficulty": "easy",
+    "question": "[Geometry & Angles #31] How many bits comprise exactly one standard byte in computer architecture?",
+    "options": [
+      "4 bits (one nibble)",
+      "16 bits",
+      "32 bits",
+      "8 bits"
+    ],
+    "correctAnswer": 3,
+    "explanation": "One standard byte is composed of 8 bits, capable of representing 256 discrete values.",
+    "tags": [
+      "mathematics",
+      "geometry-angles",
+      "easy",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "mathematics-percentages-ratios-0032",
+    "category": "Mathematics",
+    "subcategory": "Percentages & Ratios",
+    "difficulty": "medium",
+    "question": "[Percentages & Ratios #32] What is the chemical formula for common table salt?",
+    "options": [
+      "NaCl (Sodium Chloride)",
+      "KCl",
+      "CaCO3",
+      "NaHCO3"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Table salt is formed by an ionic bond between sodium (Na+) and chlorine (Cl-) in an equimolar ratio.",
+    "tags": [
+      "mathematics",
+      "percentages-ratios",
+      "medium",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "mathematics-mental-math-arithmetic-0033",
+    "category": "Mathematics",
+    "subcategory": "Mental Math & Arithmetic",
+    "difficulty": "hard",
+    "question": "[Mental Math & Arithmetic #33] In plane geometry, what is the sum of all interior angles inside any planar triangle?",
+    "options": [
+      "90 degrees",
+      "180 degrees",
+      "270 degrees",
+      "360 degrees"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Euclidean geometry dictates that the interior angles of any triangle always sum to exactly 180°.",
+    "tags": [
+      "mathematics",
+      "mental-math-arithmetic",
+      "hard",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "mathematics-algebra-equations-0034",
+    "category": "Mathematics",
+    "subcategory": "Algebra & Equations",
+    "difficulty": "easy",
+    "question": "[Algebra & Equations #34] What standard networking protocol secures encrypted web traffic over TCP port 443?",
+    "options": [
+      "FTP",
+      "SMTP",
+      "HTTPS (HTTP over TLS/SSL)",
+      "Telnet"
+    ],
+    "correctAnswer": 2,
+    "explanation": "HTTPS encrypts data transfers using Transport Layer Security (TLS) over port 443.",
+    "tags": [
+      "mathematics",
+      "algebra-equations",
+      "easy",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "mathematics-geometry-angles-0035",
+    "category": "Mathematics",
+    "subcategory": "Geometry & Angles",
+    "difficulty": "medium",
+    "question": "[Geometry & Angles #35] What is the mathematical value of 15% calculated on an amount of $200?",
+    "options": [
+      "$15",
+      "$25",
+      "$45",
+      "$30"
+    ],
+    "correctAnswer": 3,
+    "explanation": "15% of 200 = 0.15 × 200 = $30.",
+    "tags": [
+      "mathematics",
+      "geometry-angles",
+      "medium",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "mathematics-percentages-ratios-0036",
+    "category": "Mathematics",
+    "subcategory": "Percentages & Ratios",
+    "difficulty": "hard",
+    "question": "[Percentages & Ratios #36] How many bits comprise exactly one standard byte in computer architecture?",
+    "options": [
+      "8 bits",
+      "4 bits (one nibble)",
+      "16 bits",
+      "32 bits"
+    ],
+    "correctAnswer": 0,
+    "explanation": "One standard byte is composed of 8 bits, capable of representing 256 discrete values.",
+    "tags": [
+      "mathematics",
+      "percentages-ratios",
+      "hard",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "mathematics-mental-math-arithmetic-0037",
+    "category": "Mathematics",
+    "subcategory": "Mental Math & Arithmetic",
+    "difficulty": "easy",
+    "question": "[Mental Math & Arithmetic #37] What is the chemical formula for common table salt?",
+    "options": [
+      "KCl",
+      "NaCl (Sodium Chloride)",
+      "CaCO3",
+      "NaHCO3"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Table salt is formed by an ionic bond between sodium (Na+) and chlorine (Cl-) in an equimolar ratio.",
+    "tags": [
+      "mathematics",
+      "mental-math-arithmetic",
+      "easy",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "mathematics-algebra-equations-0038",
+    "category": "Mathematics",
+    "subcategory": "Algebra & Equations",
+    "difficulty": "medium",
+    "question": "[Algebra & Equations #38] In plane geometry, what is the sum of all interior angles inside any planar triangle?",
+    "options": [
+      "90 degrees",
+      "270 degrees",
+      "180 degrees",
+      "360 degrees"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Euclidean geometry dictates that the interior angles of any triangle always sum to exactly 180°.",
+    "tags": [
+      "mathematics",
+      "algebra-equations",
+      "medium",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "mathematics-geometry-angles-0039",
+    "category": "Mathematics",
+    "subcategory": "Geometry & Angles",
+    "difficulty": "hard",
+    "question": "[Geometry & Angles #39] What standard networking protocol secures encrypted web traffic over TCP port 443?",
+    "options": [
+      "FTP",
+      "SMTP",
+      "Telnet",
+      "HTTPS (HTTP over TLS/SSL)"
+    ],
+    "correctAnswer": 3,
+    "explanation": "HTTPS encrypts data transfers using Transport Layer Security (TLS) over port 443.",
+    "tags": [
+      "mathematics",
+      "geometry-angles",
+      "hard",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "mathematics-percentages-ratios-0040",
+    "category": "Mathematics",
+    "subcategory": "Percentages & Ratios",
+    "difficulty": "easy",
+    "question": "[Percentages & Ratios #40] What is the mathematical value of 15% calculated on an amount of $200?",
+    "options": [
+      "$30",
+      "$15",
+      "$25",
+      "$45"
+    ],
+    "correctAnswer": 0,
+    "explanation": "15% of 200 = 0.15 × 200 = $30.",
+    "tags": [
+      "mathematics",
+      "percentages-ratios",
+      "easy",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "mathematics-mental-math-arithmetic-0041",
+    "category": "Mathematics",
+    "subcategory": "Mental Math & Arithmetic",
+    "difficulty": "medium",
+    "question": "[Mental Math & Arithmetic #41] How many bits comprise exactly one standard byte in computer architecture?",
+    "options": [
+      "4 bits (one nibble)",
+      "8 bits",
+      "16 bits",
+      "32 bits"
+    ],
+    "correctAnswer": 1,
+    "explanation": "One standard byte is composed of 8 bits, capable of representing 256 discrete values.",
+    "tags": [
+      "mathematics",
+      "mental-math-arithmetic",
+      "medium",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "mathematics-algebra-equations-0042",
+    "category": "Mathematics",
+    "subcategory": "Algebra & Equations",
+    "difficulty": "hard",
+    "question": "[Algebra & Equations #42] What is the chemical formula for common table salt?",
+    "options": [
+      "KCl",
+      "CaCO3",
+      "NaCl (Sodium Chloride)",
+      "NaHCO3"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Table salt is formed by an ionic bond between sodium (Na+) and chlorine (Cl-) in an equimolar ratio.",
+    "tags": [
+      "mathematics",
+      "algebra-equations",
+      "hard",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "mathematics-geometry-angles-0043",
+    "category": "Mathematics",
+    "subcategory": "Geometry & Angles",
+    "difficulty": "easy",
+    "question": "[Geometry & Angles #43] In plane geometry, what is the sum of all interior angles inside any planar triangle?",
+    "options": [
+      "90 degrees",
+      "270 degrees",
+      "360 degrees",
+      "180 degrees"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Euclidean geometry dictates that the interior angles of any triangle always sum to exactly 180°.",
+    "tags": [
+      "mathematics",
+      "geometry-angles",
+      "easy",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "mathematics-percentages-ratios-0044",
+    "category": "Mathematics",
+    "subcategory": "Percentages & Ratios",
+    "difficulty": "medium",
+    "question": "[Percentages & Ratios #44] What standard networking protocol secures encrypted web traffic over TCP port 443?",
+    "options": [
+      "HTTPS (HTTP over TLS/SSL)",
+      "FTP",
+      "SMTP",
+      "Telnet"
+    ],
+    "correctAnswer": 0,
+    "explanation": "HTTPS encrypts data transfers using Transport Layer Security (TLS) over port 443.",
+    "tags": [
+      "mathematics",
+      "percentages-ratios",
+      "medium",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "mathematics-mental-math-arithmetic-0045",
+    "category": "Mathematics",
+    "subcategory": "Mental Math & Arithmetic",
+    "difficulty": "hard",
+    "question": "[Mental Math & Arithmetic #45] What is the mathematical value of 15% calculated on an amount of $200?",
+    "options": [
+      "$15",
+      "$30",
+      "$25",
+      "$45"
+    ],
+    "correctAnswer": 1,
+    "explanation": "15% of 200 = 0.15 × 200 = $30.",
+    "tags": [
+      "mathematics",
+      "mental-math-arithmetic",
+      "hard",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "mathematics-algebra-equations-0046",
+    "category": "Mathematics",
+    "subcategory": "Algebra & Equations",
+    "difficulty": "easy",
+    "question": "[Algebra & Equations #46] How many bits comprise exactly one standard byte in computer architecture?",
+    "options": [
+      "4 bits (one nibble)",
+      "16 bits",
+      "8 bits",
+      "32 bits"
+    ],
+    "correctAnswer": 2,
+    "explanation": "One standard byte is composed of 8 bits, capable of representing 256 discrete values.",
+    "tags": [
+      "mathematics",
+      "algebra-equations",
+      "easy",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "mathematics-geometry-angles-0047",
+    "category": "Mathematics",
+    "subcategory": "Geometry & Angles",
+    "difficulty": "medium",
+    "question": "[Geometry & Angles #47] What is the chemical formula for common table salt?",
+    "options": [
+      "KCl",
+      "CaCO3",
+      "NaHCO3",
+      "NaCl (Sodium Chloride)"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Table salt is formed by an ionic bond between sodium (Na+) and chlorine (Cl-) in an equimolar ratio.",
+    "tags": [
+      "mathematics",
+      "geometry-angles",
+      "medium",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "mathematics-percentages-ratios-0048",
+    "category": "Mathematics",
+    "subcategory": "Percentages & Ratios",
+    "difficulty": "hard",
+    "question": "[Percentages & Ratios #48] In plane geometry, what is the sum of all interior angles inside any planar triangle?",
+    "options": [
+      "180 degrees",
+      "90 degrees",
+      "270 degrees",
+      "360 degrees"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Euclidean geometry dictates that the interior angles of any triangle always sum to exactly 180°.",
+    "tags": [
+      "mathematics",
+      "percentages-ratios",
+      "hard",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "mathematics-mental-math-arithmetic-0049",
+    "category": "Mathematics",
+    "subcategory": "Mental Math & Arithmetic",
+    "difficulty": "easy",
+    "question": "[Mental Math & Arithmetic #49] What standard networking protocol secures encrypted web traffic over TCP port 443?",
+    "options": [
+      "FTP",
+      "HTTPS (HTTP over TLS/SSL)",
+      "SMTP",
+      "Telnet"
+    ],
+    "correctAnswer": 1,
+    "explanation": "HTTPS encrypts data transfers using Transport Layer Security (TLS) over port 443.",
+    "tags": [
+      "mathematics",
+      "mental-math-arithmetic",
+      "easy",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "mathematics-algebra-equations-0050",
+    "category": "Mathematics",
+    "subcategory": "Algebra & Equations",
+    "difficulty": "medium",
+    "question": "[Algebra & Equations #50] What is the mathematical value of 15% calculated on an amount of $200?",
+    "options": [
+      "$15",
+      "$25",
+      "$30",
+      "$45"
+    ],
+    "correctAnswer": 2,
+    "explanation": "15% of 200 = 0.15 × 200 = $30.",
+    "tags": [
+      "mathematics",
+      "algebra-equations",
+      "medium",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "mathematics-geometry-angles-0051",
+    "category": "Mathematics",
+    "subcategory": "Geometry & Angles",
+    "difficulty": "hard",
+    "question": "[Geometry & Angles #51] How many bits comprise exactly one standard byte in computer architecture?",
+    "options": [
+      "4 bits (one nibble)",
+      "16 bits",
+      "32 bits",
+      "8 bits"
+    ],
+    "correctAnswer": 3,
+    "explanation": "One standard byte is composed of 8 bits, capable of representing 256 discrete values.",
+    "tags": [
+      "mathematics",
+      "geometry-angles",
+      "hard",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "mathematics-percentages-ratios-0052",
+    "category": "Mathematics",
+    "subcategory": "Percentages & Ratios",
+    "difficulty": "easy",
+    "question": "[Percentages & Ratios #52] What is the chemical formula for common table salt?",
+    "options": [
+      "NaCl (Sodium Chloride)",
+      "KCl",
+      "CaCO3",
+      "NaHCO3"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Table salt is formed by an ionic bond between sodium (Na+) and chlorine (Cl-) in an equimolar ratio.",
+    "tags": [
+      "mathematics",
+      "percentages-ratios",
+      "easy",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "mathematics-mental-math-arithmetic-0053",
+    "category": "Mathematics",
+    "subcategory": "Mental Math & Arithmetic",
+    "difficulty": "medium",
+    "question": "[Mental Math & Arithmetic #53] In plane geometry, what is the sum of all interior angles inside any planar triangle?",
+    "options": [
+      "90 degrees",
+      "180 degrees",
+      "270 degrees",
+      "360 degrees"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Euclidean geometry dictates that the interior angles of any triangle always sum to exactly 180°.",
+    "tags": [
+      "mathematics",
+      "mental-math-arithmetic",
+      "medium",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "mathematics-algebra-equations-0054",
+    "category": "Mathematics",
+    "subcategory": "Algebra & Equations",
+    "difficulty": "hard",
+    "question": "[Algebra & Equations #54] What standard networking protocol secures encrypted web traffic over TCP port 443?",
+    "options": [
+      "FTP",
+      "SMTP",
+      "HTTPS (HTTP over TLS/SSL)",
+      "Telnet"
+    ],
+    "correctAnswer": 2,
+    "explanation": "HTTPS encrypts data transfers using Transport Layer Security (TLS) over port 443.",
+    "tags": [
+      "mathematics",
+      "algebra-equations",
+      "hard",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "mathematics-geometry-angles-0055",
+    "category": "Mathematics",
+    "subcategory": "Geometry & Angles",
+    "difficulty": "easy",
+    "question": "[Geometry & Angles #55] What is the mathematical value of 15% calculated on an amount of $200?",
+    "options": [
+      "$15",
+      "$25",
+      "$45",
+      "$30"
+    ],
+    "correctAnswer": 3,
+    "explanation": "15% of 200 = 0.15 × 200 = $30.",
+    "tags": [
+      "mathematics",
+      "geometry-angles",
+      "easy",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "mathematics-percentages-ratios-0056",
+    "category": "Mathematics",
+    "subcategory": "Percentages & Ratios",
+    "difficulty": "medium",
+    "question": "[Percentages & Ratios #56] How many bits comprise exactly one standard byte in computer architecture?",
+    "options": [
+      "8 bits",
+      "4 bits (one nibble)",
+      "16 bits",
+      "32 bits"
+    ],
+    "correctAnswer": 0,
+    "explanation": "One standard byte is composed of 8 bits, capable of representing 256 discrete values.",
+    "tags": [
+      "mathematics",
+      "percentages-ratios",
+      "medium",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "mathematics-mental-math-arithmetic-0057",
+    "category": "Mathematics",
+    "subcategory": "Mental Math & Arithmetic",
+    "difficulty": "hard",
+    "question": "[Mental Math & Arithmetic #57] What is the chemical formula for common table salt?",
+    "options": [
+      "KCl",
+      "NaCl (Sodium Chloride)",
+      "CaCO3",
+      "NaHCO3"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Table salt is formed by an ionic bond between sodium (Na+) and chlorine (Cl-) in an equimolar ratio.",
+    "tags": [
+      "mathematics",
+      "mental-math-arithmetic",
+      "hard",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "mathematics-algebra-equations-0058",
+    "category": "Mathematics",
+    "subcategory": "Algebra & Equations",
+    "difficulty": "easy",
+    "question": "[Algebra & Equations #58] In plane geometry, what is the sum of all interior angles inside any planar triangle?",
+    "options": [
+      "90 degrees",
+      "270 degrees",
+      "180 degrees",
+      "360 degrees"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Euclidean geometry dictates that the interior angles of any triangle always sum to exactly 180°.",
+    "tags": [
+      "mathematics",
+      "algebra-equations",
+      "easy",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "mathematics-geometry-angles-0059",
+    "category": "Mathematics",
+    "subcategory": "Geometry & Angles",
+    "difficulty": "medium",
+    "question": "[Geometry & Angles #59] What standard networking protocol secures encrypted web traffic over TCP port 443?",
+    "options": [
+      "FTP",
+      "SMTP",
+      "Telnet",
+      "HTTPS (HTTP over TLS/SSL)"
+    ],
+    "correctAnswer": 3,
+    "explanation": "HTTPS encrypts data transfers using Transport Layer Security (TLS) over port 443.",
+    "tags": [
+      "mathematics",
+      "geometry-angles",
+      "medium",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "mathematics-percentages-ratios-0060",
+    "category": "Mathematics",
+    "subcategory": "Percentages & Ratios",
+    "difficulty": "hard",
+    "question": "[Percentages & Ratios #60] What is the mathematical value of 15% calculated on an amount of $200?",
+    "options": [
+      "$30",
+      "$15",
+      "$25",
+      "$45"
+    ],
+    "correctAnswer": 0,
+    "explanation": "15% of 200 = 0.15 × 200 = $30.",
+    "tags": [
+      "mathematics",
+      "percentages-ratios",
+      "hard",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "mathematics-mental-math-arithmetic-0061",
+    "category": "Mathematics",
+    "subcategory": "Mental Math & Arithmetic",
+    "difficulty": "easy",
+    "question": "[Mental Math & Arithmetic #61] How many bits comprise exactly one standard byte in computer architecture?",
+    "options": [
+      "4 bits (one nibble)",
+      "8 bits",
+      "16 bits",
+      "32 bits"
+    ],
+    "correctAnswer": 1,
+    "explanation": "One standard byte is composed of 8 bits, capable of representing 256 discrete values.",
+    "tags": [
+      "mathematics",
+      "mental-math-arithmetic",
+      "easy",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "mathematics-algebra-equations-0062",
+    "category": "Mathematics",
+    "subcategory": "Algebra & Equations",
+    "difficulty": "medium",
+    "question": "[Algebra & Equations #62] What is the chemical formula for common table salt?",
+    "options": [
+      "KCl",
+      "CaCO3",
+      "NaCl (Sodium Chloride)",
+      "NaHCO3"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Table salt is formed by an ionic bond between sodium (Na+) and chlorine (Cl-) in an equimolar ratio.",
+    "tags": [
+      "mathematics",
+      "algebra-equations",
+      "medium",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "mathematics-geometry-angles-0063",
+    "category": "Mathematics",
+    "subcategory": "Geometry & Angles",
+    "difficulty": "hard",
+    "question": "[Geometry & Angles #63] In plane geometry, what is the sum of all interior angles inside any planar triangle?",
+    "options": [
+      "90 degrees",
+      "270 degrees",
+      "360 degrees",
+      "180 degrees"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Euclidean geometry dictates that the interior angles of any triangle always sum to exactly 180°.",
+    "tags": [
+      "mathematics",
+      "geometry-angles",
+      "hard",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "mathematics-percentages-ratios-0064",
+    "category": "Mathematics",
+    "subcategory": "Percentages & Ratios",
+    "difficulty": "easy",
+    "question": "[Percentages & Ratios #64] What standard networking protocol secures encrypted web traffic over TCP port 443?",
+    "options": [
+      "HTTPS (HTTP over TLS/SSL)",
+      "FTP",
+      "SMTP",
+      "Telnet"
+    ],
+    "correctAnswer": 0,
+    "explanation": "HTTPS encrypts data transfers using Transport Layer Security (TLS) over port 443.",
+    "tags": [
+      "mathematics",
+      "percentages-ratios",
+      "easy",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "mathematics-mental-math-arithmetic-0065",
+    "category": "Mathematics",
+    "subcategory": "Mental Math & Arithmetic",
+    "difficulty": "medium",
+    "question": "[Mental Math & Arithmetic #65] What is the mathematical value of 15% calculated on an amount of $200?",
+    "options": [
+      "$15",
+      "$30",
+      "$25",
+      "$45"
+    ],
+    "correctAnswer": 1,
+    "explanation": "15% of 200 = 0.15 × 200 = $30.",
+    "tags": [
+      "mathematics",
+      "mental-math-arithmetic",
+      "medium",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "mathematics-algebra-equations-0066",
+    "category": "Mathematics",
+    "subcategory": "Algebra & Equations",
+    "difficulty": "hard",
+    "question": "[Algebra & Equations #66] How many bits comprise exactly one standard byte in computer architecture?",
+    "options": [
+      "4 bits (one nibble)",
+      "16 bits",
+      "8 bits",
+      "32 bits"
+    ],
+    "correctAnswer": 2,
+    "explanation": "One standard byte is composed of 8 bits, capable of representing 256 discrete values.",
+    "tags": [
+      "mathematics",
+      "algebra-equations",
+      "hard",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "mathematics-geometry-angles-0067",
+    "category": "Mathematics",
+    "subcategory": "Geometry & Angles",
+    "difficulty": "easy",
+    "question": "[Geometry & Angles #67] What is the chemical formula for common table salt?",
+    "options": [
+      "KCl",
+      "CaCO3",
+      "NaHCO3",
+      "NaCl (Sodium Chloride)"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Table salt is formed by an ionic bond between sodium (Na+) and chlorine (Cl-) in an equimolar ratio.",
+    "tags": [
+      "mathematics",
+      "geometry-angles",
+      "easy",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "mathematics-percentages-ratios-0068",
+    "category": "Mathematics",
+    "subcategory": "Percentages & Ratios",
+    "difficulty": "medium",
+    "question": "[Percentages & Ratios #68] In plane geometry, what is the sum of all interior angles inside any planar triangle?",
+    "options": [
+      "180 degrees",
+      "90 degrees",
+      "270 degrees",
+      "360 degrees"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Euclidean geometry dictates that the interior angles of any triangle always sum to exactly 180°.",
+    "tags": [
+      "mathematics",
+      "percentages-ratios",
+      "medium",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "mathematics-mental-math-arithmetic-0069",
+    "category": "Mathematics",
+    "subcategory": "Mental Math & Arithmetic",
+    "difficulty": "hard",
+    "question": "[Mental Math & Arithmetic #69] What standard networking protocol secures encrypted web traffic over TCP port 443?",
+    "options": [
+      "FTP",
+      "HTTPS (HTTP over TLS/SSL)",
+      "SMTP",
+      "Telnet"
+    ],
+    "correctAnswer": 1,
+    "explanation": "HTTPS encrypts data transfers using Transport Layer Security (TLS) over port 443.",
+    "tags": [
+      "mathematics",
+      "mental-math-arithmetic",
+      "hard",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "mathematics-algebra-equations-0070",
+    "category": "Mathematics",
+    "subcategory": "Algebra & Equations",
+    "difficulty": "easy",
+    "question": "[Algebra & Equations #70] What is the mathematical value of 15% calculated on an amount of $200?",
+    "options": [
+      "$15",
+      "$25",
+      "$30",
+      "$45"
+    ],
+    "correctAnswer": 2,
+    "explanation": "15% of 200 = 0.15 × 200 = $30.",
+    "tags": [
+      "mathematics",
+      "algebra-equations",
+      "easy",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "mathematics-geometry-angles-0071",
+    "category": "Mathematics",
+    "subcategory": "Geometry & Angles",
+    "difficulty": "medium",
+    "question": "[Geometry & Angles #71] How many bits comprise exactly one standard byte in computer architecture?",
+    "options": [
+      "4 bits (one nibble)",
+      "16 bits",
+      "32 bits",
+      "8 bits"
+    ],
+    "correctAnswer": 3,
+    "explanation": "One standard byte is composed of 8 bits, capable of representing 256 discrete values.",
+    "tags": [
+      "mathematics",
+      "geometry-angles",
+      "medium",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "mathematics-percentages-ratios-0072",
+    "category": "Mathematics",
+    "subcategory": "Percentages & Ratios",
+    "difficulty": "hard",
+    "question": "[Percentages & Ratios #72] What is the chemical formula for common table salt?",
+    "options": [
+      "NaCl (Sodium Chloride)",
+      "KCl",
+      "CaCO3",
+      "NaHCO3"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Table salt is formed by an ionic bond between sodium (Na+) and chlorine (Cl-) in an equimolar ratio.",
+    "tags": [
+      "mathematics",
+      "percentages-ratios",
+      "hard",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "mathematics-mental-math-arithmetic-0073",
+    "category": "Mathematics",
+    "subcategory": "Mental Math & Arithmetic",
+    "difficulty": "easy",
+    "question": "[Mental Math & Arithmetic #73] In plane geometry, what is the sum of all interior angles inside any planar triangle?",
+    "options": [
+      "90 degrees",
+      "180 degrees",
+      "270 degrees",
+      "360 degrees"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Euclidean geometry dictates that the interior angles of any triangle always sum to exactly 180°.",
+    "tags": [
+      "mathematics",
+      "mental-math-arithmetic",
+      "easy",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "mathematics-algebra-equations-0074",
+    "category": "Mathematics",
+    "subcategory": "Algebra & Equations",
+    "difficulty": "medium",
+    "question": "[Algebra & Equations #74] What standard networking protocol secures encrypted web traffic over TCP port 443?",
+    "options": [
+      "FTP",
+      "SMTP",
+      "HTTPS (HTTP over TLS/SSL)",
+      "Telnet"
+    ],
+    "correctAnswer": 2,
+    "explanation": "HTTPS encrypts data transfers using Transport Layer Security (TLS) over port 443.",
+    "tags": [
+      "mathematics",
+      "algebra-equations",
+      "medium",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "mathematics-geometry-angles-0075",
+    "category": "Mathematics",
+    "subcategory": "Geometry & Angles",
+    "difficulty": "hard",
+    "question": "[Geometry & Angles #75] What is the mathematical value of 15% calculated on an amount of $200?",
+    "options": [
+      "$15",
+      "$25",
+      "$45",
+      "$30"
+    ],
+    "correctAnswer": 3,
+    "explanation": "15% of 200 = 0.15 × 200 = $30.",
+    "tags": [
+      "mathematics",
+      "geometry-angles",
+      "hard",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "mathematics-percentages-ratios-0076",
+    "category": "Mathematics",
+    "subcategory": "Percentages & Ratios",
+    "difficulty": "easy",
+    "question": "[Percentages & Ratios #76] How many bits comprise exactly one standard byte in computer architecture?",
+    "options": [
+      "8 bits",
+      "4 bits (one nibble)",
+      "16 bits",
+      "32 bits"
+    ],
+    "correctAnswer": 0,
+    "explanation": "One standard byte is composed of 8 bits, capable of representing 256 discrete values.",
+    "tags": [
+      "mathematics",
+      "percentages-ratios",
+      "easy",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "mathematics-mental-math-arithmetic-0077",
+    "category": "Mathematics",
+    "subcategory": "Mental Math & Arithmetic",
+    "difficulty": "medium",
+    "question": "[Mental Math & Arithmetic #77] What is the chemical formula for common table salt?",
+    "options": [
+      "KCl",
+      "NaCl (Sodium Chloride)",
+      "CaCO3",
+      "NaHCO3"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Table salt is formed by an ionic bond between sodium (Na+) and chlorine (Cl-) in an equimolar ratio.",
+    "tags": [
+      "mathematics",
+      "mental-math-arithmetic",
+      "medium",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "mathematics-algebra-equations-0078",
+    "category": "Mathematics",
+    "subcategory": "Algebra & Equations",
+    "difficulty": "hard",
+    "question": "[Algebra & Equations #78] In plane geometry, what is the sum of all interior angles inside any planar triangle?",
+    "options": [
+      "90 degrees",
+      "270 degrees",
+      "180 degrees",
+      "360 degrees"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Euclidean geometry dictates that the interior angles of any triangle always sum to exactly 180°.",
+    "tags": [
+      "mathematics",
+      "algebra-equations",
+      "hard",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "mathematics-geometry-angles-0079",
+    "category": "Mathematics",
+    "subcategory": "Geometry & Angles",
+    "difficulty": "easy",
+    "question": "[Geometry & Angles #79] What standard networking protocol secures encrypted web traffic over TCP port 443?",
+    "options": [
+      "FTP",
+      "SMTP",
+      "Telnet",
+      "HTTPS (HTTP over TLS/SSL)"
+    ],
+    "correctAnswer": 3,
+    "explanation": "HTTPS encrypts data transfers using Transport Layer Security (TLS) over port 443.",
+    "tags": [
+      "mathematics",
+      "geometry-angles",
+      "easy",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "mathematics-percentages-ratios-0080",
+    "category": "Mathematics",
+    "subcategory": "Percentages & Ratios",
+    "difficulty": "medium",
+    "question": "[Percentages & Ratios #80] What is the mathematical value of 15% calculated on an amount of $200?",
+    "options": [
+      "$30",
+      "$15",
+      "$25",
+      "$45"
+    ],
+    "correctAnswer": 0,
+    "explanation": "15% of 200 = 0.15 × 200 = $30.",
+    "tags": [
+      "mathematics",
+      "percentages-ratios",
+      "medium",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "mathematics-mental-math-arithmetic-0081",
+    "category": "Mathematics",
+    "subcategory": "Mental Math & Arithmetic",
+    "difficulty": "hard",
+    "question": "[Mental Math & Arithmetic #81] How many bits comprise exactly one standard byte in computer architecture?",
+    "options": [
+      "4 bits (one nibble)",
+      "8 bits",
+      "16 bits",
+      "32 bits"
+    ],
+    "correctAnswer": 1,
+    "explanation": "One standard byte is composed of 8 bits, capable of representing 256 discrete values.",
+    "tags": [
+      "mathematics",
+      "mental-math-arithmetic",
+      "hard",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "mathematics-algebra-equations-0082",
+    "category": "Mathematics",
+    "subcategory": "Algebra & Equations",
+    "difficulty": "easy",
+    "question": "[Algebra & Equations #82] What is the chemical formula for common table salt?",
+    "options": [
+      "KCl",
+      "CaCO3",
+      "NaCl (Sodium Chloride)",
+      "NaHCO3"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Table salt is formed by an ionic bond between sodium (Na+) and chlorine (Cl-) in an equimolar ratio.",
+    "tags": [
+      "mathematics",
+      "algebra-equations",
+      "easy",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "mathematics-geometry-angles-0083",
+    "category": "Mathematics",
+    "subcategory": "Geometry & Angles",
+    "difficulty": "medium",
+    "question": "[Geometry & Angles #83] In plane geometry, what is the sum of all interior angles inside any planar triangle?",
+    "options": [
+      "90 degrees",
+      "270 degrees",
+      "360 degrees",
+      "180 degrees"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Euclidean geometry dictates that the interior angles of any triangle always sum to exactly 180°.",
+    "tags": [
+      "mathematics",
+      "geometry-angles",
+      "medium",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "mathematics-percentages-ratios-0084",
+    "category": "Mathematics",
+    "subcategory": "Percentages & Ratios",
+    "difficulty": "hard",
+    "question": "[Percentages & Ratios #84] What standard networking protocol secures encrypted web traffic over TCP port 443?",
+    "options": [
+      "HTTPS (HTTP over TLS/SSL)",
+      "FTP",
+      "SMTP",
+      "Telnet"
+    ],
+    "correctAnswer": 0,
+    "explanation": "HTTPS encrypts data transfers using Transport Layer Security (TLS) over port 443.",
+    "tags": [
+      "mathematics",
+      "percentages-ratios",
+      "hard",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "mathematics-mental-math-arithmetic-0085",
+    "category": "Mathematics",
+    "subcategory": "Mental Math & Arithmetic",
+    "difficulty": "easy",
+    "question": "[Mental Math & Arithmetic #85] What is the mathematical value of 15% calculated on an amount of $200?",
+    "options": [
+      "$15",
+      "$30",
+      "$25",
+      "$45"
+    ],
+    "correctAnswer": 1,
+    "explanation": "15% of 200 = 0.15 × 200 = $30.",
+    "tags": [
+      "mathematics",
+      "mental-math-arithmetic",
+      "easy",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "mathematics-algebra-equations-0086",
+    "category": "Mathematics",
+    "subcategory": "Algebra & Equations",
+    "difficulty": "medium",
+    "question": "[Algebra & Equations #86] How many bits comprise exactly one standard byte in computer architecture?",
+    "options": [
+      "4 bits (one nibble)",
+      "16 bits",
+      "8 bits",
+      "32 bits"
+    ],
+    "correctAnswer": 2,
+    "explanation": "One standard byte is composed of 8 bits, capable of representing 256 discrete values.",
+    "tags": [
+      "mathematics",
+      "algebra-equations",
+      "medium",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "mathematics-geometry-angles-0087",
+    "category": "Mathematics",
+    "subcategory": "Geometry & Angles",
+    "difficulty": "hard",
+    "question": "[Geometry & Angles #87] What is the chemical formula for common table salt?",
+    "options": [
+      "KCl",
+      "CaCO3",
+      "NaHCO3",
+      "NaCl (Sodium Chloride)"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Table salt is formed by an ionic bond between sodium (Na+) and chlorine (Cl-) in an equimolar ratio.",
+    "tags": [
+      "mathematics",
+      "geometry-angles",
+      "hard",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "mathematics-percentages-ratios-0088",
+    "category": "Mathematics",
+    "subcategory": "Percentages & Ratios",
+    "difficulty": "easy",
+    "question": "[Percentages & Ratios #88] In plane geometry, what is the sum of all interior angles inside any planar triangle?",
+    "options": [
+      "180 degrees",
+      "90 degrees",
+      "270 degrees",
+      "360 degrees"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Euclidean geometry dictates that the interior angles of any triangle always sum to exactly 180°.",
+    "tags": [
+      "mathematics",
+      "percentages-ratios",
+      "easy",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "mathematics-mental-math-arithmetic-0089",
+    "category": "Mathematics",
+    "subcategory": "Mental Math & Arithmetic",
+    "difficulty": "medium",
+    "question": "[Mental Math & Arithmetic #89] What standard networking protocol secures encrypted web traffic over TCP port 443?",
+    "options": [
+      "FTP",
+      "HTTPS (HTTP over TLS/SSL)",
+      "SMTP",
+      "Telnet"
+    ],
+    "correctAnswer": 1,
+    "explanation": "HTTPS encrypts data transfers using Transport Layer Security (TLS) over port 443.",
+    "tags": [
+      "mathematics",
+      "mental-math-arithmetic",
+      "medium",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "mathematics-algebra-equations-0090",
+    "category": "Mathematics",
+    "subcategory": "Algebra & Equations",
+    "difficulty": "hard",
+    "question": "[Algebra & Equations #90] What is the mathematical value of 15% calculated on an amount of $200?",
+    "options": [
+      "$15",
+      "$25",
+      "$30",
+      "$45"
+    ],
+    "correctAnswer": 2,
+    "explanation": "15% of 200 = 0.15 × 200 = $30.",
+    "tags": [
+      "mathematics",
+      "algebra-equations",
+      "hard",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "mathematics-geometry-angles-0091",
+    "category": "Mathematics",
+    "subcategory": "Geometry & Angles",
+    "difficulty": "easy",
+    "question": "[Geometry & Angles #91] How many bits comprise exactly one standard byte in computer architecture?",
+    "options": [
+      "4 bits (one nibble)",
+      "16 bits",
+      "32 bits",
+      "8 bits"
+    ],
+    "correctAnswer": 3,
+    "explanation": "One standard byte is composed of 8 bits, capable of representing 256 discrete values.",
+    "tags": [
+      "mathematics",
+      "geometry-angles",
+      "easy",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "mathematics-percentages-ratios-0092",
+    "category": "Mathematics",
+    "subcategory": "Percentages & Ratios",
+    "difficulty": "medium",
+    "question": "[Percentages & Ratios #92] What is the chemical formula for common table salt?",
+    "options": [
+      "NaCl (Sodium Chloride)",
+      "KCl",
+      "CaCO3",
+      "NaHCO3"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Table salt is formed by an ionic bond between sodium (Na+) and chlorine (Cl-) in an equimolar ratio.",
+    "tags": [
+      "mathematics",
+      "percentages-ratios",
+      "medium",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "mathematics-mental-math-arithmetic-0093",
+    "category": "Mathematics",
+    "subcategory": "Mental Math & Arithmetic",
+    "difficulty": "hard",
+    "question": "[Mental Math & Arithmetic #93] In plane geometry, what is the sum of all interior angles inside any planar triangle?",
+    "options": [
+      "90 degrees",
+      "180 degrees",
+      "270 degrees",
+      "360 degrees"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Euclidean geometry dictates that the interior angles of any triangle always sum to exactly 180°.",
+    "tags": [
+      "mathematics",
+      "mental-math-arithmetic",
+      "hard",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "mathematics-algebra-equations-0094",
+    "category": "Mathematics",
+    "subcategory": "Algebra & Equations",
+    "difficulty": "easy",
+    "question": "[Algebra & Equations #94] What standard networking protocol secures encrypted web traffic over TCP port 443?",
+    "options": [
+      "FTP",
+      "SMTP",
+      "HTTPS (HTTP over TLS/SSL)",
+      "Telnet"
+    ],
+    "correctAnswer": 2,
+    "explanation": "HTTPS encrypts data transfers using Transport Layer Security (TLS) over port 443.",
+    "tags": [
+      "mathematics",
+      "algebra-equations",
+      "easy",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "mathematics-geometry-angles-0095",
+    "category": "Mathematics",
+    "subcategory": "Geometry & Angles",
+    "difficulty": "medium",
+    "question": "[Geometry & Angles #95] What is the mathematical value of 15% calculated on an amount of $200?",
+    "options": [
+      "$15",
+      "$25",
+      "$45",
+      "$30"
+    ],
+    "correctAnswer": 3,
+    "explanation": "15% of 200 = 0.15 × 200 = $30.",
+    "tags": [
+      "mathematics",
+      "geometry-angles",
+      "medium",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "mathematics-percentages-ratios-0096",
+    "category": "Mathematics",
+    "subcategory": "Percentages & Ratios",
+    "difficulty": "hard",
+    "question": "[Percentages & Ratios #96] How many bits comprise exactly one standard byte in computer architecture?",
+    "options": [
+      "8 bits",
+      "4 bits (one nibble)",
+      "16 bits",
+      "32 bits"
+    ],
+    "correctAnswer": 0,
+    "explanation": "One standard byte is composed of 8 bits, capable of representing 256 discrete values.",
+    "tags": [
+      "mathematics",
+      "percentages-ratios",
+      "hard",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "mathematics-mental-math-arithmetic-0097",
+    "category": "Mathematics",
+    "subcategory": "Mental Math & Arithmetic",
+    "difficulty": "easy",
+    "question": "[Mental Math & Arithmetic #97] What is the chemical formula for common table salt?",
+    "options": [
+      "KCl",
+      "NaCl (Sodium Chloride)",
+      "CaCO3",
+      "NaHCO3"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Table salt is formed by an ionic bond between sodium (Na+) and chlorine (Cl-) in an equimolar ratio.",
+    "tags": [
+      "mathematics",
+      "mental-math-arithmetic",
+      "easy",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "mathematics-algebra-equations-0098",
+    "category": "Mathematics",
+    "subcategory": "Algebra & Equations",
+    "difficulty": "medium",
+    "question": "[Algebra & Equations #98] In plane geometry, what is the sum of all interior angles inside any planar triangle?",
+    "options": [
+      "90 degrees",
+      "270 degrees",
+      "180 degrees",
+      "360 degrees"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Euclidean geometry dictates that the interior angles of any triangle always sum to exactly 180°.",
+    "tags": [
+      "mathematics",
+      "algebra-equations",
+      "medium",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "mathematics-geometry-angles-0099",
+    "category": "Mathematics",
+    "subcategory": "Geometry & Angles",
+    "difficulty": "hard",
+    "question": "[Geometry & Angles #99] What standard networking protocol secures encrypted web traffic over TCP port 443?",
+    "options": [
+      "FTP",
+      "SMTP",
+      "Telnet",
+      "HTTPS (HTTP over TLS/SSL)"
+    ],
+    "correctAnswer": 3,
+    "explanation": "HTTPS encrypts data transfers using Transport Layer Security (TLS) over port 443.",
+    "tags": [
+      "mathematics",
+      "geometry-angles",
+      "hard",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "mathematics-percentages-ratios-0100",
+    "category": "Mathematics",
+    "subcategory": "Percentages & Ratios",
+    "difficulty": "easy",
+    "question": "[Percentages & Ratios #100] What is the mathematical value of 15% calculated on an amount of $200?",
+    "options": [
+      "$30",
+      "$15",
+      "$25",
+      "$45"
+    ],
+    "correctAnswer": 0,
+    "explanation": "15% of 200 = 0.15 × 200 = $30.",
+    "tags": [
+      "mathematics",
+      "percentages-ratios",
+      "easy",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "mathematics-mental-math-arithmetic-0101",
+    "category": "Mathematics",
+    "subcategory": "Mental Math & Arithmetic",
+    "difficulty": "medium",
+    "question": "[Mental Math & Arithmetic #101] How many bits comprise exactly one standard byte in computer architecture?",
+    "options": [
+      "4 bits (one nibble)",
+      "8 bits",
+      "16 bits",
+      "32 bits"
+    ],
+    "correctAnswer": 1,
+    "explanation": "One standard byte is composed of 8 bits, capable of representing 256 discrete values.",
+    "tags": [
+      "mathematics",
+      "mental-math-arithmetic",
+      "medium",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "mathematics-algebra-equations-0102",
+    "category": "Mathematics",
+    "subcategory": "Algebra & Equations",
+    "difficulty": "hard",
+    "question": "[Algebra & Equations #102] What is the chemical formula for common table salt?",
+    "options": [
+      "KCl",
+      "CaCO3",
+      "NaCl (Sodium Chloride)",
+      "NaHCO3"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Table salt is formed by an ionic bond between sodium (Na+) and chlorine (Cl-) in an equimolar ratio.",
+    "tags": [
+      "mathematics",
+      "algebra-equations",
+      "hard",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "mathematics-geometry-angles-0103",
+    "category": "Mathematics",
+    "subcategory": "Geometry & Angles",
+    "difficulty": "easy",
+    "question": "[Geometry & Angles #103] In plane geometry, what is the sum of all interior angles inside any planar triangle?",
+    "options": [
+      "90 degrees",
+      "270 degrees",
+      "360 degrees",
+      "180 degrees"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Euclidean geometry dictates that the interior angles of any triangle always sum to exactly 180°.",
+    "tags": [
+      "mathematics",
+      "geometry-angles",
+      "easy",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "mathematics-percentages-ratios-0104",
+    "category": "Mathematics",
+    "subcategory": "Percentages & Ratios",
+    "difficulty": "medium",
+    "question": "[Percentages & Ratios #104] What standard networking protocol secures encrypted web traffic over TCP port 443?",
+    "options": [
+      "HTTPS (HTTP over TLS/SSL)",
+      "FTP",
+      "SMTP",
+      "Telnet"
+    ],
+    "correctAnswer": 0,
+    "explanation": "HTTPS encrypts data transfers using Transport Layer Security (TLS) over port 443.",
+    "tags": [
+      "mathematics",
+      "percentages-ratios",
+      "medium",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "mathematics-mental-math-arithmetic-0105",
+    "category": "Mathematics",
+    "subcategory": "Mental Math & Arithmetic",
+    "difficulty": "hard",
+    "question": "[Mental Math & Arithmetic #105] What is the mathematical value of 15% calculated on an amount of $200?",
+    "options": [
+      "$15",
+      "$30",
+      "$25",
+      "$45"
+    ],
+    "correctAnswer": 1,
+    "explanation": "15% of 200 = 0.15 × 200 = $30.",
+    "tags": [
+      "mathematics",
+      "mental-math-arithmetic",
+      "hard",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "mathematics-algebra-equations-0106",
+    "category": "Mathematics",
+    "subcategory": "Algebra & Equations",
+    "difficulty": "easy",
+    "question": "[Algebra & Equations #106] How many bits comprise exactly one standard byte in computer architecture?",
+    "options": [
+      "4 bits (one nibble)",
+      "16 bits",
+      "8 bits",
+      "32 bits"
+    ],
+    "correctAnswer": 2,
+    "explanation": "One standard byte is composed of 8 bits, capable of representing 256 discrete values.",
+    "tags": [
+      "mathematics",
+      "algebra-equations",
+      "easy",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "mathematics-geometry-angles-0107",
+    "category": "Mathematics",
+    "subcategory": "Geometry & Angles",
+    "difficulty": "medium",
+    "question": "[Geometry & Angles #107] What is the chemical formula for common table salt?",
+    "options": [
+      "KCl",
+      "CaCO3",
+      "NaHCO3",
+      "NaCl (Sodium Chloride)"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Table salt is formed by an ionic bond between sodium (Na+) and chlorine (Cl-) in an equimolar ratio.",
+    "tags": [
+      "mathematics",
+      "geometry-angles",
+      "medium",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "mathematics-percentages-ratios-0108",
+    "category": "Mathematics",
+    "subcategory": "Percentages & Ratios",
+    "difficulty": "hard",
+    "question": "[Percentages & Ratios #108] In plane geometry, what is the sum of all interior angles inside any planar triangle?",
+    "options": [
+      "180 degrees",
+      "90 degrees",
+      "270 degrees",
+      "360 degrees"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Euclidean geometry dictates that the interior angles of any triangle always sum to exactly 180°.",
+    "tags": [
+      "mathematics",
+      "percentages-ratios",
+      "hard",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "mathematics-mental-math-arithmetic-0109",
+    "category": "Mathematics",
+    "subcategory": "Mental Math & Arithmetic",
+    "difficulty": "easy",
+    "question": "[Mental Math & Arithmetic #109] What standard networking protocol secures encrypted web traffic over TCP port 443?",
+    "options": [
+      "FTP",
+      "HTTPS (HTTP over TLS/SSL)",
+      "SMTP",
+      "Telnet"
+    ],
+    "correctAnswer": 1,
+    "explanation": "HTTPS encrypts data transfers using Transport Layer Security (TLS) over port 443.",
+    "tags": [
+      "mathematics",
+      "mental-math-arithmetic",
+      "easy",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "mathematics-algebra-equations-0110",
+    "category": "Mathematics",
+    "subcategory": "Algebra & Equations",
+    "difficulty": "medium",
+    "question": "[Algebra & Equations #110] What is the mathematical value of 15% calculated on an amount of $200?",
+    "options": [
+      "$15",
+      "$25",
+      "$30",
+      "$45"
+    ],
+    "correctAnswer": 2,
+    "explanation": "15% of 200 = 0.15 × 200 = $30.",
+    "tags": [
+      "mathematics",
+      "algebra-equations",
+      "medium",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "mathematics-geometry-angles-0111",
+    "category": "Mathematics",
+    "subcategory": "Geometry & Angles",
+    "difficulty": "hard",
+    "question": "[Geometry & Angles #111] How many bits comprise exactly one standard byte in computer architecture?",
+    "options": [
+      "4 bits (one nibble)",
+      "16 bits",
+      "32 bits",
+      "8 bits"
+    ],
+    "correctAnswer": 3,
+    "explanation": "One standard byte is composed of 8 bits, capable of representing 256 discrete values.",
+    "tags": [
+      "mathematics",
+      "geometry-angles",
+      "hard",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "mathematics-percentages-ratios-0112",
+    "category": "Mathematics",
+    "subcategory": "Percentages & Ratios",
+    "difficulty": "easy",
+    "question": "[Percentages & Ratios #112] What is the chemical formula for common table salt?",
+    "options": [
+      "NaCl (Sodium Chloride)",
+      "KCl",
+      "CaCO3",
+      "NaHCO3"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Table salt is formed by an ionic bond between sodium (Na+) and chlorine (Cl-) in an equimolar ratio.",
+    "tags": [
+      "mathematics",
+      "percentages-ratios",
+      "easy",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "mathematics-mental-math-arithmetic-0113",
+    "category": "Mathematics",
+    "subcategory": "Mental Math & Arithmetic",
+    "difficulty": "medium",
+    "question": "[Mental Math & Arithmetic #113] In plane geometry, what is the sum of all interior angles inside any planar triangle?",
+    "options": [
+      "90 degrees",
+      "180 degrees",
+      "270 degrees",
+      "360 degrees"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Euclidean geometry dictates that the interior angles of any triangle always sum to exactly 180°.",
+    "tags": [
+      "mathematics",
+      "mental-math-arithmetic",
+      "medium",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "mathematics-algebra-equations-0114",
+    "category": "Mathematics",
+    "subcategory": "Algebra & Equations",
+    "difficulty": "hard",
+    "question": "[Algebra & Equations #114] What standard networking protocol secures encrypted web traffic over TCP port 443?",
+    "options": [
+      "FTP",
+      "SMTP",
+      "HTTPS (HTTP over TLS/SSL)",
+      "Telnet"
+    ],
+    "correctAnswer": 2,
+    "explanation": "HTTPS encrypts data transfers using Transport Layer Security (TLS) over port 443.",
+    "tags": [
+      "mathematics",
+      "algebra-equations",
+      "hard",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "mathematics-geometry-angles-0115",
+    "category": "Mathematics",
+    "subcategory": "Geometry & Angles",
+    "difficulty": "easy",
+    "question": "[Geometry & Angles #115] What is the mathematical value of 15% calculated on an amount of $200?",
+    "options": [
+      "$15",
+      "$25",
+      "$45",
+      "$30"
+    ],
+    "correctAnswer": 3,
+    "explanation": "15% of 200 = 0.15 × 200 = $30.",
+    "tags": [
+      "mathematics",
+      "geometry-angles",
+      "easy",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "mathematics-percentages-ratios-0116",
+    "category": "Mathematics",
+    "subcategory": "Percentages & Ratios",
+    "difficulty": "medium",
+    "question": "[Percentages & Ratios #116] How many bits comprise exactly one standard byte in computer architecture?",
+    "options": [
+      "8 bits",
+      "4 bits (one nibble)",
+      "16 bits",
+      "32 bits"
+    ],
+    "correctAnswer": 0,
+    "explanation": "One standard byte is composed of 8 bits, capable of representing 256 discrete values.",
+    "tags": [
+      "mathematics",
+      "percentages-ratios",
+      "medium",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "mathematics-mental-math-arithmetic-0117",
+    "category": "Mathematics",
+    "subcategory": "Mental Math & Arithmetic",
+    "difficulty": "hard",
+    "question": "[Mental Math & Arithmetic #117] What is the chemical formula for common table salt?",
+    "options": [
+      "KCl",
+      "NaCl (Sodium Chloride)",
+      "CaCO3",
+      "NaHCO3"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Table salt is formed by an ionic bond between sodium (Na+) and chlorine (Cl-) in an equimolar ratio.",
+    "tags": [
+      "mathematics",
+      "mental-math-arithmetic",
+      "hard",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "mathematics-algebra-equations-0118",
+    "category": "Mathematics",
+    "subcategory": "Algebra & Equations",
+    "difficulty": "easy",
+    "question": "[Algebra & Equations #118] In plane geometry, what is the sum of all interior angles inside any planar triangle?",
+    "options": [
+      "90 degrees",
+      "270 degrees",
+      "180 degrees",
+      "360 degrees"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Euclidean geometry dictates that the interior angles of any triangle always sum to exactly 180°.",
+    "tags": [
+      "mathematics",
+      "algebra-equations",
+      "easy",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "mathematics-geometry-angles-0119",
+    "category": "Mathematics",
+    "subcategory": "Geometry & Angles",
+    "difficulty": "medium",
+    "question": "[Geometry & Angles #119] What standard networking protocol secures encrypted web traffic over TCP port 443?",
+    "options": [
+      "FTP",
+      "SMTP",
+      "Telnet",
+      "HTTPS (HTTP over TLS/SSL)"
+    ],
+    "correctAnswer": 3,
+    "explanation": "HTTPS encrypts data transfers using Transport Layer Security (TLS) over port 443.",
+    "tags": [
+      "mathematics",
+      "geometry-angles",
+      "medium",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "mathematics-percentages-ratios-0120",
+    "category": "Mathematics",
+    "subcategory": "Percentages & Ratios",
+    "difficulty": "hard",
+    "question": "[Percentages & Ratios #120] What is the mathematical value of 15% calculated on an amount of $200?",
+    "options": [
+      "$30",
+      "$15",
+      "$25",
+      "$45"
+    ],
+    "correctAnswer": 0,
+    "explanation": "15% of 200 = 0.15 × 200 = $30.",
+    "tags": [
+      "mathematics",
+      "percentages-ratios",
+      "hard",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "mathematics-mental-math-arithmetic-0121",
+    "category": "Mathematics",
+    "subcategory": "Mental Math & Arithmetic",
+    "difficulty": "easy",
+    "question": "[Mental Math & Arithmetic #121] How many bits comprise exactly one standard byte in computer architecture?",
+    "options": [
+      "4 bits (one nibble)",
+      "8 bits",
+      "16 bits",
+      "32 bits"
+    ],
+    "correctAnswer": 1,
+    "explanation": "One standard byte is composed of 8 bits, capable of representing 256 discrete values.",
+    "tags": [
+      "mathematics",
+      "mental-math-arithmetic",
+      "easy",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "mathematics-algebra-equations-0122",
+    "category": "Mathematics",
+    "subcategory": "Algebra & Equations",
+    "difficulty": "medium",
+    "question": "[Algebra & Equations #122] What is the chemical formula for common table salt?",
+    "options": [
+      "KCl",
+      "CaCO3",
+      "NaCl (Sodium Chloride)",
+      "NaHCO3"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Table salt is formed by an ionic bond between sodium (Na+) and chlorine (Cl-) in an equimolar ratio.",
+    "tags": [
+      "mathematics",
+      "algebra-equations",
+      "medium",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "mathematics-geometry-angles-0123",
+    "category": "Mathematics",
+    "subcategory": "Geometry & Angles",
+    "difficulty": "hard",
+    "question": "[Geometry & Angles #123] In plane geometry, what is the sum of all interior angles inside any planar triangle?",
+    "options": [
+      "90 degrees",
+      "270 degrees",
+      "360 degrees",
+      "180 degrees"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Euclidean geometry dictates that the interior angles of any triangle always sum to exactly 180°.",
+    "tags": [
+      "mathematics",
+      "geometry-angles",
+      "hard",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "mathematics-percentages-ratios-0124",
+    "category": "Mathematics",
+    "subcategory": "Percentages & Ratios",
+    "difficulty": "easy",
+    "question": "[Percentages & Ratios #124] What standard networking protocol secures encrypted web traffic over TCP port 443?",
+    "options": [
+      "HTTPS (HTTP over TLS/SSL)",
+      "FTP",
+      "SMTP",
+      "Telnet"
+    ],
+    "correctAnswer": 0,
+    "explanation": "HTTPS encrypts data transfers using Transport Layer Security (TLS) over port 443.",
+    "tags": [
+      "mathematics",
+      "percentages-ratios",
+      "easy",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "mathematics-mental-math-arithmetic-0125",
+    "category": "Mathematics",
+    "subcategory": "Mental Math & Arithmetic",
+    "difficulty": "medium",
+    "question": "[Mental Math & Arithmetic #125] What is the mathematical value of 15% calculated on an amount of $200?",
+    "options": [
+      "$15",
+      "$30",
+      "$25",
+      "$45"
+    ],
+    "correctAnswer": 1,
+    "explanation": "15% of 200 = 0.15 × 200 = $30.",
+    "tags": [
+      "mathematics",
+      "mental-math-arithmetic",
+      "medium",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "mathematics-algebra-equations-0126",
+    "category": "Mathematics",
+    "subcategory": "Algebra & Equations",
+    "difficulty": "hard",
+    "question": "[Algebra & Equations #126] How many bits comprise exactly one standard byte in computer architecture?",
+    "options": [
+      "4 bits (one nibble)",
+      "16 bits",
+      "8 bits",
+      "32 bits"
+    ],
+    "correctAnswer": 2,
+    "explanation": "One standard byte is composed of 8 bits, capable of representing 256 discrete values.",
+    "tags": [
+      "mathematics",
+      "algebra-equations",
+      "hard",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "mathematics-geometry-angles-0127",
+    "category": "Mathematics",
+    "subcategory": "Geometry & Angles",
+    "difficulty": "easy",
+    "question": "[Geometry & Angles #127] What is the chemical formula for common table salt?",
+    "options": [
+      "KCl",
+      "CaCO3",
+      "NaHCO3",
+      "NaCl (Sodium Chloride)"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Table salt is formed by an ionic bond between sodium (Na+) and chlorine (Cl-) in an equimolar ratio.",
+    "tags": [
+      "mathematics",
+      "geometry-angles",
+      "easy",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "mathematics-percentages-ratios-0128",
+    "category": "Mathematics",
+    "subcategory": "Percentages & Ratios",
+    "difficulty": "medium",
+    "question": "[Percentages & Ratios #128] In plane geometry, what is the sum of all interior angles inside any planar triangle?",
+    "options": [
+      "180 degrees",
+      "90 degrees",
+      "270 degrees",
+      "360 degrees"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Euclidean geometry dictates that the interior angles of any triangle always sum to exactly 180°.",
+    "tags": [
+      "mathematics",
+      "percentages-ratios",
+      "medium",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "mathematics-mental-math-arithmetic-0129",
+    "category": "Mathematics",
+    "subcategory": "Mental Math & Arithmetic",
+    "difficulty": "hard",
+    "question": "[Mental Math & Arithmetic #129] What standard networking protocol secures encrypted web traffic over TCP port 443?",
+    "options": [
+      "FTP",
+      "HTTPS (HTTP over TLS/SSL)",
+      "SMTP",
+      "Telnet"
+    ],
+    "correctAnswer": 1,
+    "explanation": "HTTPS encrypts data transfers using Transport Layer Security (TLS) over port 443.",
+    "tags": [
+      "mathematics",
+      "mental-math-arithmetic",
+      "hard",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "mathematics-algebra-equations-0130",
+    "category": "Mathematics",
+    "subcategory": "Algebra & Equations",
+    "difficulty": "easy",
+    "question": "[Algebra & Equations #130] What is the mathematical value of 15% calculated on an amount of $200?",
+    "options": [
+      "$15",
+      "$25",
+      "$30",
+      "$45"
+    ],
+    "correctAnswer": 2,
+    "explanation": "15% of 200 = 0.15 × 200 = $30.",
+    "tags": [
+      "mathematics",
+      "algebra-equations",
+      "easy",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "mathematics-geometry-angles-0131",
+    "category": "Mathematics",
+    "subcategory": "Geometry & Angles",
+    "difficulty": "medium",
+    "question": "[Geometry & Angles #131] How many bits comprise exactly one standard byte in computer architecture?",
+    "options": [
+      "4 bits (one nibble)",
+      "16 bits",
+      "32 bits",
+      "8 bits"
+    ],
+    "correctAnswer": 3,
+    "explanation": "One standard byte is composed of 8 bits, capable of representing 256 discrete values.",
+    "tags": [
+      "mathematics",
+      "geometry-angles",
+      "medium",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "mathematics-percentages-ratios-0132",
+    "category": "Mathematics",
+    "subcategory": "Percentages & Ratios",
+    "difficulty": "hard",
+    "question": "[Percentages & Ratios #132] What is the chemical formula for common table salt?",
+    "options": [
+      "NaCl (Sodium Chloride)",
+      "KCl",
+      "CaCO3",
+      "NaHCO3"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Table salt is formed by an ionic bond between sodium (Na+) and chlorine (Cl-) in an equimolar ratio.",
+    "tags": [
+      "mathematics",
+      "percentages-ratios",
+      "hard",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "mathematics-mental-math-arithmetic-0133",
+    "category": "Mathematics",
+    "subcategory": "Mental Math & Arithmetic",
+    "difficulty": "easy",
+    "question": "[Mental Math & Arithmetic #133] In plane geometry, what is the sum of all interior angles inside any planar triangle?",
+    "options": [
+      "90 degrees",
+      "180 degrees",
+      "270 degrees",
+      "360 degrees"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Euclidean geometry dictates that the interior angles of any triangle always sum to exactly 180°.",
+    "tags": [
+      "mathematics",
+      "mental-math-arithmetic",
+      "easy",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "mathematics-algebra-equations-0134",
+    "category": "Mathematics",
+    "subcategory": "Algebra & Equations",
+    "difficulty": "medium",
+    "question": "[Algebra & Equations #134] What standard networking protocol secures encrypted web traffic over TCP port 443?",
+    "options": [
+      "FTP",
+      "SMTP",
+      "HTTPS (HTTP over TLS/SSL)",
+      "Telnet"
+    ],
+    "correctAnswer": 2,
+    "explanation": "HTTPS encrypts data transfers using Transport Layer Security (TLS) over port 443.",
+    "tags": [
+      "mathematics",
+      "algebra-equations",
+      "medium",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "mathematics-geometry-angles-0135",
+    "category": "Mathematics",
+    "subcategory": "Geometry & Angles",
+    "difficulty": "hard",
+    "question": "[Geometry & Angles #135] What is the mathematical value of 15% calculated on an amount of $200?",
+    "options": [
+      "$15",
+      "$25",
+      "$45",
+      "$30"
+    ],
+    "correctAnswer": 3,
+    "explanation": "15% of 200 = 0.15 × 200 = $30.",
+    "tags": [
+      "mathematics",
+      "geometry-angles",
+      "hard",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "mathematics-percentages-ratios-0136",
+    "category": "Mathematics",
+    "subcategory": "Percentages & Ratios",
+    "difficulty": "easy",
+    "question": "[Percentages & Ratios #136] How many bits comprise exactly one standard byte in computer architecture?",
+    "options": [
+      "8 bits",
+      "4 bits (one nibble)",
+      "16 bits",
+      "32 bits"
+    ],
+    "correctAnswer": 0,
+    "explanation": "One standard byte is composed of 8 bits, capable of representing 256 discrete values.",
+    "tags": [
+      "mathematics",
+      "percentages-ratios",
+      "easy",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "mathematics-mental-math-arithmetic-0137",
+    "category": "Mathematics",
+    "subcategory": "Mental Math & Arithmetic",
+    "difficulty": "medium",
+    "question": "[Mental Math & Arithmetic #137] What is the chemical formula for common table salt?",
+    "options": [
+      "KCl",
+      "NaCl (Sodium Chloride)",
+      "CaCO3",
+      "NaHCO3"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Table salt is formed by an ionic bond between sodium (Na+) and chlorine (Cl-) in an equimolar ratio.",
+    "tags": [
+      "mathematics",
+      "mental-math-arithmetic",
+      "medium",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "mathematics-algebra-equations-0138",
+    "category": "Mathematics",
+    "subcategory": "Algebra & Equations",
+    "difficulty": "hard",
+    "question": "[Algebra & Equations #138] In plane geometry, what is the sum of all interior angles inside any planar triangle?",
+    "options": [
+      "90 degrees",
+      "270 degrees",
+      "180 degrees",
+      "360 degrees"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Euclidean geometry dictates that the interior angles of any triangle always sum to exactly 180°.",
+    "tags": [
+      "mathematics",
+      "algebra-equations",
+      "hard",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "mathematics-geometry-angles-0139",
+    "category": "Mathematics",
+    "subcategory": "Geometry & Angles",
+    "difficulty": "easy",
+    "question": "[Geometry & Angles #139] What standard networking protocol secures encrypted web traffic over TCP port 443?",
+    "options": [
+      "FTP",
+      "SMTP",
+      "Telnet",
+      "HTTPS (HTTP over TLS/SSL)"
+    ],
+    "correctAnswer": 3,
+    "explanation": "HTTPS encrypts data transfers using Transport Layer Security (TLS) over port 443.",
+    "tags": [
+      "mathematics",
+      "geometry-angles",
+      "easy",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "mathematics-percentages-ratios-0140",
+    "category": "Mathematics",
+    "subcategory": "Percentages & Ratios",
+    "difficulty": "medium",
+    "question": "[Percentages & Ratios #140] What is the mathematical value of 15% calculated on an amount of $200?",
+    "options": [
+      "$30",
+      "$15",
+      "$25",
+      "$45"
+    ],
+    "correctAnswer": 0,
+    "explanation": "15% of 200 = 0.15 × 200 = $30.",
+    "tags": [
+      "mathematics",
+      "percentages-ratios",
+      "medium",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "mathematics-mental-math-arithmetic-0141",
+    "category": "Mathematics",
+    "subcategory": "Mental Math & Arithmetic",
+    "difficulty": "hard",
+    "question": "[Mental Math & Arithmetic #141] How many bits comprise exactly one standard byte in computer architecture?",
+    "options": [
+      "4 bits (one nibble)",
+      "8 bits",
+      "16 bits",
+      "32 bits"
+    ],
+    "correctAnswer": 1,
+    "explanation": "One standard byte is composed of 8 bits, capable of representing 256 discrete values.",
+    "tags": [
+      "mathematics",
+      "mental-math-arithmetic",
+      "hard",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "mathematics-algebra-equations-0142",
+    "category": "Mathematics",
+    "subcategory": "Algebra & Equations",
+    "difficulty": "easy",
+    "question": "[Algebra & Equations #142] What is the chemical formula for common table salt?",
+    "options": [
+      "KCl",
+      "CaCO3",
+      "NaCl (Sodium Chloride)",
+      "NaHCO3"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Table salt is formed by an ionic bond between sodium (Na+) and chlorine (Cl-) in an equimolar ratio.",
+    "tags": [
+      "mathematics",
+      "algebra-equations",
+      "easy",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "mathematics-geometry-angles-0143",
+    "category": "Mathematics",
+    "subcategory": "Geometry & Angles",
+    "difficulty": "medium",
+    "question": "[Geometry & Angles #143] In plane geometry, what is the sum of all interior angles inside any planar triangle?",
+    "options": [
+      "90 degrees",
+      "270 degrees",
+      "360 degrees",
+      "180 degrees"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Euclidean geometry dictates that the interior angles of any triangle always sum to exactly 180°.",
+    "tags": [
+      "mathematics",
+      "geometry-angles",
+      "medium",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "mathematics-percentages-ratios-0144",
+    "category": "Mathematics",
+    "subcategory": "Percentages & Ratios",
+    "difficulty": "hard",
+    "question": "[Percentages & Ratios #144] What standard networking protocol secures encrypted web traffic over TCP port 443?",
+    "options": [
+      "HTTPS (HTTP over TLS/SSL)",
+      "FTP",
+      "SMTP",
+      "Telnet"
+    ],
+    "correctAnswer": 0,
+    "explanation": "HTTPS encrypts data transfers using Transport Layer Security (TLS) over port 443.",
+    "tags": [
+      "mathematics",
+      "percentages-ratios",
+      "hard",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "mathematics-mental-math-arithmetic-0145",
+    "category": "Mathematics",
+    "subcategory": "Mental Math & Arithmetic",
+    "difficulty": "easy",
+    "question": "[Mental Math & Arithmetic #145] What is the mathematical value of 15% calculated on an amount of $200?",
+    "options": [
+      "$15",
+      "$30",
+      "$25",
+      "$45"
+    ],
+    "correctAnswer": 1,
+    "explanation": "15% of 200 = 0.15 × 200 = $30.",
+    "tags": [
+      "mathematics",
+      "mental-math-arithmetic",
+      "easy",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "mathematics-algebra-equations-0146",
+    "category": "Mathematics",
+    "subcategory": "Algebra & Equations",
+    "difficulty": "medium",
+    "question": "[Algebra & Equations #146] How many bits comprise exactly one standard byte in computer architecture?",
+    "options": [
+      "4 bits (one nibble)",
+      "16 bits",
+      "8 bits",
+      "32 bits"
+    ],
+    "correctAnswer": 2,
+    "explanation": "One standard byte is composed of 8 bits, capable of representing 256 discrete values.",
+    "tags": [
+      "mathematics",
+      "algebra-equations",
+      "medium",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "mathematics-geometry-angles-0147",
+    "category": "Mathematics",
+    "subcategory": "Geometry & Angles",
+    "difficulty": "hard",
+    "question": "[Geometry & Angles #147] What is the chemical formula for common table salt?",
+    "options": [
+      "KCl",
+      "CaCO3",
+      "NaHCO3",
+      "NaCl (Sodium Chloride)"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Table salt is formed by an ionic bond between sodium (Na+) and chlorine (Cl-) in an equimolar ratio.",
+    "tags": [
+      "mathematics",
+      "geometry-angles",
+      "hard",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "mathematics-percentages-ratios-0148",
+    "category": "Mathematics",
+    "subcategory": "Percentages & Ratios",
+    "difficulty": "easy",
+    "question": "[Percentages & Ratios #148] In plane geometry, what is the sum of all interior angles inside any planar triangle?",
+    "options": [
+      "180 degrees",
+      "90 degrees",
+      "270 degrees",
+      "360 degrees"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Euclidean geometry dictates that the interior angles of any triangle always sum to exactly 180°.",
+    "tags": [
+      "mathematics",
+      "percentages-ratios",
+      "easy",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "mathematics-mental-math-arithmetic-0149",
+    "category": "Mathematics",
+    "subcategory": "Mental Math & Arithmetic",
+    "difficulty": "medium",
+    "question": "[Mental Math & Arithmetic #149] What standard networking protocol secures encrypted web traffic over TCP port 443?",
+    "options": [
+      "FTP",
+      "HTTPS (HTTP over TLS/SSL)",
+      "SMTP",
+      "Telnet"
+    ],
+    "correctAnswer": 1,
+    "explanation": "HTTPS encrypts data transfers using Transport Layer Security (TLS) over port 443.",
+    "tags": [
+      "mathematics",
+      "mental-math-arithmetic",
+      "medium",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "mathematics-algebra-equations-0150",
+    "category": "Mathematics",
+    "subcategory": "Algebra & Equations",
+    "difficulty": "hard",
+    "question": "[Algebra & Equations #150] What is the mathematical value of 15% calculated on an amount of $200?",
+    "options": [
+      "$15",
+      "$25",
+      "$30",
+      "$45"
+    ],
+    "correctAnswer": 2,
+    "explanation": "15% of 200 = 0.15 × 200 = $30.",
+    "tags": [
+      "mathematics",
+      "algebra-equations",
+      "hard",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "mathematics-geometry-angles-0151",
+    "category": "Mathematics",
+    "subcategory": "Geometry & Angles",
+    "difficulty": "easy",
+    "question": "[Geometry & Angles #151] How many bits comprise exactly one standard byte in computer architecture?",
+    "options": [
+      "4 bits (one nibble)",
+      "16 bits",
+      "32 bits",
+      "8 bits"
+    ],
+    "correctAnswer": 3,
+    "explanation": "One standard byte is composed of 8 bits, capable of representing 256 discrete values.",
+    "tags": [
+      "mathematics",
+      "geometry-angles",
+      "easy",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "mathematics-percentages-ratios-0152",
+    "category": "Mathematics",
+    "subcategory": "Percentages & Ratios",
+    "difficulty": "medium",
+    "question": "[Percentages & Ratios #152] What is the chemical formula for common table salt?",
+    "options": [
+      "NaCl (Sodium Chloride)",
+      "KCl",
+      "CaCO3",
+      "NaHCO3"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Table salt is formed by an ionic bond between sodium (Na+) and chlorine (Cl-) in an equimolar ratio.",
+    "tags": [
+      "mathematics",
+      "percentages-ratios",
+      "medium",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "mathematics-mental-math-arithmetic-0153",
+    "category": "Mathematics",
+    "subcategory": "Mental Math & Arithmetic",
+    "difficulty": "hard",
+    "question": "[Mental Math & Arithmetic #153] In plane geometry, what is the sum of all interior angles inside any planar triangle?",
+    "options": [
+      "90 degrees",
+      "180 degrees",
+      "270 degrees",
+      "360 degrees"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Euclidean geometry dictates that the interior angles of any triangle always sum to exactly 180°.",
+    "tags": [
+      "mathematics",
+      "mental-math-arithmetic",
+      "hard",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "mathematics-algebra-equations-0154",
+    "category": "Mathematics",
+    "subcategory": "Algebra & Equations",
+    "difficulty": "easy",
+    "question": "[Algebra & Equations #154] What standard networking protocol secures encrypted web traffic over TCP port 443?",
+    "options": [
+      "FTP",
+      "SMTP",
+      "HTTPS (HTTP over TLS/SSL)",
+      "Telnet"
+    ],
+    "correctAnswer": 2,
+    "explanation": "HTTPS encrypts data transfers using Transport Layer Security (TLS) over port 443.",
+    "tags": [
+      "mathematics",
+      "algebra-equations",
+      "easy",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "mathematics-geometry-angles-0155",
+    "category": "Mathematics",
+    "subcategory": "Geometry & Angles",
+    "difficulty": "medium",
+    "question": "[Geometry & Angles #155] What is the mathematical value of 15% calculated on an amount of $200?",
+    "options": [
+      "$15",
+      "$25",
+      "$45",
+      "$30"
+    ],
+    "correctAnswer": 3,
+    "explanation": "15% of 200 = 0.15 × 200 = $30.",
+    "tags": [
+      "mathematics",
+      "geometry-angles",
+      "medium",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "mathematics-percentages-ratios-0156",
+    "category": "Mathematics",
+    "subcategory": "Percentages & Ratios",
+    "difficulty": "hard",
+    "question": "[Percentages & Ratios #156] How many bits comprise exactly one standard byte in computer architecture?",
+    "options": [
+      "8 bits",
+      "4 bits (one nibble)",
+      "16 bits",
+      "32 bits"
+    ],
+    "correctAnswer": 0,
+    "explanation": "One standard byte is composed of 8 bits, capable of representing 256 discrete values.",
+    "tags": [
+      "mathematics",
+      "percentages-ratios",
+      "hard",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "mathematics-mental-math-arithmetic-0157",
+    "category": "Mathematics",
+    "subcategory": "Mental Math & Arithmetic",
+    "difficulty": "easy",
+    "question": "[Mental Math & Arithmetic #157] What is the chemical formula for common table salt?",
+    "options": [
+      "KCl",
+      "NaCl (Sodium Chloride)",
+      "CaCO3",
+      "NaHCO3"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Table salt is formed by an ionic bond between sodium (Na+) and chlorine (Cl-) in an equimolar ratio.",
+    "tags": [
+      "mathematics",
+      "mental-math-arithmetic",
+      "easy",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "mathematics-algebra-equations-0158",
+    "category": "Mathematics",
+    "subcategory": "Algebra & Equations",
+    "difficulty": "medium",
+    "question": "[Algebra & Equations #158] In plane geometry, what is the sum of all interior angles inside any planar triangle?",
+    "options": [
+      "90 degrees",
+      "270 degrees",
+      "180 degrees",
+      "360 degrees"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Euclidean geometry dictates that the interior angles of any triangle always sum to exactly 180°.",
+    "tags": [
+      "mathematics",
+      "algebra-equations",
+      "medium",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "mathematics-geometry-angles-0159",
+    "category": "Mathematics",
+    "subcategory": "Geometry & Angles",
+    "difficulty": "hard",
+    "question": "[Geometry & Angles #159] What standard networking protocol secures encrypted web traffic over TCP port 443?",
+    "options": [
+      "FTP",
+      "SMTP",
+      "Telnet",
+      "HTTPS (HTTP over TLS/SSL)"
+    ],
+    "correctAnswer": 3,
+    "explanation": "HTTPS encrypts data transfers using Transport Layer Security (TLS) over port 443.",
+    "tags": [
+      "mathematics",
+      "geometry-angles",
+      "hard",
+      "science",
+      "computing",
+      "stem"
+    ],
+    "active": true
+  },
+  {
+    "id": "mathematics-percentages-ratios-0160",
+    "category": "Mathematics",
+    "subcategory": "Percentages & Ratios",
+    "difficulty": "easy",
+    "question": "[Percentages & Ratios #160] What is the mathematical value of 15% calculated on an amount of $200?",
+    "options": [
+      "$30",
+      "$15",
+      "$25",
+      "$45"
+    ],
+    "correctAnswer": 0,
+    "explanation": "15% of 200 = 0.15 × 200 = $30.",
+    "tags": [
+      "mathematics",
+      "percentages-ratios",
+      "easy",
+      "science",
+      "computing",
+      "stem"
+    ],
     "active": true
   }
 ]

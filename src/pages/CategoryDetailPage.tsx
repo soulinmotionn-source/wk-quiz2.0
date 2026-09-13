@@ -9,6 +9,7 @@ import { CATEGORIES } from '../data/categories';
 import { FEATURED_QUIZZES } from '../data/quizzes';
 import type { Difficulty, QuizMode } from '../types/quiz';
 import { IconHelper } from '../components/common/IconHelper';
+import { getCategoryStats } from '../data/questionBank';
 
 export const CategoryDetailPage: React.FC = () => {
   const { category: categorySlug } = useParams<{ category: string }>();
@@ -17,6 +18,8 @@ export const CategoryDetailPage: React.FC = () => {
   const category = CATEGORIES.find(
     c => c.slug === categorySlug || c.id === categorySlug
   ) || CATEGORIES[0];
+
+  const stats = getCategoryStats(category.slug || category.name);
 
   const [selectedDifficulty, setSelectedDifficulty] = useState<Difficulty>('mixed');
   const [selectedMode, setSelectedMode] = useState<QuizMode>('classic');
@@ -119,6 +122,53 @@ export const CategoryDetailPage: React.FC = () => {
                 <p style={{ color: 'var(--color-text-secondary)', fontSize: '1.05rem', lineHeight: 1.6, maxWidth: '720px' }}>
                   {category.description}
                 </p>
+
+                {/* Dynamic Difficulty Breakdown & Subcategories (Rule 13, 14, 15) */}
+                {stats && (
+                  <>
+                    <div style={{ display: 'flex', flexWrap: 'wrap', gap: '8px', marginTop: 'var(--space-sm)' }}>
+                      <span className="badge" style={{ backgroundColor: 'rgba(16, 185, 129, 0.12)', color: '#10B981', fontWeight: 600, fontSize: '0.8rem', padding: '4px 10px', borderRadius: 'var(--radius-full)' }}>
+                        Easy: {stats.easy}
+                      </span>
+                      <span className="badge" style={{ backgroundColor: 'rgba(245, 158, 11, 0.12)', color: '#F59E0B', fontWeight: 600, fontSize: '0.8rem', padding: '4px 10px', borderRadius: 'var(--radius-full)' }}>
+                        Medium: {stats.medium}
+                      </span>
+                      <span className="badge" style={{ backgroundColor: 'rgba(239, 68, 68, 0.12)', color: '#EF4444', fontWeight: 600, fontSize: '0.8rem', padding: '4px 10px', borderRadius: 'var(--radius-full)' }}>
+                        Hard: {stats.hard}
+                      </span>
+                    </div>
+
+                    {/* Subcategory Dynamic Breakdown */}
+                    {Object.keys(stats.subcategories).length > 0 && (
+                      <div style={{ marginTop: 'var(--space-md)' }}>
+                        <div style={{ fontSize: '0.75rem', fontWeight: 700, textTransform: 'uppercase', color: 'var(--color-text-muted)', marginBottom: '6px', letterSpacing: '0.05em' }}>
+                          Subcategories
+                        </div>
+                        <div style={{ display: 'flex', flexWrap: 'wrap', gap: '6px' }}>
+                          {Object.entries(stats.subcategories).map(([subcat, count]) => (
+                            <span
+                              key={subcat}
+                              style={{
+                                display: 'inline-flex',
+                                alignItems: 'center',
+                                gap: '4px',
+                                padding: '4px 10px',
+                                borderRadius: 'var(--radius-full)',
+                                backgroundColor: 'var(--color-bg)',
+                                border: '1px solid var(--color-border)',
+                                fontSize: '0.8rem',
+                                color: 'var(--color-text-secondary)'
+                              }}
+                            >
+                              <span style={{ fontWeight: 600, color: 'var(--color-text-primary)' }}>{subcat}</span>
+                              <span style={{ fontSize: '0.75rem', color: 'var(--color-text-muted)' }}>— {Number(count)} Questions</span>
+                            </span>
+                          ))}
+                        </div>
+                      </div>
+                    )}
+                  </>
+                )}
               </div>
             </div>
 

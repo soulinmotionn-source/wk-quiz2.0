@@ -1,4 +1,6 @@
-export type Difficulty = 'easy' | 'medium' | 'hard' | 'expert' | 'mixed';
+export type Difficulty = 'easy' | 'medium' | 'hard' | 'mixed';
+
+export type QuestionDifficulty = 'easy' | 'medium' | 'hard';
 
 export type QuizMode = 
   | 'classic'    // Standard 10 questions
@@ -14,15 +16,16 @@ export interface Question {
   id: string;
   category: string;
   subcategory: string;
-  difficulty: 'easy' | 'medium' | 'hard' | 'expert';
+  difficulty: QuestionDifficulty;
   question: string;
   options: string[];
   correctAnswer: number;
   explanation: string;
   tags: string[];
-  source?: string;
-  image?: string;
   active?: boolean;
+  source?: string;
+  reference?: string;
+  image?: string;
 }
 
 export interface ShuffledQuestion {

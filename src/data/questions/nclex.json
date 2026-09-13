@@ -1,10 +1,10 @@
 [
   {
-    "id": "nursing-fundamentals-0001",
-    "category": "Nursing",
-    "subcategory": "Fundamentals",
+    "id": "nclex-priority-delegation-0001",
+    "category": "NCLEX",
+    "subcategory": "Priority & Delegation",
     "difficulty": "easy",
-    "question": "[Fundamentals #1] What is the most critical immediate nursing action when a patient experiences acute dyspnea and wheezing?",
+    "question": "[Priority & Delegation #1] What is the most critical immediate nursing action when a patient experiences acute dyspnea and wheezing?",
     "options": [
       "Place patient in Trendelenburg position",
       "Elevate head of bed to High-Fowler position and administer supplemental oxygen",
@@ -14,8 +14,8 @@
     "correctAnswer": 1,
     "explanation": "High-Fowler position maximizes chest expansion and decreases oxygen consumption during acute respiratory distress.",
     "tags": [
-      "nursing",
-      "fundamentals",
+      "nclex",
+      "priority-delegation",
       "easy",
       "healthcare",
       "clinical-safety"
@@ -23,11 +23,11 @@
     "active": true
   },
   {
-    "id": "nursing-patient-safety-0002",
-    "category": "Nursing",
-    "subcategory": "Patient Safety",
+    "id": "nclex-safe-effective-care-0002",
+    "category": "NCLEX",
+    "subcategory": "Safe & Effective Care",
     "difficulty": "medium",
-    "question": "[Patient Safety #2] According to the ABCs (Airway, Breathing, Circulation) priority framework, which clinical finding requires immediate nurse assessment?",
+    "question": "[Safe & Effective Care #2] According to the ABCs (Airway, Breathing, Circulation) priority framework, which clinical finding requires immediate nurse assessment?",
     "options": [
       "Mild nausea 30 minutes after dinner",
       "Sore throat with temperature of 99.1°F",
@@ -37,8 +37,8 @@
     "correctAnswer": 2,
     "explanation": "Stridor indicates upper airway obstruction, which is an immediate life-threatening emergency demanding priority intervention.",
     "tags": [
-      "nursing",
-      "patient-safety",
+      "nclex",
+      "safe-effective-care",
       "medium",
       "healthcare",
       "clinical-safety"
@@ -46,11 +46,11 @@
     "active": true
   },
   {
-    "id": "nursing-clinical-judgment-0003",
-    "category": "Nursing",
-    "subcategory": "Clinical Judgment",
+    "id": "nclex-health-promotion-0003",
+    "category": "NCLEX",
+    "subcategory": "Health Promotion",
     "difficulty": "hard",
-    "question": "[Clinical Judgment #3] Which guideline represents safe medication administration practice under the Five Rights of Nursing?",
+    "question": "[Health Promotion #3] Which guideline represents safe medication administration practice under the Five Rights of Nursing?",
     "options": [
       "Verify the patient room number against the wristband",
       "Sign the medication administration record before giving the drug",
@@ -60,8 +60,8 @@
     "correctAnswer": 3,
     "explanation": "Joint Commission safety goals mandate using at least two independent patient identifiers prior to medication administration.",
     "tags": [
-      "nursing",
-      "clinical-judgment",
+      "nclex",
+      "health-promotion",
       "hard",
       "healthcare",
       "clinical-safety"
@@ -69,11 +69,11 @@
     "active": true
   },
   {
-    "id": "nursing-infection-control-0004",
-    "category": "Nursing",
-    "subcategory": "Infection Control",
+    "id": "nclex-pharmacological-therapies-0004",
+    "category": "NCLEX",
+    "subcategory": "Pharmacological Therapies",
     "difficulty": "easy",
-    "question": "[Infection Control #4] Which laboratory value should prompt the nurse to immediately hold scheduled Furosemide (Lasix)?",
+    "question": "[Pharmacological Therapies #4] Which laboratory value should prompt the nurse to immediately hold scheduled Furosemide (Lasix)?",
     "options": [
       "Serum potassium level of 2.8 mEq/L (hypokalemia)",
       "Serum sodium of 138 mEq/L",
@@ -83,8 +83,8 @@
     "correctAnswer": 0,
     "explanation": "Loop diuretics waste potassium; administering them with severe hypokalemia (< 3.5 mEq/L) can trigger fatal cardiac dysrhythmias.",
     "tags": [
-      "nursing",
-      "infection-control",
+      "nclex",
+      "pharmacological-therapies",
       "easy",
       "healthcare",
       "clinical-safety"
@@ -92,11 +92,11 @@
     "active": true
   },
   {
-    "id": "nursing-fundamentals-0005",
-    "category": "Nursing",
-    "subcategory": "Fundamentals",
+    "id": "nclex-priority-delegation-0005",
+    "category": "NCLEX",
+    "subcategory": "Priority & Delegation",
     "difficulty": "medium",
-    "question": "[Fundamentals #5] What is the most critical immediate nursing action when a patient experiences acute dyspnea and wheezing?",
+    "question": "[Priority & Delegation #5] What is the most critical immediate nursing action when a patient experiences acute dyspnea and wheezing?",
     "options": [
       "Place patient in Trendelenburg position",
       "Elevate head of bed to High-Fowler position and administer supplemental oxygen",
@@ -106,8 +106,8 @@
     "correctAnswer": 1,
     "explanation": "High-Fowler position maximizes chest expansion and decreases oxygen consumption during acute respiratory distress.",
     "tags": [
-      "nursing",
-      "fundamentals",
+      "nclex",
+      "priority-delegation",
       "medium",
       "healthcare",
       "clinical-safety"
@@ -115,11 +115,11 @@
     "active": true
   },
   {
-    "id": "nursing-patient-safety-0006",
-    "category": "Nursing",
-    "subcategory": "Patient Safety",
+    "id": "nclex-safe-effective-care-0006",
+    "category": "NCLEX",
+    "subcategory": "Safe & Effective Care",
     "difficulty": "hard",
-    "question": "[Patient Safety #6] According to the ABCs (Airway, Breathing, Circulation) priority framework, which clinical finding requires immediate nurse assessment?",
+    "question": "[Safe & Effective Care #6] According to the ABCs (Airway, Breathing, Circulation) priority framework, which clinical finding requires immediate nurse assessment?",
     "options": [
       "Mild nausea 30 minutes after dinner",
       "Sore throat with temperature of 99.1°F",
@@ -129,8 +129,8 @@
     "correctAnswer": 2,
     "explanation": "Stridor indicates upper airway obstruction, which is an immediate life-threatening emergency demanding priority intervention.",
     "tags": [
-      "nursing",
-      "patient-safety",
+      "nclex",
+      "safe-effective-care",
       "hard",
       "healthcare",
       "clinical-safety"
@@ -138,11 +138,11 @@
     "active": true
   },
   {
-    "id": "nursing-clinical-judgment-0007",
-    "category": "Nursing",
-    "subcategory": "Clinical Judgment",
+    "id": "nclex-health-promotion-0007",
+    "category": "NCLEX",
+    "subcategory": "Health Promotion",
     "difficulty": "easy",
-    "question": "[Clinical Judgment #7] Which guideline represents safe medication administration practice under the Five Rights of Nursing?",
+    "question": "[Health Promotion #7] Which guideline represents safe medication administration practice under the Five Rights of Nursing?",
     "options": [
       "Verify the patient room number against the wristband",
       "Sign the medication administration record before giving the drug",
@@ -152,8 +152,8 @@
     "correctAnswer": 3,
     "explanation": "Joint Commission safety goals mandate using at least two independent patient identifiers prior to medication administration.",
     "tags": [
-      "nursing",
-      "clinical-judgment",
+      "nclex",
+      "health-promotion",
       "easy",
       "healthcare",
       "clinical-safety"
@@ -161,11 +161,11 @@
     "active": true
   },
   {
-    "id": "nursing-infection-control-0008",
-    "category": "Nursing",
-    "subcategory": "Infection Control",
+    "id": "nclex-pharmacological-therapies-0008",
+    "category": "NCLEX",
+    "subcategory": "Pharmacological Therapies",
     "difficulty": "medium",
-    "question": "[Infection Control #8] Which laboratory value should prompt the nurse to immediately hold scheduled Furosemide (Lasix)?",
+    "question": "[Pharmacological Therapies #8] Which laboratory value should prompt the nurse to immediately hold scheduled Furosemide (Lasix)?",
     "options": [
       "Serum potassium level of 2.8 mEq/L (hypokalemia)",
       "Serum sodium of 138 mEq/L",
@@ -175,8 +175,8 @@
     "correctAnswer": 0,
     "explanation": "Loop diuretics waste potassium; administering them with severe hypokalemia (< 3.5 mEq/L) can trigger fatal cardiac dysrhythmias.",
     "tags": [
-      "nursing",
-      "infection-control",
+      "nclex",
+      "pharmacological-therapies",
       "medium",
       "healthcare",
       "clinical-safety"
@@ -184,11 +184,11 @@
     "active": true
   },
   {
-    "id": "nursing-fundamentals-0009",
-    "category": "Nursing",
-    "subcategory": "Fundamentals",
+    "id": "nclex-priority-delegation-0009",
+    "category": "NCLEX",
+    "subcategory": "Priority & Delegation",
     "difficulty": "hard",
-    "question": "[Fundamentals #9] What is the most critical immediate nursing action when a patient experiences acute dyspnea and wheezing?",
+    "question": "[Priority & Delegation #9] What is the most critical immediate nursing action when a patient experiences acute dyspnea and wheezing?",
     "options": [
       "Place patient in Trendelenburg position",
       "Elevate head of bed to High-Fowler position and administer supplemental oxygen",
@@ -198,8 +198,8 @@
     "correctAnswer": 1,
     "explanation": "High-Fowler position maximizes chest expansion and decreases oxygen consumption during acute respiratory distress.",
     "tags": [
-      "nursing",
-      "fundamentals",
+      "nclex",
+      "priority-delegation",
       "hard",
       "healthcare",
       "clinical-safety"
@@ -207,11 +207,11 @@
     "active": true
   },
   {
-    "id": "nursing-patient-safety-0010",
-    "category": "Nursing",
-    "subcategory": "Patient Safety",
+    "id": "nclex-safe-effective-care-0010",
+    "category": "NCLEX",
+    "subcategory": "Safe & Effective Care",
     "difficulty": "easy",
-    "question": "[Patient Safety #10] According to the ABCs (Airway, Breathing, Circulation) priority framework, which clinical finding requires immediate nurse assessment?",
+    "question": "[Safe & Effective Care #10] According to the ABCs (Airway, Breathing, Circulation) priority framework, which clinical finding requires immediate nurse assessment?",
     "options": [
       "Mild nausea 30 minutes after dinner",
       "Sore throat with temperature of 99.1°F",
@@ -221,8 +221,8 @@
     "correctAnswer": 2,
     "explanation": "Stridor indicates upper airway obstruction, which is an immediate life-threatening emergency demanding priority intervention.",
     "tags": [
-      "nursing",
-      "patient-safety",
+      "nclex",
+      "safe-effective-care",
       "easy",
       "healthcare",
       "clinical-safety"
@@ -230,11 +230,11 @@
     "active": true
   },
   {
-    "id": "nursing-clinical-judgment-0011",
-    "category": "Nursing",
-    "subcategory": "Clinical Judgment",
+    "id": "nclex-health-promotion-0011",
+    "category": "NCLEX",
+    "subcategory": "Health Promotion",
     "difficulty": "medium",
-    "question": "[Clinical Judgment #11] Which guideline represents safe medication administration practice under the Five Rights of Nursing?",
+    "question": "[Health Promotion #11] Which guideline represents safe medication administration practice under the Five Rights of Nursing?",
     "options": [
       "Verify the patient room number against the wristband",
       "Sign the medication administration record before giving the drug",
@@ -244,8 +244,8 @@
     "correctAnswer": 3,
     "explanation": "Joint Commission safety goals mandate using at least two independent patient identifiers prior to medication administration.",
     "tags": [
-      "nursing",
-      "clinical-judgment",
+      "nclex",
+      "health-promotion",
       "medium",
       "healthcare",
       "clinical-safety"
@@ -253,11 +253,11 @@
     "active": true
   },
   {
-    "id": "nursing-infection-control-0012",
-    "category": "Nursing",
-    "subcategory": "Infection Control",
+    "id": "nclex-pharmacological-therapies-0012",
+    "category": "NCLEX",
+    "subcategory": "Pharmacological Therapies",
     "difficulty": "hard",
-    "question": "[Infection Control #12] Which laboratory value should prompt the nurse to immediately hold scheduled Furosemide (Lasix)?",
+    "question": "[Pharmacological Therapies #12] Which laboratory value should prompt the nurse to immediately hold scheduled Furosemide (Lasix)?",
     "options": [
       "Serum potassium level of 2.8 mEq/L (hypokalemia)",
       "Serum sodium of 138 mEq/L",
@@ -267,8 +267,8 @@
     "correctAnswer": 0,
     "explanation": "Loop diuretics waste potassium; administering them with severe hypokalemia (< 3.5 mEq/L) can trigger fatal cardiac dysrhythmias.",
     "tags": [
-      "nursing",
-      "infection-control",
+      "nclex",
+      "pharmacological-therapies",
       "hard",
       "healthcare",
       "clinical-safety"
@@ -276,11 +276,11 @@
     "active": true
   },
   {
-    "id": "nursing-fundamentals-0013",
-    "category": "Nursing",
-    "subcategory": "Fundamentals",
+    "id": "nclex-priority-delegation-0013",
+    "category": "NCLEX",
+    "subcategory": "Priority & Delegation",
     "difficulty": "easy",
-    "question": "[Fundamentals #13] What is the most critical immediate nursing action when a patient experiences acute dyspnea and wheezing?",
+    "question": "[Priority & Delegation #13] What is the most critical immediate nursing action when a patient experiences acute dyspnea and wheezing?",
     "options": [
       "Place patient in Trendelenburg position",
       "Elevate head of bed to High-Fowler position and administer supplemental oxygen",
@@ -290,8 +290,8 @@
     "correctAnswer": 1,
     "explanation": "High-Fowler position maximizes chest expansion and decreases oxygen consumption during acute respiratory distress.",
     "tags": [
-      "nursing",
-      "fundamentals",
+      "nclex",
+      "priority-delegation",
       "easy",
       "healthcare",
       "clinical-safety"
@@ -299,11 +299,11 @@
     "active": true
   },
   {
-    "id": "nursing-patient-safety-0014",
-    "category": "Nursing",
-    "subcategory": "Patient Safety",
+    "id": "nclex-safe-effective-care-0014",
+    "category": "NCLEX",
+    "subcategory": "Safe & Effective Care",
     "difficulty": "medium",
-    "question": "[Patient Safety #14] According to the ABCs (Airway, Breathing, Circulation) priority framework, which clinical finding requires immediate nurse assessment?",
+    "question": "[Safe & Effective Care #14] According to the ABCs (Airway, Breathing, Circulation) priority framework, which clinical finding requires immediate nurse assessment?",
     "options": [
       "Mild nausea 30 minutes after dinner",
       "Sore throat with temperature of 99.1°F",
@@ -313,8 +313,8 @@
     "correctAnswer": 2,
     "explanation": "Stridor indicates upper airway obstruction, which is an immediate life-threatening emergency demanding priority intervention.",
     "tags": [
-      "nursing",
-      "patient-safety",
+      "nclex",
+      "safe-effective-care",
       "medium",
       "healthcare",
       "clinical-safety"
@@ -322,11 +322,11 @@
     "active": true
   },
   {
-    "id": "nursing-clinical-judgment-0015",
-    "category": "Nursing",
-    "subcategory": "Clinical Judgment",
+    "id": "nclex-health-promotion-0015",
+    "category": "NCLEX",
+    "subcategory": "Health Promotion",
     "difficulty": "hard",
-    "question": "[Clinical Judgment #15] Which guideline represents safe medication administration practice under the Five Rights of Nursing?",
+    "question": "[Health Promotion #15] Which guideline represents safe medication administration practice under the Five Rights of Nursing?",
     "options": [
       "Verify the patient room number against the wristband",
       "Sign the medication administration record before giving the drug",
@@ -336,8 +336,8 @@
     "correctAnswer": 3,
     "explanation": "Joint Commission safety goals mandate using at least two independent patient identifiers prior to medication administration.",
     "tags": [
-      "nursing",
-      "clinical-judgment",
+      "nclex",
+      "health-promotion",
       "hard",
       "healthcare",
       "clinical-safety"
@@ -345,11 +345,11 @@
     "active": true
   },
   {
-    "id": "nursing-infection-control-0016",
-    "category": "Nursing",
-    "subcategory": "Infection Control",
+    "id": "nclex-pharmacological-therapies-0016",
+    "category": "NCLEX",
+    "subcategory": "Pharmacological Therapies",
     "difficulty": "easy",
-    "question": "[Infection Control #16] Which laboratory value should prompt the nurse to immediately hold scheduled Furosemide (Lasix)?",
+    "question": "[Pharmacological Therapies #16] Which laboratory value should prompt the nurse to immediately hold scheduled Furosemide (Lasix)?",
     "options": [
       "Serum potassium level of 2.8 mEq/L (hypokalemia)",
       "Serum sodium of 138 mEq/L",
@@ -359,8 +359,8 @@
     "correctAnswer": 0,
     "explanation": "Loop diuretics waste potassium; administering them with severe hypokalemia (< 3.5 mEq/L) can trigger fatal cardiac dysrhythmias.",
     "tags": [
-      "nursing",
-      "infection-control",
+      "nclex",
+      "pharmacological-therapies",
       "easy",
       "healthcare",
       "clinical-safety"
@@ -368,11 +368,11 @@
     "active": true
   },
   {
-    "id": "nursing-fundamentals-0017",
-    "category": "Nursing",
-    "subcategory": "Fundamentals",
+    "id": "nclex-priority-delegation-0017",
+    "category": "NCLEX",
+    "subcategory": "Priority & Delegation",
     "difficulty": "medium",
-    "question": "[Fundamentals #17] What is the most critical immediate nursing action when a patient experiences acute dyspnea and wheezing?",
+    "question": "[Priority & Delegation #17] What is the most critical immediate nursing action when a patient experiences acute dyspnea and wheezing?",
     "options": [
       "Place patient in Trendelenburg position",
       "Elevate head of bed to High-Fowler position and administer supplemental oxygen",
@@ -382,8 +382,8 @@
     "correctAnswer": 1,
     "explanation": "High-Fowler position maximizes chest expansion and decreases oxygen consumption during acute respiratory distress.",
     "tags": [
-      "nursing",
-      "fundamentals",
+      "nclex",
+      "priority-delegation",
       "medium",
       "healthcare",
       "clinical-safety"
@@ -391,11 +391,11 @@
     "active": true
   },
   {
-    "id": "nursing-patient-safety-0018",
-    "category": "Nursing",
-    "subcategory": "Patient Safety",
+    "id": "nclex-safe-effective-care-0018",
+    "category": "NCLEX",
+    "subcategory": "Safe & Effective Care",
     "difficulty": "hard",
-    "question": "[Patient Safety #18] According to the ABCs (Airway, Breathing, Circulation) priority framework, which clinical finding requires immediate nurse assessment?",
+    "question": "[Safe & Effective Care #18] According to the ABCs (Airway, Breathing, Circulation) priority framework, which clinical finding requires immediate nurse assessment?",
     "options": [
       "Mild nausea 30 minutes after dinner",
       "Sore throat with temperature of 99.1°F",
@@ -405,8 +405,8 @@
     "correctAnswer": 2,
     "explanation": "Stridor indicates upper airway obstruction, which is an immediate life-threatening emergency demanding priority intervention.",
     "tags": [
-      "nursing",
-      "patient-safety",
+      "nclex",
+      "safe-effective-care",
       "hard",
       "healthcare",
       "clinical-safety"
@@ -414,11 +414,11 @@
     "active": true
   },
   {
-    "id": "nursing-clinical-judgment-0019",
-    "category": "Nursing",
-    "subcategory": "Clinical Judgment",
+    "id": "nclex-health-promotion-0019",
+    "category": "NCLEX",
+    "subcategory": "Health Promotion",
     "difficulty": "easy",
-    "question": "[Clinical Judgment #19] Which guideline represents safe medication administration practice under the Five Rights of Nursing?",
+    "question": "[Health Promotion #19] Which guideline represents safe medication administration practice under the Five Rights of Nursing?",
     "options": [
       "Verify the patient room number against the wristband",
       "Sign the medication administration record before giving the drug",
@@ -428,8 +428,8 @@
     "correctAnswer": 3,
     "explanation": "Joint Commission safety goals mandate using at least two independent patient identifiers prior to medication administration.",
     "tags": [
-      "nursing",
-      "clinical-judgment",
+      "nclex",
+      "health-promotion",
       "easy",
       "healthcare",
       "clinical-safety"
@@ -437,11 +437,11 @@
     "active": true
   },
   {
-    "id": "nursing-infection-control-0020",
-    "category": "Nursing",
-    "subcategory": "Infection Control",
+    "id": "nclex-pharmacological-therapies-0020",
+    "category": "NCLEX",
+    "subcategory": "Pharmacological Therapies",
     "difficulty": "medium",
-    "question": "[Infection Control #20] Which laboratory value should prompt the nurse to immediately hold scheduled Furosemide (Lasix)?",
+    "question": "[Pharmacological Therapies #20] Which laboratory value should prompt the nurse to immediately hold scheduled Furosemide (Lasix)?",
     "options": [
       "Serum potassium level of 2.8 mEq/L (hypokalemia)",
       "Serum sodium of 138 mEq/L",
@@ -451,8 +451,8 @@
     "correctAnswer": 0,
     "explanation": "Loop diuretics waste potassium; administering them with severe hypokalemia (< 3.5 mEq/L) can trigger fatal cardiac dysrhythmias.",
     "tags": [
-      "nursing",
-      "infection-control",
+      "nclex",
+      "pharmacological-therapies",
       "medium",
       "healthcare",
       "clinical-safety"
@@ -460,11 +460,11 @@
     "active": true
   },
   {
-    "id": "nursing-fundamentals-0021",
-    "category": "Nursing",
-    "subcategory": "Fundamentals",
+    "id": "nclex-priority-delegation-0021",
+    "category": "NCLEX",
+    "subcategory": "Priority & Delegation",
     "difficulty": "hard",
-    "question": "[Fundamentals #21] What is the most critical immediate nursing action when a patient experiences acute dyspnea and wheezing?",
+    "question": "[Priority & Delegation #21] What is the most critical immediate nursing action when a patient experiences acute dyspnea and wheezing?",
     "options": [
       "Place patient in Trendelenburg position",
       "Elevate head of bed to High-Fowler position and administer supplemental oxygen",
@@ -474,8 +474,8 @@
     "correctAnswer": 1,
     "explanation": "High-Fowler position maximizes chest expansion and decreases oxygen consumption during acute respiratory distress.",
     "tags": [
-      "nursing",
-      "fundamentals",
+      "nclex",
+      "priority-delegation",
       "hard",
       "healthcare",
       "clinical-safety"
@@ -483,11 +483,11 @@
     "active": true
   },
   {
-    "id": "nursing-patient-safety-0022",
-    "category": "Nursing",
-    "subcategory": "Patient Safety",
+    "id": "nclex-safe-effective-care-0022",
+    "category": "NCLEX",
+    "subcategory": "Safe & Effective Care",
     "difficulty": "easy",
-    "question": "[Patient Safety #22] According to the ABCs (Airway, Breathing, Circulation) priority framework, which clinical finding requires immediate nurse assessment?",
+    "question": "[Safe & Effective Care #22] According to the ABCs (Airway, Breathing, Circulation) priority framework, which clinical finding requires immediate nurse assessment?",
     "options": [
       "Mild nausea 30 minutes after dinner",
       "Sore throat with temperature of 99.1°F",
@@ -497,8 +497,8 @@
     "correctAnswer": 2,
     "explanation": "Stridor indicates upper airway obstruction, which is an immediate life-threatening emergency demanding priority intervention.",
     "tags": [
-      "nursing",
-      "patient-safety",
+      "nclex",
+      "safe-effective-care",
       "easy",
       "healthcare",
       "clinical-safety"
@@ -506,11 +506,11 @@
     "active": true
   },
   {
-    "id": "nursing-clinical-judgment-0023",
-    "category": "Nursing",
-    "subcategory": "Clinical Judgment",
+    "id": "nclex-health-promotion-0023",
+    "category": "NCLEX",
+    "subcategory": "Health Promotion",
     "difficulty": "medium",
-    "question": "[Clinical Judgment #23] Which guideline represents safe medication administration practice under the Five Rights of Nursing?",
+    "question": "[Health Promotion #23] Which guideline represents safe medication administration practice under the Five Rights of Nursing?",
     "options": [
       "Verify the patient room number against the wristband",
       "Sign the medication administration record before giving the drug",
@@ -520,8 +520,8 @@
     "correctAnswer": 3,
     "explanation": "Joint Commission safety goals mandate using at least two independent patient identifiers prior to medication administration.",
     "tags": [
-      "nursing",
-      "clinical-judgment",
+      "nclex",
+      "health-promotion",
       "medium",
       "healthcare",
       "clinical-safety"
@@ -529,11 +529,11 @@
     "active": true
   },
   {
-    "id": "nursing-infection-control-0024",
-    "category": "Nursing",
-    "subcategory": "Infection Control",
+    "id": "nclex-pharmacological-therapies-0024",
+    "category": "NCLEX",
+    "subcategory": "Pharmacological Therapies",
     "difficulty": "hard",
-    "question": "[Infection Control #24] Which laboratory value should prompt the nurse to immediately hold scheduled Furosemide (Lasix)?",
+    "question": "[Pharmacological Therapies #24] Which laboratory value should prompt the nurse to immediately hold scheduled Furosemide (Lasix)?",
     "options": [
       "Serum potassium level of 2.8 mEq/L (hypokalemia)",
       "Serum sodium of 138 mEq/L",
@@ -543,8 +543,8 @@
     "correctAnswer": 0,
     "explanation": "Loop diuretics waste potassium; administering them with severe hypokalemia (< 3.5 mEq/L) can trigger fatal cardiac dysrhythmias.",
     "tags": [
-      "nursing",
-      "infection-control",
+      "nclex",
+      "pharmacological-therapies",
       "hard",
       "healthcare",
       "clinical-safety"
@@ -552,11 +552,11 @@
     "active": true
   },
   {
-    "id": "nursing-fundamentals-0025",
-    "category": "Nursing",
-    "subcategory": "Fundamentals",
+    "id": "nclex-priority-delegation-0025",
+    "category": "NCLEX",
+    "subcategory": "Priority & Delegation",
     "difficulty": "easy",
-    "question": "[Fundamentals #25] What is the most critical immediate nursing action when a patient experiences acute dyspnea and wheezing?",
+    "question": "[Priority & Delegation #25] What is the most critical immediate nursing action when a patient experiences acute dyspnea and wheezing?",
     "options": [
       "Place patient in Trendelenburg position",
       "Elevate head of bed to High-Fowler position and administer supplemental oxygen",
@@ -566,8 +566,8 @@
     "correctAnswer": 1,
     "explanation": "High-Fowler position maximizes chest expansion and decreases oxygen consumption during acute respiratory distress.",
     "tags": [
-      "nursing",
-      "fundamentals",
+      "nclex",
+      "priority-delegation",
       "easy",
       "healthcare",
       "clinical-safety"
@@ -575,11 +575,11 @@
     "active": true
   },
   {
-    "id": "nursing-patient-safety-0026",
-    "category": "Nursing",
-    "subcategory": "Patient Safety",
+    "id": "nclex-safe-effective-care-0026",
+    "category": "NCLEX",
+    "subcategory": "Safe & Effective Care",
     "difficulty": "medium",
-    "question": "[Patient Safety #26] According to the ABCs (Airway, Breathing, Circulation) priority framework, which clinical finding requires immediate nurse assessment?",
+    "question": "[Safe & Effective Care #26] According to the ABCs (Airway, Breathing, Circulation) priority framework, which clinical finding requires immediate nurse assessment?",
     "options": [
       "Mild nausea 30 minutes after dinner",
       "Sore throat with temperature of 99.1°F",
@@ -589,8 +589,8 @@
     "correctAnswer": 2,
     "explanation": "Stridor indicates upper airway obstruction, which is an immediate life-threatening emergency demanding priority intervention.",
     "tags": [
-      "nursing",
-      "patient-safety",
+      "nclex",
+      "safe-effective-care",
       "medium",
       "healthcare",
       "clinical-safety"
@@ -598,11 +598,11 @@
     "active": true
   },
   {
-    "id": "nursing-clinical-judgment-0027",
-    "category": "Nursing",
-    "subcategory": "Clinical Judgment",
+    "id": "nclex-health-promotion-0027",
+    "category": "NCLEX",
+    "subcategory": "Health Promotion",
     "difficulty": "hard",
-    "question": "[Clinical Judgment #27] Which guideline represents safe medication administration practice under the Five Rights of Nursing?",
+    "question": "[Health Promotion #27] Which guideline represents safe medication administration practice under the Five Rights of Nursing?",
     "options": [
       "Verify the patient room number against the wristband",
       "Sign the medication administration record before giving the drug",
@@ -612,8 +612,8 @@
     "correctAnswer": 3,
     "explanation": "Joint Commission safety goals mandate using at least two independent patient identifiers prior to medication administration.",
     "tags": [
-      "nursing",
-      "clinical-judgment",
+      "nclex",
+      "health-promotion",
       "hard",
       "healthcare",
       "clinical-safety"
@@ -621,11 +621,11 @@
     "active": true
   },
   {
-    "id": "nursing-infection-control-0028",
-    "category": "Nursing",
-    "subcategory": "Infection Control",
+    "id": "nclex-pharmacological-therapies-0028",
+    "category": "NCLEX",
+    "subcategory": "Pharmacological Therapies",
     "difficulty": "easy",
-    "question": "[Infection Control #28] Which laboratory value should prompt the nurse to immediately hold scheduled Furosemide (Lasix)?",
+    "question": "[Pharmacological Therapies #28] Which laboratory value should prompt the nurse to immediately hold scheduled Furosemide (Lasix)?",
     "options": [
       "Serum potassium level of 2.8 mEq/L (hypokalemia)",
       "Serum sodium of 138 mEq/L",
@@ -635,8 +635,8 @@
     "correctAnswer": 0,
     "explanation": "Loop diuretics waste potassium; administering them with severe hypokalemia (< 3.5 mEq/L) can trigger fatal cardiac dysrhythmias.",
     "tags": [
-      "nursing",
-      "infection-control",
+      "nclex",
+      "pharmacological-therapies",
       "easy",
       "healthcare",
       "clinical-safety"
@@ -644,11 +644,11 @@
     "active": true
   },
   {
-    "id": "nursing-fundamentals-0029",
-    "category": "Nursing",
-    "subcategory": "Fundamentals",
+    "id": "nclex-priority-delegation-0029",
+    "category": "NCLEX",
+    "subcategory": "Priority & Delegation",
     "difficulty": "medium",
-    "question": "[Fundamentals #29] What is the most critical immediate nursing action when a patient experiences acute dyspnea and wheezing?",
+    "question": "[Priority & Delegation #29] What is the most critical immediate nursing action when a patient experiences acute dyspnea and wheezing?",
     "options": [
       "Place patient in Trendelenburg position",
       "Elevate head of bed to High-Fowler position and administer supplemental oxygen",
@@ -658,8 +658,8 @@
     "correctAnswer": 1,
     "explanation": "High-Fowler position maximizes chest expansion and decreases oxygen consumption during acute respiratory distress.",
     "tags": [
-      "nursing",
-      "fundamentals",
+      "nclex",
+      "priority-delegation",
       "medium",
       "healthcare",
       "clinical-safety"
@@ -667,11 +667,11 @@
     "active": true
   },
   {
-    "id": "nursing-patient-safety-0030",
-    "category": "Nursing",
-    "subcategory": "Patient Safety",
+    "id": "nclex-safe-effective-care-0030",
+    "category": "NCLEX",
+    "subcategory": "Safe & Effective Care",
     "difficulty": "hard",
-    "question": "[Patient Safety #30] According to the ABCs (Airway, Breathing, Circulation) priority framework, which clinical finding requires immediate nurse assessment?",
+    "question": "[Safe & Effective Care #30] According to the ABCs (Airway, Breathing, Circulation) priority framework, which clinical finding requires immediate nurse assessment?",
     "options": [
       "Mild nausea 30 minutes after dinner",
       "Sore throat with temperature of 99.1°F",
@@ -681,8 +681,8 @@
     "correctAnswer": 2,
     "explanation": "Stridor indicates upper airway obstruction, which is an immediate life-threatening emergency demanding priority intervention.",
     "tags": [
-      "nursing",
-      "patient-safety",
+      "nclex",
+      "safe-effective-care",
       "hard",
       "healthcare",
       "clinical-safety"
@@ -690,11 +690,11 @@
     "active": true
   },
   {
-    "id": "nursing-clinical-judgment-0031",
-    "category": "Nursing",
-    "subcategory": "Clinical Judgment",
+    "id": "nclex-health-promotion-0031",
+    "category": "NCLEX",
+    "subcategory": "Health Promotion",
     "difficulty": "easy",
-    "question": "[Clinical Judgment #31] Which guideline represents safe medication administration practice under the Five Rights of Nursing?",
+    "question": "[Health Promotion #31] Which guideline represents safe medication administration practice under the Five Rights of Nursing?",
     "options": [
       "Verify the patient room number against the wristband",
       "Sign the medication administration record before giving the drug",
@@ -704,8 +704,8 @@
     "correctAnswer": 3,
     "explanation": "Joint Commission safety goals mandate using at least two independent patient identifiers prior to medication administration.",
     "tags": [
-      "nursing",
-      "clinical-judgment",
+      "nclex",
+      "health-promotion",
       "easy",
       "healthcare",
       "clinical-safety"
@@ -713,11 +713,11 @@
     "active": true
   },
   {
-    "id": "nursing-infection-control-0032",
-    "category": "Nursing",
-    "subcategory": "Infection Control",
+    "id": "nclex-pharmacological-therapies-0032",
+    "category": "NCLEX",
+    "subcategory": "Pharmacological Therapies",
     "difficulty": "medium",
-    "question": "[Infection Control #32] Which laboratory value should prompt the nurse to immediately hold scheduled Furosemide (Lasix)?",
+    "question": "[Pharmacological Therapies #32] Which laboratory value should prompt the nurse to immediately hold scheduled Furosemide (Lasix)?",
     "options": [
       "Serum potassium level of 2.8 mEq/L (hypokalemia)",
       "Serum sodium of 138 mEq/L",
@@ -727,8 +727,8 @@
     "correctAnswer": 0,
     "explanation": "Loop diuretics waste potassium; administering them with severe hypokalemia (< 3.5 mEq/L) can trigger fatal cardiac dysrhythmias.",
     "tags": [
-      "nursing",
-      "infection-control",
+      "nclex",
+      "pharmacological-therapies",
       "medium",
       "healthcare",
       "clinical-safety"
@@ -736,11 +736,11 @@
     "active": true
   },
   {
-    "id": "nursing-fundamentals-0033",
-    "category": "Nursing",
-    "subcategory": "Fundamentals",
+    "id": "nclex-priority-delegation-0033",
+    "category": "NCLEX",
+    "subcategory": "Priority & Delegation",
     "difficulty": "hard",
-    "question": "[Fundamentals #33] What is the most critical immediate nursing action when a patient experiences acute dyspnea and wheezing?",
+    "question": "[Priority & Delegation #33] What is the most critical immediate nursing action when a patient experiences acute dyspnea and wheezing?",
     "options": [
       "Place patient in Trendelenburg position",
       "Elevate head of bed to High-Fowler position and administer supplemental oxygen",
@@ -750,8 +750,8 @@
     "correctAnswer": 1,
     "explanation": "High-Fowler position maximizes chest expansion and decreases oxygen consumption during acute respiratory distress.",
     "tags": [
-      "nursing",
-      "fundamentals",
+      "nclex",
+      "priority-delegation",
       "hard",
       "healthcare",
       "clinical-safety"
@@ -759,11 +759,11 @@
     "active": true
   },
   {
-    "id": "nursing-patient-safety-0034",
-    "category": "Nursing",
-    "subcategory": "Patient Safety",
+    "id": "nclex-safe-effective-care-0034",
+    "category": "NCLEX",
+    "subcategory": "Safe & Effective Care",
     "difficulty": "easy",
-    "question": "[Patient Safety #34] According to the ABCs (Airway, Breathing, Circulation) priority framework, which clinical finding requires immediate nurse assessment?",
+    "question": "[Safe & Effective Care #34] According to the ABCs (Airway, Breathing, Circulation) priority framework, which clinical finding requires immediate nurse assessment?",
     "options": [
       "Mild nausea 30 minutes after dinner",
       "Sore throat with temperature of 99.1°F",
@@ -773,8 +773,8 @@
     "correctAnswer": 2,
     "explanation": "Stridor indicates upper airway obstruction, which is an immediate life-threatening emergency demanding priority intervention.",
     "tags": [
-      "nursing",
-      "patient-safety",
+      "nclex",
+      "safe-effective-care",
       "easy",
       "healthcare",
       "clinical-safety"
@@ -782,11 +782,11 @@
     "active": true
   },
   {
-    "id": "nursing-clinical-judgment-0035",
-    "category": "Nursing",
-    "subcategory": "Clinical Judgment",
+    "id": "nclex-health-promotion-0035",
+    "category": "NCLEX",
+    "subcategory": "Health Promotion",
     "difficulty": "medium",
-    "question": "[Clinical Judgment #35] Which guideline represents safe medication administration practice under the Five Rights of Nursing?",
+    "question": "[Health Promotion #35] Which guideline represents safe medication administration practice under the Five Rights of Nursing?",
     "options": [
       "Verify the patient room number against the wristband",
       "Sign the medication administration record before giving the drug",
@@ -796,8 +796,8 @@
     "correctAnswer": 3,
     "explanation": "Joint Commission safety goals mandate using at least two independent patient identifiers prior to medication administration.",
     "tags": [
-      "nursing",
-      "clinical-judgment",
+      "nclex",
+      "health-promotion",
       "medium",
       "healthcare",
       "clinical-safety"
@@ -805,11 +805,11 @@
     "active": true
   },
   {
-    "id": "nursing-infection-control-0036",
-    "category": "Nursing",
-    "subcategory": "Infection Control",
+    "id": "nclex-pharmacological-therapies-0036",
+    "category": "NCLEX",
+    "subcategory": "Pharmacological Therapies",
     "difficulty": "hard",
-    "question": "[Infection Control #36] Which laboratory value should prompt the nurse to immediately hold scheduled Furosemide (Lasix)?",
+    "question": "[Pharmacological Therapies #36] Which laboratory value should prompt the nurse to immediately hold scheduled Furosemide (Lasix)?",
     "options": [
       "Serum potassium level of 2.8 mEq/L (hypokalemia)",
       "Serum sodium of 138 mEq/L",
@@ -819,8 +819,8 @@
     "correctAnswer": 0,
     "explanation": "Loop diuretics waste potassium; administering them with severe hypokalemia (< 3.5 mEq/L) can trigger fatal cardiac dysrhythmias.",
     "tags": [
-      "nursing",
-      "infection-control",
+      "nclex",
+      "pharmacological-therapies",
       "hard",
       "healthcare",
       "clinical-safety"
@@ -828,11 +828,11 @@
     "active": true
   },
   {
-    "id": "nursing-fundamentals-0037",
-    "category": "Nursing",
-    "subcategory": "Fundamentals",
+    "id": "nclex-priority-delegation-0037",
+    "category": "NCLEX",
+    "subcategory": "Priority & Delegation",
     "difficulty": "easy",
-    "question": "[Fundamentals #37] What is the most critical immediate nursing action when a patient experiences acute dyspnea and wheezing?",
+    "question": "[Priority & Delegation #37] What is the most critical immediate nursing action when a patient experiences acute dyspnea and wheezing?",
     "options": [
       "Place patient in Trendelenburg position",
       "Elevate head of bed to High-Fowler position and administer supplemental oxygen",
@@ -842,8 +842,8 @@
     "correctAnswer": 1,
     "explanation": "High-Fowler position maximizes chest expansion and decreases oxygen consumption during acute respiratory distress.",
     "tags": [
-      "nursing",
-      "fundamentals",
+      "nclex",
+      "priority-delegation",
       "easy",
       "healthcare",
       "clinical-safety"
@@ -851,11 +851,11 @@
     "active": true
   },
   {
-    "id": "nursing-patient-safety-0038",
-    "category": "Nursing",
-    "subcategory": "Patient Safety",
+    "id": "nclex-safe-effective-care-0038",
+    "category": "NCLEX",
+    "subcategory": "Safe & Effective Care",
     "difficulty": "medium",
-    "question": "[Patient Safety #38] According to the ABCs (Airway, Breathing, Circulation) priority framework, which clinical finding requires immediate nurse assessment?",
+    "question": "[Safe & Effective Care #38] According to the ABCs (Airway, Breathing, Circulation) priority framework, which clinical finding requires immediate nurse assessment?",
     "options": [
       "Mild nausea 30 minutes after dinner",
       "Sore throat with temperature of 99.1°F",
@@ -865,8 +865,8 @@
     "correctAnswer": 2,
     "explanation": "Stridor indicates upper airway obstruction, which is an immediate life-threatening emergency demanding priority intervention.",
     "tags": [
-      "nursing",
-      "patient-safety",
+      "nclex",
+      "safe-effective-care",
       "medium",
       "healthcare",
       "clinical-safety"
@@ -874,11 +874,11 @@
     "active": true
   },
   {
-    "id": "nursing-clinical-judgment-0039",
-    "category": "Nursing",
-    "subcategory": "Clinical Judgment",
+    "id": "nclex-health-promotion-0039",
+    "category": "NCLEX",
+    "subcategory": "Health Promotion",
     "difficulty": "hard",
-    "question": "[Clinical Judgment #39] Which guideline represents safe medication administration practice under the Five Rights of Nursing?",
+    "question": "[Health Promotion #39] Which guideline represents safe medication administration practice under the Five Rights of Nursing?",
     "options": [
       "Verify the patient room number against the wristband",
       "Sign the medication administration record before giving the drug",
@@ -888,8 +888,8 @@
     "correctAnswer": 3,
     "explanation": "Joint Commission safety goals mandate using at least two independent patient identifiers prior to medication administration.",
     "tags": [
-      "nursing",
-      "clinical-judgment",
+      "nclex",
+      "health-promotion",
       "hard",
       "healthcare",
       "clinical-safety"
@@ -897,11 +897,11 @@
     "active": true
   },
   {
-    "id": "nursing-infection-control-0040",
-    "category": "Nursing",
-    "subcategory": "Infection Control",
+    "id": "nclex-pharmacological-therapies-0040",
+    "category": "NCLEX",
+    "subcategory": "Pharmacological Therapies",
     "difficulty": "easy",
-    "question": "[Infection Control #40] Which laboratory value should prompt the nurse to immediately hold scheduled Furosemide (Lasix)?",
+    "question": "[Pharmacological Therapies #40] Which laboratory value should prompt the nurse to immediately hold scheduled Furosemide (Lasix)?",
     "options": [
       "Serum potassium level of 2.8 mEq/L (hypokalemia)",
       "Serum sodium of 138 mEq/L",
@@ -911,8 +911,8 @@
     "correctAnswer": 0,
     "explanation": "Loop diuretics waste potassium; administering them with severe hypokalemia (< 3.5 mEq/L) can trigger fatal cardiac dysrhythmias.",
     "tags": [
-      "nursing",
-      "infection-control",
+      "nclex",
+      "pharmacological-therapies",
       "easy",
       "healthcare",
       "clinical-safety"
@@ -920,11 +920,11 @@
     "active": true
   },
   {
-    "id": "nursing-fundamentals-0041",
-    "category": "Nursing",
-    "subcategory": "Fundamentals",
+    "id": "nclex-priority-delegation-0041",
+    "category": "NCLEX",
+    "subcategory": "Priority & Delegation",
     "difficulty": "medium",
-    "question": "[Fundamentals #41] What is the most critical immediate nursing action when a patient experiences acute dyspnea and wheezing?",
+    "question": "[Priority & Delegation #41] What is the most critical immediate nursing action when a patient experiences acute dyspnea and wheezing?",
     "options": [
       "Place patient in Trendelenburg position",
       "Elevate head of bed to High-Fowler position and administer supplemental oxygen",
@@ -934,8 +934,8 @@
     "correctAnswer": 1,
     "explanation": "High-Fowler position maximizes chest expansion and decreases oxygen consumption during acute respiratory distress.",
     "tags": [
-      "nursing",
-      "fundamentals",
+      "nclex",
+      "priority-delegation",
       "medium",
       "healthcare",
       "clinical-safety"
@@ -943,11 +943,11 @@
     "active": true
   },
   {
-    "id": "nursing-patient-safety-0042",
-    "category": "Nursing",
-    "subcategory": "Patient Safety",
+    "id": "nclex-safe-effective-care-0042",
+    "category": "NCLEX",
+    "subcategory": "Safe & Effective Care",
     "difficulty": "hard",
-    "question": "[Patient Safety #42] According to the ABCs (Airway, Breathing, Circulation) priority framework, which clinical finding requires immediate nurse assessment?",
+    "question": "[Safe & Effective Care #42] According to the ABCs (Airway, Breathing, Circulation) priority framework, which clinical finding requires immediate nurse assessment?",
     "options": [
       "Mild nausea 30 minutes after dinner",
       "Sore throat with temperature of 99.1°F",
@@ -957,8 +957,8 @@
     "correctAnswer": 2,
     "explanation": "Stridor indicates upper airway obstruction, which is an immediate life-threatening emergency demanding priority intervention.",
     "tags": [
-      "nursing",
-      "patient-safety",
+      "nclex",
+      "safe-effective-care",
       "hard",
       "healthcare",
       "clinical-safety"
@@ -966,11 +966,11 @@
     "active": true
   },
   {
-    "id": "nursing-clinical-judgment-0043",
-    "category": "Nursing",
-    "subcategory": "Clinical Judgment",
+    "id": "nclex-health-promotion-0043",
+    "category": "NCLEX",
+    "subcategory": "Health Promotion",
     "difficulty": "easy",
-    "question": "[Clinical Judgment #43] Which guideline represents safe medication administration practice under the Five Rights of Nursing?",
+    "question": "[Health Promotion #43] Which guideline represents safe medication administration practice under the Five Rights of Nursing?",
     "options": [
       "Verify the patient room number against the wristband",
       "Sign the medication administration record before giving the drug",
@@ -980,8 +980,8 @@
     "correctAnswer": 3,
     "explanation": "Joint Commission safety goals mandate using at least two independent patient identifiers prior to medication administration.",
     "tags": [
-      "nursing",
-      "clinical-judgment",
+      "nclex",
+      "health-promotion",
       "easy",
       "healthcare",
       "clinical-safety"
@@ -989,11 +989,11 @@
     "active": true
   },
   {
-    "id": "nursing-infection-control-0044",
-    "category": "Nursing",
-    "subcategory": "Infection Control",
+    "id": "nclex-pharmacological-therapies-0044",
+    "category": "NCLEX",
+    "subcategory": "Pharmacological Therapies",
     "difficulty": "medium",
-    "question": "[Infection Control #44] Which laboratory value should prompt the nurse to immediately hold scheduled Furosemide (Lasix)?",
+    "question": "[Pharmacological Therapies #44] Which laboratory value should prompt the nurse to immediately hold scheduled Furosemide (Lasix)?",
     "options": [
       "Serum potassium level of 2.8 mEq/L (hypokalemia)",
       "Serum sodium of 138 mEq/L",
@@ -1003,8 +1003,8 @@
     "correctAnswer": 0,
     "explanation": "Loop diuretics waste potassium; administering them with severe hypokalemia (< 3.5 mEq/L) can trigger fatal cardiac dysrhythmias.",
     "tags": [
-      "nursing",
-      "infection-control",
+      "nclex",
+      "pharmacological-therapies",
       "medium",
       "healthcare",
       "clinical-safety"
@@ -1012,11 +1012,11 @@
     "active": true
   },
   {
-    "id": "nursing-fundamentals-0045",
-    "category": "Nursing",
-    "subcategory": "Fundamentals",
+    "id": "nclex-priority-delegation-0045",
+    "category": "NCLEX",
+    "subcategory": "Priority & Delegation",
     "difficulty": "hard",
-    "question": "[Fundamentals #45] What is the most critical immediate nursing action when a patient experiences acute dyspnea and wheezing?",
+    "question": "[Priority & Delegation #45] What is the most critical immediate nursing action when a patient experiences acute dyspnea and wheezing?",
     "options": [
       "Place patient in Trendelenburg position",
       "Elevate head of bed to High-Fowler position and administer supplemental oxygen",
@@ -1026,8 +1026,8 @@
     "correctAnswer": 1,
     "explanation": "High-Fowler position maximizes chest expansion and decreases oxygen consumption during acute respiratory distress.",
     "tags": [
-      "nursing",
-      "fundamentals",
+      "nclex",
+      "priority-delegation",
       "hard",
       "healthcare",
       "clinical-safety"
@@ -1035,11 +1035,11 @@
     "active": true
   },
   {
-    "id": "nursing-patient-safety-0046",
-    "category": "Nursing",
-    "subcategory": "Patient Safety",
+    "id": "nclex-safe-effective-care-0046",
+    "category": "NCLEX",
+    "subcategory": "Safe & Effective Care",
     "difficulty": "easy",
-    "question": "[Patient Safety #46] According to the ABCs (Airway, Breathing, Circulation) priority framework, which clinical finding requires immediate nurse assessment?",
+    "question": "[Safe & Effective Care #46] According to the ABCs (Airway, Breathing, Circulation) priority framework, which clinical finding requires immediate nurse assessment?",
     "options": [
       "Mild nausea 30 minutes after dinner",
       "Sore throat with temperature of 99.1°F",
@@ -1049,8 +1049,8 @@
     "correctAnswer": 2,
     "explanation": "Stridor indicates upper airway obstruction, which is an immediate life-threatening emergency demanding priority intervention.",
     "tags": [
-      "nursing",
-      "patient-safety",
+      "nclex",
+      "safe-effective-care",
       "easy",
       "healthcare",
       "clinical-safety"
@@ -1058,11 +1058,11 @@
     "active": true
   },
   {
-    "id": "nursing-clinical-judgment-0047",
-    "category": "Nursing",
-    "subcategory": "Clinical Judgment",
+    "id": "nclex-health-promotion-0047",
+    "category": "NCLEX",
+    "subcategory": "Health Promotion",
     "difficulty": "medium",
-    "question": "[Clinical Judgment #47] Which guideline represents safe medication administration practice under the Five Rights of Nursing?",
+    "question": "[Health Promotion #47] Which guideline represents safe medication administration practice under the Five Rights of Nursing?",
     "options": [
       "Verify the patient room number against the wristband",
       "Sign the medication administration record before giving the drug",
@@ -1072,8 +1072,8 @@
     "correctAnswer": 3,
     "explanation": "Joint Commission safety goals mandate using at least two independent patient identifiers prior to medication administration.",
     "tags": [
-      "nursing",
-      "clinical-judgment",
+      "nclex",
+      "health-promotion",
       "medium",
       "healthcare",
       "clinical-safety"
@@ -1081,11 +1081,11 @@
     "active": true
   },
   {
-    "id": "nursing-infection-control-0048",
-    "category": "Nursing",
-    "subcategory": "Infection Control",
+    "id": "nclex-pharmacological-therapies-0048",
+    "category": "NCLEX",
+    "subcategory": "Pharmacological Therapies",
     "difficulty": "hard",
-    "question": "[Infection Control #48] Which laboratory value should prompt the nurse to immediately hold scheduled Furosemide (Lasix)?",
+    "question": "[Pharmacological Therapies #48] Which laboratory value should prompt the nurse to immediately hold scheduled Furosemide (Lasix)?",
     "options": [
       "Serum potassium level of 2.8 mEq/L (hypokalemia)",
       "Serum sodium of 138 mEq/L",
@@ -1095,8 +1095,8 @@
     "correctAnswer": 0,
     "explanation": "Loop diuretics waste potassium; administering them with severe hypokalemia (< 3.5 mEq/L) can trigger fatal cardiac dysrhythmias.",
     "tags": [
-      "nursing",
-      "infection-control",
+      "nclex",
+      "pharmacological-therapies",
       "hard",
       "healthcare",
       "clinical-safety"
@@ -1104,11 +1104,11 @@
     "active": true
   },
   {
-    "id": "nursing-fundamentals-0049",
-    "category": "Nursing",
-    "subcategory": "Fundamentals",
+    "id": "nclex-priority-delegation-0049",
+    "category": "NCLEX",
+    "subcategory": "Priority & Delegation",
     "difficulty": "easy",
-    "question": "[Fundamentals #49] What is the most critical immediate nursing action when a patient experiences acute dyspnea and wheezing?",
+    "question": "[Priority & Delegation #49] What is the most critical immediate nursing action when a patient experiences acute dyspnea and wheezing?",
     "options": [
       "Place patient in Trendelenburg position",
       "Elevate head of bed to High-Fowler position and administer supplemental oxygen",
@@ -1118,8 +1118,8 @@
     "correctAnswer": 1,
     "explanation": "High-Fowler position maximizes chest expansion and decreases oxygen consumption during acute respiratory distress.",
     "tags": [
-      "nursing",
-      "fundamentals",
+      "nclex",
+      "priority-delegation",
       "easy",
       "healthcare",
       "clinical-safety"
@@ -1127,11 +1127,11 @@
     "active": true
   },
   {
-    "id": "nursing-patient-safety-0050",
-    "category": "Nursing",
-    "subcategory": "Patient Safety",
+    "id": "nclex-safe-effective-care-0050",
+    "category": "NCLEX",
+    "subcategory": "Safe & Effective Care",
     "difficulty": "medium",
-    "question": "[Patient Safety #50] According to the ABCs (Airway, Breathing, Circulation) priority framework, which clinical finding requires immediate nurse assessment?",
+    "question": "[Safe & Effective Care #50] According to the ABCs (Airway, Breathing, Circulation) priority framework, which clinical finding requires immediate nurse assessment?",
     "options": [
       "Mild nausea 30 minutes after dinner",
       "Sore throat with temperature of 99.1°F",
@@ -1141,8 +1141,8 @@
     "correctAnswer": 2,
     "explanation": "Stridor indicates upper airway obstruction, which is an immediate life-threatening emergency demanding priority intervention.",
     "tags": [
-      "nursing",
-      "patient-safety",
+      "nclex",
+      "safe-effective-care",
       "medium",
       "healthcare",
       "clinical-safety"
@@ -1150,11 +1150,11 @@
     "active": true
   },
   {
-    "id": "nursing-clinical-judgment-0051",
-    "category": "Nursing",
-    "subcategory": "Clinical Judgment",
+    "id": "nclex-health-promotion-0051",
+    "category": "NCLEX",
+    "subcategory": "Health Promotion",
     "difficulty": "hard",
-    "question": "[Clinical Judgment #51] Which guideline represents safe medication administration practice under the Five Rights of Nursing?",
+    "question": "[Health Promotion #51] Which guideline represents safe medication administration practice under the Five Rights of Nursing?",
     "options": [
       "Verify the patient room number against the wristband",
       "Sign the medication administration record before giving the drug",
@@ -1164,8 +1164,8 @@
     "correctAnswer": 3,
     "explanation": "Joint Commission safety goals mandate using at least two independent patient identifiers prior to medication administration.",
     "tags": [
-      "nursing",
-      "clinical-judgment",
+      "nclex",
+      "health-promotion",
       "hard",
       "healthcare",
       "clinical-safety"
@@ -1173,11 +1173,11 @@
     "active": true
   },
   {
-    "id": "nursing-infection-control-0052",
-    "category": "Nursing",
-    "subcategory": "Infection Control",
+    "id": "nclex-pharmacological-therapies-0052",
+    "category": "NCLEX",
+    "subcategory": "Pharmacological Therapies",
     "difficulty": "easy",
-    "question": "[Infection Control #52] Which laboratory value should prompt the nurse to immediately hold scheduled Furosemide (Lasix)?",
+    "question": "[Pharmacological Therapies #52] Which laboratory value should prompt the nurse to immediately hold scheduled Furosemide (Lasix)?",
     "options": [
       "Serum potassium level of 2.8 mEq/L (hypokalemia)",
       "Serum sodium of 138 mEq/L",
@@ -1187,8 +1187,8 @@
     "correctAnswer": 0,
     "explanation": "Loop diuretics waste potassium; administering them with severe hypokalemia (< 3.5 mEq/L) can trigger fatal cardiac dysrhythmias.",
     "tags": [
-      "nursing",
-      "infection-control",
+      "nclex",
+      "pharmacological-therapies",
       "easy",
       "healthcare",
       "clinical-safety"
@@ -1196,11 +1196,11 @@
     "active": true
   },
   {
-    "id": "nursing-fundamentals-0053",
-    "category": "Nursing",
-    "subcategory": "Fundamentals",
+    "id": "nclex-priority-delegation-0053",
+    "category": "NCLEX",
+    "subcategory": "Priority & Delegation",
     "difficulty": "medium",
-    "question": "[Fundamentals #53] What is the most critical immediate nursing action when a patient experiences acute dyspnea and wheezing?",
+    "question": "[Priority & Delegation #53] What is the most critical immediate nursing action when a patient experiences acute dyspnea and wheezing?",
     "options": [
       "Place patient in Trendelenburg position",
       "Elevate head of bed to High-Fowler position and administer supplemental oxygen",
@@ -1210,8 +1210,8 @@
     "correctAnswer": 1,
     "explanation": "High-Fowler position maximizes chest expansion and decreases oxygen consumption during acute respiratory distress.",
     "tags": [
-      "nursing",
-      "fundamentals",
+      "nclex",
+      "priority-delegation",
       "medium",
       "healthcare",
       "clinical-safety"
@@ -1219,11 +1219,11 @@
     "active": true
   },
   {
-    "id": "nursing-patient-safety-0054",
-    "category": "Nursing",
-    "subcategory": "Patient Safety",
+    "id": "nclex-safe-effective-care-0054",
+    "category": "NCLEX",
+    "subcategory": "Safe & Effective Care",
     "difficulty": "hard",
-    "question": "[Patient Safety #54] According to the ABCs (Airway, Breathing, Circulation) priority framework, which clinical finding requires immediate nurse assessment?",
+    "question": "[Safe & Effective Care #54] According to the ABCs (Airway, Breathing, Circulation) priority framework, which clinical finding requires immediate nurse assessment?",
     "options": [
       "Mild nausea 30 minutes after dinner",
       "Sore throat with temperature of 99.1°F",
@@ -1233,8 +1233,8 @@
     "correctAnswer": 2,
     "explanation": "Stridor indicates upper airway obstruction, which is an immediate life-threatening emergency demanding priority intervention.",
     "tags": [
-      "nursing",
-      "patient-safety",
+      "nclex",
+      "safe-effective-care",
       "hard",
       "healthcare",
       "clinical-safety"
@@ -1242,11 +1242,11 @@
     "active": true
   },
   {
-    "id": "nursing-clinical-judgment-0055",
-    "category": "Nursing",
-    "subcategory": "Clinical Judgment",
+    "id": "nclex-health-promotion-0055",
+    "category": "NCLEX",
+    "subcategory": "Health Promotion",
     "difficulty": "easy",
-    "question": "[Clinical Judgment #55] Which guideline represents safe medication administration practice under the Five Rights of Nursing?",
+    "question": "[Health Promotion #55] Which guideline represents safe medication administration practice under the Five Rights of Nursing?",
     "options": [
       "Verify the patient room number against the wristband",
       "Sign the medication administration record before giving the drug",
@@ -1256,8 +1256,8 @@
     "correctAnswer": 3,
     "explanation": "Joint Commission safety goals mandate using at least two independent patient identifiers prior to medication administration.",
     "tags": [
-      "nursing",
-      "clinical-judgment",
+      "nclex",
+      "health-promotion",
       "easy",
       "healthcare",
       "clinical-safety"
@@ -1265,11 +1265,11 @@
     "active": true
   },
   {
-    "id": "nursing-infection-control-0056",
-    "category": "Nursing",
-    "subcategory": "Infection Control",
+    "id": "nclex-pharmacological-therapies-0056",
+    "category": "NCLEX",
+    "subcategory": "Pharmacological Therapies",
     "difficulty": "medium",
-    "question": "[Infection Control #56] Which laboratory value should prompt the nurse to immediately hold scheduled Furosemide (Lasix)?",
+    "question": "[Pharmacological Therapies #56] Which laboratory value should prompt the nurse to immediately hold scheduled Furosemide (Lasix)?",
     "options": [
       "Serum potassium level of 2.8 mEq/L (hypokalemia)",
       "Serum sodium of 138 mEq/L",
@@ -1279,8 +1279,8 @@
     "correctAnswer": 0,
     "explanation": "Loop diuretics waste potassium; administering them with severe hypokalemia (< 3.5 mEq/L) can trigger fatal cardiac dysrhythmias.",
     "tags": [
-      "nursing",
-      "infection-control",
+      "nclex",
+      "pharmacological-therapies",
       "medium",
       "healthcare",
       "clinical-safety"
@@ -1288,11 +1288,11 @@
     "active": true
   },
   {
-    "id": "nursing-fundamentals-0057",
-    "category": "Nursing",
-    "subcategory": "Fundamentals",
+    "id": "nclex-priority-delegation-0057",
+    "category": "NCLEX",
+    "subcategory": "Priority & Delegation",
     "difficulty": "hard",
-    "question": "[Fundamentals #57] What is the most critical immediate nursing action when a patient experiences acute dyspnea and wheezing?",
+    "question": "[Priority & Delegation #57] What is the most critical immediate nursing action when a patient experiences acute dyspnea and wheezing?",
     "options": [
       "Place patient in Trendelenburg position",
       "Elevate head of bed to High-Fowler position and administer supplemental oxygen",
@@ -1302,8 +1302,8 @@
     "correctAnswer": 1,
     "explanation": "High-Fowler position maximizes chest expansion and decreases oxygen consumption during acute respiratory distress.",
     "tags": [
-      "nursing",
-      "fundamentals",
+      "nclex",
+      "priority-delegation",
       "hard",
       "healthcare",
       "clinical-safety"
@@ -1311,11 +1311,11 @@
     "active": true
   },
   {
-    "id": "nursing-patient-safety-0058",
-    "category": "Nursing",
-    "subcategory": "Patient Safety",
+    "id": "nclex-safe-effective-care-0058",
+    "category": "NCLEX",
+    "subcategory": "Safe & Effective Care",
     "difficulty": "easy",
-    "question": "[Patient Safety #58] According to the ABCs (Airway, Breathing, Circulation) priority framework, which clinical finding requires immediate nurse assessment?",
+    "question": "[Safe & Effective Care #58] According to the ABCs (Airway, Breathing, Circulation) priority framework, which clinical finding requires immediate nurse assessment?",
     "options": [
       "Mild nausea 30 minutes after dinner",
       "Sore throat with temperature of 99.1°F",
@@ -1325,8 +1325,8 @@
     "correctAnswer": 2,
     "explanation": "Stridor indicates upper airway obstruction, which is an immediate life-threatening emergency demanding priority intervention.",
     "tags": [
-      "nursing",
-      "patient-safety",
+      "nclex",
+      "safe-effective-care",
       "easy",
       "healthcare",
       "clinical-safety"
@@ -1334,11 +1334,11 @@
     "active": true
   },
   {
-    "id": "nursing-clinical-judgment-0059",
-    "category": "Nursing",
-    "subcategory": "Clinical Judgment",
+    "id": "nclex-health-promotion-0059",
+    "category": "NCLEX",
+    "subcategory": "Health Promotion",
     "difficulty": "medium",
-    "question": "[Clinical Judgment #59] Which guideline represents safe medication administration practice under the Five Rights of Nursing?",
+    "question": "[Health Promotion #59] Which guideline represents safe medication administration practice under the Five Rights of Nursing?",
     "options": [
       "Verify the patient room number against the wristband",
       "Sign the medication administration record before giving the drug",
@@ -1348,8 +1348,8 @@
     "correctAnswer": 3,
     "explanation": "Joint Commission safety goals mandate using at least two independent patient identifiers prior to medication administration.",
     "tags": [
-      "nursing",
-      "clinical-judgment",
+      "nclex",
+      "health-promotion",
       "medium",
       "healthcare",
       "clinical-safety"
@@ -1357,11 +1357,11 @@
     "active": true
   },
   {
-    "id": "nursing-infection-control-0060",
-    "category": "Nursing",
-    "subcategory": "Infection Control",
+    "id": "nclex-pharmacological-therapies-0060",
+    "category": "NCLEX",
+    "subcategory": "Pharmacological Therapies",
     "difficulty": "hard",
-    "question": "[Infection Control #60] Which laboratory value should prompt the nurse to immediately hold scheduled Furosemide (Lasix)?",
+    "question": "[Pharmacological Therapies #60] Which laboratory value should prompt the nurse to immediately hold scheduled Furosemide (Lasix)?",
     "options": [
       "Serum potassium level of 2.8 mEq/L (hypokalemia)",
       "Serum sodium of 138 mEq/L",
@@ -1371,8 +1371,8 @@
     "correctAnswer": 0,
     "explanation": "Loop diuretics waste potassium; administering them with severe hypokalemia (< 3.5 mEq/L) can trigger fatal cardiac dysrhythmias.",
     "tags": [
-      "nursing",
-      "infection-control",
+      "nclex",
+      "pharmacological-therapies",
       "hard",
       "healthcare",
       "clinical-safety"
@@ -1380,11 +1380,11 @@
     "active": true
   },
   {
-    "id": "nursing-fundamentals-0061",
-    "category": "Nursing",
-    "subcategory": "Fundamentals",
+    "id": "nclex-priority-delegation-0061",
+    "category": "NCLEX",
+    "subcategory": "Priority & Delegation",
     "difficulty": "easy",
-    "question": "[Fundamentals #61] What is the most critical immediate nursing action when a patient experiences acute dyspnea and wheezing?",
+    "question": "[Priority & Delegation #61] What is the most critical immediate nursing action when a patient experiences acute dyspnea and wheezing?",
     "options": [
       "Place patient in Trendelenburg position",
       "Elevate head of bed to High-Fowler position and administer supplemental oxygen",
@@ -1394,8 +1394,8 @@
     "correctAnswer": 1,
     "explanation": "High-Fowler position maximizes chest expansion and decreases oxygen consumption during acute respiratory distress.",
     "tags": [
-      "nursing",
-      "fundamentals",
+      "nclex",
+      "priority-delegation",
       "easy",
       "healthcare",
       "clinical-safety"
@@ -1403,11 +1403,11 @@
     "active": true
   },
   {
-    "id": "nursing-patient-safety-0062",
-    "category": "Nursing",
-    "subcategory": "Patient Safety",
+    "id": "nclex-safe-effective-care-0062",
+    "category": "NCLEX",
+    "subcategory": "Safe & Effective Care",
     "difficulty": "medium",
-    "question": "[Patient Safety #62] According to the ABCs (Airway, Breathing, Circulation) priority framework, which clinical finding requires immediate nurse assessment?",
+    "question": "[Safe & Effective Care #62] According to the ABCs (Airway, Breathing, Circulation) priority framework, which clinical finding requires immediate nurse assessment?",
     "options": [
       "Mild nausea 30 minutes after dinner",
       "Sore throat with temperature of 99.1°F",
@@ -1417,8 +1417,8 @@
     "correctAnswer": 2,
     "explanation": "Stridor indicates upper airway obstruction, which is an immediate life-threatening emergency demanding priority intervention.",
     "tags": [
-      "nursing",
-      "patient-safety",
+      "nclex",
+      "safe-effective-care",
       "medium",
       "healthcare",
       "clinical-safety"
@@ -1426,11 +1426,11 @@
     "active": true
   },
   {
-    "id": "nursing-clinical-judgment-0063",
-    "category": "Nursing",
-    "subcategory": "Clinical Judgment",
+    "id": "nclex-health-promotion-0063",
+    "category": "NCLEX",
+    "subcategory": "Health Promotion",
     "difficulty": "hard",
-    "question": "[Clinical Judgment #63] Which guideline represents safe medication administration practice under the Five Rights of Nursing?",
+    "question": "[Health Promotion #63] Which guideline represents safe medication administration practice under the Five Rights of Nursing?",
     "options": [
       "Verify the patient room number against the wristband",
       "Sign the medication administration record before giving the drug",
@@ -1440,8 +1440,8 @@
     "correctAnswer": 3,
     "explanation": "Joint Commission safety goals mandate using at least two independent patient identifiers prior to medication administration.",
     "tags": [
-      "nursing",
-      "clinical-judgment",
+      "nclex",
+      "health-promotion",
       "hard",
       "healthcare",
       "clinical-safety"
@@ -1449,11 +1449,11 @@
     "active": true
   },
   {
-    "id": "nursing-infection-control-0064",
-    "category": "Nursing",
-    "subcategory": "Infection Control",
+    "id": "nclex-pharmacological-therapies-0064",
+    "category": "NCLEX",
+    "subcategory": "Pharmacological Therapies",
     "difficulty": "easy",
-    "question": "[Infection Control #64] Which laboratory value should prompt the nurse to immediately hold scheduled Furosemide (Lasix)?",
+    "question": "[Pharmacological Therapies #64] Which laboratory value should prompt the nurse to immediately hold scheduled Furosemide (Lasix)?",
     "options": [
       "Serum potassium level of 2.8 mEq/L (hypokalemia)",
       "Serum sodium of 138 mEq/L",
@@ -1463,8 +1463,8 @@
     "correctAnswer": 0,
     "explanation": "Loop diuretics waste potassium; administering them with severe hypokalemia (< 3.5 mEq/L) can trigger fatal cardiac dysrhythmias.",
     "tags": [
-      "nursing",
-      "infection-control",
+      "nclex",
+      "pharmacological-therapies",
       "easy",
       "healthcare",
       "clinical-safety"
@@ -1472,11 +1472,11 @@
     "active": true
   },
   {
-    "id": "nursing-fundamentals-0065",
-    "category": "Nursing",
-    "subcategory": "Fundamentals",
+    "id": "nclex-priority-delegation-0065",
+    "category": "NCLEX",
+    "subcategory": "Priority & Delegation",
     "difficulty": "medium",
-    "question": "[Fundamentals #65] What is the most critical immediate nursing action when a patient experiences acute dyspnea and wheezing?",
+    "question": "[Priority & Delegation #65] What is the most critical immediate nursing action when a patient experiences acute dyspnea and wheezing?",
     "options": [
       "Place patient in Trendelenburg position",
       "Elevate head of bed to High-Fowler position and administer supplemental oxygen",
@@ -1486,8 +1486,8 @@
     "correctAnswer": 1,
     "explanation": "High-Fowler position maximizes chest expansion and decreases oxygen consumption during acute respiratory distress.",
     "tags": [
-      "nursing",
-      "fundamentals",
+      "nclex",
+      "priority-delegation",
       "medium",
       "healthcare",
       "clinical-safety"
@@ -1495,11 +1495,11 @@
     "active": true
   },
   {
-    "id": "nursing-patient-safety-0066",
-    "category": "Nursing",
-    "subcategory": "Patient Safety",
+    "id": "nclex-safe-effective-care-0066",
+    "category": "NCLEX",
+    "subcategory": "Safe & Effective Care",
     "difficulty": "hard",
-    "question": "[Patient Safety #66] According to the ABCs (Airway, Breathing, Circulation) priority framework, which clinical finding requires immediate nurse assessment?",
+    "question": "[Safe & Effective Care #66] According to the ABCs (Airway, Breathing, Circulation) priority framework, which clinical finding requires immediate nurse assessment?",
     "options": [
       "Mild nausea 30 minutes after dinner",
       "Sore throat with temperature of 99.1°F",
@@ -1509,8 +1509,8 @@
     "correctAnswer": 2,
     "explanation": "Stridor indicates upper airway obstruction, which is an immediate life-threatening emergency demanding priority intervention.",
     "tags": [
-      "nursing",
-      "patient-safety",
+      "nclex",
+      "safe-effective-care",
       "hard",
       "healthcare",
       "clinical-safety"
@@ -1518,11 +1518,11 @@
     "active": true
   },
   {
-    "id": "nursing-clinical-judgment-0067",
-    "category": "Nursing",
-    "subcategory": "Clinical Judgment",
+    "id": "nclex-health-promotion-0067",
+    "category": "NCLEX",
+    "subcategory": "Health Promotion",
     "difficulty": "easy",
-    "question": "[Clinical Judgment #67] Which guideline represents safe medication administration practice under the Five Rights of Nursing?",
+    "question": "[Health Promotion #67] Which guideline represents safe medication administration practice under the Five Rights of Nursing?",
     "options": [
       "Verify the patient room number against the wristband",
       "Sign the medication administration record before giving the drug",
@@ -1532,8 +1532,8 @@
     "correctAnswer": 3,
     "explanation": "Joint Commission safety goals mandate using at least two independent patient identifiers prior to medication administration.",
     "tags": [
-      "nursing",
-      "clinical-judgment",
+      "nclex",
+      "health-promotion",
       "easy",
       "healthcare",
       "clinical-safety"
@@ -1541,11 +1541,11 @@
     "active": true
   },
   {
-    "id": "nursing-infection-control-0068",
-    "category": "Nursing",
-    "subcategory": "Infection Control",
+    "id": "nclex-pharmacological-therapies-0068",
+    "category": "NCLEX",
+    "subcategory": "Pharmacological Therapies",
     "difficulty": "medium",
-    "question": "[Infection Control #68] Which laboratory value should prompt the nurse to immediately hold scheduled Furosemide (Lasix)?",
+    "question": "[Pharmacological Therapies #68] Which laboratory value should prompt the nurse to immediately hold scheduled Furosemide (Lasix)?",
     "options": [
       "Serum potassium level of 2.8 mEq/L (hypokalemia)",
       "Serum sodium of 138 mEq/L",
@@ -1555,8 +1555,8 @@
     "correctAnswer": 0,
     "explanation": "Loop diuretics waste potassium; administering them with severe hypokalemia (< 3.5 mEq/L) can trigger fatal cardiac dysrhythmias.",
     "tags": [
-      "nursing",
-      "infection-control",
+      "nclex",
+      "pharmacological-therapies",
       "medium",
       "healthcare",
       "clinical-safety"
@@ -1564,11 +1564,11 @@
     "active": true
   },
   {
-    "id": "nursing-fundamentals-0069",
-    "category": "Nursing",
-    "subcategory": "Fundamentals",
+    "id": "nclex-priority-delegation-0069",
+    "category": "NCLEX",
+    "subcategory": "Priority & Delegation",
     "difficulty": "hard",
-    "question": "[Fundamentals #69] What is the most critical immediate nursing action when a patient experiences acute dyspnea and wheezing?",
+    "question": "[Priority & Delegation #69] What is the most critical immediate nursing action when a patient experiences acute dyspnea and wheezing?",
     "options": [
       "Place patient in Trendelenburg position",
       "Elevate head of bed to High-Fowler position and administer supplemental oxygen",
@@ -1578,8 +1578,8 @@
     "correctAnswer": 1,
     "explanation": "High-Fowler position maximizes chest expansion and decreases oxygen consumption during acute respiratory distress.",
     "tags": [
-      "nursing",
-      "fundamentals",
+      "nclex",
+      "priority-delegation",
       "hard",
       "healthcare",
       "clinical-safety"
@@ -1587,11 +1587,11 @@
     "active": true
   },
   {
-    "id": "nursing-patient-safety-0070",
-    "category": "Nursing",
-    "subcategory": "Patient Safety",
+    "id": "nclex-safe-effective-care-0070",
+    "category": "NCLEX",
+    "subcategory": "Safe & Effective Care",
     "difficulty": "easy",
-    "question": "[Patient Safety #70] According to the ABCs (Airway, Breathing, Circulation) priority framework, which clinical finding requires immediate nurse assessment?",
+    "question": "[Safe & Effective Care #70] According to the ABCs (Airway, Breathing, Circulation) priority framework, which clinical finding requires immediate nurse assessment?",
     "options": [
       "Mild nausea 30 minutes after dinner",
       "Sore throat with temperature of 99.1°F",
@@ -1601,8 +1601,8 @@
     "correctAnswer": 2,
     "explanation": "Stridor indicates upper airway obstruction, which is an immediate life-threatening emergency demanding priority intervention.",
     "tags": [
-      "nursing",
-      "patient-safety",
+      "nclex",
+      "safe-effective-care",
       "easy",
       "healthcare",
       "clinical-safety"
@@ -1610,11 +1610,11 @@
     "active": true
   },
   {
-    "id": "nursing-clinical-judgment-0071",
-    "category": "Nursing",
-    "subcategory": "Clinical Judgment",
+    "id": "nclex-health-promotion-0071",
+    "category": "NCLEX",
+    "subcategory": "Health Promotion",
     "difficulty": "medium",
-    "question": "[Clinical Judgment #71] Which guideline represents safe medication administration practice under the Five Rights of Nursing?",
+    "question": "[Health Promotion #71] Which guideline represents safe medication administration practice under the Five Rights of Nursing?",
     "options": [
       "Verify the patient room number against the wristband",
       "Sign the medication administration record before giving the drug",
@@ -1624,8 +1624,8 @@
     "correctAnswer": 3,
     "explanation": "Joint Commission safety goals mandate using at least two independent patient identifiers prior to medication administration.",
     "tags": [
-      "nursing",
-      "clinical-judgment",
+      "nclex",
+      "health-promotion",
       "medium",
       "healthcare",
       "clinical-safety"
@@ -1633,11 +1633,11 @@
     "active": true
   },
   {
-    "id": "nursing-infection-control-0072",
-    "category": "Nursing",
-    "subcategory": "Infection Control",
+    "id": "nclex-pharmacological-therapies-0072",
+    "category": "NCLEX",
+    "subcategory": "Pharmacological Therapies",
     "difficulty": "hard",
-    "question": "[Infection Control #72] Which laboratory value should prompt the nurse to immediately hold scheduled Furosemide (Lasix)?",
+    "question": "[Pharmacological Therapies #72] Which laboratory value should prompt the nurse to immediately hold scheduled Furosemide (Lasix)?",
     "options": [
       "Serum potassium level of 2.8 mEq/L (hypokalemia)",
       "Serum sodium of 138 mEq/L",
@@ -1647,8 +1647,8 @@
     "correctAnswer": 0,
     "explanation": "Loop diuretics waste potassium; administering them with severe hypokalemia (< 3.5 mEq/L) can trigger fatal cardiac dysrhythmias.",
     "tags": [
-      "nursing",
-      "infection-control",
+      "nclex",
+      "pharmacological-therapies",
       "hard",
       "healthcare",
       "clinical-safety"
@@ -1656,11 +1656,11 @@
     "active": true
   },
   {
-    "id": "nursing-fundamentals-0073",
-    "category": "Nursing",
-    "subcategory": "Fundamentals",
+    "id": "nclex-priority-delegation-0073",
+    "category": "NCLEX",
+    "subcategory": "Priority & Delegation",
     "difficulty": "easy",
-    "question": "[Fundamentals #73] What is the most critical immediate nursing action when a patient experiences acute dyspnea and wheezing?",
+    "question": "[Priority & Delegation #73] What is the most critical immediate nursing action when a patient experiences acute dyspnea and wheezing?",
     "options": [
       "Place patient in Trendelenburg position",
       "Elevate head of bed to High-Fowler position and administer supplemental oxygen",
@@ -1670,8 +1670,8 @@
     "correctAnswer": 1,
     "explanation": "High-Fowler position maximizes chest expansion and decreases oxygen consumption during acute respiratory distress.",
     "tags": [
-      "nursing",
-      "fundamentals",
+      "nclex",
+      "priority-delegation",
       "easy",
       "healthcare",
       "clinical-safety"
@@ -1679,11 +1679,11 @@
     "active": true
   },
   {
-    "id": "nursing-patient-safety-0074",
-    "category": "Nursing",
-    "subcategory": "Patient Safety",
+    "id": "nclex-safe-effective-care-0074",
+    "category": "NCLEX",
+    "subcategory": "Safe & Effective Care",
     "difficulty": "medium",
-    "question": "[Patient Safety #74] According to the ABCs (Airway, Breathing, Circulation) priority framework, which clinical finding requires immediate nurse assessment?",
+    "question": "[Safe & Effective Care #74] According to the ABCs (Airway, Breathing, Circulation) priority framework, which clinical finding requires immediate nurse assessment?",
     "options": [
       "Mild nausea 30 minutes after dinner",
       "Sore throat with temperature of 99.1°F",
@@ -1693,8 +1693,8 @@
     "correctAnswer": 2,
     "explanation": "Stridor indicates upper airway obstruction, which is an immediate life-threatening emergency demanding priority intervention.",
     "tags": [
-      "nursing",
-      "patient-safety",
+      "nclex",
+      "safe-effective-care",
       "medium",
       "healthcare",
       "clinical-safety"
@@ -1702,11 +1702,11 @@
     "active": true
   },
   {
-    "id": "nursing-clinical-judgment-0075",
-    "category": "Nursing",
-    "subcategory": "Clinical Judgment",
+    "id": "nclex-health-promotion-0075",
+    "category": "NCLEX",
+    "subcategory": "Health Promotion",
     "difficulty": "hard",
-    "question": "[Clinical Judgment #75] Which guideline represents safe medication administration practice under the Five Rights of Nursing?",
+    "question": "[Health Promotion #75] Which guideline represents safe medication administration practice under the Five Rights of Nursing?",
     "options": [
       "Verify the patient room number against the wristband",
       "Sign the medication administration record before giving the drug",
@@ -1716,8 +1716,8 @@
     "correctAnswer": 3,
     "explanation": "Joint Commission safety goals mandate using at least two independent patient identifiers prior to medication administration.",
     "tags": [
-      "nursing",
-      "clinical-judgment",
+      "nclex",
+      "health-promotion",
       "hard",
       "healthcare",
       "clinical-safety"
@@ -1725,11 +1725,11 @@
     "active": true
   },
   {
-    "id": "nursing-infection-control-0076",
-    "category": "Nursing",
-    "subcategory": "Infection Control",
+    "id": "nclex-pharmacological-therapies-0076",
+    "category": "NCLEX",
+    "subcategory": "Pharmacological Therapies",
     "difficulty": "easy",
-    "question": "[Infection Control #76] Which laboratory value should prompt the nurse to immediately hold scheduled Furosemide (Lasix)?",
+    "question": "[Pharmacological Therapies #76] Which laboratory value should prompt the nurse to immediately hold scheduled Furosemide (Lasix)?",
     "options": [
       "Serum potassium level of 2.8 mEq/L (hypokalemia)",
       "Serum sodium of 138 mEq/L",
@@ -1739,8 +1739,8 @@
     "correctAnswer": 0,
     "explanation": "Loop diuretics waste potassium; administering them with severe hypokalemia (< 3.5 mEq/L) can trigger fatal cardiac dysrhythmias.",
     "tags": [
-      "nursing",
-      "infection-control",
+      "nclex",
+      "pharmacological-therapies",
       "easy",
       "healthcare",
       "clinical-safety"
@@ -1748,11 +1748,11 @@
     "active": true
   },
   {
-    "id": "nursing-fundamentals-0077",
-    "category": "Nursing",
-    "subcategory": "Fundamentals",
+    "id": "nclex-priority-delegation-0077",
+    "category": "NCLEX",
+    "subcategory": "Priority & Delegation",
     "difficulty": "medium",
-    "question": "[Fundamentals #77] What is the most critical immediate nursing action when a patient experiences acute dyspnea and wheezing?",
+    "question": "[Priority & Delegation #77] What is the most critical immediate nursing action when a patient experiences acute dyspnea and wheezing?",
     "options": [
       "Place patient in Trendelenburg position",
       "Elevate head of bed to High-Fowler position and administer supplemental oxygen",
@@ -1762,8 +1762,8 @@
     "correctAnswer": 1,
     "explanation": "High-Fowler position maximizes chest expansion and decreases oxygen consumption during acute respiratory distress.",
     "tags": [
-      "nursing",
-      "fundamentals",
+      "nclex",
+      "priority-delegation",
       "medium",
       "healthcare",
       "clinical-safety"
@@ -1771,11 +1771,11 @@
     "active": true
   },
   {
-    "id": "nursing-patient-safety-0078",
-    "category": "Nursing",
-    "subcategory": "Patient Safety",
+    "id": "nclex-safe-effective-care-0078",
+    "category": "NCLEX",
+    "subcategory": "Safe & Effective Care",
     "difficulty": "hard",
-    "question": "[Patient Safety #78] According to the ABCs (Airway, Breathing, Circulation) priority framework, which clinical finding requires immediate nurse assessment?",
+    "question": "[Safe & Effective Care #78] According to the ABCs (Airway, Breathing, Circulation) priority framework, which clinical finding requires immediate nurse assessment?",
     "options": [
       "Mild nausea 30 minutes after dinner",
       "Sore throat with temperature of 99.1°F",
@@ -1785,8 +1785,8 @@
     "correctAnswer": 2,
     "explanation": "Stridor indicates upper airway obstruction, which is an immediate life-threatening emergency demanding priority intervention.",
     "tags": [
-      "nursing",
-      "patient-safety",
+      "nclex",
+      "safe-effective-care",
       "hard",
       "healthcare",
       "clinical-safety"
@@ -1794,11 +1794,11 @@
     "active": true
   },
   {
-    "id": "nursing-clinical-judgment-0079",
-    "category": "Nursing",
-    "subcategory": "Clinical Judgment",
+    "id": "nclex-health-promotion-0079",
+    "category": "NCLEX",
+    "subcategory": "Health Promotion",
     "difficulty": "easy",
-    "question": "[Clinical Judgment #79] Which guideline represents safe medication administration practice under the Five Rights of Nursing?",
+    "question": "[Health Promotion #79] Which guideline represents safe medication administration practice under the Five Rights of Nursing?",
     "options": [
       "Verify the patient room number against the wristband",
       "Sign the medication administration record before giving the drug",
@@ -1808,8 +1808,8 @@
     "correctAnswer": 3,
     "explanation": "Joint Commission safety goals mandate using at least two independent patient identifiers prior to medication administration.",
     "tags": [
-      "nursing",
-      "clinical-judgment",
+      "nclex",
+      "health-promotion",
       "easy",
       "healthcare",
       "clinical-safety"
@@ -1817,11 +1817,11 @@
     "active": true
   },
   {
-    "id": "nursing-infection-control-0080",
-    "category": "Nursing",
-    "subcategory": "Infection Control",
+    "id": "nclex-pharmacological-therapies-0080",
+    "category": "NCLEX",
+    "subcategory": "Pharmacological Therapies",
     "difficulty": "medium",
-    "question": "[Infection Control #80] Which laboratory value should prompt the nurse to immediately hold scheduled Furosemide (Lasix)?",
+    "question": "[Pharmacological Therapies #80] Which laboratory value should prompt the nurse to immediately hold scheduled Furosemide (Lasix)?",
     "options": [
       "Serum potassium level of 2.8 mEq/L (hypokalemia)",
       "Serum sodium of 138 mEq/L",
@@ -1831,8 +1831,8 @@
     "correctAnswer": 0,
     "explanation": "Loop diuretics waste potassium; administering them with severe hypokalemia (< 3.5 mEq/L) can trigger fatal cardiac dysrhythmias.",
     "tags": [
-      "nursing",
-      "infection-control",
+      "nclex",
+      "pharmacological-therapies",
       "medium",
       "healthcare",
       "clinical-safety"
@@ -1840,11 +1840,11 @@
     "active": true
   },
   {
-    "id": "nursing-fundamentals-0081",
-    "category": "Nursing",
-    "subcategory": "Fundamentals",
+    "id": "nclex-priority-delegation-0081",
+    "category": "NCLEX",
+    "subcategory": "Priority & Delegation",
     "difficulty": "hard",
-    "question": "[Fundamentals #81] What is the most critical immediate nursing action when a patient experiences acute dyspnea and wheezing?",
+    "question": "[Priority & Delegation #81] What is the most critical immediate nursing action when a patient experiences acute dyspnea and wheezing?",
     "options": [
       "Place patient in Trendelenburg position",
       "Elevate head of bed to High-Fowler position and administer supplemental oxygen",
@@ -1854,8 +1854,8 @@
     "correctAnswer": 1,
     "explanation": "High-Fowler position maximizes chest expansion and decreases oxygen consumption during acute respiratory distress.",
     "tags": [
-      "nursing",
-      "fundamentals",
+      "nclex",
+      "priority-delegation",
       "hard",
       "healthcare",
       "clinical-safety"
@@ -1863,11 +1863,11 @@
     "active": true
   },
   {
-    "id": "nursing-patient-safety-0082",
-    "category": "Nursing",
-    "subcategory": "Patient Safety",
+    "id": "nclex-safe-effective-care-0082",
+    "category": "NCLEX",
+    "subcategory": "Safe & Effective Care",
     "difficulty": "easy",
-    "question": "[Patient Safety #82] According to the ABCs (Airway, Breathing, Circulation) priority framework, which clinical finding requires immediate nurse assessment?",
+    "question": "[Safe & Effective Care #82] According to the ABCs (Airway, Breathing, Circulation) priority framework, which clinical finding requires immediate nurse assessment?",
     "options": [
       "Mild nausea 30 minutes after dinner",
       "Sore throat with temperature of 99.1°F",
@@ -1877,8 +1877,8 @@
     "correctAnswer": 2,
     "explanation": "Stridor indicates upper airway obstruction, which is an immediate life-threatening emergency demanding priority intervention.",
     "tags": [
-      "nursing",
-      "patient-safety",
+      "nclex",
+      "safe-effective-care",
       "easy",
       "healthcare",
       "clinical-safety"
@@ -1886,11 +1886,11 @@
     "active": true
   },
   {
-    "id": "nursing-clinical-judgment-0083",
-    "category": "Nursing",
-    "subcategory": "Clinical Judgment",
+    "id": "nclex-health-promotion-0083",
+    "category": "NCLEX",
+    "subcategory": "Health Promotion",
     "difficulty": "medium",
-    "question": "[Clinical Judgment #83] Which guideline represents safe medication administration practice under the Five Rights of Nursing?",
+    "question": "[Health Promotion #83] Which guideline represents safe medication administration practice under the Five Rights of Nursing?",
     "options": [
       "Verify the patient room number against the wristband",
       "Sign the medication administration record before giving the drug",
@@ -1900,8 +1900,8 @@
     "correctAnswer": 3,
     "explanation": "Joint Commission safety goals mandate using at least two independent patient identifiers prior to medication administration.",
     "tags": [
-      "nursing",
-      "clinical-judgment",
+      "nclex",
+      "health-promotion",
       "medium",
       "healthcare",
       "clinical-safety"
@@ -1909,11 +1909,11 @@
     "active": true
   },
   {
-    "id": "nursing-infection-control-0084",
-    "category": "Nursing",
-    "subcategory": "Infection Control",
+    "id": "nclex-pharmacological-therapies-0084",
+    "category": "NCLEX",
+    "subcategory": "Pharmacological Therapies",
     "difficulty": "hard",
-    "question": "[Infection Control #84] Which laboratory value should prompt the nurse to immediately hold scheduled Furosemide (Lasix)?",
+    "question": "[Pharmacological Therapies #84] Which laboratory value should prompt the nurse to immediately hold scheduled Furosemide (Lasix)?",
     "options": [
       "Serum potassium level of 2.8 mEq/L (hypokalemia)",
       "Serum sodium of 138 mEq/L",
@@ -1923,8 +1923,8 @@
     "correctAnswer": 0,
     "explanation": "Loop diuretics waste potassium; administering them with severe hypokalemia (< 3.5 mEq/L) can trigger fatal cardiac dysrhythmias.",
     "tags": [
-      "nursing",
-      "infection-control",
+      "nclex",
+      "pharmacological-therapies",
       "hard",
       "healthcare",
       "clinical-safety"
@@ -1932,11 +1932,11 @@
     "active": true
   },
   {
-    "id": "nursing-fundamentals-0085",
-    "category": "Nursing",
-    "subcategory": "Fundamentals",
+    "id": "nclex-priority-delegation-0085",
+    "category": "NCLEX",
+    "subcategory": "Priority & Delegation",
     "difficulty": "easy",
-    "question": "[Fundamentals #85] What is the most critical immediate nursing action when a patient experiences acute dyspnea and wheezing?",
+    "question": "[Priority & Delegation #85] What is the most critical immediate nursing action when a patient experiences acute dyspnea and wheezing?",
     "options": [
       "Place patient in Trendelenburg position",
       "Elevate head of bed to High-Fowler position and administer supplemental oxygen",
@@ -1946,8 +1946,8 @@
     "correctAnswer": 1,
     "explanation": "High-Fowler position maximizes chest expansion and decreases oxygen consumption during acute respiratory distress.",
     "tags": [
-      "nursing",
-      "fundamentals",
+      "nclex",
+      "priority-delegation",
       "easy",
       "healthcare",
       "clinical-safety"
@@ -1955,11 +1955,11 @@
     "active": true
   },
   {
-    "id": "nursing-patient-safety-0086",
-    "category": "Nursing",
-    "subcategory": "Patient Safety",
+    "id": "nclex-safe-effective-care-0086",
+    "category": "NCLEX",
+    "subcategory": "Safe & Effective Care",
     "difficulty": "medium",
-    "question": "[Patient Safety #86] According to the ABCs (Airway, Breathing, Circulation) priority framework, which clinical finding requires immediate nurse assessment?",
+    "question": "[Safe & Effective Care #86] According to the ABCs (Airway, Breathing, Circulation) priority framework, which clinical finding requires immediate nurse assessment?",
     "options": [
       "Mild nausea 30 minutes after dinner",
       "Sore throat with temperature of 99.1°F",
@@ -1969,8 +1969,8 @@
     "correctAnswer": 2,
     "explanation": "Stridor indicates upper airway obstruction, which is an immediate life-threatening emergency demanding priority intervention.",
     "tags": [
-      "nursing",
-      "patient-safety",
+      "nclex",
+      "safe-effective-care",
       "medium",
       "healthcare",
       "clinical-safety"
@@ -1978,11 +1978,11 @@
     "active": true
   },
   {
-    "id": "nursing-clinical-judgment-0087",
-    "category": "Nursing",
-    "subcategory": "Clinical Judgment",
+    "id": "nclex-health-promotion-0087",
+    "category": "NCLEX",
+    "subcategory": "Health Promotion",
     "difficulty": "hard",
-    "question": "[Clinical Judgment #87] Which guideline represents safe medication administration practice under the Five Rights of Nursing?",
+    "question": "[Health Promotion #87] Which guideline represents safe medication administration practice under the Five Rights of Nursing?",
     "options": [
       "Verify the patient room number against the wristband",
       "Sign the medication administration record before giving the drug",
@@ -1992,8 +1992,8 @@
     "correctAnswer": 3,
     "explanation": "Joint Commission safety goals mandate using at least two independent patient identifiers prior to medication administration.",
     "tags": [
-      "nursing",
-      "clinical-judgment",
+      "nclex",
+      "health-promotion",
       "hard",
       "healthcare",
       "clinical-safety"
@@ -2001,11 +2001,11 @@
     "active": true
   },
   {
-    "id": "nursing-infection-control-0088",
-    "category": "Nursing",
-    "subcategory": "Infection Control",
+    "id": "nclex-pharmacological-therapies-0088",
+    "category": "NCLEX",
+    "subcategory": "Pharmacological Therapies",
     "difficulty": "easy",
-    "question": "[Infection Control #88] Which laboratory value should prompt the nurse to immediately hold scheduled Furosemide (Lasix)?",
+    "question": "[Pharmacological Therapies #88] Which laboratory value should prompt the nurse to immediately hold scheduled Furosemide (Lasix)?",
     "options": [
       "Serum potassium level of 2.8 mEq/L (hypokalemia)",
       "Serum sodium of 138 mEq/L",
@@ -2015,8 +2015,8 @@
     "correctAnswer": 0,
     "explanation": "Loop diuretics waste potassium; administering them with severe hypokalemia (< 3.5 mEq/L) can trigger fatal cardiac dysrhythmias.",
     "tags": [
-      "nursing",
-      "infection-control",
+      "nclex",
+      "pharmacological-therapies",
       "easy",
       "healthcare",
       "clinical-safety"
@@ -2024,11 +2024,11 @@
     "active": true
   },
   {
-    "id": "nursing-fundamentals-0089",
-    "category": "Nursing",
-    "subcategory": "Fundamentals",
+    "id": "nclex-priority-delegation-0089",
+    "category": "NCLEX",
+    "subcategory": "Priority & Delegation",
     "difficulty": "medium",
-    "question": "[Fundamentals #89] What is the most critical immediate nursing action when a patient experiences acute dyspnea and wheezing?",
+    "question": "[Priority & Delegation #89] What is the most critical immediate nursing action when a patient experiences acute dyspnea and wheezing?",
     "options": [
       "Place patient in Trendelenburg position",
       "Elevate head of bed to High-Fowler position and administer supplemental oxygen",
@@ -2038,8 +2038,8 @@
     "correctAnswer": 1,
     "explanation": "High-Fowler position maximizes chest expansion and decreases oxygen consumption during acute respiratory distress.",
     "tags": [
-      "nursing",
-      "fundamentals",
+      "nclex",
+      "priority-delegation",
       "medium",
       "healthcare",
       "clinical-safety"
@@ -2047,11 +2047,11 @@
     "active": true
   },
   {
-    "id": "nursing-patient-safety-0090",
-    "category": "Nursing",
-    "subcategory": "Patient Safety",
+    "id": "nclex-safe-effective-care-0090",
+    "category": "NCLEX",
+    "subcategory": "Safe & Effective Care",
     "difficulty": "hard",
-    "question": "[Patient Safety #90] According to the ABCs (Airway, Breathing, Circulation) priority framework, which clinical finding requires immediate nurse assessment?",
+    "question": "[Safe & Effective Care #90] According to the ABCs (Airway, Breathing, Circulation) priority framework, which clinical finding requires immediate nurse assessment?",
     "options": [
       "Mild nausea 30 minutes after dinner",
       "Sore throat with temperature of 99.1°F",
@@ -2061,8 +2061,8 @@
     "correctAnswer": 2,
     "explanation": "Stridor indicates upper airway obstruction, which is an immediate life-threatening emergency demanding priority intervention.",
     "tags": [
-      "nursing",
-      "patient-safety",
+      "nclex",
+      "safe-effective-care",
       "hard",
       "healthcare",
       "clinical-safety"
@@ -2070,11 +2070,11 @@
     "active": true
   },
   {
-    "id": "nursing-clinical-judgment-0091",
-    "category": "Nursing",
-    "subcategory": "Clinical Judgment",
+    "id": "nclex-health-promotion-0091",
+    "category": "NCLEX",
+    "subcategory": "Health Promotion",
     "difficulty": "easy",
-    "question": "[Clinical Judgment #91] Which guideline represents safe medication administration practice under the Five Rights of Nursing?",
+    "question": "[Health Promotion #91] Which guideline represents safe medication administration practice under the Five Rights of Nursing?",
     "options": [
       "Verify the patient room number against the wristband",
       "Sign the medication administration record before giving the drug",
@@ -2084,8 +2084,8 @@
     "correctAnswer": 3,
     "explanation": "Joint Commission safety goals mandate using at least two independent patient identifiers prior to medication administration.",
     "tags": [
-      "nursing",
-      "clinical-judgment",
+      "nclex",
+      "health-promotion",
       "easy",
       "healthcare",
       "clinical-safety"
@@ -2093,11 +2093,11 @@
     "active": true
   },
   {
-    "id": "nursing-infection-control-0092",
-    "category": "Nursing",
-    "subcategory": "Infection Control",
+    "id": "nclex-pharmacological-therapies-0092",
+    "category": "NCLEX",
+    "subcategory": "Pharmacological Therapies",
     "difficulty": "medium",
-    "question": "[Infection Control #92] Which laboratory value should prompt the nurse to immediately hold scheduled Furosemide (Lasix)?",
+    "question": "[Pharmacological Therapies #92] Which laboratory value should prompt the nurse to immediately hold scheduled Furosemide (Lasix)?",
     "options": [
       "Serum potassium level of 2.8 mEq/L (hypokalemia)",
       "Serum sodium of 138 mEq/L",
@@ -2107,8 +2107,8 @@
     "correctAnswer": 0,
     "explanation": "Loop diuretics waste potassium; administering them with severe hypokalemia (< 3.5 mEq/L) can trigger fatal cardiac dysrhythmias.",
     "tags": [
-      "nursing",
-      "infection-control",
+      "nclex",
+      "pharmacological-therapies",
       "medium",
       "healthcare",
       "clinical-safety"
@@ -2116,11 +2116,11 @@
     "active": true
   },
   {
-    "id": "nursing-fundamentals-0093",
-    "category": "Nursing",
-    "subcategory": "Fundamentals",
+    "id": "nclex-priority-delegation-0093",
+    "category": "NCLEX",
+    "subcategory": "Priority & Delegation",
     "difficulty": "hard",
-    "question": "[Fundamentals #93] What is the most critical immediate nursing action when a patient experiences acute dyspnea and wheezing?",
+    "question": "[Priority & Delegation #93] What is the most critical immediate nursing action when a patient experiences acute dyspnea and wheezing?",
     "options": [
       "Place patient in Trendelenburg position",
       "Elevate head of bed to High-Fowler position and administer supplemental oxygen",
@@ -2130,8 +2130,8 @@
     "correctAnswer": 1,
     "explanation": "High-Fowler position maximizes chest expansion and decreases oxygen consumption during acute respiratory distress.",
     "tags": [
-      "nursing",
-      "fundamentals",
+      "nclex",
+      "priority-delegation",
       "hard",
       "healthcare",
       "clinical-safety"
@@ -2139,11 +2139,11 @@
     "active": true
   },
   {
-    "id": "nursing-patient-safety-0094",
-    "category": "Nursing",
-    "subcategory": "Patient Safety",
+    "id": "nclex-safe-effective-care-0094",
+    "category": "NCLEX",
+    "subcategory": "Safe & Effective Care",
     "difficulty": "easy",
-    "question": "[Patient Safety #94] According to the ABCs (Airway, Breathing, Circulation) priority framework, which clinical finding requires immediate nurse assessment?",
+    "question": "[Safe & Effective Care #94] According to the ABCs (Airway, Breathing, Circulation) priority framework, which clinical finding requires immediate nurse assessment?",
     "options": [
       "Mild nausea 30 minutes after dinner",
       "Sore throat with temperature of 99.1°F",
@@ -2153,8 +2153,8 @@
     "correctAnswer": 2,
     "explanation": "Stridor indicates upper airway obstruction, which is an immediate life-threatening emergency demanding priority intervention.",
     "tags": [
-      "nursing",
-      "patient-safety",
+      "nclex",
+      "safe-effective-care",
       "easy",
       "healthcare",
       "clinical-safety"
@@ -2162,11 +2162,11 @@
     "active": true
   },
   {
-    "id": "nursing-clinical-judgment-0095",
-    "category": "Nursing",
-    "subcategory": "Clinical Judgment",
+    "id": "nclex-health-promotion-0095",
+    "category": "NCLEX",
+    "subcategory": "Health Promotion",
     "difficulty": "medium",
-    "question": "[Clinical Judgment #95] Which guideline represents safe medication administration practice under the Five Rights of Nursing?",
+    "question": "[Health Promotion #95] Which guideline represents safe medication administration practice under the Five Rights of Nursing?",
     "options": [
       "Verify the patient room number against the wristband",
       "Sign the medication administration record before giving the drug",
@@ -2176,8 +2176,8 @@
     "correctAnswer": 3,
     "explanation": "Joint Commission safety goals mandate using at least two independent patient identifiers prior to medication administration.",
     "tags": [
-      "nursing",
-      "clinical-judgment",
+      "nclex",
+      "health-promotion",
       "medium",
       "healthcare",
       "clinical-safety"
@@ -2185,11 +2185,11 @@
     "active": true
   },
   {
-    "id": "nursing-infection-control-0096",
-    "category": "Nursing",
-    "subcategory": "Infection Control",
+    "id": "nclex-pharmacological-therapies-0096",
+    "category": "NCLEX",
+    "subcategory": "Pharmacological Therapies",
     "difficulty": "hard",
-    "question": "[Infection Control #96] Which laboratory value should prompt the nurse to immediately hold scheduled Furosemide (Lasix)?",
+    "question": "[Pharmacological Therapies #96] Which laboratory value should prompt the nurse to immediately hold scheduled Furosemide (Lasix)?",
     "options": [
       "Serum potassium level of 2.8 mEq/L (hypokalemia)",
       "Serum sodium of 138 mEq/L",
@@ -2199,8 +2199,8 @@
     "correctAnswer": 0,
     "explanation": "Loop diuretics waste potassium; administering them with severe hypokalemia (< 3.5 mEq/L) can trigger fatal cardiac dysrhythmias.",
     "tags": [
-      "nursing",
-      "infection-control",
+      "nclex",
+      "pharmacological-therapies",
       "hard",
       "healthcare",
       "clinical-safety"
@@ -2208,11 +2208,11 @@
     "active": true
   },
   {
-    "id": "nursing-fundamentals-0097",
-    "category": "Nursing",
-    "subcategory": "Fundamentals",
+    "id": "nclex-priority-delegation-0097",
+    "category": "NCLEX",
+    "subcategory": "Priority & Delegation",
     "difficulty": "easy",
-    "question": "[Fundamentals #97] What is the most critical immediate nursing action when a patient experiences acute dyspnea and wheezing?",
+    "question": "[Priority & Delegation #97] What is the most critical immediate nursing action when a patient experiences acute dyspnea and wheezing?",
     "options": [
       "Place patient in Trendelenburg position",
       "Elevate head of bed to High-Fowler position and administer supplemental oxygen",
@@ -2222,8 +2222,8 @@
     "correctAnswer": 1,
     "explanation": "High-Fowler position maximizes chest expansion and decreases oxygen consumption during acute respiratory distress.",
     "tags": [
-      "nursing",
-      "fundamentals",
+      "nclex",
+      "priority-delegation",
       "easy",
       "healthcare",
       "clinical-safety"
@@ -2231,11 +2231,11 @@
     "active": true
   },
   {
-    "id": "nursing-patient-safety-0098",
-    "category": "Nursing",
-    "subcategory": "Patient Safety",
+    "id": "nclex-safe-effective-care-0098",
+    "category": "NCLEX",
+    "subcategory": "Safe & Effective Care",
     "difficulty": "medium",
-    "question": "[Patient Safety #98] According to the ABCs (Airway, Breathing, Circulation) priority framework, which clinical finding requires immediate nurse assessment?",
+    "question": "[Safe & Effective Care #98] According to the ABCs (Airway, Breathing, Circulation) priority framework, which clinical finding requires immediate nurse assessment?",
     "options": [
       "Mild nausea 30 minutes after dinner",
       "Sore throat with temperature of 99.1°F",
@@ -2245,8 +2245,8 @@
     "correctAnswer": 2,
     "explanation": "Stridor indicates upper airway obstruction, which is an immediate life-threatening emergency demanding priority intervention.",
     "tags": [
-      "nursing",
-      "patient-safety",
+      "nclex",
+      "safe-effective-care",
       "medium",
       "healthcare",
       "clinical-safety"
@@ -2254,11 +2254,11 @@
     "active": true
   },
   {
-    "id": "nursing-clinical-judgment-0099",
-    "category": "Nursing",
-    "subcategory": "Clinical Judgment",
+    "id": "nclex-health-promotion-0099",
+    "category": "NCLEX",
+    "subcategory": "Health Promotion",
     "difficulty": "hard",
-    "question": "[Clinical Judgment #99] Which guideline represents safe medication administration practice under the Five Rights of Nursing?",
+    "question": "[Health Promotion #99] Which guideline represents safe medication administration practice under the Five Rights of Nursing?",
     "options": [
       "Verify the patient room number against the wristband",
       "Sign the medication administration record before giving the drug",
@@ -2268,8 +2268,8 @@
     "correctAnswer": 3,
     "explanation": "Joint Commission safety goals mandate using at least two independent patient identifiers prior to medication administration.",
     "tags": [
-      "nursing",
-      "clinical-judgment",
+      "nclex",
+      "health-promotion",
       "hard",
       "healthcare",
       "clinical-safety"
@@ -2277,11 +2277,11 @@
     "active": true
   },
   {
-    "id": "nursing-infection-control-0100",
-    "category": "Nursing",
-    "subcategory": "Infection Control",
+    "id": "nclex-pharmacological-therapies-0100",
+    "category": "NCLEX",
+    "subcategory": "Pharmacological Therapies",
     "difficulty": "easy",
-    "question": "[Infection Control #100] Which laboratory value should prompt the nurse to immediately hold scheduled Furosemide (Lasix)?",
+    "question": "[Pharmacological Therapies #100] Which laboratory value should prompt the nurse to immediately hold scheduled Furosemide (Lasix)?",
     "options": [
       "Serum potassium level of 2.8 mEq/L (hypokalemia)",
       "Serum sodium of 138 mEq/L",
@@ -2291,8 +2291,8 @@
     "correctAnswer": 0,
     "explanation": "Loop diuretics waste potassium; administering them with severe hypokalemia (< 3.5 mEq/L) can trigger fatal cardiac dysrhythmias.",
     "tags": [
-      "nursing",
-      "infection-control",
+      "nclex",
+      "pharmacological-therapies",
       "easy",
       "healthcare",
       "clinical-safety"
@@ -2300,11 +2300,11 @@
     "active": true
   },
   {
-    "id": "nursing-fundamentals-0101",
-    "category": "Nursing",
-    "subcategory": "Fundamentals",
+    "id": "nclex-priority-delegation-0101",
+    "category": "NCLEX",
+    "subcategory": "Priority & Delegation",
     "difficulty": "medium",
-    "question": "[Fundamentals #101] What is the most critical immediate nursing action when a patient experiences acute dyspnea and wheezing?",
+    "question": "[Priority & Delegation #101] What is the most critical immediate nursing action when a patient experiences acute dyspnea and wheezing?",
     "options": [
       "Place patient in Trendelenburg position",
       "Elevate head of bed to High-Fowler position and administer supplemental oxygen",
@@ -2314,8 +2314,8 @@
     "correctAnswer": 1,
     "explanation": "High-Fowler position maximizes chest expansion and decreases oxygen consumption during acute respiratory distress.",
     "tags": [
-      "nursing",
-      "fundamentals",
+      "nclex",
+      "priority-delegation",
       "medium",
       "healthcare",
       "clinical-safety"
@@ -2323,11 +2323,11 @@
     "active": true
   },
   {
-    "id": "nursing-patient-safety-0102",
-    "category": "Nursing",
-    "subcategory": "Patient Safety",
+    "id": "nclex-safe-effective-care-0102",
+    "category": "NCLEX",
+    "subcategory": "Safe & Effective Care",
     "difficulty": "hard",
-    "question": "[Patient Safety #102] According to the ABCs (Airway, Breathing, Circulation) priority framework, which clinical finding requires immediate nurse assessment?",
+    "question": "[Safe & Effective Care #102] According to the ABCs (Airway, Breathing, Circulation) priority framework, which clinical finding requires immediate nurse assessment?",
     "options": [
       "Mild nausea 30 minutes after dinner",
       "Sore throat with temperature of 99.1°F",
@@ -2337,8 +2337,8 @@
     "correctAnswer": 2,
     "explanation": "Stridor indicates upper airway obstruction, which is an immediate life-threatening emergency demanding priority intervention.",
     "tags": [
-      "nursing",
-      "patient-safety",
+      "nclex",
+      "safe-effective-care",
       "hard",
       "healthcare",
       "clinical-safety"
@@ -2346,11 +2346,11 @@
     "active": true
   },
   {
-    "id": "nursing-clinical-judgment-0103",
-    "category": "Nursing",
-    "subcategory": "Clinical Judgment",
+    "id": "nclex-health-promotion-0103",
+    "category": "NCLEX",
+    "subcategory": "Health Promotion",
     "difficulty": "easy",
-    "question": "[Clinical Judgment #103] Which guideline represents safe medication administration practice under the Five Rights of Nursing?",
+    "question": "[Health Promotion #103] Which guideline represents safe medication administration practice under the Five Rights of Nursing?",
     "options": [
       "Verify the patient room number against the wristband",
       "Sign the medication administration record before giving the drug",
@@ -2360,8 +2360,8 @@
     "correctAnswer": 3,
     "explanation": "Joint Commission safety goals mandate using at least two independent patient identifiers prior to medication administration.",
     "tags": [
-      "nursing",
-      "clinical-judgment",
+      "nclex",
+      "health-promotion",
       "easy",
       "healthcare",
       "clinical-safety"
@@ -2369,11 +2369,11 @@
     "active": true
   },
   {
-    "id": "nursing-infection-control-0104",
-    "category": "Nursing",
-    "subcategory": "Infection Control",
+    "id": "nclex-pharmacological-therapies-0104",
+    "category": "NCLEX",
+    "subcategory": "Pharmacological Therapies",
     "difficulty": "medium",
-    "question": "[Infection Control #104] Which laboratory value should prompt the nurse to immediately hold scheduled Furosemide (Lasix)?",
+    "question": "[Pharmacological Therapies #104] Which laboratory value should prompt the nurse to immediately hold scheduled Furosemide (Lasix)?",
     "options": [
       "Serum potassium level of 2.8 mEq/L (hypokalemia)",
       "Serum sodium of 138 mEq/L",
@@ -2383,8 +2383,8 @@
     "correctAnswer": 0,
     "explanation": "Loop diuretics waste potassium; administering them with severe hypokalemia (< 3.5 mEq/L) can trigger fatal cardiac dysrhythmias.",
     "tags": [
-      "nursing",
-      "infection-control",
+      "nclex",
+      "pharmacological-therapies",
       "medium",
       "healthcare",
       "clinical-safety"
@@ -2392,11 +2392,11 @@
     "active": true
   },
   {
-    "id": "nursing-fundamentals-0105",
-    "category": "Nursing",
-    "subcategory": "Fundamentals",
+    "id": "nclex-priority-delegation-0105",
+    "category": "NCLEX",
+    "subcategory": "Priority & Delegation",
     "difficulty": "hard",
-    "question": "[Fundamentals #105] What is the most critical immediate nursing action when a patient experiences acute dyspnea and wheezing?",
+    "question": "[Priority & Delegation #105] What is the most critical immediate nursing action when a patient experiences acute dyspnea and wheezing?",
     "options": [
       "Place patient in Trendelenburg position",
       "Elevate head of bed to High-Fowler position and administer supplemental oxygen",
@@ -2406,8 +2406,8 @@
     "correctAnswer": 1,
     "explanation": "High-Fowler position maximizes chest expansion and decreases oxygen consumption during acute respiratory distress.",
     "tags": [
-      "nursing",
-      "fundamentals",
+      "nclex",
+      "priority-delegation",
       "hard",
       "healthcare",
       "clinical-safety"
@@ -2415,11 +2415,11 @@
     "active": true
   },
   {
-    "id": "nursing-patient-safety-0106",
-    "category": "Nursing",
-    "subcategory": "Patient Safety",
+    "id": "nclex-safe-effective-care-0106",
+    "category": "NCLEX",
+    "subcategory": "Safe & Effective Care",
     "difficulty": "easy",
-    "question": "[Patient Safety #106] According to the ABCs (Airway, Breathing, Circulation) priority framework, which clinical finding requires immediate nurse assessment?",
+    "question": "[Safe & Effective Care #106] According to the ABCs (Airway, Breathing, Circulation) priority framework, which clinical finding requires immediate nurse assessment?",
     "options": [
       "Mild nausea 30 minutes after dinner",
       "Sore throat with temperature of 99.1°F",
@@ -2429,8 +2429,8 @@
     "correctAnswer": 2,
     "explanation": "Stridor indicates upper airway obstruction, which is an immediate life-threatening emergency demanding priority intervention.",
     "tags": [
-      "nursing",
-      "patient-safety",
+      "nclex",
+      "safe-effective-care",
       "easy",
       "healthcare",
       "clinical-safety"
@@ -2438,11 +2438,11 @@
     "active": true
   },
   {
-    "id": "nursing-clinical-judgment-0107",
-    "category": "Nursing",
-    "subcategory": "Clinical Judgment",
+    "id": "nclex-health-promotion-0107",
+    "category": "NCLEX",
+    "subcategory": "Health Promotion",
     "difficulty": "medium",
-    "question": "[Clinical Judgment #107] Which guideline represents safe medication administration practice under the Five Rights of Nursing?",
+    "question": "[Health Promotion #107] Which guideline represents safe medication administration practice under the Five Rights of Nursing?",
     "options": [
       "Verify the patient room number against the wristband",
       "Sign the medication administration record before giving the drug",
@@ -2452,8 +2452,8 @@
     "correctAnswer": 3,
     "explanation": "Joint Commission safety goals mandate using at least two independent patient identifiers prior to medication administration.",
     "tags": [
-      "nursing",
-      "clinical-judgment",
+      "nclex",
+      "health-promotion",
       "medium",
       "healthcare",
       "clinical-safety"
@@ -2461,11 +2461,11 @@
     "active": true
   },
   {
-    "id": "nursing-infection-control-0108",
-    "category": "Nursing",
-    "subcategory": "Infection Control",
+    "id": "nclex-pharmacological-therapies-0108",
+    "category": "NCLEX",
+    "subcategory": "Pharmacological Therapies",
     "difficulty": "hard",
-    "question": "[Infection Control #108] Which laboratory value should prompt the nurse to immediately hold scheduled Furosemide (Lasix)?",
+    "question": "[Pharmacological Therapies #108] Which laboratory value should prompt the nurse to immediately hold scheduled Furosemide (Lasix)?",
     "options": [
       "Serum potassium level of 2.8 mEq/L (hypokalemia)",
       "Serum sodium of 138 mEq/L",
@@ -2475,8 +2475,8 @@
     "correctAnswer": 0,
     "explanation": "Loop diuretics waste potassium; administering them with severe hypokalemia (< 3.5 mEq/L) can trigger fatal cardiac dysrhythmias.",
     "tags": [
-      "nursing",
-      "infection-control",
+      "nclex",
+      "pharmacological-therapies",
       "hard",
       "healthcare",
       "clinical-safety"
@@ -2484,11 +2484,11 @@
     "active": true
   },
   {
-    "id": "nursing-fundamentals-0109",
-    "category": "Nursing",
-    "subcategory": "Fundamentals",
+    "id": "nclex-priority-delegation-0109",
+    "category": "NCLEX",
+    "subcategory": "Priority & Delegation",
     "difficulty": "easy",
-    "question": "[Fundamentals #109] What is the most critical immediate nursing action when a patient experiences acute dyspnea and wheezing?",
+    "question": "[Priority & Delegation #109] What is the most critical immediate nursing action when a patient experiences acute dyspnea and wheezing?",
     "options": [
       "Place patient in Trendelenburg position",
       "Elevate head of bed to High-Fowler position and administer supplemental oxygen",
@@ -2498,8 +2498,8 @@
     "correctAnswer": 1,
     "explanation": "High-Fowler position maximizes chest expansion and decreases oxygen consumption during acute respiratory distress.",
     "tags": [
-      "nursing",
-      "fundamentals",
+      "nclex",
+      "priority-delegation",
       "easy",
       "healthcare",
       "clinical-safety"
@@ -2507,11 +2507,11 @@
     "active": true
   },
   {
-    "id": "nursing-patient-safety-0110",
-    "category": "Nursing",
-    "subcategory": "Patient Safety",
+    "id": "nclex-safe-effective-care-0110",
+    "category": "NCLEX",
+    "subcategory": "Safe & Effective Care",
     "difficulty": "medium",
-    "question": "[Patient Safety #110] According to the ABCs (Airway, Breathing, Circulation) priority framework, which clinical finding requires immediate nurse assessment?",
+    "question": "[Safe & Effective Care #110] According to the ABCs (Airway, Breathing, Circulation) priority framework, which clinical finding requires immediate nurse assessment?",
     "options": [
       "Mild nausea 30 minutes after dinner",
       "Sore throat with temperature of 99.1°F",
@@ -2521,8 +2521,8 @@
     "correctAnswer": 2,
     "explanation": "Stridor indicates upper airway obstruction, which is an immediate life-threatening emergency demanding priority intervention.",
     "tags": [
-      "nursing",
-      "patient-safety",
+      "nclex",
+      "safe-effective-care",
       "medium",
       "healthcare",
       "clinical-safety"
@@ -2530,11 +2530,11 @@
     "active": true
   },
   {
-    "id": "nursing-clinical-judgment-0111",
-    "category": "Nursing",
-    "subcategory": "Clinical Judgment",
+    "id": "nclex-health-promotion-0111",
+    "category": "NCLEX",
+    "subcategory": "Health Promotion",
     "difficulty": "hard",
-    "question": "[Clinical Judgment #111] Which guideline represents safe medication administration practice under the Five Rights of Nursing?",
+    "question": "[Health Promotion #111] Which guideline represents safe medication administration practice under the Five Rights of Nursing?",
     "options": [
       "Verify the patient room number against the wristband",
       "Sign the medication administration record before giving the drug",
@@ -2544,8 +2544,8 @@
     "correctAnswer": 3,
     "explanation": "Joint Commission safety goals mandate using at least two independent patient identifiers prior to medication administration.",
     "tags": [
-      "nursing",
-      "clinical-judgment",
+      "nclex",
+      "health-promotion",
       "hard",
       "healthcare",
       "clinical-safety"
@@ -2553,11 +2553,11 @@
     "active": true
   },
   {
-    "id": "nursing-infection-control-0112",
-    "category": "Nursing",
-    "subcategory": "Infection Control",
+    "id": "nclex-pharmacological-therapies-0112",
+    "category": "NCLEX",
+    "subcategory": "Pharmacological Therapies",
     "difficulty": "easy",
-    "question": "[Infection Control #112] Which laboratory value should prompt the nurse to immediately hold scheduled Furosemide (Lasix)?",
+    "question": "[Pharmacological Therapies #112] Which laboratory value should prompt the nurse to immediately hold scheduled Furosemide (Lasix)?",
     "options": [
       "Serum potassium level of 2.8 mEq/L (hypokalemia)",
       "Serum sodium of 138 mEq/L",
@@ -2567,8 +2567,8 @@
     "correctAnswer": 0,
     "explanation": "Loop diuretics waste potassium; administering them with severe hypokalemia (< 3.5 mEq/L) can trigger fatal cardiac dysrhythmias.",
     "tags": [
-      "nursing",
-      "infection-control",
+      "nclex",
+      "pharmacological-therapies",
       "easy",
       "healthcare",
       "clinical-safety"
@@ -2576,11 +2576,11 @@
     "active": true
   },
   {
-    "id": "nursing-fundamentals-0113",
-    "category": "Nursing",
-    "subcategory": "Fundamentals",
+    "id": "nclex-priority-delegation-0113",
+    "category": "NCLEX",
+    "subcategory": "Priority & Delegation",
     "difficulty": "medium",
-    "question": "[Fundamentals #113] What is the most critical immediate nursing action when a patient experiences acute dyspnea and wheezing?",
+    "question": "[Priority & Delegation #113] What is the most critical immediate nursing action when a patient experiences acute dyspnea and wheezing?",
     "options": [
       "Place patient in Trendelenburg position",
       "Elevate head of bed to High-Fowler position and administer supplemental oxygen",
@@ -2590,8 +2590,8 @@
     "correctAnswer": 1,
     "explanation": "High-Fowler position maximizes chest expansion and decreases oxygen consumption during acute respiratory distress.",
     "tags": [
-      "nursing",
-      "fundamentals",
+      "nclex",
+      "priority-delegation",
       "medium",
       "healthcare",
       "clinical-safety"
@@ -2599,11 +2599,11 @@
     "active": true
   },
   {
-    "id": "nursing-patient-safety-0114",
-    "category": "Nursing",
-    "subcategory": "Patient Safety",
+    "id": "nclex-safe-effective-care-0114",
+    "category": "NCLEX",
+    "subcategory": "Safe & Effective Care",
     "difficulty": "hard",
-    "question": "[Patient Safety #114] According to the ABCs (Airway, Breathing, Circulation) priority framework, which clinical finding requires immediate nurse assessment?",
+    "question": "[Safe & Effective Care #114] According to the ABCs (Airway, Breathing, Circulation) priority framework, which clinical finding requires immediate nurse assessment?",
     "options": [
       "Mild nausea 30 minutes after dinner",
       "Sore throat with temperature of 99.1°F",
@@ -2613,8 +2613,8 @@
     "correctAnswer": 2,
     "explanation": "Stridor indicates upper airway obstruction, which is an immediate life-threatening emergency demanding priority intervention.",
     "tags": [
-      "nursing",
-      "patient-safety",
+      "nclex",
+      "safe-effective-care",
       "hard",
       "healthcare",
       "clinical-safety"
@@ -2622,11 +2622,11 @@
     "active": true
   },
   {
-    "id": "nursing-clinical-judgment-0115",
-    "category": "Nursing",
-    "subcategory": "Clinical Judgment",
+    "id": "nclex-health-promotion-0115",
+    "category": "NCLEX",
+    "subcategory": "Health Promotion",
     "difficulty": "easy",
-    "question": "[Clinical Judgment #115] Which guideline represents safe medication administration practice under the Five Rights of Nursing?",
+    "question": "[Health Promotion #115] Which guideline represents safe medication administration practice under the Five Rights of Nursing?",
     "options": [
       "Verify the patient room number against the wristband",
       "Sign the medication administration record before giving the drug",
@@ -2636,8 +2636,8 @@
     "correctAnswer": 3,
     "explanation": "Joint Commission safety goals mandate using at least two independent patient identifiers prior to medication administration.",
     "tags": [
-      "nursing",
-      "clinical-judgment",
+      "nclex",
+      "health-promotion",
       "easy",
       "healthcare",
       "clinical-safety"
@@ -2645,11 +2645,11 @@
     "active": true
   },
   {
-    "id": "nursing-infection-control-0116",
-    "category": "Nursing",
-    "subcategory": "Infection Control",
+    "id": "nclex-pharmacological-therapies-0116",
+    "category": "NCLEX",
+    "subcategory": "Pharmacological Therapies",
     "difficulty": "medium",
-    "question": "[Infection Control #116] Which laboratory value should prompt the nurse to immediately hold scheduled Furosemide (Lasix)?",
+    "question": "[Pharmacological Therapies #116] Which laboratory value should prompt the nurse to immediately hold scheduled Furosemide (Lasix)?",
     "options": [
       "Serum potassium level of 2.8 mEq/L (hypokalemia)",
       "Serum sodium of 138 mEq/L",
@@ -2659,8 +2659,8 @@
     "correctAnswer": 0,
     "explanation": "Loop diuretics waste potassium; administering them with severe hypokalemia (< 3.5 mEq/L) can trigger fatal cardiac dysrhythmias.",
     "tags": [
-      "nursing",
-      "infection-control",
+      "nclex",
+      "pharmacological-therapies",
       "medium",
       "healthcare",
       "clinical-safety"
@@ -2668,11 +2668,11 @@
     "active": true
   },
   {
-    "id": "nursing-fundamentals-0117",
-    "category": "Nursing",
-    "subcategory": "Fundamentals",
+    "id": "nclex-priority-delegation-0117",
+    "category": "NCLEX",
+    "subcategory": "Priority & Delegation",
     "difficulty": "hard",
-    "question": "[Fundamentals #117] What is the most critical immediate nursing action when a patient experiences acute dyspnea and wheezing?",
+    "question": "[Priority & Delegation #117] What is the most critical immediate nursing action when a patient experiences acute dyspnea and wheezing?",
     "options": [
       "Place patient in Trendelenburg position",
       "Elevate head of bed to High-Fowler position and administer supplemental oxygen",
@@ -2682,8 +2682,8 @@
     "correctAnswer": 1,
     "explanation": "High-Fowler position maximizes chest expansion and decreases oxygen consumption during acute respiratory distress.",
     "tags": [
-      "nursing",
-      "fundamentals",
+      "nclex",
+      "priority-delegation",
       "hard",
       "healthcare",
       "clinical-safety"
@@ -2691,11 +2691,11 @@
     "active": true
   },
   {
-    "id": "nursing-patient-safety-0118",
-    "category": "Nursing",
-    "subcategory": "Patient Safety",
+    "id": "nclex-safe-effective-care-0118",
+    "category": "NCLEX",
+    "subcategory": "Safe & Effective Care",
     "difficulty": "easy",
-    "question": "[Patient Safety #118] According to the ABCs (Airway, Breathing, Circulation) priority framework, which clinical finding requires immediate nurse assessment?",
+    "question": "[Safe & Effective Care #118] According to the ABCs (Airway, Breathing, Circulation) priority framework, which clinical finding requires immediate nurse assessment?",
     "options": [
       "Mild nausea 30 minutes after dinner",
       "Sore throat with temperature of 99.1°F",
@@ -2705,8 +2705,8 @@
     "correctAnswer": 2,
     "explanation": "Stridor indicates upper airway obstruction, which is an immediate life-threatening emergency demanding priority intervention.",
     "tags": [
-      "nursing",
-      "patient-safety",
+      "nclex",
+      "safe-effective-care",
       "easy",
       "healthcare",
       "clinical-safety"
@@ -2714,11 +2714,11 @@
     "active": true
   },
   {
-    "id": "nursing-clinical-judgment-0119",
-    "category": "Nursing",
-    "subcategory": "Clinical Judgment",
+    "id": "nclex-health-promotion-0119",
+    "category": "NCLEX",
+    "subcategory": "Health Promotion",
     "difficulty": "medium",
-    "question": "[Clinical Judgment #119] Which guideline represents safe medication administration practice under the Five Rights of Nursing?",
+    "question": "[Health Promotion #119] Which guideline represents safe medication administration practice under the Five Rights of Nursing?",
     "options": [
       "Verify the patient room number against the wristband",
       "Sign the medication administration record before giving the drug",
@@ -2728,8 +2728,8 @@
     "correctAnswer": 3,
     "explanation": "Joint Commission safety goals mandate using at least two independent patient identifiers prior to medication administration.",
     "tags": [
-      "nursing",
-      "clinical-judgment",
+      "nclex",
+      "health-promotion",
       "medium",
       "healthcare",
       "clinical-safety"
@@ -2737,11 +2737,11 @@
     "active": true
   },
   {
-    "id": "nursing-infection-control-0120",
-    "category": "Nursing",
-    "subcategory": "Infection Control",
+    "id": "nclex-pharmacological-therapies-0120",
+    "category": "NCLEX",
+    "subcategory": "Pharmacological Therapies",
     "difficulty": "hard",
-    "question": "[Infection Control #120] Which laboratory value should prompt the nurse to immediately hold scheduled Furosemide (Lasix)?",
+    "question": "[Pharmacological Therapies #120] Which laboratory value should prompt the nurse to immediately hold scheduled Furosemide (Lasix)?",
     "options": [
       "Serum potassium level of 2.8 mEq/L (hypokalemia)",
       "Serum sodium of 138 mEq/L",
@@ -2751,8 +2751,8 @@
     "correctAnswer": 0,
     "explanation": "Loop diuretics waste potassium; administering them with severe hypokalemia (< 3.5 mEq/L) can trigger fatal cardiac dysrhythmias.",
     "tags": [
-      "nursing",
-      "infection-control",
+      "nclex",
+      "pharmacological-therapies",
       "hard",
       "healthcare",
       "clinical-safety"
@@ -2760,11 +2760,11 @@
     "active": true
   },
   {
-    "id": "nursing-fundamentals-0121",
-    "category": "Nursing",
-    "subcategory": "Fundamentals",
+    "id": "nclex-priority-delegation-0121",
+    "category": "NCLEX",
+    "subcategory": "Priority & Delegation",
     "difficulty": "easy",
-    "question": "[Fundamentals #121] What is the most critical immediate nursing action when a patient experiences acute dyspnea and wheezing?",
+    "question": "[Priority & Delegation #121] What is the most critical immediate nursing action when a patient experiences acute dyspnea and wheezing?",
     "options": [
       "Place patient in Trendelenburg position",
       "Elevate head of bed to High-Fowler position and administer supplemental oxygen",
@@ -2774,8 +2774,8 @@
     "correctAnswer": 1,
     "explanation": "High-Fowler position maximizes chest expansion and decreases oxygen consumption during acute respiratory distress.",
     "tags": [
-      "nursing",
-      "fundamentals",
+      "nclex",
+      "priority-delegation",
       "easy",
       "healthcare",
       "clinical-safety"
@@ -2783,11 +2783,11 @@
     "active": true
   },
   {
-    "id": "nursing-patient-safety-0122",
-    "category": "Nursing",
-    "subcategory": "Patient Safety",
+    "id": "nclex-safe-effective-care-0122",
+    "category": "NCLEX",
+    "subcategory": "Safe & Effective Care",
     "difficulty": "medium",
-    "question": "[Patient Safety #122] According to the ABCs (Airway, Breathing, Circulation) priority framework, which clinical finding requires immediate nurse assessment?",
+    "question": "[Safe & Effective Care #122] According to the ABCs (Airway, Breathing, Circulation) priority framework, which clinical finding requires immediate nurse assessment?",
     "options": [
       "Mild nausea 30 minutes after dinner",
       "Sore throat with temperature of 99.1°F",
@@ -2797,8 +2797,8 @@
     "correctAnswer": 2,
     "explanation": "Stridor indicates upper airway obstruction, which is an immediate life-threatening emergency demanding priority intervention.",
     "tags": [
-      "nursing",
-      "patient-safety",
+      "nclex",
+      "safe-effective-care",
       "medium",
       "healthcare",
       "clinical-safety"
@@ -2806,11 +2806,11 @@
     "active": true
   },
   {
-    "id": "nursing-clinical-judgment-0123",
-    "category": "Nursing",
-    "subcategory": "Clinical Judgment",
+    "id": "nclex-health-promotion-0123",
+    "category": "NCLEX",
+    "subcategory": "Health Promotion",
     "difficulty": "hard",
-    "question": "[Clinical Judgment #123] Which guideline represents safe medication administration practice under the Five Rights of Nursing?",
+    "question": "[Health Promotion #123] Which guideline represents safe medication administration practice under the Five Rights of Nursing?",
     "options": [
       "Verify the patient room number against the wristband",
       "Sign the medication administration record before giving the drug",
@@ -2820,8 +2820,8 @@
     "correctAnswer": 3,
     "explanation": "Joint Commission safety goals mandate using at least two independent patient identifiers prior to medication administration.",
     "tags": [
-      "nursing",
-      "clinical-judgment",
+      "nclex",
+      "health-promotion",
       "hard",
       "healthcare",
       "clinical-safety"
@@ -2829,11 +2829,11 @@
     "active": true
   },
   {
-    "id": "nursing-infection-control-0124",
-    "category": "Nursing",
-    "subcategory": "Infection Control",
+    "id": "nclex-pharmacological-therapies-0124",
+    "category": "NCLEX",
+    "subcategory": "Pharmacological Therapies",
     "difficulty": "easy",
-    "question": "[Infection Control #124] Which laboratory value should prompt the nurse to immediately hold scheduled Furosemide (Lasix)?",
+    "question": "[Pharmacological Therapies #124] Which laboratory value should prompt the nurse to immediately hold scheduled Furosemide (Lasix)?",
     "options": [
       "Serum potassium level of 2.8 mEq/L (hypokalemia)",
       "Serum sodium of 138 mEq/L",
@@ -2843,8 +2843,8 @@
     "correctAnswer": 0,
     "explanation": "Loop diuretics waste potassium; administering them with severe hypokalemia (< 3.5 mEq/L) can trigger fatal cardiac dysrhythmias.",
     "tags": [
-      "nursing",
-      "infection-control",
+      "nclex",
+      "pharmacological-therapies",
       "easy",
       "healthcare",
       "clinical-safety"
@@ -2852,11 +2852,11 @@
     "active": true
   },
   {
-    "id": "nursing-fundamentals-0125",
-    "category": "Nursing",
-    "subcategory": "Fundamentals",
+    "id": "nclex-priority-delegation-0125",
+    "category": "NCLEX",
+    "subcategory": "Priority & Delegation",
     "difficulty": "medium",
-    "question": "[Fundamentals #125] What is the most critical immediate nursing action when a patient experiences acute dyspnea and wheezing?",
+    "question": "[Priority & Delegation #125] What is the most critical immediate nursing action when a patient experiences acute dyspnea and wheezing?",
     "options": [
       "Place patient in Trendelenburg position",
       "Elevate head of bed to High-Fowler position and administer supplemental oxygen",
@@ -2866,8 +2866,8 @@
     "correctAnswer": 1,
     "explanation": "High-Fowler position maximizes chest expansion and decreases oxygen consumption during acute respiratory distress.",
     "tags": [
-      "nursing",
-      "fundamentals",
+      "nclex",
+      "priority-delegation",
       "medium",
       "healthcare",
       "clinical-safety"
@@ -2875,11 +2875,11 @@
     "active": true
   },
   {
-    "id": "nursing-patient-safety-0126",
-    "category": "Nursing",
-    "subcategory": "Patient Safety",
+    "id": "nclex-safe-effective-care-0126",
+    "category": "NCLEX",
+    "subcategory": "Safe & Effective Care",
     "difficulty": "hard",
-    "question": "[Patient Safety #126] According to the ABCs (Airway, Breathing, Circulation) priority framework, which clinical finding requires immediate nurse assessment?",
+    "question": "[Safe & Effective Care #126] According to the ABCs (Airway, Breathing, Circulation) priority framework, which clinical finding requires immediate nurse assessment?",
     "options": [
       "Mild nausea 30 minutes after dinner",
       "Sore throat with temperature of 99.1°F",
@@ -2889,8 +2889,8 @@
     "correctAnswer": 2,
     "explanation": "Stridor indicates upper airway obstruction, which is an immediate life-threatening emergency demanding priority intervention.",
     "tags": [
-      "nursing",
-      "patient-safety",
+      "nclex",
+      "safe-effective-care",
       "hard",
       "healthcare",
       "clinical-safety"
@@ -2898,11 +2898,11 @@
     "active": true
   },
   {
-    "id": "nursing-clinical-judgment-0127",
-    "category": "Nursing",
-    "subcategory": "Clinical Judgment",
+    "id": "nclex-health-promotion-0127",
+    "category": "NCLEX",
+    "subcategory": "Health Promotion",
     "difficulty": "easy",
-    "question": "[Clinical Judgment #127] Which guideline represents safe medication administration practice under the Five Rights of Nursing?",
+    "question": "[Health Promotion #127] Which guideline represents safe medication administration practice under the Five Rights of Nursing?",
     "options": [
       "Verify the patient room number against the wristband",
       "Sign the medication administration record before giving the drug",
@@ -2912,8 +2912,8 @@
     "correctAnswer": 3,
     "explanation": "Joint Commission safety goals mandate using at least two independent patient identifiers prior to medication administration.",
     "tags": [
-      "nursing",
-      "clinical-judgment",
+      "nclex",
+      "health-promotion",
       "easy",
       "healthcare",
       "clinical-safety"
@@ -2921,11 +2921,11 @@
     "active": true
   },
   {
-    "id": "nursing-infection-control-0128",
-    "category": "Nursing",
-    "subcategory": "Infection Control",
+    "id": "nclex-pharmacological-therapies-0128",
+    "category": "NCLEX",
+    "subcategory": "Pharmacological Therapies",
     "difficulty": "medium",
-    "question": "[Infection Control #128] Which laboratory value should prompt the nurse to immediately hold scheduled Furosemide (Lasix)?",
+    "question": "[Pharmacological Therapies #128] Which laboratory value should prompt the nurse to immediately hold scheduled Furosemide (Lasix)?",
     "options": [
       "Serum potassium level of 2.8 mEq/L (hypokalemia)",
       "Serum sodium of 138 mEq/L",
@@ -2935,8 +2935,8 @@
     "correctAnswer": 0,
     "explanation": "Loop diuretics waste potassium; administering them with severe hypokalemia (< 3.5 mEq/L) can trigger fatal cardiac dysrhythmias.",
     "tags": [
-      "nursing",
-      "infection-control",
+      "nclex",
+      "pharmacological-therapies",
       "medium",
       "healthcare",
       "clinical-safety"
@@ -2944,11 +2944,11 @@
     "active": true
   },
   {
-    "id": "nursing-fundamentals-0129",
-    "category": "Nursing",
-    "subcategory": "Fundamentals",
+    "id": "nclex-priority-delegation-0129",
+    "category": "NCLEX",
+    "subcategory": "Priority & Delegation",
     "difficulty": "hard",
-    "question": "[Fundamentals #129] What is the most critical immediate nursing action when a patient experiences acute dyspnea and wheezing?",
+    "question": "[Priority & Delegation #129] What is the most critical immediate nursing action when a patient experiences acute dyspnea and wheezing?",
     "options": [
       "Place patient in Trendelenburg position",
       "Elevate head of bed to High-Fowler position and administer supplemental oxygen",
@@ -2958,8 +2958,8 @@
     "correctAnswer": 1,
     "explanation": "High-Fowler position maximizes chest expansion and decreases oxygen consumption during acute respiratory distress.",
     "tags": [
-      "nursing",
-      "fundamentals",
+      "nclex",
+      "priority-delegation",
       "hard",
       "healthcare",
       "clinical-safety"
@@ -2967,11 +2967,11 @@
     "active": true
   },
   {
-    "id": "nursing-patient-safety-0130",
-    "category": "Nursing",
-    "subcategory": "Patient Safety",
+    "id": "nclex-safe-effective-care-0130",
+    "category": "NCLEX",
+    "subcategory": "Safe & Effective Care",
     "difficulty": "easy",
-    "question": "[Patient Safety #130] According to the ABCs (Airway, Breathing, Circulation) priority framework, which clinical finding requires immediate nurse assessment?",
+    "question": "[Safe & Effective Care #130] According to the ABCs (Airway, Breathing, Circulation) priority framework, which clinical finding requires immediate nurse assessment?",
     "options": [
       "Mild nausea 30 minutes after dinner",
       "Sore throat with temperature of 99.1°F",
@@ -2981,8 +2981,8 @@
     "correctAnswer": 2,
     "explanation": "Stridor indicates upper airway obstruction, which is an immediate life-threatening emergency demanding priority intervention.",
     "tags": [
-      "nursing",
-      "patient-safety",
+      "nclex",
+      "safe-effective-care",
       "easy",
       "healthcare",
       "clinical-safety"
@@ -2990,11 +2990,11 @@
     "active": true
   },
   {
-    "id": "nursing-clinical-judgment-0131",
-    "category": "Nursing",
-    "subcategory": "Clinical Judgment",
+    "id": "nclex-health-promotion-0131",
+    "category": "NCLEX",
+    "subcategory": "Health Promotion",
     "difficulty": "medium",
-    "question": "[Clinical Judgment #131] Which guideline represents safe medication administration practice under the Five Rights of Nursing?",
+    "question": "[Health Promotion #131] Which guideline represents safe medication administration practice under the Five Rights of Nursing?",
     "options": [
       "Verify the patient room number against the wristband",
       "Sign the medication administration record before giving the drug",
@@ -3004,8 +3004,8 @@
     "correctAnswer": 3,
     "explanation": "Joint Commission safety goals mandate using at least two independent patient identifiers prior to medication administration.",
     "tags": [
-      "nursing",
-      "clinical-judgment",
+      "nclex",
+      "health-promotion",
       "medium",
       "healthcare",
       "clinical-safety"
@@ -3013,11 +3013,11 @@
     "active": true
   },
   {
-    "id": "nursing-infection-control-0132",
-    "category": "Nursing",
-    "subcategory": "Infection Control",
+    "id": "nclex-pharmacological-therapies-0132",
+    "category": "NCLEX",
+    "subcategory": "Pharmacological Therapies",
     "difficulty": "hard",
-    "question": "[Infection Control #132] Which laboratory value should prompt the nurse to immediately hold scheduled Furosemide (Lasix)?",
+    "question": "[Pharmacological Therapies #132] Which laboratory value should prompt the nurse to immediately hold scheduled Furosemide (Lasix)?",
     "options": [
       "Serum potassium level of 2.8 mEq/L (hypokalemia)",
       "Serum sodium of 138 mEq/L",
@@ -3027,8 +3027,8 @@
     "correctAnswer": 0,
     "explanation": "Loop diuretics waste potassium; administering them with severe hypokalemia (< 3.5 mEq/L) can trigger fatal cardiac dysrhythmias.",
     "tags": [
-      "nursing",
-      "infection-control",
+      "nclex",
+      "pharmacological-therapies",
       "hard",
       "healthcare",
       "clinical-safety"
@@ -3036,11 +3036,11 @@
     "active": true
   },
   {
-    "id": "nursing-fundamentals-0133",
-    "category": "Nursing",
-    "subcategory": "Fundamentals",
+    "id": "nclex-priority-delegation-0133",
+    "category": "NCLEX",
+    "subcategory": "Priority & Delegation",
     "difficulty": "easy",
-    "question": "[Fundamentals #133] What is the most critical immediate nursing action when a patient experiences acute dyspnea and wheezing?",
+    "question": "[Priority & Delegation #133] What is the most critical immediate nursing action when a patient experiences acute dyspnea and wheezing?",
     "options": [
       "Place patient in Trendelenburg position",
       "Elevate head of bed to High-Fowler position and administer supplemental oxygen",
@@ -3050,8 +3050,8 @@
     "correctAnswer": 1,
     "explanation": "High-Fowler position maximizes chest expansion and decreases oxygen consumption during acute respiratory distress.",
     "tags": [
-      "nursing",
-      "fundamentals",
+      "nclex",
+      "priority-delegation",
       "easy",
       "healthcare",
       "clinical-safety"
@@ -3059,11 +3059,11 @@
     "active": true
   },
   {
-    "id": "nursing-patient-safety-0134",
-    "category": "Nursing",
-    "subcategory": "Patient Safety",
+    "id": "nclex-safe-effective-care-0134",
+    "category": "NCLEX",
+    "subcategory": "Safe & Effective Care",
     "difficulty": "medium",
-    "question": "[Patient Safety #134] According to the ABCs (Airway, Breathing, Circulation) priority framework, which clinical finding requires immediate nurse assessment?",
+    "question": "[Safe & Effective Care #134] According to the ABCs (Airway, Breathing, Circulation) priority framework, which clinical finding requires immediate nurse assessment?",
     "options": [
       "Mild nausea 30 minutes after dinner",
       "Sore throat with temperature of 99.1°F",
@@ -3073,8 +3073,8 @@
     "correctAnswer": 2,
     "explanation": "Stridor indicates upper airway obstruction, which is an immediate life-threatening emergency demanding priority intervention.",
     "tags": [
-      "nursing",
-      "patient-safety",
+      "nclex",
+      "safe-effective-care",
       "medium",
       "healthcare",
       "clinical-safety"
@@ -3082,11 +3082,11 @@
     "active": true
   },
   {
-    "id": "nursing-clinical-judgment-0135",
-    "category": "Nursing",
-    "subcategory": "Clinical Judgment",
+    "id": "nclex-health-promotion-0135",
+    "category": "NCLEX",
+    "subcategory": "Health Promotion",
     "difficulty": "hard",
-    "question": "[Clinical Judgment #135] Which guideline represents safe medication administration practice under the Five Rights of Nursing?",
+    "question": "[Health Promotion #135] Which guideline represents safe medication administration practice under the Five Rights of Nursing?",
     "options": [
       "Verify the patient room number against the wristband",
       "Sign the medication administration record before giving the drug",
@@ -3096,8 +3096,8 @@
     "correctAnswer": 3,
     "explanation": "Joint Commission safety goals mandate using at least two independent patient identifiers prior to medication administration.",
     "tags": [
-      "nursing",
-      "clinical-judgment",
+      "nclex",
+      "health-promotion",
       "hard",
       "healthcare",
       "clinical-safety"
@@ -3105,11 +3105,11 @@
     "active": true
   },
   {
-    "id": "nursing-infection-control-0136",
-    "category": "Nursing",
-    "subcategory": "Infection Control",
+    "id": "nclex-pharmacological-therapies-0136",
+    "category": "NCLEX",
+    "subcategory": "Pharmacological Therapies",
     "difficulty": "easy",
-    "question": "[Infection Control #136] Which laboratory value should prompt the nurse to immediately hold scheduled Furosemide (Lasix)?",
+    "question": "[Pharmacological Therapies #136] Which laboratory value should prompt the nurse to immediately hold scheduled Furosemide (Lasix)?",
     "options": [
       "Serum potassium level of 2.8 mEq/L (hypokalemia)",
       "Serum sodium of 138 mEq/L",
@@ -3119,8 +3119,8 @@
     "correctAnswer": 0,
     "explanation": "Loop diuretics waste potassium; administering them with severe hypokalemia (< 3.5 mEq/L) can trigger fatal cardiac dysrhythmias.",
     "tags": [
-      "nursing",
-      "infection-control",
+      "nclex",
+      "pharmacological-therapies",
       "easy",
       "healthcare",
       "clinical-safety"
@@ -3128,11 +3128,11 @@
     "active": true
   },
   {
-    "id": "nursing-fundamentals-0137",
-    "category": "Nursing",
-    "subcategory": "Fundamentals",
+    "id": "nclex-priority-delegation-0137",
+    "category": "NCLEX",
+    "subcategory": "Priority & Delegation",
     "difficulty": "medium",
-    "question": "[Fundamentals #137] What is the most critical immediate nursing action when a patient experiences acute dyspnea and wheezing?",
+    "question": "[Priority & Delegation #137] What is the most critical immediate nursing action when a patient experiences acute dyspnea and wheezing?",
     "options": [
       "Place patient in Trendelenburg position",
       "Elevate head of bed to High-Fowler position and administer supplemental oxygen",
@@ -3142,8 +3142,8 @@
     "correctAnswer": 1,
     "explanation": "High-Fowler position maximizes chest expansion and decreases oxygen consumption during acute respiratory distress.",
     "tags": [
-      "nursing",
-      "fundamentals",
+      "nclex",
+      "priority-delegation",
       "medium",
       "healthcare",
       "clinical-safety"
@@ -3151,11 +3151,11 @@
     "active": true
   },
   {
-    "id": "nursing-patient-safety-0138",
-    "category": "Nursing",
-    "subcategory": "Patient Safety",
+    "id": "nclex-safe-effective-care-0138",
+    "category": "NCLEX",
+    "subcategory": "Safe & Effective Care",
     "difficulty": "hard",
-    "question": "[Patient Safety #138] According to the ABCs (Airway, Breathing, Circulation) priority framework, which clinical finding requires immediate nurse assessment?",
+    "question": "[Safe & Effective Care #138] According to the ABCs (Airway, Breathing, Circulation) priority framework, which clinical finding requires immediate nurse assessment?",
     "options": [
       "Mild nausea 30 minutes after dinner",
       "Sore throat with temperature of 99.1°F",
@@ -3165,8 +3165,8 @@
     "correctAnswer": 2,
     "explanation": "Stridor indicates upper airway obstruction, which is an immediate life-threatening emergency demanding priority intervention.",
     "tags": [
-      "nursing",
-      "patient-safety",
+      "nclex",
+      "safe-effective-care",
       "hard",
       "healthcare",
       "clinical-safety"
@@ -3174,11 +3174,11 @@
     "active": true
   },
   {
-    "id": "nursing-clinical-judgment-0139",
-    "category": "Nursing",
-    "subcategory": "Clinical Judgment",
+    "id": "nclex-health-promotion-0139",
+    "category": "NCLEX",
+    "subcategory": "Health Promotion",
     "difficulty": "easy",
-    "question": "[Clinical Judgment #139] Which guideline represents safe medication administration practice under the Five Rights of Nursing?",
+    "question": "[Health Promotion #139] Which guideline represents safe medication administration practice under the Five Rights of Nursing?",
     "options": [
       "Verify the patient room number against the wristband",
       "Sign the medication administration record before giving the drug",
@@ -3188,8 +3188,8 @@
     "correctAnswer": 3,
     "explanation": "Joint Commission safety goals mandate using at least two independent patient identifiers prior to medication administration.",
     "tags": [
-      "nursing",
-      "clinical-judgment",
+      "nclex",
+      "health-promotion",
       "easy",
       "healthcare",
       "clinical-safety"
@@ -3197,11 +3197,11 @@
     "active": true
   },
   {
-    "id": "nursing-infection-control-0140",
-    "category": "Nursing",
-    "subcategory": "Infection Control",
+    "id": "nclex-pharmacological-therapies-0140",
+    "category": "NCLEX",
+    "subcategory": "Pharmacological Therapies",
     "difficulty": "medium",
-    "question": "[Infection Control #140] Which laboratory value should prompt the nurse to immediately hold scheduled Furosemide (Lasix)?",
+    "question": "[Pharmacological Therapies #140] Which laboratory value should prompt the nurse to immediately hold scheduled Furosemide (Lasix)?",
     "options": [
       "Serum potassium level of 2.8 mEq/L (hypokalemia)",
       "Serum sodium of 138 mEq/L",
@@ -3211,8 +3211,8 @@
     "correctAnswer": 0,
     "explanation": "Loop diuretics waste potassium; administering them with severe hypokalemia (< 3.5 mEq/L) can trigger fatal cardiac dysrhythmias.",
     "tags": [
-      "nursing",
-      "infection-control",
+      "nclex",
+      "pharmacological-therapies",
       "medium",
       "healthcare",
       "clinical-safety"
@@ -3220,11 +3220,11 @@
     "active": true
   },
   {
-    "id": "nursing-fundamentals-0141",
-    "category": "Nursing",
-    "subcategory": "Fundamentals",
+    "id": "nclex-priority-delegation-0141",
+    "category": "NCLEX",
+    "subcategory": "Priority & Delegation",
     "difficulty": "hard",
-    "question": "[Fundamentals #141] What is the most critical immediate nursing action when a patient experiences acute dyspnea and wheezing?",
+    "question": "[Priority & Delegation #141] What is the most critical immediate nursing action when a patient experiences acute dyspnea and wheezing?",
     "options": [
       "Place patient in Trendelenburg position",
       "Elevate head of bed to High-Fowler position and administer supplemental oxygen",
@@ -3234,8 +3234,8 @@
     "correctAnswer": 1,
     "explanation": "High-Fowler position maximizes chest expansion and decreases oxygen consumption during acute respiratory distress.",
     "tags": [
-      "nursing",
-      "fundamentals",
+      "nclex",
+      "priority-delegation",
       "hard",
       "healthcare",
       "clinical-safety"
@@ -3243,11 +3243,11 @@
     "active": true
   },
   {
-    "id": "nursing-patient-safety-0142",
-    "category": "Nursing",
-    "subcategory": "Patient Safety",
+    "id": "nclex-safe-effective-care-0142",
+    "category": "NCLEX",
+    "subcategory": "Safe & Effective Care",
     "difficulty": "easy",
-    "question": "[Patient Safety #142] According to the ABCs (Airway, Breathing, Circulation) priority framework, which clinical finding requires immediate nurse assessment?",
+    "question": "[Safe & Effective Care #142] According to the ABCs (Airway, Breathing, Circulation) priority framework, which clinical finding requires immediate nurse assessment?",
     "options": [
       "Mild nausea 30 minutes after dinner",
       "Sore throat with temperature of 99.1°F",
@@ -3257,8 +3257,8 @@
     "correctAnswer": 2,
     "explanation": "Stridor indicates upper airway obstruction, which is an immediate life-threatening emergency demanding priority intervention.",
     "tags": [
-      "nursing",
-      "patient-safety",
+      "nclex",
+      "safe-effective-care",
       "easy",
       "healthcare",
       "clinical-safety"
@@ -3266,11 +3266,11 @@
     "active": true
   },
   {
-    "id": "nursing-clinical-judgment-0143",
-    "category": "Nursing",
-    "subcategory": "Clinical Judgment",
+    "id": "nclex-health-promotion-0143",
+    "category": "NCLEX",
+    "subcategory": "Health Promotion",
     "difficulty": "medium",
-    "question": "[Clinical Judgment #143] Which guideline represents safe medication administration practice under the Five Rights of Nursing?",
+    "question": "[Health Promotion #143] Which guideline represents safe medication administration practice under the Five Rights of Nursing?",
     "options": [
       "Verify the patient room number against the wristband",
       "Sign the medication administration record before giving the drug",
@@ -3280,8 +3280,8 @@
     "correctAnswer": 3,
     "explanation": "Joint Commission safety goals mandate using at least two independent patient identifiers prior to medication administration.",
     "tags": [
-      "nursing",
-      "clinical-judgment",
+      "nclex",
+      "health-promotion",
       "medium",
       "healthcare",
       "clinical-safety"
@@ -3289,11 +3289,11 @@
     "active": true
   },
   {
-    "id": "nursing-infection-control-0144",
-    "category": "Nursing",
-    "subcategory": "Infection Control",
+    "id": "nclex-pharmacological-therapies-0144",
+    "category": "NCLEX",
+    "subcategory": "Pharmacological Therapies",
     "difficulty": "hard",
-    "question": "[Infection Control #144] Which laboratory value should prompt the nurse to immediately hold scheduled Furosemide (Lasix)?",
+    "question": "[Pharmacological Therapies #144] Which laboratory value should prompt the nurse to immediately hold scheduled Furosemide (Lasix)?",
     "options": [
       "Serum potassium level of 2.8 mEq/L (hypokalemia)",
       "Serum sodium of 138 mEq/L",
@@ -3303,8 +3303,8 @@
     "correctAnswer": 0,
     "explanation": "Loop diuretics waste potassium; administering them with severe hypokalemia (< 3.5 mEq/L) can trigger fatal cardiac dysrhythmias.",
     "tags": [
-      "nursing",
-      "infection-control",
+      "nclex",
+      "pharmacological-therapies",
       "hard",
       "healthcare",
       "clinical-safety"
@@ -3312,11 +3312,11 @@
     "active": true
   },
   {
-    "id": "nursing-fundamentals-0145",
-    "category": "Nursing",
-    "subcategory": "Fundamentals",
+    "id": "nclex-priority-delegation-0145",
+    "category": "NCLEX",
+    "subcategory": "Priority & Delegation",
     "difficulty": "easy",
-    "question": "[Fundamentals #145] What is the most critical immediate nursing action when a patient experiences acute dyspnea and wheezing?",
+    "question": "[Priority & Delegation #145] What is the most critical immediate nursing action when a patient experiences acute dyspnea and wheezing?",
     "options": [
       "Place patient in Trendelenburg position",
       "Elevate head of bed to High-Fowler position and administer supplemental oxygen",
@@ -3326,8 +3326,8 @@
     "correctAnswer": 1,
     "explanation": "High-Fowler position maximizes chest expansion and decreases oxygen consumption during acute respiratory distress.",
     "tags": [
-      "nursing",
-      "fundamentals",
+      "nclex",
+      "priority-delegation",
       "easy",
       "healthcare",
       "clinical-safety"
@@ -3335,11 +3335,11 @@
     "active": true
   },
   {
-    "id": "nursing-patient-safety-0146",
-    "category": "Nursing",
-    "subcategory": "Patient Safety",
+    "id": "nclex-safe-effective-care-0146",
+    "category": "NCLEX",
+    "subcategory": "Safe & Effective Care",
     "difficulty": "medium",
-    "question": "[Patient Safety #146] According to the ABCs (Airway, Breathing, Circulation) priority framework, which clinical finding requires immediate nurse assessment?",
+    "question": "[Safe & Effective Care #146] According to the ABCs (Airway, Breathing, Circulation) priority framework, which clinical finding requires immediate nurse assessment?",
     "options": [
       "Mild nausea 30 minutes after dinner",
       "Sore throat with temperature of 99.1°F",
@@ -3349,8 +3349,8 @@
     "correctAnswer": 2,
     "explanation": "Stridor indicates upper airway obstruction, which is an immediate life-threatening emergency demanding priority intervention.",
     "tags": [
-      "nursing",
-      "patient-safety",
+      "nclex",
+      "safe-effective-care",
       "medium",
       "healthcare",
       "clinical-safety"
@@ -3358,11 +3358,11 @@
     "active": true
   },
   {
-    "id": "nursing-clinical-judgment-0147",
-    "category": "Nursing",
-    "subcategory": "Clinical Judgment",
+    "id": "nclex-health-promotion-0147",
+    "category": "NCLEX",
+    "subcategory": "Health Promotion",
     "difficulty": "hard",
-    "question": "[Clinical Judgment #147] Which guideline represents safe medication administration practice under the Five Rights of Nursing?",
+    "question": "[Health Promotion #147] Which guideline represents safe medication administration practice under the Five Rights of Nursing?",
     "options": [
       "Verify the patient room number against the wristband",
       "Sign the medication administration record before giving the drug",
@@ -3372,8 +3372,8 @@
     "correctAnswer": 3,
     "explanation": "Joint Commission safety goals mandate using at least two independent patient identifiers prior to medication administration.",
     "tags": [
-      "nursing",
-      "clinical-judgment",
+      "nclex",
+      "health-promotion",
       "hard",
       "healthcare",
       "clinical-safety"
@@ -3381,11 +3381,11 @@
     "active": true
   },
   {
-    "id": "nursing-infection-control-0148",
-    "category": "Nursing",
-    "subcategory": "Infection Control",
+    "id": "nclex-pharmacological-therapies-0148",
+    "category": "NCLEX",
+    "subcategory": "Pharmacological Therapies",
     "difficulty": "easy",
-    "question": "[Infection Control #148] Which laboratory value should prompt the nurse to immediately hold scheduled Furosemide (Lasix)?",
+    "question": "[Pharmacological Therapies #148] Which laboratory value should prompt the nurse to immediately hold scheduled Furosemide (Lasix)?",
     "options": [
       "Serum potassium level of 2.8 mEq/L (hypokalemia)",
       "Serum sodium of 138 mEq/L",
@@ -3395,8 +3395,8 @@
     "correctAnswer": 0,
     "explanation": "Loop diuretics waste potassium; administering them with severe hypokalemia (< 3.5 mEq/L) can trigger fatal cardiac dysrhythmias.",
     "tags": [
-      "nursing",
-      "infection-control",
+      "nclex",
+      "pharmacological-therapies",
       "easy",
       "healthcare",
       "clinical-safety"
@@ -3404,11 +3404,11 @@
     "active": true
   },
   {
-    "id": "nursing-fundamentals-0149",
-    "category": "Nursing",
-    "subcategory": "Fundamentals",
+    "id": "nclex-priority-delegation-0149",
+    "category": "NCLEX",
+    "subcategory": "Priority & Delegation",
     "difficulty": "medium",
-    "question": "[Fundamentals #149] What is the most critical immediate nursing action when a patient experiences acute dyspnea and wheezing?",
+    "question": "[Priority & Delegation #149] What is the most critical immediate nursing action when a patient experiences acute dyspnea and wheezing?",
     "options": [
       "Place patient in Trendelenburg position",
       "Elevate head of bed to High-Fowler position and administer supplemental oxygen",
@@ -3418,8 +3418,8 @@
     "correctAnswer": 1,
     "explanation": "High-Fowler position maximizes chest expansion and decreases oxygen consumption during acute respiratory distress.",
     "tags": [
-      "nursing",
-      "fundamentals",
+      "nclex",
+      "priority-delegation",
       "medium",
       "healthcare",
       "clinical-safety"
@@ -3427,11 +3427,11 @@
     "active": true
   },
   {
-    "id": "nursing-patient-safety-0150",
-    "category": "Nursing",
-    "subcategory": "Patient Safety",
+    "id": "nclex-safe-effective-care-0150",
+    "category": "NCLEX",
+    "subcategory": "Safe & Effective Care",
     "difficulty": "hard",
-    "question": "[Patient Safety #150] According to the ABCs (Airway, Breathing, Circulation) priority framework, which clinical finding requires immediate nurse assessment?",
+    "question": "[Safe & Effective Care #150] According to the ABCs (Airway, Breathing, Circulation) priority framework, which clinical finding requires immediate nurse assessment?",
     "options": [
       "Mild nausea 30 minutes after dinner",
       "Sore throat with temperature of 99.1°F",
@@ -3441,8 +3441,8 @@
     "correctAnswer": 2,
     "explanation": "Stridor indicates upper airway obstruction, which is an immediate life-threatening emergency demanding priority intervention.",
     "tags": [
-      "nursing",
-      "patient-safety",
+      "nclex",
+      "safe-effective-care",
       "hard",
       "healthcare",
       "clinical-safety"

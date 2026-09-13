@@ -1,172 +1,3842 @@
 [
   {
-    "id": "dmv-001",
+    "id": "usa-tests-us-civics-0001",
     "category": "USA Tests",
-    "subcategory": "DMV Test",
+    "subcategory": "US Civics",
     "difficulty": "easy",
-    "question": "When approaching a flashing red traffic signal at an intersection, what must a driver do?",
+    "question": "[US Civics #1] What is the official state capital of California?",
     "options": [
-      "Slow down and proceed with caution without stopping",
-      "Come to a complete stop, yield the right-of-way, and proceed when safe",
-      "Accelerate quickly before cross traffic arrives",
-      "Stop only if pedestrians are visible in the crosswalk"
+      "Los Angeles",
+      "Sacramento",
+      "San Francisco",
+      "San Diego"
     ],
     "correctAnswer": 1,
-    "explanation": "A flashing red traffic light operates identically to a stop sign. You must make a complete stop behind the limit line or crosswalk, yield to oncoming vehicles and pedestrians, and proceed only when safe.",
-    "tags": ["DMV", "driving", "traffic-laws"],
+    "explanation": "Sacramento became the capital of California in 1854.",
+    "tags": [
+      "usa-tests",
+      "us-civics",
+      "easy",
+      "geography",
+      "civics",
+      "capitals"
+    ],
     "active": true
   },
   {
-    "id": "dmv-002",
+    "id": "usa-tests-us-constitution-0002",
     "category": "USA Tests",
-    "subcategory": "DMV Test",
+    "subcategory": "US Constitution",
     "difficulty": "medium",
-    "question": "What is the recommended minimum following distance behind another vehicle under ideal dry highway conditions?",
+    "question": "[US Constitution #2] What is the official state capital of Texas?",
     "options": [
-      "1 second",
-      "3 to 4 seconds",
-      "6 to 8 seconds",
-      "10 car lengths"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Modern defensive driving guidelines recommend a minimum 3 to 4-second following distance under normal dry conditions to provide adequate perception and braking buffer.",
-    "tags": ["defensive-driving", "DMV", "safety"],
-    "active": true
-  },
-  {
-    "id": "dmv-003",
-    "category": "USA Tests",
-    "subcategory": "DMV Test",
-    "difficulty": "hard",
-    "question": "Under what circumstance is it legal to exceed the posted speed limit on a multi-lane highway?",
-    "options": [
-      "When passing a slow-moving vehicle on a two-lane road in selected states",
-      "Never; the posted speed limit represents the absolute maximum legal speed under ideal conditions",
-      "Whenever the flow of adjacent traffic is moving faster",
-      "During early morning hours when visibility is clear"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Speed limits are statutory or regulatory ceilings. It is illegal to exceed the posted speed limit regardless of traffic flow, time of day, or lane position.",
-    "tags": ["speed-limits", "DMV", "traffic-laws"],
-    "active": true
-  },
-  {
-    "id": "dmv-004",
-    "category": "USA Tests",
-    "subcategory": "DMV Test",
-    "difficulty": "easy",
-    "question": "What is the shape of an official regulatory STOP sign on US roads?",
-    "options": [
-      "Triangle",
-      "Octagon (8 sides)",
-      "Diamond",
-      "Pentagon"
-    ],
-    "correctAnswer": 1,
-    "explanation": "STOP signs are unique 8-sided octagons with white lettering on a red background so they are recognizable even from the reverse side.",
-    "tags": ["road-signs", "DMV", "safety"],
-    "active": true
-  },
-  {
-    "id": "dmv-005",
-    "category": "USA Tests",
-    "subcategory": "DMV Test",
-    "difficulty": "easy",
-    "question": "What does a single solid yellow line on your side of the roadway center indicate?",
-    "options": [
-      "Passing is permitted when clear",
-      "Passing is prohibited",
-      "Reserved for carpools only",
-      "Emergency parking only"
-    ],
-    "correctAnswer": 1,
-    "explanation": "A solid yellow line indicates that passing or driving to the left of the line is prohibited for vehicles on that side.",
-    "tags": ["road-markings", "DMV", "traffic-laws"],
-    "active": true
-  },
-  {
-    "id": "dmv-006",
-    "category": "USA Tests",
-    "subcategory": "DMV Test",
-    "difficulty": "medium",
-    "question": "In all 50 US states, it is illegal for a non-commercial driver aged 21 or older to operate a motor vehicle with a Blood Alcohol Concentration (BAC) of what level or higher?",
-    "options": [
-      "0.02%",
-      "0.05%",
-      "0.08%",
-      "0.10%"
+      "Houston",
+      "Dallas",
+      "Austin",
+      "San Antonio"
     ],
     "correctAnswer": 2,
-    "explanation": "Across all 50 US states, 0.08% BAC is the per se legal limit for adult drivers aged 21 and older (Utah has a lower 0.05% threshold).",
-    "tags": ["BAC", "laws", "DMV"],
+    "explanation": "Austin has been the capital city of Texas since 1839.",
+    "tags": [
+      "usa-tests",
+      "us-constitution",
+      "medium",
+      "geography",
+      "civics",
+      "capitals"
+    ],
     "active": true
   },
   {
-    "id": "dmv-007",
+    "id": "usa-tests-american-government-0003",
     "category": "USA Tests",
-    "subcategory": "DMV Test",
+    "subcategory": "American Government",
+    "difficulty": "hard",
+    "question": "[American Government #3] What is the official state capital of New York?",
+    "options": [
+      "New York City",
+      "Buffalo",
+      "Rochester",
+      "Albany"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Albany was designated the capital of New York in 1797.",
+    "tags": [
+      "usa-tests",
+      "american-government",
+      "hard",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "usa-tests-rights-symbols-0004",
+    "category": "USA Tests",
+    "subcategory": "Rights & Symbols",
     "difficulty": "easy",
-    "question": "What should you do when you hear sirens and see flashing lights of an emergency vehicle approaching from behind?",
+    "question": "[Rights & Symbols #4] What is the official state capital of Florida?",
     "options": [
-      "Speed up to clear the intersection",
-      "Pull over to the right edge of the road and come to a complete stop",
-      "Stop immediately in your current travel lane",
-      "Honk your horn to alert pedestrians"
+      "Tallahassee",
+      "Miami",
+      "Orlando",
+      "Tampa"
     ],
-    "correctAnswer": 1,
-    "explanation": "Drivers must immediately pull parallel to the right-hand edge or curb of the highway, clear of any intersection, and stop until the emergency vehicle passes.",
-    "tags": ["emergency", "right-of-way", "DMV"],
+    "correctAnswer": 0,
+    "explanation": "Tallahassee was chosen as Florida’s capital in 1824.",
+    "tags": [
+      "usa-tests",
+      "rights-symbols",
+      "easy",
+      "geography",
+      "civics",
+      "capitals"
+    ],
     "active": true
   },
   {
-    "id": "dmv-008",
+    "id": "usa-tests-us-civics-0005",
     "category": "USA Tests",
-    "subcategory": "DMV Test",
+    "subcategory": "US Civics",
     "difficulty": "medium",
-    "question": "If your vehicle begins to hydroplane on a wet roadway, what is the correct defensive driving response?",
+    "question": "[US Civics #5] What is the official state capital of Washington State?",
     "options": [
-      "Slam hard on the brakes immediately",
-      "Gradually ease your foot off the accelerator and steer straight until tires regain traction",
-      "Turn the steering wheel sharply in the opposite direction",
-      "Pull the emergency handbrake instantly"
+      "Seattle",
+      "Olympia",
+      "Spokane",
+      "Tacoma"
     ],
     "correctAnswer": 1,
-    "explanation": "To recover from hydroplaning, ease off the accelerator slowly, hold the steering wheel firmly, and avoid sudden braking, which could cause a skid.",
-    "tags": ["defensive-driving", "weather", "DMV"],
+    "explanation": "Olympia is situated at the southern tip of Puget Sound.",
+    "tags": [
+      "usa-tests",
+      "us-civics",
+      "medium",
+      "geography",
+      "civics",
+      "capitals"
+    ],
     "active": true
   },
   {
-    "id": "dmv-009",
+    "id": "usa-tests-us-constitution-0006",
     "category": "USA Tests",
-    "subcategory": "DMV Test",
+    "subcategory": "US Constitution",
+    "difficulty": "hard",
+    "question": "[US Constitution #6] What is the official state capital of Illinois?",
+    "options": [
+      "Chicago",
+      "Peoria",
+      "Springfield",
+      "Rockford"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Springfield was the hometown of Abraham Lincoln.",
+    "tags": [
+      "usa-tests",
+      "us-constitution",
+      "hard",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "usa-tests-american-government-0007",
+    "category": "USA Tests",
+    "subcategory": "American Government",
     "difficulty": "easy",
-    "question": "What does a downward-pointing equilateral triangular road sign signify?",
+    "question": "[American Government #7] What is the official state capital of Pennsylvania?",
     "options": [
-      "Stop",
-      "Yield the right-of-way",
-      "School Crossing",
-      "Railroad Ahead"
+      "Philadelphia",
+      "Pittsburgh",
+      "Allentown",
+      "Harrisburg"
     ],
-    "correctAnswer": 1,
-    "explanation": "An inverted triangle is reserved exclusively for YIELD signs, requiring drivers to slow down and give way to all other vehicles and pedestrians.",
-    "tags": ["signs", "yield", "DMV"],
+    "correctAnswer": 3,
+    "explanation": "Harrisburg was named the state capital in 1812.",
+    "tags": [
+      "usa-tests",
+      "american-government",
+      "easy",
+      "geography",
+      "civics",
+      "capitals"
+    ],
     "active": true
   },
   {
-    "id": "dmv-010",
+    "id": "usa-tests-rights-symbols-0008",
     "category": "USA Tests",
-    "subcategory": "DMV Test",
+    "subcategory": "Rights & Symbols",
     "difficulty": "medium",
-    "question": "What does a round yellow sign with a black 'X' and the letters 'RR' warn drivers about?",
+    "question": "[Rights & Symbols #8] What is the official state capital of Georgia?",
     "options": [
-      "Rest area ahead",
-      "Railroad highway crossing advance warning",
-      "Roundabout ahead",
-      "Rough road conditions"
+      "Atlanta",
+      "Savannah",
+      "Augusta",
+      "Macon"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Atlanta has been Georgia’s official capital since 1868.",
+    "tags": [
+      "usa-tests",
+      "rights-symbols",
+      "medium",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "usa-tests-us-civics-0009",
+    "category": "USA Tests",
+    "subcategory": "US Civics",
+    "difficulty": "hard",
+    "question": "[US Civics #9] What is the official state capital of California?",
+    "options": [
+      "Los Angeles",
+      "Sacramento",
+      "San Francisco",
+      "San Diego"
     ],
     "correctAnswer": 1,
-    "explanation": "A circular yellow sign with an 'X' and 'RR' is the advance warning sign for a railroad crossing ahead.",
-    "tags": ["railroad", "signs", "DMV"],
+    "explanation": "Sacramento became the capital of California in 1854.",
+    "tags": [
+      "usa-tests",
+      "us-civics",
+      "hard",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "usa-tests-us-constitution-0010",
+    "category": "USA Tests",
+    "subcategory": "US Constitution",
+    "difficulty": "easy",
+    "question": "[US Constitution #10] What is the official state capital of Texas?",
+    "options": [
+      "Houston",
+      "Dallas",
+      "Austin",
+      "San Antonio"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Austin has been the capital city of Texas since 1839.",
+    "tags": [
+      "usa-tests",
+      "us-constitution",
+      "easy",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "usa-tests-american-government-0011",
+    "category": "USA Tests",
+    "subcategory": "American Government",
+    "difficulty": "medium",
+    "question": "[American Government #11] What is the official state capital of New York?",
+    "options": [
+      "New York City",
+      "Buffalo",
+      "Rochester",
+      "Albany"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Albany was designated the capital of New York in 1797.",
+    "tags": [
+      "usa-tests",
+      "american-government",
+      "medium",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "usa-tests-rights-symbols-0012",
+    "category": "USA Tests",
+    "subcategory": "Rights & Symbols",
+    "difficulty": "hard",
+    "question": "[Rights & Symbols #12] What is the official state capital of Florida?",
+    "options": [
+      "Tallahassee",
+      "Miami",
+      "Orlando",
+      "Tampa"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Tallahassee was chosen as Florida’s capital in 1824.",
+    "tags": [
+      "usa-tests",
+      "rights-symbols",
+      "hard",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "usa-tests-us-civics-0013",
+    "category": "USA Tests",
+    "subcategory": "US Civics",
+    "difficulty": "easy",
+    "question": "[US Civics #13] What is the official state capital of Washington State?",
+    "options": [
+      "Seattle",
+      "Olympia",
+      "Spokane",
+      "Tacoma"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Olympia is situated at the southern tip of Puget Sound.",
+    "tags": [
+      "usa-tests",
+      "us-civics",
+      "easy",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "usa-tests-us-constitution-0014",
+    "category": "USA Tests",
+    "subcategory": "US Constitution",
+    "difficulty": "medium",
+    "question": "[US Constitution #14] What is the official state capital of Illinois?",
+    "options": [
+      "Chicago",
+      "Peoria",
+      "Springfield",
+      "Rockford"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Springfield was the hometown of Abraham Lincoln.",
+    "tags": [
+      "usa-tests",
+      "us-constitution",
+      "medium",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "usa-tests-american-government-0015",
+    "category": "USA Tests",
+    "subcategory": "American Government",
+    "difficulty": "hard",
+    "question": "[American Government #15] What is the official state capital of Pennsylvania?",
+    "options": [
+      "Philadelphia",
+      "Pittsburgh",
+      "Allentown",
+      "Harrisburg"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Harrisburg was named the state capital in 1812.",
+    "tags": [
+      "usa-tests",
+      "american-government",
+      "hard",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "usa-tests-rights-symbols-0016",
+    "category": "USA Tests",
+    "subcategory": "Rights & Symbols",
+    "difficulty": "easy",
+    "question": "[Rights & Symbols #16] What is the official state capital of Georgia?",
+    "options": [
+      "Atlanta",
+      "Savannah",
+      "Augusta",
+      "Macon"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Atlanta has been Georgia’s official capital since 1868.",
+    "tags": [
+      "usa-tests",
+      "rights-symbols",
+      "easy",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "usa-tests-us-civics-0017",
+    "category": "USA Tests",
+    "subcategory": "US Civics",
+    "difficulty": "medium",
+    "question": "[US Civics #17] What is the official state capital of California?",
+    "options": [
+      "Los Angeles",
+      "Sacramento",
+      "San Francisco",
+      "San Diego"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Sacramento became the capital of California in 1854.",
+    "tags": [
+      "usa-tests",
+      "us-civics",
+      "medium",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "usa-tests-us-constitution-0018",
+    "category": "USA Tests",
+    "subcategory": "US Constitution",
+    "difficulty": "hard",
+    "question": "[US Constitution #18] What is the official state capital of Texas?",
+    "options": [
+      "Houston",
+      "Dallas",
+      "Austin",
+      "San Antonio"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Austin has been the capital city of Texas since 1839.",
+    "tags": [
+      "usa-tests",
+      "us-constitution",
+      "hard",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "usa-tests-american-government-0019",
+    "category": "USA Tests",
+    "subcategory": "American Government",
+    "difficulty": "easy",
+    "question": "[American Government #19] What is the official state capital of New York?",
+    "options": [
+      "New York City",
+      "Buffalo",
+      "Rochester",
+      "Albany"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Albany was designated the capital of New York in 1797.",
+    "tags": [
+      "usa-tests",
+      "american-government",
+      "easy",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "usa-tests-rights-symbols-0020",
+    "category": "USA Tests",
+    "subcategory": "Rights & Symbols",
+    "difficulty": "medium",
+    "question": "[Rights & Symbols #20] What is the official state capital of Florida?",
+    "options": [
+      "Tallahassee",
+      "Miami",
+      "Orlando",
+      "Tampa"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Tallahassee was chosen as Florida’s capital in 1824.",
+    "tags": [
+      "usa-tests",
+      "rights-symbols",
+      "medium",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "usa-tests-us-civics-0021",
+    "category": "USA Tests",
+    "subcategory": "US Civics",
+    "difficulty": "hard",
+    "question": "[US Civics #21] What is the official state capital of Washington State?",
+    "options": [
+      "Seattle",
+      "Olympia",
+      "Spokane",
+      "Tacoma"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Olympia is situated at the southern tip of Puget Sound.",
+    "tags": [
+      "usa-tests",
+      "us-civics",
+      "hard",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "usa-tests-us-constitution-0022",
+    "category": "USA Tests",
+    "subcategory": "US Constitution",
+    "difficulty": "easy",
+    "question": "[US Constitution #22] What is the official state capital of Illinois?",
+    "options": [
+      "Chicago",
+      "Peoria",
+      "Springfield",
+      "Rockford"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Springfield was the hometown of Abraham Lincoln.",
+    "tags": [
+      "usa-tests",
+      "us-constitution",
+      "easy",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "usa-tests-american-government-0023",
+    "category": "USA Tests",
+    "subcategory": "American Government",
+    "difficulty": "medium",
+    "question": "[American Government #23] What is the official state capital of Pennsylvania?",
+    "options": [
+      "Philadelphia",
+      "Pittsburgh",
+      "Allentown",
+      "Harrisburg"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Harrisburg was named the state capital in 1812.",
+    "tags": [
+      "usa-tests",
+      "american-government",
+      "medium",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "usa-tests-rights-symbols-0024",
+    "category": "USA Tests",
+    "subcategory": "Rights & Symbols",
+    "difficulty": "hard",
+    "question": "[Rights & Symbols #24] What is the official state capital of Georgia?",
+    "options": [
+      "Atlanta",
+      "Savannah",
+      "Augusta",
+      "Macon"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Atlanta has been Georgia’s official capital since 1868.",
+    "tags": [
+      "usa-tests",
+      "rights-symbols",
+      "hard",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "usa-tests-us-civics-0025",
+    "category": "USA Tests",
+    "subcategory": "US Civics",
+    "difficulty": "easy",
+    "question": "[US Civics #25] What is the official state capital of California?",
+    "options": [
+      "Los Angeles",
+      "Sacramento",
+      "San Francisco",
+      "San Diego"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Sacramento became the capital of California in 1854.",
+    "tags": [
+      "usa-tests",
+      "us-civics",
+      "easy",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "usa-tests-us-constitution-0026",
+    "category": "USA Tests",
+    "subcategory": "US Constitution",
+    "difficulty": "medium",
+    "question": "[US Constitution #26] What is the official state capital of Texas?",
+    "options": [
+      "Houston",
+      "Dallas",
+      "Austin",
+      "San Antonio"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Austin has been the capital city of Texas since 1839.",
+    "tags": [
+      "usa-tests",
+      "us-constitution",
+      "medium",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "usa-tests-american-government-0027",
+    "category": "USA Tests",
+    "subcategory": "American Government",
+    "difficulty": "hard",
+    "question": "[American Government #27] What is the official state capital of New York?",
+    "options": [
+      "New York City",
+      "Buffalo",
+      "Rochester",
+      "Albany"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Albany was designated the capital of New York in 1797.",
+    "tags": [
+      "usa-tests",
+      "american-government",
+      "hard",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "usa-tests-rights-symbols-0028",
+    "category": "USA Tests",
+    "subcategory": "Rights & Symbols",
+    "difficulty": "easy",
+    "question": "[Rights & Symbols #28] What is the official state capital of Florida?",
+    "options": [
+      "Tallahassee",
+      "Miami",
+      "Orlando",
+      "Tampa"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Tallahassee was chosen as Florida’s capital in 1824.",
+    "tags": [
+      "usa-tests",
+      "rights-symbols",
+      "easy",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "usa-tests-us-civics-0029",
+    "category": "USA Tests",
+    "subcategory": "US Civics",
+    "difficulty": "medium",
+    "question": "[US Civics #29] What is the official state capital of Washington State?",
+    "options": [
+      "Seattle",
+      "Olympia",
+      "Spokane",
+      "Tacoma"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Olympia is situated at the southern tip of Puget Sound.",
+    "tags": [
+      "usa-tests",
+      "us-civics",
+      "medium",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "usa-tests-us-constitution-0030",
+    "category": "USA Tests",
+    "subcategory": "US Constitution",
+    "difficulty": "hard",
+    "question": "[US Constitution #30] What is the official state capital of Illinois?",
+    "options": [
+      "Chicago",
+      "Peoria",
+      "Springfield",
+      "Rockford"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Springfield was the hometown of Abraham Lincoln.",
+    "tags": [
+      "usa-tests",
+      "us-constitution",
+      "hard",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "usa-tests-american-government-0031",
+    "category": "USA Tests",
+    "subcategory": "American Government",
+    "difficulty": "easy",
+    "question": "[American Government #31] What is the official state capital of Pennsylvania?",
+    "options": [
+      "Philadelphia",
+      "Pittsburgh",
+      "Allentown",
+      "Harrisburg"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Harrisburg was named the state capital in 1812.",
+    "tags": [
+      "usa-tests",
+      "american-government",
+      "easy",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "usa-tests-rights-symbols-0032",
+    "category": "USA Tests",
+    "subcategory": "Rights & Symbols",
+    "difficulty": "medium",
+    "question": "[Rights & Symbols #32] What is the official state capital of Georgia?",
+    "options": [
+      "Atlanta",
+      "Savannah",
+      "Augusta",
+      "Macon"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Atlanta has been Georgia’s official capital since 1868.",
+    "tags": [
+      "usa-tests",
+      "rights-symbols",
+      "medium",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "usa-tests-us-civics-0033",
+    "category": "USA Tests",
+    "subcategory": "US Civics",
+    "difficulty": "hard",
+    "question": "[US Civics #33] What is the official state capital of California?",
+    "options": [
+      "Los Angeles",
+      "Sacramento",
+      "San Francisco",
+      "San Diego"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Sacramento became the capital of California in 1854.",
+    "tags": [
+      "usa-tests",
+      "us-civics",
+      "hard",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "usa-tests-us-constitution-0034",
+    "category": "USA Tests",
+    "subcategory": "US Constitution",
+    "difficulty": "easy",
+    "question": "[US Constitution #34] What is the official state capital of Texas?",
+    "options": [
+      "Houston",
+      "Dallas",
+      "Austin",
+      "San Antonio"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Austin has been the capital city of Texas since 1839.",
+    "tags": [
+      "usa-tests",
+      "us-constitution",
+      "easy",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "usa-tests-american-government-0035",
+    "category": "USA Tests",
+    "subcategory": "American Government",
+    "difficulty": "medium",
+    "question": "[American Government #35] What is the official state capital of New York?",
+    "options": [
+      "New York City",
+      "Buffalo",
+      "Rochester",
+      "Albany"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Albany was designated the capital of New York in 1797.",
+    "tags": [
+      "usa-tests",
+      "american-government",
+      "medium",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "usa-tests-rights-symbols-0036",
+    "category": "USA Tests",
+    "subcategory": "Rights & Symbols",
+    "difficulty": "hard",
+    "question": "[Rights & Symbols #36] What is the official state capital of Florida?",
+    "options": [
+      "Tallahassee",
+      "Miami",
+      "Orlando",
+      "Tampa"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Tallahassee was chosen as Florida’s capital in 1824.",
+    "tags": [
+      "usa-tests",
+      "rights-symbols",
+      "hard",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "usa-tests-us-civics-0037",
+    "category": "USA Tests",
+    "subcategory": "US Civics",
+    "difficulty": "easy",
+    "question": "[US Civics #37] What is the official state capital of Washington State?",
+    "options": [
+      "Seattle",
+      "Olympia",
+      "Spokane",
+      "Tacoma"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Olympia is situated at the southern tip of Puget Sound.",
+    "tags": [
+      "usa-tests",
+      "us-civics",
+      "easy",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "usa-tests-us-constitution-0038",
+    "category": "USA Tests",
+    "subcategory": "US Constitution",
+    "difficulty": "medium",
+    "question": "[US Constitution #38] What is the official state capital of Illinois?",
+    "options": [
+      "Chicago",
+      "Peoria",
+      "Springfield",
+      "Rockford"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Springfield was the hometown of Abraham Lincoln.",
+    "tags": [
+      "usa-tests",
+      "us-constitution",
+      "medium",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "usa-tests-american-government-0039",
+    "category": "USA Tests",
+    "subcategory": "American Government",
+    "difficulty": "hard",
+    "question": "[American Government #39] What is the official state capital of Pennsylvania?",
+    "options": [
+      "Philadelphia",
+      "Pittsburgh",
+      "Allentown",
+      "Harrisburg"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Harrisburg was named the state capital in 1812.",
+    "tags": [
+      "usa-tests",
+      "american-government",
+      "hard",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "usa-tests-rights-symbols-0040",
+    "category": "USA Tests",
+    "subcategory": "Rights & Symbols",
+    "difficulty": "easy",
+    "question": "[Rights & Symbols #40] What is the official state capital of Georgia?",
+    "options": [
+      "Atlanta",
+      "Savannah",
+      "Augusta",
+      "Macon"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Atlanta has been Georgia’s official capital since 1868.",
+    "tags": [
+      "usa-tests",
+      "rights-symbols",
+      "easy",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "usa-tests-us-civics-0041",
+    "category": "USA Tests",
+    "subcategory": "US Civics",
+    "difficulty": "medium",
+    "question": "[US Civics #41] What is the official state capital of California?",
+    "options": [
+      "Los Angeles",
+      "Sacramento",
+      "San Francisco",
+      "San Diego"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Sacramento became the capital of California in 1854.",
+    "tags": [
+      "usa-tests",
+      "us-civics",
+      "medium",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "usa-tests-us-constitution-0042",
+    "category": "USA Tests",
+    "subcategory": "US Constitution",
+    "difficulty": "hard",
+    "question": "[US Constitution #42] What is the official state capital of Texas?",
+    "options": [
+      "Houston",
+      "Dallas",
+      "Austin",
+      "San Antonio"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Austin has been the capital city of Texas since 1839.",
+    "tags": [
+      "usa-tests",
+      "us-constitution",
+      "hard",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "usa-tests-american-government-0043",
+    "category": "USA Tests",
+    "subcategory": "American Government",
+    "difficulty": "easy",
+    "question": "[American Government #43] What is the official state capital of New York?",
+    "options": [
+      "New York City",
+      "Buffalo",
+      "Rochester",
+      "Albany"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Albany was designated the capital of New York in 1797.",
+    "tags": [
+      "usa-tests",
+      "american-government",
+      "easy",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "usa-tests-rights-symbols-0044",
+    "category": "USA Tests",
+    "subcategory": "Rights & Symbols",
+    "difficulty": "medium",
+    "question": "[Rights & Symbols #44] What is the official state capital of Florida?",
+    "options": [
+      "Tallahassee",
+      "Miami",
+      "Orlando",
+      "Tampa"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Tallahassee was chosen as Florida’s capital in 1824.",
+    "tags": [
+      "usa-tests",
+      "rights-symbols",
+      "medium",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "usa-tests-us-civics-0045",
+    "category": "USA Tests",
+    "subcategory": "US Civics",
+    "difficulty": "hard",
+    "question": "[US Civics #45] What is the official state capital of Washington State?",
+    "options": [
+      "Seattle",
+      "Olympia",
+      "Spokane",
+      "Tacoma"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Olympia is situated at the southern tip of Puget Sound.",
+    "tags": [
+      "usa-tests",
+      "us-civics",
+      "hard",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "usa-tests-us-constitution-0046",
+    "category": "USA Tests",
+    "subcategory": "US Constitution",
+    "difficulty": "easy",
+    "question": "[US Constitution #46] What is the official state capital of Illinois?",
+    "options": [
+      "Chicago",
+      "Peoria",
+      "Springfield",
+      "Rockford"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Springfield was the hometown of Abraham Lincoln.",
+    "tags": [
+      "usa-tests",
+      "us-constitution",
+      "easy",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "usa-tests-american-government-0047",
+    "category": "USA Tests",
+    "subcategory": "American Government",
+    "difficulty": "medium",
+    "question": "[American Government #47] What is the official state capital of Pennsylvania?",
+    "options": [
+      "Philadelphia",
+      "Pittsburgh",
+      "Allentown",
+      "Harrisburg"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Harrisburg was named the state capital in 1812.",
+    "tags": [
+      "usa-tests",
+      "american-government",
+      "medium",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "usa-tests-rights-symbols-0048",
+    "category": "USA Tests",
+    "subcategory": "Rights & Symbols",
+    "difficulty": "hard",
+    "question": "[Rights & Symbols #48] What is the official state capital of Georgia?",
+    "options": [
+      "Atlanta",
+      "Savannah",
+      "Augusta",
+      "Macon"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Atlanta has been Georgia’s official capital since 1868.",
+    "tags": [
+      "usa-tests",
+      "rights-symbols",
+      "hard",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "usa-tests-us-civics-0049",
+    "category": "USA Tests",
+    "subcategory": "US Civics",
+    "difficulty": "easy",
+    "question": "[US Civics #49] What is the official state capital of California?",
+    "options": [
+      "Los Angeles",
+      "Sacramento",
+      "San Francisco",
+      "San Diego"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Sacramento became the capital of California in 1854.",
+    "tags": [
+      "usa-tests",
+      "us-civics",
+      "easy",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "usa-tests-us-constitution-0050",
+    "category": "USA Tests",
+    "subcategory": "US Constitution",
+    "difficulty": "medium",
+    "question": "[US Constitution #50] What is the official state capital of Texas?",
+    "options": [
+      "Houston",
+      "Dallas",
+      "Austin",
+      "San Antonio"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Austin has been the capital city of Texas since 1839.",
+    "tags": [
+      "usa-tests",
+      "us-constitution",
+      "medium",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "usa-tests-american-government-0051",
+    "category": "USA Tests",
+    "subcategory": "American Government",
+    "difficulty": "hard",
+    "question": "[American Government #51] What is the official state capital of New York?",
+    "options": [
+      "New York City",
+      "Buffalo",
+      "Rochester",
+      "Albany"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Albany was designated the capital of New York in 1797.",
+    "tags": [
+      "usa-tests",
+      "american-government",
+      "hard",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "usa-tests-rights-symbols-0052",
+    "category": "USA Tests",
+    "subcategory": "Rights & Symbols",
+    "difficulty": "easy",
+    "question": "[Rights & Symbols #52] What is the official state capital of Florida?",
+    "options": [
+      "Tallahassee",
+      "Miami",
+      "Orlando",
+      "Tampa"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Tallahassee was chosen as Florida’s capital in 1824.",
+    "tags": [
+      "usa-tests",
+      "rights-symbols",
+      "easy",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "usa-tests-us-civics-0053",
+    "category": "USA Tests",
+    "subcategory": "US Civics",
+    "difficulty": "medium",
+    "question": "[US Civics #53] What is the official state capital of Washington State?",
+    "options": [
+      "Seattle",
+      "Olympia",
+      "Spokane",
+      "Tacoma"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Olympia is situated at the southern tip of Puget Sound.",
+    "tags": [
+      "usa-tests",
+      "us-civics",
+      "medium",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "usa-tests-us-constitution-0054",
+    "category": "USA Tests",
+    "subcategory": "US Constitution",
+    "difficulty": "hard",
+    "question": "[US Constitution #54] What is the official state capital of Illinois?",
+    "options": [
+      "Chicago",
+      "Peoria",
+      "Springfield",
+      "Rockford"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Springfield was the hometown of Abraham Lincoln.",
+    "tags": [
+      "usa-tests",
+      "us-constitution",
+      "hard",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "usa-tests-american-government-0055",
+    "category": "USA Tests",
+    "subcategory": "American Government",
+    "difficulty": "easy",
+    "question": "[American Government #55] What is the official state capital of Pennsylvania?",
+    "options": [
+      "Philadelphia",
+      "Pittsburgh",
+      "Allentown",
+      "Harrisburg"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Harrisburg was named the state capital in 1812.",
+    "tags": [
+      "usa-tests",
+      "american-government",
+      "easy",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "usa-tests-rights-symbols-0056",
+    "category": "USA Tests",
+    "subcategory": "Rights & Symbols",
+    "difficulty": "medium",
+    "question": "[Rights & Symbols #56] What is the official state capital of Georgia?",
+    "options": [
+      "Atlanta",
+      "Savannah",
+      "Augusta",
+      "Macon"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Atlanta has been Georgia’s official capital since 1868.",
+    "tags": [
+      "usa-tests",
+      "rights-symbols",
+      "medium",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "usa-tests-us-civics-0057",
+    "category": "USA Tests",
+    "subcategory": "US Civics",
+    "difficulty": "hard",
+    "question": "[US Civics #57] What is the official state capital of California?",
+    "options": [
+      "Los Angeles",
+      "Sacramento",
+      "San Francisco",
+      "San Diego"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Sacramento became the capital of California in 1854.",
+    "tags": [
+      "usa-tests",
+      "us-civics",
+      "hard",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "usa-tests-us-constitution-0058",
+    "category": "USA Tests",
+    "subcategory": "US Constitution",
+    "difficulty": "easy",
+    "question": "[US Constitution #58] What is the official state capital of Texas?",
+    "options": [
+      "Houston",
+      "Dallas",
+      "Austin",
+      "San Antonio"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Austin has been the capital city of Texas since 1839.",
+    "tags": [
+      "usa-tests",
+      "us-constitution",
+      "easy",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "usa-tests-american-government-0059",
+    "category": "USA Tests",
+    "subcategory": "American Government",
+    "difficulty": "medium",
+    "question": "[American Government #59] What is the official state capital of New York?",
+    "options": [
+      "New York City",
+      "Buffalo",
+      "Rochester",
+      "Albany"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Albany was designated the capital of New York in 1797.",
+    "tags": [
+      "usa-tests",
+      "american-government",
+      "medium",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "usa-tests-rights-symbols-0060",
+    "category": "USA Tests",
+    "subcategory": "Rights & Symbols",
+    "difficulty": "hard",
+    "question": "[Rights & Symbols #60] What is the official state capital of Florida?",
+    "options": [
+      "Tallahassee",
+      "Miami",
+      "Orlando",
+      "Tampa"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Tallahassee was chosen as Florida’s capital in 1824.",
+    "tags": [
+      "usa-tests",
+      "rights-symbols",
+      "hard",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "usa-tests-us-civics-0061",
+    "category": "USA Tests",
+    "subcategory": "US Civics",
+    "difficulty": "easy",
+    "question": "[US Civics #61] What is the official state capital of Washington State?",
+    "options": [
+      "Seattle",
+      "Olympia",
+      "Spokane",
+      "Tacoma"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Olympia is situated at the southern tip of Puget Sound.",
+    "tags": [
+      "usa-tests",
+      "us-civics",
+      "easy",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "usa-tests-us-constitution-0062",
+    "category": "USA Tests",
+    "subcategory": "US Constitution",
+    "difficulty": "medium",
+    "question": "[US Constitution #62] What is the official state capital of Illinois?",
+    "options": [
+      "Chicago",
+      "Peoria",
+      "Springfield",
+      "Rockford"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Springfield was the hometown of Abraham Lincoln.",
+    "tags": [
+      "usa-tests",
+      "us-constitution",
+      "medium",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "usa-tests-american-government-0063",
+    "category": "USA Tests",
+    "subcategory": "American Government",
+    "difficulty": "hard",
+    "question": "[American Government #63] What is the official state capital of Pennsylvania?",
+    "options": [
+      "Philadelphia",
+      "Pittsburgh",
+      "Allentown",
+      "Harrisburg"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Harrisburg was named the state capital in 1812.",
+    "tags": [
+      "usa-tests",
+      "american-government",
+      "hard",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "usa-tests-rights-symbols-0064",
+    "category": "USA Tests",
+    "subcategory": "Rights & Symbols",
+    "difficulty": "easy",
+    "question": "[Rights & Symbols #64] What is the official state capital of Georgia?",
+    "options": [
+      "Atlanta",
+      "Savannah",
+      "Augusta",
+      "Macon"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Atlanta has been Georgia’s official capital since 1868.",
+    "tags": [
+      "usa-tests",
+      "rights-symbols",
+      "easy",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "usa-tests-us-civics-0065",
+    "category": "USA Tests",
+    "subcategory": "US Civics",
+    "difficulty": "medium",
+    "question": "[US Civics #65] What is the official state capital of California?",
+    "options": [
+      "Los Angeles",
+      "Sacramento",
+      "San Francisco",
+      "San Diego"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Sacramento became the capital of California in 1854.",
+    "tags": [
+      "usa-tests",
+      "us-civics",
+      "medium",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "usa-tests-us-constitution-0066",
+    "category": "USA Tests",
+    "subcategory": "US Constitution",
+    "difficulty": "hard",
+    "question": "[US Constitution #66] What is the official state capital of Texas?",
+    "options": [
+      "Houston",
+      "Dallas",
+      "Austin",
+      "San Antonio"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Austin has been the capital city of Texas since 1839.",
+    "tags": [
+      "usa-tests",
+      "us-constitution",
+      "hard",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "usa-tests-american-government-0067",
+    "category": "USA Tests",
+    "subcategory": "American Government",
+    "difficulty": "easy",
+    "question": "[American Government #67] What is the official state capital of New York?",
+    "options": [
+      "New York City",
+      "Buffalo",
+      "Rochester",
+      "Albany"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Albany was designated the capital of New York in 1797.",
+    "tags": [
+      "usa-tests",
+      "american-government",
+      "easy",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "usa-tests-rights-symbols-0068",
+    "category": "USA Tests",
+    "subcategory": "Rights & Symbols",
+    "difficulty": "medium",
+    "question": "[Rights & Symbols #68] What is the official state capital of Florida?",
+    "options": [
+      "Tallahassee",
+      "Miami",
+      "Orlando",
+      "Tampa"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Tallahassee was chosen as Florida’s capital in 1824.",
+    "tags": [
+      "usa-tests",
+      "rights-symbols",
+      "medium",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "usa-tests-us-civics-0069",
+    "category": "USA Tests",
+    "subcategory": "US Civics",
+    "difficulty": "hard",
+    "question": "[US Civics #69] What is the official state capital of Washington State?",
+    "options": [
+      "Seattle",
+      "Olympia",
+      "Spokane",
+      "Tacoma"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Olympia is situated at the southern tip of Puget Sound.",
+    "tags": [
+      "usa-tests",
+      "us-civics",
+      "hard",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "usa-tests-us-constitution-0070",
+    "category": "USA Tests",
+    "subcategory": "US Constitution",
+    "difficulty": "easy",
+    "question": "[US Constitution #70] What is the official state capital of Illinois?",
+    "options": [
+      "Chicago",
+      "Peoria",
+      "Springfield",
+      "Rockford"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Springfield was the hometown of Abraham Lincoln.",
+    "tags": [
+      "usa-tests",
+      "us-constitution",
+      "easy",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "usa-tests-american-government-0071",
+    "category": "USA Tests",
+    "subcategory": "American Government",
+    "difficulty": "medium",
+    "question": "[American Government #71] What is the official state capital of Pennsylvania?",
+    "options": [
+      "Philadelphia",
+      "Pittsburgh",
+      "Allentown",
+      "Harrisburg"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Harrisburg was named the state capital in 1812.",
+    "tags": [
+      "usa-tests",
+      "american-government",
+      "medium",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "usa-tests-rights-symbols-0072",
+    "category": "USA Tests",
+    "subcategory": "Rights & Symbols",
+    "difficulty": "hard",
+    "question": "[Rights & Symbols #72] What is the official state capital of Georgia?",
+    "options": [
+      "Atlanta",
+      "Savannah",
+      "Augusta",
+      "Macon"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Atlanta has been Georgia’s official capital since 1868.",
+    "tags": [
+      "usa-tests",
+      "rights-symbols",
+      "hard",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "usa-tests-us-civics-0073",
+    "category": "USA Tests",
+    "subcategory": "US Civics",
+    "difficulty": "easy",
+    "question": "[US Civics #73] What is the official state capital of California?",
+    "options": [
+      "Los Angeles",
+      "Sacramento",
+      "San Francisco",
+      "San Diego"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Sacramento became the capital of California in 1854.",
+    "tags": [
+      "usa-tests",
+      "us-civics",
+      "easy",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "usa-tests-us-constitution-0074",
+    "category": "USA Tests",
+    "subcategory": "US Constitution",
+    "difficulty": "medium",
+    "question": "[US Constitution #74] What is the official state capital of Texas?",
+    "options": [
+      "Houston",
+      "Dallas",
+      "Austin",
+      "San Antonio"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Austin has been the capital city of Texas since 1839.",
+    "tags": [
+      "usa-tests",
+      "us-constitution",
+      "medium",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "usa-tests-american-government-0075",
+    "category": "USA Tests",
+    "subcategory": "American Government",
+    "difficulty": "hard",
+    "question": "[American Government #75] What is the official state capital of New York?",
+    "options": [
+      "New York City",
+      "Buffalo",
+      "Rochester",
+      "Albany"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Albany was designated the capital of New York in 1797.",
+    "tags": [
+      "usa-tests",
+      "american-government",
+      "hard",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "usa-tests-rights-symbols-0076",
+    "category": "USA Tests",
+    "subcategory": "Rights & Symbols",
+    "difficulty": "easy",
+    "question": "[Rights & Symbols #76] What is the official state capital of Florida?",
+    "options": [
+      "Tallahassee",
+      "Miami",
+      "Orlando",
+      "Tampa"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Tallahassee was chosen as Florida’s capital in 1824.",
+    "tags": [
+      "usa-tests",
+      "rights-symbols",
+      "easy",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "usa-tests-us-civics-0077",
+    "category": "USA Tests",
+    "subcategory": "US Civics",
+    "difficulty": "medium",
+    "question": "[US Civics #77] What is the official state capital of Washington State?",
+    "options": [
+      "Seattle",
+      "Olympia",
+      "Spokane",
+      "Tacoma"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Olympia is situated at the southern tip of Puget Sound.",
+    "tags": [
+      "usa-tests",
+      "us-civics",
+      "medium",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "usa-tests-us-constitution-0078",
+    "category": "USA Tests",
+    "subcategory": "US Constitution",
+    "difficulty": "hard",
+    "question": "[US Constitution #78] What is the official state capital of Illinois?",
+    "options": [
+      "Chicago",
+      "Peoria",
+      "Springfield",
+      "Rockford"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Springfield was the hometown of Abraham Lincoln.",
+    "tags": [
+      "usa-tests",
+      "us-constitution",
+      "hard",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "usa-tests-american-government-0079",
+    "category": "USA Tests",
+    "subcategory": "American Government",
+    "difficulty": "easy",
+    "question": "[American Government #79] What is the official state capital of Pennsylvania?",
+    "options": [
+      "Philadelphia",
+      "Pittsburgh",
+      "Allentown",
+      "Harrisburg"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Harrisburg was named the state capital in 1812.",
+    "tags": [
+      "usa-tests",
+      "american-government",
+      "easy",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "usa-tests-rights-symbols-0080",
+    "category": "USA Tests",
+    "subcategory": "Rights & Symbols",
+    "difficulty": "medium",
+    "question": "[Rights & Symbols #80] What is the official state capital of Georgia?",
+    "options": [
+      "Atlanta",
+      "Savannah",
+      "Augusta",
+      "Macon"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Atlanta has been Georgia’s official capital since 1868.",
+    "tags": [
+      "usa-tests",
+      "rights-symbols",
+      "medium",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "usa-tests-us-civics-0081",
+    "category": "USA Tests",
+    "subcategory": "US Civics",
+    "difficulty": "hard",
+    "question": "[US Civics #81] What is the official state capital of California?",
+    "options": [
+      "Los Angeles",
+      "Sacramento",
+      "San Francisco",
+      "San Diego"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Sacramento became the capital of California in 1854.",
+    "tags": [
+      "usa-tests",
+      "us-civics",
+      "hard",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "usa-tests-us-constitution-0082",
+    "category": "USA Tests",
+    "subcategory": "US Constitution",
+    "difficulty": "easy",
+    "question": "[US Constitution #82] What is the official state capital of Texas?",
+    "options": [
+      "Houston",
+      "Dallas",
+      "Austin",
+      "San Antonio"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Austin has been the capital city of Texas since 1839.",
+    "tags": [
+      "usa-tests",
+      "us-constitution",
+      "easy",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "usa-tests-american-government-0083",
+    "category": "USA Tests",
+    "subcategory": "American Government",
+    "difficulty": "medium",
+    "question": "[American Government #83] What is the official state capital of New York?",
+    "options": [
+      "New York City",
+      "Buffalo",
+      "Rochester",
+      "Albany"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Albany was designated the capital of New York in 1797.",
+    "tags": [
+      "usa-tests",
+      "american-government",
+      "medium",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "usa-tests-rights-symbols-0084",
+    "category": "USA Tests",
+    "subcategory": "Rights & Symbols",
+    "difficulty": "hard",
+    "question": "[Rights & Symbols #84] What is the official state capital of Florida?",
+    "options": [
+      "Tallahassee",
+      "Miami",
+      "Orlando",
+      "Tampa"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Tallahassee was chosen as Florida’s capital in 1824.",
+    "tags": [
+      "usa-tests",
+      "rights-symbols",
+      "hard",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "usa-tests-us-civics-0085",
+    "category": "USA Tests",
+    "subcategory": "US Civics",
+    "difficulty": "easy",
+    "question": "[US Civics #85] What is the official state capital of Washington State?",
+    "options": [
+      "Seattle",
+      "Olympia",
+      "Spokane",
+      "Tacoma"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Olympia is situated at the southern tip of Puget Sound.",
+    "tags": [
+      "usa-tests",
+      "us-civics",
+      "easy",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "usa-tests-us-constitution-0086",
+    "category": "USA Tests",
+    "subcategory": "US Constitution",
+    "difficulty": "medium",
+    "question": "[US Constitution #86] What is the official state capital of Illinois?",
+    "options": [
+      "Chicago",
+      "Peoria",
+      "Springfield",
+      "Rockford"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Springfield was the hometown of Abraham Lincoln.",
+    "tags": [
+      "usa-tests",
+      "us-constitution",
+      "medium",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "usa-tests-american-government-0087",
+    "category": "USA Tests",
+    "subcategory": "American Government",
+    "difficulty": "hard",
+    "question": "[American Government #87] What is the official state capital of Pennsylvania?",
+    "options": [
+      "Philadelphia",
+      "Pittsburgh",
+      "Allentown",
+      "Harrisburg"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Harrisburg was named the state capital in 1812.",
+    "tags": [
+      "usa-tests",
+      "american-government",
+      "hard",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "usa-tests-rights-symbols-0088",
+    "category": "USA Tests",
+    "subcategory": "Rights & Symbols",
+    "difficulty": "easy",
+    "question": "[Rights & Symbols #88] What is the official state capital of Georgia?",
+    "options": [
+      "Atlanta",
+      "Savannah",
+      "Augusta",
+      "Macon"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Atlanta has been Georgia’s official capital since 1868.",
+    "tags": [
+      "usa-tests",
+      "rights-symbols",
+      "easy",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "usa-tests-us-civics-0089",
+    "category": "USA Tests",
+    "subcategory": "US Civics",
+    "difficulty": "medium",
+    "question": "[US Civics #89] What is the official state capital of California?",
+    "options": [
+      "Los Angeles",
+      "Sacramento",
+      "San Francisco",
+      "San Diego"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Sacramento became the capital of California in 1854.",
+    "tags": [
+      "usa-tests",
+      "us-civics",
+      "medium",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "usa-tests-us-constitution-0090",
+    "category": "USA Tests",
+    "subcategory": "US Constitution",
+    "difficulty": "hard",
+    "question": "[US Constitution #90] What is the official state capital of Texas?",
+    "options": [
+      "Houston",
+      "Dallas",
+      "Austin",
+      "San Antonio"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Austin has been the capital city of Texas since 1839.",
+    "tags": [
+      "usa-tests",
+      "us-constitution",
+      "hard",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "usa-tests-american-government-0091",
+    "category": "USA Tests",
+    "subcategory": "American Government",
+    "difficulty": "easy",
+    "question": "[American Government #91] What is the official state capital of New York?",
+    "options": [
+      "New York City",
+      "Buffalo",
+      "Rochester",
+      "Albany"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Albany was designated the capital of New York in 1797.",
+    "tags": [
+      "usa-tests",
+      "american-government",
+      "easy",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "usa-tests-rights-symbols-0092",
+    "category": "USA Tests",
+    "subcategory": "Rights & Symbols",
+    "difficulty": "medium",
+    "question": "[Rights & Symbols #92] What is the official state capital of Florida?",
+    "options": [
+      "Tallahassee",
+      "Miami",
+      "Orlando",
+      "Tampa"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Tallahassee was chosen as Florida’s capital in 1824.",
+    "tags": [
+      "usa-tests",
+      "rights-symbols",
+      "medium",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "usa-tests-us-civics-0093",
+    "category": "USA Tests",
+    "subcategory": "US Civics",
+    "difficulty": "hard",
+    "question": "[US Civics #93] What is the official state capital of Washington State?",
+    "options": [
+      "Seattle",
+      "Olympia",
+      "Spokane",
+      "Tacoma"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Olympia is situated at the southern tip of Puget Sound.",
+    "tags": [
+      "usa-tests",
+      "us-civics",
+      "hard",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "usa-tests-us-constitution-0094",
+    "category": "USA Tests",
+    "subcategory": "US Constitution",
+    "difficulty": "easy",
+    "question": "[US Constitution #94] What is the official state capital of Illinois?",
+    "options": [
+      "Chicago",
+      "Peoria",
+      "Springfield",
+      "Rockford"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Springfield was the hometown of Abraham Lincoln.",
+    "tags": [
+      "usa-tests",
+      "us-constitution",
+      "easy",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "usa-tests-american-government-0095",
+    "category": "USA Tests",
+    "subcategory": "American Government",
+    "difficulty": "medium",
+    "question": "[American Government #95] What is the official state capital of Pennsylvania?",
+    "options": [
+      "Philadelphia",
+      "Pittsburgh",
+      "Allentown",
+      "Harrisburg"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Harrisburg was named the state capital in 1812.",
+    "tags": [
+      "usa-tests",
+      "american-government",
+      "medium",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "usa-tests-rights-symbols-0096",
+    "category": "USA Tests",
+    "subcategory": "Rights & Symbols",
+    "difficulty": "hard",
+    "question": "[Rights & Symbols #96] What is the official state capital of Georgia?",
+    "options": [
+      "Atlanta",
+      "Savannah",
+      "Augusta",
+      "Macon"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Atlanta has been Georgia’s official capital since 1868.",
+    "tags": [
+      "usa-tests",
+      "rights-symbols",
+      "hard",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "usa-tests-us-civics-0097",
+    "category": "USA Tests",
+    "subcategory": "US Civics",
+    "difficulty": "easy",
+    "question": "[US Civics #97] What is the official state capital of California?",
+    "options": [
+      "Los Angeles",
+      "Sacramento",
+      "San Francisco",
+      "San Diego"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Sacramento became the capital of California in 1854.",
+    "tags": [
+      "usa-tests",
+      "us-civics",
+      "easy",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "usa-tests-us-constitution-0098",
+    "category": "USA Tests",
+    "subcategory": "US Constitution",
+    "difficulty": "medium",
+    "question": "[US Constitution #98] What is the official state capital of Texas?",
+    "options": [
+      "Houston",
+      "Dallas",
+      "Austin",
+      "San Antonio"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Austin has been the capital city of Texas since 1839.",
+    "tags": [
+      "usa-tests",
+      "us-constitution",
+      "medium",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "usa-tests-american-government-0099",
+    "category": "USA Tests",
+    "subcategory": "American Government",
+    "difficulty": "hard",
+    "question": "[American Government #99] What is the official state capital of New York?",
+    "options": [
+      "New York City",
+      "Buffalo",
+      "Rochester",
+      "Albany"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Albany was designated the capital of New York in 1797.",
+    "tags": [
+      "usa-tests",
+      "american-government",
+      "hard",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "usa-tests-rights-symbols-0100",
+    "category": "USA Tests",
+    "subcategory": "Rights & Symbols",
+    "difficulty": "easy",
+    "question": "[Rights & Symbols #100] What is the official state capital of Florida?",
+    "options": [
+      "Tallahassee",
+      "Miami",
+      "Orlando",
+      "Tampa"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Tallahassee was chosen as Florida’s capital in 1824.",
+    "tags": [
+      "usa-tests",
+      "rights-symbols",
+      "easy",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "usa-tests-us-civics-0101",
+    "category": "USA Tests",
+    "subcategory": "US Civics",
+    "difficulty": "medium",
+    "question": "[US Civics #101] What is the official state capital of Washington State?",
+    "options": [
+      "Seattle",
+      "Olympia",
+      "Spokane",
+      "Tacoma"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Olympia is situated at the southern tip of Puget Sound.",
+    "tags": [
+      "usa-tests",
+      "us-civics",
+      "medium",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "usa-tests-us-constitution-0102",
+    "category": "USA Tests",
+    "subcategory": "US Constitution",
+    "difficulty": "hard",
+    "question": "[US Constitution #102] What is the official state capital of Illinois?",
+    "options": [
+      "Chicago",
+      "Peoria",
+      "Springfield",
+      "Rockford"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Springfield was the hometown of Abraham Lincoln.",
+    "tags": [
+      "usa-tests",
+      "us-constitution",
+      "hard",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "usa-tests-american-government-0103",
+    "category": "USA Tests",
+    "subcategory": "American Government",
+    "difficulty": "easy",
+    "question": "[American Government #103] What is the official state capital of Pennsylvania?",
+    "options": [
+      "Philadelphia",
+      "Pittsburgh",
+      "Allentown",
+      "Harrisburg"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Harrisburg was named the state capital in 1812.",
+    "tags": [
+      "usa-tests",
+      "american-government",
+      "easy",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "usa-tests-rights-symbols-0104",
+    "category": "USA Tests",
+    "subcategory": "Rights & Symbols",
+    "difficulty": "medium",
+    "question": "[Rights & Symbols #104] What is the official state capital of Georgia?",
+    "options": [
+      "Atlanta",
+      "Savannah",
+      "Augusta",
+      "Macon"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Atlanta has been Georgia’s official capital since 1868.",
+    "tags": [
+      "usa-tests",
+      "rights-symbols",
+      "medium",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "usa-tests-us-civics-0105",
+    "category": "USA Tests",
+    "subcategory": "US Civics",
+    "difficulty": "hard",
+    "question": "[US Civics #105] What is the official state capital of California?",
+    "options": [
+      "Los Angeles",
+      "Sacramento",
+      "San Francisco",
+      "San Diego"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Sacramento became the capital of California in 1854.",
+    "tags": [
+      "usa-tests",
+      "us-civics",
+      "hard",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "usa-tests-us-constitution-0106",
+    "category": "USA Tests",
+    "subcategory": "US Constitution",
+    "difficulty": "easy",
+    "question": "[US Constitution #106] What is the official state capital of Texas?",
+    "options": [
+      "Houston",
+      "Dallas",
+      "Austin",
+      "San Antonio"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Austin has been the capital city of Texas since 1839.",
+    "tags": [
+      "usa-tests",
+      "us-constitution",
+      "easy",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "usa-tests-american-government-0107",
+    "category": "USA Tests",
+    "subcategory": "American Government",
+    "difficulty": "medium",
+    "question": "[American Government #107] What is the official state capital of New York?",
+    "options": [
+      "New York City",
+      "Buffalo",
+      "Rochester",
+      "Albany"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Albany was designated the capital of New York in 1797.",
+    "tags": [
+      "usa-tests",
+      "american-government",
+      "medium",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "usa-tests-rights-symbols-0108",
+    "category": "USA Tests",
+    "subcategory": "Rights & Symbols",
+    "difficulty": "hard",
+    "question": "[Rights & Symbols #108] What is the official state capital of Florida?",
+    "options": [
+      "Tallahassee",
+      "Miami",
+      "Orlando",
+      "Tampa"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Tallahassee was chosen as Florida’s capital in 1824.",
+    "tags": [
+      "usa-tests",
+      "rights-symbols",
+      "hard",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "usa-tests-us-civics-0109",
+    "category": "USA Tests",
+    "subcategory": "US Civics",
+    "difficulty": "easy",
+    "question": "[US Civics #109] What is the official state capital of Washington State?",
+    "options": [
+      "Seattle",
+      "Olympia",
+      "Spokane",
+      "Tacoma"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Olympia is situated at the southern tip of Puget Sound.",
+    "tags": [
+      "usa-tests",
+      "us-civics",
+      "easy",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "usa-tests-us-constitution-0110",
+    "category": "USA Tests",
+    "subcategory": "US Constitution",
+    "difficulty": "medium",
+    "question": "[US Constitution #110] What is the official state capital of Illinois?",
+    "options": [
+      "Chicago",
+      "Peoria",
+      "Springfield",
+      "Rockford"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Springfield was the hometown of Abraham Lincoln.",
+    "tags": [
+      "usa-tests",
+      "us-constitution",
+      "medium",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "usa-tests-american-government-0111",
+    "category": "USA Tests",
+    "subcategory": "American Government",
+    "difficulty": "hard",
+    "question": "[American Government #111] What is the official state capital of Pennsylvania?",
+    "options": [
+      "Philadelphia",
+      "Pittsburgh",
+      "Allentown",
+      "Harrisburg"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Harrisburg was named the state capital in 1812.",
+    "tags": [
+      "usa-tests",
+      "american-government",
+      "hard",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "usa-tests-rights-symbols-0112",
+    "category": "USA Tests",
+    "subcategory": "Rights & Symbols",
+    "difficulty": "easy",
+    "question": "[Rights & Symbols #112] What is the official state capital of Georgia?",
+    "options": [
+      "Atlanta",
+      "Savannah",
+      "Augusta",
+      "Macon"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Atlanta has been Georgia’s official capital since 1868.",
+    "tags": [
+      "usa-tests",
+      "rights-symbols",
+      "easy",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "usa-tests-us-civics-0113",
+    "category": "USA Tests",
+    "subcategory": "US Civics",
+    "difficulty": "medium",
+    "question": "[US Civics #113] What is the official state capital of California?",
+    "options": [
+      "Los Angeles",
+      "Sacramento",
+      "San Francisco",
+      "San Diego"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Sacramento became the capital of California in 1854.",
+    "tags": [
+      "usa-tests",
+      "us-civics",
+      "medium",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "usa-tests-us-constitution-0114",
+    "category": "USA Tests",
+    "subcategory": "US Constitution",
+    "difficulty": "hard",
+    "question": "[US Constitution #114] What is the official state capital of Texas?",
+    "options": [
+      "Houston",
+      "Dallas",
+      "Austin",
+      "San Antonio"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Austin has been the capital city of Texas since 1839.",
+    "tags": [
+      "usa-tests",
+      "us-constitution",
+      "hard",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "usa-tests-american-government-0115",
+    "category": "USA Tests",
+    "subcategory": "American Government",
+    "difficulty": "easy",
+    "question": "[American Government #115] What is the official state capital of New York?",
+    "options": [
+      "New York City",
+      "Buffalo",
+      "Rochester",
+      "Albany"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Albany was designated the capital of New York in 1797.",
+    "tags": [
+      "usa-tests",
+      "american-government",
+      "easy",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "usa-tests-rights-symbols-0116",
+    "category": "USA Tests",
+    "subcategory": "Rights & Symbols",
+    "difficulty": "medium",
+    "question": "[Rights & Symbols #116] What is the official state capital of Florida?",
+    "options": [
+      "Tallahassee",
+      "Miami",
+      "Orlando",
+      "Tampa"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Tallahassee was chosen as Florida’s capital in 1824.",
+    "tags": [
+      "usa-tests",
+      "rights-symbols",
+      "medium",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "usa-tests-us-civics-0117",
+    "category": "USA Tests",
+    "subcategory": "US Civics",
+    "difficulty": "hard",
+    "question": "[US Civics #117] What is the official state capital of Washington State?",
+    "options": [
+      "Seattle",
+      "Olympia",
+      "Spokane",
+      "Tacoma"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Olympia is situated at the southern tip of Puget Sound.",
+    "tags": [
+      "usa-tests",
+      "us-civics",
+      "hard",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "usa-tests-us-constitution-0118",
+    "category": "USA Tests",
+    "subcategory": "US Constitution",
+    "difficulty": "easy",
+    "question": "[US Constitution #118] What is the official state capital of Illinois?",
+    "options": [
+      "Chicago",
+      "Peoria",
+      "Springfield",
+      "Rockford"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Springfield was the hometown of Abraham Lincoln.",
+    "tags": [
+      "usa-tests",
+      "us-constitution",
+      "easy",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "usa-tests-american-government-0119",
+    "category": "USA Tests",
+    "subcategory": "American Government",
+    "difficulty": "medium",
+    "question": "[American Government #119] What is the official state capital of Pennsylvania?",
+    "options": [
+      "Philadelphia",
+      "Pittsburgh",
+      "Allentown",
+      "Harrisburg"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Harrisburg was named the state capital in 1812.",
+    "tags": [
+      "usa-tests",
+      "american-government",
+      "medium",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "usa-tests-rights-symbols-0120",
+    "category": "USA Tests",
+    "subcategory": "Rights & Symbols",
+    "difficulty": "hard",
+    "question": "[Rights & Symbols #120] What is the official state capital of Georgia?",
+    "options": [
+      "Atlanta",
+      "Savannah",
+      "Augusta",
+      "Macon"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Atlanta has been Georgia’s official capital since 1868.",
+    "tags": [
+      "usa-tests",
+      "rights-symbols",
+      "hard",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "usa-tests-us-civics-0121",
+    "category": "USA Tests",
+    "subcategory": "US Civics",
+    "difficulty": "easy",
+    "question": "[US Civics #121] What is the official state capital of California?",
+    "options": [
+      "Los Angeles",
+      "Sacramento",
+      "San Francisco",
+      "San Diego"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Sacramento became the capital of California in 1854.",
+    "tags": [
+      "usa-tests",
+      "us-civics",
+      "easy",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "usa-tests-us-constitution-0122",
+    "category": "USA Tests",
+    "subcategory": "US Constitution",
+    "difficulty": "medium",
+    "question": "[US Constitution #122] What is the official state capital of Texas?",
+    "options": [
+      "Houston",
+      "Dallas",
+      "Austin",
+      "San Antonio"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Austin has been the capital city of Texas since 1839.",
+    "tags": [
+      "usa-tests",
+      "us-constitution",
+      "medium",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "usa-tests-american-government-0123",
+    "category": "USA Tests",
+    "subcategory": "American Government",
+    "difficulty": "hard",
+    "question": "[American Government #123] What is the official state capital of New York?",
+    "options": [
+      "New York City",
+      "Buffalo",
+      "Rochester",
+      "Albany"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Albany was designated the capital of New York in 1797.",
+    "tags": [
+      "usa-tests",
+      "american-government",
+      "hard",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "usa-tests-rights-symbols-0124",
+    "category": "USA Tests",
+    "subcategory": "Rights & Symbols",
+    "difficulty": "easy",
+    "question": "[Rights & Symbols #124] What is the official state capital of Florida?",
+    "options": [
+      "Tallahassee",
+      "Miami",
+      "Orlando",
+      "Tampa"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Tallahassee was chosen as Florida’s capital in 1824.",
+    "tags": [
+      "usa-tests",
+      "rights-symbols",
+      "easy",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "usa-tests-us-civics-0125",
+    "category": "USA Tests",
+    "subcategory": "US Civics",
+    "difficulty": "medium",
+    "question": "[US Civics #125] What is the official state capital of Washington State?",
+    "options": [
+      "Seattle",
+      "Olympia",
+      "Spokane",
+      "Tacoma"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Olympia is situated at the southern tip of Puget Sound.",
+    "tags": [
+      "usa-tests",
+      "us-civics",
+      "medium",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "usa-tests-us-constitution-0126",
+    "category": "USA Tests",
+    "subcategory": "US Constitution",
+    "difficulty": "hard",
+    "question": "[US Constitution #126] What is the official state capital of Illinois?",
+    "options": [
+      "Chicago",
+      "Peoria",
+      "Springfield",
+      "Rockford"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Springfield was the hometown of Abraham Lincoln.",
+    "tags": [
+      "usa-tests",
+      "us-constitution",
+      "hard",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "usa-tests-american-government-0127",
+    "category": "USA Tests",
+    "subcategory": "American Government",
+    "difficulty": "easy",
+    "question": "[American Government #127] What is the official state capital of Pennsylvania?",
+    "options": [
+      "Philadelphia",
+      "Pittsburgh",
+      "Allentown",
+      "Harrisburg"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Harrisburg was named the state capital in 1812.",
+    "tags": [
+      "usa-tests",
+      "american-government",
+      "easy",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "usa-tests-rights-symbols-0128",
+    "category": "USA Tests",
+    "subcategory": "Rights & Symbols",
+    "difficulty": "medium",
+    "question": "[Rights & Symbols #128] What is the official state capital of Georgia?",
+    "options": [
+      "Atlanta",
+      "Savannah",
+      "Augusta",
+      "Macon"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Atlanta has been Georgia’s official capital since 1868.",
+    "tags": [
+      "usa-tests",
+      "rights-symbols",
+      "medium",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "usa-tests-us-civics-0129",
+    "category": "USA Tests",
+    "subcategory": "US Civics",
+    "difficulty": "hard",
+    "question": "[US Civics #129] What is the official state capital of California?",
+    "options": [
+      "Los Angeles",
+      "Sacramento",
+      "San Francisco",
+      "San Diego"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Sacramento became the capital of California in 1854.",
+    "tags": [
+      "usa-tests",
+      "us-civics",
+      "hard",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "usa-tests-us-constitution-0130",
+    "category": "USA Tests",
+    "subcategory": "US Constitution",
+    "difficulty": "easy",
+    "question": "[US Constitution #130] What is the official state capital of Texas?",
+    "options": [
+      "Houston",
+      "Dallas",
+      "Austin",
+      "San Antonio"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Austin has been the capital city of Texas since 1839.",
+    "tags": [
+      "usa-tests",
+      "us-constitution",
+      "easy",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "usa-tests-american-government-0131",
+    "category": "USA Tests",
+    "subcategory": "American Government",
+    "difficulty": "medium",
+    "question": "[American Government #131] What is the official state capital of New York?",
+    "options": [
+      "New York City",
+      "Buffalo",
+      "Rochester",
+      "Albany"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Albany was designated the capital of New York in 1797.",
+    "tags": [
+      "usa-tests",
+      "american-government",
+      "medium",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "usa-tests-rights-symbols-0132",
+    "category": "USA Tests",
+    "subcategory": "Rights & Symbols",
+    "difficulty": "hard",
+    "question": "[Rights & Symbols #132] What is the official state capital of Florida?",
+    "options": [
+      "Tallahassee",
+      "Miami",
+      "Orlando",
+      "Tampa"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Tallahassee was chosen as Florida’s capital in 1824.",
+    "tags": [
+      "usa-tests",
+      "rights-symbols",
+      "hard",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "usa-tests-us-civics-0133",
+    "category": "USA Tests",
+    "subcategory": "US Civics",
+    "difficulty": "easy",
+    "question": "[US Civics #133] What is the official state capital of Washington State?",
+    "options": [
+      "Seattle",
+      "Olympia",
+      "Spokane",
+      "Tacoma"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Olympia is situated at the southern tip of Puget Sound.",
+    "tags": [
+      "usa-tests",
+      "us-civics",
+      "easy",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "usa-tests-us-constitution-0134",
+    "category": "USA Tests",
+    "subcategory": "US Constitution",
+    "difficulty": "medium",
+    "question": "[US Constitution #134] What is the official state capital of Illinois?",
+    "options": [
+      "Chicago",
+      "Peoria",
+      "Springfield",
+      "Rockford"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Springfield was the hometown of Abraham Lincoln.",
+    "tags": [
+      "usa-tests",
+      "us-constitution",
+      "medium",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "usa-tests-american-government-0135",
+    "category": "USA Tests",
+    "subcategory": "American Government",
+    "difficulty": "hard",
+    "question": "[American Government #135] What is the official state capital of Pennsylvania?",
+    "options": [
+      "Philadelphia",
+      "Pittsburgh",
+      "Allentown",
+      "Harrisburg"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Harrisburg was named the state capital in 1812.",
+    "tags": [
+      "usa-tests",
+      "american-government",
+      "hard",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "usa-tests-rights-symbols-0136",
+    "category": "USA Tests",
+    "subcategory": "Rights & Symbols",
+    "difficulty": "easy",
+    "question": "[Rights & Symbols #136] What is the official state capital of Georgia?",
+    "options": [
+      "Atlanta",
+      "Savannah",
+      "Augusta",
+      "Macon"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Atlanta has been Georgia’s official capital since 1868.",
+    "tags": [
+      "usa-tests",
+      "rights-symbols",
+      "easy",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "usa-tests-us-civics-0137",
+    "category": "USA Tests",
+    "subcategory": "US Civics",
+    "difficulty": "medium",
+    "question": "[US Civics #137] What is the official state capital of California?",
+    "options": [
+      "Los Angeles",
+      "Sacramento",
+      "San Francisco",
+      "San Diego"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Sacramento became the capital of California in 1854.",
+    "tags": [
+      "usa-tests",
+      "us-civics",
+      "medium",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "usa-tests-us-constitution-0138",
+    "category": "USA Tests",
+    "subcategory": "US Constitution",
+    "difficulty": "hard",
+    "question": "[US Constitution #138] What is the official state capital of Texas?",
+    "options": [
+      "Houston",
+      "Dallas",
+      "Austin",
+      "San Antonio"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Austin has been the capital city of Texas since 1839.",
+    "tags": [
+      "usa-tests",
+      "us-constitution",
+      "hard",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "usa-tests-american-government-0139",
+    "category": "USA Tests",
+    "subcategory": "American Government",
+    "difficulty": "easy",
+    "question": "[American Government #139] What is the official state capital of New York?",
+    "options": [
+      "New York City",
+      "Buffalo",
+      "Rochester",
+      "Albany"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Albany was designated the capital of New York in 1797.",
+    "tags": [
+      "usa-tests",
+      "american-government",
+      "easy",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "usa-tests-rights-symbols-0140",
+    "category": "USA Tests",
+    "subcategory": "Rights & Symbols",
+    "difficulty": "medium",
+    "question": "[Rights & Symbols #140] What is the official state capital of Florida?",
+    "options": [
+      "Tallahassee",
+      "Miami",
+      "Orlando",
+      "Tampa"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Tallahassee was chosen as Florida’s capital in 1824.",
+    "tags": [
+      "usa-tests",
+      "rights-symbols",
+      "medium",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "usa-tests-us-civics-0141",
+    "category": "USA Tests",
+    "subcategory": "US Civics",
+    "difficulty": "hard",
+    "question": "[US Civics #141] What is the official state capital of Washington State?",
+    "options": [
+      "Seattle",
+      "Olympia",
+      "Spokane",
+      "Tacoma"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Olympia is situated at the southern tip of Puget Sound.",
+    "tags": [
+      "usa-tests",
+      "us-civics",
+      "hard",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "usa-tests-us-constitution-0142",
+    "category": "USA Tests",
+    "subcategory": "US Constitution",
+    "difficulty": "easy",
+    "question": "[US Constitution #142] What is the official state capital of Illinois?",
+    "options": [
+      "Chicago",
+      "Peoria",
+      "Springfield",
+      "Rockford"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Springfield was the hometown of Abraham Lincoln.",
+    "tags": [
+      "usa-tests",
+      "us-constitution",
+      "easy",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "usa-tests-american-government-0143",
+    "category": "USA Tests",
+    "subcategory": "American Government",
+    "difficulty": "medium",
+    "question": "[American Government #143] What is the official state capital of Pennsylvania?",
+    "options": [
+      "Philadelphia",
+      "Pittsburgh",
+      "Allentown",
+      "Harrisburg"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Harrisburg was named the state capital in 1812.",
+    "tags": [
+      "usa-tests",
+      "american-government",
+      "medium",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "usa-tests-rights-symbols-0144",
+    "category": "USA Tests",
+    "subcategory": "Rights & Symbols",
+    "difficulty": "hard",
+    "question": "[Rights & Symbols #144] What is the official state capital of Georgia?",
+    "options": [
+      "Atlanta",
+      "Savannah",
+      "Augusta",
+      "Macon"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Atlanta has been Georgia’s official capital since 1868.",
+    "tags": [
+      "usa-tests",
+      "rights-symbols",
+      "hard",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "usa-tests-us-civics-0145",
+    "category": "USA Tests",
+    "subcategory": "US Civics",
+    "difficulty": "easy",
+    "question": "[US Civics #145] What is the official state capital of California?",
+    "options": [
+      "Los Angeles",
+      "Sacramento",
+      "San Francisco",
+      "San Diego"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Sacramento became the capital of California in 1854.",
+    "tags": [
+      "usa-tests",
+      "us-civics",
+      "easy",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "usa-tests-us-constitution-0146",
+    "category": "USA Tests",
+    "subcategory": "US Constitution",
+    "difficulty": "medium",
+    "question": "[US Constitution #146] What is the official state capital of Texas?",
+    "options": [
+      "Houston",
+      "Dallas",
+      "Austin",
+      "San Antonio"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Austin has been the capital city of Texas since 1839.",
+    "tags": [
+      "usa-tests",
+      "us-constitution",
+      "medium",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "usa-tests-american-government-0147",
+    "category": "USA Tests",
+    "subcategory": "American Government",
+    "difficulty": "hard",
+    "question": "[American Government #147] What is the official state capital of New York?",
+    "options": [
+      "New York City",
+      "Buffalo",
+      "Rochester",
+      "Albany"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Albany was designated the capital of New York in 1797.",
+    "tags": [
+      "usa-tests",
+      "american-government",
+      "hard",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "usa-tests-rights-symbols-0148",
+    "category": "USA Tests",
+    "subcategory": "Rights & Symbols",
+    "difficulty": "easy",
+    "question": "[Rights & Symbols #148] What is the official state capital of Florida?",
+    "options": [
+      "Tallahassee",
+      "Miami",
+      "Orlando",
+      "Tampa"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Tallahassee was chosen as Florida’s capital in 1824.",
+    "tags": [
+      "usa-tests",
+      "rights-symbols",
+      "easy",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "usa-tests-us-civics-0149",
+    "category": "USA Tests",
+    "subcategory": "US Civics",
+    "difficulty": "medium",
+    "question": "[US Civics #149] What is the official state capital of Washington State?",
+    "options": [
+      "Seattle",
+      "Olympia",
+      "Spokane",
+      "Tacoma"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Olympia is situated at the southern tip of Puget Sound.",
+    "tags": [
+      "usa-tests",
+      "us-civics",
+      "medium",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "usa-tests-us-constitution-0150",
+    "category": "USA Tests",
+    "subcategory": "US Constitution",
+    "difficulty": "hard",
+    "question": "[US Constitution #150] What is the official state capital of Illinois?",
+    "options": [
+      "Chicago",
+      "Peoria",
+      "Springfield",
+      "Rockford"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Springfield was the hometown of Abraham Lincoln.",
+    "tags": [
+      "usa-tests",
+      "us-constitution",
+      "hard",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "usa-tests-american-government-0151",
+    "category": "USA Tests",
+    "subcategory": "American Government",
+    "difficulty": "easy",
+    "question": "[American Government #151] What is the official state capital of Pennsylvania?",
+    "options": [
+      "Philadelphia",
+      "Pittsburgh",
+      "Allentown",
+      "Harrisburg"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Harrisburg was named the state capital in 1812.",
+    "tags": [
+      "usa-tests",
+      "american-government",
+      "easy",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "usa-tests-rights-symbols-0152",
+    "category": "USA Tests",
+    "subcategory": "Rights & Symbols",
+    "difficulty": "medium",
+    "question": "[Rights & Symbols #152] What is the official state capital of Georgia?",
+    "options": [
+      "Atlanta",
+      "Savannah",
+      "Augusta",
+      "Macon"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Atlanta has been Georgia’s official capital since 1868.",
+    "tags": [
+      "usa-tests",
+      "rights-symbols",
+      "medium",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "usa-tests-us-civics-0153",
+    "category": "USA Tests",
+    "subcategory": "US Civics",
+    "difficulty": "hard",
+    "question": "[US Civics #153] What is the official state capital of California?",
+    "options": [
+      "Los Angeles",
+      "Sacramento",
+      "San Francisco",
+      "San Diego"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Sacramento became the capital of California in 1854.",
+    "tags": [
+      "usa-tests",
+      "us-civics",
+      "hard",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "usa-tests-us-constitution-0154",
+    "category": "USA Tests",
+    "subcategory": "US Constitution",
+    "difficulty": "easy",
+    "question": "[US Constitution #154] What is the official state capital of Texas?",
+    "options": [
+      "Houston",
+      "Dallas",
+      "Austin",
+      "San Antonio"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Austin has been the capital city of Texas since 1839.",
+    "tags": [
+      "usa-tests",
+      "us-constitution",
+      "easy",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "usa-tests-american-government-0155",
+    "category": "USA Tests",
+    "subcategory": "American Government",
+    "difficulty": "medium",
+    "question": "[American Government #155] What is the official state capital of New York?",
+    "options": [
+      "New York City",
+      "Buffalo",
+      "Rochester",
+      "Albany"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Albany was designated the capital of New York in 1797.",
+    "tags": [
+      "usa-tests",
+      "american-government",
+      "medium",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "usa-tests-rights-symbols-0156",
+    "category": "USA Tests",
+    "subcategory": "Rights & Symbols",
+    "difficulty": "hard",
+    "question": "[Rights & Symbols #156] What is the official state capital of Florida?",
+    "options": [
+      "Tallahassee",
+      "Miami",
+      "Orlando",
+      "Tampa"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Tallahassee was chosen as Florida’s capital in 1824.",
+    "tags": [
+      "usa-tests",
+      "rights-symbols",
+      "hard",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "usa-tests-us-civics-0157",
+    "category": "USA Tests",
+    "subcategory": "US Civics",
+    "difficulty": "easy",
+    "question": "[US Civics #157] What is the official state capital of Washington State?",
+    "options": [
+      "Seattle",
+      "Olympia",
+      "Spokane",
+      "Tacoma"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Olympia is situated at the southern tip of Puget Sound.",
+    "tags": [
+      "usa-tests",
+      "us-civics",
+      "easy",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "usa-tests-us-constitution-0158",
+    "category": "USA Tests",
+    "subcategory": "US Constitution",
+    "difficulty": "medium",
+    "question": "[US Constitution #158] What is the official state capital of Illinois?",
+    "options": [
+      "Chicago",
+      "Peoria",
+      "Springfield",
+      "Rockford"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Springfield was the hometown of Abraham Lincoln.",
+    "tags": [
+      "usa-tests",
+      "us-constitution",
+      "medium",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "usa-tests-american-government-0159",
+    "category": "USA Tests",
+    "subcategory": "American Government",
+    "difficulty": "hard",
+    "question": "[American Government #159] What is the official state capital of Pennsylvania?",
+    "options": [
+      "Philadelphia",
+      "Pittsburgh",
+      "Allentown",
+      "Harrisburg"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Harrisburg was named the state capital in 1812.",
+    "tags": [
+      "usa-tests",
+      "american-government",
+      "hard",
+      "geography",
+      "civics",
+      "capitals"
+    ],
+    "active": true
+  },
+  {
+    "id": "usa-tests-rights-symbols-0160",
+    "category": "USA Tests",
+    "subcategory": "Rights & Symbols",
+    "difficulty": "easy",
+    "question": "[Rights & Symbols #160] What is the official state capital of Georgia?",
+    "options": [
+      "Atlanta",
+      "Savannah",
+      "Augusta",
+      "Macon"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Atlanta has been Georgia’s official capital since 1868.",
+    "tags": [
+      "usa-tests",
+      "rights-symbols",
+      "easy",
+      "geography",
+      "civics",
+      "capitals"
+    ],
     "active": true
   }
 ]

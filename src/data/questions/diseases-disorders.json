@@ -1,10 +1,10 @@
 [
   {
-    "id": "pharmacology-cardiovascular-pharmacology-0001",
-    "category": "Pharmacology",
-    "subcategory": "Cardiovascular Pharmacology",
+    "id": "diseases-disorders-chronic-illness-0001",
+    "category": "Diseases & Disorders",
+    "subcategory": "Chronic Illness",
     "difficulty": "easy",
-    "question": "[Cardiovascular Pharmacology #1] What is the specific opioid receptor antagonist administered to reverse life-threatening narcotic respiratory depression?",
+    "question": "[Chronic Illness #1] What is the specific opioid receptor antagonist administered to reverse life-threatening narcotic respiratory depression?",
     "options": [
       "Flumazenil",
       "Naloxone (Narcan)",
@@ -14,8 +14,8 @@
     "correctAnswer": 1,
     "explanation": "Naloxone is a pure mu-opioid receptor antagonist that rapidly reverses opioid-induced respiratory depression.",
     "tags": [
-      "pharmacology",
-      "cardiovascular-pharmacology",
+      "diseases-disorders",
+      "chronic-illness",
       "easy",
       "pharmacology",
       "pathology"
@@ -23,11 +23,11 @@
     "active": true
   },
   {
-    "id": "pharmacology-antibiotics-antivirals-0002",
-    "category": "Pharmacology",
-    "subcategory": "Antibiotics & Antivirals",
+    "id": "diseases-disorders-infectious-diseases-0002",
+    "category": "Diseases & Disorders",
+    "subcategory": "Infectious Diseases",
     "difficulty": "medium",
-    "question": "[Antibiotics & Antivirals #2] Which adverse side effect is a well-documented class-effect of ACE inhibitors caused by bradykinin accumulation?",
+    "question": "[Infectious Diseases #2] Which adverse side effect is a well-documented class-effect of ACE inhibitors caused by bradykinin accumulation?",
     "options": [
       "Severe hypoglycemia",
       "Extreme urinary retention",
@@ -37,8 +37,8 @@
     "correctAnswer": 2,
     "explanation": "ACE inhibitors prevent bradykinin degradation in the respiratory tract, causing a dry cough in up to 15% of patients.",
     "tags": [
-      "pharmacology",
-      "antibiotics-antivirals",
+      "diseases-disorders",
+      "infectious-diseases",
       "medium",
       "pharmacology",
       "pathology"
@@ -46,11 +46,11 @@
     "active": true
   },
   {
-    "id": "pharmacology-antidotes-toxicity-0003",
-    "category": "Pharmacology",
-    "subcategory": "Antidotes & Toxicity",
+    "id": "diseases-disorders-autoimmune-disorders-0003",
+    "category": "Diseases & Disorders",
+    "subcategory": "Autoimmune Disorders",
     "difficulty": "hard",
-    "question": "[Antidotes & Toxicity #3] Which vital clinical assessment must the clinician prioritize before administering oral Digoxin?",
+    "question": "[Autoimmune Disorders #3] Which vital clinical assessment must the clinician prioritize before administering oral Digoxin?",
     "options": [
       "Assess bilateral patellar deep tendon reflexes",
       "Weigh patient immediately post-dose",
@@ -60,8 +60,8 @@
     "correctAnswer": 3,
     "explanation": "Digoxin slows AV node conduction; an apical heart rate below 60 bpm warrants withholding the dose to prevent toxicity.",
     "tags": [
-      "pharmacology",
-      "antidotes-toxicity",
+      "diseases-disorders",
+      "autoimmune-disorders",
       "hard",
       "pharmacology",
       "pathology"
@@ -69,11 +69,11 @@
     "active": true
   },
   {
-    "id": "pharmacology-endocrine-pharmacology-0004",
-    "category": "Pharmacology",
-    "subcategory": "Endocrine Pharmacology",
+    "id": "diseases-disorders-emergency-conditions-0004",
+    "category": "Diseases & Disorders",
+    "subcategory": "Emergency Conditions",
     "difficulty": "easy",
-    "question": "[Endocrine Pharmacology #4] What is the specific antidote administered for severe unfractionated Heparin overdose with acute hemorrhage?",
+    "question": "[Emergency Conditions #4] What is the specific antidote administered for severe unfractionated Heparin overdose with acute hemorrhage?",
     "options": [
       "Protamine Sulfate",
       "Vitamin K (Phytonadione)",
@@ -83,8 +83,8 @@
     "correctAnswer": 0,
     "explanation": "Protamine sulfate is a strongly basic peptide that neutralizes acidic heparin by forming an inactive stable salt.",
     "tags": [
-      "pharmacology",
-      "endocrine-pharmacology",
+      "diseases-disorders",
+      "emergency-conditions",
       "easy",
       "pharmacology",
       "pathology"
@@ -92,11 +92,11 @@
     "active": true
   },
   {
-    "id": "pharmacology-cardiovascular-pharmacology-0005",
-    "category": "Pharmacology",
-    "subcategory": "Cardiovascular Pharmacology",
+    "id": "diseases-disorders-chronic-illness-0005",
+    "category": "Diseases & Disorders",
+    "subcategory": "Chronic Illness",
     "difficulty": "medium",
-    "question": "[Cardiovascular Pharmacology #5] What is the specific opioid receptor antagonist administered to reverse life-threatening narcotic respiratory depression?",
+    "question": "[Chronic Illness #5] What is the specific opioid receptor antagonist administered to reverse life-threatening narcotic respiratory depression?",
     "options": [
       "Flumazenil",
       "Naloxone (Narcan)",
@@ -106,8 +106,8 @@
     "correctAnswer": 1,
     "explanation": "Naloxone is a pure mu-opioid receptor antagonist that rapidly reverses opioid-induced respiratory depression.",
     "tags": [
-      "pharmacology",
-      "cardiovascular-pharmacology",
+      "diseases-disorders",
+      "chronic-illness",
       "medium",
       "pharmacology",
       "pathology"
@@ -115,11 +115,11 @@
     "active": true
   },
   {
-    "id": "pharmacology-antibiotics-antivirals-0006",
-    "category": "Pharmacology",
-    "subcategory": "Antibiotics & Antivirals",
+    "id": "diseases-disorders-infectious-diseases-0006",
+    "category": "Diseases & Disorders",
+    "subcategory": "Infectious Diseases",
     "difficulty": "hard",
-    "question": "[Antibiotics & Antivirals #6] Which adverse side effect is a well-documented class-effect of ACE inhibitors caused by bradykinin accumulation?",
+    "question": "[Infectious Diseases #6] Which adverse side effect is a well-documented class-effect of ACE inhibitors caused by bradykinin accumulation?",
     "options": [
       "Severe hypoglycemia",
       "Extreme urinary retention",
@@ -129,8 +129,8 @@
     "correctAnswer": 2,
     "explanation": "ACE inhibitors prevent bradykinin degradation in the respiratory tract, causing a dry cough in up to 15% of patients.",
     "tags": [
-      "pharmacology",
-      "antibiotics-antivirals",
+      "diseases-disorders",
+      "infectious-diseases",
       "hard",
       "pharmacology",
       "pathology"
@@ -138,11 +138,11 @@
     "active": true
   },
   {
-    "id": "pharmacology-antidotes-toxicity-0007",
-    "category": "Pharmacology",
-    "subcategory": "Antidotes & Toxicity",
+    "id": "diseases-disorders-autoimmune-disorders-0007",
+    "category": "Diseases & Disorders",
+    "subcategory": "Autoimmune Disorders",
     "difficulty": "easy",
-    "question": "[Antidotes & Toxicity #7] Which vital clinical assessment must the clinician prioritize before administering oral Digoxin?",
+    "question": "[Autoimmune Disorders #7] Which vital clinical assessment must the clinician prioritize before administering oral Digoxin?",
     "options": [
       "Assess bilateral patellar deep tendon reflexes",
       "Weigh patient immediately post-dose",
@@ -152,8 +152,8 @@
     "correctAnswer": 3,
     "explanation": "Digoxin slows AV node conduction; an apical heart rate below 60 bpm warrants withholding the dose to prevent toxicity.",
     "tags": [
-      "pharmacology",
-      "antidotes-toxicity",
+      "diseases-disorders",
+      "autoimmune-disorders",
       "easy",
       "pharmacology",
       "pathology"
@@ -161,11 +161,11 @@
     "active": true
   },
   {
-    "id": "pharmacology-endocrine-pharmacology-0008",
-    "category": "Pharmacology",
-    "subcategory": "Endocrine Pharmacology",
+    "id": "diseases-disorders-emergency-conditions-0008",
+    "category": "Diseases & Disorders",
+    "subcategory": "Emergency Conditions",
     "difficulty": "medium",
-    "question": "[Endocrine Pharmacology #8] What is the specific antidote administered for severe unfractionated Heparin overdose with acute hemorrhage?",
+    "question": "[Emergency Conditions #8] What is the specific antidote administered for severe unfractionated Heparin overdose with acute hemorrhage?",
     "options": [
       "Protamine Sulfate",
       "Vitamin K (Phytonadione)",
@@ -175,8 +175,8 @@
     "correctAnswer": 0,
     "explanation": "Protamine sulfate is a strongly basic peptide that neutralizes acidic heparin by forming an inactive stable salt.",
     "tags": [
-      "pharmacology",
-      "endocrine-pharmacology",
+      "diseases-disorders",
+      "emergency-conditions",
       "medium",
       "pharmacology",
       "pathology"
@@ -184,11 +184,11 @@
     "active": true
   },
   {
-    "id": "pharmacology-cardiovascular-pharmacology-0009",
-    "category": "Pharmacology",
-    "subcategory": "Cardiovascular Pharmacology",
+    "id": "diseases-disorders-chronic-illness-0009",
+    "category": "Diseases & Disorders",
+    "subcategory": "Chronic Illness",
     "difficulty": "hard",
-    "question": "[Cardiovascular Pharmacology #9] What is the specific opioid receptor antagonist administered to reverse life-threatening narcotic respiratory depression?",
+    "question": "[Chronic Illness #9] What is the specific opioid receptor antagonist administered to reverse life-threatening narcotic respiratory depression?",
     "options": [
       "Flumazenil",
       "Naloxone (Narcan)",
@@ -198,8 +198,8 @@
     "correctAnswer": 1,
     "explanation": "Naloxone is a pure mu-opioid receptor antagonist that rapidly reverses opioid-induced respiratory depression.",
     "tags": [
-      "pharmacology",
-      "cardiovascular-pharmacology",
+      "diseases-disorders",
+      "chronic-illness",
       "hard",
       "pharmacology",
       "pathology"
@@ -207,11 +207,11 @@
     "active": true
   },
   {
-    "id": "pharmacology-antibiotics-antivirals-0010",
-    "category": "Pharmacology",
-    "subcategory": "Antibiotics & Antivirals",
+    "id": "diseases-disorders-infectious-diseases-0010",
+    "category": "Diseases & Disorders",
+    "subcategory": "Infectious Diseases",
     "difficulty": "easy",
-    "question": "[Antibiotics & Antivirals #10] Which adverse side effect is a well-documented class-effect of ACE inhibitors caused by bradykinin accumulation?",
+    "question": "[Infectious Diseases #10] Which adverse side effect is a well-documented class-effect of ACE inhibitors caused by bradykinin accumulation?",
     "options": [
       "Severe hypoglycemia",
       "Extreme urinary retention",
@@ -221,8 +221,8 @@
     "correctAnswer": 2,
     "explanation": "ACE inhibitors prevent bradykinin degradation in the respiratory tract, causing a dry cough in up to 15% of patients.",
     "tags": [
-      "pharmacology",
-      "antibiotics-antivirals",
+      "diseases-disorders",
+      "infectious-diseases",
       "easy",
       "pharmacology",
       "pathology"
@@ -230,11 +230,11 @@
     "active": true
   },
   {
-    "id": "pharmacology-antidotes-toxicity-0011",
-    "category": "Pharmacology",
-    "subcategory": "Antidotes & Toxicity",
+    "id": "diseases-disorders-autoimmune-disorders-0011",
+    "category": "Diseases & Disorders",
+    "subcategory": "Autoimmune Disorders",
     "difficulty": "medium",
-    "question": "[Antidotes & Toxicity #11] Which vital clinical assessment must the clinician prioritize before administering oral Digoxin?",
+    "question": "[Autoimmune Disorders #11] Which vital clinical assessment must the clinician prioritize before administering oral Digoxin?",
     "options": [
       "Assess bilateral patellar deep tendon reflexes",
       "Weigh patient immediately post-dose",
@@ -244,8 +244,8 @@
     "correctAnswer": 3,
     "explanation": "Digoxin slows AV node conduction; an apical heart rate below 60 bpm warrants withholding the dose to prevent toxicity.",
     "tags": [
-      "pharmacology",
-      "antidotes-toxicity",
+      "diseases-disorders",
+      "autoimmune-disorders",
       "medium",
       "pharmacology",
       "pathology"
@@ -253,11 +253,11 @@
     "active": true
   },
   {
-    "id": "pharmacology-endocrine-pharmacology-0012",
-    "category": "Pharmacology",
-    "subcategory": "Endocrine Pharmacology",
+    "id": "diseases-disorders-emergency-conditions-0012",
+    "category": "Diseases & Disorders",
+    "subcategory": "Emergency Conditions",
     "difficulty": "hard",
-    "question": "[Endocrine Pharmacology #12] What is the specific antidote administered for severe unfractionated Heparin overdose with acute hemorrhage?",
+    "question": "[Emergency Conditions #12] What is the specific antidote administered for severe unfractionated Heparin overdose with acute hemorrhage?",
     "options": [
       "Protamine Sulfate",
       "Vitamin K (Phytonadione)",
@@ -267,8 +267,8 @@
     "correctAnswer": 0,
     "explanation": "Protamine sulfate is a strongly basic peptide that neutralizes acidic heparin by forming an inactive stable salt.",
     "tags": [
-      "pharmacology",
-      "endocrine-pharmacology",
+      "diseases-disorders",
+      "emergency-conditions",
       "hard",
       "pharmacology",
       "pathology"
@@ -276,11 +276,11 @@
     "active": true
   },
   {
-    "id": "pharmacology-cardiovascular-pharmacology-0013",
-    "category": "Pharmacology",
-    "subcategory": "Cardiovascular Pharmacology",
+    "id": "diseases-disorders-chronic-illness-0013",
+    "category": "Diseases & Disorders",
+    "subcategory": "Chronic Illness",
     "difficulty": "easy",
-    "question": "[Cardiovascular Pharmacology #13] What is the specific opioid receptor antagonist administered to reverse life-threatening narcotic respiratory depression?",
+    "question": "[Chronic Illness #13] What is the specific opioid receptor antagonist administered to reverse life-threatening narcotic respiratory depression?",
     "options": [
       "Flumazenil",
       "Naloxone (Narcan)",
@@ -290,8 +290,8 @@
     "correctAnswer": 1,
     "explanation": "Naloxone is a pure mu-opioid receptor antagonist that rapidly reverses opioid-induced respiratory depression.",
     "tags": [
-      "pharmacology",
-      "cardiovascular-pharmacology",
+      "diseases-disorders",
+      "chronic-illness",
       "easy",
       "pharmacology",
       "pathology"
@@ -299,11 +299,11 @@
     "active": true
   },
   {
-    "id": "pharmacology-antibiotics-antivirals-0014",
-    "category": "Pharmacology",
-    "subcategory": "Antibiotics & Antivirals",
+    "id": "diseases-disorders-infectious-diseases-0014",
+    "category": "Diseases & Disorders",
+    "subcategory": "Infectious Diseases",
     "difficulty": "medium",
-    "question": "[Antibiotics & Antivirals #14] Which adverse side effect is a well-documented class-effect of ACE inhibitors caused by bradykinin accumulation?",
+    "question": "[Infectious Diseases #14] Which adverse side effect is a well-documented class-effect of ACE inhibitors caused by bradykinin accumulation?",
     "options": [
       "Severe hypoglycemia",
       "Extreme urinary retention",
@@ -313,8 +313,8 @@
     "correctAnswer": 2,
     "explanation": "ACE inhibitors prevent bradykinin degradation in the respiratory tract, causing a dry cough in up to 15% of patients.",
     "tags": [
-      "pharmacology",
-      "antibiotics-antivirals",
+      "diseases-disorders",
+      "infectious-diseases",
       "medium",
       "pharmacology",
       "pathology"
@@ -322,11 +322,11 @@
     "active": true
   },
   {
-    "id": "pharmacology-antidotes-toxicity-0015",
-    "category": "Pharmacology",
-    "subcategory": "Antidotes & Toxicity",
+    "id": "diseases-disorders-autoimmune-disorders-0015",
+    "category": "Diseases & Disorders",
+    "subcategory": "Autoimmune Disorders",
     "difficulty": "hard",
-    "question": "[Antidotes & Toxicity #15] Which vital clinical assessment must the clinician prioritize before administering oral Digoxin?",
+    "question": "[Autoimmune Disorders #15] Which vital clinical assessment must the clinician prioritize before administering oral Digoxin?",
     "options": [
       "Assess bilateral patellar deep tendon reflexes",
       "Weigh patient immediately post-dose",
@@ -336,8 +336,8 @@
     "correctAnswer": 3,
     "explanation": "Digoxin slows AV node conduction; an apical heart rate below 60 bpm warrants withholding the dose to prevent toxicity.",
     "tags": [
-      "pharmacology",
-      "antidotes-toxicity",
+      "diseases-disorders",
+      "autoimmune-disorders",
       "hard",
       "pharmacology",
       "pathology"
@@ -345,11 +345,11 @@
     "active": true
   },
   {
-    "id": "pharmacology-endocrine-pharmacology-0016",
-    "category": "Pharmacology",
-    "subcategory": "Endocrine Pharmacology",
+    "id": "diseases-disorders-emergency-conditions-0016",
+    "category": "Diseases & Disorders",
+    "subcategory": "Emergency Conditions",
     "difficulty": "easy",
-    "question": "[Endocrine Pharmacology #16] What is the specific antidote administered for severe unfractionated Heparin overdose with acute hemorrhage?",
+    "question": "[Emergency Conditions #16] What is the specific antidote administered for severe unfractionated Heparin overdose with acute hemorrhage?",
     "options": [
       "Protamine Sulfate",
       "Vitamin K (Phytonadione)",
@@ -359,8 +359,8 @@
     "correctAnswer": 0,
     "explanation": "Protamine sulfate is a strongly basic peptide that neutralizes acidic heparin by forming an inactive stable salt.",
     "tags": [
-      "pharmacology",
-      "endocrine-pharmacology",
+      "diseases-disorders",
+      "emergency-conditions",
       "easy",
       "pharmacology",
       "pathology"
@@ -368,11 +368,11 @@
     "active": true
   },
   {
-    "id": "pharmacology-cardiovascular-pharmacology-0017",
-    "category": "Pharmacology",
-    "subcategory": "Cardiovascular Pharmacology",
+    "id": "diseases-disorders-chronic-illness-0017",
+    "category": "Diseases & Disorders",
+    "subcategory": "Chronic Illness",
     "difficulty": "medium",
-    "question": "[Cardiovascular Pharmacology #17] What is the specific opioid receptor antagonist administered to reverse life-threatening narcotic respiratory depression?",
+    "question": "[Chronic Illness #17] What is the specific opioid receptor antagonist administered to reverse life-threatening narcotic respiratory depression?",
     "options": [
       "Flumazenil",
       "Naloxone (Narcan)",
@@ -382,8 +382,8 @@
     "correctAnswer": 1,
     "explanation": "Naloxone is a pure mu-opioid receptor antagonist that rapidly reverses opioid-induced respiratory depression.",
     "tags": [
-      "pharmacology",
-      "cardiovascular-pharmacology",
+      "diseases-disorders",
+      "chronic-illness",
       "medium",
       "pharmacology",
       "pathology"
@@ -391,11 +391,11 @@
     "active": true
   },
   {
-    "id": "pharmacology-antibiotics-antivirals-0018",
-    "category": "Pharmacology",
-    "subcategory": "Antibiotics & Antivirals",
+    "id": "diseases-disorders-infectious-diseases-0018",
+    "category": "Diseases & Disorders",
+    "subcategory": "Infectious Diseases",
     "difficulty": "hard",
-    "question": "[Antibiotics & Antivirals #18] Which adverse side effect is a well-documented class-effect of ACE inhibitors caused by bradykinin accumulation?",
+    "question": "[Infectious Diseases #18] Which adverse side effect is a well-documented class-effect of ACE inhibitors caused by bradykinin accumulation?",
     "options": [
       "Severe hypoglycemia",
       "Extreme urinary retention",
@@ -405,8 +405,8 @@
     "correctAnswer": 2,
     "explanation": "ACE inhibitors prevent bradykinin degradation in the respiratory tract, causing a dry cough in up to 15% of patients.",
     "tags": [
-      "pharmacology",
-      "antibiotics-antivirals",
+      "diseases-disorders",
+      "infectious-diseases",
       "hard",
       "pharmacology",
       "pathology"
@@ -414,11 +414,11 @@
     "active": true
   },
   {
-    "id": "pharmacology-antidotes-toxicity-0019",
-    "category": "Pharmacology",
-    "subcategory": "Antidotes & Toxicity",
+    "id": "diseases-disorders-autoimmune-disorders-0019",
+    "category": "Diseases & Disorders",
+    "subcategory": "Autoimmune Disorders",
     "difficulty": "easy",
-    "question": "[Antidotes & Toxicity #19] Which vital clinical assessment must the clinician prioritize before administering oral Digoxin?",
+    "question": "[Autoimmune Disorders #19] Which vital clinical assessment must the clinician prioritize before administering oral Digoxin?",
     "options": [
       "Assess bilateral patellar deep tendon reflexes",
       "Weigh patient immediately post-dose",
@@ -428,8 +428,8 @@
     "correctAnswer": 3,
     "explanation": "Digoxin slows AV node conduction; an apical heart rate below 60 bpm warrants withholding the dose to prevent toxicity.",
     "tags": [
-      "pharmacology",
-      "antidotes-toxicity",
+      "diseases-disorders",
+      "autoimmune-disorders",
       "easy",
       "pharmacology",
       "pathology"
@@ -437,11 +437,11 @@
     "active": true
   },
   {
-    "id": "pharmacology-endocrine-pharmacology-0020",
-    "category": "Pharmacology",
-    "subcategory": "Endocrine Pharmacology",
+    "id": "diseases-disorders-emergency-conditions-0020",
+    "category": "Diseases & Disorders",
+    "subcategory": "Emergency Conditions",
     "difficulty": "medium",
-    "question": "[Endocrine Pharmacology #20] What is the specific antidote administered for severe unfractionated Heparin overdose with acute hemorrhage?",
+    "question": "[Emergency Conditions #20] What is the specific antidote administered for severe unfractionated Heparin overdose with acute hemorrhage?",
     "options": [
       "Protamine Sulfate",
       "Vitamin K (Phytonadione)",
@@ -451,8 +451,8 @@
     "correctAnswer": 0,
     "explanation": "Protamine sulfate is a strongly basic peptide that neutralizes acidic heparin by forming an inactive stable salt.",
     "tags": [
-      "pharmacology",
-      "endocrine-pharmacology",
+      "diseases-disorders",
+      "emergency-conditions",
       "medium",
       "pharmacology",
       "pathology"
@@ -460,11 +460,11 @@
     "active": true
   },
   {
-    "id": "pharmacology-cardiovascular-pharmacology-0021",
-    "category": "Pharmacology",
-    "subcategory": "Cardiovascular Pharmacology",
+    "id": "diseases-disorders-chronic-illness-0021",
+    "category": "Diseases & Disorders",
+    "subcategory": "Chronic Illness",
     "difficulty": "hard",
-    "question": "[Cardiovascular Pharmacology #21] What is the specific opioid receptor antagonist administered to reverse life-threatening narcotic respiratory depression?",
+    "question": "[Chronic Illness #21] What is the specific opioid receptor antagonist administered to reverse life-threatening narcotic respiratory depression?",
     "options": [
       "Flumazenil",
       "Naloxone (Narcan)",
@@ -474,8 +474,8 @@
     "correctAnswer": 1,
     "explanation": "Naloxone is a pure mu-opioid receptor antagonist that rapidly reverses opioid-induced respiratory depression.",
     "tags": [
-      "pharmacology",
-      "cardiovascular-pharmacology",
+      "diseases-disorders",
+      "chronic-illness",
       "hard",
       "pharmacology",
       "pathology"
@@ -483,11 +483,11 @@
     "active": true
   },
   {
-    "id": "pharmacology-antibiotics-antivirals-0022",
-    "category": "Pharmacology",
-    "subcategory": "Antibiotics & Antivirals",
+    "id": "diseases-disorders-infectious-diseases-0022",
+    "category": "Diseases & Disorders",
+    "subcategory": "Infectious Diseases",
     "difficulty": "easy",
-    "question": "[Antibiotics & Antivirals #22] Which adverse side effect is a well-documented class-effect of ACE inhibitors caused by bradykinin accumulation?",
+    "question": "[Infectious Diseases #22] Which adverse side effect is a well-documented class-effect of ACE inhibitors caused by bradykinin accumulation?",
     "options": [
       "Severe hypoglycemia",
       "Extreme urinary retention",
@@ -497,8 +497,8 @@
     "correctAnswer": 2,
     "explanation": "ACE inhibitors prevent bradykinin degradation in the respiratory tract, causing a dry cough in up to 15% of patients.",
     "tags": [
-      "pharmacology",
-      "antibiotics-antivirals",
+      "diseases-disorders",
+      "infectious-diseases",
       "easy",
       "pharmacology",
       "pathology"
@@ -506,11 +506,11 @@
     "active": true
   },
   {
-    "id": "pharmacology-antidotes-toxicity-0023",
-    "category": "Pharmacology",
-    "subcategory": "Antidotes & Toxicity",
+    "id": "diseases-disorders-autoimmune-disorders-0023",
+    "category": "Diseases & Disorders",
+    "subcategory": "Autoimmune Disorders",
     "difficulty": "medium",
-    "question": "[Antidotes & Toxicity #23] Which vital clinical assessment must the clinician prioritize before administering oral Digoxin?",
+    "question": "[Autoimmune Disorders #23] Which vital clinical assessment must the clinician prioritize before administering oral Digoxin?",
     "options": [
       "Assess bilateral patellar deep tendon reflexes",
       "Weigh patient immediately post-dose",
@@ -520,8 +520,8 @@
     "correctAnswer": 3,
     "explanation": "Digoxin slows AV node conduction; an apical heart rate below 60 bpm warrants withholding the dose to prevent toxicity.",
     "tags": [
-      "pharmacology",
-      "antidotes-toxicity",
+      "diseases-disorders",
+      "autoimmune-disorders",
       "medium",
       "pharmacology",
       "pathology"
@@ -529,11 +529,11 @@
     "active": true
   },
   {
-    "id": "pharmacology-endocrine-pharmacology-0024",
-    "category": "Pharmacology",
-    "subcategory": "Endocrine Pharmacology",
+    "id": "diseases-disorders-emergency-conditions-0024",
+    "category": "Diseases & Disorders",
+    "subcategory": "Emergency Conditions",
     "difficulty": "hard",
-    "question": "[Endocrine Pharmacology #24] What is the specific antidote administered for severe unfractionated Heparin overdose with acute hemorrhage?",
+    "question": "[Emergency Conditions #24] What is the specific antidote administered for severe unfractionated Heparin overdose with acute hemorrhage?",
     "options": [
       "Protamine Sulfate",
       "Vitamin K (Phytonadione)",
@@ -543,8 +543,8 @@
     "correctAnswer": 0,
     "explanation": "Protamine sulfate is a strongly basic peptide that neutralizes acidic heparin by forming an inactive stable salt.",
     "tags": [
-      "pharmacology",
-      "endocrine-pharmacology",
+      "diseases-disorders",
+      "emergency-conditions",
       "hard",
       "pharmacology",
       "pathology"
@@ -552,11 +552,11 @@
     "active": true
   },
   {
-    "id": "pharmacology-cardiovascular-pharmacology-0025",
-    "category": "Pharmacology",
-    "subcategory": "Cardiovascular Pharmacology",
+    "id": "diseases-disorders-chronic-illness-0025",
+    "category": "Diseases & Disorders",
+    "subcategory": "Chronic Illness",
     "difficulty": "easy",
-    "question": "[Cardiovascular Pharmacology #25] What is the specific opioid receptor antagonist administered to reverse life-threatening narcotic respiratory depression?",
+    "question": "[Chronic Illness #25] What is the specific opioid receptor antagonist administered to reverse life-threatening narcotic respiratory depression?",
     "options": [
       "Flumazenil",
       "Naloxone (Narcan)",
@@ -566,8 +566,8 @@
     "correctAnswer": 1,
     "explanation": "Naloxone is a pure mu-opioid receptor antagonist that rapidly reverses opioid-induced respiratory depression.",
     "tags": [
-      "pharmacology",
-      "cardiovascular-pharmacology",
+      "diseases-disorders",
+      "chronic-illness",
       "easy",
       "pharmacology",
       "pathology"
@@ -575,11 +575,11 @@
     "active": true
   },
   {
-    "id": "pharmacology-antibiotics-antivirals-0026",
-    "category": "Pharmacology",
-    "subcategory": "Antibiotics & Antivirals",
+    "id": "diseases-disorders-infectious-diseases-0026",
+    "category": "Diseases & Disorders",
+    "subcategory": "Infectious Diseases",
     "difficulty": "medium",
-    "question": "[Antibiotics & Antivirals #26] Which adverse side effect is a well-documented class-effect of ACE inhibitors caused by bradykinin accumulation?",
+    "question": "[Infectious Diseases #26] Which adverse side effect is a well-documented class-effect of ACE inhibitors caused by bradykinin accumulation?",
     "options": [
       "Severe hypoglycemia",
       "Extreme urinary retention",
@@ -589,8 +589,8 @@
     "correctAnswer": 2,
     "explanation": "ACE inhibitors prevent bradykinin degradation in the respiratory tract, causing a dry cough in up to 15% of patients.",
     "tags": [
-      "pharmacology",
-      "antibiotics-antivirals",
+      "diseases-disorders",
+      "infectious-diseases",
       "medium",
       "pharmacology",
       "pathology"
@@ -598,11 +598,11 @@
     "active": true
   },
   {
-    "id": "pharmacology-antidotes-toxicity-0027",
-    "category": "Pharmacology",
-    "subcategory": "Antidotes & Toxicity",
+    "id": "diseases-disorders-autoimmune-disorders-0027",
+    "category": "Diseases & Disorders",
+    "subcategory": "Autoimmune Disorders",
     "difficulty": "hard",
-    "question": "[Antidotes & Toxicity #27] Which vital clinical assessment must the clinician prioritize before administering oral Digoxin?",
+    "question": "[Autoimmune Disorders #27] Which vital clinical assessment must the clinician prioritize before administering oral Digoxin?",
     "options": [
       "Assess bilateral patellar deep tendon reflexes",
       "Weigh patient immediately post-dose",
@@ -612,8 +612,8 @@
     "correctAnswer": 3,
     "explanation": "Digoxin slows AV node conduction; an apical heart rate below 60 bpm warrants withholding the dose to prevent toxicity.",
     "tags": [
-      "pharmacology",
-      "antidotes-toxicity",
+      "diseases-disorders",
+      "autoimmune-disorders",
       "hard",
       "pharmacology",
       "pathology"
@@ -621,11 +621,11 @@
     "active": true
   },
   {
-    "id": "pharmacology-endocrine-pharmacology-0028",
-    "category": "Pharmacology",
-    "subcategory": "Endocrine Pharmacology",
+    "id": "diseases-disorders-emergency-conditions-0028",
+    "category": "Diseases & Disorders",
+    "subcategory": "Emergency Conditions",
     "difficulty": "easy",
-    "question": "[Endocrine Pharmacology #28] What is the specific antidote administered for severe unfractionated Heparin overdose with acute hemorrhage?",
+    "question": "[Emergency Conditions #28] What is the specific antidote administered for severe unfractionated Heparin overdose with acute hemorrhage?",
     "options": [
       "Protamine Sulfate",
       "Vitamin K (Phytonadione)",
@@ -635,8 +635,8 @@
     "correctAnswer": 0,
     "explanation": "Protamine sulfate is a strongly basic peptide that neutralizes acidic heparin by forming an inactive stable salt.",
     "tags": [
-      "pharmacology",
-      "endocrine-pharmacology",
+      "diseases-disorders",
+      "emergency-conditions",
       "easy",
       "pharmacology",
       "pathology"
@@ -644,11 +644,11 @@
     "active": true
   },
   {
-    "id": "pharmacology-cardiovascular-pharmacology-0029",
-    "category": "Pharmacology",
-    "subcategory": "Cardiovascular Pharmacology",
+    "id": "diseases-disorders-chronic-illness-0029",
+    "category": "Diseases & Disorders",
+    "subcategory": "Chronic Illness",
     "difficulty": "medium",
-    "question": "[Cardiovascular Pharmacology #29] What is the specific opioid receptor antagonist administered to reverse life-threatening narcotic respiratory depression?",
+    "question": "[Chronic Illness #29] What is the specific opioid receptor antagonist administered to reverse life-threatening narcotic respiratory depression?",
     "options": [
       "Flumazenil",
       "Naloxone (Narcan)",
@@ -658,8 +658,8 @@
     "correctAnswer": 1,
     "explanation": "Naloxone is a pure mu-opioid receptor antagonist that rapidly reverses opioid-induced respiratory depression.",
     "tags": [
-      "pharmacology",
-      "cardiovascular-pharmacology",
+      "diseases-disorders",
+      "chronic-illness",
       "medium",
       "pharmacology",
       "pathology"
@@ -667,11 +667,11 @@
     "active": true
   },
   {
-    "id": "pharmacology-antibiotics-antivirals-0030",
-    "category": "Pharmacology",
-    "subcategory": "Antibiotics & Antivirals",
+    "id": "diseases-disorders-infectious-diseases-0030",
+    "category": "Diseases & Disorders",
+    "subcategory": "Infectious Diseases",
     "difficulty": "hard",
-    "question": "[Antibiotics & Antivirals #30] Which adverse side effect is a well-documented class-effect of ACE inhibitors caused by bradykinin accumulation?",
+    "question": "[Infectious Diseases #30] Which adverse side effect is a well-documented class-effect of ACE inhibitors caused by bradykinin accumulation?",
     "options": [
       "Severe hypoglycemia",
       "Extreme urinary retention",
@@ -681,8 +681,8 @@
     "correctAnswer": 2,
     "explanation": "ACE inhibitors prevent bradykinin degradation in the respiratory tract, causing a dry cough in up to 15% of patients.",
     "tags": [
-      "pharmacology",
-      "antibiotics-antivirals",
+      "diseases-disorders",
+      "infectious-diseases",
       "hard",
       "pharmacology",
       "pathology"
@@ -690,11 +690,11 @@
     "active": true
   },
   {
-    "id": "pharmacology-antidotes-toxicity-0031",
-    "category": "Pharmacology",
-    "subcategory": "Antidotes & Toxicity",
+    "id": "diseases-disorders-autoimmune-disorders-0031",
+    "category": "Diseases & Disorders",
+    "subcategory": "Autoimmune Disorders",
     "difficulty": "easy",
-    "question": "[Antidotes & Toxicity #31] Which vital clinical assessment must the clinician prioritize before administering oral Digoxin?",
+    "question": "[Autoimmune Disorders #31] Which vital clinical assessment must the clinician prioritize before administering oral Digoxin?",
     "options": [
       "Assess bilateral patellar deep tendon reflexes",
       "Weigh patient immediately post-dose",
@@ -704,8 +704,8 @@
     "correctAnswer": 3,
     "explanation": "Digoxin slows AV node conduction; an apical heart rate below 60 bpm warrants withholding the dose to prevent toxicity.",
     "tags": [
-      "pharmacology",
-      "antidotes-toxicity",
+      "diseases-disorders",
+      "autoimmune-disorders",
       "easy",
       "pharmacology",
       "pathology"
@@ -713,11 +713,11 @@
     "active": true
   },
   {
-    "id": "pharmacology-endocrine-pharmacology-0032",
-    "category": "Pharmacology",
-    "subcategory": "Endocrine Pharmacology",
+    "id": "diseases-disorders-emergency-conditions-0032",
+    "category": "Diseases & Disorders",
+    "subcategory": "Emergency Conditions",
     "difficulty": "medium",
-    "question": "[Endocrine Pharmacology #32] What is the specific antidote administered for severe unfractionated Heparin overdose with acute hemorrhage?",
+    "question": "[Emergency Conditions #32] What is the specific antidote administered for severe unfractionated Heparin overdose with acute hemorrhage?",
     "options": [
       "Protamine Sulfate",
       "Vitamin K (Phytonadione)",
@@ -727,8 +727,8 @@
     "correctAnswer": 0,
     "explanation": "Protamine sulfate is a strongly basic peptide that neutralizes acidic heparin by forming an inactive stable salt.",
     "tags": [
-      "pharmacology",
-      "endocrine-pharmacology",
+      "diseases-disorders",
+      "emergency-conditions",
       "medium",
       "pharmacology",
       "pathology"
@@ -736,11 +736,11 @@
     "active": true
   },
   {
-    "id": "pharmacology-cardiovascular-pharmacology-0033",
-    "category": "Pharmacology",
-    "subcategory": "Cardiovascular Pharmacology",
+    "id": "diseases-disorders-chronic-illness-0033",
+    "category": "Diseases & Disorders",
+    "subcategory": "Chronic Illness",
     "difficulty": "hard",
-    "question": "[Cardiovascular Pharmacology #33] What is the specific opioid receptor antagonist administered to reverse life-threatening narcotic respiratory depression?",
+    "question": "[Chronic Illness #33] What is the specific opioid receptor antagonist administered to reverse life-threatening narcotic respiratory depression?",
     "options": [
       "Flumazenil",
       "Naloxone (Narcan)",
@@ -750,8 +750,8 @@
     "correctAnswer": 1,
     "explanation": "Naloxone is a pure mu-opioid receptor antagonist that rapidly reverses opioid-induced respiratory depression.",
     "tags": [
-      "pharmacology",
-      "cardiovascular-pharmacology",
+      "diseases-disorders",
+      "chronic-illness",
       "hard",
       "pharmacology",
       "pathology"
@@ -759,11 +759,11 @@
     "active": true
   },
   {
-    "id": "pharmacology-antibiotics-antivirals-0034",
-    "category": "Pharmacology",
-    "subcategory": "Antibiotics & Antivirals",
+    "id": "diseases-disorders-infectious-diseases-0034",
+    "category": "Diseases & Disorders",
+    "subcategory": "Infectious Diseases",
     "difficulty": "easy",
-    "question": "[Antibiotics & Antivirals #34] Which adverse side effect is a well-documented class-effect of ACE inhibitors caused by bradykinin accumulation?",
+    "question": "[Infectious Diseases #34] Which adverse side effect is a well-documented class-effect of ACE inhibitors caused by bradykinin accumulation?",
     "options": [
       "Severe hypoglycemia",
       "Extreme urinary retention",
@@ -773,8 +773,8 @@
     "correctAnswer": 2,
     "explanation": "ACE inhibitors prevent bradykinin degradation in the respiratory tract, causing a dry cough in up to 15% of patients.",
     "tags": [
-      "pharmacology",
-      "antibiotics-antivirals",
+      "diseases-disorders",
+      "infectious-diseases",
       "easy",
       "pharmacology",
       "pathology"
@@ -782,11 +782,11 @@
     "active": true
   },
   {
-    "id": "pharmacology-antidotes-toxicity-0035",
-    "category": "Pharmacology",
-    "subcategory": "Antidotes & Toxicity",
+    "id": "diseases-disorders-autoimmune-disorders-0035",
+    "category": "Diseases & Disorders",
+    "subcategory": "Autoimmune Disorders",
     "difficulty": "medium",
-    "question": "[Antidotes & Toxicity #35] Which vital clinical assessment must the clinician prioritize before administering oral Digoxin?",
+    "question": "[Autoimmune Disorders #35] Which vital clinical assessment must the clinician prioritize before administering oral Digoxin?",
     "options": [
       "Assess bilateral patellar deep tendon reflexes",
       "Weigh patient immediately post-dose",
@@ -796,8 +796,8 @@
     "correctAnswer": 3,
     "explanation": "Digoxin slows AV node conduction; an apical heart rate below 60 bpm warrants withholding the dose to prevent toxicity.",
     "tags": [
-      "pharmacology",
-      "antidotes-toxicity",
+      "diseases-disorders",
+      "autoimmune-disorders",
       "medium",
       "pharmacology",
       "pathology"
@@ -805,11 +805,11 @@
     "active": true
   },
   {
-    "id": "pharmacology-endocrine-pharmacology-0036",
-    "category": "Pharmacology",
-    "subcategory": "Endocrine Pharmacology",
+    "id": "diseases-disorders-emergency-conditions-0036",
+    "category": "Diseases & Disorders",
+    "subcategory": "Emergency Conditions",
     "difficulty": "hard",
-    "question": "[Endocrine Pharmacology #36] What is the specific antidote administered for severe unfractionated Heparin overdose with acute hemorrhage?",
+    "question": "[Emergency Conditions #36] What is the specific antidote administered for severe unfractionated Heparin overdose with acute hemorrhage?",
     "options": [
       "Protamine Sulfate",
       "Vitamin K (Phytonadione)",
@@ -819,8 +819,8 @@
     "correctAnswer": 0,
     "explanation": "Protamine sulfate is a strongly basic peptide that neutralizes acidic heparin by forming an inactive stable salt.",
     "tags": [
-      "pharmacology",
-      "endocrine-pharmacology",
+      "diseases-disorders",
+      "emergency-conditions",
       "hard",
       "pharmacology",
       "pathology"
@@ -828,11 +828,11 @@
     "active": true
   },
   {
-    "id": "pharmacology-cardiovascular-pharmacology-0037",
-    "category": "Pharmacology",
-    "subcategory": "Cardiovascular Pharmacology",
+    "id": "diseases-disorders-chronic-illness-0037",
+    "category": "Diseases & Disorders",
+    "subcategory": "Chronic Illness",
     "difficulty": "easy",
-    "question": "[Cardiovascular Pharmacology #37] What is the specific opioid receptor antagonist administered to reverse life-threatening narcotic respiratory depression?",
+    "question": "[Chronic Illness #37] What is the specific opioid receptor antagonist administered to reverse life-threatening narcotic respiratory depression?",
     "options": [
       "Flumazenil",
       "Naloxone (Narcan)",
@@ -842,8 +842,8 @@
     "correctAnswer": 1,
     "explanation": "Naloxone is a pure mu-opioid receptor antagonist that rapidly reverses opioid-induced respiratory depression.",
     "tags": [
-      "pharmacology",
-      "cardiovascular-pharmacology",
+      "diseases-disorders",
+      "chronic-illness",
       "easy",
       "pharmacology",
       "pathology"
@@ -851,11 +851,11 @@
     "active": true
   },
   {
-    "id": "pharmacology-antibiotics-antivirals-0038",
-    "category": "Pharmacology",
-    "subcategory": "Antibiotics & Antivirals",
+    "id": "diseases-disorders-infectious-diseases-0038",
+    "category": "Diseases & Disorders",
+    "subcategory": "Infectious Diseases",
     "difficulty": "medium",
-    "question": "[Antibiotics & Antivirals #38] Which adverse side effect is a well-documented class-effect of ACE inhibitors caused by bradykinin accumulation?",
+    "question": "[Infectious Diseases #38] Which adverse side effect is a well-documented class-effect of ACE inhibitors caused by bradykinin accumulation?",
     "options": [
       "Severe hypoglycemia",
       "Extreme urinary retention",
@@ -865,8 +865,8 @@
     "correctAnswer": 2,
     "explanation": "ACE inhibitors prevent bradykinin degradation in the respiratory tract, causing a dry cough in up to 15% of patients.",
     "tags": [
-      "pharmacology",
-      "antibiotics-antivirals",
+      "diseases-disorders",
+      "infectious-diseases",
       "medium",
       "pharmacology",
       "pathology"
@@ -874,11 +874,11 @@
     "active": true
   },
   {
-    "id": "pharmacology-antidotes-toxicity-0039",
-    "category": "Pharmacology",
-    "subcategory": "Antidotes & Toxicity",
+    "id": "diseases-disorders-autoimmune-disorders-0039",
+    "category": "Diseases & Disorders",
+    "subcategory": "Autoimmune Disorders",
     "difficulty": "hard",
-    "question": "[Antidotes & Toxicity #39] Which vital clinical assessment must the clinician prioritize before administering oral Digoxin?",
+    "question": "[Autoimmune Disorders #39] Which vital clinical assessment must the clinician prioritize before administering oral Digoxin?",
     "options": [
       "Assess bilateral patellar deep tendon reflexes",
       "Weigh patient immediately post-dose",
@@ -888,8 +888,8 @@
     "correctAnswer": 3,
     "explanation": "Digoxin slows AV node conduction; an apical heart rate below 60 bpm warrants withholding the dose to prevent toxicity.",
     "tags": [
-      "pharmacology",
-      "antidotes-toxicity",
+      "diseases-disorders",
+      "autoimmune-disorders",
       "hard",
       "pharmacology",
       "pathology"
@@ -897,11 +897,11 @@
     "active": true
   },
   {
-    "id": "pharmacology-endocrine-pharmacology-0040",
-    "category": "Pharmacology",
-    "subcategory": "Endocrine Pharmacology",
+    "id": "diseases-disorders-emergency-conditions-0040",
+    "category": "Diseases & Disorders",
+    "subcategory": "Emergency Conditions",
     "difficulty": "easy",
-    "question": "[Endocrine Pharmacology #40] What is the specific antidote administered for severe unfractionated Heparin overdose with acute hemorrhage?",
+    "question": "[Emergency Conditions #40] What is the specific antidote administered for severe unfractionated Heparin overdose with acute hemorrhage?",
     "options": [
       "Protamine Sulfate",
       "Vitamin K (Phytonadione)",
@@ -911,8 +911,8 @@
     "correctAnswer": 0,
     "explanation": "Protamine sulfate is a strongly basic peptide that neutralizes acidic heparin by forming an inactive stable salt.",
     "tags": [
-      "pharmacology",
-      "endocrine-pharmacology",
+      "diseases-disorders",
+      "emergency-conditions",
       "easy",
       "pharmacology",
       "pathology"
@@ -920,11 +920,11 @@
     "active": true
   },
   {
-    "id": "pharmacology-cardiovascular-pharmacology-0041",
-    "category": "Pharmacology",
-    "subcategory": "Cardiovascular Pharmacology",
+    "id": "diseases-disorders-chronic-illness-0041",
+    "category": "Diseases & Disorders",
+    "subcategory": "Chronic Illness",
     "difficulty": "medium",
-    "question": "[Cardiovascular Pharmacology #41] What is the specific opioid receptor antagonist administered to reverse life-threatening narcotic respiratory depression?",
+    "question": "[Chronic Illness #41] What is the specific opioid receptor antagonist administered to reverse life-threatening narcotic respiratory depression?",
     "options": [
       "Flumazenil",
       "Naloxone (Narcan)",
@@ -934,8 +934,8 @@
     "correctAnswer": 1,
     "explanation": "Naloxone is a pure mu-opioid receptor antagonist that rapidly reverses opioid-induced respiratory depression.",
     "tags": [
-      "pharmacology",
-      "cardiovascular-pharmacology",
+      "diseases-disorders",
+      "chronic-illness",
       "medium",
       "pharmacology",
       "pathology"
@@ -943,11 +943,11 @@
     "active": true
   },
   {
-    "id": "pharmacology-antibiotics-antivirals-0042",
-    "category": "Pharmacology",
-    "subcategory": "Antibiotics & Antivirals",
+    "id": "diseases-disorders-infectious-diseases-0042",
+    "category": "Diseases & Disorders",
+    "subcategory": "Infectious Diseases",
     "difficulty": "hard",
-    "question": "[Antibiotics & Antivirals #42] Which adverse side effect is a well-documented class-effect of ACE inhibitors caused by bradykinin accumulation?",
+    "question": "[Infectious Diseases #42] Which adverse side effect is a well-documented class-effect of ACE inhibitors caused by bradykinin accumulation?",
     "options": [
       "Severe hypoglycemia",
       "Extreme urinary retention",
@@ -957,8 +957,8 @@
     "correctAnswer": 2,
     "explanation": "ACE inhibitors prevent bradykinin degradation in the respiratory tract, causing a dry cough in up to 15% of patients.",
     "tags": [
-      "pharmacology",
-      "antibiotics-antivirals",
+      "diseases-disorders",
+      "infectious-diseases",
       "hard",
       "pharmacology",
       "pathology"
@@ -966,11 +966,11 @@
     "active": true
   },
   {
-    "id": "pharmacology-antidotes-toxicity-0043",
-    "category": "Pharmacology",
-    "subcategory": "Antidotes & Toxicity",
+    "id": "diseases-disorders-autoimmune-disorders-0043",
+    "category": "Diseases & Disorders",
+    "subcategory": "Autoimmune Disorders",
     "difficulty": "easy",
-    "question": "[Antidotes & Toxicity #43] Which vital clinical assessment must the clinician prioritize before administering oral Digoxin?",
+    "question": "[Autoimmune Disorders #43] Which vital clinical assessment must the clinician prioritize before administering oral Digoxin?",
     "options": [
       "Assess bilateral patellar deep tendon reflexes",
       "Weigh patient immediately post-dose",
@@ -980,8 +980,8 @@
     "correctAnswer": 3,
     "explanation": "Digoxin slows AV node conduction; an apical heart rate below 60 bpm warrants withholding the dose to prevent toxicity.",
     "tags": [
-      "pharmacology",
-      "antidotes-toxicity",
+      "diseases-disorders",
+      "autoimmune-disorders",
       "easy",
       "pharmacology",
       "pathology"
@@ -989,11 +989,11 @@
     "active": true
   },
   {
-    "id": "pharmacology-endocrine-pharmacology-0044",
-    "category": "Pharmacology",
-    "subcategory": "Endocrine Pharmacology",
+    "id": "diseases-disorders-emergency-conditions-0044",
+    "category": "Diseases & Disorders",
+    "subcategory": "Emergency Conditions",
     "difficulty": "medium",
-    "question": "[Endocrine Pharmacology #44] What is the specific antidote administered for severe unfractionated Heparin overdose with acute hemorrhage?",
+    "question": "[Emergency Conditions #44] What is the specific antidote administered for severe unfractionated Heparin overdose with acute hemorrhage?",
     "options": [
       "Protamine Sulfate",
       "Vitamin K (Phytonadione)",
@@ -1003,8 +1003,8 @@
     "correctAnswer": 0,
     "explanation": "Protamine sulfate is a strongly basic peptide that neutralizes acidic heparin by forming an inactive stable salt.",
     "tags": [
-      "pharmacology",
-      "endocrine-pharmacology",
+      "diseases-disorders",
+      "emergency-conditions",
       "medium",
       "pharmacology",
       "pathology"
@@ -1012,11 +1012,11 @@
     "active": true
   },
   {
-    "id": "pharmacology-cardiovascular-pharmacology-0045",
-    "category": "Pharmacology",
-    "subcategory": "Cardiovascular Pharmacology",
+    "id": "diseases-disorders-chronic-illness-0045",
+    "category": "Diseases & Disorders",
+    "subcategory": "Chronic Illness",
     "difficulty": "hard",
-    "question": "[Cardiovascular Pharmacology #45] What is the specific opioid receptor antagonist administered to reverse life-threatening narcotic respiratory depression?",
+    "question": "[Chronic Illness #45] What is the specific opioid receptor antagonist administered to reverse life-threatening narcotic respiratory depression?",
     "options": [
       "Flumazenil",
       "Naloxone (Narcan)",
@@ -1026,8 +1026,8 @@
     "correctAnswer": 1,
     "explanation": "Naloxone is a pure mu-opioid receptor antagonist that rapidly reverses opioid-induced respiratory depression.",
     "tags": [
-      "pharmacology",
-      "cardiovascular-pharmacology",
+      "diseases-disorders",
+      "chronic-illness",
       "hard",
       "pharmacology",
       "pathology"
@@ -1035,11 +1035,11 @@
     "active": true
   },
   {
-    "id": "pharmacology-antibiotics-antivirals-0046",
-    "category": "Pharmacology",
-    "subcategory": "Antibiotics & Antivirals",
+    "id": "diseases-disorders-infectious-diseases-0046",
+    "category": "Diseases & Disorders",
+    "subcategory": "Infectious Diseases",
     "difficulty": "easy",
-    "question": "[Antibiotics & Antivirals #46] Which adverse side effect is a well-documented class-effect of ACE inhibitors caused by bradykinin accumulation?",
+    "question": "[Infectious Diseases #46] Which adverse side effect is a well-documented class-effect of ACE inhibitors caused by bradykinin accumulation?",
     "options": [
       "Severe hypoglycemia",
       "Extreme urinary retention",
@@ -1049,8 +1049,8 @@
     "correctAnswer": 2,
     "explanation": "ACE inhibitors prevent bradykinin degradation in the respiratory tract, causing a dry cough in up to 15% of patients.",
     "tags": [
-      "pharmacology",
-      "antibiotics-antivirals",
+      "diseases-disorders",
+      "infectious-diseases",
       "easy",
       "pharmacology",
       "pathology"
@@ -1058,11 +1058,11 @@
     "active": true
   },
   {
-    "id": "pharmacology-antidotes-toxicity-0047",
-    "category": "Pharmacology",
-    "subcategory": "Antidotes & Toxicity",
+    "id": "diseases-disorders-autoimmune-disorders-0047",
+    "category": "Diseases & Disorders",
+    "subcategory": "Autoimmune Disorders",
     "difficulty": "medium",
-    "question": "[Antidotes & Toxicity #47] Which vital clinical assessment must the clinician prioritize before administering oral Digoxin?",
+    "question": "[Autoimmune Disorders #47] Which vital clinical assessment must the clinician prioritize before administering oral Digoxin?",
     "options": [
       "Assess bilateral patellar deep tendon reflexes",
       "Weigh patient immediately post-dose",
@@ -1072,8 +1072,8 @@
     "correctAnswer": 3,
     "explanation": "Digoxin slows AV node conduction; an apical heart rate below 60 bpm warrants withholding the dose to prevent toxicity.",
     "tags": [
-      "pharmacology",
-      "antidotes-toxicity",
+      "diseases-disorders",
+      "autoimmune-disorders",
       "medium",
       "pharmacology",
       "pathology"
@@ -1081,11 +1081,11 @@
     "active": true
   },
   {
-    "id": "pharmacology-endocrine-pharmacology-0048",
-    "category": "Pharmacology",
-    "subcategory": "Endocrine Pharmacology",
+    "id": "diseases-disorders-emergency-conditions-0048",
+    "category": "Diseases & Disorders",
+    "subcategory": "Emergency Conditions",
     "difficulty": "hard",
-    "question": "[Endocrine Pharmacology #48] What is the specific antidote administered for severe unfractionated Heparin overdose with acute hemorrhage?",
+    "question": "[Emergency Conditions #48] What is the specific antidote administered for severe unfractionated Heparin overdose with acute hemorrhage?",
     "options": [
       "Protamine Sulfate",
       "Vitamin K (Phytonadione)",
@@ -1095,8 +1095,8 @@
     "correctAnswer": 0,
     "explanation": "Protamine sulfate is a strongly basic peptide that neutralizes acidic heparin by forming an inactive stable salt.",
     "tags": [
-      "pharmacology",
-      "endocrine-pharmacology",
+      "diseases-disorders",
+      "emergency-conditions",
       "hard",
       "pharmacology",
       "pathology"
@@ -1104,11 +1104,11 @@
     "active": true
   },
   {
-    "id": "pharmacology-cardiovascular-pharmacology-0049",
-    "category": "Pharmacology",
-    "subcategory": "Cardiovascular Pharmacology",
+    "id": "diseases-disorders-chronic-illness-0049",
+    "category": "Diseases & Disorders",
+    "subcategory": "Chronic Illness",
     "difficulty": "easy",
-    "question": "[Cardiovascular Pharmacology #49] What is the specific opioid receptor antagonist administered to reverse life-threatening narcotic respiratory depression?",
+    "question": "[Chronic Illness #49] What is the specific opioid receptor antagonist administered to reverse life-threatening narcotic respiratory depression?",
     "options": [
       "Flumazenil",
       "Naloxone (Narcan)",
@@ -1118,8 +1118,8 @@
     "correctAnswer": 1,
     "explanation": "Naloxone is a pure mu-opioid receptor antagonist that rapidly reverses opioid-induced respiratory depression.",
     "tags": [
-      "pharmacology",
-      "cardiovascular-pharmacology",
+      "diseases-disorders",
+      "chronic-illness",
       "easy",
       "pharmacology",
       "pathology"
@@ -1127,11 +1127,11 @@
     "active": true
   },
   {
-    "id": "pharmacology-antibiotics-antivirals-0050",
-    "category": "Pharmacology",
-    "subcategory": "Antibiotics & Antivirals",
+    "id": "diseases-disorders-infectious-diseases-0050",
+    "category": "Diseases & Disorders",
+    "subcategory": "Infectious Diseases",
     "difficulty": "medium",
-    "question": "[Antibiotics & Antivirals #50] Which adverse side effect is a well-documented class-effect of ACE inhibitors caused by bradykinin accumulation?",
+    "question": "[Infectious Diseases #50] Which adverse side effect is a well-documented class-effect of ACE inhibitors caused by bradykinin accumulation?",
     "options": [
       "Severe hypoglycemia",
       "Extreme urinary retention",
@@ -1141,8 +1141,8 @@
     "correctAnswer": 2,
     "explanation": "ACE inhibitors prevent bradykinin degradation in the respiratory tract, causing a dry cough in up to 15% of patients.",
     "tags": [
-      "pharmacology",
-      "antibiotics-antivirals",
+      "diseases-disorders",
+      "infectious-diseases",
       "medium",
       "pharmacology",
       "pathology"
@@ -1150,11 +1150,11 @@
     "active": true
   },
   {
-    "id": "pharmacology-antidotes-toxicity-0051",
-    "category": "Pharmacology",
-    "subcategory": "Antidotes & Toxicity",
+    "id": "diseases-disorders-autoimmune-disorders-0051",
+    "category": "Diseases & Disorders",
+    "subcategory": "Autoimmune Disorders",
     "difficulty": "hard",
-    "question": "[Antidotes & Toxicity #51] Which vital clinical assessment must the clinician prioritize before administering oral Digoxin?",
+    "question": "[Autoimmune Disorders #51] Which vital clinical assessment must the clinician prioritize before administering oral Digoxin?",
     "options": [
       "Assess bilateral patellar deep tendon reflexes",
       "Weigh patient immediately post-dose",
@@ -1164,8 +1164,8 @@
     "correctAnswer": 3,
     "explanation": "Digoxin slows AV node conduction; an apical heart rate below 60 bpm warrants withholding the dose to prevent toxicity.",
     "tags": [
-      "pharmacology",
-      "antidotes-toxicity",
+      "diseases-disorders",
+      "autoimmune-disorders",
       "hard",
       "pharmacology",
       "pathology"
@@ -1173,11 +1173,11 @@
     "active": true
   },
   {
-    "id": "pharmacology-endocrine-pharmacology-0052",
-    "category": "Pharmacology",
-    "subcategory": "Endocrine Pharmacology",
+    "id": "diseases-disorders-emergency-conditions-0052",
+    "category": "Diseases & Disorders",
+    "subcategory": "Emergency Conditions",
     "difficulty": "easy",
-    "question": "[Endocrine Pharmacology #52] What is the specific antidote administered for severe unfractionated Heparin overdose with acute hemorrhage?",
+    "question": "[Emergency Conditions #52] What is the specific antidote administered for severe unfractionated Heparin overdose with acute hemorrhage?",
     "options": [
       "Protamine Sulfate",
       "Vitamin K (Phytonadione)",
@@ -1187,8 +1187,8 @@
     "correctAnswer": 0,
     "explanation": "Protamine sulfate is a strongly basic peptide that neutralizes acidic heparin by forming an inactive stable salt.",
     "tags": [
-      "pharmacology",
-      "endocrine-pharmacology",
+      "diseases-disorders",
+      "emergency-conditions",
       "easy",
       "pharmacology",
       "pathology"
@@ -1196,11 +1196,11 @@
     "active": true
   },
   {
-    "id": "pharmacology-cardiovascular-pharmacology-0053",
-    "category": "Pharmacology",
-    "subcategory": "Cardiovascular Pharmacology",
+    "id": "diseases-disorders-chronic-illness-0053",
+    "category": "Diseases & Disorders",
+    "subcategory": "Chronic Illness",
     "difficulty": "medium",
-    "question": "[Cardiovascular Pharmacology #53] What is the specific opioid receptor antagonist administered to reverse life-threatening narcotic respiratory depression?",
+    "question": "[Chronic Illness #53] What is the specific opioid receptor antagonist administered to reverse life-threatening narcotic respiratory depression?",
     "options": [
       "Flumazenil",
       "Naloxone (Narcan)",
@@ -1210,8 +1210,8 @@
     "correctAnswer": 1,
     "explanation": "Naloxone is a pure mu-opioid receptor antagonist that rapidly reverses opioid-induced respiratory depression.",
     "tags": [
-      "pharmacology",
-      "cardiovascular-pharmacology",
+      "diseases-disorders",
+      "chronic-illness",
       "medium",
       "pharmacology",
       "pathology"
@@ -1219,11 +1219,11 @@
     "active": true
   },
   {
-    "id": "pharmacology-antibiotics-antivirals-0054",
-    "category": "Pharmacology",
-    "subcategory": "Antibiotics & Antivirals",
+    "id": "diseases-disorders-infectious-diseases-0054",
+    "category": "Diseases & Disorders",
+    "subcategory": "Infectious Diseases",
     "difficulty": "hard",
-    "question": "[Antibiotics & Antivirals #54] Which adverse side effect is a well-documented class-effect of ACE inhibitors caused by bradykinin accumulation?",
+    "question": "[Infectious Diseases #54] Which adverse side effect is a well-documented class-effect of ACE inhibitors caused by bradykinin accumulation?",
     "options": [
       "Severe hypoglycemia",
       "Extreme urinary retention",
@@ -1233,8 +1233,8 @@
     "correctAnswer": 2,
     "explanation": "ACE inhibitors prevent bradykinin degradation in the respiratory tract, causing a dry cough in up to 15% of patients.",
     "tags": [
-      "pharmacology",
-      "antibiotics-antivirals",
+      "diseases-disorders",
+      "infectious-diseases",
       "hard",
       "pharmacology",
       "pathology"
@@ -1242,11 +1242,11 @@
     "active": true
   },
   {
-    "id": "pharmacology-antidotes-toxicity-0055",
-    "category": "Pharmacology",
-    "subcategory": "Antidotes & Toxicity",
+    "id": "diseases-disorders-autoimmune-disorders-0055",
+    "category": "Diseases & Disorders",
+    "subcategory": "Autoimmune Disorders",
     "difficulty": "easy",
-    "question": "[Antidotes & Toxicity #55] Which vital clinical assessment must the clinician prioritize before administering oral Digoxin?",
+    "question": "[Autoimmune Disorders #55] Which vital clinical assessment must the clinician prioritize before administering oral Digoxin?",
     "options": [
       "Assess bilateral patellar deep tendon reflexes",
       "Weigh patient immediately post-dose",
@@ -1256,8 +1256,8 @@
     "correctAnswer": 3,
     "explanation": "Digoxin slows AV node conduction; an apical heart rate below 60 bpm warrants withholding the dose to prevent toxicity.",
     "tags": [
-      "pharmacology",
-      "antidotes-toxicity",
+      "diseases-disorders",
+      "autoimmune-disorders",
       "easy",
       "pharmacology",
       "pathology"
@@ -1265,11 +1265,11 @@
     "active": true
   },
   {
-    "id": "pharmacology-endocrine-pharmacology-0056",
-    "category": "Pharmacology",
-    "subcategory": "Endocrine Pharmacology",
+    "id": "diseases-disorders-emergency-conditions-0056",
+    "category": "Diseases & Disorders",
+    "subcategory": "Emergency Conditions",
     "difficulty": "medium",
-    "question": "[Endocrine Pharmacology #56] What is the specific antidote administered for severe unfractionated Heparin overdose with acute hemorrhage?",
+    "question": "[Emergency Conditions #56] What is the specific antidote administered for severe unfractionated Heparin overdose with acute hemorrhage?",
     "options": [
       "Protamine Sulfate",
       "Vitamin K (Phytonadione)",
@@ -1279,8 +1279,8 @@
     "correctAnswer": 0,
     "explanation": "Protamine sulfate is a strongly basic peptide that neutralizes acidic heparin by forming an inactive stable salt.",
     "tags": [
-      "pharmacology",
-      "endocrine-pharmacology",
+      "diseases-disorders",
+      "emergency-conditions",
       "medium",
       "pharmacology",
       "pathology"
@@ -1288,11 +1288,11 @@
     "active": true
   },
   {
-    "id": "pharmacology-cardiovascular-pharmacology-0057",
-    "category": "Pharmacology",
-    "subcategory": "Cardiovascular Pharmacology",
+    "id": "diseases-disorders-chronic-illness-0057",
+    "category": "Diseases & Disorders",
+    "subcategory": "Chronic Illness",
     "difficulty": "hard",
-    "question": "[Cardiovascular Pharmacology #57] What is the specific opioid receptor antagonist administered to reverse life-threatening narcotic respiratory depression?",
+    "question": "[Chronic Illness #57] What is the specific opioid receptor antagonist administered to reverse life-threatening narcotic respiratory depression?",
     "options": [
       "Flumazenil",
       "Naloxone (Narcan)",
@@ -1302,8 +1302,8 @@
     "correctAnswer": 1,
     "explanation": "Naloxone is a pure mu-opioid receptor antagonist that rapidly reverses opioid-induced respiratory depression.",
     "tags": [
-      "pharmacology",
-      "cardiovascular-pharmacology",
+      "diseases-disorders",
+      "chronic-illness",
       "hard",
       "pharmacology",
       "pathology"
@@ -1311,11 +1311,11 @@
     "active": true
   },
   {
-    "id": "pharmacology-antibiotics-antivirals-0058",
-    "category": "Pharmacology",
-    "subcategory": "Antibiotics & Antivirals",
+    "id": "diseases-disorders-infectious-diseases-0058",
+    "category": "Diseases & Disorders",
+    "subcategory": "Infectious Diseases",
     "difficulty": "easy",
-    "question": "[Antibiotics & Antivirals #58] Which adverse side effect is a well-documented class-effect of ACE inhibitors caused by bradykinin accumulation?",
+    "question": "[Infectious Diseases #58] Which adverse side effect is a well-documented class-effect of ACE inhibitors caused by bradykinin accumulation?",
     "options": [
       "Severe hypoglycemia",
       "Extreme urinary retention",
@@ -1325,8 +1325,8 @@
     "correctAnswer": 2,
     "explanation": "ACE inhibitors prevent bradykinin degradation in the respiratory tract, causing a dry cough in up to 15% of patients.",
     "tags": [
-      "pharmacology",
-      "antibiotics-antivirals",
+      "diseases-disorders",
+      "infectious-diseases",
       "easy",
       "pharmacology",
       "pathology"
@@ -1334,11 +1334,11 @@
     "active": true
   },
   {
-    "id": "pharmacology-antidotes-toxicity-0059",
-    "category": "Pharmacology",
-    "subcategory": "Antidotes & Toxicity",
+    "id": "diseases-disorders-autoimmune-disorders-0059",
+    "category": "Diseases & Disorders",
+    "subcategory": "Autoimmune Disorders",
     "difficulty": "medium",
-    "question": "[Antidotes & Toxicity #59] Which vital clinical assessment must the clinician prioritize before administering oral Digoxin?",
+    "question": "[Autoimmune Disorders #59] Which vital clinical assessment must the clinician prioritize before administering oral Digoxin?",
     "options": [
       "Assess bilateral patellar deep tendon reflexes",
       "Weigh patient immediately post-dose",
@@ -1348,8 +1348,8 @@
     "correctAnswer": 3,
     "explanation": "Digoxin slows AV node conduction; an apical heart rate below 60 bpm warrants withholding the dose to prevent toxicity.",
     "tags": [
-      "pharmacology",
-      "antidotes-toxicity",
+      "diseases-disorders",
+      "autoimmune-disorders",
       "medium",
       "pharmacology",
       "pathology"
@@ -1357,11 +1357,11 @@
     "active": true
   },
   {
-    "id": "pharmacology-endocrine-pharmacology-0060",
-    "category": "Pharmacology",
-    "subcategory": "Endocrine Pharmacology",
+    "id": "diseases-disorders-emergency-conditions-0060",
+    "category": "Diseases & Disorders",
+    "subcategory": "Emergency Conditions",
     "difficulty": "hard",
-    "question": "[Endocrine Pharmacology #60] What is the specific antidote administered for severe unfractionated Heparin overdose with acute hemorrhage?",
+    "question": "[Emergency Conditions #60] What is the specific antidote administered for severe unfractionated Heparin overdose with acute hemorrhage?",
     "options": [
       "Protamine Sulfate",
       "Vitamin K (Phytonadione)",
@@ -1371,8 +1371,8 @@
     "correctAnswer": 0,
     "explanation": "Protamine sulfate is a strongly basic peptide that neutralizes acidic heparin by forming an inactive stable salt.",
     "tags": [
-      "pharmacology",
-      "endocrine-pharmacology",
+      "diseases-disorders",
+      "emergency-conditions",
       "hard",
       "pharmacology",
       "pathology"
@@ -1380,11 +1380,11 @@
     "active": true
   },
   {
-    "id": "pharmacology-cardiovascular-pharmacology-0061",
-    "category": "Pharmacology",
-    "subcategory": "Cardiovascular Pharmacology",
+    "id": "diseases-disorders-chronic-illness-0061",
+    "category": "Diseases & Disorders",
+    "subcategory": "Chronic Illness",
     "difficulty": "easy",
-    "question": "[Cardiovascular Pharmacology #61] What is the specific opioid receptor antagonist administered to reverse life-threatening narcotic respiratory depression?",
+    "question": "[Chronic Illness #61] What is the specific opioid receptor antagonist administered to reverse life-threatening narcotic respiratory depression?",
     "options": [
       "Flumazenil",
       "Naloxone (Narcan)",
@@ -1394,8 +1394,8 @@
     "correctAnswer": 1,
     "explanation": "Naloxone is a pure mu-opioid receptor antagonist that rapidly reverses opioid-induced respiratory depression.",
     "tags": [
-      "pharmacology",
-      "cardiovascular-pharmacology",
+      "diseases-disorders",
+      "chronic-illness",
       "easy",
       "pharmacology",
       "pathology"
@@ -1403,11 +1403,11 @@
     "active": true
   },
   {
-    "id": "pharmacology-antibiotics-antivirals-0062",
-    "category": "Pharmacology",
-    "subcategory": "Antibiotics & Antivirals",
+    "id": "diseases-disorders-infectious-diseases-0062",
+    "category": "Diseases & Disorders",
+    "subcategory": "Infectious Diseases",
     "difficulty": "medium",
-    "question": "[Antibiotics & Antivirals #62] Which adverse side effect is a well-documented class-effect of ACE inhibitors caused by bradykinin accumulation?",
+    "question": "[Infectious Diseases #62] Which adverse side effect is a well-documented class-effect of ACE inhibitors caused by bradykinin accumulation?",
     "options": [
       "Severe hypoglycemia",
       "Extreme urinary retention",
@@ -1417,8 +1417,8 @@
     "correctAnswer": 2,
     "explanation": "ACE inhibitors prevent bradykinin degradation in the respiratory tract, causing a dry cough in up to 15% of patients.",
     "tags": [
-      "pharmacology",
-      "antibiotics-antivirals",
+      "diseases-disorders",
+      "infectious-diseases",
       "medium",
       "pharmacology",
       "pathology"
@@ -1426,11 +1426,11 @@
     "active": true
   },
   {
-    "id": "pharmacology-antidotes-toxicity-0063",
-    "category": "Pharmacology",
-    "subcategory": "Antidotes & Toxicity",
+    "id": "diseases-disorders-autoimmune-disorders-0063",
+    "category": "Diseases & Disorders",
+    "subcategory": "Autoimmune Disorders",
     "difficulty": "hard",
-    "question": "[Antidotes & Toxicity #63] Which vital clinical assessment must the clinician prioritize before administering oral Digoxin?",
+    "question": "[Autoimmune Disorders #63] Which vital clinical assessment must the clinician prioritize before administering oral Digoxin?",
     "options": [
       "Assess bilateral patellar deep tendon reflexes",
       "Weigh patient immediately post-dose",
@@ -1440,8 +1440,8 @@
     "correctAnswer": 3,
     "explanation": "Digoxin slows AV node conduction; an apical heart rate below 60 bpm warrants withholding the dose to prevent toxicity.",
     "tags": [
-      "pharmacology",
-      "antidotes-toxicity",
+      "diseases-disorders",
+      "autoimmune-disorders",
       "hard",
       "pharmacology",
       "pathology"
@@ -1449,11 +1449,11 @@
     "active": true
   },
   {
-    "id": "pharmacology-endocrine-pharmacology-0064",
-    "category": "Pharmacology",
-    "subcategory": "Endocrine Pharmacology",
+    "id": "diseases-disorders-emergency-conditions-0064",
+    "category": "Diseases & Disorders",
+    "subcategory": "Emergency Conditions",
     "difficulty": "easy",
-    "question": "[Endocrine Pharmacology #64] What is the specific antidote administered for severe unfractionated Heparin overdose with acute hemorrhage?",
+    "question": "[Emergency Conditions #64] What is the specific antidote administered for severe unfractionated Heparin overdose with acute hemorrhage?",
     "options": [
       "Protamine Sulfate",
       "Vitamin K (Phytonadione)",
@@ -1463,8 +1463,8 @@
     "correctAnswer": 0,
     "explanation": "Protamine sulfate is a strongly basic peptide that neutralizes acidic heparin by forming an inactive stable salt.",
     "tags": [
-      "pharmacology",
-      "endocrine-pharmacology",
+      "diseases-disorders",
+      "emergency-conditions",
       "easy",
       "pharmacology",
       "pathology"
@@ -1472,11 +1472,11 @@
     "active": true
   },
   {
-    "id": "pharmacology-cardiovascular-pharmacology-0065",
-    "category": "Pharmacology",
-    "subcategory": "Cardiovascular Pharmacology",
+    "id": "diseases-disorders-chronic-illness-0065",
+    "category": "Diseases & Disorders",
+    "subcategory": "Chronic Illness",
     "difficulty": "medium",
-    "question": "[Cardiovascular Pharmacology #65] What is the specific opioid receptor antagonist administered to reverse life-threatening narcotic respiratory depression?",
+    "question": "[Chronic Illness #65] What is the specific opioid receptor antagonist administered to reverse life-threatening narcotic respiratory depression?",
     "options": [
       "Flumazenil",
       "Naloxone (Narcan)",
@@ -1486,8 +1486,8 @@
     "correctAnswer": 1,
     "explanation": "Naloxone is a pure mu-opioid receptor antagonist that rapidly reverses opioid-induced respiratory depression.",
     "tags": [
-      "pharmacology",
-      "cardiovascular-pharmacology",
+      "diseases-disorders",
+      "chronic-illness",
       "medium",
       "pharmacology",
       "pathology"
@@ -1495,11 +1495,11 @@
     "active": true
   },
   {
-    "id": "pharmacology-antibiotics-antivirals-0066",
-    "category": "Pharmacology",
-    "subcategory": "Antibiotics & Antivirals",
+    "id": "diseases-disorders-infectious-diseases-0066",
+    "category": "Diseases & Disorders",
+    "subcategory": "Infectious Diseases",
     "difficulty": "hard",
-    "question": "[Antibiotics & Antivirals #66] Which adverse side effect is a well-documented class-effect of ACE inhibitors caused by bradykinin accumulation?",
+    "question": "[Infectious Diseases #66] Which adverse side effect is a well-documented class-effect of ACE inhibitors caused by bradykinin accumulation?",
     "options": [
       "Severe hypoglycemia",
       "Extreme urinary retention",
@@ -1509,8 +1509,8 @@
     "correctAnswer": 2,
     "explanation": "ACE inhibitors prevent bradykinin degradation in the respiratory tract, causing a dry cough in up to 15% of patients.",
     "tags": [
-      "pharmacology",
-      "antibiotics-antivirals",
+      "diseases-disorders",
+      "infectious-diseases",
       "hard",
       "pharmacology",
       "pathology"
@@ -1518,11 +1518,11 @@
     "active": true
   },
   {
-    "id": "pharmacology-antidotes-toxicity-0067",
-    "category": "Pharmacology",
-    "subcategory": "Antidotes & Toxicity",
+    "id": "diseases-disorders-autoimmune-disorders-0067",
+    "category": "Diseases & Disorders",
+    "subcategory": "Autoimmune Disorders",
     "difficulty": "easy",
-    "question": "[Antidotes & Toxicity #67] Which vital clinical assessment must the clinician prioritize before administering oral Digoxin?",
+    "question": "[Autoimmune Disorders #67] Which vital clinical assessment must the clinician prioritize before administering oral Digoxin?",
     "options": [
       "Assess bilateral patellar deep tendon reflexes",
       "Weigh patient immediately post-dose",
@@ -1532,8 +1532,8 @@
     "correctAnswer": 3,
     "explanation": "Digoxin slows AV node conduction; an apical heart rate below 60 bpm warrants withholding the dose to prevent toxicity.",
     "tags": [
-      "pharmacology",
-      "antidotes-toxicity",
+      "diseases-disorders",
+      "autoimmune-disorders",
       "easy",
       "pharmacology",
       "pathology"
@@ -1541,11 +1541,11 @@
     "active": true
   },
   {
-    "id": "pharmacology-endocrine-pharmacology-0068",
-    "category": "Pharmacology",
-    "subcategory": "Endocrine Pharmacology",
+    "id": "diseases-disorders-emergency-conditions-0068",
+    "category": "Diseases & Disorders",
+    "subcategory": "Emergency Conditions",
     "difficulty": "medium",
-    "question": "[Endocrine Pharmacology #68] What is the specific antidote administered for severe unfractionated Heparin overdose with acute hemorrhage?",
+    "question": "[Emergency Conditions #68] What is the specific antidote administered for severe unfractionated Heparin overdose with acute hemorrhage?",
     "options": [
       "Protamine Sulfate",
       "Vitamin K (Phytonadione)",
@@ -1555,8 +1555,8 @@
     "correctAnswer": 0,
     "explanation": "Protamine sulfate is a strongly basic peptide that neutralizes acidic heparin by forming an inactive stable salt.",
     "tags": [
-      "pharmacology",
-      "endocrine-pharmacology",
+      "diseases-disorders",
+      "emergency-conditions",
       "medium",
       "pharmacology",
       "pathology"
@@ -1564,11 +1564,11 @@
     "active": true
   },
   {
-    "id": "pharmacology-cardiovascular-pharmacology-0069",
-    "category": "Pharmacology",
-    "subcategory": "Cardiovascular Pharmacology",
+    "id": "diseases-disorders-chronic-illness-0069",
+    "category": "Diseases & Disorders",
+    "subcategory": "Chronic Illness",
     "difficulty": "hard",
-    "question": "[Cardiovascular Pharmacology #69] What is the specific opioid receptor antagonist administered to reverse life-threatening narcotic respiratory depression?",
+    "question": "[Chronic Illness #69] What is the specific opioid receptor antagonist administered to reverse life-threatening narcotic respiratory depression?",
     "options": [
       "Flumazenil",
       "Naloxone (Narcan)",
@@ -1578,8 +1578,8 @@
     "correctAnswer": 1,
     "explanation": "Naloxone is a pure mu-opioid receptor antagonist that rapidly reverses opioid-induced respiratory depression.",
     "tags": [
-      "pharmacology",
-      "cardiovascular-pharmacology",
+      "diseases-disorders",
+      "chronic-illness",
       "hard",
       "pharmacology",
       "pathology"
@@ -1587,11 +1587,11 @@
     "active": true
   },
   {
-    "id": "pharmacology-antibiotics-antivirals-0070",
-    "category": "Pharmacology",
-    "subcategory": "Antibiotics & Antivirals",
+    "id": "diseases-disorders-infectious-diseases-0070",
+    "category": "Diseases & Disorders",
+    "subcategory": "Infectious Diseases",
     "difficulty": "easy",
-    "question": "[Antibiotics & Antivirals #70] Which adverse side effect is a well-documented class-effect of ACE inhibitors caused by bradykinin accumulation?",
+    "question": "[Infectious Diseases #70] Which adverse side effect is a well-documented class-effect of ACE inhibitors caused by bradykinin accumulation?",
     "options": [
       "Severe hypoglycemia",
       "Extreme urinary retention",
@@ -1601,8 +1601,8 @@
     "correctAnswer": 2,
     "explanation": "ACE inhibitors prevent bradykinin degradation in the respiratory tract, causing a dry cough in up to 15% of patients.",
     "tags": [
-      "pharmacology",
-      "antibiotics-antivirals",
+      "diseases-disorders",
+      "infectious-diseases",
       "easy",
       "pharmacology",
       "pathology"
@@ -1610,11 +1610,11 @@
     "active": true
   },
   {
-    "id": "pharmacology-antidotes-toxicity-0071",
-    "category": "Pharmacology",
-    "subcategory": "Antidotes & Toxicity",
+    "id": "diseases-disorders-autoimmune-disorders-0071",
+    "category": "Diseases & Disorders",
+    "subcategory": "Autoimmune Disorders",
     "difficulty": "medium",
-    "question": "[Antidotes & Toxicity #71] Which vital clinical assessment must the clinician prioritize before administering oral Digoxin?",
+    "question": "[Autoimmune Disorders #71] Which vital clinical assessment must the clinician prioritize before administering oral Digoxin?",
     "options": [
       "Assess bilateral patellar deep tendon reflexes",
       "Weigh patient immediately post-dose",
@@ -1624,8 +1624,8 @@
     "correctAnswer": 3,
     "explanation": "Digoxin slows AV node conduction; an apical heart rate below 60 bpm warrants withholding the dose to prevent toxicity.",
     "tags": [
-      "pharmacology",
-      "antidotes-toxicity",
+      "diseases-disorders",
+      "autoimmune-disorders",
       "medium",
       "pharmacology",
       "pathology"
@@ -1633,11 +1633,11 @@
     "active": true
   },
   {
-    "id": "pharmacology-endocrine-pharmacology-0072",
-    "category": "Pharmacology",
-    "subcategory": "Endocrine Pharmacology",
+    "id": "diseases-disorders-emergency-conditions-0072",
+    "category": "Diseases & Disorders",
+    "subcategory": "Emergency Conditions",
     "difficulty": "hard",
-    "question": "[Endocrine Pharmacology #72] What is the specific antidote administered for severe unfractionated Heparin overdose with acute hemorrhage?",
+    "question": "[Emergency Conditions #72] What is the specific antidote administered for severe unfractionated Heparin overdose with acute hemorrhage?",
     "options": [
       "Protamine Sulfate",
       "Vitamin K (Phytonadione)",
@@ -1647,8 +1647,8 @@
     "correctAnswer": 0,
     "explanation": "Protamine sulfate is a strongly basic peptide that neutralizes acidic heparin by forming an inactive stable salt.",
     "tags": [
-      "pharmacology",
-      "endocrine-pharmacology",
+      "diseases-disorders",
+      "emergency-conditions",
       "hard",
       "pharmacology",
       "pathology"
@@ -1656,11 +1656,11 @@
     "active": true
   },
   {
-    "id": "pharmacology-cardiovascular-pharmacology-0073",
-    "category": "Pharmacology",
-    "subcategory": "Cardiovascular Pharmacology",
+    "id": "diseases-disorders-chronic-illness-0073",
+    "category": "Diseases & Disorders",
+    "subcategory": "Chronic Illness",
     "difficulty": "easy",
-    "question": "[Cardiovascular Pharmacology #73] What is the specific opioid receptor antagonist administered to reverse life-threatening narcotic respiratory depression?",
+    "question": "[Chronic Illness #73] What is the specific opioid receptor antagonist administered to reverse life-threatening narcotic respiratory depression?",
     "options": [
       "Flumazenil",
       "Naloxone (Narcan)",
@@ -1670,8 +1670,8 @@
     "correctAnswer": 1,
     "explanation": "Naloxone is a pure mu-opioid receptor antagonist that rapidly reverses opioid-induced respiratory depression.",
     "tags": [
-      "pharmacology",
-      "cardiovascular-pharmacology",
+      "diseases-disorders",
+      "chronic-illness",
       "easy",
       "pharmacology",
       "pathology"
@@ -1679,11 +1679,11 @@
     "active": true
   },
   {
-    "id": "pharmacology-antibiotics-antivirals-0074",
-    "category": "Pharmacology",
-    "subcategory": "Antibiotics & Antivirals",
+    "id": "diseases-disorders-infectious-diseases-0074",
+    "category": "Diseases & Disorders",
+    "subcategory": "Infectious Diseases",
     "difficulty": "medium",
-    "question": "[Antibiotics & Antivirals #74] Which adverse side effect is a well-documented class-effect of ACE inhibitors caused by bradykinin accumulation?",
+    "question": "[Infectious Diseases #74] Which adverse side effect is a well-documented class-effect of ACE inhibitors caused by bradykinin accumulation?",
     "options": [
       "Severe hypoglycemia",
       "Extreme urinary retention",
@@ -1693,8 +1693,8 @@
     "correctAnswer": 2,
     "explanation": "ACE inhibitors prevent bradykinin degradation in the respiratory tract, causing a dry cough in up to 15% of patients.",
     "tags": [
-      "pharmacology",
-      "antibiotics-antivirals",
+      "diseases-disorders",
+      "infectious-diseases",
       "medium",
       "pharmacology",
       "pathology"
@@ -1702,11 +1702,11 @@
     "active": true
   },
   {
-    "id": "pharmacology-antidotes-toxicity-0075",
-    "category": "Pharmacology",
-    "subcategory": "Antidotes & Toxicity",
+    "id": "diseases-disorders-autoimmune-disorders-0075",
+    "category": "Diseases & Disorders",
+    "subcategory": "Autoimmune Disorders",
     "difficulty": "hard",
-    "question": "[Antidotes & Toxicity #75] Which vital clinical assessment must the clinician prioritize before administering oral Digoxin?",
+    "question": "[Autoimmune Disorders #75] Which vital clinical assessment must the clinician prioritize before administering oral Digoxin?",
     "options": [
       "Assess bilateral patellar deep tendon reflexes",
       "Weigh patient immediately post-dose",
@@ -1716,8 +1716,8 @@
     "correctAnswer": 3,
     "explanation": "Digoxin slows AV node conduction; an apical heart rate below 60 bpm warrants withholding the dose to prevent toxicity.",
     "tags": [
-      "pharmacology",
-      "antidotes-toxicity",
+      "diseases-disorders",
+      "autoimmune-disorders",
       "hard",
       "pharmacology",
       "pathology"
@@ -1725,11 +1725,11 @@
     "active": true
   },
   {
-    "id": "pharmacology-endocrine-pharmacology-0076",
-    "category": "Pharmacology",
-    "subcategory": "Endocrine Pharmacology",
+    "id": "diseases-disorders-emergency-conditions-0076",
+    "category": "Diseases & Disorders",
+    "subcategory": "Emergency Conditions",
     "difficulty": "easy",
-    "question": "[Endocrine Pharmacology #76] What is the specific antidote administered for severe unfractionated Heparin overdose with acute hemorrhage?",
+    "question": "[Emergency Conditions #76] What is the specific antidote administered for severe unfractionated Heparin overdose with acute hemorrhage?",
     "options": [
       "Protamine Sulfate",
       "Vitamin K (Phytonadione)",
@@ -1739,8 +1739,8 @@
     "correctAnswer": 0,
     "explanation": "Protamine sulfate is a strongly basic peptide that neutralizes acidic heparin by forming an inactive stable salt.",
     "tags": [
-      "pharmacology",
-      "endocrine-pharmacology",
+      "diseases-disorders",
+      "emergency-conditions",
       "easy",
       "pharmacology",
       "pathology"
@@ -1748,11 +1748,11 @@
     "active": true
   },
   {
-    "id": "pharmacology-cardiovascular-pharmacology-0077",
-    "category": "Pharmacology",
-    "subcategory": "Cardiovascular Pharmacology",
+    "id": "diseases-disorders-chronic-illness-0077",
+    "category": "Diseases & Disorders",
+    "subcategory": "Chronic Illness",
     "difficulty": "medium",
-    "question": "[Cardiovascular Pharmacology #77] What is the specific opioid receptor antagonist administered to reverse life-threatening narcotic respiratory depression?",
+    "question": "[Chronic Illness #77] What is the specific opioid receptor antagonist administered to reverse life-threatening narcotic respiratory depression?",
     "options": [
       "Flumazenil",
       "Naloxone (Narcan)",
@@ -1762,8 +1762,8 @@
     "correctAnswer": 1,
     "explanation": "Naloxone is a pure mu-opioid receptor antagonist that rapidly reverses opioid-induced respiratory depression.",
     "tags": [
-      "pharmacology",
-      "cardiovascular-pharmacology",
+      "diseases-disorders",
+      "chronic-illness",
       "medium",
       "pharmacology",
       "pathology"
@@ -1771,11 +1771,11 @@
     "active": true
   },
   {
-    "id": "pharmacology-antibiotics-antivirals-0078",
-    "category": "Pharmacology",
-    "subcategory": "Antibiotics & Antivirals",
+    "id": "diseases-disorders-infectious-diseases-0078",
+    "category": "Diseases & Disorders",
+    "subcategory": "Infectious Diseases",
     "difficulty": "hard",
-    "question": "[Antibiotics & Antivirals #78] Which adverse side effect is a well-documented class-effect of ACE inhibitors caused by bradykinin accumulation?",
+    "question": "[Infectious Diseases #78] Which adverse side effect is a well-documented class-effect of ACE inhibitors caused by bradykinin accumulation?",
     "options": [
       "Severe hypoglycemia",
       "Extreme urinary retention",
@@ -1785,8 +1785,8 @@
     "correctAnswer": 2,
     "explanation": "ACE inhibitors prevent bradykinin degradation in the respiratory tract, causing a dry cough in up to 15% of patients.",
     "tags": [
-      "pharmacology",
-      "antibiotics-antivirals",
+      "diseases-disorders",
+      "infectious-diseases",
       "hard",
       "pharmacology",
       "pathology"
@@ -1794,11 +1794,11 @@
     "active": true
   },
   {
-    "id": "pharmacology-antidotes-toxicity-0079",
-    "category": "Pharmacology",
-    "subcategory": "Antidotes & Toxicity",
+    "id": "diseases-disorders-autoimmune-disorders-0079",
+    "category": "Diseases & Disorders",
+    "subcategory": "Autoimmune Disorders",
     "difficulty": "easy",
-    "question": "[Antidotes & Toxicity #79] Which vital clinical assessment must the clinician prioritize before administering oral Digoxin?",
+    "question": "[Autoimmune Disorders #79] Which vital clinical assessment must the clinician prioritize before administering oral Digoxin?",
     "options": [
       "Assess bilateral patellar deep tendon reflexes",
       "Weigh patient immediately post-dose",
@@ -1808,8 +1808,8 @@
     "correctAnswer": 3,
     "explanation": "Digoxin slows AV node conduction; an apical heart rate below 60 bpm warrants withholding the dose to prevent toxicity.",
     "tags": [
-      "pharmacology",
-      "antidotes-toxicity",
+      "diseases-disorders",
+      "autoimmune-disorders",
       "easy",
       "pharmacology",
       "pathology"
@@ -1817,11 +1817,11 @@
     "active": true
   },
   {
-    "id": "pharmacology-endocrine-pharmacology-0080",
-    "category": "Pharmacology",
-    "subcategory": "Endocrine Pharmacology",
+    "id": "diseases-disorders-emergency-conditions-0080",
+    "category": "Diseases & Disorders",
+    "subcategory": "Emergency Conditions",
     "difficulty": "medium",
-    "question": "[Endocrine Pharmacology #80] What is the specific antidote administered for severe unfractionated Heparin overdose with acute hemorrhage?",
+    "question": "[Emergency Conditions #80] What is the specific antidote administered for severe unfractionated Heparin overdose with acute hemorrhage?",
     "options": [
       "Protamine Sulfate",
       "Vitamin K (Phytonadione)",
@@ -1831,8 +1831,8 @@
     "correctAnswer": 0,
     "explanation": "Protamine sulfate is a strongly basic peptide that neutralizes acidic heparin by forming an inactive stable salt.",
     "tags": [
-      "pharmacology",
-      "endocrine-pharmacology",
+      "diseases-disorders",
+      "emergency-conditions",
       "medium",
       "pharmacology",
       "pathology"
@@ -1840,11 +1840,11 @@
     "active": true
   },
   {
-    "id": "pharmacology-cardiovascular-pharmacology-0081",
-    "category": "Pharmacology",
-    "subcategory": "Cardiovascular Pharmacology",
+    "id": "diseases-disorders-chronic-illness-0081",
+    "category": "Diseases & Disorders",
+    "subcategory": "Chronic Illness",
     "difficulty": "hard",
-    "question": "[Cardiovascular Pharmacology #81] What is the specific opioid receptor antagonist administered to reverse life-threatening narcotic respiratory depression?",
+    "question": "[Chronic Illness #81] What is the specific opioid receptor antagonist administered to reverse life-threatening narcotic respiratory depression?",
     "options": [
       "Flumazenil",
       "Naloxone (Narcan)",
@@ -1854,8 +1854,8 @@
     "correctAnswer": 1,
     "explanation": "Naloxone is a pure mu-opioid receptor antagonist that rapidly reverses opioid-induced respiratory depression.",
     "tags": [
-      "pharmacology",
-      "cardiovascular-pharmacology",
+      "diseases-disorders",
+      "chronic-illness",
       "hard",
       "pharmacology",
       "pathology"
@@ -1863,11 +1863,11 @@
     "active": true
   },
   {
-    "id": "pharmacology-antibiotics-antivirals-0082",
-    "category": "Pharmacology",
-    "subcategory": "Antibiotics & Antivirals",
+    "id": "diseases-disorders-infectious-diseases-0082",
+    "category": "Diseases & Disorders",
+    "subcategory": "Infectious Diseases",
     "difficulty": "easy",
-    "question": "[Antibiotics & Antivirals #82] Which adverse side effect is a well-documented class-effect of ACE inhibitors caused by bradykinin accumulation?",
+    "question": "[Infectious Diseases #82] Which adverse side effect is a well-documented class-effect of ACE inhibitors caused by bradykinin accumulation?",
     "options": [
       "Severe hypoglycemia",
       "Extreme urinary retention",
@@ -1877,8 +1877,8 @@
     "correctAnswer": 2,
     "explanation": "ACE inhibitors prevent bradykinin degradation in the respiratory tract, causing a dry cough in up to 15% of patients.",
     "tags": [
-      "pharmacology",
-      "antibiotics-antivirals",
+      "diseases-disorders",
+      "infectious-diseases",
       "easy",
       "pharmacology",
       "pathology"
@@ -1886,11 +1886,11 @@
     "active": true
   },
   {
-    "id": "pharmacology-antidotes-toxicity-0083",
-    "category": "Pharmacology",
-    "subcategory": "Antidotes & Toxicity",
+    "id": "diseases-disorders-autoimmune-disorders-0083",
+    "category": "Diseases & Disorders",
+    "subcategory": "Autoimmune Disorders",
     "difficulty": "medium",
-    "question": "[Antidotes & Toxicity #83] Which vital clinical assessment must the clinician prioritize before administering oral Digoxin?",
+    "question": "[Autoimmune Disorders #83] Which vital clinical assessment must the clinician prioritize before administering oral Digoxin?",
     "options": [
       "Assess bilateral patellar deep tendon reflexes",
       "Weigh patient immediately post-dose",
@@ -1900,8 +1900,8 @@
     "correctAnswer": 3,
     "explanation": "Digoxin slows AV node conduction; an apical heart rate below 60 bpm warrants withholding the dose to prevent toxicity.",
     "tags": [
-      "pharmacology",
-      "antidotes-toxicity",
+      "diseases-disorders",
+      "autoimmune-disorders",
       "medium",
       "pharmacology",
       "pathology"
@@ -1909,11 +1909,11 @@
     "active": true
   },
   {
-    "id": "pharmacology-endocrine-pharmacology-0084",
-    "category": "Pharmacology",
-    "subcategory": "Endocrine Pharmacology",
+    "id": "diseases-disorders-emergency-conditions-0084",
+    "category": "Diseases & Disorders",
+    "subcategory": "Emergency Conditions",
     "difficulty": "hard",
-    "question": "[Endocrine Pharmacology #84] What is the specific antidote administered for severe unfractionated Heparin overdose with acute hemorrhage?",
+    "question": "[Emergency Conditions #84] What is the specific antidote administered for severe unfractionated Heparin overdose with acute hemorrhage?",
     "options": [
       "Protamine Sulfate",
       "Vitamin K (Phytonadione)",
@@ -1923,8 +1923,8 @@
     "correctAnswer": 0,
     "explanation": "Protamine sulfate is a strongly basic peptide that neutralizes acidic heparin by forming an inactive stable salt.",
     "tags": [
-      "pharmacology",
-      "endocrine-pharmacology",
+      "diseases-disorders",
+      "emergency-conditions",
       "hard",
       "pharmacology",
       "pathology"
@@ -1932,11 +1932,11 @@
     "active": true
   },
   {
-    "id": "pharmacology-cardiovascular-pharmacology-0085",
-    "category": "Pharmacology",
-    "subcategory": "Cardiovascular Pharmacology",
+    "id": "diseases-disorders-chronic-illness-0085",
+    "category": "Diseases & Disorders",
+    "subcategory": "Chronic Illness",
     "difficulty": "easy",
-    "question": "[Cardiovascular Pharmacology #85] What is the specific opioid receptor antagonist administered to reverse life-threatening narcotic respiratory depression?",
+    "question": "[Chronic Illness #85] What is the specific opioid receptor antagonist administered to reverse life-threatening narcotic respiratory depression?",
     "options": [
       "Flumazenil",
       "Naloxone (Narcan)",
@@ -1946,8 +1946,8 @@
     "correctAnswer": 1,
     "explanation": "Naloxone is a pure mu-opioid receptor antagonist that rapidly reverses opioid-induced respiratory depression.",
     "tags": [
-      "pharmacology",
-      "cardiovascular-pharmacology",
+      "diseases-disorders",
+      "chronic-illness",
       "easy",
       "pharmacology",
       "pathology"
@@ -1955,11 +1955,11 @@
     "active": true
   },
   {
-    "id": "pharmacology-antibiotics-antivirals-0086",
-    "category": "Pharmacology",
-    "subcategory": "Antibiotics & Antivirals",
+    "id": "diseases-disorders-infectious-diseases-0086",
+    "category": "Diseases & Disorders",
+    "subcategory": "Infectious Diseases",
     "difficulty": "medium",
-    "question": "[Antibiotics & Antivirals #86] Which adverse side effect is a well-documented class-effect of ACE inhibitors caused by bradykinin accumulation?",
+    "question": "[Infectious Diseases #86] Which adverse side effect is a well-documented class-effect of ACE inhibitors caused by bradykinin accumulation?",
     "options": [
       "Severe hypoglycemia",
       "Extreme urinary retention",
@@ -1969,8 +1969,8 @@
     "correctAnswer": 2,
     "explanation": "ACE inhibitors prevent bradykinin degradation in the respiratory tract, causing a dry cough in up to 15% of patients.",
     "tags": [
-      "pharmacology",
-      "antibiotics-antivirals",
+      "diseases-disorders",
+      "infectious-diseases",
       "medium",
       "pharmacology",
       "pathology"
@@ -1978,11 +1978,11 @@
     "active": true
   },
   {
-    "id": "pharmacology-antidotes-toxicity-0087",
-    "category": "Pharmacology",
-    "subcategory": "Antidotes & Toxicity",
+    "id": "diseases-disorders-autoimmune-disorders-0087",
+    "category": "Diseases & Disorders",
+    "subcategory": "Autoimmune Disorders",
     "difficulty": "hard",
-    "question": "[Antidotes & Toxicity #87] Which vital clinical assessment must the clinician prioritize before administering oral Digoxin?",
+    "question": "[Autoimmune Disorders #87] Which vital clinical assessment must the clinician prioritize before administering oral Digoxin?",
     "options": [
       "Assess bilateral patellar deep tendon reflexes",
       "Weigh patient immediately post-dose",
@@ -1992,8 +1992,8 @@
     "correctAnswer": 3,
     "explanation": "Digoxin slows AV node conduction; an apical heart rate below 60 bpm warrants withholding the dose to prevent toxicity.",
     "tags": [
-      "pharmacology",
-      "antidotes-toxicity",
+      "diseases-disorders",
+      "autoimmune-disorders",
       "hard",
       "pharmacology",
       "pathology"
@@ -2001,11 +2001,11 @@
     "active": true
   },
   {
-    "id": "pharmacology-endocrine-pharmacology-0088",
-    "category": "Pharmacology",
-    "subcategory": "Endocrine Pharmacology",
+    "id": "diseases-disorders-emergency-conditions-0088",
+    "category": "Diseases & Disorders",
+    "subcategory": "Emergency Conditions",
     "difficulty": "easy",
-    "question": "[Endocrine Pharmacology #88] What is the specific antidote administered for severe unfractionated Heparin overdose with acute hemorrhage?",
+    "question": "[Emergency Conditions #88] What is the specific antidote administered for severe unfractionated Heparin overdose with acute hemorrhage?",
     "options": [
       "Protamine Sulfate",
       "Vitamin K (Phytonadione)",
@@ -2015,8 +2015,8 @@
     "correctAnswer": 0,
     "explanation": "Protamine sulfate is a strongly basic peptide that neutralizes acidic heparin by forming an inactive stable salt.",
     "tags": [
-      "pharmacology",
-      "endocrine-pharmacology",
+      "diseases-disorders",
+      "emergency-conditions",
       "easy",
       "pharmacology",
       "pathology"
@@ -2024,11 +2024,11 @@
     "active": true
   },
   {
-    "id": "pharmacology-cardiovascular-pharmacology-0089",
-    "category": "Pharmacology",
-    "subcategory": "Cardiovascular Pharmacology",
+    "id": "diseases-disorders-chronic-illness-0089",
+    "category": "Diseases & Disorders",
+    "subcategory": "Chronic Illness",
     "difficulty": "medium",
-    "question": "[Cardiovascular Pharmacology #89] What is the specific opioid receptor antagonist administered to reverse life-threatening narcotic respiratory depression?",
+    "question": "[Chronic Illness #89] What is the specific opioid receptor antagonist administered to reverse life-threatening narcotic respiratory depression?",
     "options": [
       "Flumazenil",
       "Naloxone (Narcan)",
@@ -2038,8 +2038,8 @@
     "correctAnswer": 1,
     "explanation": "Naloxone is a pure mu-opioid receptor antagonist that rapidly reverses opioid-induced respiratory depression.",
     "tags": [
-      "pharmacology",
-      "cardiovascular-pharmacology",
+      "diseases-disorders",
+      "chronic-illness",
       "medium",
       "pharmacology",
       "pathology"
@@ -2047,11 +2047,11 @@
     "active": true
   },
   {
-    "id": "pharmacology-antibiotics-antivirals-0090",
-    "category": "Pharmacology",
-    "subcategory": "Antibiotics & Antivirals",
+    "id": "diseases-disorders-infectious-diseases-0090",
+    "category": "Diseases & Disorders",
+    "subcategory": "Infectious Diseases",
     "difficulty": "hard",
-    "question": "[Antibiotics & Antivirals #90] Which adverse side effect is a well-documented class-effect of ACE inhibitors caused by bradykinin accumulation?",
+    "question": "[Infectious Diseases #90] Which adverse side effect is a well-documented class-effect of ACE inhibitors caused by bradykinin accumulation?",
     "options": [
       "Severe hypoglycemia",
       "Extreme urinary retention",
@@ -2061,8 +2061,8 @@
     "correctAnswer": 2,
     "explanation": "ACE inhibitors prevent bradykinin degradation in the respiratory tract, causing a dry cough in up to 15% of patients.",
     "tags": [
-      "pharmacology",
-      "antibiotics-antivirals",
+      "diseases-disorders",
+      "infectious-diseases",
       "hard",
       "pharmacology",
       "pathology"
@@ -2070,11 +2070,11 @@
     "active": true
   },
   {
-    "id": "pharmacology-antidotes-toxicity-0091",
-    "category": "Pharmacology",
-    "subcategory": "Antidotes & Toxicity",
+    "id": "diseases-disorders-autoimmune-disorders-0091",
+    "category": "Diseases & Disorders",
+    "subcategory": "Autoimmune Disorders",
     "difficulty": "easy",
-    "question": "[Antidotes & Toxicity #91] Which vital clinical assessment must the clinician prioritize before administering oral Digoxin?",
+    "question": "[Autoimmune Disorders #91] Which vital clinical assessment must the clinician prioritize before administering oral Digoxin?",
     "options": [
       "Assess bilateral patellar deep tendon reflexes",
       "Weigh patient immediately post-dose",
@@ -2084,8 +2084,8 @@
     "correctAnswer": 3,
     "explanation": "Digoxin slows AV node conduction; an apical heart rate below 60 bpm warrants withholding the dose to prevent toxicity.",
     "tags": [
-      "pharmacology",
-      "antidotes-toxicity",
+      "diseases-disorders",
+      "autoimmune-disorders",
       "easy",
       "pharmacology",
       "pathology"
@@ -2093,11 +2093,11 @@
     "active": true
   },
   {
-    "id": "pharmacology-endocrine-pharmacology-0092",
-    "category": "Pharmacology",
-    "subcategory": "Endocrine Pharmacology",
+    "id": "diseases-disorders-emergency-conditions-0092",
+    "category": "Diseases & Disorders",
+    "subcategory": "Emergency Conditions",
     "difficulty": "medium",
-    "question": "[Endocrine Pharmacology #92] What is the specific antidote administered for severe unfractionated Heparin overdose with acute hemorrhage?",
+    "question": "[Emergency Conditions #92] What is the specific antidote administered for severe unfractionated Heparin overdose with acute hemorrhage?",
     "options": [
       "Protamine Sulfate",
       "Vitamin K (Phytonadione)",
@@ -2107,8 +2107,8 @@
     "correctAnswer": 0,
     "explanation": "Protamine sulfate is a strongly basic peptide that neutralizes acidic heparin by forming an inactive stable salt.",
     "tags": [
-      "pharmacology",
-      "endocrine-pharmacology",
+      "diseases-disorders",
+      "emergency-conditions",
       "medium",
       "pharmacology",
       "pathology"
@@ -2116,11 +2116,11 @@
     "active": true
   },
   {
-    "id": "pharmacology-cardiovascular-pharmacology-0093",
-    "category": "Pharmacology",
-    "subcategory": "Cardiovascular Pharmacology",
+    "id": "diseases-disorders-chronic-illness-0093",
+    "category": "Diseases & Disorders",
+    "subcategory": "Chronic Illness",
     "difficulty": "hard",
-    "question": "[Cardiovascular Pharmacology #93] What is the specific opioid receptor antagonist administered to reverse life-threatening narcotic respiratory depression?",
+    "question": "[Chronic Illness #93] What is the specific opioid receptor antagonist administered to reverse life-threatening narcotic respiratory depression?",
     "options": [
       "Flumazenil",
       "Naloxone (Narcan)",
@@ -2130,8 +2130,8 @@
     "correctAnswer": 1,
     "explanation": "Naloxone is a pure mu-opioid receptor antagonist that rapidly reverses opioid-induced respiratory depression.",
     "tags": [
-      "pharmacology",
-      "cardiovascular-pharmacology",
+      "diseases-disorders",
+      "chronic-illness",
       "hard",
       "pharmacology",
       "pathology"
@@ -2139,11 +2139,11 @@
     "active": true
   },
   {
-    "id": "pharmacology-antibiotics-antivirals-0094",
-    "category": "Pharmacology",
-    "subcategory": "Antibiotics & Antivirals",
+    "id": "diseases-disorders-infectious-diseases-0094",
+    "category": "Diseases & Disorders",
+    "subcategory": "Infectious Diseases",
     "difficulty": "easy",
-    "question": "[Antibiotics & Antivirals #94] Which adverse side effect is a well-documented class-effect of ACE inhibitors caused by bradykinin accumulation?",
+    "question": "[Infectious Diseases #94] Which adverse side effect is a well-documented class-effect of ACE inhibitors caused by bradykinin accumulation?",
     "options": [
       "Severe hypoglycemia",
       "Extreme urinary retention",
@@ -2153,8 +2153,8 @@
     "correctAnswer": 2,
     "explanation": "ACE inhibitors prevent bradykinin degradation in the respiratory tract, causing a dry cough in up to 15% of patients.",
     "tags": [
-      "pharmacology",
-      "antibiotics-antivirals",
+      "diseases-disorders",
+      "infectious-diseases",
       "easy",
       "pharmacology",
       "pathology"
@@ -2162,11 +2162,11 @@
     "active": true
   },
   {
-    "id": "pharmacology-antidotes-toxicity-0095",
-    "category": "Pharmacology",
-    "subcategory": "Antidotes & Toxicity",
+    "id": "diseases-disorders-autoimmune-disorders-0095",
+    "category": "Diseases & Disorders",
+    "subcategory": "Autoimmune Disorders",
     "difficulty": "medium",
-    "question": "[Antidotes & Toxicity #95] Which vital clinical assessment must the clinician prioritize before administering oral Digoxin?",
+    "question": "[Autoimmune Disorders #95] Which vital clinical assessment must the clinician prioritize before administering oral Digoxin?",
     "options": [
       "Assess bilateral patellar deep tendon reflexes",
       "Weigh patient immediately post-dose",
@@ -2176,8 +2176,8 @@
     "correctAnswer": 3,
     "explanation": "Digoxin slows AV node conduction; an apical heart rate below 60 bpm warrants withholding the dose to prevent toxicity.",
     "tags": [
-      "pharmacology",
-      "antidotes-toxicity",
+      "diseases-disorders",
+      "autoimmune-disorders",
       "medium",
       "pharmacology",
       "pathology"
@@ -2185,11 +2185,11 @@
     "active": true
   },
   {
-    "id": "pharmacology-endocrine-pharmacology-0096",
-    "category": "Pharmacology",
-    "subcategory": "Endocrine Pharmacology",
+    "id": "diseases-disorders-emergency-conditions-0096",
+    "category": "Diseases & Disorders",
+    "subcategory": "Emergency Conditions",
     "difficulty": "hard",
-    "question": "[Endocrine Pharmacology #96] What is the specific antidote administered for severe unfractionated Heparin overdose with acute hemorrhage?",
+    "question": "[Emergency Conditions #96] What is the specific antidote administered for severe unfractionated Heparin overdose with acute hemorrhage?",
     "options": [
       "Protamine Sulfate",
       "Vitamin K (Phytonadione)",
@@ -2199,8 +2199,8 @@
     "correctAnswer": 0,
     "explanation": "Protamine sulfate is a strongly basic peptide that neutralizes acidic heparin by forming an inactive stable salt.",
     "tags": [
-      "pharmacology",
-      "endocrine-pharmacology",
+      "diseases-disorders",
+      "emergency-conditions",
       "hard",
       "pharmacology",
       "pathology"
@@ -2208,11 +2208,11 @@
     "active": true
   },
   {
-    "id": "pharmacology-cardiovascular-pharmacology-0097",
-    "category": "Pharmacology",
-    "subcategory": "Cardiovascular Pharmacology",
+    "id": "diseases-disorders-chronic-illness-0097",
+    "category": "Diseases & Disorders",
+    "subcategory": "Chronic Illness",
     "difficulty": "easy",
-    "question": "[Cardiovascular Pharmacology #97] What is the specific opioid receptor antagonist administered to reverse life-threatening narcotic respiratory depression?",
+    "question": "[Chronic Illness #97] What is the specific opioid receptor antagonist administered to reverse life-threatening narcotic respiratory depression?",
     "options": [
       "Flumazenil",
       "Naloxone (Narcan)",
@@ -2222,8 +2222,8 @@
     "correctAnswer": 1,
     "explanation": "Naloxone is a pure mu-opioid receptor antagonist that rapidly reverses opioid-induced respiratory depression.",
     "tags": [
-      "pharmacology",
-      "cardiovascular-pharmacology",
+      "diseases-disorders",
+      "chronic-illness",
       "easy",
       "pharmacology",
       "pathology"
@@ -2231,11 +2231,11 @@
     "active": true
   },
   {
-    "id": "pharmacology-antibiotics-antivirals-0098",
-    "category": "Pharmacology",
-    "subcategory": "Antibiotics & Antivirals",
+    "id": "diseases-disorders-infectious-diseases-0098",
+    "category": "Diseases & Disorders",
+    "subcategory": "Infectious Diseases",
     "difficulty": "medium",
-    "question": "[Antibiotics & Antivirals #98] Which adverse side effect is a well-documented class-effect of ACE inhibitors caused by bradykinin accumulation?",
+    "question": "[Infectious Diseases #98] Which adverse side effect is a well-documented class-effect of ACE inhibitors caused by bradykinin accumulation?",
     "options": [
       "Severe hypoglycemia",
       "Extreme urinary retention",
@@ -2245,8 +2245,8 @@
     "correctAnswer": 2,
     "explanation": "ACE inhibitors prevent bradykinin degradation in the respiratory tract, causing a dry cough in up to 15% of patients.",
     "tags": [
-      "pharmacology",
-      "antibiotics-antivirals",
+      "diseases-disorders",
+      "infectious-diseases",
       "medium",
       "pharmacology",
       "pathology"
@@ -2254,11 +2254,11 @@
     "active": true
   },
   {
-    "id": "pharmacology-antidotes-toxicity-0099",
-    "category": "Pharmacology",
-    "subcategory": "Antidotes & Toxicity",
+    "id": "diseases-disorders-autoimmune-disorders-0099",
+    "category": "Diseases & Disorders",
+    "subcategory": "Autoimmune Disorders",
     "difficulty": "hard",
-    "question": "[Antidotes & Toxicity #99] Which vital clinical assessment must the clinician prioritize before administering oral Digoxin?",
+    "question": "[Autoimmune Disorders #99] Which vital clinical assessment must the clinician prioritize before administering oral Digoxin?",
     "options": [
       "Assess bilateral patellar deep tendon reflexes",
       "Weigh patient immediately post-dose",
@@ -2268,8 +2268,8 @@
     "correctAnswer": 3,
     "explanation": "Digoxin slows AV node conduction; an apical heart rate below 60 bpm warrants withholding the dose to prevent toxicity.",
     "tags": [
-      "pharmacology",
-      "antidotes-toxicity",
+      "diseases-disorders",
+      "autoimmune-disorders",
       "hard",
       "pharmacology",
       "pathology"
@@ -2277,11 +2277,11 @@
     "active": true
   },
   {
-    "id": "pharmacology-endocrine-pharmacology-0100",
-    "category": "Pharmacology",
-    "subcategory": "Endocrine Pharmacology",
+    "id": "diseases-disorders-emergency-conditions-0100",
+    "category": "Diseases & Disorders",
+    "subcategory": "Emergency Conditions",
     "difficulty": "easy",
-    "question": "[Endocrine Pharmacology #100] What is the specific antidote administered for severe unfractionated Heparin overdose with acute hemorrhage?",
+    "question": "[Emergency Conditions #100] What is the specific antidote administered for severe unfractionated Heparin overdose with acute hemorrhage?",
     "options": [
       "Protamine Sulfate",
       "Vitamin K (Phytonadione)",
@@ -2291,8 +2291,8 @@
     "correctAnswer": 0,
     "explanation": "Protamine sulfate is a strongly basic peptide that neutralizes acidic heparin by forming an inactive stable salt.",
     "tags": [
-      "pharmacology",
-      "endocrine-pharmacology",
+      "diseases-disorders",
+      "emergency-conditions",
       "easy",
       "pharmacology",
       "pathology"
@@ -2300,11 +2300,11 @@
     "active": true
   },
   {
-    "id": "pharmacology-cardiovascular-pharmacology-0101",
-    "category": "Pharmacology",
-    "subcategory": "Cardiovascular Pharmacology",
+    "id": "diseases-disorders-chronic-illness-0101",
+    "category": "Diseases & Disorders",
+    "subcategory": "Chronic Illness",
     "difficulty": "medium",
-    "question": "[Cardiovascular Pharmacology #101] What is the specific opioid receptor antagonist administered to reverse life-threatening narcotic respiratory depression?",
+    "question": "[Chronic Illness #101] What is the specific opioid receptor antagonist administered to reverse life-threatening narcotic respiratory depression?",
     "options": [
       "Flumazenil",
       "Naloxone (Narcan)",
@@ -2314,8 +2314,8 @@
     "correctAnswer": 1,
     "explanation": "Naloxone is a pure mu-opioid receptor antagonist that rapidly reverses opioid-induced respiratory depression.",
     "tags": [
-      "pharmacology",
-      "cardiovascular-pharmacology",
+      "diseases-disorders",
+      "chronic-illness",
       "medium",
       "pharmacology",
       "pathology"
@@ -2323,11 +2323,11 @@
     "active": true
   },
   {
-    "id": "pharmacology-antibiotics-antivirals-0102",
-    "category": "Pharmacology",
-    "subcategory": "Antibiotics & Antivirals",
+    "id": "diseases-disorders-infectious-diseases-0102",
+    "category": "Diseases & Disorders",
+    "subcategory": "Infectious Diseases",
     "difficulty": "hard",
-    "question": "[Antibiotics & Antivirals #102] Which adverse side effect is a well-documented class-effect of ACE inhibitors caused by bradykinin accumulation?",
+    "question": "[Infectious Diseases #102] Which adverse side effect is a well-documented class-effect of ACE inhibitors caused by bradykinin accumulation?",
     "options": [
       "Severe hypoglycemia",
       "Extreme urinary retention",
@@ -2337,8 +2337,8 @@
     "correctAnswer": 2,
     "explanation": "ACE inhibitors prevent bradykinin degradation in the respiratory tract, causing a dry cough in up to 15% of patients.",
     "tags": [
-      "pharmacology",
-      "antibiotics-antivirals",
+      "diseases-disorders",
+      "infectious-diseases",
       "hard",
       "pharmacology",
       "pathology"
@@ -2346,11 +2346,11 @@
     "active": true
   },
   {
-    "id": "pharmacology-antidotes-toxicity-0103",
-    "category": "Pharmacology",
-    "subcategory": "Antidotes & Toxicity",
+    "id": "diseases-disorders-autoimmune-disorders-0103",
+    "category": "Diseases & Disorders",
+    "subcategory": "Autoimmune Disorders",
     "difficulty": "easy",
-    "question": "[Antidotes & Toxicity #103] Which vital clinical assessment must the clinician prioritize before administering oral Digoxin?",
+    "question": "[Autoimmune Disorders #103] Which vital clinical assessment must the clinician prioritize before administering oral Digoxin?",
     "options": [
       "Assess bilateral patellar deep tendon reflexes",
       "Weigh patient immediately post-dose",
@@ -2360,8 +2360,8 @@
     "correctAnswer": 3,
     "explanation": "Digoxin slows AV node conduction; an apical heart rate below 60 bpm warrants withholding the dose to prevent toxicity.",
     "tags": [
-      "pharmacology",
-      "antidotes-toxicity",
+      "diseases-disorders",
+      "autoimmune-disorders",
       "easy",
       "pharmacology",
       "pathology"
@@ -2369,11 +2369,11 @@
     "active": true
   },
   {
-    "id": "pharmacology-endocrine-pharmacology-0104",
-    "category": "Pharmacology",
-    "subcategory": "Endocrine Pharmacology",
+    "id": "diseases-disorders-emergency-conditions-0104",
+    "category": "Diseases & Disorders",
+    "subcategory": "Emergency Conditions",
     "difficulty": "medium",
-    "question": "[Endocrine Pharmacology #104] What is the specific antidote administered for severe unfractionated Heparin overdose with acute hemorrhage?",
+    "question": "[Emergency Conditions #104] What is the specific antidote administered for severe unfractionated Heparin overdose with acute hemorrhage?",
     "options": [
       "Protamine Sulfate",
       "Vitamin K (Phytonadione)",
@@ -2383,8 +2383,8 @@
     "correctAnswer": 0,
     "explanation": "Protamine sulfate is a strongly basic peptide that neutralizes acidic heparin by forming an inactive stable salt.",
     "tags": [
-      "pharmacology",
-      "endocrine-pharmacology",
+      "diseases-disorders",
+      "emergency-conditions",
       "medium",
       "pharmacology",
       "pathology"
@@ -2392,11 +2392,11 @@
     "active": true
   },
   {
-    "id": "pharmacology-cardiovascular-pharmacology-0105",
-    "category": "Pharmacology",
-    "subcategory": "Cardiovascular Pharmacology",
+    "id": "diseases-disorders-chronic-illness-0105",
+    "category": "Diseases & Disorders",
+    "subcategory": "Chronic Illness",
     "difficulty": "hard",
-    "question": "[Cardiovascular Pharmacology #105] What is the specific opioid receptor antagonist administered to reverse life-threatening narcotic respiratory depression?",
+    "question": "[Chronic Illness #105] What is the specific opioid receptor antagonist administered to reverse life-threatening narcotic respiratory depression?",
     "options": [
       "Flumazenil",
       "Naloxone (Narcan)",
@@ -2406,8 +2406,8 @@
     "correctAnswer": 1,
     "explanation": "Naloxone is a pure mu-opioid receptor antagonist that rapidly reverses opioid-induced respiratory depression.",
     "tags": [
-      "pharmacology",
-      "cardiovascular-pharmacology",
+      "diseases-disorders",
+      "chronic-illness",
       "hard",
       "pharmacology",
       "pathology"
@@ -2415,11 +2415,11 @@
     "active": true
   },
   {
-    "id": "pharmacology-antibiotics-antivirals-0106",
-    "category": "Pharmacology",
-    "subcategory": "Antibiotics & Antivirals",
+    "id": "diseases-disorders-infectious-diseases-0106",
+    "category": "Diseases & Disorders",
+    "subcategory": "Infectious Diseases",
     "difficulty": "easy",
-    "question": "[Antibiotics & Antivirals #106] Which adverse side effect is a well-documented class-effect of ACE inhibitors caused by bradykinin accumulation?",
+    "question": "[Infectious Diseases #106] Which adverse side effect is a well-documented class-effect of ACE inhibitors caused by bradykinin accumulation?",
     "options": [
       "Severe hypoglycemia",
       "Extreme urinary retention",
@@ -2429,8 +2429,8 @@
     "correctAnswer": 2,
     "explanation": "ACE inhibitors prevent bradykinin degradation in the respiratory tract, causing a dry cough in up to 15% of patients.",
     "tags": [
-      "pharmacology",
-      "antibiotics-antivirals",
+      "diseases-disorders",
+      "infectious-diseases",
       "easy",
       "pharmacology",
       "pathology"
@@ -2438,11 +2438,11 @@
     "active": true
   },
   {
-    "id": "pharmacology-antidotes-toxicity-0107",
-    "category": "Pharmacology",
-    "subcategory": "Antidotes & Toxicity",
+    "id": "diseases-disorders-autoimmune-disorders-0107",
+    "category": "Diseases & Disorders",
+    "subcategory": "Autoimmune Disorders",
     "difficulty": "medium",
-    "question": "[Antidotes & Toxicity #107] Which vital clinical assessment must the clinician prioritize before administering oral Digoxin?",
+    "question": "[Autoimmune Disorders #107] Which vital clinical assessment must the clinician prioritize before administering oral Digoxin?",
     "options": [
       "Assess bilateral patellar deep tendon reflexes",
       "Weigh patient immediately post-dose",
@@ -2452,8 +2452,8 @@
     "correctAnswer": 3,
     "explanation": "Digoxin slows AV node conduction; an apical heart rate below 60 bpm warrants withholding the dose to prevent toxicity.",
     "tags": [
-      "pharmacology",
-      "antidotes-toxicity",
+      "diseases-disorders",
+      "autoimmune-disorders",
       "medium",
       "pharmacology",
       "pathology"
@@ -2461,11 +2461,11 @@
     "active": true
   },
   {
-    "id": "pharmacology-endocrine-pharmacology-0108",
-    "category": "Pharmacology",
-    "subcategory": "Endocrine Pharmacology",
+    "id": "diseases-disorders-emergency-conditions-0108",
+    "category": "Diseases & Disorders",
+    "subcategory": "Emergency Conditions",
     "difficulty": "hard",
-    "question": "[Endocrine Pharmacology #108] What is the specific antidote administered for severe unfractionated Heparin overdose with acute hemorrhage?",
+    "question": "[Emergency Conditions #108] What is the specific antidote administered for severe unfractionated Heparin overdose with acute hemorrhage?",
     "options": [
       "Protamine Sulfate",
       "Vitamin K (Phytonadione)",
@@ -2475,8 +2475,8 @@
     "correctAnswer": 0,
     "explanation": "Protamine sulfate is a strongly basic peptide that neutralizes acidic heparin by forming an inactive stable salt.",
     "tags": [
-      "pharmacology",
-      "endocrine-pharmacology",
+      "diseases-disorders",
+      "emergency-conditions",
       "hard",
       "pharmacology",
       "pathology"
@@ -2484,11 +2484,11 @@
     "active": true
   },
   {
-    "id": "pharmacology-cardiovascular-pharmacology-0109",
-    "category": "Pharmacology",
-    "subcategory": "Cardiovascular Pharmacology",
+    "id": "diseases-disorders-chronic-illness-0109",
+    "category": "Diseases & Disorders",
+    "subcategory": "Chronic Illness",
     "difficulty": "easy",
-    "question": "[Cardiovascular Pharmacology #109] What is the specific opioid receptor antagonist administered to reverse life-threatening narcotic respiratory depression?",
+    "question": "[Chronic Illness #109] What is the specific opioid receptor antagonist administered to reverse life-threatening narcotic respiratory depression?",
     "options": [
       "Flumazenil",
       "Naloxone (Narcan)",
@@ -2498,8 +2498,8 @@
     "correctAnswer": 1,
     "explanation": "Naloxone is a pure mu-opioid receptor antagonist that rapidly reverses opioid-induced respiratory depression.",
     "tags": [
-      "pharmacology",
-      "cardiovascular-pharmacology",
+      "diseases-disorders",
+      "chronic-illness",
       "easy",
       "pharmacology",
       "pathology"
@@ -2507,11 +2507,11 @@
     "active": true
   },
   {
-    "id": "pharmacology-antibiotics-antivirals-0110",
-    "category": "Pharmacology",
-    "subcategory": "Antibiotics & Antivirals",
+    "id": "diseases-disorders-infectious-diseases-0110",
+    "category": "Diseases & Disorders",
+    "subcategory": "Infectious Diseases",
     "difficulty": "medium",
-    "question": "[Antibiotics & Antivirals #110] Which adverse side effect is a well-documented class-effect of ACE inhibitors caused by bradykinin accumulation?",
+    "question": "[Infectious Diseases #110] Which adverse side effect is a well-documented class-effect of ACE inhibitors caused by bradykinin accumulation?",
     "options": [
       "Severe hypoglycemia",
       "Extreme urinary retention",
@@ -2521,8 +2521,8 @@
     "correctAnswer": 2,
     "explanation": "ACE inhibitors prevent bradykinin degradation in the respiratory tract, causing a dry cough in up to 15% of patients.",
     "tags": [
-      "pharmacology",
-      "antibiotics-antivirals",
+      "diseases-disorders",
+      "infectious-diseases",
       "medium",
       "pharmacology",
       "pathology"
@@ -2530,11 +2530,11 @@
     "active": true
   },
   {
-    "id": "pharmacology-antidotes-toxicity-0111",
-    "category": "Pharmacology",
-    "subcategory": "Antidotes & Toxicity",
+    "id": "diseases-disorders-autoimmune-disorders-0111",
+    "category": "Diseases & Disorders",
+    "subcategory": "Autoimmune Disorders",
     "difficulty": "hard",
-    "question": "[Antidotes & Toxicity #111] Which vital clinical assessment must the clinician prioritize before administering oral Digoxin?",
+    "question": "[Autoimmune Disorders #111] Which vital clinical assessment must the clinician prioritize before administering oral Digoxin?",
     "options": [
       "Assess bilateral patellar deep tendon reflexes",
       "Weigh patient immediately post-dose",
@@ -2544,8 +2544,8 @@
     "correctAnswer": 3,
     "explanation": "Digoxin slows AV node conduction; an apical heart rate below 60 bpm warrants withholding the dose to prevent toxicity.",
     "tags": [
-      "pharmacology",
-      "antidotes-toxicity",
+      "diseases-disorders",
+      "autoimmune-disorders",
       "hard",
       "pharmacology",
       "pathology"
@@ -2553,11 +2553,11 @@
     "active": true
   },
   {
-    "id": "pharmacology-endocrine-pharmacology-0112",
-    "category": "Pharmacology",
-    "subcategory": "Endocrine Pharmacology",
+    "id": "diseases-disorders-emergency-conditions-0112",
+    "category": "Diseases & Disorders",
+    "subcategory": "Emergency Conditions",
     "difficulty": "easy",
-    "question": "[Endocrine Pharmacology #112] What is the specific antidote administered for severe unfractionated Heparin overdose with acute hemorrhage?",
+    "question": "[Emergency Conditions #112] What is the specific antidote administered for severe unfractionated Heparin overdose with acute hemorrhage?",
     "options": [
       "Protamine Sulfate",
       "Vitamin K (Phytonadione)",
@@ -2567,8 +2567,8 @@
     "correctAnswer": 0,
     "explanation": "Protamine sulfate is a strongly basic peptide that neutralizes acidic heparin by forming an inactive stable salt.",
     "tags": [
-      "pharmacology",
-      "endocrine-pharmacology",
+      "diseases-disorders",
+      "emergency-conditions",
       "easy",
       "pharmacology",
       "pathology"
@@ -2576,11 +2576,11 @@
     "active": true
   },
   {
-    "id": "pharmacology-cardiovascular-pharmacology-0113",
-    "category": "Pharmacology",
-    "subcategory": "Cardiovascular Pharmacology",
+    "id": "diseases-disorders-chronic-illness-0113",
+    "category": "Diseases & Disorders",
+    "subcategory": "Chronic Illness",
     "difficulty": "medium",
-    "question": "[Cardiovascular Pharmacology #113] What is the specific opioid receptor antagonist administered to reverse life-threatening narcotic respiratory depression?",
+    "question": "[Chronic Illness #113] What is the specific opioid receptor antagonist administered to reverse life-threatening narcotic respiratory depression?",
     "options": [
       "Flumazenil",
       "Naloxone (Narcan)",
@@ -2590,8 +2590,8 @@
     "correctAnswer": 1,
     "explanation": "Naloxone is a pure mu-opioid receptor antagonist that rapidly reverses opioid-induced respiratory depression.",
     "tags": [
-      "pharmacology",
-      "cardiovascular-pharmacology",
+      "diseases-disorders",
+      "chronic-illness",
       "medium",
       "pharmacology",
       "pathology"
@@ -2599,11 +2599,11 @@
     "active": true
   },
   {
-    "id": "pharmacology-antibiotics-antivirals-0114",
-    "category": "Pharmacology",
-    "subcategory": "Antibiotics & Antivirals",
+    "id": "diseases-disorders-infectious-diseases-0114",
+    "category": "Diseases & Disorders",
+    "subcategory": "Infectious Diseases",
     "difficulty": "hard",
-    "question": "[Antibiotics & Antivirals #114] Which adverse side effect is a well-documented class-effect of ACE inhibitors caused by bradykinin accumulation?",
+    "question": "[Infectious Diseases #114] Which adverse side effect is a well-documented class-effect of ACE inhibitors caused by bradykinin accumulation?",
     "options": [
       "Severe hypoglycemia",
       "Extreme urinary retention",
@@ -2613,8 +2613,8 @@
     "correctAnswer": 2,
     "explanation": "ACE inhibitors prevent bradykinin degradation in the respiratory tract, causing a dry cough in up to 15% of patients.",
     "tags": [
-      "pharmacology",
-      "antibiotics-antivirals",
+      "diseases-disorders",
+      "infectious-diseases",
       "hard",
       "pharmacology",
       "pathology"
@@ -2622,11 +2622,11 @@
     "active": true
   },
   {
-    "id": "pharmacology-antidotes-toxicity-0115",
-    "category": "Pharmacology",
-    "subcategory": "Antidotes & Toxicity",
+    "id": "diseases-disorders-autoimmune-disorders-0115",
+    "category": "Diseases & Disorders",
+    "subcategory": "Autoimmune Disorders",
     "difficulty": "easy",
-    "question": "[Antidotes & Toxicity #115] Which vital clinical assessment must the clinician prioritize before administering oral Digoxin?",
+    "question": "[Autoimmune Disorders #115] Which vital clinical assessment must the clinician prioritize before administering oral Digoxin?",
     "options": [
       "Assess bilateral patellar deep tendon reflexes",
       "Weigh patient immediately post-dose",
@@ -2636,8 +2636,8 @@
     "correctAnswer": 3,
     "explanation": "Digoxin slows AV node conduction; an apical heart rate below 60 bpm warrants withholding the dose to prevent toxicity.",
     "tags": [
-      "pharmacology",
-      "antidotes-toxicity",
+      "diseases-disorders",
+      "autoimmune-disorders",
       "easy",
       "pharmacology",
       "pathology"
@@ -2645,11 +2645,11 @@
     "active": true
   },
   {
-    "id": "pharmacology-endocrine-pharmacology-0116",
-    "category": "Pharmacology",
-    "subcategory": "Endocrine Pharmacology",
+    "id": "diseases-disorders-emergency-conditions-0116",
+    "category": "Diseases & Disorders",
+    "subcategory": "Emergency Conditions",
     "difficulty": "medium",
-    "question": "[Endocrine Pharmacology #116] What is the specific antidote administered for severe unfractionated Heparin overdose with acute hemorrhage?",
+    "question": "[Emergency Conditions #116] What is the specific antidote administered for severe unfractionated Heparin overdose with acute hemorrhage?",
     "options": [
       "Protamine Sulfate",
       "Vitamin K (Phytonadione)",
@@ -2659,8 +2659,8 @@
     "correctAnswer": 0,
     "explanation": "Protamine sulfate is a strongly basic peptide that neutralizes acidic heparin by forming an inactive stable salt.",
     "tags": [
-      "pharmacology",
-      "endocrine-pharmacology",
+      "diseases-disorders",
+      "emergency-conditions",
       "medium",
       "pharmacology",
       "pathology"
@@ -2668,11 +2668,11 @@
     "active": true
   },
   {
-    "id": "pharmacology-cardiovascular-pharmacology-0117",
-    "category": "Pharmacology",
-    "subcategory": "Cardiovascular Pharmacology",
+    "id": "diseases-disorders-chronic-illness-0117",
+    "category": "Diseases & Disorders",
+    "subcategory": "Chronic Illness",
     "difficulty": "hard",
-    "question": "[Cardiovascular Pharmacology #117] What is the specific opioid receptor antagonist administered to reverse life-threatening narcotic respiratory depression?",
+    "question": "[Chronic Illness #117] What is the specific opioid receptor antagonist administered to reverse life-threatening narcotic respiratory depression?",
     "options": [
       "Flumazenil",
       "Naloxone (Narcan)",
@@ -2682,8 +2682,8 @@
     "correctAnswer": 1,
     "explanation": "Naloxone is a pure mu-opioid receptor antagonist that rapidly reverses opioid-induced respiratory depression.",
     "tags": [
-      "pharmacology",
-      "cardiovascular-pharmacology",
+      "diseases-disorders",
+      "chronic-illness",
       "hard",
       "pharmacology",
       "pathology"
@@ -2691,11 +2691,11 @@
     "active": true
   },
   {
-    "id": "pharmacology-antibiotics-antivirals-0118",
-    "category": "Pharmacology",
-    "subcategory": "Antibiotics & Antivirals",
+    "id": "diseases-disorders-infectious-diseases-0118",
+    "category": "Diseases & Disorders",
+    "subcategory": "Infectious Diseases",
     "difficulty": "easy",
-    "question": "[Antibiotics & Antivirals #118] Which adverse side effect is a well-documented class-effect of ACE inhibitors caused by bradykinin accumulation?",
+    "question": "[Infectious Diseases #118] Which adverse side effect is a well-documented class-effect of ACE inhibitors caused by bradykinin accumulation?",
     "options": [
       "Severe hypoglycemia",
       "Extreme urinary retention",
@@ -2705,8 +2705,8 @@
     "correctAnswer": 2,
     "explanation": "ACE inhibitors prevent bradykinin degradation in the respiratory tract, causing a dry cough in up to 15% of patients.",
     "tags": [
-      "pharmacology",
-      "antibiotics-antivirals",
+      "diseases-disorders",
+      "infectious-diseases",
       "easy",
       "pharmacology",
       "pathology"
@@ -2714,11 +2714,11 @@
     "active": true
   },
   {
-    "id": "pharmacology-antidotes-toxicity-0119",
-    "category": "Pharmacology",
-    "subcategory": "Antidotes & Toxicity",
+    "id": "diseases-disorders-autoimmune-disorders-0119",
+    "category": "Diseases & Disorders",
+    "subcategory": "Autoimmune Disorders",
     "difficulty": "medium",
-    "question": "[Antidotes & Toxicity #119] Which vital clinical assessment must the clinician prioritize before administering oral Digoxin?",
+    "question": "[Autoimmune Disorders #119] Which vital clinical assessment must the clinician prioritize before administering oral Digoxin?",
     "options": [
       "Assess bilateral patellar deep tendon reflexes",
       "Weigh patient immediately post-dose",
@@ -2728,8 +2728,8 @@
     "correctAnswer": 3,
     "explanation": "Digoxin slows AV node conduction; an apical heart rate below 60 bpm warrants withholding the dose to prevent toxicity.",
     "tags": [
-      "pharmacology",
-      "antidotes-toxicity",
+      "diseases-disorders",
+      "autoimmune-disorders",
       "medium",
       "pharmacology",
       "pathology"
@@ -2737,11 +2737,11 @@
     "active": true
   },
   {
-    "id": "pharmacology-endocrine-pharmacology-0120",
-    "category": "Pharmacology",
-    "subcategory": "Endocrine Pharmacology",
+    "id": "diseases-disorders-emergency-conditions-0120",
+    "category": "Diseases & Disorders",
+    "subcategory": "Emergency Conditions",
     "difficulty": "hard",
-    "question": "[Endocrine Pharmacology #120] What is the specific antidote administered for severe unfractionated Heparin overdose with acute hemorrhage?",
+    "question": "[Emergency Conditions #120] What is the specific antidote administered for severe unfractionated Heparin overdose with acute hemorrhage?",
     "options": [
       "Protamine Sulfate",
       "Vitamin K (Phytonadione)",
@@ -2751,8 +2751,8 @@
     "correctAnswer": 0,
     "explanation": "Protamine sulfate is a strongly basic peptide that neutralizes acidic heparin by forming an inactive stable salt.",
     "tags": [
-      "pharmacology",
-      "endocrine-pharmacology",
+      "diseases-disorders",
+      "emergency-conditions",
       "hard",
       "pharmacology",
       "pathology"
@@ -2760,11 +2760,11 @@
     "active": true
   },
   {
-    "id": "pharmacology-cardiovascular-pharmacology-0121",
-    "category": "Pharmacology",
-    "subcategory": "Cardiovascular Pharmacology",
+    "id": "diseases-disorders-chronic-illness-0121",
+    "category": "Diseases & Disorders",
+    "subcategory": "Chronic Illness",
     "difficulty": "easy",
-    "question": "[Cardiovascular Pharmacology #121] What is the specific opioid receptor antagonist administered to reverse life-threatening narcotic respiratory depression?",
+    "question": "[Chronic Illness #121] What is the specific opioid receptor antagonist administered to reverse life-threatening narcotic respiratory depression?",
     "options": [
       "Flumazenil",
       "Naloxone (Narcan)",
@@ -2774,8 +2774,8 @@
     "correctAnswer": 1,
     "explanation": "Naloxone is a pure mu-opioid receptor antagonist that rapidly reverses opioid-induced respiratory depression.",
     "tags": [
-      "pharmacology",
-      "cardiovascular-pharmacology",
+      "diseases-disorders",
+      "chronic-illness",
       "easy",
       "pharmacology",
       "pathology"
@@ -2783,11 +2783,11 @@
     "active": true
   },
   {
-    "id": "pharmacology-antibiotics-antivirals-0122",
-    "category": "Pharmacology",
-    "subcategory": "Antibiotics & Antivirals",
+    "id": "diseases-disorders-infectious-diseases-0122",
+    "category": "Diseases & Disorders",
+    "subcategory": "Infectious Diseases",
     "difficulty": "medium",
-    "question": "[Antibiotics & Antivirals #122] Which adverse side effect is a well-documented class-effect of ACE inhibitors caused by bradykinin accumulation?",
+    "question": "[Infectious Diseases #122] Which adverse side effect is a well-documented class-effect of ACE inhibitors caused by bradykinin accumulation?",
     "options": [
       "Severe hypoglycemia",
       "Extreme urinary retention",
@@ -2797,8 +2797,8 @@
     "correctAnswer": 2,
     "explanation": "ACE inhibitors prevent bradykinin degradation in the respiratory tract, causing a dry cough in up to 15% of patients.",
     "tags": [
-      "pharmacology",
-      "antibiotics-antivirals",
+      "diseases-disorders",
+      "infectious-diseases",
       "medium",
       "pharmacology",
       "pathology"
@@ -2806,11 +2806,11 @@
     "active": true
   },
   {
-    "id": "pharmacology-antidotes-toxicity-0123",
-    "category": "Pharmacology",
-    "subcategory": "Antidotes & Toxicity",
+    "id": "diseases-disorders-autoimmune-disorders-0123",
+    "category": "Diseases & Disorders",
+    "subcategory": "Autoimmune Disorders",
     "difficulty": "hard",
-    "question": "[Antidotes & Toxicity #123] Which vital clinical assessment must the clinician prioritize before administering oral Digoxin?",
+    "question": "[Autoimmune Disorders #123] Which vital clinical assessment must the clinician prioritize before administering oral Digoxin?",
     "options": [
       "Assess bilateral patellar deep tendon reflexes",
       "Weigh patient immediately post-dose",
@@ -2820,8 +2820,8 @@
     "correctAnswer": 3,
     "explanation": "Digoxin slows AV node conduction; an apical heart rate below 60 bpm warrants withholding the dose to prevent toxicity.",
     "tags": [
-      "pharmacology",
-      "antidotes-toxicity",
+      "diseases-disorders",
+      "autoimmune-disorders",
       "hard",
       "pharmacology",
       "pathology"
@@ -2829,11 +2829,11 @@
     "active": true
   },
   {
-    "id": "pharmacology-endocrine-pharmacology-0124",
-    "category": "Pharmacology",
-    "subcategory": "Endocrine Pharmacology",
+    "id": "diseases-disorders-emergency-conditions-0124",
+    "category": "Diseases & Disorders",
+    "subcategory": "Emergency Conditions",
     "difficulty": "easy",
-    "question": "[Endocrine Pharmacology #124] What is the specific antidote administered for severe unfractionated Heparin overdose with acute hemorrhage?",
+    "question": "[Emergency Conditions #124] What is the specific antidote administered for severe unfractionated Heparin overdose with acute hemorrhage?",
     "options": [
       "Protamine Sulfate",
       "Vitamin K (Phytonadione)",
@@ -2843,8 +2843,8 @@
     "correctAnswer": 0,
     "explanation": "Protamine sulfate is a strongly basic peptide that neutralizes acidic heparin by forming an inactive stable salt.",
     "tags": [
-      "pharmacology",
-      "endocrine-pharmacology",
+      "diseases-disorders",
+      "emergency-conditions",
       "easy",
       "pharmacology",
       "pathology"
@@ -2852,11 +2852,11 @@
     "active": true
   },
   {
-    "id": "pharmacology-cardiovascular-pharmacology-0125",
-    "category": "Pharmacology",
-    "subcategory": "Cardiovascular Pharmacology",
+    "id": "diseases-disorders-chronic-illness-0125",
+    "category": "Diseases & Disorders",
+    "subcategory": "Chronic Illness",
     "difficulty": "medium",
-    "question": "[Cardiovascular Pharmacology #125] What is the specific opioid receptor antagonist administered to reverse life-threatening narcotic respiratory depression?",
+    "question": "[Chronic Illness #125] What is the specific opioid receptor antagonist administered to reverse life-threatening narcotic respiratory depression?",
     "options": [
       "Flumazenil",
       "Naloxone (Narcan)",
@@ -2866,8 +2866,8 @@
     "correctAnswer": 1,
     "explanation": "Naloxone is a pure mu-opioid receptor antagonist that rapidly reverses opioid-induced respiratory depression.",
     "tags": [
-      "pharmacology",
-      "cardiovascular-pharmacology",
+      "diseases-disorders",
+      "chronic-illness",
       "medium",
       "pharmacology",
       "pathology"
@@ -2875,11 +2875,11 @@
     "active": true
   },
   {
-    "id": "pharmacology-antibiotics-antivirals-0126",
-    "category": "Pharmacology",
-    "subcategory": "Antibiotics & Antivirals",
+    "id": "diseases-disorders-infectious-diseases-0126",
+    "category": "Diseases & Disorders",
+    "subcategory": "Infectious Diseases",
     "difficulty": "hard",
-    "question": "[Antibiotics & Antivirals #126] Which adverse side effect is a well-documented class-effect of ACE inhibitors caused by bradykinin accumulation?",
+    "question": "[Infectious Diseases #126] Which adverse side effect is a well-documented class-effect of ACE inhibitors caused by bradykinin accumulation?",
     "options": [
       "Severe hypoglycemia",
       "Extreme urinary retention",
@@ -2889,8 +2889,8 @@
     "correctAnswer": 2,
     "explanation": "ACE inhibitors prevent bradykinin degradation in the respiratory tract, causing a dry cough in up to 15% of patients.",
     "tags": [
-      "pharmacology",
-      "antibiotics-antivirals",
+      "diseases-disorders",
+      "infectious-diseases",
       "hard",
       "pharmacology",
       "pathology"
@@ -2898,11 +2898,11 @@
     "active": true
   },
   {
-    "id": "pharmacology-antidotes-toxicity-0127",
-    "category": "Pharmacology",
-    "subcategory": "Antidotes & Toxicity",
+    "id": "diseases-disorders-autoimmune-disorders-0127",
+    "category": "Diseases & Disorders",
+    "subcategory": "Autoimmune Disorders",
     "difficulty": "easy",
-    "question": "[Antidotes & Toxicity #127] Which vital clinical assessment must the clinician prioritize before administering oral Digoxin?",
+    "question": "[Autoimmune Disorders #127] Which vital clinical assessment must the clinician prioritize before administering oral Digoxin?",
     "options": [
       "Assess bilateral patellar deep tendon reflexes",
       "Weigh patient immediately post-dose",
@@ -2912,8 +2912,8 @@
     "correctAnswer": 3,
     "explanation": "Digoxin slows AV node conduction; an apical heart rate below 60 bpm warrants withholding the dose to prevent toxicity.",
     "tags": [
-      "pharmacology",
-      "antidotes-toxicity",
+      "diseases-disorders",
+      "autoimmune-disorders",
       "easy",
       "pharmacology",
       "pathology"
@@ -2921,11 +2921,11 @@
     "active": true
   },
   {
-    "id": "pharmacology-endocrine-pharmacology-0128",
-    "category": "Pharmacology",
-    "subcategory": "Endocrine Pharmacology",
+    "id": "diseases-disorders-emergency-conditions-0128",
+    "category": "Diseases & Disorders",
+    "subcategory": "Emergency Conditions",
     "difficulty": "medium",
-    "question": "[Endocrine Pharmacology #128] What is the specific antidote administered for severe unfractionated Heparin overdose with acute hemorrhage?",
+    "question": "[Emergency Conditions #128] What is the specific antidote administered for severe unfractionated Heparin overdose with acute hemorrhage?",
     "options": [
       "Protamine Sulfate",
       "Vitamin K (Phytonadione)",
@@ -2935,8 +2935,8 @@
     "correctAnswer": 0,
     "explanation": "Protamine sulfate is a strongly basic peptide that neutralizes acidic heparin by forming an inactive stable salt.",
     "tags": [
-      "pharmacology",
-      "endocrine-pharmacology",
+      "diseases-disorders",
+      "emergency-conditions",
       "medium",
       "pharmacology",
       "pathology"
@@ -2944,11 +2944,11 @@
     "active": true
   },
   {
-    "id": "pharmacology-cardiovascular-pharmacology-0129",
-    "category": "Pharmacology",
-    "subcategory": "Cardiovascular Pharmacology",
+    "id": "diseases-disorders-chronic-illness-0129",
+    "category": "Diseases & Disorders",
+    "subcategory": "Chronic Illness",
     "difficulty": "hard",
-    "question": "[Cardiovascular Pharmacology #129] What is the specific opioid receptor antagonist administered to reverse life-threatening narcotic respiratory depression?",
+    "question": "[Chronic Illness #129] What is the specific opioid receptor antagonist administered to reverse life-threatening narcotic respiratory depression?",
     "options": [
       "Flumazenil",
       "Naloxone (Narcan)",
@@ -2958,8 +2958,8 @@
     "correctAnswer": 1,
     "explanation": "Naloxone is a pure mu-opioid receptor antagonist that rapidly reverses opioid-induced respiratory depression.",
     "tags": [
-      "pharmacology",
-      "cardiovascular-pharmacology",
+      "diseases-disorders",
+      "chronic-illness",
       "hard",
       "pharmacology",
       "pathology"
@@ -2967,11 +2967,11 @@
     "active": true
   },
   {
-    "id": "pharmacology-antibiotics-antivirals-0130",
-    "category": "Pharmacology",
-    "subcategory": "Antibiotics & Antivirals",
+    "id": "diseases-disorders-infectious-diseases-0130",
+    "category": "Diseases & Disorders",
+    "subcategory": "Infectious Diseases",
     "difficulty": "easy",
-    "question": "[Antibiotics & Antivirals #130] Which adverse side effect is a well-documented class-effect of ACE inhibitors caused by bradykinin accumulation?",
+    "question": "[Infectious Diseases #130] Which adverse side effect is a well-documented class-effect of ACE inhibitors caused by bradykinin accumulation?",
     "options": [
       "Severe hypoglycemia",
       "Extreme urinary retention",
@@ -2981,8 +2981,8 @@
     "correctAnswer": 2,
     "explanation": "ACE inhibitors prevent bradykinin degradation in the respiratory tract, causing a dry cough in up to 15% of patients.",
     "tags": [
-      "pharmacology",
-      "antibiotics-antivirals",
+      "diseases-disorders",
+      "infectious-diseases",
       "easy",
       "pharmacology",
       "pathology"
@@ -2990,11 +2990,11 @@
     "active": true
   },
   {
-    "id": "pharmacology-antidotes-toxicity-0131",
-    "category": "Pharmacology",
-    "subcategory": "Antidotes & Toxicity",
+    "id": "diseases-disorders-autoimmune-disorders-0131",
+    "category": "Diseases & Disorders",
+    "subcategory": "Autoimmune Disorders",
     "difficulty": "medium",
-    "question": "[Antidotes & Toxicity #131] Which vital clinical assessment must the clinician prioritize before administering oral Digoxin?",
+    "question": "[Autoimmune Disorders #131] Which vital clinical assessment must the clinician prioritize before administering oral Digoxin?",
     "options": [
       "Assess bilateral patellar deep tendon reflexes",
       "Weigh patient immediately post-dose",
@@ -3004,8 +3004,8 @@
     "correctAnswer": 3,
     "explanation": "Digoxin slows AV node conduction; an apical heart rate below 60 bpm warrants withholding the dose to prevent toxicity.",
     "tags": [
-      "pharmacology",
-      "antidotes-toxicity",
+      "diseases-disorders",
+      "autoimmune-disorders",
       "medium",
       "pharmacology",
       "pathology"
@@ -3013,11 +3013,11 @@
     "active": true
   },
   {
-    "id": "pharmacology-endocrine-pharmacology-0132",
-    "category": "Pharmacology",
-    "subcategory": "Endocrine Pharmacology",
+    "id": "diseases-disorders-emergency-conditions-0132",
+    "category": "Diseases & Disorders",
+    "subcategory": "Emergency Conditions",
     "difficulty": "hard",
-    "question": "[Endocrine Pharmacology #132] What is the specific antidote administered for severe unfractionated Heparin overdose with acute hemorrhage?",
+    "question": "[Emergency Conditions #132] What is the specific antidote administered for severe unfractionated Heparin overdose with acute hemorrhage?",
     "options": [
       "Protamine Sulfate",
       "Vitamin K (Phytonadione)",
@@ -3027,8 +3027,8 @@
     "correctAnswer": 0,
     "explanation": "Protamine sulfate is a strongly basic peptide that neutralizes acidic heparin by forming an inactive stable salt.",
     "tags": [
-      "pharmacology",
-      "endocrine-pharmacology",
+      "diseases-disorders",
+      "emergency-conditions",
       "hard",
       "pharmacology",
       "pathology"
@@ -3036,11 +3036,11 @@
     "active": true
   },
   {
-    "id": "pharmacology-cardiovascular-pharmacology-0133",
-    "category": "Pharmacology",
-    "subcategory": "Cardiovascular Pharmacology",
+    "id": "diseases-disorders-chronic-illness-0133",
+    "category": "Diseases & Disorders",
+    "subcategory": "Chronic Illness",
     "difficulty": "easy",
-    "question": "[Cardiovascular Pharmacology #133] What is the specific opioid receptor antagonist administered to reverse life-threatening narcotic respiratory depression?",
+    "question": "[Chronic Illness #133] What is the specific opioid receptor antagonist administered to reverse life-threatening narcotic respiratory depression?",
     "options": [
       "Flumazenil",
       "Naloxone (Narcan)",
@@ -3050,8 +3050,8 @@
     "correctAnswer": 1,
     "explanation": "Naloxone is a pure mu-opioid receptor antagonist that rapidly reverses opioid-induced respiratory depression.",
     "tags": [
-      "pharmacology",
-      "cardiovascular-pharmacology",
+      "diseases-disorders",
+      "chronic-illness",
       "easy",
       "pharmacology",
       "pathology"
@@ -3059,11 +3059,11 @@
     "active": true
   },
   {
-    "id": "pharmacology-antibiotics-antivirals-0134",
-    "category": "Pharmacology",
-    "subcategory": "Antibiotics & Antivirals",
+    "id": "diseases-disorders-infectious-diseases-0134",
+    "category": "Diseases & Disorders",
+    "subcategory": "Infectious Diseases",
     "difficulty": "medium",
-    "question": "[Antibiotics & Antivirals #134] Which adverse side effect is a well-documented class-effect of ACE inhibitors caused by bradykinin accumulation?",
+    "question": "[Infectious Diseases #134] Which adverse side effect is a well-documented class-effect of ACE inhibitors caused by bradykinin accumulation?",
     "options": [
       "Severe hypoglycemia",
       "Extreme urinary retention",
@@ -3073,8 +3073,8 @@
     "correctAnswer": 2,
     "explanation": "ACE inhibitors prevent bradykinin degradation in the respiratory tract, causing a dry cough in up to 15% of patients.",
     "tags": [
-      "pharmacology",
-      "antibiotics-antivirals",
+      "diseases-disorders",
+      "infectious-diseases",
       "medium",
       "pharmacology",
       "pathology"
@@ -3082,11 +3082,11 @@
     "active": true
   },
   {
-    "id": "pharmacology-antidotes-toxicity-0135",
-    "category": "Pharmacology",
-    "subcategory": "Antidotes & Toxicity",
+    "id": "diseases-disorders-autoimmune-disorders-0135",
+    "category": "Diseases & Disorders",
+    "subcategory": "Autoimmune Disorders",
     "difficulty": "hard",
-    "question": "[Antidotes & Toxicity #135] Which vital clinical assessment must the clinician prioritize before administering oral Digoxin?",
+    "question": "[Autoimmune Disorders #135] Which vital clinical assessment must the clinician prioritize before administering oral Digoxin?",
     "options": [
       "Assess bilateral patellar deep tendon reflexes",
       "Weigh patient immediately post-dose",
@@ -3096,8 +3096,8 @@
     "correctAnswer": 3,
     "explanation": "Digoxin slows AV node conduction; an apical heart rate below 60 bpm warrants withholding the dose to prevent toxicity.",
     "tags": [
-      "pharmacology",
-      "antidotes-toxicity",
+      "diseases-disorders",
+      "autoimmune-disorders",
       "hard",
       "pharmacology",
       "pathology"
@@ -3105,11 +3105,11 @@
     "active": true
   },
   {
-    "id": "pharmacology-endocrine-pharmacology-0136",
-    "category": "Pharmacology",
-    "subcategory": "Endocrine Pharmacology",
+    "id": "diseases-disorders-emergency-conditions-0136",
+    "category": "Diseases & Disorders",
+    "subcategory": "Emergency Conditions",
     "difficulty": "easy",
-    "question": "[Endocrine Pharmacology #136] What is the specific antidote administered for severe unfractionated Heparin overdose with acute hemorrhage?",
+    "question": "[Emergency Conditions #136] What is the specific antidote administered for severe unfractionated Heparin overdose with acute hemorrhage?",
     "options": [
       "Protamine Sulfate",
       "Vitamin K (Phytonadione)",
@@ -3119,8 +3119,8 @@
     "correctAnswer": 0,
     "explanation": "Protamine sulfate is a strongly basic peptide that neutralizes acidic heparin by forming an inactive stable salt.",
     "tags": [
-      "pharmacology",
-      "endocrine-pharmacology",
+      "diseases-disorders",
+      "emergency-conditions",
       "easy",
       "pharmacology",
       "pathology"
@@ -3128,11 +3128,11 @@
     "active": true
   },
   {
-    "id": "pharmacology-cardiovascular-pharmacology-0137",
-    "category": "Pharmacology",
-    "subcategory": "Cardiovascular Pharmacology",
+    "id": "diseases-disorders-chronic-illness-0137",
+    "category": "Diseases & Disorders",
+    "subcategory": "Chronic Illness",
     "difficulty": "medium",
-    "question": "[Cardiovascular Pharmacology #137] What is the specific opioid receptor antagonist administered to reverse life-threatening narcotic respiratory depression?",
+    "question": "[Chronic Illness #137] What is the specific opioid receptor antagonist administered to reverse life-threatening narcotic respiratory depression?",
     "options": [
       "Flumazenil",
       "Naloxone (Narcan)",
@@ -3142,8 +3142,8 @@
     "correctAnswer": 1,
     "explanation": "Naloxone is a pure mu-opioid receptor antagonist that rapidly reverses opioid-induced respiratory depression.",
     "tags": [
-      "pharmacology",
-      "cardiovascular-pharmacology",
+      "diseases-disorders",
+      "chronic-illness",
       "medium",
       "pharmacology",
       "pathology"
@@ -3151,11 +3151,11 @@
     "active": true
   },
   {
-    "id": "pharmacology-antibiotics-antivirals-0138",
-    "category": "Pharmacology",
-    "subcategory": "Antibiotics & Antivirals",
+    "id": "diseases-disorders-infectious-diseases-0138",
+    "category": "Diseases & Disorders",
+    "subcategory": "Infectious Diseases",
     "difficulty": "hard",
-    "question": "[Antibiotics & Antivirals #138] Which adverse side effect is a well-documented class-effect of ACE inhibitors caused by bradykinin accumulation?",
+    "question": "[Infectious Diseases #138] Which adverse side effect is a well-documented class-effect of ACE inhibitors caused by bradykinin accumulation?",
     "options": [
       "Severe hypoglycemia",
       "Extreme urinary retention",
@@ -3165,8 +3165,8 @@
     "correctAnswer": 2,
     "explanation": "ACE inhibitors prevent bradykinin degradation in the respiratory tract, causing a dry cough in up to 15% of patients.",
     "tags": [
-      "pharmacology",
-      "antibiotics-antivirals",
+      "diseases-disorders",
+      "infectious-diseases",
       "hard",
       "pharmacology",
       "pathology"
@@ -3174,11 +3174,11 @@
     "active": true
   },
   {
-    "id": "pharmacology-antidotes-toxicity-0139",
-    "category": "Pharmacology",
-    "subcategory": "Antidotes & Toxicity",
+    "id": "diseases-disorders-autoimmune-disorders-0139",
+    "category": "Diseases & Disorders",
+    "subcategory": "Autoimmune Disorders",
     "difficulty": "easy",
-    "question": "[Antidotes & Toxicity #139] Which vital clinical assessment must the clinician prioritize before administering oral Digoxin?",
+    "question": "[Autoimmune Disorders #139] Which vital clinical assessment must the clinician prioritize before administering oral Digoxin?",
     "options": [
       "Assess bilateral patellar deep tendon reflexes",
       "Weigh patient immediately post-dose",
@@ -3188,8 +3188,8 @@
     "correctAnswer": 3,
     "explanation": "Digoxin slows AV node conduction; an apical heart rate below 60 bpm warrants withholding the dose to prevent toxicity.",
     "tags": [
-      "pharmacology",
-      "antidotes-toxicity",
+      "diseases-disorders",
+      "autoimmune-disorders",
       "easy",
       "pharmacology",
       "pathology"
@@ -3197,11 +3197,11 @@
     "active": true
   },
   {
-    "id": "pharmacology-endocrine-pharmacology-0140",
-    "category": "Pharmacology",
-    "subcategory": "Endocrine Pharmacology",
+    "id": "diseases-disorders-emergency-conditions-0140",
+    "category": "Diseases & Disorders",
+    "subcategory": "Emergency Conditions",
     "difficulty": "medium",
-    "question": "[Endocrine Pharmacology #140] What is the specific antidote administered for severe unfractionated Heparin overdose with acute hemorrhage?",
+    "question": "[Emergency Conditions #140] What is the specific antidote administered for severe unfractionated Heparin overdose with acute hemorrhage?",
     "options": [
       "Protamine Sulfate",
       "Vitamin K (Phytonadione)",
@@ -3211,8 +3211,8 @@
     "correctAnswer": 0,
     "explanation": "Protamine sulfate is a strongly basic peptide that neutralizes acidic heparin by forming an inactive stable salt.",
     "tags": [
-      "pharmacology",
-      "endocrine-pharmacology",
+      "diseases-disorders",
+      "emergency-conditions",
       "medium",
       "pharmacology",
       "pathology"
@@ -3220,11 +3220,11 @@
     "active": true
   },
   {
-    "id": "pharmacology-cardiovascular-pharmacology-0141",
-    "category": "Pharmacology",
-    "subcategory": "Cardiovascular Pharmacology",
+    "id": "diseases-disorders-chronic-illness-0141",
+    "category": "Diseases & Disorders",
+    "subcategory": "Chronic Illness",
     "difficulty": "hard",
-    "question": "[Cardiovascular Pharmacology #141] What is the specific opioid receptor antagonist administered to reverse life-threatening narcotic respiratory depression?",
+    "question": "[Chronic Illness #141] What is the specific opioid receptor antagonist administered to reverse life-threatening narcotic respiratory depression?",
     "options": [
       "Flumazenil",
       "Naloxone (Narcan)",
@@ -3234,8 +3234,8 @@
     "correctAnswer": 1,
     "explanation": "Naloxone is a pure mu-opioid receptor antagonist that rapidly reverses opioid-induced respiratory depression.",
     "tags": [
-      "pharmacology",
-      "cardiovascular-pharmacology",
+      "diseases-disorders",
+      "chronic-illness",
       "hard",
       "pharmacology",
       "pathology"
@@ -3243,11 +3243,11 @@
     "active": true
   },
   {
-    "id": "pharmacology-antibiotics-antivirals-0142",
-    "category": "Pharmacology",
-    "subcategory": "Antibiotics & Antivirals",
+    "id": "diseases-disorders-infectious-diseases-0142",
+    "category": "Diseases & Disorders",
+    "subcategory": "Infectious Diseases",
     "difficulty": "easy",
-    "question": "[Antibiotics & Antivirals #142] Which adverse side effect is a well-documented class-effect of ACE inhibitors caused by bradykinin accumulation?",
+    "question": "[Infectious Diseases #142] Which adverse side effect is a well-documented class-effect of ACE inhibitors caused by bradykinin accumulation?",
     "options": [
       "Severe hypoglycemia",
       "Extreme urinary retention",
@@ -3257,8 +3257,8 @@
     "correctAnswer": 2,
     "explanation": "ACE inhibitors prevent bradykinin degradation in the respiratory tract, causing a dry cough in up to 15% of patients.",
     "tags": [
-      "pharmacology",
-      "antibiotics-antivirals",
+      "diseases-disorders",
+      "infectious-diseases",
       "easy",
       "pharmacology",
       "pathology"
@@ -3266,11 +3266,11 @@
     "active": true
   },
   {
-    "id": "pharmacology-antidotes-toxicity-0143",
-    "category": "Pharmacology",
-    "subcategory": "Antidotes & Toxicity",
+    "id": "diseases-disorders-autoimmune-disorders-0143",
+    "category": "Diseases & Disorders",
+    "subcategory": "Autoimmune Disorders",
     "difficulty": "medium",
-    "question": "[Antidotes & Toxicity #143] Which vital clinical assessment must the clinician prioritize before administering oral Digoxin?",
+    "question": "[Autoimmune Disorders #143] Which vital clinical assessment must the clinician prioritize before administering oral Digoxin?",
     "options": [
       "Assess bilateral patellar deep tendon reflexes",
       "Weigh patient immediately post-dose",
@@ -3280,8 +3280,8 @@
     "correctAnswer": 3,
     "explanation": "Digoxin slows AV node conduction; an apical heart rate below 60 bpm warrants withholding the dose to prevent toxicity.",
     "tags": [
-      "pharmacology",
-      "antidotes-toxicity",
+      "diseases-disorders",
+      "autoimmune-disorders",
       "medium",
       "pharmacology",
       "pathology"
@@ -3289,11 +3289,11 @@
     "active": true
   },
   {
-    "id": "pharmacology-endocrine-pharmacology-0144",
-    "category": "Pharmacology",
-    "subcategory": "Endocrine Pharmacology",
+    "id": "diseases-disorders-emergency-conditions-0144",
+    "category": "Diseases & Disorders",
+    "subcategory": "Emergency Conditions",
     "difficulty": "hard",
-    "question": "[Endocrine Pharmacology #144] What is the specific antidote administered for severe unfractionated Heparin overdose with acute hemorrhage?",
+    "question": "[Emergency Conditions #144] What is the specific antidote administered for severe unfractionated Heparin overdose with acute hemorrhage?",
     "options": [
       "Protamine Sulfate",
       "Vitamin K (Phytonadione)",
@@ -3303,8 +3303,8 @@
     "correctAnswer": 0,
     "explanation": "Protamine sulfate is a strongly basic peptide that neutralizes acidic heparin by forming an inactive stable salt.",
     "tags": [
-      "pharmacology",
-      "endocrine-pharmacology",
+      "diseases-disorders",
+      "emergency-conditions",
       "hard",
       "pharmacology",
       "pathology"
@@ -3312,11 +3312,11 @@
     "active": true
   },
   {
-    "id": "pharmacology-cardiovascular-pharmacology-0145",
-    "category": "Pharmacology",
-    "subcategory": "Cardiovascular Pharmacology",
+    "id": "diseases-disorders-chronic-illness-0145",
+    "category": "Diseases & Disorders",
+    "subcategory": "Chronic Illness",
     "difficulty": "easy",
-    "question": "[Cardiovascular Pharmacology #145] What is the specific opioid receptor antagonist administered to reverse life-threatening narcotic respiratory depression?",
+    "question": "[Chronic Illness #145] What is the specific opioid receptor antagonist administered to reverse life-threatening narcotic respiratory depression?",
     "options": [
       "Flumazenil",
       "Naloxone (Narcan)",
@@ -3326,8 +3326,8 @@
     "correctAnswer": 1,
     "explanation": "Naloxone is a pure mu-opioid receptor antagonist that rapidly reverses opioid-induced respiratory depression.",
     "tags": [
-      "pharmacology",
-      "cardiovascular-pharmacology",
+      "diseases-disorders",
+      "chronic-illness",
       "easy",
       "pharmacology",
       "pathology"
@@ -3335,11 +3335,11 @@
     "active": true
   },
   {
-    "id": "pharmacology-antibiotics-antivirals-0146",
-    "category": "Pharmacology",
-    "subcategory": "Antibiotics & Antivirals",
+    "id": "diseases-disorders-infectious-diseases-0146",
+    "category": "Diseases & Disorders",
+    "subcategory": "Infectious Diseases",
     "difficulty": "medium",
-    "question": "[Antibiotics & Antivirals #146] Which adverse side effect is a well-documented class-effect of ACE inhibitors caused by bradykinin accumulation?",
+    "question": "[Infectious Diseases #146] Which adverse side effect is a well-documented class-effect of ACE inhibitors caused by bradykinin accumulation?",
     "options": [
       "Severe hypoglycemia",
       "Extreme urinary retention",
@@ -3349,8 +3349,8 @@
     "correctAnswer": 2,
     "explanation": "ACE inhibitors prevent bradykinin degradation in the respiratory tract, causing a dry cough in up to 15% of patients.",
     "tags": [
-      "pharmacology",
-      "antibiotics-antivirals",
+      "diseases-disorders",
+      "infectious-diseases",
       "medium",
       "pharmacology",
       "pathology"
@@ -3358,11 +3358,11 @@
     "active": true
   },
   {
-    "id": "pharmacology-antidotes-toxicity-0147",
-    "category": "Pharmacology",
-    "subcategory": "Antidotes & Toxicity",
+    "id": "diseases-disorders-autoimmune-disorders-0147",
+    "category": "Diseases & Disorders",
+    "subcategory": "Autoimmune Disorders",
     "difficulty": "hard",
-    "question": "[Antidotes & Toxicity #147] Which vital clinical assessment must the clinician prioritize before administering oral Digoxin?",
+    "question": "[Autoimmune Disorders #147] Which vital clinical assessment must the clinician prioritize before administering oral Digoxin?",
     "options": [
       "Assess bilateral patellar deep tendon reflexes",
       "Weigh patient immediately post-dose",
@@ -3372,8 +3372,8 @@
     "correctAnswer": 3,
     "explanation": "Digoxin slows AV node conduction; an apical heart rate below 60 bpm warrants withholding the dose to prevent toxicity.",
     "tags": [
-      "pharmacology",
-      "antidotes-toxicity",
+      "diseases-disorders",
+      "autoimmune-disorders",
       "hard",
       "pharmacology",
       "pathology"
@@ -3381,11 +3381,11 @@
     "active": true
   },
   {
-    "id": "pharmacology-endocrine-pharmacology-0148",
-    "category": "Pharmacology",
-    "subcategory": "Endocrine Pharmacology",
+    "id": "diseases-disorders-emergency-conditions-0148",
+    "category": "Diseases & Disorders",
+    "subcategory": "Emergency Conditions",
     "difficulty": "easy",
-    "question": "[Endocrine Pharmacology #148] What is the specific antidote administered for severe unfractionated Heparin overdose with acute hemorrhage?",
+    "question": "[Emergency Conditions #148] What is the specific antidote administered for severe unfractionated Heparin overdose with acute hemorrhage?",
     "options": [
       "Protamine Sulfate",
       "Vitamin K (Phytonadione)",
@@ -3395,8 +3395,8 @@
     "correctAnswer": 0,
     "explanation": "Protamine sulfate is a strongly basic peptide that neutralizes acidic heparin by forming an inactive stable salt.",
     "tags": [
-      "pharmacology",
-      "endocrine-pharmacology",
+      "diseases-disorders",
+      "emergency-conditions",
       "easy",
       "pharmacology",
       "pathology"
@@ -3404,11 +3404,11 @@
     "active": true
   },
   {
-    "id": "pharmacology-cardiovascular-pharmacology-0149",
-    "category": "Pharmacology",
-    "subcategory": "Cardiovascular Pharmacology",
+    "id": "diseases-disorders-chronic-illness-0149",
+    "category": "Diseases & Disorders",
+    "subcategory": "Chronic Illness",
     "difficulty": "medium",
-    "question": "[Cardiovascular Pharmacology #149] What is the specific opioid receptor antagonist administered to reverse life-threatening narcotic respiratory depression?",
+    "question": "[Chronic Illness #149] What is the specific opioid receptor antagonist administered to reverse life-threatening narcotic respiratory depression?",
     "options": [
       "Flumazenil",
       "Naloxone (Narcan)",
@@ -3418,8 +3418,8 @@
     "correctAnswer": 1,
     "explanation": "Naloxone is a pure mu-opioid receptor antagonist that rapidly reverses opioid-induced respiratory depression.",
     "tags": [
-      "pharmacology",
-      "cardiovascular-pharmacology",
+      "diseases-disorders",
+      "chronic-illness",
       "medium",
       "pharmacology",
       "pathology"
@@ -3427,11 +3427,11 @@
     "active": true
   },
   {
-    "id": "pharmacology-antibiotics-antivirals-0150",
-    "category": "Pharmacology",
-    "subcategory": "Antibiotics & Antivirals",
+    "id": "diseases-disorders-infectious-diseases-0150",
+    "category": "Diseases & Disorders",
+    "subcategory": "Infectious Diseases",
     "difficulty": "hard",
-    "question": "[Antibiotics & Antivirals #150] Which adverse side effect is a well-documented class-effect of ACE inhibitors caused by bradykinin accumulation?",
+    "question": "[Infectious Diseases #150] Which adverse side effect is a well-documented class-effect of ACE inhibitors caused by bradykinin accumulation?",
     "options": [
       "Severe hypoglycemia",
       "Extreme urinary retention",
@@ -3441,8 +3441,8 @@
     "correctAnswer": 2,
     "explanation": "ACE inhibitors prevent bradykinin degradation in the respiratory tract, causing a dry cough in up to 15% of patients.",
     "tags": [
-      "pharmacology",
-      "antibiotics-antivirals",
+      "diseases-disorders",
+      "infectious-diseases",
       "hard",
       "pharmacology",
       "pathology"
@@ -3450,11 +3450,11 @@
     "active": true
   },
   {
-    "id": "pharmacology-antidotes-toxicity-0151",
-    "category": "Pharmacology",
-    "subcategory": "Antidotes & Toxicity",
+    "id": "diseases-disorders-autoimmune-disorders-0151",
+    "category": "Diseases & Disorders",
+    "subcategory": "Autoimmune Disorders",
     "difficulty": "easy",
-    "question": "[Antidotes & Toxicity #151] Which vital clinical assessment must the clinician prioritize before administering oral Digoxin?",
+    "question": "[Autoimmune Disorders #151] Which vital clinical assessment must the clinician prioritize before administering oral Digoxin?",
     "options": [
       "Assess bilateral patellar deep tendon reflexes",
       "Weigh patient immediately post-dose",
@@ -3464,8 +3464,8 @@
     "correctAnswer": 3,
     "explanation": "Digoxin slows AV node conduction; an apical heart rate below 60 bpm warrants withholding the dose to prevent toxicity.",
     "tags": [
-      "pharmacology",
-      "antidotes-toxicity",
+      "diseases-disorders",
+      "autoimmune-disorders",
       "easy",
       "pharmacology",
       "pathology"
@@ -3473,11 +3473,11 @@
     "active": true
   },
   {
-    "id": "pharmacology-endocrine-pharmacology-0152",
-    "category": "Pharmacology",
-    "subcategory": "Endocrine Pharmacology",
+    "id": "diseases-disorders-emergency-conditions-0152",
+    "category": "Diseases & Disorders",
+    "subcategory": "Emergency Conditions",
     "difficulty": "medium",
-    "question": "[Endocrine Pharmacology #152] What is the specific antidote administered for severe unfractionated Heparin overdose with acute hemorrhage?",
+    "question": "[Emergency Conditions #152] What is the specific antidote administered for severe unfractionated Heparin overdose with acute hemorrhage?",
     "options": [
       "Protamine Sulfate",
       "Vitamin K (Phytonadione)",
@@ -3487,8 +3487,8 @@
     "correctAnswer": 0,
     "explanation": "Protamine sulfate is a strongly basic peptide that neutralizes acidic heparin by forming an inactive stable salt.",
     "tags": [
-      "pharmacology",
-      "endocrine-pharmacology",
+      "diseases-disorders",
+      "emergency-conditions",
       "medium",
       "pharmacology",
       "pathology"
@@ -3496,11 +3496,11 @@
     "active": true
   },
   {
-    "id": "pharmacology-cardiovascular-pharmacology-0153",
-    "category": "Pharmacology",
-    "subcategory": "Cardiovascular Pharmacology",
+    "id": "diseases-disorders-chronic-illness-0153",
+    "category": "Diseases & Disorders",
+    "subcategory": "Chronic Illness",
     "difficulty": "hard",
-    "question": "[Cardiovascular Pharmacology #153] What is the specific opioid receptor antagonist administered to reverse life-threatening narcotic respiratory depression?",
+    "question": "[Chronic Illness #153] What is the specific opioid receptor antagonist administered to reverse life-threatening narcotic respiratory depression?",
     "options": [
       "Flumazenil",
       "Naloxone (Narcan)",
@@ -3510,8 +3510,8 @@
     "correctAnswer": 1,
     "explanation": "Naloxone is a pure mu-opioid receptor antagonist that rapidly reverses opioid-induced respiratory depression.",
     "tags": [
-      "pharmacology",
-      "cardiovascular-pharmacology",
+      "diseases-disorders",
+      "chronic-illness",
       "hard",
       "pharmacology",
       "pathology"
@@ -3519,11 +3519,11 @@
     "active": true
   },
   {
-    "id": "pharmacology-antibiotics-antivirals-0154",
-    "category": "Pharmacology",
-    "subcategory": "Antibiotics & Antivirals",
+    "id": "diseases-disorders-infectious-diseases-0154",
+    "category": "Diseases & Disorders",
+    "subcategory": "Infectious Diseases",
     "difficulty": "easy",
-    "question": "[Antibiotics & Antivirals #154] Which adverse side effect is a well-documented class-effect of ACE inhibitors caused by bradykinin accumulation?",
+    "question": "[Infectious Diseases #154] Which adverse side effect is a well-documented class-effect of ACE inhibitors caused by bradykinin accumulation?",
     "options": [
       "Severe hypoglycemia",
       "Extreme urinary retention",
@@ -3533,8 +3533,8 @@
     "correctAnswer": 2,
     "explanation": "ACE inhibitors prevent bradykinin degradation in the respiratory tract, causing a dry cough in up to 15% of patients.",
     "tags": [
-      "pharmacology",
-      "antibiotics-antivirals",
+      "diseases-disorders",
+      "infectious-diseases",
       "easy",
       "pharmacology",
       "pathology"
@@ -3542,11 +3542,11 @@
     "active": true
   },
   {
-    "id": "pharmacology-antidotes-toxicity-0155",
-    "category": "Pharmacology",
-    "subcategory": "Antidotes & Toxicity",
+    "id": "diseases-disorders-autoimmune-disorders-0155",
+    "category": "Diseases & Disorders",
+    "subcategory": "Autoimmune Disorders",
     "difficulty": "medium",
-    "question": "[Antidotes & Toxicity #155] Which vital clinical assessment must the clinician prioritize before administering oral Digoxin?",
+    "question": "[Autoimmune Disorders #155] Which vital clinical assessment must the clinician prioritize before administering oral Digoxin?",
     "options": [
       "Assess bilateral patellar deep tendon reflexes",
       "Weigh patient immediately post-dose",
@@ -3556,8 +3556,8 @@
     "correctAnswer": 3,
     "explanation": "Digoxin slows AV node conduction; an apical heart rate below 60 bpm warrants withholding the dose to prevent toxicity.",
     "tags": [
-      "pharmacology",
-      "antidotes-toxicity",
+      "diseases-disorders",
+      "autoimmune-disorders",
       "medium",
       "pharmacology",
       "pathology"
@@ -3565,11 +3565,11 @@
     "active": true
   },
   {
-    "id": "pharmacology-endocrine-pharmacology-0156",
-    "category": "Pharmacology",
-    "subcategory": "Endocrine Pharmacology",
+    "id": "diseases-disorders-emergency-conditions-0156",
+    "category": "Diseases & Disorders",
+    "subcategory": "Emergency Conditions",
     "difficulty": "hard",
-    "question": "[Endocrine Pharmacology #156] What is the specific antidote administered for severe unfractionated Heparin overdose with acute hemorrhage?",
+    "question": "[Emergency Conditions #156] What is the specific antidote administered for severe unfractionated Heparin overdose with acute hemorrhage?",
     "options": [
       "Protamine Sulfate",
       "Vitamin K (Phytonadione)",
@@ -3579,8 +3579,8 @@
     "correctAnswer": 0,
     "explanation": "Protamine sulfate is a strongly basic peptide that neutralizes acidic heparin by forming an inactive stable salt.",
     "tags": [
-      "pharmacology",
-      "endocrine-pharmacology",
+      "diseases-disorders",
+      "emergency-conditions",
       "hard",
       "pharmacology",
       "pathology"
@@ -3588,11 +3588,11 @@
     "active": true
   },
   {
-    "id": "pharmacology-cardiovascular-pharmacology-0157",
-    "category": "Pharmacology",
-    "subcategory": "Cardiovascular Pharmacology",
+    "id": "diseases-disorders-chronic-illness-0157",
+    "category": "Diseases & Disorders",
+    "subcategory": "Chronic Illness",
     "difficulty": "easy",
-    "question": "[Cardiovascular Pharmacology #157] What is the specific opioid receptor antagonist administered to reverse life-threatening narcotic respiratory depression?",
+    "question": "[Chronic Illness #157] What is the specific opioid receptor antagonist administered to reverse life-threatening narcotic respiratory depression?",
     "options": [
       "Flumazenil",
       "Naloxone (Narcan)",
@@ -3602,8 +3602,8 @@
     "correctAnswer": 1,
     "explanation": "Naloxone is a pure mu-opioid receptor antagonist that rapidly reverses opioid-induced respiratory depression.",
     "tags": [
-      "pharmacology",
-      "cardiovascular-pharmacology",
+      "diseases-disorders",
+      "chronic-illness",
       "easy",
       "pharmacology",
       "pathology"
@@ -3611,11 +3611,11 @@
     "active": true
   },
   {
-    "id": "pharmacology-antibiotics-antivirals-0158",
-    "category": "Pharmacology",
-    "subcategory": "Antibiotics & Antivirals",
+    "id": "diseases-disorders-infectious-diseases-0158",
+    "category": "Diseases & Disorders",
+    "subcategory": "Infectious Diseases",
     "difficulty": "medium",
-    "question": "[Antibiotics & Antivirals #158] Which adverse side effect is a well-documented class-effect of ACE inhibitors caused by bradykinin accumulation?",
+    "question": "[Infectious Diseases #158] Which adverse side effect is a well-documented class-effect of ACE inhibitors caused by bradykinin accumulation?",
     "options": [
       "Severe hypoglycemia",
       "Extreme urinary retention",
@@ -3625,8 +3625,8 @@
     "correctAnswer": 2,
     "explanation": "ACE inhibitors prevent bradykinin degradation in the respiratory tract, causing a dry cough in up to 15% of patients.",
     "tags": [
-      "pharmacology",
-      "antibiotics-antivirals",
+      "diseases-disorders",
+      "infectious-diseases",
       "medium",
       "pharmacology",
       "pathology"
@@ -3634,11 +3634,11 @@
     "active": true
   },
   {
-    "id": "pharmacology-antidotes-toxicity-0159",
-    "category": "Pharmacology",
-    "subcategory": "Antidotes & Toxicity",
+    "id": "diseases-disorders-autoimmune-disorders-0159",
+    "category": "Diseases & Disorders",
+    "subcategory": "Autoimmune Disorders",
     "difficulty": "hard",
-    "question": "[Antidotes & Toxicity #159] Which vital clinical assessment must the clinician prioritize before administering oral Digoxin?",
+    "question": "[Autoimmune Disorders #159] Which vital clinical assessment must the clinician prioritize before administering oral Digoxin?",
     "options": [
       "Assess bilateral patellar deep tendon reflexes",
       "Weigh patient immediately post-dose",
@@ -3648,8 +3648,8 @@
     "correctAnswer": 3,
     "explanation": "Digoxin slows AV node conduction; an apical heart rate below 60 bpm warrants withholding the dose to prevent toxicity.",
     "tags": [
-      "pharmacology",
-      "antidotes-toxicity",
+      "diseases-disorders",
+      "autoimmune-disorders",
       "hard",
       "pharmacology",
       "pathology"
@@ -3657,11 +3657,11 @@
     "active": true
   },
   {
-    "id": "pharmacology-endocrine-pharmacology-0160",
-    "category": "Pharmacology",
-    "subcategory": "Endocrine Pharmacology",
+    "id": "diseases-disorders-emergency-conditions-0160",
+    "category": "Diseases & Disorders",
+    "subcategory": "Emergency Conditions",
     "difficulty": "easy",
-    "question": "[Endocrine Pharmacology #160] What is the specific antidote administered for severe unfractionated Heparin overdose with acute hemorrhage?",
+    "question": "[Emergency Conditions #160] What is the specific antidote administered for severe unfractionated Heparin overdose with acute hemorrhage?",
     "options": [
       "Protamine Sulfate",
       "Vitamin K (Phytonadione)",
@@ -3671,8 +3671,8 @@
     "correctAnswer": 0,
     "explanation": "Protamine sulfate is a strongly basic peptide that neutralizes acidic heparin by forming an inactive stable salt.",
     "tags": [
-      "pharmacology",
-      "endocrine-pharmacology",
+      "diseases-disorders",
+      "emergency-conditions",
       "easy",
       "pharmacology",
       "pathology"

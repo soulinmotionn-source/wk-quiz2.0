@@ -4,9 +4,11 @@ import { SEOHead } from '../components/common/SEOHead';
 import { CategoryCard } from '../components/cards/CategoryCard';
 import { AdSlot } from '../components/common/AdSlot';
 import { CATEGORIES } from '../data/categories';
+import { getQuestionStats } from '../data/questionBank';
 
 export const CategoriesPage: React.FC = () => {
   const [filterQuery, setFilterQuery] = useState('');
+  const stats = getQuestionStats();
 
   const filteredCategories = useMemo(() => {
     if (!filterQuery.trim()) return CATEGORIES;
@@ -19,8 +21,8 @@ export const CategoriesPage: React.FC = () => {
   return (
     <div style={{ padding: 'var(--space-2xl) 0' }}>
       <SEOHead
-        title="All Quiz Categories — 34+ Knowledge Fields"
-        description="Browse all 34 quiz categories on WKQuiz.com: Healthcare, Nursing, Medical Terminology, Anatomy, Science, Technology, Geography, History, and more."
+        title={`All Quiz Categories — ${CATEGORIES.length} Knowledge Fields`}
+        description={`Browse all ${CATEGORIES.length} quiz categories and ${stats.totalQuestions.toLocaleString()}+ practice questions on WKQuiz.com.`}
         canonicalPath="/categories"
       />
 
@@ -44,7 +46,7 @@ export const CategoriesPage: React.FC = () => {
               Explore Categories
             </h1>
             <p style={{ color: 'var(--color-text-secondary)', fontSize: '1.05rem', marginTop: 'var(--space-xs)' }}>
-              Choose from 34 curated topics spanning professional certifications, sciences, and general knowledge.
+              Choose from {CATEGORIES.length} curated topics with {stats.totalQuestions.toLocaleString()}+ verified questions across nursing, sciences, and technical trades.
             </p>
           </div>
 

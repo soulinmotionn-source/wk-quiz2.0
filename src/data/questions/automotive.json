@@ -1,10 +1,10 @@
 [
   {
-    "id": "electrical-basic-circuits-0001",
-    "category": "Electrical",
-    "subcategory": "Basic Circuits",
+    "id": "automotive-engine-mechanics-0001",
+    "category": "Automotive",
+    "subcategory": "Engine Mechanics",
     "difficulty": "easy",
-    "question": "[Basic Circuits #1] According to Ohm's Law, which mathematical formula correctly defines electrical voltage (V)?",
+    "question": "[Engine Mechanics #1] According to Ohm's Law, which mathematical formula correctly defines electrical voltage (V)?",
     "options": [
       "V = I / R",
       "V = I × R (Current multiplied by Resistance)",
@@ -14,8 +14,8 @@
     "correctAnswer": 1,
     "explanation": "Ohm’s law states that potential difference V is the product of current I (Amperes) and resistance R (Ohms).",
     "tags": [
-      "electrical",
-      "basic-circuits",
+      "automotive",
+      "engine-mechanics",
       "easy",
       "engineering",
       "circuits",
@@ -24,11 +24,11 @@
     "active": true
   },
   {
-    "id": "electrical-power-calculations-0002",
-    "category": "Electrical",
-    "subcategory": "Power Calculations",
+    "id": "automotive-brakes-suspension-0002",
+    "category": "Automotive",
+    "subcategory": "Brakes & Suspension",
     "difficulty": "medium",
-    "question": "[Power Calculations #2] What electronic semiconductor component allows electrical current to flow predominantly in only one forward direction?",
+    "question": "[Brakes & Suspension #2] What electronic semiconductor component allows electrical current to flow predominantly in only one forward direction?",
     "options": [
       "Capacitor",
       "Inductor",
@@ -38,8 +38,8 @@
     "correctAnswer": 2,
     "explanation": "Diodes conduct current readily when forward-biased and block current when reverse-biased.",
     "tags": [
-      "electrical",
-      "power-calculations",
+      "automotive",
+      "brakes-suspension",
       "medium",
       "engineering",
       "circuits",
@@ -48,11 +48,11 @@
     "active": true
   },
   {
-    "id": "electrical-wiring-codes-0003",
-    "category": "Electrical",
-    "subcategory": "Wiring & Codes",
+    "id": "automotive-electrical-diagnostics-0003",
+    "category": "Automotive",
+    "subcategory": "Electrical & Diagnostics",
     "difficulty": "hard",
-    "question": "[Wiring & Codes #3] In standard residential alternating current (AC) wiring in the United States, what color denotes the grounding wire?",
+    "question": "[Electrical & Diagnostics #3] In standard residential alternating current (AC) wiring in the United States, what color denotes the grounding wire?",
     "options": [
       "Black",
       "White",
@@ -62,8 +62,8 @@
     "correctAnswer": 3,
     "explanation": "The National Electrical Code (NEC) specifies green, green with yellow stripes, or bare copper for equipment grounding.",
     "tags": [
-      "electrical",
-      "wiring-codes",
+      "automotive",
+      "electrical-diagnostics",
       "hard",
       "engineering",
       "circuits",
@@ -72,11 +72,11 @@
     "active": true
   },
   {
-    "id": "electrical-electrical-safety-0004",
-    "category": "Electrical",
-    "subcategory": "Electrical Safety",
+    "id": "automotive-transmissions-0004",
+    "category": "Automotive",
+    "subcategory": "Transmissions",
     "difficulty": "easy",
-    "question": "[Electrical Safety #4] Which component in a mechanical vapor-compression refrigeration cycle pumps refrigerant and elevates its pressure and temperature?",
+    "question": "[Transmissions #4] Which component in a mechanical vapor-compression refrigeration cycle pumps refrigerant and elevates its pressure and temperature?",
     "options": [
       "Compressor",
       "Evaporator",
@@ -86,8 +86,8 @@
     "correctAnswer": 0,
     "explanation": "The compressor draws in low-pressure vapor and discharges high-pressure, superheated vapor to the condenser.",
     "tags": [
-      "electrical",
-      "electrical-safety",
+      "automotive",
+      "transmissions",
       "easy",
       "engineering",
       "circuits",
@@ -96,11 +96,11 @@
     "active": true
   },
   {
-    "id": "electrical-basic-circuits-0005",
-    "category": "Electrical",
-    "subcategory": "Basic Circuits",
+    "id": "automotive-engine-mechanics-0005",
+    "category": "Automotive",
+    "subcategory": "Engine Mechanics",
     "difficulty": "medium",
-    "question": "[Basic Circuits #5] What mechanical device in an automotive powertrain disconnects engine power from a manual transmission during gear changes?",
+    "question": "[Engine Mechanics #5] What mechanical device in an automotive powertrain disconnects engine power from a manual transmission during gear changes?",
     "options": [
       "Differential",
       "Clutch",
@@ -110,8 +110,8 @@
     "correctAnswer": 1,
     "explanation": "The clutch engages and disengages the engine flywheel from the transmission input shaft.",
     "tags": [
-      "electrical",
-      "basic-circuits",
+      "automotive",
+      "engine-mechanics",
       "medium",
       "engineering",
       "circuits",
@@ -120,11 +120,11 @@
     "active": true
   },
   {
-    "id": "electrical-power-calculations-0006",
-    "category": "Electrical",
-    "subcategory": "Power Calculations",
+    "id": "automotive-brakes-suspension-0006",
+    "category": "Automotive",
+    "subcategory": "Brakes & Suspension",
     "difficulty": "hard",
-    "question": "[Power Calculations #6] According to Ohm's Law, which mathematical formula correctly defines electrical voltage (V)?",
+    "question": "[Brakes & Suspension #6] According to Ohm's Law, which mathematical formula correctly defines electrical voltage (V)?",
     "options": [
       "V = I / R",
       "V = R / I",
@@ -134,8 +134,8 @@
     "correctAnswer": 2,
     "explanation": "Ohm’s law states that potential difference V is the product of current I (Amperes) and resistance R (Ohms).",
     "tags": [
-      "electrical",
-      "power-calculations",
+      "automotive",
+      "brakes-suspension",
       "hard",
       "engineering",
       "circuits",
@@ -144,11 +144,11 @@
     "active": true
   },
   {
-    "id": "electrical-wiring-codes-0007",
-    "category": "Electrical",
-    "subcategory": "Wiring & Codes",
+    "id": "automotive-electrical-diagnostics-0007",
+    "category": "Automotive",
+    "subcategory": "Electrical & Diagnostics",
     "difficulty": "easy",
-    "question": "[Wiring & Codes #7] What electronic semiconductor component allows electrical current to flow predominantly in only one forward direction?",
+    "question": "[Electrical & Diagnostics #7] What electronic semiconductor component allows electrical current to flow predominantly in only one forward direction?",
     "options": [
       "Capacitor",
       "Inductor",
@@ -158,8 +158,8 @@
     "correctAnswer": 3,
     "explanation": "Diodes conduct current readily when forward-biased and block current when reverse-biased.",
     "tags": [
-      "electrical",
-      "wiring-codes",
+      "automotive",
+      "electrical-diagnostics",
       "easy",
       "engineering",
       "circuits",
@@ -168,11 +168,11 @@
     "active": true
   },
   {
-    "id": "electrical-electrical-safety-0008",
-    "category": "Electrical",
-    "subcategory": "Electrical Safety",
+    "id": "automotive-transmissions-0008",
+    "category": "Automotive",
+    "subcategory": "Transmissions",
     "difficulty": "medium",
-    "question": "[Electrical Safety #8] In standard residential alternating current (AC) wiring in the United States, what color denotes the grounding wire?",
+    "question": "[Transmissions #8] In standard residential alternating current (AC) wiring in the United States, what color denotes the grounding wire?",
     "options": [
       "Green or bare copper",
       "Black",
@@ -182,8 +182,8 @@
     "correctAnswer": 0,
     "explanation": "The National Electrical Code (NEC) specifies green, green with yellow stripes, or bare copper for equipment grounding.",
     "tags": [
-      "electrical",
-      "electrical-safety",
+      "automotive",
+      "transmissions",
       "medium",
       "engineering",
       "circuits",
@@ -192,11 +192,11 @@
     "active": true
   },
   {
-    "id": "electrical-basic-circuits-0009",
-    "category": "Electrical",
-    "subcategory": "Basic Circuits",
+    "id": "automotive-engine-mechanics-0009",
+    "category": "Automotive",
+    "subcategory": "Engine Mechanics",
     "difficulty": "hard",
-    "question": "[Basic Circuits #9] Which component in a mechanical vapor-compression refrigeration cycle pumps refrigerant and elevates its pressure and temperature?",
+    "question": "[Engine Mechanics #9] Which component in a mechanical vapor-compression refrigeration cycle pumps refrigerant and elevates its pressure and temperature?",
     "options": [
       "Evaporator",
       "Compressor",
@@ -206,8 +206,8 @@
     "correctAnswer": 1,
     "explanation": "The compressor draws in low-pressure vapor and discharges high-pressure, superheated vapor to the condenser.",
     "tags": [
-      "electrical",
-      "basic-circuits",
+      "automotive",
+      "engine-mechanics",
       "hard",
       "engineering",
       "circuits",
@@ -216,11 +216,11 @@
     "active": true
   },
   {
-    "id": "electrical-power-calculations-0010",
-    "category": "Electrical",
-    "subcategory": "Power Calculations",
+    "id": "automotive-brakes-suspension-0010",
+    "category": "Automotive",
+    "subcategory": "Brakes & Suspension",
     "difficulty": "easy",
-    "question": "[Power Calculations #10] What mechanical device in an automotive powertrain disconnects engine power from a manual transmission during gear changes?",
+    "question": "[Brakes & Suspension #10] What mechanical device in an automotive powertrain disconnects engine power from a manual transmission during gear changes?",
     "options": [
       "Differential",
       "Alternator",
@@ -230,8 +230,8 @@
     "correctAnswer": 2,
     "explanation": "The clutch engages and disengages the engine flywheel from the transmission input shaft.",
     "tags": [
-      "electrical",
-      "power-calculations",
+      "automotive",
+      "brakes-suspension",
       "easy",
       "engineering",
       "circuits",
@@ -240,11 +240,11 @@
     "active": true
   },
   {
-    "id": "electrical-wiring-codes-0011",
-    "category": "Electrical",
-    "subcategory": "Wiring & Codes",
+    "id": "automotive-electrical-diagnostics-0011",
+    "category": "Automotive",
+    "subcategory": "Electrical & Diagnostics",
     "difficulty": "medium",
-    "question": "[Wiring & Codes #11] According to Ohm's Law, which mathematical formula correctly defines electrical voltage (V)?",
+    "question": "[Electrical & Diagnostics #11] According to Ohm's Law, which mathematical formula correctly defines electrical voltage (V)?",
     "options": [
       "V = I / R",
       "V = R / I",
@@ -254,8 +254,8 @@
     "correctAnswer": 3,
     "explanation": "Ohm’s law states that potential difference V is the product of current I (Amperes) and resistance R (Ohms).",
     "tags": [
-      "electrical",
-      "wiring-codes",
+      "automotive",
+      "electrical-diagnostics",
       "medium",
       "engineering",
       "circuits",
@@ -264,11 +264,11 @@
     "active": true
   },
   {
-    "id": "electrical-electrical-safety-0012",
-    "category": "Electrical",
-    "subcategory": "Electrical Safety",
+    "id": "automotive-transmissions-0012",
+    "category": "Automotive",
+    "subcategory": "Transmissions",
     "difficulty": "hard",
-    "question": "[Electrical Safety #12] What electronic semiconductor component allows electrical current to flow predominantly in only one forward direction?",
+    "question": "[Transmissions #12] What electronic semiconductor component allows electrical current to flow predominantly in only one forward direction?",
     "options": [
       "Diode",
       "Capacitor",
@@ -278,8 +278,8 @@
     "correctAnswer": 0,
     "explanation": "Diodes conduct current readily when forward-biased and block current when reverse-biased.",
     "tags": [
-      "electrical",
-      "electrical-safety",
+      "automotive",
+      "transmissions",
       "hard",
       "engineering",
       "circuits",
@@ -288,11 +288,11 @@
     "active": true
   },
   {
-    "id": "electrical-basic-circuits-0013",
-    "category": "Electrical",
-    "subcategory": "Basic Circuits",
+    "id": "automotive-engine-mechanics-0013",
+    "category": "Automotive",
+    "subcategory": "Engine Mechanics",
     "difficulty": "easy",
-    "question": "[Basic Circuits #13] In standard residential alternating current (AC) wiring in the United States, what color denotes the grounding wire?",
+    "question": "[Engine Mechanics #13] In standard residential alternating current (AC) wiring in the United States, what color denotes the grounding wire?",
     "options": [
       "Black",
       "Green or bare copper",
@@ -302,8 +302,8 @@
     "correctAnswer": 1,
     "explanation": "The National Electrical Code (NEC) specifies green, green with yellow stripes, or bare copper for equipment grounding.",
     "tags": [
-      "electrical",
-      "basic-circuits",
+      "automotive",
+      "engine-mechanics",
       "easy",
       "engineering",
       "circuits",
@@ -312,11 +312,11 @@
     "active": true
   },
   {
-    "id": "electrical-power-calculations-0014",
-    "category": "Electrical",
-    "subcategory": "Power Calculations",
+    "id": "automotive-brakes-suspension-0014",
+    "category": "Automotive",
+    "subcategory": "Brakes & Suspension",
     "difficulty": "medium",
-    "question": "[Power Calculations #14] Which component in a mechanical vapor-compression refrigeration cycle pumps refrigerant and elevates its pressure and temperature?",
+    "question": "[Brakes & Suspension #14] Which component in a mechanical vapor-compression refrigeration cycle pumps refrigerant and elevates its pressure and temperature?",
     "options": [
       "Evaporator",
       "Thermostatic Expansion Valve",
@@ -326,8 +326,8 @@
     "correctAnswer": 2,
     "explanation": "The compressor draws in low-pressure vapor and discharges high-pressure, superheated vapor to the condenser.",
     "tags": [
-      "electrical",
-      "power-calculations",
+      "automotive",
+      "brakes-suspension",
       "medium",
       "engineering",
       "circuits",
@@ -336,11 +336,11 @@
     "active": true
   },
   {
-    "id": "electrical-wiring-codes-0015",
-    "category": "Electrical",
-    "subcategory": "Wiring & Codes",
+    "id": "automotive-electrical-diagnostics-0015",
+    "category": "Automotive",
+    "subcategory": "Electrical & Diagnostics",
     "difficulty": "hard",
-    "question": "[Wiring & Codes #15] What mechanical device in an automotive powertrain disconnects engine power from a manual transmission during gear changes?",
+    "question": "[Electrical & Diagnostics #15] What mechanical device in an automotive powertrain disconnects engine power from a manual transmission during gear changes?",
     "options": [
       "Differential",
       "Alternator",
@@ -350,8 +350,8 @@
     "correctAnswer": 3,
     "explanation": "The clutch engages and disengages the engine flywheel from the transmission input shaft.",
     "tags": [
-      "electrical",
-      "wiring-codes",
+      "automotive",
+      "electrical-diagnostics",
       "hard",
       "engineering",
       "circuits",
@@ -360,11 +360,11 @@
     "active": true
   },
   {
-    "id": "electrical-electrical-safety-0016",
-    "category": "Electrical",
-    "subcategory": "Electrical Safety",
+    "id": "automotive-transmissions-0016",
+    "category": "Automotive",
+    "subcategory": "Transmissions",
     "difficulty": "easy",
-    "question": "[Electrical Safety #16] According to Ohm's Law, which mathematical formula correctly defines electrical voltage (V)?",
+    "question": "[Transmissions #16] According to Ohm's Law, which mathematical formula correctly defines electrical voltage (V)?",
     "options": [
       "V = I × R (Current multiplied by Resistance)",
       "V = I / R",
@@ -374,8 +374,8 @@
     "correctAnswer": 0,
     "explanation": "Ohm’s law states that potential difference V is the product of current I (Amperes) and resistance R (Ohms).",
     "tags": [
-      "electrical",
-      "electrical-safety",
+      "automotive",
+      "transmissions",
       "easy",
       "engineering",
       "circuits",
@@ -384,11 +384,11 @@
     "active": true
   },
   {
-    "id": "electrical-basic-circuits-0017",
-    "category": "Electrical",
-    "subcategory": "Basic Circuits",
+    "id": "automotive-engine-mechanics-0017",
+    "category": "Automotive",
+    "subcategory": "Engine Mechanics",
     "difficulty": "medium",
-    "question": "[Basic Circuits #17] What electronic semiconductor component allows electrical current to flow predominantly in only one forward direction?",
+    "question": "[Engine Mechanics #17] What electronic semiconductor component allows electrical current to flow predominantly in only one forward direction?",
     "options": [
       "Capacitor",
       "Diode",
@@ -398,8 +398,8 @@
     "correctAnswer": 1,
     "explanation": "Diodes conduct current readily when forward-biased and block current when reverse-biased.",
     "tags": [
-      "electrical",
-      "basic-circuits",
+      "automotive",
+      "engine-mechanics",
       "medium",
       "engineering",
       "circuits",
@@ -408,11 +408,11 @@
     "active": true
   },
   {
-    "id": "electrical-power-calculations-0018",
-    "category": "Electrical",
-    "subcategory": "Power Calculations",
+    "id": "automotive-brakes-suspension-0018",
+    "category": "Automotive",
+    "subcategory": "Brakes & Suspension",
     "difficulty": "hard",
-    "question": "[Power Calculations #18] In standard residential alternating current (AC) wiring in the United States, what color denotes the grounding wire?",
+    "question": "[Brakes & Suspension #18] In standard residential alternating current (AC) wiring in the United States, what color denotes the grounding wire?",
     "options": [
       "Black",
       "White",
@@ -422,8 +422,8 @@
     "correctAnswer": 2,
     "explanation": "The National Electrical Code (NEC) specifies green, green with yellow stripes, or bare copper for equipment grounding.",
     "tags": [
-      "electrical",
-      "power-calculations",
+      "automotive",
+      "brakes-suspension",
       "hard",
       "engineering",
       "circuits",
@@ -432,11 +432,11 @@
     "active": true
   },
   {
-    "id": "electrical-wiring-codes-0019",
-    "category": "Electrical",
-    "subcategory": "Wiring & Codes",
+    "id": "automotive-electrical-diagnostics-0019",
+    "category": "Automotive",
+    "subcategory": "Electrical & Diagnostics",
     "difficulty": "easy",
-    "question": "[Wiring & Codes #19] Which component in a mechanical vapor-compression refrigeration cycle pumps refrigerant and elevates its pressure and temperature?",
+    "question": "[Electrical & Diagnostics #19] Which component in a mechanical vapor-compression refrigeration cycle pumps refrigerant and elevates its pressure and temperature?",
     "options": [
       "Evaporator",
       "Thermostatic Expansion Valve",
@@ -446,8 +446,8 @@
     "correctAnswer": 3,
     "explanation": "The compressor draws in low-pressure vapor and discharges high-pressure, superheated vapor to the condenser.",
     "tags": [
-      "electrical",
-      "wiring-codes",
+      "automotive",
+      "electrical-diagnostics",
       "easy",
       "engineering",
       "circuits",
@@ -456,11 +456,11 @@
     "active": true
   },
   {
-    "id": "electrical-electrical-safety-0020",
-    "category": "Electrical",
-    "subcategory": "Electrical Safety",
+    "id": "automotive-transmissions-0020",
+    "category": "Automotive",
+    "subcategory": "Transmissions",
     "difficulty": "medium",
-    "question": "[Electrical Safety #20] What mechanical device in an automotive powertrain disconnects engine power from a manual transmission during gear changes?",
+    "question": "[Transmissions #20] What mechanical device in an automotive powertrain disconnects engine power from a manual transmission during gear changes?",
     "options": [
       "Clutch",
       "Differential",
@@ -470,8 +470,8 @@
     "correctAnswer": 0,
     "explanation": "The clutch engages and disengages the engine flywheel from the transmission input shaft.",
     "tags": [
-      "electrical",
-      "electrical-safety",
+      "automotive",
+      "transmissions",
       "medium",
       "engineering",
       "circuits",
@@ -480,11 +480,11 @@
     "active": true
   },
   {
-    "id": "electrical-basic-circuits-0021",
-    "category": "Electrical",
-    "subcategory": "Basic Circuits",
+    "id": "automotive-engine-mechanics-0021",
+    "category": "Automotive",
+    "subcategory": "Engine Mechanics",
     "difficulty": "hard",
-    "question": "[Basic Circuits #21] According to Ohm's Law, which mathematical formula correctly defines electrical voltage (V)?",
+    "question": "[Engine Mechanics #21] According to Ohm's Law, which mathematical formula correctly defines electrical voltage (V)?",
     "options": [
       "V = I / R",
       "V = I × R (Current multiplied by Resistance)",
@@ -494,8 +494,8 @@
     "correctAnswer": 1,
     "explanation": "Ohm’s law states that potential difference V is the product of current I (Amperes) and resistance R (Ohms).",
     "tags": [
-      "electrical",
-      "basic-circuits",
+      "automotive",
+      "engine-mechanics",
       "hard",
       "engineering",
       "circuits",
@@ -504,11 +504,11 @@
     "active": true
   },
   {
-    "id": "electrical-power-calculations-0022",
-    "category": "Electrical",
-    "subcategory": "Power Calculations",
+    "id": "automotive-brakes-suspension-0022",
+    "category": "Automotive",
+    "subcategory": "Brakes & Suspension",
     "difficulty": "easy",
-    "question": "[Power Calculations #22] What electronic semiconductor component allows electrical current to flow predominantly in only one forward direction?",
+    "question": "[Brakes & Suspension #22] What electronic semiconductor component allows electrical current to flow predominantly in only one forward direction?",
     "options": [
       "Capacitor",
       "Inductor",
@@ -518,8 +518,8 @@
     "correctAnswer": 2,
     "explanation": "Diodes conduct current readily when forward-biased and block current when reverse-biased.",
     "tags": [
-      "electrical",
-      "power-calculations",
+      "automotive",
+      "brakes-suspension",
       "easy",
       "engineering",
       "circuits",
@@ -528,11 +528,11 @@
     "active": true
   },
   {
-    "id": "electrical-wiring-codes-0023",
-    "category": "Electrical",
-    "subcategory": "Wiring & Codes",
+    "id": "automotive-electrical-diagnostics-0023",
+    "category": "Automotive",
+    "subcategory": "Electrical & Diagnostics",
     "difficulty": "medium",
-    "question": "[Wiring & Codes #23] In standard residential alternating current (AC) wiring in the United States, what color denotes the grounding wire?",
+    "question": "[Electrical & Diagnostics #23] In standard residential alternating current (AC) wiring in the United States, what color denotes the grounding wire?",
     "options": [
       "Black",
       "White",
@@ -542,8 +542,8 @@
     "correctAnswer": 3,
     "explanation": "The National Electrical Code (NEC) specifies green, green with yellow stripes, or bare copper for equipment grounding.",
     "tags": [
-      "electrical",
-      "wiring-codes",
+      "automotive",
+      "electrical-diagnostics",
       "medium",
       "engineering",
       "circuits",
@@ -552,11 +552,11 @@
     "active": true
   },
   {
-    "id": "electrical-electrical-safety-0024",
-    "category": "Electrical",
-    "subcategory": "Electrical Safety",
+    "id": "automotive-transmissions-0024",
+    "category": "Automotive",
+    "subcategory": "Transmissions",
     "difficulty": "hard",
-    "question": "[Electrical Safety #24] Which component in a mechanical vapor-compression refrigeration cycle pumps refrigerant and elevates its pressure and temperature?",
+    "question": "[Transmissions #24] Which component in a mechanical vapor-compression refrigeration cycle pumps refrigerant and elevates its pressure and temperature?",
     "options": [
       "Compressor",
       "Evaporator",
@@ -566,8 +566,8 @@
     "correctAnswer": 0,
     "explanation": "The compressor draws in low-pressure vapor and discharges high-pressure, superheated vapor to the condenser.",
     "tags": [
-      "electrical",
-      "electrical-safety",
+      "automotive",
+      "transmissions",
       "hard",
       "engineering",
       "circuits",
@@ -576,11 +576,11 @@
     "active": true
   },
   {
-    "id": "electrical-basic-circuits-0025",
-    "category": "Electrical",
-    "subcategory": "Basic Circuits",
+    "id": "automotive-engine-mechanics-0025",
+    "category": "Automotive",
+    "subcategory": "Engine Mechanics",
     "difficulty": "easy",
-    "question": "[Basic Circuits #25] What mechanical device in an automotive powertrain disconnects engine power from a manual transmission during gear changes?",
+    "question": "[Engine Mechanics #25] What mechanical device in an automotive powertrain disconnects engine power from a manual transmission during gear changes?",
     "options": [
       "Differential",
       "Clutch",
@@ -590,8 +590,8 @@
     "correctAnswer": 1,
     "explanation": "The clutch engages and disengages the engine flywheel from the transmission input shaft.",
     "tags": [
-      "electrical",
-      "basic-circuits",
+      "automotive",
+      "engine-mechanics",
       "easy",
       "engineering",
       "circuits",
@@ -600,11 +600,11 @@
     "active": true
   },
   {
-    "id": "electrical-power-calculations-0026",
-    "category": "Electrical",
-    "subcategory": "Power Calculations",
+    "id": "automotive-brakes-suspension-0026",
+    "category": "Automotive",
+    "subcategory": "Brakes & Suspension",
     "difficulty": "medium",
-    "question": "[Power Calculations #26] According to Ohm's Law, which mathematical formula correctly defines electrical voltage (V)?",
+    "question": "[Brakes & Suspension #26] According to Ohm's Law, which mathematical formula correctly defines electrical voltage (V)?",
     "options": [
       "V = I / R",
       "V = R / I",
@@ -614,8 +614,8 @@
     "correctAnswer": 2,
     "explanation": "Ohm’s law states that potential difference V is the product of current I (Amperes) and resistance R (Ohms).",
     "tags": [
-      "electrical",
-      "power-calculations",
+      "automotive",
+      "brakes-suspension",
       "medium",
       "engineering",
       "circuits",
@@ -624,11 +624,11 @@
     "active": true
   },
   {
-    "id": "electrical-wiring-codes-0027",
-    "category": "Electrical",
-    "subcategory": "Wiring & Codes",
+    "id": "automotive-electrical-diagnostics-0027",
+    "category": "Automotive",
+    "subcategory": "Electrical & Diagnostics",
     "difficulty": "hard",
-    "question": "[Wiring & Codes #27] What electronic semiconductor component allows electrical current to flow predominantly in only one forward direction?",
+    "question": "[Electrical & Diagnostics #27] What electronic semiconductor component allows electrical current to flow predominantly in only one forward direction?",
     "options": [
       "Capacitor",
       "Inductor",
@@ -638,8 +638,8 @@
     "correctAnswer": 3,
     "explanation": "Diodes conduct current readily when forward-biased and block current when reverse-biased.",
     "tags": [
-      "electrical",
-      "wiring-codes",
+      "automotive",
+      "electrical-diagnostics",
       "hard",
       "engineering",
       "circuits",
@@ -648,11 +648,11 @@
     "active": true
   },
   {
-    "id": "electrical-electrical-safety-0028",
-    "category": "Electrical",
-    "subcategory": "Electrical Safety",
+    "id": "automotive-transmissions-0028",
+    "category": "Automotive",
+    "subcategory": "Transmissions",
     "difficulty": "easy",
-    "question": "[Electrical Safety #28] In standard residential alternating current (AC) wiring in the United States, what color denotes the grounding wire?",
+    "question": "[Transmissions #28] In standard residential alternating current (AC) wiring in the United States, what color denotes the grounding wire?",
     "options": [
       "Green or bare copper",
       "Black",
@@ -662,8 +662,8 @@
     "correctAnswer": 0,
     "explanation": "The National Electrical Code (NEC) specifies green, green with yellow stripes, or bare copper for equipment grounding.",
     "tags": [
-      "electrical",
-      "electrical-safety",
+      "automotive",
+      "transmissions",
       "easy",
       "engineering",
       "circuits",
@@ -672,11 +672,11 @@
     "active": true
   },
   {
-    "id": "electrical-basic-circuits-0029",
-    "category": "Electrical",
-    "subcategory": "Basic Circuits",
+    "id": "automotive-engine-mechanics-0029",
+    "category": "Automotive",
+    "subcategory": "Engine Mechanics",
     "difficulty": "medium",
-    "question": "[Basic Circuits #29] Which component in a mechanical vapor-compression refrigeration cycle pumps refrigerant and elevates its pressure and temperature?",
+    "question": "[Engine Mechanics #29] Which component in a mechanical vapor-compression refrigeration cycle pumps refrigerant and elevates its pressure and temperature?",
     "options": [
       "Evaporator",
       "Compressor",
@@ -686,8 +686,8 @@
     "correctAnswer": 1,
     "explanation": "The compressor draws in low-pressure vapor and discharges high-pressure, superheated vapor to the condenser.",
     "tags": [
-      "electrical",
-      "basic-circuits",
+      "automotive",
+      "engine-mechanics",
       "medium",
       "engineering",
       "circuits",
@@ -696,11 +696,11 @@
     "active": true
   },
   {
-    "id": "electrical-power-calculations-0030",
-    "category": "Electrical",
-    "subcategory": "Power Calculations",
+    "id": "automotive-brakes-suspension-0030",
+    "category": "Automotive",
+    "subcategory": "Brakes & Suspension",
     "difficulty": "hard",
-    "question": "[Power Calculations #30] What mechanical device in an automotive powertrain disconnects engine power from a manual transmission during gear changes?",
+    "question": "[Brakes & Suspension #30] What mechanical device in an automotive powertrain disconnects engine power from a manual transmission during gear changes?",
     "options": [
       "Differential",
       "Alternator",
@@ -710,8 +710,8 @@
     "correctAnswer": 2,
     "explanation": "The clutch engages and disengages the engine flywheel from the transmission input shaft.",
     "tags": [
-      "electrical",
-      "power-calculations",
+      "automotive",
+      "brakes-suspension",
       "hard",
       "engineering",
       "circuits",
@@ -720,11 +720,11 @@
     "active": true
   },
   {
-    "id": "electrical-wiring-codes-0031",
-    "category": "Electrical",
-    "subcategory": "Wiring & Codes",
+    "id": "automotive-electrical-diagnostics-0031",
+    "category": "Automotive",
+    "subcategory": "Electrical & Diagnostics",
     "difficulty": "easy",
-    "question": "[Wiring & Codes #31] According to Ohm's Law, which mathematical formula correctly defines electrical voltage (V)?",
+    "question": "[Electrical & Diagnostics #31] According to Ohm's Law, which mathematical formula correctly defines electrical voltage (V)?",
     "options": [
       "V = I / R",
       "V = R / I",
@@ -734,8 +734,8 @@
     "correctAnswer": 3,
     "explanation": "Ohm’s law states that potential difference V is the product of current I (Amperes) and resistance R (Ohms).",
     "tags": [
-      "electrical",
-      "wiring-codes",
+      "automotive",
+      "electrical-diagnostics",
       "easy",
       "engineering",
       "circuits",
@@ -744,11 +744,11 @@
     "active": true
   },
   {
-    "id": "electrical-electrical-safety-0032",
-    "category": "Electrical",
-    "subcategory": "Electrical Safety",
+    "id": "automotive-transmissions-0032",
+    "category": "Automotive",
+    "subcategory": "Transmissions",
     "difficulty": "medium",
-    "question": "[Electrical Safety #32] What electronic semiconductor component allows electrical current to flow predominantly in only one forward direction?",
+    "question": "[Transmissions #32] What electronic semiconductor component allows electrical current to flow predominantly in only one forward direction?",
     "options": [
       "Diode",
       "Capacitor",
@@ -758,8 +758,8 @@
     "correctAnswer": 0,
     "explanation": "Diodes conduct current readily when forward-biased and block current when reverse-biased.",
     "tags": [
-      "electrical",
-      "electrical-safety",
+      "automotive",
+      "transmissions",
       "medium",
       "engineering",
       "circuits",
@@ -768,11 +768,11 @@
     "active": true
   },
   {
-    "id": "electrical-basic-circuits-0033",
-    "category": "Electrical",
-    "subcategory": "Basic Circuits",
+    "id": "automotive-engine-mechanics-0033",
+    "category": "Automotive",
+    "subcategory": "Engine Mechanics",
     "difficulty": "hard",
-    "question": "[Basic Circuits #33] In standard residential alternating current (AC) wiring in the United States, what color denotes the grounding wire?",
+    "question": "[Engine Mechanics #33] In standard residential alternating current (AC) wiring in the United States, what color denotes the grounding wire?",
     "options": [
       "Black",
       "Green or bare copper",
@@ -782,8 +782,8 @@
     "correctAnswer": 1,
     "explanation": "The National Electrical Code (NEC) specifies green, green with yellow stripes, or bare copper for equipment grounding.",
     "tags": [
-      "electrical",
-      "basic-circuits",
+      "automotive",
+      "engine-mechanics",
       "hard",
       "engineering",
       "circuits",
@@ -792,11 +792,11 @@
     "active": true
   },
   {
-    "id": "electrical-power-calculations-0034",
-    "category": "Electrical",
-    "subcategory": "Power Calculations",
+    "id": "automotive-brakes-suspension-0034",
+    "category": "Automotive",
+    "subcategory": "Brakes & Suspension",
     "difficulty": "easy",
-    "question": "[Power Calculations #34] Which component in a mechanical vapor-compression refrigeration cycle pumps refrigerant and elevates its pressure and temperature?",
+    "question": "[Brakes & Suspension #34] Which component in a mechanical vapor-compression refrigeration cycle pumps refrigerant and elevates its pressure and temperature?",
     "options": [
       "Evaporator",
       "Thermostatic Expansion Valve",
@@ -806,8 +806,8 @@
     "correctAnswer": 2,
     "explanation": "The compressor draws in low-pressure vapor and discharges high-pressure, superheated vapor to the condenser.",
     "tags": [
-      "electrical",
-      "power-calculations",
+      "automotive",
+      "brakes-suspension",
       "easy",
       "engineering",
       "circuits",
@@ -816,11 +816,11 @@
     "active": true
   },
   {
-    "id": "electrical-wiring-codes-0035",
-    "category": "Electrical",
-    "subcategory": "Wiring & Codes",
+    "id": "automotive-electrical-diagnostics-0035",
+    "category": "Automotive",
+    "subcategory": "Electrical & Diagnostics",
     "difficulty": "medium",
-    "question": "[Wiring & Codes #35] What mechanical device in an automotive powertrain disconnects engine power from a manual transmission during gear changes?",
+    "question": "[Electrical & Diagnostics #35] What mechanical device in an automotive powertrain disconnects engine power from a manual transmission during gear changes?",
     "options": [
       "Differential",
       "Alternator",
@@ -830,8 +830,8 @@
     "correctAnswer": 3,
     "explanation": "The clutch engages and disengages the engine flywheel from the transmission input shaft.",
     "tags": [
-      "electrical",
-      "wiring-codes",
+      "automotive",
+      "electrical-diagnostics",
       "medium",
       "engineering",
       "circuits",
@@ -840,11 +840,11 @@
     "active": true
   },
   {
-    "id": "electrical-electrical-safety-0036",
-    "category": "Electrical",
-    "subcategory": "Electrical Safety",
+    "id": "automotive-transmissions-0036",
+    "category": "Automotive",
+    "subcategory": "Transmissions",
     "difficulty": "hard",
-    "question": "[Electrical Safety #36] According to Ohm's Law, which mathematical formula correctly defines electrical voltage (V)?",
+    "question": "[Transmissions #36] According to Ohm's Law, which mathematical formula correctly defines electrical voltage (V)?",
     "options": [
       "V = I × R (Current multiplied by Resistance)",
       "V = I / R",
@@ -854,8 +854,8 @@
     "correctAnswer": 0,
     "explanation": "Ohm’s law states that potential difference V is the product of current I (Amperes) and resistance R (Ohms).",
     "tags": [
-      "electrical",
-      "electrical-safety",
+      "automotive",
+      "transmissions",
       "hard",
       "engineering",
       "circuits",
@@ -864,11 +864,11 @@
     "active": true
   },
   {
-    "id": "electrical-basic-circuits-0037",
-    "category": "Electrical",
-    "subcategory": "Basic Circuits",
+    "id": "automotive-engine-mechanics-0037",
+    "category": "Automotive",
+    "subcategory": "Engine Mechanics",
     "difficulty": "easy",
-    "question": "[Basic Circuits #37] What electronic semiconductor component allows electrical current to flow predominantly in only one forward direction?",
+    "question": "[Engine Mechanics #37] What electronic semiconductor component allows electrical current to flow predominantly in only one forward direction?",
     "options": [
       "Capacitor",
       "Diode",
@@ -878,8 +878,8 @@
     "correctAnswer": 1,
     "explanation": "Diodes conduct current readily when forward-biased and block current when reverse-biased.",
     "tags": [
-      "electrical",
-      "basic-circuits",
+      "automotive",
+      "engine-mechanics",
       "easy",
       "engineering",
       "circuits",
@@ -888,11 +888,11 @@
     "active": true
   },
   {
-    "id": "electrical-power-calculations-0038",
-    "category": "Electrical",
-    "subcategory": "Power Calculations",
+    "id": "automotive-brakes-suspension-0038",
+    "category": "Automotive",
+    "subcategory": "Brakes & Suspension",
     "difficulty": "medium",
-    "question": "[Power Calculations #38] In standard residential alternating current (AC) wiring in the United States, what color denotes the grounding wire?",
+    "question": "[Brakes & Suspension #38] In standard residential alternating current (AC) wiring in the United States, what color denotes the grounding wire?",
     "options": [
       "Black",
       "White",
@@ -902,8 +902,8 @@
     "correctAnswer": 2,
     "explanation": "The National Electrical Code (NEC) specifies green, green with yellow stripes, or bare copper for equipment grounding.",
     "tags": [
-      "electrical",
-      "power-calculations",
+      "automotive",
+      "brakes-suspension",
       "medium",
       "engineering",
       "circuits",
@@ -912,11 +912,11 @@
     "active": true
   },
   {
-    "id": "electrical-wiring-codes-0039",
-    "category": "Electrical",
-    "subcategory": "Wiring & Codes",
+    "id": "automotive-electrical-diagnostics-0039",
+    "category": "Automotive",
+    "subcategory": "Electrical & Diagnostics",
     "difficulty": "hard",
-    "question": "[Wiring & Codes #39] Which component in a mechanical vapor-compression refrigeration cycle pumps refrigerant and elevates its pressure and temperature?",
+    "question": "[Electrical & Diagnostics #39] Which component in a mechanical vapor-compression refrigeration cycle pumps refrigerant and elevates its pressure and temperature?",
     "options": [
       "Evaporator",
       "Thermostatic Expansion Valve",
@@ -926,8 +926,8 @@
     "correctAnswer": 3,
     "explanation": "The compressor draws in low-pressure vapor and discharges high-pressure, superheated vapor to the condenser.",
     "tags": [
-      "electrical",
-      "wiring-codes",
+      "automotive",
+      "electrical-diagnostics",
       "hard",
       "engineering",
       "circuits",
@@ -936,11 +936,11 @@
     "active": true
   },
   {
-    "id": "electrical-electrical-safety-0040",
-    "category": "Electrical",
-    "subcategory": "Electrical Safety",
+    "id": "automotive-transmissions-0040",
+    "category": "Automotive",
+    "subcategory": "Transmissions",
     "difficulty": "easy",
-    "question": "[Electrical Safety #40] What mechanical device in an automotive powertrain disconnects engine power from a manual transmission during gear changes?",
+    "question": "[Transmissions #40] What mechanical device in an automotive powertrain disconnects engine power from a manual transmission during gear changes?",
     "options": [
       "Clutch",
       "Differential",
@@ -950,8 +950,8 @@
     "correctAnswer": 0,
     "explanation": "The clutch engages and disengages the engine flywheel from the transmission input shaft.",
     "tags": [
-      "electrical",
-      "electrical-safety",
+      "automotive",
+      "transmissions",
       "easy",
       "engineering",
       "circuits",
@@ -960,11 +960,11 @@
     "active": true
   },
   {
-    "id": "electrical-basic-circuits-0041",
-    "category": "Electrical",
-    "subcategory": "Basic Circuits",
+    "id": "automotive-engine-mechanics-0041",
+    "category": "Automotive",
+    "subcategory": "Engine Mechanics",
     "difficulty": "medium",
-    "question": "[Basic Circuits #41] According to Ohm's Law, which mathematical formula correctly defines electrical voltage (V)?",
+    "question": "[Engine Mechanics #41] According to Ohm's Law, which mathematical formula correctly defines electrical voltage (V)?",
     "options": [
       "V = I / R",
       "V = I × R (Current multiplied by Resistance)",
@@ -974,8 +974,8 @@
     "correctAnswer": 1,
     "explanation": "Ohm’s law states that potential difference V is the product of current I (Amperes) and resistance R (Ohms).",
     "tags": [
-      "electrical",
-      "basic-circuits",
+      "automotive",
+      "engine-mechanics",
       "medium",
       "engineering",
       "circuits",
@@ -984,11 +984,11 @@
     "active": true
   },
   {
-    "id": "electrical-power-calculations-0042",
-    "category": "Electrical",
-    "subcategory": "Power Calculations",
+    "id": "automotive-brakes-suspension-0042",
+    "category": "Automotive",
+    "subcategory": "Brakes & Suspension",
     "difficulty": "hard",
-    "question": "[Power Calculations #42] What electronic semiconductor component allows electrical current to flow predominantly in only one forward direction?",
+    "question": "[Brakes & Suspension #42] What electronic semiconductor component allows electrical current to flow predominantly in only one forward direction?",
     "options": [
       "Capacitor",
       "Inductor",
@@ -998,8 +998,8 @@
     "correctAnswer": 2,
     "explanation": "Diodes conduct current readily when forward-biased and block current when reverse-biased.",
     "tags": [
-      "electrical",
-      "power-calculations",
+      "automotive",
+      "brakes-suspension",
       "hard",
       "engineering",
       "circuits",
@@ -1008,11 +1008,11 @@
     "active": true
   },
   {
-    "id": "electrical-wiring-codes-0043",
-    "category": "Electrical",
-    "subcategory": "Wiring & Codes",
+    "id": "automotive-electrical-diagnostics-0043",
+    "category": "Automotive",
+    "subcategory": "Electrical & Diagnostics",
     "difficulty": "easy",
-    "question": "[Wiring & Codes #43] In standard residential alternating current (AC) wiring in the United States, what color denotes the grounding wire?",
+    "question": "[Electrical & Diagnostics #43] In standard residential alternating current (AC) wiring in the United States, what color denotes the grounding wire?",
     "options": [
       "Black",
       "White",
@@ -1022,8 +1022,8 @@
     "correctAnswer": 3,
     "explanation": "The National Electrical Code (NEC) specifies green, green with yellow stripes, or bare copper for equipment grounding.",
     "tags": [
-      "electrical",
-      "wiring-codes",
+      "automotive",
+      "electrical-diagnostics",
       "easy",
       "engineering",
       "circuits",
@@ -1032,11 +1032,11 @@
     "active": true
   },
   {
-    "id": "electrical-electrical-safety-0044",
-    "category": "Electrical",
-    "subcategory": "Electrical Safety",
+    "id": "automotive-transmissions-0044",
+    "category": "Automotive",
+    "subcategory": "Transmissions",
     "difficulty": "medium",
-    "question": "[Electrical Safety #44] Which component in a mechanical vapor-compression refrigeration cycle pumps refrigerant and elevates its pressure and temperature?",
+    "question": "[Transmissions #44] Which component in a mechanical vapor-compression refrigeration cycle pumps refrigerant and elevates its pressure and temperature?",
     "options": [
       "Compressor",
       "Evaporator",
@@ -1046,8 +1046,8 @@
     "correctAnswer": 0,
     "explanation": "The compressor draws in low-pressure vapor and discharges high-pressure, superheated vapor to the condenser.",
     "tags": [
-      "electrical",
-      "electrical-safety",
+      "automotive",
+      "transmissions",
       "medium",
       "engineering",
       "circuits",
@@ -1056,11 +1056,11 @@
     "active": true
   },
   {
-    "id": "electrical-basic-circuits-0045",
-    "category": "Electrical",
-    "subcategory": "Basic Circuits",
+    "id": "automotive-engine-mechanics-0045",
+    "category": "Automotive",
+    "subcategory": "Engine Mechanics",
     "difficulty": "hard",
-    "question": "[Basic Circuits #45] What mechanical device in an automotive powertrain disconnects engine power from a manual transmission during gear changes?",
+    "question": "[Engine Mechanics #45] What mechanical device in an automotive powertrain disconnects engine power from a manual transmission during gear changes?",
     "options": [
       "Differential",
       "Clutch",
@@ -1070,8 +1070,8 @@
     "correctAnswer": 1,
     "explanation": "The clutch engages and disengages the engine flywheel from the transmission input shaft.",
     "tags": [
-      "electrical",
-      "basic-circuits",
+      "automotive",
+      "engine-mechanics",
       "hard",
       "engineering",
       "circuits",
@@ -1080,11 +1080,11 @@
     "active": true
   },
   {
-    "id": "electrical-power-calculations-0046",
-    "category": "Electrical",
-    "subcategory": "Power Calculations",
+    "id": "automotive-brakes-suspension-0046",
+    "category": "Automotive",
+    "subcategory": "Brakes & Suspension",
     "difficulty": "easy",
-    "question": "[Power Calculations #46] According to Ohm's Law, which mathematical formula correctly defines electrical voltage (V)?",
+    "question": "[Brakes & Suspension #46] According to Ohm's Law, which mathematical formula correctly defines electrical voltage (V)?",
     "options": [
       "V = I / R",
       "V = R / I",
@@ -1094,8 +1094,8 @@
     "correctAnswer": 2,
     "explanation": "Ohm’s law states that potential difference V is the product of current I (Amperes) and resistance R (Ohms).",
     "tags": [
-      "electrical",
-      "power-calculations",
+      "automotive",
+      "brakes-suspension",
       "easy",
       "engineering",
       "circuits",
@@ -1104,11 +1104,11 @@
     "active": true
   },
   {
-    "id": "electrical-wiring-codes-0047",
-    "category": "Electrical",
-    "subcategory": "Wiring & Codes",
+    "id": "automotive-electrical-diagnostics-0047",
+    "category": "Automotive",
+    "subcategory": "Electrical & Diagnostics",
     "difficulty": "medium",
-    "question": "[Wiring & Codes #47] What electronic semiconductor component allows electrical current to flow predominantly in only one forward direction?",
+    "question": "[Electrical & Diagnostics #47] What electronic semiconductor component allows electrical current to flow predominantly in only one forward direction?",
     "options": [
       "Capacitor",
       "Inductor",
@@ -1118,8 +1118,8 @@
     "correctAnswer": 3,
     "explanation": "Diodes conduct current readily when forward-biased and block current when reverse-biased.",
     "tags": [
-      "electrical",
-      "wiring-codes",
+      "automotive",
+      "electrical-diagnostics",
       "medium",
       "engineering",
       "circuits",
@@ -1128,11 +1128,11 @@
     "active": true
   },
   {
-    "id": "electrical-electrical-safety-0048",
-    "category": "Electrical",
-    "subcategory": "Electrical Safety",
+    "id": "automotive-transmissions-0048",
+    "category": "Automotive",
+    "subcategory": "Transmissions",
     "difficulty": "hard",
-    "question": "[Electrical Safety #48] In standard residential alternating current (AC) wiring in the United States, what color denotes the grounding wire?",
+    "question": "[Transmissions #48] In standard residential alternating current (AC) wiring in the United States, what color denotes the grounding wire?",
     "options": [
       "Green or bare copper",
       "Black",
@@ -1142,8 +1142,8 @@
     "correctAnswer": 0,
     "explanation": "The National Electrical Code (NEC) specifies green, green with yellow stripes, or bare copper for equipment grounding.",
     "tags": [
-      "electrical",
-      "electrical-safety",
+      "automotive",
+      "transmissions",
       "hard",
       "engineering",
       "circuits",
@@ -1152,11 +1152,11 @@
     "active": true
   },
   {
-    "id": "electrical-basic-circuits-0049",
-    "category": "Electrical",
-    "subcategory": "Basic Circuits",
+    "id": "automotive-engine-mechanics-0049",
+    "category": "Automotive",
+    "subcategory": "Engine Mechanics",
     "difficulty": "easy",
-    "question": "[Basic Circuits #49] Which component in a mechanical vapor-compression refrigeration cycle pumps refrigerant and elevates its pressure and temperature?",
+    "question": "[Engine Mechanics #49] Which component in a mechanical vapor-compression refrigeration cycle pumps refrigerant and elevates its pressure and temperature?",
     "options": [
       "Evaporator",
       "Compressor",
@@ -1166,8 +1166,8 @@
     "correctAnswer": 1,
     "explanation": "The compressor draws in low-pressure vapor and discharges high-pressure, superheated vapor to the condenser.",
     "tags": [
-      "electrical",
-      "basic-circuits",
+      "automotive",
+      "engine-mechanics",
       "easy",
       "engineering",
       "circuits",
@@ -1176,11 +1176,11 @@
     "active": true
   },
   {
-    "id": "electrical-power-calculations-0050",
-    "category": "Electrical",
-    "subcategory": "Power Calculations",
+    "id": "automotive-brakes-suspension-0050",
+    "category": "Automotive",
+    "subcategory": "Brakes & Suspension",
     "difficulty": "medium",
-    "question": "[Power Calculations #50] What mechanical device in an automotive powertrain disconnects engine power from a manual transmission during gear changes?",
+    "question": "[Brakes & Suspension #50] What mechanical device in an automotive powertrain disconnects engine power from a manual transmission during gear changes?",
     "options": [
       "Differential",
       "Alternator",
@@ -1190,8 +1190,8 @@
     "correctAnswer": 2,
     "explanation": "The clutch engages and disengages the engine flywheel from the transmission input shaft.",
     "tags": [
-      "electrical",
-      "power-calculations",
+      "automotive",
+      "brakes-suspension",
       "medium",
       "engineering",
       "circuits",
@@ -1200,11 +1200,11 @@
     "active": true
   },
   {
-    "id": "electrical-wiring-codes-0051",
-    "category": "Electrical",
-    "subcategory": "Wiring & Codes",
+    "id": "automotive-electrical-diagnostics-0051",
+    "category": "Automotive",
+    "subcategory": "Electrical & Diagnostics",
     "difficulty": "hard",
-    "question": "[Wiring & Codes #51] According to Ohm's Law, which mathematical formula correctly defines electrical voltage (V)?",
+    "question": "[Electrical & Diagnostics #51] According to Ohm's Law, which mathematical formula correctly defines electrical voltage (V)?",
     "options": [
       "V = I / R",
       "V = R / I",
@@ -1214,8 +1214,8 @@
     "correctAnswer": 3,
     "explanation": "Ohm’s law states that potential difference V is the product of current I (Amperes) and resistance R (Ohms).",
     "tags": [
-      "electrical",
-      "wiring-codes",
+      "automotive",
+      "electrical-diagnostics",
       "hard",
       "engineering",
       "circuits",
@@ -1224,11 +1224,11 @@
     "active": true
   },
   {
-    "id": "electrical-electrical-safety-0052",
-    "category": "Electrical",
-    "subcategory": "Electrical Safety",
+    "id": "automotive-transmissions-0052",
+    "category": "Automotive",
+    "subcategory": "Transmissions",
     "difficulty": "easy",
-    "question": "[Electrical Safety #52] What electronic semiconductor component allows electrical current to flow predominantly in only one forward direction?",
+    "question": "[Transmissions #52] What electronic semiconductor component allows electrical current to flow predominantly in only one forward direction?",
     "options": [
       "Diode",
       "Capacitor",
@@ -1238,8 +1238,8 @@
     "correctAnswer": 0,
     "explanation": "Diodes conduct current readily when forward-biased and block current when reverse-biased.",
     "tags": [
-      "electrical",
-      "electrical-safety",
+      "automotive",
+      "transmissions",
       "easy",
       "engineering",
       "circuits",
@@ -1248,11 +1248,11 @@
     "active": true
   },
   {
-    "id": "electrical-basic-circuits-0053",
-    "category": "Electrical",
-    "subcategory": "Basic Circuits",
+    "id": "automotive-engine-mechanics-0053",
+    "category": "Automotive",
+    "subcategory": "Engine Mechanics",
     "difficulty": "medium",
-    "question": "[Basic Circuits #53] In standard residential alternating current (AC) wiring in the United States, what color denotes the grounding wire?",
+    "question": "[Engine Mechanics #53] In standard residential alternating current (AC) wiring in the United States, what color denotes the grounding wire?",
     "options": [
       "Black",
       "Green or bare copper",
@@ -1262,8 +1262,8 @@
     "correctAnswer": 1,
     "explanation": "The National Electrical Code (NEC) specifies green, green with yellow stripes, or bare copper for equipment grounding.",
     "tags": [
-      "electrical",
-      "basic-circuits",
+      "automotive",
+      "engine-mechanics",
       "medium",
       "engineering",
       "circuits",
@@ -1272,11 +1272,11 @@
     "active": true
   },
   {
-    "id": "electrical-power-calculations-0054",
-    "category": "Electrical",
-    "subcategory": "Power Calculations",
+    "id": "automotive-brakes-suspension-0054",
+    "category": "Automotive",
+    "subcategory": "Brakes & Suspension",
     "difficulty": "hard",
-    "question": "[Power Calculations #54] Which component in a mechanical vapor-compression refrigeration cycle pumps refrigerant and elevates its pressure and temperature?",
+    "question": "[Brakes & Suspension #54] Which component in a mechanical vapor-compression refrigeration cycle pumps refrigerant and elevates its pressure and temperature?",
     "options": [
       "Evaporator",
       "Thermostatic Expansion Valve",
@@ -1286,8 +1286,8 @@
     "correctAnswer": 2,
     "explanation": "The compressor draws in low-pressure vapor and discharges high-pressure, superheated vapor to the condenser.",
     "tags": [
-      "electrical",
-      "power-calculations",
+      "automotive",
+      "brakes-suspension",
       "hard",
       "engineering",
       "circuits",
@@ -1296,11 +1296,11 @@
     "active": true
   },
   {
-    "id": "electrical-wiring-codes-0055",
-    "category": "Electrical",
-    "subcategory": "Wiring & Codes",
+    "id": "automotive-electrical-diagnostics-0055",
+    "category": "Automotive",
+    "subcategory": "Electrical & Diagnostics",
     "difficulty": "easy",
-    "question": "[Wiring & Codes #55] What mechanical device in an automotive powertrain disconnects engine power from a manual transmission during gear changes?",
+    "question": "[Electrical & Diagnostics #55] What mechanical device in an automotive powertrain disconnects engine power from a manual transmission during gear changes?",
     "options": [
       "Differential",
       "Alternator",
@@ -1310,8 +1310,8 @@
     "correctAnswer": 3,
     "explanation": "The clutch engages and disengages the engine flywheel from the transmission input shaft.",
     "tags": [
-      "electrical",
-      "wiring-codes",
+      "automotive",
+      "electrical-diagnostics",
       "easy",
       "engineering",
       "circuits",
@@ -1320,11 +1320,11 @@
     "active": true
   },
   {
-    "id": "electrical-electrical-safety-0056",
-    "category": "Electrical",
-    "subcategory": "Electrical Safety",
+    "id": "automotive-transmissions-0056",
+    "category": "Automotive",
+    "subcategory": "Transmissions",
     "difficulty": "medium",
-    "question": "[Electrical Safety #56] According to Ohm's Law, which mathematical formula correctly defines electrical voltage (V)?",
+    "question": "[Transmissions #56] According to Ohm's Law, which mathematical formula correctly defines electrical voltage (V)?",
     "options": [
       "V = I × R (Current multiplied by Resistance)",
       "V = I / R",
@@ -1334,8 +1334,8 @@
     "correctAnswer": 0,
     "explanation": "Ohm’s law states that potential difference V is the product of current I (Amperes) and resistance R (Ohms).",
     "tags": [
-      "electrical",
-      "electrical-safety",
+      "automotive",
+      "transmissions",
       "medium",
       "engineering",
       "circuits",
@@ -1344,11 +1344,11 @@
     "active": true
   },
   {
-    "id": "electrical-basic-circuits-0057",
-    "category": "Electrical",
-    "subcategory": "Basic Circuits",
+    "id": "automotive-engine-mechanics-0057",
+    "category": "Automotive",
+    "subcategory": "Engine Mechanics",
     "difficulty": "hard",
-    "question": "[Basic Circuits #57] What electronic semiconductor component allows electrical current to flow predominantly in only one forward direction?",
+    "question": "[Engine Mechanics #57] What electronic semiconductor component allows electrical current to flow predominantly in only one forward direction?",
     "options": [
       "Capacitor",
       "Diode",
@@ -1358,8 +1358,8 @@
     "correctAnswer": 1,
     "explanation": "Diodes conduct current readily when forward-biased and block current when reverse-biased.",
     "tags": [
-      "electrical",
-      "basic-circuits",
+      "automotive",
+      "engine-mechanics",
       "hard",
       "engineering",
       "circuits",
@@ -1368,11 +1368,11 @@
     "active": true
   },
   {
-    "id": "electrical-power-calculations-0058",
-    "category": "Electrical",
-    "subcategory": "Power Calculations",
+    "id": "automotive-brakes-suspension-0058",
+    "category": "Automotive",
+    "subcategory": "Brakes & Suspension",
     "difficulty": "easy",
-    "question": "[Power Calculations #58] In standard residential alternating current (AC) wiring in the United States, what color denotes the grounding wire?",
+    "question": "[Brakes & Suspension #58] In standard residential alternating current (AC) wiring in the United States, what color denotes the grounding wire?",
     "options": [
       "Black",
       "White",
@@ -1382,8 +1382,8 @@
     "correctAnswer": 2,
     "explanation": "The National Electrical Code (NEC) specifies green, green with yellow stripes, or bare copper for equipment grounding.",
     "tags": [
-      "electrical",
-      "power-calculations",
+      "automotive",
+      "brakes-suspension",
       "easy",
       "engineering",
       "circuits",
@@ -1392,11 +1392,11 @@
     "active": true
   },
   {
-    "id": "electrical-wiring-codes-0059",
-    "category": "Electrical",
-    "subcategory": "Wiring & Codes",
+    "id": "automotive-electrical-diagnostics-0059",
+    "category": "Automotive",
+    "subcategory": "Electrical & Diagnostics",
     "difficulty": "medium",
-    "question": "[Wiring & Codes #59] Which component in a mechanical vapor-compression refrigeration cycle pumps refrigerant and elevates its pressure and temperature?",
+    "question": "[Electrical & Diagnostics #59] Which component in a mechanical vapor-compression refrigeration cycle pumps refrigerant and elevates its pressure and temperature?",
     "options": [
       "Evaporator",
       "Thermostatic Expansion Valve",
@@ -1406,8 +1406,8 @@
     "correctAnswer": 3,
     "explanation": "The compressor draws in low-pressure vapor and discharges high-pressure, superheated vapor to the condenser.",
     "tags": [
-      "electrical",
-      "wiring-codes",
+      "automotive",
+      "electrical-diagnostics",
       "medium",
       "engineering",
       "circuits",
@@ -1416,11 +1416,11 @@
     "active": true
   },
   {
-    "id": "electrical-electrical-safety-0060",
-    "category": "Electrical",
-    "subcategory": "Electrical Safety",
+    "id": "automotive-transmissions-0060",
+    "category": "Automotive",
+    "subcategory": "Transmissions",
     "difficulty": "hard",
-    "question": "[Electrical Safety #60] What mechanical device in an automotive powertrain disconnects engine power from a manual transmission during gear changes?",
+    "question": "[Transmissions #60] What mechanical device in an automotive powertrain disconnects engine power from a manual transmission during gear changes?",
     "options": [
       "Clutch",
       "Differential",
@@ -1430,8 +1430,8 @@
     "correctAnswer": 0,
     "explanation": "The clutch engages and disengages the engine flywheel from the transmission input shaft.",
     "tags": [
-      "electrical",
-      "electrical-safety",
+      "automotive",
+      "transmissions",
       "hard",
       "engineering",
       "circuits",
@@ -1440,11 +1440,11 @@
     "active": true
   },
   {
-    "id": "electrical-basic-circuits-0061",
-    "category": "Electrical",
-    "subcategory": "Basic Circuits",
+    "id": "automotive-engine-mechanics-0061",
+    "category": "Automotive",
+    "subcategory": "Engine Mechanics",
     "difficulty": "easy",
-    "question": "[Basic Circuits #61] According to Ohm's Law, which mathematical formula correctly defines electrical voltage (V)?",
+    "question": "[Engine Mechanics #61] According to Ohm's Law, which mathematical formula correctly defines electrical voltage (V)?",
     "options": [
       "V = I / R",
       "V = I × R (Current multiplied by Resistance)",
@@ -1454,8 +1454,8 @@
     "correctAnswer": 1,
     "explanation": "Ohm’s law states that potential difference V is the product of current I (Amperes) and resistance R (Ohms).",
     "tags": [
-      "electrical",
-      "basic-circuits",
+      "automotive",
+      "engine-mechanics",
       "easy",
       "engineering",
       "circuits",
@@ -1464,11 +1464,11 @@
     "active": true
   },
   {
-    "id": "electrical-power-calculations-0062",
-    "category": "Electrical",
-    "subcategory": "Power Calculations",
+    "id": "automotive-brakes-suspension-0062",
+    "category": "Automotive",
+    "subcategory": "Brakes & Suspension",
     "difficulty": "medium",
-    "question": "[Power Calculations #62] What electronic semiconductor component allows electrical current to flow predominantly in only one forward direction?",
+    "question": "[Brakes & Suspension #62] What electronic semiconductor component allows electrical current to flow predominantly in only one forward direction?",
     "options": [
       "Capacitor",
       "Inductor",
@@ -1478,8 +1478,8 @@
     "correctAnswer": 2,
     "explanation": "Diodes conduct current readily when forward-biased and block current when reverse-biased.",
     "tags": [
-      "electrical",
-      "power-calculations",
+      "automotive",
+      "brakes-suspension",
       "medium",
       "engineering",
       "circuits",
@@ -1488,11 +1488,11 @@
     "active": true
   },
   {
-    "id": "electrical-wiring-codes-0063",
-    "category": "Electrical",
-    "subcategory": "Wiring & Codes",
+    "id": "automotive-electrical-diagnostics-0063",
+    "category": "Automotive",
+    "subcategory": "Electrical & Diagnostics",
     "difficulty": "hard",
-    "question": "[Wiring & Codes #63] In standard residential alternating current (AC) wiring in the United States, what color denotes the grounding wire?",
+    "question": "[Electrical & Diagnostics #63] In standard residential alternating current (AC) wiring in the United States, what color denotes the grounding wire?",
     "options": [
       "Black",
       "White",
@@ -1502,8 +1502,8 @@
     "correctAnswer": 3,
     "explanation": "The National Electrical Code (NEC) specifies green, green with yellow stripes, or bare copper for equipment grounding.",
     "tags": [
-      "electrical",
-      "wiring-codes",
+      "automotive",
+      "electrical-diagnostics",
       "hard",
       "engineering",
       "circuits",
@@ -1512,11 +1512,11 @@
     "active": true
   },
   {
-    "id": "electrical-electrical-safety-0064",
-    "category": "Electrical",
-    "subcategory": "Electrical Safety",
+    "id": "automotive-transmissions-0064",
+    "category": "Automotive",
+    "subcategory": "Transmissions",
     "difficulty": "easy",
-    "question": "[Electrical Safety #64] Which component in a mechanical vapor-compression refrigeration cycle pumps refrigerant and elevates its pressure and temperature?",
+    "question": "[Transmissions #64] Which component in a mechanical vapor-compression refrigeration cycle pumps refrigerant and elevates its pressure and temperature?",
     "options": [
       "Compressor",
       "Evaporator",
@@ -1526,8 +1526,8 @@
     "correctAnswer": 0,
     "explanation": "The compressor draws in low-pressure vapor and discharges high-pressure, superheated vapor to the condenser.",
     "tags": [
-      "electrical",
-      "electrical-safety",
+      "automotive",
+      "transmissions",
       "easy",
       "engineering",
       "circuits",
@@ -1536,11 +1536,11 @@
     "active": true
   },
   {
-    "id": "electrical-basic-circuits-0065",
-    "category": "Electrical",
-    "subcategory": "Basic Circuits",
+    "id": "automotive-engine-mechanics-0065",
+    "category": "Automotive",
+    "subcategory": "Engine Mechanics",
     "difficulty": "medium",
-    "question": "[Basic Circuits #65] What mechanical device in an automotive powertrain disconnects engine power from a manual transmission during gear changes?",
+    "question": "[Engine Mechanics #65] What mechanical device in an automotive powertrain disconnects engine power from a manual transmission during gear changes?",
     "options": [
       "Differential",
       "Clutch",
@@ -1550,8 +1550,8 @@
     "correctAnswer": 1,
     "explanation": "The clutch engages and disengages the engine flywheel from the transmission input shaft.",
     "tags": [
-      "electrical",
-      "basic-circuits",
+      "automotive",
+      "engine-mechanics",
       "medium",
       "engineering",
       "circuits",
@@ -1560,11 +1560,11 @@
     "active": true
   },
   {
-    "id": "electrical-power-calculations-0066",
-    "category": "Electrical",
-    "subcategory": "Power Calculations",
+    "id": "automotive-brakes-suspension-0066",
+    "category": "Automotive",
+    "subcategory": "Brakes & Suspension",
     "difficulty": "hard",
-    "question": "[Power Calculations #66] According to Ohm's Law, which mathematical formula correctly defines electrical voltage (V)?",
+    "question": "[Brakes & Suspension #66] According to Ohm's Law, which mathematical formula correctly defines electrical voltage (V)?",
     "options": [
       "V = I / R",
       "V = R / I",
@@ -1574,8 +1574,8 @@
     "correctAnswer": 2,
     "explanation": "Ohm’s law states that potential difference V is the product of current I (Amperes) and resistance R (Ohms).",
     "tags": [
-      "electrical",
-      "power-calculations",
+      "automotive",
+      "brakes-suspension",
       "hard",
       "engineering",
       "circuits",
@@ -1584,11 +1584,11 @@
     "active": true
   },
   {
-    "id": "electrical-wiring-codes-0067",
-    "category": "Electrical",
-    "subcategory": "Wiring & Codes",
+    "id": "automotive-electrical-diagnostics-0067",
+    "category": "Automotive",
+    "subcategory": "Electrical & Diagnostics",
     "difficulty": "easy",
-    "question": "[Wiring & Codes #67] What electronic semiconductor component allows electrical current to flow predominantly in only one forward direction?",
+    "question": "[Electrical & Diagnostics #67] What electronic semiconductor component allows electrical current to flow predominantly in only one forward direction?",
     "options": [
       "Capacitor",
       "Inductor",
@@ -1598,8 +1598,8 @@
     "correctAnswer": 3,
     "explanation": "Diodes conduct current readily when forward-biased and block current when reverse-biased.",
     "tags": [
-      "electrical",
-      "wiring-codes",
+      "automotive",
+      "electrical-diagnostics",
       "easy",
       "engineering",
       "circuits",
@@ -1608,11 +1608,11 @@
     "active": true
   },
   {
-    "id": "electrical-electrical-safety-0068",
-    "category": "Electrical",
-    "subcategory": "Electrical Safety",
+    "id": "automotive-transmissions-0068",
+    "category": "Automotive",
+    "subcategory": "Transmissions",
     "difficulty": "medium",
-    "question": "[Electrical Safety #68] In standard residential alternating current (AC) wiring in the United States, what color denotes the grounding wire?",
+    "question": "[Transmissions #68] In standard residential alternating current (AC) wiring in the United States, what color denotes the grounding wire?",
     "options": [
       "Green or bare copper",
       "Black",
@@ -1622,8 +1622,8 @@
     "correctAnswer": 0,
     "explanation": "The National Electrical Code (NEC) specifies green, green with yellow stripes, or bare copper for equipment grounding.",
     "tags": [
-      "electrical",
-      "electrical-safety",
+      "automotive",
+      "transmissions",
       "medium",
       "engineering",
       "circuits",
@@ -1632,11 +1632,11 @@
     "active": true
   },
   {
-    "id": "electrical-basic-circuits-0069",
-    "category": "Electrical",
-    "subcategory": "Basic Circuits",
+    "id": "automotive-engine-mechanics-0069",
+    "category": "Automotive",
+    "subcategory": "Engine Mechanics",
     "difficulty": "hard",
-    "question": "[Basic Circuits #69] Which component in a mechanical vapor-compression refrigeration cycle pumps refrigerant and elevates its pressure and temperature?",
+    "question": "[Engine Mechanics #69] Which component in a mechanical vapor-compression refrigeration cycle pumps refrigerant and elevates its pressure and temperature?",
     "options": [
       "Evaporator",
       "Compressor",
@@ -1646,8 +1646,8 @@
     "correctAnswer": 1,
     "explanation": "The compressor draws in low-pressure vapor and discharges high-pressure, superheated vapor to the condenser.",
     "tags": [
-      "electrical",
-      "basic-circuits",
+      "automotive",
+      "engine-mechanics",
       "hard",
       "engineering",
       "circuits",
@@ -1656,11 +1656,11 @@
     "active": true
   },
   {
-    "id": "electrical-power-calculations-0070",
-    "category": "Electrical",
-    "subcategory": "Power Calculations",
+    "id": "automotive-brakes-suspension-0070",
+    "category": "Automotive",
+    "subcategory": "Brakes & Suspension",
     "difficulty": "easy",
-    "question": "[Power Calculations #70] What mechanical device in an automotive powertrain disconnects engine power from a manual transmission during gear changes?",
+    "question": "[Brakes & Suspension #70] What mechanical device in an automotive powertrain disconnects engine power from a manual transmission during gear changes?",
     "options": [
       "Differential",
       "Alternator",
@@ -1670,8 +1670,8 @@
     "correctAnswer": 2,
     "explanation": "The clutch engages and disengages the engine flywheel from the transmission input shaft.",
     "tags": [
-      "electrical",
-      "power-calculations",
+      "automotive",
+      "brakes-suspension",
       "easy",
       "engineering",
       "circuits",
@@ -1680,11 +1680,11 @@
     "active": true
   },
   {
-    "id": "electrical-wiring-codes-0071",
-    "category": "Electrical",
-    "subcategory": "Wiring & Codes",
+    "id": "automotive-electrical-diagnostics-0071",
+    "category": "Automotive",
+    "subcategory": "Electrical & Diagnostics",
     "difficulty": "medium",
-    "question": "[Wiring & Codes #71] According to Ohm's Law, which mathematical formula correctly defines electrical voltage (V)?",
+    "question": "[Electrical & Diagnostics #71] According to Ohm's Law, which mathematical formula correctly defines electrical voltage (V)?",
     "options": [
       "V = I / R",
       "V = R / I",
@@ -1694,8 +1694,8 @@
     "correctAnswer": 3,
     "explanation": "Ohm’s law states that potential difference V is the product of current I (Amperes) and resistance R (Ohms).",
     "tags": [
-      "electrical",
-      "wiring-codes",
+      "automotive",
+      "electrical-diagnostics",
       "medium",
       "engineering",
       "circuits",
@@ -1704,11 +1704,11 @@
     "active": true
   },
   {
-    "id": "electrical-electrical-safety-0072",
-    "category": "Electrical",
-    "subcategory": "Electrical Safety",
+    "id": "automotive-transmissions-0072",
+    "category": "Automotive",
+    "subcategory": "Transmissions",
     "difficulty": "hard",
-    "question": "[Electrical Safety #72] What electronic semiconductor component allows electrical current to flow predominantly in only one forward direction?",
+    "question": "[Transmissions #72] What electronic semiconductor component allows electrical current to flow predominantly in only one forward direction?",
     "options": [
       "Diode",
       "Capacitor",
@@ -1718,8 +1718,8 @@
     "correctAnswer": 0,
     "explanation": "Diodes conduct current readily when forward-biased and block current when reverse-biased.",
     "tags": [
-      "electrical",
-      "electrical-safety",
+      "automotive",
+      "transmissions",
       "hard",
       "engineering",
       "circuits",
@@ -1728,11 +1728,11 @@
     "active": true
   },
   {
-    "id": "electrical-basic-circuits-0073",
-    "category": "Electrical",
-    "subcategory": "Basic Circuits",
+    "id": "automotive-engine-mechanics-0073",
+    "category": "Automotive",
+    "subcategory": "Engine Mechanics",
     "difficulty": "easy",
-    "question": "[Basic Circuits #73] In standard residential alternating current (AC) wiring in the United States, what color denotes the grounding wire?",
+    "question": "[Engine Mechanics #73] In standard residential alternating current (AC) wiring in the United States, what color denotes the grounding wire?",
     "options": [
       "Black",
       "Green or bare copper",
@@ -1742,8 +1742,8 @@
     "correctAnswer": 1,
     "explanation": "The National Electrical Code (NEC) specifies green, green with yellow stripes, or bare copper for equipment grounding.",
     "tags": [
-      "electrical",
-      "basic-circuits",
+      "automotive",
+      "engine-mechanics",
       "easy",
       "engineering",
       "circuits",
@@ -1752,11 +1752,11 @@
     "active": true
   },
   {
-    "id": "electrical-power-calculations-0074",
-    "category": "Electrical",
-    "subcategory": "Power Calculations",
+    "id": "automotive-brakes-suspension-0074",
+    "category": "Automotive",
+    "subcategory": "Brakes & Suspension",
     "difficulty": "medium",
-    "question": "[Power Calculations #74] Which component in a mechanical vapor-compression refrigeration cycle pumps refrigerant and elevates its pressure and temperature?",
+    "question": "[Brakes & Suspension #74] Which component in a mechanical vapor-compression refrigeration cycle pumps refrigerant and elevates its pressure and temperature?",
     "options": [
       "Evaporator",
       "Thermostatic Expansion Valve",
@@ -1766,8 +1766,8 @@
     "correctAnswer": 2,
     "explanation": "The compressor draws in low-pressure vapor and discharges high-pressure, superheated vapor to the condenser.",
     "tags": [
-      "electrical",
-      "power-calculations",
+      "automotive",
+      "brakes-suspension",
       "medium",
       "engineering",
       "circuits",
@@ -1776,11 +1776,11 @@
     "active": true
   },
   {
-    "id": "electrical-wiring-codes-0075",
-    "category": "Electrical",
-    "subcategory": "Wiring & Codes",
+    "id": "automotive-electrical-diagnostics-0075",
+    "category": "Automotive",
+    "subcategory": "Electrical & Diagnostics",
     "difficulty": "hard",
-    "question": "[Wiring & Codes #75] What mechanical device in an automotive powertrain disconnects engine power from a manual transmission during gear changes?",
+    "question": "[Electrical & Diagnostics #75] What mechanical device in an automotive powertrain disconnects engine power from a manual transmission during gear changes?",
     "options": [
       "Differential",
       "Alternator",
@@ -1790,8 +1790,8 @@
     "correctAnswer": 3,
     "explanation": "The clutch engages and disengages the engine flywheel from the transmission input shaft.",
     "tags": [
-      "electrical",
-      "wiring-codes",
+      "automotive",
+      "electrical-diagnostics",
       "hard",
       "engineering",
       "circuits",
@@ -1800,11 +1800,11 @@
     "active": true
   },
   {
-    "id": "electrical-electrical-safety-0076",
-    "category": "Electrical",
-    "subcategory": "Electrical Safety",
+    "id": "automotive-transmissions-0076",
+    "category": "Automotive",
+    "subcategory": "Transmissions",
     "difficulty": "easy",
-    "question": "[Electrical Safety #76] According to Ohm's Law, which mathematical formula correctly defines electrical voltage (V)?",
+    "question": "[Transmissions #76] According to Ohm's Law, which mathematical formula correctly defines electrical voltage (V)?",
     "options": [
       "V = I × R (Current multiplied by Resistance)",
       "V = I / R",
@@ -1814,8 +1814,8 @@
     "correctAnswer": 0,
     "explanation": "Ohm’s law states that potential difference V is the product of current I (Amperes) and resistance R (Ohms).",
     "tags": [
-      "electrical",
-      "electrical-safety",
+      "automotive",
+      "transmissions",
       "easy",
       "engineering",
       "circuits",
@@ -1824,11 +1824,11 @@
     "active": true
   },
   {
-    "id": "electrical-basic-circuits-0077",
-    "category": "Electrical",
-    "subcategory": "Basic Circuits",
+    "id": "automotive-engine-mechanics-0077",
+    "category": "Automotive",
+    "subcategory": "Engine Mechanics",
     "difficulty": "medium",
-    "question": "[Basic Circuits #77] What electronic semiconductor component allows electrical current to flow predominantly in only one forward direction?",
+    "question": "[Engine Mechanics #77] What electronic semiconductor component allows electrical current to flow predominantly in only one forward direction?",
     "options": [
       "Capacitor",
       "Diode",
@@ -1838,8 +1838,8 @@
     "correctAnswer": 1,
     "explanation": "Diodes conduct current readily when forward-biased and block current when reverse-biased.",
     "tags": [
-      "electrical",
-      "basic-circuits",
+      "automotive",
+      "engine-mechanics",
       "medium",
       "engineering",
       "circuits",
@@ -1848,11 +1848,11 @@
     "active": true
   },
   {
-    "id": "electrical-power-calculations-0078",
-    "category": "Electrical",
-    "subcategory": "Power Calculations",
+    "id": "automotive-brakes-suspension-0078",
+    "category": "Automotive",
+    "subcategory": "Brakes & Suspension",
     "difficulty": "hard",
-    "question": "[Power Calculations #78] In standard residential alternating current (AC) wiring in the United States, what color denotes the grounding wire?",
+    "question": "[Brakes & Suspension #78] In standard residential alternating current (AC) wiring in the United States, what color denotes the grounding wire?",
     "options": [
       "Black",
       "White",
@@ -1862,8 +1862,8 @@
     "correctAnswer": 2,
     "explanation": "The National Electrical Code (NEC) specifies green, green with yellow stripes, or bare copper for equipment grounding.",
     "tags": [
-      "electrical",
-      "power-calculations",
+      "automotive",
+      "brakes-suspension",
       "hard",
       "engineering",
       "circuits",
@@ -1872,11 +1872,11 @@
     "active": true
   },
   {
-    "id": "electrical-wiring-codes-0079",
-    "category": "Electrical",
-    "subcategory": "Wiring & Codes",
+    "id": "automotive-electrical-diagnostics-0079",
+    "category": "Automotive",
+    "subcategory": "Electrical & Diagnostics",
     "difficulty": "easy",
-    "question": "[Wiring & Codes #79] Which component in a mechanical vapor-compression refrigeration cycle pumps refrigerant and elevates its pressure and temperature?",
+    "question": "[Electrical & Diagnostics #79] Which component in a mechanical vapor-compression refrigeration cycle pumps refrigerant and elevates its pressure and temperature?",
     "options": [
       "Evaporator",
       "Thermostatic Expansion Valve",
@@ -1886,8 +1886,8 @@
     "correctAnswer": 3,
     "explanation": "The compressor draws in low-pressure vapor and discharges high-pressure, superheated vapor to the condenser.",
     "tags": [
-      "electrical",
-      "wiring-codes",
+      "automotive",
+      "electrical-diagnostics",
       "easy",
       "engineering",
       "circuits",
@@ -1896,11 +1896,11 @@
     "active": true
   },
   {
-    "id": "electrical-electrical-safety-0080",
-    "category": "Electrical",
-    "subcategory": "Electrical Safety",
+    "id": "automotive-transmissions-0080",
+    "category": "Automotive",
+    "subcategory": "Transmissions",
     "difficulty": "medium",
-    "question": "[Electrical Safety #80] What mechanical device in an automotive powertrain disconnects engine power from a manual transmission during gear changes?",
+    "question": "[Transmissions #80] What mechanical device in an automotive powertrain disconnects engine power from a manual transmission during gear changes?",
     "options": [
       "Clutch",
       "Differential",
@@ -1910,8 +1910,8 @@
     "correctAnswer": 0,
     "explanation": "The clutch engages and disengages the engine flywheel from the transmission input shaft.",
     "tags": [
-      "electrical",
-      "electrical-safety",
+      "automotive",
+      "transmissions",
       "medium",
       "engineering",
       "circuits",
@@ -1920,11 +1920,11 @@
     "active": true
   },
   {
-    "id": "electrical-basic-circuits-0081",
-    "category": "Electrical",
-    "subcategory": "Basic Circuits",
+    "id": "automotive-engine-mechanics-0081",
+    "category": "Automotive",
+    "subcategory": "Engine Mechanics",
     "difficulty": "hard",
-    "question": "[Basic Circuits #81] According to Ohm's Law, which mathematical formula correctly defines electrical voltage (V)?",
+    "question": "[Engine Mechanics #81] According to Ohm's Law, which mathematical formula correctly defines electrical voltage (V)?",
     "options": [
       "V = I / R",
       "V = I × R (Current multiplied by Resistance)",
@@ -1934,8 +1934,8 @@
     "correctAnswer": 1,
     "explanation": "Ohm’s law states that potential difference V is the product of current I (Amperes) and resistance R (Ohms).",
     "tags": [
-      "electrical",
-      "basic-circuits",
+      "automotive",
+      "engine-mechanics",
       "hard",
       "engineering",
       "circuits",
@@ -1944,11 +1944,11 @@
     "active": true
   },
   {
-    "id": "electrical-power-calculations-0082",
-    "category": "Electrical",
-    "subcategory": "Power Calculations",
+    "id": "automotive-brakes-suspension-0082",
+    "category": "Automotive",
+    "subcategory": "Brakes & Suspension",
     "difficulty": "easy",
-    "question": "[Power Calculations #82] What electronic semiconductor component allows electrical current to flow predominantly in only one forward direction?",
+    "question": "[Brakes & Suspension #82] What electronic semiconductor component allows electrical current to flow predominantly in only one forward direction?",
     "options": [
       "Capacitor",
       "Inductor",
@@ -1958,8 +1958,8 @@
     "correctAnswer": 2,
     "explanation": "Diodes conduct current readily when forward-biased and block current when reverse-biased.",
     "tags": [
-      "electrical",
-      "power-calculations",
+      "automotive",
+      "brakes-suspension",
       "easy",
       "engineering",
       "circuits",
@@ -1968,11 +1968,11 @@
     "active": true
   },
   {
-    "id": "electrical-wiring-codes-0083",
-    "category": "Electrical",
-    "subcategory": "Wiring & Codes",
+    "id": "automotive-electrical-diagnostics-0083",
+    "category": "Automotive",
+    "subcategory": "Electrical & Diagnostics",
     "difficulty": "medium",
-    "question": "[Wiring & Codes #83] In standard residential alternating current (AC) wiring in the United States, what color denotes the grounding wire?",
+    "question": "[Electrical & Diagnostics #83] In standard residential alternating current (AC) wiring in the United States, what color denotes the grounding wire?",
     "options": [
       "Black",
       "White",
@@ -1982,8 +1982,8 @@
     "correctAnswer": 3,
     "explanation": "The National Electrical Code (NEC) specifies green, green with yellow stripes, or bare copper for equipment grounding.",
     "tags": [
-      "electrical",
-      "wiring-codes",
+      "automotive",
+      "electrical-diagnostics",
       "medium",
       "engineering",
       "circuits",
@@ -1992,11 +1992,11 @@
     "active": true
   },
   {
-    "id": "electrical-electrical-safety-0084",
-    "category": "Electrical",
-    "subcategory": "Electrical Safety",
+    "id": "automotive-transmissions-0084",
+    "category": "Automotive",
+    "subcategory": "Transmissions",
     "difficulty": "hard",
-    "question": "[Electrical Safety #84] Which component in a mechanical vapor-compression refrigeration cycle pumps refrigerant and elevates its pressure and temperature?",
+    "question": "[Transmissions #84] Which component in a mechanical vapor-compression refrigeration cycle pumps refrigerant and elevates its pressure and temperature?",
     "options": [
       "Compressor",
       "Evaporator",
@@ -2006,8 +2006,8 @@
     "correctAnswer": 0,
     "explanation": "The compressor draws in low-pressure vapor and discharges high-pressure, superheated vapor to the condenser.",
     "tags": [
-      "electrical",
-      "electrical-safety",
+      "automotive",
+      "transmissions",
       "hard",
       "engineering",
       "circuits",
@@ -2016,11 +2016,11 @@
     "active": true
   },
   {
-    "id": "electrical-basic-circuits-0085",
-    "category": "Electrical",
-    "subcategory": "Basic Circuits",
+    "id": "automotive-engine-mechanics-0085",
+    "category": "Automotive",
+    "subcategory": "Engine Mechanics",
     "difficulty": "easy",
-    "question": "[Basic Circuits #85] What mechanical device in an automotive powertrain disconnects engine power from a manual transmission during gear changes?",
+    "question": "[Engine Mechanics #85] What mechanical device in an automotive powertrain disconnects engine power from a manual transmission during gear changes?",
     "options": [
       "Differential",
       "Clutch",
@@ -2030,8 +2030,8 @@
     "correctAnswer": 1,
     "explanation": "The clutch engages and disengages the engine flywheel from the transmission input shaft.",
     "tags": [
-      "electrical",
-      "basic-circuits",
+      "automotive",
+      "engine-mechanics",
       "easy",
       "engineering",
       "circuits",
@@ -2040,11 +2040,11 @@
     "active": true
   },
   {
-    "id": "electrical-power-calculations-0086",
-    "category": "Electrical",
-    "subcategory": "Power Calculations",
+    "id": "automotive-brakes-suspension-0086",
+    "category": "Automotive",
+    "subcategory": "Brakes & Suspension",
     "difficulty": "medium",
-    "question": "[Power Calculations #86] According to Ohm's Law, which mathematical formula correctly defines electrical voltage (V)?",
+    "question": "[Brakes & Suspension #86] According to Ohm's Law, which mathematical formula correctly defines electrical voltage (V)?",
     "options": [
       "V = I / R",
       "V = R / I",
@@ -2054,8 +2054,8 @@
     "correctAnswer": 2,
     "explanation": "Ohm’s law states that potential difference V is the product of current I (Amperes) and resistance R (Ohms).",
     "tags": [
-      "electrical",
-      "power-calculations",
+      "automotive",
+      "brakes-suspension",
       "medium",
       "engineering",
       "circuits",
@@ -2064,11 +2064,11 @@
     "active": true
   },
   {
-    "id": "electrical-wiring-codes-0087",
-    "category": "Electrical",
-    "subcategory": "Wiring & Codes",
+    "id": "automotive-electrical-diagnostics-0087",
+    "category": "Automotive",
+    "subcategory": "Electrical & Diagnostics",
     "difficulty": "hard",
-    "question": "[Wiring & Codes #87] What electronic semiconductor component allows electrical current to flow predominantly in only one forward direction?",
+    "question": "[Electrical & Diagnostics #87] What electronic semiconductor component allows electrical current to flow predominantly in only one forward direction?",
     "options": [
       "Capacitor",
       "Inductor",
@@ -2078,8 +2078,8 @@
     "correctAnswer": 3,
     "explanation": "Diodes conduct current readily when forward-biased and block current when reverse-biased.",
     "tags": [
-      "electrical",
-      "wiring-codes",
+      "automotive",
+      "electrical-diagnostics",
       "hard",
       "engineering",
       "circuits",
@@ -2088,11 +2088,11 @@
     "active": true
   },
   {
-    "id": "electrical-electrical-safety-0088",
-    "category": "Electrical",
-    "subcategory": "Electrical Safety",
+    "id": "automotive-transmissions-0088",
+    "category": "Automotive",
+    "subcategory": "Transmissions",
     "difficulty": "easy",
-    "question": "[Electrical Safety #88] In standard residential alternating current (AC) wiring in the United States, what color denotes the grounding wire?",
+    "question": "[Transmissions #88] In standard residential alternating current (AC) wiring in the United States, what color denotes the grounding wire?",
     "options": [
       "Green or bare copper",
       "Black",
@@ -2102,8 +2102,8 @@
     "correctAnswer": 0,
     "explanation": "The National Electrical Code (NEC) specifies green, green with yellow stripes, or bare copper for equipment grounding.",
     "tags": [
-      "electrical",
-      "electrical-safety",
+      "automotive",
+      "transmissions",
       "easy",
       "engineering",
       "circuits",
@@ -2112,11 +2112,11 @@
     "active": true
   },
   {
-    "id": "electrical-basic-circuits-0089",
-    "category": "Electrical",
-    "subcategory": "Basic Circuits",
+    "id": "automotive-engine-mechanics-0089",
+    "category": "Automotive",
+    "subcategory": "Engine Mechanics",
     "difficulty": "medium",
-    "question": "[Basic Circuits #89] Which component in a mechanical vapor-compression refrigeration cycle pumps refrigerant and elevates its pressure and temperature?",
+    "question": "[Engine Mechanics #89] Which component in a mechanical vapor-compression refrigeration cycle pumps refrigerant and elevates its pressure and temperature?",
     "options": [
       "Evaporator",
       "Compressor",
@@ -2126,8 +2126,8 @@
     "correctAnswer": 1,
     "explanation": "The compressor draws in low-pressure vapor and discharges high-pressure, superheated vapor to the condenser.",
     "tags": [
-      "electrical",
-      "basic-circuits",
+      "automotive",
+      "engine-mechanics",
       "medium",
       "engineering",
       "circuits",
@@ -2136,11 +2136,11 @@
     "active": true
   },
   {
-    "id": "electrical-power-calculations-0090",
-    "category": "Electrical",
-    "subcategory": "Power Calculations",
+    "id": "automotive-brakes-suspension-0090",
+    "category": "Automotive",
+    "subcategory": "Brakes & Suspension",
     "difficulty": "hard",
-    "question": "[Power Calculations #90] What mechanical device in an automotive powertrain disconnects engine power from a manual transmission during gear changes?",
+    "question": "[Brakes & Suspension #90] What mechanical device in an automotive powertrain disconnects engine power from a manual transmission during gear changes?",
     "options": [
       "Differential",
       "Alternator",
@@ -2150,8 +2150,8 @@
     "correctAnswer": 2,
     "explanation": "The clutch engages and disengages the engine flywheel from the transmission input shaft.",
     "tags": [
-      "electrical",
-      "power-calculations",
+      "automotive",
+      "brakes-suspension",
       "hard",
       "engineering",
       "circuits",
@@ -2160,11 +2160,11 @@
     "active": true
   },
   {
-    "id": "electrical-wiring-codes-0091",
-    "category": "Electrical",
-    "subcategory": "Wiring & Codes",
+    "id": "automotive-electrical-diagnostics-0091",
+    "category": "Automotive",
+    "subcategory": "Electrical & Diagnostics",
     "difficulty": "easy",
-    "question": "[Wiring & Codes #91] According to Ohm's Law, which mathematical formula correctly defines electrical voltage (V)?",
+    "question": "[Electrical & Diagnostics #91] According to Ohm's Law, which mathematical formula correctly defines electrical voltage (V)?",
     "options": [
       "V = I / R",
       "V = R / I",
@@ -2174,8 +2174,8 @@
     "correctAnswer": 3,
     "explanation": "Ohm’s law states that potential difference V is the product of current I (Amperes) and resistance R (Ohms).",
     "tags": [
-      "electrical",
-      "wiring-codes",
+      "automotive",
+      "electrical-diagnostics",
       "easy",
       "engineering",
       "circuits",
@@ -2184,11 +2184,11 @@
     "active": true
   },
   {
-    "id": "electrical-electrical-safety-0092",
-    "category": "Electrical",
-    "subcategory": "Electrical Safety",
+    "id": "automotive-transmissions-0092",
+    "category": "Automotive",
+    "subcategory": "Transmissions",
     "difficulty": "medium",
-    "question": "[Electrical Safety #92] What electronic semiconductor component allows electrical current to flow predominantly in only one forward direction?",
+    "question": "[Transmissions #92] What electronic semiconductor component allows electrical current to flow predominantly in only one forward direction?",
     "options": [
       "Diode",
       "Capacitor",
@@ -2198,8 +2198,8 @@
     "correctAnswer": 0,
     "explanation": "Diodes conduct current readily when forward-biased and block current when reverse-biased.",
     "tags": [
-      "electrical",
-      "electrical-safety",
+      "automotive",
+      "transmissions",
       "medium",
       "engineering",
       "circuits",
@@ -2208,11 +2208,11 @@
     "active": true
   },
   {
-    "id": "electrical-basic-circuits-0093",
-    "category": "Electrical",
-    "subcategory": "Basic Circuits",
+    "id": "automotive-engine-mechanics-0093",
+    "category": "Automotive",
+    "subcategory": "Engine Mechanics",
     "difficulty": "hard",
-    "question": "[Basic Circuits #93] In standard residential alternating current (AC) wiring in the United States, what color denotes the grounding wire?",
+    "question": "[Engine Mechanics #93] In standard residential alternating current (AC) wiring in the United States, what color denotes the grounding wire?",
     "options": [
       "Black",
       "Green or bare copper",
@@ -2222,8 +2222,8 @@
     "correctAnswer": 1,
     "explanation": "The National Electrical Code (NEC) specifies green, green with yellow stripes, or bare copper for equipment grounding.",
     "tags": [
-      "electrical",
-      "basic-circuits",
+      "automotive",
+      "engine-mechanics",
       "hard",
       "engineering",
       "circuits",
@@ -2232,11 +2232,11 @@
     "active": true
   },
   {
-    "id": "electrical-power-calculations-0094",
-    "category": "Electrical",
-    "subcategory": "Power Calculations",
+    "id": "automotive-brakes-suspension-0094",
+    "category": "Automotive",
+    "subcategory": "Brakes & Suspension",
     "difficulty": "easy",
-    "question": "[Power Calculations #94] Which component in a mechanical vapor-compression refrigeration cycle pumps refrigerant and elevates its pressure and temperature?",
+    "question": "[Brakes & Suspension #94] Which component in a mechanical vapor-compression refrigeration cycle pumps refrigerant and elevates its pressure and temperature?",
     "options": [
       "Evaporator",
       "Thermostatic Expansion Valve",
@@ -2246,8 +2246,8 @@
     "correctAnswer": 2,
     "explanation": "The compressor draws in low-pressure vapor and discharges high-pressure, superheated vapor to the condenser.",
     "tags": [
-      "electrical",
-      "power-calculations",
+      "automotive",
+      "brakes-suspension",
       "easy",
       "engineering",
       "circuits",
@@ -2256,11 +2256,11 @@
     "active": true
   },
   {
-    "id": "electrical-wiring-codes-0095",
-    "category": "Electrical",
-    "subcategory": "Wiring & Codes",
+    "id": "automotive-electrical-diagnostics-0095",
+    "category": "Automotive",
+    "subcategory": "Electrical & Diagnostics",
     "difficulty": "medium",
-    "question": "[Wiring & Codes #95] What mechanical device in an automotive powertrain disconnects engine power from a manual transmission during gear changes?",
+    "question": "[Electrical & Diagnostics #95] What mechanical device in an automotive powertrain disconnects engine power from a manual transmission during gear changes?",
     "options": [
       "Differential",
       "Alternator",
@@ -2270,8 +2270,8 @@
     "correctAnswer": 3,
     "explanation": "The clutch engages and disengages the engine flywheel from the transmission input shaft.",
     "tags": [
-      "electrical",
-      "wiring-codes",
+      "automotive",
+      "electrical-diagnostics",
       "medium",
       "engineering",
       "circuits",
@@ -2280,11 +2280,11 @@
     "active": true
   },
   {
-    "id": "electrical-electrical-safety-0096",
-    "category": "Electrical",
-    "subcategory": "Electrical Safety",
+    "id": "automotive-transmissions-0096",
+    "category": "Automotive",
+    "subcategory": "Transmissions",
     "difficulty": "hard",
-    "question": "[Electrical Safety #96] According to Ohm's Law, which mathematical formula correctly defines electrical voltage (V)?",
+    "question": "[Transmissions #96] According to Ohm's Law, which mathematical formula correctly defines electrical voltage (V)?",
     "options": [
       "V = I × R (Current multiplied by Resistance)",
       "V = I / R",
@@ -2294,8 +2294,8 @@
     "correctAnswer": 0,
     "explanation": "Ohm’s law states that potential difference V is the product of current I (Amperes) and resistance R (Ohms).",
     "tags": [
-      "electrical",
-      "electrical-safety",
+      "automotive",
+      "transmissions",
       "hard",
       "engineering",
       "circuits",
@@ -2304,11 +2304,11 @@
     "active": true
   },
   {
-    "id": "electrical-basic-circuits-0097",
-    "category": "Electrical",
-    "subcategory": "Basic Circuits",
+    "id": "automotive-engine-mechanics-0097",
+    "category": "Automotive",
+    "subcategory": "Engine Mechanics",
     "difficulty": "easy",
-    "question": "[Basic Circuits #97] What electronic semiconductor component allows electrical current to flow predominantly in only one forward direction?",
+    "question": "[Engine Mechanics #97] What electronic semiconductor component allows electrical current to flow predominantly in only one forward direction?",
     "options": [
       "Capacitor",
       "Diode",
@@ -2318,8 +2318,8 @@
     "correctAnswer": 1,
     "explanation": "Diodes conduct current readily when forward-biased and block current when reverse-biased.",
     "tags": [
-      "electrical",
-      "basic-circuits",
+      "automotive",
+      "engine-mechanics",
       "easy",
       "engineering",
       "circuits",
@@ -2328,11 +2328,11 @@
     "active": true
   },
   {
-    "id": "electrical-power-calculations-0098",
-    "category": "Electrical",
-    "subcategory": "Power Calculations",
+    "id": "automotive-brakes-suspension-0098",
+    "category": "Automotive",
+    "subcategory": "Brakes & Suspension",
     "difficulty": "medium",
-    "question": "[Power Calculations #98] In standard residential alternating current (AC) wiring in the United States, what color denotes the grounding wire?",
+    "question": "[Brakes & Suspension #98] In standard residential alternating current (AC) wiring in the United States, what color denotes the grounding wire?",
     "options": [
       "Black",
       "White",
@@ -2342,8 +2342,8 @@
     "correctAnswer": 2,
     "explanation": "The National Electrical Code (NEC) specifies green, green with yellow stripes, or bare copper for equipment grounding.",
     "tags": [
-      "electrical",
-      "power-calculations",
+      "automotive",
+      "brakes-suspension",
       "medium",
       "engineering",
       "circuits",
@@ -2352,11 +2352,11 @@
     "active": true
   },
   {
-    "id": "electrical-wiring-codes-0099",
-    "category": "Electrical",
-    "subcategory": "Wiring & Codes",
+    "id": "automotive-electrical-diagnostics-0099",
+    "category": "Automotive",
+    "subcategory": "Electrical & Diagnostics",
     "difficulty": "hard",
-    "question": "[Wiring & Codes #99] Which component in a mechanical vapor-compression refrigeration cycle pumps refrigerant and elevates its pressure and temperature?",
+    "question": "[Electrical & Diagnostics #99] Which component in a mechanical vapor-compression refrigeration cycle pumps refrigerant and elevates its pressure and temperature?",
     "options": [
       "Evaporator",
       "Thermostatic Expansion Valve",
@@ -2366,8 +2366,8 @@
     "correctAnswer": 3,
     "explanation": "The compressor draws in low-pressure vapor and discharges high-pressure, superheated vapor to the condenser.",
     "tags": [
-      "electrical",
-      "wiring-codes",
+      "automotive",
+      "electrical-diagnostics",
       "hard",
       "engineering",
       "circuits",
@@ -2376,11 +2376,11 @@
     "active": true
   },
   {
-    "id": "electrical-electrical-safety-0100",
-    "category": "Electrical",
-    "subcategory": "Electrical Safety",
+    "id": "automotive-transmissions-0100",
+    "category": "Automotive",
+    "subcategory": "Transmissions",
     "difficulty": "easy",
-    "question": "[Electrical Safety #100] What mechanical device in an automotive powertrain disconnects engine power from a manual transmission during gear changes?",
+    "question": "[Transmissions #100] What mechanical device in an automotive powertrain disconnects engine power from a manual transmission during gear changes?",
     "options": [
       "Clutch",
       "Differential",
@@ -2390,8 +2390,8 @@
     "correctAnswer": 0,
     "explanation": "The clutch engages and disengages the engine flywheel from the transmission input shaft.",
     "tags": [
-      "electrical",
-      "electrical-safety",
+      "automotive",
+      "transmissions",
       "easy",
       "engineering",
       "circuits",
@@ -2400,11 +2400,11 @@
     "active": true
   },
   {
-    "id": "electrical-basic-circuits-0101",
-    "category": "Electrical",
-    "subcategory": "Basic Circuits",
+    "id": "automotive-engine-mechanics-0101",
+    "category": "Automotive",
+    "subcategory": "Engine Mechanics",
     "difficulty": "medium",
-    "question": "[Basic Circuits #101] According to Ohm's Law, which mathematical formula correctly defines electrical voltage (V)?",
+    "question": "[Engine Mechanics #101] According to Ohm's Law, which mathematical formula correctly defines electrical voltage (V)?",
     "options": [
       "V = I / R",
       "V = I × R (Current multiplied by Resistance)",
@@ -2414,8 +2414,8 @@
     "correctAnswer": 1,
     "explanation": "Ohm’s law states that potential difference V is the product of current I (Amperes) and resistance R (Ohms).",
     "tags": [
-      "electrical",
-      "basic-circuits",
+      "automotive",
+      "engine-mechanics",
       "medium",
       "engineering",
       "circuits",
@@ -2424,11 +2424,11 @@
     "active": true
   },
   {
-    "id": "electrical-power-calculations-0102",
-    "category": "Electrical",
-    "subcategory": "Power Calculations",
+    "id": "automotive-brakes-suspension-0102",
+    "category": "Automotive",
+    "subcategory": "Brakes & Suspension",
     "difficulty": "hard",
-    "question": "[Power Calculations #102] What electronic semiconductor component allows electrical current to flow predominantly in only one forward direction?",
+    "question": "[Brakes & Suspension #102] What electronic semiconductor component allows electrical current to flow predominantly in only one forward direction?",
     "options": [
       "Capacitor",
       "Inductor",
@@ -2438,8 +2438,8 @@
     "correctAnswer": 2,
     "explanation": "Diodes conduct current readily when forward-biased and block current when reverse-biased.",
     "tags": [
-      "electrical",
-      "power-calculations",
+      "automotive",
+      "brakes-suspension",
       "hard",
       "engineering",
       "circuits",
@@ -2448,11 +2448,11 @@
     "active": true
   },
   {
-    "id": "electrical-wiring-codes-0103",
-    "category": "Electrical",
-    "subcategory": "Wiring & Codes",
+    "id": "automotive-electrical-diagnostics-0103",
+    "category": "Automotive",
+    "subcategory": "Electrical & Diagnostics",
     "difficulty": "easy",
-    "question": "[Wiring & Codes #103] In standard residential alternating current (AC) wiring in the United States, what color denotes the grounding wire?",
+    "question": "[Electrical & Diagnostics #103] In standard residential alternating current (AC) wiring in the United States, what color denotes the grounding wire?",
     "options": [
       "Black",
       "White",
@@ -2462,8 +2462,8 @@
     "correctAnswer": 3,
     "explanation": "The National Electrical Code (NEC) specifies green, green with yellow stripes, or bare copper for equipment grounding.",
     "tags": [
-      "electrical",
-      "wiring-codes",
+      "automotive",
+      "electrical-diagnostics",
       "easy",
       "engineering",
       "circuits",
@@ -2472,11 +2472,11 @@
     "active": true
   },
   {
-    "id": "electrical-electrical-safety-0104",
-    "category": "Electrical",
-    "subcategory": "Electrical Safety",
+    "id": "automotive-transmissions-0104",
+    "category": "Automotive",
+    "subcategory": "Transmissions",
     "difficulty": "medium",
-    "question": "[Electrical Safety #104] Which component in a mechanical vapor-compression refrigeration cycle pumps refrigerant and elevates its pressure and temperature?",
+    "question": "[Transmissions #104] Which component in a mechanical vapor-compression refrigeration cycle pumps refrigerant and elevates its pressure and temperature?",
     "options": [
       "Compressor",
       "Evaporator",
@@ -2486,8 +2486,8 @@
     "correctAnswer": 0,
     "explanation": "The compressor draws in low-pressure vapor and discharges high-pressure, superheated vapor to the condenser.",
     "tags": [
-      "electrical",
-      "electrical-safety",
+      "automotive",
+      "transmissions",
       "medium",
       "engineering",
       "circuits",
@@ -2496,11 +2496,11 @@
     "active": true
   },
   {
-    "id": "electrical-basic-circuits-0105",
-    "category": "Electrical",
-    "subcategory": "Basic Circuits",
+    "id": "automotive-engine-mechanics-0105",
+    "category": "Automotive",
+    "subcategory": "Engine Mechanics",
     "difficulty": "hard",
-    "question": "[Basic Circuits #105] What mechanical device in an automotive powertrain disconnects engine power from a manual transmission during gear changes?",
+    "question": "[Engine Mechanics #105] What mechanical device in an automotive powertrain disconnects engine power from a manual transmission during gear changes?",
     "options": [
       "Differential",
       "Clutch",
@@ -2510,8 +2510,8 @@
     "correctAnswer": 1,
     "explanation": "The clutch engages and disengages the engine flywheel from the transmission input shaft.",
     "tags": [
-      "electrical",
-      "basic-circuits",
+      "automotive",
+      "engine-mechanics",
       "hard",
       "engineering",
       "circuits",
@@ -2520,11 +2520,11 @@
     "active": true
   },
   {
-    "id": "electrical-power-calculations-0106",
-    "category": "Electrical",
-    "subcategory": "Power Calculations",
+    "id": "automotive-brakes-suspension-0106",
+    "category": "Automotive",
+    "subcategory": "Brakes & Suspension",
     "difficulty": "easy",
-    "question": "[Power Calculations #106] According to Ohm's Law, which mathematical formula correctly defines electrical voltage (V)?",
+    "question": "[Brakes & Suspension #106] According to Ohm's Law, which mathematical formula correctly defines electrical voltage (V)?",
     "options": [
       "V = I / R",
       "V = R / I",
@@ -2534,8 +2534,8 @@
     "correctAnswer": 2,
     "explanation": "Ohm’s law states that potential difference V is the product of current I (Amperes) and resistance R (Ohms).",
     "tags": [
-      "electrical",
-      "power-calculations",
+      "automotive",
+      "brakes-suspension",
       "easy",
       "engineering",
       "circuits",
@@ -2544,11 +2544,11 @@
     "active": true
   },
   {
-    "id": "electrical-wiring-codes-0107",
-    "category": "Electrical",
-    "subcategory": "Wiring & Codes",
+    "id": "automotive-electrical-diagnostics-0107",
+    "category": "Automotive",
+    "subcategory": "Electrical & Diagnostics",
     "difficulty": "medium",
-    "question": "[Wiring & Codes #107] What electronic semiconductor component allows electrical current to flow predominantly in only one forward direction?",
+    "question": "[Electrical & Diagnostics #107] What electronic semiconductor component allows electrical current to flow predominantly in only one forward direction?",
     "options": [
       "Capacitor",
       "Inductor",
@@ -2558,8 +2558,8 @@
     "correctAnswer": 3,
     "explanation": "Diodes conduct current readily when forward-biased and block current when reverse-biased.",
     "tags": [
-      "electrical",
-      "wiring-codes",
+      "automotive",
+      "electrical-diagnostics",
       "medium",
       "engineering",
       "circuits",
@@ -2568,11 +2568,11 @@
     "active": true
   },
   {
-    "id": "electrical-electrical-safety-0108",
-    "category": "Electrical",
-    "subcategory": "Electrical Safety",
+    "id": "automotive-transmissions-0108",
+    "category": "Automotive",
+    "subcategory": "Transmissions",
     "difficulty": "hard",
-    "question": "[Electrical Safety #108] In standard residential alternating current (AC) wiring in the United States, what color denotes the grounding wire?",
+    "question": "[Transmissions #108] In standard residential alternating current (AC) wiring in the United States, what color denotes the grounding wire?",
     "options": [
       "Green or bare copper",
       "Black",
@@ -2582,8 +2582,8 @@
     "correctAnswer": 0,
     "explanation": "The National Electrical Code (NEC) specifies green, green with yellow stripes, or bare copper for equipment grounding.",
     "tags": [
-      "electrical",
-      "electrical-safety",
+      "automotive",
+      "transmissions",
       "hard",
       "engineering",
       "circuits",
@@ -2592,11 +2592,11 @@
     "active": true
   },
   {
-    "id": "electrical-basic-circuits-0109",
-    "category": "Electrical",
-    "subcategory": "Basic Circuits",
+    "id": "automotive-engine-mechanics-0109",
+    "category": "Automotive",
+    "subcategory": "Engine Mechanics",
     "difficulty": "easy",
-    "question": "[Basic Circuits #109] Which component in a mechanical vapor-compression refrigeration cycle pumps refrigerant and elevates its pressure and temperature?",
+    "question": "[Engine Mechanics #109] Which component in a mechanical vapor-compression refrigeration cycle pumps refrigerant and elevates its pressure and temperature?",
     "options": [
       "Evaporator",
       "Compressor",
@@ -2606,8 +2606,8 @@
     "correctAnswer": 1,
     "explanation": "The compressor draws in low-pressure vapor and discharges high-pressure, superheated vapor to the condenser.",
     "tags": [
-      "electrical",
-      "basic-circuits",
+      "automotive",
+      "engine-mechanics",
       "easy",
       "engineering",
       "circuits",
@@ -2616,11 +2616,11 @@
     "active": true
   },
   {
-    "id": "electrical-power-calculations-0110",
-    "category": "Electrical",
-    "subcategory": "Power Calculations",
+    "id": "automotive-brakes-suspension-0110",
+    "category": "Automotive",
+    "subcategory": "Brakes & Suspension",
     "difficulty": "medium",
-    "question": "[Power Calculations #110] What mechanical device in an automotive powertrain disconnects engine power from a manual transmission during gear changes?",
+    "question": "[Brakes & Suspension #110] What mechanical device in an automotive powertrain disconnects engine power from a manual transmission during gear changes?",
     "options": [
       "Differential",
       "Alternator",
@@ -2630,8 +2630,8 @@
     "correctAnswer": 2,
     "explanation": "The clutch engages and disengages the engine flywheel from the transmission input shaft.",
     "tags": [
-      "electrical",
-      "power-calculations",
+      "automotive",
+      "brakes-suspension",
       "medium",
       "engineering",
       "circuits",
@@ -2640,11 +2640,11 @@
     "active": true
   },
   {
-    "id": "electrical-wiring-codes-0111",
-    "category": "Electrical",
-    "subcategory": "Wiring & Codes",
+    "id": "automotive-electrical-diagnostics-0111",
+    "category": "Automotive",
+    "subcategory": "Electrical & Diagnostics",
     "difficulty": "hard",
-    "question": "[Wiring & Codes #111] According to Ohm's Law, which mathematical formula correctly defines electrical voltage (V)?",
+    "question": "[Electrical & Diagnostics #111] According to Ohm's Law, which mathematical formula correctly defines electrical voltage (V)?",
     "options": [
       "V = I / R",
       "V = R / I",
@@ -2654,8 +2654,8 @@
     "correctAnswer": 3,
     "explanation": "Ohm’s law states that potential difference V is the product of current I (Amperes) and resistance R (Ohms).",
     "tags": [
-      "electrical",
-      "wiring-codes",
+      "automotive",
+      "electrical-diagnostics",
       "hard",
       "engineering",
       "circuits",
@@ -2664,11 +2664,11 @@
     "active": true
   },
   {
-    "id": "electrical-electrical-safety-0112",
-    "category": "Electrical",
-    "subcategory": "Electrical Safety",
+    "id": "automotive-transmissions-0112",
+    "category": "Automotive",
+    "subcategory": "Transmissions",
     "difficulty": "easy",
-    "question": "[Electrical Safety #112] What electronic semiconductor component allows electrical current to flow predominantly in only one forward direction?",
+    "question": "[Transmissions #112] What electronic semiconductor component allows electrical current to flow predominantly in only one forward direction?",
     "options": [
       "Diode",
       "Capacitor",
@@ -2678,8 +2678,8 @@
     "correctAnswer": 0,
     "explanation": "Diodes conduct current readily when forward-biased and block current when reverse-biased.",
     "tags": [
-      "electrical",
-      "electrical-safety",
+      "automotive",
+      "transmissions",
       "easy",
       "engineering",
       "circuits",
@@ -2688,11 +2688,11 @@
     "active": true
   },
   {
-    "id": "electrical-basic-circuits-0113",
-    "category": "Electrical",
-    "subcategory": "Basic Circuits",
+    "id": "automotive-engine-mechanics-0113",
+    "category": "Automotive",
+    "subcategory": "Engine Mechanics",
     "difficulty": "medium",
-    "question": "[Basic Circuits #113] In standard residential alternating current (AC) wiring in the United States, what color denotes the grounding wire?",
+    "question": "[Engine Mechanics #113] In standard residential alternating current (AC) wiring in the United States, what color denotes the grounding wire?",
     "options": [
       "Black",
       "Green or bare copper",
@@ -2702,8 +2702,8 @@
     "correctAnswer": 1,
     "explanation": "The National Electrical Code (NEC) specifies green, green with yellow stripes, or bare copper for equipment grounding.",
     "tags": [
-      "electrical",
-      "basic-circuits",
+      "automotive",
+      "engine-mechanics",
       "medium",
       "engineering",
       "circuits",
@@ -2712,11 +2712,11 @@
     "active": true
   },
   {
-    "id": "electrical-power-calculations-0114",
-    "category": "Electrical",
-    "subcategory": "Power Calculations",
+    "id": "automotive-brakes-suspension-0114",
+    "category": "Automotive",
+    "subcategory": "Brakes & Suspension",
     "difficulty": "hard",
-    "question": "[Power Calculations #114] Which component in a mechanical vapor-compression refrigeration cycle pumps refrigerant and elevates its pressure and temperature?",
+    "question": "[Brakes & Suspension #114] Which component in a mechanical vapor-compression refrigeration cycle pumps refrigerant and elevates its pressure and temperature?",
     "options": [
       "Evaporator",
       "Thermostatic Expansion Valve",
@@ -2726,8 +2726,8 @@
     "correctAnswer": 2,
     "explanation": "The compressor draws in low-pressure vapor and discharges high-pressure, superheated vapor to the condenser.",
     "tags": [
-      "electrical",
-      "power-calculations",
+      "automotive",
+      "brakes-suspension",
       "hard",
       "engineering",
       "circuits",
@@ -2736,11 +2736,11 @@
     "active": true
   },
   {
-    "id": "electrical-wiring-codes-0115",
-    "category": "Electrical",
-    "subcategory": "Wiring & Codes",
+    "id": "automotive-electrical-diagnostics-0115",
+    "category": "Automotive",
+    "subcategory": "Electrical & Diagnostics",
     "difficulty": "easy",
-    "question": "[Wiring & Codes #115] What mechanical device in an automotive powertrain disconnects engine power from a manual transmission during gear changes?",
+    "question": "[Electrical & Diagnostics #115] What mechanical device in an automotive powertrain disconnects engine power from a manual transmission during gear changes?",
     "options": [
       "Differential",
       "Alternator",
@@ -2750,8 +2750,8 @@
     "correctAnswer": 3,
     "explanation": "The clutch engages and disengages the engine flywheel from the transmission input shaft.",
     "tags": [
-      "electrical",
-      "wiring-codes",
+      "automotive",
+      "electrical-diagnostics",
       "easy",
       "engineering",
       "circuits",
@@ -2760,11 +2760,11 @@
     "active": true
   },
   {
-    "id": "electrical-electrical-safety-0116",
-    "category": "Electrical",
-    "subcategory": "Electrical Safety",
+    "id": "automotive-transmissions-0116",
+    "category": "Automotive",
+    "subcategory": "Transmissions",
     "difficulty": "medium",
-    "question": "[Electrical Safety #116] According to Ohm's Law, which mathematical formula correctly defines electrical voltage (V)?",
+    "question": "[Transmissions #116] According to Ohm's Law, which mathematical formula correctly defines electrical voltage (V)?",
     "options": [
       "V = I × R (Current multiplied by Resistance)",
       "V = I / R",
@@ -2774,8 +2774,8 @@
     "correctAnswer": 0,
     "explanation": "Ohm’s law states that potential difference V is the product of current I (Amperes) and resistance R (Ohms).",
     "tags": [
-      "electrical",
-      "electrical-safety",
+      "automotive",
+      "transmissions",
       "medium",
       "engineering",
       "circuits",
@@ -2784,11 +2784,11 @@
     "active": true
   },
   {
-    "id": "electrical-basic-circuits-0117",
-    "category": "Electrical",
-    "subcategory": "Basic Circuits",
+    "id": "automotive-engine-mechanics-0117",
+    "category": "Automotive",
+    "subcategory": "Engine Mechanics",
     "difficulty": "hard",
-    "question": "[Basic Circuits #117] What electronic semiconductor component allows electrical current to flow predominantly in only one forward direction?",
+    "question": "[Engine Mechanics #117] What electronic semiconductor component allows electrical current to flow predominantly in only one forward direction?",
     "options": [
       "Capacitor",
       "Diode",
@@ -2798,8 +2798,8 @@
     "correctAnswer": 1,
     "explanation": "Diodes conduct current readily when forward-biased and block current when reverse-biased.",
     "tags": [
-      "electrical",
-      "basic-circuits",
+      "automotive",
+      "engine-mechanics",
       "hard",
       "engineering",
       "circuits",
@@ -2808,11 +2808,11 @@
     "active": true
   },
   {
-    "id": "electrical-power-calculations-0118",
-    "category": "Electrical",
-    "subcategory": "Power Calculations",
+    "id": "automotive-brakes-suspension-0118",
+    "category": "Automotive",
+    "subcategory": "Brakes & Suspension",
     "difficulty": "easy",
-    "question": "[Power Calculations #118] In standard residential alternating current (AC) wiring in the United States, what color denotes the grounding wire?",
+    "question": "[Brakes & Suspension #118] In standard residential alternating current (AC) wiring in the United States, what color denotes the grounding wire?",
     "options": [
       "Black",
       "White",
@@ -2822,8 +2822,8 @@
     "correctAnswer": 2,
     "explanation": "The National Electrical Code (NEC) specifies green, green with yellow stripes, or bare copper for equipment grounding.",
     "tags": [
-      "electrical",
-      "power-calculations",
+      "automotive",
+      "brakes-suspension",
       "easy",
       "engineering",
       "circuits",
@@ -2832,11 +2832,11 @@
     "active": true
   },
   {
-    "id": "electrical-wiring-codes-0119",
-    "category": "Electrical",
-    "subcategory": "Wiring & Codes",
+    "id": "automotive-electrical-diagnostics-0119",
+    "category": "Automotive",
+    "subcategory": "Electrical & Diagnostics",
     "difficulty": "medium",
-    "question": "[Wiring & Codes #119] Which component in a mechanical vapor-compression refrigeration cycle pumps refrigerant and elevates its pressure and temperature?",
+    "question": "[Electrical & Diagnostics #119] Which component in a mechanical vapor-compression refrigeration cycle pumps refrigerant and elevates its pressure and temperature?",
     "options": [
       "Evaporator",
       "Thermostatic Expansion Valve",
@@ -2846,8 +2846,8 @@
     "correctAnswer": 3,
     "explanation": "The compressor draws in low-pressure vapor and discharges high-pressure, superheated vapor to the condenser.",
     "tags": [
-      "electrical",
-      "wiring-codes",
+      "automotive",
+      "electrical-diagnostics",
       "medium",
       "engineering",
       "circuits",
@@ -2856,11 +2856,11 @@
     "active": true
   },
   {
-    "id": "electrical-electrical-safety-0120",
-    "category": "Electrical",
-    "subcategory": "Electrical Safety",
+    "id": "automotive-transmissions-0120",
+    "category": "Automotive",
+    "subcategory": "Transmissions",
     "difficulty": "hard",
-    "question": "[Electrical Safety #120] What mechanical device in an automotive powertrain disconnects engine power from a manual transmission during gear changes?",
+    "question": "[Transmissions #120] What mechanical device in an automotive powertrain disconnects engine power from a manual transmission during gear changes?",
     "options": [
       "Clutch",
       "Differential",
@@ -2870,8 +2870,8 @@
     "correctAnswer": 0,
     "explanation": "The clutch engages and disengages the engine flywheel from the transmission input shaft.",
     "tags": [
-      "electrical",
-      "electrical-safety",
+      "automotive",
+      "transmissions",
       "hard",
       "engineering",
       "circuits",
@@ -2880,11 +2880,11 @@
     "active": true
   },
   {
-    "id": "electrical-basic-circuits-0121",
-    "category": "Electrical",
-    "subcategory": "Basic Circuits",
+    "id": "automotive-engine-mechanics-0121",
+    "category": "Automotive",
+    "subcategory": "Engine Mechanics",
     "difficulty": "easy",
-    "question": "[Basic Circuits #121] According to Ohm's Law, which mathematical formula correctly defines electrical voltage (V)?",
+    "question": "[Engine Mechanics #121] According to Ohm's Law, which mathematical formula correctly defines electrical voltage (V)?",
     "options": [
       "V = I / R",
       "V = I × R (Current multiplied by Resistance)",
@@ -2894,8 +2894,8 @@
     "correctAnswer": 1,
     "explanation": "Ohm’s law states that potential difference V is the product of current I (Amperes) and resistance R (Ohms).",
     "tags": [
-      "electrical",
-      "basic-circuits",
+      "automotive",
+      "engine-mechanics",
       "easy",
       "engineering",
       "circuits",
@@ -2904,11 +2904,11 @@
     "active": true
   },
   {
-    "id": "electrical-power-calculations-0122",
-    "category": "Electrical",
-    "subcategory": "Power Calculations",
+    "id": "automotive-brakes-suspension-0122",
+    "category": "Automotive",
+    "subcategory": "Brakes & Suspension",
     "difficulty": "medium",
-    "question": "[Power Calculations #122] What electronic semiconductor component allows electrical current to flow predominantly in only one forward direction?",
+    "question": "[Brakes & Suspension #122] What electronic semiconductor component allows electrical current to flow predominantly in only one forward direction?",
     "options": [
       "Capacitor",
       "Inductor",
@@ -2918,8 +2918,8 @@
     "correctAnswer": 2,
     "explanation": "Diodes conduct current readily when forward-biased and block current when reverse-biased.",
     "tags": [
-      "electrical",
-      "power-calculations",
+      "automotive",
+      "brakes-suspension",
       "medium",
       "engineering",
       "circuits",
@@ -2928,11 +2928,11 @@
     "active": true
   },
   {
-    "id": "electrical-wiring-codes-0123",
-    "category": "Electrical",
-    "subcategory": "Wiring & Codes",
+    "id": "automotive-electrical-diagnostics-0123",
+    "category": "Automotive",
+    "subcategory": "Electrical & Diagnostics",
     "difficulty": "hard",
-    "question": "[Wiring & Codes #123] In standard residential alternating current (AC) wiring in the United States, what color denotes the grounding wire?",
+    "question": "[Electrical & Diagnostics #123] In standard residential alternating current (AC) wiring in the United States, what color denotes the grounding wire?",
     "options": [
       "Black",
       "White",
@@ -2942,8 +2942,8 @@
     "correctAnswer": 3,
     "explanation": "The National Electrical Code (NEC) specifies green, green with yellow stripes, or bare copper for equipment grounding.",
     "tags": [
-      "electrical",
-      "wiring-codes",
+      "automotive",
+      "electrical-diagnostics",
       "hard",
       "engineering",
       "circuits",
@@ -2952,11 +2952,11 @@
     "active": true
   },
   {
-    "id": "electrical-electrical-safety-0124",
-    "category": "Electrical",
-    "subcategory": "Electrical Safety",
+    "id": "automotive-transmissions-0124",
+    "category": "Automotive",
+    "subcategory": "Transmissions",
     "difficulty": "easy",
-    "question": "[Electrical Safety #124] Which component in a mechanical vapor-compression refrigeration cycle pumps refrigerant and elevates its pressure and temperature?",
+    "question": "[Transmissions #124] Which component in a mechanical vapor-compression refrigeration cycle pumps refrigerant and elevates its pressure and temperature?",
     "options": [
       "Compressor",
       "Evaporator",
@@ -2966,8 +2966,8 @@
     "correctAnswer": 0,
     "explanation": "The compressor draws in low-pressure vapor and discharges high-pressure, superheated vapor to the condenser.",
     "tags": [
-      "electrical",
-      "electrical-safety",
+      "automotive",
+      "transmissions",
       "easy",
       "engineering",
       "circuits",
@@ -2976,11 +2976,11 @@
     "active": true
   },
   {
-    "id": "electrical-basic-circuits-0125",
-    "category": "Electrical",
-    "subcategory": "Basic Circuits",
+    "id": "automotive-engine-mechanics-0125",
+    "category": "Automotive",
+    "subcategory": "Engine Mechanics",
     "difficulty": "medium",
-    "question": "[Basic Circuits #125] What mechanical device in an automotive powertrain disconnects engine power from a manual transmission during gear changes?",
+    "question": "[Engine Mechanics #125] What mechanical device in an automotive powertrain disconnects engine power from a manual transmission during gear changes?",
     "options": [
       "Differential",
       "Clutch",
@@ -2990,8 +2990,8 @@
     "correctAnswer": 1,
     "explanation": "The clutch engages and disengages the engine flywheel from the transmission input shaft.",
     "tags": [
-      "electrical",
-      "basic-circuits",
+      "automotive",
+      "engine-mechanics",
       "medium",
       "engineering",
       "circuits",
@@ -3000,11 +3000,11 @@
     "active": true
   },
   {
-    "id": "electrical-power-calculations-0126",
-    "category": "Electrical",
-    "subcategory": "Power Calculations",
+    "id": "automotive-brakes-suspension-0126",
+    "category": "Automotive",
+    "subcategory": "Brakes & Suspension",
     "difficulty": "hard",
-    "question": "[Power Calculations #126] According to Ohm's Law, which mathematical formula correctly defines electrical voltage (V)?",
+    "question": "[Brakes & Suspension #126] According to Ohm's Law, which mathematical formula correctly defines electrical voltage (V)?",
     "options": [
       "V = I / R",
       "V = R / I",
@@ -3014,8 +3014,8 @@
     "correctAnswer": 2,
     "explanation": "Ohm’s law states that potential difference V is the product of current I (Amperes) and resistance R (Ohms).",
     "tags": [
-      "electrical",
-      "power-calculations",
+      "automotive",
+      "brakes-suspension",
       "hard",
       "engineering",
       "circuits",
@@ -3024,11 +3024,11 @@
     "active": true
   },
   {
-    "id": "electrical-wiring-codes-0127",
-    "category": "Electrical",
-    "subcategory": "Wiring & Codes",
+    "id": "automotive-electrical-diagnostics-0127",
+    "category": "Automotive",
+    "subcategory": "Electrical & Diagnostics",
     "difficulty": "easy",
-    "question": "[Wiring & Codes #127] What electronic semiconductor component allows electrical current to flow predominantly in only one forward direction?",
+    "question": "[Electrical & Diagnostics #127] What electronic semiconductor component allows electrical current to flow predominantly in only one forward direction?",
     "options": [
       "Capacitor",
       "Inductor",
@@ -3038,8 +3038,8 @@
     "correctAnswer": 3,
     "explanation": "Diodes conduct current readily when forward-biased and block current when reverse-biased.",
     "tags": [
-      "electrical",
-      "wiring-codes",
+      "automotive",
+      "electrical-diagnostics",
       "easy",
       "engineering",
       "circuits",
@@ -3048,11 +3048,11 @@
     "active": true
   },
   {
-    "id": "electrical-electrical-safety-0128",
-    "category": "Electrical",
-    "subcategory": "Electrical Safety",
+    "id": "automotive-transmissions-0128",
+    "category": "Automotive",
+    "subcategory": "Transmissions",
     "difficulty": "medium",
-    "question": "[Electrical Safety #128] In standard residential alternating current (AC) wiring in the United States, what color denotes the grounding wire?",
+    "question": "[Transmissions #128] In standard residential alternating current (AC) wiring in the United States, what color denotes the grounding wire?",
     "options": [
       "Green or bare copper",
       "Black",
@@ -3062,8 +3062,8 @@
     "correctAnswer": 0,
     "explanation": "The National Electrical Code (NEC) specifies green, green with yellow stripes, or bare copper for equipment grounding.",
     "tags": [
-      "electrical",
-      "electrical-safety",
+      "automotive",
+      "transmissions",
       "medium",
       "engineering",
       "circuits",
@@ -3072,11 +3072,11 @@
     "active": true
   },
   {
-    "id": "electrical-basic-circuits-0129",
-    "category": "Electrical",
-    "subcategory": "Basic Circuits",
+    "id": "automotive-engine-mechanics-0129",
+    "category": "Automotive",
+    "subcategory": "Engine Mechanics",
     "difficulty": "hard",
-    "question": "[Basic Circuits #129] Which component in a mechanical vapor-compression refrigeration cycle pumps refrigerant and elevates its pressure and temperature?",
+    "question": "[Engine Mechanics #129] Which component in a mechanical vapor-compression refrigeration cycle pumps refrigerant and elevates its pressure and temperature?",
     "options": [
       "Evaporator",
       "Compressor",
@@ -3086,8 +3086,8 @@
     "correctAnswer": 1,
     "explanation": "The compressor draws in low-pressure vapor and discharges high-pressure, superheated vapor to the condenser.",
     "tags": [
-      "electrical",
-      "basic-circuits",
+      "automotive",
+      "engine-mechanics",
       "hard",
       "engineering",
       "circuits",
@@ -3096,11 +3096,11 @@
     "active": true
   },
   {
-    "id": "electrical-power-calculations-0130",
-    "category": "Electrical",
-    "subcategory": "Power Calculations",
+    "id": "automotive-brakes-suspension-0130",
+    "category": "Automotive",
+    "subcategory": "Brakes & Suspension",
     "difficulty": "easy",
-    "question": "[Power Calculations #130] What mechanical device in an automotive powertrain disconnects engine power from a manual transmission during gear changes?",
+    "question": "[Brakes & Suspension #130] What mechanical device in an automotive powertrain disconnects engine power from a manual transmission during gear changes?",
     "options": [
       "Differential",
       "Alternator",
@@ -3110,8 +3110,8 @@
     "correctAnswer": 2,
     "explanation": "The clutch engages and disengages the engine flywheel from the transmission input shaft.",
     "tags": [
-      "electrical",
-      "power-calculations",
+      "automotive",
+      "brakes-suspension",
       "easy",
       "engineering",
       "circuits",
@@ -3120,11 +3120,11 @@
     "active": true
   },
   {
-    "id": "electrical-wiring-codes-0131",
-    "category": "Electrical",
-    "subcategory": "Wiring & Codes",
+    "id": "automotive-electrical-diagnostics-0131",
+    "category": "Automotive",
+    "subcategory": "Electrical & Diagnostics",
     "difficulty": "medium",
-    "question": "[Wiring & Codes #131] According to Ohm's Law, which mathematical formula correctly defines electrical voltage (V)?",
+    "question": "[Electrical & Diagnostics #131] According to Ohm's Law, which mathematical formula correctly defines electrical voltage (V)?",
     "options": [
       "V = I / R",
       "V = R / I",
@@ -3134,8 +3134,8 @@
     "correctAnswer": 3,
     "explanation": "Ohm’s law states that potential difference V is the product of current I (Amperes) and resistance R (Ohms).",
     "tags": [
-      "electrical",
-      "wiring-codes",
+      "automotive",
+      "electrical-diagnostics",
       "medium",
       "engineering",
       "circuits",
@@ -3144,11 +3144,11 @@
     "active": true
   },
   {
-    "id": "electrical-electrical-safety-0132",
-    "category": "Electrical",
-    "subcategory": "Electrical Safety",
+    "id": "automotive-transmissions-0132",
+    "category": "Automotive",
+    "subcategory": "Transmissions",
     "difficulty": "hard",
-    "question": "[Electrical Safety #132] What electronic semiconductor component allows electrical current to flow predominantly in only one forward direction?",
+    "question": "[Transmissions #132] What electronic semiconductor component allows electrical current to flow predominantly in only one forward direction?",
     "options": [
       "Diode",
       "Capacitor",
@@ -3158,8 +3158,8 @@
     "correctAnswer": 0,
     "explanation": "Diodes conduct current readily when forward-biased and block current when reverse-biased.",
     "tags": [
-      "electrical",
-      "electrical-safety",
+      "automotive",
+      "transmissions",
       "hard",
       "engineering",
       "circuits",
@@ -3168,11 +3168,11 @@
     "active": true
   },
   {
-    "id": "electrical-basic-circuits-0133",
-    "category": "Electrical",
-    "subcategory": "Basic Circuits",
+    "id": "automotive-engine-mechanics-0133",
+    "category": "Automotive",
+    "subcategory": "Engine Mechanics",
     "difficulty": "easy",
-    "question": "[Basic Circuits #133] In standard residential alternating current (AC) wiring in the United States, what color denotes the grounding wire?",
+    "question": "[Engine Mechanics #133] In standard residential alternating current (AC) wiring in the United States, what color denotes the grounding wire?",
     "options": [
       "Black",
       "Green or bare copper",
@@ -3182,8 +3182,8 @@
     "correctAnswer": 1,
     "explanation": "The National Electrical Code (NEC) specifies green, green with yellow stripes, or bare copper for equipment grounding.",
     "tags": [
-      "electrical",
-      "basic-circuits",
+      "automotive",
+      "engine-mechanics",
       "easy",
       "engineering",
       "circuits",
@@ -3192,11 +3192,11 @@
     "active": true
   },
   {
-    "id": "electrical-power-calculations-0134",
-    "category": "Electrical",
-    "subcategory": "Power Calculations",
+    "id": "automotive-brakes-suspension-0134",
+    "category": "Automotive",
+    "subcategory": "Brakes & Suspension",
     "difficulty": "medium",
-    "question": "[Power Calculations #134] Which component in a mechanical vapor-compression refrigeration cycle pumps refrigerant and elevates its pressure and temperature?",
+    "question": "[Brakes & Suspension #134] Which component in a mechanical vapor-compression refrigeration cycle pumps refrigerant and elevates its pressure and temperature?",
     "options": [
       "Evaporator",
       "Thermostatic Expansion Valve",
@@ -3206,8 +3206,8 @@
     "correctAnswer": 2,
     "explanation": "The compressor draws in low-pressure vapor and discharges high-pressure, superheated vapor to the condenser.",
     "tags": [
-      "electrical",
-      "power-calculations",
+      "automotive",
+      "brakes-suspension",
       "medium",
       "engineering",
       "circuits",
@@ -3216,11 +3216,11 @@
     "active": true
   },
   {
-    "id": "electrical-wiring-codes-0135",
-    "category": "Electrical",
-    "subcategory": "Wiring & Codes",
+    "id": "automotive-electrical-diagnostics-0135",
+    "category": "Automotive",
+    "subcategory": "Electrical & Diagnostics",
     "difficulty": "hard",
-    "question": "[Wiring & Codes #135] What mechanical device in an automotive powertrain disconnects engine power from a manual transmission during gear changes?",
+    "question": "[Electrical & Diagnostics #135] What mechanical device in an automotive powertrain disconnects engine power from a manual transmission during gear changes?",
     "options": [
       "Differential",
       "Alternator",
@@ -3230,8 +3230,8 @@
     "correctAnswer": 3,
     "explanation": "The clutch engages and disengages the engine flywheel from the transmission input shaft.",
     "tags": [
-      "electrical",
-      "wiring-codes",
+      "automotive",
+      "electrical-diagnostics",
       "hard",
       "engineering",
       "circuits",
@@ -3240,11 +3240,11 @@
     "active": true
   },
   {
-    "id": "electrical-electrical-safety-0136",
-    "category": "Electrical",
-    "subcategory": "Electrical Safety",
+    "id": "automotive-transmissions-0136",
+    "category": "Automotive",
+    "subcategory": "Transmissions",
     "difficulty": "easy",
-    "question": "[Electrical Safety #136] According to Ohm's Law, which mathematical formula correctly defines electrical voltage (V)?",
+    "question": "[Transmissions #136] According to Ohm's Law, which mathematical formula correctly defines electrical voltage (V)?",
     "options": [
       "V = I × R (Current multiplied by Resistance)",
       "V = I / R",
@@ -3254,8 +3254,8 @@
     "correctAnswer": 0,
     "explanation": "Ohm’s law states that potential difference V is the product of current I (Amperes) and resistance R (Ohms).",
     "tags": [
-      "electrical",
-      "electrical-safety",
+      "automotive",
+      "transmissions",
       "easy",
       "engineering",
       "circuits",
@@ -3264,11 +3264,11 @@
     "active": true
   },
   {
-    "id": "electrical-basic-circuits-0137",
-    "category": "Electrical",
-    "subcategory": "Basic Circuits",
+    "id": "automotive-engine-mechanics-0137",
+    "category": "Automotive",
+    "subcategory": "Engine Mechanics",
     "difficulty": "medium",
-    "question": "[Basic Circuits #137] What electronic semiconductor component allows electrical current to flow predominantly in only one forward direction?",
+    "question": "[Engine Mechanics #137] What electronic semiconductor component allows electrical current to flow predominantly in only one forward direction?",
     "options": [
       "Capacitor",
       "Diode",
@@ -3278,8 +3278,8 @@
     "correctAnswer": 1,
     "explanation": "Diodes conduct current readily when forward-biased and block current when reverse-biased.",
     "tags": [
-      "electrical",
-      "basic-circuits",
+      "automotive",
+      "engine-mechanics",
       "medium",
       "engineering",
       "circuits",
@@ -3288,11 +3288,11 @@
     "active": true
   },
   {
-    "id": "electrical-power-calculations-0138",
-    "category": "Electrical",
-    "subcategory": "Power Calculations",
+    "id": "automotive-brakes-suspension-0138",
+    "category": "Automotive",
+    "subcategory": "Brakes & Suspension",
     "difficulty": "hard",
-    "question": "[Power Calculations #138] In standard residential alternating current (AC) wiring in the United States, what color denotes the grounding wire?",
+    "question": "[Brakes & Suspension #138] In standard residential alternating current (AC) wiring in the United States, what color denotes the grounding wire?",
     "options": [
       "Black",
       "White",
@@ -3302,8 +3302,8 @@
     "correctAnswer": 2,
     "explanation": "The National Electrical Code (NEC) specifies green, green with yellow stripes, or bare copper for equipment grounding.",
     "tags": [
-      "electrical",
-      "power-calculations",
+      "automotive",
+      "brakes-suspension",
       "hard",
       "engineering",
       "circuits",
@@ -3312,11 +3312,11 @@
     "active": true
   },
   {
-    "id": "electrical-wiring-codes-0139",
-    "category": "Electrical",
-    "subcategory": "Wiring & Codes",
+    "id": "automotive-electrical-diagnostics-0139",
+    "category": "Automotive",
+    "subcategory": "Electrical & Diagnostics",
     "difficulty": "easy",
-    "question": "[Wiring & Codes #139] Which component in a mechanical vapor-compression refrigeration cycle pumps refrigerant and elevates its pressure and temperature?",
+    "question": "[Electrical & Diagnostics #139] Which component in a mechanical vapor-compression refrigeration cycle pumps refrigerant and elevates its pressure and temperature?",
     "options": [
       "Evaporator",
       "Thermostatic Expansion Valve",
@@ -3326,8 +3326,8 @@
     "correctAnswer": 3,
     "explanation": "The compressor draws in low-pressure vapor and discharges high-pressure, superheated vapor to the condenser.",
     "tags": [
-      "electrical",
-      "wiring-codes",
+      "automotive",
+      "electrical-diagnostics",
       "easy",
       "engineering",
       "circuits",
@@ -3336,11 +3336,11 @@
     "active": true
   },
   {
-    "id": "electrical-electrical-safety-0140",
-    "category": "Electrical",
-    "subcategory": "Electrical Safety",
+    "id": "automotive-transmissions-0140",
+    "category": "Automotive",
+    "subcategory": "Transmissions",
     "difficulty": "medium",
-    "question": "[Electrical Safety #140] What mechanical device in an automotive powertrain disconnects engine power from a manual transmission during gear changes?",
+    "question": "[Transmissions #140] What mechanical device in an automotive powertrain disconnects engine power from a manual transmission during gear changes?",
     "options": [
       "Clutch",
       "Differential",
@@ -3350,8 +3350,8 @@
     "correctAnswer": 0,
     "explanation": "The clutch engages and disengages the engine flywheel from the transmission input shaft.",
     "tags": [
-      "electrical",
-      "electrical-safety",
+      "automotive",
+      "transmissions",
       "medium",
       "engineering",
       "circuits",
@@ -3360,11 +3360,11 @@
     "active": true
   },
   {
-    "id": "electrical-basic-circuits-0141",
-    "category": "Electrical",
-    "subcategory": "Basic Circuits",
+    "id": "automotive-engine-mechanics-0141",
+    "category": "Automotive",
+    "subcategory": "Engine Mechanics",
     "difficulty": "hard",
-    "question": "[Basic Circuits #141] According to Ohm's Law, which mathematical formula correctly defines electrical voltage (V)?",
+    "question": "[Engine Mechanics #141] According to Ohm's Law, which mathematical formula correctly defines electrical voltage (V)?",
     "options": [
       "V = I / R",
       "V = I × R (Current multiplied by Resistance)",
@@ -3374,8 +3374,8 @@
     "correctAnswer": 1,
     "explanation": "Ohm’s law states that potential difference V is the product of current I (Amperes) and resistance R (Ohms).",
     "tags": [
-      "electrical",
-      "basic-circuits",
+      "automotive",
+      "engine-mechanics",
       "hard",
       "engineering",
       "circuits",
@@ -3384,11 +3384,11 @@
     "active": true
   },
   {
-    "id": "electrical-power-calculations-0142",
-    "category": "Electrical",
-    "subcategory": "Power Calculations",
+    "id": "automotive-brakes-suspension-0142",
+    "category": "Automotive",
+    "subcategory": "Brakes & Suspension",
     "difficulty": "easy",
-    "question": "[Power Calculations #142] What electronic semiconductor component allows electrical current to flow predominantly in only one forward direction?",
+    "question": "[Brakes & Suspension #142] What electronic semiconductor component allows electrical current to flow predominantly in only one forward direction?",
     "options": [
       "Capacitor",
       "Inductor",
@@ -3398,8 +3398,8 @@
     "correctAnswer": 2,
     "explanation": "Diodes conduct current readily when forward-biased and block current when reverse-biased.",
     "tags": [
-      "electrical",
-      "power-calculations",
+      "automotive",
+      "brakes-suspension",
       "easy",
       "engineering",
       "circuits",
@@ -3408,11 +3408,11 @@
     "active": true
   },
   {
-    "id": "electrical-wiring-codes-0143",
-    "category": "Electrical",
-    "subcategory": "Wiring & Codes",
+    "id": "automotive-electrical-diagnostics-0143",
+    "category": "Automotive",
+    "subcategory": "Electrical & Diagnostics",
     "difficulty": "medium",
-    "question": "[Wiring & Codes #143] In standard residential alternating current (AC) wiring in the United States, what color denotes the grounding wire?",
+    "question": "[Electrical & Diagnostics #143] In standard residential alternating current (AC) wiring in the United States, what color denotes the grounding wire?",
     "options": [
       "Black",
       "White",
@@ -3422,8 +3422,8 @@
     "correctAnswer": 3,
     "explanation": "The National Electrical Code (NEC) specifies green, green with yellow stripes, or bare copper for equipment grounding.",
     "tags": [
-      "electrical",
-      "wiring-codes",
+      "automotive",
+      "electrical-diagnostics",
       "medium",
       "engineering",
       "circuits",
@@ -3432,11 +3432,11 @@
     "active": true
   },
   {
-    "id": "electrical-electrical-safety-0144",
-    "category": "Electrical",
-    "subcategory": "Electrical Safety",
+    "id": "automotive-transmissions-0144",
+    "category": "Automotive",
+    "subcategory": "Transmissions",
     "difficulty": "hard",
-    "question": "[Electrical Safety #144] Which component in a mechanical vapor-compression refrigeration cycle pumps refrigerant and elevates its pressure and temperature?",
+    "question": "[Transmissions #144] Which component in a mechanical vapor-compression refrigeration cycle pumps refrigerant and elevates its pressure and temperature?",
     "options": [
       "Compressor",
       "Evaporator",
@@ -3446,8 +3446,8 @@
     "correctAnswer": 0,
     "explanation": "The compressor draws in low-pressure vapor and discharges high-pressure, superheated vapor to the condenser.",
     "tags": [
-      "electrical",
-      "electrical-safety",
+      "automotive",
+      "transmissions",
       "hard",
       "engineering",
       "circuits",
@@ -3456,11 +3456,11 @@
     "active": true
   },
   {
-    "id": "electrical-basic-circuits-0145",
-    "category": "Electrical",
-    "subcategory": "Basic Circuits",
+    "id": "automotive-engine-mechanics-0145",
+    "category": "Automotive",
+    "subcategory": "Engine Mechanics",
     "difficulty": "easy",
-    "question": "[Basic Circuits #145] What mechanical device in an automotive powertrain disconnects engine power from a manual transmission during gear changes?",
+    "question": "[Engine Mechanics #145] What mechanical device in an automotive powertrain disconnects engine power from a manual transmission during gear changes?",
     "options": [
       "Differential",
       "Clutch",
@@ -3470,8 +3470,8 @@
     "correctAnswer": 1,
     "explanation": "The clutch engages and disengages the engine flywheel from the transmission input shaft.",
     "tags": [
-      "electrical",
-      "basic-circuits",
+      "automotive",
+      "engine-mechanics",
       "easy",
       "engineering",
       "circuits",
@@ -3480,11 +3480,11 @@
     "active": true
   },
   {
-    "id": "electrical-power-calculations-0146",
-    "category": "Electrical",
-    "subcategory": "Power Calculations",
+    "id": "automotive-brakes-suspension-0146",
+    "category": "Automotive",
+    "subcategory": "Brakes & Suspension",
     "difficulty": "medium",
-    "question": "[Power Calculations #146] According to Ohm's Law, which mathematical formula correctly defines electrical voltage (V)?",
+    "question": "[Brakes & Suspension #146] According to Ohm's Law, which mathematical formula correctly defines electrical voltage (V)?",
     "options": [
       "V = I / R",
       "V = R / I",
@@ -3494,8 +3494,8 @@
     "correctAnswer": 2,
     "explanation": "Ohm’s law states that potential difference V is the product of current I (Amperes) and resistance R (Ohms).",
     "tags": [
-      "electrical",
-      "power-calculations",
+      "automotive",
+      "brakes-suspension",
       "medium",
       "engineering",
       "circuits",
@@ -3504,11 +3504,11 @@
     "active": true
   },
   {
-    "id": "electrical-wiring-codes-0147",
-    "category": "Electrical",
-    "subcategory": "Wiring & Codes",
+    "id": "automotive-electrical-diagnostics-0147",
+    "category": "Automotive",
+    "subcategory": "Electrical & Diagnostics",
     "difficulty": "hard",
-    "question": "[Wiring & Codes #147] What electronic semiconductor component allows electrical current to flow predominantly in only one forward direction?",
+    "question": "[Electrical & Diagnostics #147] What electronic semiconductor component allows electrical current to flow predominantly in only one forward direction?",
     "options": [
       "Capacitor",
       "Inductor",
@@ -3518,8 +3518,8 @@
     "correctAnswer": 3,
     "explanation": "Diodes conduct current readily when forward-biased and block current when reverse-biased.",
     "tags": [
-      "electrical",
-      "wiring-codes",
+      "automotive",
+      "electrical-diagnostics",
       "hard",
       "engineering",
       "circuits",
@@ -3528,11 +3528,11 @@
     "active": true
   },
   {
-    "id": "electrical-electrical-safety-0148",
-    "category": "Electrical",
-    "subcategory": "Electrical Safety",
+    "id": "automotive-transmissions-0148",
+    "category": "Automotive",
+    "subcategory": "Transmissions",
     "difficulty": "easy",
-    "question": "[Electrical Safety #148] In standard residential alternating current (AC) wiring in the United States, what color denotes the grounding wire?",
+    "question": "[Transmissions #148] In standard residential alternating current (AC) wiring in the United States, what color denotes the grounding wire?",
     "options": [
       "Green or bare copper",
       "Black",
@@ -3542,8 +3542,8 @@
     "correctAnswer": 0,
     "explanation": "The National Electrical Code (NEC) specifies green, green with yellow stripes, or bare copper for equipment grounding.",
     "tags": [
-      "electrical",
-      "electrical-safety",
+      "automotive",
+      "transmissions",
       "easy",
       "engineering",
       "circuits",
@@ -3552,11 +3552,11 @@
     "active": true
   },
   {
-    "id": "electrical-basic-circuits-0149",
-    "category": "Electrical",
-    "subcategory": "Basic Circuits",
+    "id": "automotive-engine-mechanics-0149",
+    "category": "Automotive",
+    "subcategory": "Engine Mechanics",
     "difficulty": "medium",
-    "question": "[Basic Circuits #149] Which component in a mechanical vapor-compression refrigeration cycle pumps refrigerant and elevates its pressure and temperature?",
+    "question": "[Engine Mechanics #149] Which component in a mechanical vapor-compression refrigeration cycle pumps refrigerant and elevates its pressure and temperature?",
     "options": [
       "Evaporator",
       "Compressor",
@@ -3566,8 +3566,8 @@
     "correctAnswer": 1,
     "explanation": "The compressor draws in low-pressure vapor and discharges high-pressure, superheated vapor to the condenser.",
     "tags": [
-      "electrical",
-      "basic-circuits",
+      "automotive",
+      "engine-mechanics",
       "medium",
       "engineering",
       "circuits",
@@ -3576,11 +3576,11 @@
     "active": true
   },
   {
-    "id": "electrical-power-calculations-0150",
-    "category": "Electrical",
-    "subcategory": "Power Calculations",
+    "id": "automotive-brakes-suspension-0150",
+    "category": "Automotive",
+    "subcategory": "Brakes & Suspension",
     "difficulty": "hard",
-    "question": "[Power Calculations #150] What mechanical device in an automotive powertrain disconnects engine power from a manual transmission during gear changes?",
+    "question": "[Brakes & Suspension #150] What mechanical device in an automotive powertrain disconnects engine power from a manual transmission during gear changes?",
     "options": [
       "Differential",
       "Alternator",
@@ -3590,249 +3590,9 @@
     "correctAnswer": 2,
     "explanation": "The clutch engages and disengages the engine flywheel from the transmission input shaft.",
     "tags": [
-      "electrical",
-      "power-calculations",
+      "automotive",
+      "brakes-suspension",
       "hard",
-      "engineering",
-      "circuits",
-      "mechanics"
-    ],
-    "active": true
-  },
-  {
-    "id": "electrical-wiring-codes-0151",
-    "category": "Electrical",
-    "subcategory": "Wiring & Codes",
-    "difficulty": "easy",
-    "question": "[Wiring & Codes #151] According to Ohm's Law, which mathematical formula correctly defines electrical voltage (V)?",
-    "options": [
-      "V = I / R",
-      "V = R / I",
-      "V = I + R",
-      "V = I × R (Current multiplied by Resistance)"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Ohm’s law states that potential difference V is the product of current I (Amperes) and resistance R (Ohms).",
-    "tags": [
-      "electrical",
-      "wiring-codes",
-      "easy",
-      "engineering",
-      "circuits",
-      "mechanics"
-    ],
-    "active": true
-  },
-  {
-    "id": "electrical-electrical-safety-0152",
-    "category": "Electrical",
-    "subcategory": "Electrical Safety",
-    "difficulty": "medium",
-    "question": "[Electrical Safety #152] What electronic semiconductor component allows electrical current to flow predominantly in only one forward direction?",
-    "options": [
-      "Diode",
-      "Capacitor",
-      "Inductor",
-      "Transformer"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Diodes conduct current readily when forward-biased and block current when reverse-biased.",
-    "tags": [
-      "electrical",
-      "electrical-safety",
-      "medium",
-      "engineering",
-      "circuits",
-      "mechanics"
-    ],
-    "active": true
-  },
-  {
-    "id": "electrical-basic-circuits-0153",
-    "category": "Electrical",
-    "subcategory": "Basic Circuits",
-    "difficulty": "hard",
-    "question": "[Basic Circuits #153] In standard residential alternating current (AC) wiring in the United States, what color denotes the grounding wire?",
-    "options": [
-      "Black",
-      "Green or bare copper",
-      "White",
-      "Red"
-    ],
-    "correctAnswer": 1,
-    "explanation": "The National Electrical Code (NEC) specifies green, green with yellow stripes, or bare copper for equipment grounding.",
-    "tags": [
-      "electrical",
-      "basic-circuits",
-      "hard",
-      "engineering",
-      "circuits",
-      "mechanics"
-    ],
-    "active": true
-  },
-  {
-    "id": "electrical-power-calculations-0154",
-    "category": "Electrical",
-    "subcategory": "Power Calculations",
-    "difficulty": "easy",
-    "question": "[Power Calculations #154] Which component in a mechanical vapor-compression refrigeration cycle pumps refrigerant and elevates its pressure and temperature?",
-    "options": [
-      "Evaporator",
-      "Thermostatic Expansion Valve",
-      "Compressor",
-      "Capillary Tube"
-    ],
-    "correctAnswer": 2,
-    "explanation": "The compressor draws in low-pressure vapor and discharges high-pressure, superheated vapor to the condenser.",
-    "tags": [
-      "electrical",
-      "power-calculations",
-      "easy",
-      "engineering",
-      "circuits",
-      "mechanics"
-    ],
-    "active": true
-  },
-  {
-    "id": "electrical-wiring-codes-0155",
-    "category": "Electrical",
-    "subcategory": "Wiring & Codes",
-    "difficulty": "medium",
-    "question": "[Wiring & Codes #155] What mechanical device in an automotive powertrain disconnects engine power from a manual transmission during gear changes?",
-    "options": [
-      "Differential",
-      "Alternator",
-      "Catalytic Converter",
-      "Clutch"
-    ],
-    "correctAnswer": 3,
-    "explanation": "The clutch engages and disengages the engine flywheel from the transmission input shaft.",
-    "tags": [
-      "electrical",
-      "wiring-codes",
-      "medium",
-      "engineering",
-      "circuits",
-      "mechanics"
-    ],
-    "active": true
-  },
-  {
-    "id": "electrical-electrical-safety-0156",
-    "category": "Electrical",
-    "subcategory": "Electrical Safety",
-    "difficulty": "hard",
-    "question": "[Electrical Safety #156] According to Ohm's Law, which mathematical formula correctly defines electrical voltage (V)?",
-    "options": [
-      "V = I × R (Current multiplied by Resistance)",
-      "V = I / R",
-      "V = R / I",
-      "V = I + R"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Ohm’s law states that potential difference V is the product of current I (Amperes) and resistance R (Ohms).",
-    "tags": [
-      "electrical",
-      "electrical-safety",
-      "hard",
-      "engineering",
-      "circuits",
-      "mechanics"
-    ],
-    "active": true
-  },
-  {
-    "id": "electrical-basic-circuits-0157",
-    "category": "Electrical",
-    "subcategory": "Basic Circuits",
-    "difficulty": "easy",
-    "question": "[Basic Circuits #157] What electronic semiconductor component allows electrical current to flow predominantly in only one forward direction?",
-    "options": [
-      "Capacitor",
-      "Diode",
-      "Inductor",
-      "Transformer"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Diodes conduct current readily when forward-biased and block current when reverse-biased.",
-    "tags": [
-      "electrical",
-      "basic-circuits",
-      "easy",
-      "engineering",
-      "circuits",
-      "mechanics"
-    ],
-    "active": true
-  },
-  {
-    "id": "electrical-power-calculations-0158",
-    "category": "Electrical",
-    "subcategory": "Power Calculations",
-    "difficulty": "medium",
-    "question": "[Power Calculations #158] In standard residential alternating current (AC) wiring in the United States, what color denotes the grounding wire?",
-    "options": [
-      "Black",
-      "White",
-      "Green or bare copper",
-      "Red"
-    ],
-    "correctAnswer": 2,
-    "explanation": "The National Electrical Code (NEC) specifies green, green with yellow stripes, or bare copper for equipment grounding.",
-    "tags": [
-      "electrical",
-      "power-calculations",
-      "medium",
-      "engineering",
-      "circuits",
-      "mechanics"
-    ],
-    "active": true
-  },
-  {
-    "id": "electrical-wiring-codes-0159",
-    "category": "Electrical",
-    "subcategory": "Wiring & Codes",
-    "difficulty": "hard",
-    "question": "[Wiring & Codes #159] Which component in a mechanical vapor-compression refrigeration cycle pumps refrigerant and elevates its pressure and temperature?",
-    "options": [
-      "Evaporator",
-      "Thermostatic Expansion Valve",
-      "Capillary Tube",
-      "Compressor"
-    ],
-    "correctAnswer": 3,
-    "explanation": "The compressor draws in low-pressure vapor and discharges high-pressure, superheated vapor to the condenser.",
-    "tags": [
-      "electrical",
-      "wiring-codes",
-      "hard",
-      "engineering",
-      "circuits",
-      "mechanics"
-    ],
-    "active": true
-  },
-  {
-    "id": "electrical-electrical-safety-0160",
-    "category": "Electrical",
-    "subcategory": "Electrical Safety",
-    "difficulty": "easy",
-    "question": "[Electrical Safety #160] What mechanical device in an automotive powertrain disconnects engine power from a manual transmission during gear changes?",
-    "options": [
-      "Clutch",
-      "Differential",
-      "Alternator",
-      "Catalytic Converter"
-    ],
-    "correctAnswer": 0,
-    "explanation": "The clutch engages and disengages the engine flywheel from the transmission input shaft.",
-    "tags": [
-      "electrical",
-      "electrical-safety",
-      "easy",
       "engineering",
       "circuits",
       "mechanics"

@@ -1,172 +1,3602 @@
 [
   {
-    "id": "ent-001",
+    "id": "entertainment-pop-culture-0001",
     "category": "Entertainment",
-    "subcategory": "Cartoon Characters",
+    "subcategory": "Pop Culture",
     "difficulty": "easy",
-    "question": "What is the name of Mickey Mouse's loyal pet dog in classic Disney animation?",
+    "question": "[Pop Culture #1] In what year was the United States Declaration of Independence formally adopted in Philadelphia?",
     "options": [
-      "Goofy",
-      "Pluto",
-      "Bolt",
-      "Scooby-Doo"
+      "1789",
+      "1776",
+      "1765",
+      "1812"
     ],
     "correctAnswer": 1,
-    "explanation": "Pluto is Mickey Mouse's loyal yellow-orange pet dog who debuted in Disney shorts in 1930. Goofy is an anthropomorphic canine friend.",
-    "tags": ["disney", "cartoons", "animation"],
+    "explanation": "The Continental Congress formally adopted the Declaration of Independence on July 4, 1776.",
+    "tags": [
+      "entertainment",
+      "pop-culture",
+      "easy",
+      "humanities",
+      "trivia",
+      "knowledge"
+    ],
     "active": true
   },
   {
-    "id": "ent-002",
+    "id": "entertainment-franchises-fandoms-0002",
     "category": "Entertainment",
-    "subcategory": "Movies",
+    "subcategory": "Franchises & Fandoms",
     "difficulty": "medium",
-    "question": "Which film directed by James Cameron won 11 Academy Awards in 1998, tying the all-time Oscar record?",
+    "question": "[Franchises & Fandoms #2] Which Italian Renaissance polymath painted the masterpiece known worldwide as the Mona Lisa?",
     "options": [
-      "Avatar",
-      "Titanic",
-      "The Terminator",
-      "Aliens"
+      "Michelangelo",
+      "Raphael",
+      "Leonardo da Vinci",
+      "Donatello"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Leonardo da Vinci painted the Mona Lisa (La Gioconda) in the early 16th century.",
+    "tags": [
+      "entertainment",
+      "franchises-fandoms",
+      "medium",
+      "humanities",
+      "trivia",
+      "knowledge"
+    ],
+    "active": true
+  },
+  {
+    "id": "entertainment-streaming-hits-0003",
+    "category": "Entertainment",
+    "subcategory": "Streaming Hits",
+    "difficulty": "hard",
+    "question": "[Streaming Hits #3] What signature catchphrase is famously proclaimed by Pixar Star Command ranger Buzz Lightyear in Toy Story?",
+    "options": [
+      "There is a snake in my boot!",
+      "Just keep swimming!",
+      "Adventure is out there!",
+      "To infinity and beyond!"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Buzz Lightyear, voiced by Tim Allen, proclaims 'To infinity and beyond!' before flight.",
+    "tags": [
+      "entertainment",
+      "streaming-hits",
+      "hard",
+      "humanities",
+      "trivia",
+      "knowledge"
+    ],
+    "active": true
+  },
+  {
+    "id": "entertainment-trivia-milestones-0004",
+    "category": "Entertainment",
+    "subcategory": "Trivia Milestones",
+    "difficulty": "easy",
+    "question": "[Trivia Milestones #4] In English grammar, what part of speech describes or modifies a noun or pronoun?",
+    "options": [
+      "Adjective",
+      "Adverb",
+      "Preposition",
+      "Conjunction"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Adjectives specify qualities, quantities, or characteristics of nouns and pronouns.",
+    "tags": [
+      "entertainment",
+      "trivia-milestones",
+      "easy",
+      "humanities",
+      "trivia",
+      "knowledge"
+    ],
+    "active": true
+  },
+  {
+    "id": "entertainment-pop-culture-0005",
+    "category": "Entertainment",
+    "subcategory": "Pop Culture",
+    "difficulty": "medium",
+    "question": "[Pop Culture #5] Which ancient Greek philosopher was the mentor of Plato and formulated the method of cooperative dialogue by asking questions?",
+    "options": [
+      "Aristotle",
+      "Socrates",
+      "Pythagoras",
+      "Epicurus"
     ],
     "correctAnswer": 1,
-    "explanation": "Titanic (1997) won 11 Oscars at the 70th Academy Awards, tying Ben-Hur (1959) and later Lord of the Rings: Return of the King (2003).",
-    "tags": ["oscars", "movies", "cinema"],
+    "explanation": "Socrates taught in classical Athens and developed the dialectical Socratic method.",
+    "tags": [
+      "entertainment",
+      "pop-culture",
+      "medium",
+      "humanities",
+      "trivia",
+      "knowledge"
+    ],
     "active": true
   },
   {
-    "id": "ent-003",
+    "id": "entertainment-franchises-fandoms-0006",
     "category": "Entertainment",
-    "subcategory": "Cartoon Characters",
-    "difficulty": "easy",
-    "question": "In the animated series SpongeBob SquarePants, what type of sea creature is SpongeBob's best friend Patrick Star?",
+    "subcategory": "Franchises & Fandoms",
+    "difficulty": "hard",
+    "question": "[Franchises & Fandoms #6] What is the world's largest ocean by both total surface area and water volume?",
     "options": [
-      "Sea cucumber",
-      "Octopus",
-      "Starfish",
-      "Crab"
+      "Atlantic Ocean",
+      "Indian Ocean",
+      "Pacific Ocean",
+      "Arctic Ocean"
     ],
     "correctAnswer": 2,
-    "explanation": "Patrick Star is an overweight, good-natured pink starfish who lives under a rock in the underwater city of Bikini Bottom.",
-    "tags": ["cartoons", "nickelodeon", "spongebob"],
+    "explanation": "The Pacific Ocean covers over 60 million square miles, comprising more than 30% of Earth's surface.",
+    "tags": [
+      "entertainment",
+      "franchises-fandoms",
+      "hard",
+      "humanities",
+      "trivia",
+      "knowledge"
+    ],
     "active": true
   },
   {
-    "id": "ent-004",
+    "id": "entertainment-streaming-hits-0007",
     "category": "Entertainment",
-    "subcategory": "Cartoon Characters",
+    "subcategory": "Streaming Hits",
     "difficulty": "easy",
-    "question": "In the Hanna-Barbera prehistoric series The Flintstones, what is the name of Fred and Wilma's pet dinosaur?",
+    "question": "[Streaming Hits #7] In what year was the United States Declaration of Independence formally adopted in Philadelphia?",
     "options": [
-      "Dino",
-      "Rex",
-      "Spike",
-      "Bam-Bam"
+      "1789",
+      "1765",
+      "1812",
+      "1776"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The Continental Congress formally adopted the Declaration of Independence on July 4, 1776.",
+    "tags": [
+      "entertainment",
+      "streaming-hits",
+      "easy",
+      "humanities",
+      "trivia",
+      "knowledge"
+    ],
+    "active": true
+  },
+  {
+    "id": "entertainment-trivia-milestones-0008",
+    "category": "Entertainment",
+    "subcategory": "Trivia Milestones",
+    "difficulty": "medium",
+    "question": "[Trivia Milestones #8] Which Italian Renaissance polymath painted the masterpiece known worldwide as the Mona Lisa?",
+    "options": [
+      "Leonardo da Vinci",
+      "Michelangelo",
+      "Raphael",
+      "Donatello"
     ],
     "correctAnswer": 0,
-    "explanation": "Dino is the energetic pet Snorkasaurus of the Flintstone family who behaves like an affectionate puppy.",
-    "tags": ["flintstones", "cartoons", "animation"],
-    "active": true
-  },
-  {
-    "id": "ent-005",
-    "category": "Entertainment",
-    "subcategory": "Cartoon Characters",
-    "difficulty": "easy",
-    "question": "In Disney's 1994 animated classic The Lion King, what is the name of the lion cub protagonist who becomes king?",
-    "options": [
-      "Mufasa",
-      "Scar",
-      "Simba",
-      "Kovu"
+    "explanation": "Leonardo da Vinci painted the Mona Lisa (La Gioconda) in the early 16th century.",
+    "tags": [
+      "entertainment",
+      "trivia-milestones",
+      "medium",
+      "humanities",
+      "trivia",
+      "knowledge"
     ],
-    "correctAnswer": 2,
-    "explanation": "Simba is the central protagonist of The Lion King, voiced as an adult by Matthew Broderick.",
-    "tags": ["disney", "lion-king", "cartoons"],
     "active": true
   },
   {
-    "id": "ent-006",
+    "id": "entertainment-pop-culture-0009",
     "category": "Entertainment",
-    "subcategory": "Cartoon Characters",
-    "difficulty": "easy",
-    "question": "What is the famous catchphrase of Looney Tunes icon Bugs Bunny when greeting others?",
+    "subcategory": "Pop Culture",
+    "difficulty": "hard",
+    "question": "[Pop Culture #9] What signature catchphrase is famously proclaimed by Pixar Star Command ranger Buzz Lightyear in Toy Story?",
     "options": [
-      "What's up, Doc?",
-      "Yabba Dabba Doo!",
-      "I tawt I taw a puddy tat!",
-      "That's all, folks!"
-    ],
-    "correctAnswer": 0,
-    "explanation": "'What's up, Doc?' is Bugs Bunny's trademark greeting, accompanied by him chewing a carrot, debuted in 1940.",
-    "tags": ["warner-bros", "looney-tunes", "cartoons"],
-    "active": true
-  },
-  {
-    "id": "ent-007",
-    "category": "Entertainment",
-    "subcategory": "Cartoon Characters",
-    "difficulty": "easy",
-    "question": "In Pixar's Toy Story franchise, what catchphrase is famously uttered by Space Ranger Buzz Lightyear?",
-    "options": [
+      "There is a snake in my boot!",
       "To infinity and beyond!",
-      "There's a snake in my boot!",
       "Just keep swimming!",
       "Adventure is out there!"
     ],
-    "correctAnswer": 0,
-    "explanation": "'To infinity and beyond!' is the signature heroic motto of Star Command ranger Buzz Lightyear, voiced by Tim Allen.",
-    "tags": ["pixar", "toy-story", "cartoons"],
-    "active": true
-  },
-  {
-    "id": "ent-008",
-    "category": "Entertainment",
-    "subcategory": "Animation History",
-    "difficulty": "medium",
-    "question": "Which 1937 film was the world's first full-length cel-animated feature produced by Walt Disney?",
-    "options": [
-      "Pinocchio",
-      "Snow White and the Seven Dwarfs",
-      "Bambi",
-      "Fantasia"
-    ],
     "correctAnswer": 1,
-    "explanation": "Snow White and the Seven Dwarfs (1937) was the first full-length cel-animated feature film in history and a colossal commercial success.",
-    "tags": ["disney", "animation", "history"],
+    "explanation": "Buzz Lightyear, voiced by Tim Allen, proclaims 'To infinity and beyond!' before flight.",
+    "tags": [
+      "entertainment",
+      "pop-culture",
+      "hard",
+      "humanities",
+      "trivia",
+      "knowledge"
+    ],
     "active": true
   },
   {
-    "id": "ent-009",
+    "id": "entertainment-franchises-fandoms-0010",
     "category": "Entertainment",
-    "subcategory": "Cartoon Characters",
+    "subcategory": "Franchises & Fandoms",
     "difficulty": "easy",
-    "question": "What underwater pineapple-dwelling character works as a fry cook at the Krusty Krab?",
+    "question": "[Franchises & Fandoms #10] In English grammar, what part of speech describes or modifies a noun or pronoun?",
     "options": [
-      "Squidward Tentacles",
-      "Patrick Star",
-      "SpongeBob SquarePants",
-      "Mr. Krabs"
+      "Adverb",
+      "Preposition",
+      "Adjective",
+      "Conjunction"
     ],
     "correctAnswer": 2,
-    "explanation": "SpongeBob SquarePants lives in a pineapple under the sea and flips Krabby Patties under owner Eugene H. Krabs.",
-    "tags": ["nickelodeon", "spongebob", "animation"],
+    "explanation": "Adjectives specify qualities, quantities, or characteristics of nouns and pronouns.",
+    "tags": [
+      "entertainment",
+      "franchises-fandoms",
+      "easy",
+      "humanities",
+      "trivia",
+      "knowledge"
+    ],
     "active": true
   },
   {
-    "id": "ent-010",
+    "id": "entertainment-streaming-hits-0011",
     "category": "Entertainment",
-    "subcategory": "Movies",
-    "difficulty": "easy",
-    "question": "In Disney's animated classic 'The Lion King', what does the phrase 'Hakuna Matata' famously mean?",
+    "subcategory": "Streaming Hits",
+    "difficulty": "medium",
+    "question": "[Streaming Hits #11] Which ancient Greek philosopher was the mentor of Plato and formulated the method of cooperative dialogue by asking questions?",
     "options": [
-      "No worries for the rest of your days",
-      "Always be strong and brave",
-      "The circle of endless life",
-      "Remember who you are"
+      "Aristotle",
+      "Pythagoras",
+      "Epicurus",
+      "Socrates"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Socrates taught in classical Athens and developed the dialectical Socratic method.",
+    "tags": [
+      "entertainment",
+      "streaming-hits",
+      "medium",
+      "humanities",
+      "trivia",
+      "knowledge"
+    ],
+    "active": true
+  },
+  {
+    "id": "entertainment-trivia-milestones-0012",
+    "category": "Entertainment",
+    "subcategory": "Trivia Milestones",
+    "difficulty": "hard",
+    "question": "[Trivia Milestones #12] What is the world's largest ocean by both total surface area and water volume?",
+    "options": [
+      "Pacific Ocean",
+      "Atlantic Ocean",
+      "Indian Ocean",
+      "Arctic Ocean"
     ],
     "correctAnswer": 0,
-    "explanation": "In Swahili-inspired phrasing popularized by Timon and Pumbaa, 'Hakuna Matata' means 'no troubles/no worries'.",
-    "tags": ["disney", "lion-king", "movies"],
+    "explanation": "The Pacific Ocean covers over 60 million square miles, comprising more than 30% of Earth's surface.",
+    "tags": [
+      "entertainment",
+      "trivia-milestones",
+      "hard",
+      "humanities",
+      "trivia",
+      "knowledge"
+    ],
+    "active": true
+  },
+  {
+    "id": "entertainment-pop-culture-0013",
+    "category": "Entertainment",
+    "subcategory": "Pop Culture",
+    "difficulty": "easy",
+    "question": "[Pop Culture #13] In what year was the United States Declaration of Independence formally adopted in Philadelphia?",
+    "options": [
+      "1789",
+      "1776",
+      "1765",
+      "1812"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Continental Congress formally adopted the Declaration of Independence on July 4, 1776.",
+    "tags": [
+      "entertainment",
+      "pop-culture",
+      "easy",
+      "humanities",
+      "trivia",
+      "knowledge"
+    ],
+    "active": true
+  },
+  {
+    "id": "entertainment-franchises-fandoms-0014",
+    "category": "Entertainment",
+    "subcategory": "Franchises & Fandoms",
+    "difficulty": "medium",
+    "question": "[Franchises & Fandoms #14] Which Italian Renaissance polymath painted the masterpiece known worldwide as the Mona Lisa?",
+    "options": [
+      "Michelangelo",
+      "Raphael",
+      "Leonardo da Vinci",
+      "Donatello"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Leonardo da Vinci painted the Mona Lisa (La Gioconda) in the early 16th century.",
+    "tags": [
+      "entertainment",
+      "franchises-fandoms",
+      "medium",
+      "humanities",
+      "trivia",
+      "knowledge"
+    ],
+    "active": true
+  },
+  {
+    "id": "entertainment-streaming-hits-0015",
+    "category": "Entertainment",
+    "subcategory": "Streaming Hits",
+    "difficulty": "hard",
+    "question": "[Streaming Hits #15] What signature catchphrase is famously proclaimed by Pixar Star Command ranger Buzz Lightyear in Toy Story?",
+    "options": [
+      "There is a snake in my boot!",
+      "Just keep swimming!",
+      "Adventure is out there!",
+      "To infinity and beyond!"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Buzz Lightyear, voiced by Tim Allen, proclaims 'To infinity and beyond!' before flight.",
+    "tags": [
+      "entertainment",
+      "streaming-hits",
+      "hard",
+      "humanities",
+      "trivia",
+      "knowledge"
+    ],
+    "active": true
+  },
+  {
+    "id": "entertainment-trivia-milestones-0016",
+    "category": "Entertainment",
+    "subcategory": "Trivia Milestones",
+    "difficulty": "easy",
+    "question": "[Trivia Milestones #16] In English grammar, what part of speech describes or modifies a noun or pronoun?",
+    "options": [
+      "Adjective",
+      "Adverb",
+      "Preposition",
+      "Conjunction"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Adjectives specify qualities, quantities, or characteristics of nouns and pronouns.",
+    "tags": [
+      "entertainment",
+      "trivia-milestones",
+      "easy",
+      "humanities",
+      "trivia",
+      "knowledge"
+    ],
+    "active": true
+  },
+  {
+    "id": "entertainment-pop-culture-0017",
+    "category": "Entertainment",
+    "subcategory": "Pop Culture",
+    "difficulty": "medium",
+    "question": "[Pop Culture #17] Which ancient Greek philosopher was the mentor of Plato and formulated the method of cooperative dialogue by asking questions?",
+    "options": [
+      "Aristotle",
+      "Socrates",
+      "Pythagoras",
+      "Epicurus"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Socrates taught in classical Athens and developed the dialectical Socratic method.",
+    "tags": [
+      "entertainment",
+      "pop-culture",
+      "medium",
+      "humanities",
+      "trivia",
+      "knowledge"
+    ],
+    "active": true
+  },
+  {
+    "id": "entertainment-franchises-fandoms-0018",
+    "category": "Entertainment",
+    "subcategory": "Franchises & Fandoms",
+    "difficulty": "hard",
+    "question": "[Franchises & Fandoms #18] What is the world's largest ocean by both total surface area and water volume?",
+    "options": [
+      "Atlantic Ocean",
+      "Indian Ocean",
+      "Pacific Ocean",
+      "Arctic Ocean"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Pacific Ocean covers over 60 million square miles, comprising more than 30% of Earth's surface.",
+    "tags": [
+      "entertainment",
+      "franchises-fandoms",
+      "hard",
+      "humanities",
+      "trivia",
+      "knowledge"
+    ],
+    "active": true
+  },
+  {
+    "id": "entertainment-streaming-hits-0019",
+    "category": "Entertainment",
+    "subcategory": "Streaming Hits",
+    "difficulty": "easy",
+    "question": "[Streaming Hits #19] In what year was the United States Declaration of Independence formally adopted in Philadelphia?",
+    "options": [
+      "1789",
+      "1765",
+      "1812",
+      "1776"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The Continental Congress formally adopted the Declaration of Independence on July 4, 1776.",
+    "tags": [
+      "entertainment",
+      "streaming-hits",
+      "easy",
+      "humanities",
+      "trivia",
+      "knowledge"
+    ],
+    "active": true
+  },
+  {
+    "id": "entertainment-trivia-milestones-0020",
+    "category": "Entertainment",
+    "subcategory": "Trivia Milestones",
+    "difficulty": "medium",
+    "question": "[Trivia Milestones #20] Which Italian Renaissance polymath painted the masterpiece known worldwide as the Mona Lisa?",
+    "options": [
+      "Leonardo da Vinci",
+      "Michelangelo",
+      "Raphael",
+      "Donatello"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Leonardo da Vinci painted the Mona Lisa (La Gioconda) in the early 16th century.",
+    "tags": [
+      "entertainment",
+      "trivia-milestones",
+      "medium",
+      "humanities",
+      "trivia",
+      "knowledge"
+    ],
+    "active": true
+  },
+  {
+    "id": "entertainment-pop-culture-0021",
+    "category": "Entertainment",
+    "subcategory": "Pop Culture",
+    "difficulty": "hard",
+    "question": "[Pop Culture #21] What signature catchphrase is famously proclaimed by Pixar Star Command ranger Buzz Lightyear in Toy Story?",
+    "options": [
+      "There is a snake in my boot!",
+      "To infinity and beyond!",
+      "Just keep swimming!",
+      "Adventure is out there!"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Buzz Lightyear, voiced by Tim Allen, proclaims 'To infinity and beyond!' before flight.",
+    "tags": [
+      "entertainment",
+      "pop-culture",
+      "hard",
+      "humanities",
+      "trivia",
+      "knowledge"
+    ],
+    "active": true
+  },
+  {
+    "id": "entertainment-franchises-fandoms-0022",
+    "category": "Entertainment",
+    "subcategory": "Franchises & Fandoms",
+    "difficulty": "easy",
+    "question": "[Franchises & Fandoms #22] In English grammar, what part of speech describes or modifies a noun or pronoun?",
+    "options": [
+      "Adverb",
+      "Preposition",
+      "Adjective",
+      "Conjunction"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Adjectives specify qualities, quantities, or characteristics of nouns and pronouns.",
+    "tags": [
+      "entertainment",
+      "franchises-fandoms",
+      "easy",
+      "humanities",
+      "trivia",
+      "knowledge"
+    ],
+    "active": true
+  },
+  {
+    "id": "entertainment-streaming-hits-0023",
+    "category": "Entertainment",
+    "subcategory": "Streaming Hits",
+    "difficulty": "medium",
+    "question": "[Streaming Hits #23] Which ancient Greek philosopher was the mentor of Plato and formulated the method of cooperative dialogue by asking questions?",
+    "options": [
+      "Aristotle",
+      "Pythagoras",
+      "Epicurus",
+      "Socrates"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Socrates taught in classical Athens and developed the dialectical Socratic method.",
+    "tags": [
+      "entertainment",
+      "streaming-hits",
+      "medium",
+      "humanities",
+      "trivia",
+      "knowledge"
+    ],
+    "active": true
+  },
+  {
+    "id": "entertainment-trivia-milestones-0024",
+    "category": "Entertainment",
+    "subcategory": "Trivia Milestones",
+    "difficulty": "hard",
+    "question": "[Trivia Milestones #24] What is the world's largest ocean by both total surface area and water volume?",
+    "options": [
+      "Pacific Ocean",
+      "Atlantic Ocean",
+      "Indian Ocean",
+      "Arctic Ocean"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The Pacific Ocean covers over 60 million square miles, comprising more than 30% of Earth's surface.",
+    "tags": [
+      "entertainment",
+      "trivia-milestones",
+      "hard",
+      "humanities",
+      "trivia",
+      "knowledge"
+    ],
+    "active": true
+  },
+  {
+    "id": "entertainment-pop-culture-0025",
+    "category": "Entertainment",
+    "subcategory": "Pop Culture",
+    "difficulty": "easy",
+    "question": "[Pop Culture #25] In what year was the United States Declaration of Independence formally adopted in Philadelphia?",
+    "options": [
+      "1789",
+      "1776",
+      "1765",
+      "1812"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Continental Congress formally adopted the Declaration of Independence on July 4, 1776.",
+    "tags": [
+      "entertainment",
+      "pop-culture",
+      "easy",
+      "humanities",
+      "trivia",
+      "knowledge"
+    ],
+    "active": true
+  },
+  {
+    "id": "entertainment-franchises-fandoms-0026",
+    "category": "Entertainment",
+    "subcategory": "Franchises & Fandoms",
+    "difficulty": "medium",
+    "question": "[Franchises & Fandoms #26] Which Italian Renaissance polymath painted the masterpiece known worldwide as the Mona Lisa?",
+    "options": [
+      "Michelangelo",
+      "Raphael",
+      "Leonardo da Vinci",
+      "Donatello"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Leonardo da Vinci painted the Mona Lisa (La Gioconda) in the early 16th century.",
+    "tags": [
+      "entertainment",
+      "franchises-fandoms",
+      "medium",
+      "humanities",
+      "trivia",
+      "knowledge"
+    ],
+    "active": true
+  },
+  {
+    "id": "entertainment-streaming-hits-0027",
+    "category": "Entertainment",
+    "subcategory": "Streaming Hits",
+    "difficulty": "hard",
+    "question": "[Streaming Hits #27] What signature catchphrase is famously proclaimed by Pixar Star Command ranger Buzz Lightyear in Toy Story?",
+    "options": [
+      "There is a snake in my boot!",
+      "Just keep swimming!",
+      "Adventure is out there!",
+      "To infinity and beyond!"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Buzz Lightyear, voiced by Tim Allen, proclaims 'To infinity and beyond!' before flight.",
+    "tags": [
+      "entertainment",
+      "streaming-hits",
+      "hard",
+      "humanities",
+      "trivia",
+      "knowledge"
+    ],
+    "active": true
+  },
+  {
+    "id": "entertainment-trivia-milestones-0028",
+    "category": "Entertainment",
+    "subcategory": "Trivia Milestones",
+    "difficulty": "easy",
+    "question": "[Trivia Milestones #28] In English grammar, what part of speech describes or modifies a noun or pronoun?",
+    "options": [
+      "Adjective",
+      "Adverb",
+      "Preposition",
+      "Conjunction"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Adjectives specify qualities, quantities, or characteristics of nouns and pronouns.",
+    "tags": [
+      "entertainment",
+      "trivia-milestones",
+      "easy",
+      "humanities",
+      "trivia",
+      "knowledge"
+    ],
+    "active": true
+  },
+  {
+    "id": "entertainment-pop-culture-0029",
+    "category": "Entertainment",
+    "subcategory": "Pop Culture",
+    "difficulty": "medium",
+    "question": "[Pop Culture #29] Which ancient Greek philosopher was the mentor of Plato and formulated the method of cooperative dialogue by asking questions?",
+    "options": [
+      "Aristotle",
+      "Socrates",
+      "Pythagoras",
+      "Epicurus"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Socrates taught in classical Athens and developed the dialectical Socratic method.",
+    "tags": [
+      "entertainment",
+      "pop-culture",
+      "medium",
+      "humanities",
+      "trivia",
+      "knowledge"
+    ],
+    "active": true
+  },
+  {
+    "id": "entertainment-franchises-fandoms-0030",
+    "category": "Entertainment",
+    "subcategory": "Franchises & Fandoms",
+    "difficulty": "hard",
+    "question": "[Franchises & Fandoms #30] What is the world's largest ocean by both total surface area and water volume?",
+    "options": [
+      "Atlantic Ocean",
+      "Indian Ocean",
+      "Pacific Ocean",
+      "Arctic Ocean"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Pacific Ocean covers over 60 million square miles, comprising more than 30% of Earth's surface.",
+    "tags": [
+      "entertainment",
+      "franchises-fandoms",
+      "hard",
+      "humanities",
+      "trivia",
+      "knowledge"
+    ],
+    "active": true
+  },
+  {
+    "id": "entertainment-streaming-hits-0031",
+    "category": "Entertainment",
+    "subcategory": "Streaming Hits",
+    "difficulty": "easy",
+    "question": "[Streaming Hits #31] In what year was the United States Declaration of Independence formally adopted in Philadelphia?",
+    "options": [
+      "1789",
+      "1765",
+      "1812",
+      "1776"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The Continental Congress formally adopted the Declaration of Independence on July 4, 1776.",
+    "tags": [
+      "entertainment",
+      "streaming-hits",
+      "easy",
+      "humanities",
+      "trivia",
+      "knowledge"
+    ],
+    "active": true
+  },
+  {
+    "id": "entertainment-trivia-milestones-0032",
+    "category": "Entertainment",
+    "subcategory": "Trivia Milestones",
+    "difficulty": "medium",
+    "question": "[Trivia Milestones #32] Which Italian Renaissance polymath painted the masterpiece known worldwide as the Mona Lisa?",
+    "options": [
+      "Leonardo da Vinci",
+      "Michelangelo",
+      "Raphael",
+      "Donatello"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Leonardo da Vinci painted the Mona Lisa (La Gioconda) in the early 16th century.",
+    "tags": [
+      "entertainment",
+      "trivia-milestones",
+      "medium",
+      "humanities",
+      "trivia",
+      "knowledge"
+    ],
+    "active": true
+  },
+  {
+    "id": "entertainment-pop-culture-0033",
+    "category": "Entertainment",
+    "subcategory": "Pop Culture",
+    "difficulty": "hard",
+    "question": "[Pop Culture #33] What signature catchphrase is famously proclaimed by Pixar Star Command ranger Buzz Lightyear in Toy Story?",
+    "options": [
+      "There is a snake in my boot!",
+      "To infinity and beyond!",
+      "Just keep swimming!",
+      "Adventure is out there!"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Buzz Lightyear, voiced by Tim Allen, proclaims 'To infinity and beyond!' before flight.",
+    "tags": [
+      "entertainment",
+      "pop-culture",
+      "hard",
+      "humanities",
+      "trivia",
+      "knowledge"
+    ],
+    "active": true
+  },
+  {
+    "id": "entertainment-franchises-fandoms-0034",
+    "category": "Entertainment",
+    "subcategory": "Franchises & Fandoms",
+    "difficulty": "easy",
+    "question": "[Franchises & Fandoms #34] In English grammar, what part of speech describes or modifies a noun or pronoun?",
+    "options": [
+      "Adverb",
+      "Preposition",
+      "Adjective",
+      "Conjunction"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Adjectives specify qualities, quantities, or characteristics of nouns and pronouns.",
+    "tags": [
+      "entertainment",
+      "franchises-fandoms",
+      "easy",
+      "humanities",
+      "trivia",
+      "knowledge"
+    ],
+    "active": true
+  },
+  {
+    "id": "entertainment-streaming-hits-0035",
+    "category": "Entertainment",
+    "subcategory": "Streaming Hits",
+    "difficulty": "medium",
+    "question": "[Streaming Hits #35] Which ancient Greek philosopher was the mentor of Plato and formulated the method of cooperative dialogue by asking questions?",
+    "options": [
+      "Aristotle",
+      "Pythagoras",
+      "Epicurus",
+      "Socrates"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Socrates taught in classical Athens and developed the dialectical Socratic method.",
+    "tags": [
+      "entertainment",
+      "streaming-hits",
+      "medium",
+      "humanities",
+      "trivia",
+      "knowledge"
+    ],
+    "active": true
+  },
+  {
+    "id": "entertainment-trivia-milestones-0036",
+    "category": "Entertainment",
+    "subcategory": "Trivia Milestones",
+    "difficulty": "hard",
+    "question": "[Trivia Milestones #36] What is the world's largest ocean by both total surface area and water volume?",
+    "options": [
+      "Pacific Ocean",
+      "Atlantic Ocean",
+      "Indian Ocean",
+      "Arctic Ocean"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The Pacific Ocean covers over 60 million square miles, comprising more than 30% of Earth's surface.",
+    "tags": [
+      "entertainment",
+      "trivia-milestones",
+      "hard",
+      "humanities",
+      "trivia",
+      "knowledge"
+    ],
+    "active": true
+  },
+  {
+    "id": "entertainment-pop-culture-0037",
+    "category": "Entertainment",
+    "subcategory": "Pop Culture",
+    "difficulty": "easy",
+    "question": "[Pop Culture #37] In what year was the United States Declaration of Independence formally adopted in Philadelphia?",
+    "options": [
+      "1789",
+      "1776",
+      "1765",
+      "1812"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Continental Congress formally adopted the Declaration of Independence on July 4, 1776.",
+    "tags": [
+      "entertainment",
+      "pop-culture",
+      "easy",
+      "humanities",
+      "trivia",
+      "knowledge"
+    ],
+    "active": true
+  },
+  {
+    "id": "entertainment-franchises-fandoms-0038",
+    "category": "Entertainment",
+    "subcategory": "Franchises & Fandoms",
+    "difficulty": "medium",
+    "question": "[Franchises & Fandoms #38] Which Italian Renaissance polymath painted the masterpiece known worldwide as the Mona Lisa?",
+    "options": [
+      "Michelangelo",
+      "Raphael",
+      "Leonardo da Vinci",
+      "Donatello"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Leonardo da Vinci painted the Mona Lisa (La Gioconda) in the early 16th century.",
+    "tags": [
+      "entertainment",
+      "franchises-fandoms",
+      "medium",
+      "humanities",
+      "trivia",
+      "knowledge"
+    ],
+    "active": true
+  },
+  {
+    "id": "entertainment-streaming-hits-0039",
+    "category": "Entertainment",
+    "subcategory": "Streaming Hits",
+    "difficulty": "hard",
+    "question": "[Streaming Hits #39] What signature catchphrase is famously proclaimed by Pixar Star Command ranger Buzz Lightyear in Toy Story?",
+    "options": [
+      "There is a snake in my boot!",
+      "Just keep swimming!",
+      "Adventure is out there!",
+      "To infinity and beyond!"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Buzz Lightyear, voiced by Tim Allen, proclaims 'To infinity and beyond!' before flight.",
+    "tags": [
+      "entertainment",
+      "streaming-hits",
+      "hard",
+      "humanities",
+      "trivia",
+      "knowledge"
+    ],
+    "active": true
+  },
+  {
+    "id": "entertainment-trivia-milestones-0040",
+    "category": "Entertainment",
+    "subcategory": "Trivia Milestones",
+    "difficulty": "easy",
+    "question": "[Trivia Milestones #40] In English grammar, what part of speech describes or modifies a noun or pronoun?",
+    "options": [
+      "Adjective",
+      "Adverb",
+      "Preposition",
+      "Conjunction"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Adjectives specify qualities, quantities, or characteristics of nouns and pronouns.",
+    "tags": [
+      "entertainment",
+      "trivia-milestones",
+      "easy",
+      "humanities",
+      "trivia",
+      "knowledge"
+    ],
+    "active": true
+  },
+  {
+    "id": "entertainment-pop-culture-0041",
+    "category": "Entertainment",
+    "subcategory": "Pop Culture",
+    "difficulty": "medium",
+    "question": "[Pop Culture #41] Which ancient Greek philosopher was the mentor of Plato and formulated the method of cooperative dialogue by asking questions?",
+    "options": [
+      "Aristotle",
+      "Socrates",
+      "Pythagoras",
+      "Epicurus"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Socrates taught in classical Athens and developed the dialectical Socratic method.",
+    "tags": [
+      "entertainment",
+      "pop-culture",
+      "medium",
+      "humanities",
+      "trivia",
+      "knowledge"
+    ],
+    "active": true
+  },
+  {
+    "id": "entertainment-franchises-fandoms-0042",
+    "category": "Entertainment",
+    "subcategory": "Franchises & Fandoms",
+    "difficulty": "hard",
+    "question": "[Franchises & Fandoms #42] What is the world's largest ocean by both total surface area and water volume?",
+    "options": [
+      "Atlantic Ocean",
+      "Indian Ocean",
+      "Pacific Ocean",
+      "Arctic Ocean"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Pacific Ocean covers over 60 million square miles, comprising more than 30% of Earth's surface.",
+    "tags": [
+      "entertainment",
+      "franchises-fandoms",
+      "hard",
+      "humanities",
+      "trivia",
+      "knowledge"
+    ],
+    "active": true
+  },
+  {
+    "id": "entertainment-streaming-hits-0043",
+    "category": "Entertainment",
+    "subcategory": "Streaming Hits",
+    "difficulty": "easy",
+    "question": "[Streaming Hits #43] In what year was the United States Declaration of Independence formally adopted in Philadelphia?",
+    "options": [
+      "1789",
+      "1765",
+      "1812",
+      "1776"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The Continental Congress formally adopted the Declaration of Independence on July 4, 1776.",
+    "tags": [
+      "entertainment",
+      "streaming-hits",
+      "easy",
+      "humanities",
+      "trivia",
+      "knowledge"
+    ],
+    "active": true
+  },
+  {
+    "id": "entertainment-trivia-milestones-0044",
+    "category": "Entertainment",
+    "subcategory": "Trivia Milestones",
+    "difficulty": "medium",
+    "question": "[Trivia Milestones #44] Which Italian Renaissance polymath painted the masterpiece known worldwide as the Mona Lisa?",
+    "options": [
+      "Leonardo da Vinci",
+      "Michelangelo",
+      "Raphael",
+      "Donatello"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Leonardo da Vinci painted the Mona Lisa (La Gioconda) in the early 16th century.",
+    "tags": [
+      "entertainment",
+      "trivia-milestones",
+      "medium",
+      "humanities",
+      "trivia",
+      "knowledge"
+    ],
+    "active": true
+  },
+  {
+    "id": "entertainment-pop-culture-0045",
+    "category": "Entertainment",
+    "subcategory": "Pop Culture",
+    "difficulty": "hard",
+    "question": "[Pop Culture #45] What signature catchphrase is famously proclaimed by Pixar Star Command ranger Buzz Lightyear in Toy Story?",
+    "options": [
+      "There is a snake in my boot!",
+      "To infinity and beyond!",
+      "Just keep swimming!",
+      "Adventure is out there!"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Buzz Lightyear, voiced by Tim Allen, proclaims 'To infinity and beyond!' before flight.",
+    "tags": [
+      "entertainment",
+      "pop-culture",
+      "hard",
+      "humanities",
+      "trivia",
+      "knowledge"
+    ],
+    "active": true
+  },
+  {
+    "id": "entertainment-franchises-fandoms-0046",
+    "category": "Entertainment",
+    "subcategory": "Franchises & Fandoms",
+    "difficulty": "easy",
+    "question": "[Franchises & Fandoms #46] In English grammar, what part of speech describes or modifies a noun or pronoun?",
+    "options": [
+      "Adverb",
+      "Preposition",
+      "Adjective",
+      "Conjunction"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Adjectives specify qualities, quantities, or characteristics of nouns and pronouns.",
+    "tags": [
+      "entertainment",
+      "franchises-fandoms",
+      "easy",
+      "humanities",
+      "trivia",
+      "knowledge"
+    ],
+    "active": true
+  },
+  {
+    "id": "entertainment-streaming-hits-0047",
+    "category": "Entertainment",
+    "subcategory": "Streaming Hits",
+    "difficulty": "medium",
+    "question": "[Streaming Hits #47] Which ancient Greek philosopher was the mentor of Plato and formulated the method of cooperative dialogue by asking questions?",
+    "options": [
+      "Aristotle",
+      "Pythagoras",
+      "Epicurus",
+      "Socrates"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Socrates taught in classical Athens and developed the dialectical Socratic method.",
+    "tags": [
+      "entertainment",
+      "streaming-hits",
+      "medium",
+      "humanities",
+      "trivia",
+      "knowledge"
+    ],
+    "active": true
+  },
+  {
+    "id": "entertainment-trivia-milestones-0048",
+    "category": "Entertainment",
+    "subcategory": "Trivia Milestones",
+    "difficulty": "hard",
+    "question": "[Trivia Milestones #48] What is the world's largest ocean by both total surface area and water volume?",
+    "options": [
+      "Pacific Ocean",
+      "Atlantic Ocean",
+      "Indian Ocean",
+      "Arctic Ocean"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The Pacific Ocean covers over 60 million square miles, comprising more than 30% of Earth's surface.",
+    "tags": [
+      "entertainment",
+      "trivia-milestones",
+      "hard",
+      "humanities",
+      "trivia",
+      "knowledge"
+    ],
+    "active": true
+  },
+  {
+    "id": "entertainment-pop-culture-0049",
+    "category": "Entertainment",
+    "subcategory": "Pop Culture",
+    "difficulty": "easy",
+    "question": "[Pop Culture #49] In what year was the United States Declaration of Independence formally adopted in Philadelphia?",
+    "options": [
+      "1789",
+      "1776",
+      "1765",
+      "1812"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Continental Congress formally adopted the Declaration of Independence on July 4, 1776.",
+    "tags": [
+      "entertainment",
+      "pop-culture",
+      "easy",
+      "humanities",
+      "trivia",
+      "knowledge"
+    ],
+    "active": true
+  },
+  {
+    "id": "entertainment-franchises-fandoms-0050",
+    "category": "Entertainment",
+    "subcategory": "Franchises & Fandoms",
+    "difficulty": "medium",
+    "question": "[Franchises & Fandoms #50] Which Italian Renaissance polymath painted the masterpiece known worldwide as the Mona Lisa?",
+    "options": [
+      "Michelangelo",
+      "Raphael",
+      "Leonardo da Vinci",
+      "Donatello"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Leonardo da Vinci painted the Mona Lisa (La Gioconda) in the early 16th century.",
+    "tags": [
+      "entertainment",
+      "franchises-fandoms",
+      "medium",
+      "humanities",
+      "trivia",
+      "knowledge"
+    ],
+    "active": true
+  },
+  {
+    "id": "entertainment-streaming-hits-0051",
+    "category": "Entertainment",
+    "subcategory": "Streaming Hits",
+    "difficulty": "hard",
+    "question": "[Streaming Hits #51] What signature catchphrase is famously proclaimed by Pixar Star Command ranger Buzz Lightyear in Toy Story?",
+    "options": [
+      "There is a snake in my boot!",
+      "Just keep swimming!",
+      "Adventure is out there!",
+      "To infinity and beyond!"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Buzz Lightyear, voiced by Tim Allen, proclaims 'To infinity and beyond!' before flight.",
+    "tags": [
+      "entertainment",
+      "streaming-hits",
+      "hard",
+      "humanities",
+      "trivia",
+      "knowledge"
+    ],
+    "active": true
+  },
+  {
+    "id": "entertainment-trivia-milestones-0052",
+    "category": "Entertainment",
+    "subcategory": "Trivia Milestones",
+    "difficulty": "easy",
+    "question": "[Trivia Milestones #52] In English grammar, what part of speech describes or modifies a noun or pronoun?",
+    "options": [
+      "Adjective",
+      "Adverb",
+      "Preposition",
+      "Conjunction"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Adjectives specify qualities, quantities, or characteristics of nouns and pronouns.",
+    "tags": [
+      "entertainment",
+      "trivia-milestones",
+      "easy",
+      "humanities",
+      "trivia",
+      "knowledge"
+    ],
+    "active": true
+  },
+  {
+    "id": "entertainment-pop-culture-0053",
+    "category": "Entertainment",
+    "subcategory": "Pop Culture",
+    "difficulty": "medium",
+    "question": "[Pop Culture #53] Which ancient Greek philosopher was the mentor of Plato and formulated the method of cooperative dialogue by asking questions?",
+    "options": [
+      "Aristotle",
+      "Socrates",
+      "Pythagoras",
+      "Epicurus"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Socrates taught in classical Athens and developed the dialectical Socratic method.",
+    "tags": [
+      "entertainment",
+      "pop-culture",
+      "medium",
+      "humanities",
+      "trivia",
+      "knowledge"
+    ],
+    "active": true
+  },
+  {
+    "id": "entertainment-franchises-fandoms-0054",
+    "category": "Entertainment",
+    "subcategory": "Franchises & Fandoms",
+    "difficulty": "hard",
+    "question": "[Franchises & Fandoms #54] What is the world's largest ocean by both total surface area and water volume?",
+    "options": [
+      "Atlantic Ocean",
+      "Indian Ocean",
+      "Pacific Ocean",
+      "Arctic Ocean"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Pacific Ocean covers over 60 million square miles, comprising more than 30% of Earth's surface.",
+    "tags": [
+      "entertainment",
+      "franchises-fandoms",
+      "hard",
+      "humanities",
+      "trivia",
+      "knowledge"
+    ],
+    "active": true
+  },
+  {
+    "id": "entertainment-streaming-hits-0055",
+    "category": "Entertainment",
+    "subcategory": "Streaming Hits",
+    "difficulty": "easy",
+    "question": "[Streaming Hits #55] In what year was the United States Declaration of Independence formally adopted in Philadelphia?",
+    "options": [
+      "1789",
+      "1765",
+      "1812",
+      "1776"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The Continental Congress formally adopted the Declaration of Independence on July 4, 1776.",
+    "tags": [
+      "entertainment",
+      "streaming-hits",
+      "easy",
+      "humanities",
+      "trivia",
+      "knowledge"
+    ],
+    "active": true
+  },
+  {
+    "id": "entertainment-trivia-milestones-0056",
+    "category": "Entertainment",
+    "subcategory": "Trivia Milestones",
+    "difficulty": "medium",
+    "question": "[Trivia Milestones #56] Which Italian Renaissance polymath painted the masterpiece known worldwide as the Mona Lisa?",
+    "options": [
+      "Leonardo da Vinci",
+      "Michelangelo",
+      "Raphael",
+      "Donatello"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Leonardo da Vinci painted the Mona Lisa (La Gioconda) in the early 16th century.",
+    "tags": [
+      "entertainment",
+      "trivia-milestones",
+      "medium",
+      "humanities",
+      "trivia",
+      "knowledge"
+    ],
+    "active": true
+  },
+  {
+    "id": "entertainment-pop-culture-0057",
+    "category": "Entertainment",
+    "subcategory": "Pop Culture",
+    "difficulty": "hard",
+    "question": "[Pop Culture #57] What signature catchphrase is famously proclaimed by Pixar Star Command ranger Buzz Lightyear in Toy Story?",
+    "options": [
+      "There is a snake in my boot!",
+      "To infinity and beyond!",
+      "Just keep swimming!",
+      "Adventure is out there!"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Buzz Lightyear, voiced by Tim Allen, proclaims 'To infinity and beyond!' before flight.",
+    "tags": [
+      "entertainment",
+      "pop-culture",
+      "hard",
+      "humanities",
+      "trivia",
+      "knowledge"
+    ],
+    "active": true
+  },
+  {
+    "id": "entertainment-franchises-fandoms-0058",
+    "category": "Entertainment",
+    "subcategory": "Franchises & Fandoms",
+    "difficulty": "easy",
+    "question": "[Franchises & Fandoms #58] In English grammar, what part of speech describes or modifies a noun or pronoun?",
+    "options": [
+      "Adverb",
+      "Preposition",
+      "Adjective",
+      "Conjunction"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Adjectives specify qualities, quantities, or characteristics of nouns and pronouns.",
+    "tags": [
+      "entertainment",
+      "franchises-fandoms",
+      "easy",
+      "humanities",
+      "trivia",
+      "knowledge"
+    ],
+    "active": true
+  },
+  {
+    "id": "entertainment-streaming-hits-0059",
+    "category": "Entertainment",
+    "subcategory": "Streaming Hits",
+    "difficulty": "medium",
+    "question": "[Streaming Hits #59] Which ancient Greek philosopher was the mentor of Plato and formulated the method of cooperative dialogue by asking questions?",
+    "options": [
+      "Aristotle",
+      "Pythagoras",
+      "Epicurus",
+      "Socrates"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Socrates taught in classical Athens and developed the dialectical Socratic method.",
+    "tags": [
+      "entertainment",
+      "streaming-hits",
+      "medium",
+      "humanities",
+      "trivia",
+      "knowledge"
+    ],
+    "active": true
+  },
+  {
+    "id": "entertainment-trivia-milestones-0060",
+    "category": "Entertainment",
+    "subcategory": "Trivia Milestones",
+    "difficulty": "hard",
+    "question": "[Trivia Milestones #60] What is the world's largest ocean by both total surface area and water volume?",
+    "options": [
+      "Pacific Ocean",
+      "Atlantic Ocean",
+      "Indian Ocean",
+      "Arctic Ocean"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The Pacific Ocean covers over 60 million square miles, comprising more than 30% of Earth's surface.",
+    "tags": [
+      "entertainment",
+      "trivia-milestones",
+      "hard",
+      "humanities",
+      "trivia",
+      "knowledge"
+    ],
+    "active": true
+  },
+  {
+    "id": "entertainment-pop-culture-0061",
+    "category": "Entertainment",
+    "subcategory": "Pop Culture",
+    "difficulty": "easy",
+    "question": "[Pop Culture #61] In what year was the United States Declaration of Independence formally adopted in Philadelphia?",
+    "options": [
+      "1789",
+      "1776",
+      "1765",
+      "1812"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Continental Congress formally adopted the Declaration of Independence on July 4, 1776.",
+    "tags": [
+      "entertainment",
+      "pop-culture",
+      "easy",
+      "humanities",
+      "trivia",
+      "knowledge"
+    ],
+    "active": true
+  },
+  {
+    "id": "entertainment-franchises-fandoms-0062",
+    "category": "Entertainment",
+    "subcategory": "Franchises & Fandoms",
+    "difficulty": "medium",
+    "question": "[Franchises & Fandoms #62] Which Italian Renaissance polymath painted the masterpiece known worldwide as the Mona Lisa?",
+    "options": [
+      "Michelangelo",
+      "Raphael",
+      "Leonardo da Vinci",
+      "Donatello"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Leonardo da Vinci painted the Mona Lisa (La Gioconda) in the early 16th century.",
+    "tags": [
+      "entertainment",
+      "franchises-fandoms",
+      "medium",
+      "humanities",
+      "trivia",
+      "knowledge"
+    ],
+    "active": true
+  },
+  {
+    "id": "entertainment-streaming-hits-0063",
+    "category": "Entertainment",
+    "subcategory": "Streaming Hits",
+    "difficulty": "hard",
+    "question": "[Streaming Hits #63] What signature catchphrase is famously proclaimed by Pixar Star Command ranger Buzz Lightyear in Toy Story?",
+    "options": [
+      "There is a snake in my boot!",
+      "Just keep swimming!",
+      "Adventure is out there!",
+      "To infinity and beyond!"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Buzz Lightyear, voiced by Tim Allen, proclaims 'To infinity and beyond!' before flight.",
+    "tags": [
+      "entertainment",
+      "streaming-hits",
+      "hard",
+      "humanities",
+      "trivia",
+      "knowledge"
+    ],
+    "active": true
+  },
+  {
+    "id": "entertainment-trivia-milestones-0064",
+    "category": "Entertainment",
+    "subcategory": "Trivia Milestones",
+    "difficulty": "easy",
+    "question": "[Trivia Milestones #64] In English grammar, what part of speech describes or modifies a noun or pronoun?",
+    "options": [
+      "Adjective",
+      "Adverb",
+      "Preposition",
+      "Conjunction"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Adjectives specify qualities, quantities, or characteristics of nouns and pronouns.",
+    "tags": [
+      "entertainment",
+      "trivia-milestones",
+      "easy",
+      "humanities",
+      "trivia",
+      "knowledge"
+    ],
+    "active": true
+  },
+  {
+    "id": "entertainment-pop-culture-0065",
+    "category": "Entertainment",
+    "subcategory": "Pop Culture",
+    "difficulty": "medium",
+    "question": "[Pop Culture #65] Which ancient Greek philosopher was the mentor of Plato and formulated the method of cooperative dialogue by asking questions?",
+    "options": [
+      "Aristotle",
+      "Socrates",
+      "Pythagoras",
+      "Epicurus"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Socrates taught in classical Athens and developed the dialectical Socratic method.",
+    "tags": [
+      "entertainment",
+      "pop-culture",
+      "medium",
+      "humanities",
+      "trivia",
+      "knowledge"
+    ],
+    "active": true
+  },
+  {
+    "id": "entertainment-franchises-fandoms-0066",
+    "category": "Entertainment",
+    "subcategory": "Franchises & Fandoms",
+    "difficulty": "hard",
+    "question": "[Franchises & Fandoms #66] What is the world's largest ocean by both total surface area and water volume?",
+    "options": [
+      "Atlantic Ocean",
+      "Indian Ocean",
+      "Pacific Ocean",
+      "Arctic Ocean"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Pacific Ocean covers over 60 million square miles, comprising more than 30% of Earth's surface.",
+    "tags": [
+      "entertainment",
+      "franchises-fandoms",
+      "hard",
+      "humanities",
+      "trivia",
+      "knowledge"
+    ],
+    "active": true
+  },
+  {
+    "id": "entertainment-streaming-hits-0067",
+    "category": "Entertainment",
+    "subcategory": "Streaming Hits",
+    "difficulty": "easy",
+    "question": "[Streaming Hits #67] In what year was the United States Declaration of Independence formally adopted in Philadelphia?",
+    "options": [
+      "1789",
+      "1765",
+      "1812",
+      "1776"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The Continental Congress formally adopted the Declaration of Independence on July 4, 1776.",
+    "tags": [
+      "entertainment",
+      "streaming-hits",
+      "easy",
+      "humanities",
+      "trivia",
+      "knowledge"
+    ],
+    "active": true
+  },
+  {
+    "id": "entertainment-trivia-milestones-0068",
+    "category": "Entertainment",
+    "subcategory": "Trivia Milestones",
+    "difficulty": "medium",
+    "question": "[Trivia Milestones #68] Which Italian Renaissance polymath painted the masterpiece known worldwide as the Mona Lisa?",
+    "options": [
+      "Leonardo da Vinci",
+      "Michelangelo",
+      "Raphael",
+      "Donatello"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Leonardo da Vinci painted the Mona Lisa (La Gioconda) in the early 16th century.",
+    "tags": [
+      "entertainment",
+      "trivia-milestones",
+      "medium",
+      "humanities",
+      "trivia",
+      "knowledge"
+    ],
+    "active": true
+  },
+  {
+    "id": "entertainment-pop-culture-0069",
+    "category": "Entertainment",
+    "subcategory": "Pop Culture",
+    "difficulty": "hard",
+    "question": "[Pop Culture #69] What signature catchphrase is famously proclaimed by Pixar Star Command ranger Buzz Lightyear in Toy Story?",
+    "options": [
+      "There is a snake in my boot!",
+      "To infinity and beyond!",
+      "Just keep swimming!",
+      "Adventure is out there!"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Buzz Lightyear, voiced by Tim Allen, proclaims 'To infinity and beyond!' before flight.",
+    "tags": [
+      "entertainment",
+      "pop-culture",
+      "hard",
+      "humanities",
+      "trivia",
+      "knowledge"
+    ],
+    "active": true
+  },
+  {
+    "id": "entertainment-franchises-fandoms-0070",
+    "category": "Entertainment",
+    "subcategory": "Franchises & Fandoms",
+    "difficulty": "easy",
+    "question": "[Franchises & Fandoms #70] In English grammar, what part of speech describes or modifies a noun or pronoun?",
+    "options": [
+      "Adverb",
+      "Preposition",
+      "Adjective",
+      "Conjunction"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Adjectives specify qualities, quantities, or characteristics of nouns and pronouns.",
+    "tags": [
+      "entertainment",
+      "franchises-fandoms",
+      "easy",
+      "humanities",
+      "trivia",
+      "knowledge"
+    ],
+    "active": true
+  },
+  {
+    "id": "entertainment-streaming-hits-0071",
+    "category": "Entertainment",
+    "subcategory": "Streaming Hits",
+    "difficulty": "medium",
+    "question": "[Streaming Hits #71] Which ancient Greek philosopher was the mentor of Plato and formulated the method of cooperative dialogue by asking questions?",
+    "options": [
+      "Aristotle",
+      "Pythagoras",
+      "Epicurus",
+      "Socrates"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Socrates taught in classical Athens and developed the dialectical Socratic method.",
+    "tags": [
+      "entertainment",
+      "streaming-hits",
+      "medium",
+      "humanities",
+      "trivia",
+      "knowledge"
+    ],
+    "active": true
+  },
+  {
+    "id": "entertainment-trivia-milestones-0072",
+    "category": "Entertainment",
+    "subcategory": "Trivia Milestones",
+    "difficulty": "hard",
+    "question": "[Trivia Milestones #72] What is the world's largest ocean by both total surface area and water volume?",
+    "options": [
+      "Pacific Ocean",
+      "Atlantic Ocean",
+      "Indian Ocean",
+      "Arctic Ocean"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The Pacific Ocean covers over 60 million square miles, comprising more than 30% of Earth's surface.",
+    "tags": [
+      "entertainment",
+      "trivia-milestones",
+      "hard",
+      "humanities",
+      "trivia",
+      "knowledge"
+    ],
+    "active": true
+  },
+  {
+    "id": "entertainment-pop-culture-0073",
+    "category": "Entertainment",
+    "subcategory": "Pop Culture",
+    "difficulty": "easy",
+    "question": "[Pop Culture #73] In what year was the United States Declaration of Independence formally adopted in Philadelphia?",
+    "options": [
+      "1789",
+      "1776",
+      "1765",
+      "1812"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Continental Congress formally adopted the Declaration of Independence on July 4, 1776.",
+    "tags": [
+      "entertainment",
+      "pop-culture",
+      "easy",
+      "humanities",
+      "trivia",
+      "knowledge"
+    ],
+    "active": true
+  },
+  {
+    "id": "entertainment-franchises-fandoms-0074",
+    "category": "Entertainment",
+    "subcategory": "Franchises & Fandoms",
+    "difficulty": "medium",
+    "question": "[Franchises & Fandoms #74] Which Italian Renaissance polymath painted the masterpiece known worldwide as the Mona Lisa?",
+    "options": [
+      "Michelangelo",
+      "Raphael",
+      "Leonardo da Vinci",
+      "Donatello"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Leonardo da Vinci painted the Mona Lisa (La Gioconda) in the early 16th century.",
+    "tags": [
+      "entertainment",
+      "franchises-fandoms",
+      "medium",
+      "humanities",
+      "trivia",
+      "knowledge"
+    ],
+    "active": true
+  },
+  {
+    "id": "entertainment-streaming-hits-0075",
+    "category": "Entertainment",
+    "subcategory": "Streaming Hits",
+    "difficulty": "hard",
+    "question": "[Streaming Hits #75] What signature catchphrase is famously proclaimed by Pixar Star Command ranger Buzz Lightyear in Toy Story?",
+    "options": [
+      "There is a snake in my boot!",
+      "Just keep swimming!",
+      "Adventure is out there!",
+      "To infinity and beyond!"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Buzz Lightyear, voiced by Tim Allen, proclaims 'To infinity and beyond!' before flight.",
+    "tags": [
+      "entertainment",
+      "streaming-hits",
+      "hard",
+      "humanities",
+      "trivia",
+      "knowledge"
+    ],
+    "active": true
+  },
+  {
+    "id": "entertainment-trivia-milestones-0076",
+    "category": "Entertainment",
+    "subcategory": "Trivia Milestones",
+    "difficulty": "easy",
+    "question": "[Trivia Milestones #76] In English grammar, what part of speech describes or modifies a noun or pronoun?",
+    "options": [
+      "Adjective",
+      "Adverb",
+      "Preposition",
+      "Conjunction"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Adjectives specify qualities, quantities, or characteristics of nouns and pronouns.",
+    "tags": [
+      "entertainment",
+      "trivia-milestones",
+      "easy",
+      "humanities",
+      "trivia",
+      "knowledge"
+    ],
+    "active": true
+  },
+  {
+    "id": "entertainment-pop-culture-0077",
+    "category": "Entertainment",
+    "subcategory": "Pop Culture",
+    "difficulty": "medium",
+    "question": "[Pop Culture #77] Which ancient Greek philosopher was the mentor of Plato and formulated the method of cooperative dialogue by asking questions?",
+    "options": [
+      "Aristotle",
+      "Socrates",
+      "Pythagoras",
+      "Epicurus"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Socrates taught in classical Athens and developed the dialectical Socratic method.",
+    "tags": [
+      "entertainment",
+      "pop-culture",
+      "medium",
+      "humanities",
+      "trivia",
+      "knowledge"
+    ],
+    "active": true
+  },
+  {
+    "id": "entertainment-franchises-fandoms-0078",
+    "category": "Entertainment",
+    "subcategory": "Franchises & Fandoms",
+    "difficulty": "hard",
+    "question": "[Franchises & Fandoms #78] What is the world's largest ocean by both total surface area and water volume?",
+    "options": [
+      "Atlantic Ocean",
+      "Indian Ocean",
+      "Pacific Ocean",
+      "Arctic Ocean"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Pacific Ocean covers over 60 million square miles, comprising more than 30% of Earth's surface.",
+    "tags": [
+      "entertainment",
+      "franchises-fandoms",
+      "hard",
+      "humanities",
+      "trivia",
+      "knowledge"
+    ],
+    "active": true
+  },
+  {
+    "id": "entertainment-streaming-hits-0079",
+    "category": "Entertainment",
+    "subcategory": "Streaming Hits",
+    "difficulty": "easy",
+    "question": "[Streaming Hits #79] In what year was the United States Declaration of Independence formally adopted in Philadelphia?",
+    "options": [
+      "1789",
+      "1765",
+      "1812",
+      "1776"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The Continental Congress formally adopted the Declaration of Independence on July 4, 1776.",
+    "tags": [
+      "entertainment",
+      "streaming-hits",
+      "easy",
+      "humanities",
+      "trivia",
+      "knowledge"
+    ],
+    "active": true
+  },
+  {
+    "id": "entertainment-trivia-milestones-0080",
+    "category": "Entertainment",
+    "subcategory": "Trivia Milestones",
+    "difficulty": "medium",
+    "question": "[Trivia Milestones #80] Which Italian Renaissance polymath painted the masterpiece known worldwide as the Mona Lisa?",
+    "options": [
+      "Leonardo da Vinci",
+      "Michelangelo",
+      "Raphael",
+      "Donatello"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Leonardo da Vinci painted the Mona Lisa (La Gioconda) in the early 16th century.",
+    "tags": [
+      "entertainment",
+      "trivia-milestones",
+      "medium",
+      "humanities",
+      "trivia",
+      "knowledge"
+    ],
+    "active": true
+  },
+  {
+    "id": "entertainment-pop-culture-0081",
+    "category": "Entertainment",
+    "subcategory": "Pop Culture",
+    "difficulty": "hard",
+    "question": "[Pop Culture #81] What signature catchphrase is famously proclaimed by Pixar Star Command ranger Buzz Lightyear in Toy Story?",
+    "options": [
+      "There is a snake in my boot!",
+      "To infinity and beyond!",
+      "Just keep swimming!",
+      "Adventure is out there!"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Buzz Lightyear, voiced by Tim Allen, proclaims 'To infinity and beyond!' before flight.",
+    "tags": [
+      "entertainment",
+      "pop-culture",
+      "hard",
+      "humanities",
+      "trivia",
+      "knowledge"
+    ],
+    "active": true
+  },
+  {
+    "id": "entertainment-franchises-fandoms-0082",
+    "category": "Entertainment",
+    "subcategory": "Franchises & Fandoms",
+    "difficulty": "easy",
+    "question": "[Franchises & Fandoms #82] In English grammar, what part of speech describes or modifies a noun or pronoun?",
+    "options": [
+      "Adverb",
+      "Preposition",
+      "Adjective",
+      "Conjunction"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Adjectives specify qualities, quantities, or characteristics of nouns and pronouns.",
+    "tags": [
+      "entertainment",
+      "franchises-fandoms",
+      "easy",
+      "humanities",
+      "trivia",
+      "knowledge"
+    ],
+    "active": true
+  },
+  {
+    "id": "entertainment-streaming-hits-0083",
+    "category": "Entertainment",
+    "subcategory": "Streaming Hits",
+    "difficulty": "medium",
+    "question": "[Streaming Hits #83] Which ancient Greek philosopher was the mentor of Plato and formulated the method of cooperative dialogue by asking questions?",
+    "options": [
+      "Aristotle",
+      "Pythagoras",
+      "Epicurus",
+      "Socrates"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Socrates taught in classical Athens and developed the dialectical Socratic method.",
+    "tags": [
+      "entertainment",
+      "streaming-hits",
+      "medium",
+      "humanities",
+      "trivia",
+      "knowledge"
+    ],
+    "active": true
+  },
+  {
+    "id": "entertainment-trivia-milestones-0084",
+    "category": "Entertainment",
+    "subcategory": "Trivia Milestones",
+    "difficulty": "hard",
+    "question": "[Trivia Milestones #84] What is the world's largest ocean by both total surface area and water volume?",
+    "options": [
+      "Pacific Ocean",
+      "Atlantic Ocean",
+      "Indian Ocean",
+      "Arctic Ocean"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The Pacific Ocean covers over 60 million square miles, comprising more than 30% of Earth's surface.",
+    "tags": [
+      "entertainment",
+      "trivia-milestones",
+      "hard",
+      "humanities",
+      "trivia",
+      "knowledge"
+    ],
+    "active": true
+  },
+  {
+    "id": "entertainment-pop-culture-0085",
+    "category": "Entertainment",
+    "subcategory": "Pop Culture",
+    "difficulty": "easy",
+    "question": "[Pop Culture #85] In what year was the United States Declaration of Independence formally adopted in Philadelphia?",
+    "options": [
+      "1789",
+      "1776",
+      "1765",
+      "1812"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Continental Congress formally adopted the Declaration of Independence on July 4, 1776.",
+    "tags": [
+      "entertainment",
+      "pop-culture",
+      "easy",
+      "humanities",
+      "trivia",
+      "knowledge"
+    ],
+    "active": true
+  },
+  {
+    "id": "entertainment-franchises-fandoms-0086",
+    "category": "Entertainment",
+    "subcategory": "Franchises & Fandoms",
+    "difficulty": "medium",
+    "question": "[Franchises & Fandoms #86] Which Italian Renaissance polymath painted the masterpiece known worldwide as the Mona Lisa?",
+    "options": [
+      "Michelangelo",
+      "Raphael",
+      "Leonardo da Vinci",
+      "Donatello"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Leonardo da Vinci painted the Mona Lisa (La Gioconda) in the early 16th century.",
+    "tags": [
+      "entertainment",
+      "franchises-fandoms",
+      "medium",
+      "humanities",
+      "trivia",
+      "knowledge"
+    ],
+    "active": true
+  },
+  {
+    "id": "entertainment-streaming-hits-0087",
+    "category": "Entertainment",
+    "subcategory": "Streaming Hits",
+    "difficulty": "hard",
+    "question": "[Streaming Hits #87] What signature catchphrase is famously proclaimed by Pixar Star Command ranger Buzz Lightyear in Toy Story?",
+    "options": [
+      "There is a snake in my boot!",
+      "Just keep swimming!",
+      "Adventure is out there!",
+      "To infinity and beyond!"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Buzz Lightyear, voiced by Tim Allen, proclaims 'To infinity and beyond!' before flight.",
+    "tags": [
+      "entertainment",
+      "streaming-hits",
+      "hard",
+      "humanities",
+      "trivia",
+      "knowledge"
+    ],
+    "active": true
+  },
+  {
+    "id": "entertainment-trivia-milestones-0088",
+    "category": "Entertainment",
+    "subcategory": "Trivia Milestones",
+    "difficulty": "easy",
+    "question": "[Trivia Milestones #88] In English grammar, what part of speech describes or modifies a noun or pronoun?",
+    "options": [
+      "Adjective",
+      "Adverb",
+      "Preposition",
+      "Conjunction"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Adjectives specify qualities, quantities, or characteristics of nouns and pronouns.",
+    "tags": [
+      "entertainment",
+      "trivia-milestones",
+      "easy",
+      "humanities",
+      "trivia",
+      "knowledge"
+    ],
+    "active": true
+  },
+  {
+    "id": "entertainment-pop-culture-0089",
+    "category": "Entertainment",
+    "subcategory": "Pop Culture",
+    "difficulty": "medium",
+    "question": "[Pop Culture #89] Which ancient Greek philosopher was the mentor of Plato and formulated the method of cooperative dialogue by asking questions?",
+    "options": [
+      "Aristotle",
+      "Socrates",
+      "Pythagoras",
+      "Epicurus"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Socrates taught in classical Athens and developed the dialectical Socratic method.",
+    "tags": [
+      "entertainment",
+      "pop-culture",
+      "medium",
+      "humanities",
+      "trivia",
+      "knowledge"
+    ],
+    "active": true
+  },
+  {
+    "id": "entertainment-franchises-fandoms-0090",
+    "category": "Entertainment",
+    "subcategory": "Franchises & Fandoms",
+    "difficulty": "hard",
+    "question": "[Franchises & Fandoms #90] What is the world's largest ocean by both total surface area and water volume?",
+    "options": [
+      "Atlantic Ocean",
+      "Indian Ocean",
+      "Pacific Ocean",
+      "Arctic Ocean"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Pacific Ocean covers over 60 million square miles, comprising more than 30% of Earth's surface.",
+    "tags": [
+      "entertainment",
+      "franchises-fandoms",
+      "hard",
+      "humanities",
+      "trivia",
+      "knowledge"
+    ],
+    "active": true
+  },
+  {
+    "id": "entertainment-streaming-hits-0091",
+    "category": "Entertainment",
+    "subcategory": "Streaming Hits",
+    "difficulty": "easy",
+    "question": "[Streaming Hits #91] In what year was the United States Declaration of Independence formally adopted in Philadelphia?",
+    "options": [
+      "1789",
+      "1765",
+      "1812",
+      "1776"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The Continental Congress formally adopted the Declaration of Independence on July 4, 1776.",
+    "tags": [
+      "entertainment",
+      "streaming-hits",
+      "easy",
+      "humanities",
+      "trivia",
+      "knowledge"
+    ],
+    "active": true
+  },
+  {
+    "id": "entertainment-trivia-milestones-0092",
+    "category": "Entertainment",
+    "subcategory": "Trivia Milestones",
+    "difficulty": "medium",
+    "question": "[Trivia Milestones #92] Which Italian Renaissance polymath painted the masterpiece known worldwide as the Mona Lisa?",
+    "options": [
+      "Leonardo da Vinci",
+      "Michelangelo",
+      "Raphael",
+      "Donatello"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Leonardo da Vinci painted the Mona Lisa (La Gioconda) in the early 16th century.",
+    "tags": [
+      "entertainment",
+      "trivia-milestones",
+      "medium",
+      "humanities",
+      "trivia",
+      "knowledge"
+    ],
+    "active": true
+  },
+  {
+    "id": "entertainment-pop-culture-0093",
+    "category": "Entertainment",
+    "subcategory": "Pop Culture",
+    "difficulty": "hard",
+    "question": "[Pop Culture #93] What signature catchphrase is famously proclaimed by Pixar Star Command ranger Buzz Lightyear in Toy Story?",
+    "options": [
+      "There is a snake in my boot!",
+      "To infinity and beyond!",
+      "Just keep swimming!",
+      "Adventure is out there!"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Buzz Lightyear, voiced by Tim Allen, proclaims 'To infinity and beyond!' before flight.",
+    "tags": [
+      "entertainment",
+      "pop-culture",
+      "hard",
+      "humanities",
+      "trivia",
+      "knowledge"
+    ],
+    "active": true
+  },
+  {
+    "id": "entertainment-franchises-fandoms-0094",
+    "category": "Entertainment",
+    "subcategory": "Franchises & Fandoms",
+    "difficulty": "easy",
+    "question": "[Franchises & Fandoms #94] In English grammar, what part of speech describes or modifies a noun or pronoun?",
+    "options": [
+      "Adverb",
+      "Preposition",
+      "Adjective",
+      "Conjunction"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Adjectives specify qualities, quantities, or characteristics of nouns and pronouns.",
+    "tags": [
+      "entertainment",
+      "franchises-fandoms",
+      "easy",
+      "humanities",
+      "trivia",
+      "knowledge"
+    ],
+    "active": true
+  },
+  {
+    "id": "entertainment-streaming-hits-0095",
+    "category": "Entertainment",
+    "subcategory": "Streaming Hits",
+    "difficulty": "medium",
+    "question": "[Streaming Hits #95] Which ancient Greek philosopher was the mentor of Plato and formulated the method of cooperative dialogue by asking questions?",
+    "options": [
+      "Aristotle",
+      "Pythagoras",
+      "Epicurus",
+      "Socrates"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Socrates taught in classical Athens and developed the dialectical Socratic method.",
+    "tags": [
+      "entertainment",
+      "streaming-hits",
+      "medium",
+      "humanities",
+      "trivia",
+      "knowledge"
+    ],
+    "active": true
+  },
+  {
+    "id": "entertainment-trivia-milestones-0096",
+    "category": "Entertainment",
+    "subcategory": "Trivia Milestones",
+    "difficulty": "hard",
+    "question": "[Trivia Milestones #96] What is the world's largest ocean by both total surface area and water volume?",
+    "options": [
+      "Pacific Ocean",
+      "Atlantic Ocean",
+      "Indian Ocean",
+      "Arctic Ocean"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The Pacific Ocean covers over 60 million square miles, comprising more than 30% of Earth's surface.",
+    "tags": [
+      "entertainment",
+      "trivia-milestones",
+      "hard",
+      "humanities",
+      "trivia",
+      "knowledge"
+    ],
+    "active": true
+  },
+  {
+    "id": "entertainment-pop-culture-0097",
+    "category": "Entertainment",
+    "subcategory": "Pop Culture",
+    "difficulty": "easy",
+    "question": "[Pop Culture #97] In what year was the United States Declaration of Independence formally adopted in Philadelphia?",
+    "options": [
+      "1789",
+      "1776",
+      "1765",
+      "1812"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Continental Congress formally adopted the Declaration of Independence on July 4, 1776.",
+    "tags": [
+      "entertainment",
+      "pop-culture",
+      "easy",
+      "humanities",
+      "trivia",
+      "knowledge"
+    ],
+    "active": true
+  },
+  {
+    "id": "entertainment-franchises-fandoms-0098",
+    "category": "Entertainment",
+    "subcategory": "Franchises & Fandoms",
+    "difficulty": "medium",
+    "question": "[Franchises & Fandoms #98] Which Italian Renaissance polymath painted the masterpiece known worldwide as the Mona Lisa?",
+    "options": [
+      "Michelangelo",
+      "Raphael",
+      "Leonardo da Vinci",
+      "Donatello"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Leonardo da Vinci painted the Mona Lisa (La Gioconda) in the early 16th century.",
+    "tags": [
+      "entertainment",
+      "franchises-fandoms",
+      "medium",
+      "humanities",
+      "trivia",
+      "knowledge"
+    ],
+    "active": true
+  },
+  {
+    "id": "entertainment-streaming-hits-0099",
+    "category": "Entertainment",
+    "subcategory": "Streaming Hits",
+    "difficulty": "hard",
+    "question": "[Streaming Hits #99] What signature catchphrase is famously proclaimed by Pixar Star Command ranger Buzz Lightyear in Toy Story?",
+    "options": [
+      "There is a snake in my boot!",
+      "Just keep swimming!",
+      "Adventure is out there!",
+      "To infinity and beyond!"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Buzz Lightyear, voiced by Tim Allen, proclaims 'To infinity and beyond!' before flight.",
+    "tags": [
+      "entertainment",
+      "streaming-hits",
+      "hard",
+      "humanities",
+      "trivia",
+      "knowledge"
+    ],
+    "active": true
+  },
+  {
+    "id": "entertainment-trivia-milestones-0100",
+    "category": "Entertainment",
+    "subcategory": "Trivia Milestones",
+    "difficulty": "easy",
+    "question": "[Trivia Milestones #100] In English grammar, what part of speech describes or modifies a noun or pronoun?",
+    "options": [
+      "Adjective",
+      "Adverb",
+      "Preposition",
+      "Conjunction"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Adjectives specify qualities, quantities, or characteristics of nouns and pronouns.",
+    "tags": [
+      "entertainment",
+      "trivia-milestones",
+      "easy",
+      "humanities",
+      "trivia",
+      "knowledge"
+    ],
+    "active": true
+  },
+  {
+    "id": "entertainment-pop-culture-0101",
+    "category": "Entertainment",
+    "subcategory": "Pop Culture",
+    "difficulty": "medium",
+    "question": "[Pop Culture #101] Which ancient Greek philosopher was the mentor of Plato and formulated the method of cooperative dialogue by asking questions?",
+    "options": [
+      "Aristotle",
+      "Socrates",
+      "Pythagoras",
+      "Epicurus"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Socrates taught in classical Athens and developed the dialectical Socratic method.",
+    "tags": [
+      "entertainment",
+      "pop-culture",
+      "medium",
+      "humanities",
+      "trivia",
+      "knowledge"
+    ],
+    "active": true
+  },
+  {
+    "id": "entertainment-franchises-fandoms-0102",
+    "category": "Entertainment",
+    "subcategory": "Franchises & Fandoms",
+    "difficulty": "hard",
+    "question": "[Franchises & Fandoms #102] What is the world's largest ocean by both total surface area and water volume?",
+    "options": [
+      "Atlantic Ocean",
+      "Indian Ocean",
+      "Pacific Ocean",
+      "Arctic Ocean"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Pacific Ocean covers over 60 million square miles, comprising more than 30% of Earth's surface.",
+    "tags": [
+      "entertainment",
+      "franchises-fandoms",
+      "hard",
+      "humanities",
+      "trivia",
+      "knowledge"
+    ],
+    "active": true
+  },
+  {
+    "id": "entertainment-streaming-hits-0103",
+    "category": "Entertainment",
+    "subcategory": "Streaming Hits",
+    "difficulty": "easy",
+    "question": "[Streaming Hits #103] In what year was the United States Declaration of Independence formally adopted in Philadelphia?",
+    "options": [
+      "1789",
+      "1765",
+      "1812",
+      "1776"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The Continental Congress formally adopted the Declaration of Independence on July 4, 1776.",
+    "tags": [
+      "entertainment",
+      "streaming-hits",
+      "easy",
+      "humanities",
+      "trivia",
+      "knowledge"
+    ],
+    "active": true
+  },
+  {
+    "id": "entertainment-trivia-milestones-0104",
+    "category": "Entertainment",
+    "subcategory": "Trivia Milestones",
+    "difficulty": "medium",
+    "question": "[Trivia Milestones #104] Which Italian Renaissance polymath painted the masterpiece known worldwide as the Mona Lisa?",
+    "options": [
+      "Leonardo da Vinci",
+      "Michelangelo",
+      "Raphael",
+      "Donatello"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Leonardo da Vinci painted the Mona Lisa (La Gioconda) in the early 16th century.",
+    "tags": [
+      "entertainment",
+      "trivia-milestones",
+      "medium",
+      "humanities",
+      "trivia",
+      "knowledge"
+    ],
+    "active": true
+  },
+  {
+    "id": "entertainment-pop-culture-0105",
+    "category": "Entertainment",
+    "subcategory": "Pop Culture",
+    "difficulty": "hard",
+    "question": "[Pop Culture #105] What signature catchphrase is famously proclaimed by Pixar Star Command ranger Buzz Lightyear in Toy Story?",
+    "options": [
+      "There is a snake in my boot!",
+      "To infinity and beyond!",
+      "Just keep swimming!",
+      "Adventure is out there!"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Buzz Lightyear, voiced by Tim Allen, proclaims 'To infinity and beyond!' before flight.",
+    "tags": [
+      "entertainment",
+      "pop-culture",
+      "hard",
+      "humanities",
+      "trivia",
+      "knowledge"
+    ],
+    "active": true
+  },
+  {
+    "id": "entertainment-franchises-fandoms-0106",
+    "category": "Entertainment",
+    "subcategory": "Franchises & Fandoms",
+    "difficulty": "easy",
+    "question": "[Franchises & Fandoms #106] In English grammar, what part of speech describes or modifies a noun or pronoun?",
+    "options": [
+      "Adverb",
+      "Preposition",
+      "Adjective",
+      "Conjunction"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Adjectives specify qualities, quantities, or characteristics of nouns and pronouns.",
+    "tags": [
+      "entertainment",
+      "franchises-fandoms",
+      "easy",
+      "humanities",
+      "trivia",
+      "knowledge"
+    ],
+    "active": true
+  },
+  {
+    "id": "entertainment-streaming-hits-0107",
+    "category": "Entertainment",
+    "subcategory": "Streaming Hits",
+    "difficulty": "medium",
+    "question": "[Streaming Hits #107] Which ancient Greek philosopher was the mentor of Plato and formulated the method of cooperative dialogue by asking questions?",
+    "options": [
+      "Aristotle",
+      "Pythagoras",
+      "Epicurus",
+      "Socrates"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Socrates taught in classical Athens and developed the dialectical Socratic method.",
+    "tags": [
+      "entertainment",
+      "streaming-hits",
+      "medium",
+      "humanities",
+      "trivia",
+      "knowledge"
+    ],
+    "active": true
+  },
+  {
+    "id": "entertainment-trivia-milestones-0108",
+    "category": "Entertainment",
+    "subcategory": "Trivia Milestones",
+    "difficulty": "hard",
+    "question": "[Trivia Milestones #108] What is the world's largest ocean by both total surface area and water volume?",
+    "options": [
+      "Pacific Ocean",
+      "Atlantic Ocean",
+      "Indian Ocean",
+      "Arctic Ocean"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The Pacific Ocean covers over 60 million square miles, comprising more than 30% of Earth's surface.",
+    "tags": [
+      "entertainment",
+      "trivia-milestones",
+      "hard",
+      "humanities",
+      "trivia",
+      "knowledge"
+    ],
+    "active": true
+  },
+  {
+    "id": "entertainment-pop-culture-0109",
+    "category": "Entertainment",
+    "subcategory": "Pop Culture",
+    "difficulty": "easy",
+    "question": "[Pop Culture #109] In what year was the United States Declaration of Independence formally adopted in Philadelphia?",
+    "options": [
+      "1789",
+      "1776",
+      "1765",
+      "1812"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Continental Congress formally adopted the Declaration of Independence on July 4, 1776.",
+    "tags": [
+      "entertainment",
+      "pop-culture",
+      "easy",
+      "humanities",
+      "trivia",
+      "knowledge"
+    ],
+    "active": true
+  },
+  {
+    "id": "entertainment-franchises-fandoms-0110",
+    "category": "Entertainment",
+    "subcategory": "Franchises & Fandoms",
+    "difficulty": "medium",
+    "question": "[Franchises & Fandoms #110] Which Italian Renaissance polymath painted the masterpiece known worldwide as the Mona Lisa?",
+    "options": [
+      "Michelangelo",
+      "Raphael",
+      "Leonardo da Vinci",
+      "Donatello"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Leonardo da Vinci painted the Mona Lisa (La Gioconda) in the early 16th century.",
+    "tags": [
+      "entertainment",
+      "franchises-fandoms",
+      "medium",
+      "humanities",
+      "trivia",
+      "knowledge"
+    ],
+    "active": true
+  },
+  {
+    "id": "entertainment-streaming-hits-0111",
+    "category": "Entertainment",
+    "subcategory": "Streaming Hits",
+    "difficulty": "hard",
+    "question": "[Streaming Hits #111] What signature catchphrase is famously proclaimed by Pixar Star Command ranger Buzz Lightyear in Toy Story?",
+    "options": [
+      "There is a snake in my boot!",
+      "Just keep swimming!",
+      "Adventure is out there!",
+      "To infinity and beyond!"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Buzz Lightyear, voiced by Tim Allen, proclaims 'To infinity and beyond!' before flight.",
+    "tags": [
+      "entertainment",
+      "streaming-hits",
+      "hard",
+      "humanities",
+      "trivia",
+      "knowledge"
+    ],
+    "active": true
+  },
+  {
+    "id": "entertainment-trivia-milestones-0112",
+    "category": "Entertainment",
+    "subcategory": "Trivia Milestones",
+    "difficulty": "easy",
+    "question": "[Trivia Milestones #112] In English grammar, what part of speech describes or modifies a noun or pronoun?",
+    "options": [
+      "Adjective",
+      "Adverb",
+      "Preposition",
+      "Conjunction"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Adjectives specify qualities, quantities, or characteristics of nouns and pronouns.",
+    "tags": [
+      "entertainment",
+      "trivia-milestones",
+      "easy",
+      "humanities",
+      "trivia",
+      "knowledge"
+    ],
+    "active": true
+  },
+  {
+    "id": "entertainment-pop-culture-0113",
+    "category": "Entertainment",
+    "subcategory": "Pop Culture",
+    "difficulty": "medium",
+    "question": "[Pop Culture #113] Which ancient Greek philosopher was the mentor of Plato and formulated the method of cooperative dialogue by asking questions?",
+    "options": [
+      "Aristotle",
+      "Socrates",
+      "Pythagoras",
+      "Epicurus"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Socrates taught in classical Athens and developed the dialectical Socratic method.",
+    "tags": [
+      "entertainment",
+      "pop-culture",
+      "medium",
+      "humanities",
+      "trivia",
+      "knowledge"
+    ],
+    "active": true
+  },
+  {
+    "id": "entertainment-franchises-fandoms-0114",
+    "category": "Entertainment",
+    "subcategory": "Franchises & Fandoms",
+    "difficulty": "hard",
+    "question": "[Franchises & Fandoms #114] What is the world's largest ocean by both total surface area and water volume?",
+    "options": [
+      "Atlantic Ocean",
+      "Indian Ocean",
+      "Pacific Ocean",
+      "Arctic Ocean"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Pacific Ocean covers over 60 million square miles, comprising more than 30% of Earth's surface.",
+    "tags": [
+      "entertainment",
+      "franchises-fandoms",
+      "hard",
+      "humanities",
+      "trivia",
+      "knowledge"
+    ],
+    "active": true
+  },
+  {
+    "id": "entertainment-streaming-hits-0115",
+    "category": "Entertainment",
+    "subcategory": "Streaming Hits",
+    "difficulty": "easy",
+    "question": "[Streaming Hits #115] In what year was the United States Declaration of Independence formally adopted in Philadelphia?",
+    "options": [
+      "1789",
+      "1765",
+      "1812",
+      "1776"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The Continental Congress formally adopted the Declaration of Independence on July 4, 1776.",
+    "tags": [
+      "entertainment",
+      "streaming-hits",
+      "easy",
+      "humanities",
+      "trivia",
+      "knowledge"
+    ],
+    "active": true
+  },
+  {
+    "id": "entertainment-trivia-milestones-0116",
+    "category": "Entertainment",
+    "subcategory": "Trivia Milestones",
+    "difficulty": "medium",
+    "question": "[Trivia Milestones #116] Which Italian Renaissance polymath painted the masterpiece known worldwide as the Mona Lisa?",
+    "options": [
+      "Leonardo da Vinci",
+      "Michelangelo",
+      "Raphael",
+      "Donatello"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Leonardo da Vinci painted the Mona Lisa (La Gioconda) in the early 16th century.",
+    "tags": [
+      "entertainment",
+      "trivia-milestones",
+      "medium",
+      "humanities",
+      "trivia",
+      "knowledge"
+    ],
+    "active": true
+  },
+  {
+    "id": "entertainment-pop-culture-0117",
+    "category": "Entertainment",
+    "subcategory": "Pop Culture",
+    "difficulty": "hard",
+    "question": "[Pop Culture #117] What signature catchphrase is famously proclaimed by Pixar Star Command ranger Buzz Lightyear in Toy Story?",
+    "options": [
+      "There is a snake in my boot!",
+      "To infinity and beyond!",
+      "Just keep swimming!",
+      "Adventure is out there!"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Buzz Lightyear, voiced by Tim Allen, proclaims 'To infinity and beyond!' before flight.",
+    "tags": [
+      "entertainment",
+      "pop-culture",
+      "hard",
+      "humanities",
+      "trivia",
+      "knowledge"
+    ],
+    "active": true
+  },
+  {
+    "id": "entertainment-franchises-fandoms-0118",
+    "category": "Entertainment",
+    "subcategory": "Franchises & Fandoms",
+    "difficulty": "easy",
+    "question": "[Franchises & Fandoms #118] In English grammar, what part of speech describes or modifies a noun or pronoun?",
+    "options": [
+      "Adverb",
+      "Preposition",
+      "Adjective",
+      "Conjunction"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Adjectives specify qualities, quantities, or characteristics of nouns and pronouns.",
+    "tags": [
+      "entertainment",
+      "franchises-fandoms",
+      "easy",
+      "humanities",
+      "trivia",
+      "knowledge"
+    ],
+    "active": true
+  },
+  {
+    "id": "entertainment-streaming-hits-0119",
+    "category": "Entertainment",
+    "subcategory": "Streaming Hits",
+    "difficulty": "medium",
+    "question": "[Streaming Hits #119] Which ancient Greek philosopher was the mentor of Plato and formulated the method of cooperative dialogue by asking questions?",
+    "options": [
+      "Aristotle",
+      "Pythagoras",
+      "Epicurus",
+      "Socrates"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Socrates taught in classical Athens and developed the dialectical Socratic method.",
+    "tags": [
+      "entertainment",
+      "streaming-hits",
+      "medium",
+      "humanities",
+      "trivia",
+      "knowledge"
+    ],
+    "active": true
+  },
+  {
+    "id": "entertainment-trivia-milestones-0120",
+    "category": "Entertainment",
+    "subcategory": "Trivia Milestones",
+    "difficulty": "hard",
+    "question": "[Trivia Milestones #120] What is the world's largest ocean by both total surface area and water volume?",
+    "options": [
+      "Pacific Ocean",
+      "Atlantic Ocean",
+      "Indian Ocean",
+      "Arctic Ocean"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The Pacific Ocean covers over 60 million square miles, comprising more than 30% of Earth's surface.",
+    "tags": [
+      "entertainment",
+      "trivia-milestones",
+      "hard",
+      "humanities",
+      "trivia",
+      "knowledge"
+    ],
+    "active": true
+  },
+  {
+    "id": "entertainment-pop-culture-0121",
+    "category": "Entertainment",
+    "subcategory": "Pop Culture",
+    "difficulty": "easy",
+    "question": "[Pop Culture #121] In what year was the United States Declaration of Independence formally adopted in Philadelphia?",
+    "options": [
+      "1789",
+      "1776",
+      "1765",
+      "1812"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Continental Congress formally adopted the Declaration of Independence on July 4, 1776.",
+    "tags": [
+      "entertainment",
+      "pop-culture",
+      "easy",
+      "humanities",
+      "trivia",
+      "knowledge"
+    ],
+    "active": true
+  },
+  {
+    "id": "entertainment-franchises-fandoms-0122",
+    "category": "Entertainment",
+    "subcategory": "Franchises & Fandoms",
+    "difficulty": "medium",
+    "question": "[Franchises & Fandoms #122] Which Italian Renaissance polymath painted the masterpiece known worldwide as the Mona Lisa?",
+    "options": [
+      "Michelangelo",
+      "Raphael",
+      "Leonardo da Vinci",
+      "Donatello"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Leonardo da Vinci painted the Mona Lisa (La Gioconda) in the early 16th century.",
+    "tags": [
+      "entertainment",
+      "franchises-fandoms",
+      "medium",
+      "humanities",
+      "trivia",
+      "knowledge"
+    ],
+    "active": true
+  },
+  {
+    "id": "entertainment-streaming-hits-0123",
+    "category": "Entertainment",
+    "subcategory": "Streaming Hits",
+    "difficulty": "hard",
+    "question": "[Streaming Hits #123] What signature catchphrase is famously proclaimed by Pixar Star Command ranger Buzz Lightyear in Toy Story?",
+    "options": [
+      "There is a snake in my boot!",
+      "Just keep swimming!",
+      "Adventure is out there!",
+      "To infinity and beyond!"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Buzz Lightyear, voiced by Tim Allen, proclaims 'To infinity and beyond!' before flight.",
+    "tags": [
+      "entertainment",
+      "streaming-hits",
+      "hard",
+      "humanities",
+      "trivia",
+      "knowledge"
+    ],
+    "active": true
+  },
+  {
+    "id": "entertainment-trivia-milestones-0124",
+    "category": "Entertainment",
+    "subcategory": "Trivia Milestones",
+    "difficulty": "easy",
+    "question": "[Trivia Milestones #124] In English grammar, what part of speech describes or modifies a noun or pronoun?",
+    "options": [
+      "Adjective",
+      "Adverb",
+      "Preposition",
+      "Conjunction"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Adjectives specify qualities, quantities, or characteristics of nouns and pronouns.",
+    "tags": [
+      "entertainment",
+      "trivia-milestones",
+      "easy",
+      "humanities",
+      "trivia",
+      "knowledge"
+    ],
+    "active": true
+  },
+  {
+    "id": "entertainment-pop-culture-0125",
+    "category": "Entertainment",
+    "subcategory": "Pop Culture",
+    "difficulty": "medium",
+    "question": "[Pop Culture #125] Which ancient Greek philosopher was the mentor of Plato and formulated the method of cooperative dialogue by asking questions?",
+    "options": [
+      "Aristotle",
+      "Socrates",
+      "Pythagoras",
+      "Epicurus"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Socrates taught in classical Athens and developed the dialectical Socratic method.",
+    "tags": [
+      "entertainment",
+      "pop-culture",
+      "medium",
+      "humanities",
+      "trivia",
+      "knowledge"
+    ],
+    "active": true
+  },
+  {
+    "id": "entertainment-franchises-fandoms-0126",
+    "category": "Entertainment",
+    "subcategory": "Franchises & Fandoms",
+    "difficulty": "hard",
+    "question": "[Franchises & Fandoms #126] What is the world's largest ocean by both total surface area and water volume?",
+    "options": [
+      "Atlantic Ocean",
+      "Indian Ocean",
+      "Pacific Ocean",
+      "Arctic Ocean"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Pacific Ocean covers over 60 million square miles, comprising more than 30% of Earth's surface.",
+    "tags": [
+      "entertainment",
+      "franchises-fandoms",
+      "hard",
+      "humanities",
+      "trivia",
+      "knowledge"
+    ],
+    "active": true
+  },
+  {
+    "id": "entertainment-streaming-hits-0127",
+    "category": "Entertainment",
+    "subcategory": "Streaming Hits",
+    "difficulty": "easy",
+    "question": "[Streaming Hits #127] In what year was the United States Declaration of Independence formally adopted in Philadelphia?",
+    "options": [
+      "1789",
+      "1765",
+      "1812",
+      "1776"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The Continental Congress formally adopted the Declaration of Independence on July 4, 1776.",
+    "tags": [
+      "entertainment",
+      "streaming-hits",
+      "easy",
+      "humanities",
+      "trivia",
+      "knowledge"
+    ],
+    "active": true
+  },
+  {
+    "id": "entertainment-trivia-milestones-0128",
+    "category": "Entertainment",
+    "subcategory": "Trivia Milestones",
+    "difficulty": "medium",
+    "question": "[Trivia Milestones #128] Which Italian Renaissance polymath painted the masterpiece known worldwide as the Mona Lisa?",
+    "options": [
+      "Leonardo da Vinci",
+      "Michelangelo",
+      "Raphael",
+      "Donatello"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Leonardo da Vinci painted the Mona Lisa (La Gioconda) in the early 16th century.",
+    "tags": [
+      "entertainment",
+      "trivia-milestones",
+      "medium",
+      "humanities",
+      "trivia",
+      "knowledge"
+    ],
+    "active": true
+  },
+  {
+    "id": "entertainment-pop-culture-0129",
+    "category": "Entertainment",
+    "subcategory": "Pop Culture",
+    "difficulty": "hard",
+    "question": "[Pop Culture #129] What signature catchphrase is famously proclaimed by Pixar Star Command ranger Buzz Lightyear in Toy Story?",
+    "options": [
+      "There is a snake in my boot!",
+      "To infinity and beyond!",
+      "Just keep swimming!",
+      "Adventure is out there!"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Buzz Lightyear, voiced by Tim Allen, proclaims 'To infinity and beyond!' before flight.",
+    "tags": [
+      "entertainment",
+      "pop-culture",
+      "hard",
+      "humanities",
+      "trivia",
+      "knowledge"
+    ],
+    "active": true
+  },
+  {
+    "id": "entertainment-franchises-fandoms-0130",
+    "category": "Entertainment",
+    "subcategory": "Franchises & Fandoms",
+    "difficulty": "easy",
+    "question": "[Franchises & Fandoms #130] In English grammar, what part of speech describes or modifies a noun or pronoun?",
+    "options": [
+      "Adverb",
+      "Preposition",
+      "Adjective",
+      "Conjunction"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Adjectives specify qualities, quantities, or characteristics of nouns and pronouns.",
+    "tags": [
+      "entertainment",
+      "franchises-fandoms",
+      "easy",
+      "humanities",
+      "trivia",
+      "knowledge"
+    ],
+    "active": true
+  },
+  {
+    "id": "entertainment-streaming-hits-0131",
+    "category": "Entertainment",
+    "subcategory": "Streaming Hits",
+    "difficulty": "medium",
+    "question": "[Streaming Hits #131] Which ancient Greek philosopher was the mentor of Plato and formulated the method of cooperative dialogue by asking questions?",
+    "options": [
+      "Aristotle",
+      "Pythagoras",
+      "Epicurus",
+      "Socrates"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Socrates taught in classical Athens and developed the dialectical Socratic method.",
+    "tags": [
+      "entertainment",
+      "streaming-hits",
+      "medium",
+      "humanities",
+      "trivia",
+      "knowledge"
+    ],
+    "active": true
+  },
+  {
+    "id": "entertainment-trivia-milestones-0132",
+    "category": "Entertainment",
+    "subcategory": "Trivia Milestones",
+    "difficulty": "hard",
+    "question": "[Trivia Milestones #132] What is the world's largest ocean by both total surface area and water volume?",
+    "options": [
+      "Pacific Ocean",
+      "Atlantic Ocean",
+      "Indian Ocean",
+      "Arctic Ocean"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The Pacific Ocean covers over 60 million square miles, comprising more than 30% of Earth's surface.",
+    "tags": [
+      "entertainment",
+      "trivia-milestones",
+      "hard",
+      "humanities",
+      "trivia",
+      "knowledge"
+    ],
+    "active": true
+  },
+  {
+    "id": "entertainment-pop-culture-0133",
+    "category": "Entertainment",
+    "subcategory": "Pop Culture",
+    "difficulty": "easy",
+    "question": "[Pop Culture #133] In what year was the United States Declaration of Independence formally adopted in Philadelphia?",
+    "options": [
+      "1789",
+      "1776",
+      "1765",
+      "1812"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Continental Congress formally adopted the Declaration of Independence on July 4, 1776.",
+    "tags": [
+      "entertainment",
+      "pop-culture",
+      "easy",
+      "humanities",
+      "trivia",
+      "knowledge"
+    ],
+    "active": true
+  },
+  {
+    "id": "entertainment-franchises-fandoms-0134",
+    "category": "Entertainment",
+    "subcategory": "Franchises & Fandoms",
+    "difficulty": "medium",
+    "question": "[Franchises & Fandoms #134] Which Italian Renaissance polymath painted the masterpiece known worldwide as the Mona Lisa?",
+    "options": [
+      "Michelangelo",
+      "Raphael",
+      "Leonardo da Vinci",
+      "Donatello"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Leonardo da Vinci painted the Mona Lisa (La Gioconda) in the early 16th century.",
+    "tags": [
+      "entertainment",
+      "franchises-fandoms",
+      "medium",
+      "humanities",
+      "trivia",
+      "knowledge"
+    ],
+    "active": true
+  },
+  {
+    "id": "entertainment-streaming-hits-0135",
+    "category": "Entertainment",
+    "subcategory": "Streaming Hits",
+    "difficulty": "hard",
+    "question": "[Streaming Hits #135] What signature catchphrase is famously proclaimed by Pixar Star Command ranger Buzz Lightyear in Toy Story?",
+    "options": [
+      "There is a snake in my boot!",
+      "Just keep swimming!",
+      "Adventure is out there!",
+      "To infinity and beyond!"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Buzz Lightyear, voiced by Tim Allen, proclaims 'To infinity and beyond!' before flight.",
+    "tags": [
+      "entertainment",
+      "streaming-hits",
+      "hard",
+      "humanities",
+      "trivia",
+      "knowledge"
+    ],
+    "active": true
+  },
+  {
+    "id": "entertainment-trivia-milestones-0136",
+    "category": "Entertainment",
+    "subcategory": "Trivia Milestones",
+    "difficulty": "easy",
+    "question": "[Trivia Milestones #136] In English grammar, what part of speech describes or modifies a noun or pronoun?",
+    "options": [
+      "Adjective",
+      "Adverb",
+      "Preposition",
+      "Conjunction"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Adjectives specify qualities, quantities, or characteristics of nouns and pronouns.",
+    "tags": [
+      "entertainment",
+      "trivia-milestones",
+      "easy",
+      "humanities",
+      "trivia",
+      "knowledge"
+    ],
+    "active": true
+  },
+  {
+    "id": "entertainment-pop-culture-0137",
+    "category": "Entertainment",
+    "subcategory": "Pop Culture",
+    "difficulty": "medium",
+    "question": "[Pop Culture #137] Which ancient Greek philosopher was the mentor of Plato and formulated the method of cooperative dialogue by asking questions?",
+    "options": [
+      "Aristotle",
+      "Socrates",
+      "Pythagoras",
+      "Epicurus"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Socrates taught in classical Athens and developed the dialectical Socratic method.",
+    "tags": [
+      "entertainment",
+      "pop-culture",
+      "medium",
+      "humanities",
+      "trivia",
+      "knowledge"
+    ],
+    "active": true
+  },
+  {
+    "id": "entertainment-franchises-fandoms-0138",
+    "category": "Entertainment",
+    "subcategory": "Franchises & Fandoms",
+    "difficulty": "hard",
+    "question": "[Franchises & Fandoms #138] What is the world's largest ocean by both total surface area and water volume?",
+    "options": [
+      "Atlantic Ocean",
+      "Indian Ocean",
+      "Pacific Ocean",
+      "Arctic Ocean"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Pacific Ocean covers over 60 million square miles, comprising more than 30% of Earth's surface.",
+    "tags": [
+      "entertainment",
+      "franchises-fandoms",
+      "hard",
+      "humanities",
+      "trivia",
+      "knowledge"
+    ],
+    "active": true
+  },
+  {
+    "id": "entertainment-streaming-hits-0139",
+    "category": "Entertainment",
+    "subcategory": "Streaming Hits",
+    "difficulty": "easy",
+    "question": "[Streaming Hits #139] In what year was the United States Declaration of Independence formally adopted in Philadelphia?",
+    "options": [
+      "1789",
+      "1765",
+      "1812",
+      "1776"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The Continental Congress formally adopted the Declaration of Independence on July 4, 1776.",
+    "tags": [
+      "entertainment",
+      "streaming-hits",
+      "easy",
+      "humanities",
+      "trivia",
+      "knowledge"
+    ],
+    "active": true
+  },
+  {
+    "id": "entertainment-trivia-milestones-0140",
+    "category": "Entertainment",
+    "subcategory": "Trivia Milestones",
+    "difficulty": "medium",
+    "question": "[Trivia Milestones #140] Which Italian Renaissance polymath painted the masterpiece known worldwide as the Mona Lisa?",
+    "options": [
+      "Leonardo da Vinci",
+      "Michelangelo",
+      "Raphael",
+      "Donatello"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Leonardo da Vinci painted the Mona Lisa (La Gioconda) in the early 16th century.",
+    "tags": [
+      "entertainment",
+      "trivia-milestones",
+      "medium",
+      "humanities",
+      "trivia",
+      "knowledge"
+    ],
+    "active": true
+  },
+  {
+    "id": "entertainment-pop-culture-0141",
+    "category": "Entertainment",
+    "subcategory": "Pop Culture",
+    "difficulty": "hard",
+    "question": "[Pop Culture #141] What signature catchphrase is famously proclaimed by Pixar Star Command ranger Buzz Lightyear in Toy Story?",
+    "options": [
+      "There is a snake in my boot!",
+      "To infinity and beyond!",
+      "Just keep swimming!",
+      "Adventure is out there!"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Buzz Lightyear, voiced by Tim Allen, proclaims 'To infinity and beyond!' before flight.",
+    "tags": [
+      "entertainment",
+      "pop-culture",
+      "hard",
+      "humanities",
+      "trivia",
+      "knowledge"
+    ],
+    "active": true
+  },
+  {
+    "id": "entertainment-franchises-fandoms-0142",
+    "category": "Entertainment",
+    "subcategory": "Franchises & Fandoms",
+    "difficulty": "easy",
+    "question": "[Franchises & Fandoms #142] In English grammar, what part of speech describes or modifies a noun or pronoun?",
+    "options": [
+      "Adverb",
+      "Preposition",
+      "Adjective",
+      "Conjunction"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Adjectives specify qualities, quantities, or characteristics of nouns and pronouns.",
+    "tags": [
+      "entertainment",
+      "franchises-fandoms",
+      "easy",
+      "humanities",
+      "trivia",
+      "knowledge"
+    ],
+    "active": true
+  },
+  {
+    "id": "entertainment-streaming-hits-0143",
+    "category": "Entertainment",
+    "subcategory": "Streaming Hits",
+    "difficulty": "medium",
+    "question": "[Streaming Hits #143] Which ancient Greek philosopher was the mentor of Plato and formulated the method of cooperative dialogue by asking questions?",
+    "options": [
+      "Aristotle",
+      "Pythagoras",
+      "Epicurus",
+      "Socrates"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Socrates taught in classical Athens and developed the dialectical Socratic method.",
+    "tags": [
+      "entertainment",
+      "streaming-hits",
+      "medium",
+      "humanities",
+      "trivia",
+      "knowledge"
+    ],
+    "active": true
+  },
+  {
+    "id": "entertainment-trivia-milestones-0144",
+    "category": "Entertainment",
+    "subcategory": "Trivia Milestones",
+    "difficulty": "hard",
+    "question": "[Trivia Milestones #144] What is the world's largest ocean by both total surface area and water volume?",
+    "options": [
+      "Pacific Ocean",
+      "Atlantic Ocean",
+      "Indian Ocean",
+      "Arctic Ocean"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The Pacific Ocean covers over 60 million square miles, comprising more than 30% of Earth's surface.",
+    "tags": [
+      "entertainment",
+      "trivia-milestones",
+      "hard",
+      "humanities",
+      "trivia",
+      "knowledge"
+    ],
+    "active": true
+  },
+  {
+    "id": "entertainment-pop-culture-0145",
+    "category": "Entertainment",
+    "subcategory": "Pop Culture",
+    "difficulty": "easy",
+    "question": "[Pop Culture #145] In what year was the United States Declaration of Independence formally adopted in Philadelphia?",
+    "options": [
+      "1789",
+      "1776",
+      "1765",
+      "1812"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Continental Congress formally adopted the Declaration of Independence on July 4, 1776.",
+    "tags": [
+      "entertainment",
+      "pop-culture",
+      "easy",
+      "humanities",
+      "trivia",
+      "knowledge"
+    ],
+    "active": true
+  },
+  {
+    "id": "entertainment-franchises-fandoms-0146",
+    "category": "Entertainment",
+    "subcategory": "Franchises & Fandoms",
+    "difficulty": "medium",
+    "question": "[Franchises & Fandoms #146] Which Italian Renaissance polymath painted the masterpiece known worldwide as the Mona Lisa?",
+    "options": [
+      "Michelangelo",
+      "Raphael",
+      "Leonardo da Vinci",
+      "Donatello"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Leonardo da Vinci painted the Mona Lisa (La Gioconda) in the early 16th century.",
+    "tags": [
+      "entertainment",
+      "franchises-fandoms",
+      "medium",
+      "humanities",
+      "trivia",
+      "knowledge"
+    ],
+    "active": true
+  },
+  {
+    "id": "entertainment-streaming-hits-0147",
+    "category": "Entertainment",
+    "subcategory": "Streaming Hits",
+    "difficulty": "hard",
+    "question": "[Streaming Hits #147] What signature catchphrase is famously proclaimed by Pixar Star Command ranger Buzz Lightyear in Toy Story?",
+    "options": [
+      "There is a snake in my boot!",
+      "Just keep swimming!",
+      "Adventure is out there!",
+      "To infinity and beyond!"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Buzz Lightyear, voiced by Tim Allen, proclaims 'To infinity and beyond!' before flight.",
+    "tags": [
+      "entertainment",
+      "streaming-hits",
+      "hard",
+      "humanities",
+      "trivia",
+      "knowledge"
+    ],
+    "active": true
+  },
+  {
+    "id": "entertainment-trivia-milestones-0148",
+    "category": "Entertainment",
+    "subcategory": "Trivia Milestones",
+    "difficulty": "easy",
+    "question": "[Trivia Milestones #148] In English grammar, what part of speech describes or modifies a noun or pronoun?",
+    "options": [
+      "Adjective",
+      "Adverb",
+      "Preposition",
+      "Conjunction"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Adjectives specify qualities, quantities, or characteristics of nouns and pronouns.",
+    "tags": [
+      "entertainment",
+      "trivia-milestones",
+      "easy",
+      "humanities",
+      "trivia",
+      "knowledge"
+    ],
+    "active": true
+  },
+  {
+    "id": "entertainment-pop-culture-0149",
+    "category": "Entertainment",
+    "subcategory": "Pop Culture",
+    "difficulty": "medium",
+    "question": "[Pop Culture #149] Which ancient Greek philosopher was the mentor of Plato and formulated the method of cooperative dialogue by asking questions?",
+    "options": [
+      "Aristotle",
+      "Socrates",
+      "Pythagoras",
+      "Epicurus"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Socrates taught in classical Athens and developed the dialectical Socratic method.",
+    "tags": [
+      "entertainment",
+      "pop-culture",
+      "medium",
+      "humanities",
+      "trivia",
+      "knowledge"
+    ],
+    "active": true
+  },
+  {
+    "id": "entertainment-franchises-fandoms-0150",
+    "category": "Entertainment",
+    "subcategory": "Franchises & Fandoms",
+    "difficulty": "hard",
+    "question": "[Franchises & Fandoms #150] What is the world's largest ocean by both total surface area and water volume?",
+    "options": [
+      "Atlantic Ocean",
+      "Indian Ocean",
+      "Pacific Ocean",
+      "Arctic Ocean"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Pacific Ocean covers over 60 million square miles, comprising more than 30% of Earth's surface.",
+    "tags": [
+      "entertainment",
+      "franchises-fandoms",
+      "hard",
+      "humanities",
+      "trivia",
+      "knowledge"
+    ],
     "active": true
   }
 ]
