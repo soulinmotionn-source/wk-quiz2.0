@@ -54,6 +54,25 @@ export function useQuizEngine({
   const timerRef = useRef<number | null>(null);
   const totalTimerRef = useRef<number | null>(null);
 
+  // Synchronize and re-initialize questions whenever quizId or configuration changes
+  useEffect(() => {
+    if (initialQuestions && initialQuestions.length > 0) {
+      setQuestions(initialQuestions);
+    } else if (mode === 'daily') {
+      setQuestions(getDailyQuizQuestions());
+    } else {
+      const targetCount = count && count > 0 ? count : (mode === 'quick' ? 5 : 10);
+      setQuestions(generateQuizQuestions({ category, subcategory, difficulty, count: targetCount }));
+    }
+    setCurrentIndex(0);
+    setSelectedOption(null);
+    setIsAnswerSubmitted(false);
+    setReviews([]);
+    setScore(0);
+    setIsCompleted(false);
+    setTotalTimeElapsed(0);
+  }, [quizId, category, subcategory, difficulty, mode, count, initialQuestions]);
+
   // Total elapsed timer
   useEffect(() => {
     if (isCompleted) return;

@@ -98,6 +98,7 @@ export const QuizDetailPage: React.FC = () => {
 
         {/* ACTIVE QUIZ ENGINE */}
         <QuizPlayer
+          key={quiz.id}
           quizId={quiz.id}
           quizTitle={quiz.title}
           category={quiz.category}

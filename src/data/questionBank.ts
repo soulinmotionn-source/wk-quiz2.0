@@ -218,7 +218,12 @@ export function generateQuizQuestions(options: QuizFilterOptions = {}): Shuffled
   if (options.difficulty && options.difficulty !== 'mixed' && pool.length > 0) {
     const diffFiltered = pool.filter(q => q.difficulty === options.difficulty);
     if (diffFiltered.length > 0) {
-      pool = diffFiltered;
+      if (options.count && diffFiltered.length < options.count) {
+        const remaining = pool.filter(q => q.difficulty !== options.difficulty);
+        pool = [...diffFiltered, ...remaining];
+      } else {
+        pool = diffFiltered;
+      }
     }
   }
 

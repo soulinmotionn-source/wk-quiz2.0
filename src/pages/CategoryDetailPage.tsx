@@ -62,6 +62,7 @@ export const CategoryDetailPage: React.FC = () => {
           /* Active Interactive Quiz Player */
           <div style={{ marginBottom: 'var(--space-3xl)' }}>
             <QuizPlayer
+              key={`cat-${category.id}-${selectedMode}-${selectedDifficulty}`}
               quizId={`cat-${category.id}-${selectedMode}-${selectedDifficulty}`}
               quizTitle={`${category.name} ${selectedMode.toUpperCase()} Quiz`}
               category={category.name}
