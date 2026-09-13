@@ -236,6 +236,16 @@ export function useQuizEngine({
     setSecondsRemaining(timeLimitSeconds);
   };
 
+  // Calculate current consecutive correct answer streak
+  const streak = reviews.length === 0 ? 0 : (() => {
+    let s = 0;
+    for (let i = reviews.length - 1; i >= 0; i--) {
+      if (reviews[i].isCorrect) s++;
+      else break;
+    }
+    return s;
+  })();
+
   return {
     questions,
     currentQuestion,
@@ -244,6 +254,7 @@ export function useQuizEngine({
     selectedOption,
     isAnswerSubmitted,
     score,
+    streak,
     isCompleted,
     secondsRemaining,
     totalTimeElapsed,

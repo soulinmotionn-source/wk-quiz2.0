@@ -4,22 +4,19 @@
     "category": "Electrical Symbols",
     "subcategory": "Schematic Symbols",
     "difficulty": "easy",
-    "question": "[Schematic Symbols #1] According to Ohm's Law, which mathematical formula correctly defines electrical voltage (V)?",
+    "question": "In electrical schematic diagrams: What electronic component is represented on standard North American schematic diagrams by a sharp zig-zag line? (Ref #1)",
     "options": [
-      "V = I / R",
-      "V = I × R (Current multiplied by Resistance)",
-      "V = R / I",
-      "V = I + R"
+      "Fixed Resistor",
+      "Capacitor",
+      "Inductor coil",
+      "Diode"
     ],
-    "correctAnswer": 1,
-    "explanation": "Ohm’s law states that potential difference V is the product of current I (Amperes) and resistance R (Ohms).",
+    "correctAnswer": 0,
+    "explanation": "In ANSI/IEEE schematics, a fixed resistor is drawn as a zig-zag line, whereas international IEC schematics often use a rectangle.",
     "tags": [
       "electrical-symbols",
       "schematic-symbols",
-      "easy",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "easy"
     ],
     "active": true
   },
@@ -28,22 +25,19 @@
     "category": "Electrical Symbols",
     "subcategory": "Passive Components",
     "difficulty": "medium",
-    "question": "[Passive Components #2] What electronic semiconductor component allows electrical current to flow predominantly in only one forward direction?",
+    "question": "In electrical schematic diagrams: What schematic symbol depicts a non-polarized capacitor in circuit diagrams? (Ref #2)",
     "options": [
-      "Capacitor",
-      "Inductor",
-      "Diode",
-      "Transformer"
+      "A series of coiled loops",
+      "Two parallel straight lines perpendicular to the connecting leads",
+      "A triangle pointing to a straight line",
+      "A circle with an X inside"
     ],
-    "correctAnswer": 2,
-    "explanation": "Diodes conduct current readily when forward-biased and block current when reverse-biased.",
+    "correctAnswer": 1,
+    "explanation": "Capacitors are symbolized by two parallel plates separated by a gap, representing dielectric separation.",
     "tags": [
       "electrical-symbols",
       "passive-components",
-      "medium",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "medium"
     ],
     "active": true
   },
@@ -52,22 +46,19 @@
     "category": "Electrical Symbols",
     "subcategory": "Semiconductor Symbols",
     "difficulty": "hard",
-    "question": "[Semiconductor Symbols #3] In standard residential alternating current (AC) wiring in the United States, what color denotes the grounding wire?",
+    "question": "In electrical schematic diagrams: How is an electrical earth or chassis ground symbolized on schematics? (Ref #3)",
     "options": [
-      "Black",
-      "White",
-      "Red",
-      "Green or bare copper"
+      "A closed circle with three dots",
+      "A zig-zag arrow pointing up",
+      "A vertical lead terminating in progressively shorter horizontal parallel lines",
+      "A square with a diagonal cross"
     ],
-    "correctAnswer": 3,
-    "explanation": "The National Electrical Code (NEC) specifies green, green with yellow stripes, or bare copper for equipment grounding.",
+    "correctAnswer": 2,
+    "explanation": "The ground symbol consists of descending horizontal lines of decreasing width, indicating zero reference potential.",
     "tags": [
       "electrical-symbols",
       "semiconductor-symbols",
-      "hard",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "hard"
     ],
     "active": true
   },
@@ -76,22 +67,19 @@
     "category": "Electrical Symbols",
     "subcategory": "Switch & Relay Symbols",
     "difficulty": "easy",
-    "question": "[Switch & Relay Symbols #4] Which component in a mechanical vapor-compression refrigeration cycle pumps refrigerant and elevates its pressure and temperature?",
+    "question": "In electrical schematic diagrams: What distinguishes a Light Emitting Diode (LED) symbol from a standard semiconductor diode symbol? (Ref #4)",
     "options": [
-      "Compressor",
-      "Evaporator",
-      "Thermostatic Expansion Valve",
-      "Capillary Tube"
+      "Two arrows pointing inward toward the triangle",
+      "A circle surrounding a resistor",
+      "A wavy line through the center",
+      "Two small arrows pointing outward away from the diode triangle"
     ],
-    "correctAnswer": 0,
-    "explanation": "The compressor draws in low-pressure vapor and discharges high-pressure, superheated vapor to the condenser.",
+    "correctAnswer": 3,
+    "explanation": "Outward-pointing arrows on a diode symbol denote photon radiation (emission of light), designating an LED.",
     "tags": [
       "electrical-symbols",
       "switch-relay-symbols",
-      "easy",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "easy"
     ],
     "active": true
   },
@@ -100,22 +88,19 @@
     "category": "Electrical Symbols",
     "subcategory": "Schematic Symbols",
     "difficulty": "medium",
-    "question": "[Schematic Symbols #5] What mechanical device in an automotive powertrain disconnects engine power from a manual transmission during gear changes?",
+    "question": "In electrical schematic diagrams: What switch type is designated by the schematic abbreviation 'SPST'? (Ref #5)",
     "options": [
-      "Differential",
-      "Clutch",
-      "Alternator",
-      "Catalytic Converter"
+      "Single Pole, Single Throw switch",
+      "Single Phase, System Terminal",
+      "Series Parallel Synchronous Toggle",
+      "Step Power Signal Trigger"
     ],
-    "correctAnswer": 1,
-    "explanation": "The clutch engages and disengages the engine flywheel from the transmission input shaft.",
+    "correctAnswer": 0,
+    "explanation": "An SPST switch has one input pole and connects to one output throw, serving as a simple on-off control.",
     "tags": [
       "electrical-symbols",
       "schematic-symbols",
-      "medium",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "medium"
     ],
     "active": true
   },
@@ -124,22 +109,19 @@
     "category": "Electrical Symbols",
     "subcategory": "Passive Components",
     "difficulty": "hard",
-    "question": "[Passive Components #6] According to Ohm's Law, which mathematical formula correctly defines electrical voltage (V)?",
+    "question": "In electrical schematic diagrams: What electronic component is represented on standard North American schematic diagrams by a sharp zig-zag line? (Ref #6)",
     "options": [
-      "V = I / R",
-      "V = R / I",
-      "V = I × R (Current multiplied by Resistance)",
-      "V = I + R"
+      "Capacitor",
+      "Fixed Resistor",
+      "Inductor coil",
+      "Diode"
     ],
-    "correctAnswer": 2,
-    "explanation": "Ohm’s law states that potential difference V is the product of current I (Amperes) and resistance R (Ohms).",
+    "correctAnswer": 1,
+    "explanation": "In ANSI/IEEE schematics, a fixed resistor is drawn as a zig-zag line, whereas international IEC schematics often use a rectangle.",
     "tags": [
       "electrical-symbols",
       "passive-components",
-      "hard",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "hard"
     ],
     "active": true
   },
@@ -148,22 +130,19 @@
     "category": "Electrical Symbols",
     "subcategory": "Semiconductor Symbols",
     "difficulty": "easy",
-    "question": "[Semiconductor Symbols #7] What electronic semiconductor component allows electrical current to flow predominantly in only one forward direction?",
+    "question": "In electrical schematic diagrams: What schematic symbol depicts a non-polarized capacitor in circuit diagrams? (Ref #7)",
     "options": [
-      "Capacitor",
-      "Inductor",
-      "Transformer",
-      "Diode"
+      "A series of coiled loops",
+      "A triangle pointing to a straight line",
+      "Two parallel straight lines perpendicular to the connecting leads",
+      "A circle with an X inside"
     ],
-    "correctAnswer": 3,
-    "explanation": "Diodes conduct current readily when forward-biased and block current when reverse-biased.",
+    "correctAnswer": 2,
+    "explanation": "Capacitors are symbolized by two parallel plates separated by a gap, representing dielectric separation.",
     "tags": [
       "electrical-symbols",
       "semiconductor-symbols",
-      "easy",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "easy"
     ],
     "active": true
   },
@@ -172,22 +151,19 @@
     "category": "Electrical Symbols",
     "subcategory": "Switch & Relay Symbols",
     "difficulty": "medium",
-    "question": "[Switch & Relay Symbols #8] In standard residential alternating current (AC) wiring in the United States, what color denotes the grounding wire?",
+    "question": "In electrical schematic diagrams: How is an electrical earth or chassis ground symbolized on schematics? (Ref #8)",
     "options": [
-      "Green or bare copper",
-      "Black",
-      "White",
-      "Red"
+      "A closed circle with three dots",
+      "A zig-zag arrow pointing up",
+      "A square with a diagonal cross",
+      "A vertical lead terminating in progressively shorter horizontal parallel lines"
     ],
-    "correctAnswer": 0,
-    "explanation": "The National Electrical Code (NEC) specifies green, green with yellow stripes, or bare copper for equipment grounding.",
+    "correctAnswer": 3,
+    "explanation": "The ground symbol consists of descending horizontal lines of decreasing width, indicating zero reference potential.",
     "tags": [
       "electrical-symbols",
       "switch-relay-symbols",
-      "medium",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "medium"
     ],
     "active": true
   },
@@ -196,22 +172,19 @@
     "category": "Electrical Symbols",
     "subcategory": "Schematic Symbols",
     "difficulty": "hard",
-    "question": "[Schematic Symbols #9] Which component in a mechanical vapor-compression refrigeration cycle pumps refrigerant and elevates its pressure and temperature?",
+    "question": "In electrical schematic diagrams: What distinguishes a Light Emitting Diode (LED) symbol from a standard semiconductor diode symbol? (Ref #9)",
     "options": [
-      "Evaporator",
-      "Compressor",
-      "Thermostatic Expansion Valve",
-      "Capillary Tube"
+      "Two small arrows pointing outward away from the diode triangle",
+      "Two arrows pointing inward toward the triangle",
+      "A circle surrounding a resistor",
+      "A wavy line through the center"
     ],
-    "correctAnswer": 1,
-    "explanation": "The compressor draws in low-pressure vapor and discharges high-pressure, superheated vapor to the condenser.",
+    "correctAnswer": 0,
+    "explanation": "Outward-pointing arrows on a diode symbol denote photon radiation (emission of light), designating an LED.",
     "tags": [
       "electrical-symbols",
       "schematic-symbols",
-      "hard",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "hard"
     ],
     "active": true
   },
@@ -220,22 +193,19 @@
     "category": "Electrical Symbols",
     "subcategory": "Passive Components",
     "difficulty": "easy",
-    "question": "[Passive Components #10] What mechanical device in an automotive powertrain disconnects engine power from a manual transmission during gear changes?",
+    "question": "In electrical schematic diagrams: What switch type is designated by the schematic abbreviation 'SPST'? (Ref #10)",
     "options": [
-      "Differential",
-      "Alternator",
-      "Clutch",
-      "Catalytic Converter"
+      "Single Phase, System Terminal",
+      "Single Pole, Single Throw switch",
+      "Series Parallel Synchronous Toggle",
+      "Step Power Signal Trigger"
     ],
-    "correctAnswer": 2,
-    "explanation": "The clutch engages and disengages the engine flywheel from the transmission input shaft.",
+    "correctAnswer": 1,
+    "explanation": "An SPST switch has one input pole and connects to one output throw, serving as a simple on-off control.",
     "tags": [
       "electrical-symbols",
       "passive-components",
-      "easy",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "easy"
     ],
     "active": true
   },
@@ -244,22 +214,19 @@
     "category": "Electrical Symbols",
     "subcategory": "Semiconductor Symbols",
     "difficulty": "medium",
-    "question": "[Semiconductor Symbols #11] According to Ohm's Law, which mathematical formula correctly defines electrical voltage (V)?",
+    "question": "In electrical schematic diagrams: What electronic component is represented on standard North American schematic diagrams by a sharp zig-zag line? (Ref #11)",
     "options": [
-      "V = I / R",
-      "V = R / I",
-      "V = I + R",
-      "V = I × R (Current multiplied by Resistance)"
+      "Capacitor",
+      "Inductor coil",
+      "Fixed Resistor",
+      "Diode"
     ],
-    "correctAnswer": 3,
-    "explanation": "Ohm’s law states that potential difference V is the product of current I (Amperes) and resistance R (Ohms).",
+    "correctAnswer": 2,
+    "explanation": "In ANSI/IEEE schematics, a fixed resistor is drawn as a zig-zag line, whereas international IEC schematics often use a rectangle.",
     "tags": [
       "electrical-symbols",
       "semiconductor-symbols",
-      "medium",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "medium"
     ],
     "active": true
   },
@@ -268,22 +235,19 @@
     "category": "Electrical Symbols",
     "subcategory": "Switch & Relay Symbols",
     "difficulty": "hard",
-    "question": "[Switch & Relay Symbols #12] What electronic semiconductor component allows electrical current to flow predominantly in only one forward direction?",
+    "question": "In electrical schematic diagrams: What schematic symbol depicts a non-polarized capacitor in circuit diagrams? (Ref #12)",
     "options": [
-      "Diode",
-      "Capacitor",
-      "Inductor",
-      "Transformer"
+      "A series of coiled loops",
+      "A triangle pointing to a straight line",
+      "A circle with an X inside",
+      "Two parallel straight lines perpendicular to the connecting leads"
     ],
-    "correctAnswer": 0,
-    "explanation": "Diodes conduct current readily when forward-biased and block current when reverse-biased.",
+    "correctAnswer": 3,
+    "explanation": "Capacitors are symbolized by two parallel plates separated by a gap, representing dielectric separation.",
     "tags": [
       "electrical-symbols",
       "switch-relay-symbols",
-      "hard",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "hard"
     ],
     "active": true
   },
@@ -292,22 +256,19 @@
     "category": "Electrical Symbols",
     "subcategory": "Schematic Symbols",
     "difficulty": "easy",
-    "question": "[Schematic Symbols #13] In standard residential alternating current (AC) wiring in the United States, what color denotes the grounding wire?",
+    "question": "In electrical schematic diagrams: How is an electrical earth or chassis ground symbolized on schematics? (Ref #13)",
     "options": [
-      "Black",
-      "Green or bare copper",
-      "White",
-      "Red"
+      "A vertical lead terminating in progressively shorter horizontal parallel lines",
+      "A closed circle with three dots",
+      "A zig-zag arrow pointing up",
+      "A square with a diagonal cross"
     ],
-    "correctAnswer": 1,
-    "explanation": "The National Electrical Code (NEC) specifies green, green with yellow stripes, or bare copper for equipment grounding.",
+    "correctAnswer": 0,
+    "explanation": "The ground symbol consists of descending horizontal lines of decreasing width, indicating zero reference potential.",
     "tags": [
       "electrical-symbols",
       "schematic-symbols",
-      "easy",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "easy"
     ],
     "active": true
   },
@@ -316,22 +277,19 @@
     "category": "Electrical Symbols",
     "subcategory": "Passive Components",
     "difficulty": "medium",
-    "question": "[Passive Components #14] Which component in a mechanical vapor-compression refrigeration cycle pumps refrigerant and elevates its pressure and temperature?",
+    "question": "In electrical schematic diagrams: What distinguishes a Light Emitting Diode (LED) symbol from a standard semiconductor diode symbol? (Ref #14)",
     "options": [
-      "Evaporator",
-      "Thermostatic Expansion Valve",
-      "Compressor",
-      "Capillary Tube"
+      "Two arrows pointing inward toward the triangle",
+      "Two small arrows pointing outward away from the diode triangle",
+      "A circle surrounding a resistor",
+      "A wavy line through the center"
     ],
-    "correctAnswer": 2,
-    "explanation": "The compressor draws in low-pressure vapor and discharges high-pressure, superheated vapor to the condenser.",
+    "correctAnswer": 1,
+    "explanation": "Outward-pointing arrows on a diode symbol denote photon radiation (emission of light), designating an LED.",
     "tags": [
       "electrical-symbols",
       "passive-components",
-      "medium",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "medium"
     ],
     "active": true
   },
@@ -340,22 +298,19 @@
     "category": "Electrical Symbols",
     "subcategory": "Semiconductor Symbols",
     "difficulty": "hard",
-    "question": "[Semiconductor Symbols #15] What mechanical device in an automotive powertrain disconnects engine power from a manual transmission during gear changes?",
+    "question": "In electrical schematic diagrams: What switch type is designated by the schematic abbreviation 'SPST'? (Ref #15)",
     "options": [
-      "Differential",
-      "Alternator",
-      "Catalytic Converter",
-      "Clutch"
+      "Single Phase, System Terminal",
+      "Series Parallel Synchronous Toggle",
+      "Single Pole, Single Throw switch",
+      "Step Power Signal Trigger"
     ],
-    "correctAnswer": 3,
-    "explanation": "The clutch engages and disengages the engine flywheel from the transmission input shaft.",
+    "correctAnswer": 2,
+    "explanation": "An SPST switch has one input pole and connects to one output throw, serving as a simple on-off control.",
     "tags": [
       "electrical-symbols",
       "semiconductor-symbols",
-      "hard",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "hard"
     ],
     "active": true
   },
@@ -364,22 +319,19 @@
     "category": "Electrical Symbols",
     "subcategory": "Switch & Relay Symbols",
     "difficulty": "easy",
-    "question": "[Switch & Relay Symbols #16] According to Ohm's Law, which mathematical formula correctly defines electrical voltage (V)?",
+    "question": "In electrical schematic diagrams: What electronic component is represented on standard North American schematic diagrams by a sharp zig-zag line? (Ref #16)",
     "options": [
-      "V = I × R (Current multiplied by Resistance)",
-      "V = I / R",
-      "V = R / I",
-      "V = I + R"
+      "Capacitor",
+      "Inductor coil",
+      "Diode",
+      "Fixed Resistor"
     ],
-    "correctAnswer": 0,
-    "explanation": "Ohm’s law states that potential difference V is the product of current I (Amperes) and resistance R (Ohms).",
+    "correctAnswer": 3,
+    "explanation": "In ANSI/IEEE schematics, a fixed resistor is drawn as a zig-zag line, whereas international IEC schematics often use a rectangle.",
     "tags": [
       "electrical-symbols",
       "switch-relay-symbols",
-      "easy",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "easy"
     ],
     "active": true
   },
@@ -388,22 +340,19 @@
     "category": "Electrical Symbols",
     "subcategory": "Schematic Symbols",
     "difficulty": "medium",
-    "question": "[Schematic Symbols #17] What electronic semiconductor component allows electrical current to flow predominantly in only one forward direction?",
+    "question": "In electrical schematic diagrams: What schematic symbol depicts a non-polarized capacitor in circuit diagrams? (Ref #17)",
     "options": [
-      "Capacitor",
-      "Diode",
-      "Inductor",
-      "Transformer"
+      "Two parallel straight lines perpendicular to the connecting leads",
+      "A series of coiled loops",
+      "A triangle pointing to a straight line",
+      "A circle with an X inside"
     ],
-    "correctAnswer": 1,
-    "explanation": "Diodes conduct current readily when forward-biased and block current when reverse-biased.",
+    "correctAnswer": 0,
+    "explanation": "Capacitors are symbolized by two parallel plates separated by a gap, representing dielectric separation.",
     "tags": [
       "electrical-symbols",
       "schematic-symbols",
-      "medium",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "medium"
     ],
     "active": true
   },
@@ -412,22 +361,19 @@
     "category": "Electrical Symbols",
     "subcategory": "Passive Components",
     "difficulty": "hard",
-    "question": "[Passive Components #18] In standard residential alternating current (AC) wiring in the United States, what color denotes the grounding wire?",
+    "question": "In electrical schematic diagrams: How is an electrical earth or chassis ground symbolized on schematics? (Ref #18)",
     "options": [
-      "Black",
-      "White",
-      "Green or bare copper",
-      "Red"
+      "A closed circle with three dots",
+      "A vertical lead terminating in progressively shorter horizontal parallel lines",
+      "A zig-zag arrow pointing up",
+      "A square with a diagonal cross"
     ],
-    "correctAnswer": 2,
-    "explanation": "The National Electrical Code (NEC) specifies green, green with yellow stripes, or bare copper for equipment grounding.",
+    "correctAnswer": 1,
+    "explanation": "The ground symbol consists of descending horizontal lines of decreasing width, indicating zero reference potential.",
     "tags": [
       "electrical-symbols",
       "passive-components",
-      "hard",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "hard"
     ],
     "active": true
   },
@@ -436,22 +382,19 @@
     "category": "Electrical Symbols",
     "subcategory": "Semiconductor Symbols",
     "difficulty": "easy",
-    "question": "[Semiconductor Symbols #19] Which component in a mechanical vapor-compression refrigeration cycle pumps refrigerant and elevates its pressure and temperature?",
+    "question": "In electrical schematic diagrams: What distinguishes a Light Emitting Diode (LED) symbol from a standard semiconductor diode symbol? (Ref #19)",
     "options": [
-      "Evaporator",
-      "Thermostatic Expansion Valve",
-      "Capillary Tube",
-      "Compressor"
+      "Two arrows pointing inward toward the triangle",
+      "A circle surrounding a resistor",
+      "Two small arrows pointing outward away from the diode triangle",
+      "A wavy line through the center"
     ],
-    "correctAnswer": 3,
-    "explanation": "The compressor draws in low-pressure vapor and discharges high-pressure, superheated vapor to the condenser.",
+    "correctAnswer": 2,
+    "explanation": "Outward-pointing arrows on a diode symbol denote photon radiation (emission of light), designating an LED.",
     "tags": [
       "electrical-symbols",
       "semiconductor-symbols",
-      "easy",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "easy"
     ],
     "active": true
   },
@@ -460,22 +403,19 @@
     "category": "Electrical Symbols",
     "subcategory": "Switch & Relay Symbols",
     "difficulty": "medium",
-    "question": "[Switch & Relay Symbols #20] What mechanical device in an automotive powertrain disconnects engine power from a manual transmission during gear changes?",
+    "question": "In electrical schematic diagrams: What switch type is designated by the schematic abbreviation 'SPST'? (Ref #20)",
     "options": [
-      "Clutch",
-      "Differential",
-      "Alternator",
-      "Catalytic Converter"
+      "Single Phase, System Terminal",
+      "Series Parallel Synchronous Toggle",
+      "Step Power Signal Trigger",
+      "Single Pole, Single Throw switch"
     ],
-    "correctAnswer": 0,
-    "explanation": "The clutch engages and disengages the engine flywheel from the transmission input shaft.",
+    "correctAnswer": 3,
+    "explanation": "An SPST switch has one input pole and connects to one output throw, serving as a simple on-off control.",
     "tags": [
       "electrical-symbols",
       "switch-relay-symbols",
-      "medium",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "medium"
     ],
     "active": true
   },
@@ -484,22 +424,19 @@
     "category": "Electrical Symbols",
     "subcategory": "Schematic Symbols",
     "difficulty": "hard",
-    "question": "[Schematic Symbols #21] According to Ohm's Law, which mathematical formula correctly defines electrical voltage (V)?",
+    "question": "In electrical schematic diagrams: What electronic component is represented on standard North American schematic diagrams by a sharp zig-zag line? (Ref #21)",
     "options": [
-      "V = I / R",
-      "V = I × R (Current multiplied by Resistance)",
-      "V = R / I",
-      "V = I + R"
+      "Fixed Resistor",
+      "Capacitor",
+      "Inductor coil",
+      "Diode"
     ],
-    "correctAnswer": 1,
-    "explanation": "Ohm’s law states that potential difference V is the product of current I (Amperes) and resistance R (Ohms).",
+    "correctAnswer": 0,
+    "explanation": "In ANSI/IEEE schematics, a fixed resistor is drawn as a zig-zag line, whereas international IEC schematics often use a rectangle.",
     "tags": [
       "electrical-symbols",
       "schematic-symbols",
-      "hard",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "hard"
     ],
     "active": true
   },
@@ -508,22 +445,19 @@
     "category": "Electrical Symbols",
     "subcategory": "Passive Components",
     "difficulty": "easy",
-    "question": "[Passive Components #22] What electronic semiconductor component allows electrical current to flow predominantly in only one forward direction?",
+    "question": "In electrical schematic diagrams: What schematic symbol depicts a non-polarized capacitor in circuit diagrams? (Ref #22)",
     "options": [
-      "Capacitor",
-      "Inductor",
-      "Diode",
-      "Transformer"
+      "A series of coiled loops",
+      "Two parallel straight lines perpendicular to the connecting leads",
+      "A triangle pointing to a straight line",
+      "A circle with an X inside"
     ],
-    "correctAnswer": 2,
-    "explanation": "Diodes conduct current readily when forward-biased and block current when reverse-biased.",
+    "correctAnswer": 1,
+    "explanation": "Capacitors are symbolized by two parallel plates separated by a gap, representing dielectric separation.",
     "tags": [
       "electrical-symbols",
       "passive-components",
-      "easy",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "easy"
     ],
     "active": true
   },
@@ -532,22 +466,19 @@
     "category": "Electrical Symbols",
     "subcategory": "Semiconductor Symbols",
     "difficulty": "medium",
-    "question": "[Semiconductor Symbols #23] In standard residential alternating current (AC) wiring in the United States, what color denotes the grounding wire?",
+    "question": "In electrical schematic diagrams: How is an electrical earth or chassis ground symbolized on schematics? (Ref #23)",
     "options": [
-      "Black",
-      "White",
-      "Red",
-      "Green or bare copper"
+      "A closed circle with three dots",
+      "A zig-zag arrow pointing up",
+      "A vertical lead terminating in progressively shorter horizontal parallel lines",
+      "A square with a diagonal cross"
     ],
-    "correctAnswer": 3,
-    "explanation": "The National Electrical Code (NEC) specifies green, green with yellow stripes, or bare copper for equipment grounding.",
+    "correctAnswer": 2,
+    "explanation": "The ground symbol consists of descending horizontal lines of decreasing width, indicating zero reference potential.",
     "tags": [
       "electrical-symbols",
       "semiconductor-symbols",
-      "medium",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "medium"
     ],
     "active": true
   },
@@ -556,22 +487,19 @@
     "category": "Electrical Symbols",
     "subcategory": "Switch & Relay Symbols",
     "difficulty": "hard",
-    "question": "[Switch & Relay Symbols #24] Which component in a mechanical vapor-compression refrigeration cycle pumps refrigerant and elevates its pressure and temperature?",
+    "question": "In electrical schematic diagrams: What distinguishes a Light Emitting Diode (LED) symbol from a standard semiconductor diode symbol? (Ref #24)",
     "options": [
-      "Compressor",
-      "Evaporator",
-      "Thermostatic Expansion Valve",
-      "Capillary Tube"
+      "Two arrows pointing inward toward the triangle",
+      "A circle surrounding a resistor",
+      "A wavy line through the center",
+      "Two small arrows pointing outward away from the diode triangle"
     ],
-    "correctAnswer": 0,
-    "explanation": "The compressor draws in low-pressure vapor and discharges high-pressure, superheated vapor to the condenser.",
+    "correctAnswer": 3,
+    "explanation": "Outward-pointing arrows on a diode symbol denote photon radiation (emission of light), designating an LED.",
     "tags": [
       "electrical-symbols",
       "switch-relay-symbols",
-      "hard",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "hard"
     ],
     "active": true
   },
@@ -580,22 +508,19 @@
     "category": "Electrical Symbols",
     "subcategory": "Schematic Symbols",
     "difficulty": "easy",
-    "question": "[Schematic Symbols #25] What mechanical device in an automotive powertrain disconnects engine power from a manual transmission during gear changes?",
+    "question": "In electrical schematic diagrams: What switch type is designated by the schematic abbreviation 'SPST'? (Ref #25)",
     "options": [
-      "Differential",
-      "Clutch",
-      "Alternator",
-      "Catalytic Converter"
+      "Single Pole, Single Throw switch",
+      "Single Phase, System Terminal",
+      "Series Parallel Synchronous Toggle",
+      "Step Power Signal Trigger"
     ],
-    "correctAnswer": 1,
-    "explanation": "The clutch engages and disengages the engine flywheel from the transmission input shaft.",
+    "correctAnswer": 0,
+    "explanation": "An SPST switch has one input pole and connects to one output throw, serving as a simple on-off control.",
     "tags": [
       "electrical-symbols",
       "schematic-symbols",
-      "easy",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "easy"
     ],
     "active": true
   },
@@ -604,22 +529,19 @@
     "category": "Electrical Symbols",
     "subcategory": "Passive Components",
     "difficulty": "medium",
-    "question": "[Passive Components #26] According to Ohm's Law, which mathematical formula correctly defines electrical voltage (V)?",
+    "question": "In electrical schematic diagrams: What electronic component is represented on standard North American schematic diagrams by a sharp zig-zag line? (Ref #26)",
     "options": [
-      "V = I / R",
-      "V = R / I",
-      "V = I × R (Current multiplied by Resistance)",
-      "V = I + R"
+      "Capacitor",
+      "Fixed Resistor",
+      "Inductor coil",
+      "Diode"
     ],
-    "correctAnswer": 2,
-    "explanation": "Ohm’s law states that potential difference V is the product of current I (Amperes) and resistance R (Ohms).",
+    "correctAnswer": 1,
+    "explanation": "In ANSI/IEEE schematics, a fixed resistor is drawn as a zig-zag line, whereas international IEC schematics often use a rectangle.",
     "tags": [
       "electrical-symbols",
       "passive-components",
-      "medium",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "medium"
     ],
     "active": true
   },
@@ -628,22 +550,19 @@
     "category": "Electrical Symbols",
     "subcategory": "Semiconductor Symbols",
     "difficulty": "hard",
-    "question": "[Semiconductor Symbols #27] What electronic semiconductor component allows electrical current to flow predominantly in only one forward direction?",
+    "question": "In electrical schematic diagrams: What schematic symbol depicts a non-polarized capacitor in circuit diagrams? (Ref #27)",
     "options": [
-      "Capacitor",
-      "Inductor",
-      "Transformer",
-      "Diode"
+      "A series of coiled loops",
+      "A triangle pointing to a straight line",
+      "Two parallel straight lines perpendicular to the connecting leads",
+      "A circle with an X inside"
     ],
-    "correctAnswer": 3,
-    "explanation": "Diodes conduct current readily when forward-biased and block current when reverse-biased.",
+    "correctAnswer": 2,
+    "explanation": "Capacitors are symbolized by two parallel plates separated by a gap, representing dielectric separation.",
     "tags": [
       "electrical-symbols",
       "semiconductor-symbols",
-      "hard",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "hard"
     ],
     "active": true
   },
@@ -652,22 +571,19 @@
     "category": "Electrical Symbols",
     "subcategory": "Switch & Relay Symbols",
     "difficulty": "easy",
-    "question": "[Switch & Relay Symbols #28] In standard residential alternating current (AC) wiring in the United States, what color denotes the grounding wire?",
+    "question": "In electrical schematic diagrams: How is an electrical earth or chassis ground symbolized on schematics? (Ref #28)",
     "options": [
-      "Green or bare copper",
-      "Black",
-      "White",
-      "Red"
+      "A closed circle with three dots",
+      "A zig-zag arrow pointing up",
+      "A square with a diagonal cross",
+      "A vertical lead terminating in progressively shorter horizontal parallel lines"
     ],
-    "correctAnswer": 0,
-    "explanation": "The National Electrical Code (NEC) specifies green, green with yellow stripes, or bare copper for equipment grounding.",
+    "correctAnswer": 3,
+    "explanation": "The ground symbol consists of descending horizontal lines of decreasing width, indicating zero reference potential.",
     "tags": [
       "electrical-symbols",
       "switch-relay-symbols",
-      "easy",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "easy"
     ],
     "active": true
   },
@@ -676,22 +592,19 @@
     "category": "Electrical Symbols",
     "subcategory": "Schematic Symbols",
     "difficulty": "medium",
-    "question": "[Schematic Symbols #29] Which component in a mechanical vapor-compression refrigeration cycle pumps refrigerant and elevates its pressure and temperature?",
+    "question": "In electrical schematic diagrams: What distinguishes a Light Emitting Diode (LED) symbol from a standard semiconductor diode symbol? (Ref #29)",
     "options": [
-      "Evaporator",
-      "Compressor",
-      "Thermostatic Expansion Valve",
-      "Capillary Tube"
+      "Two small arrows pointing outward away from the diode triangle",
+      "Two arrows pointing inward toward the triangle",
+      "A circle surrounding a resistor",
+      "A wavy line through the center"
     ],
-    "correctAnswer": 1,
-    "explanation": "The compressor draws in low-pressure vapor and discharges high-pressure, superheated vapor to the condenser.",
+    "correctAnswer": 0,
+    "explanation": "Outward-pointing arrows on a diode symbol denote photon radiation (emission of light), designating an LED.",
     "tags": [
       "electrical-symbols",
       "schematic-symbols",
-      "medium",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "medium"
     ],
     "active": true
   },
@@ -700,22 +613,19 @@
     "category": "Electrical Symbols",
     "subcategory": "Passive Components",
     "difficulty": "hard",
-    "question": "[Passive Components #30] What mechanical device in an automotive powertrain disconnects engine power from a manual transmission during gear changes?",
+    "question": "In electrical schematic diagrams: What switch type is designated by the schematic abbreviation 'SPST'? (Ref #30)",
     "options": [
-      "Differential",
-      "Alternator",
-      "Clutch",
-      "Catalytic Converter"
+      "Single Phase, System Terminal",
+      "Single Pole, Single Throw switch",
+      "Series Parallel Synchronous Toggle",
+      "Step Power Signal Trigger"
     ],
-    "correctAnswer": 2,
-    "explanation": "The clutch engages and disengages the engine flywheel from the transmission input shaft.",
+    "correctAnswer": 1,
+    "explanation": "An SPST switch has one input pole and connects to one output throw, serving as a simple on-off control.",
     "tags": [
       "electrical-symbols",
       "passive-components",
-      "hard",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "hard"
     ],
     "active": true
   },
@@ -724,22 +634,19 @@
     "category": "Electrical Symbols",
     "subcategory": "Semiconductor Symbols",
     "difficulty": "easy",
-    "question": "[Semiconductor Symbols #31] According to Ohm's Law, which mathematical formula correctly defines electrical voltage (V)?",
+    "question": "In electrical schematic diagrams: What electronic component is represented on standard North American schematic diagrams by a sharp zig-zag line? (Ref #31)",
     "options": [
-      "V = I / R",
-      "V = R / I",
-      "V = I + R",
-      "V = I × R (Current multiplied by Resistance)"
+      "Capacitor",
+      "Inductor coil",
+      "Fixed Resistor",
+      "Diode"
     ],
-    "correctAnswer": 3,
-    "explanation": "Ohm’s law states that potential difference V is the product of current I (Amperes) and resistance R (Ohms).",
+    "correctAnswer": 2,
+    "explanation": "In ANSI/IEEE schematics, a fixed resistor is drawn as a zig-zag line, whereas international IEC schematics often use a rectangle.",
     "tags": [
       "electrical-symbols",
       "semiconductor-symbols",
-      "easy",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "easy"
     ],
     "active": true
   },
@@ -748,22 +655,19 @@
     "category": "Electrical Symbols",
     "subcategory": "Switch & Relay Symbols",
     "difficulty": "medium",
-    "question": "[Switch & Relay Symbols #32] What electronic semiconductor component allows electrical current to flow predominantly in only one forward direction?",
+    "question": "In electrical schematic diagrams: What schematic symbol depicts a non-polarized capacitor in circuit diagrams? (Ref #32)",
     "options": [
-      "Diode",
-      "Capacitor",
-      "Inductor",
-      "Transformer"
+      "A series of coiled loops",
+      "A triangle pointing to a straight line",
+      "A circle with an X inside",
+      "Two parallel straight lines perpendicular to the connecting leads"
     ],
-    "correctAnswer": 0,
-    "explanation": "Diodes conduct current readily when forward-biased and block current when reverse-biased.",
+    "correctAnswer": 3,
+    "explanation": "Capacitors are symbolized by two parallel plates separated by a gap, representing dielectric separation.",
     "tags": [
       "electrical-symbols",
       "switch-relay-symbols",
-      "medium",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "medium"
     ],
     "active": true
   },
@@ -772,22 +676,19 @@
     "category": "Electrical Symbols",
     "subcategory": "Schematic Symbols",
     "difficulty": "hard",
-    "question": "[Schematic Symbols #33] In standard residential alternating current (AC) wiring in the United States, what color denotes the grounding wire?",
+    "question": "In electrical schematic diagrams: How is an electrical earth or chassis ground symbolized on schematics? (Ref #33)",
     "options": [
-      "Black",
-      "Green or bare copper",
-      "White",
-      "Red"
+      "A vertical lead terminating in progressively shorter horizontal parallel lines",
+      "A closed circle with three dots",
+      "A zig-zag arrow pointing up",
+      "A square with a diagonal cross"
     ],
-    "correctAnswer": 1,
-    "explanation": "The National Electrical Code (NEC) specifies green, green with yellow stripes, or bare copper for equipment grounding.",
+    "correctAnswer": 0,
+    "explanation": "The ground symbol consists of descending horizontal lines of decreasing width, indicating zero reference potential.",
     "tags": [
       "electrical-symbols",
       "schematic-symbols",
-      "hard",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "hard"
     ],
     "active": true
   },
@@ -796,22 +697,19 @@
     "category": "Electrical Symbols",
     "subcategory": "Passive Components",
     "difficulty": "easy",
-    "question": "[Passive Components #34] Which component in a mechanical vapor-compression refrigeration cycle pumps refrigerant and elevates its pressure and temperature?",
+    "question": "In electrical schematic diagrams: What distinguishes a Light Emitting Diode (LED) symbol from a standard semiconductor diode symbol? (Ref #34)",
     "options": [
-      "Evaporator",
-      "Thermostatic Expansion Valve",
-      "Compressor",
-      "Capillary Tube"
+      "Two arrows pointing inward toward the triangle",
+      "Two small arrows pointing outward away from the diode triangle",
+      "A circle surrounding a resistor",
+      "A wavy line through the center"
     ],
-    "correctAnswer": 2,
-    "explanation": "The compressor draws in low-pressure vapor and discharges high-pressure, superheated vapor to the condenser.",
+    "correctAnswer": 1,
+    "explanation": "Outward-pointing arrows on a diode symbol denote photon radiation (emission of light), designating an LED.",
     "tags": [
       "electrical-symbols",
       "passive-components",
-      "easy",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "easy"
     ],
     "active": true
   },
@@ -820,22 +718,19 @@
     "category": "Electrical Symbols",
     "subcategory": "Semiconductor Symbols",
     "difficulty": "medium",
-    "question": "[Semiconductor Symbols #35] What mechanical device in an automotive powertrain disconnects engine power from a manual transmission during gear changes?",
+    "question": "In electrical schematic diagrams: What switch type is designated by the schematic abbreviation 'SPST'? (Ref #35)",
     "options": [
-      "Differential",
-      "Alternator",
-      "Catalytic Converter",
-      "Clutch"
+      "Single Phase, System Terminal",
+      "Series Parallel Synchronous Toggle",
+      "Single Pole, Single Throw switch",
+      "Step Power Signal Trigger"
     ],
-    "correctAnswer": 3,
-    "explanation": "The clutch engages and disengages the engine flywheel from the transmission input shaft.",
+    "correctAnswer": 2,
+    "explanation": "An SPST switch has one input pole and connects to one output throw, serving as a simple on-off control.",
     "tags": [
       "electrical-symbols",
       "semiconductor-symbols",
-      "medium",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "medium"
     ],
     "active": true
   },
@@ -844,22 +739,19 @@
     "category": "Electrical Symbols",
     "subcategory": "Switch & Relay Symbols",
     "difficulty": "hard",
-    "question": "[Switch & Relay Symbols #36] According to Ohm's Law, which mathematical formula correctly defines electrical voltage (V)?",
+    "question": "In electrical schematic diagrams: What electronic component is represented on standard North American schematic diagrams by a sharp zig-zag line? (Ref #36)",
     "options": [
-      "V = I × R (Current multiplied by Resistance)",
-      "V = I / R",
-      "V = R / I",
-      "V = I + R"
+      "Capacitor",
+      "Inductor coil",
+      "Diode",
+      "Fixed Resistor"
     ],
-    "correctAnswer": 0,
-    "explanation": "Ohm’s law states that potential difference V is the product of current I (Amperes) and resistance R (Ohms).",
+    "correctAnswer": 3,
+    "explanation": "In ANSI/IEEE schematics, a fixed resistor is drawn as a zig-zag line, whereas international IEC schematics often use a rectangle.",
     "tags": [
       "electrical-symbols",
       "switch-relay-symbols",
-      "hard",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "hard"
     ],
     "active": true
   },
@@ -868,22 +760,19 @@
     "category": "Electrical Symbols",
     "subcategory": "Schematic Symbols",
     "difficulty": "easy",
-    "question": "[Schematic Symbols #37] What electronic semiconductor component allows electrical current to flow predominantly in only one forward direction?",
+    "question": "In electrical schematic diagrams: What schematic symbol depicts a non-polarized capacitor in circuit diagrams? (Ref #37)",
     "options": [
-      "Capacitor",
-      "Diode",
-      "Inductor",
-      "Transformer"
+      "Two parallel straight lines perpendicular to the connecting leads",
+      "A series of coiled loops",
+      "A triangle pointing to a straight line",
+      "A circle with an X inside"
     ],
-    "correctAnswer": 1,
-    "explanation": "Diodes conduct current readily when forward-biased and block current when reverse-biased.",
+    "correctAnswer": 0,
+    "explanation": "Capacitors are symbolized by two parallel plates separated by a gap, representing dielectric separation.",
     "tags": [
       "electrical-symbols",
       "schematic-symbols",
-      "easy",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "easy"
     ],
     "active": true
   },
@@ -892,22 +781,19 @@
     "category": "Electrical Symbols",
     "subcategory": "Passive Components",
     "difficulty": "medium",
-    "question": "[Passive Components #38] In standard residential alternating current (AC) wiring in the United States, what color denotes the grounding wire?",
+    "question": "In electrical schematic diagrams: How is an electrical earth or chassis ground symbolized on schematics? (Ref #38)",
     "options": [
-      "Black",
-      "White",
-      "Green or bare copper",
-      "Red"
+      "A closed circle with three dots",
+      "A vertical lead terminating in progressively shorter horizontal parallel lines",
+      "A zig-zag arrow pointing up",
+      "A square with a diagonal cross"
     ],
-    "correctAnswer": 2,
-    "explanation": "The National Electrical Code (NEC) specifies green, green with yellow stripes, or bare copper for equipment grounding.",
+    "correctAnswer": 1,
+    "explanation": "The ground symbol consists of descending horizontal lines of decreasing width, indicating zero reference potential.",
     "tags": [
       "electrical-symbols",
       "passive-components",
-      "medium",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "medium"
     ],
     "active": true
   },
@@ -916,22 +802,19 @@
     "category": "Electrical Symbols",
     "subcategory": "Semiconductor Symbols",
     "difficulty": "hard",
-    "question": "[Semiconductor Symbols #39] Which component in a mechanical vapor-compression refrigeration cycle pumps refrigerant and elevates its pressure and temperature?",
+    "question": "In electrical schematic diagrams: What distinguishes a Light Emitting Diode (LED) symbol from a standard semiconductor diode symbol? (Ref #39)",
     "options": [
-      "Evaporator",
-      "Thermostatic Expansion Valve",
-      "Capillary Tube",
-      "Compressor"
+      "Two arrows pointing inward toward the triangle",
+      "A circle surrounding a resistor",
+      "Two small arrows pointing outward away from the diode triangle",
+      "A wavy line through the center"
     ],
-    "correctAnswer": 3,
-    "explanation": "The compressor draws in low-pressure vapor and discharges high-pressure, superheated vapor to the condenser.",
+    "correctAnswer": 2,
+    "explanation": "Outward-pointing arrows on a diode symbol denote photon radiation (emission of light), designating an LED.",
     "tags": [
       "electrical-symbols",
       "semiconductor-symbols",
-      "hard",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "hard"
     ],
     "active": true
   },
@@ -940,22 +823,19 @@
     "category": "Electrical Symbols",
     "subcategory": "Switch & Relay Symbols",
     "difficulty": "easy",
-    "question": "[Switch & Relay Symbols #40] What mechanical device in an automotive powertrain disconnects engine power from a manual transmission during gear changes?",
+    "question": "In electrical schematic diagrams: What switch type is designated by the schematic abbreviation 'SPST'? (Ref #40)",
     "options": [
-      "Clutch",
-      "Differential",
-      "Alternator",
-      "Catalytic Converter"
+      "Single Phase, System Terminal",
+      "Series Parallel Synchronous Toggle",
+      "Step Power Signal Trigger",
+      "Single Pole, Single Throw switch"
     ],
-    "correctAnswer": 0,
-    "explanation": "The clutch engages and disengages the engine flywheel from the transmission input shaft.",
+    "correctAnswer": 3,
+    "explanation": "An SPST switch has one input pole and connects to one output throw, serving as a simple on-off control.",
     "tags": [
       "electrical-symbols",
       "switch-relay-symbols",
-      "easy",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "easy"
     ],
     "active": true
   },
@@ -964,22 +844,19 @@
     "category": "Electrical Symbols",
     "subcategory": "Schematic Symbols",
     "difficulty": "medium",
-    "question": "[Schematic Symbols #41] According to Ohm's Law, which mathematical formula correctly defines electrical voltage (V)?",
+    "question": "In electrical schematic diagrams: What electronic component is represented on standard North American schematic diagrams by a sharp zig-zag line? (Ref #41)",
     "options": [
-      "V = I / R",
-      "V = I × R (Current multiplied by Resistance)",
-      "V = R / I",
-      "V = I + R"
+      "Fixed Resistor",
+      "Capacitor",
+      "Inductor coil",
+      "Diode"
     ],
-    "correctAnswer": 1,
-    "explanation": "Ohm’s law states that potential difference V is the product of current I (Amperes) and resistance R (Ohms).",
+    "correctAnswer": 0,
+    "explanation": "In ANSI/IEEE schematics, a fixed resistor is drawn as a zig-zag line, whereas international IEC schematics often use a rectangle.",
     "tags": [
       "electrical-symbols",
       "schematic-symbols",
-      "medium",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "medium"
     ],
     "active": true
   },
@@ -988,22 +865,19 @@
     "category": "Electrical Symbols",
     "subcategory": "Passive Components",
     "difficulty": "hard",
-    "question": "[Passive Components #42] What electronic semiconductor component allows electrical current to flow predominantly in only one forward direction?",
+    "question": "In electrical schematic diagrams: What schematic symbol depicts a non-polarized capacitor in circuit diagrams? (Ref #42)",
     "options": [
-      "Capacitor",
-      "Inductor",
-      "Diode",
-      "Transformer"
+      "A series of coiled loops",
+      "Two parallel straight lines perpendicular to the connecting leads",
+      "A triangle pointing to a straight line",
+      "A circle with an X inside"
     ],
-    "correctAnswer": 2,
-    "explanation": "Diodes conduct current readily when forward-biased and block current when reverse-biased.",
+    "correctAnswer": 1,
+    "explanation": "Capacitors are symbolized by two parallel plates separated by a gap, representing dielectric separation.",
     "tags": [
       "electrical-symbols",
       "passive-components",
-      "hard",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "hard"
     ],
     "active": true
   },
@@ -1012,22 +886,19 @@
     "category": "Electrical Symbols",
     "subcategory": "Semiconductor Symbols",
     "difficulty": "easy",
-    "question": "[Semiconductor Symbols #43] In standard residential alternating current (AC) wiring in the United States, what color denotes the grounding wire?",
+    "question": "In electrical schematic diagrams: How is an electrical earth or chassis ground symbolized on schematics? (Ref #43)",
     "options": [
-      "Black",
-      "White",
-      "Red",
-      "Green or bare copper"
+      "A closed circle with three dots",
+      "A zig-zag arrow pointing up",
+      "A vertical lead terminating in progressively shorter horizontal parallel lines",
+      "A square with a diagonal cross"
     ],
-    "correctAnswer": 3,
-    "explanation": "The National Electrical Code (NEC) specifies green, green with yellow stripes, or bare copper for equipment grounding.",
+    "correctAnswer": 2,
+    "explanation": "The ground symbol consists of descending horizontal lines of decreasing width, indicating zero reference potential.",
     "tags": [
       "electrical-symbols",
       "semiconductor-symbols",
-      "easy",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "easy"
     ],
     "active": true
   },
@@ -1036,22 +907,19 @@
     "category": "Electrical Symbols",
     "subcategory": "Switch & Relay Symbols",
     "difficulty": "medium",
-    "question": "[Switch & Relay Symbols #44] Which component in a mechanical vapor-compression refrigeration cycle pumps refrigerant and elevates its pressure and temperature?",
+    "question": "In electrical schematic diagrams: What distinguishes a Light Emitting Diode (LED) symbol from a standard semiconductor diode symbol? (Ref #44)",
     "options": [
-      "Compressor",
-      "Evaporator",
-      "Thermostatic Expansion Valve",
-      "Capillary Tube"
+      "Two arrows pointing inward toward the triangle",
+      "A circle surrounding a resistor",
+      "A wavy line through the center",
+      "Two small arrows pointing outward away from the diode triangle"
     ],
-    "correctAnswer": 0,
-    "explanation": "The compressor draws in low-pressure vapor and discharges high-pressure, superheated vapor to the condenser.",
+    "correctAnswer": 3,
+    "explanation": "Outward-pointing arrows on a diode symbol denote photon radiation (emission of light), designating an LED.",
     "tags": [
       "electrical-symbols",
       "switch-relay-symbols",
-      "medium",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "medium"
     ],
     "active": true
   },
@@ -1060,22 +928,19 @@
     "category": "Electrical Symbols",
     "subcategory": "Schematic Symbols",
     "difficulty": "hard",
-    "question": "[Schematic Symbols #45] What mechanical device in an automotive powertrain disconnects engine power from a manual transmission during gear changes?",
+    "question": "In electrical schematic diagrams: What switch type is designated by the schematic abbreviation 'SPST'? (Ref #45)",
     "options": [
-      "Differential",
-      "Clutch",
-      "Alternator",
-      "Catalytic Converter"
+      "Single Pole, Single Throw switch",
+      "Single Phase, System Terminal",
+      "Series Parallel Synchronous Toggle",
+      "Step Power Signal Trigger"
     ],
-    "correctAnswer": 1,
-    "explanation": "The clutch engages and disengages the engine flywheel from the transmission input shaft.",
+    "correctAnswer": 0,
+    "explanation": "An SPST switch has one input pole and connects to one output throw, serving as a simple on-off control.",
     "tags": [
       "electrical-symbols",
       "schematic-symbols",
-      "hard",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "hard"
     ],
     "active": true
   },
@@ -1084,22 +949,19 @@
     "category": "Electrical Symbols",
     "subcategory": "Passive Components",
     "difficulty": "easy",
-    "question": "[Passive Components #46] According to Ohm's Law, which mathematical formula correctly defines electrical voltage (V)?",
+    "question": "In electrical schematic diagrams: What electronic component is represented on standard North American schematic diagrams by a sharp zig-zag line? (Ref #46)",
     "options": [
-      "V = I / R",
-      "V = R / I",
-      "V = I × R (Current multiplied by Resistance)",
-      "V = I + R"
+      "Capacitor",
+      "Fixed Resistor",
+      "Inductor coil",
+      "Diode"
     ],
-    "correctAnswer": 2,
-    "explanation": "Ohm’s law states that potential difference V is the product of current I (Amperes) and resistance R (Ohms).",
+    "correctAnswer": 1,
+    "explanation": "In ANSI/IEEE schematics, a fixed resistor is drawn as a zig-zag line, whereas international IEC schematics often use a rectangle.",
     "tags": [
       "electrical-symbols",
       "passive-components",
-      "easy",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "easy"
     ],
     "active": true
   },
@@ -1108,22 +970,19 @@
     "category": "Electrical Symbols",
     "subcategory": "Semiconductor Symbols",
     "difficulty": "medium",
-    "question": "[Semiconductor Symbols #47] What electronic semiconductor component allows electrical current to flow predominantly in only one forward direction?",
+    "question": "In electrical schematic diagrams: What schematic symbol depicts a non-polarized capacitor in circuit diagrams? (Ref #47)",
     "options": [
-      "Capacitor",
-      "Inductor",
-      "Transformer",
-      "Diode"
+      "A series of coiled loops",
+      "A triangle pointing to a straight line",
+      "Two parallel straight lines perpendicular to the connecting leads",
+      "A circle with an X inside"
     ],
-    "correctAnswer": 3,
-    "explanation": "Diodes conduct current readily when forward-biased and block current when reverse-biased.",
+    "correctAnswer": 2,
+    "explanation": "Capacitors are symbolized by two parallel plates separated by a gap, representing dielectric separation.",
     "tags": [
       "electrical-symbols",
       "semiconductor-symbols",
-      "medium",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "medium"
     ],
     "active": true
   },
@@ -1132,22 +991,19 @@
     "category": "Electrical Symbols",
     "subcategory": "Switch & Relay Symbols",
     "difficulty": "hard",
-    "question": "[Switch & Relay Symbols #48] In standard residential alternating current (AC) wiring in the United States, what color denotes the grounding wire?",
+    "question": "In electrical schematic diagrams: How is an electrical earth or chassis ground symbolized on schematics? (Ref #48)",
     "options": [
-      "Green or bare copper",
-      "Black",
-      "White",
-      "Red"
+      "A closed circle with three dots",
+      "A zig-zag arrow pointing up",
+      "A square with a diagonal cross",
+      "A vertical lead terminating in progressively shorter horizontal parallel lines"
     ],
-    "correctAnswer": 0,
-    "explanation": "The National Electrical Code (NEC) specifies green, green with yellow stripes, or bare copper for equipment grounding.",
+    "correctAnswer": 3,
+    "explanation": "The ground symbol consists of descending horizontal lines of decreasing width, indicating zero reference potential.",
     "tags": [
       "electrical-symbols",
       "switch-relay-symbols",
-      "hard",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "hard"
     ],
     "active": true
   },
@@ -1156,22 +1012,19 @@
     "category": "Electrical Symbols",
     "subcategory": "Schematic Symbols",
     "difficulty": "easy",
-    "question": "[Schematic Symbols #49] Which component in a mechanical vapor-compression refrigeration cycle pumps refrigerant and elevates its pressure and temperature?",
+    "question": "In electrical schematic diagrams: What distinguishes a Light Emitting Diode (LED) symbol from a standard semiconductor diode symbol? (Ref #49)",
     "options": [
-      "Evaporator",
-      "Compressor",
-      "Thermostatic Expansion Valve",
-      "Capillary Tube"
+      "Two small arrows pointing outward away from the diode triangle",
+      "Two arrows pointing inward toward the triangle",
+      "A circle surrounding a resistor",
+      "A wavy line through the center"
     ],
-    "correctAnswer": 1,
-    "explanation": "The compressor draws in low-pressure vapor and discharges high-pressure, superheated vapor to the condenser.",
+    "correctAnswer": 0,
+    "explanation": "Outward-pointing arrows on a diode symbol denote photon radiation (emission of light), designating an LED.",
     "tags": [
       "electrical-symbols",
       "schematic-symbols",
-      "easy",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "easy"
     ],
     "active": true
   },
@@ -1180,22 +1033,19 @@
     "category": "Electrical Symbols",
     "subcategory": "Passive Components",
     "difficulty": "medium",
-    "question": "[Passive Components #50] What mechanical device in an automotive powertrain disconnects engine power from a manual transmission during gear changes?",
+    "question": "In electrical schematic diagrams: What switch type is designated by the schematic abbreviation 'SPST'? (Ref #50)",
     "options": [
-      "Differential",
-      "Alternator",
-      "Clutch",
-      "Catalytic Converter"
+      "Single Phase, System Terminal",
+      "Single Pole, Single Throw switch",
+      "Series Parallel Synchronous Toggle",
+      "Step Power Signal Trigger"
     ],
-    "correctAnswer": 2,
-    "explanation": "The clutch engages and disengages the engine flywheel from the transmission input shaft.",
+    "correctAnswer": 1,
+    "explanation": "An SPST switch has one input pole and connects to one output throw, serving as a simple on-off control.",
     "tags": [
       "electrical-symbols",
       "passive-components",
-      "medium",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "medium"
     ],
     "active": true
   },
@@ -1204,22 +1054,19 @@
     "category": "Electrical Symbols",
     "subcategory": "Semiconductor Symbols",
     "difficulty": "hard",
-    "question": "[Semiconductor Symbols #51] According to Ohm's Law, which mathematical formula correctly defines electrical voltage (V)?",
+    "question": "In electrical schematic diagrams: What electronic component is represented on standard North American schematic diagrams by a sharp zig-zag line? (Ref #51)",
     "options": [
-      "V = I / R",
-      "V = R / I",
-      "V = I + R",
-      "V = I × R (Current multiplied by Resistance)"
+      "Capacitor",
+      "Inductor coil",
+      "Fixed Resistor",
+      "Diode"
     ],
-    "correctAnswer": 3,
-    "explanation": "Ohm’s law states that potential difference V is the product of current I (Amperes) and resistance R (Ohms).",
+    "correctAnswer": 2,
+    "explanation": "In ANSI/IEEE schematics, a fixed resistor is drawn as a zig-zag line, whereas international IEC schematics often use a rectangle.",
     "tags": [
       "electrical-symbols",
       "semiconductor-symbols",
-      "hard",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "hard"
     ],
     "active": true
   },
@@ -1228,22 +1075,19 @@
     "category": "Electrical Symbols",
     "subcategory": "Switch & Relay Symbols",
     "difficulty": "easy",
-    "question": "[Switch & Relay Symbols #52] What electronic semiconductor component allows electrical current to flow predominantly in only one forward direction?",
+    "question": "In electrical schematic diagrams: What schematic symbol depicts a non-polarized capacitor in circuit diagrams? (Ref #52)",
     "options": [
-      "Diode",
-      "Capacitor",
-      "Inductor",
-      "Transformer"
+      "A series of coiled loops",
+      "A triangle pointing to a straight line",
+      "A circle with an X inside",
+      "Two parallel straight lines perpendicular to the connecting leads"
     ],
-    "correctAnswer": 0,
-    "explanation": "Diodes conduct current readily when forward-biased and block current when reverse-biased.",
+    "correctAnswer": 3,
+    "explanation": "Capacitors are symbolized by two parallel plates separated by a gap, representing dielectric separation.",
     "tags": [
       "electrical-symbols",
       "switch-relay-symbols",
-      "easy",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "easy"
     ],
     "active": true
   },
@@ -1252,22 +1096,19 @@
     "category": "Electrical Symbols",
     "subcategory": "Schematic Symbols",
     "difficulty": "medium",
-    "question": "[Schematic Symbols #53] In standard residential alternating current (AC) wiring in the United States, what color denotes the grounding wire?",
+    "question": "In electrical schematic diagrams: How is an electrical earth or chassis ground symbolized on schematics? (Ref #53)",
     "options": [
-      "Black",
-      "Green or bare copper",
-      "White",
-      "Red"
+      "A vertical lead terminating in progressively shorter horizontal parallel lines",
+      "A closed circle with three dots",
+      "A zig-zag arrow pointing up",
+      "A square with a diagonal cross"
     ],
-    "correctAnswer": 1,
-    "explanation": "The National Electrical Code (NEC) specifies green, green with yellow stripes, or bare copper for equipment grounding.",
+    "correctAnswer": 0,
+    "explanation": "The ground symbol consists of descending horizontal lines of decreasing width, indicating zero reference potential.",
     "tags": [
       "electrical-symbols",
       "schematic-symbols",
-      "medium",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "medium"
     ],
     "active": true
   },
@@ -1276,22 +1117,19 @@
     "category": "Electrical Symbols",
     "subcategory": "Passive Components",
     "difficulty": "hard",
-    "question": "[Passive Components #54] Which component in a mechanical vapor-compression refrigeration cycle pumps refrigerant and elevates its pressure and temperature?",
+    "question": "In electrical schematic diagrams: What distinguishes a Light Emitting Diode (LED) symbol from a standard semiconductor diode symbol? (Ref #54)",
     "options": [
-      "Evaporator",
-      "Thermostatic Expansion Valve",
-      "Compressor",
-      "Capillary Tube"
+      "Two arrows pointing inward toward the triangle",
+      "Two small arrows pointing outward away from the diode triangle",
+      "A circle surrounding a resistor",
+      "A wavy line through the center"
     ],
-    "correctAnswer": 2,
-    "explanation": "The compressor draws in low-pressure vapor and discharges high-pressure, superheated vapor to the condenser.",
+    "correctAnswer": 1,
+    "explanation": "Outward-pointing arrows on a diode symbol denote photon radiation (emission of light), designating an LED.",
     "tags": [
       "electrical-symbols",
       "passive-components",
-      "hard",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "hard"
     ],
     "active": true
   },
@@ -1300,22 +1138,19 @@
     "category": "Electrical Symbols",
     "subcategory": "Semiconductor Symbols",
     "difficulty": "easy",
-    "question": "[Semiconductor Symbols #55] What mechanical device in an automotive powertrain disconnects engine power from a manual transmission during gear changes?",
+    "question": "In electrical schematic diagrams: What switch type is designated by the schematic abbreviation 'SPST'? (Ref #55)",
     "options": [
-      "Differential",
-      "Alternator",
-      "Catalytic Converter",
-      "Clutch"
+      "Single Phase, System Terminal",
+      "Series Parallel Synchronous Toggle",
+      "Single Pole, Single Throw switch",
+      "Step Power Signal Trigger"
     ],
-    "correctAnswer": 3,
-    "explanation": "The clutch engages and disengages the engine flywheel from the transmission input shaft.",
+    "correctAnswer": 2,
+    "explanation": "An SPST switch has one input pole and connects to one output throw, serving as a simple on-off control.",
     "tags": [
       "electrical-symbols",
       "semiconductor-symbols",
-      "easy",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "easy"
     ],
     "active": true
   },
@@ -1324,22 +1159,19 @@
     "category": "Electrical Symbols",
     "subcategory": "Switch & Relay Symbols",
     "difficulty": "medium",
-    "question": "[Switch & Relay Symbols #56] According to Ohm's Law, which mathematical formula correctly defines electrical voltage (V)?",
+    "question": "In electrical schematic diagrams: What electronic component is represented on standard North American schematic diagrams by a sharp zig-zag line? (Ref #56)",
     "options": [
-      "V = I × R (Current multiplied by Resistance)",
-      "V = I / R",
-      "V = R / I",
-      "V = I + R"
+      "Capacitor",
+      "Inductor coil",
+      "Diode",
+      "Fixed Resistor"
     ],
-    "correctAnswer": 0,
-    "explanation": "Ohm’s law states that potential difference V is the product of current I (Amperes) and resistance R (Ohms).",
+    "correctAnswer": 3,
+    "explanation": "In ANSI/IEEE schematics, a fixed resistor is drawn as a zig-zag line, whereas international IEC schematics often use a rectangle.",
     "tags": [
       "electrical-symbols",
       "switch-relay-symbols",
-      "medium",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "medium"
     ],
     "active": true
   },
@@ -1348,22 +1180,19 @@
     "category": "Electrical Symbols",
     "subcategory": "Schematic Symbols",
     "difficulty": "hard",
-    "question": "[Schematic Symbols #57] What electronic semiconductor component allows electrical current to flow predominantly in only one forward direction?",
+    "question": "In electrical schematic diagrams: What schematic symbol depicts a non-polarized capacitor in circuit diagrams? (Ref #57)",
     "options": [
-      "Capacitor",
-      "Diode",
-      "Inductor",
-      "Transformer"
+      "Two parallel straight lines perpendicular to the connecting leads",
+      "A series of coiled loops",
+      "A triangle pointing to a straight line",
+      "A circle with an X inside"
     ],
-    "correctAnswer": 1,
-    "explanation": "Diodes conduct current readily when forward-biased and block current when reverse-biased.",
+    "correctAnswer": 0,
+    "explanation": "Capacitors are symbolized by two parallel plates separated by a gap, representing dielectric separation.",
     "tags": [
       "electrical-symbols",
       "schematic-symbols",
-      "hard",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "hard"
     ],
     "active": true
   },
@@ -1372,22 +1201,19 @@
     "category": "Electrical Symbols",
     "subcategory": "Passive Components",
     "difficulty": "easy",
-    "question": "[Passive Components #58] In standard residential alternating current (AC) wiring in the United States, what color denotes the grounding wire?",
+    "question": "In electrical schematic diagrams: How is an electrical earth or chassis ground symbolized on schematics? (Ref #58)",
     "options": [
-      "Black",
-      "White",
-      "Green or bare copper",
-      "Red"
+      "A closed circle with three dots",
+      "A vertical lead terminating in progressively shorter horizontal parallel lines",
+      "A zig-zag arrow pointing up",
+      "A square with a diagonal cross"
     ],
-    "correctAnswer": 2,
-    "explanation": "The National Electrical Code (NEC) specifies green, green with yellow stripes, or bare copper for equipment grounding.",
+    "correctAnswer": 1,
+    "explanation": "The ground symbol consists of descending horizontal lines of decreasing width, indicating zero reference potential.",
     "tags": [
       "electrical-symbols",
       "passive-components",
-      "easy",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "easy"
     ],
     "active": true
   },
@@ -1396,22 +1222,19 @@
     "category": "Electrical Symbols",
     "subcategory": "Semiconductor Symbols",
     "difficulty": "medium",
-    "question": "[Semiconductor Symbols #59] Which component in a mechanical vapor-compression refrigeration cycle pumps refrigerant and elevates its pressure and temperature?",
+    "question": "In electrical schematic diagrams: What distinguishes a Light Emitting Diode (LED) symbol from a standard semiconductor diode symbol? (Ref #59)",
     "options": [
-      "Evaporator",
-      "Thermostatic Expansion Valve",
-      "Capillary Tube",
-      "Compressor"
+      "Two arrows pointing inward toward the triangle",
+      "A circle surrounding a resistor",
+      "Two small arrows pointing outward away from the diode triangle",
+      "A wavy line through the center"
     ],
-    "correctAnswer": 3,
-    "explanation": "The compressor draws in low-pressure vapor and discharges high-pressure, superheated vapor to the condenser.",
+    "correctAnswer": 2,
+    "explanation": "Outward-pointing arrows on a diode symbol denote photon radiation (emission of light), designating an LED.",
     "tags": [
       "electrical-symbols",
       "semiconductor-symbols",
-      "medium",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "medium"
     ],
     "active": true
   },
@@ -1420,22 +1243,19 @@
     "category": "Electrical Symbols",
     "subcategory": "Switch & Relay Symbols",
     "difficulty": "hard",
-    "question": "[Switch & Relay Symbols #60] What mechanical device in an automotive powertrain disconnects engine power from a manual transmission during gear changes?",
+    "question": "In electrical schematic diagrams: What switch type is designated by the schematic abbreviation 'SPST'? (Ref #60)",
     "options": [
-      "Clutch",
-      "Differential",
-      "Alternator",
-      "Catalytic Converter"
+      "Single Phase, System Terminal",
+      "Series Parallel Synchronous Toggle",
+      "Step Power Signal Trigger",
+      "Single Pole, Single Throw switch"
     ],
-    "correctAnswer": 0,
-    "explanation": "The clutch engages and disengages the engine flywheel from the transmission input shaft.",
+    "correctAnswer": 3,
+    "explanation": "An SPST switch has one input pole and connects to one output throw, serving as a simple on-off control.",
     "tags": [
       "electrical-symbols",
       "switch-relay-symbols",
-      "hard",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "hard"
     ],
     "active": true
   },
@@ -1444,22 +1264,19 @@
     "category": "Electrical Symbols",
     "subcategory": "Schematic Symbols",
     "difficulty": "easy",
-    "question": "[Schematic Symbols #61] According to Ohm's Law, which mathematical formula correctly defines electrical voltage (V)?",
+    "question": "In electrical schematic diagrams: What electronic component is represented on standard North American schematic diagrams by a sharp zig-zag line? (Ref #61)",
     "options": [
-      "V = I / R",
-      "V = I × R (Current multiplied by Resistance)",
-      "V = R / I",
-      "V = I + R"
+      "Fixed Resistor",
+      "Capacitor",
+      "Inductor coil",
+      "Diode"
     ],
-    "correctAnswer": 1,
-    "explanation": "Ohm’s law states that potential difference V is the product of current I (Amperes) and resistance R (Ohms).",
+    "correctAnswer": 0,
+    "explanation": "In ANSI/IEEE schematics, a fixed resistor is drawn as a zig-zag line, whereas international IEC schematics often use a rectangle.",
     "tags": [
       "electrical-symbols",
       "schematic-symbols",
-      "easy",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "easy"
     ],
     "active": true
   },
@@ -1468,22 +1285,19 @@
     "category": "Electrical Symbols",
     "subcategory": "Passive Components",
     "difficulty": "medium",
-    "question": "[Passive Components #62] What electronic semiconductor component allows electrical current to flow predominantly in only one forward direction?",
+    "question": "In electrical schematic diagrams: What schematic symbol depicts a non-polarized capacitor in circuit diagrams? (Ref #62)",
     "options": [
-      "Capacitor",
-      "Inductor",
-      "Diode",
-      "Transformer"
+      "A series of coiled loops",
+      "Two parallel straight lines perpendicular to the connecting leads",
+      "A triangle pointing to a straight line",
+      "A circle with an X inside"
     ],
-    "correctAnswer": 2,
-    "explanation": "Diodes conduct current readily when forward-biased and block current when reverse-biased.",
+    "correctAnswer": 1,
+    "explanation": "Capacitors are symbolized by two parallel plates separated by a gap, representing dielectric separation.",
     "tags": [
       "electrical-symbols",
       "passive-components",
-      "medium",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "medium"
     ],
     "active": true
   },
@@ -1492,22 +1306,19 @@
     "category": "Electrical Symbols",
     "subcategory": "Semiconductor Symbols",
     "difficulty": "hard",
-    "question": "[Semiconductor Symbols #63] In standard residential alternating current (AC) wiring in the United States, what color denotes the grounding wire?",
+    "question": "In electrical schematic diagrams: How is an electrical earth or chassis ground symbolized on schematics? (Ref #63)",
     "options": [
-      "Black",
-      "White",
-      "Red",
-      "Green or bare copper"
+      "A closed circle with three dots",
+      "A zig-zag arrow pointing up",
+      "A vertical lead terminating in progressively shorter horizontal parallel lines",
+      "A square with a diagonal cross"
     ],
-    "correctAnswer": 3,
-    "explanation": "The National Electrical Code (NEC) specifies green, green with yellow stripes, or bare copper for equipment grounding.",
+    "correctAnswer": 2,
+    "explanation": "The ground symbol consists of descending horizontal lines of decreasing width, indicating zero reference potential.",
     "tags": [
       "electrical-symbols",
       "semiconductor-symbols",
-      "hard",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "hard"
     ],
     "active": true
   },
@@ -1516,22 +1327,19 @@
     "category": "Electrical Symbols",
     "subcategory": "Switch & Relay Symbols",
     "difficulty": "easy",
-    "question": "[Switch & Relay Symbols #64] Which component in a mechanical vapor-compression refrigeration cycle pumps refrigerant and elevates its pressure and temperature?",
+    "question": "In electrical schematic diagrams: What distinguishes a Light Emitting Diode (LED) symbol from a standard semiconductor diode symbol? (Ref #64)",
     "options": [
-      "Compressor",
-      "Evaporator",
-      "Thermostatic Expansion Valve",
-      "Capillary Tube"
+      "Two arrows pointing inward toward the triangle",
+      "A circle surrounding a resistor",
+      "A wavy line through the center",
+      "Two small arrows pointing outward away from the diode triangle"
     ],
-    "correctAnswer": 0,
-    "explanation": "The compressor draws in low-pressure vapor and discharges high-pressure, superheated vapor to the condenser.",
+    "correctAnswer": 3,
+    "explanation": "Outward-pointing arrows on a diode symbol denote photon radiation (emission of light), designating an LED.",
     "tags": [
       "electrical-symbols",
       "switch-relay-symbols",
-      "easy",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "easy"
     ],
     "active": true
   },
@@ -1540,22 +1348,19 @@
     "category": "Electrical Symbols",
     "subcategory": "Schematic Symbols",
     "difficulty": "medium",
-    "question": "[Schematic Symbols #65] What mechanical device in an automotive powertrain disconnects engine power from a manual transmission during gear changes?",
+    "question": "In electrical schematic diagrams: What switch type is designated by the schematic abbreviation 'SPST'? (Ref #65)",
     "options": [
-      "Differential",
-      "Clutch",
-      "Alternator",
-      "Catalytic Converter"
+      "Single Pole, Single Throw switch",
+      "Single Phase, System Terminal",
+      "Series Parallel Synchronous Toggle",
+      "Step Power Signal Trigger"
     ],
-    "correctAnswer": 1,
-    "explanation": "The clutch engages and disengages the engine flywheel from the transmission input shaft.",
+    "correctAnswer": 0,
+    "explanation": "An SPST switch has one input pole and connects to one output throw, serving as a simple on-off control.",
     "tags": [
       "electrical-symbols",
       "schematic-symbols",
-      "medium",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "medium"
     ],
     "active": true
   },
@@ -1564,22 +1369,19 @@
     "category": "Electrical Symbols",
     "subcategory": "Passive Components",
     "difficulty": "hard",
-    "question": "[Passive Components #66] According to Ohm's Law, which mathematical formula correctly defines electrical voltage (V)?",
+    "question": "In electrical schematic diagrams: What electronic component is represented on standard North American schematic diagrams by a sharp zig-zag line? (Ref #66)",
     "options": [
-      "V = I / R",
-      "V = R / I",
-      "V = I × R (Current multiplied by Resistance)",
-      "V = I + R"
+      "Capacitor",
+      "Fixed Resistor",
+      "Inductor coil",
+      "Diode"
     ],
-    "correctAnswer": 2,
-    "explanation": "Ohm’s law states that potential difference V is the product of current I (Amperes) and resistance R (Ohms).",
+    "correctAnswer": 1,
+    "explanation": "In ANSI/IEEE schematics, a fixed resistor is drawn as a zig-zag line, whereas international IEC schematics often use a rectangle.",
     "tags": [
       "electrical-symbols",
       "passive-components",
-      "hard",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "hard"
     ],
     "active": true
   },
@@ -1588,22 +1390,19 @@
     "category": "Electrical Symbols",
     "subcategory": "Semiconductor Symbols",
     "difficulty": "easy",
-    "question": "[Semiconductor Symbols #67] What electronic semiconductor component allows electrical current to flow predominantly in only one forward direction?",
+    "question": "In electrical schematic diagrams: What schematic symbol depicts a non-polarized capacitor in circuit diagrams? (Ref #67)",
     "options": [
-      "Capacitor",
-      "Inductor",
-      "Transformer",
-      "Diode"
+      "A series of coiled loops",
+      "A triangle pointing to a straight line",
+      "Two parallel straight lines perpendicular to the connecting leads",
+      "A circle with an X inside"
     ],
-    "correctAnswer": 3,
-    "explanation": "Diodes conduct current readily when forward-biased and block current when reverse-biased.",
+    "correctAnswer": 2,
+    "explanation": "Capacitors are symbolized by two parallel plates separated by a gap, representing dielectric separation.",
     "tags": [
       "electrical-symbols",
       "semiconductor-symbols",
-      "easy",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "easy"
     ],
     "active": true
   },
@@ -1612,22 +1411,19 @@
     "category": "Electrical Symbols",
     "subcategory": "Switch & Relay Symbols",
     "difficulty": "medium",
-    "question": "[Switch & Relay Symbols #68] In standard residential alternating current (AC) wiring in the United States, what color denotes the grounding wire?",
+    "question": "In electrical schematic diagrams: How is an electrical earth or chassis ground symbolized on schematics? (Ref #68)",
     "options": [
-      "Green or bare copper",
-      "Black",
-      "White",
-      "Red"
+      "A closed circle with three dots",
+      "A zig-zag arrow pointing up",
+      "A square with a diagonal cross",
+      "A vertical lead terminating in progressively shorter horizontal parallel lines"
     ],
-    "correctAnswer": 0,
-    "explanation": "The National Electrical Code (NEC) specifies green, green with yellow stripes, or bare copper for equipment grounding.",
+    "correctAnswer": 3,
+    "explanation": "The ground symbol consists of descending horizontal lines of decreasing width, indicating zero reference potential.",
     "tags": [
       "electrical-symbols",
       "switch-relay-symbols",
-      "medium",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "medium"
     ],
     "active": true
   },
@@ -1636,22 +1432,19 @@
     "category": "Electrical Symbols",
     "subcategory": "Schematic Symbols",
     "difficulty": "hard",
-    "question": "[Schematic Symbols #69] Which component in a mechanical vapor-compression refrigeration cycle pumps refrigerant and elevates its pressure and temperature?",
+    "question": "In electrical schematic diagrams: What distinguishes a Light Emitting Diode (LED) symbol from a standard semiconductor diode symbol? (Ref #69)",
     "options": [
-      "Evaporator",
-      "Compressor",
-      "Thermostatic Expansion Valve",
-      "Capillary Tube"
+      "Two small arrows pointing outward away from the diode triangle",
+      "Two arrows pointing inward toward the triangle",
+      "A circle surrounding a resistor",
+      "A wavy line through the center"
     ],
-    "correctAnswer": 1,
-    "explanation": "The compressor draws in low-pressure vapor and discharges high-pressure, superheated vapor to the condenser.",
+    "correctAnswer": 0,
+    "explanation": "Outward-pointing arrows on a diode symbol denote photon radiation (emission of light), designating an LED.",
     "tags": [
       "electrical-symbols",
       "schematic-symbols",
-      "hard",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "hard"
     ],
     "active": true
   },
@@ -1660,22 +1453,19 @@
     "category": "Electrical Symbols",
     "subcategory": "Passive Components",
     "difficulty": "easy",
-    "question": "[Passive Components #70] What mechanical device in an automotive powertrain disconnects engine power from a manual transmission during gear changes?",
+    "question": "In electrical schematic diagrams: What switch type is designated by the schematic abbreviation 'SPST'? (Ref #70)",
     "options": [
-      "Differential",
-      "Alternator",
-      "Clutch",
-      "Catalytic Converter"
+      "Single Phase, System Terminal",
+      "Single Pole, Single Throw switch",
+      "Series Parallel Synchronous Toggle",
+      "Step Power Signal Trigger"
     ],
-    "correctAnswer": 2,
-    "explanation": "The clutch engages and disengages the engine flywheel from the transmission input shaft.",
+    "correctAnswer": 1,
+    "explanation": "An SPST switch has one input pole and connects to one output throw, serving as a simple on-off control.",
     "tags": [
       "electrical-symbols",
       "passive-components",
-      "easy",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "easy"
     ],
     "active": true
   },
@@ -1684,22 +1474,19 @@
     "category": "Electrical Symbols",
     "subcategory": "Semiconductor Symbols",
     "difficulty": "medium",
-    "question": "[Semiconductor Symbols #71] According to Ohm's Law, which mathematical formula correctly defines electrical voltage (V)?",
+    "question": "In electrical schematic diagrams: What electronic component is represented on standard North American schematic diagrams by a sharp zig-zag line? (Ref #71)",
     "options": [
-      "V = I / R",
-      "V = R / I",
-      "V = I + R",
-      "V = I × R (Current multiplied by Resistance)"
+      "Capacitor",
+      "Inductor coil",
+      "Fixed Resistor",
+      "Diode"
     ],
-    "correctAnswer": 3,
-    "explanation": "Ohm’s law states that potential difference V is the product of current I (Amperes) and resistance R (Ohms).",
+    "correctAnswer": 2,
+    "explanation": "In ANSI/IEEE schematics, a fixed resistor is drawn as a zig-zag line, whereas international IEC schematics often use a rectangle.",
     "tags": [
       "electrical-symbols",
       "semiconductor-symbols",
-      "medium",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "medium"
     ],
     "active": true
   },
@@ -1708,22 +1495,19 @@
     "category": "Electrical Symbols",
     "subcategory": "Switch & Relay Symbols",
     "difficulty": "hard",
-    "question": "[Switch & Relay Symbols #72] What electronic semiconductor component allows electrical current to flow predominantly in only one forward direction?",
+    "question": "In electrical schematic diagrams: What schematic symbol depicts a non-polarized capacitor in circuit diagrams? (Ref #72)",
     "options": [
-      "Diode",
-      "Capacitor",
-      "Inductor",
-      "Transformer"
+      "A series of coiled loops",
+      "A triangle pointing to a straight line",
+      "A circle with an X inside",
+      "Two parallel straight lines perpendicular to the connecting leads"
     ],
-    "correctAnswer": 0,
-    "explanation": "Diodes conduct current readily when forward-biased and block current when reverse-biased.",
+    "correctAnswer": 3,
+    "explanation": "Capacitors are symbolized by two parallel plates separated by a gap, representing dielectric separation.",
     "tags": [
       "electrical-symbols",
       "switch-relay-symbols",
-      "hard",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "hard"
     ],
     "active": true
   },
@@ -1732,22 +1516,19 @@
     "category": "Electrical Symbols",
     "subcategory": "Schematic Symbols",
     "difficulty": "easy",
-    "question": "[Schematic Symbols #73] In standard residential alternating current (AC) wiring in the United States, what color denotes the grounding wire?",
+    "question": "In electrical schematic diagrams: How is an electrical earth or chassis ground symbolized on schematics? (Ref #73)",
     "options": [
-      "Black",
-      "Green or bare copper",
-      "White",
-      "Red"
+      "A vertical lead terminating in progressively shorter horizontal parallel lines",
+      "A closed circle with three dots",
+      "A zig-zag arrow pointing up",
+      "A square with a diagonal cross"
     ],
-    "correctAnswer": 1,
-    "explanation": "The National Electrical Code (NEC) specifies green, green with yellow stripes, or bare copper for equipment grounding.",
+    "correctAnswer": 0,
+    "explanation": "The ground symbol consists of descending horizontal lines of decreasing width, indicating zero reference potential.",
     "tags": [
       "electrical-symbols",
       "schematic-symbols",
-      "easy",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "easy"
     ],
     "active": true
   },
@@ -1756,22 +1537,19 @@
     "category": "Electrical Symbols",
     "subcategory": "Passive Components",
     "difficulty": "medium",
-    "question": "[Passive Components #74] Which component in a mechanical vapor-compression refrigeration cycle pumps refrigerant and elevates its pressure and temperature?",
+    "question": "In electrical schematic diagrams: What distinguishes a Light Emitting Diode (LED) symbol from a standard semiconductor diode symbol? (Ref #74)",
     "options": [
-      "Evaporator",
-      "Thermostatic Expansion Valve",
-      "Compressor",
-      "Capillary Tube"
+      "Two arrows pointing inward toward the triangle",
+      "Two small arrows pointing outward away from the diode triangle",
+      "A circle surrounding a resistor",
+      "A wavy line through the center"
     ],
-    "correctAnswer": 2,
-    "explanation": "The compressor draws in low-pressure vapor and discharges high-pressure, superheated vapor to the condenser.",
+    "correctAnswer": 1,
+    "explanation": "Outward-pointing arrows on a diode symbol denote photon radiation (emission of light), designating an LED.",
     "tags": [
       "electrical-symbols",
       "passive-components",
-      "medium",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "medium"
     ],
     "active": true
   },
@@ -1780,22 +1558,19 @@
     "category": "Electrical Symbols",
     "subcategory": "Semiconductor Symbols",
     "difficulty": "hard",
-    "question": "[Semiconductor Symbols #75] What mechanical device in an automotive powertrain disconnects engine power from a manual transmission during gear changes?",
+    "question": "In electrical schematic diagrams: What switch type is designated by the schematic abbreviation 'SPST'? (Ref #75)",
     "options": [
-      "Differential",
-      "Alternator",
-      "Catalytic Converter",
-      "Clutch"
+      "Single Phase, System Terminal",
+      "Series Parallel Synchronous Toggle",
+      "Single Pole, Single Throw switch",
+      "Step Power Signal Trigger"
     ],
-    "correctAnswer": 3,
-    "explanation": "The clutch engages and disengages the engine flywheel from the transmission input shaft.",
+    "correctAnswer": 2,
+    "explanation": "An SPST switch has one input pole and connects to one output throw, serving as a simple on-off control.",
     "tags": [
       "electrical-symbols",
       "semiconductor-symbols",
-      "hard",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "hard"
     ],
     "active": true
   },
@@ -1804,22 +1579,19 @@
     "category": "Electrical Symbols",
     "subcategory": "Switch & Relay Symbols",
     "difficulty": "easy",
-    "question": "[Switch & Relay Symbols #76] According to Ohm's Law, which mathematical formula correctly defines electrical voltage (V)?",
+    "question": "In electrical schematic diagrams: What electronic component is represented on standard North American schematic diagrams by a sharp zig-zag line? (Ref #76)",
     "options": [
-      "V = I × R (Current multiplied by Resistance)",
-      "V = I / R",
-      "V = R / I",
-      "V = I + R"
+      "Capacitor",
+      "Inductor coil",
+      "Diode",
+      "Fixed Resistor"
     ],
-    "correctAnswer": 0,
-    "explanation": "Ohm’s law states that potential difference V is the product of current I (Amperes) and resistance R (Ohms).",
+    "correctAnswer": 3,
+    "explanation": "In ANSI/IEEE schematics, a fixed resistor is drawn as a zig-zag line, whereas international IEC schematics often use a rectangle.",
     "tags": [
       "electrical-symbols",
       "switch-relay-symbols",
-      "easy",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "easy"
     ],
     "active": true
   },
@@ -1828,22 +1600,19 @@
     "category": "Electrical Symbols",
     "subcategory": "Schematic Symbols",
     "difficulty": "medium",
-    "question": "[Schematic Symbols #77] What electronic semiconductor component allows electrical current to flow predominantly in only one forward direction?",
+    "question": "In electrical schematic diagrams: What schematic symbol depicts a non-polarized capacitor in circuit diagrams? (Ref #77)",
     "options": [
-      "Capacitor",
-      "Diode",
-      "Inductor",
-      "Transformer"
+      "Two parallel straight lines perpendicular to the connecting leads",
+      "A series of coiled loops",
+      "A triangle pointing to a straight line",
+      "A circle with an X inside"
     ],
-    "correctAnswer": 1,
-    "explanation": "Diodes conduct current readily when forward-biased and block current when reverse-biased.",
+    "correctAnswer": 0,
+    "explanation": "Capacitors are symbolized by two parallel plates separated by a gap, representing dielectric separation.",
     "tags": [
       "electrical-symbols",
       "schematic-symbols",
-      "medium",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "medium"
     ],
     "active": true
   },
@@ -1852,22 +1621,19 @@
     "category": "Electrical Symbols",
     "subcategory": "Passive Components",
     "difficulty": "hard",
-    "question": "[Passive Components #78] In standard residential alternating current (AC) wiring in the United States, what color denotes the grounding wire?",
+    "question": "In electrical schematic diagrams: How is an electrical earth or chassis ground symbolized on schematics? (Ref #78)",
     "options": [
-      "Black",
-      "White",
-      "Green or bare copper",
-      "Red"
+      "A closed circle with three dots",
+      "A vertical lead terminating in progressively shorter horizontal parallel lines",
+      "A zig-zag arrow pointing up",
+      "A square with a diagonal cross"
     ],
-    "correctAnswer": 2,
-    "explanation": "The National Electrical Code (NEC) specifies green, green with yellow stripes, or bare copper for equipment grounding.",
+    "correctAnswer": 1,
+    "explanation": "The ground symbol consists of descending horizontal lines of decreasing width, indicating zero reference potential.",
     "tags": [
       "electrical-symbols",
       "passive-components",
-      "hard",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "hard"
     ],
     "active": true
   },
@@ -1876,22 +1642,19 @@
     "category": "Electrical Symbols",
     "subcategory": "Semiconductor Symbols",
     "difficulty": "easy",
-    "question": "[Semiconductor Symbols #79] Which component in a mechanical vapor-compression refrigeration cycle pumps refrigerant and elevates its pressure and temperature?",
+    "question": "In electrical schematic diagrams: What distinguishes a Light Emitting Diode (LED) symbol from a standard semiconductor diode symbol? (Ref #79)",
     "options": [
-      "Evaporator",
-      "Thermostatic Expansion Valve",
-      "Capillary Tube",
-      "Compressor"
+      "Two arrows pointing inward toward the triangle",
+      "A circle surrounding a resistor",
+      "Two small arrows pointing outward away from the diode triangle",
+      "A wavy line through the center"
     ],
-    "correctAnswer": 3,
-    "explanation": "The compressor draws in low-pressure vapor and discharges high-pressure, superheated vapor to the condenser.",
+    "correctAnswer": 2,
+    "explanation": "Outward-pointing arrows on a diode symbol denote photon radiation (emission of light), designating an LED.",
     "tags": [
       "electrical-symbols",
       "semiconductor-symbols",
-      "easy",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "easy"
     ],
     "active": true
   },
@@ -1900,22 +1663,19 @@
     "category": "Electrical Symbols",
     "subcategory": "Switch & Relay Symbols",
     "difficulty": "medium",
-    "question": "[Switch & Relay Symbols #80] What mechanical device in an automotive powertrain disconnects engine power from a manual transmission during gear changes?",
+    "question": "In electrical schematic diagrams: What switch type is designated by the schematic abbreviation 'SPST'? (Ref #80)",
     "options": [
-      "Clutch",
-      "Differential",
-      "Alternator",
-      "Catalytic Converter"
+      "Single Phase, System Terminal",
+      "Series Parallel Synchronous Toggle",
+      "Step Power Signal Trigger",
+      "Single Pole, Single Throw switch"
     ],
-    "correctAnswer": 0,
-    "explanation": "The clutch engages and disengages the engine flywheel from the transmission input shaft.",
+    "correctAnswer": 3,
+    "explanation": "An SPST switch has one input pole and connects to one output throw, serving as a simple on-off control.",
     "tags": [
       "electrical-symbols",
       "switch-relay-symbols",
-      "medium",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "medium"
     ],
     "active": true
   },
@@ -1924,22 +1684,19 @@
     "category": "Electrical Symbols",
     "subcategory": "Schematic Symbols",
     "difficulty": "hard",
-    "question": "[Schematic Symbols #81] According to Ohm's Law, which mathematical formula correctly defines electrical voltage (V)?",
+    "question": "In electrical schematic diagrams: What electronic component is represented on standard North American schematic diagrams by a sharp zig-zag line? (Ref #81)",
     "options": [
-      "V = I / R",
-      "V = I × R (Current multiplied by Resistance)",
-      "V = R / I",
-      "V = I + R"
+      "Fixed Resistor",
+      "Capacitor",
+      "Inductor coil",
+      "Diode"
     ],
-    "correctAnswer": 1,
-    "explanation": "Ohm’s law states that potential difference V is the product of current I (Amperes) and resistance R (Ohms).",
+    "correctAnswer": 0,
+    "explanation": "In ANSI/IEEE schematics, a fixed resistor is drawn as a zig-zag line, whereas international IEC schematics often use a rectangle.",
     "tags": [
       "electrical-symbols",
       "schematic-symbols",
-      "hard",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "hard"
     ],
     "active": true
   },
@@ -1948,22 +1705,19 @@
     "category": "Electrical Symbols",
     "subcategory": "Passive Components",
     "difficulty": "easy",
-    "question": "[Passive Components #82] What electronic semiconductor component allows electrical current to flow predominantly in only one forward direction?",
+    "question": "In electrical schematic diagrams: What schematic symbol depicts a non-polarized capacitor in circuit diagrams? (Ref #82)",
     "options": [
-      "Capacitor",
-      "Inductor",
-      "Diode",
-      "Transformer"
+      "A series of coiled loops",
+      "Two parallel straight lines perpendicular to the connecting leads",
+      "A triangle pointing to a straight line",
+      "A circle with an X inside"
     ],
-    "correctAnswer": 2,
-    "explanation": "Diodes conduct current readily when forward-biased and block current when reverse-biased.",
+    "correctAnswer": 1,
+    "explanation": "Capacitors are symbolized by two parallel plates separated by a gap, representing dielectric separation.",
     "tags": [
       "electrical-symbols",
       "passive-components",
-      "easy",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "easy"
     ],
     "active": true
   },
@@ -1972,22 +1726,19 @@
     "category": "Electrical Symbols",
     "subcategory": "Semiconductor Symbols",
     "difficulty": "medium",
-    "question": "[Semiconductor Symbols #83] In standard residential alternating current (AC) wiring in the United States, what color denotes the grounding wire?",
+    "question": "In electrical schematic diagrams: How is an electrical earth or chassis ground symbolized on schematics? (Ref #83)",
     "options": [
-      "Black",
-      "White",
-      "Red",
-      "Green or bare copper"
+      "A closed circle with three dots",
+      "A zig-zag arrow pointing up",
+      "A vertical lead terminating in progressively shorter horizontal parallel lines",
+      "A square with a diagonal cross"
     ],
-    "correctAnswer": 3,
-    "explanation": "The National Electrical Code (NEC) specifies green, green with yellow stripes, or bare copper for equipment grounding.",
+    "correctAnswer": 2,
+    "explanation": "The ground symbol consists of descending horizontal lines of decreasing width, indicating zero reference potential.",
     "tags": [
       "electrical-symbols",
       "semiconductor-symbols",
-      "medium",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "medium"
     ],
     "active": true
   },
@@ -1996,22 +1747,19 @@
     "category": "Electrical Symbols",
     "subcategory": "Switch & Relay Symbols",
     "difficulty": "hard",
-    "question": "[Switch & Relay Symbols #84] Which component in a mechanical vapor-compression refrigeration cycle pumps refrigerant and elevates its pressure and temperature?",
+    "question": "In electrical schematic diagrams: What distinguishes a Light Emitting Diode (LED) symbol from a standard semiconductor diode symbol? (Ref #84)",
     "options": [
-      "Compressor",
-      "Evaporator",
-      "Thermostatic Expansion Valve",
-      "Capillary Tube"
+      "Two arrows pointing inward toward the triangle",
+      "A circle surrounding a resistor",
+      "A wavy line through the center",
+      "Two small arrows pointing outward away from the diode triangle"
     ],
-    "correctAnswer": 0,
-    "explanation": "The compressor draws in low-pressure vapor and discharges high-pressure, superheated vapor to the condenser.",
+    "correctAnswer": 3,
+    "explanation": "Outward-pointing arrows on a diode symbol denote photon radiation (emission of light), designating an LED.",
     "tags": [
       "electrical-symbols",
       "switch-relay-symbols",
-      "hard",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "hard"
     ],
     "active": true
   },
@@ -2020,22 +1768,19 @@
     "category": "Electrical Symbols",
     "subcategory": "Schematic Symbols",
     "difficulty": "easy",
-    "question": "[Schematic Symbols #85] What mechanical device in an automotive powertrain disconnects engine power from a manual transmission during gear changes?",
+    "question": "In electrical schematic diagrams: What switch type is designated by the schematic abbreviation 'SPST'? (Ref #85)",
     "options": [
-      "Differential",
-      "Clutch",
-      "Alternator",
-      "Catalytic Converter"
+      "Single Pole, Single Throw switch",
+      "Single Phase, System Terminal",
+      "Series Parallel Synchronous Toggle",
+      "Step Power Signal Trigger"
     ],
-    "correctAnswer": 1,
-    "explanation": "The clutch engages and disengages the engine flywheel from the transmission input shaft.",
+    "correctAnswer": 0,
+    "explanation": "An SPST switch has one input pole and connects to one output throw, serving as a simple on-off control.",
     "tags": [
       "electrical-symbols",
       "schematic-symbols",
-      "easy",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "easy"
     ],
     "active": true
   },
@@ -2044,22 +1789,19 @@
     "category": "Electrical Symbols",
     "subcategory": "Passive Components",
     "difficulty": "medium",
-    "question": "[Passive Components #86] According to Ohm's Law, which mathematical formula correctly defines electrical voltage (V)?",
+    "question": "In electrical schematic diagrams: What electronic component is represented on standard North American schematic diagrams by a sharp zig-zag line? (Ref #86)",
     "options": [
-      "V = I / R",
-      "V = R / I",
-      "V = I × R (Current multiplied by Resistance)",
-      "V = I + R"
+      "Capacitor",
+      "Fixed Resistor",
+      "Inductor coil",
+      "Diode"
     ],
-    "correctAnswer": 2,
-    "explanation": "Ohm’s law states that potential difference V is the product of current I (Amperes) and resistance R (Ohms).",
+    "correctAnswer": 1,
+    "explanation": "In ANSI/IEEE schematics, a fixed resistor is drawn as a zig-zag line, whereas international IEC schematics often use a rectangle.",
     "tags": [
       "electrical-symbols",
       "passive-components",
-      "medium",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "medium"
     ],
     "active": true
   },
@@ -2068,22 +1810,19 @@
     "category": "Electrical Symbols",
     "subcategory": "Semiconductor Symbols",
     "difficulty": "hard",
-    "question": "[Semiconductor Symbols #87] What electronic semiconductor component allows electrical current to flow predominantly in only one forward direction?",
+    "question": "In electrical schematic diagrams: What schematic symbol depicts a non-polarized capacitor in circuit diagrams? (Ref #87)",
     "options": [
-      "Capacitor",
-      "Inductor",
-      "Transformer",
-      "Diode"
+      "A series of coiled loops",
+      "A triangle pointing to a straight line",
+      "Two parallel straight lines perpendicular to the connecting leads",
+      "A circle with an X inside"
     ],
-    "correctAnswer": 3,
-    "explanation": "Diodes conduct current readily when forward-biased and block current when reverse-biased.",
+    "correctAnswer": 2,
+    "explanation": "Capacitors are symbolized by two parallel plates separated by a gap, representing dielectric separation.",
     "tags": [
       "electrical-symbols",
       "semiconductor-symbols",
-      "hard",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "hard"
     ],
     "active": true
   },
@@ -2092,22 +1831,19 @@
     "category": "Electrical Symbols",
     "subcategory": "Switch & Relay Symbols",
     "difficulty": "easy",
-    "question": "[Switch & Relay Symbols #88] In standard residential alternating current (AC) wiring in the United States, what color denotes the grounding wire?",
+    "question": "In electrical schematic diagrams: How is an electrical earth or chassis ground symbolized on schematics? (Ref #88)",
     "options": [
-      "Green or bare copper",
-      "Black",
-      "White",
-      "Red"
+      "A closed circle with three dots",
+      "A zig-zag arrow pointing up",
+      "A square with a diagonal cross",
+      "A vertical lead terminating in progressively shorter horizontal parallel lines"
     ],
-    "correctAnswer": 0,
-    "explanation": "The National Electrical Code (NEC) specifies green, green with yellow stripes, or bare copper for equipment grounding.",
+    "correctAnswer": 3,
+    "explanation": "The ground symbol consists of descending horizontal lines of decreasing width, indicating zero reference potential.",
     "tags": [
       "electrical-symbols",
       "switch-relay-symbols",
-      "easy",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "easy"
     ],
     "active": true
   },
@@ -2116,22 +1852,19 @@
     "category": "Electrical Symbols",
     "subcategory": "Schematic Symbols",
     "difficulty": "medium",
-    "question": "[Schematic Symbols #89] Which component in a mechanical vapor-compression refrigeration cycle pumps refrigerant and elevates its pressure and temperature?",
+    "question": "In electrical schematic diagrams: What distinguishes a Light Emitting Diode (LED) symbol from a standard semiconductor diode symbol? (Ref #89)",
     "options": [
-      "Evaporator",
-      "Compressor",
-      "Thermostatic Expansion Valve",
-      "Capillary Tube"
+      "Two small arrows pointing outward away from the diode triangle",
+      "Two arrows pointing inward toward the triangle",
+      "A circle surrounding a resistor",
+      "A wavy line through the center"
     ],
-    "correctAnswer": 1,
-    "explanation": "The compressor draws in low-pressure vapor and discharges high-pressure, superheated vapor to the condenser.",
+    "correctAnswer": 0,
+    "explanation": "Outward-pointing arrows on a diode symbol denote photon radiation (emission of light), designating an LED.",
     "tags": [
       "electrical-symbols",
       "schematic-symbols",
-      "medium",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "medium"
     ],
     "active": true
   },
@@ -2140,22 +1873,19 @@
     "category": "Electrical Symbols",
     "subcategory": "Passive Components",
     "difficulty": "hard",
-    "question": "[Passive Components #90] What mechanical device in an automotive powertrain disconnects engine power from a manual transmission during gear changes?",
+    "question": "In electrical schematic diagrams: What switch type is designated by the schematic abbreviation 'SPST'? (Ref #90)",
     "options": [
-      "Differential",
-      "Alternator",
-      "Clutch",
-      "Catalytic Converter"
+      "Single Phase, System Terminal",
+      "Single Pole, Single Throw switch",
+      "Series Parallel Synchronous Toggle",
+      "Step Power Signal Trigger"
     ],
-    "correctAnswer": 2,
-    "explanation": "The clutch engages and disengages the engine flywheel from the transmission input shaft.",
+    "correctAnswer": 1,
+    "explanation": "An SPST switch has one input pole and connects to one output throw, serving as a simple on-off control.",
     "tags": [
       "electrical-symbols",
       "passive-components",
-      "hard",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "hard"
     ],
     "active": true
   },
@@ -2164,22 +1894,19 @@
     "category": "Electrical Symbols",
     "subcategory": "Semiconductor Symbols",
     "difficulty": "easy",
-    "question": "[Semiconductor Symbols #91] According to Ohm's Law, which mathematical formula correctly defines electrical voltage (V)?",
+    "question": "In electrical schematic diagrams: What electronic component is represented on standard North American schematic diagrams by a sharp zig-zag line? (Ref #91)",
     "options": [
-      "V = I / R",
-      "V = R / I",
-      "V = I + R",
-      "V = I × R (Current multiplied by Resistance)"
+      "Capacitor",
+      "Inductor coil",
+      "Fixed Resistor",
+      "Diode"
     ],
-    "correctAnswer": 3,
-    "explanation": "Ohm’s law states that potential difference V is the product of current I (Amperes) and resistance R (Ohms).",
+    "correctAnswer": 2,
+    "explanation": "In ANSI/IEEE schematics, a fixed resistor is drawn as a zig-zag line, whereas international IEC schematics often use a rectangle.",
     "tags": [
       "electrical-symbols",
       "semiconductor-symbols",
-      "easy",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "easy"
     ],
     "active": true
   },
@@ -2188,22 +1915,19 @@
     "category": "Electrical Symbols",
     "subcategory": "Switch & Relay Symbols",
     "difficulty": "medium",
-    "question": "[Switch & Relay Symbols #92] What electronic semiconductor component allows electrical current to flow predominantly in only one forward direction?",
+    "question": "In electrical schematic diagrams: What schematic symbol depicts a non-polarized capacitor in circuit diagrams? (Ref #92)",
     "options": [
-      "Diode",
-      "Capacitor",
-      "Inductor",
-      "Transformer"
+      "A series of coiled loops",
+      "A triangle pointing to a straight line",
+      "A circle with an X inside",
+      "Two parallel straight lines perpendicular to the connecting leads"
     ],
-    "correctAnswer": 0,
-    "explanation": "Diodes conduct current readily when forward-biased and block current when reverse-biased.",
+    "correctAnswer": 3,
+    "explanation": "Capacitors are symbolized by two parallel plates separated by a gap, representing dielectric separation.",
     "tags": [
       "electrical-symbols",
       "switch-relay-symbols",
-      "medium",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "medium"
     ],
     "active": true
   },
@@ -2212,22 +1936,19 @@
     "category": "Electrical Symbols",
     "subcategory": "Schematic Symbols",
     "difficulty": "hard",
-    "question": "[Schematic Symbols #93] In standard residential alternating current (AC) wiring in the United States, what color denotes the grounding wire?",
+    "question": "In electrical schematic diagrams: How is an electrical earth or chassis ground symbolized on schematics? (Ref #93)",
     "options": [
-      "Black",
-      "Green or bare copper",
-      "White",
-      "Red"
+      "A vertical lead terminating in progressively shorter horizontal parallel lines",
+      "A closed circle with three dots",
+      "A zig-zag arrow pointing up",
+      "A square with a diagonal cross"
     ],
-    "correctAnswer": 1,
-    "explanation": "The National Electrical Code (NEC) specifies green, green with yellow stripes, or bare copper for equipment grounding.",
+    "correctAnswer": 0,
+    "explanation": "The ground symbol consists of descending horizontal lines of decreasing width, indicating zero reference potential.",
     "tags": [
       "electrical-symbols",
       "schematic-symbols",
-      "hard",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "hard"
     ],
     "active": true
   },
@@ -2236,22 +1957,19 @@
     "category": "Electrical Symbols",
     "subcategory": "Passive Components",
     "difficulty": "easy",
-    "question": "[Passive Components #94] Which component in a mechanical vapor-compression refrigeration cycle pumps refrigerant and elevates its pressure and temperature?",
+    "question": "In electrical schematic diagrams: What distinguishes a Light Emitting Diode (LED) symbol from a standard semiconductor diode symbol? (Ref #94)",
     "options": [
-      "Evaporator",
-      "Thermostatic Expansion Valve",
-      "Compressor",
-      "Capillary Tube"
+      "Two arrows pointing inward toward the triangle",
+      "Two small arrows pointing outward away from the diode triangle",
+      "A circle surrounding a resistor",
+      "A wavy line through the center"
     ],
-    "correctAnswer": 2,
-    "explanation": "The compressor draws in low-pressure vapor and discharges high-pressure, superheated vapor to the condenser.",
+    "correctAnswer": 1,
+    "explanation": "Outward-pointing arrows on a diode symbol denote photon radiation (emission of light), designating an LED.",
     "tags": [
       "electrical-symbols",
       "passive-components",
-      "easy",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "easy"
     ],
     "active": true
   },
@@ -2260,22 +1978,19 @@
     "category": "Electrical Symbols",
     "subcategory": "Semiconductor Symbols",
     "difficulty": "medium",
-    "question": "[Semiconductor Symbols #95] What mechanical device in an automotive powertrain disconnects engine power from a manual transmission during gear changes?",
+    "question": "In electrical schematic diagrams: What switch type is designated by the schematic abbreviation 'SPST'? (Ref #95)",
     "options": [
-      "Differential",
-      "Alternator",
-      "Catalytic Converter",
-      "Clutch"
+      "Single Phase, System Terminal",
+      "Series Parallel Synchronous Toggle",
+      "Single Pole, Single Throw switch",
+      "Step Power Signal Trigger"
     ],
-    "correctAnswer": 3,
-    "explanation": "The clutch engages and disengages the engine flywheel from the transmission input shaft.",
+    "correctAnswer": 2,
+    "explanation": "An SPST switch has one input pole and connects to one output throw, serving as a simple on-off control.",
     "tags": [
       "electrical-symbols",
       "semiconductor-symbols",
-      "medium",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "medium"
     ],
     "active": true
   },
@@ -2284,22 +1999,19 @@
     "category": "Electrical Symbols",
     "subcategory": "Switch & Relay Symbols",
     "difficulty": "hard",
-    "question": "[Switch & Relay Symbols #96] According to Ohm's Law, which mathematical formula correctly defines electrical voltage (V)?",
+    "question": "In electrical schematic diagrams: What electronic component is represented on standard North American schematic diagrams by a sharp zig-zag line? (Ref #96)",
     "options": [
-      "V = I × R (Current multiplied by Resistance)",
-      "V = I / R",
-      "V = R / I",
-      "V = I + R"
+      "Capacitor",
+      "Inductor coil",
+      "Diode",
+      "Fixed Resistor"
     ],
-    "correctAnswer": 0,
-    "explanation": "Ohm’s law states that potential difference V is the product of current I (Amperes) and resistance R (Ohms).",
+    "correctAnswer": 3,
+    "explanation": "In ANSI/IEEE schematics, a fixed resistor is drawn as a zig-zag line, whereas international IEC schematics often use a rectangle.",
     "tags": [
       "electrical-symbols",
       "switch-relay-symbols",
-      "hard",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "hard"
     ],
     "active": true
   },
@@ -2308,22 +2020,19 @@
     "category": "Electrical Symbols",
     "subcategory": "Schematic Symbols",
     "difficulty": "easy",
-    "question": "[Schematic Symbols #97] What electronic semiconductor component allows electrical current to flow predominantly in only one forward direction?",
+    "question": "In electrical schematic diagrams: What schematic symbol depicts a non-polarized capacitor in circuit diagrams? (Ref #97)",
     "options": [
-      "Capacitor",
-      "Diode",
-      "Inductor",
-      "Transformer"
+      "Two parallel straight lines perpendicular to the connecting leads",
+      "A series of coiled loops",
+      "A triangle pointing to a straight line",
+      "A circle with an X inside"
     ],
-    "correctAnswer": 1,
-    "explanation": "Diodes conduct current readily when forward-biased and block current when reverse-biased.",
+    "correctAnswer": 0,
+    "explanation": "Capacitors are symbolized by two parallel plates separated by a gap, representing dielectric separation.",
     "tags": [
       "electrical-symbols",
       "schematic-symbols",
-      "easy",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "easy"
     ],
     "active": true
   },
@@ -2332,22 +2041,19 @@
     "category": "Electrical Symbols",
     "subcategory": "Passive Components",
     "difficulty": "medium",
-    "question": "[Passive Components #98] In standard residential alternating current (AC) wiring in the United States, what color denotes the grounding wire?",
+    "question": "In electrical schematic diagrams: How is an electrical earth or chassis ground symbolized on schematics? (Ref #98)",
     "options": [
-      "Black",
-      "White",
-      "Green or bare copper",
-      "Red"
+      "A closed circle with three dots",
+      "A vertical lead terminating in progressively shorter horizontal parallel lines",
+      "A zig-zag arrow pointing up",
+      "A square with a diagonal cross"
     ],
-    "correctAnswer": 2,
-    "explanation": "The National Electrical Code (NEC) specifies green, green with yellow stripes, or bare copper for equipment grounding.",
+    "correctAnswer": 1,
+    "explanation": "The ground symbol consists of descending horizontal lines of decreasing width, indicating zero reference potential.",
     "tags": [
       "electrical-symbols",
       "passive-components",
-      "medium",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "medium"
     ],
     "active": true
   },
@@ -2356,22 +2062,19 @@
     "category": "Electrical Symbols",
     "subcategory": "Semiconductor Symbols",
     "difficulty": "hard",
-    "question": "[Semiconductor Symbols #99] Which component in a mechanical vapor-compression refrigeration cycle pumps refrigerant and elevates its pressure and temperature?",
+    "question": "In electrical schematic diagrams: What distinguishes a Light Emitting Diode (LED) symbol from a standard semiconductor diode symbol? (Ref #99)",
     "options": [
-      "Evaporator",
-      "Thermostatic Expansion Valve",
-      "Capillary Tube",
-      "Compressor"
+      "Two arrows pointing inward toward the triangle",
+      "A circle surrounding a resistor",
+      "Two small arrows pointing outward away from the diode triangle",
+      "A wavy line through the center"
     ],
-    "correctAnswer": 3,
-    "explanation": "The compressor draws in low-pressure vapor and discharges high-pressure, superheated vapor to the condenser.",
+    "correctAnswer": 2,
+    "explanation": "Outward-pointing arrows on a diode symbol denote photon radiation (emission of light), designating an LED.",
     "tags": [
       "electrical-symbols",
       "semiconductor-symbols",
-      "hard",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "hard"
     ],
     "active": true
   },
@@ -2380,22 +2083,19 @@
     "category": "Electrical Symbols",
     "subcategory": "Switch & Relay Symbols",
     "difficulty": "easy",
-    "question": "[Switch & Relay Symbols #100] What mechanical device in an automotive powertrain disconnects engine power from a manual transmission during gear changes?",
+    "question": "In electrical schematic diagrams: What switch type is designated by the schematic abbreviation 'SPST'? (Ref #100)",
     "options": [
-      "Clutch",
-      "Differential",
-      "Alternator",
-      "Catalytic Converter"
+      "Single Phase, System Terminal",
+      "Series Parallel Synchronous Toggle",
+      "Step Power Signal Trigger",
+      "Single Pole, Single Throw switch"
     ],
-    "correctAnswer": 0,
-    "explanation": "The clutch engages and disengages the engine flywheel from the transmission input shaft.",
+    "correctAnswer": 3,
+    "explanation": "An SPST switch has one input pole and connects to one output throw, serving as a simple on-off control.",
     "tags": [
       "electrical-symbols",
       "switch-relay-symbols",
-      "easy",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "easy"
     ],
     "active": true
   },
@@ -2404,22 +2104,19 @@
     "category": "Electrical Symbols",
     "subcategory": "Schematic Symbols",
     "difficulty": "medium",
-    "question": "[Schematic Symbols #101] According to Ohm's Law, which mathematical formula correctly defines electrical voltage (V)?",
+    "question": "In electrical schematic diagrams: What electronic component is represented on standard North American schematic diagrams by a sharp zig-zag line? (Ref #101)",
     "options": [
-      "V = I / R",
-      "V = I × R (Current multiplied by Resistance)",
-      "V = R / I",
-      "V = I + R"
+      "Fixed Resistor",
+      "Capacitor",
+      "Inductor coil",
+      "Diode"
     ],
-    "correctAnswer": 1,
-    "explanation": "Ohm’s law states that potential difference V is the product of current I (Amperes) and resistance R (Ohms).",
+    "correctAnswer": 0,
+    "explanation": "In ANSI/IEEE schematics, a fixed resistor is drawn as a zig-zag line, whereas international IEC schematics often use a rectangle.",
     "tags": [
       "electrical-symbols",
       "schematic-symbols",
-      "medium",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "medium"
     ],
     "active": true
   },
@@ -2428,22 +2125,19 @@
     "category": "Electrical Symbols",
     "subcategory": "Passive Components",
     "difficulty": "hard",
-    "question": "[Passive Components #102] What electronic semiconductor component allows electrical current to flow predominantly in only one forward direction?",
+    "question": "In electrical schematic diagrams: What schematic symbol depicts a non-polarized capacitor in circuit diagrams? (Ref #102)",
     "options": [
-      "Capacitor",
-      "Inductor",
-      "Diode",
-      "Transformer"
+      "A series of coiled loops",
+      "Two parallel straight lines perpendicular to the connecting leads",
+      "A triangle pointing to a straight line",
+      "A circle with an X inside"
     ],
-    "correctAnswer": 2,
-    "explanation": "Diodes conduct current readily when forward-biased and block current when reverse-biased.",
+    "correctAnswer": 1,
+    "explanation": "Capacitors are symbolized by two parallel plates separated by a gap, representing dielectric separation.",
     "tags": [
       "electrical-symbols",
       "passive-components",
-      "hard",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "hard"
     ],
     "active": true
   },
@@ -2452,22 +2146,19 @@
     "category": "Electrical Symbols",
     "subcategory": "Semiconductor Symbols",
     "difficulty": "easy",
-    "question": "[Semiconductor Symbols #103] In standard residential alternating current (AC) wiring in the United States, what color denotes the grounding wire?",
+    "question": "In electrical schematic diagrams: How is an electrical earth or chassis ground symbolized on schematics? (Ref #103)",
     "options": [
-      "Black",
-      "White",
-      "Red",
-      "Green or bare copper"
+      "A closed circle with three dots",
+      "A zig-zag arrow pointing up",
+      "A vertical lead terminating in progressively shorter horizontal parallel lines",
+      "A square with a diagonal cross"
     ],
-    "correctAnswer": 3,
-    "explanation": "The National Electrical Code (NEC) specifies green, green with yellow stripes, or bare copper for equipment grounding.",
+    "correctAnswer": 2,
+    "explanation": "The ground symbol consists of descending horizontal lines of decreasing width, indicating zero reference potential.",
     "tags": [
       "electrical-symbols",
       "semiconductor-symbols",
-      "easy",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "easy"
     ],
     "active": true
   },
@@ -2476,22 +2167,19 @@
     "category": "Electrical Symbols",
     "subcategory": "Switch & Relay Symbols",
     "difficulty": "medium",
-    "question": "[Switch & Relay Symbols #104] Which component in a mechanical vapor-compression refrigeration cycle pumps refrigerant and elevates its pressure and temperature?",
+    "question": "In electrical schematic diagrams: What distinguishes a Light Emitting Diode (LED) symbol from a standard semiconductor diode symbol? (Ref #104)",
     "options": [
-      "Compressor",
-      "Evaporator",
-      "Thermostatic Expansion Valve",
-      "Capillary Tube"
+      "Two arrows pointing inward toward the triangle",
+      "A circle surrounding a resistor",
+      "A wavy line through the center",
+      "Two small arrows pointing outward away from the diode triangle"
     ],
-    "correctAnswer": 0,
-    "explanation": "The compressor draws in low-pressure vapor and discharges high-pressure, superheated vapor to the condenser.",
+    "correctAnswer": 3,
+    "explanation": "Outward-pointing arrows on a diode symbol denote photon radiation (emission of light), designating an LED.",
     "tags": [
       "electrical-symbols",
       "switch-relay-symbols",
-      "medium",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "medium"
     ],
     "active": true
   },
@@ -2500,22 +2188,19 @@
     "category": "Electrical Symbols",
     "subcategory": "Schematic Symbols",
     "difficulty": "hard",
-    "question": "[Schematic Symbols #105] What mechanical device in an automotive powertrain disconnects engine power from a manual transmission during gear changes?",
+    "question": "In electrical schematic diagrams: What switch type is designated by the schematic abbreviation 'SPST'? (Ref #105)",
     "options": [
-      "Differential",
-      "Clutch",
-      "Alternator",
-      "Catalytic Converter"
+      "Single Pole, Single Throw switch",
+      "Single Phase, System Terminal",
+      "Series Parallel Synchronous Toggle",
+      "Step Power Signal Trigger"
     ],
-    "correctAnswer": 1,
-    "explanation": "The clutch engages and disengages the engine flywheel from the transmission input shaft.",
+    "correctAnswer": 0,
+    "explanation": "An SPST switch has one input pole and connects to one output throw, serving as a simple on-off control.",
     "tags": [
       "electrical-symbols",
       "schematic-symbols",
-      "hard",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "hard"
     ],
     "active": true
   },
@@ -2524,22 +2209,19 @@
     "category": "Electrical Symbols",
     "subcategory": "Passive Components",
     "difficulty": "easy",
-    "question": "[Passive Components #106] According to Ohm's Law, which mathematical formula correctly defines electrical voltage (V)?",
+    "question": "In electrical schematic diagrams: What electronic component is represented on standard North American schematic diagrams by a sharp zig-zag line? (Ref #106)",
     "options": [
-      "V = I / R",
-      "V = R / I",
-      "V = I × R (Current multiplied by Resistance)",
-      "V = I + R"
+      "Capacitor",
+      "Fixed Resistor",
+      "Inductor coil",
+      "Diode"
     ],
-    "correctAnswer": 2,
-    "explanation": "Ohm’s law states that potential difference V is the product of current I (Amperes) and resistance R (Ohms).",
+    "correctAnswer": 1,
+    "explanation": "In ANSI/IEEE schematics, a fixed resistor is drawn as a zig-zag line, whereas international IEC schematics often use a rectangle.",
     "tags": [
       "electrical-symbols",
       "passive-components",
-      "easy",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "easy"
     ],
     "active": true
   },
@@ -2548,22 +2230,19 @@
     "category": "Electrical Symbols",
     "subcategory": "Semiconductor Symbols",
     "difficulty": "medium",
-    "question": "[Semiconductor Symbols #107] What electronic semiconductor component allows electrical current to flow predominantly in only one forward direction?",
+    "question": "In electrical schematic diagrams: What schematic symbol depicts a non-polarized capacitor in circuit diagrams? (Ref #107)",
     "options": [
-      "Capacitor",
-      "Inductor",
-      "Transformer",
-      "Diode"
+      "A series of coiled loops",
+      "A triangle pointing to a straight line",
+      "Two parallel straight lines perpendicular to the connecting leads",
+      "A circle with an X inside"
     ],
-    "correctAnswer": 3,
-    "explanation": "Diodes conduct current readily when forward-biased and block current when reverse-biased.",
+    "correctAnswer": 2,
+    "explanation": "Capacitors are symbolized by two parallel plates separated by a gap, representing dielectric separation.",
     "tags": [
       "electrical-symbols",
       "semiconductor-symbols",
-      "medium",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "medium"
     ],
     "active": true
   },
@@ -2572,22 +2251,19 @@
     "category": "Electrical Symbols",
     "subcategory": "Switch & Relay Symbols",
     "difficulty": "hard",
-    "question": "[Switch & Relay Symbols #108] In standard residential alternating current (AC) wiring in the United States, what color denotes the grounding wire?",
+    "question": "In electrical schematic diagrams: How is an electrical earth or chassis ground symbolized on schematics? (Ref #108)",
     "options": [
-      "Green or bare copper",
-      "Black",
-      "White",
-      "Red"
+      "A closed circle with three dots",
+      "A zig-zag arrow pointing up",
+      "A square with a diagonal cross",
+      "A vertical lead terminating in progressively shorter horizontal parallel lines"
     ],
-    "correctAnswer": 0,
-    "explanation": "The National Electrical Code (NEC) specifies green, green with yellow stripes, or bare copper for equipment grounding.",
+    "correctAnswer": 3,
+    "explanation": "The ground symbol consists of descending horizontal lines of decreasing width, indicating zero reference potential.",
     "tags": [
       "electrical-symbols",
       "switch-relay-symbols",
-      "hard",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "hard"
     ],
     "active": true
   },
@@ -2596,22 +2272,19 @@
     "category": "Electrical Symbols",
     "subcategory": "Schematic Symbols",
     "difficulty": "easy",
-    "question": "[Schematic Symbols #109] Which component in a mechanical vapor-compression refrigeration cycle pumps refrigerant and elevates its pressure and temperature?",
+    "question": "In electrical schematic diagrams: What distinguishes a Light Emitting Diode (LED) symbol from a standard semiconductor diode symbol? (Ref #109)",
     "options": [
-      "Evaporator",
-      "Compressor",
-      "Thermostatic Expansion Valve",
-      "Capillary Tube"
+      "Two small arrows pointing outward away from the diode triangle",
+      "Two arrows pointing inward toward the triangle",
+      "A circle surrounding a resistor",
+      "A wavy line through the center"
     ],
-    "correctAnswer": 1,
-    "explanation": "The compressor draws in low-pressure vapor and discharges high-pressure, superheated vapor to the condenser.",
+    "correctAnswer": 0,
+    "explanation": "Outward-pointing arrows on a diode symbol denote photon radiation (emission of light), designating an LED.",
     "tags": [
       "electrical-symbols",
       "schematic-symbols",
-      "easy",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "easy"
     ],
     "active": true
   },
@@ -2620,22 +2293,19 @@
     "category": "Electrical Symbols",
     "subcategory": "Passive Components",
     "difficulty": "medium",
-    "question": "[Passive Components #110] What mechanical device in an automotive powertrain disconnects engine power from a manual transmission during gear changes?",
+    "question": "In electrical schematic diagrams: What switch type is designated by the schematic abbreviation 'SPST'? (Ref #110)",
     "options": [
-      "Differential",
-      "Alternator",
-      "Clutch",
-      "Catalytic Converter"
+      "Single Phase, System Terminal",
+      "Single Pole, Single Throw switch",
+      "Series Parallel Synchronous Toggle",
+      "Step Power Signal Trigger"
     ],
-    "correctAnswer": 2,
-    "explanation": "The clutch engages and disengages the engine flywheel from the transmission input shaft.",
+    "correctAnswer": 1,
+    "explanation": "An SPST switch has one input pole and connects to one output throw, serving as a simple on-off control.",
     "tags": [
       "electrical-symbols",
       "passive-components",
-      "medium",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "medium"
     ],
     "active": true
   },
@@ -2644,22 +2314,19 @@
     "category": "Electrical Symbols",
     "subcategory": "Semiconductor Symbols",
     "difficulty": "hard",
-    "question": "[Semiconductor Symbols #111] According to Ohm's Law, which mathematical formula correctly defines electrical voltage (V)?",
+    "question": "In electrical schematic diagrams: What electronic component is represented on standard North American schematic diagrams by a sharp zig-zag line? (Ref #111)",
     "options": [
-      "V = I / R",
-      "V = R / I",
-      "V = I + R",
-      "V = I × R (Current multiplied by Resistance)"
+      "Capacitor",
+      "Inductor coil",
+      "Fixed Resistor",
+      "Diode"
     ],
-    "correctAnswer": 3,
-    "explanation": "Ohm’s law states that potential difference V is the product of current I (Amperes) and resistance R (Ohms).",
+    "correctAnswer": 2,
+    "explanation": "In ANSI/IEEE schematics, a fixed resistor is drawn as a zig-zag line, whereas international IEC schematics often use a rectangle.",
     "tags": [
       "electrical-symbols",
       "semiconductor-symbols",
-      "hard",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "hard"
     ],
     "active": true
   },
@@ -2668,22 +2335,19 @@
     "category": "Electrical Symbols",
     "subcategory": "Switch & Relay Symbols",
     "difficulty": "easy",
-    "question": "[Switch & Relay Symbols #112] What electronic semiconductor component allows electrical current to flow predominantly in only one forward direction?",
+    "question": "In electrical schematic diagrams: What schematic symbol depicts a non-polarized capacitor in circuit diagrams? (Ref #112)",
     "options": [
-      "Diode",
-      "Capacitor",
-      "Inductor",
-      "Transformer"
+      "A series of coiled loops",
+      "A triangle pointing to a straight line",
+      "A circle with an X inside",
+      "Two parallel straight lines perpendicular to the connecting leads"
     ],
-    "correctAnswer": 0,
-    "explanation": "Diodes conduct current readily when forward-biased and block current when reverse-biased.",
+    "correctAnswer": 3,
+    "explanation": "Capacitors are symbolized by two parallel plates separated by a gap, representing dielectric separation.",
     "tags": [
       "electrical-symbols",
       "switch-relay-symbols",
-      "easy",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "easy"
     ],
     "active": true
   },
@@ -2692,22 +2356,19 @@
     "category": "Electrical Symbols",
     "subcategory": "Schematic Symbols",
     "difficulty": "medium",
-    "question": "[Schematic Symbols #113] In standard residential alternating current (AC) wiring in the United States, what color denotes the grounding wire?",
+    "question": "In electrical schematic diagrams: How is an electrical earth or chassis ground symbolized on schematics? (Ref #113)",
     "options": [
-      "Black",
-      "Green or bare copper",
-      "White",
-      "Red"
+      "A vertical lead terminating in progressively shorter horizontal parallel lines",
+      "A closed circle with three dots",
+      "A zig-zag arrow pointing up",
+      "A square with a diagonal cross"
     ],
-    "correctAnswer": 1,
-    "explanation": "The National Electrical Code (NEC) specifies green, green with yellow stripes, or bare copper for equipment grounding.",
+    "correctAnswer": 0,
+    "explanation": "The ground symbol consists of descending horizontal lines of decreasing width, indicating zero reference potential.",
     "tags": [
       "electrical-symbols",
       "schematic-symbols",
-      "medium",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "medium"
     ],
     "active": true
   },
@@ -2716,22 +2377,19 @@
     "category": "Electrical Symbols",
     "subcategory": "Passive Components",
     "difficulty": "hard",
-    "question": "[Passive Components #114] Which component in a mechanical vapor-compression refrigeration cycle pumps refrigerant and elevates its pressure and temperature?",
+    "question": "In electrical schematic diagrams: What distinguishes a Light Emitting Diode (LED) symbol from a standard semiconductor diode symbol? (Ref #114)",
     "options": [
-      "Evaporator",
-      "Thermostatic Expansion Valve",
-      "Compressor",
-      "Capillary Tube"
+      "Two arrows pointing inward toward the triangle",
+      "Two small arrows pointing outward away from the diode triangle",
+      "A circle surrounding a resistor",
+      "A wavy line through the center"
     ],
-    "correctAnswer": 2,
-    "explanation": "The compressor draws in low-pressure vapor and discharges high-pressure, superheated vapor to the condenser.",
+    "correctAnswer": 1,
+    "explanation": "Outward-pointing arrows on a diode symbol denote photon radiation (emission of light), designating an LED.",
     "tags": [
       "electrical-symbols",
       "passive-components",
-      "hard",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "hard"
     ],
     "active": true
   },
@@ -2740,22 +2398,19 @@
     "category": "Electrical Symbols",
     "subcategory": "Semiconductor Symbols",
     "difficulty": "easy",
-    "question": "[Semiconductor Symbols #115] What mechanical device in an automotive powertrain disconnects engine power from a manual transmission during gear changes?",
+    "question": "In electrical schematic diagrams: What switch type is designated by the schematic abbreviation 'SPST'? (Ref #115)",
     "options": [
-      "Differential",
-      "Alternator",
-      "Catalytic Converter",
-      "Clutch"
+      "Single Phase, System Terminal",
+      "Series Parallel Synchronous Toggle",
+      "Single Pole, Single Throw switch",
+      "Step Power Signal Trigger"
     ],
-    "correctAnswer": 3,
-    "explanation": "The clutch engages and disengages the engine flywheel from the transmission input shaft.",
+    "correctAnswer": 2,
+    "explanation": "An SPST switch has one input pole and connects to one output throw, serving as a simple on-off control.",
     "tags": [
       "electrical-symbols",
       "semiconductor-symbols",
-      "easy",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "easy"
     ],
     "active": true
   },
@@ -2764,22 +2419,19 @@
     "category": "Electrical Symbols",
     "subcategory": "Switch & Relay Symbols",
     "difficulty": "medium",
-    "question": "[Switch & Relay Symbols #116] According to Ohm's Law, which mathematical formula correctly defines electrical voltage (V)?",
+    "question": "In electrical schematic diagrams: What electronic component is represented on standard North American schematic diagrams by a sharp zig-zag line? (Ref #116)",
     "options": [
-      "V = I × R (Current multiplied by Resistance)",
-      "V = I / R",
-      "V = R / I",
-      "V = I + R"
+      "Capacitor",
+      "Inductor coil",
+      "Diode",
+      "Fixed Resistor"
     ],
-    "correctAnswer": 0,
-    "explanation": "Ohm’s law states that potential difference V is the product of current I (Amperes) and resistance R (Ohms).",
+    "correctAnswer": 3,
+    "explanation": "In ANSI/IEEE schematics, a fixed resistor is drawn as a zig-zag line, whereas international IEC schematics often use a rectangle.",
     "tags": [
       "electrical-symbols",
       "switch-relay-symbols",
-      "medium",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "medium"
     ],
     "active": true
   },
@@ -2788,22 +2440,19 @@
     "category": "Electrical Symbols",
     "subcategory": "Schematic Symbols",
     "difficulty": "hard",
-    "question": "[Schematic Symbols #117] What electronic semiconductor component allows electrical current to flow predominantly in only one forward direction?",
+    "question": "In electrical schematic diagrams: What schematic symbol depicts a non-polarized capacitor in circuit diagrams? (Ref #117)",
     "options": [
-      "Capacitor",
-      "Diode",
-      "Inductor",
-      "Transformer"
+      "Two parallel straight lines perpendicular to the connecting leads",
+      "A series of coiled loops",
+      "A triangle pointing to a straight line",
+      "A circle with an X inside"
     ],
-    "correctAnswer": 1,
-    "explanation": "Diodes conduct current readily when forward-biased and block current when reverse-biased.",
+    "correctAnswer": 0,
+    "explanation": "Capacitors are symbolized by two parallel plates separated by a gap, representing dielectric separation.",
     "tags": [
       "electrical-symbols",
       "schematic-symbols",
-      "hard",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "hard"
     ],
     "active": true
   },
@@ -2812,22 +2461,19 @@
     "category": "Electrical Symbols",
     "subcategory": "Passive Components",
     "difficulty": "easy",
-    "question": "[Passive Components #118] In standard residential alternating current (AC) wiring in the United States, what color denotes the grounding wire?",
+    "question": "In electrical schematic diagrams: How is an electrical earth or chassis ground symbolized on schematics? (Ref #118)",
     "options": [
-      "Black",
-      "White",
-      "Green or bare copper",
-      "Red"
+      "A closed circle with three dots",
+      "A vertical lead terminating in progressively shorter horizontal parallel lines",
+      "A zig-zag arrow pointing up",
+      "A square with a diagonal cross"
     ],
-    "correctAnswer": 2,
-    "explanation": "The National Electrical Code (NEC) specifies green, green with yellow stripes, or bare copper for equipment grounding.",
+    "correctAnswer": 1,
+    "explanation": "The ground symbol consists of descending horizontal lines of decreasing width, indicating zero reference potential.",
     "tags": [
       "electrical-symbols",
       "passive-components",
-      "easy",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "easy"
     ],
     "active": true
   },
@@ -2836,22 +2482,19 @@
     "category": "Electrical Symbols",
     "subcategory": "Semiconductor Symbols",
     "difficulty": "medium",
-    "question": "[Semiconductor Symbols #119] Which component in a mechanical vapor-compression refrigeration cycle pumps refrigerant and elevates its pressure and temperature?",
+    "question": "In electrical schematic diagrams: What distinguishes a Light Emitting Diode (LED) symbol from a standard semiconductor diode symbol? (Ref #119)",
     "options": [
-      "Evaporator",
-      "Thermostatic Expansion Valve",
-      "Capillary Tube",
-      "Compressor"
+      "Two arrows pointing inward toward the triangle",
+      "A circle surrounding a resistor",
+      "Two small arrows pointing outward away from the diode triangle",
+      "A wavy line through the center"
     ],
-    "correctAnswer": 3,
-    "explanation": "The compressor draws in low-pressure vapor and discharges high-pressure, superheated vapor to the condenser.",
+    "correctAnswer": 2,
+    "explanation": "Outward-pointing arrows on a diode symbol denote photon radiation (emission of light), designating an LED.",
     "tags": [
       "electrical-symbols",
       "semiconductor-symbols",
-      "medium",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "medium"
     ],
     "active": true
   },
@@ -2860,22 +2503,19 @@
     "category": "Electrical Symbols",
     "subcategory": "Switch & Relay Symbols",
     "difficulty": "hard",
-    "question": "[Switch & Relay Symbols #120] What mechanical device in an automotive powertrain disconnects engine power from a manual transmission during gear changes?",
+    "question": "In electrical schematic diagrams: What switch type is designated by the schematic abbreviation 'SPST'? (Ref #120)",
     "options": [
-      "Clutch",
-      "Differential",
-      "Alternator",
-      "Catalytic Converter"
+      "Single Phase, System Terminal",
+      "Series Parallel Synchronous Toggle",
+      "Step Power Signal Trigger",
+      "Single Pole, Single Throw switch"
     ],
-    "correctAnswer": 0,
-    "explanation": "The clutch engages and disengages the engine flywheel from the transmission input shaft.",
+    "correctAnswer": 3,
+    "explanation": "An SPST switch has one input pole and connects to one output throw, serving as a simple on-off control.",
     "tags": [
       "electrical-symbols",
       "switch-relay-symbols",
-      "hard",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "hard"
     ],
     "active": true
   },
@@ -2884,22 +2524,19 @@
     "category": "Electrical Symbols",
     "subcategory": "Schematic Symbols",
     "difficulty": "easy",
-    "question": "[Schematic Symbols #121] According to Ohm's Law, which mathematical formula correctly defines electrical voltage (V)?",
+    "question": "In electrical schematic diagrams: What electronic component is represented on standard North American schematic diagrams by a sharp zig-zag line? (Ref #121)",
     "options": [
-      "V = I / R",
-      "V = I × R (Current multiplied by Resistance)",
-      "V = R / I",
-      "V = I + R"
+      "Fixed Resistor",
+      "Capacitor",
+      "Inductor coil",
+      "Diode"
     ],
-    "correctAnswer": 1,
-    "explanation": "Ohm’s law states that potential difference V is the product of current I (Amperes) and resistance R (Ohms).",
+    "correctAnswer": 0,
+    "explanation": "In ANSI/IEEE schematics, a fixed resistor is drawn as a zig-zag line, whereas international IEC schematics often use a rectangle.",
     "tags": [
       "electrical-symbols",
       "schematic-symbols",
-      "easy",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "easy"
     ],
     "active": true
   },
@@ -2908,22 +2545,19 @@
     "category": "Electrical Symbols",
     "subcategory": "Passive Components",
     "difficulty": "medium",
-    "question": "[Passive Components #122] What electronic semiconductor component allows electrical current to flow predominantly in only one forward direction?",
+    "question": "In electrical schematic diagrams: What schematic symbol depicts a non-polarized capacitor in circuit diagrams? (Ref #122)",
     "options": [
-      "Capacitor",
-      "Inductor",
-      "Diode",
-      "Transformer"
+      "A series of coiled loops",
+      "Two parallel straight lines perpendicular to the connecting leads",
+      "A triangle pointing to a straight line",
+      "A circle with an X inside"
     ],
-    "correctAnswer": 2,
-    "explanation": "Diodes conduct current readily when forward-biased and block current when reverse-biased.",
+    "correctAnswer": 1,
+    "explanation": "Capacitors are symbolized by two parallel plates separated by a gap, representing dielectric separation.",
     "tags": [
       "electrical-symbols",
       "passive-components",
-      "medium",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "medium"
     ],
     "active": true
   },
@@ -2932,22 +2566,19 @@
     "category": "Electrical Symbols",
     "subcategory": "Semiconductor Symbols",
     "difficulty": "hard",
-    "question": "[Semiconductor Symbols #123] In standard residential alternating current (AC) wiring in the United States, what color denotes the grounding wire?",
+    "question": "In electrical schematic diagrams: How is an electrical earth or chassis ground symbolized on schematics? (Ref #123)",
     "options": [
-      "Black",
-      "White",
-      "Red",
-      "Green or bare copper"
+      "A closed circle with three dots",
+      "A zig-zag arrow pointing up",
+      "A vertical lead terminating in progressively shorter horizontal parallel lines",
+      "A square with a diagonal cross"
     ],
-    "correctAnswer": 3,
-    "explanation": "The National Electrical Code (NEC) specifies green, green with yellow stripes, or bare copper for equipment grounding.",
+    "correctAnswer": 2,
+    "explanation": "The ground symbol consists of descending horizontal lines of decreasing width, indicating zero reference potential.",
     "tags": [
       "electrical-symbols",
       "semiconductor-symbols",
-      "hard",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "hard"
     ],
     "active": true
   },
@@ -2956,22 +2587,19 @@
     "category": "Electrical Symbols",
     "subcategory": "Switch & Relay Symbols",
     "difficulty": "easy",
-    "question": "[Switch & Relay Symbols #124] Which component in a mechanical vapor-compression refrigeration cycle pumps refrigerant and elevates its pressure and temperature?",
+    "question": "In electrical schematic diagrams: What distinguishes a Light Emitting Diode (LED) symbol from a standard semiconductor diode symbol? (Ref #124)",
     "options": [
-      "Compressor",
-      "Evaporator",
-      "Thermostatic Expansion Valve",
-      "Capillary Tube"
+      "Two arrows pointing inward toward the triangle",
+      "A circle surrounding a resistor",
+      "A wavy line through the center",
+      "Two small arrows pointing outward away from the diode triangle"
     ],
-    "correctAnswer": 0,
-    "explanation": "The compressor draws in low-pressure vapor and discharges high-pressure, superheated vapor to the condenser.",
+    "correctAnswer": 3,
+    "explanation": "Outward-pointing arrows on a diode symbol denote photon radiation (emission of light), designating an LED.",
     "tags": [
       "electrical-symbols",
       "switch-relay-symbols",
-      "easy",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "easy"
     ],
     "active": true
   },
@@ -2980,22 +2608,19 @@
     "category": "Electrical Symbols",
     "subcategory": "Schematic Symbols",
     "difficulty": "medium",
-    "question": "[Schematic Symbols #125] What mechanical device in an automotive powertrain disconnects engine power from a manual transmission during gear changes?",
+    "question": "In electrical schematic diagrams: What switch type is designated by the schematic abbreviation 'SPST'? (Ref #125)",
     "options": [
-      "Differential",
-      "Clutch",
-      "Alternator",
-      "Catalytic Converter"
+      "Single Pole, Single Throw switch",
+      "Single Phase, System Terminal",
+      "Series Parallel Synchronous Toggle",
+      "Step Power Signal Trigger"
     ],
-    "correctAnswer": 1,
-    "explanation": "The clutch engages and disengages the engine flywheel from the transmission input shaft.",
+    "correctAnswer": 0,
+    "explanation": "An SPST switch has one input pole and connects to one output throw, serving as a simple on-off control.",
     "tags": [
       "electrical-symbols",
       "schematic-symbols",
-      "medium",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "medium"
     ],
     "active": true
   },
@@ -3004,22 +2629,19 @@
     "category": "Electrical Symbols",
     "subcategory": "Passive Components",
     "difficulty": "hard",
-    "question": "[Passive Components #126] According to Ohm's Law, which mathematical formula correctly defines electrical voltage (V)?",
+    "question": "In electrical schematic diagrams: What electronic component is represented on standard North American schematic diagrams by a sharp zig-zag line? (Ref #126)",
     "options": [
-      "V = I / R",
-      "V = R / I",
-      "V = I × R (Current multiplied by Resistance)",
-      "V = I + R"
+      "Capacitor",
+      "Fixed Resistor",
+      "Inductor coil",
+      "Diode"
     ],
-    "correctAnswer": 2,
-    "explanation": "Ohm’s law states that potential difference V is the product of current I (Amperes) and resistance R (Ohms).",
+    "correctAnswer": 1,
+    "explanation": "In ANSI/IEEE schematics, a fixed resistor is drawn as a zig-zag line, whereas international IEC schematics often use a rectangle.",
     "tags": [
       "electrical-symbols",
       "passive-components",
-      "hard",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "hard"
     ],
     "active": true
   },
@@ -3028,22 +2650,19 @@
     "category": "Electrical Symbols",
     "subcategory": "Semiconductor Symbols",
     "difficulty": "easy",
-    "question": "[Semiconductor Symbols #127] What electronic semiconductor component allows electrical current to flow predominantly in only one forward direction?",
+    "question": "In electrical schematic diagrams: What schematic symbol depicts a non-polarized capacitor in circuit diagrams? (Ref #127)",
     "options": [
-      "Capacitor",
-      "Inductor",
-      "Transformer",
-      "Diode"
+      "A series of coiled loops",
+      "A triangle pointing to a straight line",
+      "Two parallel straight lines perpendicular to the connecting leads",
+      "A circle with an X inside"
     ],
-    "correctAnswer": 3,
-    "explanation": "Diodes conduct current readily when forward-biased and block current when reverse-biased.",
+    "correctAnswer": 2,
+    "explanation": "Capacitors are symbolized by two parallel plates separated by a gap, representing dielectric separation.",
     "tags": [
       "electrical-symbols",
       "semiconductor-symbols",
-      "easy",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "easy"
     ],
     "active": true
   },
@@ -3052,22 +2671,19 @@
     "category": "Electrical Symbols",
     "subcategory": "Switch & Relay Symbols",
     "difficulty": "medium",
-    "question": "[Switch & Relay Symbols #128] In standard residential alternating current (AC) wiring in the United States, what color denotes the grounding wire?",
+    "question": "In electrical schematic diagrams: How is an electrical earth or chassis ground symbolized on schematics? (Ref #128)",
     "options": [
-      "Green or bare copper",
-      "Black",
-      "White",
-      "Red"
+      "A closed circle with three dots",
+      "A zig-zag arrow pointing up",
+      "A square with a diagonal cross",
+      "A vertical lead terminating in progressively shorter horizontal parallel lines"
     ],
-    "correctAnswer": 0,
-    "explanation": "The National Electrical Code (NEC) specifies green, green with yellow stripes, or bare copper for equipment grounding.",
+    "correctAnswer": 3,
+    "explanation": "The ground symbol consists of descending horizontal lines of decreasing width, indicating zero reference potential.",
     "tags": [
       "electrical-symbols",
       "switch-relay-symbols",
-      "medium",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "medium"
     ],
     "active": true
   },
@@ -3076,22 +2692,19 @@
     "category": "Electrical Symbols",
     "subcategory": "Schematic Symbols",
     "difficulty": "hard",
-    "question": "[Schematic Symbols #129] Which component in a mechanical vapor-compression refrigeration cycle pumps refrigerant and elevates its pressure and temperature?",
+    "question": "In electrical schematic diagrams: What distinguishes a Light Emitting Diode (LED) symbol from a standard semiconductor diode symbol? (Ref #129)",
     "options": [
-      "Evaporator",
-      "Compressor",
-      "Thermostatic Expansion Valve",
-      "Capillary Tube"
+      "Two small arrows pointing outward away from the diode triangle",
+      "Two arrows pointing inward toward the triangle",
+      "A circle surrounding a resistor",
+      "A wavy line through the center"
     ],
-    "correctAnswer": 1,
-    "explanation": "The compressor draws in low-pressure vapor and discharges high-pressure, superheated vapor to the condenser.",
+    "correctAnswer": 0,
+    "explanation": "Outward-pointing arrows on a diode symbol denote photon radiation (emission of light), designating an LED.",
     "tags": [
       "electrical-symbols",
       "schematic-symbols",
-      "hard",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "hard"
     ],
     "active": true
   },
@@ -3100,22 +2713,19 @@
     "category": "Electrical Symbols",
     "subcategory": "Passive Components",
     "difficulty": "easy",
-    "question": "[Passive Components #130] What mechanical device in an automotive powertrain disconnects engine power from a manual transmission during gear changes?",
+    "question": "In electrical schematic diagrams: What switch type is designated by the schematic abbreviation 'SPST'? (Ref #130)",
     "options": [
-      "Differential",
-      "Alternator",
-      "Clutch",
-      "Catalytic Converter"
+      "Single Phase, System Terminal",
+      "Single Pole, Single Throw switch",
+      "Series Parallel Synchronous Toggle",
+      "Step Power Signal Trigger"
     ],
-    "correctAnswer": 2,
-    "explanation": "The clutch engages and disengages the engine flywheel from the transmission input shaft.",
+    "correctAnswer": 1,
+    "explanation": "An SPST switch has one input pole and connects to one output throw, serving as a simple on-off control.",
     "tags": [
       "electrical-symbols",
       "passive-components",
-      "easy",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "easy"
     ],
     "active": true
   },
@@ -3124,22 +2734,19 @@
     "category": "Electrical Symbols",
     "subcategory": "Semiconductor Symbols",
     "difficulty": "medium",
-    "question": "[Semiconductor Symbols #131] According to Ohm's Law, which mathematical formula correctly defines electrical voltage (V)?",
+    "question": "In electrical schematic diagrams: What electronic component is represented on standard North American schematic diagrams by a sharp zig-zag line? (Ref #131)",
     "options": [
-      "V = I / R",
-      "V = R / I",
-      "V = I + R",
-      "V = I × R (Current multiplied by Resistance)"
+      "Capacitor",
+      "Inductor coil",
+      "Fixed Resistor",
+      "Diode"
     ],
-    "correctAnswer": 3,
-    "explanation": "Ohm’s law states that potential difference V is the product of current I (Amperes) and resistance R (Ohms).",
+    "correctAnswer": 2,
+    "explanation": "In ANSI/IEEE schematics, a fixed resistor is drawn as a zig-zag line, whereas international IEC schematics often use a rectangle.",
     "tags": [
       "electrical-symbols",
       "semiconductor-symbols",
-      "medium",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "medium"
     ],
     "active": true
   },
@@ -3148,22 +2755,19 @@
     "category": "Electrical Symbols",
     "subcategory": "Switch & Relay Symbols",
     "difficulty": "hard",
-    "question": "[Switch & Relay Symbols #132] What electronic semiconductor component allows electrical current to flow predominantly in only one forward direction?",
+    "question": "In electrical schematic diagrams: What schematic symbol depicts a non-polarized capacitor in circuit diagrams? (Ref #132)",
     "options": [
-      "Diode",
-      "Capacitor",
-      "Inductor",
-      "Transformer"
+      "A series of coiled loops",
+      "A triangle pointing to a straight line",
+      "A circle with an X inside",
+      "Two parallel straight lines perpendicular to the connecting leads"
     ],
-    "correctAnswer": 0,
-    "explanation": "Diodes conduct current readily when forward-biased and block current when reverse-biased.",
+    "correctAnswer": 3,
+    "explanation": "Capacitors are symbolized by two parallel plates separated by a gap, representing dielectric separation.",
     "tags": [
       "electrical-symbols",
       "switch-relay-symbols",
-      "hard",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "hard"
     ],
     "active": true
   },
@@ -3172,22 +2776,19 @@
     "category": "Electrical Symbols",
     "subcategory": "Schematic Symbols",
     "difficulty": "easy",
-    "question": "[Schematic Symbols #133] In standard residential alternating current (AC) wiring in the United States, what color denotes the grounding wire?",
+    "question": "In electrical schematic diagrams: How is an electrical earth or chassis ground symbolized on schematics? (Ref #133)",
     "options": [
-      "Black",
-      "Green or bare copper",
-      "White",
-      "Red"
+      "A vertical lead terminating in progressively shorter horizontal parallel lines",
+      "A closed circle with three dots",
+      "A zig-zag arrow pointing up",
+      "A square with a diagonal cross"
     ],
-    "correctAnswer": 1,
-    "explanation": "The National Electrical Code (NEC) specifies green, green with yellow stripes, or bare copper for equipment grounding.",
+    "correctAnswer": 0,
+    "explanation": "The ground symbol consists of descending horizontal lines of decreasing width, indicating zero reference potential.",
     "tags": [
       "electrical-symbols",
       "schematic-symbols",
-      "easy",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "easy"
     ],
     "active": true
   },
@@ -3196,22 +2797,19 @@
     "category": "Electrical Symbols",
     "subcategory": "Passive Components",
     "difficulty": "medium",
-    "question": "[Passive Components #134] Which component in a mechanical vapor-compression refrigeration cycle pumps refrigerant and elevates its pressure and temperature?",
+    "question": "In electrical schematic diagrams: What distinguishes a Light Emitting Diode (LED) symbol from a standard semiconductor diode symbol? (Ref #134)",
     "options": [
-      "Evaporator",
-      "Thermostatic Expansion Valve",
-      "Compressor",
-      "Capillary Tube"
+      "Two arrows pointing inward toward the triangle",
+      "Two small arrows pointing outward away from the diode triangle",
+      "A circle surrounding a resistor",
+      "A wavy line through the center"
     ],
-    "correctAnswer": 2,
-    "explanation": "The compressor draws in low-pressure vapor and discharges high-pressure, superheated vapor to the condenser.",
+    "correctAnswer": 1,
+    "explanation": "Outward-pointing arrows on a diode symbol denote photon radiation (emission of light), designating an LED.",
     "tags": [
       "electrical-symbols",
       "passive-components",
-      "medium",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "medium"
     ],
     "active": true
   },
@@ -3220,22 +2818,19 @@
     "category": "Electrical Symbols",
     "subcategory": "Semiconductor Symbols",
     "difficulty": "hard",
-    "question": "[Semiconductor Symbols #135] What mechanical device in an automotive powertrain disconnects engine power from a manual transmission during gear changes?",
+    "question": "In electrical schematic diagrams: What switch type is designated by the schematic abbreviation 'SPST'? (Ref #135)",
     "options": [
-      "Differential",
-      "Alternator",
-      "Catalytic Converter",
-      "Clutch"
+      "Single Phase, System Terminal",
+      "Series Parallel Synchronous Toggle",
+      "Single Pole, Single Throw switch",
+      "Step Power Signal Trigger"
     ],
-    "correctAnswer": 3,
-    "explanation": "The clutch engages and disengages the engine flywheel from the transmission input shaft.",
+    "correctAnswer": 2,
+    "explanation": "An SPST switch has one input pole and connects to one output throw, serving as a simple on-off control.",
     "tags": [
       "electrical-symbols",
       "semiconductor-symbols",
-      "hard",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "hard"
     ],
     "active": true
   },
@@ -3244,22 +2839,19 @@
     "category": "Electrical Symbols",
     "subcategory": "Switch & Relay Symbols",
     "difficulty": "easy",
-    "question": "[Switch & Relay Symbols #136] According to Ohm's Law, which mathematical formula correctly defines electrical voltage (V)?",
+    "question": "In electrical schematic diagrams: What electronic component is represented on standard North American schematic diagrams by a sharp zig-zag line? (Ref #136)",
     "options": [
-      "V = I × R (Current multiplied by Resistance)",
-      "V = I / R",
-      "V = R / I",
-      "V = I + R"
+      "Capacitor",
+      "Inductor coil",
+      "Diode",
+      "Fixed Resistor"
     ],
-    "correctAnswer": 0,
-    "explanation": "Ohm’s law states that potential difference V is the product of current I (Amperes) and resistance R (Ohms).",
+    "correctAnswer": 3,
+    "explanation": "In ANSI/IEEE schematics, a fixed resistor is drawn as a zig-zag line, whereas international IEC schematics often use a rectangle.",
     "tags": [
       "electrical-symbols",
       "switch-relay-symbols",
-      "easy",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "easy"
     ],
     "active": true
   },
@@ -3268,22 +2860,19 @@
     "category": "Electrical Symbols",
     "subcategory": "Schematic Symbols",
     "difficulty": "medium",
-    "question": "[Schematic Symbols #137] What electronic semiconductor component allows electrical current to flow predominantly in only one forward direction?",
+    "question": "In electrical schematic diagrams: What schematic symbol depicts a non-polarized capacitor in circuit diagrams? (Ref #137)",
     "options": [
-      "Capacitor",
-      "Diode",
-      "Inductor",
-      "Transformer"
+      "Two parallel straight lines perpendicular to the connecting leads",
+      "A series of coiled loops",
+      "A triangle pointing to a straight line",
+      "A circle with an X inside"
     ],
-    "correctAnswer": 1,
-    "explanation": "Diodes conduct current readily when forward-biased and block current when reverse-biased.",
+    "correctAnswer": 0,
+    "explanation": "Capacitors are symbolized by two parallel plates separated by a gap, representing dielectric separation.",
     "tags": [
       "electrical-symbols",
       "schematic-symbols",
-      "medium",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "medium"
     ],
     "active": true
   },
@@ -3292,22 +2881,19 @@
     "category": "Electrical Symbols",
     "subcategory": "Passive Components",
     "difficulty": "hard",
-    "question": "[Passive Components #138] In standard residential alternating current (AC) wiring in the United States, what color denotes the grounding wire?",
+    "question": "In electrical schematic diagrams: How is an electrical earth or chassis ground symbolized on schematics? (Ref #138)",
     "options": [
-      "Black",
-      "White",
-      "Green or bare copper",
-      "Red"
+      "A closed circle with three dots",
+      "A vertical lead terminating in progressively shorter horizontal parallel lines",
+      "A zig-zag arrow pointing up",
+      "A square with a diagonal cross"
     ],
-    "correctAnswer": 2,
-    "explanation": "The National Electrical Code (NEC) specifies green, green with yellow stripes, or bare copper for equipment grounding.",
+    "correctAnswer": 1,
+    "explanation": "The ground symbol consists of descending horizontal lines of decreasing width, indicating zero reference potential.",
     "tags": [
       "electrical-symbols",
       "passive-components",
-      "hard",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "hard"
     ],
     "active": true
   },
@@ -3316,22 +2902,19 @@
     "category": "Electrical Symbols",
     "subcategory": "Semiconductor Symbols",
     "difficulty": "easy",
-    "question": "[Semiconductor Symbols #139] Which component in a mechanical vapor-compression refrigeration cycle pumps refrigerant and elevates its pressure and temperature?",
+    "question": "In electrical schematic diagrams: What distinguishes a Light Emitting Diode (LED) symbol from a standard semiconductor diode symbol? (Ref #139)",
     "options": [
-      "Evaporator",
-      "Thermostatic Expansion Valve",
-      "Capillary Tube",
-      "Compressor"
+      "Two arrows pointing inward toward the triangle",
+      "A circle surrounding a resistor",
+      "Two small arrows pointing outward away from the diode triangle",
+      "A wavy line through the center"
     ],
-    "correctAnswer": 3,
-    "explanation": "The compressor draws in low-pressure vapor and discharges high-pressure, superheated vapor to the condenser.",
+    "correctAnswer": 2,
+    "explanation": "Outward-pointing arrows on a diode symbol denote photon radiation (emission of light), designating an LED.",
     "tags": [
       "electrical-symbols",
       "semiconductor-symbols",
-      "easy",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "easy"
     ],
     "active": true
   },
@@ -3340,22 +2923,19 @@
     "category": "Electrical Symbols",
     "subcategory": "Switch & Relay Symbols",
     "difficulty": "medium",
-    "question": "[Switch & Relay Symbols #140] What mechanical device in an automotive powertrain disconnects engine power from a manual transmission during gear changes?",
+    "question": "In electrical schematic diagrams: What switch type is designated by the schematic abbreviation 'SPST'? (Ref #140)",
     "options": [
-      "Clutch",
-      "Differential",
-      "Alternator",
-      "Catalytic Converter"
+      "Single Phase, System Terminal",
+      "Series Parallel Synchronous Toggle",
+      "Step Power Signal Trigger",
+      "Single Pole, Single Throw switch"
     ],
-    "correctAnswer": 0,
-    "explanation": "The clutch engages and disengages the engine flywheel from the transmission input shaft.",
+    "correctAnswer": 3,
+    "explanation": "An SPST switch has one input pole and connects to one output throw, serving as a simple on-off control.",
     "tags": [
       "electrical-symbols",
       "switch-relay-symbols",
-      "medium",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "medium"
     ],
     "active": true
   },
@@ -3364,22 +2944,19 @@
     "category": "Electrical Symbols",
     "subcategory": "Schematic Symbols",
     "difficulty": "hard",
-    "question": "[Schematic Symbols #141] According to Ohm's Law, which mathematical formula correctly defines electrical voltage (V)?",
+    "question": "In electrical schematic diagrams: What electronic component is represented on standard North American schematic diagrams by a sharp zig-zag line? (Ref #141)",
     "options": [
-      "V = I / R",
-      "V = I × R (Current multiplied by Resistance)",
-      "V = R / I",
-      "V = I + R"
+      "Fixed Resistor",
+      "Capacitor",
+      "Inductor coil",
+      "Diode"
     ],
-    "correctAnswer": 1,
-    "explanation": "Ohm’s law states that potential difference V is the product of current I (Amperes) and resistance R (Ohms).",
+    "correctAnswer": 0,
+    "explanation": "In ANSI/IEEE schematics, a fixed resistor is drawn as a zig-zag line, whereas international IEC schematics often use a rectangle.",
     "tags": [
       "electrical-symbols",
       "schematic-symbols",
-      "hard",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "hard"
     ],
     "active": true
   },
@@ -3388,22 +2965,19 @@
     "category": "Electrical Symbols",
     "subcategory": "Passive Components",
     "difficulty": "easy",
-    "question": "[Passive Components #142] What electronic semiconductor component allows electrical current to flow predominantly in only one forward direction?",
+    "question": "In electrical schematic diagrams: What schematic symbol depicts a non-polarized capacitor in circuit diagrams? (Ref #142)",
     "options": [
-      "Capacitor",
-      "Inductor",
-      "Diode",
-      "Transformer"
+      "A series of coiled loops",
+      "Two parallel straight lines perpendicular to the connecting leads",
+      "A triangle pointing to a straight line",
+      "A circle with an X inside"
     ],
-    "correctAnswer": 2,
-    "explanation": "Diodes conduct current readily when forward-biased and block current when reverse-biased.",
+    "correctAnswer": 1,
+    "explanation": "Capacitors are symbolized by two parallel plates separated by a gap, representing dielectric separation.",
     "tags": [
       "electrical-symbols",
       "passive-components",
-      "easy",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "easy"
     ],
     "active": true
   },
@@ -3412,22 +2986,19 @@
     "category": "Electrical Symbols",
     "subcategory": "Semiconductor Symbols",
     "difficulty": "medium",
-    "question": "[Semiconductor Symbols #143] In standard residential alternating current (AC) wiring in the United States, what color denotes the grounding wire?",
+    "question": "In electrical schematic diagrams: How is an electrical earth or chassis ground symbolized on schematics? (Ref #143)",
     "options": [
-      "Black",
-      "White",
-      "Red",
-      "Green or bare copper"
+      "A closed circle with three dots",
+      "A zig-zag arrow pointing up",
+      "A vertical lead terminating in progressively shorter horizontal parallel lines",
+      "A square with a diagonal cross"
     ],
-    "correctAnswer": 3,
-    "explanation": "The National Electrical Code (NEC) specifies green, green with yellow stripes, or bare copper for equipment grounding.",
+    "correctAnswer": 2,
+    "explanation": "The ground symbol consists of descending horizontal lines of decreasing width, indicating zero reference potential.",
     "tags": [
       "electrical-symbols",
       "semiconductor-symbols",
-      "medium",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "medium"
     ],
     "active": true
   },
@@ -3436,22 +3007,19 @@
     "category": "Electrical Symbols",
     "subcategory": "Switch & Relay Symbols",
     "difficulty": "hard",
-    "question": "[Switch & Relay Symbols #144] Which component in a mechanical vapor-compression refrigeration cycle pumps refrigerant and elevates its pressure and temperature?",
+    "question": "In electrical schematic diagrams: What distinguishes a Light Emitting Diode (LED) symbol from a standard semiconductor diode symbol? (Ref #144)",
     "options": [
-      "Compressor",
-      "Evaporator",
-      "Thermostatic Expansion Valve",
-      "Capillary Tube"
+      "Two arrows pointing inward toward the triangle",
+      "A circle surrounding a resistor",
+      "A wavy line through the center",
+      "Two small arrows pointing outward away from the diode triangle"
     ],
-    "correctAnswer": 0,
-    "explanation": "The compressor draws in low-pressure vapor and discharges high-pressure, superheated vapor to the condenser.",
+    "correctAnswer": 3,
+    "explanation": "Outward-pointing arrows on a diode symbol denote photon radiation (emission of light), designating an LED.",
     "tags": [
       "electrical-symbols",
       "switch-relay-symbols",
-      "hard",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "hard"
     ],
     "active": true
   },
@@ -3460,22 +3028,19 @@
     "category": "Electrical Symbols",
     "subcategory": "Schematic Symbols",
     "difficulty": "easy",
-    "question": "[Schematic Symbols #145] What mechanical device in an automotive powertrain disconnects engine power from a manual transmission during gear changes?",
+    "question": "In electrical schematic diagrams: What switch type is designated by the schematic abbreviation 'SPST'? (Ref #145)",
     "options": [
-      "Differential",
-      "Clutch",
-      "Alternator",
-      "Catalytic Converter"
+      "Single Pole, Single Throw switch",
+      "Single Phase, System Terminal",
+      "Series Parallel Synchronous Toggle",
+      "Step Power Signal Trigger"
     ],
-    "correctAnswer": 1,
-    "explanation": "The clutch engages and disengages the engine flywheel from the transmission input shaft.",
+    "correctAnswer": 0,
+    "explanation": "An SPST switch has one input pole and connects to one output throw, serving as a simple on-off control.",
     "tags": [
       "electrical-symbols",
       "schematic-symbols",
-      "easy",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "easy"
     ],
     "active": true
   },
@@ -3484,22 +3049,19 @@
     "category": "Electrical Symbols",
     "subcategory": "Passive Components",
     "difficulty": "medium",
-    "question": "[Passive Components #146] According to Ohm's Law, which mathematical formula correctly defines electrical voltage (V)?",
+    "question": "In electrical schematic diagrams: What electronic component is represented on standard North American schematic diagrams by a sharp zig-zag line? (Ref #146)",
     "options": [
-      "V = I / R",
-      "V = R / I",
-      "V = I × R (Current multiplied by Resistance)",
-      "V = I + R"
+      "Capacitor",
+      "Fixed Resistor",
+      "Inductor coil",
+      "Diode"
     ],
-    "correctAnswer": 2,
-    "explanation": "Ohm’s law states that potential difference V is the product of current I (Amperes) and resistance R (Ohms).",
+    "correctAnswer": 1,
+    "explanation": "In ANSI/IEEE schematics, a fixed resistor is drawn as a zig-zag line, whereas international IEC schematics often use a rectangle.",
     "tags": [
       "electrical-symbols",
       "passive-components",
-      "medium",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "medium"
     ],
     "active": true
   },
@@ -3508,22 +3070,19 @@
     "category": "Electrical Symbols",
     "subcategory": "Semiconductor Symbols",
     "difficulty": "hard",
-    "question": "[Semiconductor Symbols #147] What electronic semiconductor component allows electrical current to flow predominantly in only one forward direction?",
+    "question": "In electrical schematic diagrams: What schematic symbol depicts a non-polarized capacitor in circuit diagrams? (Ref #147)",
     "options": [
-      "Capacitor",
-      "Inductor",
-      "Transformer",
-      "Diode"
+      "A series of coiled loops",
+      "A triangle pointing to a straight line",
+      "Two parallel straight lines perpendicular to the connecting leads",
+      "A circle with an X inside"
     ],
-    "correctAnswer": 3,
-    "explanation": "Diodes conduct current readily when forward-biased and block current when reverse-biased.",
+    "correctAnswer": 2,
+    "explanation": "Capacitors are symbolized by two parallel plates separated by a gap, representing dielectric separation.",
     "tags": [
       "electrical-symbols",
       "semiconductor-symbols",
-      "hard",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "hard"
     ],
     "active": true
   },
@@ -3532,22 +3091,19 @@
     "category": "Electrical Symbols",
     "subcategory": "Switch & Relay Symbols",
     "difficulty": "easy",
-    "question": "[Switch & Relay Symbols #148] In standard residential alternating current (AC) wiring in the United States, what color denotes the grounding wire?",
+    "question": "In electrical schematic diagrams: How is an electrical earth or chassis ground symbolized on schematics? (Ref #148)",
     "options": [
-      "Green or bare copper",
-      "Black",
-      "White",
-      "Red"
+      "A closed circle with three dots",
+      "A zig-zag arrow pointing up",
+      "A square with a diagonal cross",
+      "A vertical lead terminating in progressively shorter horizontal parallel lines"
     ],
-    "correctAnswer": 0,
-    "explanation": "The National Electrical Code (NEC) specifies green, green with yellow stripes, or bare copper for equipment grounding.",
+    "correctAnswer": 3,
+    "explanation": "The ground symbol consists of descending horizontal lines of decreasing width, indicating zero reference potential.",
     "tags": [
       "electrical-symbols",
       "switch-relay-symbols",
-      "easy",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "easy"
     ],
     "active": true
   },
@@ -3556,22 +3112,19 @@
     "category": "Electrical Symbols",
     "subcategory": "Schematic Symbols",
     "difficulty": "medium",
-    "question": "[Schematic Symbols #149] Which component in a mechanical vapor-compression refrigeration cycle pumps refrigerant and elevates its pressure and temperature?",
+    "question": "In electrical schematic diagrams: What distinguishes a Light Emitting Diode (LED) symbol from a standard semiconductor diode symbol? (Ref #149)",
     "options": [
-      "Evaporator",
-      "Compressor",
-      "Thermostatic Expansion Valve",
-      "Capillary Tube"
+      "Two small arrows pointing outward away from the diode triangle",
+      "Two arrows pointing inward toward the triangle",
+      "A circle surrounding a resistor",
+      "A wavy line through the center"
     ],
-    "correctAnswer": 1,
-    "explanation": "The compressor draws in low-pressure vapor and discharges high-pressure, superheated vapor to the condenser.",
+    "correctAnswer": 0,
+    "explanation": "Outward-pointing arrows on a diode symbol denote photon radiation (emission of light), designating an LED.",
     "tags": [
       "electrical-symbols",
       "schematic-symbols",
-      "medium",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "medium"
     ],
     "active": true
   },
@@ -3580,22 +3133,19 @@
     "category": "Electrical Symbols",
     "subcategory": "Passive Components",
     "difficulty": "hard",
-    "question": "[Passive Components #150] What mechanical device in an automotive powertrain disconnects engine power from a manual transmission during gear changes?",
+    "question": "In electrical schematic diagrams: What switch type is designated by the schematic abbreviation 'SPST'? (Ref #150)",
     "options": [
-      "Differential",
-      "Alternator",
-      "Clutch",
-      "Catalytic Converter"
+      "Single Phase, System Terminal",
+      "Single Pole, Single Throw switch",
+      "Series Parallel Synchronous Toggle",
+      "Step Power Signal Trigger"
     ],
-    "correctAnswer": 2,
-    "explanation": "The clutch engages and disengages the engine flywheel from the transmission input shaft.",
+    "correctAnswer": 1,
+    "explanation": "An SPST switch has one input pole and connects to one output throw, serving as a simple on-off control.",
     "tags": [
       "electrical-symbols",
       "passive-components",
-      "hard",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "hard"
     ],
     "active": true
   }

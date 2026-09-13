@@ -4,22 +4,19 @@
     "category": "Electronics",
     "subcategory": "Semiconductors",
     "difficulty": "easy",
-    "question": "[Semiconductors #1] According to Ohm's Law, which mathematical formula correctly defines electrical voltage (V)?",
+    "question": "Electronics and circuit engineering: Which basic digital logic gate produces a HIGH (1) output if and only if ALL of its inputs are simultaneously HIGH (1)? (Ref #1)",
     "options": [
-      "V = I / R",
-      "V = I × R (Current multiplied by Resistance)",
-      "V = R / I",
-      "V = I + R"
+      "AND gate",
+      "OR gate",
+      "NAND gate",
+      "XOR gate"
     ],
-    "correctAnswer": 1,
-    "explanation": "Ohm’s law states that potential difference V is the product of current I (Amperes) and resistance R (Ohms).",
+    "correctAnswer": 0,
+    "explanation": "An AND gate requires all inputs to be true (1) to produce a true (1) output.",
     "tags": [
       "electronics",
       "semiconductors",
-      "easy",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "easy"
     ],
     "active": true
   },
@@ -28,22 +25,19 @@
     "category": "Electronics",
     "subcategory": "Digital Logic",
     "difficulty": "medium",
-    "question": "[Digital Logic #2] What electronic semiconductor component allows electrical current to flow predominantly in only one forward direction?",
+    "question": "Electronics and circuit engineering: What three functional terminals exist on a standard Bipolar Junction Transistor (BJT)? (Ref #2)",
     "options": [
-      "Capacitor",
-      "Inductor",
-      "Diode",
-      "Transformer"
+      "Gate, Drain, and Source",
+      "Base, Collector, and Emitter",
+      "Anode, Cathode, and Grid",
+      "Phase, Neutral, and Ground"
     ],
-    "correctAnswer": 2,
-    "explanation": "Diodes conduct current readily when forward-biased and block current when reverse-biased.",
+    "correctAnswer": 1,
+    "explanation": "BJTs possess Base, Collector, and Emitter terminals, where a small base current controls a larger collector-emitter current.",
     "tags": [
       "electronics",
       "digital-logic",
-      "medium",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "medium"
     ],
     "active": true
   },
@@ -52,22 +46,19 @@
     "category": "Electronics",
     "subcategory": "Microcontrollers",
     "difficulty": "hard",
-    "question": "[Microcontrollers #3] In standard residential alternating current (AC) wiring in the United States, what color denotes the grounding wire?",
+    "question": "Electronics and circuit engineering: What is the ideal input impedance of an ideal operational amplifier (Op-Amp)? (Ref #3)",
     "options": [
-      "Black",
-      "White",
-      "Red",
-      "Green or bare copper"
+      "Zero impedance",
+      "50 Ohms",
+      "Infinite impedance (draws zero input current)",
+      "1000 Ohms"
     ],
-    "correctAnswer": 3,
-    "explanation": "The National Electrical Code (NEC) specifies green, green with yellow stripes, or bare copper for equipment grounding.",
+    "correctAnswer": 2,
+    "explanation": "Ideal op-amps have infinite input impedance so that they do not load or draw current from preceding circuit stages.",
     "tags": [
       "electronics",
       "microcontrollers",
-      "hard",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "hard"
     ],
     "active": true
   },
@@ -76,22 +67,19 @@
     "category": "Electronics",
     "subcategory": "Amplifiers & Filters",
     "difficulty": "easy",
-    "question": "[Amplifiers & Filters #4] Which component in a mechanical vapor-compression refrigeration cycle pumps refrigerant and elevates its pressure and temperature?",
+    "question": "Electronics and circuit engineering: What is the decimal numerical value of the 4-bit binary number 1010? (Ref #4)",
     "options": [
-      "Compressor",
-      "Evaporator",
-      "Thermostatic Expansion Valve",
-      "Capillary Tube"
+      "Decimal 12",
+      "Decimal 6",
+      "Decimal 14",
+      "Decimal 10 (8 + 2)"
     ],
-    "correctAnswer": 0,
-    "explanation": "The compressor draws in low-pressure vapor and discharges high-pressure, superheated vapor to the condenser.",
+    "correctAnswer": 3,
+    "explanation": "Binary 1010 = (1 × 8) + (0 × 4) + (1 × 2) + (0 × 1) = 8 + 2 = 10.",
     "tags": [
       "electronics",
       "amplifiers-filters",
-      "easy",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "easy"
     ],
     "active": true
   },
@@ -100,22 +88,19 @@
     "category": "Electronics",
     "subcategory": "Semiconductors",
     "difficulty": "medium",
-    "question": "[Semiconductors #5] What mechanical device in an automotive powertrain disconnects engine power from a manual transmission during gear changes?",
+    "question": "Electronics and circuit engineering: What electronic component resists rapid changes in electrical current through stored magnetic energy? (Ref #5)",
     "options": [
-      "Differential",
-      "Clutch",
-      "Alternator",
-      "Catalytic Converter"
+      "Inductor (Choke)",
+      "Capacitor",
+      "Resistor",
+      "Varistor"
     ],
-    "correctAnswer": 1,
-    "explanation": "The clutch engages and disengages the engine flywheel from the transmission input shaft.",
+    "correctAnswer": 0,
+    "explanation": "Inductors store energy in a magnetic field according to Faraday's law, opposing sudden variations in current.",
     "tags": [
       "electronics",
       "semiconductors",
-      "medium",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "medium"
     ],
     "active": true
   },
@@ -124,22 +109,19 @@
     "category": "Electronics",
     "subcategory": "Digital Logic",
     "difficulty": "hard",
-    "question": "[Digital Logic #6] According to Ohm's Law, which mathematical formula correctly defines electrical voltage (V)?",
+    "question": "Electronics and circuit engineering: Which basic digital logic gate produces a HIGH (1) output if and only if ALL of its inputs are simultaneously HIGH (1)? (Ref #6)",
     "options": [
-      "V = I / R",
-      "V = R / I",
-      "V = I × R (Current multiplied by Resistance)",
-      "V = I + R"
+      "OR gate",
+      "AND gate",
+      "NAND gate",
+      "XOR gate"
     ],
-    "correctAnswer": 2,
-    "explanation": "Ohm’s law states that potential difference V is the product of current I (Amperes) and resistance R (Ohms).",
+    "correctAnswer": 1,
+    "explanation": "An AND gate requires all inputs to be true (1) to produce a true (1) output.",
     "tags": [
       "electronics",
       "digital-logic",
-      "hard",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "hard"
     ],
     "active": true
   },
@@ -148,22 +130,19 @@
     "category": "Electronics",
     "subcategory": "Microcontrollers",
     "difficulty": "easy",
-    "question": "[Microcontrollers #7] What electronic semiconductor component allows electrical current to flow predominantly in only one forward direction?",
+    "question": "Electronics and circuit engineering: What three functional terminals exist on a standard Bipolar Junction Transistor (BJT)? (Ref #7)",
     "options": [
-      "Capacitor",
-      "Inductor",
-      "Transformer",
-      "Diode"
+      "Gate, Drain, and Source",
+      "Anode, Cathode, and Grid",
+      "Base, Collector, and Emitter",
+      "Phase, Neutral, and Ground"
     ],
-    "correctAnswer": 3,
-    "explanation": "Diodes conduct current readily when forward-biased and block current when reverse-biased.",
+    "correctAnswer": 2,
+    "explanation": "BJTs possess Base, Collector, and Emitter terminals, where a small base current controls a larger collector-emitter current.",
     "tags": [
       "electronics",
       "microcontrollers",
-      "easy",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "easy"
     ],
     "active": true
   },
@@ -172,22 +151,19 @@
     "category": "Electronics",
     "subcategory": "Amplifiers & Filters",
     "difficulty": "medium",
-    "question": "[Amplifiers & Filters #8] In standard residential alternating current (AC) wiring in the United States, what color denotes the grounding wire?",
+    "question": "Electronics and circuit engineering: What is the ideal input impedance of an ideal operational amplifier (Op-Amp)? (Ref #8)",
     "options": [
-      "Green or bare copper",
-      "Black",
-      "White",
-      "Red"
+      "Zero impedance",
+      "50 Ohms",
+      "1000 Ohms",
+      "Infinite impedance (draws zero input current)"
     ],
-    "correctAnswer": 0,
-    "explanation": "The National Electrical Code (NEC) specifies green, green with yellow stripes, or bare copper for equipment grounding.",
+    "correctAnswer": 3,
+    "explanation": "Ideal op-amps have infinite input impedance so that they do not load or draw current from preceding circuit stages.",
     "tags": [
       "electronics",
       "amplifiers-filters",
-      "medium",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "medium"
     ],
     "active": true
   },
@@ -196,22 +172,19 @@
     "category": "Electronics",
     "subcategory": "Semiconductors",
     "difficulty": "hard",
-    "question": "[Semiconductors #9] Which component in a mechanical vapor-compression refrigeration cycle pumps refrigerant and elevates its pressure and temperature?",
+    "question": "Electronics and circuit engineering: What is the decimal numerical value of the 4-bit binary number 1010? (Ref #9)",
     "options": [
-      "Evaporator",
-      "Compressor",
-      "Thermostatic Expansion Valve",
-      "Capillary Tube"
+      "Decimal 10 (8 + 2)",
+      "Decimal 12",
+      "Decimal 6",
+      "Decimal 14"
     ],
-    "correctAnswer": 1,
-    "explanation": "The compressor draws in low-pressure vapor and discharges high-pressure, superheated vapor to the condenser.",
+    "correctAnswer": 0,
+    "explanation": "Binary 1010 = (1 × 8) + (0 × 4) + (1 × 2) + (0 × 1) = 8 + 2 = 10.",
     "tags": [
       "electronics",
       "semiconductors",
-      "hard",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "hard"
     ],
     "active": true
   },
@@ -220,22 +193,19 @@
     "category": "Electronics",
     "subcategory": "Digital Logic",
     "difficulty": "easy",
-    "question": "[Digital Logic #10] What mechanical device in an automotive powertrain disconnects engine power from a manual transmission during gear changes?",
+    "question": "Electronics and circuit engineering: What electronic component resists rapid changes in electrical current through stored magnetic energy? (Ref #10)",
     "options": [
-      "Differential",
-      "Alternator",
-      "Clutch",
-      "Catalytic Converter"
+      "Capacitor",
+      "Inductor (Choke)",
+      "Resistor",
+      "Varistor"
     ],
-    "correctAnswer": 2,
-    "explanation": "The clutch engages and disengages the engine flywheel from the transmission input shaft.",
+    "correctAnswer": 1,
+    "explanation": "Inductors store energy in a magnetic field according to Faraday's law, opposing sudden variations in current.",
     "tags": [
       "electronics",
       "digital-logic",
-      "easy",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "easy"
     ],
     "active": true
   },
@@ -244,22 +214,19 @@
     "category": "Electronics",
     "subcategory": "Microcontrollers",
     "difficulty": "medium",
-    "question": "[Microcontrollers #11] According to Ohm's Law, which mathematical formula correctly defines electrical voltage (V)?",
+    "question": "Electronics and circuit engineering: Which basic digital logic gate produces a HIGH (1) output if and only if ALL of its inputs are simultaneously HIGH (1)? (Ref #11)",
     "options": [
-      "V = I / R",
-      "V = R / I",
-      "V = I + R",
-      "V = I × R (Current multiplied by Resistance)"
+      "OR gate",
+      "NAND gate",
+      "AND gate",
+      "XOR gate"
     ],
-    "correctAnswer": 3,
-    "explanation": "Ohm’s law states that potential difference V is the product of current I (Amperes) and resistance R (Ohms).",
+    "correctAnswer": 2,
+    "explanation": "An AND gate requires all inputs to be true (1) to produce a true (1) output.",
     "tags": [
       "electronics",
       "microcontrollers",
-      "medium",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "medium"
     ],
     "active": true
   },
@@ -268,22 +235,19 @@
     "category": "Electronics",
     "subcategory": "Amplifiers & Filters",
     "difficulty": "hard",
-    "question": "[Amplifiers & Filters #12] What electronic semiconductor component allows electrical current to flow predominantly in only one forward direction?",
+    "question": "Electronics and circuit engineering: What three functional terminals exist on a standard Bipolar Junction Transistor (BJT)? (Ref #12)",
     "options": [
-      "Diode",
-      "Capacitor",
-      "Inductor",
-      "Transformer"
+      "Gate, Drain, and Source",
+      "Anode, Cathode, and Grid",
+      "Phase, Neutral, and Ground",
+      "Base, Collector, and Emitter"
     ],
-    "correctAnswer": 0,
-    "explanation": "Diodes conduct current readily when forward-biased and block current when reverse-biased.",
+    "correctAnswer": 3,
+    "explanation": "BJTs possess Base, Collector, and Emitter terminals, where a small base current controls a larger collector-emitter current.",
     "tags": [
       "electronics",
       "amplifiers-filters",
-      "hard",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "hard"
     ],
     "active": true
   },
@@ -292,22 +256,19 @@
     "category": "Electronics",
     "subcategory": "Semiconductors",
     "difficulty": "easy",
-    "question": "[Semiconductors #13] In standard residential alternating current (AC) wiring in the United States, what color denotes the grounding wire?",
+    "question": "Electronics and circuit engineering: What is the ideal input impedance of an ideal operational amplifier (Op-Amp)? (Ref #13)",
     "options": [
-      "Black",
-      "Green or bare copper",
-      "White",
-      "Red"
+      "Infinite impedance (draws zero input current)",
+      "Zero impedance",
+      "50 Ohms",
+      "1000 Ohms"
     ],
-    "correctAnswer": 1,
-    "explanation": "The National Electrical Code (NEC) specifies green, green with yellow stripes, or bare copper for equipment grounding.",
+    "correctAnswer": 0,
+    "explanation": "Ideal op-amps have infinite input impedance so that they do not load or draw current from preceding circuit stages.",
     "tags": [
       "electronics",
       "semiconductors",
-      "easy",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "easy"
     ],
     "active": true
   },
@@ -316,22 +277,19 @@
     "category": "Electronics",
     "subcategory": "Digital Logic",
     "difficulty": "medium",
-    "question": "[Digital Logic #14] Which component in a mechanical vapor-compression refrigeration cycle pumps refrigerant and elevates its pressure and temperature?",
+    "question": "Electronics and circuit engineering: What is the decimal numerical value of the 4-bit binary number 1010? (Ref #14)",
     "options": [
-      "Evaporator",
-      "Thermostatic Expansion Valve",
-      "Compressor",
-      "Capillary Tube"
+      "Decimal 12",
+      "Decimal 10 (8 + 2)",
+      "Decimal 6",
+      "Decimal 14"
     ],
-    "correctAnswer": 2,
-    "explanation": "The compressor draws in low-pressure vapor and discharges high-pressure, superheated vapor to the condenser.",
+    "correctAnswer": 1,
+    "explanation": "Binary 1010 = (1 × 8) + (0 × 4) + (1 × 2) + (0 × 1) = 8 + 2 = 10.",
     "tags": [
       "electronics",
       "digital-logic",
-      "medium",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "medium"
     ],
     "active": true
   },
@@ -340,22 +298,19 @@
     "category": "Electronics",
     "subcategory": "Microcontrollers",
     "difficulty": "hard",
-    "question": "[Microcontrollers #15] What mechanical device in an automotive powertrain disconnects engine power from a manual transmission during gear changes?",
+    "question": "Electronics and circuit engineering: What electronic component resists rapid changes in electrical current through stored magnetic energy? (Ref #15)",
     "options": [
-      "Differential",
-      "Alternator",
-      "Catalytic Converter",
-      "Clutch"
+      "Capacitor",
+      "Resistor",
+      "Inductor (Choke)",
+      "Varistor"
     ],
-    "correctAnswer": 3,
-    "explanation": "The clutch engages and disengages the engine flywheel from the transmission input shaft.",
+    "correctAnswer": 2,
+    "explanation": "Inductors store energy in a magnetic field according to Faraday's law, opposing sudden variations in current.",
     "tags": [
       "electronics",
       "microcontrollers",
-      "hard",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "hard"
     ],
     "active": true
   },
@@ -364,22 +319,19 @@
     "category": "Electronics",
     "subcategory": "Amplifiers & Filters",
     "difficulty": "easy",
-    "question": "[Amplifiers & Filters #16] According to Ohm's Law, which mathematical formula correctly defines electrical voltage (V)?",
+    "question": "Electronics and circuit engineering: Which basic digital logic gate produces a HIGH (1) output if and only if ALL of its inputs are simultaneously HIGH (1)? (Ref #16)",
     "options": [
-      "V = I × R (Current multiplied by Resistance)",
-      "V = I / R",
-      "V = R / I",
-      "V = I + R"
+      "OR gate",
+      "NAND gate",
+      "XOR gate",
+      "AND gate"
     ],
-    "correctAnswer": 0,
-    "explanation": "Ohm’s law states that potential difference V is the product of current I (Amperes) and resistance R (Ohms).",
+    "correctAnswer": 3,
+    "explanation": "An AND gate requires all inputs to be true (1) to produce a true (1) output.",
     "tags": [
       "electronics",
       "amplifiers-filters",
-      "easy",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "easy"
     ],
     "active": true
   },
@@ -388,22 +340,19 @@
     "category": "Electronics",
     "subcategory": "Semiconductors",
     "difficulty": "medium",
-    "question": "[Semiconductors #17] What electronic semiconductor component allows electrical current to flow predominantly in only one forward direction?",
+    "question": "Electronics and circuit engineering: What three functional terminals exist on a standard Bipolar Junction Transistor (BJT)? (Ref #17)",
     "options": [
-      "Capacitor",
-      "Diode",
-      "Inductor",
-      "Transformer"
+      "Base, Collector, and Emitter",
+      "Gate, Drain, and Source",
+      "Anode, Cathode, and Grid",
+      "Phase, Neutral, and Ground"
     ],
-    "correctAnswer": 1,
-    "explanation": "Diodes conduct current readily when forward-biased and block current when reverse-biased.",
+    "correctAnswer": 0,
+    "explanation": "BJTs possess Base, Collector, and Emitter terminals, where a small base current controls a larger collector-emitter current.",
     "tags": [
       "electronics",
       "semiconductors",
-      "medium",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "medium"
     ],
     "active": true
   },
@@ -412,22 +361,19 @@
     "category": "Electronics",
     "subcategory": "Digital Logic",
     "difficulty": "hard",
-    "question": "[Digital Logic #18] In standard residential alternating current (AC) wiring in the United States, what color denotes the grounding wire?",
+    "question": "Electronics and circuit engineering: What is the ideal input impedance of an ideal operational amplifier (Op-Amp)? (Ref #18)",
     "options": [
-      "Black",
-      "White",
-      "Green or bare copper",
-      "Red"
+      "Zero impedance",
+      "Infinite impedance (draws zero input current)",
+      "50 Ohms",
+      "1000 Ohms"
     ],
-    "correctAnswer": 2,
-    "explanation": "The National Electrical Code (NEC) specifies green, green with yellow stripes, or bare copper for equipment grounding.",
+    "correctAnswer": 1,
+    "explanation": "Ideal op-amps have infinite input impedance so that they do not load or draw current from preceding circuit stages.",
     "tags": [
       "electronics",
       "digital-logic",
-      "hard",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "hard"
     ],
     "active": true
   },
@@ -436,22 +382,19 @@
     "category": "Electronics",
     "subcategory": "Microcontrollers",
     "difficulty": "easy",
-    "question": "[Microcontrollers #19] Which component in a mechanical vapor-compression refrigeration cycle pumps refrigerant and elevates its pressure and temperature?",
+    "question": "Electronics and circuit engineering: What is the decimal numerical value of the 4-bit binary number 1010? (Ref #19)",
     "options": [
-      "Evaporator",
-      "Thermostatic Expansion Valve",
-      "Capillary Tube",
-      "Compressor"
+      "Decimal 12",
+      "Decimal 6",
+      "Decimal 10 (8 + 2)",
+      "Decimal 14"
     ],
-    "correctAnswer": 3,
-    "explanation": "The compressor draws in low-pressure vapor and discharges high-pressure, superheated vapor to the condenser.",
+    "correctAnswer": 2,
+    "explanation": "Binary 1010 = (1 × 8) + (0 × 4) + (1 × 2) + (0 × 1) = 8 + 2 = 10.",
     "tags": [
       "electronics",
       "microcontrollers",
-      "easy",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "easy"
     ],
     "active": true
   },
@@ -460,22 +403,19 @@
     "category": "Electronics",
     "subcategory": "Amplifiers & Filters",
     "difficulty": "medium",
-    "question": "[Amplifiers & Filters #20] What mechanical device in an automotive powertrain disconnects engine power from a manual transmission during gear changes?",
+    "question": "Electronics and circuit engineering: What electronic component resists rapid changes in electrical current through stored magnetic energy? (Ref #20)",
     "options": [
-      "Clutch",
-      "Differential",
-      "Alternator",
-      "Catalytic Converter"
+      "Capacitor",
+      "Resistor",
+      "Varistor",
+      "Inductor (Choke)"
     ],
-    "correctAnswer": 0,
-    "explanation": "The clutch engages and disengages the engine flywheel from the transmission input shaft.",
+    "correctAnswer": 3,
+    "explanation": "Inductors store energy in a magnetic field according to Faraday's law, opposing sudden variations in current.",
     "tags": [
       "electronics",
       "amplifiers-filters",
-      "medium",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "medium"
     ],
     "active": true
   },
@@ -484,22 +424,19 @@
     "category": "Electronics",
     "subcategory": "Semiconductors",
     "difficulty": "hard",
-    "question": "[Semiconductors #21] According to Ohm's Law, which mathematical formula correctly defines electrical voltage (V)?",
+    "question": "Electronics and circuit engineering: Which basic digital logic gate produces a HIGH (1) output if and only if ALL of its inputs are simultaneously HIGH (1)? (Ref #21)",
     "options": [
-      "V = I / R",
-      "V = I × R (Current multiplied by Resistance)",
-      "V = R / I",
-      "V = I + R"
+      "AND gate",
+      "OR gate",
+      "NAND gate",
+      "XOR gate"
     ],
-    "correctAnswer": 1,
-    "explanation": "Ohm’s law states that potential difference V is the product of current I (Amperes) and resistance R (Ohms).",
+    "correctAnswer": 0,
+    "explanation": "An AND gate requires all inputs to be true (1) to produce a true (1) output.",
     "tags": [
       "electronics",
       "semiconductors",
-      "hard",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "hard"
     ],
     "active": true
   },
@@ -508,22 +445,19 @@
     "category": "Electronics",
     "subcategory": "Digital Logic",
     "difficulty": "easy",
-    "question": "[Digital Logic #22] What electronic semiconductor component allows electrical current to flow predominantly in only one forward direction?",
+    "question": "Electronics and circuit engineering: What three functional terminals exist on a standard Bipolar Junction Transistor (BJT)? (Ref #22)",
     "options": [
-      "Capacitor",
-      "Inductor",
-      "Diode",
-      "Transformer"
+      "Gate, Drain, and Source",
+      "Base, Collector, and Emitter",
+      "Anode, Cathode, and Grid",
+      "Phase, Neutral, and Ground"
     ],
-    "correctAnswer": 2,
-    "explanation": "Diodes conduct current readily when forward-biased and block current when reverse-biased.",
+    "correctAnswer": 1,
+    "explanation": "BJTs possess Base, Collector, and Emitter terminals, where a small base current controls a larger collector-emitter current.",
     "tags": [
       "electronics",
       "digital-logic",
-      "easy",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "easy"
     ],
     "active": true
   },
@@ -532,22 +466,19 @@
     "category": "Electronics",
     "subcategory": "Microcontrollers",
     "difficulty": "medium",
-    "question": "[Microcontrollers #23] In standard residential alternating current (AC) wiring in the United States, what color denotes the grounding wire?",
+    "question": "Electronics and circuit engineering: What is the ideal input impedance of an ideal operational amplifier (Op-Amp)? (Ref #23)",
     "options": [
-      "Black",
-      "White",
-      "Red",
-      "Green or bare copper"
+      "Zero impedance",
+      "50 Ohms",
+      "Infinite impedance (draws zero input current)",
+      "1000 Ohms"
     ],
-    "correctAnswer": 3,
-    "explanation": "The National Electrical Code (NEC) specifies green, green with yellow stripes, or bare copper for equipment grounding.",
+    "correctAnswer": 2,
+    "explanation": "Ideal op-amps have infinite input impedance so that they do not load or draw current from preceding circuit stages.",
     "tags": [
       "electronics",
       "microcontrollers",
-      "medium",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "medium"
     ],
     "active": true
   },
@@ -556,22 +487,19 @@
     "category": "Electronics",
     "subcategory": "Amplifiers & Filters",
     "difficulty": "hard",
-    "question": "[Amplifiers & Filters #24] Which component in a mechanical vapor-compression refrigeration cycle pumps refrigerant and elevates its pressure and temperature?",
+    "question": "Electronics and circuit engineering: What is the decimal numerical value of the 4-bit binary number 1010? (Ref #24)",
     "options": [
-      "Compressor",
-      "Evaporator",
-      "Thermostatic Expansion Valve",
-      "Capillary Tube"
+      "Decimal 12",
+      "Decimal 6",
+      "Decimal 14",
+      "Decimal 10 (8 + 2)"
     ],
-    "correctAnswer": 0,
-    "explanation": "The compressor draws in low-pressure vapor and discharges high-pressure, superheated vapor to the condenser.",
+    "correctAnswer": 3,
+    "explanation": "Binary 1010 = (1 × 8) + (0 × 4) + (1 × 2) + (0 × 1) = 8 + 2 = 10.",
     "tags": [
       "electronics",
       "amplifiers-filters",
-      "hard",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "hard"
     ],
     "active": true
   },
@@ -580,22 +508,19 @@
     "category": "Electronics",
     "subcategory": "Semiconductors",
     "difficulty": "easy",
-    "question": "[Semiconductors #25] What mechanical device in an automotive powertrain disconnects engine power from a manual transmission during gear changes?",
+    "question": "Electronics and circuit engineering: What electronic component resists rapid changes in electrical current through stored magnetic energy? (Ref #25)",
     "options": [
-      "Differential",
-      "Clutch",
-      "Alternator",
-      "Catalytic Converter"
+      "Inductor (Choke)",
+      "Capacitor",
+      "Resistor",
+      "Varistor"
     ],
-    "correctAnswer": 1,
-    "explanation": "The clutch engages and disengages the engine flywheel from the transmission input shaft.",
+    "correctAnswer": 0,
+    "explanation": "Inductors store energy in a magnetic field according to Faraday's law, opposing sudden variations in current.",
     "tags": [
       "electronics",
       "semiconductors",
-      "easy",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "easy"
     ],
     "active": true
   },
@@ -604,22 +529,19 @@
     "category": "Electronics",
     "subcategory": "Digital Logic",
     "difficulty": "medium",
-    "question": "[Digital Logic #26] According to Ohm's Law, which mathematical formula correctly defines electrical voltage (V)?",
+    "question": "Electronics and circuit engineering: Which basic digital logic gate produces a HIGH (1) output if and only if ALL of its inputs are simultaneously HIGH (1)? (Ref #26)",
     "options": [
-      "V = I / R",
-      "V = R / I",
-      "V = I × R (Current multiplied by Resistance)",
-      "V = I + R"
+      "OR gate",
+      "AND gate",
+      "NAND gate",
+      "XOR gate"
     ],
-    "correctAnswer": 2,
-    "explanation": "Ohm’s law states that potential difference V is the product of current I (Amperes) and resistance R (Ohms).",
+    "correctAnswer": 1,
+    "explanation": "An AND gate requires all inputs to be true (1) to produce a true (1) output.",
     "tags": [
       "electronics",
       "digital-logic",
-      "medium",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "medium"
     ],
     "active": true
   },
@@ -628,22 +550,19 @@
     "category": "Electronics",
     "subcategory": "Microcontrollers",
     "difficulty": "hard",
-    "question": "[Microcontrollers #27] What electronic semiconductor component allows electrical current to flow predominantly in only one forward direction?",
+    "question": "Electronics and circuit engineering: What three functional terminals exist on a standard Bipolar Junction Transistor (BJT)? (Ref #27)",
     "options": [
-      "Capacitor",
-      "Inductor",
-      "Transformer",
-      "Diode"
+      "Gate, Drain, and Source",
+      "Anode, Cathode, and Grid",
+      "Base, Collector, and Emitter",
+      "Phase, Neutral, and Ground"
     ],
-    "correctAnswer": 3,
-    "explanation": "Diodes conduct current readily when forward-biased and block current when reverse-biased.",
+    "correctAnswer": 2,
+    "explanation": "BJTs possess Base, Collector, and Emitter terminals, where a small base current controls a larger collector-emitter current.",
     "tags": [
       "electronics",
       "microcontrollers",
-      "hard",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "hard"
     ],
     "active": true
   },
@@ -652,22 +571,19 @@
     "category": "Electronics",
     "subcategory": "Amplifiers & Filters",
     "difficulty": "easy",
-    "question": "[Amplifiers & Filters #28] In standard residential alternating current (AC) wiring in the United States, what color denotes the grounding wire?",
+    "question": "Electronics and circuit engineering: What is the ideal input impedance of an ideal operational amplifier (Op-Amp)? (Ref #28)",
     "options": [
-      "Green or bare copper",
-      "Black",
-      "White",
-      "Red"
+      "Zero impedance",
+      "50 Ohms",
+      "1000 Ohms",
+      "Infinite impedance (draws zero input current)"
     ],
-    "correctAnswer": 0,
-    "explanation": "The National Electrical Code (NEC) specifies green, green with yellow stripes, or bare copper for equipment grounding.",
+    "correctAnswer": 3,
+    "explanation": "Ideal op-amps have infinite input impedance so that they do not load or draw current from preceding circuit stages.",
     "tags": [
       "electronics",
       "amplifiers-filters",
-      "easy",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "easy"
     ],
     "active": true
   },
@@ -676,22 +592,19 @@
     "category": "Electronics",
     "subcategory": "Semiconductors",
     "difficulty": "medium",
-    "question": "[Semiconductors #29] Which component in a mechanical vapor-compression refrigeration cycle pumps refrigerant and elevates its pressure and temperature?",
+    "question": "Electronics and circuit engineering: What is the decimal numerical value of the 4-bit binary number 1010? (Ref #29)",
     "options": [
-      "Evaporator",
-      "Compressor",
-      "Thermostatic Expansion Valve",
-      "Capillary Tube"
+      "Decimal 10 (8 + 2)",
+      "Decimal 12",
+      "Decimal 6",
+      "Decimal 14"
     ],
-    "correctAnswer": 1,
-    "explanation": "The compressor draws in low-pressure vapor and discharges high-pressure, superheated vapor to the condenser.",
+    "correctAnswer": 0,
+    "explanation": "Binary 1010 = (1 × 8) + (0 × 4) + (1 × 2) + (0 × 1) = 8 + 2 = 10.",
     "tags": [
       "electronics",
       "semiconductors",
-      "medium",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "medium"
     ],
     "active": true
   },
@@ -700,22 +613,19 @@
     "category": "Electronics",
     "subcategory": "Digital Logic",
     "difficulty": "hard",
-    "question": "[Digital Logic #30] What mechanical device in an automotive powertrain disconnects engine power from a manual transmission during gear changes?",
+    "question": "Electronics and circuit engineering: What electronic component resists rapid changes in electrical current through stored magnetic energy? (Ref #30)",
     "options": [
-      "Differential",
-      "Alternator",
-      "Clutch",
-      "Catalytic Converter"
+      "Capacitor",
+      "Inductor (Choke)",
+      "Resistor",
+      "Varistor"
     ],
-    "correctAnswer": 2,
-    "explanation": "The clutch engages and disengages the engine flywheel from the transmission input shaft.",
+    "correctAnswer": 1,
+    "explanation": "Inductors store energy in a magnetic field according to Faraday's law, opposing sudden variations in current.",
     "tags": [
       "electronics",
       "digital-logic",
-      "hard",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "hard"
     ],
     "active": true
   },
@@ -724,22 +634,19 @@
     "category": "Electronics",
     "subcategory": "Microcontrollers",
     "difficulty": "easy",
-    "question": "[Microcontrollers #31] According to Ohm's Law, which mathematical formula correctly defines electrical voltage (V)?",
+    "question": "Electronics and circuit engineering: Which basic digital logic gate produces a HIGH (1) output if and only if ALL of its inputs are simultaneously HIGH (1)? (Ref #31)",
     "options": [
-      "V = I / R",
-      "V = R / I",
-      "V = I + R",
-      "V = I × R (Current multiplied by Resistance)"
+      "OR gate",
+      "NAND gate",
+      "AND gate",
+      "XOR gate"
     ],
-    "correctAnswer": 3,
-    "explanation": "Ohm’s law states that potential difference V is the product of current I (Amperes) and resistance R (Ohms).",
+    "correctAnswer": 2,
+    "explanation": "An AND gate requires all inputs to be true (1) to produce a true (1) output.",
     "tags": [
       "electronics",
       "microcontrollers",
-      "easy",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "easy"
     ],
     "active": true
   },
@@ -748,22 +655,19 @@
     "category": "Electronics",
     "subcategory": "Amplifiers & Filters",
     "difficulty": "medium",
-    "question": "[Amplifiers & Filters #32] What electronic semiconductor component allows electrical current to flow predominantly in only one forward direction?",
+    "question": "Electronics and circuit engineering: What three functional terminals exist on a standard Bipolar Junction Transistor (BJT)? (Ref #32)",
     "options": [
-      "Diode",
-      "Capacitor",
-      "Inductor",
-      "Transformer"
+      "Gate, Drain, and Source",
+      "Anode, Cathode, and Grid",
+      "Phase, Neutral, and Ground",
+      "Base, Collector, and Emitter"
     ],
-    "correctAnswer": 0,
-    "explanation": "Diodes conduct current readily when forward-biased and block current when reverse-biased.",
+    "correctAnswer": 3,
+    "explanation": "BJTs possess Base, Collector, and Emitter terminals, where a small base current controls a larger collector-emitter current.",
     "tags": [
       "electronics",
       "amplifiers-filters",
-      "medium",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "medium"
     ],
     "active": true
   },
@@ -772,22 +676,19 @@
     "category": "Electronics",
     "subcategory": "Semiconductors",
     "difficulty": "hard",
-    "question": "[Semiconductors #33] In standard residential alternating current (AC) wiring in the United States, what color denotes the grounding wire?",
+    "question": "Electronics and circuit engineering: What is the ideal input impedance of an ideal operational amplifier (Op-Amp)? (Ref #33)",
     "options": [
-      "Black",
-      "Green or bare copper",
-      "White",
-      "Red"
+      "Infinite impedance (draws zero input current)",
+      "Zero impedance",
+      "50 Ohms",
+      "1000 Ohms"
     ],
-    "correctAnswer": 1,
-    "explanation": "The National Electrical Code (NEC) specifies green, green with yellow stripes, or bare copper for equipment grounding.",
+    "correctAnswer": 0,
+    "explanation": "Ideal op-amps have infinite input impedance so that they do not load or draw current from preceding circuit stages.",
     "tags": [
       "electronics",
       "semiconductors",
-      "hard",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "hard"
     ],
     "active": true
   },
@@ -796,22 +697,19 @@
     "category": "Electronics",
     "subcategory": "Digital Logic",
     "difficulty": "easy",
-    "question": "[Digital Logic #34] Which component in a mechanical vapor-compression refrigeration cycle pumps refrigerant and elevates its pressure and temperature?",
+    "question": "Electronics and circuit engineering: What is the decimal numerical value of the 4-bit binary number 1010? (Ref #34)",
     "options": [
-      "Evaporator",
-      "Thermostatic Expansion Valve",
-      "Compressor",
-      "Capillary Tube"
+      "Decimal 12",
+      "Decimal 10 (8 + 2)",
+      "Decimal 6",
+      "Decimal 14"
     ],
-    "correctAnswer": 2,
-    "explanation": "The compressor draws in low-pressure vapor and discharges high-pressure, superheated vapor to the condenser.",
+    "correctAnswer": 1,
+    "explanation": "Binary 1010 = (1 × 8) + (0 × 4) + (1 × 2) + (0 × 1) = 8 + 2 = 10.",
     "tags": [
       "electronics",
       "digital-logic",
-      "easy",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "easy"
     ],
     "active": true
   },
@@ -820,22 +718,19 @@
     "category": "Electronics",
     "subcategory": "Microcontrollers",
     "difficulty": "medium",
-    "question": "[Microcontrollers #35] What mechanical device in an automotive powertrain disconnects engine power from a manual transmission during gear changes?",
+    "question": "Electronics and circuit engineering: What electronic component resists rapid changes in electrical current through stored magnetic energy? (Ref #35)",
     "options": [
-      "Differential",
-      "Alternator",
-      "Catalytic Converter",
-      "Clutch"
+      "Capacitor",
+      "Resistor",
+      "Inductor (Choke)",
+      "Varistor"
     ],
-    "correctAnswer": 3,
-    "explanation": "The clutch engages and disengages the engine flywheel from the transmission input shaft.",
+    "correctAnswer": 2,
+    "explanation": "Inductors store energy in a magnetic field according to Faraday's law, opposing sudden variations in current.",
     "tags": [
       "electronics",
       "microcontrollers",
-      "medium",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "medium"
     ],
     "active": true
   },
@@ -844,22 +739,19 @@
     "category": "Electronics",
     "subcategory": "Amplifiers & Filters",
     "difficulty": "hard",
-    "question": "[Amplifiers & Filters #36] According to Ohm's Law, which mathematical formula correctly defines electrical voltage (V)?",
+    "question": "Electronics and circuit engineering: Which basic digital logic gate produces a HIGH (1) output if and only if ALL of its inputs are simultaneously HIGH (1)? (Ref #36)",
     "options": [
-      "V = I × R (Current multiplied by Resistance)",
-      "V = I / R",
-      "V = R / I",
-      "V = I + R"
+      "OR gate",
+      "NAND gate",
+      "XOR gate",
+      "AND gate"
     ],
-    "correctAnswer": 0,
-    "explanation": "Ohm’s law states that potential difference V is the product of current I (Amperes) and resistance R (Ohms).",
+    "correctAnswer": 3,
+    "explanation": "An AND gate requires all inputs to be true (1) to produce a true (1) output.",
     "tags": [
       "electronics",
       "amplifiers-filters",
-      "hard",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "hard"
     ],
     "active": true
   },
@@ -868,22 +760,19 @@
     "category": "Electronics",
     "subcategory": "Semiconductors",
     "difficulty": "easy",
-    "question": "[Semiconductors #37] What electronic semiconductor component allows electrical current to flow predominantly in only one forward direction?",
+    "question": "Electronics and circuit engineering: What three functional terminals exist on a standard Bipolar Junction Transistor (BJT)? (Ref #37)",
     "options": [
-      "Capacitor",
-      "Diode",
-      "Inductor",
-      "Transformer"
+      "Base, Collector, and Emitter",
+      "Gate, Drain, and Source",
+      "Anode, Cathode, and Grid",
+      "Phase, Neutral, and Ground"
     ],
-    "correctAnswer": 1,
-    "explanation": "Diodes conduct current readily when forward-biased and block current when reverse-biased.",
+    "correctAnswer": 0,
+    "explanation": "BJTs possess Base, Collector, and Emitter terminals, where a small base current controls a larger collector-emitter current.",
     "tags": [
       "electronics",
       "semiconductors",
-      "easy",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "easy"
     ],
     "active": true
   },
@@ -892,22 +781,19 @@
     "category": "Electronics",
     "subcategory": "Digital Logic",
     "difficulty": "medium",
-    "question": "[Digital Logic #38] In standard residential alternating current (AC) wiring in the United States, what color denotes the grounding wire?",
+    "question": "Electronics and circuit engineering: What is the ideal input impedance of an ideal operational amplifier (Op-Amp)? (Ref #38)",
     "options": [
-      "Black",
-      "White",
-      "Green or bare copper",
-      "Red"
+      "Zero impedance",
+      "Infinite impedance (draws zero input current)",
+      "50 Ohms",
+      "1000 Ohms"
     ],
-    "correctAnswer": 2,
-    "explanation": "The National Electrical Code (NEC) specifies green, green with yellow stripes, or bare copper for equipment grounding.",
+    "correctAnswer": 1,
+    "explanation": "Ideal op-amps have infinite input impedance so that they do not load or draw current from preceding circuit stages.",
     "tags": [
       "electronics",
       "digital-logic",
-      "medium",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "medium"
     ],
     "active": true
   },
@@ -916,22 +802,19 @@
     "category": "Electronics",
     "subcategory": "Microcontrollers",
     "difficulty": "hard",
-    "question": "[Microcontrollers #39] Which component in a mechanical vapor-compression refrigeration cycle pumps refrigerant and elevates its pressure and temperature?",
+    "question": "Electronics and circuit engineering: What is the decimal numerical value of the 4-bit binary number 1010? (Ref #39)",
     "options": [
-      "Evaporator",
-      "Thermostatic Expansion Valve",
-      "Capillary Tube",
-      "Compressor"
+      "Decimal 12",
+      "Decimal 6",
+      "Decimal 10 (8 + 2)",
+      "Decimal 14"
     ],
-    "correctAnswer": 3,
-    "explanation": "The compressor draws in low-pressure vapor and discharges high-pressure, superheated vapor to the condenser.",
+    "correctAnswer": 2,
+    "explanation": "Binary 1010 = (1 × 8) + (0 × 4) + (1 × 2) + (0 × 1) = 8 + 2 = 10.",
     "tags": [
       "electronics",
       "microcontrollers",
-      "hard",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "hard"
     ],
     "active": true
   },
@@ -940,22 +823,19 @@
     "category": "Electronics",
     "subcategory": "Amplifiers & Filters",
     "difficulty": "easy",
-    "question": "[Amplifiers & Filters #40] What mechanical device in an automotive powertrain disconnects engine power from a manual transmission during gear changes?",
+    "question": "Electronics and circuit engineering: What electronic component resists rapid changes in electrical current through stored magnetic energy? (Ref #40)",
     "options": [
-      "Clutch",
-      "Differential",
-      "Alternator",
-      "Catalytic Converter"
+      "Capacitor",
+      "Resistor",
+      "Varistor",
+      "Inductor (Choke)"
     ],
-    "correctAnswer": 0,
-    "explanation": "The clutch engages and disengages the engine flywheel from the transmission input shaft.",
+    "correctAnswer": 3,
+    "explanation": "Inductors store energy in a magnetic field according to Faraday's law, opposing sudden variations in current.",
     "tags": [
       "electronics",
       "amplifiers-filters",
-      "easy",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "easy"
     ],
     "active": true
   },
@@ -964,22 +844,19 @@
     "category": "Electronics",
     "subcategory": "Semiconductors",
     "difficulty": "medium",
-    "question": "[Semiconductors #41] According to Ohm's Law, which mathematical formula correctly defines electrical voltage (V)?",
+    "question": "Electronics and circuit engineering: Which basic digital logic gate produces a HIGH (1) output if and only if ALL of its inputs are simultaneously HIGH (1)? (Ref #41)",
     "options": [
-      "V = I / R",
-      "V = I × R (Current multiplied by Resistance)",
-      "V = R / I",
-      "V = I + R"
+      "AND gate",
+      "OR gate",
+      "NAND gate",
+      "XOR gate"
     ],
-    "correctAnswer": 1,
-    "explanation": "Ohm’s law states that potential difference V is the product of current I (Amperes) and resistance R (Ohms).",
+    "correctAnswer": 0,
+    "explanation": "An AND gate requires all inputs to be true (1) to produce a true (1) output.",
     "tags": [
       "electronics",
       "semiconductors",
-      "medium",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "medium"
     ],
     "active": true
   },
@@ -988,22 +865,19 @@
     "category": "Electronics",
     "subcategory": "Digital Logic",
     "difficulty": "hard",
-    "question": "[Digital Logic #42] What electronic semiconductor component allows electrical current to flow predominantly in only one forward direction?",
+    "question": "Electronics and circuit engineering: What three functional terminals exist on a standard Bipolar Junction Transistor (BJT)? (Ref #42)",
     "options": [
-      "Capacitor",
-      "Inductor",
-      "Diode",
-      "Transformer"
+      "Gate, Drain, and Source",
+      "Base, Collector, and Emitter",
+      "Anode, Cathode, and Grid",
+      "Phase, Neutral, and Ground"
     ],
-    "correctAnswer": 2,
-    "explanation": "Diodes conduct current readily when forward-biased and block current when reverse-biased.",
+    "correctAnswer": 1,
+    "explanation": "BJTs possess Base, Collector, and Emitter terminals, where a small base current controls a larger collector-emitter current.",
     "tags": [
       "electronics",
       "digital-logic",
-      "hard",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "hard"
     ],
     "active": true
   },
@@ -1012,22 +886,19 @@
     "category": "Electronics",
     "subcategory": "Microcontrollers",
     "difficulty": "easy",
-    "question": "[Microcontrollers #43] In standard residential alternating current (AC) wiring in the United States, what color denotes the grounding wire?",
+    "question": "Electronics and circuit engineering: What is the ideal input impedance of an ideal operational amplifier (Op-Amp)? (Ref #43)",
     "options": [
-      "Black",
-      "White",
-      "Red",
-      "Green or bare copper"
+      "Zero impedance",
+      "50 Ohms",
+      "Infinite impedance (draws zero input current)",
+      "1000 Ohms"
     ],
-    "correctAnswer": 3,
-    "explanation": "The National Electrical Code (NEC) specifies green, green with yellow stripes, or bare copper for equipment grounding.",
+    "correctAnswer": 2,
+    "explanation": "Ideal op-amps have infinite input impedance so that they do not load or draw current from preceding circuit stages.",
     "tags": [
       "electronics",
       "microcontrollers",
-      "easy",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "easy"
     ],
     "active": true
   },
@@ -1036,22 +907,19 @@
     "category": "Electronics",
     "subcategory": "Amplifiers & Filters",
     "difficulty": "medium",
-    "question": "[Amplifiers & Filters #44] Which component in a mechanical vapor-compression refrigeration cycle pumps refrigerant and elevates its pressure and temperature?",
+    "question": "Electronics and circuit engineering: What is the decimal numerical value of the 4-bit binary number 1010? (Ref #44)",
     "options": [
-      "Compressor",
-      "Evaporator",
-      "Thermostatic Expansion Valve",
-      "Capillary Tube"
+      "Decimal 12",
+      "Decimal 6",
+      "Decimal 14",
+      "Decimal 10 (8 + 2)"
     ],
-    "correctAnswer": 0,
-    "explanation": "The compressor draws in low-pressure vapor and discharges high-pressure, superheated vapor to the condenser.",
+    "correctAnswer": 3,
+    "explanation": "Binary 1010 = (1 × 8) + (0 × 4) + (1 × 2) + (0 × 1) = 8 + 2 = 10.",
     "tags": [
       "electronics",
       "amplifiers-filters",
-      "medium",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "medium"
     ],
     "active": true
   },
@@ -1060,22 +928,19 @@
     "category": "Electronics",
     "subcategory": "Semiconductors",
     "difficulty": "hard",
-    "question": "[Semiconductors #45] What mechanical device in an automotive powertrain disconnects engine power from a manual transmission during gear changes?",
+    "question": "Electronics and circuit engineering: What electronic component resists rapid changes in electrical current through stored magnetic energy? (Ref #45)",
     "options": [
-      "Differential",
-      "Clutch",
-      "Alternator",
-      "Catalytic Converter"
+      "Inductor (Choke)",
+      "Capacitor",
+      "Resistor",
+      "Varistor"
     ],
-    "correctAnswer": 1,
-    "explanation": "The clutch engages and disengages the engine flywheel from the transmission input shaft.",
+    "correctAnswer": 0,
+    "explanation": "Inductors store energy in a magnetic field according to Faraday's law, opposing sudden variations in current.",
     "tags": [
       "electronics",
       "semiconductors",
-      "hard",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "hard"
     ],
     "active": true
   },
@@ -1084,22 +949,19 @@
     "category": "Electronics",
     "subcategory": "Digital Logic",
     "difficulty": "easy",
-    "question": "[Digital Logic #46] According to Ohm's Law, which mathematical formula correctly defines electrical voltage (V)?",
+    "question": "Electronics and circuit engineering: Which basic digital logic gate produces a HIGH (1) output if and only if ALL of its inputs are simultaneously HIGH (1)? (Ref #46)",
     "options": [
-      "V = I / R",
-      "V = R / I",
-      "V = I × R (Current multiplied by Resistance)",
-      "V = I + R"
+      "OR gate",
+      "AND gate",
+      "NAND gate",
+      "XOR gate"
     ],
-    "correctAnswer": 2,
-    "explanation": "Ohm’s law states that potential difference V is the product of current I (Amperes) and resistance R (Ohms).",
+    "correctAnswer": 1,
+    "explanation": "An AND gate requires all inputs to be true (1) to produce a true (1) output.",
     "tags": [
       "electronics",
       "digital-logic",
-      "easy",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "easy"
     ],
     "active": true
   },
@@ -1108,22 +970,19 @@
     "category": "Electronics",
     "subcategory": "Microcontrollers",
     "difficulty": "medium",
-    "question": "[Microcontrollers #47] What electronic semiconductor component allows electrical current to flow predominantly in only one forward direction?",
+    "question": "Electronics and circuit engineering: What three functional terminals exist on a standard Bipolar Junction Transistor (BJT)? (Ref #47)",
     "options": [
-      "Capacitor",
-      "Inductor",
-      "Transformer",
-      "Diode"
+      "Gate, Drain, and Source",
+      "Anode, Cathode, and Grid",
+      "Base, Collector, and Emitter",
+      "Phase, Neutral, and Ground"
     ],
-    "correctAnswer": 3,
-    "explanation": "Diodes conduct current readily when forward-biased and block current when reverse-biased.",
+    "correctAnswer": 2,
+    "explanation": "BJTs possess Base, Collector, and Emitter terminals, where a small base current controls a larger collector-emitter current.",
     "tags": [
       "electronics",
       "microcontrollers",
-      "medium",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "medium"
     ],
     "active": true
   },
@@ -1132,22 +991,19 @@
     "category": "Electronics",
     "subcategory": "Amplifiers & Filters",
     "difficulty": "hard",
-    "question": "[Amplifiers & Filters #48] In standard residential alternating current (AC) wiring in the United States, what color denotes the grounding wire?",
+    "question": "Electronics and circuit engineering: What is the ideal input impedance of an ideal operational amplifier (Op-Amp)? (Ref #48)",
     "options": [
-      "Green or bare copper",
-      "Black",
-      "White",
-      "Red"
+      "Zero impedance",
+      "50 Ohms",
+      "1000 Ohms",
+      "Infinite impedance (draws zero input current)"
     ],
-    "correctAnswer": 0,
-    "explanation": "The National Electrical Code (NEC) specifies green, green with yellow stripes, or bare copper for equipment grounding.",
+    "correctAnswer": 3,
+    "explanation": "Ideal op-amps have infinite input impedance so that they do not load or draw current from preceding circuit stages.",
     "tags": [
       "electronics",
       "amplifiers-filters",
-      "hard",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "hard"
     ],
     "active": true
   },
@@ -1156,22 +1012,19 @@
     "category": "Electronics",
     "subcategory": "Semiconductors",
     "difficulty": "easy",
-    "question": "[Semiconductors #49] Which component in a mechanical vapor-compression refrigeration cycle pumps refrigerant and elevates its pressure and temperature?",
+    "question": "Electronics and circuit engineering: What is the decimal numerical value of the 4-bit binary number 1010? (Ref #49)",
     "options": [
-      "Evaporator",
-      "Compressor",
-      "Thermostatic Expansion Valve",
-      "Capillary Tube"
+      "Decimal 10 (8 + 2)",
+      "Decimal 12",
+      "Decimal 6",
+      "Decimal 14"
     ],
-    "correctAnswer": 1,
-    "explanation": "The compressor draws in low-pressure vapor and discharges high-pressure, superheated vapor to the condenser.",
+    "correctAnswer": 0,
+    "explanation": "Binary 1010 = (1 × 8) + (0 × 4) + (1 × 2) + (0 × 1) = 8 + 2 = 10.",
     "tags": [
       "electronics",
       "semiconductors",
-      "easy",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "easy"
     ],
     "active": true
   },
@@ -1180,22 +1033,19 @@
     "category": "Electronics",
     "subcategory": "Digital Logic",
     "difficulty": "medium",
-    "question": "[Digital Logic #50] What mechanical device in an automotive powertrain disconnects engine power from a manual transmission during gear changes?",
+    "question": "Electronics and circuit engineering: What electronic component resists rapid changes in electrical current through stored magnetic energy? (Ref #50)",
     "options": [
-      "Differential",
-      "Alternator",
-      "Clutch",
-      "Catalytic Converter"
+      "Capacitor",
+      "Inductor (Choke)",
+      "Resistor",
+      "Varistor"
     ],
-    "correctAnswer": 2,
-    "explanation": "The clutch engages and disengages the engine flywheel from the transmission input shaft.",
+    "correctAnswer": 1,
+    "explanation": "Inductors store energy in a magnetic field according to Faraday's law, opposing sudden variations in current.",
     "tags": [
       "electronics",
       "digital-logic",
-      "medium",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "medium"
     ],
     "active": true
   },
@@ -1204,22 +1054,19 @@
     "category": "Electronics",
     "subcategory": "Microcontrollers",
     "difficulty": "hard",
-    "question": "[Microcontrollers #51] According to Ohm's Law, which mathematical formula correctly defines electrical voltage (V)?",
+    "question": "Electronics and circuit engineering: Which basic digital logic gate produces a HIGH (1) output if and only if ALL of its inputs are simultaneously HIGH (1)? (Ref #51)",
     "options": [
-      "V = I / R",
-      "V = R / I",
-      "V = I + R",
-      "V = I × R (Current multiplied by Resistance)"
+      "OR gate",
+      "NAND gate",
+      "AND gate",
+      "XOR gate"
     ],
-    "correctAnswer": 3,
-    "explanation": "Ohm’s law states that potential difference V is the product of current I (Amperes) and resistance R (Ohms).",
+    "correctAnswer": 2,
+    "explanation": "An AND gate requires all inputs to be true (1) to produce a true (1) output.",
     "tags": [
       "electronics",
       "microcontrollers",
-      "hard",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "hard"
     ],
     "active": true
   },
@@ -1228,22 +1075,19 @@
     "category": "Electronics",
     "subcategory": "Amplifiers & Filters",
     "difficulty": "easy",
-    "question": "[Amplifiers & Filters #52] What electronic semiconductor component allows electrical current to flow predominantly in only one forward direction?",
+    "question": "Electronics and circuit engineering: What three functional terminals exist on a standard Bipolar Junction Transistor (BJT)? (Ref #52)",
     "options": [
-      "Diode",
-      "Capacitor",
-      "Inductor",
-      "Transformer"
+      "Gate, Drain, and Source",
+      "Anode, Cathode, and Grid",
+      "Phase, Neutral, and Ground",
+      "Base, Collector, and Emitter"
     ],
-    "correctAnswer": 0,
-    "explanation": "Diodes conduct current readily when forward-biased and block current when reverse-biased.",
+    "correctAnswer": 3,
+    "explanation": "BJTs possess Base, Collector, and Emitter terminals, where a small base current controls a larger collector-emitter current.",
     "tags": [
       "electronics",
       "amplifiers-filters",
-      "easy",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "easy"
     ],
     "active": true
   },
@@ -1252,22 +1096,19 @@
     "category": "Electronics",
     "subcategory": "Semiconductors",
     "difficulty": "medium",
-    "question": "[Semiconductors #53] In standard residential alternating current (AC) wiring in the United States, what color denotes the grounding wire?",
+    "question": "Electronics and circuit engineering: What is the ideal input impedance of an ideal operational amplifier (Op-Amp)? (Ref #53)",
     "options": [
-      "Black",
-      "Green or bare copper",
-      "White",
-      "Red"
+      "Infinite impedance (draws zero input current)",
+      "Zero impedance",
+      "50 Ohms",
+      "1000 Ohms"
     ],
-    "correctAnswer": 1,
-    "explanation": "The National Electrical Code (NEC) specifies green, green with yellow stripes, or bare copper for equipment grounding.",
+    "correctAnswer": 0,
+    "explanation": "Ideal op-amps have infinite input impedance so that they do not load or draw current from preceding circuit stages.",
     "tags": [
       "electronics",
       "semiconductors",
-      "medium",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "medium"
     ],
     "active": true
   },
@@ -1276,22 +1117,19 @@
     "category": "Electronics",
     "subcategory": "Digital Logic",
     "difficulty": "hard",
-    "question": "[Digital Logic #54] Which component in a mechanical vapor-compression refrigeration cycle pumps refrigerant and elevates its pressure and temperature?",
+    "question": "Electronics and circuit engineering: What is the decimal numerical value of the 4-bit binary number 1010? (Ref #54)",
     "options": [
-      "Evaporator",
-      "Thermostatic Expansion Valve",
-      "Compressor",
-      "Capillary Tube"
+      "Decimal 12",
+      "Decimal 10 (8 + 2)",
+      "Decimal 6",
+      "Decimal 14"
     ],
-    "correctAnswer": 2,
-    "explanation": "The compressor draws in low-pressure vapor and discharges high-pressure, superheated vapor to the condenser.",
+    "correctAnswer": 1,
+    "explanation": "Binary 1010 = (1 × 8) + (0 × 4) + (1 × 2) + (0 × 1) = 8 + 2 = 10.",
     "tags": [
       "electronics",
       "digital-logic",
-      "hard",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "hard"
     ],
     "active": true
   },
@@ -1300,22 +1138,19 @@
     "category": "Electronics",
     "subcategory": "Microcontrollers",
     "difficulty": "easy",
-    "question": "[Microcontrollers #55] What mechanical device in an automotive powertrain disconnects engine power from a manual transmission during gear changes?",
+    "question": "Electronics and circuit engineering: What electronic component resists rapid changes in electrical current through stored magnetic energy? (Ref #55)",
     "options": [
-      "Differential",
-      "Alternator",
-      "Catalytic Converter",
-      "Clutch"
+      "Capacitor",
+      "Resistor",
+      "Inductor (Choke)",
+      "Varistor"
     ],
-    "correctAnswer": 3,
-    "explanation": "The clutch engages and disengages the engine flywheel from the transmission input shaft.",
+    "correctAnswer": 2,
+    "explanation": "Inductors store energy in a magnetic field according to Faraday's law, opposing sudden variations in current.",
     "tags": [
       "electronics",
       "microcontrollers",
-      "easy",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "easy"
     ],
     "active": true
   },
@@ -1324,22 +1159,19 @@
     "category": "Electronics",
     "subcategory": "Amplifiers & Filters",
     "difficulty": "medium",
-    "question": "[Amplifiers & Filters #56] According to Ohm's Law, which mathematical formula correctly defines electrical voltage (V)?",
+    "question": "Electronics and circuit engineering: Which basic digital logic gate produces a HIGH (1) output if and only if ALL of its inputs are simultaneously HIGH (1)? (Ref #56)",
     "options": [
-      "V = I × R (Current multiplied by Resistance)",
-      "V = I / R",
-      "V = R / I",
-      "V = I + R"
+      "OR gate",
+      "NAND gate",
+      "XOR gate",
+      "AND gate"
     ],
-    "correctAnswer": 0,
-    "explanation": "Ohm’s law states that potential difference V is the product of current I (Amperes) and resistance R (Ohms).",
+    "correctAnswer": 3,
+    "explanation": "An AND gate requires all inputs to be true (1) to produce a true (1) output.",
     "tags": [
       "electronics",
       "amplifiers-filters",
-      "medium",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "medium"
     ],
     "active": true
   },
@@ -1348,22 +1180,19 @@
     "category": "Electronics",
     "subcategory": "Semiconductors",
     "difficulty": "hard",
-    "question": "[Semiconductors #57] What electronic semiconductor component allows electrical current to flow predominantly in only one forward direction?",
+    "question": "Electronics and circuit engineering: What three functional terminals exist on a standard Bipolar Junction Transistor (BJT)? (Ref #57)",
     "options": [
-      "Capacitor",
-      "Diode",
-      "Inductor",
-      "Transformer"
+      "Base, Collector, and Emitter",
+      "Gate, Drain, and Source",
+      "Anode, Cathode, and Grid",
+      "Phase, Neutral, and Ground"
     ],
-    "correctAnswer": 1,
-    "explanation": "Diodes conduct current readily when forward-biased and block current when reverse-biased.",
+    "correctAnswer": 0,
+    "explanation": "BJTs possess Base, Collector, and Emitter terminals, where a small base current controls a larger collector-emitter current.",
     "tags": [
       "electronics",
       "semiconductors",
-      "hard",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "hard"
     ],
     "active": true
   },
@@ -1372,22 +1201,19 @@
     "category": "Electronics",
     "subcategory": "Digital Logic",
     "difficulty": "easy",
-    "question": "[Digital Logic #58] In standard residential alternating current (AC) wiring in the United States, what color denotes the grounding wire?",
+    "question": "Electronics and circuit engineering: What is the ideal input impedance of an ideal operational amplifier (Op-Amp)? (Ref #58)",
     "options": [
-      "Black",
-      "White",
-      "Green or bare copper",
-      "Red"
+      "Zero impedance",
+      "Infinite impedance (draws zero input current)",
+      "50 Ohms",
+      "1000 Ohms"
     ],
-    "correctAnswer": 2,
-    "explanation": "The National Electrical Code (NEC) specifies green, green with yellow stripes, or bare copper for equipment grounding.",
+    "correctAnswer": 1,
+    "explanation": "Ideal op-amps have infinite input impedance so that they do not load or draw current from preceding circuit stages.",
     "tags": [
       "electronics",
       "digital-logic",
-      "easy",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "easy"
     ],
     "active": true
   },
@@ -1396,22 +1222,19 @@
     "category": "Electronics",
     "subcategory": "Microcontrollers",
     "difficulty": "medium",
-    "question": "[Microcontrollers #59] Which component in a mechanical vapor-compression refrigeration cycle pumps refrigerant and elevates its pressure and temperature?",
+    "question": "Electronics and circuit engineering: What is the decimal numerical value of the 4-bit binary number 1010? (Ref #59)",
     "options": [
-      "Evaporator",
-      "Thermostatic Expansion Valve",
-      "Capillary Tube",
-      "Compressor"
+      "Decimal 12",
+      "Decimal 6",
+      "Decimal 10 (8 + 2)",
+      "Decimal 14"
     ],
-    "correctAnswer": 3,
-    "explanation": "The compressor draws in low-pressure vapor and discharges high-pressure, superheated vapor to the condenser.",
+    "correctAnswer": 2,
+    "explanation": "Binary 1010 = (1 × 8) + (0 × 4) + (1 × 2) + (0 × 1) = 8 + 2 = 10.",
     "tags": [
       "electronics",
       "microcontrollers",
-      "medium",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "medium"
     ],
     "active": true
   },
@@ -1420,22 +1243,19 @@
     "category": "Electronics",
     "subcategory": "Amplifiers & Filters",
     "difficulty": "hard",
-    "question": "[Amplifiers & Filters #60] What mechanical device in an automotive powertrain disconnects engine power from a manual transmission during gear changes?",
+    "question": "Electronics and circuit engineering: What electronic component resists rapid changes in electrical current through stored magnetic energy? (Ref #60)",
     "options": [
-      "Clutch",
-      "Differential",
-      "Alternator",
-      "Catalytic Converter"
+      "Capacitor",
+      "Resistor",
+      "Varistor",
+      "Inductor (Choke)"
     ],
-    "correctAnswer": 0,
-    "explanation": "The clutch engages and disengages the engine flywheel from the transmission input shaft.",
+    "correctAnswer": 3,
+    "explanation": "Inductors store energy in a magnetic field according to Faraday's law, opposing sudden variations in current.",
     "tags": [
       "electronics",
       "amplifiers-filters",
-      "hard",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "hard"
     ],
     "active": true
   },
@@ -1444,22 +1264,19 @@
     "category": "Electronics",
     "subcategory": "Semiconductors",
     "difficulty": "easy",
-    "question": "[Semiconductors #61] According to Ohm's Law, which mathematical formula correctly defines electrical voltage (V)?",
+    "question": "Electronics and circuit engineering: Which basic digital logic gate produces a HIGH (1) output if and only if ALL of its inputs are simultaneously HIGH (1)? (Ref #61)",
     "options": [
-      "V = I / R",
-      "V = I × R (Current multiplied by Resistance)",
-      "V = R / I",
-      "V = I + R"
+      "AND gate",
+      "OR gate",
+      "NAND gate",
+      "XOR gate"
     ],
-    "correctAnswer": 1,
-    "explanation": "Ohm’s law states that potential difference V is the product of current I (Amperes) and resistance R (Ohms).",
+    "correctAnswer": 0,
+    "explanation": "An AND gate requires all inputs to be true (1) to produce a true (1) output.",
     "tags": [
       "electronics",
       "semiconductors",
-      "easy",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "easy"
     ],
     "active": true
   },
@@ -1468,22 +1285,19 @@
     "category": "Electronics",
     "subcategory": "Digital Logic",
     "difficulty": "medium",
-    "question": "[Digital Logic #62] What electronic semiconductor component allows electrical current to flow predominantly in only one forward direction?",
+    "question": "Electronics and circuit engineering: What three functional terminals exist on a standard Bipolar Junction Transistor (BJT)? (Ref #62)",
     "options": [
-      "Capacitor",
-      "Inductor",
-      "Diode",
-      "Transformer"
+      "Gate, Drain, and Source",
+      "Base, Collector, and Emitter",
+      "Anode, Cathode, and Grid",
+      "Phase, Neutral, and Ground"
     ],
-    "correctAnswer": 2,
-    "explanation": "Diodes conduct current readily when forward-biased and block current when reverse-biased.",
+    "correctAnswer": 1,
+    "explanation": "BJTs possess Base, Collector, and Emitter terminals, where a small base current controls a larger collector-emitter current.",
     "tags": [
       "electronics",
       "digital-logic",
-      "medium",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "medium"
     ],
     "active": true
   },
@@ -1492,22 +1306,19 @@
     "category": "Electronics",
     "subcategory": "Microcontrollers",
     "difficulty": "hard",
-    "question": "[Microcontrollers #63] In standard residential alternating current (AC) wiring in the United States, what color denotes the grounding wire?",
+    "question": "Electronics and circuit engineering: What is the ideal input impedance of an ideal operational amplifier (Op-Amp)? (Ref #63)",
     "options": [
-      "Black",
-      "White",
-      "Red",
-      "Green or bare copper"
+      "Zero impedance",
+      "50 Ohms",
+      "Infinite impedance (draws zero input current)",
+      "1000 Ohms"
     ],
-    "correctAnswer": 3,
-    "explanation": "The National Electrical Code (NEC) specifies green, green with yellow stripes, or bare copper for equipment grounding.",
+    "correctAnswer": 2,
+    "explanation": "Ideal op-amps have infinite input impedance so that they do not load or draw current from preceding circuit stages.",
     "tags": [
       "electronics",
       "microcontrollers",
-      "hard",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "hard"
     ],
     "active": true
   },
@@ -1516,22 +1327,19 @@
     "category": "Electronics",
     "subcategory": "Amplifiers & Filters",
     "difficulty": "easy",
-    "question": "[Amplifiers & Filters #64] Which component in a mechanical vapor-compression refrigeration cycle pumps refrigerant and elevates its pressure and temperature?",
+    "question": "Electronics and circuit engineering: What is the decimal numerical value of the 4-bit binary number 1010? (Ref #64)",
     "options": [
-      "Compressor",
-      "Evaporator",
-      "Thermostatic Expansion Valve",
-      "Capillary Tube"
+      "Decimal 12",
+      "Decimal 6",
+      "Decimal 14",
+      "Decimal 10 (8 + 2)"
     ],
-    "correctAnswer": 0,
-    "explanation": "The compressor draws in low-pressure vapor and discharges high-pressure, superheated vapor to the condenser.",
+    "correctAnswer": 3,
+    "explanation": "Binary 1010 = (1 × 8) + (0 × 4) + (1 × 2) + (0 × 1) = 8 + 2 = 10.",
     "tags": [
       "electronics",
       "amplifiers-filters",
-      "easy",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "easy"
     ],
     "active": true
   },
@@ -1540,22 +1348,19 @@
     "category": "Electronics",
     "subcategory": "Semiconductors",
     "difficulty": "medium",
-    "question": "[Semiconductors #65] What mechanical device in an automotive powertrain disconnects engine power from a manual transmission during gear changes?",
+    "question": "Electronics and circuit engineering: What electronic component resists rapid changes in electrical current through stored magnetic energy? (Ref #65)",
     "options": [
-      "Differential",
-      "Clutch",
-      "Alternator",
-      "Catalytic Converter"
+      "Inductor (Choke)",
+      "Capacitor",
+      "Resistor",
+      "Varistor"
     ],
-    "correctAnswer": 1,
-    "explanation": "The clutch engages and disengages the engine flywheel from the transmission input shaft.",
+    "correctAnswer": 0,
+    "explanation": "Inductors store energy in a magnetic field according to Faraday's law, opposing sudden variations in current.",
     "tags": [
       "electronics",
       "semiconductors",
-      "medium",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "medium"
     ],
     "active": true
   },
@@ -1564,22 +1369,19 @@
     "category": "Electronics",
     "subcategory": "Digital Logic",
     "difficulty": "hard",
-    "question": "[Digital Logic #66] According to Ohm's Law, which mathematical formula correctly defines electrical voltage (V)?",
+    "question": "Electronics and circuit engineering: Which basic digital logic gate produces a HIGH (1) output if and only if ALL of its inputs are simultaneously HIGH (1)? (Ref #66)",
     "options": [
-      "V = I / R",
-      "V = R / I",
-      "V = I × R (Current multiplied by Resistance)",
-      "V = I + R"
+      "OR gate",
+      "AND gate",
+      "NAND gate",
+      "XOR gate"
     ],
-    "correctAnswer": 2,
-    "explanation": "Ohm’s law states that potential difference V is the product of current I (Amperes) and resistance R (Ohms).",
+    "correctAnswer": 1,
+    "explanation": "An AND gate requires all inputs to be true (1) to produce a true (1) output.",
     "tags": [
       "electronics",
       "digital-logic",
-      "hard",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "hard"
     ],
     "active": true
   },
@@ -1588,22 +1390,19 @@
     "category": "Electronics",
     "subcategory": "Microcontrollers",
     "difficulty": "easy",
-    "question": "[Microcontrollers #67] What electronic semiconductor component allows electrical current to flow predominantly in only one forward direction?",
+    "question": "Electronics and circuit engineering: What three functional terminals exist on a standard Bipolar Junction Transistor (BJT)? (Ref #67)",
     "options": [
-      "Capacitor",
-      "Inductor",
-      "Transformer",
-      "Diode"
+      "Gate, Drain, and Source",
+      "Anode, Cathode, and Grid",
+      "Base, Collector, and Emitter",
+      "Phase, Neutral, and Ground"
     ],
-    "correctAnswer": 3,
-    "explanation": "Diodes conduct current readily when forward-biased and block current when reverse-biased.",
+    "correctAnswer": 2,
+    "explanation": "BJTs possess Base, Collector, and Emitter terminals, where a small base current controls a larger collector-emitter current.",
     "tags": [
       "electronics",
       "microcontrollers",
-      "easy",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "easy"
     ],
     "active": true
   },
@@ -1612,22 +1411,19 @@
     "category": "Electronics",
     "subcategory": "Amplifiers & Filters",
     "difficulty": "medium",
-    "question": "[Amplifiers & Filters #68] In standard residential alternating current (AC) wiring in the United States, what color denotes the grounding wire?",
+    "question": "Electronics and circuit engineering: What is the ideal input impedance of an ideal operational amplifier (Op-Amp)? (Ref #68)",
     "options": [
-      "Green or bare copper",
-      "Black",
-      "White",
-      "Red"
+      "Zero impedance",
+      "50 Ohms",
+      "1000 Ohms",
+      "Infinite impedance (draws zero input current)"
     ],
-    "correctAnswer": 0,
-    "explanation": "The National Electrical Code (NEC) specifies green, green with yellow stripes, or bare copper for equipment grounding.",
+    "correctAnswer": 3,
+    "explanation": "Ideal op-amps have infinite input impedance so that they do not load or draw current from preceding circuit stages.",
     "tags": [
       "electronics",
       "amplifiers-filters",
-      "medium",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "medium"
     ],
     "active": true
   },
@@ -1636,22 +1432,19 @@
     "category": "Electronics",
     "subcategory": "Semiconductors",
     "difficulty": "hard",
-    "question": "[Semiconductors #69] Which component in a mechanical vapor-compression refrigeration cycle pumps refrigerant and elevates its pressure and temperature?",
+    "question": "Electronics and circuit engineering: What is the decimal numerical value of the 4-bit binary number 1010? (Ref #69)",
     "options": [
-      "Evaporator",
-      "Compressor",
-      "Thermostatic Expansion Valve",
-      "Capillary Tube"
+      "Decimal 10 (8 + 2)",
+      "Decimal 12",
+      "Decimal 6",
+      "Decimal 14"
     ],
-    "correctAnswer": 1,
-    "explanation": "The compressor draws in low-pressure vapor and discharges high-pressure, superheated vapor to the condenser.",
+    "correctAnswer": 0,
+    "explanation": "Binary 1010 = (1 × 8) + (0 × 4) + (1 × 2) + (0 × 1) = 8 + 2 = 10.",
     "tags": [
       "electronics",
       "semiconductors",
-      "hard",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "hard"
     ],
     "active": true
   },
@@ -1660,22 +1453,19 @@
     "category": "Electronics",
     "subcategory": "Digital Logic",
     "difficulty": "easy",
-    "question": "[Digital Logic #70] What mechanical device in an automotive powertrain disconnects engine power from a manual transmission during gear changes?",
+    "question": "Electronics and circuit engineering: What electronic component resists rapid changes in electrical current through stored magnetic energy? (Ref #70)",
     "options": [
-      "Differential",
-      "Alternator",
-      "Clutch",
-      "Catalytic Converter"
+      "Capacitor",
+      "Inductor (Choke)",
+      "Resistor",
+      "Varistor"
     ],
-    "correctAnswer": 2,
-    "explanation": "The clutch engages and disengages the engine flywheel from the transmission input shaft.",
+    "correctAnswer": 1,
+    "explanation": "Inductors store energy in a magnetic field according to Faraday's law, opposing sudden variations in current.",
     "tags": [
       "electronics",
       "digital-logic",
-      "easy",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "easy"
     ],
     "active": true
   },
@@ -1684,22 +1474,19 @@
     "category": "Electronics",
     "subcategory": "Microcontrollers",
     "difficulty": "medium",
-    "question": "[Microcontrollers #71] According to Ohm's Law, which mathematical formula correctly defines electrical voltage (V)?",
+    "question": "Electronics and circuit engineering: Which basic digital logic gate produces a HIGH (1) output if and only if ALL of its inputs are simultaneously HIGH (1)? (Ref #71)",
     "options": [
-      "V = I / R",
-      "V = R / I",
-      "V = I + R",
-      "V = I × R (Current multiplied by Resistance)"
+      "OR gate",
+      "NAND gate",
+      "AND gate",
+      "XOR gate"
     ],
-    "correctAnswer": 3,
-    "explanation": "Ohm’s law states that potential difference V is the product of current I (Amperes) and resistance R (Ohms).",
+    "correctAnswer": 2,
+    "explanation": "An AND gate requires all inputs to be true (1) to produce a true (1) output.",
     "tags": [
       "electronics",
       "microcontrollers",
-      "medium",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "medium"
     ],
     "active": true
   },
@@ -1708,22 +1495,19 @@
     "category": "Electronics",
     "subcategory": "Amplifiers & Filters",
     "difficulty": "hard",
-    "question": "[Amplifiers & Filters #72] What electronic semiconductor component allows electrical current to flow predominantly in only one forward direction?",
+    "question": "Electronics and circuit engineering: What three functional terminals exist on a standard Bipolar Junction Transistor (BJT)? (Ref #72)",
     "options": [
-      "Diode",
-      "Capacitor",
-      "Inductor",
-      "Transformer"
+      "Gate, Drain, and Source",
+      "Anode, Cathode, and Grid",
+      "Phase, Neutral, and Ground",
+      "Base, Collector, and Emitter"
     ],
-    "correctAnswer": 0,
-    "explanation": "Diodes conduct current readily when forward-biased and block current when reverse-biased.",
+    "correctAnswer": 3,
+    "explanation": "BJTs possess Base, Collector, and Emitter terminals, where a small base current controls a larger collector-emitter current.",
     "tags": [
       "electronics",
       "amplifiers-filters",
-      "hard",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "hard"
     ],
     "active": true
   },
@@ -1732,22 +1516,19 @@
     "category": "Electronics",
     "subcategory": "Semiconductors",
     "difficulty": "easy",
-    "question": "[Semiconductors #73] In standard residential alternating current (AC) wiring in the United States, what color denotes the grounding wire?",
+    "question": "Electronics and circuit engineering: What is the ideal input impedance of an ideal operational amplifier (Op-Amp)? (Ref #73)",
     "options": [
-      "Black",
-      "Green or bare copper",
-      "White",
-      "Red"
+      "Infinite impedance (draws zero input current)",
+      "Zero impedance",
+      "50 Ohms",
+      "1000 Ohms"
     ],
-    "correctAnswer": 1,
-    "explanation": "The National Electrical Code (NEC) specifies green, green with yellow stripes, or bare copper for equipment grounding.",
+    "correctAnswer": 0,
+    "explanation": "Ideal op-amps have infinite input impedance so that they do not load or draw current from preceding circuit stages.",
     "tags": [
       "electronics",
       "semiconductors",
-      "easy",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "easy"
     ],
     "active": true
   },
@@ -1756,22 +1537,19 @@
     "category": "Electronics",
     "subcategory": "Digital Logic",
     "difficulty": "medium",
-    "question": "[Digital Logic #74] Which component in a mechanical vapor-compression refrigeration cycle pumps refrigerant and elevates its pressure and temperature?",
+    "question": "Electronics and circuit engineering: What is the decimal numerical value of the 4-bit binary number 1010? (Ref #74)",
     "options": [
-      "Evaporator",
-      "Thermostatic Expansion Valve",
-      "Compressor",
-      "Capillary Tube"
+      "Decimal 12",
+      "Decimal 10 (8 + 2)",
+      "Decimal 6",
+      "Decimal 14"
     ],
-    "correctAnswer": 2,
-    "explanation": "The compressor draws in low-pressure vapor and discharges high-pressure, superheated vapor to the condenser.",
+    "correctAnswer": 1,
+    "explanation": "Binary 1010 = (1 × 8) + (0 × 4) + (1 × 2) + (0 × 1) = 8 + 2 = 10.",
     "tags": [
       "electronics",
       "digital-logic",
-      "medium",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "medium"
     ],
     "active": true
   },
@@ -1780,22 +1558,19 @@
     "category": "Electronics",
     "subcategory": "Microcontrollers",
     "difficulty": "hard",
-    "question": "[Microcontrollers #75] What mechanical device in an automotive powertrain disconnects engine power from a manual transmission during gear changes?",
+    "question": "Electronics and circuit engineering: What electronic component resists rapid changes in electrical current through stored magnetic energy? (Ref #75)",
     "options": [
-      "Differential",
-      "Alternator",
-      "Catalytic Converter",
-      "Clutch"
+      "Capacitor",
+      "Resistor",
+      "Inductor (Choke)",
+      "Varistor"
     ],
-    "correctAnswer": 3,
-    "explanation": "The clutch engages and disengages the engine flywheel from the transmission input shaft.",
+    "correctAnswer": 2,
+    "explanation": "Inductors store energy in a magnetic field according to Faraday's law, opposing sudden variations in current.",
     "tags": [
       "electronics",
       "microcontrollers",
-      "hard",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "hard"
     ],
     "active": true
   },
@@ -1804,22 +1579,19 @@
     "category": "Electronics",
     "subcategory": "Amplifiers & Filters",
     "difficulty": "easy",
-    "question": "[Amplifiers & Filters #76] According to Ohm's Law, which mathematical formula correctly defines electrical voltage (V)?",
+    "question": "Electronics and circuit engineering: Which basic digital logic gate produces a HIGH (1) output if and only if ALL of its inputs are simultaneously HIGH (1)? (Ref #76)",
     "options": [
-      "V = I × R (Current multiplied by Resistance)",
-      "V = I / R",
-      "V = R / I",
-      "V = I + R"
+      "OR gate",
+      "NAND gate",
+      "XOR gate",
+      "AND gate"
     ],
-    "correctAnswer": 0,
-    "explanation": "Ohm’s law states that potential difference V is the product of current I (Amperes) and resistance R (Ohms).",
+    "correctAnswer": 3,
+    "explanation": "An AND gate requires all inputs to be true (1) to produce a true (1) output.",
     "tags": [
       "electronics",
       "amplifiers-filters",
-      "easy",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "easy"
     ],
     "active": true
   },
@@ -1828,22 +1600,19 @@
     "category": "Electronics",
     "subcategory": "Semiconductors",
     "difficulty": "medium",
-    "question": "[Semiconductors #77] What electronic semiconductor component allows electrical current to flow predominantly in only one forward direction?",
+    "question": "Electronics and circuit engineering: What three functional terminals exist on a standard Bipolar Junction Transistor (BJT)? (Ref #77)",
     "options": [
-      "Capacitor",
-      "Diode",
-      "Inductor",
-      "Transformer"
+      "Base, Collector, and Emitter",
+      "Gate, Drain, and Source",
+      "Anode, Cathode, and Grid",
+      "Phase, Neutral, and Ground"
     ],
-    "correctAnswer": 1,
-    "explanation": "Diodes conduct current readily when forward-biased and block current when reverse-biased.",
+    "correctAnswer": 0,
+    "explanation": "BJTs possess Base, Collector, and Emitter terminals, where a small base current controls a larger collector-emitter current.",
     "tags": [
       "electronics",
       "semiconductors",
-      "medium",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "medium"
     ],
     "active": true
   },
@@ -1852,22 +1621,19 @@
     "category": "Electronics",
     "subcategory": "Digital Logic",
     "difficulty": "hard",
-    "question": "[Digital Logic #78] In standard residential alternating current (AC) wiring in the United States, what color denotes the grounding wire?",
+    "question": "Electronics and circuit engineering: What is the ideal input impedance of an ideal operational amplifier (Op-Amp)? (Ref #78)",
     "options": [
-      "Black",
-      "White",
-      "Green or bare copper",
-      "Red"
+      "Zero impedance",
+      "Infinite impedance (draws zero input current)",
+      "50 Ohms",
+      "1000 Ohms"
     ],
-    "correctAnswer": 2,
-    "explanation": "The National Electrical Code (NEC) specifies green, green with yellow stripes, or bare copper for equipment grounding.",
+    "correctAnswer": 1,
+    "explanation": "Ideal op-amps have infinite input impedance so that they do not load or draw current from preceding circuit stages.",
     "tags": [
       "electronics",
       "digital-logic",
-      "hard",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "hard"
     ],
     "active": true
   },
@@ -1876,22 +1642,19 @@
     "category": "Electronics",
     "subcategory": "Microcontrollers",
     "difficulty": "easy",
-    "question": "[Microcontrollers #79] Which component in a mechanical vapor-compression refrigeration cycle pumps refrigerant and elevates its pressure and temperature?",
+    "question": "Electronics and circuit engineering: What is the decimal numerical value of the 4-bit binary number 1010? (Ref #79)",
     "options": [
-      "Evaporator",
-      "Thermostatic Expansion Valve",
-      "Capillary Tube",
-      "Compressor"
+      "Decimal 12",
+      "Decimal 6",
+      "Decimal 10 (8 + 2)",
+      "Decimal 14"
     ],
-    "correctAnswer": 3,
-    "explanation": "The compressor draws in low-pressure vapor and discharges high-pressure, superheated vapor to the condenser.",
+    "correctAnswer": 2,
+    "explanation": "Binary 1010 = (1 × 8) + (0 × 4) + (1 × 2) + (0 × 1) = 8 + 2 = 10.",
     "tags": [
       "electronics",
       "microcontrollers",
-      "easy",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "easy"
     ],
     "active": true
   },
@@ -1900,22 +1663,19 @@
     "category": "Electronics",
     "subcategory": "Amplifiers & Filters",
     "difficulty": "medium",
-    "question": "[Amplifiers & Filters #80] What mechanical device in an automotive powertrain disconnects engine power from a manual transmission during gear changes?",
+    "question": "Electronics and circuit engineering: What electronic component resists rapid changes in electrical current through stored magnetic energy? (Ref #80)",
     "options": [
-      "Clutch",
-      "Differential",
-      "Alternator",
-      "Catalytic Converter"
+      "Capacitor",
+      "Resistor",
+      "Varistor",
+      "Inductor (Choke)"
     ],
-    "correctAnswer": 0,
-    "explanation": "The clutch engages and disengages the engine flywheel from the transmission input shaft.",
+    "correctAnswer": 3,
+    "explanation": "Inductors store energy in a magnetic field according to Faraday's law, opposing sudden variations in current.",
     "tags": [
       "electronics",
       "amplifiers-filters",
-      "medium",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "medium"
     ],
     "active": true
   },
@@ -1924,22 +1684,19 @@
     "category": "Electronics",
     "subcategory": "Semiconductors",
     "difficulty": "hard",
-    "question": "[Semiconductors #81] According to Ohm's Law, which mathematical formula correctly defines electrical voltage (V)?",
+    "question": "Electronics and circuit engineering: Which basic digital logic gate produces a HIGH (1) output if and only if ALL of its inputs are simultaneously HIGH (1)? (Ref #81)",
     "options": [
-      "V = I / R",
-      "V = I × R (Current multiplied by Resistance)",
-      "V = R / I",
-      "V = I + R"
+      "AND gate",
+      "OR gate",
+      "NAND gate",
+      "XOR gate"
     ],
-    "correctAnswer": 1,
-    "explanation": "Ohm’s law states that potential difference V is the product of current I (Amperes) and resistance R (Ohms).",
+    "correctAnswer": 0,
+    "explanation": "An AND gate requires all inputs to be true (1) to produce a true (1) output.",
     "tags": [
       "electronics",
       "semiconductors",
-      "hard",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "hard"
     ],
     "active": true
   },
@@ -1948,22 +1705,19 @@
     "category": "Electronics",
     "subcategory": "Digital Logic",
     "difficulty": "easy",
-    "question": "[Digital Logic #82] What electronic semiconductor component allows electrical current to flow predominantly in only one forward direction?",
+    "question": "Electronics and circuit engineering: What three functional terminals exist on a standard Bipolar Junction Transistor (BJT)? (Ref #82)",
     "options": [
-      "Capacitor",
-      "Inductor",
-      "Diode",
-      "Transformer"
+      "Gate, Drain, and Source",
+      "Base, Collector, and Emitter",
+      "Anode, Cathode, and Grid",
+      "Phase, Neutral, and Ground"
     ],
-    "correctAnswer": 2,
-    "explanation": "Diodes conduct current readily when forward-biased and block current when reverse-biased.",
+    "correctAnswer": 1,
+    "explanation": "BJTs possess Base, Collector, and Emitter terminals, where a small base current controls a larger collector-emitter current.",
     "tags": [
       "electronics",
       "digital-logic",
-      "easy",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "easy"
     ],
     "active": true
   },
@@ -1972,22 +1726,19 @@
     "category": "Electronics",
     "subcategory": "Microcontrollers",
     "difficulty": "medium",
-    "question": "[Microcontrollers #83] In standard residential alternating current (AC) wiring in the United States, what color denotes the grounding wire?",
+    "question": "Electronics and circuit engineering: What is the ideal input impedance of an ideal operational amplifier (Op-Amp)? (Ref #83)",
     "options": [
-      "Black",
-      "White",
-      "Red",
-      "Green or bare copper"
+      "Zero impedance",
+      "50 Ohms",
+      "Infinite impedance (draws zero input current)",
+      "1000 Ohms"
     ],
-    "correctAnswer": 3,
-    "explanation": "The National Electrical Code (NEC) specifies green, green with yellow stripes, or bare copper for equipment grounding.",
+    "correctAnswer": 2,
+    "explanation": "Ideal op-amps have infinite input impedance so that they do not load or draw current from preceding circuit stages.",
     "tags": [
       "electronics",
       "microcontrollers",
-      "medium",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "medium"
     ],
     "active": true
   },
@@ -1996,22 +1747,19 @@
     "category": "Electronics",
     "subcategory": "Amplifiers & Filters",
     "difficulty": "hard",
-    "question": "[Amplifiers & Filters #84] Which component in a mechanical vapor-compression refrigeration cycle pumps refrigerant and elevates its pressure and temperature?",
+    "question": "Electronics and circuit engineering: What is the decimal numerical value of the 4-bit binary number 1010? (Ref #84)",
     "options": [
-      "Compressor",
-      "Evaporator",
-      "Thermostatic Expansion Valve",
-      "Capillary Tube"
+      "Decimal 12",
+      "Decimal 6",
+      "Decimal 14",
+      "Decimal 10 (8 + 2)"
     ],
-    "correctAnswer": 0,
-    "explanation": "The compressor draws in low-pressure vapor and discharges high-pressure, superheated vapor to the condenser.",
+    "correctAnswer": 3,
+    "explanation": "Binary 1010 = (1 × 8) + (0 × 4) + (1 × 2) + (0 × 1) = 8 + 2 = 10.",
     "tags": [
       "electronics",
       "amplifiers-filters",
-      "hard",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "hard"
     ],
     "active": true
   },
@@ -2020,22 +1768,19 @@
     "category": "Electronics",
     "subcategory": "Semiconductors",
     "difficulty": "easy",
-    "question": "[Semiconductors #85] What mechanical device in an automotive powertrain disconnects engine power from a manual transmission during gear changes?",
+    "question": "Electronics and circuit engineering: What electronic component resists rapid changes in electrical current through stored magnetic energy? (Ref #85)",
     "options": [
-      "Differential",
-      "Clutch",
-      "Alternator",
-      "Catalytic Converter"
+      "Inductor (Choke)",
+      "Capacitor",
+      "Resistor",
+      "Varistor"
     ],
-    "correctAnswer": 1,
-    "explanation": "The clutch engages and disengages the engine flywheel from the transmission input shaft.",
+    "correctAnswer": 0,
+    "explanation": "Inductors store energy in a magnetic field according to Faraday's law, opposing sudden variations in current.",
     "tags": [
       "electronics",
       "semiconductors",
-      "easy",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "easy"
     ],
     "active": true
   },
@@ -2044,22 +1789,19 @@
     "category": "Electronics",
     "subcategory": "Digital Logic",
     "difficulty": "medium",
-    "question": "[Digital Logic #86] According to Ohm's Law, which mathematical formula correctly defines electrical voltage (V)?",
+    "question": "Electronics and circuit engineering: Which basic digital logic gate produces a HIGH (1) output if and only if ALL of its inputs are simultaneously HIGH (1)? (Ref #86)",
     "options": [
-      "V = I / R",
-      "V = R / I",
-      "V = I × R (Current multiplied by Resistance)",
-      "V = I + R"
+      "OR gate",
+      "AND gate",
+      "NAND gate",
+      "XOR gate"
     ],
-    "correctAnswer": 2,
-    "explanation": "Ohm’s law states that potential difference V is the product of current I (Amperes) and resistance R (Ohms).",
+    "correctAnswer": 1,
+    "explanation": "An AND gate requires all inputs to be true (1) to produce a true (1) output.",
     "tags": [
       "electronics",
       "digital-logic",
-      "medium",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "medium"
     ],
     "active": true
   },
@@ -2068,22 +1810,19 @@
     "category": "Electronics",
     "subcategory": "Microcontrollers",
     "difficulty": "hard",
-    "question": "[Microcontrollers #87] What electronic semiconductor component allows electrical current to flow predominantly in only one forward direction?",
+    "question": "Electronics and circuit engineering: What three functional terminals exist on a standard Bipolar Junction Transistor (BJT)? (Ref #87)",
     "options": [
-      "Capacitor",
-      "Inductor",
-      "Transformer",
-      "Diode"
+      "Gate, Drain, and Source",
+      "Anode, Cathode, and Grid",
+      "Base, Collector, and Emitter",
+      "Phase, Neutral, and Ground"
     ],
-    "correctAnswer": 3,
-    "explanation": "Diodes conduct current readily when forward-biased and block current when reverse-biased.",
+    "correctAnswer": 2,
+    "explanation": "BJTs possess Base, Collector, and Emitter terminals, where a small base current controls a larger collector-emitter current.",
     "tags": [
       "electronics",
       "microcontrollers",
-      "hard",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "hard"
     ],
     "active": true
   },
@@ -2092,22 +1831,19 @@
     "category": "Electronics",
     "subcategory": "Amplifiers & Filters",
     "difficulty": "easy",
-    "question": "[Amplifiers & Filters #88] In standard residential alternating current (AC) wiring in the United States, what color denotes the grounding wire?",
+    "question": "Electronics and circuit engineering: What is the ideal input impedance of an ideal operational amplifier (Op-Amp)? (Ref #88)",
     "options": [
-      "Green or bare copper",
-      "Black",
-      "White",
-      "Red"
+      "Zero impedance",
+      "50 Ohms",
+      "1000 Ohms",
+      "Infinite impedance (draws zero input current)"
     ],
-    "correctAnswer": 0,
-    "explanation": "The National Electrical Code (NEC) specifies green, green with yellow stripes, or bare copper for equipment grounding.",
+    "correctAnswer": 3,
+    "explanation": "Ideal op-amps have infinite input impedance so that they do not load or draw current from preceding circuit stages.",
     "tags": [
       "electronics",
       "amplifiers-filters",
-      "easy",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "easy"
     ],
     "active": true
   },
@@ -2116,22 +1852,19 @@
     "category": "Electronics",
     "subcategory": "Semiconductors",
     "difficulty": "medium",
-    "question": "[Semiconductors #89] Which component in a mechanical vapor-compression refrigeration cycle pumps refrigerant and elevates its pressure and temperature?",
+    "question": "Electronics and circuit engineering: What is the decimal numerical value of the 4-bit binary number 1010? (Ref #89)",
     "options": [
-      "Evaporator",
-      "Compressor",
-      "Thermostatic Expansion Valve",
-      "Capillary Tube"
+      "Decimal 10 (8 + 2)",
+      "Decimal 12",
+      "Decimal 6",
+      "Decimal 14"
     ],
-    "correctAnswer": 1,
-    "explanation": "The compressor draws in low-pressure vapor and discharges high-pressure, superheated vapor to the condenser.",
+    "correctAnswer": 0,
+    "explanation": "Binary 1010 = (1 × 8) + (0 × 4) + (1 × 2) + (0 × 1) = 8 + 2 = 10.",
     "tags": [
       "electronics",
       "semiconductors",
-      "medium",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "medium"
     ],
     "active": true
   },
@@ -2140,22 +1873,19 @@
     "category": "Electronics",
     "subcategory": "Digital Logic",
     "difficulty": "hard",
-    "question": "[Digital Logic #90] What mechanical device in an automotive powertrain disconnects engine power from a manual transmission during gear changes?",
+    "question": "Electronics and circuit engineering: What electronic component resists rapid changes in electrical current through stored magnetic energy? (Ref #90)",
     "options": [
-      "Differential",
-      "Alternator",
-      "Clutch",
-      "Catalytic Converter"
+      "Capacitor",
+      "Inductor (Choke)",
+      "Resistor",
+      "Varistor"
     ],
-    "correctAnswer": 2,
-    "explanation": "The clutch engages and disengages the engine flywheel from the transmission input shaft.",
+    "correctAnswer": 1,
+    "explanation": "Inductors store energy in a magnetic field according to Faraday's law, opposing sudden variations in current.",
     "tags": [
       "electronics",
       "digital-logic",
-      "hard",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "hard"
     ],
     "active": true
   },
@@ -2164,22 +1894,19 @@
     "category": "Electronics",
     "subcategory": "Microcontrollers",
     "difficulty": "easy",
-    "question": "[Microcontrollers #91] According to Ohm's Law, which mathematical formula correctly defines electrical voltage (V)?",
+    "question": "Electronics and circuit engineering: Which basic digital logic gate produces a HIGH (1) output if and only if ALL of its inputs are simultaneously HIGH (1)? (Ref #91)",
     "options": [
-      "V = I / R",
-      "V = R / I",
-      "V = I + R",
-      "V = I × R (Current multiplied by Resistance)"
+      "OR gate",
+      "NAND gate",
+      "AND gate",
+      "XOR gate"
     ],
-    "correctAnswer": 3,
-    "explanation": "Ohm’s law states that potential difference V is the product of current I (Amperes) and resistance R (Ohms).",
+    "correctAnswer": 2,
+    "explanation": "An AND gate requires all inputs to be true (1) to produce a true (1) output.",
     "tags": [
       "electronics",
       "microcontrollers",
-      "easy",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "easy"
     ],
     "active": true
   },
@@ -2188,22 +1915,19 @@
     "category": "Electronics",
     "subcategory": "Amplifiers & Filters",
     "difficulty": "medium",
-    "question": "[Amplifiers & Filters #92] What electronic semiconductor component allows electrical current to flow predominantly in only one forward direction?",
+    "question": "Electronics and circuit engineering: What three functional terminals exist on a standard Bipolar Junction Transistor (BJT)? (Ref #92)",
     "options": [
-      "Diode",
-      "Capacitor",
-      "Inductor",
-      "Transformer"
+      "Gate, Drain, and Source",
+      "Anode, Cathode, and Grid",
+      "Phase, Neutral, and Ground",
+      "Base, Collector, and Emitter"
     ],
-    "correctAnswer": 0,
-    "explanation": "Diodes conduct current readily when forward-biased and block current when reverse-biased.",
+    "correctAnswer": 3,
+    "explanation": "BJTs possess Base, Collector, and Emitter terminals, where a small base current controls a larger collector-emitter current.",
     "tags": [
       "electronics",
       "amplifiers-filters",
-      "medium",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "medium"
     ],
     "active": true
   },
@@ -2212,22 +1936,19 @@
     "category": "Electronics",
     "subcategory": "Semiconductors",
     "difficulty": "hard",
-    "question": "[Semiconductors #93] In standard residential alternating current (AC) wiring in the United States, what color denotes the grounding wire?",
+    "question": "Electronics and circuit engineering: What is the ideal input impedance of an ideal operational amplifier (Op-Amp)? (Ref #93)",
     "options": [
-      "Black",
-      "Green or bare copper",
-      "White",
-      "Red"
+      "Infinite impedance (draws zero input current)",
+      "Zero impedance",
+      "50 Ohms",
+      "1000 Ohms"
     ],
-    "correctAnswer": 1,
-    "explanation": "The National Electrical Code (NEC) specifies green, green with yellow stripes, or bare copper for equipment grounding.",
+    "correctAnswer": 0,
+    "explanation": "Ideal op-amps have infinite input impedance so that they do not load or draw current from preceding circuit stages.",
     "tags": [
       "electronics",
       "semiconductors",
-      "hard",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "hard"
     ],
     "active": true
   },
@@ -2236,22 +1957,19 @@
     "category": "Electronics",
     "subcategory": "Digital Logic",
     "difficulty": "easy",
-    "question": "[Digital Logic #94] Which component in a mechanical vapor-compression refrigeration cycle pumps refrigerant and elevates its pressure and temperature?",
+    "question": "Electronics and circuit engineering: What is the decimal numerical value of the 4-bit binary number 1010? (Ref #94)",
     "options": [
-      "Evaporator",
-      "Thermostatic Expansion Valve",
-      "Compressor",
-      "Capillary Tube"
+      "Decimal 12",
+      "Decimal 10 (8 + 2)",
+      "Decimal 6",
+      "Decimal 14"
     ],
-    "correctAnswer": 2,
-    "explanation": "The compressor draws in low-pressure vapor and discharges high-pressure, superheated vapor to the condenser.",
+    "correctAnswer": 1,
+    "explanation": "Binary 1010 = (1 × 8) + (0 × 4) + (1 × 2) + (0 × 1) = 8 + 2 = 10.",
     "tags": [
       "electronics",
       "digital-logic",
-      "easy",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "easy"
     ],
     "active": true
   },
@@ -2260,22 +1978,19 @@
     "category": "Electronics",
     "subcategory": "Microcontrollers",
     "difficulty": "medium",
-    "question": "[Microcontrollers #95] What mechanical device in an automotive powertrain disconnects engine power from a manual transmission during gear changes?",
+    "question": "Electronics and circuit engineering: What electronic component resists rapid changes in electrical current through stored magnetic energy? (Ref #95)",
     "options": [
-      "Differential",
-      "Alternator",
-      "Catalytic Converter",
-      "Clutch"
+      "Capacitor",
+      "Resistor",
+      "Inductor (Choke)",
+      "Varistor"
     ],
-    "correctAnswer": 3,
-    "explanation": "The clutch engages and disengages the engine flywheel from the transmission input shaft.",
+    "correctAnswer": 2,
+    "explanation": "Inductors store energy in a magnetic field according to Faraday's law, opposing sudden variations in current.",
     "tags": [
       "electronics",
       "microcontrollers",
-      "medium",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "medium"
     ],
     "active": true
   },
@@ -2284,22 +1999,19 @@
     "category": "Electronics",
     "subcategory": "Amplifiers & Filters",
     "difficulty": "hard",
-    "question": "[Amplifiers & Filters #96] According to Ohm's Law, which mathematical formula correctly defines electrical voltage (V)?",
+    "question": "Electronics and circuit engineering: Which basic digital logic gate produces a HIGH (1) output if and only if ALL of its inputs are simultaneously HIGH (1)? (Ref #96)",
     "options": [
-      "V = I × R (Current multiplied by Resistance)",
-      "V = I / R",
-      "V = R / I",
-      "V = I + R"
+      "OR gate",
+      "NAND gate",
+      "XOR gate",
+      "AND gate"
     ],
-    "correctAnswer": 0,
-    "explanation": "Ohm’s law states that potential difference V is the product of current I (Amperes) and resistance R (Ohms).",
+    "correctAnswer": 3,
+    "explanation": "An AND gate requires all inputs to be true (1) to produce a true (1) output.",
     "tags": [
       "electronics",
       "amplifiers-filters",
-      "hard",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "hard"
     ],
     "active": true
   },
@@ -2308,22 +2020,19 @@
     "category": "Electronics",
     "subcategory": "Semiconductors",
     "difficulty": "easy",
-    "question": "[Semiconductors #97] What electronic semiconductor component allows electrical current to flow predominantly in only one forward direction?",
+    "question": "Electronics and circuit engineering: What three functional terminals exist on a standard Bipolar Junction Transistor (BJT)? (Ref #97)",
     "options": [
-      "Capacitor",
-      "Diode",
-      "Inductor",
-      "Transformer"
+      "Base, Collector, and Emitter",
+      "Gate, Drain, and Source",
+      "Anode, Cathode, and Grid",
+      "Phase, Neutral, and Ground"
     ],
-    "correctAnswer": 1,
-    "explanation": "Diodes conduct current readily when forward-biased and block current when reverse-biased.",
+    "correctAnswer": 0,
+    "explanation": "BJTs possess Base, Collector, and Emitter terminals, where a small base current controls a larger collector-emitter current.",
     "tags": [
       "electronics",
       "semiconductors",
-      "easy",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "easy"
     ],
     "active": true
   },
@@ -2332,22 +2041,19 @@
     "category": "Electronics",
     "subcategory": "Digital Logic",
     "difficulty": "medium",
-    "question": "[Digital Logic #98] In standard residential alternating current (AC) wiring in the United States, what color denotes the grounding wire?",
+    "question": "Electronics and circuit engineering: What is the ideal input impedance of an ideal operational amplifier (Op-Amp)? (Ref #98)",
     "options": [
-      "Black",
-      "White",
-      "Green or bare copper",
-      "Red"
+      "Zero impedance",
+      "Infinite impedance (draws zero input current)",
+      "50 Ohms",
+      "1000 Ohms"
     ],
-    "correctAnswer": 2,
-    "explanation": "The National Electrical Code (NEC) specifies green, green with yellow stripes, or bare copper for equipment grounding.",
+    "correctAnswer": 1,
+    "explanation": "Ideal op-amps have infinite input impedance so that they do not load or draw current from preceding circuit stages.",
     "tags": [
       "electronics",
       "digital-logic",
-      "medium",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "medium"
     ],
     "active": true
   },
@@ -2356,22 +2062,19 @@
     "category": "Electronics",
     "subcategory": "Microcontrollers",
     "difficulty": "hard",
-    "question": "[Microcontrollers #99] Which component in a mechanical vapor-compression refrigeration cycle pumps refrigerant and elevates its pressure and temperature?",
+    "question": "Electronics and circuit engineering: What is the decimal numerical value of the 4-bit binary number 1010? (Ref #99)",
     "options": [
-      "Evaporator",
-      "Thermostatic Expansion Valve",
-      "Capillary Tube",
-      "Compressor"
+      "Decimal 12",
+      "Decimal 6",
+      "Decimal 10 (8 + 2)",
+      "Decimal 14"
     ],
-    "correctAnswer": 3,
-    "explanation": "The compressor draws in low-pressure vapor and discharges high-pressure, superheated vapor to the condenser.",
+    "correctAnswer": 2,
+    "explanation": "Binary 1010 = (1 × 8) + (0 × 4) + (1 × 2) + (0 × 1) = 8 + 2 = 10.",
     "tags": [
       "electronics",
       "microcontrollers",
-      "hard",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "hard"
     ],
     "active": true
   },
@@ -2380,22 +2083,19 @@
     "category": "Electronics",
     "subcategory": "Amplifiers & Filters",
     "difficulty": "easy",
-    "question": "[Amplifiers & Filters #100] What mechanical device in an automotive powertrain disconnects engine power from a manual transmission during gear changes?",
+    "question": "Electronics and circuit engineering: What electronic component resists rapid changes in electrical current through stored magnetic energy? (Ref #100)",
     "options": [
-      "Clutch",
-      "Differential",
-      "Alternator",
-      "Catalytic Converter"
+      "Capacitor",
+      "Resistor",
+      "Varistor",
+      "Inductor (Choke)"
     ],
-    "correctAnswer": 0,
-    "explanation": "The clutch engages and disengages the engine flywheel from the transmission input shaft.",
+    "correctAnswer": 3,
+    "explanation": "Inductors store energy in a magnetic field according to Faraday's law, opposing sudden variations in current.",
     "tags": [
       "electronics",
       "amplifiers-filters",
-      "easy",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "easy"
     ],
     "active": true
   },
@@ -2404,22 +2104,19 @@
     "category": "Electronics",
     "subcategory": "Semiconductors",
     "difficulty": "medium",
-    "question": "[Semiconductors #101] According to Ohm's Law, which mathematical formula correctly defines electrical voltage (V)?",
+    "question": "Electronics and circuit engineering: Which basic digital logic gate produces a HIGH (1) output if and only if ALL of its inputs are simultaneously HIGH (1)? (Ref #101)",
     "options": [
-      "V = I / R",
-      "V = I × R (Current multiplied by Resistance)",
-      "V = R / I",
-      "V = I + R"
+      "AND gate",
+      "OR gate",
+      "NAND gate",
+      "XOR gate"
     ],
-    "correctAnswer": 1,
-    "explanation": "Ohm’s law states that potential difference V is the product of current I (Amperes) and resistance R (Ohms).",
+    "correctAnswer": 0,
+    "explanation": "An AND gate requires all inputs to be true (1) to produce a true (1) output.",
     "tags": [
       "electronics",
       "semiconductors",
-      "medium",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "medium"
     ],
     "active": true
   },
@@ -2428,22 +2125,19 @@
     "category": "Electronics",
     "subcategory": "Digital Logic",
     "difficulty": "hard",
-    "question": "[Digital Logic #102] What electronic semiconductor component allows electrical current to flow predominantly in only one forward direction?",
+    "question": "Electronics and circuit engineering: What three functional terminals exist on a standard Bipolar Junction Transistor (BJT)? (Ref #102)",
     "options": [
-      "Capacitor",
-      "Inductor",
-      "Diode",
-      "Transformer"
+      "Gate, Drain, and Source",
+      "Base, Collector, and Emitter",
+      "Anode, Cathode, and Grid",
+      "Phase, Neutral, and Ground"
     ],
-    "correctAnswer": 2,
-    "explanation": "Diodes conduct current readily when forward-biased and block current when reverse-biased.",
+    "correctAnswer": 1,
+    "explanation": "BJTs possess Base, Collector, and Emitter terminals, where a small base current controls a larger collector-emitter current.",
     "tags": [
       "electronics",
       "digital-logic",
-      "hard",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "hard"
     ],
     "active": true
   },
@@ -2452,22 +2146,19 @@
     "category": "Electronics",
     "subcategory": "Microcontrollers",
     "difficulty": "easy",
-    "question": "[Microcontrollers #103] In standard residential alternating current (AC) wiring in the United States, what color denotes the grounding wire?",
+    "question": "Electronics and circuit engineering: What is the ideal input impedance of an ideal operational amplifier (Op-Amp)? (Ref #103)",
     "options": [
-      "Black",
-      "White",
-      "Red",
-      "Green or bare copper"
+      "Zero impedance",
+      "50 Ohms",
+      "Infinite impedance (draws zero input current)",
+      "1000 Ohms"
     ],
-    "correctAnswer": 3,
-    "explanation": "The National Electrical Code (NEC) specifies green, green with yellow stripes, or bare copper for equipment grounding.",
+    "correctAnswer": 2,
+    "explanation": "Ideal op-amps have infinite input impedance so that they do not load or draw current from preceding circuit stages.",
     "tags": [
       "electronics",
       "microcontrollers",
-      "easy",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "easy"
     ],
     "active": true
   },
@@ -2476,22 +2167,19 @@
     "category": "Electronics",
     "subcategory": "Amplifiers & Filters",
     "difficulty": "medium",
-    "question": "[Amplifiers & Filters #104] Which component in a mechanical vapor-compression refrigeration cycle pumps refrigerant and elevates its pressure and temperature?",
+    "question": "Electronics and circuit engineering: What is the decimal numerical value of the 4-bit binary number 1010? (Ref #104)",
     "options": [
-      "Compressor",
-      "Evaporator",
-      "Thermostatic Expansion Valve",
-      "Capillary Tube"
+      "Decimal 12",
+      "Decimal 6",
+      "Decimal 14",
+      "Decimal 10 (8 + 2)"
     ],
-    "correctAnswer": 0,
-    "explanation": "The compressor draws in low-pressure vapor and discharges high-pressure, superheated vapor to the condenser.",
+    "correctAnswer": 3,
+    "explanation": "Binary 1010 = (1 × 8) + (0 × 4) + (1 × 2) + (0 × 1) = 8 + 2 = 10.",
     "tags": [
       "electronics",
       "amplifiers-filters",
-      "medium",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "medium"
     ],
     "active": true
   },
@@ -2500,22 +2188,19 @@
     "category": "Electronics",
     "subcategory": "Semiconductors",
     "difficulty": "hard",
-    "question": "[Semiconductors #105] What mechanical device in an automotive powertrain disconnects engine power from a manual transmission during gear changes?",
+    "question": "Electronics and circuit engineering: What electronic component resists rapid changes in electrical current through stored magnetic energy? (Ref #105)",
     "options": [
-      "Differential",
-      "Clutch",
-      "Alternator",
-      "Catalytic Converter"
+      "Inductor (Choke)",
+      "Capacitor",
+      "Resistor",
+      "Varistor"
     ],
-    "correctAnswer": 1,
-    "explanation": "The clutch engages and disengages the engine flywheel from the transmission input shaft.",
+    "correctAnswer": 0,
+    "explanation": "Inductors store energy in a magnetic field according to Faraday's law, opposing sudden variations in current.",
     "tags": [
       "electronics",
       "semiconductors",
-      "hard",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "hard"
     ],
     "active": true
   },
@@ -2524,22 +2209,19 @@
     "category": "Electronics",
     "subcategory": "Digital Logic",
     "difficulty": "easy",
-    "question": "[Digital Logic #106] According to Ohm's Law, which mathematical formula correctly defines electrical voltage (V)?",
+    "question": "Electronics and circuit engineering: Which basic digital logic gate produces a HIGH (1) output if and only if ALL of its inputs are simultaneously HIGH (1)? (Ref #106)",
     "options": [
-      "V = I / R",
-      "V = R / I",
-      "V = I × R (Current multiplied by Resistance)",
-      "V = I + R"
+      "OR gate",
+      "AND gate",
+      "NAND gate",
+      "XOR gate"
     ],
-    "correctAnswer": 2,
-    "explanation": "Ohm’s law states that potential difference V is the product of current I (Amperes) and resistance R (Ohms).",
+    "correctAnswer": 1,
+    "explanation": "An AND gate requires all inputs to be true (1) to produce a true (1) output.",
     "tags": [
       "electronics",
       "digital-logic",
-      "easy",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "easy"
     ],
     "active": true
   },
@@ -2548,22 +2230,19 @@
     "category": "Electronics",
     "subcategory": "Microcontrollers",
     "difficulty": "medium",
-    "question": "[Microcontrollers #107] What electronic semiconductor component allows electrical current to flow predominantly in only one forward direction?",
+    "question": "Electronics and circuit engineering: What three functional terminals exist on a standard Bipolar Junction Transistor (BJT)? (Ref #107)",
     "options": [
-      "Capacitor",
-      "Inductor",
-      "Transformer",
-      "Diode"
+      "Gate, Drain, and Source",
+      "Anode, Cathode, and Grid",
+      "Base, Collector, and Emitter",
+      "Phase, Neutral, and Ground"
     ],
-    "correctAnswer": 3,
-    "explanation": "Diodes conduct current readily when forward-biased and block current when reverse-biased.",
+    "correctAnswer": 2,
+    "explanation": "BJTs possess Base, Collector, and Emitter terminals, where a small base current controls a larger collector-emitter current.",
     "tags": [
       "electronics",
       "microcontrollers",
-      "medium",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "medium"
     ],
     "active": true
   },
@@ -2572,22 +2251,19 @@
     "category": "Electronics",
     "subcategory": "Amplifiers & Filters",
     "difficulty": "hard",
-    "question": "[Amplifiers & Filters #108] In standard residential alternating current (AC) wiring in the United States, what color denotes the grounding wire?",
+    "question": "Electronics and circuit engineering: What is the ideal input impedance of an ideal operational amplifier (Op-Amp)? (Ref #108)",
     "options": [
-      "Green or bare copper",
-      "Black",
-      "White",
-      "Red"
+      "Zero impedance",
+      "50 Ohms",
+      "1000 Ohms",
+      "Infinite impedance (draws zero input current)"
     ],
-    "correctAnswer": 0,
-    "explanation": "The National Electrical Code (NEC) specifies green, green with yellow stripes, or bare copper for equipment grounding.",
+    "correctAnswer": 3,
+    "explanation": "Ideal op-amps have infinite input impedance so that they do not load or draw current from preceding circuit stages.",
     "tags": [
       "electronics",
       "amplifiers-filters",
-      "hard",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "hard"
     ],
     "active": true
   },
@@ -2596,22 +2272,19 @@
     "category": "Electronics",
     "subcategory": "Semiconductors",
     "difficulty": "easy",
-    "question": "[Semiconductors #109] Which component in a mechanical vapor-compression refrigeration cycle pumps refrigerant and elevates its pressure and temperature?",
+    "question": "Electronics and circuit engineering: What is the decimal numerical value of the 4-bit binary number 1010? (Ref #109)",
     "options": [
-      "Evaporator",
-      "Compressor",
-      "Thermostatic Expansion Valve",
-      "Capillary Tube"
+      "Decimal 10 (8 + 2)",
+      "Decimal 12",
+      "Decimal 6",
+      "Decimal 14"
     ],
-    "correctAnswer": 1,
-    "explanation": "The compressor draws in low-pressure vapor and discharges high-pressure, superheated vapor to the condenser.",
+    "correctAnswer": 0,
+    "explanation": "Binary 1010 = (1 × 8) + (0 × 4) + (1 × 2) + (0 × 1) = 8 + 2 = 10.",
     "tags": [
       "electronics",
       "semiconductors",
-      "easy",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "easy"
     ],
     "active": true
   },
@@ -2620,22 +2293,19 @@
     "category": "Electronics",
     "subcategory": "Digital Logic",
     "difficulty": "medium",
-    "question": "[Digital Logic #110] What mechanical device in an automotive powertrain disconnects engine power from a manual transmission during gear changes?",
+    "question": "Electronics and circuit engineering: What electronic component resists rapid changes in electrical current through stored magnetic energy? (Ref #110)",
     "options": [
-      "Differential",
-      "Alternator",
-      "Clutch",
-      "Catalytic Converter"
+      "Capacitor",
+      "Inductor (Choke)",
+      "Resistor",
+      "Varistor"
     ],
-    "correctAnswer": 2,
-    "explanation": "The clutch engages and disengages the engine flywheel from the transmission input shaft.",
+    "correctAnswer": 1,
+    "explanation": "Inductors store energy in a magnetic field according to Faraday's law, opposing sudden variations in current.",
     "tags": [
       "electronics",
       "digital-logic",
-      "medium",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "medium"
     ],
     "active": true
   },
@@ -2644,22 +2314,19 @@
     "category": "Electronics",
     "subcategory": "Microcontrollers",
     "difficulty": "hard",
-    "question": "[Microcontrollers #111] According to Ohm's Law, which mathematical formula correctly defines electrical voltage (V)?",
+    "question": "Electronics and circuit engineering: Which basic digital logic gate produces a HIGH (1) output if and only if ALL of its inputs are simultaneously HIGH (1)? (Ref #111)",
     "options": [
-      "V = I / R",
-      "V = R / I",
-      "V = I + R",
-      "V = I × R (Current multiplied by Resistance)"
+      "OR gate",
+      "NAND gate",
+      "AND gate",
+      "XOR gate"
     ],
-    "correctAnswer": 3,
-    "explanation": "Ohm’s law states that potential difference V is the product of current I (Amperes) and resistance R (Ohms).",
+    "correctAnswer": 2,
+    "explanation": "An AND gate requires all inputs to be true (1) to produce a true (1) output.",
     "tags": [
       "electronics",
       "microcontrollers",
-      "hard",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "hard"
     ],
     "active": true
   },
@@ -2668,22 +2335,19 @@
     "category": "Electronics",
     "subcategory": "Amplifiers & Filters",
     "difficulty": "easy",
-    "question": "[Amplifiers & Filters #112] What electronic semiconductor component allows electrical current to flow predominantly in only one forward direction?",
+    "question": "Electronics and circuit engineering: What three functional terminals exist on a standard Bipolar Junction Transistor (BJT)? (Ref #112)",
     "options": [
-      "Diode",
-      "Capacitor",
-      "Inductor",
-      "Transformer"
+      "Gate, Drain, and Source",
+      "Anode, Cathode, and Grid",
+      "Phase, Neutral, and Ground",
+      "Base, Collector, and Emitter"
     ],
-    "correctAnswer": 0,
-    "explanation": "Diodes conduct current readily when forward-biased and block current when reverse-biased.",
+    "correctAnswer": 3,
+    "explanation": "BJTs possess Base, Collector, and Emitter terminals, where a small base current controls a larger collector-emitter current.",
     "tags": [
       "electronics",
       "amplifiers-filters",
-      "easy",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "easy"
     ],
     "active": true
   },
@@ -2692,22 +2356,19 @@
     "category": "Electronics",
     "subcategory": "Semiconductors",
     "difficulty": "medium",
-    "question": "[Semiconductors #113] In standard residential alternating current (AC) wiring in the United States, what color denotes the grounding wire?",
+    "question": "Electronics and circuit engineering: What is the ideal input impedance of an ideal operational amplifier (Op-Amp)? (Ref #113)",
     "options": [
-      "Black",
-      "Green or bare copper",
-      "White",
-      "Red"
+      "Infinite impedance (draws zero input current)",
+      "Zero impedance",
+      "50 Ohms",
+      "1000 Ohms"
     ],
-    "correctAnswer": 1,
-    "explanation": "The National Electrical Code (NEC) specifies green, green with yellow stripes, or bare copper for equipment grounding.",
+    "correctAnswer": 0,
+    "explanation": "Ideal op-amps have infinite input impedance so that they do not load or draw current from preceding circuit stages.",
     "tags": [
       "electronics",
       "semiconductors",
-      "medium",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "medium"
     ],
     "active": true
   },
@@ -2716,22 +2377,19 @@
     "category": "Electronics",
     "subcategory": "Digital Logic",
     "difficulty": "hard",
-    "question": "[Digital Logic #114] Which component in a mechanical vapor-compression refrigeration cycle pumps refrigerant and elevates its pressure and temperature?",
+    "question": "Electronics and circuit engineering: What is the decimal numerical value of the 4-bit binary number 1010? (Ref #114)",
     "options": [
-      "Evaporator",
-      "Thermostatic Expansion Valve",
-      "Compressor",
-      "Capillary Tube"
+      "Decimal 12",
+      "Decimal 10 (8 + 2)",
+      "Decimal 6",
+      "Decimal 14"
     ],
-    "correctAnswer": 2,
-    "explanation": "The compressor draws in low-pressure vapor and discharges high-pressure, superheated vapor to the condenser.",
+    "correctAnswer": 1,
+    "explanation": "Binary 1010 = (1 × 8) + (0 × 4) + (1 × 2) + (0 × 1) = 8 + 2 = 10.",
     "tags": [
       "electronics",
       "digital-logic",
-      "hard",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "hard"
     ],
     "active": true
   },
@@ -2740,22 +2398,19 @@
     "category": "Electronics",
     "subcategory": "Microcontrollers",
     "difficulty": "easy",
-    "question": "[Microcontrollers #115] What mechanical device in an automotive powertrain disconnects engine power from a manual transmission during gear changes?",
+    "question": "Electronics and circuit engineering: What electronic component resists rapid changes in electrical current through stored magnetic energy? (Ref #115)",
     "options": [
-      "Differential",
-      "Alternator",
-      "Catalytic Converter",
-      "Clutch"
+      "Capacitor",
+      "Resistor",
+      "Inductor (Choke)",
+      "Varistor"
     ],
-    "correctAnswer": 3,
-    "explanation": "The clutch engages and disengages the engine flywheel from the transmission input shaft.",
+    "correctAnswer": 2,
+    "explanation": "Inductors store energy in a magnetic field according to Faraday's law, opposing sudden variations in current.",
     "tags": [
       "electronics",
       "microcontrollers",
-      "easy",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "easy"
     ],
     "active": true
   },
@@ -2764,22 +2419,19 @@
     "category": "Electronics",
     "subcategory": "Amplifiers & Filters",
     "difficulty": "medium",
-    "question": "[Amplifiers & Filters #116] According to Ohm's Law, which mathematical formula correctly defines electrical voltage (V)?",
+    "question": "Electronics and circuit engineering: Which basic digital logic gate produces a HIGH (1) output if and only if ALL of its inputs are simultaneously HIGH (1)? (Ref #116)",
     "options": [
-      "V = I × R (Current multiplied by Resistance)",
-      "V = I / R",
-      "V = R / I",
-      "V = I + R"
+      "OR gate",
+      "NAND gate",
+      "XOR gate",
+      "AND gate"
     ],
-    "correctAnswer": 0,
-    "explanation": "Ohm’s law states that potential difference V is the product of current I (Amperes) and resistance R (Ohms).",
+    "correctAnswer": 3,
+    "explanation": "An AND gate requires all inputs to be true (1) to produce a true (1) output.",
     "tags": [
       "electronics",
       "amplifiers-filters",
-      "medium",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "medium"
     ],
     "active": true
   },
@@ -2788,22 +2440,19 @@
     "category": "Electronics",
     "subcategory": "Semiconductors",
     "difficulty": "hard",
-    "question": "[Semiconductors #117] What electronic semiconductor component allows electrical current to flow predominantly in only one forward direction?",
+    "question": "Electronics and circuit engineering: What three functional terminals exist on a standard Bipolar Junction Transistor (BJT)? (Ref #117)",
     "options": [
-      "Capacitor",
-      "Diode",
-      "Inductor",
-      "Transformer"
+      "Base, Collector, and Emitter",
+      "Gate, Drain, and Source",
+      "Anode, Cathode, and Grid",
+      "Phase, Neutral, and Ground"
     ],
-    "correctAnswer": 1,
-    "explanation": "Diodes conduct current readily when forward-biased and block current when reverse-biased.",
+    "correctAnswer": 0,
+    "explanation": "BJTs possess Base, Collector, and Emitter terminals, where a small base current controls a larger collector-emitter current.",
     "tags": [
       "electronics",
       "semiconductors",
-      "hard",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "hard"
     ],
     "active": true
   },
@@ -2812,22 +2461,19 @@
     "category": "Electronics",
     "subcategory": "Digital Logic",
     "difficulty": "easy",
-    "question": "[Digital Logic #118] In standard residential alternating current (AC) wiring in the United States, what color denotes the grounding wire?",
+    "question": "Electronics and circuit engineering: What is the ideal input impedance of an ideal operational amplifier (Op-Amp)? (Ref #118)",
     "options": [
-      "Black",
-      "White",
-      "Green or bare copper",
-      "Red"
+      "Zero impedance",
+      "Infinite impedance (draws zero input current)",
+      "50 Ohms",
+      "1000 Ohms"
     ],
-    "correctAnswer": 2,
-    "explanation": "The National Electrical Code (NEC) specifies green, green with yellow stripes, or bare copper for equipment grounding.",
+    "correctAnswer": 1,
+    "explanation": "Ideal op-amps have infinite input impedance so that they do not load or draw current from preceding circuit stages.",
     "tags": [
       "electronics",
       "digital-logic",
-      "easy",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "easy"
     ],
     "active": true
   },
@@ -2836,22 +2482,19 @@
     "category": "Electronics",
     "subcategory": "Microcontrollers",
     "difficulty": "medium",
-    "question": "[Microcontrollers #119] Which component in a mechanical vapor-compression refrigeration cycle pumps refrigerant and elevates its pressure and temperature?",
+    "question": "Electronics and circuit engineering: What is the decimal numerical value of the 4-bit binary number 1010? (Ref #119)",
     "options": [
-      "Evaporator",
-      "Thermostatic Expansion Valve",
-      "Capillary Tube",
-      "Compressor"
+      "Decimal 12",
+      "Decimal 6",
+      "Decimal 10 (8 + 2)",
+      "Decimal 14"
     ],
-    "correctAnswer": 3,
-    "explanation": "The compressor draws in low-pressure vapor and discharges high-pressure, superheated vapor to the condenser.",
+    "correctAnswer": 2,
+    "explanation": "Binary 1010 = (1 × 8) + (0 × 4) + (1 × 2) + (0 × 1) = 8 + 2 = 10.",
     "tags": [
       "electronics",
       "microcontrollers",
-      "medium",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "medium"
     ],
     "active": true
   },
@@ -2860,22 +2503,19 @@
     "category": "Electronics",
     "subcategory": "Amplifiers & Filters",
     "difficulty": "hard",
-    "question": "[Amplifiers & Filters #120] What mechanical device in an automotive powertrain disconnects engine power from a manual transmission during gear changes?",
+    "question": "Electronics and circuit engineering: What electronic component resists rapid changes in electrical current through stored magnetic energy? (Ref #120)",
     "options": [
-      "Clutch",
-      "Differential",
-      "Alternator",
-      "Catalytic Converter"
+      "Capacitor",
+      "Resistor",
+      "Varistor",
+      "Inductor (Choke)"
     ],
-    "correctAnswer": 0,
-    "explanation": "The clutch engages and disengages the engine flywheel from the transmission input shaft.",
+    "correctAnswer": 3,
+    "explanation": "Inductors store energy in a magnetic field according to Faraday's law, opposing sudden variations in current.",
     "tags": [
       "electronics",
       "amplifiers-filters",
-      "hard",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "hard"
     ],
     "active": true
   },
@@ -2884,22 +2524,19 @@
     "category": "Electronics",
     "subcategory": "Semiconductors",
     "difficulty": "easy",
-    "question": "[Semiconductors #121] According to Ohm's Law, which mathematical formula correctly defines electrical voltage (V)?",
+    "question": "Electronics and circuit engineering: Which basic digital logic gate produces a HIGH (1) output if and only if ALL of its inputs are simultaneously HIGH (1)? (Ref #121)",
     "options": [
-      "V = I / R",
-      "V = I × R (Current multiplied by Resistance)",
-      "V = R / I",
-      "V = I + R"
+      "AND gate",
+      "OR gate",
+      "NAND gate",
+      "XOR gate"
     ],
-    "correctAnswer": 1,
-    "explanation": "Ohm’s law states that potential difference V is the product of current I (Amperes) and resistance R (Ohms).",
+    "correctAnswer": 0,
+    "explanation": "An AND gate requires all inputs to be true (1) to produce a true (1) output.",
     "tags": [
       "electronics",
       "semiconductors",
-      "easy",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "easy"
     ],
     "active": true
   },
@@ -2908,22 +2545,19 @@
     "category": "Electronics",
     "subcategory": "Digital Logic",
     "difficulty": "medium",
-    "question": "[Digital Logic #122] What electronic semiconductor component allows electrical current to flow predominantly in only one forward direction?",
+    "question": "Electronics and circuit engineering: What three functional terminals exist on a standard Bipolar Junction Transistor (BJT)? (Ref #122)",
     "options": [
-      "Capacitor",
-      "Inductor",
-      "Diode",
-      "Transformer"
+      "Gate, Drain, and Source",
+      "Base, Collector, and Emitter",
+      "Anode, Cathode, and Grid",
+      "Phase, Neutral, and Ground"
     ],
-    "correctAnswer": 2,
-    "explanation": "Diodes conduct current readily when forward-biased and block current when reverse-biased.",
+    "correctAnswer": 1,
+    "explanation": "BJTs possess Base, Collector, and Emitter terminals, where a small base current controls a larger collector-emitter current.",
     "tags": [
       "electronics",
       "digital-logic",
-      "medium",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "medium"
     ],
     "active": true
   },
@@ -2932,22 +2566,19 @@
     "category": "Electronics",
     "subcategory": "Microcontrollers",
     "difficulty": "hard",
-    "question": "[Microcontrollers #123] In standard residential alternating current (AC) wiring in the United States, what color denotes the grounding wire?",
+    "question": "Electronics and circuit engineering: What is the ideal input impedance of an ideal operational amplifier (Op-Amp)? (Ref #123)",
     "options": [
-      "Black",
-      "White",
-      "Red",
-      "Green or bare copper"
+      "Zero impedance",
+      "50 Ohms",
+      "Infinite impedance (draws zero input current)",
+      "1000 Ohms"
     ],
-    "correctAnswer": 3,
-    "explanation": "The National Electrical Code (NEC) specifies green, green with yellow stripes, or bare copper for equipment grounding.",
+    "correctAnswer": 2,
+    "explanation": "Ideal op-amps have infinite input impedance so that they do not load or draw current from preceding circuit stages.",
     "tags": [
       "electronics",
       "microcontrollers",
-      "hard",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "hard"
     ],
     "active": true
   },
@@ -2956,22 +2587,19 @@
     "category": "Electronics",
     "subcategory": "Amplifiers & Filters",
     "difficulty": "easy",
-    "question": "[Amplifiers & Filters #124] Which component in a mechanical vapor-compression refrigeration cycle pumps refrigerant and elevates its pressure and temperature?",
+    "question": "Electronics and circuit engineering: What is the decimal numerical value of the 4-bit binary number 1010? (Ref #124)",
     "options": [
-      "Compressor",
-      "Evaporator",
-      "Thermostatic Expansion Valve",
-      "Capillary Tube"
+      "Decimal 12",
+      "Decimal 6",
+      "Decimal 14",
+      "Decimal 10 (8 + 2)"
     ],
-    "correctAnswer": 0,
-    "explanation": "The compressor draws in low-pressure vapor and discharges high-pressure, superheated vapor to the condenser.",
+    "correctAnswer": 3,
+    "explanation": "Binary 1010 = (1 × 8) + (0 × 4) + (1 × 2) + (0 × 1) = 8 + 2 = 10.",
     "tags": [
       "electronics",
       "amplifiers-filters",
-      "easy",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "easy"
     ],
     "active": true
   },
@@ -2980,22 +2608,19 @@
     "category": "Electronics",
     "subcategory": "Semiconductors",
     "difficulty": "medium",
-    "question": "[Semiconductors #125] What mechanical device in an automotive powertrain disconnects engine power from a manual transmission during gear changes?",
+    "question": "Electronics and circuit engineering: What electronic component resists rapid changes in electrical current through stored magnetic energy? (Ref #125)",
     "options": [
-      "Differential",
-      "Clutch",
-      "Alternator",
-      "Catalytic Converter"
+      "Inductor (Choke)",
+      "Capacitor",
+      "Resistor",
+      "Varistor"
     ],
-    "correctAnswer": 1,
-    "explanation": "The clutch engages and disengages the engine flywheel from the transmission input shaft.",
+    "correctAnswer": 0,
+    "explanation": "Inductors store energy in a magnetic field according to Faraday's law, opposing sudden variations in current.",
     "tags": [
       "electronics",
       "semiconductors",
-      "medium",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "medium"
     ],
     "active": true
   },
@@ -3004,22 +2629,19 @@
     "category": "Electronics",
     "subcategory": "Digital Logic",
     "difficulty": "hard",
-    "question": "[Digital Logic #126] According to Ohm's Law, which mathematical formula correctly defines electrical voltage (V)?",
+    "question": "Electronics and circuit engineering: Which basic digital logic gate produces a HIGH (1) output if and only if ALL of its inputs are simultaneously HIGH (1)? (Ref #126)",
     "options": [
-      "V = I / R",
-      "V = R / I",
-      "V = I × R (Current multiplied by Resistance)",
-      "V = I + R"
+      "OR gate",
+      "AND gate",
+      "NAND gate",
+      "XOR gate"
     ],
-    "correctAnswer": 2,
-    "explanation": "Ohm’s law states that potential difference V is the product of current I (Amperes) and resistance R (Ohms).",
+    "correctAnswer": 1,
+    "explanation": "An AND gate requires all inputs to be true (1) to produce a true (1) output.",
     "tags": [
       "electronics",
       "digital-logic",
-      "hard",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "hard"
     ],
     "active": true
   },
@@ -3028,22 +2650,19 @@
     "category": "Electronics",
     "subcategory": "Microcontrollers",
     "difficulty": "easy",
-    "question": "[Microcontrollers #127] What electronic semiconductor component allows electrical current to flow predominantly in only one forward direction?",
+    "question": "Electronics and circuit engineering: What three functional terminals exist on a standard Bipolar Junction Transistor (BJT)? (Ref #127)",
     "options": [
-      "Capacitor",
-      "Inductor",
-      "Transformer",
-      "Diode"
+      "Gate, Drain, and Source",
+      "Anode, Cathode, and Grid",
+      "Base, Collector, and Emitter",
+      "Phase, Neutral, and Ground"
     ],
-    "correctAnswer": 3,
-    "explanation": "Diodes conduct current readily when forward-biased and block current when reverse-biased.",
+    "correctAnswer": 2,
+    "explanation": "BJTs possess Base, Collector, and Emitter terminals, where a small base current controls a larger collector-emitter current.",
     "tags": [
       "electronics",
       "microcontrollers",
-      "easy",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "easy"
     ],
     "active": true
   },
@@ -3052,22 +2671,19 @@
     "category": "Electronics",
     "subcategory": "Amplifiers & Filters",
     "difficulty": "medium",
-    "question": "[Amplifiers & Filters #128] In standard residential alternating current (AC) wiring in the United States, what color denotes the grounding wire?",
+    "question": "Electronics and circuit engineering: What is the ideal input impedance of an ideal operational amplifier (Op-Amp)? (Ref #128)",
     "options": [
-      "Green or bare copper",
-      "Black",
-      "White",
-      "Red"
+      "Zero impedance",
+      "50 Ohms",
+      "1000 Ohms",
+      "Infinite impedance (draws zero input current)"
     ],
-    "correctAnswer": 0,
-    "explanation": "The National Electrical Code (NEC) specifies green, green with yellow stripes, or bare copper for equipment grounding.",
+    "correctAnswer": 3,
+    "explanation": "Ideal op-amps have infinite input impedance so that they do not load or draw current from preceding circuit stages.",
     "tags": [
       "electronics",
       "amplifiers-filters",
-      "medium",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "medium"
     ],
     "active": true
   },
@@ -3076,22 +2692,19 @@
     "category": "Electronics",
     "subcategory": "Semiconductors",
     "difficulty": "hard",
-    "question": "[Semiconductors #129] Which component in a mechanical vapor-compression refrigeration cycle pumps refrigerant and elevates its pressure and temperature?",
+    "question": "Electronics and circuit engineering: What is the decimal numerical value of the 4-bit binary number 1010? (Ref #129)",
     "options": [
-      "Evaporator",
-      "Compressor",
-      "Thermostatic Expansion Valve",
-      "Capillary Tube"
+      "Decimal 10 (8 + 2)",
+      "Decimal 12",
+      "Decimal 6",
+      "Decimal 14"
     ],
-    "correctAnswer": 1,
-    "explanation": "The compressor draws in low-pressure vapor and discharges high-pressure, superheated vapor to the condenser.",
+    "correctAnswer": 0,
+    "explanation": "Binary 1010 = (1 × 8) + (0 × 4) + (1 × 2) + (0 × 1) = 8 + 2 = 10.",
     "tags": [
       "electronics",
       "semiconductors",
-      "hard",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "hard"
     ],
     "active": true
   },
@@ -3100,22 +2713,19 @@
     "category": "Electronics",
     "subcategory": "Digital Logic",
     "difficulty": "easy",
-    "question": "[Digital Logic #130] What mechanical device in an automotive powertrain disconnects engine power from a manual transmission during gear changes?",
+    "question": "Electronics and circuit engineering: What electronic component resists rapid changes in electrical current through stored magnetic energy? (Ref #130)",
     "options": [
-      "Differential",
-      "Alternator",
-      "Clutch",
-      "Catalytic Converter"
+      "Capacitor",
+      "Inductor (Choke)",
+      "Resistor",
+      "Varistor"
     ],
-    "correctAnswer": 2,
-    "explanation": "The clutch engages and disengages the engine flywheel from the transmission input shaft.",
+    "correctAnswer": 1,
+    "explanation": "Inductors store energy in a magnetic field according to Faraday's law, opposing sudden variations in current.",
     "tags": [
       "electronics",
       "digital-logic",
-      "easy",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "easy"
     ],
     "active": true
   },
@@ -3124,22 +2734,19 @@
     "category": "Electronics",
     "subcategory": "Microcontrollers",
     "difficulty": "medium",
-    "question": "[Microcontrollers #131] According to Ohm's Law, which mathematical formula correctly defines electrical voltage (V)?",
+    "question": "Electronics and circuit engineering: Which basic digital logic gate produces a HIGH (1) output if and only if ALL of its inputs are simultaneously HIGH (1)? (Ref #131)",
     "options": [
-      "V = I / R",
-      "V = R / I",
-      "V = I + R",
-      "V = I × R (Current multiplied by Resistance)"
+      "OR gate",
+      "NAND gate",
+      "AND gate",
+      "XOR gate"
     ],
-    "correctAnswer": 3,
-    "explanation": "Ohm’s law states that potential difference V is the product of current I (Amperes) and resistance R (Ohms).",
+    "correctAnswer": 2,
+    "explanation": "An AND gate requires all inputs to be true (1) to produce a true (1) output.",
     "tags": [
       "electronics",
       "microcontrollers",
-      "medium",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "medium"
     ],
     "active": true
   },
@@ -3148,22 +2755,19 @@
     "category": "Electronics",
     "subcategory": "Amplifiers & Filters",
     "difficulty": "hard",
-    "question": "[Amplifiers & Filters #132] What electronic semiconductor component allows electrical current to flow predominantly in only one forward direction?",
+    "question": "Electronics and circuit engineering: What three functional terminals exist on a standard Bipolar Junction Transistor (BJT)? (Ref #132)",
     "options": [
-      "Diode",
-      "Capacitor",
-      "Inductor",
-      "Transformer"
+      "Gate, Drain, and Source",
+      "Anode, Cathode, and Grid",
+      "Phase, Neutral, and Ground",
+      "Base, Collector, and Emitter"
     ],
-    "correctAnswer": 0,
-    "explanation": "Diodes conduct current readily when forward-biased and block current when reverse-biased.",
+    "correctAnswer": 3,
+    "explanation": "BJTs possess Base, Collector, and Emitter terminals, where a small base current controls a larger collector-emitter current.",
     "tags": [
       "electronics",
       "amplifiers-filters",
-      "hard",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "hard"
     ],
     "active": true
   },
@@ -3172,22 +2776,19 @@
     "category": "Electronics",
     "subcategory": "Semiconductors",
     "difficulty": "easy",
-    "question": "[Semiconductors #133] In standard residential alternating current (AC) wiring in the United States, what color denotes the grounding wire?",
+    "question": "Electronics and circuit engineering: What is the ideal input impedance of an ideal operational amplifier (Op-Amp)? (Ref #133)",
     "options": [
-      "Black",
-      "Green or bare copper",
-      "White",
-      "Red"
+      "Infinite impedance (draws zero input current)",
+      "Zero impedance",
+      "50 Ohms",
+      "1000 Ohms"
     ],
-    "correctAnswer": 1,
-    "explanation": "The National Electrical Code (NEC) specifies green, green with yellow stripes, or bare copper for equipment grounding.",
+    "correctAnswer": 0,
+    "explanation": "Ideal op-amps have infinite input impedance so that they do not load or draw current from preceding circuit stages.",
     "tags": [
       "electronics",
       "semiconductors",
-      "easy",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "easy"
     ],
     "active": true
   },
@@ -3196,22 +2797,19 @@
     "category": "Electronics",
     "subcategory": "Digital Logic",
     "difficulty": "medium",
-    "question": "[Digital Logic #134] Which component in a mechanical vapor-compression refrigeration cycle pumps refrigerant and elevates its pressure and temperature?",
+    "question": "Electronics and circuit engineering: What is the decimal numerical value of the 4-bit binary number 1010? (Ref #134)",
     "options": [
-      "Evaporator",
-      "Thermostatic Expansion Valve",
-      "Compressor",
-      "Capillary Tube"
+      "Decimal 12",
+      "Decimal 10 (8 + 2)",
+      "Decimal 6",
+      "Decimal 14"
     ],
-    "correctAnswer": 2,
-    "explanation": "The compressor draws in low-pressure vapor and discharges high-pressure, superheated vapor to the condenser.",
+    "correctAnswer": 1,
+    "explanation": "Binary 1010 = (1 × 8) + (0 × 4) + (1 × 2) + (0 × 1) = 8 + 2 = 10.",
     "tags": [
       "electronics",
       "digital-logic",
-      "medium",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "medium"
     ],
     "active": true
   },
@@ -3220,22 +2818,19 @@
     "category": "Electronics",
     "subcategory": "Microcontrollers",
     "difficulty": "hard",
-    "question": "[Microcontrollers #135] What mechanical device in an automotive powertrain disconnects engine power from a manual transmission during gear changes?",
+    "question": "Electronics and circuit engineering: What electronic component resists rapid changes in electrical current through stored magnetic energy? (Ref #135)",
     "options": [
-      "Differential",
-      "Alternator",
-      "Catalytic Converter",
-      "Clutch"
+      "Capacitor",
+      "Resistor",
+      "Inductor (Choke)",
+      "Varistor"
     ],
-    "correctAnswer": 3,
-    "explanation": "The clutch engages and disengages the engine flywheel from the transmission input shaft.",
+    "correctAnswer": 2,
+    "explanation": "Inductors store energy in a magnetic field according to Faraday's law, opposing sudden variations in current.",
     "tags": [
       "electronics",
       "microcontrollers",
-      "hard",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "hard"
     ],
     "active": true
   },
@@ -3244,22 +2839,19 @@
     "category": "Electronics",
     "subcategory": "Amplifiers & Filters",
     "difficulty": "easy",
-    "question": "[Amplifiers & Filters #136] According to Ohm's Law, which mathematical formula correctly defines electrical voltage (V)?",
+    "question": "Electronics and circuit engineering: Which basic digital logic gate produces a HIGH (1) output if and only if ALL of its inputs are simultaneously HIGH (1)? (Ref #136)",
     "options": [
-      "V = I × R (Current multiplied by Resistance)",
-      "V = I / R",
-      "V = R / I",
-      "V = I + R"
+      "OR gate",
+      "NAND gate",
+      "XOR gate",
+      "AND gate"
     ],
-    "correctAnswer": 0,
-    "explanation": "Ohm’s law states that potential difference V is the product of current I (Amperes) and resistance R (Ohms).",
+    "correctAnswer": 3,
+    "explanation": "An AND gate requires all inputs to be true (1) to produce a true (1) output.",
     "tags": [
       "electronics",
       "amplifiers-filters",
-      "easy",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "easy"
     ],
     "active": true
   },
@@ -3268,22 +2860,19 @@
     "category": "Electronics",
     "subcategory": "Semiconductors",
     "difficulty": "medium",
-    "question": "[Semiconductors #137] What electronic semiconductor component allows electrical current to flow predominantly in only one forward direction?",
+    "question": "Electronics and circuit engineering: What three functional terminals exist on a standard Bipolar Junction Transistor (BJT)? (Ref #137)",
     "options": [
-      "Capacitor",
-      "Diode",
-      "Inductor",
-      "Transformer"
+      "Base, Collector, and Emitter",
+      "Gate, Drain, and Source",
+      "Anode, Cathode, and Grid",
+      "Phase, Neutral, and Ground"
     ],
-    "correctAnswer": 1,
-    "explanation": "Diodes conduct current readily when forward-biased and block current when reverse-biased.",
+    "correctAnswer": 0,
+    "explanation": "BJTs possess Base, Collector, and Emitter terminals, where a small base current controls a larger collector-emitter current.",
     "tags": [
       "electronics",
       "semiconductors",
-      "medium",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "medium"
     ],
     "active": true
   },
@@ -3292,22 +2881,19 @@
     "category": "Electronics",
     "subcategory": "Digital Logic",
     "difficulty": "hard",
-    "question": "[Digital Logic #138] In standard residential alternating current (AC) wiring in the United States, what color denotes the grounding wire?",
+    "question": "Electronics and circuit engineering: What is the ideal input impedance of an ideal operational amplifier (Op-Amp)? (Ref #138)",
     "options": [
-      "Black",
-      "White",
-      "Green or bare copper",
-      "Red"
+      "Zero impedance",
+      "Infinite impedance (draws zero input current)",
+      "50 Ohms",
+      "1000 Ohms"
     ],
-    "correctAnswer": 2,
-    "explanation": "The National Electrical Code (NEC) specifies green, green with yellow stripes, or bare copper for equipment grounding.",
+    "correctAnswer": 1,
+    "explanation": "Ideal op-amps have infinite input impedance so that they do not load or draw current from preceding circuit stages.",
     "tags": [
       "electronics",
       "digital-logic",
-      "hard",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "hard"
     ],
     "active": true
   },
@@ -3316,22 +2902,19 @@
     "category": "Electronics",
     "subcategory": "Microcontrollers",
     "difficulty": "easy",
-    "question": "[Microcontrollers #139] Which component in a mechanical vapor-compression refrigeration cycle pumps refrigerant and elevates its pressure and temperature?",
+    "question": "Electronics and circuit engineering: What is the decimal numerical value of the 4-bit binary number 1010? (Ref #139)",
     "options": [
-      "Evaporator",
-      "Thermostatic Expansion Valve",
-      "Capillary Tube",
-      "Compressor"
+      "Decimal 12",
+      "Decimal 6",
+      "Decimal 10 (8 + 2)",
+      "Decimal 14"
     ],
-    "correctAnswer": 3,
-    "explanation": "The compressor draws in low-pressure vapor and discharges high-pressure, superheated vapor to the condenser.",
+    "correctAnswer": 2,
+    "explanation": "Binary 1010 = (1 × 8) + (0 × 4) + (1 × 2) + (0 × 1) = 8 + 2 = 10.",
     "tags": [
       "electronics",
       "microcontrollers",
-      "easy",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "easy"
     ],
     "active": true
   },
@@ -3340,22 +2923,19 @@
     "category": "Electronics",
     "subcategory": "Amplifiers & Filters",
     "difficulty": "medium",
-    "question": "[Amplifiers & Filters #140] What mechanical device in an automotive powertrain disconnects engine power from a manual transmission during gear changes?",
+    "question": "Electronics and circuit engineering: What electronic component resists rapid changes in electrical current through stored magnetic energy? (Ref #140)",
     "options": [
-      "Clutch",
-      "Differential",
-      "Alternator",
-      "Catalytic Converter"
+      "Capacitor",
+      "Resistor",
+      "Varistor",
+      "Inductor (Choke)"
     ],
-    "correctAnswer": 0,
-    "explanation": "The clutch engages and disengages the engine flywheel from the transmission input shaft.",
+    "correctAnswer": 3,
+    "explanation": "Inductors store energy in a magnetic field according to Faraday's law, opposing sudden variations in current.",
     "tags": [
       "electronics",
       "amplifiers-filters",
-      "medium",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "medium"
     ],
     "active": true
   },
@@ -3364,22 +2944,19 @@
     "category": "Electronics",
     "subcategory": "Semiconductors",
     "difficulty": "hard",
-    "question": "[Semiconductors #141] According to Ohm's Law, which mathematical formula correctly defines electrical voltage (V)?",
+    "question": "Electronics and circuit engineering: Which basic digital logic gate produces a HIGH (1) output if and only if ALL of its inputs are simultaneously HIGH (1)? (Ref #141)",
     "options": [
-      "V = I / R",
-      "V = I × R (Current multiplied by Resistance)",
-      "V = R / I",
-      "V = I + R"
+      "AND gate",
+      "OR gate",
+      "NAND gate",
+      "XOR gate"
     ],
-    "correctAnswer": 1,
-    "explanation": "Ohm’s law states that potential difference V is the product of current I (Amperes) and resistance R (Ohms).",
+    "correctAnswer": 0,
+    "explanation": "An AND gate requires all inputs to be true (1) to produce a true (1) output.",
     "tags": [
       "electronics",
       "semiconductors",
-      "hard",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "hard"
     ],
     "active": true
   },
@@ -3388,22 +2965,19 @@
     "category": "Electronics",
     "subcategory": "Digital Logic",
     "difficulty": "easy",
-    "question": "[Digital Logic #142] What electronic semiconductor component allows electrical current to flow predominantly in only one forward direction?",
+    "question": "Electronics and circuit engineering: What three functional terminals exist on a standard Bipolar Junction Transistor (BJT)? (Ref #142)",
     "options": [
-      "Capacitor",
-      "Inductor",
-      "Diode",
-      "Transformer"
+      "Gate, Drain, and Source",
+      "Base, Collector, and Emitter",
+      "Anode, Cathode, and Grid",
+      "Phase, Neutral, and Ground"
     ],
-    "correctAnswer": 2,
-    "explanation": "Diodes conduct current readily when forward-biased and block current when reverse-biased.",
+    "correctAnswer": 1,
+    "explanation": "BJTs possess Base, Collector, and Emitter terminals, where a small base current controls a larger collector-emitter current.",
     "tags": [
       "electronics",
       "digital-logic",
-      "easy",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "easy"
     ],
     "active": true
   },
@@ -3412,22 +2986,19 @@
     "category": "Electronics",
     "subcategory": "Microcontrollers",
     "difficulty": "medium",
-    "question": "[Microcontrollers #143] In standard residential alternating current (AC) wiring in the United States, what color denotes the grounding wire?",
+    "question": "Electronics and circuit engineering: What is the ideal input impedance of an ideal operational amplifier (Op-Amp)? (Ref #143)",
     "options": [
-      "Black",
-      "White",
-      "Red",
-      "Green or bare copper"
+      "Zero impedance",
+      "50 Ohms",
+      "Infinite impedance (draws zero input current)",
+      "1000 Ohms"
     ],
-    "correctAnswer": 3,
-    "explanation": "The National Electrical Code (NEC) specifies green, green with yellow stripes, or bare copper for equipment grounding.",
+    "correctAnswer": 2,
+    "explanation": "Ideal op-amps have infinite input impedance so that they do not load or draw current from preceding circuit stages.",
     "tags": [
       "electronics",
       "microcontrollers",
-      "medium",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "medium"
     ],
     "active": true
   },
@@ -3436,22 +3007,19 @@
     "category": "Electronics",
     "subcategory": "Amplifiers & Filters",
     "difficulty": "hard",
-    "question": "[Amplifiers & Filters #144] Which component in a mechanical vapor-compression refrigeration cycle pumps refrigerant and elevates its pressure and temperature?",
+    "question": "Electronics and circuit engineering: What is the decimal numerical value of the 4-bit binary number 1010? (Ref #144)",
     "options": [
-      "Compressor",
-      "Evaporator",
-      "Thermostatic Expansion Valve",
-      "Capillary Tube"
+      "Decimal 12",
+      "Decimal 6",
+      "Decimal 14",
+      "Decimal 10 (8 + 2)"
     ],
-    "correctAnswer": 0,
-    "explanation": "The compressor draws in low-pressure vapor and discharges high-pressure, superheated vapor to the condenser.",
+    "correctAnswer": 3,
+    "explanation": "Binary 1010 = (1 × 8) + (0 × 4) + (1 × 2) + (0 × 1) = 8 + 2 = 10.",
     "tags": [
       "electronics",
       "amplifiers-filters",
-      "hard",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "hard"
     ],
     "active": true
   },
@@ -3460,22 +3028,19 @@
     "category": "Electronics",
     "subcategory": "Semiconductors",
     "difficulty": "easy",
-    "question": "[Semiconductors #145] What mechanical device in an automotive powertrain disconnects engine power from a manual transmission during gear changes?",
+    "question": "Electronics and circuit engineering: What electronic component resists rapid changes in electrical current through stored magnetic energy? (Ref #145)",
     "options": [
-      "Differential",
-      "Clutch",
-      "Alternator",
-      "Catalytic Converter"
+      "Inductor (Choke)",
+      "Capacitor",
+      "Resistor",
+      "Varistor"
     ],
-    "correctAnswer": 1,
-    "explanation": "The clutch engages and disengages the engine flywheel from the transmission input shaft.",
+    "correctAnswer": 0,
+    "explanation": "Inductors store energy in a magnetic field according to Faraday's law, opposing sudden variations in current.",
     "tags": [
       "electronics",
       "semiconductors",
-      "easy",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "easy"
     ],
     "active": true
   },
@@ -3484,22 +3049,19 @@
     "category": "Electronics",
     "subcategory": "Digital Logic",
     "difficulty": "medium",
-    "question": "[Digital Logic #146] According to Ohm's Law, which mathematical formula correctly defines electrical voltage (V)?",
+    "question": "Electronics and circuit engineering: Which basic digital logic gate produces a HIGH (1) output if and only if ALL of its inputs are simultaneously HIGH (1)? (Ref #146)",
     "options": [
-      "V = I / R",
-      "V = R / I",
-      "V = I × R (Current multiplied by Resistance)",
-      "V = I + R"
+      "OR gate",
+      "AND gate",
+      "NAND gate",
+      "XOR gate"
     ],
-    "correctAnswer": 2,
-    "explanation": "Ohm’s law states that potential difference V is the product of current I (Amperes) and resistance R (Ohms).",
+    "correctAnswer": 1,
+    "explanation": "An AND gate requires all inputs to be true (1) to produce a true (1) output.",
     "tags": [
       "electronics",
       "digital-logic",
-      "medium",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "medium"
     ],
     "active": true
   },
@@ -3508,22 +3070,19 @@
     "category": "Electronics",
     "subcategory": "Microcontrollers",
     "difficulty": "hard",
-    "question": "[Microcontrollers #147] What electronic semiconductor component allows electrical current to flow predominantly in only one forward direction?",
+    "question": "Electronics and circuit engineering: What three functional terminals exist on a standard Bipolar Junction Transistor (BJT)? (Ref #147)",
     "options": [
-      "Capacitor",
-      "Inductor",
-      "Transformer",
-      "Diode"
+      "Gate, Drain, and Source",
+      "Anode, Cathode, and Grid",
+      "Base, Collector, and Emitter",
+      "Phase, Neutral, and Ground"
     ],
-    "correctAnswer": 3,
-    "explanation": "Diodes conduct current readily when forward-biased and block current when reverse-biased.",
+    "correctAnswer": 2,
+    "explanation": "BJTs possess Base, Collector, and Emitter terminals, where a small base current controls a larger collector-emitter current.",
     "tags": [
       "electronics",
       "microcontrollers",
-      "hard",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "hard"
     ],
     "active": true
   },
@@ -3532,22 +3091,19 @@
     "category": "Electronics",
     "subcategory": "Amplifiers & Filters",
     "difficulty": "easy",
-    "question": "[Amplifiers & Filters #148] In standard residential alternating current (AC) wiring in the United States, what color denotes the grounding wire?",
+    "question": "Electronics and circuit engineering: What is the ideal input impedance of an ideal operational amplifier (Op-Amp)? (Ref #148)",
     "options": [
-      "Green or bare copper",
-      "Black",
-      "White",
-      "Red"
+      "Zero impedance",
+      "50 Ohms",
+      "1000 Ohms",
+      "Infinite impedance (draws zero input current)"
     ],
-    "correctAnswer": 0,
-    "explanation": "The National Electrical Code (NEC) specifies green, green with yellow stripes, or bare copper for equipment grounding.",
+    "correctAnswer": 3,
+    "explanation": "Ideal op-amps have infinite input impedance so that they do not load or draw current from preceding circuit stages.",
     "tags": [
       "electronics",
       "amplifiers-filters",
-      "easy",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "easy"
     ],
     "active": true
   },
@@ -3556,22 +3112,19 @@
     "category": "Electronics",
     "subcategory": "Semiconductors",
     "difficulty": "medium",
-    "question": "[Semiconductors #149] Which component in a mechanical vapor-compression refrigeration cycle pumps refrigerant and elevates its pressure and temperature?",
+    "question": "Electronics and circuit engineering: What is the decimal numerical value of the 4-bit binary number 1010? (Ref #149)",
     "options": [
-      "Evaporator",
-      "Compressor",
-      "Thermostatic Expansion Valve",
-      "Capillary Tube"
+      "Decimal 10 (8 + 2)",
+      "Decimal 12",
+      "Decimal 6",
+      "Decimal 14"
     ],
-    "correctAnswer": 1,
-    "explanation": "The compressor draws in low-pressure vapor and discharges high-pressure, superheated vapor to the condenser.",
+    "correctAnswer": 0,
+    "explanation": "Binary 1010 = (1 × 8) + (0 × 4) + (1 × 2) + (0 × 1) = 8 + 2 = 10.",
     "tags": [
       "electronics",
       "semiconductors",
-      "medium",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "medium"
     ],
     "active": true
   },
@@ -3580,22 +3133,19 @@
     "category": "Electronics",
     "subcategory": "Digital Logic",
     "difficulty": "hard",
-    "question": "[Digital Logic #150] What mechanical device in an automotive powertrain disconnects engine power from a manual transmission during gear changes?",
+    "question": "Electronics and circuit engineering: What electronic component resists rapid changes in electrical current through stored magnetic energy? (Ref #150)",
     "options": [
-      "Differential",
-      "Alternator",
-      "Clutch",
-      "Catalytic Converter"
+      "Capacitor",
+      "Inductor (Choke)",
+      "Resistor",
+      "Varistor"
     ],
-    "correctAnswer": 2,
-    "explanation": "The clutch engages and disengages the engine flywheel from the transmission input shaft.",
+    "correctAnswer": 1,
+    "explanation": "Inductors store energy in a magnetic field according to Faraday's law, opposing sudden variations in current.",
     "tags": [
       "electronics",
       "digital-logic",
-      "hard",
-      "engineering",
-      "circuits",
-      "mechanics"
+      "hard"
     ],
     "active": true
   }

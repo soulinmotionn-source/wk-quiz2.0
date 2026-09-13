@@ -23,6 +23,7 @@ export const CategoryDetailPage: React.FC = () => {
 
   const [selectedDifficulty, setSelectedDifficulty] = useState<Difficulty>('mixed');
   const [selectedMode, setSelectedMode] = useState<QuizMode>('classic');
+  const [selectedCount, setSelectedCount] = useState<number>(10);
   const [isPlaying, setIsPlaying] = useState(false);
 
   // Available quizzes matching category
@@ -65,13 +66,13 @@ export const CategoryDetailPage: React.FC = () => {
           /* Active Interactive Quiz Player */
           <div style={{ marginBottom: 'var(--space-3xl)' }}>
             <QuizPlayer
-              key={`cat-${category.id}-${selectedMode}-${selectedDifficulty}`}
-              quizId={`cat-${category.id}-${selectedMode}-${selectedDifficulty}`}
+              key={`cat-${category.id}-${selectedMode}-${selectedDifficulty}-${selectedCount}`}
+              quizId={`cat-${category.id}-${selectedMode}-${selectedDifficulty}-${selectedCount}`}
               quizTitle={`${category.name} ${selectedMode.toUpperCase()} Quiz`}
               category={category.name}
               difficulty={selectedDifficulty}
               mode={selectedMode}
-              count={category.questionCount > 0 ? category.questionCount : 10}
+              count={selectedCount}
               categorySlug={category.slug}
               onExit={() => setIsPlaying(false)}
             />
@@ -217,7 +218,14 @@ export const CategoryDetailPage: React.FC = () => {
                       <button
                         key={mode}
                         type="button"
-                        onClick={() => setSelectedMode(mode)}
+                        onClick={() => {
+                          setSelectedMode(mode);
+                          if (mode === 'classic') setSelectedCount(10);
+                          else if (mode === 'quick') setSelectedCount(5);
+                          else if (mode === 'practice') setSelectedCount(20);
+                          else if (mode === 'timed') setSelectedCount(10);
+                          else if (mode === 'endless') setSelectedCount(category.questionCount > 0 ? category.questionCount : 50);
+                        }}
                         style={{
                           padding: '8px 16px',
                           borderRadius: 'var(--radius-full)',
@@ -232,11 +240,57 @@ export const CategoryDetailPage: React.FC = () => {
                       >
                         {mode === 'classic' && 'Classic (10q)'}
                         {mode === 'quick' && 'Quick (5q)'}
-                        {mode === 'practice' && 'Practice'}
+                        {mode === 'practice' && 'Practice (20q)'}
                         {mode === 'timed' && 'Timed (20s)'}
-                        {mode === 'endless' && 'Endless'}
+                        {mode === 'endless' && 'Endless (All)'}
                       </button>
                     ))}
+                  </div>
+                </div>
+
+                {/* Question Count Selector */}
+                <div>
+                  <label style={{ display: 'block', fontSize: '0.85rem', fontWeight: 700, textTransform: 'uppercase', marginBottom: '8px', color: 'var(--color-text-muted)' }}>
+                    Questions to Play
+                  </label>
+                  <div style={{ display: 'flex', flexWrap: 'wrap', gap: '8px' }}>
+                    {[5, 10, 15, 20, 25].map(cnt => (
+                      <button
+                        key={cnt}
+                        type="button"
+                        onClick={() => setSelectedCount(cnt)}
+                        style={{
+                          padding: '8px 14px',
+                          borderRadius: 'var(--radius-full)',
+                          fontSize: '0.85rem',
+                          fontWeight: 700,
+                          backgroundColor: selectedCount === cnt ? 'var(--color-primary)' : 'var(--color-bg)',
+                          color: selectedCount === cnt ? '#FFFFFF' : 'var(--color-text-primary)',
+                          border: `1.5px solid ${selectedCount === cnt ? 'var(--color-primary)' : 'var(--color-border)'}`,
+                          transition: 'all var(--transition-fast)'
+                        }}
+                      >
+                        {cnt} Qs
+                      </button>
+                    ))}
+                    {category.questionCount > 25 && (
+                      <button
+                        type="button"
+                        onClick={() => setSelectedCount(category.questionCount)}
+                        style={{
+                          padding: '8px 14px',
+                          borderRadius: 'var(--radius-full)',
+                          fontSize: '0.85rem',
+                          fontWeight: 700,
+                          backgroundColor: selectedCount === category.questionCount ? 'var(--color-primary)' : 'var(--color-bg)',
+                          color: selectedCount === category.questionCount ? '#FFFFFF' : 'var(--color-text-primary)',
+                          border: `1.5px solid ${selectedCount === category.questionCount ? 'var(--color-primary)' : 'var(--color-border)'}`,
+                          transition: 'all var(--transition-fast)'
+                        }}
+                      >
+                        All ({category.questionCount})
+                      </button>
+                    )}
                   </div>
                 </div>
 
@@ -274,10 +328,14 @@ export const CategoryDetailPage: React.FC = () => {
                   type="button"
                   onClick={() => setIsPlaying(true)}
                   className="btn btn-primary btn-lg"
-                  style={{ borderRadius: 'var(--radius-full)', padding: '14px 36px' }}
+                  style={{
+                    borderRadius: 'var(--radius-full)',
+                    padding: '14px 36px',
+                    boxShadow: '0 4px 20px rgba(255, 107, 53, 0.4)'
+                  }}
                 >
                   <Play size={18} fill="currentColor" />
-                  <span>Launch {category.name} Quiz</span>
+                  <span>Start Quiz ({selectedCount} Questions)</span>
                 </button>
               </div>
             </div>

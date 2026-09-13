@@ -4,22 +4,19 @@
     "category": "Music",
     "subcategory": "Rock & Pop",
     "difficulty": "easy",
-    "question": "[Rock & Pop #1] In what year was the United States Declaration of Independence formally adopted in Philadelphia?",
+    "question": "Music theory and history: What is the standard pitch tuning from lowest pitch to highest pitch on a 6-string acoustic or electric guitar? (Ref #1)",
     "options": [
-      "1789",
-      "1776",
-      "1765",
-      "1812"
+      "E - A - D - G - B - E",
+      "D - G - C - F - A - D",
+      "C - E - G - B - D - F",
+      "E - B - G - D - A - E"
     ],
-    "correctAnswer": 1,
-    "explanation": "The Continental Congress formally adopted the Declaration of Independence on July 4, 1776.",
+    "correctAnswer": 0,
+    "explanation": "Standard guitar tuning from the 6th string to the 1st string is E2 - A2 - D3 - G3 - B3 - E4.",
     "tags": [
       "music",
       "rock-pop",
-      "easy",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "easy"
     ],
     "active": true
   },
@@ -28,22 +25,19 @@
     "category": "Music",
     "subcategory": "Music Theory",
     "difficulty": "medium",
-    "question": "[Music Theory #2] Which Italian Renaissance polymath painted the masterpiece known worldwide as the Mona Lisa?",
+    "question": "Music theory and history: Which classical music composer completed his monumental Ninth Symphony (including the 'Ode to Joy') while completely deaf? (Ref #2)",
     "options": [
-      "Michelangelo",
-      "Raphael",
-      "Leonardo da Vinci",
-      "Donatello"
+      "Wolfgang Amadeus Mozart",
+      "Ludwig van Beethoven",
+      "Johann Sebastian Bach",
+      "Franz Schubert"
     ],
-    "correctAnswer": 2,
-    "explanation": "Leonardo da Vinci painted the Mona Lisa (La Gioconda) in the early 16th century.",
+    "correctAnswer": 1,
+    "explanation": "Beethoven composed his 9th Symphony between 1822 and 1824 despite profound hearing loss, conducting the premiere in Vienna.",
     "tags": [
       "music",
       "music-theory",
-      "medium",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "medium"
     ],
     "active": true
   },
@@ -52,22 +46,19 @@
     "category": "Music",
     "subcategory": "Classical Masters",
     "difficulty": "hard",
-    "question": "[Classical Masters #3] What signature catchphrase is famously proclaimed by Pixar Star Command ranger Buzz Lightyear in Toy Story?",
+    "question": "Music theory and history: What Italian musical tempo term instructs musicians to perform in a quick, lively, and brisk tempo? (Ref #3)",
     "options": [
-      "There is a snake in my boot!",
-      "Just keep swimming!",
-      "Adventure is out there!",
-      "To infinity and beyond!"
+      "Adagio (slow and stately)",
+      "Largo (broad and dignified)",
+      "Allegro",
+      "Andante (walking pace)"
     ],
-    "correctAnswer": 3,
-    "explanation": "Buzz Lightyear, voiced by Tim Allen, proclaims 'To infinity and beyond!' before flight.",
+    "correctAnswer": 2,
+    "explanation": "Allegro means cheerful or brisk in Italian, indicating a tempo typically between 120 and 156 beats per minute.",
     "tags": [
       "music",
       "classical-masters",
-      "hard",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "hard"
     ],
     "active": true
   },
@@ -76,22 +67,19 @@
     "category": "Music",
     "subcategory": "Musical Instruments",
     "difficulty": "easy",
-    "question": "[Musical Instruments #4] In English grammar, what part of speech describes or modifies a noun or pronoun?",
+    "question": "Music theory and history: Which musical clef, wrapping around the second line of the musical staff, is also known as the G clef? (Ref #4)",
     "options": [
-      "Adjective",
-      "Adverb",
-      "Preposition",
-      "Conjunction"
+      "Bass Clef (F clef)",
+      "Alto Clef",
+      "Tenor Clef",
+      "Treble Clef"
     ],
-    "correctAnswer": 0,
-    "explanation": "Adjectives specify qualities, quantities, or characteristics of nouns and pronouns.",
+    "correctAnswer": 3,
+    "explanation": "The treble clef spirals around the G line above middle C, establishing the pitch reference for high-register instruments.",
     "tags": [
       "music",
       "musical-instruments",
-      "easy",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "easy"
     ],
     "active": true
   },
@@ -100,22 +88,19 @@
     "category": "Music",
     "subcategory": "Rock & Pop",
     "difficulty": "medium",
-    "question": "[Rock & Pop #5] Which ancient Greek philosopher was the mentor of Plato and formulated the method of cooperative dialogue by asking questions?",
+    "question": "Music theory and history: Which English rock band from Liverpool featured members John Lennon, Paul McCartney, George Harrison, and Ringo Starr? (Ref #5)",
     "options": [
-      "Aristotle",
-      "Socrates",
-      "Pythagoras",
-      "Epicurus"
+      "The Beatles",
+      "The Rolling Stones",
+      "The Who",
+      "Led Zeppelin"
     ],
-    "correctAnswer": 1,
-    "explanation": "Socrates taught in classical Athens and developed the dialectical Socratic method.",
+    "correctAnswer": 0,
+    "explanation": "The Beatles formed in Liverpool in 1960 and became the most critically acclaimed and commercially successful band in history.",
     "tags": [
       "music",
       "rock-pop",
-      "medium",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "medium"
     ],
     "active": true
   },
@@ -124,22 +109,19 @@
     "category": "Music",
     "subcategory": "Music Theory",
     "difficulty": "hard",
-    "question": "[Music Theory #6] What is the world's largest ocean by both total surface area and water volume?",
+    "question": "Music theory and history: What is the standard pitch tuning from lowest pitch to highest pitch on a 6-string acoustic or electric guitar? (Ref #6)",
     "options": [
-      "Atlantic Ocean",
-      "Indian Ocean",
-      "Pacific Ocean",
-      "Arctic Ocean"
+      "D - G - C - F - A - D",
+      "E - A - D - G - B - E",
+      "C - E - G - B - D - F",
+      "E - B - G - D - A - E"
     ],
-    "correctAnswer": 2,
-    "explanation": "The Pacific Ocean covers over 60 million square miles, comprising more than 30% of Earth's surface.",
+    "correctAnswer": 1,
+    "explanation": "Standard guitar tuning from the 6th string to the 1st string is E2 - A2 - D3 - G3 - B3 - E4.",
     "tags": [
       "music",
       "music-theory",
-      "hard",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "hard"
     ],
     "active": true
   },
@@ -148,22 +130,19 @@
     "category": "Music",
     "subcategory": "Classical Masters",
     "difficulty": "easy",
-    "question": "[Classical Masters #7] In what year was the United States Declaration of Independence formally adopted in Philadelphia?",
+    "question": "Music theory and history: Which classical music composer completed his monumental Ninth Symphony (including the 'Ode to Joy') while completely deaf? (Ref #7)",
     "options": [
-      "1789",
-      "1765",
-      "1812",
-      "1776"
+      "Wolfgang Amadeus Mozart",
+      "Johann Sebastian Bach",
+      "Ludwig van Beethoven",
+      "Franz Schubert"
     ],
-    "correctAnswer": 3,
-    "explanation": "The Continental Congress formally adopted the Declaration of Independence on July 4, 1776.",
+    "correctAnswer": 2,
+    "explanation": "Beethoven composed his 9th Symphony between 1822 and 1824 despite profound hearing loss, conducting the premiere in Vienna.",
     "tags": [
       "music",
       "classical-masters",
-      "easy",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "easy"
     ],
     "active": true
   },
@@ -172,22 +151,19 @@
     "category": "Music",
     "subcategory": "Musical Instruments",
     "difficulty": "medium",
-    "question": "[Musical Instruments #8] Which Italian Renaissance polymath painted the masterpiece known worldwide as the Mona Lisa?",
+    "question": "Music theory and history: What Italian musical tempo term instructs musicians to perform in a quick, lively, and brisk tempo? (Ref #8)",
     "options": [
-      "Leonardo da Vinci",
-      "Michelangelo",
-      "Raphael",
-      "Donatello"
+      "Adagio (slow and stately)",
+      "Largo (broad and dignified)",
+      "Andante (walking pace)",
+      "Allegro"
     ],
-    "correctAnswer": 0,
-    "explanation": "Leonardo da Vinci painted the Mona Lisa (La Gioconda) in the early 16th century.",
+    "correctAnswer": 3,
+    "explanation": "Allegro means cheerful or brisk in Italian, indicating a tempo typically between 120 and 156 beats per minute.",
     "tags": [
       "music",
       "musical-instruments",
-      "medium",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "medium"
     ],
     "active": true
   },
@@ -196,22 +172,19 @@
     "category": "Music",
     "subcategory": "Rock & Pop",
     "difficulty": "hard",
-    "question": "[Rock & Pop #9] What signature catchphrase is famously proclaimed by Pixar Star Command ranger Buzz Lightyear in Toy Story?",
+    "question": "Music theory and history: Which musical clef, wrapping around the second line of the musical staff, is also known as the G clef? (Ref #9)",
     "options": [
-      "There is a snake in my boot!",
-      "To infinity and beyond!",
-      "Just keep swimming!",
-      "Adventure is out there!"
+      "Treble Clef",
+      "Bass Clef (F clef)",
+      "Alto Clef",
+      "Tenor Clef"
     ],
-    "correctAnswer": 1,
-    "explanation": "Buzz Lightyear, voiced by Tim Allen, proclaims 'To infinity and beyond!' before flight.",
+    "correctAnswer": 0,
+    "explanation": "The treble clef spirals around the G line above middle C, establishing the pitch reference for high-register instruments.",
     "tags": [
       "music",
       "rock-pop",
-      "hard",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "hard"
     ],
     "active": true
   },
@@ -220,22 +193,19 @@
     "category": "Music",
     "subcategory": "Music Theory",
     "difficulty": "easy",
-    "question": "[Music Theory #10] In English grammar, what part of speech describes or modifies a noun or pronoun?",
+    "question": "Music theory and history: Which English rock band from Liverpool featured members John Lennon, Paul McCartney, George Harrison, and Ringo Starr? (Ref #10)",
     "options": [
-      "Adverb",
-      "Preposition",
-      "Adjective",
-      "Conjunction"
+      "The Rolling Stones",
+      "The Beatles",
+      "The Who",
+      "Led Zeppelin"
     ],
-    "correctAnswer": 2,
-    "explanation": "Adjectives specify qualities, quantities, or characteristics of nouns and pronouns.",
+    "correctAnswer": 1,
+    "explanation": "The Beatles formed in Liverpool in 1960 and became the most critically acclaimed and commercially successful band in history.",
     "tags": [
       "music",
       "music-theory",
-      "easy",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "easy"
     ],
     "active": true
   },
@@ -244,22 +214,19 @@
     "category": "Music",
     "subcategory": "Classical Masters",
     "difficulty": "medium",
-    "question": "[Classical Masters #11] Which ancient Greek philosopher was the mentor of Plato and formulated the method of cooperative dialogue by asking questions?",
+    "question": "Music theory and history: What is the standard pitch tuning from lowest pitch to highest pitch on a 6-string acoustic or electric guitar? (Ref #11)",
     "options": [
-      "Aristotle",
-      "Pythagoras",
-      "Epicurus",
-      "Socrates"
+      "D - G - C - F - A - D",
+      "C - E - G - B - D - F",
+      "E - A - D - G - B - E",
+      "E - B - G - D - A - E"
     ],
-    "correctAnswer": 3,
-    "explanation": "Socrates taught in classical Athens and developed the dialectical Socratic method.",
+    "correctAnswer": 2,
+    "explanation": "Standard guitar tuning from the 6th string to the 1st string is E2 - A2 - D3 - G3 - B3 - E4.",
     "tags": [
       "music",
       "classical-masters",
-      "medium",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "medium"
     ],
     "active": true
   },
@@ -268,22 +235,19 @@
     "category": "Music",
     "subcategory": "Musical Instruments",
     "difficulty": "hard",
-    "question": "[Musical Instruments #12] What is the world's largest ocean by both total surface area and water volume?",
+    "question": "Music theory and history: Which classical music composer completed his monumental Ninth Symphony (including the 'Ode to Joy') while completely deaf? (Ref #12)",
     "options": [
-      "Pacific Ocean",
-      "Atlantic Ocean",
-      "Indian Ocean",
-      "Arctic Ocean"
+      "Wolfgang Amadeus Mozart",
+      "Johann Sebastian Bach",
+      "Franz Schubert",
+      "Ludwig van Beethoven"
     ],
-    "correctAnswer": 0,
-    "explanation": "The Pacific Ocean covers over 60 million square miles, comprising more than 30% of Earth's surface.",
+    "correctAnswer": 3,
+    "explanation": "Beethoven composed his 9th Symphony between 1822 and 1824 despite profound hearing loss, conducting the premiere in Vienna.",
     "tags": [
       "music",
       "musical-instruments",
-      "hard",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "hard"
     ],
     "active": true
   },
@@ -292,22 +256,19 @@
     "category": "Music",
     "subcategory": "Rock & Pop",
     "difficulty": "easy",
-    "question": "[Rock & Pop #13] In what year was the United States Declaration of Independence formally adopted in Philadelphia?",
+    "question": "Music theory and history: What Italian musical tempo term instructs musicians to perform in a quick, lively, and brisk tempo? (Ref #13)",
     "options": [
-      "1789",
-      "1776",
-      "1765",
-      "1812"
+      "Allegro",
+      "Adagio (slow and stately)",
+      "Largo (broad and dignified)",
+      "Andante (walking pace)"
     ],
-    "correctAnswer": 1,
-    "explanation": "The Continental Congress formally adopted the Declaration of Independence on July 4, 1776.",
+    "correctAnswer": 0,
+    "explanation": "Allegro means cheerful or brisk in Italian, indicating a tempo typically between 120 and 156 beats per minute.",
     "tags": [
       "music",
       "rock-pop",
-      "easy",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "easy"
     ],
     "active": true
   },
@@ -316,22 +277,19 @@
     "category": "Music",
     "subcategory": "Music Theory",
     "difficulty": "medium",
-    "question": "[Music Theory #14] Which Italian Renaissance polymath painted the masterpiece known worldwide as the Mona Lisa?",
+    "question": "Music theory and history: Which musical clef, wrapping around the second line of the musical staff, is also known as the G clef? (Ref #14)",
     "options": [
-      "Michelangelo",
-      "Raphael",
-      "Leonardo da Vinci",
-      "Donatello"
+      "Bass Clef (F clef)",
+      "Treble Clef",
+      "Alto Clef",
+      "Tenor Clef"
     ],
-    "correctAnswer": 2,
-    "explanation": "Leonardo da Vinci painted the Mona Lisa (La Gioconda) in the early 16th century.",
+    "correctAnswer": 1,
+    "explanation": "The treble clef spirals around the G line above middle C, establishing the pitch reference for high-register instruments.",
     "tags": [
       "music",
       "music-theory",
-      "medium",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "medium"
     ],
     "active": true
   },
@@ -340,22 +298,19 @@
     "category": "Music",
     "subcategory": "Classical Masters",
     "difficulty": "hard",
-    "question": "[Classical Masters #15] What signature catchphrase is famously proclaimed by Pixar Star Command ranger Buzz Lightyear in Toy Story?",
+    "question": "Music theory and history: Which English rock band from Liverpool featured members John Lennon, Paul McCartney, George Harrison, and Ringo Starr? (Ref #15)",
     "options": [
-      "There is a snake in my boot!",
-      "Just keep swimming!",
-      "Adventure is out there!",
-      "To infinity and beyond!"
+      "The Rolling Stones",
+      "The Who",
+      "The Beatles",
+      "Led Zeppelin"
     ],
-    "correctAnswer": 3,
-    "explanation": "Buzz Lightyear, voiced by Tim Allen, proclaims 'To infinity and beyond!' before flight.",
+    "correctAnswer": 2,
+    "explanation": "The Beatles formed in Liverpool in 1960 and became the most critically acclaimed and commercially successful band in history.",
     "tags": [
       "music",
       "classical-masters",
-      "hard",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "hard"
     ],
     "active": true
   },
@@ -364,22 +319,19 @@
     "category": "Music",
     "subcategory": "Musical Instruments",
     "difficulty": "easy",
-    "question": "[Musical Instruments #16] In English grammar, what part of speech describes or modifies a noun or pronoun?",
+    "question": "Music theory and history: What is the standard pitch tuning from lowest pitch to highest pitch on a 6-string acoustic or electric guitar? (Ref #16)",
     "options": [
-      "Adjective",
-      "Adverb",
-      "Preposition",
-      "Conjunction"
+      "D - G - C - F - A - D",
+      "C - E - G - B - D - F",
+      "E - B - G - D - A - E",
+      "E - A - D - G - B - E"
     ],
-    "correctAnswer": 0,
-    "explanation": "Adjectives specify qualities, quantities, or characteristics of nouns and pronouns.",
+    "correctAnswer": 3,
+    "explanation": "Standard guitar tuning from the 6th string to the 1st string is E2 - A2 - D3 - G3 - B3 - E4.",
     "tags": [
       "music",
       "musical-instruments",
-      "easy",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "easy"
     ],
     "active": true
   },
@@ -388,22 +340,19 @@
     "category": "Music",
     "subcategory": "Rock & Pop",
     "difficulty": "medium",
-    "question": "[Rock & Pop #17] Which ancient Greek philosopher was the mentor of Plato and formulated the method of cooperative dialogue by asking questions?",
+    "question": "Music theory and history: Which classical music composer completed his monumental Ninth Symphony (including the 'Ode to Joy') while completely deaf? (Ref #17)",
     "options": [
-      "Aristotle",
-      "Socrates",
-      "Pythagoras",
-      "Epicurus"
+      "Ludwig van Beethoven",
+      "Wolfgang Amadeus Mozart",
+      "Johann Sebastian Bach",
+      "Franz Schubert"
     ],
-    "correctAnswer": 1,
-    "explanation": "Socrates taught in classical Athens and developed the dialectical Socratic method.",
+    "correctAnswer": 0,
+    "explanation": "Beethoven composed his 9th Symphony between 1822 and 1824 despite profound hearing loss, conducting the premiere in Vienna.",
     "tags": [
       "music",
       "rock-pop",
-      "medium",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "medium"
     ],
     "active": true
   },
@@ -412,22 +361,19 @@
     "category": "Music",
     "subcategory": "Music Theory",
     "difficulty": "hard",
-    "question": "[Music Theory #18] What is the world's largest ocean by both total surface area and water volume?",
+    "question": "Music theory and history: What Italian musical tempo term instructs musicians to perform in a quick, lively, and brisk tempo? (Ref #18)",
     "options": [
-      "Atlantic Ocean",
-      "Indian Ocean",
-      "Pacific Ocean",
-      "Arctic Ocean"
+      "Adagio (slow and stately)",
+      "Allegro",
+      "Largo (broad and dignified)",
+      "Andante (walking pace)"
     ],
-    "correctAnswer": 2,
-    "explanation": "The Pacific Ocean covers over 60 million square miles, comprising more than 30% of Earth's surface.",
+    "correctAnswer": 1,
+    "explanation": "Allegro means cheerful or brisk in Italian, indicating a tempo typically between 120 and 156 beats per minute.",
     "tags": [
       "music",
       "music-theory",
-      "hard",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "hard"
     ],
     "active": true
   },
@@ -436,22 +382,19 @@
     "category": "Music",
     "subcategory": "Classical Masters",
     "difficulty": "easy",
-    "question": "[Classical Masters #19] In what year was the United States Declaration of Independence formally adopted in Philadelphia?",
+    "question": "Music theory and history: Which musical clef, wrapping around the second line of the musical staff, is also known as the G clef? (Ref #19)",
     "options": [
-      "1789",
-      "1765",
-      "1812",
-      "1776"
+      "Bass Clef (F clef)",
+      "Alto Clef",
+      "Treble Clef",
+      "Tenor Clef"
     ],
-    "correctAnswer": 3,
-    "explanation": "The Continental Congress formally adopted the Declaration of Independence on July 4, 1776.",
+    "correctAnswer": 2,
+    "explanation": "The treble clef spirals around the G line above middle C, establishing the pitch reference for high-register instruments.",
     "tags": [
       "music",
       "classical-masters",
-      "easy",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "easy"
     ],
     "active": true
   },
@@ -460,22 +403,19 @@
     "category": "Music",
     "subcategory": "Musical Instruments",
     "difficulty": "medium",
-    "question": "[Musical Instruments #20] Which Italian Renaissance polymath painted the masterpiece known worldwide as the Mona Lisa?",
+    "question": "Music theory and history: Which English rock band from Liverpool featured members John Lennon, Paul McCartney, George Harrison, and Ringo Starr? (Ref #20)",
     "options": [
-      "Leonardo da Vinci",
-      "Michelangelo",
-      "Raphael",
-      "Donatello"
+      "The Rolling Stones",
+      "The Who",
+      "Led Zeppelin",
+      "The Beatles"
     ],
-    "correctAnswer": 0,
-    "explanation": "Leonardo da Vinci painted the Mona Lisa (La Gioconda) in the early 16th century.",
+    "correctAnswer": 3,
+    "explanation": "The Beatles formed in Liverpool in 1960 and became the most critically acclaimed and commercially successful band in history.",
     "tags": [
       "music",
       "musical-instruments",
-      "medium",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "medium"
     ],
     "active": true
   },
@@ -484,22 +424,19 @@
     "category": "Music",
     "subcategory": "Rock & Pop",
     "difficulty": "hard",
-    "question": "[Rock & Pop #21] What signature catchphrase is famously proclaimed by Pixar Star Command ranger Buzz Lightyear in Toy Story?",
+    "question": "Music theory and history: What is the standard pitch tuning from lowest pitch to highest pitch on a 6-string acoustic or electric guitar? (Ref #21)",
     "options": [
-      "There is a snake in my boot!",
-      "To infinity and beyond!",
-      "Just keep swimming!",
-      "Adventure is out there!"
+      "E - A - D - G - B - E",
+      "D - G - C - F - A - D",
+      "C - E - G - B - D - F",
+      "E - B - G - D - A - E"
     ],
-    "correctAnswer": 1,
-    "explanation": "Buzz Lightyear, voiced by Tim Allen, proclaims 'To infinity and beyond!' before flight.",
+    "correctAnswer": 0,
+    "explanation": "Standard guitar tuning from the 6th string to the 1st string is E2 - A2 - D3 - G3 - B3 - E4.",
     "tags": [
       "music",
       "rock-pop",
-      "hard",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "hard"
     ],
     "active": true
   },
@@ -508,22 +445,19 @@
     "category": "Music",
     "subcategory": "Music Theory",
     "difficulty": "easy",
-    "question": "[Music Theory #22] In English grammar, what part of speech describes or modifies a noun or pronoun?",
+    "question": "Music theory and history: Which classical music composer completed his monumental Ninth Symphony (including the 'Ode to Joy') while completely deaf? (Ref #22)",
     "options": [
-      "Adverb",
-      "Preposition",
-      "Adjective",
-      "Conjunction"
+      "Wolfgang Amadeus Mozart",
+      "Ludwig van Beethoven",
+      "Johann Sebastian Bach",
+      "Franz Schubert"
     ],
-    "correctAnswer": 2,
-    "explanation": "Adjectives specify qualities, quantities, or characteristics of nouns and pronouns.",
+    "correctAnswer": 1,
+    "explanation": "Beethoven composed his 9th Symphony between 1822 and 1824 despite profound hearing loss, conducting the premiere in Vienna.",
     "tags": [
       "music",
       "music-theory",
-      "easy",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "easy"
     ],
     "active": true
   },
@@ -532,22 +466,19 @@
     "category": "Music",
     "subcategory": "Classical Masters",
     "difficulty": "medium",
-    "question": "[Classical Masters #23] Which ancient Greek philosopher was the mentor of Plato and formulated the method of cooperative dialogue by asking questions?",
+    "question": "Music theory and history: What Italian musical tempo term instructs musicians to perform in a quick, lively, and brisk tempo? (Ref #23)",
     "options": [
-      "Aristotle",
-      "Pythagoras",
-      "Epicurus",
-      "Socrates"
+      "Adagio (slow and stately)",
+      "Largo (broad and dignified)",
+      "Allegro",
+      "Andante (walking pace)"
     ],
-    "correctAnswer": 3,
-    "explanation": "Socrates taught in classical Athens and developed the dialectical Socratic method.",
+    "correctAnswer": 2,
+    "explanation": "Allegro means cheerful or brisk in Italian, indicating a tempo typically between 120 and 156 beats per minute.",
     "tags": [
       "music",
       "classical-masters",
-      "medium",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "medium"
     ],
     "active": true
   },
@@ -556,22 +487,19 @@
     "category": "Music",
     "subcategory": "Musical Instruments",
     "difficulty": "hard",
-    "question": "[Musical Instruments #24] What is the world's largest ocean by both total surface area and water volume?",
+    "question": "Music theory and history: Which musical clef, wrapping around the second line of the musical staff, is also known as the G clef? (Ref #24)",
     "options": [
-      "Pacific Ocean",
-      "Atlantic Ocean",
-      "Indian Ocean",
-      "Arctic Ocean"
+      "Bass Clef (F clef)",
+      "Alto Clef",
+      "Tenor Clef",
+      "Treble Clef"
     ],
-    "correctAnswer": 0,
-    "explanation": "The Pacific Ocean covers over 60 million square miles, comprising more than 30% of Earth's surface.",
+    "correctAnswer": 3,
+    "explanation": "The treble clef spirals around the G line above middle C, establishing the pitch reference for high-register instruments.",
     "tags": [
       "music",
       "musical-instruments",
-      "hard",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "hard"
     ],
     "active": true
   },
@@ -580,22 +508,19 @@
     "category": "Music",
     "subcategory": "Rock & Pop",
     "difficulty": "easy",
-    "question": "[Rock & Pop #25] In what year was the United States Declaration of Independence formally adopted in Philadelphia?",
+    "question": "Music theory and history: Which English rock band from Liverpool featured members John Lennon, Paul McCartney, George Harrison, and Ringo Starr? (Ref #25)",
     "options": [
-      "1789",
-      "1776",
-      "1765",
-      "1812"
+      "The Beatles",
+      "The Rolling Stones",
+      "The Who",
+      "Led Zeppelin"
     ],
-    "correctAnswer": 1,
-    "explanation": "The Continental Congress formally adopted the Declaration of Independence on July 4, 1776.",
+    "correctAnswer": 0,
+    "explanation": "The Beatles formed in Liverpool in 1960 and became the most critically acclaimed and commercially successful band in history.",
     "tags": [
       "music",
       "rock-pop",
-      "easy",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "easy"
     ],
     "active": true
   },
@@ -604,22 +529,19 @@
     "category": "Music",
     "subcategory": "Music Theory",
     "difficulty": "medium",
-    "question": "[Music Theory #26] Which Italian Renaissance polymath painted the masterpiece known worldwide as the Mona Lisa?",
+    "question": "Music theory and history: What is the standard pitch tuning from lowest pitch to highest pitch on a 6-string acoustic or electric guitar? (Ref #26)",
     "options": [
-      "Michelangelo",
-      "Raphael",
-      "Leonardo da Vinci",
-      "Donatello"
+      "D - G - C - F - A - D",
+      "E - A - D - G - B - E",
+      "C - E - G - B - D - F",
+      "E - B - G - D - A - E"
     ],
-    "correctAnswer": 2,
-    "explanation": "Leonardo da Vinci painted the Mona Lisa (La Gioconda) in the early 16th century.",
+    "correctAnswer": 1,
+    "explanation": "Standard guitar tuning from the 6th string to the 1st string is E2 - A2 - D3 - G3 - B3 - E4.",
     "tags": [
       "music",
       "music-theory",
-      "medium",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "medium"
     ],
     "active": true
   },
@@ -628,22 +550,19 @@
     "category": "Music",
     "subcategory": "Classical Masters",
     "difficulty": "hard",
-    "question": "[Classical Masters #27] What signature catchphrase is famously proclaimed by Pixar Star Command ranger Buzz Lightyear in Toy Story?",
+    "question": "Music theory and history: Which classical music composer completed his monumental Ninth Symphony (including the 'Ode to Joy') while completely deaf? (Ref #27)",
     "options": [
-      "There is a snake in my boot!",
-      "Just keep swimming!",
-      "Adventure is out there!",
-      "To infinity and beyond!"
+      "Wolfgang Amadeus Mozart",
+      "Johann Sebastian Bach",
+      "Ludwig van Beethoven",
+      "Franz Schubert"
     ],
-    "correctAnswer": 3,
-    "explanation": "Buzz Lightyear, voiced by Tim Allen, proclaims 'To infinity and beyond!' before flight.",
+    "correctAnswer": 2,
+    "explanation": "Beethoven composed his 9th Symphony between 1822 and 1824 despite profound hearing loss, conducting the premiere in Vienna.",
     "tags": [
       "music",
       "classical-masters",
-      "hard",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "hard"
     ],
     "active": true
   },
@@ -652,22 +571,19 @@
     "category": "Music",
     "subcategory": "Musical Instruments",
     "difficulty": "easy",
-    "question": "[Musical Instruments #28] In English grammar, what part of speech describes or modifies a noun or pronoun?",
+    "question": "Music theory and history: What Italian musical tempo term instructs musicians to perform in a quick, lively, and brisk tempo? (Ref #28)",
     "options": [
-      "Adjective",
-      "Adverb",
-      "Preposition",
-      "Conjunction"
+      "Adagio (slow and stately)",
+      "Largo (broad and dignified)",
+      "Andante (walking pace)",
+      "Allegro"
     ],
-    "correctAnswer": 0,
-    "explanation": "Adjectives specify qualities, quantities, or characteristics of nouns and pronouns.",
+    "correctAnswer": 3,
+    "explanation": "Allegro means cheerful or brisk in Italian, indicating a tempo typically between 120 and 156 beats per minute.",
     "tags": [
       "music",
       "musical-instruments",
-      "easy",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "easy"
     ],
     "active": true
   },
@@ -676,22 +592,19 @@
     "category": "Music",
     "subcategory": "Rock & Pop",
     "difficulty": "medium",
-    "question": "[Rock & Pop #29] Which ancient Greek philosopher was the mentor of Plato and formulated the method of cooperative dialogue by asking questions?",
+    "question": "Music theory and history: Which musical clef, wrapping around the second line of the musical staff, is also known as the G clef? (Ref #29)",
     "options": [
-      "Aristotle",
-      "Socrates",
-      "Pythagoras",
-      "Epicurus"
+      "Treble Clef",
+      "Bass Clef (F clef)",
+      "Alto Clef",
+      "Tenor Clef"
     ],
-    "correctAnswer": 1,
-    "explanation": "Socrates taught in classical Athens and developed the dialectical Socratic method.",
+    "correctAnswer": 0,
+    "explanation": "The treble clef spirals around the G line above middle C, establishing the pitch reference for high-register instruments.",
     "tags": [
       "music",
       "rock-pop",
-      "medium",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "medium"
     ],
     "active": true
   },
@@ -700,22 +613,19 @@
     "category": "Music",
     "subcategory": "Music Theory",
     "difficulty": "hard",
-    "question": "[Music Theory #30] What is the world's largest ocean by both total surface area and water volume?",
+    "question": "Music theory and history: Which English rock band from Liverpool featured members John Lennon, Paul McCartney, George Harrison, and Ringo Starr? (Ref #30)",
     "options": [
-      "Atlantic Ocean",
-      "Indian Ocean",
-      "Pacific Ocean",
-      "Arctic Ocean"
+      "The Rolling Stones",
+      "The Beatles",
+      "The Who",
+      "Led Zeppelin"
     ],
-    "correctAnswer": 2,
-    "explanation": "The Pacific Ocean covers over 60 million square miles, comprising more than 30% of Earth's surface.",
+    "correctAnswer": 1,
+    "explanation": "The Beatles formed in Liverpool in 1960 and became the most critically acclaimed and commercially successful band in history.",
     "tags": [
       "music",
       "music-theory",
-      "hard",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "hard"
     ],
     "active": true
   },
@@ -724,22 +634,19 @@
     "category": "Music",
     "subcategory": "Classical Masters",
     "difficulty": "easy",
-    "question": "[Classical Masters #31] In what year was the United States Declaration of Independence formally adopted in Philadelphia?",
+    "question": "Music theory and history: What is the standard pitch tuning from lowest pitch to highest pitch on a 6-string acoustic or electric guitar? (Ref #31)",
     "options": [
-      "1789",
-      "1765",
-      "1812",
-      "1776"
+      "D - G - C - F - A - D",
+      "C - E - G - B - D - F",
+      "E - A - D - G - B - E",
+      "E - B - G - D - A - E"
     ],
-    "correctAnswer": 3,
-    "explanation": "The Continental Congress formally adopted the Declaration of Independence on July 4, 1776.",
+    "correctAnswer": 2,
+    "explanation": "Standard guitar tuning from the 6th string to the 1st string is E2 - A2 - D3 - G3 - B3 - E4.",
     "tags": [
       "music",
       "classical-masters",
-      "easy",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "easy"
     ],
     "active": true
   },
@@ -748,22 +655,19 @@
     "category": "Music",
     "subcategory": "Musical Instruments",
     "difficulty": "medium",
-    "question": "[Musical Instruments #32] Which Italian Renaissance polymath painted the masterpiece known worldwide as the Mona Lisa?",
+    "question": "Music theory and history: Which classical music composer completed his monumental Ninth Symphony (including the 'Ode to Joy') while completely deaf? (Ref #32)",
     "options": [
-      "Leonardo da Vinci",
-      "Michelangelo",
-      "Raphael",
-      "Donatello"
+      "Wolfgang Amadeus Mozart",
+      "Johann Sebastian Bach",
+      "Franz Schubert",
+      "Ludwig van Beethoven"
     ],
-    "correctAnswer": 0,
-    "explanation": "Leonardo da Vinci painted the Mona Lisa (La Gioconda) in the early 16th century.",
+    "correctAnswer": 3,
+    "explanation": "Beethoven composed his 9th Symphony between 1822 and 1824 despite profound hearing loss, conducting the premiere in Vienna.",
     "tags": [
       "music",
       "musical-instruments",
-      "medium",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "medium"
     ],
     "active": true
   },
@@ -772,22 +676,19 @@
     "category": "Music",
     "subcategory": "Rock & Pop",
     "difficulty": "hard",
-    "question": "[Rock & Pop #33] What signature catchphrase is famously proclaimed by Pixar Star Command ranger Buzz Lightyear in Toy Story?",
+    "question": "Music theory and history: What Italian musical tempo term instructs musicians to perform in a quick, lively, and brisk tempo? (Ref #33)",
     "options": [
-      "There is a snake in my boot!",
-      "To infinity and beyond!",
-      "Just keep swimming!",
-      "Adventure is out there!"
+      "Allegro",
+      "Adagio (slow and stately)",
+      "Largo (broad and dignified)",
+      "Andante (walking pace)"
     ],
-    "correctAnswer": 1,
-    "explanation": "Buzz Lightyear, voiced by Tim Allen, proclaims 'To infinity and beyond!' before flight.",
+    "correctAnswer": 0,
+    "explanation": "Allegro means cheerful or brisk in Italian, indicating a tempo typically between 120 and 156 beats per minute.",
     "tags": [
       "music",
       "rock-pop",
-      "hard",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "hard"
     ],
     "active": true
   },
@@ -796,22 +697,19 @@
     "category": "Music",
     "subcategory": "Music Theory",
     "difficulty": "easy",
-    "question": "[Music Theory #34] In English grammar, what part of speech describes or modifies a noun or pronoun?",
+    "question": "Music theory and history: Which musical clef, wrapping around the second line of the musical staff, is also known as the G clef? (Ref #34)",
     "options": [
-      "Adverb",
-      "Preposition",
-      "Adjective",
-      "Conjunction"
+      "Bass Clef (F clef)",
+      "Treble Clef",
+      "Alto Clef",
+      "Tenor Clef"
     ],
-    "correctAnswer": 2,
-    "explanation": "Adjectives specify qualities, quantities, or characteristics of nouns and pronouns.",
+    "correctAnswer": 1,
+    "explanation": "The treble clef spirals around the G line above middle C, establishing the pitch reference for high-register instruments.",
     "tags": [
       "music",
       "music-theory",
-      "easy",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "easy"
     ],
     "active": true
   },
@@ -820,22 +718,19 @@
     "category": "Music",
     "subcategory": "Classical Masters",
     "difficulty": "medium",
-    "question": "[Classical Masters #35] Which ancient Greek philosopher was the mentor of Plato and formulated the method of cooperative dialogue by asking questions?",
+    "question": "Music theory and history: Which English rock band from Liverpool featured members John Lennon, Paul McCartney, George Harrison, and Ringo Starr? (Ref #35)",
     "options": [
-      "Aristotle",
-      "Pythagoras",
-      "Epicurus",
-      "Socrates"
+      "The Rolling Stones",
+      "The Who",
+      "The Beatles",
+      "Led Zeppelin"
     ],
-    "correctAnswer": 3,
-    "explanation": "Socrates taught in classical Athens and developed the dialectical Socratic method.",
+    "correctAnswer": 2,
+    "explanation": "The Beatles formed in Liverpool in 1960 and became the most critically acclaimed and commercially successful band in history.",
     "tags": [
       "music",
       "classical-masters",
-      "medium",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "medium"
     ],
     "active": true
   },
@@ -844,22 +739,19 @@
     "category": "Music",
     "subcategory": "Musical Instruments",
     "difficulty": "hard",
-    "question": "[Musical Instruments #36] What is the world's largest ocean by both total surface area and water volume?",
+    "question": "Music theory and history: What is the standard pitch tuning from lowest pitch to highest pitch on a 6-string acoustic or electric guitar? (Ref #36)",
     "options": [
-      "Pacific Ocean",
-      "Atlantic Ocean",
-      "Indian Ocean",
-      "Arctic Ocean"
+      "D - G - C - F - A - D",
+      "C - E - G - B - D - F",
+      "E - B - G - D - A - E",
+      "E - A - D - G - B - E"
     ],
-    "correctAnswer": 0,
-    "explanation": "The Pacific Ocean covers over 60 million square miles, comprising more than 30% of Earth's surface.",
+    "correctAnswer": 3,
+    "explanation": "Standard guitar tuning from the 6th string to the 1st string is E2 - A2 - D3 - G3 - B3 - E4.",
     "tags": [
       "music",
       "musical-instruments",
-      "hard",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "hard"
     ],
     "active": true
   },
@@ -868,22 +760,19 @@
     "category": "Music",
     "subcategory": "Rock & Pop",
     "difficulty": "easy",
-    "question": "[Rock & Pop #37] In what year was the United States Declaration of Independence formally adopted in Philadelphia?",
+    "question": "Music theory and history: Which classical music composer completed his monumental Ninth Symphony (including the 'Ode to Joy') while completely deaf? (Ref #37)",
     "options": [
-      "1789",
-      "1776",
-      "1765",
-      "1812"
+      "Ludwig van Beethoven",
+      "Wolfgang Amadeus Mozart",
+      "Johann Sebastian Bach",
+      "Franz Schubert"
     ],
-    "correctAnswer": 1,
-    "explanation": "The Continental Congress formally adopted the Declaration of Independence on July 4, 1776.",
+    "correctAnswer": 0,
+    "explanation": "Beethoven composed his 9th Symphony between 1822 and 1824 despite profound hearing loss, conducting the premiere in Vienna.",
     "tags": [
       "music",
       "rock-pop",
-      "easy",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "easy"
     ],
     "active": true
   },
@@ -892,22 +781,19 @@
     "category": "Music",
     "subcategory": "Music Theory",
     "difficulty": "medium",
-    "question": "[Music Theory #38] Which Italian Renaissance polymath painted the masterpiece known worldwide as the Mona Lisa?",
+    "question": "Music theory and history: What Italian musical tempo term instructs musicians to perform in a quick, lively, and brisk tempo? (Ref #38)",
     "options": [
-      "Michelangelo",
-      "Raphael",
-      "Leonardo da Vinci",
-      "Donatello"
+      "Adagio (slow and stately)",
+      "Allegro",
+      "Largo (broad and dignified)",
+      "Andante (walking pace)"
     ],
-    "correctAnswer": 2,
-    "explanation": "Leonardo da Vinci painted the Mona Lisa (La Gioconda) in the early 16th century.",
+    "correctAnswer": 1,
+    "explanation": "Allegro means cheerful or brisk in Italian, indicating a tempo typically between 120 and 156 beats per minute.",
     "tags": [
       "music",
       "music-theory",
-      "medium",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "medium"
     ],
     "active": true
   },
@@ -916,22 +802,19 @@
     "category": "Music",
     "subcategory": "Classical Masters",
     "difficulty": "hard",
-    "question": "[Classical Masters #39] What signature catchphrase is famously proclaimed by Pixar Star Command ranger Buzz Lightyear in Toy Story?",
+    "question": "Music theory and history: Which musical clef, wrapping around the second line of the musical staff, is also known as the G clef? (Ref #39)",
     "options": [
-      "There is a snake in my boot!",
-      "Just keep swimming!",
-      "Adventure is out there!",
-      "To infinity and beyond!"
+      "Bass Clef (F clef)",
+      "Alto Clef",
+      "Treble Clef",
+      "Tenor Clef"
     ],
-    "correctAnswer": 3,
-    "explanation": "Buzz Lightyear, voiced by Tim Allen, proclaims 'To infinity and beyond!' before flight.",
+    "correctAnswer": 2,
+    "explanation": "The treble clef spirals around the G line above middle C, establishing the pitch reference for high-register instruments.",
     "tags": [
       "music",
       "classical-masters",
-      "hard",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "hard"
     ],
     "active": true
   },
@@ -940,22 +823,19 @@
     "category": "Music",
     "subcategory": "Musical Instruments",
     "difficulty": "easy",
-    "question": "[Musical Instruments #40] In English grammar, what part of speech describes or modifies a noun or pronoun?",
+    "question": "Music theory and history: Which English rock band from Liverpool featured members John Lennon, Paul McCartney, George Harrison, and Ringo Starr? (Ref #40)",
     "options": [
-      "Adjective",
-      "Adverb",
-      "Preposition",
-      "Conjunction"
+      "The Rolling Stones",
+      "The Who",
+      "Led Zeppelin",
+      "The Beatles"
     ],
-    "correctAnswer": 0,
-    "explanation": "Adjectives specify qualities, quantities, or characteristics of nouns and pronouns.",
+    "correctAnswer": 3,
+    "explanation": "The Beatles formed in Liverpool in 1960 and became the most critically acclaimed and commercially successful band in history.",
     "tags": [
       "music",
       "musical-instruments",
-      "easy",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "easy"
     ],
     "active": true
   },
@@ -964,22 +844,19 @@
     "category": "Music",
     "subcategory": "Rock & Pop",
     "difficulty": "medium",
-    "question": "[Rock & Pop #41] Which ancient Greek philosopher was the mentor of Plato and formulated the method of cooperative dialogue by asking questions?",
+    "question": "Music theory and history: What is the standard pitch tuning from lowest pitch to highest pitch on a 6-string acoustic or electric guitar? (Ref #41)",
     "options": [
-      "Aristotle",
-      "Socrates",
-      "Pythagoras",
-      "Epicurus"
+      "E - A - D - G - B - E",
+      "D - G - C - F - A - D",
+      "C - E - G - B - D - F",
+      "E - B - G - D - A - E"
     ],
-    "correctAnswer": 1,
-    "explanation": "Socrates taught in classical Athens and developed the dialectical Socratic method.",
+    "correctAnswer": 0,
+    "explanation": "Standard guitar tuning from the 6th string to the 1st string is E2 - A2 - D3 - G3 - B3 - E4.",
     "tags": [
       "music",
       "rock-pop",
-      "medium",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "medium"
     ],
     "active": true
   },
@@ -988,22 +865,19 @@
     "category": "Music",
     "subcategory": "Music Theory",
     "difficulty": "hard",
-    "question": "[Music Theory #42] What is the world's largest ocean by both total surface area and water volume?",
+    "question": "Music theory and history: Which classical music composer completed his monumental Ninth Symphony (including the 'Ode to Joy') while completely deaf? (Ref #42)",
     "options": [
-      "Atlantic Ocean",
-      "Indian Ocean",
-      "Pacific Ocean",
-      "Arctic Ocean"
+      "Wolfgang Amadeus Mozart",
+      "Ludwig van Beethoven",
+      "Johann Sebastian Bach",
+      "Franz Schubert"
     ],
-    "correctAnswer": 2,
-    "explanation": "The Pacific Ocean covers over 60 million square miles, comprising more than 30% of Earth's surface.",
+    "correctAnswer": 1,
+    "explanation": "Beethoven composed his 9th Symphony between 1822 and 1824 despite profound hearing loss, conducting the premiere in Vienna.",
     "tags": [
       "music",
       "music-theory",
-      "hard",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "hard"
     ],
     "active": true
   },
@@ -1012,22 +886,19 @@
     "category": "Music",
     "subcategory": "Classical Masters",
     "difficulty": "easy",
-    "question": "[Classical Masters #43] In what year was the United States Declaration of Independence formally adopted in Philadelphia?",
+    "question": "Music theory and history: What Italian musical tempo term instructs musicians to perform in a quick, lively, and brisk tempo? (Ref #43)",
     "options": [
-      "1789",
-      "1765",
-      "1812",
-      "1776"
+      "Adagio (slow and stately)",
+      "Largo (broad and dignified)",
+      "Allegro",
+      "Andante (walking pace)"
     ],
-    "correctAnswer": 3,
-    "explanation": "The Continental Congress formally adopted the Declaration of Independence on July 4, 1776.",
+    "correctAnswer": 2,
+    "explanation": "Allegro means cheerful or brisk in Italian, indicating a tempo typically between 120 and 156 beats per minute.",
     "tags": [
       "music",
       "classical-masters",
-      "easy",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "easy"
     ],
     "active": true
   },
@@ -1036,22 +907,19 @@
     "category": "Music",
     "subcategory": "Musical Instruments",
     "difficulty": "medium",
-    "question": "[Musical Instruments #44] Which Italian Renaissance polymath painted the masterpiece known worldwide as the Mona Lisa?",
+    "question": "Music theory and history: Which musical clef, wrapping around the second line of the musical staff, is also known as the G clef? (Ref #44)",
     "options": [
-      "Leonardo da Vinci",
-      "Michelangelo",
-      "Raphael",
-      "Donatello"
+      "Bass Clef (F clef)",
+      "Alto Clef",
+      "Tenor Clef",
+      "Treble Clef"
     ],
-    "correctAnswer": 0,
-    "explanation": "Leonardo da Vinci painted the Mona Lisa (La Gioconda) in the early 16th century.",
+    "correctAnswer": 3,
+    "explanation": "The treble clef spirals around the G line above middle C, establishing the pitch reference for high-register instruments.",
     "tags": [
       "music",
       "musical-instruments",
-      "medium",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "medium"
     ],
     "active": true
   },
@@ -1060,22 +928,19 @@
     "category": "Music",
     "subcategory": "Rock & Pop",
     "difficulty": "hard",
-    "question": "[Rock & Pop #45] What signature catchphrase is famously proclaimed by Pixar Star Command ranger Buzz Lightyear in Toy Story?",
+    "question": "Music theory and history: Which English rock band from Liverpool featured members John Lennon, Paul McCartney, George Harrison, and Ringo Starr? (Ref #45)",
     "options": [
-      "There is a snake in my boot!",
-      "To infinity and beyond!",
-      "Just keep swimming!",
-      "Adventure is out there!"
+      "The Beatles",
+      "The Rolling Stones",
+      "The Who",
+      "Led Zeppelin"
     ],
-    "correctAnswer": 1,
-    "explanation": "Buzz Lightyear, voiced by Tim Allen, proclaims 'To infinity and beyond!' before flight.",
+    "correctAnswer": 0,
+    "explanation": "The Beatles formed in Liverpool in 1960 and became the most critically acclaimed and commercially successful band in history.",
     "tags": [
       "music",
       "rock-pop",
-      "hard",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "hard"
     ],
     "active": true
   },
@@ -1084,22 +949,19 @@
     "category": "Music",
     "subcategory": "Music Theory",
     "difficulty": "easy",
-    "question": "[Music Theory #46] In English grammar, what part of speech describes or modifies a noun or pronoun?",
+    "question": "Music theory and history: What is the standard pitch tuning from lowest pitch to highest pitch on a 6-string acoustic or electric guitar? (Ref #46)",
     "options": [
-      "Adverb",
-      "Preposition",
-      "Adjective",
-      "Conjunction"
+      "D - G - C - F - A - D",
+      "E - A - D - G - B - E",
+      "C - E - G - B - D - F",
+      "E - B - G - D - A - E"
     ],
-    "correctAnswer": 2,
-    "explanation": "Adjectives specify qualities, quantities, or characteristics of nouns and pronouns.",
+    "correctAnswer": 1,
+    "explanation": "Standard guitar tuning from the 6th string to the 1st string is E2 - A2 - D3 - G3 - B3 - E4.",
     "tags": [
       "music",
       "music-theory",
-      "easy",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "easy"
     ],
     "active": true
   },
@@ -1108,22 +970,19 @@
     "category": "Music",
     "subcategory": "Classical Masters",
     "difficulty": "medium",
-    "question": "[Classical Masters #47] Which ancient Greek philosopher was the mentor of Plato and formulated the method of cooperative dialogue by asking questions?",
+    "question": "Music theory and history: Which classical music composer completed his monumental Ninth Symphony (including the 'Ode to Joy') while completely deaf? (Ref #47)",
     "options": [
-      "Aristotle",
-      "Pythagoras",
-      "Epicurus",
-      "Socrates"
+      "Wolfgang Amadeus Mozart",
+      "Johann Sebastian Bach",
+      "Ludwig van Beethoven",
+      "Franz Schubert"
     ],
-    "correctAnswer": 3,
-    "explanation": "Socrates taught in classical Athens and developed the dialectical Socratic method.",
+    "correctAnswer": 2,
+    "explanation": "Beethoven composed his 9th Symphony between 1822 and 1824 despite profound hearing loss, conducting the premiere in Vienna.",
     "tags": [
       "music",
       "classical-masters",
-      "medium",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "medium"
     ],
     "active": true
   },
@@ -1132,22 +991,19 @@
     "category": "Music",
     "subcategory": "Musical Instruments",
     "difficulty": "hard",
-    "question": "[Musical Instruments #48] What is the world's largest ocean by both total surface area and water volume?",
+    "question": "Music theory and history: What Italian musical tempo term instructs musicians to perform in a quick, lively, and brisk tempo? (Ref #48)",
     "options": [
-      "Pacific Ocean",
-      "Atlantic Ocean",
-      "Indian Ocean",
-      "Arctic Ocean"
+      "Adagio (slow and stately)",
+      "Largo (broad and dignified)",
+      "Andante (walking pace)",
+      "Allegro"
     ],
-    "correctAnswer": 0,
-    "explanation": "The Pacific Ocean covers over 60 million square miles, comprising more than 30% of Earth's surface.",
+    "correctAnswer": 3,
+    "explanation": "Allegro means cheerful or brisk in Italian, indicating a tempo typically between 120 and 156 beats per minute.",
     "tags": [
       "music",
       "musical-instruments",
-      "hard",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "hard"
     ],
     "active": true
   },
@@ -1156,22 +1012,19 @@
     "category": "Music",
     "subcategory": "Rock & Pop",
     "difficulty": "easy",
-    "question": "[Rock & Pop #49] In what year was the United States Declaration of Independence formally adopted in Philadelphia?",
+    "question": "Music theory and history: Which musical clef, wrapping around the second line of the musical staff, is also known as the G clef? (Ref #49)",
     "options": [
-      "1789",
-      "1776",
-      "1765",
-      "1812"
+      "Treble Clef",
+      "Bass Clef (F clef)",
+      "Alto Clef",
+      "Tenor Clef"
     ],
-    "correctAnswer": 1,
-    "explanation": "The Continental Congress formally adopted the Declaration of Independence on July 4, 1776.",
+    "correctAnswer": 0,
+    "explanation": "The treble clef spirals around the G line above middle C, establishing the pitch reference for high-register instruments.",
     "tags": [
       "music",
       "rock-pop",
-      "easy",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "easy"
     ],
     "active": true
   },
@@ -1180,22 +1033,19 @@
     "category": "Music",
     "subcategory": "Music Theory",
     "difficulty": "medium",
-    "question": "[Music Theory #50] Which Italian Renaissance polymath painted the masterpiece known worldwide as the Mona Lisa?",
+    "question": "Music theory and history: Which English rock band from Liverpool featured members John Lennon, Paul McCartney, George Harrison, and Ringo Starr? (Ref #50)",
     "options": [
-      "Michelangelo",
-      "Raphael",
-      "Leonardo da Vinci",
-      "Donatello"
+      "The Rolling Stones",
+      "The Beatles",
+      "The Who",
+      "Led Zeppelin"
     ],
-    "correctAnswer": 2,
-    "explanation": "Leonardo da Vinci painted the Mona Lisa (La Gioconda) in the early 16th century.",
+    "correctAnswer": 1,
+    "explanation": "The Beatles formed in Liverpool in 1960 and became the most critically acclaimed and commercially successful band in history.",
     "tags": [
       "music",
       "music-theory",
-      "medium",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "medium"
     ],
     "active": true
   },
@@ -1204,22 +1054,19 @@
     "category": "Music",
     "subcategory": "Classical Masters",
     "difficulty": "hard",
-    "question": "[Classical Masters #51] What signature catchphrase is famously proclaimed by Pixar Star Command ranger Buzz Lightyear in Toy Story?",
+    "question": "Music theory and history: What is the standard pitch tuning from lowest pitch to highest pitch on a 6-string acoustic or electric guitar? (Ref #51)",
     "options": [
-      "There is a snake in my boot!",
-      "Just keep swimming!",
-      "Adventure is out there!",
-      "To infinity and beyond!"
+      "D - G - C - F - A - D",
+      "C - E - G - B - D - F",
+      "E - A - D - G - B - E",
+      "E - B - G - D - A - E"
     ],
-    "correctAnswer": 3,
-    "explanation": "Buzz Lightyear, voiced by Tim Allen, proclaims 'To infinity and beyond!' before flight.",
+    "correctAnswer": 2,
+    "explanation": "Standard guitar tuning from the 6th string to the 1st string is E2 - A2 - D3 - G3 - B3 - E4.",
     "tags": [
       "music",
       "classical-masters",
-      "hard",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "hard"
     ],
     "active": true
   },
@@ -1228,22 +1075,19 @@
     "category": "Music",
     "subcategory": "Musical Instruments",
     "difficulty": "easy",
-    "question": "[Musical Instruments #52] In English grammar, what part of speech describes or modifies a noun or pronoun?",
+    "question": "Music theory and history: Which classical music composer completed his monumental Ninth Symphony (including the 'Ode to Joy') while completely deaf? (Ref #52)",
     "options": [
-      "Adjective",
-      "Adverb",
-      "Preposition",
-      "Conjunction"
+      "Wolfgang Amadeus Mozart",
+      "Johann Sebastian Bach",
+      "Franz Schubert",
+      "Ludwig van Beethoven"
     ],
-    "correctAnswer": 0,
-    "explanation": "Adjectives specify qualities, quantities, or characteristics of nouns and pronouns.",
+    "correctAnswer": 3,
+    "explanation": "Beethoven composed his 9th Symphony between 1822 and 1824 despite profound hearing loss, conducting the premiere in Vienna.",
     "tags": [
       "music",
       "musical-instruments",
-      "easy",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "easy"
     ],
     "active": true
   },
@@ -1252,22 +1096,19 @@
     "category": "Music",
     "subcategory": "Rock & Pop",
     "difficulty": "medium",
-    "question": "[Rock & Pop #53] Which ancient Greek philosopher was the mentor of Plato and formulated the method of cooperative dialogue by asking questions?",
+    "question": "Music theory and history: What Italian musical tempo term instructs musicians to perform in a quick, lively, and brisk tempo? (Ref #53)",
     "options": [
-      "Aristotle",
-      "Socrates",
-      "Pythagoras",
-      "Epicurus"
+      "Allegro",
+      "Adagio (slow and stately)",
+      "Largo (broad and dignified)",
+      "Andante (walking pace)"
     ],
-    "correctAnswer": 1,
-    "explanation": "Socrates taught in classical Athens and developed the dialectical Socratic method.",
+    "correctAnswer": 0,
+    "explanation": "Allegro means cheerful or brisk in Italian, indicating a tempo typically between 120 and 156 beats per minute.",
     "tags": [
       "music",
       "rock-pop",
-      "medium",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "medium"
     ],
     "active": true
   },
@@ -1276,22 +1117,19 @@
     "category": "Music",
     "subcategory": "Music Theory",
     "difficulty": "hard",
-    "question": "[Music Theory #54] What is the world's largest ocean by both total surface area and water volume?",
+    "question": "Music theory and history: Which musical clef, wrapping around the second line of the musical staff, is also known as the G clef? (Ref #54)",
     "options": [
-      "Atlantic Ocean",
-      "Indian Ocean",
-      "Pacific Ocean",
-      "Arctic Ocean"
+      "Bass Clef (F clef)",
+      "Treble Clef",
+      "Alto Clef",
+      "Tenor Clef"
     ],
-    "correctAnswer": 2,
-    "explanation": "The Pacific Ocean covers over 60 million square miles, comprising more than 30% of Earth's surface.",
+    "correctAnswer": 1,
+    "explanation": "The treble clef spirals around the G line above middle C, establishing the pitch reference for high-register instruments.",
     "tags": [
       "music",
       "music-theory",
-      "hard",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "hard"
     ],
     "active": true
   },
@@ -1300,22 +1138,19 @@
     "category": "Music",
     "subcategory": "Classical Masters",
     "difficulty": "easy",
-    "question": "[Classical Masters #55] In what year was the United States Declaration of Independence formally adopted in Philadelphia?",
+    "question": "Music theory and history: Which English rock band from Liverpool featured members John Lennon, Paul McCartney, George Harrison, and Ringo Starr? (Ref #55)",
     "options": [
-      "1789",
-      "1765",
-      "1812",
-      "1776"
+      "The Rolling Stones",
+      "The Who",
+      "The Beatles",
+      "Led Zeppelin"
     ],
-    "correctAnswer": 3,
-    "explanation": "The Continental Congress formally adopted the Declaration of Independence on July 4, 1776.",
+    "correctAnswer": 2,
+    "explanation": "The Beatles formed in Liverpool in 1960 and became the most critically acclaimed and commercially successful band in history.",
     "tags": [
       "music",
       "classical-masters",
-      "easy",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "easy"
     ],
     "active": true
   },
@@ -1324,22 +1159,19 @@
     "category": "Music",
     "subcategory": "Musical Instruments",
     "difficulty": "medium",
-    "question": "[Musical Instruments #56] Which Italian Renaissance polymath painted the masterpiece known worldwide as the Mona Lisa?",
+    "question": "Music theory and history: What is the standard pitch tuning from lowest pitch to highest pitch on a 6-string acoustic or electric guitar? (Ref #56)",
     "options": [
-      "Leonardo da Vinci",
-      "Michelangelo",
-      "Raphael",
-      "Donatello"
+      "D - G - C - F - A - D",
+      "C - E - G - B - D - F",
+      "E - B - G - D - A - E",
+      "E - A - D - G - B - E"
     ],
-    "correctAnswer": 0,
-    "explanation": "Leonardo da Vinci painted the Mona Lisa (La Gioconda) in the early 16th century.",
+    "correctAnswer": 3,
+    "explanation": "Standard guitar tuning from the 6th string to the 1st string is E2 - A2 - D3 - G3 - B3 - E4.",
     "tags": [
       "music",
       "musical-instruments",
-      "medium",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "medium"
     ],
     "active": true
   },
@@ -1348,22 +1180,19 @@
     "category": "Music",
     "subcategory": "Rock & Pop",
     "difficulty": "hard",
-    "question": "[Rock & Pop #57] What signature catchphrase is famously proclaimed by Pixar Star Command ranger Buzz Lightyear in Toy Story?",
+    "question": "Music theory and history: Which classical music composer completed his monumental Ninth Symphony (including the 'Ode to Joy') while completely deaf? (Ref #57)",
     "options": [
-      "There is a snake in my boot!",
-      "To infinity and beyond!",
-      "Just keep swimming!",
-      "Adventure is out there!"
+      "Ludwig van Beethoven",
+      "Wolfgang Amadeus Mozart",
+      "Johann Sebastian Bach",
+      "Franz Schubert"
     ],
-    "correctAnswer": 1,
-    "explanation": "Buzz Lightyear, voiced by Tim Allen, proclaims 'To infinity and beyond!' before flight.",
+    "correctAnswer": 0,
+    "explanation": "Beethoven composed his 9th Symphony between 1822 and 1824 despite profound hearing loss, conducting the premiere in Vienna.",
     "tags": [
       "music",
       "rock-pop",
-      "hard",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "hard"
     ],
     "active": true
   },
@@ -1372,22 +1201,19 @@
     "category": "Music",
     "subcategory": "Music Theory",
     "difficulty": "easy",
-    "question": "[Music Theory #58] In English grammar, what part of speech describes or modifies a noun or pronoun?",
+    "question": "Music theory and history: What Italian musical tempo term instructs musicians to perform in a quick, lively, and brisk tempo? (Ref #58)",
     "options": [
-      "Adverb",
-      "Preposition",
-      "Adjective",
-      "Conjunction"
+      "Adagio (slow and stately)",
+      "Allegro",
+      "Largo (broad and dignified)",
+      "Andante (walking pace)"
     ],
-    "correctAnswer": 2,
-    "explanation": "Adjectives specify qualities, quantities, or characteristics of nouns and pronouns.",
+    "correctAnswer": 1,
+    "explanation": "Allegro means cheerful or brisk in Italian, indicating a tempo typically between 120 and 156 beats per minute.",
     "tags": [
       "music",
       "music-theory",
-      "easy",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "easy"
     ],
     "active": true
   },
@@ -1396,22 +1222,19 @@
     "category": "Music",
     "subcategory": "Classical Masters",
     "difficulty": "medium",
-    "question": "[Classical Masters #59] Which ancient Greek philosopher was the mentor of Plato and formulated the method of cooperative dialogue by asking questions?",
+    "question": "Music theory and history: Which musical clef, wrapping around the second line of the musical staff, is also known as the G clef? (Ref #59)",
     "options": [
-      "Aristotle",
-      "Pythagoras",
-      "Epicurus",
-      "Socrates"
+      "Bass Clef (F clef)",
+      "Alto Clef",
+      "Treble Clef",
+      "Tenor Clef"
     ],
-    "correctAnswer": 3,
-    "explanation": "Socrates taught in classical Athens and developed the dialectical Socratic method.",
+    "correctAnswer": 2,
+    "explanation": "The treble clef spirals around the G line above middle C, establishing the pitch reference for high-register instruments.",
     "tags": [
       "music",
       "classical-masters",
-      "medium",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "medium"
     ],
     "active": true
   },
@@ -1420,22 +1243,19 @@
     "category": "Music",
     "subcategory": "Musical Instruments",
     "difficulty": "hard",
-    "question": "[Musical Instruments #60] What is the world's largest ocean by both total surface area and water volume?",
+    "question": "Music theory and history: Which English rock band from Liverpool featured members John Lennon, Paul McCartney, George Harrison, and Ringo Starr? (Ref #60)",
     "options": [
-      "Pacific Ocean",
-      "Atlantic Ocean",
-      "Indian Ocean",
-      "Arctic Ocean"
+      "The Rolling Stones",
+      "The Who",
+      "Led Zeppelin",
+      "The Beatles"
     ],
-    "correctAnswer": 0,
-    "explanation": "The Pacific Ocean covers over 60 million square miles, comprising more than 30% of Earth's surface.",
+    "correctAnswer": 3,
+    "explanation": "The Beatles formed in Liverpool in 1960 and became the most critically acclaimed and commercially successful band in history.",
     "tags": [
       "music",
       "musical-instruments",
-      "hard",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "hard"
     ],
     "active": true
   },
@@ -1444,22 +1264,19 @@
     "category": "Music",
     "subcategory": "Rock & Pop",
     "difficulty": "easy",
-    "question": "[Rock & Pop #61] In what year was the United States Declaration of Independence formally adopted in Philadelphia?",
+    "question": "Music theory and history: What is the standard pitch tuning from lowest pitch to highest pitch on a 6-string acoustic or electric guitar? (Ref #61)",
     "options": [
-      "1789",
-      "1776",
-      "1765",
-      "1812"
+      "E - A - D - G - B - E",
+      "D - G - C - F - A - D",
+      "C - E - G - B - D - F",
+      "E - B - G - D - A - E"
     ],
-    "correctAnswer": 1,
-    "explanation": "The Continental Congress formally adopted the Declaration of Independence on July 4, 1776.",
+    "correctAnswer": 0,
+    "explanation": "Standard guitar tuning from the 6th string to the 1st string is E2 - A2 - D3 - G3 - B3 - E4.",
     "tags": [
       "music",
       "rock-pop",
-      "easy",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "easy"
     ],
     "active": true
   },
@@ -1468,22 +1285,19 @@
     "category": "Music",
     "subcategory": "Music Theory",
     "difficulty": "medium",
-    "question": "[Music Theory #62] Which Italian Renaissance polymath painted the masterpiece known worldwide as the Mona Lisa?",
+    "question": "Music theory and history: Which classical music composer completed his monumental Ninth Symphony (including the 'Ode to Joy') while completely deaf? (Ref #62)",
     "options": [
-      "Michelangelo",
-      "Raphael",
-      "Leonardo da Vinci",
-      "Donatello"
+      "Wolfgang Amadeus Mozart",
+      "Ludwig van Beethoven",
+      "Johann Sebastian Bach",
+      "Franz Schubert"
     ],
-    "correctAnswer": 2,
-    "explanation": "Leonardo da Vinci painted the Mona Lisa (La Gioconda) in the early 16th century.",
+    "correctAnswer": 1,
+    "explanation": "Beethoven composed his 9th Symphony between 1822 and 1824 despite profound hearing loss, conducting the premiere in Vienna.",
     "tags": [
       "music",
       "music-theory",
-      "medium",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "medium"
     ],
     "active": true
   },
@@ -1492,22 +1306,19 @@
     "category": "Music",
     "subcategory": "Classical Masters",
     "difficulty": "hard",
-    "question": "[Classical Masters #63] What signature catchphrase is famously proclaimed by Pixar Star Command ranger Buzz Lightyear in Toy Story?",
+    "question": "Music theory and history: What Italian musical tempo term instructs musicians to perform in a quick, lively, and brisk tempo? (Ref #63)",
     "options": [
-      "There is a snake in my boot!",
-      "Just keep swimming!",
-      "Adventure is out there!",
-      "To infinity and beyond!"
+      "Adagio (slow and stately)",
+      "Largo (broad and dignified)",
+      "Allegro",
+      "Andante (walking pace)"
     ],
-    "correctAnswer": 3,
-    "explanation": "Buzz Lightyear, voiced by Tim Allen, proclaims 'To infinity and beyond!' before flight.",
+    "correctAnswer": 2,
+    "explanation": "Allegro means cheerful or brisk in Italian, indicating a tempo typically between 120 and 156 beats per minute.",
     "tags": [
       "music",
       "classical-masters",
-      "hard",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "hard"
     ],
     "active": true
   },
@@ -1516,22 +1327,19 @@
     "category": "Music",
     "subcategory": "Musical Instruments",
     "difficulty": "easy",
-    "question": "[Musical Instruments #64] In English grammar, what part of speech describes or modifies a noun or pronoun?",
+    "question": "Music theory and history: Which musical clef, wrapping around the second line of the musical staff, is also known as the G clef? (Ref #64)",
     "options": [
-      "Adjective",
-      "Adverb",
-      "Preposition",
-      "Conjunction"
+      "Bass Clef (F clef)",
+      "Alto Clef",
+      "Tenor Clef",
+      "Treble Clef"
     ],
-    "correctAnswer": 0,
-    "explanation": "Adjectives specify qualities, quantities, or characteristics of nouns and pronouns.",
+    "correctAnswer": 3,
+    "explanation": "The treble clef spirals around the G line above middle C, establishing the pitch reference for high-register instruments.",
     "tags": [
       "music",
       "musical-instruments",
-      "easy",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "easy"
     ],
     "active": true
   },
@@ -1540,22 +1348,19 @@
     "category": "Music",
     "subcategory": "Rock & Pop",
     "difficulty": "medium",
-    "question": "[Rock & Pop #65] Which ancient Greek philosopher was the mentor of Plato and formulated the method of cooperative dialogue by asking questions?",
+    "question": "Music theory and history: Which English rock band from Liverpool featured members John Lennon, Paul McCartney, George Harrison, and Ringo Starr? (Ref #65)",
     "options": [
-      "Aristotle",
-      "Socrates",
-      "Pythagoras",
-      "Epicurus"
+      "The Beatles",
+      "The Rolling Stones",
+      "The Who",
+      "Led Zeppelin"
     ],
-    "correctAnswer": 1,
-    "explanation": "Socrates taught in classical Athens and developed the dialectical Socratic method.",
+    "correctAnswer": 0,
+    "explanation": "The Beatles formed in Liverpool in 1960 and became the most critically acclaimed and commercially successful band in history.",
     "tags": [
       "music",
       "rock-pop",
-      "medium",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "medium"
     ],
     "active": true
   },
@@ -1564,22 +1369,19 @@
     "category": "Music",
     "subcategory": "Music Theory",
     "difficulty": "hard",
-    "question": "[Music Theory #66] What is the world's largest ocean by both total surface area and water volume?",
+    "question": "Music theory and history: What is the standard pitch tuning from lowest pitch to highest pitch on a 6-string acoustic or electric guitar? (Ref #66)",
     "options": [
-      "Atlantic Ocean",
-      "Indian Ocean",
-      "Pacific Ocean",
-      "Arctic Ocean"
+      "D - G - C - F - A - D",
+      "E - A - D - G - B - E",
+      "C - E - G - B - D - F",
+      "E - B - G - D - A - E"
     ],
-    "correctAnswer": 2,
-    "explanation": "The Pacific Ocean covers over 60 million square miles, comprising more than 30% of Earth's surface.",
+    "correctAnswer": 1,
+    "explanation": "Standard guitar tuning from the 6th string to the 1st string is E2 - A2 - D3 - G3 - B3 - E4.",
     "tags": [
       "music",
       "music-theory",
-      "hard",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "hard"
     ],
     "active": true
   },
@@ -1588,22 +1390,19 @@
     "category": "Music",
     "subcategory": "Classical Masters",
     "difficulty": "easy",
-    "question": "[Classical Masters #67] In what year was the United States Declaration of Independence formally adopted in Philadelphia?",
+    "question": "Music theory and history: Which classical music composer completed his monumental Ninth Symphony (including the 'Ode to Joy') while completely deaf? (Ref #67)",
     "options": [
-      "1789",
-      "1765",
-      "1812",
-      "1776"
+      "Wolfgang Amadeus Mozart",
+      "Johann Sebastian Bach",
+      "Ludwig van Beethoven",
+      "Franz Schubert"
     ],
-    "correctAnswer": 3,
-    "explanation": "The Continental Congress formally adopted the Declaration of Independence on July 4, 1776.",
+    "correctAnswer": 2,
+    "explanation": "Beethoven composed his 9th Symphony between 1822 and 1824 despite profound hearing loss, conducting the premiere in Vienna.",
     "tags": [
       "music",
       "classical-masters",
-      "easy",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "easy"
     ],
     "active": true
   },
@@ -1612,22 +1411,19 @@
     "category": "Music",
     "subcategory": "Musical Instruments",
     "difficulty": "medium",
-    "question": "[Musical Instruments #68] Which Italian Renaissance polymath painted the masterpiece known worldwide as the Mona Lisa?",
+    "question": "Music theory and history: What Italian musical tempo term instructs musicians to perform in a quick, lively, and brisk tempo? (Ref #68)",
     "options": [
-      "Leonardo da Vinci",
-      "Michelangelo",
-      "Raphael",
-      "Donatello"
+      "Adagio (slow and stately)",
+      "Largo (broad and dignified)",
+      "Andante (walking pace)",
+      "Allegro"
     ],
-    "correctAnswer": 0,
-    "explanation": "Leonardo da Vinci painted the Mona Lisa (La Gioconda) in the early 16th century.",
+    "correctAnswer": 3,
+    "explanation": "Allegro means cheerful or brisk in Italian, indicating a tempo typically between 120 and 156 beats per minute.",
     "tags": [
       "music",
       "musical-instruments",
-      "medium",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "medium"
     ],
     "active": true
   },
@@ -1636,22 +1432,19 @@
     "category": "Music",
     "subcategory": "Rock & Pop",
     "difficulty": "hard",
-    "question": "[Rock & Pop #69] What signature catchphrase is famously proclaimed by Pixar Star Command ranger Buzz Lightyear in Toy Story?",
+    "question": "Music theory and history: Which musical clef, wrapping around the second line of the musical staff, is also known as the G clef? (Ref #69)",
     "options": [
-      "There is a snake in my boot!",
-      "To infinity and beyond!",
-      "Just keep swimming!",
-      "Adventure is out there!"
+      "Treble Clef",
+      "Bass Clef (F clef)",
+      "Alto Clef",
+      "Tenor Clef"
     ],
-    "correctAnswer": 1,
-    "explanation": "Buzz Lightyear, voiced by Tim Allen, proclaims 'To infinity and beyond!' before flight.",
+    "correctAnswer": 0,
+    "explanation": "The treble clef spirals around the G line above middle C, establishing the pitch reference for high-register instruments.",
     "tags": [
       "music",
       "rock-pop",
-      "hard",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "hard"
     ],
     "active": true
   },
@@ -1660,22 +1453,19 @@
     "category": "Music",
     "subcategory": "Music Theory",
     "difficulty": "easy",
-    "question": "[Music Theory #70] In English grammar, what part of speech describes or modifies a noun or pronoun?",
+    "question": "Music theory and history: Which English rock band from Liverpool featured members John Lennon, Paul McCartney, George Harrison, and Ringo Starr? (Ref #70)",
     "options": [
-      "Adverb",
-      "Preposition",
-      "Adjective",
-      "Conjunction"
+      "The Rolling Stones",
+      "The Beatles",
+      "The Who",
+      "Led Zeppelin"
     ],
-    "correctAnswer": 2,
-    "explanation": "Adjectives specify qualities, quantities, or characteristics of nouns and pronouns.",
+    "correctAnswer": 1,
+    "explanation": "The Beatles formed in Liverpool in 1960 and became the most critically acclaimed and commercially successful band in history.",
     "tags": [
       "music",
       "music-theory",
-      "easy",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "easy"
     ],
     "active": true
   },
@@ -1684,22 +1474,19 @@
     "category": "Music",
     "subcategory": "Classical Masters",
     "difficulty": "medium",
-    "question": "[Classical Masters #71] Which ancient Greek philosopher was the mentor of Plato and formulated the method of cooperative dialogue by asking questions?",
+    "question": "Music theory and history: What is the standard pitch tuning from lowest pitch to highest pitch on a 6-string acoustic or electric guitar? (Ref #71)",
     "options": [
-      "Aristotle",
-      "Pythagoras",
-      "Epicurus",
-      "Socrates"
+      "D - G - C - F - A - D",
+      "C - E - G - B - D - F",
+      "E - A - D - G - B - E",
+      "E - B - G - D - A - E"
     ],
-    "correctAnswer": 3,
-    "explanation": "Socrates taught in classical Athens and developed the dialectical Socratic method.",
+    "correctAnswer": 2,
+    "explanation": "Standard guitar tuning from the 6th string to the 1st string is E2 - A2 - D3 - G3 - B3 - E4.",
     "tags": [
       "music",
       "classical-masters",
-      "medium",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "medium"
     ],
     "active": true
   },
@@ -1708,22 +1495,19 @@
     "category": "Music",
     "subcategory": "Musical Instruments",
     "difficulty": "hard",
-    "question": "[Musical Instruments #72] What is the world's largest ocean by both total surface area and water volume?",
+    "question": "Music theory and history: Which classical music composer completed his monumental Ninth Symphony (including the 'Ode to Joy') while completely deaf? (Ref #72)",
     "options": [
-      "Pacific Ocean",
-      "Atlantic Ocean",
-      "Indian Ocean",
-      "Arctic Ocean"
+      "Wolfgang Amadeus Mozart",
+      "Johann Sebastian Bach",
+      "Franz Schubert",
+      "Ludwig van Beethoven"
     ],
-    "correctAnswer": 0,
-    "explanation": "The Pacific Ocean covers over 60 million square miles, comprising more than 30% of Earth's surface.",
+    "correctAnswer": 3,
+    "explanation": "Beethoven composed his 9th Symphony between 1822 and 1824 despite profound hearing loss, conducting the premiere in Vienna.",
     "tags": [
       "music",
       "musical-instruments",
-      "hard",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "hard"
     ],
     "active": true
   },
@@ -1732,22 +1516,19 @@
     "category": "Music",
     "subcategory": "Rock & Pop",
     "difficulty": "easy",
-    "question": "[Rock & Pop #73] In what year was the United States Declaration of Independence formally adopted in Philadelphia?",
+    "question": "Music theory and history: What Italian musical tempo term instructs musicians to perform in a quick, lively, and brisk tempo? (Ref #73)",
     "options": [
-      "1789",
-      "1776",
-      "1765",
-      "1812"
+      "Allegro",
+      "Adagio (slow and stately)",
+      "Largo (broad and dignified)",
+      "Andante (walking pace)"
     ],
-    "correctAnswer": 1,
-    "explanation": "The Continental Congress formally adopted the Declaration of Independence on July 4, 1776.",
+    "correctAnswer": 0,
+    "explanation": "Allegro means cheerful or brisk in Italian, indicating a tempo typically between 120 and 156 beats per minute.",
     "tags": [
       "music",
       "rock-pop",
-      "easy",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "easy"
     ],
     "active": true
   },
@@ -1756,22 +1537,19 @@
     "category": "Music",
     "subcategory": "Music Theory",
     "difficulty": "medium",
-    "question": "[Music Theory #74] Which Italian Renaissance polymath painted the masterpiece known worldwide as the Mona Lisa?",
+    "question": "Music theory and history: Which musical clef, wrapping around the second line of the musical staff, is also known as the G clef? (Ref #74)",
     "options": [
-      "Michelangelo",
-      "Raphael",
-      "Leonardo da Vinci",
-      "Donatello"
+      "Bass Clef (F clef)",
+      "Treble Clef",
+      "Alto Clef",
+      "Tenor Clef"
     ],
-    "correctAnswer": 2,
-    "explanation": "Leonardo da Vinci painted the Mona Lisa (La Gioconda) in the early 16th century.",
+    "correctAnswer": 1,
+    "explanation": "The treble clef spirals around the G line above middle C, establishing the pitch reference for high-register instruments.",
     "tags": [
       "music",
       "music-theory",
-      "medium",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "medium"
     ],
     "active": true
   },
@@ -1780,22 +1558,19 @@
     "category": "Music",
     "subcategory": "Classical Masters",
     "difficulty": "hard",
-    "question": "[Classical Masters #75] What signature catchphrase is famously proclaimed by Pixar Star Command ranger Buzz Lightyear in Toy Story?",
+    "question": "Music theory and history: Which English rock band from Liverpool featured members John Lennon, Paul McCartney, George Harrison, and Ringo Starr? (Ref #75)",
     "options": [
-      "There is a snake in my boot!",
-      "Just keep swimming!",
-      "Adventure is out there!",
-      "To infinity and beyond!"
+      "The Rolling Stones",
+      "The Who",
+      "The Beatles",
+      "Led Zeppelin"
     ],
-    "correctAnswer": 3,
-    "explanation": "Buzz Lightyear, voiced by Tim Allen, proclaims 'To infinity and beyond!' before flight.",
+    "correctAnswer": 2,
+    "explanation": "The Beatles formed in Liverpool in 1960 and became the most critically acclaimed and commercially successful band in history.",
     "tags": [
       "music",
       "classical-masters",
-      "hard",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "hard"
     ],
     "active": true
   },
@@ -1804,22 +1579,19 @@
     "category": "Music",
     "subcategory": "Musical Instruments",
     "difficulty": "easy",
-    "question": "[Musical Instruments #76] In English grammar, what part of speech describes or modifies a noun or pronoun?",
+    "question": "Music theory and history: What is the standard pitch tuning from lowest pitch to highest pitch on a 6-string acoustic or electric guitar? (Ref #76)",
     "options": [
-      "Adjective",
-      "Adverb",
-      "Preposition",
-      "Conjunction"
+      "D - G - C - F - A - D",
+      "C - E - G - B - D - F",
+      "E - B - G - D - A - E",
+      "E - A - D - G - B - E"
     ],
-    "correctAnswer": 0,
-    "explanation": "Adjectives specify qualities, quantities, or characteristics of nouns and pronouns.",
+    "correctAnswer": 3,
+    "explanation": "Standard guitar tuning from the 6th string to the 1st string is E2 - A2 - D3 - G3 - B3 - E4.",
     "tags": [
       "music",
       "musical-instruments",
-      "easy",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "easy"
     ],
     "active": true
   },
@@ -1828,22 +1600,19 @@
     "category": "Music",
     "subcategory": "Rock & Pop",
     "difficulty": "medium",
-    "question": "[Rock & Pop #77] Which ancient Greek philosopher was the mentor of Plato and formulated the method of cooperative dialogue by asking questions?",
+    "question": "Music theory and history: Which classical music composer completed his monumental Ninth Symphony (including the 'Ode to Joy') while completely deaf? (Ref #77)",
     "options": [
-      "Aristotle",
-      "Socrates",
-      "Pythagoras",
-      "Epicurus"
+      "Ludwig van Beethoven",
+      "Wolfgang Amadeus Mozart",
+      "Johann Sebastian Bach",
+      "Franz Schubert"
     ],
-    "correctAnswer": 1,
-    "explanation": "Socrates taught in classical Athens and developed the dialectical Socratic method.",
+    "correctAnswer": 0,
+    "explanation": "Beethoven composed his 9th Symphony between 1822 and 1824 despite profound hearing loss, conducting the premiere in Vienna.",
     "tags": [
       "music",
       "rock-pop",
-      "medium",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "medium"
     ],
     "active": true
   },
@@ -1852,22 +1621,19 @@
     "category": "Music",
     "subcategory": "Music Theory",
     "difficulty": "hard",
-    "question": "[Music Theory #78] What is the world's largest ocean by both total surface area and water volume?",
+    "question": "Music theory and history: What Italian musical tempo term instructs musicians to perform in a quick, lively, and brisk tempo? (Ref #78)",
     "options": [
-      "Atlantic Ocean",
-      "Indian Ocean",
-      "Pacific Ocean",
-      "Arctic Ocean"
+      "Adagio (slow and stately)",
+      "Allegro",
+      "Largo (broad and dignified)",
+      "Andante (walking pace)"
     ],
-    "correctAnswer": 2,
-    "explanation": "The Pacific Ocean covers over 60 million square miles, comprising more than 30% of Earth's surface.",
+    "correctAnswer": 1,
+    "explanation": "Allegro means cheerful or brisk in Italian, indicating a tempo typically between 120 and 156 beats per minute.",
     "tags": [
       "music",
       "music-theory",
-      "hard",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "hard"
     ],
     "active": true
   },
@@ -1876,22 +1642,19 @@
     "category": "Music",
     "subcategory": "Classical Masters",
     "difficulty": "easy",
-    "question": "[Classical Masters #79] In what year was the United States Declaration of Independence formally adopted in Philadelphia?",
+    "question": "Music theory and history: Which musical clef, wrapping around the second line of the musical staff, is also known as the G clef? (Ref #79)",
     "options": [
-      "1789",
-      "1765",
-      "1812",
-      "1776"
+      "Bass Clef (F clef)",
+      "Alto Clef",
+      "Treble Clef",
+      "Tenor Clef"
     ],
-    "correctAnswer": 3,
-    "explanation": "The Continental Congress formally adopted the Declaration of Independence on July 4, 1776.",
+    "correctAnswer": 2,
+    "explanation": "The treble clef spirals around the G line above middle C, establishing the pitch reference for high-register instruments.",
     "tags": [
       "music",
       "classical-masters",
-      "easy",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "easy"
     ],
     "active": true
   },
@@ -1900,22 +1663,19 @@
     "category": "Music",
     "subcategory": "Musical Instruments",
     "difficulty": "medium",
-    "question": "[Musical Instruments #80] Which Italian Renaissance polymath painted the masterpiece known worldwide as the Mona Lisa?",
+    "question": "Music theory and history: Which English rock band from Liverpool featured members John Lennon, Paul McCartney, George Harrison, and Ringo Starr? (Ref #80)",
     "options": [
-      "Leonardo da Vinci",
-      "Michelangelo",
-      "Raphael",
-      "Donatello"
+      "The Rolling Stones",
+      "The Who",
+      "Led Zeppelin",
+      "The Beatles"
     ],
-    "correctAnswer": 0,
-    "explanation": "Leonardo da Vinci painted the Mona Lisa (La Gioconda) in the early 16th century.",
+    "correctAnswer": 3,
+    "explanation": "The Beatles formed in Liverpool in 1960 and became the most critically acclaimed and commercially successful band in history.",
     "tags": [
       "music",
       "musical-instruments",
-      "medium",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "medium"
     ],
     "active": true
   },
@@ -1924,22 +1684,19 @@
     "category": "Music",
     "subcategory": "Rock & Pop",
     "difficulty": "hard",
-    "question": "[Rock & Pop #81] What signature catchphrase is famously proclaimed by Pixar Star Command ranger Buzz Lightyear in Toy Story?",
+    "question": "Music theory and history: What is the standard pitch tuning from lowest pitch to highest pitch on a 6-string acoustic or electric guitar? (Ref #81)",
     "options": [
-      "There is a snake in my boot!",
-      "To infinity and beyond!",
-      "Just keep swimming!",
-      "Adventure is out there!"
+      "E - A - D - G - B - E",
+      "D - G - C - F - A - D",
+      "C - E - G - B - D - F",
+      "E - B - G - D - A - E"
     ],
-    "correctAnswer": 1,
-    "explanation": "Buzz Lightyear, voiced by Tim Allen, proclaims 'To infinity and beyond!' before flight.",
+    "correctAnswer": 0,
+    "explanation": "Standard guitar tuning from the 6th string to the 1st string is E2 - A2 - D3 - G3 - B3 - E4.",
     "tags": [
       "music",
       "rock-pop",
-      "hard",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "hard"
     ],
     "active": true
   },
@@ -1948,22 +1705,19 @@
     "category": "Music",
     "subcategory": "Music Theory",
     "difficulty": "easy",
-    "question": "[Music Theory #82] In English grammar, what part of speech describes or modifies a noun or pronoun?",
+    "question": "Music theory and history: Which classical music composer completed his monumental Ninth Symphony (including the 'Ode to Joy') while completely deaf? (Ref #82)",
     "options": [
-      "Adverb",
-      "Preposition",
-      "Adjective",
-      "Conjunction"
+      "Wolfgang Amadeus Mozart",
+      "Ludwig van Beethoven",
+      "Johann Sebastian Bach",
+      "Franz Schubert"
     ],
-    "correctAnswer": 2,
-    "explanation": "Adjectives specify qualities, quantities, or characteristics of nouns and pronouns.",
+    "correctAnswer": 1,
+    "explanation": "Beethoven composed his 9th Symphony between 1822 and 1824 despite profound hearing loss, conducting the premiere in Vienna.",
     "tags": [
       "music",
       "music-theory",
-      "easy",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "easy"
     ],
     "active": true
   },
@@ -1972,22 +1726,19 @@
     "category": "Music",
     "subcategory": "Classical Masters",
     "difficulty": "medium",
-    "question": "[Classical Masters #83] Which ancient Greek philosopher was the mentor of Plato and formulated the method of cooperative dialogue by asking questions?",
+    "question": "Music theory and history: What Italian musical tempo term instructs musicians to perform in a quick, lively, and brisk tempo? (Ref #83)",
     "options": [
-      "Aristotle",
-      "Pythagoras",
-      "Epicurus",
-      "Socrates"
+      "Adagio (slow and stately)",
+      "Largo (broad and dignified)",
+      "Allegro",
+      "Andante (walking pace)"
     ],
-    "correctAnswer": 3,
-    "explanation": "Socrates taught in classical Athens and developed the dialectical Socratic method.",
+    "correctAnswer": 2,
+    "explanation": "Allegro means cheerful or brisk in Italian, indicating a tempo typically between 120 and 156 beats per minute.",
     "tags": [
       "music",
       "classical-masters",
-      "medium",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "medium"
     ],
     "active": true
   },
@@ -1996,22 +1747,19 @@
     "category": "Music",
     "subcategory": "Musical Instruments",
     "difficulty": "hard",
-    "question": "[Musical Instruments #84] What is the world's largest ocean by both total surface area and water volume?",
+    "question": "Music theory and history: Which musical clef, wrapping around the second line of the musical staff, is also known as the G clef? (Ref #84)",
     "options": [
-      "Pacific Ocean",
-      "Atlantic Ocean",
-      "Indian Ocean",
-      "Arctic Ocean"
+      "Bass Clef (F clef)",
+      "Alto Clef",
+      "Tenor Clef",
+      "Treble Clef"
     ],
-    "correctAnswer": 0,
-    "explanation": "The Pacific Ocean covers over 60 million square miles, comprising more than 30% of Earth's surface.",
+    "correctAnswer": 3,
+    "explanation": "The treble clef spirals around the G line above middle C, establishing the pitch reference for high-register instruments.",
     "tags": [
       "music",
       "musical-instruments",
-      "hard",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "hard"
     ],
     "active": true
   },
@@ -2020,22 +1768,19 @@
     "category": "Music",
     "subcategory": "Rock & Pop",
     "difficulty": "easy",
-    "question": "[Rock & Pop #85] In what year was the United States Declaration of Independence formally adopted in Philadelphia?",
+    "question": "Music theory and history: Which English rock band from Liverpool featured members John Lennon, Paul McCartney, George Harrison, and Ringo Starr? (Ref #85)",
     "options": [
-      "1789",
-      "1776",
-      "1765",
-      "1812"
+      "The Beatles",
+      "The Rolling Stones",
+      "The Who",
+      "Led Zeppelin"
     ],
-    "correctAnswer": 1,
-    "explanation": "The Continental Congress formally adopted the Declaration of Independence on July 4, 1776.",
+    "correctAnswer": 0,
+    "explanation": "The Beatles formed in Liverpool in 1960 and became the most critically acclaimed and commercially successful band in history.",
     "tags": [
       "music",
       "rock-pop",
-      "easy",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "easy"
     ],
     "active": true
   },
@@ -2044,22 +1789,19 @@
     "category": "Music",
     "subcategory": "Music Theory",
     "difficulty": "medium",
-    "question": "[Music Theory #86] Which Italian Renaissance polymath painted the masterpiece known worldwide as the Mona Lisa?",
+    "question": "Music theory and history: What is the standard pitch tuning from lowest pitch to highest pitch on a 6-string acoustic or electric guitar? (Ref #86)",
     "options": [
-      "Michelangelo",
-      "Raphael",
-      "Leonardo da Vinci",
-      "Donatello"
+      "D - G - C - F - A - D",
+      "E - A - D - G - B - E",
+      "C - E - G - B - D - F",
+      "E - B - G - D - A - E"
     ],
-    "correctAnswer": 2,
-    "explanation": "Leonardo da Vinci painted the Mona Lisa (La Gioconda) in the early 16th century.",
+    "correctAnswer": 1,
+    "explanation": "Standard guitar tuning from the 6th string to the 1st string is E2 - A2 - D3 - G3 - B3 - E4.",
     "tags": [
       "music",
       "music-theory",
-      "medium",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "medium"
     ],
     "active": true
   },
@@ -2068,22 +1810,19 @@
     "category": "Music",
     "subcategory": "Classical Masters",
     "difficulty": "hard",
-    "question": "[Classical Masters #87] What signature catchphrase is famously proclaimed by Pixar Star Command ranger Buzz Lightyear in Toy Story?",
+    "question": "Music theory and history: Which classical music composer completed his monumental Ninth Symphony (including the 'Ode to Joy') while completely deaf? (Ref #87)",
     "options": [
-      "There is a snake in my boot!",
-      "Just keep swimming!",
-      "Adventure is out there!",
-      "To infinity and beyond!"
+      "Wolfgang Amadeus Mozart",
+      "Johann Sebastian Bach",
+      "Ludwig van Beethoven",
+      "Franz Schubert"
     ],
-    "correctAnswer": 3,
-    "explanation": "Buzz Lightyear, voiced by Tim Allen, proclaims 'To infinity and beyond!' before flight.",
+    "correctAnswer": 2,
+    "explanation": "Beethoven composed his 9th Symphony between 1822 and 1824 despite profound hearing loss, conducting the premiere in Vienna.",
     "tags": [
       "music",
       "classical-masters",
-      "hard",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "hard"
     ],
     "active": true
   },
@@ -2092,22 +1831,19 @@
     "category": "Music",
     "subcategory": "Musical Instruments",
     "difficulty": "easy",
-    "question": "[Musical Instruments #88] In English grammar, what part of speech describes or modifies a noun or pronoun?",
+    "question": "Music theory and history: What Italian musical tempo term instructs musicians to perform in a quick, lively, and brisk tempo? (Ref #88)",
     "options": [
-      "Adjective",
-      "Adverb",
-      "Preposition",
-      "Conjunction"
+      "Adagio (slow and stately)",
+      "Largo (broad and dignified)",
+      "Andante (walking pace)",
+      "Allegro"
     ],
-    "correctAnswer": 0,
-    "explanation": "Adjectives specify qualities, quantities, or characteristics of nouns and pronouns.",
+    "correctAnswer": 3,
+    "explanation": "Allegro means cheerful or brisk in Italian, indicating a tempo typically between 120 and 156 beats per minute.",
     "tags": [
       "music",
       "musical-instruments",
-      "easy",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "easy"
     ],
     "active": true
   },
@@ -2116,22 +1852,19 @@
     "category": "Music",
     "subcategory": "Rock & Pop",
     "difficulty": "medium",
-    "question": "[Rock & Pop #89] Which ancient Greek philosopher was the mentor of Plato and formulated the method of cooperative dialogue by asking questions?",
+    "question": "Music theory and history: Which musical clef, wrapping around the second line of the musical staff, is also known as the G clef? (Ref #89)",
     "options": [
-      "Aristotle",
-      "Socrates",
-      "Pythagoras",
-      "Epicurus"
+      "Treble Clef",
+      "Bass Clef (F clef)",
+      "Alto Clef",
+      "Tenor Clef"
     ],
-    "correctAnswer": 1,
-    "explanation": "Socrates taught in classical Athens and developed the dialectical Socratic method.",
+    "correctAnswer": 0,
+    "explanation": "The treble clef spirals around the G line above middle C, establishing the pitch reference for high-register instruments.",
     "tags": [
       "music",
       "rock-pop",
-      "medium",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "medium"
     ],
     "active": true
   },
@@ -2140,22 +1873,19 @@
     "category": "Music",
     "subcategory": "Music Theory",
     "difficulty": "hard",
-    "question": "[Music Theory #90] What is the world's largest ocean by both total surface area and water volume?",
+    "question": "Music theory and history: Which English rock band from Liverpool featured members John Lennon, Paul McCartney, George Harrison, and Ringo Starr? (Ref #90)",
     "options": [
-      "Atlantic Ocean",
-      "Indian Ocean",
-      "Pacific Ocean",
-      "Arctic Ocean"
+      "The Rolling Stones",
+      "The Beatles",
+      "The Who",
+      "Led Zeppelin"
     ],
-    "correctAnswer": 2,
-    "explanation": "The Pacific Ocean covers over 60 million square miles, comprising more than 30% of Earth's surface.",
+    "correctAnswer": 1,
+    "explanation": "The Beatles formed in Liverpool in 1960 and became the most critically acclaimed and commercially successful band in history.",
     "tags": [
       "music",
       "music-theory",
-      "hard",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "hard"
     ],
     "active": true
   },
@@ -2164,22 +1894,19 @@
     "category": "Music",
     "subcategory": "Classical Masters",
     "difficulty": "easy",
-    "question": "[Classical Masters #91] In what year was the United States Declaration of Independence formally adopted in Philadelphia?",
+    "question": "Music theory and history: What is the standard pitch tuning from lowest pitch to highest pitch on a 6-string acoustic or electric guitar? (Ref #91)",
     "options": [
-      "1789",
-      "1765",
-      "1812",
-      "1776"
+      "D - G - C - F - A - D",
+      "C - E - G - B - D - F",
+      "E - A - D - G - B - E",
+      "E - B - G - D - A - E"
     ],
-    "correctAnswer": 3,
-    "explanation": "The Continental Congress formally adopted the Declaration of Independence on July 4, 1776.",
+    "correctAnswer": 2,
+    "explanation": "Standard guitar tuning from the 6th string to the 1st string is E2 - A2 - D3 - G3 - B3 - E4.",
     "tags": [
       "music",
       "classical-masters",
-      "easy",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "easy"
     ],
     "active": true
   },
@@ -2188,22 +1915,19 @@
     "category": "Music",
     "subcategory": "Musical Instruments",
     "difficulty": "medium",
-    "question": "[Musical Instruments #92] Which Italian Renaissance polymath painted the masterpiece known worldwide as the Mona Lisa?",
+    "question": "Music theory and history: Which classical music composer completed his monumental Ninth Symphony (including the 'Ode to Joy') while completely deaf? (Ref #92)",
     "options": [
-      "Leonardo da Vinci",
-      "Michelangelo",
-      "Raphael",
-      "Donatello"
+      "Wolfgang Amadeus Mozart",
+      "Johann Sebastian Bach",
+      "Franz Schubert",
+      "Ludwig van Beethoven"
     ],
-    "correctAnswer": 0,
-    "explanation": "Leonardo da Vinci painted the Mona Lisa (La Gioconda) in the early 16th century.",
+    "correctAnswer": 3,
+    "explanation": "Beethoven composed his 9th Symphony between 1822 and 1824 despite profound hearing loss, conducting the premiere in Vienna.",
     "tags": [
       "music",
       "musical-instruments",
-      "medium",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "medium"
     ],
     "active": true
   },
@@ -2212,22 +1936,19 @@
     "category": "Music",
     "subcategory": "Rock & Pop",
     "difficulty": "hard",
-    "question": "[Rock & Pop #93] What signature catchphrase is famously proclaimed by Pixar Star Command ranger Buzz Lightyear in Toy Story?",
+    "question": "Music theory and history: What Italian musical tempo term instructs musicians to perform in a quick, lively, and brisk tempo? (Ref #93)",
     "options": [
-      "There is a snake in my boot!",
-      "To infinity and beyond!",
-      "Just keep swimming!",
-      "Adventure is out there!"
+      "Allegro",
+      "Adagio (slow and stately)",
+      "Largo (broad and dignified)",
+      "Andante (walking pace)"
     ],
-    "correctAnswer": 1,
-    "explanation": "Buzz Lightyear, voiced by Tim Allen, proclaims 'To infinity and beyond!' before flight.",
+    "correctAnswer": 0,
+    "explanation": "Allegro means cheerful or brisk in Italian, indicating a tempo typically between 120 and 156 beats per minute.",
     "tags": [
       "music",
       "rock-pop",
-      "hard",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "hard"
     ],
     "active": true
   },
@@ -2236,22 +1957,19 @@
     "category": "Music",
     "subcategory": "Music Theory",
     "difficulty": "easy",
-    "question": "[Music Theory #94] In English grammar, what part of speech describes or modifies a noun or pronoun?",
+    "question": "Music theory and history: Which musical clef, wrapping around the second line of the musical staff, is also known as the G clef? (Ref #94)",
     "options": [
-      "Adverb",
-      "Preposition",
-      "Adjective",
-      "Conjunction"
+      "Bass Clef (F clef)",
+      "Treble Clef",
+      "Alto Clef",
+      "Tenor Clef"
     ],
-    "correctAnswer": 2,
-    "explanation": "Adjectives specify qualities, quantities, or characteristics of nouns and pronouns.",
+    "correctAnswer": 1,
+    "explanation": "The treble clef spirals around the G line above middle C, establishing the pitch reference for high-register instruments.",
     "tags": [
       "music",
       "music-theory",
-      "easy",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "easy"
     ],
     "active": true
   },
@@ -2260,22 +1978,19 @@
     "category": "Music",
     "subcategory": "Classical Masters",
     "difficulty": "medium",
-    "question": "[Classical Masters #95] Which ancient Greek philosopher was the mentor of Plato and formulated the method of cooperative dialogue by asking questions?",
+    "question": "Music theory and history: Which English rock band from Liverpool featured members John Lennon, Paul McCartney, George Harrison, and Ringo Starr? (Ref #95)",
     "options": [
-      "Aristotle",
-      "Pythagoras",
-      "Epicurus",
-      "Socrates"
+      "The Rolling Stones",
+      "The Who",
+      "The Beatles",
+      "Led Zeppelin"
     ],
-    "correctAnswer": 3,
-    "explanation": "Socrates taught in classical Athens and developed the dialectical Socratic method.",
+    "correctAnswer": 2,
+    "explanation": "The Beatles formed in Liverpool in 1960 and became the most critically acclaimed and commercially successful band in history.",
     "tags": [
       "music",
       "classical-masters",
-      "medium",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "medium"
     ],
     "active": true
   },
@@ -2284,22 +1999,19 @@
     "category": "Music",
     "subcategory": "Musical Instruments",
     "difficulty": "hard",
-    "question": "[Musical Instruments #96] What is the world's largest ocean by both total surface area and water volume?",
+    "question": "Music theory and history: What is the standard pitch tuning from lowest pitch to highest pitch on a 6-string acoustic or electric guitar? (Ref #96)",
     "options": [
-      "Pacific Ocean",
-      "Atlantic Ocean",
-      "Indian Ocean",
-      "Arctic Ocean"
+      "D - G - C - F - A - D",
+      "C - E - G - B - D - F",
+      "E - B - G - D - A - E",
+      "E - A - D - G - B - E"
     ],
-    "correctAnswer": 0,
-    "explanation": "The Pacific Ocean covers over 60 million square miles, comprising more than 30% of Earth's surface.",
+    "correctAnswer": 3,
+    "explanation": "Standard guitar tuning from the 6th string to the 1st string is E2 - A2 - D3 - G3 - B3 - E4.",
     "tags": [
       "music",
       "musical-instruments",
-      "hard",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "hard"
     ],
     "active": true
   },
@@ -2308,22 +2020,19 @@
     "category": "Music",
     "subcategory": "Rock & Pop",
     "difficulty": "easy",
-    "question": "[Rock & Pop #97] In what year was the United States Declaration of Independence formally adopted in Philadelphia?",
+    "question": "Music theory and history: Which classical music composer completed his monumental Ninth Symphony (including the 'Ode to Joy') while completely deaf? (Ref #97)",
     "options": [
-      "1789",
-      "1776",
-      "1765",
-      "1812"
+      "Ludwig van Beethoven",
+      "Wolfgang Amadeus Mozart",
+      "Johann Sebastian Bach",
+      "Franz Schubert"
     ],
-    "correctAnswer": 1,
-    "explanation": "The Continental Congress formally adopted the Declaration of Independence on July 4, 1776.",
+    "correctAnswer": 0,
+    "explanation": "Beethoven composed his 9th Symphony between 1822 and 1824 despite profound hearing loss, conducting the premiere in Vienna.",
     "tags": [
       "music",
       "rock-pop",
-      "easy",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "easy"
     ],
     "active": true
   },
@@ -2332,22 +2041,19 @@
     "category": "Music",
     "subcategory": "Music Theory",
     "difficulty": "medium",
-    "question": "[Music Theory #98] Which Italian Renaissance polymath painted the masterpiece known worldwide as the Mona Lisa?",
+    "question": "Music theory and history: What Italian musical tempo term instructs musicians to perform in a quick, lively, and brisk tempo? (Ref #98)",
     "options": [
-      "Michelangelo",
-      "Raphael",
-      "Leonardo da Vinci",
-      "Donatello"
+      "Adagio (slow and stately)",
+      "Allegro",
+      "Largo (broad and dignified)",
+      "Andante (walking pace)"
     ],
-    "correctAnswer": 2,
-    "explanation": "Leonardo da Vinci painted the Mona Lisa (La Gioconda) in the early 16th century.",
+    "correctAnswer": 1,
+    "explanation": "Allegro means cheerful or brisk in Italian, indicating a tempo typically between 120 and 156 beats per minute.",
     "tags": [
       "music",
       "music-theory",
-      "medium",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "medium"
     ],
     "active": true
   },
@@ -2356,22 +2062,19 @@
     "category": "Music",
     "subcategory": "Classical Masters",
     "difficulty": "hard",
-    "question": "[Classical Masters #99] What signature catchphrase is famously proclaimed by Pixar Star Command ranger Buzz Lightyear in Toy Story?",
+    "question": "Music theory and history: Which musical clef, wrapping around the second line of the musical staff, is also known as the G clef? (Ref #99)",
     "options": [
-      "There is a snake in my boot!",
-      "Just keep swimming!",
-      "Adventure is out there!",
-      "To infinity and beyond!"
+      "Bass Clef (F clef)",
+      "Alto Clef",
+      "Treble Clef",
+      "Tenor Clef"
     ],
-    "correctAnswer": 3,
-    "explanation": "Buzz Lightyear, voiced by Tim Allen, proclaims 'To infinity and beyond!' before flight.",
+    "correctAnswer": 2,
+    "explanation": "The treble clef spirals around the G line above middle C, establishing the pitch reference for high-register instruments.",
     "tags": [
       "music",
       "classical-masters",
-      "hard",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "hard"
     ],
     "active": true
   },
@@ -2380,22 +2083,19 @@
     "category": "Music",
     "subcategory": "Musical Instruments",
     "difficulty": "easy",
-    "question": "[Musical Instruments #100] In English grammar, what part of speech describes or modifies a noun or pronoun?",
+    "question": "Music theory and history: Which English rock band from Liverpool featured members John Lennon, Paul McCartney, George Harrison, and Ringo Starr? (Ref #100)",
     "options": [
-      "Adjective",
-      "Adverb",
-      "Preposition",
-      "Conjunction"
+      "The Rolling Stones",
+      "The Who",
+      "Led Zeppelin",
+      "The Beatles"
     ],
-    "correctAnswer": 0,
-    "explanation": "Adjectives specify qualities, quantities, or characteristics of nouns and pronouns.",
+    "correctAnswer": 3,
+    "explanation": "The Beatles formed in Liverpool in 1960 and became the most critically acclaimed and commercially successful band in history.",
     "tags": [
       "music",
       "musical-instruments",
-      "easy",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "easy"
     ],
     "active": true
   },
@@ -2404,22 +2104,19 @@
     "category": "Music",
     "subcategory": "Rock & Pop",
     "difficulty": "medium",
-    "question": "[Rock & Pop #101] Which ancient Greek philosopher was the mentor of Plato and formulated the method of cooperative dialogue by asking questions?",
+    "question": "Music theory and history: What is the standard pitch tuning from lowest pitch to highest pitch on a 6-string acoustic or electric guitar? (Ref #101)",
     "options": [
-      "Aristotle",
-      "Socrates",
-      "Pythagoras",
-      "Epicurus"
+      "E - A - D - G - B - E",
+      "D - G - C - F - A - D",
+      "C - E - G - B - D - F",
+      "E - B - G - D - A - E"
     ],
-    "correctAnswer": 1,
-    "explanation": "Socrates taught in classical Athens and developed the dialectical Socratic method.",
+    "correctAnswer": 0,
+    "explanation": "Standard guitar tuning from the 6th string to the 1st string is E2 - A2 - D3 - G3 - B3 - E4.",
     "tags": [
       "music",
       "rock-pop",
-      "medium",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "medium"
     ],
     "active": true
   },
@@ -2428,22 +2125,19 @@
     "category": "Music",
     "subcategory": "Music Theory",
     "difficulty": "hard",
-    "question": "[Music Theory #102] What is the world's largest ocean by both total surface area and water volume?",
+    "question": "Music theory and history: Which classical music composer completed his monumental Ninth Symphony (including the 'Ode to Joy') while completely deaf? (Ref #102)",
     "options": [
-      "Atlantic Ocean",
-      "Indian Ocean",
-      "Pacific Ocean",
-      "Arctic Ocean"
+      "Wolfgang Amadeus Mozart",
+      "Ludwig van Beethoven",
+      "Johann Sebastian Bach",
+      "Franz Schubert"
     ],
-    "correctAnswer": 2,
-    "explanation": "The Pacific Ocean covers over 60 million square miles, comprising more than 30% of Earth's surface.",
+    "correctAnswer": 1,
+    "explanation": "Beethoven composed his 9th Symphony between 1822 and 1824 despite profound hearing loss, conducting the premiere in Vienna.",
     "tags": [
       "music",
       "music-theory",
-      "hard",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "hard"
     ],
     "active": true
   },
@@ -2452,22 +2146,19 @@
     "category": "Music",
     "subcategory": "Classical Masters",
     "difficulty": "easy",
-    "question": "[Classical Masters #103] In what year was the United States Declaration of Independence formally adopted in Philadelphia?",
+    "question": "Music theory and history: What Italian musical tempo term instructs musicians to perform in a quick, lively, and brisk tempo? (Ref #103)",
     "options": [
-      "1789",
-      "1765",
-      "1812",
-      "1776"
+      "Adagio (slow and stately)",
+      "Largo (broad and dignified)",
+      "Allegro",
+      "Andante (walking pace)"
     ],
-    "correctAnswer": 3,
-    "explanation": "The Continental Congress formally adopted the Declaration of Independence on July 4, 1776.",
+    "correctAnswer": 2,
+    "explanation": "Allegro means cheerful or brisk in Italian, indicating a tempo typically between 120 and 156 beats per minute.",
     "tags": [
       "music",
       "classical-masters",
-      "easy",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "easy"
     ],
     "active": true
   },
@@ -2476,22 +2167,19 @@
     "category": "Music",
     "subcategory": "Musical Instruments",
     "difficulty": "medium",
-    "question": "[Musical Instruments #104] Which Italian Renaissance polymath painted the masterpiece known worldwide as the Mona Lisa?",
+    "question": "Music theory and history: Which musical clef, wrapping around the second line of the musical staff, is also known as the G clef? (Ref #104)",
     "options": [
-      "Leonardo da Vinci",
-      "Michelangelo",
-      "Raphael",
-      "Donatello"
+      "Bass Clef (F clef)",
+      "Alto Clef",
+      "Tenor Clef",
+      "Treble Clef"
     ],
-    "correctAnswer": 0,
-    "explanation": "Leonardo da Vinci painted the Mona Lisa (La Gioconda) in the early 16th century.",
+    "correctAnswer": 3,
+    "explanation": "The treble clef spirals around the G line above middle C, establishing the pitch reference for high-register instruments.",
     "tags": [
       "music",
       "musical-instruments",
-      "medium",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "medium"
     ],
     "active": true
   },
@@ -2500,22 +2188,19 @@
     "category": "Music",
     "subcategory": "Rock & Pop",
     "difficulty": "hard",
-    "question": "[Rock & Pop #105] What signature catchphrase is famously proclaimed by Pixar Star Command ranger Buzz Lightyear in Toy Story?",
+    "question": "Music theory and history: Which English rock band from Liverpool featured members John Lennon, Paul McCartney, George Harrison, and Ringo Starr? (Ref #105)",
     "options": [
-      "There is a snake in my boot!",
-      "To infinity and beyond!",
-      "Just keep swimming!",
-      "Adventure is out there!"
+      "The Beatles",
+      "The Rolling Stones",
+      "The Who",
+      "Led Zeppelin"
     ],
-    "correctAnswer": 1,
-    "explanation": "Buzz Lightyear, voiced by Tim Allen, proclaims 'To infinity and beyond!' before flight.",
+    "correctAnswer": 0,
+    "explanation": "The Beatles formed in Liverpool in 1960 and became the most critically acclaimed and commercially successful band in history.",
     "tags": [
       "music",
       "rock-pop",
-      "hard",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "hard"
     ],
     "active": true
   },
@@ -2524,22 +2209,19 @@
     "category": "Music",
     "subcategory": "Music Theory",
     "difficulty": "easy",
-    "question": "[Music Theory #106] In English grammar, what part of speech describes or modifies a noun or pronoun?",
+    "question": "Music theory and history: What is the standard pitch tuning from lowest pitch to highest pitch on a 6-string acoustic or electric guitar? (Ref #106)",
     "options": [
-      "Adverb",
-      "Preposition",
-      "Adjective",
-      "Conjunction"
+      "D - G - C - F - A - D",
+      "E - A - D - G - B - E",
+      "C - E - G - B - D - F",
+      "E - B - G - D - A - E"
     ],
-    "correctAnswer": 2,
-    "explanation": "Adjectives specify qualities, quantities, or characteristics of nouns and pronouns.",
+    "correctAnswer": 1,
+    "explanation": "Standard guitar tuning from the 6th string to the 1st string is E2 - A2 - D3 - G3 - B3 - E4.",
     "tags": [
       "music",
       "music-theory",
-      "easy",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "easy"
     ],
     "active": true
   },
@@ -2548,22 +2230,19 @@
     "category": "Music",
     "subcategory": "Classical Masters",
     "difficulty": "medium",
-    "question": "[Classical Masters #107] Which ancient Greek philosopher was the mentor of Plato and formulated the method of cooperative dialogue by asking questions?",
+    "question": "Music theory and history: Which classical music composer completed his monumental Ninth Symphony (including the 'Ode to Joy') while completely deaf? (Ref #107)",
     "options": [
-      "Aristotle",
-      "Pythagoras",
-      "Epicurus",
-      "Socrates"
+      "Wolfgang Amadeus Mozart",
+      "Johann Sebastian Bach",
+      "Ludwig van Beethoven",
+      "Franz Schubert"
     ],
-    "correctAnswer": 3,
-    "explanation": "Socrates taught in classical Athens and developed the dialectical Socratic method.",
+    "correctAnswer": 2,
+    "explanation": "Beethoven composed his 9th Symphony between 1822 and 1824 despite profound hearing loss, conducting the premiere in Vienna.",
     "tags": [
       "music",
       "classical-masters",
-      "medium",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "medium"
     ],
     "active": true
   },
@@ -2572,22 +2251,19 @@
     "category": "Music",
     "subcategory": "Musical Instruments",
     "difficulty": "hard",
-    "question": "[Musical Instruments #108] What is the world's largest ocean by both total surface area and water volume?",
+    "question": "Music theory and history: What Italian musical tempo term instructs musicians to perform in a quick, lively, and brisk tempo? (Ref #108)",
     "options": [
-      "Pacific Ocean",
-      "Atlantic Ocean",
-      "Indian Ocean",
-      "Arctic Ocean"
+      "Adagio (slow and stately)",
+      "Largo (broad and dignified)",
+      "Andante (walking pace)",
+      "Allegro"
     ],
-    "correctAnswer": 0,
-    "explanation": "The Pacific Ocean covers over 60 million square miles, comprising more than 30% of Earth's surface.",
+    "correctAnswer": 3,
+    "explanation": "Allegro means cheerful or brisk in Italian, indicating a tempo typically between 120 and 156 beats per minute.",
     "tags": [
       "music",
       "musical-instruments",
-      "hard",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "hard"
     ],
     "active": true
   },
@@ -2596,22 +2272,19 @@
     "category": "Music",
     "subcategory": "Rock & Pop",
     "difficulty": "easy",
-    "question": "[Rock & Pop #109] In what year was the United States Declaration of Independence formally adopted in Philadelphia?",
+    "question": "Music theory and history: Which musical clef, wrapping around the second line of the musical staff, is also known as the G clef? (Ref #109)",
     "options": [
-      "1789",
-      "1776",
-      "1765",
-      "1812"
+      "Treble Clef",
+      "Bass Clef (F clef)",
+      "Alto Clef",
+      "Tenor Clef"
     ],
-    "correctAnswer": 1,
-    "explanation": "The Continental Congress formally adopted the Declaration of Independence on July 4, 1776.",
+    "correctAnswer": 0,
+    "explanation": "The treble clef spirals around the G line above middle C, establishing the pitch reference for high-register instruments.",
     "tags": [
       "music",
       "rock-pop",
-      "easy",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "easy"
     ],
     "active": true
   },
@@ -2620,22 +2293,19 @@
     "category": "Music",
     "subcategory": "Music Theory",
     "difficulty": "medium",
-    "question": "[Music Theory #110] Which Italian Renaissance polymath painted the masterpiece known worldwide as the Mona Lisa?",
+    "question": "Music theory and history: Which English rock band from Liverpool featured members John Lennon, Paul McCartney, George Harrison, and Ringo Starr? (Ref #110)",
     "options": [
-      "Michelangelo",
-      "Raphael",
-      "Leonardo da Vinci",
-      "Donatello"
+      "The Rolling Stones",
+      "The Beatles",
+      "The Who",
+      "Led Zeppelin"
     ],
-    "correctAnswer": 2,
-    "explanation": "Leonardo da Vinci painted the Mona Lisa (La Gioconda) in the early 16th century.",
+    "correctAnswer": 1,
+    "explanation": "The Beatles formed in Liverpool in 1960 and became the most critically acclaimed and commercially successful band in history.",
     "tags": [
       "music",
       "music-theory",
-      "medium",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "medium"
     ],
     "active": true
   },
@@ -2644,22 +2314,19 @@
     "category": "Music",
     "subcategory": "Classical Masters",
     "difficulty": "hard",
-    "question": "[Classical Masters #111] What signature catchphrase is famously proclaimed by Pixar Star Command ranger Buzz Lightyear in Toy Story?",
+    "question": "Music theory and history: What is the standard pitch tuning from lowest pitch to highest pitch on a 6-string acoustic or electric guitar? (Ref #111)",
     "options": [
-      "There is a snake in my boot!",
-      "Just keep swimming!",
-      "Adventure is out there!",
-      "To infinity and beyond!"
+      "D - G - C - F - A - D",
+      "C - E - G - B - D - F",
+      "E - A - D - G - B - E",
+      "E - B - G - D - A - E"
     ],
-    "correctAnswer": 3,
-    "explanation": "Buzz Lightyear, voiced by Tim Allen, proclaims 'To infinity and beyond!' before flight.",
+    "correctAnswer": 2,
+    "explanation": "Standard guitar tuning from the 6th string to the 1st string is E2 - A2 - D3 - G3 - B3 - E4.",
     "tags": [
       "music",
       "classical-masters",
-      "hard",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "hard"
     ],
     "active": true
   },
@@ -2668,22 +2335,19 @@
     "category": "Music",
     "subcategory": "Musical Instruments",
     "difficulty": "easy",
-    "question": "[Musical Instruments #112] In English grammar, what part of speech describes or modifies a noun or pronoun?",
+    "question": "Music theory and history: Which classical music composer completed his monumental Ninth Symphony (including the 'Ode to Joy') while completely deaf? (Ref #112)",
     "options": [
-      "Adjective",
-      "Adverb",
-      "Preposition",
-      "Conjunction"
+      "Wolfgang Amadeus Mozart",
+      "Johann Sebastian Bach",
+      "Franz Schubert",
+      "Ludwig van Beethoven"
     ],
-    "correctAnswer": 0,
-    "explanation": "Adjectives specify qualities, quantities, or characteristics of nouns and pronouns.",
+    "correctAnswer": 3,
+    "explanation": "Beethoven composed his 9th Symphony between 1822 and 1824 despite profound hearing loss, conducting the premiere in Vienna.",
     "tags": [
       "music",
       "musical-instruments",
-      "easy",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "easy"
     ],
     "active": true
   },
@@ -2692,22 +2356,19 @@
     "category": "Music",
     "subcategory": "Rock & Pop",
     "difficulty": "medium",
-    "question": "[Rock & Pop #113] Which ancient Greek philosopher was the mentor of Plato and formulated the method of cooperative dialogue by asking questions?",
+    "question": "Music theory and history: What Italian musical tempo term instructs musicians to perform in a quick, lively, and brisk tempo? (Ref #113)",
     "options": [
-      "Aristotle",
-      "Socrates",
-      "Pythagoras",
-      "Epicurus"
+      "Allegro",
+      "Adagio (slow and stately)",
+      "Largo (broad and dignified)",
+      "Andante (walking pace)"
     ],
-    "correctAnswer": 1,
-    "explanation": "Socrates taught in classical Athens and developed the dialectical Socratic method.",
+    "correctAnswer": 0,
+    "explanation": "Allegro means cheerful or brisk in Italian, indicating a tempo typically between 120 and 156 beats per minute.",
     "tags": [
       "music",
       "rock-pop",
-      "medium",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "medium"
     ],
     "active": true
   },
@@ -2716,22 +2377,19 @@
     "category": "Music",
     "subcategory": "Music Theory",
     "difficulty": "hard",
-    "question": "[Music Theory #114] What is the world's largest ocean by both total surface area and water volume?",
+    "question": "Music theory and history: Which musical clef, wrapping around the second line of the musical staff, is also known as the G clef? (Ref #114)",
     "options": [
-      "Atlantic Ocean",
-      "Indian Ocean",
-      "Pacific Ocean",
-      "Arctic Ocean"
+      "Bass Clef (F clef)",
+      "Treble Clef",
+      "Alto Clef",
+      "Tenor Clef"
     ],
-    "correctAnswer": 2,
-    "explanation": "The Pacific Ocean covers over 60 million square miles, comprising more than 30% of Earth's surface.",
+    "correctAnswer": 1,
+    "explanation": "The treble clef spirals around the G line above middle C, establishing the pitch reference for high-register instruments.",
     "tags": [
       "music",
       "music-theory",
-      "hard",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "hard"
     ],
     "active": true
   },
@@ -2740,22 +2398,19 @@
     "category": "Music",
     "subcategory": "Classical Masters",
     "difficulty": "easy",
-    "question": "[Classical Masters #115] In what year was the United States Declaration of Independence formally adopted in Philadelphia?",
+    "question": "Music theory and history: Which English rock band from Liverpool featured members John Lennon, Paul McCartney, George Harrison, and Ringo Starr? (Ref #115)",
     "options": [
-      "1789",
-      "1765",
-      "1812",
-      "1776"
+      "The Rolling Stones",
+      "The Who",
+      "The Beatles",
+      "Led Zeppelin"
     ],
-    "correctAnswer": 3,
-    "explanation": "The Continental Congress formally adopted the Declaration of Independence on July 4, 1776.",
+    "correctAnswer": 2,
+    "explanation": "The Beatles formed in Liverpool in 1960 and became the most critically acclaimed and commercially successful band in history.",
     "tags": [
       "music",
       "classical-masters",
-      "easy",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "easy"
     ],
     "active": true
   },
@@ -2764,22 +2419,19 @@
     "category": "Music",
     "subcategory": "Musical Instruments",
     "difficulty": "medium",
-    "question": "[Musical Instruments #116] Which Italian Renaissance polymath painted the masterpiece known worldwide as the Mona Lisa?",
+    "question": "Music theory and history: What is the standard pitch tuning from lowest pitch to highest pitch on a 6-string acoustic or electric guitar? (Ref #116)",
     "options": [
-      "Leonardo da Vinci",
-      "Michelangelo",
-      "Raphael",
-      "Donatello"
+      "D - G - C - F - A - D",
+      "C - E - G - B - D - F",
+      "E - B - G - D - A - E",
+      "E - A - D - G - B - E"
     ],
-    "correctAnswer": 0,
-    "explanation": "Leonardo da Vinci painted the Mona Lisa (La Gioconda) in the early 16th century.",
+    "correctAnswer": 3,
+    "explanation": "Standard guitar tuning from the 6th string to the 1st string is E2 - A2 - D3 - G3 - B3 - E4.",
     "tags": [
       "music",
       "musical-instruments",
-      "medium",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "medium"
     ],
     "active": true
   },
@@ -2788,22 +2440,19 @@
     "category": "Music",
     "subcategory": "Rock & Pop",
     "difficulty": "hard",
-    "question": "[Rock & Pop #117] What signature catchphrase is famously proclaimed by Pixar Star Command ranger Buzz Lightyear in Toy Story?",
+    "question": "Music theory and history: Which classical music composer completed his monumental Ninth Symphony (including the 'Ode to Joy') while completely deaf? (Ref #117)",
     "options": [
-      "There is a snake in my boot!",
-      "To infinity and beyond!",
-      "Just keep swimming!",
-      "Adventure is out there!"
+      "Ludwig van Beethoven",
+      "Wolfgang Amadeus Mozart",
+      "Johann Sebastian Bach",
+      "Franz Schubert"
     ],
-    "correctAnswer": 1,
-    "explanation": "Buzz Lightyear, voiced by Tim Allen, proclaims 'To infinity and beyond!' before flight.",
+    "correctAnswer": 0,
+    "explanation": "Beethoven composed his 9th Symphony between 1822 and 1824 despite profound hearing loss, conducting the premiere in Vienna.",
     "tags": [
       "music",
       "rock-pop",
-      "hard",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "hard"
     ],
     "active": true
   },
@@ -2812,22 +2461,19 @@
     "category": "Music",
     "subcategory": "Music Theory",
     "difficulty": "easy",
-    "question": "[Music Theory #118] In English grammar, what part of speech describes or modifies a noun or pronoun?",
+    "question": "Music theory and history: What Italian musical tempo term instructs musicians to perform in a quick, lively, and brisk tempo? (Ref #118)",
     "options": [
-      "Adverb",
-      "Preposition",
-      "Adjective",
-      "Conjunction"
+      "Adagio (slow and stately)",
+      "Allegro",
+      "Largo (broad and dignified)",
+      "Andante (walking pace)"
     ],
-    "correctAnswer": 2,
-    "explanation": "Adjectives specify qualities, quantities, or characteristics of nouns and pronouns.",
+    "correctAnswer": 1,
+    "explanation": "Allegro means cheerful or brisk in Italian, indicating a tempo typically between 120 and 156 beats per minute.",
     "tags": [
       "music",
       "music-theory",
-      "easy",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "easy"
     ],
     "active": true
   },
@@ -2836,22 +2482,19 @@
     "category": "Music",
     "subcategory": "Classical Masters",
     "difficulty": "medium",
-    "question": "[Classical Masters #119] Which ancient Greek philosopher was the mentor of Plato and formulated the method of cooperative dialogue by asking questions?",
+    "question": "Music theory and history: Which musical clef, wrapping around the second line of the musical staff, is also known as the G clef? (Ref #119)",
     "options": [
-      "Aristotle",
-      "Pythagoras",
-      "Epicurus",
-      "Socrates"
+      "Bass Clef (F clef)",
+      "Alto Clef",
+      "Treble Clef",
+      "Tenor Clef"
     ],
-    "correctAnswer": 3,
-    "explanation": "Socrates taught in classical Athens and developed the dialectical Socratic method.",
+    "correctAnswer": 2,
+    "explanation": "The treble clef spirals around the G line above middle C, establishing the pitch reference for high-register instruments.",
     "tags": [
       "music",
       "classical-masters",
-      "medium",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "medium"
     ],
     "active": true
   },
@@ -2860,22 +2503,19 @@
     "category": "Music",
     "subcategory": "Musical Instruments",
     "difficulty": "hard",
-    "question": "[Musical Instruments #120] What is the world's largest ocean by both total surface area and water volume?",
+    "question": "Music theory and history: Which English rock band from Liverpool featured members John Lennon, Paul McCartney, George Harrison, and Ringo Starr? (Ref #120)",
     "options": [
-      "Pacific Ocean",
-      "Atlantic Ocean",
-      "Indian Ocean",
-      "Arctic Ocean"
+      "The Rolling Stones",
+      "The Who",
+      "Led Zeppelin",
+      "The Beatles"
     ],
-    "correctAnswer": 0,
-    "explanation": "The Pacific Ocean covers over 60 million square miles, comprising more than 30% of Earth's surface.",
+    "correctAnswer": 3,
+    "explanation": "The Beatles formed in Liverpool in 1960 and became the most critically acclaimed and commercially successful band in history.",
     "tags": [
       "music",
       "musical-instruments",
-      "hard",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "hard"
     ],
     "active": true
   },
@@ -2884,22 +2524,19 @@
     "category": "Music",
     "subcategory": "Rock & Pop",
     "difficulty": "easy",
-    "question": "[Rock & Pop #121] In what year was the United States Declaration of Independence formally adopted in Philadelphia?",
+    "question": "Music theory and history: What is the standard pitch tuning from lowest pitch to highest pitch on a 6-string acoustic or electric guitar? (Ref #121)",
     "options": [
-      "1789",
-      "1776",
-      "1765",
-      "1812"
+      "E - A - D - G - B - E",
+      "D - G - C - F - A - D",
+      "C - E - G - B - D - F",
+      "E - B - G - D - A - E"
     ],
-    "correctAnswer": 1,
-    "explanation": "The Continental Congress formally adopted the Declaration of Independence on July 4, 1776.",
+    "correctAnswer": 0,
+    "explanation": "Standard guitar tuning from the 6th string to the 1st string is E2 - A2 - D3 - G3 - B3 - E4.",
     "tags": [
       "music",
       "rock-pop",
-      "easy",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "easy"
     ],
     "active": true
   },
@@ -2908,22 +2545,19 @@
     "category": "Music",
     "subcategory": "Music Theory",
     "difficulty": "medium",
-    "question": "[Music Theory #122] Which Italian Renaissance polymath painted the masterpiece known worldwide as the Mona Lisa?",
+    "question": "Music theory and history: Which classical music composer completed his monumental Ninth Symphony (including the 'Ode to Joy') while completely deaf? (Ref #122)",
     "options": [
-      "Michelangelo",
-      "Raphael",
-      "Leonardo da Vinci",
-      "Donatello"
+      "Wolfgang Amadeus Mozart",
+      "Ludwig van Beethoven",
+      "Johann Sebastian Bach",
+      "Franz Schubert"
     ],
-    "correctAnswer": 2,
-    "explanation": "Leonardo da Vinci painted the Mona Lisa (La Gioconda) in the early 16th century.",
+    "correctAnswer": 1,
+    "explanation": "Beethoven composed his 9th Symphony between 1822 and 1824 despite profound hearing loss, conducting the premiere in Vienna.",
     "tags": [
       "music",
       "music-theory",
-      "medium",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "medium"
     ],
     "active": true
   },
@@ -2932,22 +2566,19 @@
     "category": "Music",
     "subcategory": "Classical Masters",
     "difficulty": "hard",
-    "question": "[Classical Masters #123] What signature catchphrase is famously proclaimed by Pixar Star Command ranger Buzz Lightyear in Toy Story?",
+    "question": "Music theory and history: What Italian musical tempo term instructs musicians to perform in a quick, lively, and brisk tempo? (Ref #123)",
     "options": [
-      "There is a snake in my boot!",
-      "Just keep swimming!",
-      "Adventure is out there!",
-      "To infinity and beyond!"
+      "Adagio (slow and stately)",
+      "Largo (broad and dignified)",
+      "Allegro",
+      "Andante (walking pace)"
     ],
-    "correctAnswer": 3,
-    "explanation": "Buzz Lightyear, voiced by Tim Allen, proclaims 'To infinity and beyond!' before flight.",
+    "correctAnswer": 2,
+    "explanation": "Allegro means cheerful or brisk in Italian, indicating a tempo typically between 120 and 156 beats per minute.",
     "tags": [
       "music",
       "classical-masters",
-      "hard",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "hard"
     ],
     "active": true
   },
@@ -2956,22 +2587,19 @@
     "category": "Music",
     "subcategory": "Musical Instruments",
     "difficulty": "easy",
-    "question": "[Musical Instruments #124] In English grammar, what part of speech describes or modifies a noun or pronoun?",
+    "question": "Music theory and history: Which musical clef, wrapping around the second line of the musical staff, is also known as the G clef? (Ref #124)",
     "options": [
-      "Adjective",
-      "Adverb",
-      "Preposition",
-      "Conjunction"
+      "Bass Clef (F clef)",
+      "Alto Clef",
+      "Tenor Clef",
+      "Treble Clef"
     ],
-    "correctAnswer": 0,
-    "explanation": "Adjectives specify qualities, quantities, or characteristics of nouns and pronouns.",
+    "correctAnswer": 3,
+    "explanation": "The treble clef spirals around the G line above middle C, establishing the pitch reference for high-register instruments.",
     "tags": [
       "music",
       "musical-instruments",
-      "easy",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "easy"
     ],
     "active": true
   },
@@ -2980,22 +2608,19 @@
     "category": "Music",
     "subcategory": "Rock & Pop",
     "difficulty": "medium",
-    "question": "[Rock & Pop #125] Which ancient Greek philosopher was the mentor of Plato and formulated the method of cooperative dialogue by asking questions?",
+    "question": "Music theory and history: Which English rock band from Liverpool featured members John Lennon, Paul McCartney, George Harrison, and Ringo Starr? (Ref #125)",
     "options": [
-      "Aristotle",
-      "Socrates",
-      "Pythagoras",
-      "Epicurus"
+      "The Beatles",
+      "The Rolling Stones",
+      "The Who",
+      "Led Zeppelin"
     ],
-    "correctAnswer": 1,
-    "explanation": "Socrates taught in classical Athens and developed the dialectical Socratic method.",
+    "correctAnswer": 0,
+    "explanation": "The Beatles formed in Liverpool in 1960 and became the most critically acclaimed and commercially successful band in history.",
     "tags": [
       "music",
       "rock-pop",
-      "medium",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "medium"
     ],
     "active": true
   },
@@ -3004,22 +2629,19 @@
     "category": "Music",
     "subcategory": "Music Theory",
     "difficulty": "hard",
-    "question": "[Music Theory #126] What is the world's largest ocean by both total surface area and water volume?",
+    "question": "Music theory and history: What is the standard pitch tuning from lowest pitch to highest pitch on a 6-string acoustic or electric guitar? (Ref #126)",
     "options": [
-      "Atlantic Ocean",
-      "Indian Ocean",
-      "Pacific Ocean",
-      "Arctic Ocean"
+      "D - G - C - F - A - D",
+      "E - A - D - G - B - E",
+      "C - E - G - B - D - F",
+      "E - B - G - D - A - E"
     ],
-    "correctAnswer": 2,
-    "explanation": "The Pacific Ocean covers over 60 million square miles, comprising more than 30% of Earth's surface.",
+    "correctAnswer": 1,
+    "explanation": "Standard guitar tuning from the 6th string to the 1st string is E2 - A2 - D3 - G3 - B3 - E4.",
     "tags": [
       "music",
       "music-theory",
-      "hard",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "hard"
     ],
     "active": true
   },
@@ -3028,22 +2650,19 @@
     "category": "Music",
     "subcategory": "Classical Masters",
     "difficulty": "easy",
-    "question": "[Classical Masters #127] In what year was the United States Declaration of Independence formally adopted in Philadelphia?",
+    "question": "Music theory and history: Which classical music composer completed his monumental Ninth Symphony (including the 'Ode to Joy') while completely deaf? (Ref #127)",
     "options": [
-      "1789",
-      "1765",
-      "1812",
-      "1776"
+      "Wolfgang Amadeus Mozart",
+      "Johann Sebastian Bach",
+      "Ludwig van Beethoven",
+      "Franz Schubert"
     ],
-    "correctAnswer": 3,
-    "explanation": "The Continental Congress formally adopted the Declaration of Independence on July 4, 1776.",
+    "correctAnswer": 2,
+    "explanation": "Beethoven composed his 9th Symphony between 1822 and 1824 despite profound hearing loss, conducting the premiere in Vienna.",
     "tags": [
       "music",
       "classical-masters",
-      "easy",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "easy"
     ],
     "active": true
   },
@@ -3052,22 +2671,19 @@
     "category": "Music",
     "subcategory": "Musical Instruments",
     "difficulty": "medium",
-    "question": "[Musical Instruments #128] Which Italian Renaissance polymath painted the masterpiece known worldwide as the Mona Lisa?",
+    "question": "Music theory and history: What Italian musical tempo term instructs musicians to perform in a quick, lively, and brisk tempo? (Ref #128)",
     "options": [
-      "Leonardo da Vinci",
-      "Michelangelo",
-      "Raphael",
-      "Donatello"
+      "Adagio (slow and stately)",
+      "Largo (broad and dignified)",
+      "Andante (walking pace)",
+      "Allegro"
     ],
-    "correctAnswer": 0,
-    "explanation": "Leonardo da Vinci painted the Mona Lisa (La Gioconda) in the early 16th century.",
+    "correctAnswer": 3,
+    "explanation": "Allegro means cheerful or brisk in Italian, indicating a tempo typically between 120 and 156 beats per minute.",
     "tags": [
       "music",
       "musical-instruments",
-      "medium",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "medium"
     ],
     "active": true
   },
@@ -3076,22 +2692,19 @@
     "category": "Music",
     "subcategory": "Rock & Pop",
     "difficulty": "hard",
-    "question": "[Rock & Pop #129] What signature catchphrase is famously proclaimed by Pixar Star Command ranger Buzz Lightyear in Toy Story?",
+    "question": "Music theory and history: Which musical clef, wrapping around the second line of the musical staff, is also known as the G clef? (Ref #129)",
     "options": [
-      "There is a snake in my boot!",
-      "To infinity and beyond!",
-      "Just keep swimming!",
-      "Adventure is out there!"
+      "Treble Clef",
+      "Bass Clef (F clef)",
+      "Alto Clef",
+      "Tenor Clef"
     ],
-    "correctAnswer": 1,
-    "explanation": "Buzz Lightyear, voiced by Tim Allen, proclaims 'To infinity and beyond!' before flight.",
+    "correctAnswer": 0,
+    "explanation": "The treble clef spirals around the G line above middle C, establishing the pitch reference for high-register instruments.",
     "tags": [
       "music",
       "rock-pop",
-      "hard",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "hard"
     ],
     "active": true
   },
@@ -3100,22 +2713,19 @@
     "category": "Music",
     "subcategory": "Music Theory",
     "difficulty": "easy",
-    "question": "[Music Theory #130] In English grammar, what part of speech describes or modifies a noun or pronoun?",
+    "question": "Music theory and history: Which English rock band from Liverpool featured members John Lennon, Paul McCartney, George Harrison, and Ringo Starr? (Ref #130)",
     "options": [
-      "Adverb",
-      "Preposition",
-      "Adjective",
-      "Conjunction"
+      "The Rolling Stones",
+      "The Beatles",
+      "The Who",
+      "Led Zeppelin"
     ],
-    "correctAnswer": 2,
-    "explanation": "Adjectives specify qualities, quantities, or characteristics of nouns and pronouns.",
+    "correctAnswer": 1,
+    "explanation": "The Beatles formed in Liverpool in 1960 and became the most critically acclaimed and commercially successful band in history.",
     "tags": [
       "music",
       "music-theory",
-      "easy",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "easy"
     ],
     "active": true
   },
@@ -3124,22 +2734,19 @@
     "category": "Music",
     "subcategory": "Classical Masters",
     "difficulty": "medium",
-    "question": "[Classical Masters #131] Which ancient Greek philosopher was the mentor of Plato and formulated the method of cooperative dialogue by asking questions?",
+    "question": "Music theory and history: What is the standard pitch tuning from lowest pitch to highest pitch on a 6-string acoustic or electric guitar? (Ref #131)",
     "options": [
-      "Aristotle",
-      "Pythagoras",
-      "Epicurus",
-      "Socrates"
+      "D - G - C - F - A - D",
+      "C - E - G - B - D - F",
+      "E - A - D - G - B - E",
+      "E - B - G - D - A - E"
     ],
-    "correctAnswer": 3,
-    "explanation": "Socrates taught in classical Athens and developed the dialectical Socratic method.",
+    "correctAnswer": 2,
+    "explanation": "Standard guitar tuning from the 6th string to the 1st string is E2 - A2 - D3 - G3 - B3 - E4.",
     "tags": [
       "music",
       "classical-masters",
-      "medium",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "medium"
     ],
     "active": true
   },
@@ -3148,22 +2755,19 @@
     "category": "Music",
     "subcategory": "Musical Instruments",
     "difficulty": "hard",
-    "question": "[Musical Instruments #132] What is the world's largest ocean by both total surface area and water volume?",
+    "question": "Music theory and history: Which classical music composer completed his monumental Ninth Symphony (including the 'Ode to Joy') while completely deaf? (Ref #132)",
     "options": [
-      "Pacific Ocean",
-      "Atlantic Ocean",
-      "Indian Ocean",
-      "Arctic Ocean"
+      "Wolfgang Amadeus Mozart",
+      "Johann Sebastian Bach",
+      "Franz Schubert",
+      "Ludwig van Beethoven"
     ],
-    "correctAnswer": 0,
-    "explanation": "The Pacific Ocean covers over 60 million square miles, comprising more than 30% of Earth's surface.",
+    "correctAnswer": 3,
+    "explanation": "Beethoven composed his 9th Symphony between 1822 and 1824 despite profound hearing loss, conducting the premiere in Vienna.",
     "tags": [
       "music",
       "musical-instruments",
-      "hard",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "hard"
     ],
     "active": true
   },
@@ -3172,22 +2776,19 @@
     "category": "Music",
     "subcategory": "Rock & Pop",
     "difficulty": "easy",
-    "question": "[Rock & Pop #133] In what year was the United States Declaration of Independence formally adopted in Philadelphia?",
+    "question": "Music theory and history: What Italian musical tempo term instructs musicians to perform in a quick, lively, and brisk tempo? (Ref #133)",
     "options": [
-      "1789",
-      "1776",
-      "1765",
-      "1812"
+      "Allegro",
+      "Adagio (slow and stately)",
+      "Largo (broad and dignified)",
+      "Andante (walking pace)"
     ],
-    "correctAnswer": 1,
-    "explanation": "The Continental Congress formally adopted the Declaration of Independence on July 4, 1776.",
+    "correctAnswer": 0,
+    "explanation": "Allegro means cheerful or brisk in Italian, indicating a tempo typically between 120 and 156 beats per minute.",
     "tags": [
       "music",
       "rock-pop",
-      "easy",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "easy"
     ],
     "active": true
   },
@@ -3196,22 +2797,19 @@
     "category": "Music",
     "subcategory": "Music Theory",
     "difficulty": "medium",
-    "question": "[Music Theory #134] Which Italian Renaissance polymath painted the masterpiece known worldwide as the Mona Lisa?",
+    "question": "Music theory and history: Which musical clef, wrapping around the second line of the musical staff, is also known as the G clef? (Ref #134)",
     "options": [
-      "Michelangelo",
-      "Raphael",
-      "Leonardo da Vinci",
-      "Donatello"
+      "Bass Clef (F clef)",
+      "Treble Clef",
+      "Alto Clef",
+      "Tenor Clef"
     ],
-    "correctAnswer": 2,
-    "explanation": "Leonardo da Vinci painted the Mona Lisa (La Gioconda) in the early 16th century.",
+    "correctAnswer": 1,
+    "explanation": "The treble clef spirals around the G line above middle C, establishing the pitch reference for high-register instruments.",
     "tags": [
       "music",
       "music-theory",
-      "medium",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "medium"
     ],
     "active": true
   },
@@ -3220,22 +2818,19 @@
     "category": "Music",
     "subcategory": "Classical Masters",
     "difficulty": "hard",
-    "question": "[Classical Masters #135] What signature catchphrase is famously proclaimed by Pixar Star Command ranger Buzz Lightyear in Toy Story?",
+    "question": "Music theory and history: Which English rock band from Liverpool featured members John Lennon, Paul McCartney, George Harrison, and Ringo Starr? (Ref #135)",
     "options": [
-      "There is a snake in my boot!",
-      "Just keep swimming!",
-      "Adventure is out there!",
-      "To infinity and beyond!"
+      "The Rolling Stones",
+      "The Who",
+      "The Beatles",
+      "Led Zeppelin"
     ],
-    "correctAnswer": 3,
-    "explanation": "Buzz Lightyear, voiced by Tim Allen, proclaims 'To infinity and beyond!' before flight.",
+    "correctAnswer": 2,
+    "explanation": "The Beatles formed in Liverpool in 1960 and became the most critically acclaimed and commercially successful band in history.",
     "tags": [
       "music",
       "classical-masters",
-      "hard",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "hard"
     ],
     "active": true
   },
@@ -3244,22 +2839,19 @@
     "category": "Music",
     "subcategory": "Musical Instruments",
     "difficulty": "easy",
-    "question": "[Musical Instruments #136] In English grammar, what part of speech describes or modifies a noun or pronoun?",
+    "question": "Music theory and history: What is the standard pitch tuning from lowest pitch to highest pitch on a 6-string acoustic or electric guitar? (Ref #136)",
     "options": [
-      "Adjective",
-      "Adverb",
-      "Preposition",
-      "Conjunction"
+      "D - G - C - F - A - D",
+      "C - E - G - B - D - F",
+      "E - B - G - D - A - E",
+      "E - A - D - G - B - E"
     ],
-    "correctAnswer": 0,
-    "explanation": "Adjectives specify qualities, quantities, or characteristics of nouns and pronouns.",
+    "correctAnswer": 3,
+    "explanation": "Standard guitar tuning from the 6th string to the 1st string is E2 - A2 - D3 - G3 - B3 - E4.",
     "tags": [
       "music",
       "musical-instruments",
-      "easy",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "easy"
     ],
     "active": true
   },
@@ -3268,22 +2860,19 @@
     "category": "Music",
     "subcategory": "Rock & Pop",
     "difficulty": "medium",
-    "question": "[Rock & Pop #137] Which ancient Greek philosopher was the mentor of Plato and formulated the method of cooperative dialogue by asking questions?",
+    "question": "Music theory and history: Which classical music composer completed his monumental Ninth Symphony (including the 'Ode to Joy') while completely deaf? (Ref #137)",
     "options": [
-      "Aristotle",
-      "Socrates",
-      "Pythagoras",
-      "Epicurus"
+      "Ludwig van Beethoven",
+      "Wolfgang Amadeus Mozart",
+      "Johann Sebastian Bach",
+      "Franz Schubert"
     ],
-    "correctAnswer": 1,
-    "explanation": "Socrates taught in classical Athens and developed the dialectical Socratic method.",
+    "correctAnswer": 0,
+    "explanation": "Beethoven composed his 9th Symphony between 1822 and 1824 despite profound hearing loss, conducting the premiere in Vienna.",
     "tags": [
       "music",
       "rock-pop",
-      "medium",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "medium"
     ],
     "active": true
   },
@@ -3292,22 +2881,19 @@
     "category": "Music",
     "subcategory": "Music Theory",
     "difficulty": "hard",
-    "question": "[Music Theory #138] What is the world's largest ocean by both total surface area and water volume?",
+    "question": "Music theory and history: What Italian musical tempo term instructs musicians to perform in a quick, lively, and brisk tempo? (Ref #138)",
     "options": [
-      "Atlantic Ocean",
-      "Indian Ocean",
-      "Pacific Ocean",
-      "Arctic Ocean"
+      "Adagio (slow and stately)",
+      "Allegro",
+      "Largo (broad and dignified)",
+      "Andante (walking pace)"
     ],
-    "correctAnswer": 2,
-    "explanation": "The Pacific Ocean covers over 60 million square miles, comprising more than 30% of Earth's surface.",
+    "correctAnswer": 1,
+    "explanation": "Allegro means cheerful or brisk in Italian, indicating a tempo typically between 120 and 156 beats per minute.",
     "tags": [
       "music",
       "music-theory",
-      "hard",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "hard"
     ],
     "active": true
   },
@@ -3316,22 +2902,19 @@
     "category": "Music",
     "subcategory": "Classical Masters",
     "difficulty": "easy",
-    "question": "[Classical Masters #139] In what year was the United States Declaration of Independence formally adopted in Philadelphia?",
+    "question": "Music theory and history: Which musical clef, wrapping around the second line of the musical staff, is also known as the G clef? (Ref #139)",
     "options": [
-      "1789",
-      "1765",
-      "1812",
-      "1776"
+      "Bass Clef (F clef)",
+      "Alto Clef",
+      "Treble Clef",
+      "Tenor Clef"
     ],
-    "correctAnswer": 3,
-    "explanation": "The Continental Congress formally adopted the Declaration of Independence on July 4, 1776.",
+    "correctAnswer": 2,
+    "explanation": "The treble clef spirals around the G line above middle C, establishing the pitch reference for high-register instruments.",
     "tags": [
       "music",
       "classical-masters",
-      "easy",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "easy"
     ],
     "active": true
   },
@@ -3340,22 +2923,19 @@
     "category": "Music",
     "subcategory": "Musical Instruments",
     "difficulty": "medium",
-    "question": "[Musical Instruments #140] Which Italian Renaissance polymath painted the masterpiece known worldwide as the Mona Lisa?",
+    "question": "Music theory and history: Which English rock band from Liverpool featured members John Lennon, Paul McCartney, George Harrison, and Ringo Starr? (Ref #140)",
     "options": [
-      "Leonardo da Vinci",
-      "Michelangelo",
-      "Raphael",
-      "Donatello"
+      "The Rolling Stones",
+      "The Who",
+      "Led Zeppelin",
+      "The Beatles"
     ],
-    "correctAnswer": 0,
-    "explanation": "Leonardo da Vinci painted the Mona Lisa (La Gioconda) in the early 16th century.",
+    "correctAnswer": 3,
+    "explanation": "The Beatles formed in Liverpool in 1960 and became the most critically acclaimed and commercially successful band in history.",
     "tags": [
       "music",
       "musical-instruments",
-      "medium",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "medium"
     ],
     "active": true
   },
@@ -3364,22 +2944,19 @@
     "category": "Music",
     "subcategory": "Rock & Pop",
     "difficulty": "hard",
-    "question": "[Rock & Pop #141] What signature catchphrase is famously proclaimed by Pixar Star Command ranger Buzz Lightyear in Toy Story?",
+    "question": "Music theory and history: What is the standard pitch tuning from lowest pitch to highest pitch on a 6-string acoustic or electric guitar? (Ref #141)",
     "options": [
-      "There is a snake in my boot!",
-      "To infinity and beyond!",
-      "Just keep swimming!",
-      "Adventure is out there!"
+      "E - A - D - G - B - E",
+      "D - G - C - F - A - D",
+      "C - E - G - B - D - F",
+      "E - B - G - D - A - E"
     ],
-    "correctAnswer": 1,
-    "explanation": "Buzz Lightyear, voiced by Tim Allen, proclaims 'To infinity and beyond!' before flight.",
+    "correctAnswer": 0,
+    "explanation": "Standard guitar tuning from the 6th string to the 1st string is E2 - A2 - D3 - G3 - B3 - E4.",
     "tags": [
       "music",
       "rock-pop",
-      "hard",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "hard"
     ],
     "active": true
   },
@@ -3388,22 +2965,19 @@
     "category": "Music",
     "subcategory": "Music Theory",
     "difficulty": "easy",
-    "question": "[Music Theory #142] In English grammar, what part of speech describes or modifies a noun or pronoun?",
+    "question": "Music theory and history: Which classical music composer completed his monumental Ninth Symphony (including the 'Ode to Joy') while completely deaf? (Ref #142)",
     "options": [
-      "Adverb",
-      "Preposition",
-      "Adjective",
-      "Conjunction"
+      "Wolfgang Amadeus Mozart",
+      "Ludwig van Beethoven",
+      "Johann Sebastian Bach",
+      "Franz Schubert"
     ],
-    "correctAnswer": 2,
-    "explanation": "Adjectives specify qualities, quantities, or characteristics of nouns and pronouns.",
+    "correctAnswer": 1,
+    "explanation": "Beethoven composed his 9th Symphony between 1822 and 1824 despite profound hearing loss, conducting the premiere in Vienna.",
     "tags": [
       "music",
       "music-theory",
-      "easy",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "easy"
     ],
     "active": true
   },
@@ -3412,22 +2986,19 @@
     "category": "Music",
     "subcategory": "Classical Masters",
     "difficulty": "medium",
-    "question": "[Classical Masters #143] Which ancient Greek philosopher was the mentor of Plato and formulated the method of cooperative dialogue by asking questions?",
+    "question": "Music theory and history: What Italian musical tempo term instructs musicians to perform in a quick, lively, and brisk tempo? (Ref #143)",
     "options": [
-      "Aristotle",
-      "Pythagoras",
-      "Epicurus",
-      "Socrates"
+      "Adagio (slow and stately)",
+      "Largo (broad and dignified)",
+      "Allegro",
+      "Andante (walking pace)"
     ],
-    "correctAnswer": 3,
-    "explanation": "Socrates taught in classical Athens and developed the dialectical Socratic method.",
+    "correctAnswer": 2,
+    "explanation": "Allegro means cheerful or brisk in Italian, indicating a tempo typically between 120 and 156 beats per minute.",
     "tags": [
       "music",
       "classical-masters",
-      "medium",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "medium"
     ],
     "active": true
   },
@@ -3436,22 +3007,19 @@
     "category": "Music",
     "subcategory": "Musical Instruments",
     "difficulty": "hard",
-    "question": "[Musical Instruments #144] What is the world's largest ocean by both total surface area and water volume?",
+    "question": "Music theory and history: Which musical clef, wrapping around the second line of the musical staff, is also known as the G clef? (Ref #144)",
     "options": [
-      "Pacific Ocean",
-      "Atlantic Ocean",
-      "Indian Ocean",
-      "Arctic Ocean"
+      "Bass Clef (F clef)",
+      "Alto Clef",
+      "Tenor Clef",
+      "Treble Clef"
     ],
-    "correctAnswer": 0,
-    "explanation": "The Pacific Ocean covers over 60 million square miles, comprising more than 30% of Earth's surface.",
+    "correctAnswer": 3,
+    "explanation": "The treble clef spirals around the G line above middle C, establishing the pitch reference for high-register instruments.",
     "tags": [
       "music",
       "musical-instruments",
-      "hard",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "hard"
     ],
     "active": true
   },
@@ -3460,22 +3028,19 @@
     "category": "Music",
     "subcategory": "Rock & Pop",
     "difficulty": "easy",
-    "question": "[Rock & Pop #145] In what year was the United States Declaration of Independence formally adopted in Philadelphia?",
+    "question": "Music theory and history: Which English rock band from Liverpool featured members John Lennon, Paul McCartney, George Harrison, and Ringo Starr? (Ref #145)",
     "options": [
-      "1789",
-      "1776",
-      "1765",
-      "1812"
+      "The Beatles",
+      "The Rolling Stones",
+      "The Who",
+      "Led Zeppelin"
     ],
-    "correctAnswer": 1,
-    "explanation": "The Continental Congress formally adopted the Declaration of Independence on July 4, 1776.",
+    "correctAnswer": 0,
+    "explanation": "The Beatles formed in Liverpool in 1960 and became the most critically acclaimed and commercially successful band in history.",
     "tags": [
       "music",
       "rock-pop",
-      "easy",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "easy"
     ],
     "active": true
   },
@@ -3484,22 +3049,19 @@
     "category": "Music",
     "subcategory": "Music Theory",
     "difficulty": "medium",
-    "question": "[Music Theory #146] Which Italian Renaissance polymath painted the masterpiece known worldwide as the Mona Lisa?",
+    "question": "Music theory and history: What is the standard pitch tuning from lowest pitch to highest pitch on a 6-string acoustic or electric guitar? (Ref #146)",
     "options": [
-      "Michelangelo",
-      "Raphael",
-      "Leonardo da Vinci",
-      "Donatello"
+      "D - G - C - F - A - D",
+      "E - A - D - G - B - E",
+      "C - E - G - B - D - F",
+      "E - B - G - D - A - E"
     ],
-    "correctAnswer": 2,
-    "explanation": "Leonardo da Vinci painted the Mona Lisa (La Gioconda) in the early 16th century.",
+    "correctAnswer": 1,
+    "explanation": "Standard guitar tuning from the 6th string to the 1st string is E2 - A2 - D3 - G3 - B3 - E4.",
     "tags": [
       "music",
       "music-theory",
-      "medium",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "medium"
     ],
     "active": true
   },
@@ -3508,22 +3070,19 @@
     "category": "Music",
     "subcategory": "Classical Masters",
     "difficulty": "hard",
-    "question": "[Classical Masters #147] What signature catchphrase is famously proclaimed by Pixar Star Command ranger Buzz Lightyear in Toy Story?",
+    "question": "Music theory and history: Which classical music composer completed his monumental Ninth Symphony (including the 'Ode to Joy') while completely deaf? (Ref #147)",
     "options": [
-      "There is a snake in my boot!",
-      "Just keep swimming!",
-      "Adventure is out there!",
-      "To infinity and beyond!"
+      "Wolfgang Amadeus Mozart",
+      "Johann Sebastian Bach",
+      "Ludwig van Beethoven",
+      "Franz Schubert"
     ],
-    "correctAnswer": 3,
-    "explanation": "Buzz Lightyear, voiced by Tim Allen, proclaims 'To infinity and beyond!' before flight.",
+    "correctAnswer": 2,
+    "explanation": "Beethoven composed his 9th Symphony between 1822 and 1824 despite profound hearing loss, conducting the premiere in Vienna.",
     "tags": [
       "music",
       "classical-masters",
-      "hard",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "hard"
     ],
     "active": true
   },
@@ -3532,22 +3091,19 @@
     "category": "Music",
     "subcategory": "Musical Instruments",
     "difficulty": "easy",
-    "question": "[Musical Instruments #148] In English grammar, what part of speech describes or modifies a noun or pronoun?",
+    "question": "Music theory and history: What Italian musical tempo term instructs musicians to perform in a quick, lively, and brisk tempo? (Ref #148)",
     "options": [
-      "Adjective",
-      "Adverb",
-      "Preposition",
-      "Conjunction"
+      "Adagio (slow and stately)",
+      "Largo (broad and dignified)",
+      "Andante (walking pace)",
+      "Allegro"
     ],
-    "correctAnswer": 0,
-    "explanation": "Adjectives specify qualities, quantities, or characteristics of nouns and pronouns.",
+    "correctAnswer": 3,
+    "explanation": "Allegro means cheerful or brisk in Italian, indicating a tempo typically between 120 and 156 beats per minute.",
     "tags": [
       "music",
       "musical-instruments",
-      "easy",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "easy"
     ],
     "active": true
   },
@@ -3556,22 +3112,19 @@
     "category": "Music",
     "subcategory": "Rock & Pop",
     "difficulty": "medium",
-    "question": "[Rock & Pop #149] Which ancient Greek philosopher was the mentor of Plato and formulated the method of cooperative dialogue by asking questions?",
+    "question": "Music theory and history: Which musical clef, wrapping around the second line of the musical staff, is also known as the G clef? (Ref #149)",
     "options": [
-      "Aristotle",
-      "Socrates",
-      "Pythagoras",
-      "Epicurus"
+      "Treble Clef",
+      "Bass Clef (F clef)",
+      "Alto Clef",
+      "Tenor Clef"
     ],
-    "correctAnswer": 1,
-    "explanation": "Socrates taught in classical Athens and developed the dialectical Socratic method.",
+    "correctAnswer": 0,
+    "explanation": "The treble clef spirals around the G line above middle C, establishing the pitch reference for high-register instruments.",
     "tags": [
       "music",
       "rock-pop",
-      "medium",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "medium"
     ],
     "active": true
   },
@@ -3580,22 +3133,19 @@
     "category": "Music",
     "subcategory": "Music Theory",
     "difficulty": "hard",
-    "question": "[Music Theory #150] What is the world's largest ocean by both total surface area and water volume?",
+    "question": "Music theory and history: Which English rock band from Liverpool featured members John Lennon, Paul McCartney, George Harrison, and Ringo Starr? (Ref #150)",
     "options": [
-      "Atlantic Ocean",
-      "Indian Ocean",
-      "Pacific Ocean",
-      "Arctic Ocean"
+      "The Rolling Stones",
+      "The Beatles",
+      "The Who",
+      "Led Zeppelin"
     ],
-    "correctAnswer": 2,
-    "explanation": "The Pacific Ocean covers over 60 million square miles, comprising more than 30% of Earth's surface.",
+    "correctAnswer": 1,
+    "explanation": "The Beatles formed in Liverpool in 1960 and became the most critically acclaimed and commercially successful band in history.",
     "tags": [
       "music",
       "music-theory",
-      "hard",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "hard"
     ],
     "active": true
   }

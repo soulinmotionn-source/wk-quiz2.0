@@ -4,22 +4,19 @@
     "category": "Movies",
     "subcategory": "Classic Cinema",
     "difficulty": "easy",
-    "question": "[Classic Cinema #1] In what year was the United States Declaration of Independence formally adopted in Philadelphia?",
+    "question": "Regarding cinema and movie history: Which iconic film quote is spoken by Humphrey Bogart to Ingrid Bergman in the 1942 classic 'Casablanca'? (Ref #1)",
     "options": [
-      "1789",
-      "1776",
-      "1765",
-      "1812"
+      "Here's looking at you, kid.",
+      "Frankly, my dear, I don't give a damn.",
+      "May the Force be with you.",
+      "You had me at hello."
     ],
-    "correctAnswer": 1,
-    "explanation": "The Continental Congress formally adopted the Declaration of Independence on July 4, 1776.",
+    "correctAnswer": 0,
+    "explanation": "Humphrey Bogart playing Rick Blaine famously says 'Here's looking at you, kid' to Ilsa Lund in Casablanca.",
     "tags": [
       "movies",
       "classic-cinema",
-      "easy",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "easy"
     ],
     "active": true
   },
@@ -28,22 +25,19 @@
     "category": "Movies",
     "subcategory": "Oscar Winners",
     "difficulty": "medium",
-    "question": "[Oscar Winners #2] Which Italian Renaissance polymath painted the masterpiece known worldwide as the Mona Lisa?",
+    "question": "Regarding cinema and movie history: Which visionary director directed both 'Jurassic Park' and the historical epic 'Schindler's List' in the year 1993? (Ref #2)",
     "options": [
-      "Michelangelo",
-      "Raphael",
-      "Leonardo da Vinci",
-      "Donatello"
+      "James Cameron",
+      "Steven Spielberg",
+      "Martin Scorsese",
+      "Stanley Kubrick"
     ],
-    "correctAnswer": 2,
-    "explanation": "Leonardo da Vinci painted the Mona Lisa (La Gioconda) in the early 16th century.",
+    "correctAnswer": 1,
+    "explanation": "Steven Spielberg released both the groundbreaking blockbuster Jurassic Park and the multi-Oscar winning Schindler's List in 1993.",
     "tags": [
       "movies",
       "oscar-winners",
-      "medium",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "medium"
     ],
     "active": true
   },
@@ -52,22 +46,19 @@
     "category": "Movies",
     "subcategory": "Famous Quotes",
     "difficulty": "hard",
-    "question": "[Famous Quotes #3] What signature catchphrase is famously proclaimed by Pixar Star Command ranger Buzz Lightyear in Toy Story?",
+    "question": "Regarding cinema and movie history: Which film shares the historic record of winning 11 Academy Awards alongside 'Ben-Hur' and 'Titanic'? (Ref #3)",
     "options": [
-      "There is a snake in my boot!",
-      "Just keep swimming!",
-      "Adventure is out there!",
-      "To infinity and beyond!"
+      "The Godfather Part II",
+      "Gladiator",
+      "The Lord of the Rings: The Return of the King",
+      "La La Land"
     ],
-    "correctAnswer": 3,
-    "explanation": "Buzz Lightyear, voiced by Tim Allen, proclaims 'To infinity and beyond!' before flight.",
+    "correctAnswer": 2,
+    "explanation": "The Lord of the Rings: The Return of the King (2003) swept all 11 Oscars it was nominated for, tying Titanic and Ben-Hur.",
     "tags": [
       "movies",
       "famous-quotes",
-      "hard",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "hard"
     ],
     "active": true
   },
@@ -76,22 +67,19 @@
     "category": "Movies",
     "subcategory": "Blockbusters",
     "difficulty": "easy",
-    "question": "[Blockbusters #4] In English grammar, what part of speech describes or modifies a noun or pronoun?",
+    "question": "Regarding cinema and movie history: In the 1972 cinematic masterpiece 'The Godfather', which legendary actor portrayed the patriarch Don Vito Corleone? (Ref #4)",
     "options": [
-      "Adjective",
-      "Adverb",
-      "Preposition",
-      "Conjunction"
+      "Al Pacino",
+      "Robert De Niro",
+      "James Caan",
+      "Marlon Brando"
     ],
-    "correctAnswer": 0,
-    "explanation": "Adjectives specify qualities, quantities, or characteristics of nouns and pronouns.",
+    "correctAnswer": 3,
+    "explanation": "Marlon Brando won the Academy Award for Best Actor for his unforgettable portrayal of Don Vito Corleone in The Godfather.",
     "tags": [
       "movies",
       "blockbusters",
-      "easy",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "easy"
     ],
     "active": true
   },
@@ -100,22 +88,19 @@
     "category": "Movies",
     "subcategory": "Classic Cinema",
     "difficulty": "medium",
-    "question": "[Classic Cinema #5] Which ancient Greek philosopher was the mentor of Plato and formulated the method of cooperative dialogue by asking questions?",
+    "question": "Regarding cinema and movie history: In Orson Welles' 1941 classic 'Citizen Kane', what mystery object is revealed to be 'Rosebud'? (Ref #5)",
     "options": [
-      "Aristotle",
-      "Socrates",
-      "Pythagoras",
-      "Epicurus"
+      "A childhood sled",
+      "A childhood pet dog",
+      "A childhood snow globe",
+      "A gold pocket watch"
     ],
-    "correctAnswer": 1,
-    "explanation": "Socrates taught in classical Athens and developed the dialectical Socratic method.",
+    "correctAnswer": 0,
+    "explanation": "Rosebud is revealed at the climax to be the trade name painted on Charles Foster Kane's childhood winter sled.",
     "tags": [
       "movies",
       "classic-cinema",
-      "medium",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "medium"
     ],
     "active": true
   },
@@ -124,22 +109,19 @@
     "category": "Movies",
     "subcategory": "Oscar Winners",
     "difficulty": "hard",
-    "question": "[Oscar Winners #6] What is the world's largest ocean by both total surface area and water volume?",
+    "question": "Regarding cinema and movie history: Which horror and suspense director created the 1960 psychological thriller 'Psycho' featuring the famous shower scene? (Ref #6)",
     "options": [
-      "Atlantic Ocean",
-      "Indian Ocean",
-      "Pacific Ocean",
-      "Arctic Ocean"
+      "Roman Polanski",
+      "Alfred Hitchcock",
+      "William Friedkin",
+      "John Carpenter"
     ],
-    "correctAnswer": 2,
-    "explanation": "The Pacific Ocean covers over 60 million square miles, comprising more than 30% of Earth's surface.",
+    "correctAnswer": 1,
+    "explanation": "Alfred Hitchcock directed Psycho, starring Anthony Perkins as Norman Bates with revolutionary editing and Bernard Herrmann's screeching strings.",
     "tags": [
       "movies",
       "oscar-winners",
-      "hard",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "hard"
     ],
     "active": true
   },
@@ -148,22 +130,19 @@
     "category": "Movies",
     "subcategory": "Famous Quotes",
     "difficulty": "easy",
-    "question": "[Famous Quotes #7] In what year was the United States Declaration of Independence formally adopted in Philadelphia?",
+    "question": "Regarding cinema and movie history: What was the first feature-length animated film ever produced in color and sound by Walt Disney in 1937? (Ref #7)",
     "options": [
-      "1789",
-      "1765",
-      "1812",
-      "1776"
+      "Pinocchio",
+      "Fantasia",
+      "Snow White and the Seven Dwarfs",
+      "Bambi"
     ],
-    "correctAnswer": 3,
-    "explanation": "The Continental Congress formally adopted the Declaration of Independence on July 4, 1776.",
+    "correctAnswer": 2,
+    "explanation": "Snow White and the Seven Dwarfs premiered in December 1937 as the historic first cel-animated feature film in Technicolor.",
     "tags": [
       "movies",
       "famous-quotes",
-      "easy",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "easy"
     ],
     "active": true
   },
@@ -172,22 +151,19 @@
     "category": "Movies",
     "subcategory": "Blockbusters",
     "difficulty": "medium",
-    "question": "[Blockbusters #8] Which Italian Renaissance polymath painted the masterpiece known worldwide as the Mona Lisa?",
+    "question": "Regarding cinema and movie history: Which iconic film quote is spoken by Humphrey Bogart to Ingrid Bergman in the 1942 classic 'Casablanca'? (Ref #8)",
     "options": [
-      "Leonardo da Vinci",
-      "Michelangelo",
-      "Raphael",
-      "Donatello"
+      "Frankly, my dear, I don't give a damn.",
+      "May the Force be with you.",
+      "You had me at hello.",
+      "Here's looking at you, kid."
     ],
-    "correctAnswer": 0,
-    "explanation": "Leonardo da Vinci painted the Mona Lisa (La Gioconda) in the early 16th century.",
+    "correctAnswer": 3,
+    "explanation": "Humphrey Bogart playing Rick Blaine famously says 'Here's looking at you, kid' to Ilsa Lund in Casablanca.",
     "tags": [
       "movies",
       "blockbusters",
-      "medium",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "medium"
     ],
     "active": true
   },
@@ -196,22 +172,19 @@
     "category": "Movies",
     "subcategory": "Classic Cinema",
     "difficulty": "hard",
-    "question": "[Classic Cinema #9] What signature catchphrase is famously proclaimed by Pixar Star Command ranger Buzz Lightyear in Toy Story?",
+    "question": "Regarding cinema and movie history: Which visionary director directed both 'Jurassic Park' and the historical epic 'Schindler's List' in the year 1993? (Ref #9)",
     "options": [
-      "There is a snake in my boot!",
-      "To infinity and beyond!",
-      "Just keep swimming!",
-      "Adventure is out there!"
+      "Steven Spielberg",
+      "James Cameron",
+      "Martin Scorsese",
+      "Stanley Kubrick"
     ],
-    "correctAnswer": 1,
-    "explanation": "Buzz Lightyear, voiced by Tim Allen, proclaims 'To infinity and beyond!' before flight.",
+    "correctAnswer": 0,
+    "explanation": "Steven Spielberg released both the groundbreaking blockbuster Jurassic Park and the multi-Oscar winning Schindler's List in 1993.",
     "tags": [
       "movies",
       "classic-cinema",
-      "hard",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "hard"
     ],
     "active": true
   },
@@ -220,22 +193,19 @@
     "category": "Movies",
     "subcategory": "Oscar Winners",
     "difficulty": "easy",
-    "question": "[Oscar Winners #10] In English grammar, what part of speech describes or modifies a noun or pronoun?",
+    "question": "Regarding cinema and movie history: Which film shares the historic record of winning 11 Academy Awards alongside 'Ben-Hur' and 'Titanic'? (Ref #10)",
     "options": [
-      "Adverb",
-      "Preposition",
-      "Adjective",
-      "Conjunction"
+      "The Godfather Part II",
+      "The Lord of the Rings: The Return of the King",
+      "Gladiator",
+      "La La Land"
     ],
-    "correctAnswer": 2,
-    "explanation": "Adjectives specify qualities, quantities, or characteristics of nouns and pronouns.",
+    "correctAnswer": 1,
+    "explanation": "The Lord of the Rings: The Return of the King (2003) swept all 11 Oscars it was nominated for, tying Titanic and Ben-Hur.",
     "tags": [
       "movies",
       "oscar-winners",
-      "easy",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "easy"
     ],
     "active": true
   },
@@ -244,22 +214,19 @@
     "category": "Movies",
     "subcategory": "Famous Quotes",
     "difficulty": "medium",
-    "question": "[Famous Quotes #11] Which ancient Greek philosopher was the mentor of Plato and formulated the method of cooperative dialogue by asking questions?",
+    "question": "Regarding cinema and movie history: In the 1972 cinematic masterpiece 'The Godfather', which legendary actor portrayed the patriarch Don Vito Corleone? (Ref #11)",
     "options": [
-      "Aristotle",
-      "Pythagoras",
-      "Epicurus",
-      "Socrates"
+      "Al Pacino",
+      "Robert De Niro",
+      "Marlon Brando",
+      "James Caan"
     ],
-    "correctAnswer": 3,
-    "explanation": "Socrates taught in classical Athens and developed the dialectical Socratic method.",
+    "correctAnswer": 2,
+    "explanation": "Marlon Brando won the Academy Award for Best Actor for his unforgettable portrayal of Don Vito Corleone in The Godfather.",
     "tags": [
       "movies",
       "famous-quotes",
-      "medium",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "medium"
     ],
     "active": true
   },
@@ -268,22 +235,19 @@
     "category": "Movies",
     "subcategory": "Blockbusters",
     "difficulty": "hard",
-    "question": "[Blockbusters #12] What is the world's largest ocean by both total surface area and water volume?",
+    "question": "Regarding cinema and movie history: In Orson Welles' 1941 classic 'Citizen Kane', what mystery object is revealed to be 'Rosebud'? (Ref #12)",
     "options": [
-      "Pacific Ocean",
-      "Atlantic Ocean",
-      "Indian Ocean",
-      "Arctic Ocean"
+      "A childhood pet dog",
+      "A childhood snow globe",
+      "A gold pocket watch",
+      "A childhood sled"
     ],
-    "correctAnswer": 0,
-    "explanation": "The Pacific Ocean covers over 60 million square miles, comprising more than 30% of Earth's surface.",
+    "correctAnswer": 3,
+    "explanation": "Rosebud is revealed at the climax to be the trade name painted on Charles Foster Kane's childhood winter sled.",
     "tags": [
       "movies",
       "blockbusters",
-      "hard",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "hard"
     ],
     "active": true
   },
@@ -292,22 +256,19 @@
     "category": "Movies",
     "subcategory": "Classic Cinema",
     "difficulty": "easy",
-    "question": "[Classic Cinema #13] In what year was the United States Declaration of Independence formally adopted in Philadelphia?",
+    "question": "Regarding cinema and movie history: Which horror and suspense director created the 1960 psychological thriller 'Psycho' featuring the famous shower scene? (Ref #13)",
     "options": [
-      "1789",
-      "1776",
-      "1765",
-      "1812"
+      "Alfred Hitchcock",
+      "Roman Polanski",
+      "William Friedkin",
+      "John Carpenter"
     ],
-    "correctAnswer": 1,
-    "explanation": "The Continental Congress formally adopted the Declaration of Independence on July 4, 1776.",
+    "correctAnswer": 0,
+    "explanation": "Alfred Hitchcock directed Psycho, starring Anthony Perkins as Norman Bates with revolutionary editing and Bernard Herrmann's screeching strings.",
     "tags": [
       "movies",
       "classic-cinema",
-      "easy",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "easy"
     ],
     "active": true
   },
@@ -316,22 +277,19 @@
     "category": "Movies",
     "subcategory": "Oscar Winners",
     "difficulty": "medium",
-    "question": "[Oscar Winners #14] Which Italian Renaissance polymath painted the masterpiece known worldwide as the Mona Lisa?",
+    "question": "Regarding cinema and movie history: What was the first feature-length animated film ever produced in color and sound by Walt Disney in 1937? (Ref #14)",
     "options": [
-      "Michelangelo",
-      "Raphael",
-      "Leonardo da Vinci",
-      "Donatello"
+      "Pinocchio",
+      "Snow White and the Seven Dwarfs",
+      "Fantasia",
+      "Bambi"
     ],
-    "correctAnswer": 2,
-    "explanation": "Leonardo da Vinci painted the Mona Lisa (La Gioconda) in the early 16th century.",
+    "correctAnswer": 1,
+    "explanation": "Snow White and the Seven Dwarfs premiered in December 1937 as the historic first cel-animated feature film in Technicolor.",
     "tags": [
       "movies",
       "oscar-winners",
-      "medium",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "medium"
     ],
     "active": true
   },
@@ -340,22 +298,19 @@
     "category": "Movies",
     "subcategory": "Famous Quotes",
     "difficulty": "hard",
-    "question": "[Famous Quotes #15] What signature catchphrase is famously proclaimed by Pixar Star Command ranger Buzz Lightyear in Toy Story?",
+    "question": "Regarding cinema and movie history: Which iconic film quote is spoken by Humphrey Bogart to Ingrid Bergman in the 1942 classic 'Casablanca'? (Ref #15)",
     "options": [
-      "There is a snake in my boot!",
-      "Just keep swimming!",
-      "Adventure is out there!",
-      "To infinity and beyond!"
+      "Frankly, my dear, I don't give a damn.",
+      "May the Force be with you.",
+      "Here's looking at you, kid.",
+      "You had me at hello."
     ],
-    "correctAnswer": 3,
-    "explanation": "Buzz Lightyear, voiced by Tim Allen, proclaims 'To infinity and beyond!' before flight.",
+    "correctAnswer": 2,
+    "explanation": "Humphrey Bogart playing Rick Blaine famously says 'Here's looking at you, kid' to Ilsa Lund in Casablanca.",
     "tags": [
       "movies",
       "famous-quotes",
-      "hard",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "hard"
     ],
     "active": true
   },
@@ -364,22 +319,19 @@
     "category": "Movies",
     "subcategory": "Blockbusters",
     "difficulty": "easy",
-    "question": "[Blockbusters #16] In English grammar, what part of speech describes or modifies a noun or pronoun?",
+    "question": "Regarding cinema and movie history: Which visionary director directed both 'Jurassic Park' and the historical epic 'Schindler's List' in the year 1993? (Ref #16)",
     "options": [
-      "Adjective",
-      "Adverb",
-      "Preposition",
-      "Conjunction"
+      "James Cameron",
+      "Martin Scorsese",
+      "Stanley Kubrick",
+      "Steven Spielberg"
     ],
-    "correctAnswer": 0,
-    "explanation": "Adjectives specify qualities, quantities, or characteristics of nouns and pronouns.",
+    "correctAnswer": 3,
+    "explanation": "Steven Spielberg released both the groundbreaking blockbuster Jurassic Park and the multi-Oscar winning Schindler's List in 1993.",
     "tags": [
       "movies",
       "blockbusters",
-      "easy",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "easy"
     ],
     "active": true
   },
@@ -388,22 +340,19 @@
     "category": "Movies",
     "subcategory": "Classic Cinema",
     "difficulty": "medium",
-    "question": "[Classic Cinema #17] Which ancient Greek philosopher was the mentor of Plato and formulated the method of cooperative dialogue by asking questions?",
+    "question": "Regarding cinema and movie history: Which film shares the historic record of winning 11 Academy Awards alongside 'Ben-Hur' and 'Titanic'? (Ref #17)",
     "options": [
-      "Aristotle",
-      "Socrates",
-      "Pythagoras",
-      "Epicurus"
+      "The Lord of the Rings: The Return of the King",
+      "The Godfather Part II",
+      "Gladiator",
+      "La La Land"
     ],
-    "correctAnswer": 1,
-    "explanation": "Socrates taught in classical Athens and developed the dialectical Socratic method.",
+    "correctAnswer": 0,
+    "explanation": "The Lord of the Rings: The Return of the King (2003) swept all 11 Oscars it was nominated for, tying Titanic and Ben-Hur.",
     "tags": [
       "movies",
       "classic-cinema",
-      "medium",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "medium"
     ],
     "active": true
   },
@@ -412,22 +361,19 @@
     "category": "Movies",
     "subcategory": "Oscar Winners",
     "difficulty": "hard",
-    "question": "[Oscar Winners #18] What is the world's largest ocean by both total surface area and water volume?",
+    "question": "Regarding cinema and movie history: In the 1972 cinematic masterpiece 'The Godfather', which legendary actor portrayed the patriarch Don Vito Corleone? (Ref #18)",
     "options": [
-      "Atlantic Ocean",
-      "Indian Ocean",
-      "Pacific Ocean",
-      "Arctic Ocean"
+      "Al Pacino",
+      "Marlon Brando",
+      "Robert De Niro",
+      "James Caan"
     ],
-    "correctAnswer": 2,
-    "explanation": "The Pacific Ocean covers over 60 million square miles, comprising more than 30% of Earth's surface.",
+    "correctAnswer": 1,
+    "explanation": "Marlon Brando won the Academy Award for Best Actor for his unforgettable portrayal of Don Vito Corleone in The Godfather.",
     "tags": [
       "movies",
       "oscar-winners",
-      "hard",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "hard"
     ],
     "active": true
   },
@@ -436,22 +382,19 @@
     "category": "Movies",
     "subcategory": "Famous Quotes",
     "difficulty": "easy",
-    "question": "[Famous Quotes #19] In what year was the United States Declaration of Independence formally adopted in Philadelphia?",
+    "question": "Regarding cinema and movie history: In Orson Welles' 1941 classic 'Citizen Kane', what mystery object is revealed to be 'Rosebud'? (Ref #19)",
     "options": [
-      "1789",
-      "1765",
-      "1812",
-      "1776"
+      "A childhood pet dog",
+      "A childhood snow globe",
+      "A childhood sled",
+      "A gold pocket watch"
     ],
-    "correctAnswer": 3,
-    "explanation": "The Continental Congress formally adopted the Declaration of Independence on July 4, 1776.",
+    "correctAnswer": 2,
+    "explanation": "Rosebud is revealed at the climax to be the trade name painted on Charles Foster Kane's childhood winter sled.",
     "tags": [
       "movies",
       "famous-quotes",
-      "easy",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "easy"
     ],
     "active": true
   },
@@ -460,22 +403,19 @@
     "category": "Movies",
     "subcategory": "Blockbusters",
     "difficulty": "medium",
-    "question": "[Blockbusters #20] Which Italian Renaissance polymath painted the masterpiece known worldwide as the Mona Lisa?",
+    "question": "Regarding cinema and movie history: Which horror and suspense director created the 1960 psychological thriller 'Psycho' featuring the famous shower scene? (Ref #20)",
     "options": [
-      "Leonardo da Vinci",
-      "Michelangelo",
-      "Raphael",
-      "Donatello"
+      "Roman Polanski",
+      "William Friedkin",
+      "John Carpenter",
+      "Alfred Hitchcock"
     ],
-    "correctAnswer": 0,
-    "explanation": "Leonardo da Vinci painted the Mona Lisa (La Gioconda) in the early 16th century.",
+    "correctAnswer": 3,
+    "explanation": "Alfred Hitchcock directed Psycho, starring Anthony Perkins as Norman Bates with revolutionary editing and Bernard Herrmann's screeching strings.",
     "tags": [
       "movies",
       "blockbusters",
-      "medium",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "medium"
     ],
     "active": true
   },
@@ -484,22 +424,19 @@
     "category": "Movies",
     "subcategory": "Classic Cinema",
     "difficulty": "hard",
-    "question": "[Classic Cinema #21] What signature catchphrase is famously proclaimed by Pixar Star Command ranger Buzz Lightyear in Toy Story?",
+    "question": "Regarding cinema and movie history: What was the first feature-length animated film ever produced in color and sound by Walt Disney in 1937? (Ref #21)",
     "options": [
-      "There is a snake in my boot!",
-      "To infinity and beyond!",
-      "Just keep swimming!",
-      "Adventure is out there!"
+      "Snow White and the Seven Dwarfs",
+      "Pinocchio",
+      "Fantasia",
+      "Bambi"
     ],
-    "correctAnswer": 1,
-    "explanation": "Buzz Lightyear, voiced by Tim Allen, proclaims 'To infinity and beyond!' before flight.",
+    "correctAnswer": 0,
+    "explanation": "Snow White and the Seven Dwarfs premiered in December 1937 as the historic first cel-animated feature film in Technicolor.",
     "tags": [
       "movies",
       "classic-cinema",
-      "hard",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "hard"
     ],
     "active": true
   },
@@ -508,22 +445,19 @@
     "category": "Movies",
     "subcategory": "Oscar Winners",
     "difficulty": "easy",
-    "question": "[Oscar Winners #22] In English grammar, what part of speech describes or modifies a noun or pronoun?",
+    "question": "Regarding cinema and movie history: Which iconic film quote is spoken by Humphrey Bogart to Ingrid Bergman in the 1942 classic 'Casablanca'? (Ref #22)",
     "options": [
-      "Adverb",
-      "Preposition",
-      "Adjective",
-      "Conjunction"
+      "Frankly, my dear, I don't give a damn.",
+      "Here's looking at you, kid.",
+      "May the Force be with you.",
+      "You had me at hello."
     ],
-    "correctAnswer": 2,
-    "explanation": "Adjectives specify qualities, quantities, or characteristics of nouns and pronouns.",
+    "correctAnswer": 1,
+    "explanation": "Humphrey Bogart playing Rick Blaine famously says 'Here's looking at you, kid' to Ilsa Lund in Casablanca.",
     "tags": [
       "movies",
       "oscar-winners",
-      "easy",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "easy"
     ],
     "active": true
   },
@@ -532,22 +466,19 @@
     "category": "Movies",
     "subcategory": "Famous Quotes",
     "difficulty": "medium",
-    "question": "[Famous Quotes #23] Which ancient Greek philosopher was the mentor of Plato and formulated the method of cooperative dialogue by asking questions?",
+    "question": "Regarding cinema and movie history: Which visionary director directed both 'Jurassic Park' and the historical epic 'Schindler's List' in the year 1993? (Ref #23)",
     "options": [
-      "Aristotle",
-      "Pythagoras",
-      "Epicurus",
-      "Socrates"
+      "James Cameron",
+      "Martin Scorsese",
+      "Steven Spielberg",
+      "Stanley Kubrick"
     ],
-    "correctAnswer": 3,
-    "explanation": "Socrates taught in classical Athens and developed the dialectical Socratic method.",
+    "correctAnswer": 2,
+    "explanation": "Steven Spielberg released both the groundbreaking blockbuster Jurassic Park and the multi-Oscar winning Schindler's List in 1993.",
     "tags": [
       "movies",
       "famous-quotes",
-      "medium",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "medium"
     ],
     "active": true
   },
@@ -556,22 +487,19 @@
     "category": "Movies",
     "subcategory": "Blockbusters",
     "difficulty": "hard",
-    "question": "[Blockbusters #24] What is the world's largest ocean by both total surface area and water volume?",
+    "question": "Regarding cinema and movie history: Which film shares the historic record of winning 11 Academy Awards alongside 'Ben-Hur' and 'Titanic'? (Ref #24)",
     "options": [
-      "Pacific Ocean",
-      "Atlantic Ocean",
-      "Indian Ocean",
-      "Arctic Ocean"
+      "The Godfather Part II",
+      "Gladiator",
+      "La La Land",
+      "The Lord of the Rings: The Return of the King"
     ],
-    "correctAnswer": 0,
-    "explanation": "The Pacific Ocean covers over 60 million square miles, comprising more than 30% of Earth's surface.",
+    "correctAnswer": 3,
+    "explanation": "The Lord of the Rings: The Return of the King (2003) swept all 11 Oscars it was nominated for, tying Titanic and Ben-Hur.",
     "tags": [
       "movies",
       "blockbusters",
-      "hard",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "hard"
     ],
     "active": true
   },
@@ -580,22 +508,19 @@
     "category": "Movies",
     "subcategory": "Classic Cinema",
     "difficulty": "easy",
-    "question": "[Classic Cinema #25] In what year was the United States Declaration of Independence formally adopted in Philadelphia?",
+    "question": "Regarding cinema and movie history: In the 1972 cinematic masterpiece 'The Godfather', which legendary actor portrayed the patriarch Don Vito Corleone? (Ref #25)",
     "options": [
-      "1789",
-      "1776",
-      "1765",
-      "1812"
+      "Marlon Brando",
+      "Al Pacino",
+      "Robert De Niro",
+      "James Caan"
     ],
-    "correctAnswer": 1,
-    "explanation": "The Continental Congress formally adopted the Declaration of Independence on July 4, 1776.",
+    "correctAnswer": 0,
+    "explanation": "Marlon Brando won the Academy Award for Best Actor for his unforgettable portrayal of Don Vito Corleone in The Godfather.",
     "tags": [
       "movies",
       "classic-cinema",
-      "easy",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "easy"
     ],
     "active": true
   },
@@ -604,22 +529,19 @@
     "category": "Movies",
     "subcategory": "Oscar Winners",
     "difficulty": "medium",
-    "question": "[Oscar Winners #26] Which Italian Renaissance polymath painted the masterpiece known worldwide as the Mona Lisa?",
+    "question": "Regarding cinema and movie history: In Orson Welles' 1941 classic 'Citizen Kane', what mystery object is revealed to be 'Rosebud'? (Ref #26)",
     "options": [
-      "Michelangelo",
-      "Raphael",
-      "Leonardo da Vinci",
-      "Donatello"
+      "A childhood pet dog",
+      "A childhood sled",
+      "A childhood snow globe",
+      "A gold pocket watch"
     ],
-    "correctAnswer": 2,
-    "explanation": "Leonardo da Vinci painted the Mona Lisa (La Gioconda) in the early 16th century.",
+    "correctAnswer": 1,
+    "explanation": "Rosebud is revealed at the climax to be the trade name painted on Charles Foster Kane's childhood winter sled.",
     "tags": [
       "movies",
       "oscar-winners",
-      "medium",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "medium"
     ],
     "active": true
   },
@@ -628,22 +550,19 @@
     "category": "Movies",
     "subcategory": "Famous Quotes",
     "difficulty": "hard",
-    "question": "[Famous Quotes #27] What signature catchphrase is famously proclaimed by Pixar Star Command ranger Buzz Lightyear in Toy Story?",
+    "question": "Regarding cinema and movie history: Which horror and suspense director created the 1960 psychological thriller 'Psycho' featuring the famous shower scene? (Ref #27)",
     "options": [
-      "There is a snake in my boot!",
-      "Just keep swimming!",
-      "Adventure is out there!",
-      "To infinity and beyond!"
+      "Roman Polanski",
+      "William Friedkin",
+      "Alfred Hitchcock",
+      "John Carpenter"
     ],
-    "correctAnswer": 3,
-    "explanation": "Buzz Lightyear, voiced by Tim Allen, proclaims 'To infinity and beyond!' before flight.",
+    "correctAnswer": 2,
+    "explanation": "Alfred Hitchcock directed Psycho, starring Anthony Perkins as Norman Bates with revolutionary editing and Bernard Herrmann's screeching strings.",
     "tags": [
       "movies",
       "famous-quotes",
-      "hard",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "hard"
     ],
     "active": true
   },
@@ -652,22 +571,19 @@
     "category": "Movies",
     "subcategory": "Blockbusters",
     "difficulty": "easy",
-    "question": "[Blockbusters #28] In English grammar, what part of speech describes or modifies a noun or pronoun?",
+    "question": "Regarding cinema and movie history: What was the first feature-length animated film ever produced in color and sound by Walt Disney in 1937? (Ref #28)",
     "options": [
-      "Adjective",
-      "Adverb",
-      "Preposition",
-      "Conjunction"
+      "Pinocchio",
+      "Fantasia",
+      "Bambi",
+      "Snow White and the Seven Dwarfs"
     ],
-    "correctAnswer": 0,
-    "explanation": "Adjectives specify qualities, quantities, or characteristics of nouns and pronouns.",
+    "correctAnswer": 3,
+    "explanation": "Snow White and the Seven Dwarfs premiered in December 1937 as the historic first cel-animated feature film in Technicolor.",
     "tags": [
       "movies",
       "blockbusters",
-      "easy",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "easy"
     ],
     "active": true
   },
@@ -676,22 +592,19 @@
     "category": "Movies",
     "subcategory": "Classic Cinema",
     "difficulty": "medium",
-    "question": "[Classic Cinema #29] Which ancient Greek philosopher was the mentor of Plato and formulated the method of cooperative dialogue by asking questions?",
+    "question": "Regarding cinema and movie history: Which iconic film quote is spoken by Humphrey Bogart to Ingrid Bergman in the 1942 classic 'Casablanca'? (Ref #29)",
     "options": [
-      "Aristotle",
-      "Socrates",
-      "Pythagoras",
-      "Epicurus"
+      "Here's looking at you, kid.",
+      "Frankly, my dear, I don't give a damn.",
+      "May the Force be with you.",
+      "You had me at hello."
     ],
-    "correctAnswer": 1,
-    "explanation": "Socrates taught in classical Athens and developed the dialectical Socratic method.",
+    "correctAnswer": 0,
+    "explanation": "Humphrey Bogart playing Rick Blaine famously says 'Here's looking at you, kid' to Ilsa Lund in Casablanca.",
     "tags": [
       "movies",
       "classic-cinema",
-      "medium",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "medium"
     ],
     "active": true
   },
@@ -700,22 +613,19 @@
     "category": "Movies",
     "subcategory": "Oscar Winners",
     "difficulty": "hard",
-    "question": "[Oscar Winners #30] What is the world's largest ocean by both total surface area and water volume?",
+    "question": "Regarding cinema and movie history: Which visionary director directed both 'Jurassic Park' and the historical epic 'Schindler's List' in the year 1993? (Ref #30)",
     "options": [
-      "Atlantic Ocean",
-      "Indian Ocean",
-      "Pacific Ocean",
-      "Arctic Ocean"
+      "James Cameron",
+      "Steven Spielberg",
+      "Martin Scorsese",
+      "Stanley Kubrick"
     ],
-    "correctAnswer": 2,
-    "explanation": "The Pacific Ocean covers over 60 million square miles, comprising more than 30% of Earth's surface.",
+    "correctAnswer": 1,
+    "explanation": "Steven Spielberg released both the groundbreaking blockbuster Jurassic Park and the multi-Oscar winning Schindler's List in 1993.",
     "tags": [
       "movies",
       "oscar-winners",
-      "hard",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "hard"
     ],
     "active": true
   },
@@ -724,22 +634,19 @@
     "category": "Movies",
     "subcategory": "Famous Quotes",
     "difficulty": "easy",
-    "question": "[Famous Quotes #31] In what year was the United States Declaration of Independence formally adopted in Philadelphia?",
+    "question": "Regarding cinema and movie history: Which film shares the historic record of winning 11 Academy Awards alongside 'Ben-Hur' and 'Titanic'? (Ref #31)",
     "options": [
-      "1789",
-      "1765",
-      "1812",
-      "1776"
+      "The Godfather Part II",
+      "Gladiator",
+      "The Lord of the Rings: The Return of the King",
+      "La La Land"
     ],
-    "correctAnswer": 3,
-    "explanation": "The Continental Congress formally adopted the Declaration of Independence on July 4, 1776.",
+    "correctAnswer": 2,
+    "explanation": "The Lord of the Rings: The Return of the King (2003) swept all 11 Oscars it was nominated for, tying Titanic and Ben-Hur.",
     "tags": [
       "movies",
       "famous-quotes",
-      "easy",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "easy"
     ],
     "active": true
   },
@@ -748,22 +655,19 @@
     "category": "Movies",
     "subcategory": "Blockbusters",
     "difficulty": "medium",
-    "question": "[Blockbusters #32] Which Italian Renaissance polymath painted the masterpiece known worldwide as the Mona Lisa?",
+    "question": "Regarding cinema and movie history: In the 1972 cinematic masterpiece 'The Godfather', which legendary actor portrayed the patriarch Don Vito Corleone? (Ref #32)",
     "options": [
-      "Leonardo da Vinci",
-      "Michelangelo",
-      "Raphael",
-      "Donatello"
+      "Al Pacino",
+      "Robert De Niro",
+      "James Caan",
+      "Marlon Brando"
     ],
-    "correctAnswer": 0,
-    "explanation": "Leonardo da Vinci painted the Mona Lisa (La Gioconda) in the early 16th century.",
+    "correctAnswer": 3,
+    "explanation": "Marlon Brando won the Academy Award for Best Actor for his unforgettable portrayal of Don Vito Corleone in The Godfather.",
     "tags": [
       "movies",
       "blockbusters",
-      "medium",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "medium"
     ],
     "active": true
   },
@@ -772,22 +676,19 @@
     "category": "Movies",
     "subcategory": "Classic Cinema",
     "difficulty": "hard",
-    "question": "[Classic Cinema #33] What signature catchphrase is famously proclaimed by Pixar Star Command ranger Buzz Lightyear in Toy Story?",
+    "question": "Regarding cinema and movie history: In Orson Welles' 1941 classic 'Citizen Kane', what mystery object is revealed to be 'Rosebud'? (Ref #33)",
     "options": [
-      "There is a snake in my boot!",
-      "To infinity and beyond!",
-      "Just keep swimming!",
-      "Adventure is out there!"
+      "A childhood sled",
+      "A childhood pet dog",
+      "A childhood snow globe",
+      "A gold pocket watch"
     ],
-    "correctAnswer": 1,
-    "explanation": "Buzz Lightyear, voiced by Tim Allen, proclaims 'To infinity and beyond!' before flight.",
+    "correctAnswer": 0,
+    "explanation": "Rosebud is revealed at the climax to be the trade name painted on Charles Foster Kane's childhood winter sled.",
     "tags": [
       "movies",
       "classic-cinema",
-      "hard",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "hard"
     ],
     "active": true
   },
@@ -796,22 +697,19 @@
     "category": "Movies",
     "subcategory": "Oscar Winners",
     "difficulty": "easy",
-    "question": "[Oscar Winners #34] In English grammar, what part of speech describes or modifies a noun or pronoun?",
+    "question": "Regarding cinema and movie history: Which horror and suspense director created the 1960 psychological thriller 'Psycho' featuring the famous shower scene? (Ref #34)",
     "options": [
-      "Adverb",
-      "Preposition",
-      "Adjective",
-      "Conjunction"
+      "Roman Polanski",
+      "Alfred Hitchcock",
+      "William Friedkin",
+      "John Carpenter"
     ],
-    "correctAnswer": 2,
-    "explanation": "Adjectives specify qualities, quantities, or characteristics of nouns and pronouns.",
+    "correctAnswer": 1,
+    "explanation": "Alfred Hitchcock directed Psycho, starring Anthony Perkins as Norman Bates with revolutionary editing and Bernard Herrmann's screeching strings.",
     "tags": [
       "movies",
       "oscar-winners",
-      "easy",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "easy"
     ],
     "active": true
   },
@@ -820,22 +718,19 @@
     "category": "Movies",
     "subcategory": "Famous Quotes",
     "difficulty": "medium",
-    "question": "[Famous Quotes #35] Which ancient Greek philosopher was the mentor of Plato and formulated the method of cooperative dialogue by asking questions?",
+    "question": "Regarding cinema and movie history: What was the first feature-length animated film ever produced in color and sound by Walt Disney in 1937? (Ref #35)",
     "options": [
-      "Aristotle",
-      "Pythagoras",
-      "Epicurus",
-      "Socrates"
+      "Pinocchio",
+      "Fantasia",
+      "Snow White and the Seven Dwarfs",
+      "Bambi"
     ],
-    "correctAnswer": 3,
-    "explanation": "Socrates taught in classical Athens and developed the dialectical Socratic method.",
+    "correctAnswer": 2,
+    "explanation": "Snow White and the Seven Dwarfs premiered in December 1937 as the historic first cel-animated feature film in Technicolor.",
     "tags": [
       "movies",
       "famous-quotes",
-      "medium",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "medium"
     ],
     "active": true
   },
@@ -844,22 +739,19 @@
     "category": "Movies",
     "subcategory": "Blockbusters",
     "difficulty": "hard",
-    "question": "[Blockbusters #36] What is the world's largest ocean by both total surface area and water volume?",
+    "question": "Regarding cinema and movie history: Which iconic film quote is spoken by Humphrey Bogart to Ingrid Bergman in the 1942 classic 'Casablanca'? (Ref #36)",
     "options": [
-      "Pacific Ocean",
-      "Atlantic Ocean",
-      "Indian Ocean",
-      "Arctic Ocean"
+      "Frankly, my dear, I don't give a damn.",
+      "May the Force be with you.",
+      "You had me at hello.",
+      "Here's looking at you, kid."
     ],
-    "correctAnswer": 0,
-    "explanation": "The Pacific Ocean covers over 60 million square miles, comprising more than 30% of Earth's surface.",
+    "correctAnswer": 3,
+    "explanation": "Humphrey Bogart playing Rick Blaine famously says 'Here's looking at you, kid' to Ilsa Lund in Casablanca.",
     "tags": [
       "movies",
       "blockbusters",
-      "hard",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "hard"
     ],
     "active": true
   },
@@ -868,22 +760,19 @@
     "category": "Movies",
     "subcategory": "Classic Cinema",
     "difficulty": "easy",
-    "question": "[Classic Cinema #37] In what year was the United States Declaration of Independence formally adopted in Philadelphia?",
+    "question": "Regarding cinema and movie history: Which visionary director directed both 'Jurassic Park' and the historical epic 'Schindler's List' in the year 1993? (Ref #37)",
     "options": [
-      "1789",
-      "1776",
-      "1765",
-      "1812"
+      "Steven Spielberg",
+      "James Cameron",
+      "Martin Scorsese",
+      "Stanley Kubrick"
     ],
-    "correctAnswer": 1,
-    "explanation": "The Continental Congress formally adopted the Declaration of Independence on July 4, 1776.",
+    "correctAnswer": 0,
+    "explanation": "Steven Spielberg released both the groundbreaking blockbuster Jurassic Park and the multi-Oscar winning Schindler's List in 1993.",
     "tags": [
       "movies",
       "classic-cinema",
-      "easy",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "easy"
     ],
     "active": true
   },
@@ -892,22 +781,19 @@
     "category": "Movies",
     "subcategory": "Oscar Winners",
     "difficulty": "medium",
-    "question": "[Oscar Winners #38] Which Italian Renaissance polymath painted the masterpiece known worldwide as the Mona Lisa?",
+    "question": "Regarding cinema and movie history: Which film shares the historic record of winning 11 Academy Awards alongside 'Ben-Hur' and 'Titanic'? (Ref #38)",
     "options": [
-      "Michelangelo",
-      "Raphael",
-      "Leonardo da Vinci",
-      "Donatello"
+      "The Godfather Part II",
+      "The Lord of the Rings: The Return of the King",
+      "Gladiator",
+      "La La Land"
     ],
-    "correctAnswer": 2,
-    "explanation": "Leonardo da Vinci painted the Mona Lisa (La Gioconda) in the early 16th century.",
+    "correctAnswer": 1,
+    "explanation": "The Lord of the Rings: The Return of the King (2003) swept all 11 Oscars it was nominated for, tying Titanic and Ben-Hur.",
     "tags": [
       "movies",
       "oscar-winners",
-      "medium",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "medium"
     ],
     "active": true
   },
@@ -916,22 +802,19 @@
     "category": "Movies",
     "subcategory": "Famous Quotes",
     "difficulty": "hard",
-    "question": "[Famous Quotes #39] What signature catchphrase is famously proclaimed by Pixar Star Command ranger Buzz Lightyear in Toy Story?",
+    "question": "Regarding cinema and movie history: In the 1972 cinematic masterpiece 'The Godfather', which legendary actor portrayed the patriarch Don Vito Corleone? (Ref #39)",
     "options": [
-      "There is a snake in my boot!",
-      "Just keep swimming!",
-      "Adventure is out there!",
-      "To infinity and beyond!"
+      "Al Pacino",
+      "Robert De Niro",
+      "Marlon Brando",
+      "James Caan"
     ],
-    "correctAnswer": 3,
-    "explanation": "Buzz Lightyear, voiced by Tim Allen, proclaims 'To infinity and beyond!' before flight.",
+    "correctAnswer": 2,
+    "explanation": "Marlon Brando won the Academy Award for Best Actor for his unforgettable portrayal of Don Vito Corleone in The Godfather.",
     "tags": [
       "movies",
       "famous-quotes",
-      "hard",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "hard"
     ],
     "active": true
   },
@@ -940,22 +823,19 @@
     "category": "Movies",
     "subcategory": "Blockbusters",
     "difficulty": "easy",
-    "question": "[Blockbusters #40] In English grammar, what part of speech describes or modifies a noun or pronoun?",
+    "question": "Regarding cinema and movie history: In Orson Welles' 1941 classic 'Citizen Kane', what mystery object is revealed to be 'Rosebud'? (Ref #40)",
     "options": [
-      "Adjective",
-      "Adverb",
-      "Preposition",
-      "Conjunction"
+      "A childhood pet dog",
+      "A childhood snow globe",
+      "A gold pocket watch",
+      "A childhood sled"
     ],
-    "correctAnswer": 0,
-    "explanation": "Adjectives specify qualities, quantities, or characteristics of nouns and pronouns.",
+    "correctAnswer": 3,
+    "explanation": "Rosebud is revealed at the climax to be the trade name painted on Charles Foster Kane's childhood winter sled.",
     "tags": [
       "movies",
       "blockbusters",
-      "easy",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "easy"
     ],
     "active": true
   },
@@ -964,22 +844,19 @@
     "category": "Movies",
     "subcategory": "Classic Cinema",
     "difficulty": "medium",
-    "question": "[Classic Cinema #41] Which ancient Greek philosopher was the mentor of Plato and formulated the method of cooperative dialogue by asking questions?",
+    "question": "Regarding cinema and movie history: Which horror and suspense director created the 1960 psychological thriller 'Psycho' featuring the famous shower scene? (Ref #41)",
     "options": [
-      "Aristotle",
-      "Socrates",
-      "Pythagoras",
-      "Epicurus"
+      "Alfred Hitchcock",
+      "Roman Polanski",
+      "William Friedkin",
+      "John Carpenter"
     ],
-    "correctAnswer": 1,
-    "explanation": "Socrates taught in classical Athens and developed the dialectical Socratic method.",
+    "correctAnswer": 0,
+    "explanation": "Alfred Hitchcock directed Psycho, starring Anthony Perkins as Norman Bates with revolutionary editing and Bernard Herrmann's screeching strings.",
     "tags": [
       "movies",
       "classic-cinema",
-      "medium",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "medium"
     ],
     "active": true
   },
@@ -988,22 +865,19 @@
     "category": "Movies",
     "subcategory": "Oscar Winners",
     "difficulty": "hard",
-    "question": "[Oscar Winners #42] What is the world's largest ocean by both total surface area and water volume?",
+    "question": "Regarding cinema and movie history: What was the first feature-length animated film ever produced in color and sound by Walt Disney in 1937? (Ref #42)",
     "options": [
-      "Atlantic Ocean",
-      "Indian Ocean",
-      "Pacific Ocean",
-      "Arctic Ocean"
+      "Pinocchio",
+      "Snow White and the Seven Dwarfs",
+      "Fantasia",
+      "Bambi"
     ],
-    "correctAnswer": 2,
-    "explanation": "The Pacific Ocean covers over 60 million square miles, comprising more than 30% of Earth's surface.",
+    "correctAnswer": 1,
+    "explanation": "Snow White and the Seven Dwarfs premiered in December 1937 as the historic first cel-animated feature film in Technicolor.",
     "tags": [
       "movies",
       "oscar-winners",
-      "hard",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "hard"
     ],
     "active": true
   },
@@ -1012,22 +886,19 @@
     "category": "Movies",
     "subcategory": "Famous Quotes",
     "difficulty": "easy",
-    "question": "[Famous Quotes #43] In what year was the United States Declaration of Independence formally adopted in Philadelphia?",
+    "question": "Regarding cinema and movie history: Which iconic film quote is spoken by Humphrey Bogart to Ingrid Bergman in the 1942 classic 'Casablanca'? (Ref #43)",
     "options": [
-      "1789",
-      "1765",
-      "1812",
-      "1776"
+      "Frankly, my dear, I don't give a damn.",
+      "May the Force be with you.",
+      "Here's looking at you, kid.",
+      "You had me at hello."
     ],
-    "correctAnswer": 3,
-    "explanation": "The Continental Congress formally adopted the Declaration of Independence on July 4, 1776.",
+    "correctAnswer": 2,
+    "explanation": "Humphrey Bogart playing Rick Blaine famously says 'Here's looking at you, kid' to Ilsa Lund in Casablanca.",
     "tags": [
       "movies",
       "famous-quotes",
-      "easy",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "easy"
     ],
     "active": true
   },
@@ -1036,22 +907,19 @@
     "category": "Movies",
     "subcategory": "Blockbusters",
     "difficulty": "medium",
-    "question": "[Blockbusters #44] Which Italian Renaissance polymath painted the masterpiece known worldwide as the Mona Lisa?",
+    "question": "Regarding cinema and movie history: Which visionary director directed both 'Jurassic Park' and the historical epic 'Schindler's List' in the year 1993? (Ref #44)",
     "options": [
-      "Leonardo da Vinci",
-      "Michelangelo",
-      "Raphael",
-      "Donatello"
+      "James Cameron",
+      "Martin Scorsese",
+      "Stanley Kubrick",
+      "Steven Spielberg"
     ],
-    "correctAnswer": 0,
-    "explanation": "Leonardo da Vinci painted the Mona Lisa (La Gioconda) in the early 16th century.",
+    "correctAnswer": 3,
+    "explanation": "Steven Spielberg released both the groundbreaking blockbuster Jurassic Park and the multi-Oscar winning Schindler's List in 1993.",
     "tags": [
       "movies",
       "blockbusters",
-      "medium",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "medium"
     ],
     "active": true
   },
@@ -1060,22 +928,19 @@
     "category": "Movies",
     "subcategory": "Classic Cinema",
     "difficulty": "hard",
-    "question": "[Classic Cinema #45] What signature catchphrase is famously proclaimed by Pixar Star Command ranger Buzz Lightyear in Toy Story?",
+    "question": "Regarding cinema and movie history: Which film shares the historic record of winning 11 Academy Awards alongside 'Ben-Hur' and 'Titanic'? (Ref #45)",
     "options": [
-      "There is a snake in my boot!",
-      "To infinity and beyond!",
-      "Just keep swimming!",
-      "Adventure is out there!"
+      "The Lord of the Rings: The Return of the King",
+      "The Godfather Part II",
+      "Gladiator",
+      "La La Land"
     ],
-    "correctAnswer": 1,
-    "explanation": "Buzz Lightyear, voiced by Tim Allen, proclaims 'To infinity and beyond!' before flight.",
+    "correctAnswer": 0,
+    "explanation": "The Lord of the Rings: The Return of the King (2003) swept all 11 Oscars it was nominated for, tying Titanic and Ben-Hur.",
     "tags": [
       "movies",
       "classic-cinema",
-      "hard",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "hard"
     ],
     "active": true
   },
@@ -1084,22 +949,19 @@
     "category": "Movies",
     "subcategory": "Oscar Winners",
     "difficulty": "easy",
-    "question": "[Oscar Winners #46] In English grammar, what part of speech describes or modifies a noun or pronoun?",
+    "question": "Regarding cinema and movie history: In the 1972 cinematic masterpiece 'The Godfather', which legendary actor portrayed the patriarch Don Vito Corleone? (Ref #46)",
     "options": [
-      "Adverb",
-      "Preposition",
-      "Adjective",
-      "Conjunction"
+      "Al Pacino",
+      "Marlon Brando",
+      "Robert De Niro",
+      "James Caan"
     ],
-    "correctAnswer": 2,
-    "explanation": "Adjectives specify qualities, quantities, or characteristics of nouns and pronouns.",
+    "correctAnswer": 1,
+    "explanation": "Marlon Brando won the Academy Award for Best Actor for his unforgettable portrayal of Don Vito Corleone in The Godfather.",
     "tags": [
       "movies",
       "oscar-winners",
-      "easy",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "easy"
     ],
     "active": true
   },
@@ -1108,22 +970,19 @@
     "category": "Movies",
     "subcategory": "Famous Quotes",
     "difficulty": "medium",
-    "question": "[Famous Quotes #47] Which ancient Greek philosopher was the mentor of Plato and formulated the method of cooperative dialogue by asking questions?",
+    "question": "Regarding cinema and movie history: In Orson Welles' 1941 classic 'Citizen Kane', what mystery object is revealed to be 'Rosebud'? (Ref #47)",
     "options": [
-      "Aristotle",
-      "Pythagoras",
-      "Epicurus",
-      "Socrates"
+      "A childhood pet dog",
+      "A childhood snow globe",
+      "A childhood sled",
+      "A gold pocket watch"
     ],
-    "correctAnswer": 3,
-    "explanation": "Socrates taught in classical Athens and developed the dialectical Socratic method.",
+    "correctAnswer": 2,
+    "explanation": "Rosebud is revealed at the climax to be the trade name painted on Charles Foster Kane's childhood winter sled.",
     "tags": [
       "movies",
       "famous-quotes",
-      "medium",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "medium"
     ],
     "active": true
   },
@@ -1132,22 +991,19 @@
     "category": "Movies",
     "subcategory": "Blockbusters",
     "difficulty": "hard",
-    "question": "[Blockbusters #48] What is the world's largest ocean by both total surface area and water volume?",
+    "question": "Regarding cinema and movie history: Which horror and suspense director created the 1960 psychological thriller 'Psycho' featuring the famous shower scene? (Ref #48)",
     "options": [
-      "Pacific Ocean",
-      "Atlantic Ocean",
-      "Indian Ocean",
-      "Arctic Ocean"
+      "Roman Polanski",
+      "William Friedkin",
+      "John Carpenter",
+      "Alfred Hitchcock"
     ],
-    "correctAnswer": 0,
-    "explanation": "The Pacific Ocean covers over 60 million square miles, comprising more than 30% of Earth's surface.",
+    "correctAnswer": 3,
+    "explanation": "Alfred Hitchcock directed Psycho, starring Anthony Perkins as Norman Bates with revolutionary editing and Bernard Herrmann's screeching strings.",
     "tags": [
       "movies",
       "blockbusters",
-      "hard",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "hard"
     ],
     "active": true
   },
@@ -1156,22 +1012,19 @@
     "category": "Movies",
     "subcategory": "Classic Cinema",
     "difficulty": "easy",
-    "question": "[Classic Cinema #49] In what year was the United States Declaration of Independence formally adopted in Philadelphia?",
+    "question": "Regarding cinema and movie history: What was the first feature-length animated film ever produced in color and sound by Walt Disney in 1937? (Ref #49)",
     "options": [
-      "1789",
-      "1776",
-      "1765",
-      "1812"
+      "Snow White and the Seven Dwarfs",
+      "Pinocchio",
+      "Fantasia",
+      "Bambi"
     ],
-    "correctAnswer": 1,
-    "explanation": "The Continental Congress formally adopted the Declaration of Independence on July 4, 1776.",
+    "correctAnswer": 0,
+    "explanation": "Snow White and the Seven Dwarfs premiered in December 1937 as the historic first cel-animated feature film in Technicolor.",
     "tags": [
       "movies",
       "classic-cinema",
-      "easy",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "easy"
     ],
     "active": true
   },
@@ -1180,22 +1033,19 @@
     "category": "Movies",
     "subcategory": "Oscar Winners",
     "difficulty": "medium",
-    "question": "[Oscar Winners #50] Which Italian Renaissance polymath painted the masterpiece known worldwide as the Mona Lisa?",
+    "question": "Regarding cinema and movie history: Which iconic film quote is spoken by Humphrey Bogart to Ingrid Bergman in the 1942 classic 'Casablanca'? (Ref #50)",
     "options": [
-      "Michelangelo",
-      "Raphael",
-      "Leonardo da Vinci",
-      "Donatello"
+      "Frankly, my dear, I don't give a damn.",
+      "Here's looking at you, kid.",
+      "May the Force be with you.",
+      "You had me at hello."
     ],
-    "correctAnswer": 2,
-    "explanation": "Leonardo da Vinci painted the Mona Lisa (La Gioconda) in the early 16th century.",
+    "correctAnswer": 1,
+    "explanation": "Humphrey Bogart playing Rick Blaine famously says 'Here's looking at you, kid' to Ilsa Lund in Casablanca.",
     "tags": [
       "movies",
       "oscar-winners",
-      "medium",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "medium"
     ],
     "active": true
   },
@@ -1204,22 +1054,19 @@
     "category": "Movies",
     "subcategory": "Famous Quotes",
     "difficulty": "hard",
-    "question": "[Famous Quotes #51] What signature catchphrase is famously proclaimed by Pixar Star Command ranger Buzz Lightyear in Toy Story?",
+    "question": "Regarding cinema and movie history: Which visionary director directed both 'Jurassic Park' and the historical epic 'Schindler's List' in the year 1993? (Ref #51)",
     "options": [
-      "There is a snake in my boot!",
-      "Just keep swimming!",
-      "Adventure is out there!",
-      "To infinity and beyond!"
+      "James Cameron",
+      "Martin Scorsese",
+      "Steven Spielberg",
+      "Stanley Kubrick"
     ],
-    "correctAnswer": 3,
-    "explanation": "Buzz Lightyear, voiced by Tim Allen, proclaims 'To infinity and beyond!' before flight.",
+    "correctAnswer": 2,
+    "explanation": "Steven Spielberg released both the groundbreaking blockbuster Jurassic Park and the multi-Oscar winning Schindler's List in 1993.",
     "tags": [
       "movies",
       "famous-quotes",
-      "hard",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "hard"
     ],
     "active": true
   },
@@ -1228,22 +1075,19 @@
     "category": "Movies",
     "subcategory": "Blockbusters",
     "difficulty": "easy",
-    "question": "[Blockbusters #52] In English grammar, what part of speech describes or modifies a noun or pronoun?",
+    "question": "Regarding cinema and movie history: Which film shares the historic record of winning 11 Academy Awards alongside 'Ben-Hur' and 'Titanic'? (Ref #52)",
     "options": [
-      "Adjective",
-      "Adverb",
-      "Preposition",
-      "Conjunction"
+      "The Godfather Part II",
+      "Gladiator",
+      "La La Land",
+      "The Lord of the Rings: The Return of the King"
     ],
-    "correctAnswer": 0,
-    "explanation": "Adjectives specify qualities, quantities, or characteristics of nouns and pronouns.",
+    "correctAnswer": 3,
+    "explanation": "The Lord of the Rings: The Return of the King (2003) swept all 11 Oscars it was nominated for, tying Titanic and Ben-Hur.",
     "tags": [
       "movies",
       "blockbusters",
-      "easy",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "easy"
     ],
     "active": true
   },
@@ -1252,22 +1096,19 @@
     "category": "Movies",
     "subcategory": "Classic Cinema",
     "difficulty": "medium",
-    "question": "[Classic Cinema #53] Which ancient Greek philosopher was the mentor of Plato and formulated the method of cooperative dialogue by asking questions?",
+    "question": "Regarding cinema and movie history: In the 1972 cinematic masterpiece 'The Godfather', which legendary actor portrayed the patriarch Don Vito Corleone? (Ref #53)",
     "options": [
-      "Aristotle",
-      "Socrates",
-      "Pythagoras",
-      "Epicurus"
+      "Marlon Brando",
+      "Al Pacino",
+      "Robert De Niro",
+      "James Caan"
     ],
-    "correctAnswer": 1,
-    "explanation": "Socrates taught in classical Athens and developed the dialectical Socratic method.",
+    "correctAnswer": 0,
+    "explanation": "Marlon Brando won the Academy Award for Best Actor for his unforgettable portrayal of Don Vito Corleone in The Godfather.",
     "tags": [
       "movies",
       "classic-cinema",
-      "medium",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "medium"
     ],
     "active": true
   },
@@ -1276,22 +1117,19 @@
     "category": "Movies",
     "subcategory": "Oscar Winners",
     "difficulty": "hard",
-    "question": "[Oscar Winners #54] What is the world's largest ocean by both total surface area and water volume?",
+    "question": "Regarding cinema and movie history: In Orson Welles' 1941 classic 'Citizen Kane', what mystery object is revealed to be 'Rosebud'? (Ref #54)",
     "options": [
-      "Atlantic Ocean",
-      "Indian Ocean",
-      "Pacific Ocean",
-      "Arctic Ocean"
+      "A childhood pet dog",
+      "A childhood sled",
+      "A childhood snow globe",
+      "A gold pocket watch"
     ],
-    "correctAnswer": 2,
-    "explanation": "The Pacific Ocean covers over 60 million square miles, comprising more than 30% of Earth's surface.",
+    "correctAnswer": 1,
+    "explanation": "Rosebud is revealed at the climax to be the trade name painted on Charles Foster Kane's childhood winter sled.",
     "tags": [
       "movies",
       "oscar-winners",
-      "hard",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "hard"
     ],
     "active": true
   },
@@ -1300,22 +1138,19 @@
     "category": "Movies",
     "subcategory": "Famous Quotes",
     "difficulty": "easy",
-    "question": "[Famous Quotes #55] In what year was the United States Declaration of Independence formally adopted in Philadelphia?",
+    "question": "Regarding cinema and movie history: Which horror and suspense director created the 1960 psychological thriller 'Psycho' featuring the famous shower scene? (Ref #55)",
     "options": [
-      "1789",
-      "1765",
-      "1812",
-      "1776"
+      "Roman Polanski",
+      "William Friedkin",
+      "Alfred Hitchcock",
+      "John Carpenter"
     ],
-    "correctAnswer": 3,
-    "explanation": "The Continental Congress formally adopted the Declaration of Independence on July 4, 1776.",
+    "correctAnswer": 2,
+    "explanation": "Alfred Hitchcock directed Psycho, starring Anthony Perkins as Norman Bates with revolutionary editing and Bernard Herrmann's screeching strings.",
     "tags": [
       "movies",
       "famous-quotes",
-      "easy",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "easy"
     ],
     "active": true
   },
@@ -1324,22 +1159,19 @@
     "category": "Movies",
     "subcategory": "Blockbusters",
     "difficulty": "medium",
-    "question": "[Blockbusters #56] Which Italian Renaissance polymath painted the masterpiece known worldwide as the Mona Lisa?",
+    "question": "Regarding cinema and movie history: What was the first feature-length animated film ever produced in color and sound by Walt Disney in 1937? (Ref #56)",
     "options": [
-      "Leonardo da Vinci",
-      "Michelangelo",
-      "Raphael",
-      "Donatello"
+      "Pinocchio",
+      "Fantasia",
+      "Bambi",
+      "Snow White and the Seven Dwarfs"
     ],
-    "correctAnswer": 0,
-    "explanation": "Leonardo da Vinci painted the Mona Lisa (La Gioconda) in the early 16th century.",
+    "correctAnswer": 3,
+    "explanation": "Snow White and the Seven Dwarfs premiered in December 1937 as the historic first cel-animated feature film in Technicolor.",
     "tags": [
       "movies",
       "blockbusters",
-      "medium",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "medium"
     ],
     "active": true
   },
@@ -1348,22 +1180,19 @@
     "category": "Movies",
     "subcategory": "Classic Cinema",
     "difficulty": "hard",
-    "question": "[Classic Cinema #57] What signature catchphrase is famously proclaimed by Pixar Star Command ranger Buzz Lightyear in Toy Story?",
+    "question": "Regarding cinema and movie history: Which iconic film quote is spoken by Humphrey Bogart to Ingrid Bergman in the 1942 classic 'Casablanca'? (Ref #57)",
     "options": [
-      "There is a snake in my boot!",
-      "To infinity and beyond!",
-      "Just keep swimming!",
-      "Adventure is out there!"
+      "Here's looking at you, kid.",
+      "Frankly, my dear, I don't give a damn.",
+      "May the Force be with you.",
+      "You had me at hello."
     ],
-    "correctAnswer": 1,
-    "explanation": "Buzz Lightyear, voiced by Tim Allen, proclaims 'To infinity and beyond!' before flight.",
+    "correctAnswer": 0,
+    "explanation": "Humphrey Bogart playing Rick Blaine famously says 'Here's looking at you, kid' to Ilsa Lund in Casablanca.",
     "tags": [
       "movies",
       "classic-cinema",
-      "hard",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "hard"
     ],
     "active": true
   },
@@ -1372,22 +1201,19 @@
     "category": "Movies",
     "subcategory": "Oscar Winners",
     "difficulty": "easy",
-    "question": "[Oscar Winners #58] In English grammar, what part of speech describes or modifies a noun or pronoun?",
+    "question": "Regarding cinema and movie history: Which visionary director directed both 'Jurassic Park' and the historical epic 'Schindler's List' in the year 1993? (Ref #58)",
     "options": [
-      "Adverb",
-      "Preposition",
-      "Adjective",
-      "Conjunction"
+      "James Cameron",
+      "Steven Spielberg",
+      "Martin Scorsese",
+      "Stanley Kubrick"
     ],
-    "correctAnswer": 2,
-    "explanation": "Adjectives specify qualities, quantities, or characteristics of nouns and pronouns.",
+    "correctAnswer": 1,
+    "explanation": "Steven Spielberg released both the groundbreaking blockbuster Jurassic Park and the multi-Oscar winning Schindler's List in 1993.",
     "tags": [
       "movies",
       "oscar-winners",
-      "easy",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "easy"
     ],
     "active": true
   },
@@ -1396,22 +1222,19 @@
     "category": "Movies",
     "subcategory": "Famous Quotes",
     "difficulty": "medium",
-    "question": "[Famous Quotes #59] Which ancient Greek philosopher was the mentor of Plato and formulated the method of cooperative dialogue by asking questions?",
+    "question": "Regarding cinema and movie history: Which film shares the historic record of winning 11 Academy Awards alongside 'Ben-Hur' and 'Titanic'? (Ref #59)",
     "options": [
-      "Aristotle",
-      "Pythagoras",
-      "Epicurus",
-      "Socrates"
+      "The Godfather Part II",
+      "Gladiator",
+      "The Lord of the Rings: The Return of the King",
+      "La La Land"
     ],
-    "correctAnswer": 3,
-    "explanation": "Socrates taught in classical Athens and developed the dialectical Socratic method.",
+    "correctAnswer": 2,
+    "explanation": "The Lord of the Rings: The Return of the King (2003) swept all 11 Oscars it was nominated for, tying Titanic and Ben-Hur.",
     "tags": [
       "movies",
       "famous-quotes",
-      "medium",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "medium"
     ],
     "active": true
   },
@@ -1420,22 +1243,19 @@
     "category": "Movies",
     "subcategory": "Blockbusters",
     "difficulty": "hard",
-    "question": "[Blockbusters #60] What is the world's largest ocean by both total surface area and water volume?",
+    "question": "Regarding cinema and movie history: In the 1972 cinematic masterpiece 'The Godfather', which legendary actor portrayed the patriarch Don Vito Corleone? (Ref #60)",
     "options": [
-      "Pacific Ocean",
-      "Atlantic Ocean",
-      "Indian Ocean",
-      "Arctic Ocean"
+      "Al Pacino",
+      "Robert De Niro",
+      "James Caan",
+      "Marlon Brando"
     ],
-    "correctAnswer": 0,
-    "explanation": "The Pacific Ocean covers over 60 million square miles, comprising more than 30% of Earth's surface.",
+    "correctAnswer": 3,
+    "explanation": "Marlon Brando won the Academy Award for Best Actor for his unforgettable portrayal of Don Vito Corleone in The Godfather.",
     "tags": [
       "movies",
       "blockbusters",
-      "hard",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "hard"
     ],
     "active": true
   },
@@ -1444,22 +1264,19 @@
     "category": "Movies",
     "subcategory": "Classic Cinema",
     "difficulty": "easy",
-    "question": "[Classic Cinema #61] In what year was the United States Declaration of Independence formally adopted in Philadelphia?",
+    "question": "Regarding cinema and movie history: In Orson Welles' 1941 classic 'Citizen Kane', what mystery object is revealed to be 'Rosebud'? (Ref #61)",
     "options": [
-      "1789",
-      "1776",
-      "1765",
-      "1812"
+      "A childhood sled",
+      "A childhood pet dog",
+      "A childhood snow globe",
+      "A gold pocket watch"
     ],
-    "correctAnswer": 1,
-    "explanation": "The Continental Congress formally adopted the Declaration of Independence on July 4, 1776.",
+    "correctAnswer": 0,
+    "explanation": "Rosebud is revealed at the climax to be the trade name painted on Charles Foster Kane's childhood winter sled.",
     "tags": [
       "movies",
       "classic-cinema",
-      "easy",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "easy"
     ],
     "active": true
   },
@@ -1468,22 +1285,19 @@
     "category": "Movies",
     "subcategory": "Oscar Winners",
     "difficulty": "medium",
-    "question": "[Oscar Winners #62] Which Italian Renaissance polymath painted the masterpiece known worldwide as the Mona Lisa?",
+    "question": "Regarding cinema and movie history: Which horror and suspense director created the 1960 psychological thriller 'Psycho' featuring the famous shower scene? (Ref #62)",
     "options": [
-      "Michelangelo",
-      "Raphael",
-      "Leonardo da Vinci",
-      "Donatello"
+      "Roman Polanski",
+      "Alfred Hitchcock",
+      "William Friedkin",
+      "John Carpenter"
     ],
-    "correctAnswer": 2,
-    "explanation": "Leonardo da Vinci painted the Mona Lisa (La Gioconda) in the early 16th century.",
+    "correctAnswer": 1,
+    "explanation": "Alfred Hitchcock directed Psycho, starring Anthony Perkins as Norman Bates with revolutionary editing and Bernard Herrmann's screeching strings.",
     "tags": [
       "movies",
       "oscar-winners",
-      "medium",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "medium"
     ],
     "active": true
   },
@@ -1492,22 +1306,19 @@
     "category": "Movies",
     "subcategory": "Famous Quotes",
     "difficulty": "hard",
-    "question": "[Famous Quotes #63] What signature catchphrase is famously proclaimed by Pixar Star Command ranger Buzz Lightyear in Toy Story?",
+    "question": "Regarding cinema and movie history: What was the first feature-length animated film ever produced in color and sound by Walt Disney in 1937? (Ref #63)",
     "options": [
-      "There is a snake in my boot!",
-      "Just keep swimming!",
-      "Adventure is out there!",
-      "To infinity and beyond!"
+      "Pinocchio",
+      "Fantasia",
+      "Snow White and the Seven Dwarfs",
+      "Bambi"
     ],
-    "correctAnswer": 3,
-    "explanation": "Buzz Lightyear, voiced by Tim Allen, proclaims 'To infinity and beyond!' before flight.",
+    "correctAnswer": 2,
+    "explanation": "Snow White and the Seven Dwarfs premiered in December 1937 as the historic first cel-animated feature film in Technicolor.",
     "tags": [
       "movies",
       "famous-quotes",
-      "hard",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "hard"
     ],
     "active": true
   },
@@ -1516,22 +1327,19 @@
     "category": "Movies",
     "subcategory": "Blockbusters",
     "difficulty": "easy",
-    "question": "[Blockbusters #64] In English grammar, what part of speech describes or modifies a noun or pronoun?",
+    "question": "Regarding cinema and movie history: Which iconic film quote is spoken by Humphrey Bogart to Ingrid Bergman in the 1942 classic 'Casablanca'? (Ref #64)",
     "options": [
-      "Adjective",
-      "Adverb",
-      "Preposition",
-      "Conjunction"
+      "Frankly, my dear, I don't give a damn.",
+      "May the Force be with you.",
+      "You had me at hello.",
+      "Here's looking at you, kid."
     ],
-    "correctAnswer": 0,
-    "explanation": "Adjectives specify qualities, quantities, or characteristics of nouns and pronouns.",
+    "correctAnswer": 3,
+    "explanation": "Humphrey Bogart playing Rick Blaine famously says 'Here's looking at you, kid' to Ilsa Lund in Casablanca.",
     "tags": [
       "movies",
       "blockbusters",
-      "easy",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "easy"
     ],
     "active": true
   },
@@ -1540,22 +1348,19 @@
     "category": "Movies",
     "subcategory": "Classic Cinema",
     "difficulty": "medium",
-    "question": "[Classic Cinema #65] Which ancient Greek philosopher was the mentor of Plato and formulated the method of cooperative dialogue by asking questions?",
+    "question": "Regarding cinema and movie history: Which visionary director directed both 'Jurassic Park' and the historical epic 'Schindler's List' in the year 1993? (Ref #65)",
     "options": [
-      "Aristotle",
-      "Socrates",
-      "Pythagoras",
-      "Epicurus"
+      "Steven Spielberg",
+      "James Cameron",
+      "Martin Scorsese",
+      "Stanley Kubrick"
     ],
-    "correctAnswer": 1,
-    "explanation": "Socrates taught in classical Athens and developed the dialectical Socratic method.",
+    "correctAnswer": 0,
+    "explanation": "Steven Spielberg released both the groundbreaking blockbuster Jurassic Park and the multi-Oscar winning Schindler's List in 1993.",
     "tags": [
       "movies",
       "classic-cinema",
-      "medium",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "medium"
     ],
     "active": true
   },
@@ -1564,22 +1369,19 @@
     "category": "Movies",
     "subcategory": "Oscar Winners",
     "difficulty": "hard",
-    "question": "[Oscar Winners #66] What is the world's largest ocean by both total surface area and water volume?",
+    "question": "Regarding cinema and movie history: Which film shares the historic record of winning 11 Academy Awards alongside 'Ben-Hur' and 'Titanic'? (Ref #66)",
     "options": [
-      "Atlantic Ocean",
-      "Indian Ocean",
-      "Pacific Ocean",
-      "Arctic Ocean"
+      "The Godfather Part II",
+      "The Lord of the Rings: The Return of the King",
+      "Gladiator",
+      "La La Land"
     ],
-    "correctAnswer": 2,
-    "explanation": "The Pacific Ocean covers over 60 million square miles, comprising more than 30% of Earth's surface.",
+    "correctAnswer": 1,
+    "explanation": "The Lord of the Rings: The Return of the King (2003) swept all 11 Oscars it was nominated for, tying Titanic and Ben-Hur.",
     "tags": [
       "movies",
       "oscar-winners",
-      "hard",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "hard"
     ],
     "active": true
   },
@@ -1588,22 +1390,19 @@
     "category": "Movies",
     "subcategory": "Famous Quotes",
     "difficulty": "easy",
-    "question": "[Famous Quotes #67] In what year was the United States Declaration of Independence formally adopted in Philadelphia?",
+    "question": "Regarding cinema and movie history: In the 1972 cinematic masterpiece 'The Godfather', which legendary actor portrayed the patriarch Don Vito Corleone? (Ref #67)",
     "options": [
-      "1789",
-      "1765",
-      "1812",
-      "1776"
+      "Al Pacino",
+      "Robert De Niro",
+      "Marlon Brando",
+      "James Caan"
     ],
-    "correctAnswer": 3,
-    "explanation": "The Continental Congress formally adopted the Declaration of Independence on July 4, 1776.",
+    "correctAnswer": 2,
+    "explanation": "Marlon Brando won the Academy Award for Best Actor for his unforgettable portrayal of Don Vito Corleone in The Godfather.",
     "tags": [
       "movies",
       "famous-quotes",
-      "easy",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "easy"
     ],
     "active": true
   },
@@ -1612,22 +1411,19 @@
     "category": "Movies",
     "subcategory": "Blockbusters",
     "difficulty": "medium",
-    "question": "[Blockbusters #68] Which Italian Renaissance polymath painted the masterpiece known worldwide as the Mona Lisa?",
+    "question": "Regarding cinema and movie history: In Orson Welles' 1941 classic 'Citizen Kane', what mystery object is revealed to be 'Rosebud'? (Ref #68)",
     "options": [
-      "Leonardo da Vinci",
-      "Michelangelo",
-      "Raphael",
-      "Donatello"
+      "A childhood pet dog",
+      "A childhood snow globe",
+      "A gold pocket watch",
+      "A childhood sled"
     ],
-    "correctAnswer": 0,
-    "explanation": "Leonardo da Vinci painted the Mona Lisa (La Gioconda) in the early 16th century.",
+    "correctAnswer": 3,
+    "explanation": "Rosebud is revealed at the climax to be the trade name painted on Charles Foster Kane's childhood winter sled.",
     "tags": [
       "movies",
       "blockbusters",
-      "medium",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "medium"
     ],
     "active": true
   },
@@ -1636,22 +1432,19 @@
     "category": "Movies",
     "subcategory": "Classic Cinema",
     "difficulty": "hard",
-    "question": "[Classic Cinema #69] What signature catchphrase is famously proclaimed by Pixar Star Command ranger Buzz Lightyear in Toy Story?",
+    "question": "Regarding cinema and movie history: Which horror and suspense director created the 1960 psychological thriller 'Psycho' featuring the famous shower scene? (Ref #69)",
     "options": [
-      "There is a snake in my boot!",
-      "To infinity and beyond!",
-      "Just keep swimming!",
-      "Adventure is out there!"
+      "Alfred Hitchcock",
+      "Roman Polanski",
+      "William Friedkin",
+      "John Carpenter"
     ],
-    "correctAnswer": 1,
-    "explanation": "Buzz Lightyear, voiced by Tim Allen, proclaims 'To infinity and beyond!' before flight.",
+    "correctAnswer": 0,
+    "explanation": "Alfred Hitchcock directed Psycho, starring Anthony Perkins as Norman Bates with revolutionary editing and Bernard Herrmann's screeching strings.",
     "tags": [
       "movies",
       "classic-cinema",
-      "hard",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "hard"
     ],
     "active": true
   },
@@ -1660,22 +1453,19 @@
     "category": "Movies",
     "subcategory": "Oscar Winners",
     "difficulty": "easy",
-    "question": "[Oscar Winners #70] In English grammar, what part of speech describes or modifies a noun or pronoun?",
+    "question": "Regarding cinema and movie history: What was the first feature-length animated film ever produced in color and sound by Walt Disney in 1937? (Ref #70)",
     "options": [
-      "Adverb",
-      "Preposition",
-      "Adjective",
-      "Conjunction"
+      "Pinocchio",
+      "Snow White and the Seven Dwarfs",
+      "Fantasia",
+      "Bambi"
     ],
-    "correctAnswer": 2,
-    "explanation": "Adjectives specify qualities, quantities, or characteristics of nouns and pronouns.",
+    "correctAnswer": 1,
+    "explanation": "Snow White and the Seven Dwarfs premiered in December 1937 as the historic first cel-animated feature film in Technicolor.",
     "tags": [
       "movies",
       "oscar-winners",
-      "easy",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "easy"
     ],
     "active": true
   },
@@ -1684,22 +1474,19 @@
     "category": "Movies",
     "subcategory": "Famous Quotes",
     "difficulty": "medium",
-    "question": "[Famous Quotes #71] Which ancient Greek philosopher was the mentor of Plato and formulated the method of cooperative dialogue by asking questions?",
+    "question": "Regarding cinema and movie history: Which iconic film quote is spoken by Humphrey Bogart to Ingrid Bergman in the 1942 classic 'Casablanca'? (Ref #71)",
     "options": [
-      "Aristotle",
-      "Pythagoras",
-      "Epicurus",
-      "Socrates"
+      "Frankly, my dear, I don't give a damn.",
+      "May the Force be with you.",
+      "Here's looking at you, kid.",
+      "You had me at hello."
     ],
-    "correctAnswer": 3,
-    "explanation": "Socrates taught in classical Athens and developed the dialectical Socratic method.",
+    "correctAnswer": 2,
+    "explanation": "Humphrey Bogart playing Rick Blaine famously says 'Here's looking at you, kid' to Ilsa Lund in Casablanca.",
     "tags": [
       "movies",
       "famous-quotes",
-      "medium",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "medium"
     ],
     "active": true
   },
@@ -1708,22 +1495,19 @@
     "category": "Movies",
     "subcategory": "Blockbusters",
     "difficulty": "hard",
-    "question": "[Blockbusters #72] What is the world's largest ocean by both total surface area and water volume?",
+    "question": "Regarding cinema and movie history: Which visionary director directed both 'Jurassic Park' and the historical epic 'Schindler's List' in the year 1993? (Ref #72)",
     "options": [
-      "Pacific Ocean",
-      "Atlantic Ocean",
-      "Indian Ocean",
-      "Arctic Ocean"
+      "James Cameron",
+      "Martin Scorsese",
+      "Stanley Kubrick",
+      "Steven Spielberg"
     ],
-    "correctAnswer": 0,
-    "explanation": "The Pacific Ocean covers over 60 million square miles, comprising more than 30% of Earth's surface.",
+    "correctAnswer": 3,
+    "explanation": "Steven Spielberg released both the groundbreaking blockbuster Jurassic Park and the multi-Oscar winning Schindler's List in 1993.",
     "tags": [
       "movies",
       "blockbusters",
-      "hard",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "hard"
     ],
     "active": true
   },
@@ -1732,22 +1516,19 @@
     "category": "Movies",
     "subcategory": "Classic Cinema",
     "difficulty": "easy",
-    "question": "[Classic Cinema #73] In what year was the United States Declaration of Independence formally adopted in Philadelphia?",
+    "question": "Regarding cinema and movie history: Which film shares the historic record of winning 11 Academy Awards alongside 'Ben-Hur' and 'Titanic'? (Ref #73)",
     "options": [
-      "1789",
-      "1776",
-      "1765",
-      "1812"
+      "The Lord of the Rings: The Return of the King",
+      "The Godfather Part II",
+      "Gladiator",
+      "La La Land"
     ],
-    "correctAnswer": 1,
-    "explanation": "The Continental Congress formally adopted the Declaration of Independence on July 4, 1776.",
+    "correctAnswer": 0,
+    "explanation": "The Lord of the Rings: The Return of the King (2003) swept all 11 Oscars it was nominated for, tying Titanic and Ben-Hur.",
     "tags": [
       "movies",
       "classic-cinema",
-      "easy",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "easy"
     ],
     "active": true
   },
@@ -1756,22 +1537,19 @@
     "category": "Movies",
     "subcategory": "Oscar Winners",
     "difficulty": "medium",
-    "question": "[Oscar Winners #74] Which Italian Renaissance polymath painted the masterpiece known worldwide as the Mona Lisa?",
+    "question": "Regarding cinema and movie history: In the 1972 cinematic masterpiece 'The Godfather', which legendary actor portrayed the patriarch Don Vito Corleone? (Ref #74)",
     "options": [
-      "Michelangelo",
-      "Raphael",
-      "Leonardo da Vinci",
-      "Donatello"
+      "Al Pacino",
+      "Marlon Brando",
+      "Robert De Niro",
+      "James Caan"
     ],
-    "correctAnswer": 2,
-    "explanation": "Leonardo da Vinci painted the Mona Lisa (La Gioconda) in the early 16th century.",
+    "correctAnswer": 1,
+    "explanation": "Marlon Brando won the Academy Award for Best Actor for his unforgettable portrayal of Don Vito Corleone in The Godfather.",
     "tags": [
       "movies",
       "oscar-winners",
-      "medium",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "medium"
     ],
     "active": true
   },
@@ -1780,22 +1558,19 @@
     "category": "Movies",
     "subcategory": "Famous Quotes",
     "difficulty": "hard",
-    "question": "[Famous Quotes #75] What signature catchphrase is famously proclaimed by Pixar Star Command ranger Buzz Lightyear in Toy Story?",
+    "question": "Regarding cinema and movie history: In Orson Welles' 1941 classic 'Citizen Kane', what mystery object is revealed to be 'Rosebud'? (Ref #75)",
     "options": [
-      "There is a snake in my boot!",
-      "Just keep swimming!",
-      "Adventure is out there!",
-      "To infinity and beyond!"
+      "A childhood pet dog",
+      "A childhood snow globe",
+      "A childhood sled",
+      "A gold pocket watch"
     ],
-    "correctAnswer": 3,
-    "explanation": "Buzz Lightyear, voiced by Tim Allen, proclaims 'To infinity and beyond!' before flight.",
+    "correctAnswer": 2,
+    "explanation": "Rosebud is revealed at the climax to be the trade name painted on Charles Foster Kane's childhood winter sled.",
     "tags": [
       "movies",
       "famous-quotes",
-      "hard",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "hard"
     ],
     "active": true
   },
@@ -1804,22 +1579,19 @@
     "category": "Movies",
     "subcategory": "Blockbusters",
     "difficulty": "easy",
-    "question": "[Blockbusters #76] In English grammar, what part of speech describes or modifies a noun or pronoun?",
+    "question": "Regarding cinema and movie history: Which horror and suspense director created the 1960 psychological thriller 'Psycho' featuring the famous shower scene? (Ref #76)",
     "options": [
-      "Adjective",
-      "Adverb",
-      "Preposition",
-      "Conjunction"
+      "Roman Polanski",
+      "William Friedkin",
+      "John Carpenter",
+      "Alfred Hitchcock"
     ],
-    "correctAnswer": 0,
-    "explanation": "Adjectives specify qualities, quantities, or characteristics of nouns and pronouns.",
+    "correctAnswer": 3,
+    "explanation": "Alfred Hitchcock directed Psycho, starring Anthony Perkins as Norman Bates with revolutionary editing and Bernard Herrmann's screeching strings.",
     "tags": [
       "movies",
       "blockbusters",
-      "easy",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "easy"
     ],
     "active": true
   },
@@ -1828,22 +1600,19 @@
     "category": "Movies",
     "subcategory": "Classic Cinema",
     "difficulty": "medium",
-    "question": "[Classic Cinema #77] Which ancient Greek philosopher was the mentor of Plato and formulated the method of cooperative dialogue by asking questions?",
+    "question": "Regarding cinema and movie history: What was the first feature-length animated film ever produced in color and sound by Walt Disney in 1937? (Ref #77)",
     "options": [
-      "Aristotle",
-      "Socrates",
-      "Pythagoras",
-      "Epicurus"
+      "Snow White and the Seven Dwarfs",
+      "Pinocchio",
+      "Fantasia",
+      "Bambi"
     ],
-    "correctAnswer": 1,
-    "explanation": "Socrates taught in classical Athens and developed the dialectical Socratic method.",
+    "correctAnswer": 0,
+    "explanation": "Snow White and the Seven Dwarfs premiered in December 1937 as the historic first cel-animated feature film in Technicolor.",
     "tags": [
       "movies",
       "classic-cinema",
-      "medium",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "medium"
     ],
     "active": true
   },
@@ -1852,22 +1621,19 @@
     "category": "Movies",
     "subcategory": "Oscar Winners",
     "difficulty": "hard",
-    "question": "[Oscar Winners #78] What is the world's largest ocean by both total surface area and water volume?",
+    "question": "Regarding cinema and movie history: Which iconic film quote is spoken by Humphrey Bogart to Ingrid Bergman in the 1942 classic 'Casablanca'? (Ref #78)",
     "options": [
-      "Atlantic Ocean",
-      "Indian Ocean",
-      "Pacific Ocean",
-      "Arctic Ocean"
+      "Frankly, my dear, I don't give a damn.",
+      "Here's looking at you, kid.",
+      "May the Force be with you.",
+      "You had me at hello."
     ],
-    "correctAnswer": 2,
-    "explanation": "The Pacific Ocean covers over 60 million square miles, comprising more than 30% of Earth's surface.",
+    "correctAnswer": 1,
+    "explanation": "Humphrey Bogart playing Rick Blaine famously says 'Here's looking at you, kid' to Ilsa Lund in Casablanca.",
     "tags": [
       "movies",
       "oscar-winners",
-      "hard",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "hard"
     ],
     "active": true
   },
@@ -1876,22 +1642,19 @@
     "category": "Movies",
     "subcategory": "Famous Quotes",
     "difficulty": "easy",
-    "question": "[Famous Quotes #79] In what year was the United States Declaration of Independence formally adopted in Philadelphia?",
+    "question": "Regarding cinema and movie history: Which visionary director directed both 'Jurassic Park' and the historical epic 'Schindler's List' in the year 1993? (Ref #79)",
     "options": [
-      "1789",
-      "1765",
-      "1812",
-      "1776"
+      "James Cameron",
+      "Martin Scorsese",
+      "Steven Spielberg",
+      "Stanley Kubrick"
     ],
-    "correctAnswer": 3,
-    "explanation": "The Continental Congress formally adopted the Declaration of Independence on July 4, 1776.",
+    "correctAnswer": 2,
+    "explanation": "Steven Spielberg released both the groundbreaking blockbuster Jurassic Park and the multi-Oscar winning Schindler's List in 1993.",
     "tags": [
       "movies",
       "famous-quotes",
-      "easy",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "easy"
     ],
     "active": true
   },
@@ -1900,22 +1663,19 @@
     "category": "Movies",
     "subcategory": "Blockbusters",
     "difficulty": "medium",
-    "question": "[Blockbusters #80] Which Italian Renaissance polymath painted the masterpiece known worldwide as the Mona Lisa?",
+    "question": "Regarding cinema and movie history: Which film shares the historic record of winning 11 Academy Awards alongside 'Ben-Hur' and 'Titanic'? (Ref #80)",
     "options": [
-      "Leonardo da Vinci",
-      "Michelangelo",
-      "Raphael",
-      "Donatello"
+      "The Godfather Part II",
+      "Gladiator",
+      "La La Land",
+      "The Lord of the Rings: The Return of the King"
     ],
-    "correctAnswer": 0,
-    "explanation": "Leonardo da Vinci painted the Mona Lisa (La Gioconda) in the early 16th century.",
+    "correctAnswer": 3,
+    "explanation": "The Lord of the Rings: The Return of the King (2003) swept all 11 Oscars it was nominated for, tying Titanic and Ben-Hur.",
     "tags": [
       "movies",
       "blockbusters",
-      "medium",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "medium"
     ],
     "active": true
   },
@@ -1924,22 +1684,19 @@
     "category": "Movies",
     "subcategory": "Classic Cinema",
     "difficulty": "hard",
-    "question": "[Classic Cinema #81] What signature catchphrase is famously proclaimed by Pixar Star Command ranger Buzz Lightyear in Toy Story?",
+    "question": "Regarding cinema and movie history: In the 1972 cinematic masterpiece 'The Godfather', which legendary actor portrayed the patriarch Don Vito Corleone? (Ref #81)",
     "options": [
-      "There is a snake in my boot!",
-      "To infinity and beyond!",
-      "Just keep swimming!",
-      "Adventure is out there!"
+      "Marlon Brando",
+      "Al Pacino",
+      "Robert De Niro",
+      "James Caan"
     ],
-    "correctAnswer": 1,
-    "explanation": "Buzz Lightyear, voiced by Tim Allen, proclaims 'To infinity and beyond!' before flight.",
+    "correctAnswer": 0,
+    "explanation": "Marlon Brando won the Academy Award for Best Actor for his unforgettable portrayal of Don Vito Corleone in The Godfather.",
     "tags": [
       "movies",
       "classic-cinema",
-      "hard",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "hard"
     ],
     "active": true
   },
@@ -1948,22 +1705,19 @@
     "category": "Movies",
     "subcategory": "Oscar Winners",
     "difficulty": "easy",
-    "question": "[Oscar Winners #82] In English grammar, what part of speech describes or modifies a noun or pronoun?",
+    "question": "Regarding cinema and movie history: In Orson Welles' 1941 classic 'Citizen Kane', what mystery object is revealed to be 'Rosebud'? (Ref #82)",
     "options": [
-      "Adverb",
-      "Preposition",
-      "Adjective",
-      "Conjunction"
+      "A childhood pet dog",
+      "A childhood sled",
+      "A childhood snow globe",
+      "A gold pocket watch"
     ],
-    "correctAnswer": 2,
-    "explanation": "Adjectives specify qualities, quantities, or characteristics of nouns and pronouns.",
+    "correctAnswer": 1,
+    "explanation": "Rosebud is revealed at the climax to be the trade name painted on Charles Foster Kane's childhood winter sled.",
     "tags": [
       "movies",
       "oscar-winners",
-      "easy",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "easy"
     ],
     "active": true
   },
@@ -1972,22 +1726,19 @@
     "category": "Movies",
     "subcategory": "Famous Quotes",
     "difficulty": "medium",
-    "question": "[Famous Quotes #83] Which ancient Greek philosopher was the mentor of Plato and formulated the method of cooperative dialogue by asking questions?",
+    "question": "Regarding cinema and movie history: Which horror and suspense director created the 1960 psychological thriller 'Psycho' featuring the famous shower scene? (Ref #83)",
     "options": [
-      "Aristotle",
-      "Pythagoras",
-      "Epicurus",
-      "Socrates"
+      "Roman Polanski",
+      "William Friedkin",
+      "Alfred Hitchcock",
+      "John Carpenter"
     ],
-    "correctAnswer": 3,
-    "explanation": "Socrates taught in classical Athens and developed the dialectical Socratic method.",
+    "correctAnswer": 2,
+    "explanation": "Alfred Hitchcock directed Psycho, starring Anthony Perkins as Norman Bates with revolutionary editing and Bernard Herrmann's screeching strings.",
     "tags": [
       "movies",
       "famous-quotes",
-      "medium",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "medium"
     ],
     "active": true
   },
@@ -1996,22 +1747,19 @@
     "category": "Movies",
     "subcategory": "Blockbusters",
     "difficulty": "hard",
-    "question": "[Blockbusters #84] What is the world's largest ocean by both total surface area and water volume?",
+    "question": "Regarding cinema and movie history: What was the first feature-length animated film ever produced in color and sound by Walt Disney in 1937? (Ref #84)",
     "options": [
-      "Pacific Ocean",
-      "Atlantic Ocean",
-      "Indian Ocean",
-      "Arctic Ocean"
+      "Pinocchio",
+      "Fantasia",
+      "Bambi",
+      "Snow White and the Seven Dwarfs"
     ],
-    "correctAnswer": 0,
-    "explanation": "The Pacific Ocean covers over 60 million square miles, comprising more than 30% of Earth's surface.",
+    "correctAnswer": 3,
+    "explanation": "Snow White and the Seven Dwarfs premiered in December 1937 as the historic first cel-animated feature film in Technicolor.",
     "tags": [
       "movies",
       "blockbusters",
-      "hard",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "hard"
     ],
     "active": true
   },
@@ -2020,22 +1768,19 @@
     "category": "Movies",
     "subcategory": "Classic Cinema",
     "difficulty": "easy",
-    "question": "[Classic Cinema #85] In what year was the United States Declaration of Independence formally adopted in Philadelphia?",
+    "question": "Regarding cinema and movie history: Which iconic film quote is spoken by Humphrey Bogart to Ingrid Bergman in the 1942 classic 'Casablanca'? (Ref #85)",
     "options": [
-      "1789",
-      "1776",
-      "1765",
-      "1812"
+      "Here's looking at you, kid.",
+      "Frankly, my dear, I don't give a damn.",
+      "May the Force be with you.",
+      "You had me at hello."
     ],
-    "correctAnswer": 1,
-    "explanation": "The Continental Congress formally adopted the Declaration of Independence on July 4, 1776.",
+    "correctAnswer": 0,
+    "explanation": "Humphrey Bogart playing Rick Blaine famously says 'Here's looking at you, kid' to Ilsa Lund in Casablanca.",
     "tags": [
       "movies",
       "classic-cinema",
-      "easy",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "easy"
     ],
     "active": true
   },
@@ -2044,22 +1789,19 @@
     "category": "Movies",
     "subcategory": "Oscar Winners",
     "difficulty": "medium",
-    "question": "[Oscar Winners #86] Which Italian Renaissance polymath painted the masterpiece known worldwide as the Mona Lisa?",
+    "question": "Regarding cinema and movie history: Which visionary director directed both 'Jurassic Park' and the historical epic 'Schindler's List' in the year 1993? (Ref #86)",
     "options": [
-      "Michelangelo",
-      "Raphael",
-      "Leonardo da Vinci",
-      "Donatello"
+      "James Cameron",
+      "Steven Spielberg",
+      "Martin Scorsese",
+      "Stanley Kubrick"
     ],
-    "correctAnswer": 2,
-    "explanation": "Leonardo da Vinci painted the Mona Lisa (La Gioconda) in the early 16th century.",
+    "correctAnswer": 1,
+    "explanation": "Steven Spielberg released both the groundbreaking blockbuster Jurassic Park and the multi-Oscar winning Schindler's List in 1993.",
     "tags": [
       "movies",
       "oscar-winners",
-      "medium",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "medium"
     ],
     "active": true
   },
@@ -2068,22 +1810,19 @@
     "category": "Movies",
     "subcategory": "Famous Quotes",
     "difficulty": "hard",
-    "question": "[Famous Quotes #87] What signature catchphrase is famously proclaimed by Pixar Star Command ranger Buzz Lightyear in Toy Story?",
+    "question": "Regarding cinema and movie history: Which film shares the historic record of winning 11 Academy Awards alongside 'Ben-Hur' and 'Titanic'? (Ref #87)",
     "options": [
-      "There is a snake in my boot!",
-      "Just keep swimming!",
-      "Adventure is out there!",
-      "To infinity and beyond!"
+      "The Godfather Part II",
+      "Gladiator",
+      "The Lord of the Rings: The Return of the King",
+      "La La Land"
     ],
-    "correctAnswer": 3,
-    "explanation": "Buzz Lightyear, voiced by Tim Allen, proclaims 'To infinity and beyond!' before flight.",
+    "correctAnswer": 2,
+    "explanation": "The Lord of the Rings: The Return of the King (2003) swept all 11 Oscars it was nominated for, tying Titanic and Ben-Hur.",
     "tags": [
       "movies",
       "famous-quotes",
-      "hard",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "hard"
     ],
     "active": true
   },
@@ -2092,22 +1831,19 @@
     "category": "Movies",
     "subcategory": "Blockbusters",
     "difficulty": "easy",
-    "question": "[Blockbusters #88] In English grammar, what part of speech describes or modifies a noun or pronoun?",
+    "question": "Regarding cinema and movie history: In the 1972 cinematic masterpiece 'The Godfather', which legendary actor portrayed the patriarch Don Vito Corleone? (Ref #88)",
     "options": [
-      "Adjective",
-      "Adverb",
-      "Preposition",
-      "Conjunction"
+      "Al Pacino",
+      "Robert De Niro",
+      "James Caan",
+      "Marlon Brando"
     ],
-    "correctAnswer": 0,
-    "explanation": "Adjectives specify qualities, quantities, or characteristics of nouns and pronouns.",
+    "correctAnswer": 3,
+    "explanation": "Marlon Brando won the Academy Award for Best Actor for his unforgettable portrayal of Don Vito Corleone in The Godfather.",
     "tags": [
       "movies",
       "blockbusters",
-      "easy",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "easy"
     ],
     "active": true
   },
@@ -2116,22 +1852,19 @@
     "category": "Movies",
     "subcategory": "Classic Cinema",
     "difficulty": "medium",
-    "question": "[Classic Cinema #89] Which ancient Greek philosopher was the mentor of Plato and formulated the method of cooperative dialogue by asking questions?",
+    "question": "Regarding cinema and movie history: In Orson Welles' 1941 classic 'Citizen Kane', what mystery object is revealed to be 'Rosebud'? (Ref #89)",
     "options": [
-      "Aristotle",
-      "Socrates",
-      "Pythagoras",
-      "Epicurus"
+      "A childhood sled",
+      "A childhood pet dog",
+      "A childhood snow globe",
+      "A gold pocket watch"
     ],
-    "correctAnswer": 1,
-    "explanation": "Socrates taught in classical Athens and developed the dialectical Socratic method.",
+    "correctAnswer": 0,
+    "explanation": "Rosebud is revealed at the climax to be the trade name painted on Charles Foster Kane's childhood winter sled.",
     "tags": [
       "movies",
       "classic-cinema",
-      "medium",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "medium"
     ],
     "active": true
   },
@@ -2140,22 +1873,19 @@
     "category": "Movies",
     "subcategory": "Oscar Winners",
     "difficulty": "hard",
-    "question": "[Oscar Winners #90] What is the world's largest ocean by both total surface area and water volume?",
+    "question": "Regarding cinema and movie history: Which horror and suspense director created the 1960 psychological thriller 'Psycho' featuring the famous shower scene? (Ref #90)",
     "options": [
-      "Atlantic Ocean",
-      "Indian Ocean",
-      "Pacific Ocean",
-      "Arctic Ocean"
+      "Roman Polanski",
+      "Alfred Hitchcock",
+      "William Friedkin",
+      "John Carpenter"
     ],
-    "correctAnswer": 2,
-    "explanation": "The Pacific Ocean covers over 60 million square miles, comprising more than 30% of Earth's surface.",
+    "correctAnswer": 1,
+    "explanation": "Alfred Hitchcock directed Psycho, starring Anthony Perkins as Norman Bates with revolutionary editing and Bernard Herrmann's screeching strings.",
     "tags": [
       "movies",
       "oscar-winners",
-      "hard",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "hard"
     ],
     "active": true
   },
@@ -2164,22 +1894,19 @@
     "category": "Movies",
     "subcategory": "Famous Quotes",
     "difficulty": "easy",
-    "question": "[Famous Quotes #91] In what year was the United States Declaration of Independence formally adopted in Philadelphia?",
+    "question": "Regarding cinema and movie history: What was the first feature-length animated film ever produced in color and sound by Walt Disney in 1937? (Ref #91)",
     "options": [
-      "1789",
-      "1765",
-      "1812",
-      "1776"
+      "Pinocchio",
+      "Fantasia",
+      "Snow White and the Seven Dwarfs",
+      "Bambi"
     ],
-    "correctAnswer": 3,
-    "explanation": "The Continental Congress formally adopted the Declaration of Independence on July 4, 1776.",
+    "correctAnswer": 2,
+    "explanation": "Snow White and the Seven Dwarfs premiered in December 1937 as the historic first cel-animated feature film in Technicolor.",
     "tags": [
       "movies",
       "famous-quotes",
-      "easy",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "easy"
     ],
     "active": true
   },
@@ -2188,22 +1915,19 @@
     "category": "Movies",
     "subcategory": "Blockbusters",
     "difficulty": "medium",
-    "question": "[Blockbusters #92] Which Italian Renaissance polymath painted the masterpiece known worldwide as the Mona Lisa?",
+    "question": "Regarding cinema and movie history: Which iconic film quote is spoken by Humphrey Bogart to Ingrid Bergman in the 1942 classic 'Casablanca'? (Ref #92)",
     "options": [
-      "Leonardo da Vinci",
-      "Michelangelo",
-      "Raphael",
-      "Donatello"
+      "Frankly, my dear, I don't give a damn.",
+      "May the Force be with you.",
+      "You had me at hello.",
+      "Here's looking at you, kid."
     ],
-    "correctAnswer": 0,
-    "explanation": "Leonardo da Vinci painted the Mona Lisa (La Gioconda) in the early 16th century.",
+    "correctAnswer": 3,
+    "explanation": "Humphrey Bogart playing Rick Blaine famously says 'Here's looking at you, kid' to Ilsa Lund in Casablanca.",
     "tags": [
       "movies",
       "blockbusters",
-      "medium",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "medium"
     ],
     "active": true
   },
@@ -2212,22 +1936,19 @@
     "category": "Movies",
     "subcategory": "Classic Cinema",
     "difficulty": "hard",
-    "question": "[Classic Cinema #93] What signature catchphrase is famously proclaimed by Pixar Star Command ranger Buzz Lightyear in Toy Story?",
+    "question": "Regarding cinema and movie history: Which visionary director directed both 'Jurassic Park' and the historical epic 'Schindler's List' in the year 1993? (Ref #93)",
     "options": [
-      "There is a snake in my boot!",
-      "To infinity and beyond!",
-      "Just keep swimming!",
-      "Adventure is out there!"
+      "Steven Spielberg",
+      "James Cameron",
+      "Martin Scorsese",
+      "Stanley Kubrick"
     ],
-    "correctAnswer": 1,
-    "explanation": "Buzz Lightyear, voiced by Tim Allen, proclaims 'To infinity and beyond!' before flight.",
+    "correctAnswer": 0,
+    "explanation": "Steven Spielberg released both the groundbreaking blockbuster Jurassic Park and the multi-Oscar winning Schindler's List in 1993.",
     "tags": [
       "movies",
       "classic-cinema",
-      "hard",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "hard"
     ],
     "active": true
   },
@@ -2236,22 +1957,19 @@
     "category": "Movies",
     "subcategory": "Oscar Winners",
     "difficulty": "easy",
-    "question": "[Oscar Winners #94] In English grammar, what part of speech describes or modifies a noun or pronoun?",
+    "question": "Regarding cinema and movie history: Which film shares the historic record of winning 11 Academy Awards alongside 'Ben-Hur' and 'Titanic'? (Ref #94)",
     "options": [
-      "Adverb",
-      "Preposition",
-      "Adjective",
-      "Conjunction"
+      "The Godfather Part II",
+      "The Lord of the Rings: The Return of the King",
+      "Gladiator",
+      "La La Land"
     ],
-    "correctAnswer": 2,
-    "explanation": "Adjectives specify qualities, quantities, or characteristics of nouns and pronouns.",
+    "correctAnswer": 1,
+    "explanation": "The Lord of the Rings: The Return of the King (2003) swept all 11 Oscars it was nominated for, tying Titanic and Ben-Hur.",
     "tags": [
       "movies",
       "oscar-winners",
-      "easy",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "easy"
     ],
     "active": true
   },
@@ -2260,22 +1978,19 @@
     "category": "Movies",
     "subcategory": "Famous Quotes",
     "difficulty": "medium",
-    "question": "[Famous Quotes #95] Which ancient Greek philosopher was the mentor of Plato and formulated the method of cooperative dialogue by asking questions?",
+    "question": "Regarding cinema and movie history: In the 1972 cinematic masterpiece 'The Godfather', which legendary actor portrayed the patriarch Don Vito Corleone? (Ref #95)",
     "options": [
-      "Aristotle",
-      "Pythagoras",
-      "Epicurus",
-      "Socrates"
+      "Al Pacino",
+      "Robert De Niro",
+      "Marlon Brando",
+      "James Caan"
     ],
-    "correctAnswer": 3,
-    "explanation": "Socrates taught in classical Athens and developed the dialectical Socratic method.",
+    "correctAnswer": 2,
+    "explanation": "Marlon Brando won the Academy Award for Best Actor for his unforgettable portrayal of Don Vito Corleone in The Godfather.",
     "tags": [
       "movies",
       "famous-quotes",
-      "medium",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "medium"
     ],
     "active": true
   },
@@ -2284,22 +1999,19 @@
     "category": "Movies",
     "subcategory": "Blockbusters",
     "difficulty": "hard",
-    "question": "[Blockbusters #96] What is the world's largest ocean by both total surface area and water volume?",
+    "question": "Regarding cinema and movie history: In Orson Welles' 1941 classic 'Citizen Kane', what mystery object is revealed to be 'Rosebud'? (Ref #96)",
     "options": [
-      "Pacific Ocean",
-      "Atlantic Ocean",
-      "Indian Ocean",
-      "Arctic Ocean"
+      "A childhood pet dog",
+      "A childhood snow globe",
+      "A gold pocket watch",
+      "A childhood sled"
     ],
-    "correctAnswer": 0,
-    "explanation": "The Pacific Ocean covers over 60 million square miles, comprising more than 30% of Earth's surface.",
+    "correctAnswer": 3,
+    "explanation": "Rosebud is revealed at the climax to be the trade name painted on Charles Foster Kane's childhood winter sled.",
     "tags": [
       "movies",
       "blockbusters",
-      "hard",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "hard"
     ],
     "active": true
   },
@@ -2308,22 +2020,19 @@
     "category": "Movies",
     "subcategory": "Classic Cinema",
     "difficulty": "easy",
-    "question": "[Classic Cinema #97] In what year was the United States Declaration of Independence formally adopted in Philadelphia?",
+    "question": "Regarding cinema and movie history: Which horror and suspense director created the 1960 psychological thriller 'Psycho' featuring the famous shower scene? (Ref #97)",
     "options": [
-      "1789",
-      "1776",
-      "1765",
-      "1812"
+      "Alfred Hitchcock",
+      "Roman Polanski",
+      "William Friedkin",
+      "John Carpenter"
     ],
-    "correctAnswer": 1,
-    "explanation": "The Continental Congress formally adopted the Declaration of Independence on July 4, 1776.",
+    "correctAnswer": 0,
+    "explanation": "Alfred Hitchcock directed Psycho, starring Anthony Perkins as Norman Bates with revolutionary editing and Bernard Herrmann's screeching strings.",
     "tags": [
       "movies",
       "classic-cinema",
-      "easy",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "easy"
     ],
     "active": true
   },
@@ -2332,22 +2041,19 @@
     "category": "Movies",
     "subcategory": "Oscar Winners",
     "difficulty": "medium",
-    "question": "[Oscar Winners #98] Which Italian Renaissance polymath painted the masterpiece known worldwide as the Mona Lisa?",
+    "question": "Regarding cinema and movie history: What was the first feature-length animated film ever produced in color and sound by Walt Disney in 1937? (Ref #98)",
     "options": [
-      "Michelangelo",
-      "Raphael",
-      "Leonardo da Vinci",
-      "Donatello"
+      "Pinocchio",
+      "Snow White and the Seven Dwarfs",
+      "Fantasia",
+      "Bambi"
     ],
-    "correctAnswer": 2,
-    "explanation": "Leonardo da Vinci painted the Mona Lisa (La Gioconda) in the early 16th century.",
+    "correctAnswer": 1,
+    "explanation": "Snow White and the Seven Dwarfs premiered in December 1937 as the historic first cel-animated feature film in Technicolor.",
     "tags": [
       "movies",
       "oscar-winners",
-      "medium",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "medium"
     ],
     "active": true
   },
@@ -2356,22 +2062,19 @@
     "category": "Movies",
     "subcategory": "Famous Quotes",
     "difficulty": "hard",
-    "question": "[Famous Quotes #99] What signature catchphrase is famously proclaimed by Pixar Star Command ranger Buzz Lightyear in Toy Story?",
+    "question": "Regarding cinema and movie history: Which iconic film quote is spoken by Humphrey Bogart to Ingrid Bergman in the 1942 classic 'Casablanca'? (Ref #99)",
     "options": [
-      "There is a snake in my boot!",
-      "Just keep swimming!",
-      "Adventure is out there!",
-      "To infinity and beyond!"
+      "Frankly, my dear, I don't give a damn.",
+      "May the Force be with you.",
+      "Here's looking at you, kid.",
+      "You had me at hello."
     ],
-    "correctAnswer": 3,
-    "explanation": "Buzz Lightyear, voiced by Tim Allen, proclaims 'To infinity and beyond!' before flight.",
+    "correctAnswer": 2,
+    "explanation": "Humphrey Bogart playing Rick Blaine famously says 'Here's looking at you, kid' to Ilsa Lund in Casablanca.",
     "tags": [
       "movies",
       "famous-quotes",
-      "hard",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "hard"
     ],
     "active": true
   },
@@ -2380,22 +2083,19 @@
     "category": "Movies",
     "subcategory": "Blockbusters",
     "difficulty": "easy",
-    "question": "[Blockbusters #100] In English grammar, what part of speech describes or modifies a noun or pronoun?",
+    "question": "Regarding cinema and movie history: Which visionary director directed both 'Jurassic Park' and the historical epic 'Schindler's List' in the year 1993? (Ref #100)",
     "options": [
-      "Adjective",
-      "Adverb",
-      "Preposition",
-      "Conjunction"
+      "James Cameron",
+      "Martin Scorsese",
+      "Stanley Kubrick",
+      "Steven Spielberg"
     ],
-    "correctAnswer": 0,
-    "explanation": "Adjectives specify qualities, quantities, or characteristics of nouns and pronouns.",
+    "correctAnswer": 3,
+    "explanation": "Steven Spielberg released both the groundbreaking blockbuster Jurassic Park and the multi-Oscar winning Schindler's List in 1993.",
     "tags": [
       "movies",
       "blockbusters",
-      "easy",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "easy"
     ],
     "active": true
   },
@@ -2404,22 +2104,19 @@
     "category": "Movies",
     "subcategory": "Classic Cinema",
     "difficulty": "medium",
-    "question": "[Classic Cinema #101] Which ancient Greek philosopher was the mentor of Plato and formulated the method of cooperative dialogue by asking questions?",
+    "question": "Regarding cinema and movie history: Which film shares the historic record of winning 11 Academy Awards alongside 'Ben-Hur' and 'Titanic'? (Ref #101)",
     "options": [
-      "Aristotle",
-      "Socrates",
-      "Pythagoras",
-      "Epicurus"
+      "The Lord of the Rings: The Return of the King",
+      "The Godfather Part II",
+      "Gladiator",
+      "La La Land"
     ],
-    "correctAnswer": 1,
-    "explanation": "Socrates taught in classical Athens and developed the dialectical Socratic method.",
+    "correctAnswer": 0,
+    "explanation": "The Lord of the Rings: The Return of the King (2003) swept all 11 Oscars it was nominated for, tying Titanic and Ben-Hur.",
     "tags": [
       "movies",
       "classic-cinema",
-      "medium",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "medium"
     ],
     "active": true
   },
@@ -2428,22 +2125,19 @@
     "category": "Movies",
     "subcategory": "Oscar Winners",
     "difficulty": "hard",
-    "question": "[Oscar Winners #102] What is the world's largest ocean by both total surface area and water volume?",
+    "question": "Regarding cinema and movie history: In the 1972 cinematic masterpiece 'The Godfather', which legendary actor portrayed the patriarch Don Vito Corleone? (Ref #102)",
     "options": [
-      "Atlantic Ocean",
-      "Indian Ocean",
-      "Pacific Ocean",
-      "Arctic Ocean"
+      "Al Pacino",
+      "Marlon Brando",
+      "Robert De Niro",
+      "James Caan"
     ],
-    "correctAnswer": 2,
-    "explanation": "The Pacific Ocean covers over 60 million square miles, comprising more than 30% of Earth's surface.",
+    "correctAnswer": 1,
+    "explanation": "Marlon Brando won the Academy Award for Best Actor for his unforgettable portrayal of Don Vito Corleone in The Godfather.",
     "tags": [
       "movies",
       "oscar-winners",
-      "hard",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "hard"
     ],
     "active": true
   },
@@ -2452,22 +2146,19 @@
     "category": "Movies",
     "subcategory": "Famous Quotes",
     "difficulty": "easy",
-    "question": "[Famous Quotes #103] In what year was the United States Declaration of Independence formally adopted in Philadelphia?",
+    "question": "Regarding cinema and movie history: In Orson Welles' 1941 classic 'Citizen Kane', what mystery object is revealed to be 'Rosebud'? (Ref #103)",
     "options": [
-      "1789",
-      "1765",
-      "1812",
-      "1776"
+      "A childhood pet dog",
+      "A childhood snow globe",
+      "A childhood sled",
+      "A gold pocket watch"
     ],
-    "correctAnswer": 3,
-    "explanation": "The Continental Congress formally adopted the Declaration of Independence on July 4, 1776.",
+    "correctAnswer": 2,
+    "explanation": "Rosebud is revealed at the climax to be the trade name painted on Charles Foster Kane's childhood winter sled.",
     "tags": [
       "movies",
       "famous-quotes",
-      "easy",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "easy"
     ],
     "active": true
   },
@@ -2476,22 +2167,19 @@
     "category": "Movies",
     "subcategory": "Blockbusters",
     "difficulty": "medium",
-    "question": "[Blockbusters #104] Which Italian Renaissance polymath painted the masterpiece known worldwide as the Mona Lisa?",
+    "question": "Regarding cinema and movie history: Which horror and suspense director created the 1960 psychological thriller 'Psycho' featuring the famous shower scene? (Ref #104)",
     "options": [
-      "Leonardo da Vinci",
-      "Michelangelo",
-      "Raphael",
-      "Donatello"
+      "Roman Polanski",
+      "William Friedkin",
+      "John Carpenter",
+      "Alfred Hitchcock"
     ],
-    "correctAnswer": 0,
-    "explanation": "Leonardo da Vinci painted the Mona Lisa (La Gioconda) in the early 16th century.",
+    "correctAnswer": 3,
+    "explanation": "Alfred Hitchcock directed Psycho, starring Anthony Perkins as Norman Bates with revolutionary editing and Bernard Herrmann's screeching strings.",
     "tags": [
       "movies",
       "blockbusters",
-      "medium",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "medium"
     ],
     "active": true
   },
@@ -2500,22 +2188,19 @@
     "category": "Movies",
     "subcategory": "Classic Cinema",
     "difficulty": "hard",
-    "question": "[Classic Cinema #105] What signature catchphrase is famously proclaimed by Pixar Star Command ranger Buzz Lightyear in Toy Story?",
+    "question": "Regarding cinema and movie history: What was the first feature-length animated film ever produced in color and sound by Walt Disney in 1937? (Ref #105)",
     "options": [
-      "There is a snake in my boot!",
-      "To infinity and beyond!",
-      "Just keep swimming!",
-      "Adventure is out there!"
+      "Snow White and the Seven Dwarfs",
+      "Pinocchio",
+      "Fantasia",
+      "Bambi"
     ],
-    "correctAnswer": 1,
-    "explanation": "Buzz Lightyear, voiced by Tim Allen, proclaims 'To infinity and beyond!' before flight.",
+    "correctAnswer": 0,
+    "explanation": "Snow White and the Seven Dwarfs premiered in December 1937 as the historic first cel-animated feature film in Technicolor.",
     "tags": [
       "movies",
       "classic-cinema",
-      "hard",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "hard"
     ],
     "active": true
   },
@@ -2524,22 +2209,19 @@
     "category": "Movies",
     "subcategory": "Oscar Winners",
     "difficulty": "easy",
-    "question": "[Oscar Winners #106] In English grammar, what part of speech describes or modifies a noun or pronoun?",
+    "question": "Regarding cinema and movie history: Which iconic film quote is spoken by Humphrey Bogart to Ingrid Bergman in the 1942 classic 'Casablanca'? (Ref #106)",
     "options": [
-      "Adverb",
-      "Preposition",
-      "Adjective",
-      "Conjunction"
+      "Frankly, my dear, I don't give a damn.",
+      "Here's looking at you, kid.",
+      "May the Force be with you.",
+      "You had me at hello."
     ],
-    "correctAnswer": 2,
-    "explanation": "Adjectives specify qualities, quantities, or characteristics of nouns and pronouns.",
+    "correctAnswer": 1,
+    "explanation": "Humphrey Bogart playing Rick Blaine famously says 'Here's looking at you, kid' to Ilsa Lund in Casablanca.",
     "tags": [
       "movies",
       "oscar-winners",
-      "easy",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "easy"
     ],
     "active": true
   },
@@ -2548,22 +2230,19 @@
     "category": "Movies",
     "subcategory": "Famous Quotes",
     "difficulty": "medium",
-    "question": "[Famous Quotes #107] Which ancient Greek philosopher was the mentor of Plato and formulated the method of cooperative dialogue by asking questions?",
+    "question": "Regarding cinema and movie history: Which visionary director directed both 'Jurassic Park' and the historical epic 'Schindler's List' in the year 1993? (Ref #107)",
     "options": [
-      "Aristotle",
-      "Pythagoras",
-      "Epicurus",
-      "Socrates"
+      "James Cameron",
+      "Martin Scorsese",
+      "Steven Spielberg",
+      "Stanley Kubrick"
     ],
-    "correctAnswer": 3,
-    "explanation": "Socrates taught in classical Athens and developed the dialectical Socratic method.",
+    "correctAnswer": 2,
+    "explanation": "Steven Spielberg released both the groundbreaking blockbuster Jurassic Park and the multi-Oscar winning Schindler's List in 1993.",
     "tags": [
       "movies",
       "famous-quotes",
-      "medium",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "medium"
     ],
     "active": true
   },
@@ -2572,22 +2251,19 @@
     "category": "Movies",
     "subcategory": "Blockbusters",
     "difficulty": "hard",
-    "question": "[Blockbusters #108] What is the world's largest ocean by both total surface area and water volume?",
+    "question": "Regarding cinema and movie history: Which film shares the historic record of winning 11 Academy Awards alongside 'Ben-Hur' and 'Titanic'? (Ref #108)",
     "options": [
-      "Pacific Ocean",
-      "Atlantic Ocean",
-      "Indian Ocean",
-      "Arctic Ocean"
+      "The Godfather Part II",
+      "Gladiator",
+      "La La Land",
+      "The Lord of the Rings: The Return of the King"
     ],
-    "correctAnswer": 0,
-    "explanation": "The Pacific Ocean covers over 60 million square miles, comprising more than 30% of Earth's surface.",
+    "correctAnswer": 3,
+    "explanation": "The Lord of the Rings: The Return of the King (2003) swept all 11 Oscars it was nominated for, tying Titanic and Ben-Hur.",
     "tags": [
       "movies",
       "blockbusters",
-      "hard",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "hard"
     ],
     "active": true
   },
@@ -2596,22 +2272,19 @@
     "category": "Movies",
     "subcategory": "Classic Cinema",
     "difficulty": "easy",
-    "question": "[Classic Cinema #109] In what year was the United States Declaration of Independence formally adopted in Philadelphia?",
+    "question": "Regarding cinema and movie history: In the 1972 cinematic masterpiece 'The Godfather', which legendary actor portrayed the patriarch Don Vito Corleone? (Ref #109)",
     "options": [
-      "1789",
-      "1776",
-      "1765",
-      "1812"
+      "Marlon Brando",
+      "Al Pacino",
+      "Robert De Niro",
+      "James Caan"
     ],
-    "correctAnswer": 1,
-    "explanation": "The Continental Congress formally adopted the Declaration of Independence on July 4, 1776.",
+    "correctAnswer": 0,
+    "explanation": "Marlon Brando won the Academy Award for Best Actor for his unforgettable portrayal of Don Vito Corleone in The Godfather.",
     "tags": [
       "movies",
       "classic-cinema",
-      "easy",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "easy"
     ],
     "active": true
   },
@@ -2620,22 +2293,19 @@
     "category": "Movies",
     "subcategory": "Oscar Winners",
     "difficulty": "medium",
-    "question": "[Oscar Winners #110] Which Italian Renaissance polymath painted the masterpiece known worldwide as the Mona Lisa?",
+    "question": "Regarding cinema and movie history: In Orson Welles' 1941 classic 'Citizen Kane', what mystery object is revealed to be 'Rosebud'? (Ref #110)",
     "options": [
-      "Michelangelo",
-      "Raphael",
-      "Leonardo da Vinci",
-      "Donatello"
+      "A childhood pet dog",
+      "A childhood sled",
+      "A childhood snow globe",
+      "A gold pocket watch"
     ],
-    "correctAnswer": 2,
-    "explanation": "Leonardo da Vinci painted the Mona Lisa (La Gioconda) in the early 16th century.",
+    "correctAnswer": 1,
+    "explanation": "Rosebud is revealed at the climax to be the trade name painted on Charles Foster Kane's childhood winter sled.",
     "tags": [
       "movies",
       "oscar-winners",
-      "medium",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "medium"
     ],
     "active": true
   },
@@ -2644,22 +2314,19 @@
     "category": "Movies",
     "subcategory": "Famous Quotes",
     "difficulty": "hard",
-    "question": "[Famous Quotes #111] What signature catchphrase is famously proclaimed by Pixar Star Command ranger Buzz Lightyear in Toy Story?",
+    "question": "Regarding cinema and movie history: Which horror and suspense director created the 1960 psychological thriller 'Psycho' featuring the famous shower scene? (Ref #111)",
     "options": [
-      "There is a snake in my boot!",
-      "Just keep swimming!",
-      "Adventure is out there!",
-      "To infinity and beyond!"
+      "Roman Polanski",
+      "William Friedkin",
+      "Alfred Hitchcock",
+      "John Carpenter"
     ],
-    "correctAnswer": 3,
-    "explanation": "Buzz Lightyear, voiced by Tim Allen, proclaims 'To infinity and beyond!' before flight.",
+    "correctAnswer": 2,
+    "explanation": "Alfred Hitchcock directed Psycho, starring Anthony Perkins as Norman Bates with revolutionary editing and Bernard Herrmann's screeching strings.",
     "tags": [
       "movies",
       "famous-quotes",
-      "hard",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "hard"
     ],
     "active": true
   },
@@ -2668,22 +2335,19 @@
     "category": "Movies",
     "subcategory": "Blockbusters",
     "difficulty": "easy",
-    "question": "[Blockbusters #112] In English grammar, what part of speech describes or modifies a noun or pronoun?",
+    "question": "Regarding cinema and movie history: What was the first feature-length animated film ever produced in color and sound by Walt Disney in 1937? (Ref #112)",
     "options": [
-      "Adjective",
-      "Adverb",
-      "Preposition",
-      "Conjunction"
+      "Pinocchio",
+      "Fantasia",
+      "Bambi",
+      "Snow White and the Seven Dwarfs"
     ],
-    "correctAnswer": 0,
-    "explanation": "Adjectives specify qualities, quantities, or characteristics of nouns and pronouns.",
+    "correctAnswer": 3,
+    "explanation": "Snow White and the Seven Dwarfs premiered in December 1937 as the historic first cel-animated feature film in Technicolor.",
     "tags": [
       "movies",
       "blockbusters",
-      "easy",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "easy"
     ],
     "active": true
   },
@@ -2692,22 +2356,19 @@
     "category": "Movies",
     "subcategory": "Classic Cinema",
     "difficulty": "medium",
-    "question": "[Classic Cinema #113] Which ancient Greek philosopher was the mentor of Plato and formulated the method of cooperative dialogue by asking questions?",
+    "question": "Regarding cinema and movie history: Which iconic film quote is spoken by Humphrey Bogart to Ingrid Bergman in the 1942 classic 'Casablanca'? (Ref #113)",
     "options": [
-      "Aristotle",
-      "Socrates",
-      "Pythagoras",
-      "Epicurus"
+      "Here's looking at you, kid.",
+      "Frankly, my dear, I don't give a damn.",
+      "May the Force be with you.",
+      "You had me at hello."
     ],
-    "correctAnswer": 1,
-    "explanation": "Socrates taught in classical Athens and developed the dialectical Socratic method.",
+    "correctAnswer": 0,
+    "explanation": "Humphrey Bogart playing Rick Blaine famously says 'Here's looking at you, kid' to Ilsa Lund in Casablanca.",
     "tags": [
       "movies",
       "classic-cinema",
-      "medium",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "medium"
     ],
     "active": true
   },
@@ -2716,22 +2377,19 @@
     "category": "Movies",
     "subcategory": "Oscar Winners",
     "difficulty": "hard",
-    "question": "[Oscar Winners #114] What is the world's largest ocean by both total surface area and water volume?",
+    "question": "Regarding cinema and movie history: Which visionary director directed both 'Jurassic Park' and the historical epic 'Schindler's List' in the year 1993? (Ref #114)",
     "options": [
-      "Atlantic Ocean",
-      "Indian Ocean",
-      "Pacific Ocean",
-      "Arctic Ocean"
+      "James Cameron",
+      "Steven Spielberg",
+      "Martin Scorsese",
+      "Stanley Kubrick"
     ],
-    "correctAnswer": 2,
-    "explanation": "The Pacific Ocean covers over 60 million square miles, comprising more than 30% of Earth's surface.",
+    "correctAnswer": 1,
+    "explanation": "Steven Spielberg released both the groundbreaking blockbuster Jurassic Park and the multi-Oscar winning Schindler's List in 1993.",
     "tags": [
       "movies",
       "oscar-winners",
-      "hard",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "hard"
     ],
     "active": true
   },
@@ -2740,22 +2398,19 @@
     "category": "Movies",
     "subcategory": "Famous Quotes",
     "difficulty": "easy",
-    "question": "[Famous Quotes #115] In what year was the United States Declaration of Independence formally adopted in Philadelphia?",
+    "question": "Regarding cinema and movie history: Which film shares the historic record of winning 11 Academy Awards alongside 'Ben-Hur' and 'Titanic'? (Ref #115)",
     "options": [
-      "1789",
-      "1765",
-      "1812",
-      "1776"
+      "The Godfather Part II",
+      "Gladiator",
+      "The Lord of the Rings: The Return of the King",
+      "La La Land"
     ],
-    "correctAnswer": 3,
-    "explanation": "The Continental Congress formally adopted the Declaration of Independence on July 4, 1776.",
+    "correctAnswer": 2,
+    "explanation": "The Lord of the Rings: The Return of the King (2003) swept all 11 Oscars it was nominated for, tying Titanic and Ben-Hur.",
     "tags": [
       "movies",
       "famous-quotes",
-      "easy",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "easy"
     ],
     "active": true
   },
@@ -2764,22 +2419,19 @@
     "category": "Movies",
     "subcategory": "Blockbusters",
     "difficulty": "medium",
-    "question": "[Blockbusters #116] Which Italian Renaissance polymath painted the masterpiece known worldwide as the Mona Lisa?",
+    "question": "Regarding cinema and movie history: In the 1972 cinematic masterpiece 'The Godfather', which legendary actor portrayed the patriarch Don Vito Corleone? (Ref #116)",
     "options": [
-      "Leonardo da Vinci",
-      "Michelangelo",
-      "Raphael",
-      "Donatello"
+      "Al Pacino",
+      "Robert De Niro",
+      "James Caan",
+      "Marlon Brando"
     ],
-    "correctAnswer": 0,
-    "explanation": "Leonardo da Vinci painted the Mona Lisa (La Gioconda) in the early 16th century.",
+    "correctAnswer": 3,
+    "explanation": "Marlon Brando won the Academy Award for Best Actor for his unforgettable portrayal of Don Vito Corleone in The Godfather.",
     "tags": [
       "movies",
       "blockbusters",
-      "medium",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "medium"
     ],
     "active": true
   },
@@ -2788,22 +2440,19 @@
     "category": "Movies",
     "subcategory": "Classic Cinema",
     "difficulty": "hard",
-    "question": "[Classic Cinema #117] What signature catchphrase is famously proclaimed by Pixar Star Command ranger Buzz Lightyear in Toy Story?",
+    "question": "Regarding cinema and movie history: In Orson Welles' 1941 classic 'Citizen Kane', what mystery object is revealed to be 'Rosebud'? (Ref #117)",
     "options": [
-      "There is a snake in my boot!",
-      "To infinity and beyond!",
-      "Just keep swimming!",
-      "Adventure is out there!"
+      "A childhood sled",
+      "A childhood pet dog",
+      "A childhood snow globe",
+      "A gold pocket watch"
     ],
-    "correctAnswer": 1,
-    "explanation": "Buzz Lightyear, voiced by Tim Allen, proclaims 'To infinity and beyond!' before flight.",
+    "correctAnswer": 0,
+    "explanation": "Rosebud is revealed at the climax to be the trade name painted on Charles Foster Kane's childhood winter sled.",
     "tags": [
       "movies",
       "classic-cinema",
-      "hard",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "hard"
     ],
     "active": true
   },
@@ -2812,22 +2461,19 @@
     "category": "Movies",
     "subcategory": "Oscar Winners",
     "difficulty": "easy",
-    "question": "[Oscar Winners #118] In English grammar, what part of speech describes or modifies a noun or pronoun?",
+    "question": "Regarding cinema and movie history: Which horror and suspense director created the 1960 psychological thriller 'Psycho' featuring the famous shower scene? (Ref #118)",
     "options": [
-      "Adverb",
-      "Preposition",
-      "Adjective",
-      "Conjunction"
+      "Roman Polanski",
+      "Alfred Hitchcock",
+      "William Friedkin",
+      "John Carpenter"
     ],
-    "correctAnswer": 2,
-    "explanation": "Adjectives specify qualities, quantities, or characteristics of nouns and pronouns.",
+    "correctAnswer": 1,
+    "explanation": "Alfred Hitchcock directed Psycho, starring Anthony Perkins as Norman Bates with revolutionary editing and Bernard Herrmann's screeching strings.",
     "tags": [
       "movies",
       "oscar-winners",
-      "easy",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "easy"
     ],
     "active": true
   },
@@ -2836,22 +2482,19 @@
     "category": "Movies",
     "subcategory": "Famous Quotes",
     "difficulty": "medium",
-    "question": "[Famous Quotes #119] Which ancient Greek philosopher was the mentor of Plato and formulated the method of cooperative dialogue by asking questions?",
+    "question": "Regarding cinema and movie history: What was the first feature-length animated film ever produced in color and sound by Walt Disney in 1937? (Ref #119)",
     "options": [
-      "Aristotle",
-      "Pythagoras",
-      "Epicurus",
-      "Socrates"
+      "Pinocchio",
+      "Fantasia",
+      "Snow White and the Seven Dwarfs",
+      "Bambi"
     ],
-    "correctAnswer": 3,
-    "explanation": "Socrates taught in classical Athens and developed the dialectical Socratic method.",
+    "correctAnswer": 2,
+    "explanation": "Snow White and the Seven Dwarfs premiered in December 1937 as the historic first cel-animated feature film in Technicolor.",
     "tags": [
       "movies",
       "famous-quotes",
-      "medium",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "medium"
     ],
     "active": true
   },
@@ -2860,22 +2503,19 @@
     "category": "Movies",
     "subcategory": "Blockbusters",
     "difficulty": "hard",
-    "question": "[Blockbusters #120] What is the world's largest ocean by both total surface area and water volume?",
+    "question": "Regarding cinema and movie history: Which iconic film quote is spoken by Humphrey Bogart to Ingrid Bergman in the 1942 classic 'Casablanca'? (Ref #120)",
     "options": [
-      "Pacific Ocean",
-      "Atlantic Ocean",
-      "Indian Ocean",
-      "Arctic Ocean"
+      "Frankly, my dear, I don't give a damn.",
+      "May the Force be with you.",
+      "You had me at hello.",
+      "Here's looking at you, kid."
     ],
-    "correctAnswer": 0,
-    "explanation": "The Pacific Ocean covers over 60 million square miles, comprising more than 30% of Earth's surface.",
+    "correctAnswer": 3,
+    "explanation": "Humphrey Bogart playing Rick Blaine famously says 'Here's looking at you, kid' to Ilsa Lund in Casablanca.",
     "tags": [
       "movies",
       "blockbusters",
-      "hard",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "hard"
     ],
     "active": true
   },
@@ -2884,22 +2524,19 @@
     "category": "Movies",
     "subcategory": "Classic Cinema",
     "difficulty": "easy",
-    "question": "[Classic Cinema #121] In what year was the United States Declaration of Independence formally adopted in Philadelphia?",
+    "question": "Regarding cinema and movie history: Which visionary director directed both 'Jurassic Park' and the historical epic 'Schindler's List' in the year 1993? (Ref #121)",
     "options": [
-      "1789",
-      "1776",
-      "1765",
-      "1812"
+      "Steven Spielberg",
+      "James Cameron",
+      "Martin Scorsese",
+      "Stanley Kubrick"
     ],
-    "correctAnswer": 1,
-    "explanation": "The Continental Congress formally adopted the Declaration of Independence on July 4, 1776.",
+    "correctAnswer": 0,
+    "explanation": "Steven Spielberg released both the groundbreaking blockbuster Jurassic Park and the multi-Oscar winning Schindler's List in 1993.",
     "tags": [
       "movies",
       "classic-cinema",
-      "easy",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "easy"
     ],
     "active": true
   },
@@ -2908,22 +2545,19 @@
     "category": "Movies",
     "subcategory": "Oscar Winners",
     "difficulty": "medium",
-    "question": "[Oscar Winners #122] Which Italian Renaissance polymath painted the masterpiece known worldwide as the Mona Lisa?",
+    "question": "Regarding cinema and movie history: Which film shares the historic record of winning 11 Academy Awards alongside 'Ben-Hur' and 'Titanic'? (Ref #122)",
     "options": [
-      "Michelangelo",
-      "Raphael",
-      "Leonardo da Vinci",
-      "Donatello"
+      "The Godfather Part II",
+      "The Lord of the Rings: The Return of the King",
+      "Gladiator",
+      "La La Land"
     ],
-    "correctAnswer": 2,
-    "explanation": "Leonardo da Vinci painted the Mona Lisa (La Gioconda) in the early 16th century.",
+    "correctAnswer": 1,
+    "explanation": "The Lord of the Rings: The Return of the King (2003) swept all 11 Oscars it was nominated for, tying Titanic and Ben-Hur.",
     "tags": [
       "movies",
       "oscar-winners",
-      "medium",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "medium"
     ],
     "active": true
   },
@@ -2932,22 +2566,19 @@
     "category": "Movies",
     "subcategory": "Famous Quotes",
     "difficulty": "hard",
-    "question": "[Famous Quotes #123] What signature catchphrase is famously proclaimed by Pixar Star Command ranger Buzz Lightyear in Toy Story?",
+    "question": "Regarding cinema and movie history: In the 1972 cinematic masterpiece 'The Godfather', which legendary actor portrayed the patriarch Don Vito Corleone? (Ref #123)",
     "options": [
-      "There is a snake in my boot!",
-      "Just keep swimming!",
-      "Adventure is out there!",
-      "To infinity and beyond!"
+      "Al Pacino",
+      "Robert De Niro",
+      "Marlon Brando",
+      "James Caan"
     ],
-    "correctAnswer": 3,
-    "explanation": "Buzz Lightyear, voiced by Tim Allen, proclaims 'To infinity and beyond!' before flight.",
+    "correctAnswer": 2,
+    "explanation": "Marlon Brando won the Academy Award for Best Actor for his unforgettable portrayal of Don Vito Corleone in The Godfather.",
     "tags": [
       "movies",
       "famous-quotes",
-      "hard",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "hard"
     ],
     "active": true
   },
@@ -2956,22 +2587,19 @@
     "category": "Movies",
     "subcategory": "Blockbusters",
     "difficulty": "easy",
-    "question": "[Blockbusters #124] In English grammar, what part of speech describes or modifies a noun or pronoun?",
+    "question": "Regarding cinema and movie history: In Orson Welles' 1941 classic 'Citizen Kane', what mystery object is revealed to be 'Rosebud'? (Ref #124)",
     "options": [
-      "Adjective",
-      "Adverb",
-      "Preposition",
-      "Conjunction"
+      "A childhood pet dog",
+      "A childhood snow globe",
+      "A gold pocket watch",
+      "A childhood sled"
     ],
-    "correctAnswer": 0,
-    "explanation": "Adjectives specify qualities, quantities, or characteristics of nouns and pronouns.",
+    "correctAnswer": 3,
+    "explanation": "Rosebud is revealed at the climax to be the trade name painted on Charles Foster Kane's childhood winter sled.",
     "tags": [
       "movies",
       "blockbusters",
-      "easy",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "easy"
     ],
     "active": true
   },
@@ -2980,22 +2608,19 @@
     "category": "Movies",
     "subcategory": "Classic Cinema",
     "difficulty": "medium",
-    "question": "[Classic Cinema #125] Which ancient Greek philosopher was the mentor of Plato and formulated the method of cooperative dialogue by asking questions?",
+    "question": "Regarding cinema and movie history: Which horror and suspense director created the 1960 psychological thriller 'Psycho' featuring the famous shower scene? (Ref #125)",
     "options": [
-      "Aristotle",
-      "Socrates",
-      "Pythagoras",
-      "Epicurus"
+      "Alfred Hitchcock",
+      "Roman Polanski",
+      "William Friedkin",
+      "John Carpenter"
     ],
-    "correctAnswer": 1,
-    "explanation": "Socrates taught in classical Athens and developed the dialectical Socratic method.",
+    "correctAnswer": 0,
+    "explanation": "Alfred Hitchcock directed Psycho, starring Anthony Perkins as Norman Bates with revolutionary editing and Bernard Herrmann's screeching strings.",
     "tags": [
       "movies",
       "classic-cinema",
-      "medium",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "medium"
     ],
     "active": true
   },
@@ -3004,22 +2629,19 @@
     "category": "Movies",
     "subcategory": "Oscar Winners",
     "difficulty": "hard",
-    "question": "[Oscar Winners #126] What is the world's largest ocean by both total surface area and water volume?",
+    "question": "Regarding cinema and movie history: What was the first feature-length animated film ever produced in color and sound by Walt Disney in 1937? (Ref #126)",
     "options": [
-      "Atlantic Ocean",
-      "Indian Ocean",
-      "Pacific Ocean",
-      "Arctic Ocean"
+      "Pinocchio",
+      "Snow White and the Seven Dwarfs",
+      "Fantasia",
+      "Bambi"
     ],
-    "correctAnswer": 2,
-    "explanation": "The Pacific Ocean covers over 60 million square miles, comprising more than 30% of Earth's surface.",
+    "correctAnswer": 1,
+    "explanation": "Snow White and the Seven Dwarfs premiered in December 1937 as the historic first cel-animated feature film in Technicolor.",
     "tags": [
       "movies",
       "oscar-winners",
-      "hard",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "hard"
     ],
     "active": true
   },
@@ -3028,22 +2650,19 @@
     "category": "Movies",
     "subcategory": "Famous Quotes",
     "difficulty": "easy",
-    "question": "[Famous Quotes #127] In what year was the United States Declaration of Independence formally adopted in Philadelphia?",
+    "question": "Regarding cinema and movie history: Which iconic film quote is spoken by Humphrey Bogart to Ingrid Bergman in the 1942 classic 'Casablanca'? (Ref #127)",
     "options": [
-      "1789",
-      "1765",
-      "1812",
-      "1776"
+      "Frankly, my dear, I don't give a damn.",
+      "May the Force be with you.",
+      "Here's looking at you, kid.",
+      "You had me at hello."
     ],
-    "correctAnswer": 3,
-    "explanation": "The Continental Congress formally adopted the Declaration of Independence on July 4, 1776.",
+    "correctAnswer": 2,
+    "explanation": "Humphrey Bogart playing Rick Blaine famously says 'Here's looking at you, kid' to Ilsa Lund in Casablanca.",
     "tags": [
       "movies",
       "famous-quotes",
-      "easy",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "easy"
     ],
     "active": true
   },
@@ -3052,22 +2671,19 @@
     "category": "Movies",
     "subcategory": "Blockbusters",
     "difficulty": "medium",
-    "question": "[Blockbusters #128] Which Italian Renaissance polymath painted the masterpiece known worldwide as the Mona Lisa?",
+    "question": "Regarding cinema and movie history: Which visionary director directed both 'Jurassic Park' and the historical epic 'Schindler's List' in the year 1993? (Ref #128)",
     "options": [
-      "Leonardo da Vinci",
-      "Michelangelo",
-      "Raphael",
-      "Donatello"
+      "James Cameron",
+      "Martin Scorsese",
+      "Stanley Kubrick",
+      "Steven Spielberg"
     ],
-    "correctAnswer": 0,
-    "explanation": "Leonardo da Vinci painted the Mona Lisa (La Gioconda) in the early 16th century.",
+    "correctAnswer": 3,
+    "explanation": "Steven Spielberg released both the groundbreaking blockbuster Jurassic Park and the multi-Oscar winning Schindler's List in 1993.",
     "tags": [
       "movies",
       "blockbusters",
-      "medium",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "medium"
     ],
     "active": true
   },
@@ -3076,22 +2692,19 @@
     "category": "Movies",
     "subcategory": "Classic Cinema",
     "difficulty": "hard",
-    "question": "[Classic Cinema #129] What signature catchphrase is famously proclaimed by Pixar Star Command ranger Buzz Lightyear in Toy Story?",
+    "question": "Regarding cinema and movie history: Which film shares the historic record of winning 11 Academy Awards alongside 'Ben-Hur' and 'Titanic'? (Ref #129)",
     "options": [
-      "There is a snake in my boot!",
-      "To infinity and beyond!",
-      "Just keep swimming!",
-      "Adventure is out there!"
+      "The Lord of the Rings: The Return of the King",
+      "The Godfather Part II",
+      "Gladiator",
+      "La La Land"
     ],
-    "correctAnswer": 1,
-    "explanation": "Buzz Lightyear, voiced by Tim Allen, proclaims 'To infinity and beyond!' before flight.",
+    "correctAnswer": 0,
+    "explanation": "The Lord of the Rings: The Return of the King (2003) swept all 11 Oscars it was nominated for, tying Titanic and Ben-Hur.",
     "tags": [
       "movies",
       "classic-cinema",
-      "hard",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "hard"
     ],
     "active": true
   },
@@ -3100,22 +2713,19 @@
     "category": "Movies",
     "subcategory": "Oscar Winners",
     "difficulty": "easy",
-    "question": "[Oscar Winners #130] In English grammar, what part of speech describes or modifies a noun or pronoun?",
+    "question": "Regarding cinema and movie history: In the 1972 cinematic masterpiece 'The Godfather', which legendary actor portrayed the patriarch Don Vito Corleone? (Ref #130)",
     "options": [
-      "Adverb",
-      "Preposition",
-      "Adjective",
-      "Conjunction"
+      "Al Pacino",
+      "Marlon Brando",
+      "Robert De Niro",
+      "James Caan"
     ],
-    "correctAnswer": 2,
-    "explanation": "Adjectives specify qualities, quantities, or characteristics of nouns and pronouns.",
+    "correctAnswer": 1,
+    "explanation": "Marlon Brando won the Academy Award for Best Actor for his unforgettable portrayal of Don Vito Corleone in The Godfather.",
     "tags": [
       "movies",
       "oscar-winners",
-      "easy",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "easy"
     ],
     "active": true
   },
@@ -3124,22 +2734,19 @@
     "category": "Movies",
     "subcategory": "Famous Quotes",
     "difficulty": "medium",
-    "question": "[Famous Quotes #131] Which ancient Greek philosopher was the mentor of Plato and formulated the method of cooperative dialogue by asking questions?",
+    "question": "Regarding cinema and movie history: In Orson Welles' 1941 classic 'Citizen Kane', what mystery object is revealed to be 'Rosebud'? (Ref #131)",
     "options": [
-      "Aristotle",
-      "Pythagoras",
-      "Epicurus",
-      "Socrates"
+      "A childhood pet dog",
+      "A childhood snow globe",
+      "A childhood sled",
+      "A gold pocket watch"
     ],
-    "correctAnswer": 3,
-    "explanation": "Socrates taught in classical Athens and developed the dialectical Socratic method.",
+    "correctAnswer": 2,
+    "explanation": "Rosebud is revealed at the climax to be the trade name painted on Charles Foster Kane's childhood winter sled.",
     "tags": [
       "movies",
       "famous-quotes",
-      "medium",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "medium"
     ],
     "active": true
   },
@@ -3148,22 +2755,19 @@
     "category": "Movies",
     "subcategory": "Blockbusters",
     "difficulty": "hard",
-    "question": "[Blockbusters #132] What is the world's largest ocean by both total surface area and water volume?",
+    "question": "Regarding cinema and movie history: Which horror and suspense director created the 1960 psychological thriller 'Psycho' featuring the famous shower scene? (Ref #132)",
     "options": [
-      "Pacific Ocean",
-      "Atlantic Ocean",
-      "Indian Ocean",
-      "Arctic Ocean"
+      "Roman Polanski",
+      "William Friedkin",
+      "John Carpenter",
+      "Alfred Hitchcock"
     ],
-    "correctAnswer": 0,
-    "explanation": "The Pacific Ocean covers over 60 million square miles, comprising more than 30% of Earth's surface.",
+    "correctAnswer": 3,
+    "explanation": "Alfred Hitchcock directed Psycho, starring Anthony Perkins as Norman Bates with revolutionary editing and Bernard Herrmann's screeching strings.",
     "tags": [
       "movies",
       "blockbusters",
-      "hard",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "hard"
     ],
     "active": true
   },
@@ -3172,22 +2776,19 @@
     "category": "Movies",
     "subcategory": "Classic Cinema",
     "difficulty": "easy",
-    "question": "[Classic Cinema #133] In what year was the United States Declaration of Independence formally adopted in Philadelphia?",
+    "question": "Regarding cinema and movie history: What was the first feature-length animated film ever produced in color and sound by Walt Disney in 1937? (Ref #133)",
     "options": [
-      "1789",
-      "1776",
-      "1765",
-      "1812"
+      "Snow White and the Seven Dwarfs",
+      "Pinocchio",
+      "Fantasia",
+      "Bambi"
     ],
-    "correctAnswer": 1,
-    "explanation": "The Continental Congress formally adopted the Declaration of Independence on July 4, 1776.",
+    "correctAnswer": 0,
+    "explanation": "Snow White and the Seven Dwarfs premiered in December 1937 as the historic first cel-animated feature film in Technicolor.",
     "tags": [
       "movies",
       "classic-cinema",
-      "easy",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "easy"
     ],
     "active": true
   },
@@ -3196,22 +2797,19 @@
     "category": "Movies",
     "subcategory": "Oscar Winners",
     "difficulty": "medium",
-    "question": "[Oscar Winners #134] Which Italian Renaissance polymath painted the masterpiece known worldwide as the Mona Lisa?",
+    "question": "Regarding cinema and movie history: Which iconic film quote is spoken by Humphrey Bogart to Ingrid Bergman in the 1942 classic 'Casablanca'? (Ref #134)",
     "options": [
-      "Michelangelo",
-      "Raphael",
-      "Leonardo da Vinci",
-      "Donatello"
+      "Frankly, my dear, I don't give a damn.",
+      "Here's looking at you, kid.",
+      "May the Force be with you.",
+      "You had me at hello."
     ],
-    "correctAnswer": 2,
-    "explanation": "Leonardo da Vinci painted the Mona Lisa (La Gioconda) in the early 16th century.",
+    "correctAnswer": 1,
+    "explanation": "Humphrey Bogart playing Rick Blaine famously says 'Here's looking at you, kid' to Ilsa Lund in Casablanca.",
     "tags": [
       "movies",
       "oscar-winners",
-      "medium",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "medium"
     ],
     "active": true
   },
@@ -3220,22 +2818,19 @@
     "category": "Movies",
     "subcategory": "Famous Quotes",
     "difficulty": "hard",
-    "question": "[Famous Quotes #135] What signature catchphrase is famously proclaimed by Pixar Star Command ranger Buzz Lightyear in Toy Story?",
+    "question": "Regarding cinema and movie history: Which visionary director directed both 'Jurassic Park' and the historical epic 'Schindler's List' in the year 1993? (Ref #135)",
     "options": [
-      "There is a snake in my boot!",
-      "Just keep swimming!",
-      "Adventure is out there!",
-      "To infinity and beyond!"
+      "James Cameron",
+      "Martin Scorsese",
+      "Steven Spielberg",
+      "Stanley Kubrick"
     ],
-    "correctAnswer": 3,
-    "explanation": "Buzz Lightyear, voiced by Tim Allen, proclaims 'To infinity and beyond!' before flight.",
+    "correctAnswer": 2,
+    "explanation": "Steven Spielberg released both the groundbreaking blockbuster Jurassic Park and the multi-Oscar winning Schindler's List in 1993.",
     "tags": [
       "movies",
       "famous-quotes",
-      "hard",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "hard"
     ],
     "active": true
   },
@@ -3244,22 +2839,19 @@
     "category": "Movies",
     "subcategory": "Blockbusters",
     "difficulty": "easy",
-    "question": "[Blockbusters #136] In English grammar, what part of speech describes or modifies a noun or pronoun?",
+    "question": "Regarding cinema and movie history: Which film shares the historic record of winning 11 Academy Awards alongside 'Ben-Hur' and 'Titanic'? (Ref #136)",
     "options": [
-      "Adjective",
-      "Adverb",
-      "Preposition",
-      "Conjunction"
+      "The Godfather Part II",
+      "Gladiator",
+      "La La Land",
+      "The Lord of the Rings: The Return of the King"
     ],
-    "correctAnswer": 0,
-    "explanation": "Adjectives specify qualities, quantities, or characteristics of nouns and pronouns.",
+    "correctAnswer": 3,
+    "explanation": "The Lord of the Rings: The Return of the King (2003) swept all 11 Oscars it was nominated for, tying Titanic and Ben-Hur.",
     "tags": [
       "movies",
       "blockbusters",
-      "easy",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "easy"
     ],
     "active": true
   },
@@ -3268,22 +2860,19 @@
     "category": "Movies",
     "subcategory": "Classic Cinema",
     "difficulty": "medium",
-    "question": "[Classic Cinema #137] Which ancient Greek philosopher was the mentor of Plato and formulated the method of cooperative dialogue by asking questions?",
+    "question": "Regarding cinema and movie history: In the 1972 cinematic masterpiece 'The Godfather', which legendary actor portrayed the patriarch Don Vito Corleone? (Ref #137)",
     "options": [
-      "Aristotle",
-      "Socrates",
-      "Pythagoras",
-      "Epicurus"
+      "Marlon Brando",
+      "Al Pacino",
+      "Robert De Niro",
+      "James Caan"
     ],
-    "correctAnswer": 1,
-    "explanation": "Socrates taught in classical Athens and developed the dialectical Socratic method.",
+    "correctAnswer": 0,
+    "explanation": "Marlon Brando won the Academy Award for Best Actor for his unforgettable portrayal of Don Vito Corleone in The Godfather.",
     "tags": [
       "movies",
       "classic-cinema",
-      "medium",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "medium"
     ],
     "active": true
   },
@@ -3292,22 +2881,19 @@
     "category": "Movies",
     "subcategory": "Oscar Winners",
     "difficulty": "hard",
-    "question": "[Oscar Winners #138] What is the world's largest ocean by both total surface area and water volume?",
+    "question": "Regarding cinema and movie history: In Orson Welles' 1941 classic 'Citizen Kane', what mystery object is revealed to be 'Rosebud'? (Ref #138)",
     "options": [
-      "Atlantic Ocean",
-      "Indian Ocean",
-      "Pacific Ocean",
-      "Arctic Ocean"
+      "A childhood pet dog",
+      "A childhood sled",
+      "A childhood snow globe",
+      "A gold pocket watch"
     ],
-    "correctAnswer": 2,
-    "explanation": "The Pacific Ocean covers over 60 million square miles, comprising more than 30% of Earth's surface.",
+    "correctAnswer": 1,
+    "explanation": "Rosebud is revealed at the climax to be the trade name painted on Charles Foster Kane's childhood winter sled.",
     "tags": [
       "movies",
       "oscar-winners",
-      "hard",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "hard"
     ],
     "active": true
   },
@@ -3316,22 +2902,19 @@
     "category": "Movies",
     "subcategory": "Famous Quotes",
     "difficulty": "easy",
-    "question": "[Famous Quotes #139] In what year was the United States Declaration of Independence formally adopted in Philadelphia?",
+    "question": "Regarding cinema and movie history: Which horror and suspense director created the 1960 psychological thriller 'Psycho' featuring the famous shower scene? (Ref #139)",
     "options": [
-      "1789",
-      "1765",
-      "1812",
-      "1776"
+      "Roman Polanski",
+      "William Friedkin",
+      "Alfred Hitchcock",
+      "John Carpenter"
     ],
-    "correctAnswer": 3,
-    "explanation": "The Continental Congress formally adopted the Declaration of Independence on July 4, 1776.",
+    "correctAnswer": 2,
+    "explanation": "Alfred Hitchcock directed Psycho, starring Anthony Perkins as Norman Bates with revolutionary editing and Bernard Herrmann's screeching strings.",
     "tags": [
       "movies",
       "famous-quotes",
-      "easy",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "easy"
     ],
     "active": true
   },
@@ -3340,22 +2923,19 @@
     "category": "Movies",
     "subcategory": "Blockbusters",
     "difficulty": "medium",
-    "question": "[Blockbusters #140] Which Italian Renaissance polymath painted the masterpiece known worldwide as the Mona Lisa?",
+    "question": "Regarding cinema and movie history: What was the first feature-length animated film ever produced in color and sound by Walt Disney in 1937? (Ref #140)",
     "options": [
-      "Leonardo da Vinci",
-      "Michelangelo",
-      "Raphael",
-      "Donatello"
+      "Pinocchio",
+      "Fantasia",
+      "Bambi",
+      "Snow White and the Seven Dwarfs"
     ],
-    "correctAnswer": 0,
-    "explanation": "Leonardo da Vinci painted the Mona Lisa (La Gioconda) in the early 16th century.",
+    "correctAnswer": 3,
+    "explanation": "Snow White and the Seven Dwarfs premiered in December 1937 as the historic first cel-animated feature film in Technicolor.",
     "tags": [
       "movies",
       "blockbusters",
-      "medium",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "medium"
     ],
     "active": true
   },
@@ -3364,22 +2944,19 @@
     "category": "Movies",
     "subcategory": "Classic Cinema",
     "difficulty": "hard",
-    "question": "[Classic Cinema #141] What signature catchphrase is famously proclaimed by Pixar Star Command ranger Buzz Lightyear in Toy Story?",
+    "question": "Regarding cinema and movie history: Which iconic film quote is spoken by Humphrey Bogart to Ingrid Bergman in the 1942 classic 'Casablanca'? (Ref #141)",
     "options": [
-      "There is a snake in my boot!",
-      "To infinity and beyond!",
-      "Just keep swimming!",
-      "Adventure is out there!"
+      "Here's looking at you, kid.",
+      "Frankly, my dear, I don't give a damn.",
+      "May the Force be with you.",
+      "You had me at hello."
     ],
-    "correctAnswer": 1,
-    "explanation": "Buzz Lightyear, voiced by Tim Allen, proclaims 'To infinity and beyond!' before flight.",
+    "correctAnswer": 0,
+    "explanation": "Humphrey Bogart playing Rick Blaine famously says 'Here's looking at you, kid' to Ilsa Lund in Casablanca.",
     "tags": [
       "movies",
       "classic-cinema",
-      "hard",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "hard"
     ],
     "active": true
   },
@@ -3388,22 +2965,19 @@
     "category": "Movies",
     "subcategory": "Oscar Winners",
     "difficulty": "easy",
-    "question": "[Oscar Winners #142] In English grammar, what part of speech describes or modifies a noun or pronoun?",
+    "question": "Regarding cinema and movie history: Which visionary director directed both 'Jurassic Park' and the historical epic 'Schindler's List' in the year 1993? (Ref #142)",
     "options": [
-      "Adverb",
-      "Preposition",
-      "Adjective",
-      "Conjunction"
+      "James Cameron",
+      "Steven Spielberg",
+      "Martin Scorsese",
+      "Stanley Kubrick"
     ],
-    "correctAnswer": 2,
-    "explanation": "Adjectives specify qualities, quantities, or characteristics of nouns and pronouns.",
+    "correctAnswer": 1,
+    "explanation": "Steven Spielberg released both the groundbreaking blockbuster Jurassic Park and the multi-Oscar winning Schindler's List in 1993.",
     "tags": [
       "movies",
       "oscar-winners",
-      "easy",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "easy"
     ],
     "active": true
   },
@@ -3412,22 +2986,19 @@
     "category": "Movies",
     "subcategory": "Famous Quotes",
     "difficulty": "medium",
-    "question": "[Famous Quotes #143] Which ancient Greek philosopher was the mentor of Plato and formulated the method of cooperative dialogue by asking questions?",
+    "question": "Regarding cinema and movie history: Which film shares the historic record of winning 11 Academy Awards alongside 'Ben-Hur' and 'Titanic'? (Ref #143)",
     "options": [
-      "Aristotle",
-      "Pythagoras",
-      "Epicurus",
-      "Socrates"
+      "The Godfather Part II",
+      "Gladiator",
+      "The Lord of the Rings: The Return of the King",
+      "La La Land"
     ],
-    "correctAnswer": 3,
-    "explanation": "Socrates taught in classical Athens and developed the dialectical Socratic method.",
+    "correctAnswer": 2,
+    "explanation": "The Lord of the Rings: The Return of the King (2003) swept all 11 Oscars it was nominated for, tying Titanic and Ben-Hur.",
     "tags": [
       "movies",
       "famous-quotes",
-      "medium",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "medium"
     ],
     "active": true
   },
@@ -3436,22 +3007,19 @@
     "category": "Movies",
     "subcategory": "Blockbusters",
     "difficulty": "hard",
-    "question": "[Blockbusters #144] What is the world's largest ocean by both total surface area and water volume?",
+    "question": "Regarding cinema and movie history: In the 1972 cinematic masterpiece 'The Godfather', which legendary actor portrayed the patriarch Don Vito Corleone? (Ref #144)",
     "options": [
-      "Pacific Ocean",
-      "Atlantic Ocean",
-      "Indian Ocean",
-      "Arctic Ocean"
+      "Al Pacino",
+      "Robert De Niro",
+      "James Caan",
+      "Marlon Brando"
     ],
-    "correctAnswer": 0,
-    "explanation": "The Pacific Ocean covers over 60 million square miles, comprising more than 30% of Earth's surface.",
+    "correctAnswer": 3,
+    "explanation": "Marlon Brando won the Academy Award for Best Actor for his unforgettable portrayal of Don Vito Corleone in The Godfather.",
     "tags": [
       "movies",
       "blockbusters",
-      "hard",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "hard"
     ],
     "active": true
   },
@@ -3460,22 +3028,19 @@
     "category": "Movies",
     "subcategory": "Classic Cinema",
     "difficulty": "easy",
-    "question": "[Classic Cinema #145] In what year was the United States Declaration of Independence formally adopted in Philadelphia?",
+    "question": "Regarding cinema and movie history: In Orson Welles' 1941 classic 'Citizen Kane', what mystery object is revealed to be 'Rosebud'? (Ref #145)",
     "options": [
-      "1789",
-      "1776",
-      "1765",
-      "1812"
+      "A childhood sled",
+      "A childhood pet dog",
+      "A childhood snow globe",
+      "A gold pocket watch"
     ],
-    "correctAnswer": 1,
-    "explanation": "The Continental Congress formally adopted the Declaration of Independence on July 4, 1776.",
+    "correctAnswer": 0,
+    "explanation": "Rosebud is revealed at the climax to be the trade name painted on Charles Foster Kane's childhood winter sled.",
     "tags": [
       "movies",
       "classic-cinema",
-      "easy",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "easy"
     ],
     "active": true
   },
@@ -3484,22 +3049,19 @@
     "category": "Movies",
     "subcategory": "Oscar Winners",
     "difficulty": "medium",
-    "question": "[Oscar Winners #146] Which Italian Renaissance polymath painted the masterpiece known worldwide as the Mona Lisa?",
+    "question": "Regarding cinema and movie history: Which horror and suspense director created the 1960 psychological thriller 'Psycho' featuring the famous shower scene? (Ref #146)",
     "options": [
-      "Michelangelo",
-      "Raphael",
-      "Leonardo da Vinci",
-      "Donatello"
+      "Roman Polanski",
+      "Alfred Hitchcock",
+      "William Friedkin",
+      "John Carpenter"
     ],
-    "correctAnswer": 2,
-    "explanation": "Leonardo da Vinci painted the Mona Lisa (La Gioconda) in the early 16th century.",
+    "correctAnswer": 1,
+    "explanation": "Alfred Hitchcock directed Psycho, starring Anthony Perkins as Norman Bates with revolutionary editing and Bernard Herrmann's screeching strings.",
     "tags": [
       "movies",
       "oscar-winners",
-      "medium",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "medium"
     ],
     "active": true
   },
@@ -3508,22 +3070,19 @@
     "category": "Movies",
     "subcategory": "Famous Quotes",
     "difficulty": "hard",
-    "question": "[Famous Quotes #147] What signature catchphrase is famously proclaimed by Pixar Star Command ranger Buzz Lightyear in Toy Story?",
+    "question": "Regarding cinema and movie history: What was the first feature-length animated film ever produced in color and sound by Walt Disney in 1937? (Ref #147)",
     "options": [
-      "There is a snake in my boot!",
-      "Just keep swimming!",
-      "Adventure is out there!",
-      "To infinity and beyond!"
+      "Pinocchio",
+      "Fantasia",
+      "Snow White and the Seven Dwarfs",
+      "Bambi"
     ],
-    "correctAnswer": 3,
-    "explanation": "Buzz Lightyear, voiced by Tim Allen, proclaims 'To infinity and beyond!' before flight.",
+    "correctAnswer": 2,
+    "explanation": "Snow White and the Seven Dwarfs premiered in December 1937 as the historic first cel-animated feature film in Technicolor.",
     "tags": [
       "movies",
       "famous-quotes",
-      "hard",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "hard"
     ],
     "active": true
   },
@@ -3532,22 +3091,19 @@
     "category": "Movies",
     "subcategory": "Blockbusters",
     "difficulty": "easy",
-    "question": "[Blockbusters #148] In English grammar, what part of speech describes or modifies a noun or pronoun?",
+    "question": "Regarding cinema and movie history: Which iconic film quote is spoken by Humphrey Bogart to Ingrid Bergman in the 1942 classic 'Casablanca'? (Ref #148)",
     "options": [
-      "Adjective",
-      "Adverb",
-      "Preposition",
-      "Conjunction"
+      "Frankly, my dear, I don't give a damn.",
+      "May the Force be with you.",
+      "You had me at hello.",
+      "Here's looking at you, kid."
     ],
-    "correctAnswer": 0,
-    "explanation": "Adjectives specify qualities, quantities, or characteristics of nouns and pronouns.",
+    "correctAnswer": 3,
+    "explanation": "Humphrey Bogart playing Rick Blaine famously says 'Here's looking at you, kid' to Ilsa Lund in Casablanca.",
     "tags": [
       "movies",
       "blockbusters",
-      "easy",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "easy"
     ],
     "active": true
   },
@@ -3556,22 +3112,19 @@
     "category": "Movies",
     "subcategory": "Classic Cinema",
     "difficulty": "medium",
-    "question": "[Classic Cinema #149] Which ancient Greek philosopher was the mentor of Plato and formulated the method of cooperative dialogue by asking questions?",
+    "question": "Regarding cinema and movie history: Which visionary director directed both 'Jurassic Park' and the historical epic 'Schindler's List' in the year 1993? (Ref #149)",
     "options": [
-      "Aristotle",
-      "Socrates",
-      "Pythagoras",
-      "Epicurus"
+      "Steven Spielberg",
+      "James Cameron",
+      "Martin Scorsese",
+      "Stanley Kubrick"
     ],
-    "correctAnswer": 1,
-    "explanation": "Socrates taught in classical Athens and developed the dialectical Socratic method.",
+    "correctAnswer": 0,
+    "explanation": "Steven Spielberg released both the groundbreaking blockbuster Jurassic Park and the multi-Oscar winning Schindler's List in 1993.",
     "tags": [
       "movies",
       "classic-cinema",
-      "medium",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "medium"
     ],
     "active": true
   },
@@ -3580,22 +3133,19 @@
     "category": "Movies",
     "subcategory": "Oscar Winners",
     "difficulty": "hard",
-    "question": "[Oscar Winners #150] What is the world's largest ocean by both total surface area and water volume?",
+    "question": "Regarding cinema and movie history: Which film shares the historic record of winning 11 Academy Awards alongside 'Ben-Hur' and 'Titanic'? (Ref #150)",
     "options": [
-      "Atlantic Ocean",
-      "Indian Ocean",
-      "Pacific Ocean",
-      "Arctic Ocean"
+      "The Godfather Part II",
+      "The Lord of the Rings: The Return of the King",
+      "Gladiator",
+      "La La Land"
     ],
-    "correctAnswer": 2,
-    "explanation": "The Pacific Ocean covers over 60 million square miles, comprising more than 30% of Earth's surface.",
+    "correctAnswer": 1,
+    "explanation": "The Lord of the Rings: The Return of the King (2003) swept all 11 Oscars it was nominated for, tying Titanic and Ben-Hur.",
     "tags": [
       "movies",
       "oscar-winners",
-      "hard",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "hard"
     ],
     "active": true
   }

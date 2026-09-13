@@ -4,22 +4,19 @@
     "category": "USA Tests",
     "subcategory": "US Civics",
     "difficulty": "easy",
-    "question": "[US Civics #1] What is the official state capital of California?",
+    "question": "US Civics and Government: What are the three constitutional branches of the United States federal government? (Ref #1)",
     "options": [
-      "Los Angeles",
-      "Sacramento",
-      "San Francisco",
-      "San Diego"
+      "Legislative, Executive, and Judicial",
+      "Federal, State, and Municipal",
+      "Military, Commercial, and Diplomatic",
+      "Presidential, Congressional, and Gubernatorial"
     ],
-    "correctAnswer": 1,
-    "explanation": "Sacramento became the capital of California in 1854.",
+    "correctAnswer": 0,
+    "explanation": "The US Constitution establishes three co-equal branches with checks and balances: Legislative (Congress), Executive (President), and Judicial (Supreme Court).",
     "tags": [
       "usa-tests",
       "us-civics",
-      "easy",
-      "geography",
-      "civics",
-      "capitals"
+      "easy"
     ],
     "active": true
   },
@@ -28,22 +25,19 @@
     "category": "USA Tests",
     "subcategory": "US Constitution",
     "difficulty": "medium",
-    "question": "[US Constitution #2] What is the official state capital of Texas?",
+    "question": "US Civics and Government: How many voting United States Senators serve in the US Senate? (Ref #2)",
     "options": [
-      "Houston",
-      "Dallas",
-      "Austin",
-      "San Antonio"
+      "435 Senators",
+      "100 Senators (exactly 2 from each of the 50 states)",
+      "50 Senators",
+      "200 Senators"
     ],
-    "correctAnswer": 2,
-    "explanation": "Austin has been the capital city of Texas since 1839.",
+    "correctAnswer": 1,
+    "explanation": "Under Article I of the Constitution, each state is represented by exactly 2 senators, totaling 100.",
     "tags": [
       "usa-tests",
       "us-constitution",
-      "medium",
-      "geography",
-      "civics",
-      "capitals"
+      "medium"
     ],
     "active": true
   },
@@ -52,22 +46,19 @@
     "category": "USA Tests",
     "subcategory": "American Government",
     "difficulty": "hard",
-    "question": "[American Government #3] What is the official state capital of New York?",
+    "question": "US Civics and Government: What collective name is given to the first ten amendments added to the United States Constitution? (Ref #3)",
     "options": [
-      "New York City",
-      "Buffalo",
-      "Rochester",
-      "Albany"
+      "The Articles of Confederation",
+      "The Federalist Papers",
+      "The Bill of Rights",
+      "The Magna Carta"
     ],
-    "correctAnswer": 3,
-    "explanation": "Albany was designated the capital of New York in 1797.",
+    "correctAnswer": 2,
+    "explanation": "Ratified in 1791, the first ten amendments comprise the Bill of Rights, safeguarding fundamental civil liberties.",
     "tags": [
       "usa-tests",
       "american-government",
-      "hard",
-      "geography",
-      "civics",
-      "capitals"
+      "hard"
     ],
     "active": true
   },
@@ -76,22 +67,19 @@
     "category": "USA Tests",
     "subcategory": "Rights & Symbols",
     "difficulty": "easy",
-    "question": "[Rights & Symbols #4] What is the official state capital of Florida?",
+    "question": "US Civics and Government: How many voting members currently comprise the United States House of Representatives? (Ref #4)",
     "options": [
-      "Tallahassee",
-      "Miami",
-      "Orlando",
-      "Tampa"
+      "100 members",
+      "538 members",
+      "500 members",
+      "435 voting members"
     ],
-    "correctAnswer": 0,
-    "explanation": "Tallahassee was chosen as Florida’s capital in 1824.",
+    "correctAnswer": 3,
+    "explanation": "The Permanent Apportionment Act of 1929 fixed the total number of voting US House Representatives at 435.",
     "tags": [
       "usa-tests",
       "rights-symbols",
-      "easy",
-      "geography",
-      "civics",
-      "capitals"
+      "easy"
     ],
     "active": true
   },
@@ -100,22 +88,19 @@
     "category": "USA Tests",
     "subcategory": "US Civics",
     "difficulty": "medium",
-    "question": "[US Civics #5] What is the official state capital of Washington State?",
+    "question": "US Civics and Government: What is the standard constitutional term length in years for a United States President? (Ref #5)",
     "options": [
-      "Seattle",
-      "Olympia",
-      "Spokane",
-      "Tacoma"
+      "4 years per term",
+      "2 years",
+      "6 years",
+      "8 years"
     ],
-    "correctAnswer": 1,
-    "explanation": "Olympia is situated at the southern tip of Puget Sound.",
+    "correctAnswer": 0,
+    "explanation": "Article II of the US Constitution establishes a presidential term length of 4 years, limited to two terms by the 22nd Amendment.",
     "tags": [
       "usa-tests",
       "us-civics",
-      "medium",
-      "geography",
-      "civics",
-      "capitals"
+      "medium"
     ],
     "active": true
   },
@@ -124,22 +109,19 @@
     "category": "USA Tests",
     "subcategory": "US Constitution",
     "difficulty": "hard",
-    "question": "[US Constitution #6] What is the official state capital of Illinois?",
+    "question": "US Civics and Government: What are the three constitutional branches of the United States federal government? (Ref #6)",
     "options": [
-      "Chicago",
-      "Peoria",
-      "Springfield",
-      "Rockford"
+      "Federal, State, and Municipal",
+      "Legislative, Executive, and Judicial",
+      "Military, Commercial, and Diplomatic",
+      "Presidential, Congressional, and Gubernatorial"
     ],
-    "correctAnswer": 2,
-    "explanation": "Springfield was the hometown of Abraham Lincoln.",
+    "correctAnswer": 1,
+    "explanation": "The US Constitution establishes three co-equal branches with checks and balances: Legislative (Congress), Executive (President), and Judicial (Supreme Court).",
     "tags": [
       "usa-tests",
       "us-constitution",
-      "hard",
-      "geography",
-      "civics",
-      "capitals"
+      "hard"
     ],
     "active": true
   },
@@ -148,22 +130,19 @@
     "category": "USA Tests",
     "subcategory": "American Government",
     "difficulty": "easy",
-    "question": "[American Government #7] What is the official state capital of Pennsylvania?",
+    "question": "US Civics and Government: How many voting United States Senators serve in the US Senate? (Ref #7)",
     "options": [
-      "Philadelphia",
-      "Pittsburgh",
-      "Allentown",
-      "Harrisburg"
+      "435 Senators",
+      "50 Senators",
+      "100 Senators (exactly 2 from each of the 50 states)",
+      "200 Senators"
     ],
-    "correctAnswer": 3,
-    "explanation": "Harrisburg was named the state capital in 1812.",
+    "correctAnswer": 2,
+    "explanation": "Under Article I of the Constitution, each state is represented by exactly 2 senators, totaling 100.",
     "tags": [
       "usa-tests",
       "american-government",
-      "easy",
-      "geography",
-      "civics",
-      "capitals"
+      "easy"
     ],
     "active": true
   },
@@ -172,22 +151,19 @@
     "category": "USA Tests",
     "subcategory": "Rights & Symbols",
     "difficulty": "medium",
-    "question": "[Rights & Symbols #8] What is the official state capital of Georgia?",
+    "question": "US Civics and Government: What collective name is given to the first ten amendments added to the United States Constitution? (Ref #8)",
     "options": [
-      "Atlanta",
-      "Savannah",
-      "Augusta",
-      "Macon"
+      "The Articles of Confederation",
+      "The Federalist Papers",
+      "The Magna Carta",
+      "The Bill of Rights"
     ],
-    "correctAnswer": 0,
-    "explanation": "Atlanta has been Georgia’s official capital since 1868.",
+    "correctAnswer": 3,
+    "explanation": "Ratified in 1791, the first ten amendments comprise the Bill of Rights, safeguarding fundamental civil liberties.",
     "tags": [
       "usa-tests",
       "rights-symbols",
-      "medium",
-      "geography",
-      "civics",
-      "capitals"
+      "medium"
     ],
     "active": true
   },
@@ -196,22 +172,19 @@
     "category": "USA Tests",
     "subcategory": "US Civics",
     "difficulty": "hard",
-    "question": "[US Civics #9] What is the official state capital of California?",
+    "question": "US Civics and Government: How many voting members currently comprise the United States House of Representatives? (Ref #9)",
     "options": [
-      "Los Angeles",
-      "Sacramento",
-      "San Francisco",
-      "San Diego"
+      "435 voting members",
+      "100 members",
+      "538 members",
+      "500 members"
     ],
-    "correctAnswer": 1,
-    "explanation": "Sacramento became the capital of California in 1854.",
+    "correctAnswer": 0,
+    "explanation": "The Permanent Apportionment Act of 1929 fixed the total number of voting US House Representatives at 435.",
     "tags": [
       "usa-tests",
       "us-civics",
-      "hard",
-      "geography",
-      "civics",
-      "capitals"
+      "hard"
     ],
     "active": true
   },
@@ -220,22 +193,19 @@
     "category": "USA Tests",
     "subcategory": "US Constitution",
     "difficulty": "easy",
-    "question": "[US Constitution #10] What is the official state capital of Texas?",
+    "question": "US Civics and Government: What is the standard constitutional term length in years for a United States President? (Ref #10)",
     "options": [
-      "Houston",
-      "Dallas",
-      "Austin",
-      "San Antonio"
+      "2 years",
+      "4 years per term",
+      "6 years",
+      "8 years"
     ],
-    "correctAnswer": 2,
-    "explanation": "Austin has been the capital city of Texas since 1839.",
+    "correctAnswer": 1,
+    "explanation": "Article II of the US Constitution establishes a presidential term length of 4 years, limited to two terms by the 22nd Amendment.",
     "tags": [
       "usa-tests",
       "us-constitution",
-      "easy",
-      "geography",
-      "civics",
-      "capitals"
+      "easy"
     ],
     "active": true
   },
@@ -244,22 +214,19 @@
     "category": "USA Tests",
     "subcategory": "American Government",
     "difficulty": "medium",
-    "question": "[American Government #11] What is the official state capital of New York?",
+    "question": "US Civics and Government: What are the three constitutional branches of the United States federal government? (Ref #11)",
     "options": [
-      "New York City",
-      "Buffalo",
-      "Rochester",
-      "Albany"
+      "Federal, State, and Municipal",
+      "Military, Commercial, and Diplomatic",
+      "Legislative, Executive, and Judicial",
+      "Presidential, Congressional, and Gubernatorial"
     ],
-    "correctAnswer": 3,
-    "explanation": "Albany was designated the capital of New York in 1797.",
+    "correctAnswer": 2,
+    "explanation": "The US Constitution establishes three co-equal branches with checks and balances: Legislative (Congress), Executive (President), and Judicial (Supreme Court).",
     "tags": [
       "usa-tests",
       "american-government",
-      "medium",
-      "geography",
-      "civics",
-      "capitals"
+      "medium"
     ],
     "active": true
   },
@@ -268,22 +235,19 @@
     "category": "USA Tests",
     "subcategory": "Rights & Symbols",
     "difficulty": "hard",
-    "question": "[Rights & Symbols #12] What is the official state capital of Florida?",
+    "question": "US Civics and Government: How many voting United States Senators serve in the US Senate? (Ref #12)",
     "options": [
-      "Tallahassee",
-      "Miami",
-      "Orlando",
-      "Tampa"
+      "435 Senators",
+      "50 Senators",
+      "200 Senators",
+      "100 Senators (exactly 2 from each of the 50 states)"
     ],
-    "correctAnswer": 0,
-    "explanation": "Tallahassee was chosen as Florida’s capital in 1824.",
+    "correctAnswer": 3,
+    "explanation": "Under Article I of the Constitution, each state is represented by exactly 2 senators, totaling 100.",
     "tags": [
       "usa-tests",
       "rights-symbols",
-      "hard",
-      "geography",
-      "civics",
-      "capitals"
+      "hard"
     ],
     "active": true
   },
@@ -292,22 +256,19 @@
     "category": "USA Tests",
     "subcategory": "US Civics",
     "difficulty": "easy",
-    "question": "[US Civics #13] What is the official state capital of Washington State?",
+    "question": "US Civics and Government: What collective name is given to the first ten amendments added to the United States Constitution? (Ref #13)",
     "options": [
-      "Seattle",
-      "Olympia",
-      "Spokane",
-      "Tacoma"
+      "The Bill of Rights",
+      "The Articles of Confederation",
+      "The Federalist Papers",
+      "The Magna Carta"
     ],
-    "correctAnswer": 1,
-    "explanation": "Olympia is situated at the southern tip of Puget Sound.",
+    "correctAnswer": 0,
+    "explanation": "Ratified in 1791, the first ten amendments comprise the Bill of Rights, safeguarding fundamental civil liberties.",
     "tags": [
       "usa-tests",
       "us-civics",
-      "easy",
-      "geography",
-      "civics",
-      "capitals"
+      "easy"
     ],
     "active": true
   },
@@ -316,22 +277,19 @@
     "category": "USA Tests",
     "subcategory": "US Constitution",
     "difficulty": "medium",
-    "question": "[US Constitution #14] What is the official state capital of Illinois?",
+    "question": "US Civics and Government: How many voting members currently comprise the United States House of Representatives? (Ref #14)",
     "options": [
-      "Chicago",
-      "Peoria",
-      "Springfield",
-      "Rockford"
+      "100 members",
+      "435 voting members",
+      "538 members",
+      "500 members"
     ],
-    "correctAnswer": 2,
-    "explanation": "Springfield was the hometown of Abraham Lincoln.",
+    "correctAnswer": 1,
+    "explanation": "The Permanent Apportionment Act of 1929 fixed the total number of voting US House Representatives at 435.",
     "tags": [
       "usa-tests",
       "us-constitution",
-      "medium",
-      "geography",
-      "civics",
-      "capitals"
+      "medium"
     ],
     "active": true
   },
@@ -340,22 +298,19 @@
     "category": "USA Tests",
     "subcategory": "American Government",
     "difficulty": "hard",
-    "question": "[American Government #15] What is the official state capital of Pennsylvania?",
+    "question": "US Civics and Government: What is the standard constitutional term length in years for a United States President? (Ref #15)",
     "options": [
-      "Philadelphia",
-      "Pittsburgh",
-      "Allentown",
-      "Harrisburg"
+      "2 years",
+      "6 years",
+      "4 years per term",
+      "8 years"
     ],
-    "correctAnswer": 3,
-    "explanation": "Harrisburg was named the state capital in 1812.",
+    "correctAnswer": 2,
+    "explanation": "Article II of the US Constitution establishes a presidential term length of 4 years, limited to two terms by the 22nd Amendment.",
     "tags": [
       "usa-tests",
       "american-government",
-      "hard",
-      "geography",
-      "civics",
-      "capitals"
+      "hard"
     ],
     "active": true
   },
@@ -364,22 +319,19 @@
     "category": "USA Tests",
     "subcategory": "Rights & Symbols",
     "difficulty": "easy",
-    "question": "[Rights & Symbols #16] What is the official state capital of Georgia?",
+    "question": "US Civics and Government: What are the three constitutional branches of the United States federal government? (Ref #16)",
     "options": [
-      "Atlanta",
-      "Savannah",
-      "Augusta",
-      "Macon"
+      "Federal, State, and Municipal",
+      "Military, Commercial, and Diplomatic",
+      "Presidential, Congressional, and Gubernatorial",
+      "Legislative, Executive, and Judicial"
     ],
-    "correctAnswer": 0,
-    "explanation": "Atlanta has been Georgia’s official capital since 1868.",
+    "correctAnswer": 3,
+    "explanation": "The US Constitution establishes three co-equal branches with checks and balances: Legislative (Congress), Executive (President), and Judicial (Supreme Court).",
     "tags": [
       "usa-tests",
       "rights-symbols",
-      "easy",
-      "geography",
-      "civics",
-      "capitals"
+      "easy"
     ],
     "active": true
   },
@@ -388,22 +340,19 @@
     "category": "USA Tests",
     "subcategory": "US Civics",
     "difficulty": "medium",
-    "question": "[US Civics #17] What is the official state capital of California?",
+    "question": "US Civics and Government: How many voting United States Senators serve in the US Senate? (Ref #17)",
     "options": [
-      "Los Angeles",
-      "Sacramento",
-      "San Francisco",
-      "San Diego"
+      "100 Senators (exactly 2 from each of the 50 states)",
+      "435 Senators",
+      "50 Senators",
+      "200 Senators"
     ],
-    "correctAnswer": 1,
-    "explanation": "Sacramento became the capital of California in 1854.",
+    "correctAnswer": 0,
+    "explanation": "Under Article I of the Constitution, each state is represented by exactly 2 senators, totaling 100.",
     "tags": [
       "usa-tests",
       "us-civics",
-      "medium",
-      "geography",
-      "civics",
-      "capitals"
+      "medium"
     ],
     "active": true
   },
@@ -412,22 +361,19 @@
     "category": "USA Tests",
     "subcategory": "US Constitution",
     "difficulty": "hard",
-    "question": "[US Constitution #18] What is the official state capital of Texas?",
+    "question": "US Civics and Government: What collective name is given to the first ten amendments added to the United States Constitution? (Ref #18)",
     "options": [
-      "Houston",
-      "Dallas",
-      "Austin",
-      "San Antonio"
+      "The Articles of Confederation",
+      "The Bill of Rights",
+      "The Federalist Papers",
+      "The Magna Carta"
     ],
-    "correctAnswer": 2,
-    "explanation": "Austin has been the capital city of Texas since 1839.",
+    "correctAnswer": 1,
+    "explanation": "Ratified in 1791, the first ten amendments comprise the Bill of Rights, safeguarding fundamental civil liberties.",
     "tags": [
       "usa-tests",
       "us-constitution",
-      "hard",
-      "geography",
-      "civics",
-      "capitals"
+      "hard"
     ],
     "active": true
   },
@@ -436,22 +382,19 @@
     "category": "USA Tests",
     "subcategory": "American Government",
     "difficulty": "easy",
-    "question": "[American Government #19] What is the official state capital of New York?",
+    "question": "US Civics and Government: How many voting members currently comprise the United States House of Representatives? (Ref #19)",
     "options": [
-      "New York City",
-      "Buffalo",
-      "Rochester",
-      "Albany"
+      "100 members",
+      "538 members",
+      "435 voting members",
+      "500 members"
     ],
-    "correctAnswer": 3,
-    "explanation": "Albany was designated the capital of New York in 1797.",
+    "correctAnswer": 2,
+    "explanation": "The Permanent Apportionment Act of 1929 fixed the total number of voting US House Representatives at 435.",
     "tags": [
       "usa-tests",
       "american-government",
-      "easy",
-      "geography",
-      "civics",
-      "capitals"
+      "easy"
     ],
     "active": true
   },
@@ -460,22 +403,19 @@
     "category": "USA Tests",
     "subcategory": "Rights & Symbols",
     "difficulty": "medium",
-    "question": "[Rights & Symbols #20] What is the official state capital of Florida?",
+    "question": "US Civics and Government: What is the standard constitutional term length in years for a United States President? (Ref #20)",
     "options": [
-      "Tallahassee",
-      "Miami",
-      "Orlando",
-      "Tampa"
+      "2 years",
+      "6 years",
+      "8 years",
+      "4 years per term"
     ],
-    "correctAnswer": 0,
-    "explanation": "Tallahassee was chosen as Florida’s capital in 1824.",
+    "correctAnswer": 3,
+    "explanation": "Article II of the US Constitution establishes a presidential term length of 4 years, limited to two terms by the 22nd Amendment.",
     "tags": [
       "usa-tests",
       "rights-symbols",
-      "medium",
-      "geography",
-      "civics",
-      "capitals"
+      "medium"
     ],
     "active": true
   },
@@ -484,22 +424,19 @@
     "category": "USA Tests",
     "subcategory": "US Civics",
     "difficulty": "hard",
-    "question": "[US Civics #21] What is the official state capital of Washington State?",
+    "question": "US Civics and Government: What are the three constitutional branches of the United States federal government? (Ref #21)",
     "options": [
-      "Seattle",
-      "Olympia",
-      "Spokane",
-      "Tacoma"
+      "Legislative, Executive, and Judicial",
+      "Federal, State, and Municipal",
+      "Military, Commercial, and Diplomatic",
+      "Presidential, Congressional, and Gubernatorial"
     ],
-    "correctAnswer": 1,
-    "explanation": "Olympia is situated at the southern tip of Puget Sound.",
+    "correctAnswer": 0,
+    "explanation": "The US Constitution establishes three co-equal branches with checks and balances: Legislative (Congress), Executive (President), and Judicial (Supreme Court).",
     "tags": [
       "usa-tests",
       "us-civics",
-      "hard",
-      "geography",
-      "civics",
-      "capitals"
+      "hard"
     ],
     "active": true
   },
@@ -508,22 +445,19 @@
     "category": "USA Tests",
     "subcategory": "US Constitution",
     "difficulty": "easy",
-    "question": "[US Constitution #22] What is the official state capital of Illinois?",
+    "question": "US Civics and Government: How many voting United States Senators serve in the US Senate? (Ref #22)",
     "options": [
-      "Chicago",
-      "Peoria",
-      "Springfield",
-      "Rockford"
+      "435 Senators",
+      "100 Senators (exactly 2 from each of the 50 states)",
+      "50 Senators",
+      "200 Senators"
     ],
-    "correctAnswer": 2,
-    "explanation": "Springfield was the hometown of Abraham Lincoln.",
+    "correctAnswer": 1,
+    "explanation": "Under Article I of the Constitution, each state is represented by exactly 2 senators, totaling 100.",
     "tags": [
       "usa-tests",
       "us-constitution",
-      "easy",
-      "geography",
-      "civics",
-      "capitals"
+      "easy"
     ],
     "active": true
   },
@@ -532,22 +466,19 @@
     "category": "USA Tests",
     "subcategory": "American Government",
     "difficulty": "medium",
-    "question": "[American Government #23] What is the official state capital of Pennsylvania?",
+    "question": "US Civics and Government: What collective name is given to the first ten amendments added to the United States Constitution? (Ref #23)",
     "options": [
-      "Philadelphia",
-      "Pittsburgh",
-      "Allentown",
-      "Harrisburg"
+      "The Articles of Confederation",
+      "The Federalist Papers",
+      "The Bill of Rights",
+      "The Magna Carta"
     ],
-    "correctAnswer": 3,
-    "explanation": "Harrisburg was named the state capital in 1812.",
+    "correctAnswer": 2,
+    "explanation": "Ratified in 1791, the first ten amendments comprise the Bill of Rights, safeguarding fundamental civil liberties.",
     "tags": [
       "usa-tests",
       "american-government",
-      "medium",
-      "geography",
-      "civics",
-      "capitals"
+      "medium"
     ],
     "active": true
   },
@@ -556,22 +487,19 @@
     "category": "USA Tests",
     "subcategory": "Rights & Symbols",
     "difficulty": "hard",
-    "question": "[Rights & Symbols #24] What is the official state capital of Georgia?",
+    "question": "US Civics and Government: How many voting members currently comprise the United States House of Representatives? (Ref #24)",
     "options": [
-      "Atlanta",
-      "Savannah",
-      "Augusta",
-      "Macon"
+      "100 members",
+      "538 members",
+      "500 members",
+      "435 voting members"
     ],
-    "correctAnswer": 0,
-    "explanation": "Atlanta has been Georgia’s official capital since 1868.",
+    "correctAnswer": 3,
+    "explanation": "The Permanent Apportionment Act of 1929 fixed the total number of voting US House Representatives at 435.",
     "tags": [
       "usa-tests",
       "rights-symbols",
-      "hard",
-      "geography",
-      "civics",
-      "capitals"
+      "hard"
     ],
     "active": true
   },
@@ -580,22 +508,19 @@
     "category": "USA Tests",
     "subcategory": "US Civics",
     "difficulty": "easy",
-    "question": "[US Civics #25] What is the official state capital of California?",
+    "question": "US Civics and Government: What is the standard constitutional term length in years for a United States President? (Ref #25)",
     "options": [
-      "Los Angeles",
-      "Sacramento",
-      "San Francisco",
-      "San Diego"
+      "4 years per term",
+      "2 years",
+      "6 years",
+      "8 years"
     ],
-    "correctAnswer": 1,
-    "explanation": "Sacramento became the capital of California in 1854.",
+    "correctAnswer": 0,
+    "explanation": "Article II of the US Constitution establishes a presidential term length of 4 years, limited to two terms by the 22nd Amendment.",
     "tags": [
       "usa-tests",
       "us-civics",
-      "easy",
-      "geography",
-      "civics",
-      "capitals"
+      "easy"
     ],
     "active": true
   },
@@ -604,22 +529,19 @@
     "category": "USA Tests",
     "subcategory": "US Constitution",
     "difficulty": "medium",
-    "question": "[US Constitution #26] What is the official state capital of Texas?",
+    "question": "US Civics and Government: What are the three constitutional branches of the United States federal government? (Ref #26)",
     "options": [
-      "Houston",
-      "Dallas",
-      "Austin",
-      "San Antonio"
+      "Federal, State, and Municipal",
+      "Legislative, Executive, and Judicial",
+      "Military, Commercial, and Diplomatic",
+      "Presidential, Congressional, and Gubernatorial"
     ],
-    "correctAnswer": 2,
-    "explanation": "Austin has been the capital city of Texas since 1839.",
+    "correctAnswer": 1,
+    "explanation": "The US Constitution establishes three co-equal branches with checks and balances: Legislative (Congress), Executive (President), and Judicial (Supreme Court).",
     "tags": [
       "usa-tests",
       "us-constitution",
-      "medium",
-      "geography",
-      "civics",
-      "capitals"
+      "medium"
     ],
     "active": true
   },
@@ -628,22 +550,19 @@
     "category": "USA Tests",
     "subcategory": "American Government",
     "difficulty": "hard",
-    "question": "[American Government #27] What is the official state capital of New York?",
+    "question": "US Civics and Government: How many voting United States Senators serve in the US Senate? (Ref #27)",
     "options": [
-      "New York City",
-      "Buffalo",
-      "Rochester",
-      "Albany"
+      "435 Senators",
+      "50 Senators",
+      "100 Senators (exactly 2 from each of the 50 states)",
+      "200 Senators"
     ],
-    "correctAnswer": 3,
-    "explanation": "Albany was designated the capital of New York in 1797.",
+    "correctAnswer": 2,
+    "explanation": "Under Article I of the Constitution, each state is represented by exactly 2 senators, totaling 100.",
     "tags": [
       "usa-tests",
       "american-government",
-      "hard",
-      "geography",
-      "civics",
-      "capitals"
+      "hard"
     ],
     "active": true
   },
@@ -652,22 +571,19 @@
     "category": "USA Tests",
     "subcategory": "Rights & Symbols",
     "difficulty": "easy",
-    "question": "[Rights & Symbols #28] What is the official state capital of Florida?",
+    "question": "US Civics and Government: What collective name is given to the first ten amendments added to the United States Constitution? (Ref #28)",
     "options": [
-      "Tallahassee",
-      "Miami",
-      "Orlando",
-      "Tampa"
+      "The Articles of Confederation",
+      "The Federalist Papers",
+      "The Magna Carta",
+      "The Bill of Rights"
     ],
-    "correctAnswer": 0,
-    "explanation": "Tallahassee was chosen as Florida’s capital in 1824.",
+    "correctAnswer": 3,
+    "explanation": "Ratified in 1791, the first ten amendments comprise the Bill of Rights, safeguarding fundamental civil liberties.",
     "tags": [
       "usa-tests",
       "rights-symbols",
-      "easy",
-      "geography",
-      "civics",
-      "capitals"
+      "easy"
     ],
     "active": true
   },
@@ -676,22 +592,19 @@
     "category": "USA Tests",
     "subcategory": "US Civics",
     "difficulty": "medium",
-    "question": "[US Civics #29] What is the official state capital of Washington State?",
+    "question": "US Civics and Government: How many voting members currently comprise the United States House of Representatives? (Ref #29)",
     "options": [
-      "Seattle",
-      "Olympia",
-      "Spokane",
-      "Tacoma"
+      "435 voting members",
+      "100 members",
+      "538 members",
+      "500 members"
     ],
-    "correctAnswer": 1,
-    "explanation": "Olympia is situated at the southern tip of Puget Sound.",
+    "correctAnswer": 0,
+    "explanation": "The Permanent Apportionment Act of 1929 fixed the total number of voting US House Representatives at 435.",
     "tags": [
       "usa-tests",
       "us-civics",
-      "medium",
-      "geography",
-      "civics",
-      "capitals"
+      "medium"
     ],
     "active": true
   },
@@ -700,22 +613,19 @@
     "category": "USA Tests",
     "subcategory": "US Constitution",
     "difficulty": "hard",
-    "question": "[US Constitution #30] What is the official state capital of Illinois?",
+    "question": "US Civics and Government: What is the standard constitutional term length in years for a United States President? (Ref #30)",
     "options": [
-      "Chicago",
-      "Peoria",
-      "Springfield",
-      "Rockford"
+      "2 years",
+      "4 years per term",
+      "6 years",
+      "8 years"
     ],
-    "correctAnswer": 2,
-    "explanation": "Springfield was the hometown of Abraham Lincoln.",
+    "correctAnswer": 1,
+    "explanation": "Article II of the US Constitution establishes a presidential term length of 4 years, limited to two terms by the 22nd Amendment.",
     "tags": [
       "usa-tests",
       "us-constitution",
-      "hard",
-      "geography",
-      "civics",
-      "capitals"
+      "hard"
     ],
     "active": true
   },
@@ -724,22 +634,19 @@
     "category": "USA Tests",
     "subcategory": "American Government",
     "difficulty": "easy",
-    "question": "[American Government #31] What is the official state capital of Pennsylvania?",
+    "question": "US Civics and Government: What are the three constitutional branches of the United States federal government? (Ref #31)",
     "options": [
-      "Philadelphia",
-      "Pittsburgh",
-      "Allentown",
-      "Harrisburg"
+      "Federal, State, and Municipal",
+      "Military, Commercial, and Diplomatic",
+      "Legislative, Executive, and Judicial",
+      "Presidential, Congressional, and Gubernatorial"
     ],
-    "correctAnswer": 3,
-    "explanation": "Harrisburg was named the state capital in 1812.",
+    "correctAnswer": 2,
+    "explanation": "The US Constitution establishes three co-equal branches with checks and balances: Legislative (Congress), Executive (President), and Judicial (Supreme Court).",
     "tags": [
       "usa-tests",
       "american-government",
-      "easy",
-      "geography",
-      "civics",
-      "capitals"
+      "easy"
     ],
     "active": true
   },
@@ -748,22 +655,19 @@
     "category": "USA Tests",
     "subcategory": "Rights & Symbols",
     "difficulty": "medium",
-    "question": "[Rights & Symbols #32] What is the official state capital of Georgia?",
+    "question": "US Civics and Government: How many voting United States Senators serve in the US Senate? (Ref #32)",
     "options": [
-      "Atlanta",
-      "Savannah",
-      "Augusta",
-      "Macon"
+      "435 Senators",
+      "50 Senators",
+      "200 Senators",
+      "100 Senators (exactly 2 from each of the 50 states)"
     ],
-    "correctAnswer": 0,
-    "explanation": "Atlanta has been Georgia’s official capital since 1868.",
+    "correctAnswer": 3,
+    "explanation": "Under Article I of the Constitution, each state is represented by exactly 2 senators, totaling 100.",
     "tags": [
       "usa-tests",
       "rights-symbols",
-      "medium",
-      "geography",
-      "civics",
-      "capitals"
+      "medium"
     ],
     "active": true
   },
@@ -772,22 +676,19 @@
     "category": "USA Tests",
     "subcategory": "US Civics",
     "difficulty": "hard",
-    "question": "[US Civics #33] What is the official state capital of California?",
+    "question": "US Civics and Government: What collective name is given to the first ten amendments added to the United States Constitution? (Ref #33)",
     "options": [
-      "Los Angeles",
-      "Sacramento",
-      "San Francisco",
-      "San Diego"
+      "The Bill of Rights",
+      "The Articles of Confederation",
+      "The Federalist Papers",
+      "The Magna Carta"
     ],
-    "correctAnswer": 1,
-    "explanation": "Sacramento became the capital of California in 1854.",
+    "correctAnswer": 0,
+    "explanation": "Ratified in 1791, the first ten amendments comprise the Bill of Rights, safeguarding fundamental civil liberties.",
     "tags": [
       "usa-tests",
       "us-civics",
-      "hard",
-      "geography",
-      "civics",
-      "capitals"
+      "hard"
     ],
     "active": true
   },
@@ -796,22 +697,19 @@
     "category": "USA Tests",
     "subcategory": "US Constitution",
     "difficulty": "easy",
-    "question": "[US Constitution #34] What is the official state capital of Texas?",
+    "question": "US Civics and Government: How many voting members currently comprise the United States House of Representatives? (Ref #34)",
     "options": [
-      "Houston",
-      "Dallas",
-      "Austin",
-      "San Antonio"
+      "100 members",
+      "435 voting members",
+      "538 members",
+      "500 members"
     ],
-    "correctAnswer": 2,
-    "explanation": "Austin has been the capital city of Texas since 1839.",
+    "correctAnswer": 1,
+    "explanation": "The Permanent Apportionment Act of 1929 fixed the total number of voting US House Representatives at 435.",
     "tags": [
       "usa-tests",
       "us-constitution",
-      "easy",
-      "geography",
-      "civics",
-      "capitals"
+      "easy"
     ],
     "active": true
   },
@@ -820,22 +718,19 @@
     "category": "USA Tests",
     "subcategory": "American Government",
     "difficulty": "medium",
-    "question": "[American Government #35] What is the official state capital of New York?",
+    "question": "US Civics and Government: What is the standard constitutional term length in years for a United States President? (Ref #35)",
     "options": [
-      "New York City",
-      "Buffalo",
-      "Rochester",
-      "Albany"
+      "2 years",
+      "6 years",
+      "4 years per term",
+      "8 years"
     ],
-    "correctAnswer": 3,
-    "explanation": "Albany was designated the capital of New York in 1797.",
+    "correctAnswer": 2,
+    "explanation": "Article II of the US Constitution establishes a presidential term length of 4 years, limited to two terms by the 22nd Amendment.",
     "tags": [
       "usa-tests",
       "american-government",
-      "medium",
-      "geography",
-      "civics",
-      "capitals"
+      "medium"
     ],
     "active": true
   },
@@ -844,22 +739,19 @@
     "category": "USA Tests",
     "subcategory": "Rights & Symbols",
     "difficulty": "hard",
-    "question": "[Rights & Symbols #36] What is the official state capital of Florida?",
+    "question": "US Civics and Government: What are the three constitutional branches of the United States federal government? (Ref #36)",
     "options": [
-      "Tallahassee",
-      "Miami",
-      "Orlando",
-      "Tampa"
+      "Federal, State, and Municipal",
+      "Military, Commercial, and Diplomatic",
+      "Presidential, Congressional, and Gubernatorial",
+      "Legislative, Executive, and Judicial"
     ],
-    "correctAnswer": 0,
-    "explanation": "Tallahassee was chosen as Florida’s capital in 1824.",
+    "correctAnswer": 3,
+    "explanation": "The US Constitution establishes three co-equal branches with checks and balances: Legislative (Congress), Executive (President), and Judicial (Supreme Court).",
     "tags": [
       "usa-tests",
       "rights-symbols",
-      "hard",
-      "geography",
-      "civics",
-      "capitals"
+      "hard"
     ],
     "active": true
   },
@@ -868,22 +760,19 @@
     "category": "USA Tests",
     "subcategory": "US Civics",
     "difficulty": "easy",
-    "question": "[US Civics #37] What is the official state capital of Washington State?",
+    "question": "US Civics and Government: How many voting United States Senators serve in the US Senate? (Ref #37)",
     "options": [
-      "Seattle",
-      "Olympia",
-      "Spokane",
-      "Tacoma"
+      "100 Senators (exactly 2 from each of the 50 states)",
+      "435 Senators",
+      "50 Senators",
+      "200 Senators"
     ],
-    "correctAnswer": 1,
-    "explanation": "Olympia is situated at the southern tip of Puget Sound.",
+    "correctAnswer": 0,
+    "explanation": "Under Article I of the Constitution, each state is represented by exactly 2 senators, totaling 100.",
     "tags": [
       "usa-tests",
       "us-civics",
-      "easy",
-      "geography",
-      "civics",
-      "capitals"
+      "easy"
     ],
     "active": true
   },
@@ -892,22 +781,19 @@
     "category": "USA Tests",
     "subcategory": "US Constitution",
     "difficulty": "medium",
-    "question": "[US Constitution #38] What is the official state capital of Illinois?",
+    "question": "US Civics and Government: What collective name is given to the first ten amendments added to the United States Constitution? (Ref #38)",
     "options": [
-      "Chicago",
-      "Peoria",
-      "Springfield",
-      "Rockford"
+      "The Articles of Confederation",
+      "The Bill of Rights",
+      "The Federalist Papers",
+      "The Magna Carta"
     ],
-    "correctAnswer": 2,
-    "explanation": "Springfield was the hometown of Abraham Lincoln.",
+    "correctAnswer": 1,
+    "explanation": "Ratified in 1791, the first ten amendments comprise the Bill of Rights, safeguarding fundamental civil liberties.",
     "tags": [
       "usa-tests",
       "us-constitution",
-      "medium",
-      "geography",
-      "civics",
-      "capitals"
+      "medium"
     ],
     "active": true
   },
@@ -916,22 +802,19 @@
     "category": "USA Tests",
     "subcategory": "American Government",
     "difficulty": "hard",
-    "question": "[American Government #39] What is the official state capital of Pennsylvania?",
+    "question": "US Civics and Government: How many voting members currently comprise the United States House of Representatives? (Ref #39)",
     "options": [
-      "Philadelphia",
-      "Pittsburgh",
-      "Allentown",
-      "Harrisburg"
+      "100 members",
+      "538 members",
+      "435 voting members",
+      "500 members"
     ],
-    "correctAnswer": 3,
-    "explanation": "Harrisburg was named the state capital in 1812.",
+    "correctAnswer": 2,
+    "explanation": "The Permanent Apportionment Act of 1929 fixed the total number of voting US House Representatives at 435.",
     "tags": [
       "usa-tests",
       "american-government",
-      "hard",
-      "geography",
-      "civics",
-      "capitals"
+      "hard"
     ],
     "active": true
   },
@@ -940,22 +823,19 @@
     "category": "USA Tests",
     "subcategory": "Rights & Symbols",
     "difficulty": "easy",
-    "question": "[Rights & Symbols #40] What is the official state capital of Georgia?",
+    "question": "US Civics and Government: What is the standard constitutional term length in years for a United States President? (Ref #40)",
     "options": [
-      "Atlanta",
-      "Savannah",
-      "Augusta",
-      "Macon"
+      "2 years",
+      "6 years",
+      "8 years",
+      "4 years per term"
     ],
-    "correctAnswer": 0,
-    "explanation": "Atlanta has been Georgia’s official capital since 1868.",
+    "correctAnswer": 3,
+    "explanation": "Article II of the US Constitution establishes a presidential term length of 4 years, limited to two terms by the 22nd Amendment.",
     "tags": [
       "usa-tests",
       "rights-symbols",
-      "easy",
-      "geography",
-      "civics",
-      "capitals"
+      "easy"
     ],
     "active": true
   },
@@ -964,22 +844,19 @@
     "category": "USA Tests",
     "subcategory": "US Civics",
     "difficulty": "medium",
-    "question": "[US Civics #41] What is the official state capital of California?",
+    "question": "US Civics and Government: What are the three constitutional branches of the United States federal government? (Ref #41)",
     "options": [
-      "Los Angeles",
-      "Sacramento",
-      "San Francisco",
-      "San Diego"
+      "Legislative, Executive, and Judicial",
+      "Federal, State, and Municipal",
+      "Military, Commercial, and Diplomatic",
+      "Presidential, Congressional, and Gubernatorial"
     ],
-    "correctAnswer": 1,
-    "explanation": "Sacramento became the capital of California in 1854.",
+    "correctAnswer": 0,
+    "explanation": "The US Constitution establishes three co-equal branches with checks and balances: Legislative (Congress), Executive (President), and Judicial (Supreme Court).",
     "tags": [
       "usa-tests",
       "us-civics",
-      "medium",
-      "geography",
-      "civics",
-      "capitals"
+      "medium"
     ],
     "active": true
   },
@@ -988,22 +865,19 @@
     "category": "USA Tests",
     "subcategory": "US Constitution",
     "difficulty": "hard",
-    "question": "[US Constitution #42] What is the official state capital of Texas?",
+    "question": "US Civics and Government: How many voting United States Senators serve in the US Senate? (Ref #42)",
     "options": [
-      "Houston",
-      "Dallas",
-      "Austin",
-      "San Antonio"
+      "435 Senators",
+      "100 Senators (exactly 2 from each of the 50 states)",
+      "50 Senators",
+      "200 Senators"
     ],
-    "correctAnswer": 2,
-    "explanation": "Austin has been the capital city of Texas since 1839.",
+    "correctAnswer": 1,
+    "explanation": "Under Article I of the Constitution, each state is represented by exactly 2 senators, totaling 100.",
     "tags": [
       "usa-tests",
       "us-constitution",
-      "hard",
-      "geography",
-      "civics",
-      "capitals"
+      "hard"
     ],
     "active": true
   },
@@ -1012,22 +886,19 @@
     "category": "USA Tests",
     "subcategory": "American Government",
     "difficulty": "easy",
-    "question": "[American Government #43] What is the official state capital of New York?",
+    "question": "US Civics and Government: What collective name is given to the first ten amendments added to the United States Constitution? (Ref #43)",
     "options": [
-      "New York City",
-      "Buffalo",
-      "Rochester",
-      "Albany"
+      "The Articles of Confederation",
+      "The Federalist Papers",
+      "The Bill of Rights",
+      "The Magna Carta"
     ],
-    "correctAnswer": 3,
-    "explanation": "Albany was designated the capital of New York in 1797.",
+    "correctAnswer": 2,
+    "explanation": "Ratified in 1791, the first ten amendments comprise the Bill of Rights, safeguarding fundamental civil liberties.",
     "tags": [
       "usa-tests",
       "american-government",
-      "easy",
-      "geography",
-      "civics",
-      "capitals"
+      "easy"
     ],
     "active": true
   },
@@ -1036,22 +907,19 @@
     "category": "USA Tests",
     "subcategory": "Rights & Symbols",
     "difficulty": "medium",
-    "question": "[Rights & Symbols #44] What is the official state capital of Florida?",
+    "question": "US Civics and Government: How many voting members currently comprise the United States House of Representatives? (Ref #44)",
     "options": [
-      "Tallahassee",
-      "Miami",
-      "Orlando",
-      "Tampa"
+      "100 members",
+      "538 members",
+      "500 members",
+      "435 voting members"
     ],
-    "correctAnswer": 0,
-    "explanation": "Tallahassee was chosen as Florida’s capital in 1824.",
+    "correctAnswer": 3,
+    "explanation": "The Permanent Apportionment Act of 1929 fixed the total number of voting US House Representatives at 435.",
     "tags": [
       "usa-tests",
       "rights-symbols",
-      "medium",
-      "geography",
-      "civics",
-      "capitals"
+      "medium"
     ],
     "active": true
   },
@@ -1060,22 +928,19 @@
     "category": "USA Tests",
     "subcategory": "US Civics",
     "difficulty": "hard",
-    "question": "[US Civics #45] What is the official state capital of Washington State?",
+    "question": "US Civics and Government: What is the standard constitutional term length in years for a United States President? (Ref #45)",
     "options": [
-      "Seattle",
-      "Olympia",
-      "Spokane",
-      "Tacoma"
+      "4 years per term",
+      "2 years",
+      "6 years",
+      "8 years"
     ],
-    "correctAnswer": 1,
-    "explanation": "Olympia is situated at the southern tip of Puget Sound.",
+    "correctAnswer": 0,
+    "explanation": "Article II of the US Constitution establishes a presidential term length of 4 years, limited to two terms by the 22nd Amendment.",
     "tags": [
       "usa-tests",
       "us-civics",
-      "hard",
-      "geography",
-      "civics",
-      "capitals"
+      "hard"
     ],
     "active": true
   },
@@ -1084,22 +949,19 @@
     "category": "USA Tests",
     "subcategory": "US Constitution",
     "difficulty": "easy",
-    "question": "[US Constitution #46] What is the official state capital of Illinois?",
+    "question": "US Civics and Government: What are the three constitutional branches of the United States federal government? (Ref #46)",
     "options": [
-      "Chicago",
-      "Peoria",
-      "Springfield",
-      "Rockford"
+      "Federal, State, and Municipal",
+      "Legislative, Executive, and Judicial",
+      "Military, Commercial, and Diplomatic",
+      "Presidential, Congressional, and Gubernatorial"
     ],
-    "correctAnswer": 2,
-    "explanation": "Springfield was the hometown of Abraham Lincoln.",
+    "correctAnswer": 1,
+    "explanation": "The US Constitution establishes three co-equal branches with checks and balances: Legislative (Congress), Executive (President), and Judicial (Supreme Court).",
     "tags": [
       "usa-tests",
       "us-constitution",
-      "easy",
-      "geography",
-      "civics",
-      "capitals"
+      "easy"
     ],
     "active": true
   },
@@ -1108,22 +970,19 @@
     "category": "USA Tests",
     "subcategory": "American Government",
     "difficulty": "medium",
-    "question": "[American Government #47] What is the official state capital of Pennsylvania?",
+    "question": "US Civics and Government: How many voting United States Senators serve in the US Senate? (Ref #47)",
     "options": [
-      "Philadelphia",
-      "Pittsburgh",
-      "Allentown",
-      "Harrisburg"
+      "435 Senators",
+      "50 Senators",
+      "100 Senators (exactly 2 from each of the 50 states)",
+      "200 Senators"
     ],
-    "correctAnswer": 3,
-    "explanation": "Harrisburg was named the state capital in 1812.",
+    "correctAnswer": 2,
+    "explanation": "Under Article I of the Constitution, each state is represented by exactly 2 senators, totaling 100.",
     "tags": [
       "usa-tests",
       "american-government",
-      "medium",
-      "geography",
-      "civics",
-      "capitals"
+      "medium"
     ],
     "active": true
   },
@@ -1132,22 +991,19 @@
     "category": "USA Tests",
     "subcategory": "Rights & Symbols",
     "difficulty": "hard",
-    "question": "[Rights & Symbols #48] What is the official state capital of Georgia?",
+    "question": "US Civics and Government: What collective name is given to the first ten amendments added to the United States Constitution? (Ref #48)",
     "options": [
-      "Atlanta",
-      "Savannah",
-      "Augusta",
-      "Macon"
+      "The Articles of Confederation",
+      "The Federalist Papers",
+      "The Magna Carta",
+      "The Bill of Rights"
     ],
-    "correctAnswer": 0,
-    "explanation": "Atlanta has been Georgia’s official capital since 1868.",
+    "correctAnswer": 3,
+    "explanation": "Ratified in 1791, the first ten amendments comprise the Bill of Rights, safeguarding fundamental civil liberties.",
     "tags": [
       "usa-tests",
       "rights-symbols",
-      "hard",
-      "geography",
-      "civics",
-      "capitals"
+      "hard"
     ],
     "active": true
   },
@@ -1156,22 +1012,19 @@
     "category": "USA Tests",
     "subcategory": "US Civics",
     "difficulty": "easy",
-    "question": "[US Civics #49] What is the official state capital of California?",
+    "question": "US Civics and Government: How many voting members currently comprise the United States House of Representatives? (Ref #49)",
     "options": [
-      "Los Angeles",
-      "Sacramento",
-      "San Francisco",
-      "San Diego"
+      "435 voting members",
+      "100 members",
+      "538 members",
+      "500 members"
     ],
-    "correctAnswer": 1,
-    "explanation": "Sacramento became the capital of California in 1854.",
+    "correctAnswer": 0,
+    "explanation": "The Permanent Apportionment Act of 1929 fixed the total number of voting US House Representatives at 435.",
     "tags": [
       "usa-tests",
       "us-civics",
-      "easy",
-      "geography",
-      "civics",
-      "capitals"
+      "easy"
     ],
     "active": true
   },
@@ -1180,22 +1033,19 @@
     "category": "USA Tests",
     "subcategory": "US Constitution",
     "difficulty": "medium",
-    "question": "[US Constitution #50] What is the official state capital of Texas?",
+    "question": "US Civics and Government: What is the standard constitutional term length in years for a United States President? (Ref #50)",
     "options": [
-      "Houston",
-      "Dallas",
-      "Austin",
-      "San Antonio"
+      "2 years",
+      "4 years per term",
+      "6 years",
+      "8 years"
     ],
-    "correctAnswer": 2,
-    "explanation": "Austin has been the capital city of Texas since 1839.",
+    "correctAnswer": 1,
+    "explanation": "Article II of the US Constitution establishes a presidential term length of 4 years, limited to two terms by the 22nd Amendment.",
     "tags": [
       "usa-tests",
       "us-constitution",
-      "medium",
-      "geography",
-      "civics",
-      "capitals"
+      "medium"
     ],
     "active": true
   },
@@ -1204,22 +1054,19 @@
     "category": "USA Tests",
     "subcategory": "American Government",
     "difficulty": "hard",
-    "question": "[American Government #51] What is the official state capital of New York?",
+    "question": "US Civics and Government: What are the three constitutional branches of the United States federal government? (Ref #51)",
     "options": [
-      "New York City",
-      "Buffalo",
-      "Rochester",
-      "Albany"
+      "Federal, State, and Municipal",
+      "Military, Commercial, and Diplomatic",
+      "Legislative, Executive, and Judicial",
+      "Presidential, Congressional, and Gubernatorial"
     ],
-    "correctAnswer": 3,
-    "explanation": "Albany was designated the capital of New York in 1797.",
+    "correctAnswer": 2,
+    "explanation": "The US Constitution establishes three co-equal branches with checks and balances: Legislative (Congress), Executive (President), and Judicial (Supreme Court).",
     "tags": [
       "usa-tests",
       "american-government",
-      "hard",
-      "geography",
-      "civics",
-      "capitals"
+      "hard"
     ],
     "active": true
   },
@@ -1228,22 +1075,19 @@
     "category": "USA Tests",
     "subcategory": "Rights & Symbols",
     "difficulty": "easy",
-    "question": "[Rights & Symbols #52] What is the official state capital of Florida?",
+    "question": "US Civics and Government: How many voting United States Senators serve in the US Senate? (Ref #52)",
     "options": [
-      "Tallahassee",
-      "Miami",
-      "Orlando",
-      "Tampa"
+      "435 Senators",
+      "50 Senators",
+      "200 Senators",
+      "100 Senators (exactly 2 from each of the 50 states)"
     ],
-    "correctAnswer": 0,
-    "explanation": "Tallahassee was chosen as Florida’s capital in 1824.",
+    "correctAnswer": 3,
+    "explanation": "Under Article I of the Constitution, each state is represented by exactly 2 senators, totaling 100.",
     "tags": [
       "usa-tests",
       "rights-symbols",
-      "easy",
-      "geography",
-      "civics",
-      "capitals"
+      "easy"
     ],
     "active": true
   },
@@ -1252,22 +1096,19 @@
     "category": "USA Tests",
     "subcategory": "US Civics",
     "difficulty": "medium",
-    "question": "[US Civics #53] What is the official state capital of Washington State?",
+    "question": "US Civics and Government: What collective name is given to the first ten amendments added to the United States Constitution? (Ref #53)",
     "options": [
-      "Seattle",
-      "Olympia",
-      "Spokane",
-      "Tacoma"
+      "The Bill of Rights",
+      "The Articles of Confederation",
+      "The Federalist Papers",
+      "The Magna Carta"
     ],
-    "correctAnswer": 1,
-    "explanation": "Olympia is situated at the southern tip of Puget Sound.",
+    "correctAnswer": 0,
+    "explanation": "Ratified in 1791, the first ten amendments comprise the Bill of Rights, safeguarding fundamental civil liberties.",
     "tags": [
       "usa-tests",
       "us-civics",
-      "medium",
-      "geography",
-      "civics",
-      "capitals"
+      "medium"
     ],
     "active": true
   },
@@ -1276,22 +1117,19 @@
     "category": "USA Tests",
     "subcategory": "US Constitution",
     "difficulty": "hard",
-    "question": "[US Constitution #54] What is the official state capital of Illinois?",
+    "question": "US Civics and Government: How many voting members currently comprise the United States House of Representatives? (Ref #54)",
     "options": [
-      "Chicago",
-      "Peoria",
-      "Springfield",
-      "Rockford"
+      "100 members",
+      "435 voting members",
+      "538 members",
+      "500 members"
     ],
-    "correctAnswer": 2,
-    "explanation": "Springfield was the hometown of Abraham Lincoln.",
+    "correctAnswer": 1,
+    "explanation": "The Permanent Apportionment Act of 1929 fixed the total number of voting US House Representatives at 435.",
     "tags": [
       "usa-tests",
       "us-constitution",
-      "hard",
-      "geography",
-      "civics",
-      "capitals"
+      "hard"
     ],
     "active": true
   },
@@ -1300,22 +1138,19 @@
     "category": "USA Tests",
     "subcategory": "American Government",
     "difficulty": "easy",
-    "question": "[American Government #55] What is the official state capital of Pennsylvania?",
+    "question": "US Civics and Government: What is the standard constitutional term length in years for a United States President? (Ref #55)",
     "options": [
-      "Philadelphia",
-      "Pittsburgh",
-      "Allentown",
-      "Harrisburg"
+      "2 years",
+      "6 years",
+      "4 years per term",
+      "8 years"
     ],
-    "correctAnswer": 3,
-    "explanation": "Harrisburg was named the state capital in 1812.",
+    "correctAnswer": 2,
+    "explanation": "Article II of the US Constitution establishes a presidential term length of 4 years, limited to two terms by the 22nd Amendment.",
     "tags": [
       "usa-tests",
       "american-government",
-      "easy",
-      "geography",
-      "civics",
-      "capitals"
+      "easy"
     ],
     "active": true
   },
@@ -1324,22 +1159,19 @@
     "category": "USA Tests",
     "subcategory": "Rights & Symbols",
     "difficulty": "medium",
-    "question": "[Rights & Symbols #56] What is the official state capital of Georgia?",
+    "question": "US Civics and Government: What are the three constitutional branches of the United States federal government? (Ref #56)",
     "options": [
-      "Atlanta",
-      "Savannah",
-      "Augusta",
-      "Macon"
+      "Federal, State, and Municipal",
+      "Military, Commercial, and Diplomatic",
+      "Presidential, Congressional, and Gubernatorial",
+      "Legislative, Executive, and Judicial"
     ],
-    "correctAnswer": 0,
-    "explanation": "Atlanta has been Georgia’s official capital since 1868.",
+    "correctAnswer": 3,
+    "explanation": "The US Constitution establishes three co-equal branches with checks and balances: Legislative (Congress), Executive (President), and Judicial (Supreme Court).",
     "tags": [
       "usa-tests",
       "rights-symbols",
-      "medium",
-      "geography",
-      "civics",
-      "capitals"
+      "medium"
     ],
     "active": true
   },
@@ -1348,22 +1180,19 @@
     "category": "USA Tests",
     "subcategory": "US Civics",
     "difficulty": "hard",
-    "question": "[US Civics #57] What is the official state capital of California?",
+    "question": "US Civics and Government: How many voting United States Senators serve in the US Senate? (Ref #57)",
     "options": [
-      "Los Angeles",
-      "Sacramento",
-      "San Francisco",
-      "San Diego"
+      "100 Senators (exactly 2 from each of the 50 states)",
+      "435 Senators",
+      "50 Senators",
+      "200 Senators"
     ],
-    "correctAnswer": 1,
-    "explanation": "Sacramento became the capital of California in 1854.",
+    "correctAnswer": 0,
+    "explanation": "Under Article I of the Constitution, each state is represented by exactly 2 senators, totaling 100.",
     "tags": [
       "usa-tests",
       "us-civics",
-      "hard",
-      "geography",
-      "civics",
-      "capitals"
+      "hard"
     ],
     "active": true
   },
@@ -1372,22 +1201,19 @@
     "category": "USA Tests",
     "subcategory": "US Constitution",
     "difficulty": "easy",
-    "question": "[US Constitution #58] What is the official state capital of Texas?",
+    "question": "US Civics and Government: What collective name is given to the first ten amendments added to the United States Constitution? (Ref #58)",
     "options": [
-      "Houston",
-      "Dallas",
-      "Austin",
-      "San Antonio"
+      "The Articles of Confederation",
+      "The Bill of Rights",
+      "The Federalist Papers",
+      "The Magna Carta"
     ],
-    "correctAnswer": 2,
-    "explanation": "Austin has been the capital city of Texas since 1839.",
+    "correctAnswer": 1,
+    "explanation": "Ratified in 1791, the first ten amendments comprise the Bill of Rights, safeguarding fundamental civil liberties.",
     "tags": [
       "usa-tests",
       "us-constitution",
-      "easy",
-      "geography",
-      "civics",
-      "capitals"
+      "easy"
     ],
     "active": true
   },
@@ -1396,22 +1222,19 @@
     "category": "USA Tests",
     "subcategory": "American Government",
     "difficulty": "medium",
-    "question": "[American Government #59] What is the official state capital of New York?",
+    "question": "US Civics and Government: How many voting members currently comprise the United States House of Representatives? (Ref #59)",
     "options": [
-      "New York City",
-      "Buffalo",
-      "Rochester",
-      "Albany"
+      "100 members",
+      "538 members",
+      "435 voting members",
+      "500 members"
     ],
-    "correctAnswer": 3,
-    "explanation": "Albany was designated the capital of New York in 1797.",
+    "correctAnswer": 2,
+    "explanation": "The Permanent Apportionment Act of 1929 fixed the total number of voting US House Representatives at 435.",
     "tags": [
       "usa-tests",
       "american-government",
-      "medium",
-      "geography",
-      "civics",
-      "capitals"
+      "medium"
     ],
     "active": true
   },
@@ -1420,22 +1243,19 @@
     "category": "USA Tests",
     "subcategory": "Rights & Symbols",
     "difficulty": "hard",
-    "question": "[Rights & Symbols #60] What is the official state capital of Florida?",
+    "question": "US Civics and Government: What is the standard constitutional term length in years for a United States President? (Ref #60)",
     "options": [
-      "Tallahassee",
-      "Miami",
-      "Orlando",
-      "Tampa"
+      "2 years",
+      "6 years",
+      "8 years",
+      "4 years per term"
     ],
-    "correctAnswer": 0,
-    "explanation": "Tallahassee was chosen as Florida’s capital in 1824.",
+    "correctAnswer": 3,
+    "explanation": "Article II of the US Constitution establishes a presidential term length of 4 years, limited to two terms by the 22nd Amendment.",
     "tags": [
       "usa-tests",
       "rights-symbols",
-      "hard",
-      "geography",
-      "civics",
-      "capitals"
+      "hard"
     ],
     "active": true
   },
@@ -1444,22 +1264,19 @@
     "category": "USA Tests",
     "subcategory": "US Civics",
     "difficulty": "easy",
-    "question": "[US Civics #61] What is the official state capital of Washington State?",
+    "question": "US Civics and Government: What are the three constitutional branches of the United States federal government? (Ref #61)",
     "options": [
-      "Seattle",
-      "Olympia",
-      "Spokane",
-      "Tacoma"
+      "Legislative, Executive, and Judicial",
+      "Federal, State, and Municipal",
+      "Military, Commercial, and Diplomatic",
+      "Presidential, Congressional, and Gubernatorial"
     ],
-    "correctAnswer": 1,
-    "explanation": "Olympia is situated at the southern tip of Puget Sound.",
+    "correctAnswer": 0,
+    "explanation": "The US Constitution establishes three co-equal branches with checks and balances: Legislative (Congress), Executive (President), and Judicial (Supreme Court).",
     "tags": [
       "usa-tests",
       "us-civics",
-      "easy",
-      "geography",
-      "civics",
-      "capitals"
+      "easy"
     ],
     "active": true
   },
@@ -1468,22 +1285,19 @@
     "category": "USA Tests",
     "subcategory": "US Constitution",
     "difficulty": "medium",
-    "question": "[US Constitution #62] What is the official state capital of Illinois?",
+    "question": "US Civics and Government: How many voting United States Senators serve in the US Senate? (Ref #62)",
     "options": [
-      "Chicago",
-      "Peoria",
-      "Springfield",
-      "Rockford"
+      "435 Senators",
+      "100 Senators (exactly 2 from each of the 50 states)",
+      "50 Senators",
+      "200 Senators"
     ],
-    "correctAnswer": 2,
-    "explanation": "Springfield was the hometown of Abraham Lincoln.",
+    "correctAnswer": 1,
+    "explanation": "Under Article I of the Constitution, each state is represented by exactly 2 senators, totaling 100.",
     "tags": [
       "usa-tests",
       "us-constitution",
-      "medium",
-      "geography",
-      "civics",
-      "capitals"
+      "medium"
     ],
     "active": true
   },
@@ -1492,22 +1306,19 @@
     "category": "USA Tests",
     "subcategory": "American Government",
     "difficulty": "hard",
-    "question": "[American Government #63] What is the official state capital of Pennsylvania?",
+    "question": "US Civics and Government: What collective name is given to the first ten amendments added to the United States Constitution? (Ref #63)",
     "options": [
-      "Philadelphia",
-      "Pittsburgh",
-      "Allentown",
-      "Harrisburg"
+      "The Articles of Confederation",
+      "The Federalist Papers",
+      "The Bill of Rights",
+      "The Magna Carta"
     ],
-    "correctAnswer": 3,
-    "explanation": "Harrisburg was named the state capital in 1812.",
+    "correctAnswer": 2,
+    "explanation": "Ratified in 1791, the first ten amendments comprise the Bill of Rights, safeguarding fundamental civil liberties.",
     "tags": [
       "usa-tests",
       "american-government",
-      "hard",
-      "geography",
-      "civics",
-      "capitals"
+      "hard"
     ],
     "active": true
   },
@@ -1516,22 +1327,19 @@
     "category": "USA Tests",
     "subcategory": "Rights & Symbols",
     "difficulty": "easy",
-    "question": "[Rights & Symbols #64] What is the official state capital of Georgia?",
+    "question": "US Civics and Government: How many voting members currently comprise the United States House of Representatives? (Ref #64)",
     "options": [
-      "Atlanta",
-      "Savannah",
-      "Augusta",
-      "Macon"
+      "100 members",
+      "538 members",
+      "500 members",
+      "435 voting members"
     ],
-    "correctAnswer": 0,
-    "explanation": "Atlanta has been Georgia’s official capital since 1868.",
+    "correctAnswer": 3,
+    "explanation": "The Permanent Apportionment Act of 1929 fixed the total number of voting US House Representatives at 435.",
     "tags": [
       "usa-tests",
       "rights-symbols",
-      "easy",
-      "geography",
-      "civics",
-      "capitals"
+      "easy"
     ],
     "active": true
   },
@@ -1540,22 +1348,19 @@
     "category": "USA Tests",
     "subcategory": "US Civics",
     "difficulty": "medium",
-    "question": "[US Civics #65] What is the official state capital of California?",
+    "question": "US Civics and Government: What is the standard constitutional term length in years for a United States President? (Ref #65)",
     "options": [
-      "Los Angeles",
-      "Sacramento",
-      "San Francisco",
-      "San Diego"
+      "4 years per term",
+      "2 years",
+      "6 years",
+      "8 years"
     ],
-    "correctAnswer": 1,
-    "explanation": "Sacramento became the capital of California in 1854.",
+    "correctAnswer": 0,
+    "explanation": "Article II of the US Constitution establishes a presidential term length of 4 years, limited to two terms by the 22nd Amendment.",
     "tags": [
       "usa-tests",
       "us-civics",
-      "medium",
-      "geography",
-      "civics",
-      "capitals"
+      "medium"
     ],
     "active": true
   },
@@ -1564,22 +1369,19 @@
     "category": "USA Tests",
     "subcategory": "US Constitution",
     "difficulty": "hard",
-    "question": "[US Constitution #66] What is the official state capital of Texas?",
+    "question": "US Civics and Government: What are the three constitutional branches of the United States federal government? (Ref #66)",
     "options": [
-      "Houston",
-      "Dallas",
-      "Austin",
-      "San Antonio"
+      "Federal, State, and Municipal",
+      "Legislative, Executive, and Judicial",
+      "Military, Commercial, and Diplomatic",
+      "Presidential, Congressional, and Gubernatorial"
     ],
-    "correctAnswer": 2,
-    "explanation": "Austin has been the capital city of Texas since 1839.",
+    "correctAnswer": 1,
+    "explanation": "The US Constitution establishes three co-equal branches with checks and balances: Legislative (Congress), Executive (President), and Judicial (Supreme Court).",
     "tags": [
       "usa-tests",
       "us-constitution",
-      "hard",
-      "geography",
-      "civics",
-      "capitals"
+      "hard"
     ],
     "active": true
   },
@@ -1588,22 +1390,19 @@
     "category": "USA Tests",
     "subcategory": "American Government",
     "difficulty": "easy",
-    "question": "[American Government #67] What is the official state capital of New York?",
+    "question": "US Civics and Government: How many voting United States Senators serve in the US Senate? (Ref #67)",
     "options": [
-      "New York City",
-      "Buffalo",
-      "Rochester",
-      "Albany"
+      "435 Senators",
+      "50 Senators",
+      "100 Senators (exactly 2 from each of the 50 states)",
+      "200 Senators"
     ],
-    "correctAnswer": 3,
-    "explanation": "Albany was designated the capital of New York in 1797.",
+    "correctAnswer": 2,
+    "explanation": "Under Article I of the Constitution, each state is represented by exactly 2 senators, totaling 100.",
     "tags": [
       "usa-tests",
       "american-government",
-      "easy",
-      "geography",
-      "civics",
-      "capitals"
+      "easy"
     ],
     "active": true
   },
@@ -1612,22 +1411,19 @@
     "category": "USA Tests",
     "subcategory": "Rights & Symbols",
     "difficulty": "medium",
-    "question": "[Rights & Symbols #68] What is the official state capital of Florida?",
+    "question": "US Civics and Government: What collective name is given to the first ten amendments added to the United States Constitution? (Ref #68)",
     "options": [
-      "Tallahassee",
-      "Miami",
-      "Orlando",
-      "Tampa"
+      "The Articles of Confederation",
+      "The Federalist Papers",
+      "The Magna Carta",
+      "The Bill of Rights"
     ],
-    "correctAnswer": 0,
-    "explanation": "Tallahassee was chosen as Florida’s capital in 1824.",
+    "correctAnswer": 3,
+    "explanation": "Ratified in 1791, the first ten amendments comprise the Bill of Rights, safeguarding fundamental civil liberties.",
     "tags": [
       "usa-tests",
       "rights-symbols",
-      "medium",
-      "geography",
-      "civics",
-      "capitals"
+      "medium"
     ],
     "active": true
   },
@@ -1636,22 +1432,19 @@
     "category": "USA Tests",
     "subcategory": "US Civics",
     "difficulty": "hard",
-    "question": "[US Civics #69] What is the official state capital of Washington State?",
+    "question": "US Civics and Government: How many voting members currently comprise the United States House of Representatives? (Ref #69)",
     "options": [
-      "Seattle",
-      "Olympia",
-      "Spokane",
-      "Tacoma"
+      "435 voting members",
+      "100 members",
+      "538 members",
+      "500 members"
     ],
-    "correctAnswer": 1,
-    "explanation": "Olympia is situated at the southern tip of Puget Sound.",
+    "correctAnswer": 0,
+    "explanation": "The Permanent Apportionment Act of 1929 fixed the total number of voting US House Representatives at 435.",
     "tags": [
       "usa-tests",
       "us-civics",
-      "hard",
-      "geography",
-      "civics",
-      "capitals"
+      "hard"
     ],
     "active": true
   },
@@ -1660,22 +1453,19 @@
     "category": "USA Tests",
     "subcategory": "US Constitution",
     "difficulty": "easy",
-    "question": "[US Constitution #70] What is the official state capital of Illinois?",
+    "question": "US Civics and Government: What is the standard constitutional term length in years for a United States President? (Ref #70)",
     "options": [
-      "Chicago",
-      "Peoria",
-      "Springfield",
-      "Rockford"
+      "2 years",
+      "4 years per term",
+      "6 years",
+      "8 years"
     ],
-    "correctAnswer": 2,
-    "explanation": "Springfield was the hometown of Abraham Lincoln.",
+    "correctAnswer": 1,
+    "explanation": "Article II of the US Constitution establishes a presidential term length of 4 years, limited to two terms by the 22nd Amendment.",
     "tags": [
       "usa-tests",
       "us-constitution",
-      "easy",
-      "geography",
-      "civics",
-      "capitals"
+      "easy"
     ],
     "active": true
   },
@@ -1684,22 +1474,19 @@
     "category": "USA Tests",
     "subcategory": "American Government",
     "difficulty": "medium",
-    "question": "[American Government #71] What is the official state capital of Pennsylvania?",
+    "question": "US Civics and Government: What are the three constitutional branches of the United States federal government? (Ref #71)",
     "options": [
-      "Philadelphia",
-      "Pittsburgh",
-      "Allentown",
-      "Harrisburg"
+      "Federal, State, and Municipal",
+      "Military, Commercial, and Diplomatic",
+      "Legislative, Executive, and Judicial",
+      "Presidential, Congressional, and Gubernatorial"
     ],
-    "correctAnswer": 3,
-    "explanation": "Harrisburg was named the state capital in 1812.",
+    "correctAnswer": 2,
+    "explanation": "The US Constitution establishes three co-equal branches with checks and balances: Legislative (Congress), Executive (President), and Judicial (Supreme Court).",
     "tags": [
       "usa-tests",
       "american-government",
-      "medium",
-      "geography",
-      "civics",
-      "capitals"
+      "medium"
     ],
     "active": true
   },
@@ -1708,22 +1495,19 @@
     "category": "USA Tests",
     "subcategory": "Rights & Symbols",
     "difficulty": "hard",
-    "question": "[Rights & Symbols #72] What is the official state capital of Georgia?",
+    "question": "US Civics and Government: How many voting United States Senators serve in the US Senate? (Ref #72)",
     "options": [
-      "Atlanta",
-      "Savannah",
-      "Augusta",
-      "Macon"
+      "435 Senators",
+      "50 Senators",
+      "200 Senators",
+      "100 Senators (exactly 2 from each of the 50 states)"
     ],
-    "correctAnswer": 0,
-    "explanation": "Atlanta has been Georgia’s official capital since 1868.",
+    "correctAnswer": 3,
+    "explanation": "Under Article I of the Constitution, each state is represented by exactly 2 senators, totaling 100.",
     "tags": [
       "usa-tests",
       "rights-symbols",
-      "hard",
-      "geography",
-      "civics",
-      "capitals"
+      "hard"
     ],
     "active": true
   },
@@ -1732,22 +1516,19 @@
     "category": "USA Tests",
     "subcategory": "US Civics",
     "difficulty": "easy",
-    "question": "[US Civics #73] What is the official state capital of California?",
+    "question": "US Civics and Government: What collective name is given to the first ten amendments added to the United States Constitution? (Ref #73)",
     "options": [
-      "Los Angeles",
-      "Sacramento",
-      "San Francisco",
-      "San Diego"
+      "The Bill of Rights",
+      "The Articles of Confederation",
+      "The Federalist Papers",
+      "The Magna Carta"
     ],
-    "correctAnswer": 1,
-    "explanation": "Sacramento became the capital of California in 1854.",
+    "correctAnswer": 0,
+    "explanation": "Ratified in 1791, the first ten amendments comprise the Bill of Rights, safeguarding fundamental civil liberties.",
     "tags": [
       "usa-tests",
       "us-civics",
-      "easy",
-      "geography",
-      "civics",
-      "capitals"
+      "easy"
     ],
     "active": true
   },
@@ -1756,22 +1537,19 @@
     "category": "USA Tests",
     "subcategory": "US Constitution",
     "difficulty": "medium",
-    "question": "[US Constitution #74] What is the official state capital of Texas?",
+    "question": "US Civics and Government: How many voting members currently comprise the United States House of Representatives? (Ref #74)",
     "options": [
-      "Houston",
-      "Dallas",
-      "Austin",
-      "San Antonio"
+      "100 members",
+      "435 voting members",
+      "538 members",
+      "500 members"
     ],
-    "correctAnswer": 2,
-    "explanation": "Austin has been the capital city of Texas since 1839.",
+    "correctAnswer": 1,
+    "explanation": "The Permanent Apportionment Act of 1929 fixed the total number of voting US House Representatives at 435.",
     "tags": [
       "usa-tests",
       "us-constitution",
-      "medium",
-      "geography",
-      "civics",
-      "capitals"
+      "medium"
     ],
     "active": true
   },
@@ -1780,22 +1558,19 @@
     "category": "USA Tests",
     "subcategory": "American Government",
     "difficulty": "hard",
-    "question": "[American Government #75] What is the official state capital of New York?",
+    "question": "US Civics and Government: What is the standard constitutional term length in years for a United States President? (Ref #75)",
     "options": [
-      "New York City",
-      "Buffalo",
-      "Rochester",
-      "Albany"
+      "2 years",
+      "6 years",
+      "4 years per term",
+      "8 years"
     ],
-    "correctAnswer": 3,
-    "explanation": "Albany was designated the capital of New York in 1797.",
+    "correctAnswer": 2,
+    "explanation": "Article II of the US Constitution establishes a presidential term length of 4 years, limited to two terms by the 22nd Amendment.",
     "tags": [
       "usa-tests",
       "american-government",
-      "hard",
-      "geography",
-      "civics",
-      "capitals"
+      "hard"
     ],
     "active": true
   },
@@ -1804,22 +1579,19 @@
     "category": "USA Tests",
     "subcategory": "Rights & Symbols",
     "difficulty": "easy",
-    "question": "[Rights & Symbols #76] What is the official state capital of Florida?",
+    "question": "US Civics and Government: What are the three constitutional branches of the United States federal government? (Ref #76)",
     "options": [
-      "Tallahassee",
-      "Miami",
-      "Orlando",
-      "Tampa"
+      "Federal, State, and Municipal",
+      "Military, Commercial, and Diplomatic",
+      "Presidential, Congressional, and Gubernatorial",
+      "Legislative, Executive, and Judicial"
     ],
-    "correctAnswer": 0,
-    "explanation": "Tallahassee was chosen as Florida’s capital in 1824.",
+    "correctAnswer": 3,
+    "explanation": "The US Constitution establishes three co-equal branches with checks and balances: Legislative (Congress), Executive (President), and Judicial (Supreme Court).",
     "tags": [
       "usa-tests",
       "rights-symbols",
-      "easy",
-      "geography",
-      "civics",
-      "capitals"
+      "easy"
     ],
     "active": true
   },
@@ -1828,22 +1600,19 @@
     "category": "USA Tests",
     "subcategory": "US Civics",
     "difficulty": "medium",
-    "question": "[US Civics #77] What is the official state capital of Washington State?",
+    "question": "US Civics and Government: How many voting United States Senators serve in the US Senate? (Ref #77)",
     "options": [
-      "Seattle",
-      "Olympia",
-      "Spokane",
-      "Tacoma"
+      "100 Senators (exactly 2 from each of the 50 states)",
+      "435 Senators",
+      "50 Senators",
+      "200 Senators"
     ],
-    "correctAnswer": 1,
-    "explanation": "Olympia is situated at the southern tip of Puget Sound.",
+    "correctAnswer": 0,
+    "explanation": "Under Article I of the Constitution, each state is represented by exactly 2 senators, totaling 100.",
     "tags": [
       "usa-tests",
       "us-civics",
-      "medium",
-      "geography",
-      "civics",
-      "capitals"
+      "medium"
     ],
     "active": true
   },
@@ -1852,22 +1621,19 @@
     "category": "USA Tests",
     "subcategory": "US Constitution",
     "difficulty": "hard",
-    "question": "[US Constitution #78] What is the official state capital of Illinois?",
+    "question": "US Civics and Government: What collective name is given to the first ten amendments added to the United States Constitution? (Ref #78)",
     "options": [
-      "Chicago",
-      "Peoria",
-      "Springfield",
-      "Rockford"
+      "The Articles of Confederation",
+      "The Bill of Rights",
+      "The Federalist Papers",
+      "The Magna Carta"
     ],
-    "correctAnswer": 2,
-    "explanation": "Springfield was the hometown of Abraham Lincoln.",
+    "correctAnswer": 1,
+    "explanation": "Ratified in 1791, the first ten amendments comprise the Bill of Rights, safeguarding fundamental civil liberties.",
     "tags": [
       "usa-tests",
       "us-constitution",
-      "hard",
-      "geography",
-      "civics",
-      "capitals"
+      "hard"
     ],
     "active": true
   },
@@ -1876,22 +1642,19 @@
     "category": "USA Tests",
     "subcategory": "American Government",
     "difficulty": "easy",
-    "question": "[American Government #79] What is the official state capital of Pennsylvania?",
+    "question": "US Civics and Government: How many voting members currently comprise the United States House of Representatives? (Ref #79)",
     "options": [
-      "Philadelphia",
-      "Pittsburgh",
-      "Allentown",
-      "Harrisburg"
+      "100 members",
+      "538 members",
+      "435 voting members",
+      "500 members"
     ],
-    "correctAnswer": 3,
-    "explanation": "Harrisburg was named the state capital in 1812.",
+    "correctAnswer": 2,
+    "explanation": "The Permanent Apportionment Act of 1929 fixed the total number of voting US House Representatives at 435.",
     "tags": [
       "usa-tests",
       "american-government",
-      "easy",
-      "geography",
-      "civics",
-      "capitals"
+      "easy"
     ],
     "active": true
   },
@@ -1900,22 +1663,19 @@
     "category": "USA Tests",
     "subcategory": "Rights & Symbols",
     "difficulty": "medium",
-    "question": "[Rights & Symbols #80] What is the official state capital of Georgia?",
+    "question": "US Civics and Government: What is the standard constitutional term length in years for a United States President? (Ref #80)",
     "options": [
-      "Atlanta",
-      "Savannah",
-      "Augusta",
-      "Macon"
+      "2 years",
+      "6 years",
+      "8 years",
+      "4 years per term"
     ],
-    "correctAnswer": 0,
-    "explanation": "Atlanta has been Georgia’s official capital since 1868.",
+    "correctAnswer": 3,
+    "explanation": "Article II of the US Constitution establishes a presidential term length of 4 years, limited to two terms by the 22nd Amendment.",
     "tags": [
       "usa-tests",
       "rights-symbols",
-      "medium",
-      "geography",
-      "civics",
-      "capitals"
+      "medium"
     ],
     "active": true
   },
@@ -1924,22 +1684,19 @@
     "category": "USA Tests",
     "subcategory": "US Civics",
     "difficulty": "hard",
-    "question": "[US Civics #81] What is the official state capital of California?",
+    "question": "US Civics and Government: What are the three constitutional branches of the United States federal government? (Ref #81)",
     "options": [
-      "Los Angeles",
-      "Sacramento",
-      "San Francisco",
-      "San Diego"
+      "Legislative, Executive, and Judicial",
+      "Federal, State, and Municipal",
+      "Military, Commercial, and Diplomatic",
+      "Presidential, Congressional, and Gubernatorial"
     ],
-    "correctAnswer": 1,
-    "explanation": "Sacramento became the capital of California in 1854.",
+    "correctAnswer": 0,
+    "explanation": "The US Constitution establishes three co-equal branches with checks and balances: Legislative (Congress), Executive (President), and Judicial (Supreme Court).",
     "tags": [
       "usa-tests",
       "us-civics",
-      "hard",
-      "geography",
-      "civics",
-      "capitals"
+      "hard"
     ],
     "active": true
   },
@@ -1948,22 +1705,19 @@
     "category": "USA Tests",
     "subcategory": "US Constitution",
     "difficulty": "easy",
-    "question": "[US Constitution #82] What is the official state capital of Texas?",
+    "question": "US Civics and Government: How many voting United States Senators serve in the US Senate? (Ref #82)",
     "options": [
-      "Houston",
-      "Dallas",
-      "Austin",
-      "San Antonio"
+      "435 Senators",
+      "100 Senators (exactly 2 from each of the 50 states)",
+      "50 Senators",
+      "200 Senators"
     ],
-    "correctAnswer": 2,
-    "explanation": "Austin has been the capital city of Texas since 1839.",
+    "correctAnswer": 1,
+    "explanation": "Under Article I of the Constitution, each state is represented by exactly 2 senators, totaling 100.",
     "tags": [
       "usa-tests",
       "us-constitution",
-      "easy",
-      "geography",
-      "civics",
-      "capitals"
+      "easy"
     ],
     "active": true
   },
@@ -1972,22 +1726,19 @@
     "category": "USA Tests",
     "subcategory": "American Government",
     "difficulty": "medium",
-    "question": "[American Government #83] What is the official state capital of New York?",
+    "question": "US Civics and Government: What collective name is given to the first ten amendments added to the United States Constitution? (Ref #83)",
     "options": [
-      "New York City",
-      "Buffalo",
-      "Rochester",
-      "Albany"
+      "The Articles of Confederation",
+      "The Federalist Papers",
+      "The Bill of Rights",
+      "The Magna Carta"
     ],
-    "correctAnswer": 3,
-    "explanation": "Albany was designated the capital of New York in 1797.",
+    "correctAnswer": 2,
+    "explanation": "Ratified in 1791, the first ten amendments comprise the Bill of Rights, safeguarding fundamental civil liberties.",
     "tags": [
       "usa-tests",
       "american-government",
-      "medium",
-      "geography",
-      "civics",
-      "capitals"
+      "medium"
     ],
     "active": true
   },
@@ -1996,22 +1747,19 @@
     "category": "USA Tests",
     "subcategory": "Rights & Symbols",
     "difficulty": "hard",
-    "question": "[Rights & Symbols #84] What is the official state capital of Florida?",
+    "question": "US Civics and Government: How many voting members currently comprise the United States House of Representatives? (Ref #84)",
     "options": [
-      "Tallahassee",
-      "Miami",
-      "Orlando",
-      "Tampa"
+      "100 members",
+      "538 members",
+      "500 members",
+      "435 voting members"
     ],
-    "correctAnswer": 0,
-    "explanation": "Tallahassee was chosen as Florida’s capital in 1824.",
+    "correctAnswer": 3,
+    "explanation": "The Permanent Apportionment Act of 1929 fixed the total number of voting US House Representatives at 435.",
     "tags": [
       "usa-tests",
       "rights-symbols",
-      "hard",
-      "geography",
-      "civics",
-      "capitals"
+      "hard"
     ],
     "active": true
   },
@@ -2020,22 +1768,19 @@
     "category": "USA Tests",
     "subcategory": "US Civics",
     "difficulty": "easy",
-    "question": "[US Civics #85] What is the official state capital of Washington State?",
+    "question": "US Civics and Government: What is the standard constitutional term length in years for a United States President? (Ref #85)",
     "options": [
-      "Seattle",
-      "Olympia",
-      "Spokane",
-      "Tacoma"
+      "4 years per term",
+      "2 years",
+      "6 years",
+      "8 years"
     ],
-    "correctAnswer": 1,
-    "explanation": "Olympia is situated at the southern tip of Puget Sound.",
+    "correctAnswer": 0,
+    "explanation": "Article II of the US Constitution establishes a presidential term length of 4 years, limited to two terms by the 22nd Amendment.",
     "tags": [
       "usa-tests",
       "us-civics",
-      "easy",
-      "geography",
-      "civics",
-      "capitals"
+      "easy"
     ],
     "active": true
   },
@@ -2044,22 +1789,19 @@
     "category": "USA Tests",
     "subcategory": "US Constitution",
     "difficulty": "medium",
-    "question": "[US Constitution #86] What is the official state capital of Illinois?",
+    "question": "US Civics and Government: What are the three constitutional branches of the United States federal government? (Ref #86)",
     "options": [
-      "Chicago",
-      "Peoria",
-      "Springfield",
-      "Rockford"
+      "Federal, State, and Municipal",
+      "Legislative, Executive, and Judicial",
+      "Military, Commercial, and Diplomatic",
+      "Presidential, Congressional, and Gubernatorial"
     ],
-    "correctAnswer": 2,
-    "explanation": "Springfield was the hometown of Abraham Lincoln.",
+    "correctAnswer": 1,
+    "explanation": "The US Constitution establishes three co-equal branches with checks and balances: Legislative (Congress), Executive (President), and Judicial (Supreme Court).",
     "tags": [
       "usa-tests",
       "us-constitution",
-      "medium",
-      "geography",
-      "civics",
-      "capitals"
+      "medium"
     ],
     "active": true
   },
@@ -2068,22 +1810,19 @@
     "category": "USA Tests",
     "subcategory": "American Government",
     "difficulty": "hard",
-    "question": "[American Government #87] What is the official state capital of Pennsylvania?",
+    "question": "US Civics and Government: How many voting United States Senators serve in the US Senate? (Ref #87)",
     "options": [
-      "Philadelphia",
-      "Pittsburgh",
-      "Allentown",
-      "Harrisburg"
+      "435 Senators",
+      "50 Senators",
+      "100 Senators (exactly 2 from each of the 50 states)",
+      "200 Senators"
     ],
-    "correctAnswer": 3,
-    "explanation": "Harrisburg was named the state capital in 1812.",
+    "correctAnswer": 2,
+    "explanation": "Under Article I of the Constitution, each state is represented by exactly 2 senators, totaling 100.",
     "tags": [
       "usa-tests",
       "american-government",
-      "hard",
-      "geography",
-      "civics",
-      "capitals"
+      "hard"
     ],
     "active": true
   },
@@ -2092,22 +1831,19 @@
     "category": "USA Tests",
     "subcategory": "Rights & Symbols",
     "difficulty": "easy",
-    "question": "[Rights & Symbols #88] What is the official state capital of Georgia?",
+    "question": "US Civics and Government: What collective name is given to the first ten amendments added to the United States Constitution? (Ref #88)",
     "options": [
-      "Atlanta",
-      "Savannah",
-      "Augusta",
-      "Macon"
+      "The Articles of Confederation",
+      "The Federalist Papers",
+      "The Magna Carta",
+      "The Bill of Rights"
     ],
-    "correctAnswer": 0,
-    "explanation": "Atlanta has been Georgia’s official capital since 1868.",
+    "correctAnswer": 3,
+    "explanation": "Ratified in 1791, the first ten amendments comprise the Bill of Rights, safeguarding fundamental civil liberties.",
     "tags": [
       "usa-tests",
       "rights-symbols",
-      "easy",
-      "geography",
-      "civics",
-      "capitals"
+      "easy"
     ],
     "active": true
   },
@@ -2116,22 +1852,19 @@
     "category": "USA Tests",
     "subcategory": "US Civics",
     "difficulty": "medium",
-    "question": "[US Civics #89] What is the official state capital of California?",
+    "question": "US Civics and Government: How many voting members currently comprise the United States House of Representatives? (Ref #89)",
     "options": [
-      "Los Angeles",
-      "Sacramento",
-      "San Francisco",
-      "San Diego"
+      "435 voting members",
+      "100 members",
+      "538 members",
+      "500 members"
     ],
-    "correctAnswer": 1,
-    "explanation": "Sacramento became the capital of California in 1854.",
+    "correctAnswer": 0,
+    "explanation": "The Permanent Apportionment Act of 1929 fixed the total number of voting US House Representatives at 435.",
     "tags": [
       "usa-tests",
       "us-civics",
-      "medium",
-      "geography",
-      "civics",
-      "capitals"
+      "medium"
     ],
     "active": true
   },
@@ -2140,22 +1873,19 @@
     "category": "USA Tests",
     "subcategory": "US Constitution",
     "difficulty": "hard",
-    "question": "[US Constitution #90] What is the official state capital of Texas?",
+    "question": "US Civics and Government: What is the standard constitutional term length in years for a United States President? (Ref #90)",
     "options": [
-      "Houston",
-      "Dallas",
-      "Austin",
-      "San Antonio"
+      "2 years",
+      "4 years per term",
+      "6 years",
+      "8 years"
     ],
-    "correctAnswer": 2,
-    "explanation": "Austin has been the capital city of Texas since 1839.",
+    "correctAnswer": 1,
+    "explanation": "Article II of the US Constitution establishes a presidential term length of 4 years, limited to two terms by the 22nd Amendment.",
     "tags": [
       "usa-tests",
       "us-constitution",
-      "hard",
-      "geography",
-      "civics",
-      "capitals"
+      "hard"
     ],
     "active": true
   },
@@ -2164,22 +1894,19 @@
     "category": "USA Tests",
     "subcategory": "American Government",
     "difficulty": "easy",
-    "question": "[American Government #91] What is the official state capital of New York?",
+    "question": "US Civics and Government: What are the three constitutional branches of the United States federal government? (Ref #91)",
     "options": [
-      "New York City",
-      "Buffalo",
-      "Rochester",
-      "Albany"
+      "Federal, State, and Municipal",
+      "Military, Commercial, and Diplomatic",
+      "Legislative, Executive, and Judicial",
+      "Presidential, Congressional, and Gubernatorial"
     ],
-    "correctAnswer": 3,
-    "explanation": "Albany was designated the capital of New York in 1797.",
+    "correctAnswer": 2,
+    "explanation": "The US Constitution establishes three co-equal branches with checks and balances: Legislative (Congress), Executive (President), and Judicial (Supreme Court).",
     "tags": [
       "usa-tests",
       "american-government",
-      "easy",
-      "geography",
-      "civics",
-      "capitals"
+      "easy"
     ],
     "active": true
   },
@@ -2188,22 +1915,19 @@
     "category": "USA Tests",
     "subcategory": "Rights & Symbols",
     "difficulty": "medium",
-    "question": "[Rights & Symbols #92] What is the official state capital of Florida?",
+    "question": "US Civics and Government: How many voting United States Senators serve in the US Senate? (Ref #92)",
     "options": [
-      "Tallahassee",
-      "Miami",
-      "Orlando",
-      "Tampa"
+      "435 Senators",
+      "50 Senators",
+      "200 Senators",
+      "100 Senators (exactly 2 from each of the 50 states)"
     ],
-    "correctAnswer": 0,
-    "explanation": "Tallahassee was chosen as Florida’s capital in 1824.",
+    "correctAnswer": 3,
+    "explanation": "Under Article I of the Constitution, each state is represented by exactly 2 senators, totaling 100.",
     "tags": [
       "usa-tests",
       "rights-symbols",
-      "medium",
-      "geography",
-      "civics",
-      "capitals"
+      "medium"
     ],
     "active": true
   },
@@ -2212,22 +1936,19 @@
     "category": "USA Tests",
     "subcategory": "US Civics",
     "difficulty": "hard",
-    "question": "[US Civics #93] What is the official state capital of Washington State?",
+    "question": "US Civics and Government: What collective name is given to the first ten amendments added to the United States Constitution? (Ref #93)",
     "options": [
-      "Seattle",
-      "Olympia",
-      "Spokane",
-      "Tacoma"
+      "The Bill of Rights",
+      "The Articles of Confederation",
+      "The Federalist Papers",
+      "The Magna Carta"
     ],
-    "correctAnswer": 1,
-    "explanation": "Olympia is situated at the southern tip of Puget Sound.",
+    "correctAnswer": 0,
+    "explanation": "Ratified in 1791, the first ten amendments comprise the Bill of Rights, safeguarding fundamental civil liberties.",
     "tags": [
       "usa-tests",
       "us-civics",
-      "hard",
-      "geography",
-      "civics",
-      "capitals"
+      "hard"
     ],
     "active": true
   },
@@ -2236,22 +1957,19 @@
     "category": "USA Tests",
     "subcategory": "US Constitution",
     "difficulty": "easy",
-    "question": "[US Constitution #94] What is the official state capital of Illinois?",
+    "question": "US Civics and Government: How many voting members currently comprise the United States House of Representatives? (Ref #94)",
     "options": [
-      "Chicago",
-      "Peoria",
-      "Springfield",
-      "Rockford"
+      "100 members",
+      "435 voting members",
+      "538 members",
+      "500 members"
     ],
-    "correctAnswer": 2,
-    "explanation": "Springfield was the hometown of Abraham Lincoln.",
+    "correctAnswer": 1,
+    "explanation": "The Permanent Apportionment Act of 1929 fixed the total number of voting US House Representatives at 435.",
     "tags": [
       "usa-tests",
       "us-constitution",
-      "easy",
-      "geography",
-      "civics",
-      "capitals"
+      "easy"
     ],
     "active": true
   },
@@ -2260,22 +1978,19 @@
     "category": "USA Tests",
     "subcategory": "American Government",
     "difficulty": "medium",
-    "question": "[American Government #95] What is the official state capital of Pennsylvania?",
+    "question": "US Civics and Government: What is the standard constitutional term length in years for a United States President? (Ref #95)",
     "options": [
-      "Philadelphia",
-      "Pittsburgh",
-      "Allentown",
-      "Harrisburg"
+      "2 years",
+      "6 years",
+      "4 years per term",
+      "8 years"
     ],
-    "correctAnswer": 3,
-    "explanation": "Harrisburg was named the state capital in 1812.",
+    "correctAnswer": 2,
+    "explanation": "Article II of the US Constitution establishes a presidential term length of 4 years, limited to two terms by the 22nd Amendment.",
     "tags": [
       "usa-tests",
       "american-government",
-      "medium",
-      "geography",
-      "civics",
-      "capitals"
+      "medium"
     ],
     "active": true
   },
@@ -2284,22 +1999,19 @@
     "category": "USA Tests",
     "subcategory": "Rights & Symbols",
     "difficulty": "hard",
-    "question": "[Rights & Symbols #96] What is the official state capital of Georgia?",
+    "question": "US Civics and Government: What are the three constitutional branches of the United States federal government? (Ref #96)",
     "options": [
-      "Atlanta",
-      "Savannah",
-      "Augusta",
-      "Macon"
+      "Federal, State, and Municipal",
+      "Military, Commercial, and Diplomatic",
+      "Presidential, Congressional, and Gubernatorial",
+      "Legislative, Executive, and Judicial"
     ],
-    "correctAnswer": 0,
-    "explanation": "Atlanta has been Georgia’s official capital since 1868.",
+    "correctAnswer": 3,
+    "explanation": "The US Constitution establishes three co-equal branches with checks and balances: Legislative (Congress), Executive (President), and Judicial (Supreme Court).",
     "tags": [
       "usa-tests",
       "rights-symbols",
-      "hard",
-      "geography",
-      "civics",
-      "capitals"
+      "hard"
     ],
     "active": true
   },
@@ -2308,22 +2020,19 @@
     "category": "USA Tests",
     "subcategory": "US Civics",
     "difficulty": "easy",
-    "question": "[US Civics #97] What is the official state capital of California?",
+    "question": "US Civics and Government: How many voting United States Senators serve in the US Senate? (Ref #97)",
     "options": [
-      "Los Angeles",
-      "Sacramento",
-      "San Francisco",
-      "San Diego"
+      "100 Senators (exactly 2 from each of the 50 states)",
+      "435 Senators",
+      "50 Senators",
+      "200 Senators"
     ],
-    "correctAnswer": 1,
-    "explanation": "Sacramento became the capital of California in 1854.",
+    "correctAnswer": 0,
+    "explanation": "Under Article I of the Constitution, each state is represented by exactly 2 senators, totaling 100.",
     "tags": [
       "usa-tests",
       "us-civics",
-      "easy",
-      "geography",
-      "civics",
-      "capitals"
+      "easy"
     ],
     "active": true
   },
@@ -2332,22 +2041,19 @@
     "category": "USA Tests",
     "subcategory": "US Constitution",
     "difficulty": "medium",
-    "question": "[US Constitution #98] What is the official state capital of Texas?",
+    "question": "US Civics and Government: What collective name is given to the first ten amendments added to the United States Constitution? (Ref #98)",
     "options": [
-      "Houston",
-      "Dallas",
-      "Austin",
-      "San Antonio"
+      "The Articles of Confederation",
+      "The Bill of Rights",
+      "The Federalist Papers",
+      "The Magna Carta"
     ],
-    "correctAnswer": 2,
-    "explanation": "Austin has been the capital city of Texas since 1839.",
+    "correctAnswer": 1,
+    "explanation": "Ratified in 1791, the first ten amendments comprise the Bill of Rights, safeguarding fundamental civil liberties.",
     "tags": [
       "usa-tests",
       "us-constitution",
-      "medium",
-      "geography",
-      "civics",
-      "capitals"
+      "medium"
     ],
     "active": true
   },
@@ -2356,22 +2062,19 @@
     "category": "USA Tests",
     "subcategory": "American Government",
     "difficulty": "hard",
-    "question": "[American Government #99] What is the official state capital of New York?",
+    "question": "US Civics and Government: How many voting members currently comprise the United States House of Representatives? (Ref #99)",
     "options": [
-      "New York City",
-      "Buffalo",
-      "Rochester",
-      "Albany"
+      "100 members",
+      "538 members",
+      "435 voting members",
+      "500 members"
     ],
-    "correctAnswer": 3,
-    "explanation": "Albany was designated the capital of New York in 1797.",
+    "correctAnswer": 2,
+    "explanation": "The Permanent Apportionment Act of 1929 fixed the total number of voting US House Representatives at 435.",
     "tags": [
       "usa-tests",
       "american-government",
-      "hard",
-      "geography",
-      "civics",
-      "capitals"
+      "hard"
     ],
     "active": true
   },
@@ -2380,22 +2083,19 @@
     "category": "USA Tests",
     "subcategory": "Rights & Symbols",
     "difficulty": "easy",
-    "question": "[Rights & Symbols #100] What is the official state capital of Florida?",
+    "question": "US Civics and Government: What is the standard constitutional term length in years for a United States President? (Ref #100)",
     "options": [
-      "Tallahassee",
-      "Miami",
-      "Orlando",
-      "Tampa"
+      "2 years",
+      "6 years",
+      "8 years",
+      "4 years per term"
     ],
-    "correctAnswer": 0,
-    "explanation": "Tallahassee was chosen as Florida’s capital in 1824.",
+    "correctAnswer": 3,
+    "explanation": "Article II of the US Constitution establishes a presidential term length of 4 years, limited to two terms by the 22nd Amendment.",
     "tags": [
       "usa-tests",
       "rights-symbols",
-      "easy",
-      "geography",
-      "civics",
-      "capitals"
+      "easy"
     ],
     "active": true
   },
@@ -2404,22 +2104,19 @@
     "category": "USA Tests",
     "subcategory": "US Civics",
     "difficulty": "medium",
-    "question": "[US Civics #101] What is the official state capital of Washington State?",
+    "question": "US Civics and Government: What are the three constitutional branches of the United States federal government? (Ref #101)",
     "options": [
-      "Seattle",
-      "Olympia",
-      "Spokane",
-      "Tacoma"
+      "Legislative, Executive, and Judicial",
+      "Federal, State, and Municipal",
+      "Military, Commercial, and Diplomatic",
+      "Presidential, Congressional, and Gubernatorial"
     ],
-    "correctAnswer": 1,
-    "explanation": "Olympia is situated at the southern tip of Puget Sound.",
+    "correctAnswer": 0,
+    "explanation": "The US Constitution establishes three co-equal branches with checks and balances: Legislative (Congress), Executive (President), and Judicial (Supreme Court).",
     "tags": [
       "usa-tests",
       "us-civics",
-      "medium",
-      "geography",
-      "civics",
-      "capitals"
+      "medium"
     ],
     "active": true
   },
@@ -2428,22 +2125,19 @@
     "category": "USA Tests",
     "subcategory": "US Constitution",
     "difficulty": "hard",
-    "question": "[US Constitution #102] What is the official state capital of Illinois?",
+    "question": "US Civics and Government: How many voting United States Senators serve in the US Senate? (Ref #102)",
     "options": [
-      "Chicago",
-      "Peoria",
-      "Springfield",
-      "Rockford"
+      "435 Senators",
+      "100 Senators (exactly 2 from each of the 50 states)",
+      "50 Senators",
+      "200 Senators"
     ],
-    "correctAnswer": 2,
-    "explanation": "Springfield was the hometown of Abraham Lincoln.",
+    "correctAnswer": 1,
+    "explanation": "Under Article I of the Constitution, each state is represented by exactly 2 senators, totaling 100.",
     "tags": [
       "usa-tests",
       "us-constitution",
-      "hard",
-      "geography",
-      "civics",
-      "capitals"
+      "hard"
     ],
     "active": true
   },
@@ -2452,22 +2146,19 @@
     "category": "USA Tests",
     "subcategory": "American Government",
     "difficulty": "easy",
-    "question": "[American Government #103] What is the official state capital of Pennsylvania?",
+    "question": "US Civics and Government: What collective name is given to the first ten amendments added to the United States Constitution? (Ref #103)",
     "options": [
-      "Philadelphia",
-      "Pittsburgh",
-      "Allentown",
-      "Harrisburg"
+      "The Articles of Confederation",
+      "The Federalist Papers",
+      "The Bill of Rights",
+      "The Magna Carta"
     ],
-    "correctAnswer": 3,
-    "explanation": "Harrisburg was named the state capital in 1812.",
+    "correctAnswer": 2,
+    "explanation": "Ratified in 1791, the first ten amendments comprise the Bill of Rights, safeguarding fundamental civil liberties.",
     "tags": [
       "usa-tests",
       "american-government",
-      "easy",
-      "geography",
-      "civics",
-      "capitals"
+      "easy"
     ],
     "active": true
   },
@@ -2476,22 +2167,19 @@
     "category": "USA Tests",
     "subcategory": "Rights & Symbols",
     "difficulty": "medium",
-    "question": "[Rights & Symbols #104] What is the official state capital of Georgia?",
+    "question": "US Civics and Government: How many voting members currently comprise the United States House of Representatives? (Ref #104)",
     "options": [
-      "Atlanta",
-      "Savannah",
-      "Augusta",
-      "Macon"
+      "100 members",
+      "538 members",
+      "500 members",
+      "435 voting members"
     ],
-    "correctAnswer": 0,
-    "explanation": "Atlanta has been Georgia’s official capital since 1868.",
+    "correctAnswer": 3,
+    "explanation": "The Permanent Apportionment Act of 1929 fixed the total number of voting US House Representatives at 435.",
     "tags": [
       "usa-tests",
       "rights-symbols",
-      "medium",
-      "geography",
-      "civics",
-      "capitals"
+      "medium"
     ],
     "active": true
   },
@@ -2500,22 +2188,19 @@
     "category": "USA Tests",
     "subcategory": "US Civics",
     "difficulty": "hard",
-    "question": "[US Civics #105] What is the official state capital of California?",
+    "question": "US Civics and Government: What is the standard constitutional term length in years for a United States President? (Ref #105)",
     "options": [
-      "Los Angeles",
-      "Sacramento",
-      "San Francisco",
-      "San Diego"
+      "4 years per term",
+      "2 years",
+      "6 years",
+      "8 years"
     ],
-    "correctAnswer": 1,
-    "explanation": "Sacramento became the capital of California in 1854.",
+    "correctAnswer": 0,
+    "explanation": "Article II of the US Constitution establishes a presidential term length of 4 years, limited to two terms by the 22nd Amendment.",
     "tags": [
       "usa-tests",
       "us-civics",
-      "hard",
-      "geography",
-      "civics",
-      "capitals"
+      "hard"
     ],
     "active": true
   },
@@ -2524,22 +2209,19 @@
     "category": "USA Tests",
     "subcategory": "US Constitution",
     "difficulty": "easy",
-    "question": "[US Constitution #106] What is the official state capital of Texas?",
+    "question": "US Civics and Government: What are the three constitutional branches of the United States federal government? (Ref #106)",
     "options": [
-      "Houston",
-      "Dallas",
-      "Austin",
-      "San Antonio"
+      "Federal, State, and Municipal",
+      "Legislative, Executive, and Judicial",
+      "Military, Commercial, and Diplomatic",
+      "Presidential, Congressional, and Gubernatorial"
     ],
-    "correctAnswer": 2,
-    "explanation": "Austin has been the capital city of Texas since 1839.",
+    "correctAnswer": 1,
+    "explanation": "The US Constitution establishes three co-equal branches with checks and balances: Legislative (Congress), Executive (President), and Judicial (Supreme Court).",
     "tags": [
       "usa-tests",
       "us-constitution",
-      "easy",
-      "geography",
-      "civics",
-      "capitals"
+      "easy"
     ],
     "active": true
   },
@@ -2548,22 +2230,19 @@
     "category": "USA Tests",
     "subcategory": "American Government",
     "difficulty": "medium",
-    "question": "[American Government #107] What is the official state capital of New York?",
+    "question": "US Civics and Government: How many voting United States Senators serve in the US Senate? (Ref #107)",
     "options": [
-      "New York City",
-      "Buffalo",
-      "Rochester",
-      "Albany"
+      "435 Senators",
+      "50 Senators",
+      "100 Senators (exactly 2 from each of the 50 states)",
+      "200 Senators"
     ],
-    "correctAnswer": 3,
-    "explanation": "Albany was designated the capital of New York in 1797.",
+    "correctAnswer": 2,
+    "explanation": "Under Article I of the Constitution, each state is represented by exactly 2 senators, totaling 100.",
     "tags": [
       "usa-tests",
       "american-government",
-      "medium",
-      "geography",
-      "civics",
-      "capitals"
+      "medium"
     ],
     "active": true
   },
@@ -2572,22 +2251,19 @@
     "category": "USA Tests",
     "subcategory": "Rights & Symbols",
     "difficulty": "hard",
-    "question": "[Rights & Symbols #108] What is the official state capital of Florida?",
+    "question": "US Civics and Government: What collective name is given to the first ten amendments added to the United States Constitution? (Ref #108)",
     "options": [
-      "Tallahassee",
-      "Miami",
-      "Orlando",
-      "Tampa"
+      "The Articles of Confederation",
+      "The Federalist Papers",
+      "The Magna Carta",
+      "The Bill of Rights"
     ],
-    "correctAnswer": 0,
-    "explanation": "Tallahassee was chosen as Florida’s capital in 1824.",
+    "correctAnswer": 3,
+    "explanation": "Ratified in 1791, the first ten amendments comprise the Bill of Rights, safeguarding fundamental civil liberties.",
     "tags": [
       "usa-tests",
       "rights-symbols",
-      "hard",
-      "geography",
-      "civics",
-      "capitals"
+      "hard"
     ],
     "active": true
   },
@@ -2596,22 +2272,19 @@
     "category": "USA Tests",
     "subcategory": "US Civics",
     "difficulty": "easy",
-    "question": "[US Civics #109] What is the official state capital of Washington State?",
+    "question": "US Civics and Government: How many voting members currently comprise the United States House of Representatives? (Ref #109)",
     "options": [
-      "Seattle",
-      "Olympia",
-      "Spokane",
-      "Tacoma"
+      "435 voting members",
+      "100 members",
+      "538 members",
+      "500 members"
     ],
-    "correctAnswer": 1,
-    "explanation": "Olympia is situated at the southern tip of Puget Sound.",
+    "correctAnswer": 0,
+    "explanation": "The Permanent Apportionment Act of 1929 fixed the total number of voting US House Representatives at 435.",
     "tags": [
       "usa-tests",
       "us-civics",
-      "easy",
-      "geography",
-      "civics",
-      "capitals"
+      "easy"
     ],
     "active": true
   },
@@ -2620,22 +2293,19 @@
     "category": "USA Tests",
     "subcategory": "US Constitution",
     "difficulty": "medium",
-    "question": "[US Constitution #110] What is the official state capital of Illinois?",
+    "question": "US Civics and Government: What is the standard constitutional term length in years for a United States President? (Ref #110)",
     "options": [
-      "Chicago",
-      "Peoria",
-      "Springfield",
-      "Rockford"
+      "2 years",
+      "4 years per term",
+      "6 years",
+      "8 years"
     ],
-    "correctAnswer": 2,
-    "explanation": "Springfield was the hometown of Abraham Lincoln.",
+    "correctAnswer": 1,
+    "explanation": "Article II of the US Constitution establishes a presidential term length of 4 years, limited to two terms by the 22nd Amendment.",
     "tags": [
       "usa-tests",
       "us-constitution",
-      "medium",
-      "geography",
-      "civics",
-      "capitals"
+      "medium"
     ],
     "active": true
   },
@@ -2644,22 +2314,19 @@
     "category": "USA Tests",
     "subcategory": "American Government",
     "difficulty": "hard",
-    "question": "[American Government #111] What is the official state capital of Pennsylvania?",
+    "question": "US Civics and Government: What are the three constitutional branches of the United States federal government? (Ref #111)",
     "options": [
-      "Philadelphia",
-      "Pittsburgh",
-      "Allentown",
-      "Harrisburg"
+      "Federal, State, and Municipal",
+      "Military, Commercial, and Diplomatic",
+      "Legislative, Executive, and Judicial",
+      "Presidential, Congressional, and Gubernatorial"
     ],
-    "correctAnswer": 3,
-    "explanation": "Harrisburg was named the state capital in 1812.",
+    "correctAnswer": 2,
+    "explanation": "The US Constitution establishes three co-equal branches with checks and balances: Legislative (Congress), Executive (President), and Judicial (Supreme Court).",
     "tags": [
       "usa-tests",
       "american-government",
-      "hard",
-      "geography",
-      "civics",
-      "capitals"
+      "hard"
     ],
     "active": true
   },
@@ -2668,22 +2335,19 @@
     "category": "USA Tests",
     "subcategory": "Rights & Symbols",
     "difficulty": "easy",
-    "question": "[Rights & Symbols #112] What is the official state capital of Georgia?",
+    "question": "US Civics and Government: How many voting United States Senators serve in the US Senate? (Ref #112)",
     "options": [
-      "Atlanta",
-      "Savannah",
-      "Augusta",
-      "Macon"
+      "435 Senators",
+      "50 Senators",
+      "200 Senators",
+      "100 Senators (exactly 2 from each of the 50 states)"
     ],
-    "correctAnswer": 0,
-    "explanation": "Atlanta has been Georgia’s official capital since 1868.",
+    "correctAnswer": 3,
+    "explanation": "Under Article I of the Constitution, each state is represented by exactly 2 senators, totaling 100.",
     "tags": [
       "usa-tests",
       "rights-symbols",
-      "easy",
-      "geography",
-      "civics",
-      "capitals"
+      "easy"
     ],
     "active": true
   },
@@ -2692,22 +2356,19 @@
     "category": "USA Tests",
     "subcategory": "US Civics",
     "difficulty": "medium",
-    "question": "[US Civics #113] What is the official state capital of California?",
+    "question": "US Civics and Government: What collective name is given to the first ten amendments added to the United States Constitution? (Ref #113)",
     "options": [
-      "Los Angeles",
-      "Sacramento",
-      "San Francisco",
-      "San Diego"
+      "The Bill of Rights",
+      "The Articles of Confederation",
+      "The Federalist Papers",
+      "The Magna Carta"
     ],
-    "correctAnswer": 1,
-    "explanation": "Sacramento became the capital of California in 1854.",
+    "correctAnswer": 0,
+    "explanation": "Ratified in 1791, the first ten amendments comprise the Bill of Rights, safeguarding fundamental civil liberties.",
     "tags": [
       "usa-tests",
       "us-civics",
-      "medium",
-      "geography",
-      "civics",
-      "capitals"
+      "medium"
     ],
     "active": true
   },
@@ -2716,22 +2377,19 @@
     "category": "USA Tests",
     "subcategory": "US Constitution",
     "difficulty": "hard",
-    "question": "[US Constitution #114] What is the official state capital of Texas?",
+    "question": "US Civics and Government: How many voting members currently comprise the United States House of Representatives? (Ref #114)",
     "options": [
-      "Houston",
-      "Dallas",
-      "Austin",
-      "San Antonio"
+      "100 members",
+      "435 voting members",
+      "538 members",
+      "500 members"
     ],
-    "correctAnswer": 2,
-    "explanation": "Austin has been the capital city of Texas since 1839.",
+    "correctAnswer": 1,
+    "explanation": "The Permanent Apportionment Act of 1929 fixed the total number of voting US House Representatives at 435.",
     "tags": [
       "usa-tests",
       "us-constitution",
-      "hard",
-      "geography",
-      "civics",
-      "capitals"
+      "hard"
     ],
     "active": true
   },
@@ -2740,22 +2398,19 @@
     "category": "USA Tests",
     "subcategory": "American Government",
     "difficulty": "easy",
-    "question": "[American Government #115] What is the official state capital of New York?",
+    "question": "US Civics and Government: What is the standard constitutional term length in years for a United States President? (Ref #115)",
     "options": [
-      "New York City",
-      "Buffalo",
-      "Rochester",
-      "Albany"
+      "2 years",
+      "6 years",
+      "4 years per term",
+      "8 years"
     ],
-    "correctAnswer": 3,
-    "explanation": "Albany was designated the capital of New York in 1797.",
+    "correctAnswer": 2,
+    "explanation": "Article II of the US Constitution establishes a presidential term length of 4 years, limited to two terms by the 22nd Amendment.",
     "tags": [
       "usa-tests",
       "american-government",
-      "easy",
-      "geography",
-      "civics",
-      "capitals"
+      "easy"
     ],
     "active": true
   },
@@ -2764,22 +2419,19 @@
     "category": "USA Tests",
     "subcategory": "Rights & Symbols",
     "difficulty": "medium",
-    "question": "[Rights & Symbols #116] What is the official state capital of Florida?",
+    "question": "US Civics and Government: What are the three constitutional branches of the United States federal government? (Ref #116)",
     "options": [
-      "Tallahassee",
-      "Miami",
-      "Orlando",
-      "Tampa"
+      "Federal, State, and Municipal",
+      "Military, Commercial, and Diplomatic",
+      "Presidential, Congressional, and Gubernatorial",
+      "Legislative, Executive, and Judicial"
     ],
-    "correctAnswer": 0,
-    "explanation": "Tallahassee was chosen as Florida’s capital in 1824.",
+    "correctAnswer": 3,
+    "explanation": "The US Constitution establishes three co-equal branches with checks and balances: Legislative (Congress), Executive (President), and Judicial (Supreme Court).",
     "tags": [
       "usa-tests",
       "rights-symbols",
-      "medium",
-      "geography",
-      "civics",
-      "capitals"
+      "medium"
     ],
     "active": true
   },
@@ -2788,22 +2440,19 @@
     "category": "USA Tests",
     "subcategory": "US Civics",
     "difficulty": "hard",
-    "question": "[US Civics #117] What is the official state capital of Washington State?",
+    "question": "US Civics and Government: How many voting United States Senators serve in the US Senate? (Ref #117)",
     "options": [
-      "Seattle",
-      "Olympia",
-      "Spokane",
-      "Tacoma"
+      "100 Senators (exactly 2 from each of the 50 states)",
+      "435 Senators",
+      "50 Senators",
+      "200 Senators"
     ],
-    "correctAnswer": 1,
-    "explanation": "Olympia is situated at the southern tip of Puget Sound.",
+    "correctAnswer": 0,
+    "explanation": "Under Article I of the Constitution, each state is represented by exactly 2 senators, totaling 100.",
     "tags": [
       "usa-tests",
       "us-civics",
-      "hard",
-      "geography",
-      "civics",
-      "capitals"
+      "hard"
     ],
     "active": true
   },
@@ -2812,22 +2461,19 @@
     "category": "USA Tests",
     "subcategory": "US Constitution",
     "difficulty": "easy",
-    "question": "[US Constitution #118] What is the official state capital of Illinois?",
+    "question": "US Civics and Government: What collective name is given to the first ten amendments added to the United States Constitution? (Ref #118)",
     "options": [
-      "Chicago",
-      "Peoria",
-      "Springfield",
-      "Rockford"
+      "The Articles of Confederation",
+      "The Bill of Rights",
+      "The Federalist Papers",
+      "The Magna Carta"
     ],
-    "correctAnswer": 2,
-    "explanation": "Springfield was the hometown of Abraham Lincoln.",
+    "correctAnswer": 1,
+    "explanation": "Ratified in 1791, the first ten amendments comprise the Bill of Rights, safeguarding fundamental civil liberties.",
     "tags": [
       "usa-tests",
       "us-constitution",
-      "easy",
-      "geography",
-      "civics",
-      "capitals"
+      "easy"
     ],
     "active": true
   },
@@ -2836,22 +2482,19 @@
     "category": "USA Tests",
     "subcategory": "American Government",
     "difficulty": "medium",
-    "question": "[American Government #119] What is the official state capital of Pennsylvania?",
+    "question": "US Civics and Government: How many voting members currently comprise the United States House of Representatives? (Ref #119)",
     "options": [
-      "Philadelphia",
-      "Pittsburgh",
-      "Allentown",
-      "Harrisburg"
+      "100 members",
+      "538 members",
+      "435 voting members",
+      "500 members"
     ],
-    "correctAnswer": 3,
-    "explanation": "Harrisburg was named the state capital in 1812.",
+    "correctAnswer": 2,
+    "explanation": "The Permanent Apportionment Act of 1929 fixed the total number of voting US House Representatives at 435.",
     "tags": [
       "usa-tests",
       "american-government",
-      "medium",
-      "geography",
-      "civics",
-      "capitals"
+      "medium"
     ],
     "active": true
   },
@@ -2860,22 +2503,19 @@
     "category": "USA Tests",
     "subcategory": "Rights & Symbols",
     "difficulty": "hard",
-    "question": "[Rights & Symbols #120] What is the official state capital of Georgia?",
+    "question": "US Civics and Government: What is the standard constitutional term length in years for a United States President? (Ref #120)",
     "options": [
-      "Atlanta",
-      "Savannah",
-      "Augusta",
-      "Macon"
+      "2 years",
+      "6 years",
+      "8 years",
+      "4 years per term"
     ],
-    "correctAnswer": 0,
-    "explanation": "Atlanta has been Georgia’s official capital since 1868.",
+    "correctAnswer": 3,
+    "explanation": "Article II of the US Constitution establishes a presidential term length of 4 years, limited to two terms by the 22nd Amendment.",
     "tags": [
       "usa-tests",
       "rights-symbols",
-      "hard",
-      "geography",
-      "civics",
-      "capitals"
+      "hard"
     ],
     "active": true
   },
@@ -2884,22 +2524,19 @@
     "category": "USA Tests",
     "subcategory": "US Civics",
     "difficulty": "easy",
-    "question": "[US Civics #121] What is the official state capital of California?",
+    "question": "US Civics and Government: What are the three constitutional branches of the United States federal government? (Ref #121)",
     "options": [
-      "Los Angeles",
-      "Sacramento",
-      "San Francisco",
-      "San Diego"
+      "Legislative, Executive, and Judicial",
+      "Federal, State, and Municipal",
+      "Military, Commercial, and Diplomatic",
+      "Presidential, Congressional, and Gubernatorial"
     ],
-    "correctAnswer": 1,
-    "explanation": "Sacramento became the capital of California in 1854.",
+    "correctAnswer": 0,
+    "explanation": "The US Constitution establishes three co-equal branches with checks and balances: Legislative (Congress), Executive (President), and Judicial (Supreme Court).",
     "tags": [
       "usa-tests",
       "us-civics",
-      "easy",
-      "geography",
-      "civics",
-      "capitals"
+      "easy"
     ],
     "active": true
   },
@@ -2908,22 +2545,19 @@
     "category": "USA Tests",
     "subcategory": "US Constitution",
     "difficulty": "medium",
-    "question": "[US Constitution #122] What is the official state capital of Texas?",
+    "question": "US Civics and Government: How many voting United States Senators serve in the US Senate? (Ref #122)",
     "options": [
-      "Houston",
-      "Dallas",
-      "Austin",
-      "San Antonio"
+      "435 Senators",
+      "100 Senators (exactly 2 from each of the 50 states)",
+      "50 Senators",
+      "200 Senators"
     ],
-    "correctAnswer": 2,
-    "explanation": "Austin has been the capital city of Texas since 1839.",
+    "correctAnswer": 1,
+    "explanation": "Under Article I of the Constitution, each state is represented by exactly 2 senators, totaling 100.",
     "tags": [
       "usa-tests",
       "us-constitution",
-      "medium",
-      "geography",
-      "civics",
-      "capitals"
+      "medium"
     ],
     "active": true
   },
@@ -2932,22 +2566,19 @@
     "category": "USA Tests",
     "subcategory": "American Government",
     "difficulty": "hard",
-    "question": "[American Government #123] What is the official state capital of New York?",
+    "question": "US Civics and Government: What collective name is given to the first ten amendments added to the United States Constitution? (Ref #123)",
     "options": [
-      "New York City",
-      "Buffalo",
-      "Rochester",
-      "Albany"
+      "The Articles of Confederation",
+      "The Federalist Papers",
+      "The Bill of Rights",
+      "The Magna Carta"
     ],
-    "correctAnswer": 3,
-    "explanation": "Albany was designated the capital of New York in 1797.",
+    "correctAnswer": 2,
+    "explanation": "Ratified in 1791, the first ten amendments comprise the Bill of Rights, safeguarding fundamental civil liberties.",
     "tags": [
       "usa-tests",
       "american-government",
-      "hard",
-      "geography",
-      "civics",
-      "capitals"
+      "hard"
     ],
     "active": true
   },
@@ -2956,22 +2587,19 @@
     "category": "USA Tests",
     "subcategory": "Rights & Symbols",
     "difficulty": "easy",
-    "question": "[Rights & Symbols #124] What is the official state capital of Florida?",
+    "question": "US Civics and Government: How many voting members currently comprise the United States House of Representatives? (Ref #124)",
     "options": [
-      "Tallahassee",
-      "Miami",
-      "Orlando",
-      "Tampa"
+      "100 members",
+      "538 members",
+      "500 members",
+      "435 voting members"
     ],
-    "correctAnswer": 0,
-    "explanation": "Tallahassee was chosen as Florida’s capital in 1824.",
+    "correctAnswer": 3,
+    "explanation": "The Permanent Apportionment Act of 1929 fixed the total number of voting US House Representatives at 435.",
     "tags": [
       "usa-tests",
       "rights-symbols",
-      "easy",
-      "geography",
-      "civics",
-      "capitals"
+      "easy"
     ],
     "active": true
   },
@@ -2980,22 +2608,19 @@
     "category": "USA Tests",
     "subcategory": "US Civics",
     "difficulty": "medium",
-    "question": "[US Civics #125] What is the official state capital of Washington State?",
+    "question": "US Civics and Government: What is the standard constitutional term length in years for a United States President? (Ref #125)",
     "options": [
-      "Seattle",
-      "Olympia",
-      "Spokane",
-      "Tacoma"
+      "4 years per term",
+      "2 years",
+      "6 years",
+      "8 years"
     ],
-    "correctAnswer": 1,
-    "explanation": "Olympia is situated at the southern tip of Puget Sound.",
+    "correctAnswer": 0,
+    "explanation": "Article II of the US Constitution establishes a presidential term length of 4 years, limited to two terms by the 22nd Amendment.",
     "tags": [
       "usa-tests",
       "us-civics",
-      "medium",
-      "geography",
-      "civics",
-      "capitals"
+      "medium"
     ],
     "active": true
   },
@@ -3004,22 +2629,19 @@
     "category": "USA Tests",
     "subcategory": "US Constitution",
     "difficulty": "hard",
-    "question": "[US Constitution #126] What is the official state capital of Illinois?",
+    "question": "US Civics and Government: What are the three constitutional branches of the United States federal government? (Ref #126)",
     "options": [
-      "Chicago",
-      "Peoria",
-      "Springfield",
-      "Rockford"
+      "Federal, State, and Municipal",
+      "Legislative, Executive, and Judicial",
+      "Military, Commercial, and Diplomatic",
+      "Presidential, Congressional, and Gubernatorial"
     ],
-    "correctAnswer": 2,
-    "explanation": "Springfield was the hometown of Abraham Lincoln.",
+    "correctAnswer": 1,
+    "explanation": "The US Constitution establishes three co-equal branches with checks and balances: Legislative (Congress), Executive (President), and Judicial (Supreme Court).",
     "tags": [
       "usa-tests",
       "us-constitution",
-      "hard",
-      "geography",
-      "civics",
-      "capitals"
+      "hard"
     ],
     "active": true
   },
@@ -3028,22 +2650,19 @@
     "category": "USA Tests",
     "subcategory": "American Government",
     "difficulty": "easy",
-    "question": "[American Government #127] What is the official state capital of Pennsylvania?",
+    "question": "US Civics and Government: How many voting United States Senators serve in the US Senate? (Ref #127)",
     "options": [
-      "Philadelphia",
-      "Pittsburgh",
-      "Allentown",
-      "Harrisburg"
+      "435 Senators",
+      "50 Senators",
+      "100 Senators (exactly 2 from each of the 50 states)",
+      "200 Senators"
     ],
-    "correctAnswer": 3,
-    "explanation": "Harrisburg was named the state capital in 1812.",
+    "correctAnswer": 2,
+    "explanation": "Under Article I of the Constitution, each state is represented by exactly 2 senators, totaling 100.",
     "tags": [
       "usa-tests",
       "american-government",
-      "easy",
-      "geography",
-      "civics",
-      "capitals"
+      "easy"
     ],
     "active": true
   },
@@ -3052,22 +2671,19 @@
     "category": "USA Tests",
     "subcategory": "Rights & Symbols",
     "difficulty": "medium",
-    "question": "[Rights & Symbols #128] What is the official state capital of Georgia?",
+    "question": "US Civics and Government: What collective name is given to the first ten amendments added to the United States Constitution? (Ref #128)",
     "options": [
-      "Atlanta",
-      "Savannah",
-      "Augusta",
-      "Macon"
+      "The Articles of Confederation",
+      "The Federalist Papers",
+      "The Magna Carta",
+      "The Bill of Rights"
     ],
-    "correctAnswer": 0,
-    "explanation": "Atlanta has been Georgia’s official capital since 1868.",
+    "correctAnswer": 3,
+    "explanation": "Ratified in 1791, the first ten amendments comprise the Bill of Rights, safeguarding fundamental civil liberties.",
     "tags": [
       "usa-tests",
       "rights-symbols",
-      "medium",
-      "geography",
-      "civics",
-      "capitals"
+      "medium"
     ],
     "active": true
   },
@@ -3076,22 +2692,19 @@
     "category": "USA Tests",
     "subcategory": "US Civics",
     "difficulty": "hard",
-    "question": "[US Civics #129] What is the official state capital of California?",
+    "question": "US Civics and Government: How many voting members currently comprise the United States House of Representatives? (Ref #129)",
     "options": [
-      "Los Angeles",
-      "Sacramento",
-      "San Francisco",
-      "San Diego"
+      "435 voting members",
+      "100 members",
+      "538 members",
+      "500 members"
     ],
-    "correctAnswer": 1,
-    "explanation": "Sacramento became the capital of California in 1854.",
+    "correctAnswer": 0,
+    "explanation": "The Permanent Apportionment Act of 1929 fixed the total number of voting US House Representatives at 435.",
     "tags": [
       "usa-tests",
       "us-civics",
-      "hard",
-      "geography",
-      "civics",
-      "capitals"
+      "hard"
     ],
     "active": true
   },
@@ -3100,22 +2713,19 @@
     "category": "USA Tests",
     "subcategory": "US Constitution",
     "difficulty": "easy",
-    "question": "[US Constitution #130] What is the official state capital of Texas?",
+    "question": "US Civics and Government: What is the standard constitutional term length in years for a United States President? (Ref #130)",
     "options": [
-      "Houston",
-      "Dallas",
-      "Austin",
-      "San Antonio"
+      "2 years",
+      "4 years per term",
+      "6 years",
+      "8 years"
     ],
-    "correctAnswer": 2,
-    "explanation": "Austin has been the capital city of Texas since 1839.",
+    "correctAnswer": 1,
+    "explanation": "Article II of the US Constitution establishes a presidential term length of 4 years, limited to two terms by the 22nd Amendment.",
     "tags": [
       "usa-tests",
       "us-constitution",
-      "easy",
-      "geography",
-      "civics",
-      "capitals"
+      "easy"
     ],
     "active": true
   },
@@ -3124,22 +2734,19 @@
     "category": "USA Tests",
     "subcategory": "American Government",
     "difficulty": "medium",
-    "question": "[American Government #131] What is the official state capital of New York?",
+    "question": "US Civics and Government: What are the three constitutional branches of the United States federal government? (Ref #131)",
     "options": [
-      "New York City",
-      "Buffalo",
-      "Rochester",
-      "Albany"
+      "Federal, State, and Municipal",
+      "Military, Commercial, and Diplomatic",
+      "Legislative, Executive, and Judicial",
+      "Presidential, Congressional, and Gubernatorial"
     ],
-    "correctAnswer": 3,
-    "explanation": "Albany was designated the capital of New York in 1797.",
+    "correctAnswer": 2,
+    "explanation": "The US Constitution establishes three co-equal branches with checks and balances: Legislative (Congress), Executive (President), and Judicial (Supreme Court).",
     "tags": [
       "usa-tests",
       "american-government",
-      "medium",
-      "geography",
-      "civics",
-      "capitals"
+      "medium"
     ],
     "active": true
   },
@@ -3148,22 +2755,19 @@
     "category": "USA Tests",
     "subcategory": "Rights & Symbols",
     "difficulty": "hard",
-    "question": "[Rights & Symbols #132] What is the official state capital of Florida?",
+    "question": "US Civics and Government: How many voting United States Senators serve in the US Senate? (Ref #132)",
     "options": [
-      "Tallahassee",
-      "Miami",
-      "Orlando",
-      "Tampa"
+      "435 Senators",
+      "50 Senators",
+      "200 Senators",
+      "100 Senators (exactly 2 from each of the 50 states)"
     ],
-    "correctAnswer": 0,
-    "explanation": "Tallahassee was chosen as Florida’s capital in 1824.",
+    "correctAnswer": 3,
+    "explanation": "Under Article I of the Constitution, each state is represented by exactly 2 senators, totaling 100.",
     "tags": [
       "usa-tests",
       "rights-symbols",
-      "hard",
-      "geography",
-      "civics",
-      "capitals"
+      "hard"
     ],
     "active": true
   },
@@ -3172,22 +2776,19 @@
     "category": "USA Tests",
     "subcategory": "US Civics",
     "difficulty": "easy",
-    "question": "[US Civics #133] What is the official state capital of Washington State?",
+    "question": "US Civics and Government: What collective name is given to the first ten amendments added to the United States Constitution? (Ref #133)",
     "options": [
-      "Seattle",
-      "Olympia",
-      "Spokane",
-      "Tacoma"
+      "The Bill of Rights",
+      "The Articles of Confederation",
+      "The Federalist Papers",
+      "The Magna Carta"
     ],
-    "correctAnswer": 1,
-    "explanation": "Olympia is situated at the southern tip of Puget Sound.",
+    "correctAnswer": 0,
+    "explanation": "Ratified in 1791, the first ten amendments comprise the Bill of Rights, safeguarding fundamental civil liberties.",
     "tags": [
       "usa-tests",
       "us-civics",
-      "easy",
-      "geography",
-      "civics",
-      "capitals"
+      "easy"
     ],
     "active": true
   },
@@ -3196,22 +2797,19 @@
     "category": "USA Tests",
     "subcategory": "US Constitution",
     "difficulty": "medium",
-    "question": "[US Constitution #134] What is the official state capital of Illinois?",
+    "question": "US Civics and Government: How many voting members currently comprise the United States House of Representatives? (Ref #134)",
     "options": [
-      "Chicago",
-      "Peoria",
-      "Springfield",
-      "Rockford"
+      "100 members",
+      "435 voting members",
+      "538 members",
+      "500 members"
     ],
-    "correctAnswer": 2,
-    "explanation": "Springfield was the hometown of Abraham Lincoln.",
+    "correctAnswer": 1,
+    "explanation": "The Permanent Apportionment Act of 1929 fixed the total number of voting US House Representatives at 435.",
     "tags": [
       "usa-tests",
       "us-constitution",
-      "medium",
-      "geography",
-      "civics",
-      "capitals"
+      "medium"
     ],
     "active": true
   },
@@ -3220,22 +2818,19 @@
     "category": "USA Tests",
     "subcategory": "American Government",
     "difficulty": "hard",
-    "question": "[American Government #135] What is the official state capital of Pennsylvania?",
+    "question": "US Civics and Government: What is the standard constitutional term length in years for a United States President? (Ref #135)",
     "options": [
-      "Philadelphia",
-      "Pittsburgh",
-      "Allentown",
-      "Harrisburg"
+      "2 years",
+      "6 years",
+      "4 years per term",
+      "8 years"
     ],
-    "correctAnswer": 3,
-    "explanation": "Harrisburg was named the state capital in 1812.",
+    "correctAnswer": 2,
+    "explanation": "Article II of the US Constitution establishes a presidential term length of 4 years, limited to two terms by the 22nd Amendment.",
     "tags": [
       "usa-tests",
       "american-government",
-      "hard",
-      "geography",
-      "civics",
-      "capitals"
+      "hard"
     ],
     "active": true
   },
@@ -3244,22 +2839,19 @@
     "category": "USA Tests",
     "subcategory": "Rights & Symbols",
     "difficulty": "easy",
-    "question": "[Rights & Symbols #136] What is the official state capital of Georgia?",
+    "question": "US Civics and Government: What are the three constitutional branches of the United States federal government? (Ref #136)",
     "options": [
-      "Atlanta",
-      "Savannah",
-      "Augusta",
-      "Macon"
+      "Federal, State, and Municipal",
+      "Military, Commercial, and Diplomatic",
+      "Presidential, Congressional, and Gubernatorial",
+      "Legislative, Executive, and Judicial"
     ],
-    "correctAnswer": 0,
-    "explanation": "Atlanta has been Georgia’s official capital since 1868.",
+    "correctAnswer": 3,
+    "explanation": "The US Constitution establishes three co-equal branches with checks and balances: Legislative (Congress), Executive (President), and Judicial (Supreme Court).",
     "tags": [
       "usa-tests",
       "rights-symbols",
-      "easy",
-      "geography",
-      "civics",
-      "capitals"
+      "easy"
     ],
     "active": true
   },
@@ -3268,22 +2860,19 @@
     "category": "USA Tests",
     "subcategory": "US Civics",
     "difficulty": "medium",
-    "question": "[US Civics #137] What is the official state capital of California?",
+    "question": "US Civics and Government: How many voting United States Senators serve in the US Senate? (Ref #137)",
     "options": [
-      "Los Angeles",
-      "Sacramento",
-      "San Francisco",
-      "San Diego"
+      "100 Senators (exactly 2 from each of the 50 states)",
+      "435 Senators",
+      "50 Senators",
+      "200 Senators"
     ],
-    "correctAnswer": 1,
-    "explanation": "Sacramento became the capital of California in 1854.",
+    "correctAnswer": 0,
+    "explanation": "Under Article I of the Constitution, each state is represented by exactly 2 senators, totaling 100.",
     "tags": [
       "usa-tests",
       "us-civics",
-      "medium",
-      "geography",
-      "civics",
-      "capitals"
+      "medium"
     ],
     "active": true
   },
@@ -3292,22 +2881,19 @@
     "category": "USA Tests",
     "subcategory": "US Constitution",
     "difficulty": "hard",
-    "question": "[US Constitution #138] What is the official state capital of Texas?",
+    "question": "US Civics and Government: What collective name is given to the first ten amendments added to the United States Constitution? (Ref #138)",
     "options": [
-      "Houston",
-      "Dallas",
-      "Austin",
-      "San Antonio"
+      "The Articles of Confederation",
+      "The Bill of Rights",
+      "The Federalist Papers",
+      "The Magna Carta"
     ],
-    "correctAnswer": 2,
-    "explanation": "Austin has been the capital city of Texas since 1839.",
+    "correctAnswer": 1,
+    "explanation": "Ratified in 1791, the first ten amendments comprise the Bill of Rights, safeguarding fundamental civil liberties.",
     "tags": [
       "usa-tests",
       "us-constitution",
-      "hard",
-      "geography",
-      "civics",
-      "capitals"
+      "hard"
     ],
     "active": true
   },
@@ -3316,22 +2902,19 @@
     "category": "USA Tests",
     "subcategory": "American Government",
     "difficulty": "easy",
-    "question": "[American Government #139] What is the official state capital of New York?",
+    "question": "US Civics and Government: How many voting members currently comprise the United States House of Representatives? (Ref #139)",
     "options": [
-      "New York City",
-      "Buffalo",
-      "Rochester",
-      "Albany"
+      "100 members",
+      "538 members",
+      "435 voting members",
+      "500 members"
     ],
-    "correctAnswer": 3,
-    "explanation": "Albany was designated the capital of New York in 1797.",
+    "correctAnswer": 2,
+    "explanation": "The Permanent Apportionment Act of 1929 fixed the total number of voting US House Representatives at 435.",
     "tags": [
       "usa-tests",
       "american-government",
-      "easy",
-      "geography",
-      "civics",
-      "capitals"
+      "easy"
     ],
     "active": true
   },
@@ -3340,22 +2923,19 @@
     "category": "USA Tests",
     "subcategory": "Rights & Symbols",
     "difficulty": "medium",
-    "question": "[Rights & Symbols #140] What is the official state capital of Florida?",
+    "question": "US Civics and Government: What is the standard constitutional term length in years for a United States President? (Ref #140)",
     "options": [
-      "Tallahassee",
-      "Miami",
-      "Orlando",
-      "Tampa"
+      "2 years",
+      "6 years",
+      "8 years",
+      "4 years per term"
     ],
-    "correctAnswer": 0,
-    "explanation": "Tallahassee was chosen as Florida’s capital in 1824.",
+    "correctAnswer": 3,
+    "explanation": "Article II of the US Constitution establishes a presidential term length of 4 years, limited to two terms by the 22nd Amendment.",
     "tags": [
       "usa-tests",
       "rights-symbols",
-      "medium",
-      "geography",
-      "civics",
-      "capitals"
+      "medium"
     ],
     "active": true
   },
@@ -3364,22 +2944,19 @@
     "category": "USA Tests",
     "subcategory": "US Civics",
     "difficulty": "hard",
-    "question": "[US Civics #141] What is the official state capital of Washington State?",
+    "question": "US Civics and Government: What are the three constitutional branches of the United States federal government? (Ref #141)",
     "options": [
-      "Seattle",
-      "Olympia",
-      "Spokane",
-      "Tacoma"
+      "Legislative, Executive, and Judicial",
+      "Federal, State, and Municipal",
+      "Military, Commercial, and Diplomatic",
+      "Presidential, Congressional, and Gubernatorial"
     ],
-    "correctAnswer": 1,
-    "explanation": "Olympia is situated at the southern tip of Puget Sound.",
+    "correctAnswer": 0,
+    "explanation": "The US Constitution establishes three co-equal branches with checks and balances: Legislative (Congress), Executive (President), and Judicial (Supreme Court).",
     "tags": [
       "usa-tests",
       "us-civics",
-      "hard",
-      "geography",
-      "civics",
-      "capitals"
+      "hard"
     ],
     "active": true
   },
@@ -3388,22 +2965,19 @@
     "category": "USA Tests",
     "subcategory": "US Constitution",
     "difficulty": "easy",
-    "question": "[US Constitution #142] What is the official state capital of Illinois?",
+    "question": "US Civics and Government: How many voting United States Senators serve in the US Senate? (Ref #142)",
     "options": [
-      "Chicago",
-      "Peoria",
-      "Springfield",
-      "Rockford"
+      "435 Senators",
+      "100 Senators (exactly 2 from each of the 50 states)",
+      "50 Senators",
+      "200 Senators"
     ],
-    "correctAnswer": 2,
-    "explanation": "Springfield was the hometown of Abraham Lincoln.",
+    "correctAnswer": 1,
+    "explanation": "Under Article I of the Constitution, each state is represented by exactly 2 senators, totaling 100.",
     "tags": [
       "usa-tests",
       "us-constitution",
-      "easy",
-      "geography",
-      "civics",
-      "capitals"
+      "easy"
     ],
     "active": true
   },
@@ -3412,22 +2986,19 @@
     "category": "USA Tests",
     "subcategory": "American Government",
     "difficulty": "medium",
-    "question": "[American Government #143] What is the official state capital of Pennsylvania?",
+    "question": "US Civics and Government: What collective name is given to the first ten amendments added to the United States Constitution? (Ref #143)",
     "options": [
-      "Philadelphia",
-      "Pittsburgh",
-      "Allentown",
-      "Harrisburg"
+      "The Articles of Confederation",
+      "The Federalist Papers",
+      "The Bill of Rights",
+      "The Magna Carta"
     ],
-    "correctAnswer": 3,
-    "explanation": "Harrisburg was named the state capital in 1812.",
+    "correctAnswer": 2,
+    "explanation": "Ratified in 1791, the first ten amendments comprise the Bill of Rights, safeguarding fundamental civil liberties.",
     "tags": [
       "usa-tests",
       "american-government",
-      "medium",
-      "geography",
-      "civics",
-      "capitals"
+      "medium"
     ],
     "active": true
   },
@@ -3436,22 +3007,19 @@
     "category": "USA Tests",
     "subcategory": "Rights & Symbols",
     "difficulty": "hard",
-    "question": "[Rights & Symbols #144] What is the official state capital of Georgia?",
+    "question": "US Civics and Government: How many voting members currently comprise the United States House of Representatives? (Ref #144)",
     "options": [
-      "Atlanta",
-      "Savannah",
-      "Augusta",
-      "Macon"
+      "100 members",
+      "538 members",
+      "500 members",
+      "435 voting members"
     ],
-    "correctAnswer": 0,
-    "explanation": "Atlanta has been Georgia’s official capital since 1868.",
+    "correctAnswer": 3,
+    "explanation": "The Permanent Apportionment Act of 1929 fixed the total number of voting US House Representatives at 435.",
     "tags": [
       "usa-tests",
       "rights-symbols",
-      "hard",
-      "geography",
-      "civics",
-      "capitals"
+      "hard"
     ],
     "active": true
   },
@@ -3460,22 +3028,19 @@
     "category": "USA Tests",
     "subcategory": "US Civics",
     "difficulty": "easy",
-    "question": "[US Civics #145] What is the official state capital of California?",
+    "question": "US Civics and Government: What is the standard constitutional term length in years for a United States President? (Ref #145)",
     "options": [
-      "Los Angeles",
-      "Sacramento",
-      "San Francisco",
-      "San Diego"
+      "4 years per term",
+      "2 years",
+      "6 years",
+      "8 years"
     ],
-    "correctAnswer": 1,
-    "explanation": "Sacramento became the capital of California in 1854.",
+    "correctAnswer": 0,
+    "explanation": "Article II of the US Constitution establishes a presidential term length of 4 years, limited to two terms by the 22nd Amendment.",
     "tags": [
       "usa-tests",
       "us-civics",
-      "easy",
-      "geography",
-      "civics",
-      "capitals"
+      "easy"
     ],
     "active": true
   },
@@ -3484,22 +3049,19 @@
     "category": "USA Tests",
     "subcategory": "US Constitution",
     "difficulty": "medium",
-    "question": "[US Constitution #146] What is the official state capital of Texas?",
+    "question": "US Civics and Government: What are the three constitutional branches of the United States federal government? (Ref #146)",
     "options": [
-      "Houston",
-      "Dallas",
-      "Austin",
-      "San Antonio"
+      "Federal, State, and Municipal",
+      "Legislative, Executive, and Judicial",
+      "Military, Commercial, and Diplomatic",
+      "Presidential, Congressional, and Gubernatorial"
     ],
-    "correctAnswer": 2,
-    "explanation": "Austin has been the capital city of Texas since 1839.",
+    "correctAnswer": 1,
+    "explanation": "The US Constitution establishes three co-equal branches with checks and balances: Legislative (Congress), Executive (President), and Judicial (Supreme Court).",
     "tags": [
       "usa-tests",
       "us-constitution",
-      "medium",
-      "geography",
-      "civics",
-      "capitals"
+      "medium"
     ],
     "active": true
   },
@@ -3508,22 +3070,19 @@
     "category": "USA Tests",
     "subcategory": "American Government",
     "difficulty": "hard",
-    "question": "[American Government #147] What is the official state capital of New York?",
+    "question": "US Civics and Government: How many voting United States Senators serve in the US Senate? (Ref #147)",
     "options": [
-      "New York City",
-      "Buffalo",
-      "Rochester",
-      "Albany"
+      "435 Senators",
+      "50 Senators",
+      "100 Senators (exactly 2 from each of the 50 states)",
+      "200 Senators"
     ],
-    "correctAnswer": 3,
-    "explanation": "Albany was designated the capital of New York in 1797.",
+    "correctAnswer": 2,
+    "explanation": "Under Article I of the Constitution, each state is represented by exactly 2 senators, totaling 100.",
     "tags": [
       "usa-tests",
       "american-government",
-      "hard",
-      "geography",
-      "civics",
-      "capitals"
+      "hard"
     ],
     "active": true
   },
@@ -3532,22 +3091,19 @@
     "category": "USA Tests",
     "subcategory": "Rights & Symbols",
     "difficulty": "easy",
-    "question": "[Rights & Symbols #148] What is the official state capital of Florida?",
+    "question": "US Civics and Government: What collective name is given to the first ten amendments added to the United States Constitution? (Ref #148)",
     "options": [
-      "Tallahassee",
-      "Miami",
-      "Orlando",
-      "Tampa"
+      "The Articles of Confederation",
+      "The Federalist Papers",
+      "The Magna Carta",
+      "The Bill of Rights"
     ],
-    "correctAnswer": 0,
-    "explanation": "Tallahassee was chosen as Florida’s capital in 1824.",
+    "correctAnswer": 3,
+    "explanation": "Ratified in 1791, the first ten amendments comprise the Bill of Rights, safeguarding fundamental civil liberties.",
     "tags": [
       "usa-tests",
       "rights-symbols",
-      "easy",
-      "geography",
-      "civics",
-      "capitals"
+      "easy"
     ],
     "active": true
   },
@@ -3556,22 +3112,19 @@
     "category": "USA Tests",
     "subcategory": "US Civics",
     "difficulty": "medium",
-    "question": "[US Civics #149] What is the official state capital of Washington State?",
+    "question": "US Civics and Government: How many voting members currently comprise the United States House of Representatives? (Ref #149)",
     "options": [
-      "Seattle",
-      "Olympia",
-      "Spokane",
-      "Tacoma"
+      "435 voting members",
+      "100 members",
+      "538 members",
+      "500 members"
     ],
-    "correctAnswer": 1,
-    "explanation": "Olympia is situated at the southern tip of Puget Sound.",
+    "correctAnswer": 0,
+    "explanation": "The Permanent Apportionment Act of 1929 fixed the total number of voting US House Representatives at 435.",
     "tags": [
       "usa-tests",
       "us-civics",
-      "medium",
-      "geography",
-      "civics",
-      "capitals"
+      "medium"
     ],
     "active": true
   },
@@ -3580,22 +3133,19 @@
     "category": "USA Tests",
     "subcategory": "US Constitution",
     "difficulty": "hard",
-    "question": "[US Constitution #150] What is the official state capital of Illinois?",
+    "question": "US Civics and Government: What is the standard constitutional term length in years for a United States President? (Ref #150)",
     "options": [
-      "Chicago",
-      "Peoria",
-      "Springfield",
-      "Rockford"
+      "2 years",
+      "4 years per term",
+      "6 years",
+      "8 years"
     ],
-    "correctAnswer": 2,
-    "explanation": "Springfield was the hometown of Abraham Lincoln.",
+    "correctAnswer": 1,
+    "explanation": "Article II of the US Constitution establishes a presidential term length of 4 years, limited to two terms by the 22nd Amendment.",
     "tags": [
       "usa-tests",
       "us-constitution",
-      "hard",
-      "geography",
-      "civics",
-      "capitals"
+      "hard"
     ],
     "active": true
   },
@@ -3604,22 +3154,19 @@
     "category": "USA Tests",
     "subcategory": "American Government",
     "difficulty": "easy",
-    "question": "[American Government #151] What is the official state capital of Pennsylvania?",
+    "question": "US Civics and Government: What are the three constitutional branches of the United States federal government? (Ref #151)",
     "options": [
-      "Philadelphia",
-      "Pittsburgh",
-      "Allentown",
-      "Harrisburg"
+      "Federal, State, and Municipal",
+      "Military, Commercial, and Diplomatic",
+      "Legislative, Executive, and Judicial",
+      "Presidential, Congressional, and Gubernatorial"
     ],
-    "correctAnswer": 3,
-    "explanation": "Harrisburg was named the state capital in 1812.",
+    "correctAnswer": 2,
+    "explanation": "The US Constitution establishes three co-equal branches with checks and balances: Legislative (Congress), Executive (President), and Judicial (Supreme Court).",
     "tags": [
       "usa-tests",
       "american-government",
-      "easy",
-      "geography",
-      "civics",
-      "capitals"
+      "easy"
     ],
     "active": true
   },
@@ -3628,22 +3175,19 @@
     "category": "USA Tests",
     "subcategory": "Rights & Symbols",
     "difficulty": "medium",
-    "question": "[Rights & Symbols #152] What is the official state capital of Georgia?",
+    "question": "US Civics and Government: How many voting United States Senators serve in the US Senate? (Ref #152)",
     "options": [
-      "Atlanta",
-      "Savannah",
-      "Augusta",
-      "Macon"
+      "435 Senators",
+      "50 Senators",
+      "200 Senators",
+      "100 Senators (exactly 2 from each of the 50 states)"
     ],
-    "correctAnswer": 0,
-    "explanation": "Atlanta has been Georgia’s official capital since 1868.",
+    "correctAnswer": 3,
+    "explanation": "Under Article I of the Constitution, each state is represented by exactly 2 senators, totaling 100.",
     "tags": [
       "usa-tests",
       "rights-symbols",
-      "medium",
-      "geography",
-      "civics",
-      "capitals"
+      "medium"
     ],
     "active": true
   },
@@ -3652,22 +3196,19 @@
     "category": "USA Tests",
     "subcategory": "US Civics",
     "difficulty": "hard",
-    "question": "[US Civics #153] What is the official state capital of California?",
+    "question": "US Civics and Government: What collective name is given to the first ten amendments added to the United States Constitution? (Ref #153)",
     "options": [
-      "Los Angeles",
-      "Sacramento",
-      "San Francisco",
-      "San Diego"
+      "The Bill of Rights",
+      "The Articles of Confederation",
+      "The Federalist Papers",
+      "The Magna Carta"
     ],
-    "correctAnswer": 1,
-    "explanation": "Sacramento became the capital of California in 1854.",
+    "correctAnswer": 0,
+    "explanation": "Ratified in 1791, the first ten amendments comprise the Bill of Rights, safeguarding fundamental civil liberties.",
     "tags": [
       "usa-tests",
       "us-civics",
-      "hard",
-      "geography",
-      "civics",
-      "capitals"
+      "hard"
     ],
     "active": true
   },
@@ -3676,22 +3217,19 @@
     "category": "USA Tests",
     "subcategory": "US Constitution",
     "difficulty": "easy",
-    "question": "[US Constitution #154] What is the official state capital of Texas?",
+    "question": "US Civics and Government: How many voting members currently comprise the United States House of Representatives? (Ref #154)",
     "options": [
-      "Houston",
-      "Dallas",
-      "Austin",
-      "San Antonio"
+      "100 members",
+      "435 voting members",
+      "538 members",
+      "500 members"
     ],
-    "correctAnswer": 2,
-    "explanation": "Austin has been the capital city of Texas since 1839.",
+    "correctAnswer": 1,
+    "explanation": "The Permanent Apportionment Act of 1929 fixed the total number of voting US House Representatives at 435.",
     "tags": [
       "usa-tests",
       "us-constitution",
-      "easy",
-      "geography",
-      "civics",
-      "capitals"
+      "easy"
     ],
     "active": true
   },
@@ -3700,22 +3238,19 @@
     "category": "USA Tests",
     "subcategory": "American Government",
     "difficulty": "medium",
-    "question": "[American Government #155] What is the official state capital of New York?",
+    "question": "US Civics and Government: What is the standard constitutional term length in years for a United States President? (Ref #155)",
     "options": [
-      "New York City",
-      "Buffalo",
-      "Rochester",
-      "Albany"
+      "2 years",
+      "6 years",
+      "4 years per term",
+      "8 years"
     ],
-    "correctAnswer": 3,
-    "explanation": "Albany was designated the capital of New York in 1797.",
+    "correctAnswer": 2,
+    "explanation": "Article II of the US Constitution establishes a presidential term length of 4 years, limited to two terms by the 22nd Amendment.",
     "tags": [
       "usa-tests",
       "american-government",
-      "medium",
-      "geography",
-      "civics",
-      "capitals"
+      "medium"
     ],
     "active": true
   },
@@ -3724,22 +3259,19 @@
     "category": "USA Tests",
     "subcategory": "Rights & Symbols",
     "difficulty": "hard",
-    "question": "[Rights & Symbols #156] What is the official state capital of Florida?",
+    "question": "US Civics and Government: What are the three constitutional branches of the United States federal government? (Ref #156)",
     "options": [
-      "Tallahassee",
-      "Miami",
-      "Orlando",
-      "Tampa"
+      "Federal, State, and Municipal",
+      "Military, Commercial, and Diplomatic",
+      "Presidential, Congressional, and Gubernatorial",
+      "Legislative, Executive, and Judicial"
     ],
-    "correctAnswer": 0,
-    "explanation": "Tallahassee was chosen as Florida’s capital in 1824.",
+    "correctAnswer": 3,
+    "explanation": "The US Constitution establishes three co-equal branches with checks and balances: Legislative (Congress), Executive (President), and Judicial (Supreme Court).",
     "tags": [
       "usa-tests",
       "rights-symbols",
-      "hard",
-      "geography",
-      "civics",
-      "capitals"
+      "hard"
     ],
     "active": true
   },
@@ -3748,22 +3280,19 @@
     "category": "USA Tests",
     "subcategory": "US Civics",
     "difficulty": "easy",
-    "question": "[US Civics #157] What is the official state capital of Washington State?",
+    "question": "US Civics and Government: How many voting United States Senators serve in the US Senate? (Ref #157)",
     "options": [
-      "Seattle",
-      "Olympia",
-      "Spokane",
-      "Tacoma"
+      "100 Senators (exactly 2 from each of the 50 states)",
+      "435 Senators",
+      "50 Senators",
+      "200 Senators"
     ],
-    "correctAnswer": 1,
-    "explanation": "Olympia is situated at the southern tip of Puget Sound.",
+    "correctAnswer": 0,
+    "explanation": "Under Article I of the Constitution, each state is represented by exactly 2 senators, totaling 100.",
     "tags": [
       "usa-tests",
       "us-civics",
-      "easy",
-      "geography",
-      "civics",
-      "capitals"
+      "easy"
     ],
     "active": true
   },
@@ -3772,22 +3301,19 @@
     "category": "USA Tests",
     "subcategory": "US Constitution",
     "difficulty": "medium",
-    "question": "[US Constitution #158] What is the official state capital of Illinois?",
+    "question": "US Civics and Government: What collective name is given to the first ten amendments added to the United States Constitution? (Ref #158)",
     "options": [
-      "Chicago",
-      "Peoria",
-      "Springfield",
-      "Rockford"
+      "The Articles of Confederation",
+      "The Bill of Rights",
+      "The Federalist Papers",
+      "The Magna Carta"
     ],
-    "correctAnswer": 2,
-    "explanation": "Springfield was the hometown of Abraham Lincoln.",
+    "correctAnswer": 1,
+    "explanation": "Ratified in 1791, the first ten amendments comprise the Bill of Rights, safeguarding fundamental civil liberties.",
     "tags": [
       "usa-tests",
       "us-constitution",
-      "medium",
-      "geography",
-      "civics",
-      "capitals"
+      "medium"
     ],
     "active": true
   },
@@ -3796,22 +3322,19 @@
     "category": "USA Tests",
     "subcategory": "American Government",
     "difficulty": "hard",
-    "question": "[American Government #159] What is the official state capital of Pennsylvania?",
+    "question": "US Civics and Government: How many voting members currently comprise the United States House of Representatives? (Ref #159)",
     "options": [
-      "Philadelphia",
-      "Pittsburgh",
-      "Allentown",
-      "Harrisburg"
+      "100 members",
+      "538 members",
+      "435 voting members",
+      "500 members"
     ],
-    "correctAnswer": 3,
-    "explanation": "Harrisburg was named the state capital in 1812.",
+    "correctAnswer": 2,
+    "explanation": "The Permanent Apportionment Act of 1929 fixed the total number of voting US House Representatives at 435.",
     "tags": [
       "usa-tests",
       "american-government",
-      "hard",
-      "geography",
-      "civics",
-      "capitals"
+      "hard"
     ],
     "active": true
   },
@@ -3820,22 +3343,19 @@
     "category": "USA Tests",
     "subcategory": "Rights & Symbols",
     "difficulty": "easy",
-    "question": "[Rights & Symbols #160] What is the official state capital of Georgia?",
+    "question": "US Civics and Government: What is the standard constitutional term length in years for a United States President? (Ref #160)",
     "options": [
-      "Atlanta",
-      "Savannah",
-      "Augusta",
-      "Macon"
+      "2 years",
+      "6 years",
+      "8 years",
+      "4 years per term"
     ],
-    "correctAnswer": 0,
-    "explanation": "Atlanta has been Georgia’s official capital since 1868.",
+    "correctAnswer": 3,
+    "explanation": "Article II of the US Constitution establishes a presidential term length of 4 years, limited to two terms by the 22nd Amendment.",
     "tags": [
       "usa-tests",
       "rights-symbols",
-      "easy",
-      "geography",
-      "civics",
-      "capitals"
+      "easy"
     ],
     "active": true
   }

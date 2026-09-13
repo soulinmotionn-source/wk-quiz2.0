@@ -12,7 +12,15 @@ interface AnswerOptionProps {
   disabled: boolean;
 }
 
+const OPTION_ACCENTS = [
+  { color: '#F43F5E', badgeBg: 'rgba(244, 63, 94, 0.18)', badgeBorder: 'rgba(244, 63, 94, 0.4)' }, // A: Rose
+  { color: '#3B82F6', badgeBg: 'rgba(59, 130, 246, 0.18)', badgeBorder: 'rgba(59, 130, 246, 0.4)' }, // B: Sky Blue
+  { color: '#F59E0B', badgeBg: 'rgba(245, 158, 11, 0.18)', badgeBorder: 'rgba(245, 158, 11, 0.4)' }, // C: Amber
+  { color: '#10B981', badgeBg: 'rgba(16, 185, 129, 0.18)', badgeBorder: 'rgba(16, 185, 129, 0.4)' }  // D: Emerald
+];
+
 export const AnswerOption: React.FC<AnswerOptionProps> = ({
+  index,
   label,
   optionText,
   isSelected,
@@ -21,38 +29,51 @@ export const AnswerOption: React.FC<AnswerOptionProps> = ({
   onSelect,
   disabled
 }) => {
+  const accent = OPTION_ACCENTS[index % OPTION_ACCENTS.length];
+
   // Determine styling based on state
   let bg = 'var(--color-surface)';
   let borderColor = 'var(--color-border)';
   let textColor = 'var(--color-text-primary)';
-  let badgeBg = 'var(--color-bg-alt)';
-  let badgeColor = 'var(--color-text-secondary)';
+  let badgeBg = accent.badgeBg;
+  let badgeColor = accent.color;
+  let badgeBorder = accent.badgeBorder;
+  let boxShadow = 'none';
 
   if (isSubmitted) {
     if (isCorrectAnswer) {
-      bg = 'var(--color-success-light)';
-      borderColor = 'var(--color-success)';
+      bg = 'rgba(16, 185, 129, 0.15)';
+      borderColor = '#10B981';
       textColor = 'var(--color-text-primary)';
-      badgeBg = 'var(--color-success)';
+      badgeBg = '#10B981';
       badgeColor = '#FFFFFF';
+      badgeBorder = '#10B981';
+      boxShadow = '0 0 16px rgba(16, 185, 129, 0.3)';
     } else if (isSelected && !isCorrectAnswer) {
-      bg = 'var(--color-error-light)';
-      borderColor = 'var(--color-error)';
+      bg = 'rgba(239, 68, 68, 0.15)';
+      borderColor = '#EF4444';
       textColor = 'var(--color-text-primary)';
-      badgeBg = 'var(--color-error)';
+      badgeBg = '#EF4444';
       badgeColor = '#FFFFFF';
+      badgeBorder = '#EF4444';
+      boxShadow = '0 0 16px rgba(239, 68, 68, 0.25)';
     } else {
       // Unselected other option
       bg = 'var(--color-surface)';
       borderColor = 'var(--color-border-light)';
       textColor = 'var(--color-text-muted)';
+      badgeBg = 'rgba(255, 255, 255, 0.04)';
+      badgeColor = 'var(--color-text-muted)';
+      badgeBorder = 'var(--color-border)';
     }
   } else if (isSelected) {
-    bg = 'var(--color-primary-light)';
+    bg = 'rgba(255, 107, 53, 0.12)';
     borderColor = 'var(--color-primary)';
-    textColor = 'var(--color-primary)';
+    textColor = 'var(--color-text-primary)';
     badgeBg = 'var(--color-primary)';
     badgeColor = '#FFFFFF';
+    badgeBorder = 'var(--color-primary)';
+    boxShadow = '0 0 14px rgba(255, 107, 53, 0.35)';
   }
 
   return (
@@ -74,9 +95,9 @@ export const AnswerOption: React.FC<AnswerOptionProps> = ({
         gap: 'var(--space-md)',
         textAlign: 'left',
         cursor: disabled ? 'default' : 'pointer',
-        transition: 'all var(--transition-fast)',
+        transition: 'all 0.2s cubic-bezier(0.4, 0, 0.2, 1)',
         userSelect: 'none',
-        boxShadow: isSelected ? 'var(--shadow-sm)' : 'none'
+        boxShadow: boxShadow
       }}
       className={`answer-option-btn ${!isSubmitted ? 'hover-lift' : ''}`}
       aria-pressed={isSelected}
@@ -86,18 +107,20 @@ export const AnswerOption: React.FC<AnswerOptionProps> = ({
         {/* Letter Label Badge */}
         <span
           style={{
-            width: '32px',
-            height: '32px',
-            borderRadius: 'var(--radius-sm)',
+            width: '36px',
+            height: '36px',
+            borderRadius: 'var(--radius-md)',
             backgroundColor: badgeBg,
             color: badgeColor,
-            fontWeight: 700,
-            fontSize: '0.95rem',
+            border: `1.5px solid ${badgeBorder}`,
+            fontWeight: 800,
+            fontSize: '1rem',
             display: 'flex',
             alignItems: 'center',
             justifyContent: 'center',
             flexShrink: 0,
-            transition: 'all var(--transition-fast)'
+            transition: 'all 0.2s cubic-bezier(0.4, 0, 0.2, 1)',
+            boxShadow: isSubmitted && isCorrectAnswer ? '0 0 10px rgba(16, 185, 129, 0.4)' : 'none'
           }}
         >
           {label}

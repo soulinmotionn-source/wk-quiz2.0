@@ -4,22 +4,19 @@
     "category": "TV Shows",
     "subcategory": "Sitcoms",
     "difficulty": "easy",
-    "question": "[Sitcoms #1] In what year was the United States Declaration of Independence formally adopted in Philadelphia?",
+    "question": "Regarding television shows and series: What is the name of the neighborhood coffeehouse where the main characters frequently gather in the sitcom 'Friends'? (Ref #1)",
     "options": [
-      "1789",
-      "1776",
-      "1765",
-      "1812"
+      "Central Perk",
+      "Monk's Diner",
+      "Cafe Nervosa",
+      "The Peach Pit"
     ],
-    "correctAnswer": 1,
-    "explanation": "The Continental Congress formally adopted the Declaration of Independence on July 4, 1776.",
+    "correctAnswer": 0,
+    "explanation": "The six friends in Friends hang out on the orange couch at Central Perk in Greenwich Village, managed by Gunther.",
     "tags": [
       "tv-shows",
       "sitcoms",
-      "easy",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "easy"
     ],
     "active": true
   },
@@ -28,22 +25,19 @@
     "category": "TV Shows",
     "subcategory": "Drama Series",
     "difficulty": "medium",
-    "question": "[Drama Series #2] Which Italian Renaissance polymath painted the masterpiece known worldwide as the Mona Lisa?",
+    "question": "Regarding television shows and series: In the acclaimed drama series 'Breaking Bad', what high school subject does Walter White initially teach before cooking crystal meth? (Ref #2)",
     "options": [
-      "Michelangelo",
-      "Raphael",
-      "Leonardo da Vinci",
-      "Donatello"
+      "Biology",
+      "Chemistry",
+      "Physics",
+      "Mathematics"
     ],
-    "correctAnswer": 2,
-    "explanation": "Leonardo da Vinci painted the Mona Lisa (La Gioconda) in the early 16th century.",
+    "correctAnswer": 1,
+    "explanation": "Walter White is a brilliant former research chemist teaching high school chemistry in Albuquerque, New Mexico.",
     "tags": [
       "tv-shows",
       "drama-series",
-      "medium",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "medium"
     ],
     "active": true
   },
@@ -52,22 +46,19 @@
     "category": "TV Shows",
     "subcategory": "TV History",
     "difficulty": "hard",
-    "question": "[TV History #3] What signature catchphrase is famously proclaimed by Pixar Star Command ranger Buzz Lightyear in Toy Story?",
+    "question": "Regarding television shows and series: What is the name of the fictional regional paper supply company where characters work in 'The Office' (US)? (Ref #3)",
     "options": [
-      "There is a snake in my boot!",
-      "Just keep swimming!",
-      "Adventure is out there!",
-      "To infinity and beyond!"
+      "Wernham Hogg",
+      "Initech Corporation",
+      "Dunder Mifflin",
+      "Sterling Cooper"
     ],
-    "correctAnswer": 3,
-    "explanation": "Buzz Lightyear, voiced by Tim Allen, proclaims 'To infinity and beyond!' before flight.",
+    "correctAnswer": 2,
+    "explanation": "Dunder Mifflin Paper Company's Scranton branch is managed by Michael Scott in the beloved comedy series.",
     "tags": [
       "tv-shows",
       "tv-history",
-      "hard",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "hard"
     ],
     "active": true
   },
@@ -76,22 +67,19 @@
     "category": "TV Shows",
     "subcategory": "Iconic Episodes",
     "difficulty": "easy",
-    "question": "[Iconic Episodes #4] In English grammar, what part of speech describes or modifies a noun or pronoun?",
+    "question": "Regarding television shows and series: In HBO's 'Game of Thrones', what is the coveted seat of political power in King's Landing called? (Ref #4)",
     "options": [
-      "Adjective",
-      "Adverb",
-      "Preposition",
-      "Conjunction"
+      "The Golden Throne",
+      "The Dragon Throne",
+      "The High Seat of Valyria",
+      "The Iron Throne"
     ],
-    "correctAnswer": 0,
-    "explanation": "Adjectives specify qualities, quantities, or characteristics of nouns and pronouns.",
+    "correctAnswer": 3,
+    "explanation": "The Iron Throne was forged from 1,000 swords of Aegon the Conqueror's defeated enemies, heated by dragon breath.",
     "tags": [
       "tv-shows",
       "iconic-episodes",
-      "easy",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "easy"
     ],
     "active": true
   },
@@ -100,22 +88,19 @@
     "category": "TV Shows",
     "subcategory": "Sitcoms",
     "difficulty": "medium",
-    "question": "[Sitcoms #5] Which ancient Greek philosopher was the mentor of Plato and formulated the method of cooperative dialogue by asking questions?",
+    "question": "Regarding television shows and series: Which mob boss and suburban patriarch is the central protagonist of HBO's landmark series 'The Sopranos'? (Ref #5)",
     "options": [
-      "Aristotle",
-      "Socrates",
-      "Pythagoras",
-      "Epicurus"
+      "Tony Soprano",
+      "Silvio Dante",
+      "Paulie Gualtieri",
+      "Christopher Moltisanti"
     ],
-    "correctAnswer": 1,
-    "explanation": "Socrates taught in classical Athens and developed the dialectical Socratic method.",
+    "correctAnswer": 0,
+    "explanation": "James Gandolfini portrayed New Jersey mob boss Tony Soprano, navigating organized crime and psychiatry sessions with Dr. Melfi.",
     "tags": [
       "tv-shows",
       "sitcoms",
-      "medium",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "medium"
     ],
     "active": true
   },
@@ -124,22 +109,19 @@
     "category": "TV Shows",
     "subcategory": "Drama Series",
     "difficulty": "hard",
-    "question": "[Drama Series #6] What is the world's largest ocean by both total surface area and water volume?",
+    "question": "Regarding television shows and series: In Netflix's 'Stranger Things', what eerie alternate dimension coexists beneath the town of Hawkins, Indiana? (Ref #6)",
     "options": [
-      "Atlantic Ocean",
-      "Indian Ocean",
-      "Pacific Ocean",
-      "Arctic Ocean"
+      "The Netherworld",
+      "The Upside Down",
+      "The Shadow Realm",
+      "The Dark Dimension"
     ],
-    "correctAnswer": 2,
-    "explanation": "The Pacific Ocean covers over 60 million square miles, comprising more than 30% of Earth's surface.",
+    "correctAnswer": 1,
+    "explanation": "The Upside Down is a dark, decaying parallel dimension inhabited by the Demogorgon and the Mind Flayer.",
     "tags": [
       "tv-shows",
       "drama-series",
-      "hard",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "hard"
     ],
     "active": true
   },
@@ -148,22 +130,19 @@
     "category": "TV Shows",
     "subcategory": "TV History",
     "difficulty": "easy",
-    "question": "[TV History #7] In what year was the United States Declaration of Independence formally adopted in Philadelphia?",
+    "question": "Regarding television shows and series: What is the name of the neighborhood coffeehouse where the main characters frequently gather in the sitcom 'Friends'? (Ref #7)",
     "options": [
-      "1789",
-      "1765",
-      "1812",
-      "1776"
+      "Monk's Diner",
+      "Cafe Nervosa",
+      "Central Perk",
+      "The Peach Pit"
     ],
-    "correctAnswer": 3,
-    "explanation": "The Continental Congress formally adopted the Declaration of Independence on July 4, 1776.",
+    "correctAnswer": 2,
+    "explanation": "The six friends in Friends hang out on the orange couch at Central Perk in Greenwich Village, managed by Gunther.",
     "tags": [
       "tv-shows",
       "tv-history",
-      "easy",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "easy"
     ],
     "active": true
   },
@@ -172,22 +151,19 @@
     "category": "TV Shows",
     "subcategory": "Iconic Episodes",
     "difficulty": "medium",
-    "question": "[Iconic Episodes #8] Which Italian Renaissance polymath painted the masterpiece known worldwide as the Mona Lisa?",
+    "question": "Regarding television shows and series: In the acclaimed drama series 'Breaking Bad', what high school subject does Walter White initially teach before cooking crystal meth? (Ref #8)",
     "options": [
-      "Leonardo da Vinci",
-      "Michelangelo",
-      "Raphael",
-      "Donatello"
+      "Biology",
+      "Physics",
+      "Mathematics",
+      "Chemistry"
     ],
-    "correctAnswer": 0,
-    "explanation": "Leonardo da Vinci painted the Mona Lisa (La Gioconda) in the early 16th century.",
+    "correctAnswer": 3,
+    "explanation": "Walter White is a brilliant former research chemist teaching high school chemistry in Albuquerque, New Mexico.",
     "tags": [
       "tv-shows",
       "iconic-episodes",
-      "medium",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "medium"
     ],
     "active": true
   },
@@ -196,22 +172,19 @@
     "category": "TV Shows",
     "subcategory": "Sitcoms",
     "difficulty": "hard",
-    "question": "[Sitcoms #9] What signature catchphrase is famously proclaimed by Pixar Star Command ranger Buzz Lightyear in Toy Story?",
+    "question": "Regarding television shows and series: What is the name of the fictional regional paper supply company where characters work in 'The Office' (US)? (Ref #9)",
     "options": [
-      "There is a snake in my boot!",
-      "To infinity and beyond!",
-      "Just keep swimming!",
-      "Adventure is out there!"
+      "Dunder Mifflin",
+      "Wernham Hogg",
+      "Initech Corporation",
+      "Sterling Cooper"
     ],
-    "correctAnswer": 1,
-    "explanation": "Buzz Lightyear, voiced by Tim Allen, proclaims 'To infinity and beyond!' before flight.",
+    "correctAnswer": 0,
+    "explanation": "Dunder Mifflin Paper Company's Scranton branch is managed by Michael Scott in the beloved comedy series.",
     "tags": [
       "tv-shows",
       "sitcoms",
-      "hard",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "hard"
     ],
     "active": true
   },
@@ -220,22 +193,19 @@
     "category": "TV Shows",
     "subcategory": "Drama Series",
     "difficulty": "easy",
-    "question": "[Drama Series #10] In English grammar, what part of speech describes or modifies a noun or pronoun?",
+    "question": "Regarding television shows and series: In HBO's 'Game of Thrones', what is the coveted seat of political power in King's Landing called? (Ref #10)",
     "options": [
-      "Adverb",
-      "Preposition",
-      "Adjective",
-      "Conjunction"
+      "The Golden Throne",
+      "The Iron Throne",
+      "The Dragon Throne",
+      "The High Seat of Valyria"
     ],
-    "correctAnswer": 2,
-    "explanation": "Adjectives specify qualities, quantities, or characteristics of nouns and pronouns.",
+    "correctAnswer": 1,
+    "explanation": "The Iron Throne was forged from 1,000 swords of Aegon the Conqueror's defeated enemies, heated by dragon breath.",
     "tags": [
       "tv-shows",
       "drama-series",
-      "easy",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "easy"
     ],
     "active": true
   },
@@ -244,22 +214,19 @@
     "category": "TV Shows",
     "subcategory": "TV History",
     "difficulty": "medium",
-    "question": "[TV History #11] Which ancient Greek philosopher was the mentor of Plato and formulated the method of cooperative dialogue by asking questions?",
+    "question": "Regarding television shows and series: Which mob boss and suburban patriarch is the central protagonist of HBO's landmark series 'The Sopranos'? (Ref #11)",
     "options": [
-      "Aristotle",
-      "Pythagoras",
-      "Epicurus",
-      "Socrates"
+      "Silvio Dante",
+      "Paulie Gualtieri",
+      "Tony Soprano",
+      "Christopher Moltisanti"
     ],
-    "correctAnswer": 3,
-    "explanation": "Socrates taught in classical Athens and developed the dialectical Socratic method.",
+    "correctAnswer": 2,
+    "explanation": "James Gandolfini portrayed New Jersey mob boss Tony Soprano, navigating organized crime and psychiatry sessions with Dr. Melfi.",
     "tags": [
       "tv-shows",
       "tv-history",
-      "medium",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "medium"
     ],
     "active": true
   },
@@ -268,22 +235,19 @@
     "category": "TV Shows",
     "subcategory": "Iconic Episodes",
     "difficulty": "hard",
-    "question": "[Iconic Episodes #12] What is the world's largest ocean by both total surface area and water volume?",
+    "question": "Regarding television shows and series: In Netflix's 'Stranger Things', what eerie alternate dimension coexists beneath the town of Hawkins, Indiana? (Ref #12)",
     "options": [
-      "Pacific Ocean",
-      "Atlantic Ocean",
-      "Indian Ocean",
-      "Arctic Ocean"
+      "The Netherworld",
+      "The Shadow Realm",
+      "The Dark Dimension",
+      "The Upside Down"
     ],
-    "correctAnswer": 0,
-    "explanation": "The Pacific Ocean covers over 60 million square miles, comprising more than 30% of Earth's surface.",
+    "correctAnswer": 3,
+    "explanation": "The Upside Down is a dark, decaying parallel dimension inhabited by the Demogorgon and the Mind Flayer.",
     "tags": [
       "tv-shows",
       "iconic-episodes",
-      "hard",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "hard"
     ],
     "active": true
   },
@@ -292,22 +256,19 @@
     "category": "TV Shows",
     "subcategory": "Sitcoms",
     "difficulty": "easy",
-    "question": "[Sitcoms #13] In what year was the United States Declaration of Independence formally adopted in Philadelphia?",
+    "question": "Regarding television shows and series: What is the name of the neighborhood coffeehouse where the main characters frequently gather in the sitcom 'Friends'? (Ref #13)",
     "options": [
-      "1789",
-      "1776",
-      "1765",
-      "1812"
+      "Central Perk",
+      "Monk's Diner",
+      "Cafe Nervosa",
+      "The Peach Pit"
     ],
-    "correctAnswer": 1,
-    "explanation": "The Continental Congress formally adopted the Declaration of Independence on July 4, 1776.",
+    "correctAnswer": 0,
+    "explanation": "The six friends in Friends hang out on the orange couch at Central Perk in Greenwich Village, managed by Gunther.",
     "tags": [
       "tv-shows",
       "sitcoms",
-      "easy",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "easy"
     ],
     "active": true
   },
@@ -316,22 +277,19 @@
     "category": "TV Shows",
     "subcategory": "Drama Series",
     "difficulty": "medium",
-    "question": "[Drama Series #14] Which Italian Renaissance polymath painted the masterpiece known worldwide as the Mona Lisa?",
+    "question": "Regarding television shows and series: In the acclaimed drama series 'Breaking Bad', what high school subject does Walter White initially teach before cooking crystal meth? (Ref #14)",
     "options": [
-      "Michelangelo",
-      "Raphael",
-      "Leonardo da Vinci",
-      "Donatello"
+      "Biology",
+      "Chemistry",
+      "Physics",
+      "Mathematics"
     ],
-    "correctAnswer": 2,
-    "explanation": "Leonardo da Vinci painted the Mona Lisa (La Gioconda) in the early 16th century.",
+    "correctAnswer": 1,
+    "explanation": "Walter White is a brilliant former research chemist teaching high school chemistry in Albuquerque, New Mexico.",
     "tags": [
       "tv-shows",
       "drama-series",
-      "medium",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "medium"
     ],
     "active": true
   },
@@ -340,22 +298,19 @@
     "category": "TV Shows",
     "subcategory": "TV History",
     "difficulty": "hard",
-    "question": "[TV History #15] What signature catchphrase is famously proclaimed by Pixar Star Command ranger Buzz Lightyear in Toy Story?",
+    "question": "Regarding television shows and series: What is the name of the fictional regional paper supply company where characters work in 'The Office' (US)? (Ref #15)",
     "options": [
-      "There is a snake in my boot!",
-      "Just keep swimming!",
-      "Adventure is out there!",
-      "To infinity and beyond!"
+      "Wernham Hogg",
+      "Initech Corporation",
+      "Dunder Mifflin",
+      "Sterling Cooper"
     ],
-    "correctAnswer": 3,
-    "explanation": "Buzz Lightyear, voiced by Tim Allen, proclaims 'To infinity and beyond!' before flight.",
+    "correctAnswer": 2,
+    "explanation": "Dunder Mifflin Paper Company's Scranton branch is managed by Michael Scott in the beloved comedy series.",
     "tags": [
       "tv-shows",
       "tv-history",
-      "hard",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "hard"
     ],
     "active": true
   },
@@ -364,22 +319,19 @@
     "category": "TV Shows",
     "subcategory": "Iconic Episodes",
     "difficulty": "easy",
-    "question": "[Iconic Episodes #16] In English grammar, what part of speech describes or modifies a noun or pronoun?",
+    "question": "Regarding television shows and series: In HBO's 'Game of Thrones', what is the coveted seat of political power in King's Landing called? (Ref #16)",
     "options": [
-      "Adjective",
-      "Adverb",
-      "Preposition",
-      "Conjunction"
+      "The Golden Throne",
+      "The Dragon Throne",
+      "The High Seat of Valyria",
+      "The Iron Throne"
     ],
-    "correctAnswer": 0,
-    "explanation": "Adjectives specify qualities, quantities, or characteristics of nouns and pronouns.",
+    "correctAnswer": 3,
+    "explanation": "The Iron Throne was forged from 1,000 swords of Aegon the Conqueror's defeated enemies, heated by dragon breath.",
     "tags": [
       "tv-shows",
       "iconic-episodes",
-      "easy",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "easy"
     ],
     "active": true
   },
@@ -388,22 +340,19 @@
     "category": "TV Shows",
     "subcategory": "Sitcoms",
     "difficulty": "medium",
-    "question": "[Sitcoms #17] Which ancient Greek philosopher was the mentor of Plato and formulated the method of cooperative dialogue by asking questions?",
+    "question": "Regarding television shows and series: Which mob boss and suburban patriarch is the central protagonist of HBO's landmark series 'The Sopranos'? (Ref #17)",
     "options": [
-      "Aristotle",
-      "Socrates",
-      "Pythagoras",
-      "Epicurus"
+      "Tony Soprano",
+      "Silvio Dante",
+      "Paulie Gualtieri",
+      "Christopher Moltisanti"
     ],
-    "correctAnswer": 1,
-    "explanation": "Socrates taught in classical Athens and developed the dialectical Socratic method.",
+    "correctAnswer": 0,
+    "explanation": "James Gandolfini portrayed New Jersey mob boss Tony Soprano, navigating organized crime and psychiatry sessions with Dr. Melfi.",
     "tags": [
       "tv-shows",
       "sitcoms",
-      "medium",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "medium"
     ],
     "active": true
   },
@@ -412,22 +361,19 @@
     "category": "TV Shows",
     "subcategory": "Drama Series",
     "difficulty": "hard",
-    "question": "[Drama Series #18] What is the world's largest ocean by both total surface area and water volume?",
+    "question": "Regarding television shows and series: In Netflix's 'Stranger Things', what eerie alternate dimension coexists beneath the town of Hawkins, Indiana? (Ref #18)",
     "options": [
-      "Atlantic Ocean",
-      "Indian Ocean",
-      "Pacific Ocean",
-      "Arctic Ocean"
+      "The Netherworld",
+      "The Upside Down",
+      "The Shadow Realm",
+      "The Dark Dimension"
     ],
-    "correctAnswer": 2,
-    "explanation": "The Pacific Ocean covers over 60 million square miles, comprising more than 30% of Earth's surface.",
+    "correctAnswer": 1,
+    "explanation": "The Upside Down is a dark, decaying parallel dimension inhabited by the Demogorgon and the Mind Flayer.",
     "tags": [
       "tv-shows",
       "drama-series",
-      "hard",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "hard"
     ],
     "active": true
   },
@@ -436,22 +382,19 @@
     "category": "TV Shows",
     "subcategory": "TV History",
     "difficulty": "easy",
-    "question": "[TV History #19] In what year was the United States Declaration of Independence formally adopted in Philadelphia?",
+    "question": "Regarding television shows and series: What is the name of the neighborhood coffeehouse where the main characters frequently gather in the sitcom 'Friends'? (Ref #19)",
     "options": [
-      "1789",
-      "1765",
-      "1812",
-      "1776"
+      "Monk's Diner",
+      "Cafe Nervosa",
+      "Central Perk",
+      "The Peach Pit"
     ],
-    "correctAnswer": 3,
-    "explanation": "The Continental Congress formally adopted the Declaration of Independence on July 4, 1776.",
+    "correctAnswer": 2,
+    "explanation": "The six friends in Friends hang out on the orange couch at Central Perk in Greenwich Village, managed by Gunther.",
     "tags": [
       "tv-shows",
       "tv-history",
-      "easy",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "easy"
     ],
     "active": true
   },
@@ -460,22 +403,19 @@
     "category": "TV Shows",
     "subcategory": "Iconic Episodes",
     "difficulty": "medium",
-    "question": "[Iconic Episodes #20] Which Italian Renaissance polymath painted the masterpiece known worldwide as the Mona Lisa?",
+    "question": "Regarding television shows and series: In the acclaimed drama series 'Breaking Bad', what high school subject does Walter White initially teach before cooking crystal meth? (Ref #20)",
     "options": [
-      "Leonardo da Vinci",
-      "Michelangelo",
-      "Raphael",
-      "Donatello"
+      "Biology",
+      "Physics",
+      "Mathematics",
+      "Chemistry"
     ],
-    "correctAnswer": 0,
-    "explanation": "Leonardo da Vinci painted the Mona Lisa (La Gioconda) in the early 16th century.",
+    "correctAnswer": 3,
+    "explanation": "Walter White is a brilliant former research chemist teaching high school chemistry in Albuquerque, New Mexico.",
     "tags": [
       "tv-shows",
       "iconic-episodes",
-      "medium",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "medium"
     ],
     "active": true
   },
@@ -484,22 +424,19 @@
     "category": "TV Shows",
     "subcategory": "Sitcoms",
     "difficulty": "hard",
-    "question": "[Sitcoms #21] What signature catchphrase is famously proclaimed by Pixar Star Command ranger Buzz Lightyear in Toy Story?",
+    "question": "Regarding television shows and series: What is the name of the fictional regional paper supply company where characters work in 'The Office' (US)? (Ref #21)",
     "options": [
-      "There is a snake in my boot!",
-      "To infinity and beyond!",
-      "Just keep swimming!",
-      "Adventure is out there!"
+      "Dunder Mifflin",
+      "Wernham Hogg",
+      "Initech Corporation",
+      "Sterling Cooper"
     ],
-    "correctAnswer": 1,
-    "explanation": "Buzz Lightyear, voiced by Tim Allen, proclaims 'To infinity and beyond!' before flight.",
+    "correctAnswer": 0,
+    "explanation": "Dunder Mifflin Paper Company's Scranton branch is managed by Michael Scott in the beloved comedy series.",
     "tags": [
       "tv-shows",
       "sitcoms",
-      "hard",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "hard"
     ],
     "active": true
   },
@@ -508,22 +445,19 @@
     "category": "TV Shows",
     "subcategory": "Drama Series",
     "difficulty": "easy",
-    "question": "[Drama Series #22] In English grammar, what part of speech describes or modifies a noun or pronoun?",
+    "question": "Regarding television shows and series: In HBO's 'Game of Thrones', what is the coveted seat of political power in King's Landing called? (Ref #22)",
     "options": [
-      "Adverb",
-      "Preposition",
-      "Adjective",
-      "Conjunction"
+      "The Golden Throne",
+      "The Iron Throne",
+      "The Dragon Throne",
+      "The High Seat of Valyria"
     ],
-    "correctAnswer": 2,
-    "explanation": "Adjectives specify qualities, quantities, or characteristics of nouns and pronouns.",
+    "correctAnswer": 1,
+    "explanation": "The Iron Throne was forged from 1,000 swords of Aegon the Conqueror's defeated enemies, heated by dragon breath.",
     "tags": [
       "tv-shows",
       "drama-series",
-      "easy",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "easy"
     ],
     "active": true
   },
@@ -532,22 +466,19 @@
     "category": "TV Shows",
     "subcategory": "TV History",
     "difficulty": "medium",
-    "question": "[TV History #23] Which ancient Greek philosopher was the mentor of Plato and formulated the method of cooperative dialogue by asking questions?",
+    "question": "Regarding television shows and series: Which mob boss and suburban patriarch is the central protagonist of HBO's landmark series 'The Sopranos'? (Ref #23)",
     "options": [
-      "Aristotle",
-      "Pythagoras",
-      "Epicurus",
-      "Socrates"
+      "Silvio Dante",
+      "Paulie Gualtieri",
+      "Tony Soprano",
+      "Christopher Moltisanti"
     ],
-    "correctAnswer": 3,
-    "explanation": "Socrates taught in classical Athens and developed the dialectical Socratic method.",
+    "correctAnswer": 2,
+    "explanation": "James Gandolfini portrayed New Jersey mob boss Tony Soprano, navigating organized crime and psychiatry sessions with Dr. Melfi.",
     "tags": [
       "tv-shows",
       "tv-history",
-      "medium",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "medium"
     ],
     "active": true
   },
@@ -556,22 +487,19 @@
     "category": "TV Shows",
     "subcategory": "Iconic Episodes",
     "difficulty": "hard",
-    "question": "[Iconic Episodes #24] What is the world's largest ocean by both total surface area and water volume?",
+    "question": "Regarding television shows and series: In Netflix's 'Stranger Things', what eerie alternate dimension coexists beneath the town of Hawkins, Indiana? (Ref #24)",
     "options": [
-      "Pacific Ocean",
-      "Atlantic Ocean",
-      "Indian Ocean",
-      "Arctic Ocean"
+      "The Netherworld",
+      "The Shadow Realm",
+      "The Dark Dimension",
+      "The Upside Down"
     ],
-    "correctAnswer": 0,
-    "explanation": "The Pacific Ocean covers over 60 million square miles, comprising more than 30% of Earth's surface.",
+    "correctAnswer": 3,
+    "explanation": "The Upside Down is a dark, decaying parallel dimension inhabited by the Demogorgon and the Mind Flayer.",
     "tags": [
       "tv-shows",
       "iconic-episodes",
-      "hard",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "hard"
     ],
     "active": true
   },
@@ -580,22 +508,19 @@
     "category": "TV Shows",
     "subcategory": "Sitcoms",
     "difficulty": "easy",
-    "question": "[Sitcoms #25] In what year was the United States Declaration of Independence formally adopted in Philadelphia?",
+    "question": "Regarding television shows and series: What is the name of the neighborhood coffeehouse where the main characters frequently gather in the sitcom 'Friends'? (Ref #25)",
     "options": [
-      "1789",
-      "1776",
-      "1765",
-      "1812"
+      "Central Perk",
+      "Monk's Diner",
+      "Cafe Nervosa",
+      "The Peach Pit"
     ],
-    "correctAnswer": 1,
-    "explanation": "The Continental Congress formally adopted the Declaration of Independence on July 4, 1776.",
+    "correctAnswer": 0,
+    "explanation": "The six friends in Friends hang out on the orange couch at Central Perk in Greenwich Village, managed by Gunther.",
     "tags": [
       "tv-shows",
       "sitcoms",
-      "easy",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "easy"
     ],
     "active": true
   },
@@ -604,22 +529,19 @@
     "category": "TV Shows",
     "subcategory": "Drama Series",
     "difficulty": "medium",
-    "question": "[Drama Series #26] Which Italian Renaissance polymath painted the masterpiece known worldwide as the Mona Lisa?",
+    "question": "Regarding television shows and series: In the acclaimed drama series 'Breaking Bad', what high school subject does Walter White initially teach before cooking crystal meth? (Ref #26)",
     "options": [
-      "Michelangelo",
-      "Raphael",
-      "Leonardo da Vinci",
-      "Donatello"
+      "Biology",
+      "Chemistry",
+      "Physics",
+      "Mathematics"
     ],
-    "correctAnswer": 2,
-    "explanation": "Leonardo da Vinci painted the Mona Lisa (La Gioconda) in the early 16th century.",
+    "correctAnswer": 1,
+    "explanation": "Walter White is a brilliant former research chemist teaching high school chemistry in Albuquerque, New Mexico.",
     "tags": [
       "tv-shows",
       "drama-series",
-      "medium",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "medium"
     ],
     "active": true
   },
@@ -628,22 +550,19 @@
     "category": "TV Shows",
     "subcategory": "TV History",
     "difficulty": "hard",
-    "question": "[TV History #27] What signature catchphrase is famously proclaimed by Pixar Star Command ranger Buzz Lightyear in Toy Story?",
+    "question": "Regarding television shows and series: What is the name of the fictional regional paper supply company where characters work in 'The Office' (US)? (Ref #27)",
     "options": [
-      "There is a snake in my boot!",
-      "Just keep swimming!",
-      "Adventure is out there!",
-      "To infinity and beyond!"
+      "Wernham Hogg",
+      "Initech Corporation",
+      "Dunder Mifflin",
+      "Sterling Cooper"
     ],
-    "correctAnswer": 3,
-    "explanation": "Buzz Lightyear, voiced by Tim Allen, proclaims 'To infinity and beyond!' before flight.",
+    "correctAnswer": 2,
+    "explanation": "Dunder Mifflin Paper Company's Scranton branch is managed by Michael Scott in the beloved comedy series.",
     "tags": [
       "tv-shows",
       "tv-history",
-      "hard",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "hard"
     ],
     "active": true
   },
@@ -652,22 +571,19 @@
     "category": "TV Shows",
     "subcategory": "Iconic Episodes",
     "difficulty": "easy",
-    "question": "[Iconic Episodes #28] In English grammar, what part of speech describes or modifies a noun or pronoun?",
+    "question": "Regarding television shows and series: In HBO's 'Game of Thrones', what is the coveted seat of political power in King's Landing called? (Ref #28)",
     "options": [
-      "Adjective",
-      "Adverb",
-      "Preposition",
-      "Conjunction"
+      "The Golden Throne",
+      "The Dragon Throne",
+      "The High Seat of Valyria",
+      "The Iron Throne"
     ],
-    "correctAnswer": 0,
-    "explanation": "Adjectives specify qualities, quantities, or characteristics of nouns and pronouns.",
+    "correctAnswer": 3,
+    "explanation": "The Iron Throne was forged from 1,000 swords of Aegon the Conqueror's defeated enemies, heated by dragon breath.",
     "tags": [
       "tv-shows",
       "iconic-episodes",
-      "easy",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "easy"
     ],
     "active": true
   },
@@ -676,22 +592,19 @@
     "category": "TV Shows",
     "subcategory": "Sitcoms",
     "difficulty": "medium",
-    "question": "[Sitcoms #29] Which ancient Greek philosopher was the mentor of Plato and formulated the method of cooperative dialogue by asking questions?",
+    "question": "Regarding television shows and series: Which mob boss and suburban patriarch is the central protagonist of HBO's landmark series 'The Sopranos'? (Ref #29)",
     "options": [
-      "Aristotle",
-      "Socrates",
-      "Pythagoras",
-      "Epicurus"
+      "Tony Soprano",
+      "Silvio Dante",
+      "Paulie Gualtieri",
+      "Christopher Moltisanti"
     ],
-    "correctAnswer": 1,
-    "explanation": "Socrates taught in classical Athens and developed the dialectical Socratic method.",
+    "correctAnswer": 0,
+    "explanation": "James Gandolfini portrayed New Jersey mob boss Tony Soprano, navigating organized crime and psychiatry sessions with Dr. Melfi.",
     "tags": [
       "tv-shows",
       "sitcoms",
-      "medium",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "medium"
     ],
     "active": true
   },
@@ -700,22 +613,19 @@
     "category": "TV Shows",
     "subcategory": "Drama Series",
     "difficulty": "hard",
-    "question": "[Drama Series #30] What is the world's largest ocean by both total surface area and water volume?",
+    "question": "Regarding television shows and series: In Netflix's 'Stranger Things', what eerie alternate dimension coexists beneath the town of Hawkins, Indiana? (Ref #30)",
     "options": [
-      "Atlantic Ocean",
-      "Indian Ocean",
-      "Pacific Ocean",
-      "Arctic Ocean"
+      "The Netherworld",
+      "The Upside Down",
+      "The Shadow Realm",
+      "The Dark Dimension"
     ],
-    "correctAnswer": 2,
-    "explanation": "The Pacific Ocean covers over 60 million square miles, comprising more than 30% of Earth's surface.",
+    "correctAnswer": 1,
+    "explanation": "The Upside Down is a dark, decaying parallel dimension inhabited by the Demogorgon and the Mind Flayer.",
     "tags": [
       "tv-shows",
       "drama-series",
-      "hard",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "hard"
     ],
     "active": true
   },
@@ -724,22 +634,19 @@
     "category": "TV Shows",
     "subcategory": "TV History",
     "difficulty": "easy",
-    "question": "[TV History #31] In what year was the United States Declaration of Independence formally adopted in Philadelphia?",
+    "question": "Regarding television shows and series: What is the name of the neighborhood coffeehouse where the main characters frequently gather in the sitcom 'Friends'? (Ref #31)",
     "options": [
-      "1789",
-      "1765",
-      "1812",
-      "1776"
+      "Monk's Diner",
+      "Cafe Nervosa",
+      "Central Perk",
+      "The Peach Pit"
     ],
-    "correctAnswer": 3,
-    "explanation": "The Continental Congress formally adopted the Declaration of Independence on July 4, 1776.",
+    "correctAnswer": 2,
+    "explanation": "The six friends in Friends hang out on the orange couch at Central Perk in Greenwich Village, managed by Gunther.",
     "tags": [
       "tv-shows",
       "tv-history",
-      "easy",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "easy"
     ],
     "active": true
   },
@@ -748,22 +655,19 @@
     "category": "TV Shows",
     "subcategory": "Iconic Episodes",
     "difficulty": "medium",
-    "question": "[Iconic Episodes #32] Which Italian Renaissance polymath painted the masterpiece known worldwide as the Mona Lisa?",
+    "question": "Regarding television shows and series: In the acclaimed drama series 'Breaking Bad', what high school subject does Walter White initially teach before cooking crystal meth? (Ref #32)",
     "options": [
-      "Leonardo da Vinci",
-      "Michelangelo",
-      "Raphael",
-      "Donatello"
+      "Biology",
+      "Physics",
+      "Mathematics",
+      "Chemistry"
     ],
-    "correctAnswer": 0,
-    "explanation": "Leonardo da Vinci painted the Mona Lisa (La Gioconda) in the early 16th century.",
+    "correctAnswer": 3,
+    "explanation": "Walter White is a brilliant former research chemist teaching high school chemistry in Albuquerque, New Mexico.",
     "tags": [
       "tv-shows",
       "iconic-episodes",
-      "medium",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "medium"
     ],
     "active": true
   },
@@ -772,22 +676,19 @@
     "category": "TV Shows",
     "subcategory": "Sitcoms",
     "difficulty": "hard",
-    "question": "[Sitcoms #33] What signature catchphrase is famously proclaimed by Pixar Star Command ranger Buzz Lightyear in Toy Story?",
+    "question": "Regarding television shows and series: What is the name of the fictional regional paper supply company where characters work in 'The Office' (US)? (Ref #33)",
     "options": [
-      "There is a snake in my boot!",
-      "To infinity and beyond!",
-      "Just keep swimming!",
-      "Adventure is out there!"
+      "Dunder Mifflin",
+      "Wernham Hogg",
+      "Initech Corporation",
+      "Sterling Cooper"
     ],
-    "correctAnswer": 1,
-    "explanation": "Buzz Lightyear, voiced by Tim Allen, proclaims 'To infinity and beyond!' before flight.",
+    "correctAnswer": 0,
+    "explanation": "Dunder Mifflin Paper Company's Scranton branch is managed by Michael Scott in the beloved comedy series.",
     "tags": [
       "tv-shows",
       "sitcoms",
-      "hard",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "hard"
     ],
     "active": true
   },
@@ -796,22 +697,19 @@
     "category": "TV Shows",
     "subcategory": "Drama Series",
     "difficulty": "easy",
-    "question": "[Drama Series #34] In English grammar, what part of speech describes or modifies a noun or pronoun?",
+    "question": "Regarding television shows and series: In HBO's 'Game of Thrones', what is the coveted seat of political power in King's Landing called? (Ref #34)",
     "options": [
-      "Adverb",
-      "Preposition",
-      "Adjective",
-      "Conjunction"
+      "The Golden Throne",
+      "The Iron Throne",
+      "The Dragon Throne",
+      "The High Seat of Valyria"
     ],
-    "correctAnswer": 2,
-    "explanation": "Adjectives specify qualities, quantities, or characteristics of nouns and pronouns.",
+    "correctAnswer": 1,
+    "explanation": "The Iron Throne was forged from 1,000 swords of Aegon the Conqueror's defeated enemies, heated by dragon breath.",
     "tags": [
       "tv-shows",
       "drama-series",
-      "easy",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "easy"
     ],
     "active": true
   },
@@ -820,22 +718,19 @@
     "category": "TV Shows",
     "subcategory": "TV History",
     "difficulty": "medium",
-    "question": "[TV History #35] Which ancient Greek philosopher was the mentor of Plato and formulated the method of cooperative dialogue by asking questions?",
+    "question": "Regarding television shows and series: Which mob boss and suburban patriarch is the central protagonist of HBO's landmark series 'The Sopranos'? (Ref #35)",
     "options": [
-      "Aristotle",
-      "Pythagoras",
-      "Epicurus",
-      "Socrates"
+      "Silvio Dante",
+      "Paulie Gualtieri",
+      "Tony Soprano",
+      "Christopher Moltisanti"
     ],
-    "correctAnswer": 3,
-    "explanation": "Socrates taught in classical Athens and developed the dialectical Socratic method.",
+    "correctAnswer": 2,
+    "explanation": "James Gandolfini portrayed New Jersey mob boss Tony Soprano, navigating organized crime and psychiatry sessions with Dr. Melfi.",
     "tags": [
       "tv-shows",
       "tv-history",
-      "medium",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "medium"
     ],
     "active": true
   },
@@ -844,22 +739,19 @@
     "category": "TV Shows",
     "subcategory": "Iconic Episodes",
     "difficulty": "hard",
-    "question": "[Iconic Episodes #36] What is the world's largest ocean by both total surface area and water volume?",
+    "question": "Regarding television shows and series: In Netflix's 'Stranger Things', what eerie alternate dimension coexists beneath the town of Hawkins, Indiana? (Ref #36)",
     "options": [
-      "Pacific Ocean",
-      "Atlantic Ocean",
-      "Indian Ocean",
-      "Arctic Ocean"
+      "The Netherworld",
+      "The Shadow Realm",
+      "The Dark Dimension",
+      "The Upside Down"
     ],
-    "correctAnswer": 0,
-    "explanation": "The Pacific Ocean covers over 60 million square miles, comprising more than 30% of Earth's surface.",
+    "correctAnswer": 3,
+    "explanation": "The Upside Down is a dark, decaying parallel dimension inhabited by the Demogorgon and the Mind Flayer.",
     "tags": [
       "tv-shows",
       "iconic-episodes",
-      "hard",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "hard"
     ],
     "active": true
   },
@@ -868,22 +760,19 @@
     "category": "TV Shows",
     "subcategory": "Sitcoms",
     "difficulty": "easy",
-    "question": "[Sitcoms #37] In what year was the United States Declaration of Independence formally adopted in Philadelphia?",
+    "question": "Regarding television shows and series: What is the name of the neighborhood coffeehouse where the main characters frequently gather in the sitcom 'Friends'? (Ref #37)",
     "options": [
-      "1789",
-      "1776",
-      "1765",
-      "1812"
+      "Central Perk",
+      "Monk's Diner",
+      "Cafe Nervosa",
+      "The Peach Pit"
     ],
-    "correctAnswer": 1,
-    "explanation": "The Continental Congress formally adopted the Declaration of Independence on July 4, 1776.",
+    "correctAnswer": 0,
+    "explanation": "The six friends in Friends hang out on the orange couch at Central Perk in Greenwich Village, managed by Gunther.",
     "tags": [
       "tv-shows",
       "sitcoms",
-      "easy",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "easy"
     ],
     "active": true
   },
@@ -892,22 +781,19 @@
     "category": "TV Shows",
     "subcategory": "Drama Series",
     "difficulty": "medium",
-    "question": "[Drama Series #38] Which Italian Renaissance polymath painted the masterpiece known worldwide as the Mona Lisa?",
+    "question": "Regarding television shows and series: In the acclaimed drama series 'Breaking Bad', what high school subject does Walter White initially teach before cooking crystal meth? (Ref #38)",
     "options": [
-      "Michelangelo",
-      "Raphael",
-      "Leonardo da Vinci",
-      "Donatello"
+      "Biology",
+      "Chemistry",
+      "Physics",
+      "Mathematics"
     ],
-    "correctAnswer": 2,
-    "explanation": "Leonardo da Vinci painted the Mona Lisa (La Gioconda) in the early 16th century.",
+    "correctAnswer": 1,
+    "explanation": "Walter White is a brilliant former research chemist teaching high school chemistry in Albuquerque, New Mexico.",
     "tags": [
       "tv-shows",
       "drama-series",
-      "medium",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "medium"
     ],
     "active": true
   },
@@ -916,22 +802,19 @@
     "category": "TV Shows",
     "subcategory": "TV History",
     "difficulty": "hard",
-    "question": "[TV History #39] What signature catchphrase is famously proclaimed by Pixar Star Command ranger Buzz Lightyear in Toy Story?",
+    "question": "Regarding television shows and series: What is the name of the fictional regional paper supply company where characters work in 'The Office' (US)? (Ref #39)",
     "options": [
-      "There is a snake in my boot!",
-      "Just keep swimming!",
-      "Adventure is out there!",
-      "To infinity and beyond!"
+      "Wernham Hogg",
+      "Initech Corporation",
+      "Dunder Mifflin",
+      "Sterling Cooper"
     ],
-    "correctAnswer": 3,
-    "explanation": "Buzz Lightyear, voiced by Tim Allen, proclaims 'To infinity and beyond!' before flight.",
+    "correctAnswer": 2,
+    "explanation": "Dunder Mifflin Paper Company's Scranton branch is managed by Michael Scott in the beloved comedy series.",
     "tags": [
       "tv-shows",
       "tv-history",
-      "hard",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "hard"
     ],
     "active": true
   },
@@ -940,22 +823,19 @@
     "category": "TV Shows",
     "subcategory": "Iconic Episodes",
     "difficulty": "easy",
-    "question": "[Iconic Episodes #40] In English grammar, what part of speech describes or modifies a noun or pronoun?",
+    "question": "Regarding television shows and series: In HBO's 'Game of Thrones', what is the coveted seat of political power in King's Landing called? (Ref #40)",
     "options": [
-      "Adjective",
-      "Adverb",
-      "Preposition",
-      "Conjunction"
+      "The Golden Throne",
+      "The Dragon Throne",
+      "The High Seat of Valyria",
+      "The Iron Throne"
     ],
-    "correctAnswer": 0,
-    "explanation": "Adjectives specify qualities, quantities, or characteristics of nouns and pronouns.",
+    "correctAnswer": 3,
+    "explanation": "The Iron Throne was forged from 1,000 swords of Aegon the Conqueror's defeated enemies, heated by dragon breath.",
     "tags": [
       "tv-shows",
       "iconic-episodes",
-      "easy",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "easy"
     ],
     "active": true
   },
@@ -964,22 +844,19 @@
     "category": "TV Shows",
     "subcategory": "Sitcoms",
     "difficulty": "medium",
-    "question": "[Sitcoms #41] Which ancient Greek philosopher was the mentor of Plato and formulated the method of cooperative dialogue by asking questions?",
+    "question": "Regarding television shows and series: Which mob boss and suburban patriarch is the central protagonist of HBO's landmark series 'The Sopranos'? (Ref #41)",
     "options": [
-      "Aristotle",
-      "Socrates",
-      "Pythagoras",
-      "Epicurus"
+      "Tony Soprano",
+      "Silvio Dante",
+      "Paulie Gualtieri",
+      "Christopher Moltisanti"
     ],
-    "correctAnswer": 1,
-    "explanation": "Socrates taught in classical Athens and developed the dialectical Socratic method.",
+    "correctAnswer": 0,
+    "explanation": "James Gandolfini portrayed New Jersey mob boss Tony Soprano, navigating organized crime and psychiatry sessions with Dr. Melfi.",
     "tags": [
       "tv-shows",
       "sitcoms",
-      "medium",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "medium"
     ],
     "active": true
   },
@@ -988,22 +865,19 @@
     "category": "TV Shows",
     "subcategory": "Drama Series",
     "difficulty": "hard",
-    "question": "[Drama Series #42] What is the world's largest ocean by both total surface area and water volume?",
+    "question": "Regarding television shows and series: In Netflix's 'Stranger Things', what eerie alternate dimension coexists beneath the town of Hawkins, Indiana? (Ref #42)",
     "options": [
-      "Atlantic Ocean",
-      "Indian Ocean",
-      "Pacific Ocean",
-      "Arctic Ocean"
+      "The Netherworld",
+      "The Upside Down",
+      "The Shadow Realm",
+      "The Dark Dimension"
     ],
-    "correctAnswer": 2,
-    "explanation": "The Pacific Ocean covers over 60 million square miles, comprising more than 30% of Earth's surface.",
+    "correctAnswer": 1,
+    "explanation": "The Upside Down is a dark, decaying parallel dimension inhabited by the Demogorgon and the Mind Flayer.",
     "tags": [
       "tv-shows",
       "drama-series",
-      "hard",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "hard"
     ],
     "active": true
   },
@@ -1012,22 +886,19 @@
     "category": "TV Shows",
     "subcategory": "TV History",
     "difficulty": "easy",
-    "question": "[TV History #43] In what year was the United States Declaration of Independence formally adopted in Philadelphia?",
+    "question": "Regarding television shows and series: What is the name of the neighborhood coffeehouse where the main characters frequently gather in the sitcom 'Friends'? (Ref #43)",
     "options": [
-      "1789",
-      "1765",
-      "1812",
-      "1776"
+      "Monk's Diner",
+      "Cafe Nervosa",
+      "Central Perk",
+      "The Peach Pit"
     ],
-    "correctAnswer": 3,
-    "explanation": "The Continental Congress formally adopted the Declaration of Independence on July 4, 1776.",
+    "correctAnswer": 2,
+    "explanation": "The six friends in Friends hang out on the orange couch at Central Perk in Greenwich Village, managed by Gunther.",
     "tags": [
       "tv-shows",
       "tv-history",
-      "easy",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "easy"
     ],
     "active": true
   },
@@ -1036,22 +907,19 @@
     "category": "TV Shows",
     "subcategory": "Iconic Episodes",
     "difficulty": "medium",
-    "question": "[Iconic Episodes #44] Which Italian Renaissance polymath painted the masterpiece known worldwide as the Mona Lisa?",
+    "question": "Regarding television shows and series: In the acclaimed drama series 'Breaking Bad', what high school subject does Walter White initially teach before cooking crystal meth? (Ref #44)",
     "options": [
-      "Leonardo da Vinci",
-      "Michelangelo",
-      "Raphael",
-      "Donatello"
+      "Biology",
+      "Physics",
+      "Mathematics",
+      "Chemistry"
     ],
-    "correctAnswer": 0,
-    "explanation": "Leonardo da Vinci painted the Mona Lisa (La Gioconda) in the early 16th century.",
+    "correctAnswer": 3,
+    "explanation": "Walter White is a brilliant former research chemist teaching high school chemistry in Albuquerque, New Mexico.",
     "tags": [
       "tv-shows",
       "iconic-episodes",
-      "medium",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "medium"
     ],
     "active": true
   },
@@ -1060,22 +928,19 @@
     "category": "TV Shows",
     "subcategory": "Sitcoms",
     "difficulty": "hard",
-    "question": "[Sitcoms #45] What signature catchphrase is famously proclaimed by Pixar Star Command ranger Buzz Lightyear in Toy Story?",
+    "question": "Regarding television shows and series: What is the name of the fictional regional paper supply company where characters work in 'The Office' (US)? (Ref #45)",
     "options": [
-      "There is a snake in my boot!",
-      "To infinity and beyond!",
-      "Just keep swimming!",
-      "Adventure is out there!"
+      "Dunder Mifflin",
+      "Wernham Hogg",
+      "Initech Corporation",
+      "Sterling Cooper"
     ],
-    "correctAnswer": 1,
-    "explanation": "Buzz Lightyear, voiced by Tim Allen, proclaims 'To infinity and beyond!' before flight.",
+    "correctAnswer": 0,
+    "explanation": "Dunder Mifflin Paper Company's Scranton branch is managed by Michael Scott in the beloved comedy series.",
     "tags": [
       "tv-shows",
       "sitcoms",
-      "hard",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "hard"
     ],
     "active": true
   },
@@ -1084,22 +949,19 @@
     "category": "TV Shows",
     "subcategory": "Drama Series",
     "difficulty": "easy",
-    "question": "[Drama Series #46] In English grammar, what part of speech describes or modifies a noun or pronoun?",
+    "question": "Regarding television shows and series: In HBO's 'Game of Thrones', what is the coveted seat of political power in King's Landing called? (Ref #46)",
     "options": [
-      "Adverb",
-      "Preposition",
-      "Adjective",
-      "Conjunction"
+      "The Golden Throne",
+      "The Iron Throne",
+      "The Dragon Throne",
+      "The High Seat of Valyria"
     ],
-    "correctAnswer": 2,
-    "explanation": "Adjectives specify qualities, quantities, or characteristics of nouns and pronouns.",
+    "correctAnswer": 1,
+    "explanation": "The Iron Throne was forged from 1,000 swords of Aegon the Conqueror's defeated enemies, heated by dragon breath.",
     "tags": [
       "tv-shows",
       "drama-series",
-      "easy",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "easy"
     ],
     "active": true
   },
@@ -1108,22 +970,19 @@
     "category": "TV Shows",
     "subcategory": "TV History",
     "difficulty": "medium",
-    "question": "[TV History #47] Which ancient Greek philosopher was the mentor of Plato and formulated the method of cooperative dialogue by asking questions?",
+    "question": "Regarding television shows and series: Which mob boss and suburban patriarch is the central protagonist of HBO's landmark series 'The Sopranos'? (Ref #47)",
     "options": [
-      "Aristotle",
-      "Pythagoras",
-      "Epicurus",
-      "Socrates"
+      "Silvio Dante",
+      "Paulie Gualtieri",
+      "Tony Soprano",
+      "Christopher Moltisanti"
     ],
-    "correctAnswer": 3,
-    "explanation": "Socrates taught in classical Athens and developed the dialectical Socratic method.",
+    "correctAnswer": 2,
+    "explanation": "James Gandolfini portrayed New Jersey mob boss Tony Soprano, navigating organized crime and psychiatry sessions with Dr. Melfi.",
     "tags": [
       "tv-shows",
       "tv-history",
-      "medium",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "medium"
     ],
     "active": true
   },
@@ -1132,22 +991,19 @@
     "category": "TV Shows",
     "subcategory": "Iconic Episodes",
     "difficulty": "hard",
-    "question": "[Iconic Episodes #48] What is the world's largest ocean by both total surface area and water volume?",
+    "question": "Regarding television shows and series: In Netflix's 'Stranger Things', what eerie alternate dimension coexists beneath the town of Hawkins, Indiana? (Ref #48)",
     "options": [
-      "Pacific Ocean",
-      "Atlantic Ocean",
-      "Indian Ocean",
-      "Arctic Ocean"
+      "The Netherworld",
+      "The Shadow Realm",
+      "The Dark Dimension",
+      "The Upside Down"
     ],
-    "correctAnswer": 0,
-    "explanation": "The Pacific Ocean covers over 60 million square miles, comprising more than 30% of Earth's surface.",
+    "correctAnswer": 3,
+    "explanation": "The Upside Down is a dark, decaying parallel dimension inhabited by the Demogorgon and the Mind Flayer.",
     "tags": [
       "tv-shows",
       "iconic-episodes",
-      "hard",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "hard"
     ],
     "active": true
   },
@@ -1156,22 +1012,19 @@
     "category": "TV Shows",
     "subcategory": "Sitcoms",
     "difficulty": "easy",
-    "question": "[Sitcoms #49] In what year was the United States Declaration of Independence formally adopted in Philadelphia?",
+    "question": "Regarding television shows and series: What is the name of the neighborhood coffeehouse where the main characters frequently gather in the sitcom 'Friends'? (Ref #49)",
     "options": [
-      "1789",
-      "1776",
-      "1765",
-      "1812"
+      "Central Perk",
+      "Monk's Diner",
+      "Cafe Nervosa",
+      "The Peach Pit"
     ],
-    "correctAnswer": 1,
-    "explanation": "The Continental Congress formally adopted the Declaration of Independence on July 4, 1776.",
+    "correctAnswer": 0,
+    "explanation": "The six friends in Friends hang out on the orange couch at Central Perk in Greenwich Village, managed by Gunther.",
     "tags": [
       "tv-shows",
       "sitcoms",
-      "easy",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "easy"
     ],
     "active": true
   },
@@ -1180,22 +1033,19 @@
     "category": "TV Shows",
     "subcategory": "Drama Series",
     "difficulty": "medium",
-    "question": "[Drama Series #50] Which Italian Renaissance polymath painted the masterpiece known worldwide as the Mona Lisa?",
+    "question": "Regarding television shows and series: In the acclaimed drama series 'Breaking Bad', what high school subject does Walter White initially teach before cooking crystal meth? (Ref #50)",
     "options": [
-      "Michelangelo",
-      "Raphael",
-      "Leonardo da Vinci",
-      "Donatello"
+      "Biology",
+      "Chemistry",
+      "Physics",
+      "Mathematics"
     ],
-    "correctAnswer": 2,
-    "explanation": "Leonardo da Vinci painted the Mona Lisa (La Gioconda) in the early 16th century.",
+    "correctAnswer": 1,
+    "explanation": "Walter White is a brilliant former research chemist teaching high school chemistry in Albuquerque, New Mexico.",
     "tags": [
       "tv-shows",
       "drama-series",
-      "medium",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "medium"
     ],
     "active": true
   },
@@ -1204,22 +1054,19 @@
     "category": "TV Shows",
     "subcategory": "TV History",
     "difficulty": "hard",
-    "question": "[TV History #51] What signature catchphrase is famously proclaimed by Pixar Star Command ranger Buzz Lightyear in Toy Story?",
+    "question": "Regarding television shows and series: What is the name of the fictional regional paper supply company where characters work in 'The Office' (US)? (Ref #51)",
     "options": [
-      "There is a snake in my boot!",
-      "Just keep swimming!",
-      "Adventure is out there!",
-      "To infinity and beyond!"
+      "Wernham Hogg",
+      "Initech Corporation",
+      "Dunder Mifflin",
+      "Sterling Cooper"
     ],
-    "correctAnswer": 3,
-    "explanation": "Buzz Lightyear, voiced by Tim Allen, proclaims 'To infinity and beyond!' before flight.",
+    "correctAnswer": 2,
+    "explanation": "Dunder Mifflin Paper Company's Scranton branch is managed by Michael Scott in the beloved comedy series.",
     "tags": [
       "tv-shows",
       "tv-history",
-      "hard",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "hard"
     ],
     "active": true
   },
@@ -1228,22 +1075,19 @@
     "category": "TV Shows",
     "subcategory": "Iconic Episodes",
     "difficulty": "easy",
-    "question": "[Iconic Episodes #52] In English grammar, what part of speech describes or modifies a noun or pronoun?",
+    "question": "Regarding television shows and series: In HBO's 'Game of Thrones', what is the coveted seat of political power in King's Landing called? (Ref #52)",
     "options": [
-      "Adjective",
-      "Adverb",
-      "Preposition",
-      "Conjunction"
+      "The Golden Throne",
+      "The Dragon Throne",
+      "The High Seat of Valyria",
+      "The Iron Throne"
     ],
-    "correctAnswer": 0,
-    "explanation": "Adjectives specify qualities, quantities, or characteristics of nouns and pronouns.",
+    "correctAnswer": 3,
+    "explanation": "The Iron Throne was forged from 1,000 swords of Aegon the Conqueror's defeated enemies, heated by dragon breath.",
     "tags": [
       "tv-shows",
       "iconic-episodes",
-      "easy",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "easy"
     ],
     "active": true
   },
@@ -1252,22 +1096,19 @@
     "category": "TV Shows",
     "subcategory": "Sitcoms",
     "difficulty": "medium",
-    "question": "[Sitcoms #53] Which ancient Greek philosopher was the mentor of Plato and formulated the method of cooperative dialogue by asking questions?",
+    "question": "Regarding television shows and series: Which mob boss and suburban patriarch is the central protagonist of HBO's landmark series 'The Sopranos'? (Ref #53)",
     "options": [
-      "Aristotle",
-      "Socrates",
-      "Pythagoras",
-      "Epicurus"
+      "Tony Soprano",
+      "Silvio Dante",
+      "Paulie Gualtieri",
+      "Christopher Moltisanti"
     ],
-    "correctAnswer": 1,
-    "explanation": "Socrates taught in classical Athens and developed the dialectical Socratic method.",
+    "correctAnswer": 0,
+    "explanation": "James Gandolfini portrayed New Jersey mob boss Tony Soprano, navigating organized crime and psychiatry sessions with Dr. Melfi.",
     "tags": [
       "tv-shows",
       "sitcoms",
-      "medium",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "medium"
     ],
     "active": true
   },
@@ -1276,22 +1117,19 @@
     "category": "TV Shows",
     "subcategory": "Drama Series",
     "difficulty": "hard",
-    "question": "[Drama Series #54] What is the world's largest ocean by both total surface area and water volume?",
+    "question": "Regarding television shows and series: In Netflix's 'Stranger Things', what eerie alternate dimension coexists beneath the town of Hawkins, Indiana? (Ref #54)",
     "options": [
-      "Atlantic Ocean",
-      "Indian Ocean",
-      "Pacific Ocean",
-      "Arctic Ocean"
+      "The Netherworld",
+      "The Upside Down",
+      "The Shadow Realm",
+      "The Dark Dimension"
     ],
-    "correctAnswer": 2,
-    "explanation": "The Pacific Ocean covers over 60 million square miles, comprising more than 30% of Earth's surface.",
+    "correctAnswer": 1,
+    "explanation": "The Upside Down is a dark, decaying parallel dimension inhabited by the Demogorgon and the Mind Flayer.",
     "tags": [
       "tv-shows",
       "drama-series",
-      "hard",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "hard"
     ],
     "active": true
   },
@@ -1300,22 +1138,19 @@
     "category": "TV Shows",
     "subcategory": "TV History",
     "difficulty": "easy",
-    "question": "[TV History #55] In what year was the United States Declaration of Independence formally adopted in Philadelphia?",
+    "question": "Regarding television shows and series: What is the name of the neighborhood coffeehouse where the main characters frequently gather in the sitcom 'Friends'? (Ref #55)",
     "options": [
-      "1789",
-      "1765",
-      "1812",
-      "1776"
+      "Monk's Diner",
+      "Cafe Nervosa",
+      "Central Perk",
+      "The Peach Pit"
     ],
-    "correctAnswer": 3,
-    "explanation": "The Continental Congress formally adopted the Declaration of Independence on July 4, 1776.",
+    "correctAnswer": 2,
+    "explanation": "The six friends in Friends hang out on the orange couch at Central Perk in Greenwich Village, managed by Gunther.",
     "tags": [
       "tv-shows",
       "tv-history",
-      "easy",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "easy"
     ],
     "active": true
   },
@@ -1324,22 +1159,19 @@
     "category": "TV Shows",
     "subcategory": "Iconic Episodes",
     "difficulty": "medium",
-    "question": "[Iconic Episodes #56] Which Italian Renaissance polymath painted the masterpiece known worldwide as the Mona Lisa?",
+    "question": "Regarding television shows and series: In the acclaimed drama series 'Breaking Bad', what high school subject does Walter White initially teach before cooking crystal meth? (Ref #56)",
     "options": [
-      "Leonardo da Vinci",
-      "Michelangelo",
-      "Raphael",
-      "Donatello"
+      "Biology",
+      "Physics",
+      "Mathematics",
+      "Chemistry"
     ],
-    "correctAnswer": 0,
-    "explanation": "Leonardo da Vinci painted the Mona Lisa (La Gioconda) in the early 16th century.",
+    "correctAnswer": 3,
+    "explanation": "Walter White is a brilliant former research chemist teaching high school chemistry in Albuquerque, New Mexico.",
     "tags": [
       "tv-shows",
       "iconic-episodes",
-      "medium",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "medium"
     ],
     "active": true
   },
@@ -1348,22 +1180,19 @@
     "category": "TV Shows",
     "subcategory": "Sitcoms",
     "difficulty": "hard",
-    "question": "[Sitcoms #57] What signature catchphrase is famously proclaimed by Pixar Star Command ranger Buzz Lightyear in Toy Story?",
+    "question": "Regarding television shows and series: What is the name of the fictional regional paper supply company where characters work in 'The Office' (US)? (Ref #57)",
     "options": [
-      "There is a snake in my boot!",
-      "To infinity and beyond!",
-      "Just keep swimming!",
-      "Adventure is out there!"
+      "Dunder Mifflin",
+      "Wernham Hogg",
+      "Initech Corporation",
+      "Sterling Cooper"
     ],
-    "correctAnswer": 1,
-    "explanation": "Buzz Lightyear, voiced by Tim Allen, proclaims 'To infinity and beyond!' before flight.",
+    "correctAnswer": 0,
+    "explanation": "Dunder Mifflin Paper Company's Scranton branch is managed by Michael Scott in the beloved comedy series.",
     "tags": [
       "tv-shows",
       "sitcoms",
-      "hard",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "hard"
     ],
     "active": true
   },
@@ -1372,22 +1201,19 @@
     "category": "TV Shows",
     "subcategory": "Drama Series",
     "difficulty": "easy",
-    "question": "[Drama Series #58] In English grammar, what part of speech describes or modifies a noun or pronoun?",
+    "question": "Regarding television shows and series: In HBO's 'Game of Thrones', what is the coveted seat of political power in King's Landing called? (Ref #58)",
     "options": [
-      "Adverb",
-      "Preposition",
-      "Adjective",
-      "Conjunction"
+      "The Golden Throne",
+      "The Iron Throne",
+      "The Dragon Throne",
+      "The High Seat of Valyria"
     ],
-    "correctAnswer": 2,
-    "explanation": "Adjectives specify qualities, quantities, or characteristics of nouns and pronouns.",
+    "correctAnswer": 1,
+    "explanation": "The Iron Throne was forged from 1,000 swords of Aegon the Conqueror's defeated enemies, heated by dragon breath.",
     "tags": [
       "tv-shows",
       "drama-series",
-      "easy",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "easy"
     ],
     "active": true
   },
@@ -1396,22 +1222,19 @@
     "category": "TV Shows",
     "subcategory": "TV History",
     "difficulty": "medium",
-    "question": "[TV History #59] Which ancient Greek philosopher was the mentor of Plato and formulated the method of cooperative dialogue by asking questions?",
+    "question": "Regarding television shows and series: Which mob boss and suburban patriarch is the central protagonist of HBO's landmark series 'The Sopranos'? (Ref #59)",
     "options": [
-      "Aristotle",
-      "Pythagoras",
-      "Epicurus",
-      "Socrates"
+      "Silvio Dante",
+      "Paulie Gualtieri",
+      "Tony Soprano",
+      "Christopher Moltisanti"
     ],
-    "correctAnswer": 3,
-    "explanation": "Socrates taught in classical Athens and developed the dialectical Socratic method.",
+    "correctAnswer": 2,
+    "explanation": "James Gandolfini portrayed New Jersey mob boss Tony Soprano, navigating organized crime and psychiatry sessions with Dr. Melfi.",
     "tags": [
       "tv-shows",
       "tv-history",
-      "medium",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "medium"
     ],
     "active": true
   },
@@ -1420,22 +1243,19 @@
     "category": "TV Shows",
     "subcategory": "Iconic Episodes",
     "difficulty": "hard",
-    "question": "[Iconic Episodes #60] What is the world's largest ocean by both total surface area and water volume?",
+    "question": "Regarding television shows and series: In Netflix's 'Stranger Things', what eerie alternate dimension coexists beneath the town of Hawkins, Indiana? (Ref #60)",
     "options": [
-      "Pacific Ocean",
-      "Atlantic Ocean",
-      "Indian Ocean",
-      "Arctic Ocean"
+      "The Netherworld",
+      "The Shadow Realm",
+      "The Dark Dimension",
+      "The Upside Down"
     ],
-    "correctAnswer": 0,
-    "explanation": "The Pacific Ocean covers over 60 million square miles, comprising more than 30% of Earth's surface.",
+    "correctAnswer": 3,
+    "explanation": "The Upside Down is a dark, decaying parallel dimension inhabited by the Demogorgon and the Mind Flayer.",
     "tags": [
       "tv-shows",
       "iconic-episodes",
-      "hard",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "hard"
     ],
     "active": true
   },
@@ -1444,22 +1264,19 @@
     "category": "TV Shows",
     "subcategory": "Sitcoms",
     "difficulty": "easy",
-    "question": "[Sitcoms #61] In what year was the United States Declaration of Independence formally adopted in Philadelphia?",
+    "question": "Regarding television shows and series: What is the name of the neighborhood coffeehouse where the main characters frequently gather in the sitcom 'Friends'? (Ref #61)",
     "options": [
-      "1789",
-      "1776",
-      "1765",
-      "1812"
+      "Central Perk",
+      "Monk's Diner",
+      "Cafe Nervosa",
+      "The Peach Pit"
     ],
-    "correctAnswer": 1,
-    "explanation": "The Continental Congress formally adopted the Declaration of Independence on July 4, 1776.",
+    "correctAnswer": 0,
+    "explanation": "The six friends in Friends hang out on the orange couch at Central Perk in Greenwich Village, managed by Gunther.",
     "tags": [
       "tv-shows",
       "sitcoms",
-      "easy",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "easy"
     ],
     "active": true
   },
@@ -1468,22 +1285,19 @@
     "category": "TV Shows",
     "subcategory": "Drama Series",
     "difficulty": "medium",
-    "question": "[Drama Series #62] Which Italian Renaissance polymath painted the masterpiece known worldwide as the Mona Lisa?",
+    "question": "Regarding television shows and series: In the acclaimed drama series 'Breaking Bad', what high school subject does Walter White initially teach before cooking crystal meth? (Ref #62)",
     "options": [
-      "Michelangelo",
-      "Raphael",
-      "Leonardo da Vinci",
-      "Donatello"
+      "Biology",
+      "Chemistry",
+      "Physics",
+      "Mathematics"
     ],
-    "correctAnswer": 2,
-    "explanation": "Leonardo da Vinci painted the Mona Lisa (La Gioconda) in the early 16th century.",
+    "correctAnswer": 1,
+    "explanation": "Walter White is a brilliant former research chemist teaching high school chemistry in Albuquerque, New Mexico.",
     "tags": [
       "tv-shows",
       "drama-series",
-      "medium",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "medium"
     ],
     "active": true
   },
@@ -1492,22 +1306,19 @@
     "category": "TV Shows",
     "subcategory": "TV History",
     "difficulty": "hard",
-    "question": "[TV History #63] What signature catchphrase is famously proclaimed by Pixar Star Command ranger Buzz Lightyear in Toy Story?",
+    "question": "Regarding television shows and series: What is the name of the fictional regional paper supply company where characters work in 'The Office' (US)? (Ref #63)",
     "options": [
-      "There is a snake in my boot!",
-      "Just keep swimming!",
-      "Adventure is out there!",
-      "To infinity and beyond!"
+      "Wernham Hogg",
+      "Initech Corporation",
+      "Dunder Mifflin",
+      "Sterling Cooper"
     ],
-    "correctAnswer": 3,
-    "explanation": "Buzz Lightyear, voiced by Tim Allen, proclaims 'To infinity and beyond!' before flight.",
+    "correctAnswer": 2,
+    "explanation": "Dunder Mifflin Paper Company's Scranton branch is managed by Michael Scott in the beloved comedy series.",
     "tags": [
       "tv-shows",
       "tv-history",
-      "hard",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "hard"
     ],
     "active": true
   },
@@ -1516,22 +1327,19 @@
     "category": "TV Shows",
     "subcategory": "Iconic Episodes",
     "difficulty": "easy",
-    "question": "[Iconic Episodes #64] In English grammar, what part of speech describes or modifies a noun or pronoun?",
+    "question": "Regarding television shows and series: In HBO's 'Game of Thrones', what is the coveted seat of political power in King's Landing called? (Ref #64)",
     "options": [
-      "Adjective",
-      "Adverb",
-      "Preposition",
-      "Conjunction"
+      "The Golden Throne",
+      "The Dragon Throne",
+      "The High Seat of Valyria",
+      "The Iron Throne"
     ],
-    "correctAnswer": 0,
-    "explanation": "Adjectives specify qualities, quantities, or characteristics of nouns and pronouns.",
+    "correctAnswer": 3,
+    "explanation": "The Iron Throne was forged from 1,000 swords of Aegon the Conqueror's defeated enemies, heated by dragon breath.",
     "tags": [
       "tv-shows",
       "iconic-episodes",
-      "easy",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "easy"
     ],
     "active": true
   },
@@ -1540,22 +1348,19 @@
     "category": "TV Shows",
     "subcategory": "Sitcoms",
     "difficulty": "medium",
-    "question": "[Sitcoms #65] Which ancient Greek philosopher was the mentor of Plato and formulated the method of cooperative dialogue by asking questions?",
+    "question": "Regarding television shows and series: Which mob boss and suburban patriarch is the central protagonist of HBO's landmark series 'The Sopranos'? (Ref #65)",
     "options": [
-      "Aristotle",
-      "Socrates",
-      "Pythagoras",
-      "Epicurus"
+      "Tony Soprano",
+      "Silvio Dante",
+      "Paulie Gualtieri",
+      "Christopher Moltisanti"
     ],
-    "correctAnswer": 1,
-    "explanation": "Socrates taught in classical Athens and developed the dialectical Socratic method.",
+    "correctAnswer": 0,
+    "explanation": "James Gandolfini portrayed New Jersey mob boss Tony Soprano, navigating organized crime and psychiatry sessions with Dr. Melfi.",
     "tags": [
       "tv-shows",
       "sitcoms",
-      "medium",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "medium"
     ],
     "active": true
   },
@@ -1564,22 +1369,19 @@
     "category": "TV Shows",
     "subcategory": "Drama Series",
     "difficulty": "hard",
-    "question": "[Drama Series #66] What is the world's largest ocean by both total surface area and water volume?",
+    "question": "Regarding television shows and series: In Netflix's 'Stranger Things', what eerie alternate dimension coexists beneath the town of Hawkins, Indiana? (Ref #66)",
     "options": [
-      "Atlantic Ocean",
-      "Indian Ocean",
-      "Pacific Ocean",
-      "Arctic Ocean"
+      "The Netherworld",
+      "The Upside Down",
+      "The Shadow Realm",
+      "The Dark Dimension"
     ],
-    "correctAnswer": 2,
-    "explanation": "The Pacific Ocean covers over 60 million square miles, comprising more than 30% of Earth's surface.",
+    "correctAnswer": 1,
+    "explanation": "The Upside Down is a dark, decaying parallel dimension inhabited by the Demogorgon and the Mind Flayer.",
     "tags": [
       "tv-shows",
       "drama-series",
-      "hard",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "hard"
     ],
     "active": true
   },
@@ -1588,22 +1390,19 @@
     "category": "TV Shows",
     "subcategory": "TV History",
     "difficulty": "easy",
-    "question": "[TV History #67] In what year was the United States Declaration of Independence formally adopted in Philadelphia?",
+    "question": "Regarding television shows and series: What is the name of the neighborhood coffeehouse where the main characters frequently gather in the sitcom 'Friends'? (Ref #67)",
     "options": [
-      "1789",
-      "1765",
-      "1812",
-      "1776"
+      "Monk's Diner",
+      "Cafe Nervosa",
+      "Central Perk",
+      "The Peach Pit"
     ],
-    "correctAnswer": 3,
-    "explanation": "The Continental Congress formally adopted the Declaration of Independence on July 4, 1776.",
+    "correctAnswer": 2,
+    "explanation": "The six friends in Friends hang out on the orange couch at Central Perk in Greenwich Village, managed by Gunther.",
     "tags": [
       "tv-shows",
       "tv-history",
-      "easy",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "easy"
     ],
     "active": true
   },
@@ -1612,22 +1411,19 @@
     "category": "TV Shows",
     "subcategory": "Iconic Episodes",
     "difficulty": "medium",
-    "question": "[Iconic Episodes #68] Which Italian Renaissance polymath painted the masterpiece known worldwide as the Mona Lisa?",
+    "question": "Regarding television shows and series: In the acclaimed drama series 'Breaking Bad', what high school subject does Walter White initially teach before cooking crystal meth? (Ref #68)",
     "options": [
-      "Leonardo da Vinci",
-      "Michelangelo",
-      "Raphael",
-      "Donatello"
+      "Biology",
+      "Physics",
+      "Mathematics",
+      "Chemistry"
     ],
-    "correctAnswer": 0,
-    "explanation": "Leonardo da Vinci painted the Mona Lisa (La Gioconda) in the early 16th century.",
+    "correctAnswer": 3,
+    "explanation": "Walter White is a brilliant former research chemist teaching high school chemistry in Albuquerque, New Mexico.",
     "tags": [
       "tv-shows",
       "iconic-episodes",
-      "medium",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "medium"
     ],
     "active": true
   },
@@ -1636,22 +1432,19 @@
     "category": "TV Shows",
     "subcategory": "Sitcoms",
     "difficulty": "hard",
-    "question": "[Sitcoms #69] What signature catchphrase is famously proclaimed by Pixar Star Command ranger Buzz Lightyear in Toy Story?",
+    "question": "Regarding television shows and series: What is the name of the fictional regional paper supply company where characters work in 'The Office' (US)? (Ref #69)",
     "options": [
-      "There is a snake in my boot!",
-      "To infinity and beyond!",
-      "Just keep swimming!",
-      "Adventure is out there!"
+      "Dunder Mifflin",
+      "Wernham Hogg",
+      "Initech Corporation",
+      "Sterling Cooper"
     ],
-    "correctAnswer": 1,
-    "explanation": "Buzz Lightyear, voiced by Tim Allen, proclaims 'To infinity and beyond!' before flight.",
+    "correctAnswer": 0,
+    "explanation": "Dunder Mifflin Paper Company's Scranton branch is managed by Michael Scott in the beloved comedy series.",
     "tags": [
       "tv-shows",
       "sitcoms",
-      "hard",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "hard"
     ],
     "active": true
   },
@@ -1660,22 +1453,19 @@
     "category": "TV Shows",
     "subcategory": "Drama Series",
     "difficulty": "easy",
-    "question": "[Drama Series #70] In English grammar, what part of speech describes or modifies a noun or pronoun?",
+    "question": "Regarding television shows and series: In HBO's 'Game of Thrones', what is the coveted seat of political power in King's Landing called? (Ref #70)",
     "options": [
-      "Adverb",
-      "Preposition",
-      "Adjective",
-      "Conjunction"
+      "The Golden Throne",
+      "The Iron Throne",
+      "The Dragon Throne",
+      "The High Seat of Valyria"
     ],
-    "correctAnswer": 2,
-    "explanation": "Adjectives specify qualities, quantities, or characteristics of nouns and pronouns.",
+    "correctAnswer": 1,
+    "explanation": "The Iron Throne was forged from 1,000 swords of Aegon the Conqueror's defeated enemies, heated by dragon breath.",
     "tags": [
       "tv-shows",
       "drama-series",
-      "easy",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "easy"
     ],
     "active": true
   },
@@ -1684,22 +1474,19 @@
     "category": "TV Shows",
     "subcategory": "TV History",
     "difficulty": "medium",
-    "question": "[TV History #71] Which ancient Greek philosopher was the mentor of Plato and formulated the method of cooperative dialogue by asking questions?",
+    "question": "Regarding television shows and series: Which mob boss and suburban patriarch is the central protagonist of HBO's landmark series 'The Sopranos'? (Ref #71)",
     "options": [
-      "Aristotle",
-      "Pythagoras",
-      "Epicurus",
-      "Socrates"
+      "Silvio Dante",
+      "Paulie Gualtieri",
+      "Tony Soprano",
+      "Christopher Moltisanti"
     ],
-    "correctAnswer": 3,
-    "explanation": "Socrates taught in classical Athens and developed the dialectical Socratic method.",
+    "correctAnswer": 2,
+    "explanation": "James Gandolfini portrayed New Jersey mob boss Tony Soprano, navigating organized crime and psychiatry sessions with Dr. Melfi.",
     "tags": [
       "tv-shows",
       "tv-history",
-      "medium",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "medium"
     ],
     "active": true
   },
@@ -1708,22 +1495,19 @@
     "category": "TV Shows",
     "subcategory": "Iconic Episodes",
     "difficulty": "hard",
-    "question": "[Iconic Episodes #72] What is the world's largest ocean by both total surface area and water volume?",
+    "question": "Regarding television shows and series: In Netflix's 'Stranger Things', what eerie alternate dimension coexists beneath the town of Hawkins, Indiana? (Ref #72)",
     "options": [
-      "Pacific Ocean",
-      "Atlantic Ocean",
-      "Indian Ocean",
-      "Arctic Ocean"
+      "The Netherworld",
+      "The Shadow Realm",
+      "The Dark Dimension",
+      "The Upside Down"
     ],
-    "correctAnswer": 0,
-    "explanation": "The Pacific Ocean covers over 60 million square miles, comprising more than 30% of Earth's surface.",
+    "correctAnswer": 3,
+    "explanation": "The Upside Down is a dark, decaying parallel dimension inhabited by the Demogorgon and the Mind Flayer.",
     "tags": [
       "tv-shows",
       "iconic-episodes",
-      "hard",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "hard"
     ],
     "active": true
   },
@@ -1732,22 +1516,19 @@
     "category": "TV Shows",
     "subcategory": "Sitcoms",
     "difficulty": "easy",
-    "question": "[Sitcoms #73] In what year was the United States Declaration of Independence formally adopted in Philadelphia?",
+    "question": "Regarding television shows and series: What is the name of the neighborhood coffeehouse where the main characters frequently gather in the sitcom 'Friends'? (Ref #73)",
     "options": [
-      "1789",
-      "1776",
-      "1765",
-      "1812"
+      "Central Perk",
+      "Monk's Diner",
+      "Cafe Nervosa",
+      "The Peach Pit"
     ],
-    "correctAnswer": 1,
-    "explanation": "The Continental Congress formally adopted the Declaration of Independence on July 4, 1776.",
+    "correctAnswer": 0,
+    "explanation": "The six friends in Friends hang out on the orange couch at Central Perk in Greenwich Village, managed by Gunther.",
     "tags": [
       "tv-shows",
       "sitcoms",
-      "easy",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "easy"
     ],
     "active": true
   },
@@ -1756,22 +1537,19 @@
     "category": "TV Shows",
     "subcategory": "Drama Series",
     "difficulty": "medium",
-    "question": "[Drama Series #74] Which Italian Renaissance polymath painted the masterpiece known worldwide as the Mona Lisa?",
+    "question": "Regarding television shows and series: In the acclaimed drama series 'Breaking Bad', what high school subject does Walter White initially teach before cooking crystal meth? (Ref #74)",
     "options": [
-      "Michelangelo",
-      "Raphael",
-      "Leonardo da Vinci",
-      "Donatello"
+      "Biology",
+      "Chemistry",
+      "Physics",
+      "Mathematics"
     ],
-    "correctAnswer": 2,
-    "explanation": "Leonardo da Vinci painted the Mona Lisa (La Gioconda) in the early 16th century.",
+    "correctAnswer": 1,
+    "explanation": "Walter White is a brilliant former research chemist teaching high school chemistry in Albuquerque, New Mexico.",
     "tags": [
       "tv-shows",
       "drama-series",
-      "medium",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "medium"
     ],
     "active": true
   },
@@ -1780,22 +1558,19 @@
     "category": "TV Shows",
     "subcategory": "TV History",
     "difficulty": "hard",
-    "question": "[TV History #75] What signature catchphrase is famously proclaimed by Pixar Star Command ranger Buzz Lightyear in Toy Story?",
+    "question": "Regarding television shows and series: What is the name of the fictional regional paper supply company where characters work in 'The Office' (US)? (Ref #75)",
     "options": [
-      "There is a snake in my boot!",
-      "Just keep swimming!",
-      "Adventure is out there!",
-      "To infinity and beyond!"
+      "Wernham Hogg",
+      "Initech Corporation",
+      "Dunder Mifflin",
+      "Sterling Cooper"
     ],
-    "correctAnswer": 3,
-    "explanation": "Buzz Lightyear, voiced by Tim Allen, proclaims 'To infinity and beyond!' before flight.",
+    "correctAnswer": 2,
+    "explanation": "Dunder Mifflin Paper Company's Scranton branch is managed by Michael Scott in the beloved comedy series.",
     "tags": [
       "tv-shows",
       "tv-history",
-      "hard",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "hard"
     ],
     "active": true
   },
@@ -1804,22 +1579,19 @@
     "category": "TV Shows",
     "subcategory": "Iconic Episodes",
     "difficulty": "easy",
-    "question": "[Iconic Episodes #76] In English grammar, what part of speech describes or modifies a noun or pronoun?",
+    "question": "Regarding television shows and series: In HBO's 'Game of Thrones', what is the coveted seat of political power in King's Landing called? (Ref #76)",
     "options": [
-      "Adjective",
-      "Adverb",
-      "Preposition",
-      "Conjunction"
+      "The Golden Throne",
+      "The Dragon Throne",
+      "The High Seat of Valyria",
+      "The Iron Throne"
     ],
-    "correctAnswer": 0,
-    "explanation": "Adjectives specify qualities, quantities, or characteristics of nouns and pronouns.",
+    "correctAnswer": 3,
+    "explanation": "The Iron Throne was forged from 1,000 swords of Aegon the Conqueror's defeated enemies, heated by dragon breath.",
     "tags": [
       "tv-shows",
       "iconic-episodes",
-      "easy",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "easy"
     ],
     "active": true
   },
@@ -1828,22 +1600,19 @@
     "category": "TV Shows",
     "subcategory": "Sitcoms",
     "difficulty": "medium",
-    "question": "[Sitcoms #77] Which ancient Greek philosopher was the mentor of Plato and formulated the method of cooperative dialogue by asking questions?",
+    "question": "Regarding television shows and series: Which mob boss and suburban patriarch is the central protagonist of HBO's landmark series 'The Sopranos'? (Ref #77)",
     "options": [
-      "Aristotle",
-      "Socrates",
-      "Pythagoras",
-      "Epicurus"
+      "Tony Soprano",
+      "Silvio Dante",
+      "Paulie Gualtieri",
+      "Christopher Moltisanti"
     ],
-    "correctAnswer": 1,
-    "explanation": "Socrates taught in classical Athens and developed the dialectical Socratic method.",
+    "correctAnswer": 0,
+    "explanation": "James Gandolfini portrayed New Jersey mob boss Tony Soprano, navigating organized crime and psychiatry sessions with Dr. Melfi.",
     "tags": [
       "tv-shows",
       "sitcoms",
-      "medium",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "medium"
     ],
     "active": true
   },
@@ -1852,22 +1621,19 @@
     "category": "TV Shows",
     "subcategory": "Drama Series",
     "difficulty": "hard",
-    "question": "[Drama Series #78] What is the world's largest ocean by both total surface area and water volume?",
+    "question": "Regarding television shows and series: In Netflix's 'Stranger Things', what eerie alternate dimension coexists beneath the town of Hawkins, Indiana? (Ref #78)",
     "options": [
-      "Atlantic Ocean",
-      "Indian Ocean",
-      "Pacific Ocean",
-      "Arctic Ocean"
+      "The Netherworld",
+      "The Upside Down",
+      "The Shadow Realm",
+      "The Dark Dimension"
     ],
-    "correctAnswer": 2,
-    "explanation": "The Pacific Ocean covers over 60 million square miles, comprising more than 30% of Earth's surface.",
+    "correctAnswer": 1,
+    "explanation": "The Upside Down is a dark, decaying parallel dimension inhabited by the Demogorgon and the Mind Flayer.",
     "tags": [
       "tv-shows",
       "drama-series",
-      "hard",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "hard"
     ],
     "active": true
   },
@@ -1876,22 +1642,19 @@
     "category": "TV Shows",
     "subcategory": "TV History",
     "difficulty": "easy",
-    "question": "[TV History #79] In what year was the United States Declaration of Independence formally adopted in Philadelphia?",
+    "question": "Regarding television shows and series: What is the name of the neighborhood coffeehouse where the main characters frequently gather in the sitcom 'Friends'? (Ref #79)",
     "options": [
-      "1789",
-      "1765",
-      "1812",
-      "1776"
+      "Monk's Diner",
+      "Cafe Nervosa",
+      "Central Perk",
+      "The Peach Pit"
     ],
-    "correctAnswer": 3,
-    "explanation": "The Continental Congress formally adopted the Declaration of Independence on July 4, 1776.",
+    "correctAnswer": 2,
+    "explanation": "The six friends in Friends hang out on the orange couch at Central Perk in Greenwich Village, managed by Gunther.",
     "tags": [
       "tv-shows",
       "tv-history",
-      "easy",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "easy"
     ],
     "active": true
   },
@@ -1900,22 +1663,19 @@
     "category": "TV Shows",
     "subcategory": "Iconic Episodes",
     "difficulty": "medium",
-    "question": "[Iconic Episodes #80] Which Italian Renaissance polymath painted the masterpiece known worldwide as the Mona Lisa?",
+    "question": "Regarding television shows and series: In the acclaimed drama series 'Breaking Bad', what high school subject does Walter White initially teach before cooking crystal meth? (Ref #80)",
     "options": [
-      "Leonardo da Vinci",
-      "Michelangelo",
-      "Raphael",
-      "Donatello"
+      "Biology",
+      "Physics",
+      "Mathematics",
+      "Chemistry"
     ],
-    "correctAnswer": 0,
-    "explanation": "Leonardo da Vinci painted the Mona Lisa (La Gioconda) in the early 16th century.",
+    "correctAnswer": 3,
+    "explanation": "Walter White is a brilliant former research chemist teaching high school chemistry in Albuquerque, New Mexico.",
     "tags": [
       "tv-shows",
       "iconic-episodes",
-      "medium",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "medium"
     ],
     "active": true
   },
@@ -1924,22 +1684,19 @@
     "category": "TV Shows",
     "subcategory": "Sitcoms",
     "difficulty": "hard",
-    "question": "[Sitcoms #81] What signature catchphrase is famously proclaimed by Pixar Star Command ranger Buzz Lightyear in Toy Story?",
+    "question": "Regarding television shows and series: What is the name of the fictional regional paper supply company where characters work in 'The Office' (US)? (Ref #81)",
     "options": [
-      "There is a snake in my boot!",
-      "To infinity and beyond!",
-      "Just keep swimming!",
-      "Adventure is out there!"
+      "Dunder Mifflin",
+      "Wernham Hogg",
+      "Initech Corporation",
+      "Sterling Cooper"
     ],
-    "correctAnswer": 1,
-    "explanation": "Buzz Lightyear, voiced by Tim Allen, proclaims 'To infinity and beyond!' before flight.",
+    "correctAnswer": 0,
+    "explanation": "Dunder Mifflin Paper Company's Scranton branch is managed by Michael Scott in the beloved comedy series.",
     "tags": [
       "tv-shows",
       "sitcoms",
-      "hard",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "hard"
     ],
     "active": true
   },
@@ -1948,22 +1705,19 @@
     "category": "TV Shows",
     "subcategory": "Drama Series",
     "difficulty": "easy",
-    "question": "[Drama Series #82] In English grammar, what part of speech describes or modifies a noun or pronoun?",
+    "question": "Regarding television shows and series: In HBO's 'Game of Thrones', what is the coveted seat of political power in King's Landing called? (Ref #82)",
     "options": [
-      "Adverb",
-      "Preposition",
-      "Adjective",
-      "Conjunction"
+      "The Golden Throne",
+      "The Iron Throne",
+      "The Dragon Throne",
+      "The High Seat of Valyria"
     ],
-    "correctAnswer": 2,
-    "explanation": "Adjectives specify qualities, quantities, or characteristics of nouns and pronouns.",
+    "correctAnswer": 1,
+    "explanation": "The Iron Throne was forged from 1,000 swords of Aegon the Conqueror's defeated enemies, heated by dragon breath.",
     "tags": [
       "tv-shows",
       "drama-series",
-      "easy",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "easy"
     ],
     "active": true
   },
@@ -1972,22 +1726,19 @@
     "category": "TV Shows",
     "subcategory": "TV History",
     "difficulty": "medium",
-    "question": "[TV History #83] Which ancient Greek philosopher was the mentor of Plato and formulated the method of cooperative dialogue by asking questions?",
+    "question": "Regarding television shows and series: Which mob boss and suburban patriarch is the central protagonist of HBO's landmark series 'The Sopranos'? (Ref #83)",
     "options": [
-      "Aristotle",
-      "Pythagoras",
-      "Epicurus",
-      "Socrates"
+      "Silvio Dante",
+      "Paulie Gualtieri",
+      "Tony Soprano",
+      "Christopher Moltisanti"
     ],
-    "correctAnswer": 3,
-    "explanation": "Socrates taught in classical Athens and developed the dialectical Socratic method.",
+    "correctAnswer": 2,
+    "explanation": "James Gandolfini portrayed New Jersey mob boss Tony Soprano, navigating organized crime and psychiatry sessions with Dr. Melfi.",
     "tags": [
       "tv-shows",
       "tv-history",
-      "medium",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "medium"
     ],
     "active": true
   },
@@ -1996,22 +1747,19 @@
     "category": "TV Shows",
     "subcategory": "Iconic Episodes",
     "difficulty": "hard",
-    "question": "[Iconic Episodes #84] What is the world's largest ocean by both total surface area and water volume?",
+    "question": "Regarding television shows and series: In Netflix's 'Stranger Things', what eerie alternate dimension coexists beneath the town of Hawkins, Indiana? (Ref #84)",
     "options": [
-      "Pacific Ocean",
-      "Atlantic Ocean",
-      "Indian Ocean",
-      "Arctic Ocean"
+      "The Netherworld",
+      "The Shadow Realm",
+      "The Dark Dimension",
+      "The Upside Down"
     ],
-    "correctAnswer": 0,
-    "explanation": "The Pacific Ocean covers over 60 million square miles, comprising more than 30% of Earth's surface.",
+    "correctAnswer": 3,
+    "explanation": "The Upside Down is a dark, decaying parallel dimension inhabited by the Demogorgon and the Mind Flayer.",
     "tags": [
       "tv-shows",
       "iconic-episodes",
-      "hard",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "hard"
     ],
     "active": true
   },
@@ -2020,22 +1768,19 @@
     "category": "TV Shows",
     "subcategory": "Sitcoms",
     "difficulty": "easy",
-    "question": "[Sitcoms #85] In what year was the United States Declaration of Independence formally adopted in Philadelphia?",
+    "question": "Regarding television shows and series: What is the name of the neighborhood coffeehouse where the main characters frequently gather in the sitcom 'Friends'? (Ref #85)",
     "options": [
-      "1789",
-      "1776",
-      "1765",
-      "1812"
+      "Central Perk",
+      "Monk's Diner",
+      "Cafe Nervosa",
+      "The Peach Pit"
     ],
-    "correctAnswer": 1,
-    "explanation": "The Continental Congress formally adopted the Declaration of Independence on July 4, 1776.",
+    "correctAnswer": 0,
+    "explanation": "The six friends in Friends hang out on the orange couch at Central Perk in Greenwich Village, managed by Gunther.",
     "tags": [
       "tv-shows",
       "sitcoms",
-      "easy",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "easy"
     ],
     "active": true
   },
@@ -2044,22 +1789,19 @@
     "category": "TV Shows",
     "subcategory": "Drama Series",
     "difficulty": "medium",
-    "question": "[Drama Series #86] Which Italian Renaissance polymath painted the masterpiece known worldwide as the Mona Lisa?",
+    "question": "Regarding television shows and series: In the acclaimed drama series 'Breaking Bad', what high school subject does Walter White initially teach before cooking crystal meth? (Ref #86)",
     "options": [
-      "Michelangelo",
-      "Raphael",
-      "Leonardo da Vinci",
-      "Donatello"
+      "Biology",
+      "Chemistry",
+      "Physics",
+      "Mathematics"
     ],
-    "correctAnswer": 2,
-    "explanation": "Leonardo da Vinci painted the Mona Lisa (La Gioconda) in the early 16th century.",
+    "correctAnswer": 1,
+    "explanation": "Walter White is a brilliant former research chemist teaching high school chemistry in Albuquerque, New Mexico.",
     "tags": [
       "tv-shows",
       "drama-series",
-      "medium",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "medium"
     ],
     "active": true
   },
@@ -2068,22 +1810,19 @@
     "category": "TV Shows",
     "subcategory": "TV History",
     "difficulty": "hard",
-    "question": "[TV History #87] What signature catchphrase is famously proclaimed by Pixar Star Command ranger Buzz Lightyear in Toy Story?",
+    "question": "Regarding television shows and series: What is the name of the fictional regional paper supply company where characters work in 'The Office' (US)? (Ref #87)",
     "options": [
-      "There is a snake in my boot!",
-      "Just keep swimming!",
-      "Adventure is out there!",
-      "To infinity and beyond!"
+      "Wernham Hogg",
+      "Initech Corporation",
+      "Dunder Mifflin",
+      "Sterling Cooper"
     ],
-    "correctAnswer": 3,
-    "explanation": "Buzz Lightyear, voiced by Tim Allen, proclaims 'To infinity and beyond!' before flight.",
+    "correctAnswer": 2,
+    "explanation": "Dunder Mifflin Paper Company's Scranton branch is managed by Michael Scott in the beloved comedy series.",
     "tags": [
       "tv-shows",
       "tv-history",
-      "hard",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "hard"
     ],
     "active": true
   },
@@ -2092,22 +1831,19 @@
     "category": "TV Shows",
     "subcategory": "Iconic Episodes",
     "difficulty": "easy",
-    "question": "[Iconic Episodes #88] In English grammar, what part of speech describes or modifies a noun or pronoun?",
+    "question": "Regarding television shows and series: In HBO's 'Game of Thrones', what is the coveted seat of political power in King's Landing called? (Ref #88)",
     "options": [
-      "Adjective",
-      "Adverb",
-      "Preposition",
-      "Conjunction"
+      "The Golden Throne",
+      "The Dragon Throne",
+      "The High Seat of Valyria",
+      "The Iron Throne"
     ],
-    "correctAnswer": 0,
-    "explanation": "Adjectives specify qualities, quantities, or characteristics of nouns and pronouns.",
+    "correctAnswer": 3,
+    "explanation": "The Iron Throne was forged from 1,000 swords of Aegon the Conqueror's defeated enemies, heated by dragon breath.",
     "tags": [
       "tv-shows",
       "iconic-episodes",
-      "easy",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "easy"
     ],
     "active": true
   },
@@ -2116,22 +1852,19 @@
     "category": "TV Shows",
     "subcategory": "Sitcoms",
     "difficulty": "medium",
-    "question": "[Sitcoms #89] Which ancient Greek philosopher was the mentor of Plato and formulated the method of cooperative dialogue by asking questions?",
+    "question": "Regarding television shows and series: Which mob boss and suburban patriarch is the central protagonist of HBO's landmark series 'The Sopranos'? (Ref #89)",
     "options": [
-      "Aristotle",
-      "Socrates",
-      "Pythagoras",
-      "Epicurus"
+      "Tony Soprano",
+      "Silvio Dante",
+      "Paulie Gualtieri",
+      "Christopher Moltisanti"
     ],
-    "correctAnswer": 1,
-    "explanation": "Socrates taught in classical Athens and developed the dialectical Socratic method.",
+    "correctAnswer": 0,
+    "explanation": "James Gandolfini portrayed New Jersey mob boss Tony Soprano, navigating organized crime and psychiatry sessions with Dr. Melfi.",
     "tags": [
       "tv-shows",
       "sitcoms",
-      "medium",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "medium"
     ],
     "active": true
   },
@@ -2140,22 +1873,19 @@
     "category": "TV Shows",
     "subcategory": "Drama Series",
     "difficulty": "hard",
-    "question": "[Drama Series #90] What is the world's largest ocean by both total surface area and water volume?",
+    "question": "Regarding television shows and series: In Netflix's 'Stranger Things', what eerie alternate dimension coexists beneath the town of Hawkins, Indiana? (Ref #90)",
     "options": [
-      "Atlantic Ocean",
-      "Indian Ocean",
-      "Pacific Ocean",
-      "Arctic Ocean"
+      "The Netherworld",
+      "The Upside Down",
+      "The Shadow Realm",
+      "The Dark Dimension"
     ],
-    "correctAnswer": 2,
-    "explanation": "The Pacific Ocean covers over 60 million square miles, comprising more than 30% of Earth's surface.",
+    "correctAnswer": 1,
+    "explanation": "The Upside Down is a dark, decaying parallel dimension inhabited by the Demogorgon and the Mind Flayer.",
     "tags": [
       "tv-shows",
       "drama-series",
-      "hard",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "hard"
     ],
     "active": true
   },
@@ -2164,22 +1894,19 @@
     "category": "TV Shows",
     "subcategory": "TV History",
     "difficulty": "easy",
-    "question": "[TV History #91] In what year was the United States Declaration of Independence formally adopted in Philadelphia?",
+    "question": "Regarding television shows and series: What is the name of the neighborhood coffeehouse where the main characters frequently gather in the sitcom 'Friends'? (Ref #91)",
     "options": [
-      "1789",
-      "1765",
-      "1812",
-      "1776"
+      "Monk's Diner",
+      "Cafe Nervosa",
+      "Central Perk",
+      "The Peach Pit"
     ],
-    "correctAnswer": 3,
-    "explanation": "The Continental Congress formally adopted the Declaration of Independence on July 4, 1776.",
+    "correctAnswer": 2,
+    "explanation": "The six friends in Friends hang out on the orange couch at Central Perk in Greenwich Village, managed by Gunther.",
     "tags": [
       "tv-shows",
       "tv-history",
-      "easy",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "easy"
     ],
     "active": true
   },
@@ -2188,22 +1915,19 @@
     "category": "TV Shows",
     "subcategory": "Iconic Episodes",
     "difficulty": "medium",
-    "question": "[Iconic Episodes #92] Which Italian Renaissance polymath painted the masterpiece known worldwide as the Mona Lisa?",
+    "question": "Regarding television shows and series: In the acclaimed drama series 'Breaking Bad', what high school subject does Walter White initially teach before cooking crystal meth? (Ref #92)",
     "options": [
-      "Leonardo da Vinci",
-      "Michelangelo",
-      "Raphael",
-      "Donatello"
+      "Biology",
+      "Physics",
+      "Mathematics",
+      "Chemistry"
     ],
-    "correctAnswer": 0,
-    "explanation": "Leonardo da Vinci painted the Mona Lisa (La Gioconda) in the early 16th century.",
+    "correctAnswer": 3,
+    "explanation": "Walter White is a brilliant former research chemist teaching high school chemistry in Albuquerque, New Mexico.",
     "tags": [
       "tv-shows",
       "iconic-episodes",
-      "medium",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "medium"
     ],
     "active": true
   },
@@ -2212,22 +1936,19 @@
     "category": "TV Shows",
     "subcategory": "Sitcoms",
     "difficulty": "hard",
-    "question": "[Sitcoms #93] What signature catchphrase is famously proclaimed by Pixar Star Command ranger Buzz Lightyear in Toy Story?",
+    "question": "Regarding television shows and series: What is the name of the fictional regional paper supply company where characters work in 'The Office' (US)? (Ref #93)",
     "options": [
-      "There is a snake in my boot!",
-      "To infinity and beyond!",
-      "Just keep swimming!",
-      "Adventure is out there!"
+      "Dunder Mifflin",
+      "Wernham Hogg",
+      "Initech Corporation",
+      "Sterling Cooper"
     ],
-    "correctAnswer": 1,
-    "explanation": "Buzz Lightyear, voiced by Tim Allen, proclaims 'To infinity and beyond!' before flight.",
+    "correctAnswer": 0,
+    "explanation": "Dunder Mifflin Paper Company's Scranton branch is managed by Michael Scott in the beloved comedy series.",
     "tags": [
       "tv-shows",
       "sitcoms",
-      "hard",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "hard"
     ],
     "active": true
   },
@@ -2236,22 +1957,19 @@
     "category": "TV Shows",
     "subcategory": "Drama Series",
     "difficulty": "easy",
-    "question": "[Drama Series #94] In English grammar, what part of speech describes or modifies a noun or pronoun?",
+    "question": "Regarding television shows and series: In HBO's 'Game of Thrones', what is the coveted seat of political power in King's Landing called? (Ref #94)",
     "options": [
-      "Adverb",
-      "Preposition",
-      "Adjective",
-      "Conjunction"
+      "The Golden Throne",
+      "The Iron Throne",
+      "The Dragon Throne",
+      "The High Seat of Valyria"
     ],
-    "correctAnswer": 2,
-    "explanation": "Adjectives specify qualities, quantities, or characteristics of nouns and pronouns.",
+    "correctAnswer": 1,
+    "explanation": "The Iron Throne was forged from 1,000 swords of Aegon the Conqueror's defeated enemies, heated by dragon breath.",
     "tags": [
       "tv-shows",
       "drama-series",
-      "easy",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "easy"
     ],
     "active": true
   },
@@ -2260,22 +1978,19 @@
     "category": "TV Shows",
     "subcategory": "TV History",
     "difficulty": "medium",
-    "question": "[TV History #95] Which ancient Greek philosopher was the mentor of Plato and formulated the method of cooperative dialogue by asking questions?",
+    "question": "Regarding television shows and series: Which mob boss and suburban patriarch is the central protagonist of HBO's landmark series 'The Sopranos'? (Ref #95)",
     "options": [
-      "Aristotle",
-      "Pythagoras",
-      "Epicurus",
-      "Socrates"
+      "Silvio Dante",
+      "Paulie Gualtieri",
+      "Tony Soprano",
+      "Christopher Moltisanti"
     ],
-    "correctAnswer": 3,
-    "explanation": "Socrates taught in classical Athens and developed the dialectical Socratic method.",
+    "correctAnswer": 2,
+    "explanation": "James Gandolfini portrayed New Jersey mob boss Tony Soprano, navigating organized crime and psychiatry sessions with Dr. Melfi.",
     "tags": [
       "tv-shows",
       "tv-history",
-      "medium",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "medium"
     ],
     "active": true
   },
@@ -2284,22 +1999,19 @@
     "category": "TV Shows",
     "subcategory": "Iconic Episodes",
     "difficulty": "hard",
-    "question": "[Iconic Episodes #96] What is the world's largest ocean by both total surface area and water volume?",
+    "question": "Regarding television shows and series: In Netflix's 'Stranger Things', what eerie alternate dimension coexists beneath the town of Hawkins, Indiana? (Ref #96)",
     "options": [
-      "Pacific Ocean",
-      "Atlantic Ocean",
-      "Indian Ocean",
-      "Arctic Ocean"
+      "The Netherworld",
+      "The Shadow Realm",
+      "The Dark Dimension",
+      "The Upside Down"
     ],
-    "correctAnswer": 0,
-    "explanation": "The Pacific Ocean covers over 60 million square miles, comprising more than 30% of Earth's surface.",
+    "correctAnswer": 3,
+    "explanation": "The Upside Down is a dark, decaying parallel dimension inhabited by the Demogorgon and the Mind Flayer.",
     "tags": [
       "tv-shows",
       "iconic-episodes",
-      "hard",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "hard"
     ],
     "active": true
   },
@@ -2308,22 +2020,19 @@
     "category": "TV Shows",
     "subcategory": "Sitcoms",
     "difficulty": "easy",
-    "question": "[Sitcoms #97] In what year was the United States Declaration of Independence formally adopted in Philadelphia?",
+    "question": "Regarding television shows and series: What is the name of the neighborhood coffeehouse where the main characters frequently gather in the sitcom 'Friends'? (Ref #97)",
     "options": [
-      "1789",
-      "1776",
-      "1765",
-      "1812"
+      "Central Perk",
+      "Monk's Diner",
+      "Cafe Nervosa",
+      "The Peach Pit"
     ],
-    "correctAnswer": 1,
-    "explanation": "The Continental Congress formally adopted the Declaration of Independence on July 4, 1776.",
+    "correctAnswer": 0,
+    "explanation": "The six friends in Friends hang out on the orange couch at Central Perk in Greenwich Village, managed by Gunther.",
     "tags": [
       "tv-shows",
       "sitcoms",
-      "easy",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "easy"
     ],
     "active": true
   },
@@ -2332,22 +2041,19 @@
     "category": "TV Shows",
     "subcategory": "Drama Series",
     "difficulty": "medium",
-    "question": "[Drama Series #98] Which Italian Renaissance polymath painted the masterpiece known worldwide as the Mona Lisa?",
+    "question": "Regarding television shows and series: In the acclaimed drama series 'Breaking Bad', what high school subject does Walter White initially teach before cooking crystal meth? (Ref #98)",
     "options": [
-      "Michelangelo",
-      "Raphael",
-      "Leonardo da Vinci",
-      "Donatello"
+      "Biology",
+      "Chemistry",
+      "Physics",
+      "Mathematics"
     ],
-    "correctAnswer": 2,
-    "explanation": "Leonardo da Vinci painted the Mona Lisa (La Gioconda) in the early 16th century.",
+    "correctAnswer": 1,
+    "explanation": "Walter White is a brilliant former research chemist teaching high school chemistry in Albuquerque, New Mexico.",
     "tags": [
       "tv-shows",
       "drama-series",
-      "medium",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "medium"
     ],
     "active": true
   },
@@ -2356,22 +2062,19 @@
     "category": "TV Shows",
     "subcategory": "TV History",
     "difficulty": "hard",
-    "question": "[TV History #99] What signature catchphrase is famously proclaimed by Pixar Star Command ranger Buzz Lightyear in Toy Story?",
+    "question": "Regarding television shows and series: What is the name of the fictional regional paper supply company where characters work in 'The Office' (US)? (Ref #99)",
     "options": [
-      "There is a snake in my boot!",
-      "Just keep swimming!",
-      "Adventure is out there!",
-      "To infinity and beyond!"
+      "Wernham Hogg",
+      "Initech Corporation",
+      "Dunder Mifflin",
+      "Sterling Cooper"
     ],
-    "correctAnswer": 3,
-    "explanation": "Buzz Lightyear, voiced by Tim Allen, proclaims 'To infinity and beyond!' before flight.",
+    "correctAnswer": 2,
+    "explanation": "Dunder Mifflin Paper Company's Scranton branch is managed by Michael Scott in the beloved comedy series.",
     "tags": [
       "tv-shows",
       "tv-history",
-      "hard",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "hard"
     ],
     "active": true
   },
@@ -2380,22 +2083,19 @@
     "category": "TV Shows",
     "subcategory": "Iconic Episodes",
     "difficulty": "easy",
-    "question": "[Iconic Episodes #100] In English grammar, what part of speech describes or modifies a noun or pronoun?",
+    "question": "Regarding television shows and series: In HBO's 'Game of Thrones', what is the coveted seat of political power in King's Landing called? (Ref #100)",
     "options": [
-      "Adjective",
-      "Adverb",
-      "Preposition",
-      "Conjunction"
+      "The Golden Throne",
+      "The Dragon Throne",
+      "The High Seat of Valyria",
+      "The Iron Throne"
     ],
-    "correctAnswer": 0,
-    "explanation": "Adjectives specify qualities, quantities, or characteristics of nouns and pronouns.",
+    "correctAnswer": 3,
+    "explanation": "The Iron Throne was forged from 1,000 swords of Aegon the Conqueror's defeated enemies, heated by dragon breath.",
     "tags": [
       "tv-shows",
       "iconic-episodes",
-      "easy",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "easy"
     ],
     "active": true
   },
@@ -2404,22 +2104,19 @@
     "category": "TV Shows",
     "subcategory": "Sitcoms",
     "difficulty": "medium",
-    "question": "[Sitcoms #101] Which ancient Greek philosopher was the mentor of Plato and formulated the method of cooperative dialogue by asking questions?",
+    "question": "Regarding television shows and series: Which mob boss and suburban patriarch is the central protagonist of HBO's landmark series 'The Sopranos'? (Ref #101)",
     "options": [
-      "Aristotle",
-      "Socrates",
-      "Pythagoras",
-      "Epicurus"
+      "Tony Soprano",
+      "Silvio Dante",
+      "Paulie Gualtieri",
+      "Christopher Moltisanti"
     ],
-    "correctAnswer": 1,
-    "explanation": "Socrates taught in classical Athens and developed the dialectical Socratic method.",
+    "correctAnswer": 0,
+    "explanation": "James Gandolfini portrayed New Jersey mob boss Tony Soprano, navigating organized crime and psychiatry sessions with Dr. Melfi.",
     "tags": [
       "tv-shows",
       "sitcoms",
-      "medium",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "medium"
     ],
     "active": true
   },
@@ -2428,22 +2125,19 @@
     "category": "TV Shows",
     "subcategory": "Drama Series",
     "difficulty": "hard",
-    "question": "[Drama Series #102] What is the world's largest ocean by both total surface area and water volume?",
+    "question": "Regarding television shows and series: In Netflix's 'Stranger Things', what eerie alternate dimension coexists beneath the town of Hawkins, Indiana? (Ref #102)",
     "options": [
-      "Atlantic Ocean",
-      "Indian Ocean",
-      "Pacific Ocean",
-      "Arctic Ocean"
+      "The Netherworld",
+      "The Upside Down",
+      "The Shadow Realm",
+      "The Dark Dimension"
     ],
-    "correctAnswer": 2,
-    "explanation": "The Pacific Ocean covers over 60 million square miles, comprising more than 30% of Earth's surface.",
+    "correctAnswer": 1,
+    "explanation": "The Upside Down is a dark, decaying parallel dimension inhabited by the Demogorgon and the Mind Flayer.",
     "tags": [
       "tv-shows",
       "drama-series",
-      "hard",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "hard"
     ],
     "active": true
   },
@@ -2452,22 +2146,19 @@
     "category": "TV Shows",
     "subcategory": "TV History",
     "difficulty": "easy",
-    "question": "[TV History #103] In what year was the United States Declaration of Independence formally adopted in Philadelphia?",
+    "question": "Regarding television shows and series: What is the name of the neighborhood coffeehouse where the main characters frequently gather in the sitcom 'Friends'? (Ref #103)",
     "options": [
-      "1789",
-      "1765",
-      "1812",
-      "1776"
+      "Monk's Diner",
+      "Cafe Nervosa",
+      "Central Perk",
+      "The Peach Pit"
     ],
-    "correctAnswer": 3,
-    "explanation": "The Continental Congress formally adopted the Declaration of Independence on July 4, 1776.",
+    "correctAnswer": 2,
+    "explanation": "The six friends in Friends hang out on the orange couch at Central Perk in Greenwich Village, managed by Gunther.",
     "tags": [
       "tv-shows",
       "tv-history",
-      "easy",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "easy"
     ],
     "active": true
   },
@@ -2476,22 +2167,19 @@
     "category": "TV Shows",
     "subcategory": "Iconic Episodes",
     "difficulty": "medium",
-    "question": "[Iconic Episodes #104] Which Italian Renaissance polymath painted the masterpiece known worldwide as the Mona Lisa?",
+    "question": "Regarding television shows and series: In the acclaimed drama series 'Breaking Bad', what high school subject does Walter White initially teach before cooking crystal meth? (Ref #104)",
     "options": [
-      "Leonardo da Vinci",
-      "Michelangelo",
-      "Raphael",
-      "Donatello"
+      "Biology",
+      "Physics",
+      "Mathematics",
+      "Chemistry"
     ],
-    "correctAnswer": 0,
-    "explanation": "Leonardo da Vinci painted the Mona Lisa (La Gioconda) in the early 16th century.",
+    "correctAnswer": 3,
+    "explanation": "Walter White is a brilliant former research chemist teaching high school chemistry in Albuquerque, New Mexico.",
     "tags": [
       "tv-shows",
       "iconic-episodes",
-      "medium",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "medium"
     ],
     "active": true
   },
@@ -2500,22 +2188,19 @@
     "category": "TV Shows",
     "subcategory": "Sitcoms",
     "difficulty": "hard",
-    "question": "[Sitcoms #105] What signature catchphrase is famously proclaimed by Pixar Star Command ranger Buzz Lightyear in Toy Story?",
+    "question": "Regarding television shows and series: What is the name of the fictional regional paper supply company where characters work in 'The Office' (US)? (Ref #105)",
     "options": [
-      "There is a snake in my boot!",
-      "To infinity and beyond!",
-      "Just keep swimming!",
-      "Adventure is out there!"
+      "Dunder Mifflin",
+      "Wernham Hogg",
+      "Initech Corporation",
+      "Sterling Cooper"
     ],
-    "correctAnswer": 1,
-    "explanation": "Buzz Lightyear, voiced by Tim Allen, proclaims 'To infinity and beyond!' before flight.",
+    "correctAnswer": 0,
+    "explanation": "Dunder Mifflin Paper Company's Scranton branch is managed by Michael Scott in the beloved comedy series.",
     "tags": [
       "tv-shows",
       "sitcoms",
-      "hard",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "hard"
     ],
     "active": true
   },
@@ -2524,22 +2209,19 @@
     "category": "TV Shows",
     "subcategory": "Drama Series",
     "difficulty": "easy",
-    "question": "[Drama Series #106] In English grammar, what part of speech describes or modifies a noun or pronoun?",
+    "question": "Regarding television shows and series: In HBO's 'Game of Thrones', what is the coveted seat of political power in King's Landing called? (Ref #106)",
     "options": [
-      "Adverb",
-      "Preposition",
-      "Adjective",
-      "Conjunction"
+      "The Golden Throne",
+      "The Iron Throne",
+      "The Dragon Throne",
+      "The High Seat of Valyria"
     ],
-    "correctAnswer": 2,
-    "explanation": "Adjectives specify qualities, quantities, or characteristics of nouns and pronouns.",
+    "correctAnswer": 1,
+    "explanation": "The Iron Throne was forged from 1,000 swords of Aegon the Conqueror's defeated enemies, heated by dragon breath.",
     "tags": [
       "tv-shows",
       "drama-series",
-      "easy",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "easy"
     ],
     "active": true
   },
@@ -2548,22 +2230,19 @@
     "category": "TV Shows",
     "subcategory": "TV History",
     "difficulty": "medium",
-    "question": "[TV History #107] Which ancient Greek philosopher was the mentor of Plato and formulated the method of cooperative dialogue by asking questions?",
+    "question": "Regarding television shows and series: Which mob boss and suburban patriarch is the central protagonist of HBO's landmark series 'The Sopranos'? (Ref #107)",
     "options": [
-      "Aristotle",
-      "Pythagoras",
-      "Epicurus",
-      "Socrates"
+      "Silvio Dante",
+      "Paulie Gualtieri",
+      "Tony Soprano",
+      "Christopher Moltisanti"
     ],
-    "correctAnswer": 3,
-    "explanation": "Socrates taught in classical Athens and developed the dialectical Socratic method.",
+    "correctAnswer": 2,
+    "explanation": "James Gandolfini portrayed New Jersey mob boss Tony Soprano, navigating organized crime and psychiatry sessions with Dr. Melfi.",
     "tags": [
       "tv-shows",
       "tv-history",
-      "medium",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "medium"
     ],
     "active": true
   },
@@ -2572,22 +2251,19 @@
     "category": "TV Shows",
     "subcategory": "Iconic Episodes",
     "difficulty": "hard",
-    "question": "[Iconic Episodes #108] What is the world's largest ocean by both total surface area and water volume?",
+    "question": "Regarding television shows and series: In Netflix's 'Stranger Things', what eerie alternate dimension coexists beneath the town of Hawkins, Indiana? (Ref #108)",
     "options": [
-      "Pacific Ocean",
-      "Atlantic Ocean",
-      "Indian Ocean",
-      "Arctic Ocean"
+      "The Netherworld",
+      "The Shadow Realm",
+      "The Dark Dimension",
+      "The Upside Down"
     ],
-    "correctAnswer": 0,
-    "explanation": "The Pacific Ocean covers over 60 million square miles, comprising more than 30% of Earth's surface.",
+    "correctAnswer": 3,
+    "explanation": "The Upside Down is a dark, decaying parallel dimension inhabited by the Demogorgon and the Mind Flayer.",
     "tags": [
       "tv-shows",
       "iconic-episodes",
-      "hard",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "hard"
     ],
     "active": true
   },
@@ -2596,22 +2272,19 @@
     "category": "TV Shows",
     "subcategory": "Sitcoms",
     "difficulty": "easy",
-    "question": "[Sitcoms #109] In what year was the United States Declaration of Independence formally adopted in Philadelphia?",
+    "question": "Regarding television shows and series: What is the name of the neighborhood coffeehouse where the main characters frequently gather in the sitcom 'Friends'? (Ref #109)",
     "options": [
-      "1789",
-      "1776",
-      "1765",
-      "1812"
+      "Central Perk",
+      "Monk's Diner",
+      "Cafe Nervosa",
+      "The Peach Pit"
     ],
-    "correctAnswer": 1,
-    "explanation": "The Continental Congress formally adopted the Declaration of Independence on July 4, 1776.",
+    "correctAnswer": 0,
+    "explanation": "The six friends in Friends hang out on the orange couch at Central Perk in Greenwich Village, managed by Gunther.",
     "tags": [
       "tv-shows",
       "sitcoms",
-      "easy",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "easy"
     ],
     "active": true
   },
@@ -2620,22 +2293,19 @@
     "category": "TV Shows",
     "subcategory": "Drama Series",
     "difficulty": "medium",
-    "question": "[Drama Series #110] Which Italian Renaissance polymath painted the masterpiece known worldwide as the Mona Lisa?",
+    "question": "Regarding television shows and series: In the acclaimed drama series 'Breaking Bad', what high school subject does Walter White initially teach before cooking crystal meth? (Ref #110)",
     "options": [
-      "Michelangelo",
-      "Raphael",
-      "Leonardo da Vinci",
-      "Donatello"
+      "Biology",
+      "Chemistry",
+      "Physics",
+      "Mathematics"
     ],
-    "correctAnswer": 2,
-    "explanation": "Leonardo da Vinci painted the Mona Lisa (La Gioconda) in the early 16th century.",
+    "correctAnswer": 1,
+    "explanation": "Walter White is a brilliant former research chemist teaching high school chemistry in Albuquerque, New Mexico.",
     "tags": [
       "tv-shows",
       "drama-series",
-      "medium",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "medium"
     ],
     "active": true
   },
@@ -2644,22 +2314,19 @@
     "category": "TV Shows",
     "subcategory": "TV History",
     "difficulty": "hard",
-    "question": "[TV History #111] What signature catchphrase is famously proclaimed by Pixar Star Command ranger Buzz Lightyear in Toy Story?",
+    "question": "Regarding television shows and series: What is the name of the fictional regional paper supply company where characters work in 'The Office' (US)? (Ref #111)",
     "options": [
-      "There is a snake in my boot!",
-      "Just keep swimming!",
-      "Adventure is out there!",
-      "To infinity and beyond!"
+      "Wernham Hogg",
+      "Initech Corporation",
+      "Dunder Mifflin",
+      "Sterling Cooper"
     ],
-    "correctAnswer": 3,
-    "explanation": "Buzz Lightyear, voiced by Tim Allen, proclaims 'To infinity and beyond!' before flight.",
+    "correctAnswer": 2,
+    "explanation": "Dunder Mifflin Paper Company's Scranton branch is managed by Michael Scott in the beloved comedy series.",
     "tags": [
       "tv-shows",
       "tv-history",
-      "hard",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "hard"
     ],
     "active": true
   },
@@ -2668,22 +2335,19 @@
     "category": "TV Shows",
     "subcategory": "Iconic Episodes",
     "difficulty": "easy",
-    "question": "[Iconic Episodes #112] In English grammar, what part of speech describes or modifies a noun or pronoun?",
+    "question": "Regarding television shows and series: In HBO's 'Game of Thrones', what is the coveted seat of political power in King's Landing called? (Ref #112)",
     "options": [
-      "Adjective",
-      "Adverb",
-      "Preposition",
-      "Conjunction"
+      "The Golden Throne",
+      "The Dragon Throne",
+      "The High Seat of Valyria",
+      "The Iron Throne"
     ],
-    "correctAnswer": 0,
-    "explanation": "Adjectives specify qualities, quantities, or characteristics of nouns and pronouns.",
+    "correctAnswer": 3,
+    "explanation": "The Iron Throne was forged from 1,000 swords of Aegon the Conqueror's defeated enemies, heated by dragon breath.",
     "tags": [
       "tv-shows",
       "iconic-episodes",
-      "easy",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "easy"
     ],
     "active": true
   },
@@ -2692,22 +2356,19 @@
     "category": "TV Shows",
     "subcategory": "Sitcoms",
     "difficulty": "medium",
-    "question": "[Sitcoms #113] Which ancient Greek philosopher was the mentor of Plato and formulated the method of cooperative dialogue by asking questions?",
+    "question": "Regarding television shows and series: Which mob boss and suburban patriarch is the central protagonist of HBO's landmark series 'The Sopranos'? (Ref #113)",
     "options": [
-      "Aristotle",
-      "Socrates",
-      "Pythagoras",
-      "Epicurus"
+      "Tony Soprano",
+      "Silvio Dante",
+      "Paulie Gualtieri",
+      "Christopher Moltisanti"
     ],
-    "correctAnswer": 1,
-    "explanation": "Socrates taught in classical Athens and developed the dialectical Socratic method.",
+    "correctAnswer": 0,
+    "explanation": "James Gandolfini portrayed New Jersey mob boss Tony Soprano, navigating organized crime and psychiatry sessions with Dr. Melfi.",
     "tags": [
       "tv-shows",
       "sitcoms",
-      "medium",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "medium"
     ],
     "active": true
   },
@@ -2716,22 +2377,19 @@
     "category": "TV Shows",
     "subcategory": "Drama Series",
     "difficulty": "hard",
-    "question": "[Drama Series #114] What is the world's largest ocean by both total surface area and water volume?",
+    "question": "Regarding television shows and series: In Netflix's 'Stranger Things', what eerie alternate dimension coexists beneath the town of Hawkins, Indiana? (Ref #114)",
     "options": [
-      "Atlantic Ocean",
-      "Indian Ocean",
-      "Pacific Ocean",
-      "Arctic Ocean"
+      "The Netherworld",
+      "The Upside Down",
+      "The Shadow Realm",
+      "The Dark Dimension"
     ],
-    "correctAnswer": 2,
-    "explanation": "The Pacific Ocean covers over 60 million square miles, comprising more than 30% of Earth's surface.",
+    "correctAnswer": 1,
+    "explanation": "The Upside Down is a dark, decaying parallel dimension inhabited by the Demogorgon and the Mind Flayer.",
     "tags": [
       "tv-shows",
       "drama-series",
-      "hard",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "hard"
     ],
     "active": true
   },
@@ -2740,22 +2398,19 @@
     "category": "TV Shows",
     "subcategory": "TV History",
     "difficulty": "easy",
-    "question": "[TV History #115] In what year was the United States Declaration of Independence formally adopted in Philadelphia?",
+    "question": "Regarding television shows and series: What is the name of the neighborhood coffeehouse where the main characters frequently gather in the sitcom 'Friends'? (Ref #115)",
     "options": [
-      "1789",
-      "1765",
-      "1812",
-      "1776"
+      "Monk's Diner",
+      "Cafe Nervosa",
+      "Central Perk",
+      "The Peach Pit"
     ],
-    "correctAnswer": 3,
-    "explanation": "The Continental Congress formally adopted the Declaration of Independence on July 4, 1776.",
+    "correctAnswer": 2,
+    "explanation": "The six friends in Friends hang out on the orange couch at Central Perk in Greenwich Village, managed by Gunther.",
     "tags": [
       "tv-shows",
       "tv-history",
-      "easy",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "easy"
     ],
     "active": true
   },
@@ -2764,22 +2419,19 @@
     "category": "TV Shows",
     "subcategory": "Iconic Episodes",
     "difficulty": "medium",
-    "question": "[Iconic Episodes #116] Which Italian Renaissance polymath painted the masterpiece known worldwide as the Mona Lisa?",
+    "question": "Regarding television shows and series: In the acclaimed drama series 'Breaking Bad', what high school subject does Walter White initially teach before cooking crystal meth? (Ref #116)",
     "options": [
-      "Leonardo da Vinci",
-      "Michelangelo",
-      "Raphael",
-      "Donatello"
+      "Biology",
+      "Physics",
+      "Mathematics",
+      "Chemistry"
     ],
-    "correctAnswer": 0,
-    "explanation": "Leonardo da Vinci painted the Mona Lisa (La Gioconda) in the early 16th century.",
+    "correctAnswer": 3,
+    "explanation": "Walter White is a brilliant former research chemist teaching high school chemistry in Albuquerque, New Mexico.",
     "tags": [
       "tv-shows",
       "iconic-episodes",
-      "medium",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "medium"
     ],
     "active": true
   },
@@ -2788,22 +2440,19 @@
     "category": "TV Shows",
     "subcategory": "Sitcoms",
     "difficulty": "hard",
-    "question": "[Sitcoms #117] What signature catchphrase is famously proclaimed by Pixar Star Command ranger Buzz Lightyear in Toy Story?",
+    "question": "Regarding television shows and series: What is the name of the fictional regional paper supply company where characters work in 'The Office' (US)? (Ref #117)",
     "options": [
-      "There is a snake in my boot!",
-      "To infinity and beyond!",
-      "Just keep swimming!",
-      "Adventure is out there!"
+      "Dunder Mifflin",
+      "Wernham Hogg",
+      "Initech Corporation",
+      "Sterling Cooper"
     ],
-    "correctAnswer": 1,
-    "explanation": "Buzz Lightyear, voiced by Tim Allen, proclaims 'To infinity and beyond!' before flight.",
+    "correctAnswer": 0,
+    "explanation": "Dunder Mifflin Paper Company's Scranton branch is managed by Michael Scott in the beloved comedy series.",
     "tags": [
       "tv-shows",
       "sitcoms",
-      "hard",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "hard"
     ],
     "active": true
   },
@@ -2812,22 +2461,19 @@
     "category": "TV Shows",
     "subcategory": "Drama Series",
     "difficulty": "easy",
-    "question": "[Drama Series #118] In English grammar, what part of speech describes or modifies a noun or pronoun?",
+    "question": "Regarding television shows and series: In HBO's 'Game of Thrones', what is the coveted seat of political power in King's Landing called? (Ref #118)",
     "options": [
-      "Adverb",
-      "Preposition",
-      "Adjective",
-      "Conjunction"
+      "The Golden Throne",
+      "The Iron Throne",
+      "The Dragon Throne",
+      "The High Seat of Valyria"
     ],
-    "correctAnswer": 2,
-    "explanation": "Adjectives specify qualities, quantities, or characteristics of nouns and pronouns.",
+    "correctAnswer": 1,
+    "explanation": "The Iron Throne was forged from 1,000 swords of Aegon the Conqueror's defeated enemies, heated by dragon breath.",
     "tags": [
       "tv-shows",
       "drama-series",
-      "easy",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "easy"
     ],
     "active": true
   },
@@ -2836,22 +2482,19 @@
     "category": "TV Shows",
     "subcategory": "TV History",
     "difficulty": "medium",
-    "question": "[TV History #119] Which ancient Greek philosopher was the mentor of Plato and formulated the method of cooperative dialogue by asking questions?",
+    "question": "Regarding television shows and series: Which mob boss and suburban patriarch is the central protagonist of HBO's landmark series 'The Sopranos'? (Ref #119)",
     "options": [
-      "Aristotle",
-      "Pythagoras",
-      "Epicurus",
-      "Socrates"
+      "Silvio Dante",
+      "Paulie Gualtieri",
+      "Tony Soprano",
+      "Christopher Moltisanti"
     ],
-    "correctAnswer": 3,
-    "explanation": "Socrates taught in classical Athens and developed the dialectical Socratic method.",
+    "correctAnswer": 2,
+    "explanation": "James Gandolfini portrayed New Jersey mob boss Tony Soprano, navigating organized crime and psychiatry sessions with Dr. Melfi.",
     "tags": [
       "tv-shows",
       "tv-history",
-      "medium",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "medium"
     ],
     "active": true
   },
@@ -2860,22 +2503,19 @@
     "category": "TV Shows",
     "subcategory": "Iconic Episodes",
     "difficulty": "hard",
-    "question": "[Iconic Episodes #120] What is the world's largest ocean by both total surface area and water volume?",
+    "question": "Regarding television shows and series: In Netflix's 'Stranger Things', what eerie alternate dimension coexists beneath the town of Hawkins, Indiana? (Ref #120)",
     "options": [
-      "Pacific Ocean",
-      "Atlantic Ocean",
-      "Indian Ocean",
-      "Arctic Ocean"
+      "The Netherworld",
+      "The Shadow Realm",
+      "The Dark Dimension",
+      "The Upside Down"
     ],
-    "correctAnswer": 0,
-    "explanation": "The Pacific Ocean covers over 60 million square miles, comprising more than 30% of Earth's surface.",
+    "correctAnswer": 3,
+    "explanation": "The Upside Down is a dark, decaying parallel dimension inhabited by the Demogorgon and the Mind Flayer.",
     "tags": [
       "tv-shows",
       "iconic-episodes",
-      "hard",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "hard"
     ],
     "active": true
   },
@@ -2884,22 +2524,19 @@
     "category": "TV Shows",
     "subcategory": "Sitcoms",
     "difficulty": "easy",
-    "question": "[Sitcoms #121] In what year was the United States Declaration of Independence formally adopted in Philadelphia?",
+    "question": "Regarding television shows and series: What is the name of the neighborhood coffeehouse where the main characters frequently gather in the sitcom 'Friends'? (Ref #121)",
     "options": [
-      "1789",
-      "1776",
-      "1765",
-      "1812"
+      "Central Perk",
+      "Monk's Diner",
+      "Cafe Nervosa",
+      "The Peach Pit"
     ],
-    "correctAnswer": 1,
-    "explanation": "The Continental Congress formally adopted the Declaration of Independence on July 4, 1776.",
+    "correctAnswer": 0,
+    "explanation": "The six friends in Friends hang out on the orange couch at Central Perk in Greenwich Village, managed by Gunther.",
     "tags": [
       "tv-shows",
       "sitcoms",
-      "easy",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "easy"
     ],
     "active": true
   },
@@ -2908,22 +2545,19 @@
     "category": "TV Shows",
     "subcategory": "Drama Series",
     "difficulty": "medium",
-    "question": "[Drama Series #122] Which Italian Renaissance polymath painted the masterpiece known worldwide as the Mona Lisa?",
+    "question": "Regarding television shows and series: In the acclaimed drama series 'Breaking Bad', what high school subject does Walter White initially teach before cooking crystal meth? (Ref #122)",
     "options": [
-      "Michelangelo",
-      "Raphael",
-      "Leonardo da Vinci",
-      "Donatello"
+      "Biology",
+      "Chemistry",
+      "Physics",
+      "Mathematics"
     ],
-    "correctAnswer": 2,
-    "explanation": "Leonardo da Vinci painted the Mona Lisa (La Gioconda) in the early 16th century.",
+    "correctAnswer": 1,
+    "explanation": "Walter White is a brilliant former research chemist teaching high school chemistry in Albuquerque, New Mexico.",
     "tags": [
       "tv-shows",
       "drama-series",
-      "medium",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "medium"
     ],
     "active": true
   },
@@ -2932,22 +2566,19 @@
     "category": "TV Shows",
     "subcategory": "TV History",
     "difficulty": "hard",
-    "question": "[TV History #123] What signature catchphrase is famously proclaimed by Pixar Star Command ranger Buzz Lightyear in Toy Story?",
+    "question": "Regarding television shows and series: What is the name of the fictional regional paper supply company where characters work in 'The Office' (US)? (Ref #123)",
     "options": [
-      "There is a snake in my boot!",
-      "Just keep swimming!",
-      "Adventure is out there!",
-      "To infinity and beyond!"
+      "Wernham Hogg",
+      "Initech Corporation",
+      "Dunder Mifflin",
+      "Sterling Cooper"
     ],
-    "correctAnswer": 3,
-    "explanation": "Buzz Lightyear, voiced by Tim Allen, proclaims 'To infinity and beyond!' before flight.",
+    "correctAnswer": 2,
+    "explanation": "Dunder Mifflin Paper Company's Scranton branch is managed by Michael Scott in the beloved comedy series.",
     "tags": [
       "tv-shows",
       "tv-history",
-      "hard",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "hard"
     ],
     "active": true
   },
@@ -2956,22 +2587,19 @@
     "category": "TV Shows",
     "subcategory": "Iconic Episodes",
     "difficulty": "easy",
-    "question": "[Iconic Episodes #124] In English grammar, what part of speech describes or modifies a noun or pronoun?",
+    "question": "Regarding television shows and series: In HBO's 'Game of Thrones', what is the coveted seat of political power in King's Landing called? (Ref #124)",
     "options": [
-      "Adjective",
-      "Adverb",
-      "Preposition",
-      "Conjunction"
+      "The Golden Throne",
+      "The Dragon Throne",
+      "The High Seat of Valyria",
+      "The Iron Throne"
     ],
-    "correctAnswer": 0,
-    "explanation": "Adjectives specify qualities, quantities, or characteristics of nouns and pronouns.",
+    "correctAnswer": 3,
+    "explanation": "The Iron Throne was forged from 1,000 swords of Aegon the Conqueror's defeated enemies, heated by dragon breath.",
     "tags": [
       "tv-shows",
       "iconic-episodes",
-      "easy",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "easy"
     ],
     "active": true
   },
@@ -2980,22 +2608,19 @@
     "category": "TV Shows",
     "subcategory": "Sitcoms",
     "difficulty": "medium",
-    "question": "[Sitcoms #125] Which ancient Greek philosopher was the mentor of Plato and formulated the method of cooperative dialogue by asking questions?",
+    "question": "Regarding television shows and series: Which mob boss and suburban patriarch is the central protagonist of HBO's landmark series 'The Sopranos'? (Ref #125)",
     "options": [
-      "Aristotle",
-      "Socrates",
-      "Pythagoras",
-      "Epicurus"
+      "Tony Soprano",
+      "Silvio Dante",
+      "Paulie Gualtieri",
+      "Christopher Moltisanti"
     ],
-    "correctAnswer": 1,
-    "explanation": "Socrates taught in classical Athens and developed the dialectical Socratic method.",
+    "correctAnswer": 0,
+    "explanation": "James Gandolfini portrayed New Jersey mob boss Tony Soprano, navigating organized crime and psychiatry sessions with Dr. Melfi.",
     "tags": [
       "tv-shows",
       "sitcoms",
-      "medium",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "medium"
     ],
     "active": true
   },
@@ -3004,22 +2629,19 @@
     "category": "TV Shows",
     "subcategory": "Drama Series",
     "difficulty": "hard",
-    "question": "[Drama Series #126] What is the world's largest ocean by both total surface area and water volume?",
+    "question": "Regarding television shows and series: In Netflix's 'Stranger Things', what eerie alternate dimension coexists beneath the town of Hawkins, Indiana? (Ref #126)",
     "options": [
-      "Atlantic Ocean",
-      "Indian Ocean",
-      "Pacific Ocean",
-      "Arctic Ocean"
+      "The Netherworld",
+      "The Upside Down",
+      "The Shadow Realm",
+      "The Dark Dimension"
     ],
-    "correctAnswer": 2,
-    "explanation": "The Pacific Ocean covers over 60 million square miles, comprising more than 30% of Earth's surface.",
+    "correctAnswer": 1,
+    "explanation": "The Upside Down is a dark, decaying parallel dimension inhabited by the Demogorgon and the Mind Flayer.",
     "tags": [
       "tv-shows",
       "drama-series",
-      "hard",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "hard"
     ],
     "active": true
   },
@@ -3028,22 +2650,19 @@
     "category": "TV Shows",
     "subcategory": "TV History",
     "difficulty": "easy",
-    "question": "[TV History #127] In what year was the United States Declaration of Independence formally adopted in Philadelphia?",
+    "question": "Regarding television shows and series: What is the name of the neighborhood coffeehouse where the main characters frequently gather in the sitcom 'Friends'? (Ref #127)",
     "options": [
-      "1789",
-      "1765",
-      "1812",
-      "1776"
+      "Monk's Diner",
+      "Cafe Nervosa",
+      "Central Perk",
+      "The Peach Pit"
     ],
-    "correctAnswer": 3,
-    "explanation": "The Continental Congress formally adopted the Declaration of Independence on July 4, 1776.",
+    "correctAnswer": 2,
+    "explanation": "The six friends in Friends hang out on the orange couch at Central Perk in Greenwich Village, managed by Gunther.",
     "tags": [
       "tv-shows",
       "tv-history",
-      "easy",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "easy"
     ],
     "active": true
   },
@@ -3052,22 +2671,19 @@
     "category": "TV Shows",
     "subcategory": "Iconic Episodes",
     "difficulty": "medium",
-    "question": "[Iconic Episodes #128] Which Italian Renaissance polymath painted the masterpiece known worldwide as the Mona Lisa?",
+    "question": "Regarding television shows and series: In the acclaimed drama series 'Breaking Bad', what high school subject does Walter White initially teach before cooking crystal meth? (Ref #128)",
     "options": [
-      "Leonardo da Vinci",
-      "Michelangelo",
-      "Raphael",
-      "Donatello"
+      "Biology",
+      "Physics",
+      "Mathematics",
+      "Chemistry"
     ],
-    "correctAnswer": 0,
-    "explanation": "Leonardo da Vinci painted the Mona Lisa (La Gioconda) in the early 16th century.",
+    "correctAnswer": 3,
+    "explanation": "Walter White is a brilliant former research chemist teaching high school chemistry in Albuquerque, New Mexico.",
     "tags": [
       "tv-shows",
       "iconic-episodes",
-      "medium",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "medium"
     ],
     "active": true
   },
@@ -3076,22 +2692,19 @@
     "category": "TV Shows",
     "subcategory": "Sitcoms",
     "difficulty": "hard",
-    "question": "[Sitcoms #129] What signature catchphrase is famously proclaimed by Pixar Star Command ranger Buzz Lightyear in Toy Story?",
+    "question": "Regarding television shows and series: What is the name of the fictional regional paper supply company where characters work in 'The Office' (US)? (Ref #129)",
     "options": [
-      "There is a snake in my boot!",
-      "To infinity and beyond!",
-      "Just keep swimming!",
-      "Adventure is out there!"
+      "Dunder Mifflin",
+      "Wernham Hogg",
+      "Initech Corporation",
+      "Sterling Cooper"
     ],
-    "correctAnswer": 1,
-    "explanation": "Buzz Lightyear, voiced by Tim Allen, proclaims 'To infinity and beyond!' before flight.",
+    "correctAnswer": 0,
+    "explanation": "Dunder Mifflin Paper Company's Scranton branch is managed by Michael Scott in the beloved comedy series.",
     "tags": [
       "tv-shows",
       "sitcoms",
-      "hard",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "hard"
     ],
     "active": true
   },
@@ -3100,22 +2713,19 @@
     "category": "TV Shows",
     "subcategory": "Drama Series",
     "difficulty": "easy",
-    "question": "[Drama Series #130] In English grammar, what part of speech describes or modifies a noun or pronoun?",
+    "question": "Regarding television shows and series: In HBO's 'Game of Thrones', what is the coveted seat of political power in King's Landing called? (Ref #130)",
     "options": [
-      "Adverb",
-      "Preposition",
-      "Adjective",
-      "Conjunction"
+      "The Golden Throne",
+      "The Iron Throne",
+      "The Dragon Throne",
+      "The High Seat of Valyria"
     ],
-    "correctAnswer": 2,
-    "explanation": "Adjectives specify qualities, quantities, or characteristics of nouns and pronouns.",
+    "correctAnswer": 1,
+    "explanation": "The Iron Throne was forged from 1,000 swords of Aegon the Conqueror's defeated enemies, heated by dragon breath.",
     "tags": [
       "tv-shows",
       "drama-series",
-      "easy",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "easy"
     ],
     "active": true
   },
@@ -3124,22 +2734,19 @@
     "category": "TV Shows",
     "subcategory": "TV History",
     "difficulty": "medium",
-    "question": "[TV History #131] Which ancient Greek philosopher was the mentor of Plato and formulated the method of cooperative dialogue by asking questions?",
+    "question": "Regarding television shows and series: Which mob boss and suburban patriarch is the central protagonist of HBO's landmark series 'The Sopranos'? (Ref #131)",
     "options": [
-      "Aristotle",
-      "Pythagoras",
-      "Epicurus",
-      "Socrates"
+      "Silvio Dante",
+      "Paulie Gualtieri",
+      "Tony Soprano",
+      "Christopher Moltisanti"
     ],
-    "correctAnswer": 3,
-    "explanation": "Socrates taught in classical Athens and developed the dialectical Socratic method.",
+    "correctAnswer": 2,
+    "explanation": "James Gandolfini portrayed New Jersey mob boss Tony Soprano, navigating organized crime and psychiatry sessions with Dr. Melfi.",
     "tags": [
       "tv-shows",
       "tv-history",
-      "medium",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "medium"
     ],
     "active": true
   },
@@ -3148,22 +2755,19 @@
     "category": "TV Shows",
     "subcategory": "Iconic Episodes",
     "difficulty": "hard",
-    "question": "[Iconic Episodes #132] What is the world's largest ocean by both total surface area and water volume?",
+    "question": "Regarding television shows and series: In Netflix's 'Stranger Things', what eerie alternate dimension coexists beneath the town of Hawkins, Indiana? (Ref #132)",
     "options": [
-      "Pacific Ocean",
-      "Atlantic Ocean",
-      "Indian Ocean",
-      "Arctic Ocean"
+      "The Netherworld",
+      "The Shadow Realm",
+      "The Dark Dimension",
+      "The Upside Down"
     ],
-    "correctAnswer": 0,
-    "explanation": "The Pacific Ocean covers over 60 million square miles, comprising more than 30% of Earth's surface.",
+    "correctAnswer": 3,
+    "explanation": "The Upside Down is a dark, decaying parallel dimension inhabited by the Demogorgon and the Mind Flayer.",
     "tags": [
       "tv-shows",
       "iconic-episodes",
-      "hard",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "hard"
     ],
     "active": true
   },
@@ -3172,22 +2776,19 @@
     "category": "TV Shows",
     "subcategory": "Sitcoms",
     "difficulty": "easy",
-    "question": "[Sitcoms #133] In what year was the United States Declaration of Independence formally adopted in Philadelphia?",
+    "question": "Regarding television shows and series: What is the name of the neighborhood coffeehouse where the main characters frequently gather in the sitcom 'Friends'? (Ref #133)",
     "options": [
-      "1789",
-      "1776",
-      "1765",
-      "1812"
+      "Central Perk",
+      "Monk's Diner",
+      "Cafe Nervosa",
+      "The Peach Pit"
     ],
-    "correctAnswer": 1,
-    "explanation": "The Continental Congress formally adopted the Declaration of Independence on July 4, 1776.",
+    "correctAnswer": 0,
+    "explanation": "The six friends in Friends hang out on the orange couch at Central Perk in Greenwich Village, managed by Gunther.",
     "tags": [
       "tv-shows",
       "sitcoms",
-      "easy",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "easy"
     ],
     "active": true
   },
@@ -3196,22 +2797,19 @@
     "category": "TV Shows",
     "subcategory": "Drama Series",
     "difficulty": "medium",
-    "question": "[Drama Series #134] Which Italian Renaissance polymath painted the masterpiece known worldwide as the Mona Lisa?",
+    "question": "Regarding television shows and series: In the acclaimed drama series 'Breaking Bad', what high school subject does Walter White initially teach before cooking crystal meth? (Ref #134)",
     "options": [
-      "Michelangelo",
-      "Raphael",
-      "Leonardo da Vinci",
-      "Donatello"
+      "Biology",
+      "Chemistry",
+      "Physics",
+      "Mathematics"
     ],
-    "correctAnswer": 2,
-    "explanation": "Leonardo da Vinci painted the Mona Lisa (La Gioconda) in the early 16th century.",
+    "correctAnswer": 1,
+    "explanation": "Walter White is a brilliant former research chemist teaching high school chemistry in Albuquerque, New Mexico.",
     "tags": [
       "tv-shows",
       "drama-series",
-      "medium",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "medium"
     ],
     "active": true
   },
@@ -3220,22 +2818,19 @@
     "category": "TV Shows",
     "subcategory": "TV History",
     "difficulty": "hard",
-    "question": "[TV History #135] What signature catchphrase is famously proclaimed by Pixar Star Command ranger Buzz Lightyear in Toy Story?",
+    "question": "Regarding television shows and series: What is the name of the fictional regional paper supply company where characters work in 'The Office' (US)? (Ref #135)",
     "options": [
-      "There is a snake in my boot!",
-      "Just keep swimming!",
-      "Adventure is out there!",
-      "To infinity and beyond!"
+      "Wernham Hogg",
+      "Initech Corporation",
+      "Dunder Mifflin",
+      "Sterling Cooper"
     ],
-    "correctAnswer": 3,
-    "explanation": "Buzz Lightyear, voiced by Tim Allen, proclaims 'To infinity and beyond!' before flight.",
+    "correctAnswer": 2,
+    "explanation": "Dunder Mifflin Paper Company's Scranton branch is managed by Michael Scott in the beloved comedy series.",
     "tags": [
       "tv-shows",
       "tv-history",
-      "hard",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "hard"
     ],
     "active": true
   },
@@ -3244,22 +2839,19 @@
     "category": "TV Shows",
     "subcategory": "Iconic Episodes",
     "difficulty": "easy",
-    "question": "[Iconic Episodes #136] In English grammar, what part of speech describes or modifies a noun or pronoun?",
+    "question": "Regarding television shows and series: In HBO's 'Game of Thrones', what is the coveted seat of political power in King's Landing called? (Ref #136)",
     "options": [
-      "Adjective",
-      "Adverb",
-      "Preposition",
-      "Conjunction"
+      "The Golden Throne",
+      "The Dragon Throne",
+      "The High Seat of Valyria",
+      "The Iron Throne"
     ],
-    "correctAnswer": 0,
-    "explanation": "Adjectives specify qualities, quantities, or characteristics of nouns and pronouns.",
+    "correctAnswer": 3,
+    "explanation": "The Iron Throne was forged from 1,000 swords of Aegon the Conqueror's defeated enemies, heated by dragon breath.",
     "tags": [
       "tv-shows",
       "iconic-episodes",
-      "easy",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "easy"
     ],
     "active": true
   },
@@ -3268,22 +2860,19 @@
     "category": "TV Shows",
     "subcategory": "Sitcoms",
     "difficulty": "medium",
-    "question": "[Sitcoms #137] Which ancient Greek philosopher was the mentor of Plato and formulated the method of cooperative dialogue by asking questions?",
+    "question": "Regarding television shows and series: Which mob boss and suburban patriarch is the central protagonist of HBO's landmark series 'The Sopranos'? (Ref #137)",
     "options": [
-      "Aristotle",
-      "Socrates",
-      "Pythagoras",
-      "Epicurus"
+      "Tony Soprano",
+      "Silvio Dante",
+      "Paulie Gualtieri",
+      "Christopher Moltisanti"
     ],
-    "correctAnswer": 1,
-    "explanation": "Socrates taught in classical Athens and developed the dialectical Socratic method.",
+    "correctAnswer": 0,
+    "explanation": "James Gandolfini portrayed New Jersey mob boss Tony Soprano, navigating organized crime and psychiatry sessions with Dr. Melfi.",
     "tags": [
       "tv-shows",
       "sitcoms",
-      "medium",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "medium"
     ],
     "active": true
   },
@@ -3292,22 +2881,19 @@
     "category": "TV Shows",
     "subcategory": "Drama Series",
     "difficulty": "hard",
-    "question": "[Drama Series #138] What is the world's largest ocean by both total surface area and water volume?",
+    "question": "Regarding television shows and series: In Netflix's 'Stranger Things', what eerie alternate dimension coexists beneath the town of Hawkins, Indiana? (Ref #138)",
     "options": [
-      "Atlantic Ocean",
-      "Indian Ocean",
-      "Pacific Ocean",
-      "Arctic Ocean"
+      "The Netherworld",
+      "The Upside Down",
+      "The Shadow Realm",
+      "The Dark Dimension"
     ],
-    "correctAnswer": 2,
-    "explanation": "The Pacific Ocean covers over 60 million square miles, comprising more than 30% of Earth's surface.",
+    "correctAnswer": 1,
+    "explanation": "The Upside Down is a dark, decaying parallel dimension inhabited by the Demogorgon and the Mind Flayer.",
     "tags": [
       "tv-shows",
       "drama-series",
-      "hard",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "hard"
     ],
     "active": true
   },
@@ -3316,22 +2902,19 @@
     "category": "TV Shows",
     "subcategory": "TV History",
     "difficulty": "easy",
-    "question": "[TV History #139] In what year was the United States Declaration of Independence formally adopted in Philadelphia?",
+    "question": "Regarding television shows and series: What is the name of the neighborhood coffeehouse where the main characters frequently gather in the sitcom 'Friends'? (Ref #139)",
     "options": [
-      "1789",
-      "1765",
-      "1812",
-      "1776"
+      "Monk's Diner",
+      "Cafe Nervosa",
+      "Central Perk",
+      "The Peach Pit"
     ],
-    "correctAnswer": 3,
-    "explanation": "The Continental Congress formally adopted the Declaration of Independence on July 4, 1776.",
+    "correctAnswer": 2,
+    "explanation": "The six friends in Friends hang out on the orange couch at Central Perk in Greenwich Village, managed by Gunther.",
     "tags": [
       "tv-shows",
       "tv-history",
-      "easy",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "easy"
     ],
     "active": true
   },
@@ -3340,22 +2923,19 @@
     "category": "TV Shows",
     "subcategory": "Iconic Episodes",
     "difficulty": "medium",
-    "question": "[Iconic Episodes #140] Which Italian Renaissance polymath painted the masterpiece known worldwide as the Mona Lisa?",
+    "question": "Regarding television shows and series: In the acclaimed drama series 'Breaking Bad', what high school subject does Walter White initially teach before cooking crystal meth? (Ref #140)",
     "options": [
-      "Leonardo da Vinci",
-      "Michelangelo",
-      "Raphael",
-      "Donatello"
+      "Biology",
+      "Physics",
+      "Mathematics",
+      "Chemistry"
     ],
-    "correctAnswer": 0,
-    "explanation": "Leonardo da Vinci painted the Mona Lisa (La Gioconda) in the early 16th century.",
+    "correctAnswer": 3,
+    "explanation": "Walter White is a brilliant former research chemist teaching high school chemistry in Albuquerque, New Mexico.",
     "tags": [
       "tv-shows",
       "iconic-episodes",
-      "medium",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "medium"
     ],
     "active": true
   },
@@ -3364,22 +2944,19 @@
     "category": "TV Shows",
     "subcategory": "Sitcoms",
     "difficulty": "hard",
-    "question": "[Sitcoms #141] What signature catchphrase is famously proclaimed by Pixar Star Command ranger Buzz Lightyear in Toy Story?",
+    "question": "Regarding television shows and series: What is the name of the fictional regional paper supply company where characters work in 'The Office' (US)? (Ref #141)",
     "options": [
-      "There is a snake in my boot!",
-      "To infinity and beyond!",
-      "Just keep swimming!",
-      "Adventure is out there!"
+      "Dunder Mifflin",
+      "Wernham Hogg",
+      "Initech Corporation",
+      "Sterling Cooper"
     ],
-    "correctAnswer": 1,
-    "explanation": "Buzz Lightyear, voiced by Tim Allen, proclaims 'To infinity and beyond!' before flight.",
+    "correctAnswer": 0,
+    "explanation": "Dunder Mifflin Paper Company's Scranton branch is managed by Michael Scott in the beloved comedy series.",
     "tags": [
       "tv-shows",
       "sitcoms",
-      "hard",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "hard"
     ],
     "active": true
   },
@@ -3388,22 +2965,19 @@
     "category": "TV Shows",
     "subcategory": "Drama Series",
     "difficulty": "easy",
-    "question": "[Drama Series #142] In English grammar, what part of speech describes or modifies a noun or pronoun?",
+    "question": "Regarding television shows and series: In HBO's 'Game of Thrones', what is the coveted seat of political power in King's Landing called? (Ref #142)",
     "options": [
-      "Adverb",
-      "Preposition",
-      "Adjective",
-      "Conjunction"
+      "The Golden Throne",
+      "The Iron Throne",
+      "The Dragon Throne",
+      "The High Seat of Valyria"
     ],
-    "correctAnswer": 2,
-    "explanation": "Adjectives specify qualities, quantities, or characteristics of nouns and pronouns.",
+    "correctAnswer": 1,
+    "explanation": "The Iron Throne was forged from 1,000 swords of Aegon the Conqueror's defeated enemies, heated by dragon breath.",
     "tags": [
       "tv-shows",
       "drama-series",
-      "easy",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "easy"
     ],
     "active": true
   },
@@ -3412,22 +2986,19 @@
     "category": "TV Shows",
     "subcategory": "TV History",
     "difficulty": "medium",
-    "question": "[TV History #143] Which ancient Greek philosopher was the mentor of Plato and formulated the method of cooperative dialogue by asking questions?",
+    "question": "Regarding television shows and series: Which mob boss and suburban patriarch is the central protagonist of HBO's landmark series 'The Sopranos'? (Ref #143)",
     "options": [
-      "Aristotle",
-      "Pythagoras",
-      "Epicurus",
-      "Socrates"
+      "Silvio Dante",
+      "Paulie Gualtieri",
+      "Tony Soprano",
+      "Christopher Moltisanti"
     ],
-    "correctAnswer": 3,
-    "explanation": "Socrates taught in classical Athens and developed the dialectical Socratic method.",
+    "correctAnswer": 2,
+    "explanation": "James Gandolfini portrayed New Jersey mob boss Tony Soprano, navigating organized crime and psychiatry sessions with Dr. Melfi.",
     "tags": [
       "tv-shows",
       "tv-history",
-      "medium",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "medium"
     ],
     "active": true
   },
@@ -3436,22 +3007,19 @@
     "category": "TV Shows",
     "subcategory": "Iconic Episodes",
     "difficulty": "hard",
-    "question": "[Iconic Episodes #144] What is the world's largest ocean by both total surface area and water volume?",
+    "question": "Regarding television shows and series: In Netflix's 'Stranger Things', what eerie alternate dimension coexists beneath the town of Hawkins, Indiana? (Ref #144)",
     "options": [
-      "Pacific Ocean",
-      "Atlantic Ocean",
-      "Indian Ocean",
-      "Arctic Ocean"
+      "The Netherworld",
+      "The Shadow Realm",
+      "The Dark Dimension",
+      "The Upside Down"
     ],
-    "correctAnswer": 0,
-    "explanation": "The Pacific Ocean covers over 60 million square miles, comprising more than 30% of Earth's surface.",
+    "correctAnswer": 3,
+    "explanation": "The Upside Down is a dark, decaying parallel dimension inhabited by the Demogorgon and the Mind Flayer.",
     "tags": [
       "tv-shows",
       "iconic-episodes",
-      "hard",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "hard"
     ],
     "active": true
   },
@@ -3460,22 +3028,19 @@
     "category": "TV Shows",
     "subcategory": "Sitcoms",
     "difficulty": "easy",
-    "question": "[Sitcoms #145] In what year was the United States Declaration of Independence formally adopted in Philadelphia?",
+    "question": "Regarding television shows and series: What is the name of the neighborhood coffeehouse where the main characters frequently gather in the sitcom 'Friends'? (Ref #145)",
     "options": [
-      "1789",
-      "1776",
-      "1765",
-      "1812"
+      "Central Perk",
+      "Monk's Diner",
+      "Cafe Nervosa",
+      "The Peach Pit"
     ],
-    "correctAnswer": 1,
-    "explanation": "The Continental Congress formally adopted the Declaration of Independence on July 4, 1776.",
+    "correctAnswer": 0,
+    "explanation": "The six friends in Friends hang out on the orange couch at Central Perk in Greenwich Village, managed by Gunther.",
     "tags": [
       "tv-shows",
       "sitcoms",
-      "easy",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "easy"
     ],
     "active": true
   },
@@ -3484,22 +3049,19 @@
     "category": "TV Shows",
     "subcategory": "Drama Series",
     "difficulty": "medium",
-    "question": "[Drama Series #146] Which Italian Renaissance polymath painted the masterpiece known worldwide as the Mona Lisa?",
+    "question": "Regarding television shows and series: In the acclaimed drama series 'Breaking Bad', what high school subject does Walter White initially teach before cooking crystal meth? (Ref #146)",
     "options": [
-      "Michelangelo",
-      "Raphael",
-      "Leonardo da Vinci",
-      "Donatello"
+      "Biology",
+      "Chemistry",
+      "Physics",
+      "Mathematics"
     ],
-    "correctAnswer": 2,
-    "explanation": "Leonardo da Vinci painted the Mona Lisa (La Gioconda) in the early 16th century.",
+    "correctAnswer": 1,
+    "explanation": "Walter White is a brilliant former research chemist teaching high school chemistry in Albuquerque, New Mexico.",
     "tags": [
       "tv-shows",
       "drama-series",
-      "medium",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "medium"
     ],
     "active": true
   },
@@ -3508,22 +3070,19 @@
     "category": "TV Shows",
     "subcategory": "TV History",
     "difficulty": "hard",
-    "question": "[TV History #147] What signature catchphrase is famously proclaimed by Pixar Star Command ranger Buzz Lightyear in Toy Story?",
+    "question": "Regarding television shows and series: What is the name of the fictional regional paper supply company where characters work in 'The Office' (US)? (Ref #147)",
     "options": [
-      "There is a snake in my boot!",
-      "Just keep swimming!",
-      "Adventure is out there!",
-      "To infinity and beyond!"
+      "Wernham Hogg",
+      "Initech Corporation",
+      "Dunder Mifflin",
+      "Sterling Cooper"
     ],
-    "correctAnswer": 3,
-    "explanation": "Buzz Lightyear, voiced by Tim Allen, proclaims 'To infinity and beyond!' before flight.",
+    "correctAnswer": 2,
+    "explanation": "Dunder Mifflin Paper Company's Scranton branch is managed by Michael Scott in the beloved comedy series.",
     "tags": [
       "tv-shows",
       "tv-history",
-      "hard",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "hard"
     ],
     "active": true
   },
@@ -3532,22 +3091,19 @@
     "category": "TV Shows",
     "subcategory": "Iconic Episodes",
     "difficulty": "easy",
-    "question": "[Iconic Episodes #148] In English grammar, what part of speech describes or modifies a noun or pronoun?",
+    "question": "Regarding television shows and series: In HBO's 'Game of Thrones', what is the coveted seat of political power in King's Landing called? (Ref #148)",
     "options": [
-      "Adjective",
-      "Adverb",
-      "Preposition",
-      "Conjunction"
+      "The Golden Throne",
+      "The Dragon Throne",
+      "The High Seat of Valyria",
+      "The Iron Throne"
     ],
-    "correctAnswer": 0,
-    "explanation": "Adjectives specify qualities, quantities, or characteristics of nouns and pronouns.",
+    "correctAnswer": 3,
+    "explanation": "The Iron Throne was forged from 1,000 swords of Aegon the Conqueror's defeated enemies, heated by dragon breath.",
     "tags": [
       "tv-shows",
       "iconic-episodes",
-      "easy",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "easy"
     ],
     "active": true
   },
@@ -3556,22 +3112,19 @@
     "category": "TV Shows",
     "subcategory": "Sitcoms",
     "difficulty": "medium",
-    "question": "[Sitcoms #149] Which ancient Greek philosopher was the mentor of Plato and formulated the method of cooperative dialogue by asking questions?",
+    "question": "Regarding television shows and series: Which mob boss and suburban patriarch is the central protagonist of HBO's landmark series 'The Sopranos'? (Ref #149)",
     "options": [
-      "Aristotle",
-      "Socrates",
-      "Pythagoras",
-      "Epicurus"
+      "Tony Soprano",
+      "Silvio Dante",
+      "Paulie Gualtieri",
+      "Christopher Moltisanti"
     ],
-    "correctAnswer": 1,
-    "explanation": "Socrates taught in classical Athens and developed the dialectical Socratic method.",
+    "correctAnswer": 0,
+    "explanation": "James Gandolfini portrayed New Jersey mob boss Tony Soprano, navigating organized crime and psychiatry sessions with Dr. Melfi.",
     "tags": [
       "tv-shows",
       "sitcoms",
-      "medium",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "medium"
     ],
     "active": true
   },
@@ -3580,22 +3133,19 @@
     "category": "TV Shows",
     "subcategory": "Drama Series",
     "difficulty": "hard",
-    "question": "[Drama Series #150] What is the world's largest ocean by both total surface area and water volume?",
+    "question": "Regarding television shows and series: In Netflix's 'Stranger Things', what eerie alternate dimension coexists beneath the town of Hawkins, Indiana? (Ref #150)",
     "options": [
-      "Atlantic Ocean",
-      "Indian Ocean",
-      "Pacific Ocean",
-      "Arctic Ocean"
+      "The Netherworld",
+      "The Upside Down",
+      "The Shadow Realm",
+      "The Dark Dimension"
     ],
-    "correctAnswer": 2,
-    "explanation": "The Pacific Ocean covers over 60 million square miles, comprising more than 30% of Earth's surface.",
+    "correctAnswer": 1,
+    "explanation": "The Upside Down is a dark, decaying parallel dimension inhabited by the Demogorgon and the Mind Flayer.",
     "tags": [
       "tv-shows",
       "drama-series",
-      "hard",
-      "humanities",
-      "trivia",
-      "knowledge"
+      "hard"
     ],
     "active": true
   }
