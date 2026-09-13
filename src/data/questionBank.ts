@@ -100,6 +100,33 @@ export function shuffleArray<T>(array: T[], seed?: number): T[] {
   return result;
 }
 
+export function cleanQuestionText(raw: string): string {
+  if (!raw) return '';
+  let cleaned = raw.trim();
+
+  // Strip trailing reference tags like (Ref #12), (Scenario #3), (Item #5), [Ref #...], etc.
+  cleaned = cleaned.replace(/\s*[\(\[]\s*(?:Ref|Scenario|Item|Q|Question)?\s*#?\s*\d+\s*[\)\]]\s*$/i, '');
+  cleaned = cleaned.replace(/\s*\(Ref #[0-9]+\)/gi, '');
+  cleaned = cleaned.replace(/\s*\(Scenario #[0-9]+\)/gi, '');
+  cleaned = cleaned.replace(/\s*\(Item #[0-9]+\)/gi, '');
+
+  // Strip leading category phrases like:
+  // "In clinical medicine, "
+  // "In clinical nursing practice, "
+  // "Regarding cinema and movie history: "
+  // "In world and American history: "
+  // "In electrical systems and engineering, "
+  cleaned = cleaned.replace(/^(?:In\s+[a-zA-Z\s&,-]+(?:,|:)\s*)/i, '');
+  cleaned = cleaned.replace(/^(?:Regarding\s+[a-zA-Z\s&,-]+(?:,|:)\s*)/i, '');
+  cleaned = cleaned.replace(/^(?:When\s+considering\s+[a-zA-Z\s&,-]+(?:,|:)\s*)/i, '');
+
+  // Capitalize the first character of the cleaned question
+  if (cleaned.length > 0) {
+    cleaned = cleaned.charAt(0).toUpperCase() + cleaned.slice(1);
+  }
+  return cleaned;
+}
+
 export function prepareShuffledQuestion(q: Question, seed?: number): ShuffledQuestion {
   const correctOptionText = q.options[q.correctAnswer];
   const shuffledOptions = shuffleArray(q.options, seed);
@@ -110,7 +137,7 @@ export function prepareShuffledQuestion(q: Question, seed?: number): ShuffledQue
     category: q.category,
     subcategory: q.subcategory,
     difficulty: q.difficulty,
-    question: q.question,
+    question: cleanQuestionText(q.question),
     options: shuffledOptions,
     correctAnswer: newCorrectIndex,
     explanation: q.explanation,
@@ -253,7 +280,18 @@ export function generateQuizQuestions(options: QuizFilterOptions = {}): Shuffled
     return [];
   }
 
-  const shuffledPool = shuffleArray(pool, options.seed);
+  // Strictly de-duplicate pool by cleaned question text so no quiz session ever has duplicate questions
+  const uniquePool: Question[] = [];
+  const seenTexts = new Set<string>();
+  for (const q of pool) {
+    const norm = cleanQuestionText(q.question).toLowerCase();
+    if (!seenTexts.has(norm)) {
+      seenTexts.add(norm);
+      uniquePool.push(q);
+    }
+  }
+
+  const shuffledPool = shuffleArray(uniquePool, options.seed);
   const limit = options.count && options.count > 0 ? Math.min(options.count, shuffledPool.length) : Math.min(10, shuffledPool.length);
   const selected = shuffledPool.slice(0, limit);
 

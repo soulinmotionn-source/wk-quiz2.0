@@ -4,15 +4,15 @@
     "category": "Automotive",
     "subcategory": "Engine Mechanics",
     "difficulty": "easy",
-    "question": "Automotive mechanics and diagnosis: What are the four sequential operational strokes in a standard four-stroke internal combustion engine? (Ref #1)",
+    "question": "What are the four sequential strokes of a conventional four-stroke internal combustion Otto cycle engine?",
     "options": [
       "Intake, Compression, Power, and Exhaust",
-      "Ignition, Expansion, Cooling, and Release",
-      "Injection, Combustion, Drive, and Reset",
-      "Fueling, Firing, Spinning, and Vented"
+      "Suction, Spark, Expansion, and Discharge",
+      "Induction, Ignition, Combustion, and Purge",
+      "Injection, Compression, Firing, and Scavenging"
     ],
     "correctAnswer": 0,
-    "explanation": "The Otto cycle engine operates in four piston strokes: Intake stroke, Compression stroke, Power stroke, and Exhaust stroke.",
+    "explanation": "The four strokes occur across two complete crankshaft revolutions (720 degrees of rotation).",
     "tags": [
       "automotive",
       "engine-mechanics",
@@ -21,64 +21,64 @@
     "active": true
   },
   {
-    "id": "automotive-brakes-suspension-0002",
+    "id": "automotive-engine-mechanics-0002",
     "category": "Automotive",
-    "subcategory": "Brakes & Suspension",
+    "subcategory": "Engine Mechanics",
     "difficulty": "medium",
-    "question": "Automotive mechanics and diagnosis: What automotive component generates electrical power to recharge the vehicle battery and run accessories while the engine runs? (Ref #2)",
+    "question": "How many degrees of crankshaft rotation are required to complete one full four-stroke engine cycle?",
     "options": [
-      "Starter motor",
-      "Alternator",
-      "Spark plug",
-      "Ignition coil"
+      "360 degrees",
+      "720 degrees (two full revolutions)",
+      "180 degrees",
+      "540 degrees"
     ],
     "correctAnswer": 1,
-    "explanation": "The alternator converts mechanical crankshaft energy into alternating electrical current, rectified to direct current.",
+    "explanation": "The camshaft rotates at exactly half crankshaft speed, completing one 360-degree rotation every 720 degrees of crankshaft rotation.",
     "tags": [
       "automotive",
-      "brakes-suspension",
+      "engine-mechanics",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "automotive-electrical-diagnostics-0003",
+    "id": "automotive-engine-mechanics-0003",
     "category": "Automotive",
-    "subcategory": "Electrical & Diagnostics",
+    "subcategory": "Engine Mechanics",
     "difficulty": "hard",
-    "question": "Automotive mechanics and diagnosis: What exhaust emission control device converts harmful carbon monoxide, unburned hydrocarbons, and nitrogen oxides into safer gases? (Ref #3)",
+    "question": "What component converts the reciprocating linear motion of the engine pistons into continuous rotary motion?",
     "options": [
-      "Muffler resonator",
-      "EGR valve",
-      "Catalytic Converter",
-      "Turbocharger"
+      "The Camshaft",
+      "The Flywheel",
+      "The Crankshaft",
+      "The Connecting Rod"
     ],
     "correctAnswer": 2,
-    "explanation": "Catalytic converters contain platinum, palladium, and rhodium catalysts to oxidize CO and hydrocarbons and reduce NOx.",
+    "explanation": "Connecting rods link the pistons to offset crankshaft throws, transforming up-and-down piston motion into flywheel torque.",
     "tags": [
       "automotive",
-      "electrical-diagnostics",
+      "engine-mechanics",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "automotive-transmissions-0004",
+    "id": "automotive-engine-mechanics-0004",
     "category": "Automotive",
-    "subcategory": "Transmissions",
+    "subcategory": "Engine Mechanics",
     "difficulty": "easy",
-    "question": "Automotive mechanics and diagnosis: What standardized diagnostic port found beneath the dashboard of vehicles built after 1996 allows technicians to read trouble codes? (Ref #4)",
+    "question": "What engine shaft contains teardrop-shaped lobes that open and close the cylinder intake and exhaust valves at precise times?",
     "options": [
-      "CAN-Bus Serial Port 1",
-      "ECU Flash Header",
-      "VAG-COM terminal",
-      "OBD-II port (On-Board Diagnostics II)"
+      "The Crankshaft",
+      "The Jackshaft",
+      "The Balance Shaft",
+      "The Camshaft"
     ],
     "correctAnswer": 3,
-    "explanation": "OBD-II is the federally mandated standardized 16-pin diagnostic connector used to retrieve Diagnostic Trouble Codes (DTCs).",
+    "explanation": "Cam lobes push directly on lifters or rocker arms to actuate valves, synchronized to the crankshaft via a timing chain or belt.",
     "tags": [
       "automotive",
-      "transmissions",
+      "engine-mechanics",
       "easy"
     ],
     "active": true
@@ -88,15 +88,15 @@
     "category": "Automotive",
     "subcategory": "Engine Mechanics",
     "difficulty": "medium",
-    "question": "Automotive mechanics and diagnosis: In vehicles equipped with a manual transmission, what mechanical assembly disengages engine power from the gearbox during gear changes? (Ref #5)",
+    "question": "What is the speed ratio between the engine crankshaft and the camshaft in a standard four-stroke engine?",
     "options": [
-      "Clutch disc and pressure plate",
-      "Torque converter",
-      "Differential spider gears",
-      "Flywheel ring gear"
+      "The camshaft rotates at exactly half (1/2) the speed of the crankshaft (2:1 drive ratio)",
+      "The camshaft rotates at twice crankshaft speed",
+      "They rotate at identical speeds",
+      "The camshaft rotates at one-quarter speed"
     ],
     "correctAnswer": 0,
-    "explanation": "Pressing the clutch pedal releases friction pressure between the flywheel and clutch disc, allowing smooth gear shifts.",
+    "explanation": "Because each valve opens once every four piston strokes (two crankshaft turns), the camshaft turns once for every two crankshaft rotations.",
     "tags": [
       "automotive",
       "engine-mechanics",
@@ -105,64 +105,64 @@
     "active": true
   },
   {
-    "id": "automotive-brakes-suspension-0006",
+    "id": "automotive-engine-mechanics-0006",
     "category": "Automotive",
-    "subcategory": "Brakes & Suspension",
+    "subcategory": "Engine Mechanics",
     "difficulty": "hard",
-    "question": "Automotive mechanics and diagnosis: What are the four sequential operational strokes in a standard four-stroke internal combustion engine? (Ref #6)",
+    "question": "What valvetrain configuration places the camshaft inside the cylinder head directly above the valves, eliminating pushrods?",
     "options": [
-      "Ignition, Expansion, Cooling, and Release",
-      "Intake, Compression, Power, and Exhaust",
-      "Injection, Combustion, Drive, and Reset",
-      "Fueling, Firing, Spinning, and Vented"
+      "Overhead Valve (OHV / Pushrod)",
+      "Overhead Camshaft (OHC / DOHC / SOHC)",
+      "Flathead (Side-Valve)",
+      "Rotary Valve"
     ],
     "correctAnswer": 1,
-    "explanation": "The Otto cycle engine operates in four piston strokes: Intake stroke, Compression stroke, Power stroke, and Exhaust stroke.",
+    "explanation": "OHC designs eliminate heavy reciprocating pushrods and lifters, reducing valvetrain inertia and allowing higher engine RPM limits.",
     "tags": [
       "automotive",
-      "brakes-suspension",
+      "engine-mechanics",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "automotive-electrical-diagnostics-0007",
+    "id": "automotive-engine-mechanics-0007",
     "category": "Automotive",
-    "subcategory": "Electrical & Diagnostics",
+    "subcategory": "Engine Mechanics",
     "difficulty": "easy",
-    "question": "Automotive mechanics and diagnosis: What automotive component generates electrical power to recharge the vehicle battery and run accessories while the engine runs? (Ref #7)",
+    "question": "What term defines the brief period near top dead center of the exhaust stroke when both intake and exhaust valves are open simultaneously?",
     "options": [
-      "Starter motor",
-      "Spark plug",
-      "Alternator",
-      "Ignition coil"
+      "Valve Duration",
+      "Valve Lift",
+      "Valve Overlap",
+      "Valve Float"
     ],
     "correctAnswer": 2,
-    "explanation": "The alternator converts mechanical crankshaft energy into alternating electrical current, rectified to direct current.",
+    "explanation": "Valve overlap utilizes exhaust gas scavenging momentum to draw the incoming fresh air-fuel charge into the combustion chamber.",
     "tags": [
       "automotive",
-      "electrical-diagnostics",
+      "engine-mechanics",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "automotive-transmissions-0008",
+    "id": "automotive-engine-mechanics-0008",
     "category": "Automotive",
-    "subcategory": "Transmissions",
+    "subcategory": "Engine Mechanics",
     "difficulty": "medium",
-    "question": "Automotive mechanics and diagnosis: What exhaust emission control device converts harmful carbon monoxide, unburned hydrocarbons, and nitrogen oxides into safer gases? (Ref #8)",
+    "question": "What valvetrain failure condition occurs at excessive engine RPM when valve springs cannot close the valves fast enough to follow the cam lobe?",
     "options": [
-      "Muffler resonator",
-      "EGR valve",
-      "Turbocharger",
-      "Catalytic Converter"
+      "Valve Lash",
+      "Valve Reciprocation",
+      "Valve Seizure",
+      "Valve Float"
     ],
     "correctAnswer": 3,
-    "explanation": "Catalytic converters contain platinum, palladium, and rhodium catalysts to oxidize CO and hydrocarbons and reduce NOx.",
+    "explanation": "Valve float causes severe power loss and can cause catastrophic piston-to-valve collision in interference engines.",
     "tags": [
       "automotive",
-      "transmissions",
+      "engine-mechanics",
       "medium"
     ],
     "active": true
@@ -172,15 +172,15 @@
     "category": "Automotive",
     "subcategory": "Engine Mechanics",
     "difficulty": "hard",
-    "question": "Automotive mechanics and diagnosis: What standardized diagnostic port found beneath the dashboard of vehicles built after 1996 allows technicians to read trouble codes? (Ref #9)",
+    "question": "What type of internal combustion engine has tight clearances where the piston will physically impact open valves if the timing belt snaps?",
     "options": [
-      "OBD-II port (On-Board Diagnostics II)",
-      "CAN-Bus Serial Port 1",
-      "ECU Flash Header",
-      "VAG-COM terminal"
+      "An Interference Engine",
+      "A Non-Interference Engine",
+      "A Freewheeling Engine",
+      "A Low-Compression Engine"
     ],
     "correctAnswer": 0,
-    "explanation": "OBD-II is the federally mandated standardized 16-pin diagnostic connector used to retrieve Diagnostic Trouble Codes (DTCs).",
+    "explanation": "Interference engines achieve high compression and breathing efficiency, but timing belt failure causes bent valves and punctured pistons.",
     "tags": [
       "automotive",
       "engine-mechanics",
@@ -189,64 +189,64 @@
     "active": true
   },
   {
-    "id": "automotive-brakes-suspension-0010",
+    "id": "automotive-engine-mechanics-0010",
     "category": "Automotive",
-    "subcategory": "Brakes & Suspension",
+    "subcategory": "Engine Mechanics",
     "difficulty": "easy",
-    "question": "Automotive mechanics and diagnosis: In vehicles equipped with a manual transmission, what mechanical assembly disengages engine power from the gearbox during gear changes? (Ref #10)",
+    "question": "What parameter defines the ratio of the maximum cylinder volume when the piston is at Bottom Dead Center to the volume at Top Dead Center?",
     "options": [
-      "Torque converter",
-      "Clutch disc and pressure plate",
-      "Differential spider gears",
-      "Flywheel ring gear"
+      "Displacement Ratio",
+      "Compression Ratio",
+      "Volumetric Efficiency",
+      "Bore-to-Stroke Ratio"
     ],
     "correctAnswer": 1,
-    "explanation": "Pressing the clutch pedal releases friction pressure between the flywheel and clutch disc, allowing smooth gear shifts.",
+    "explanation": "CR = (V_displacement + V_clearance) / V_clearance; higher compression ratios extract more thermal work per combustion stroke.",
     "tags": [
       "automotive",
-      "brakes-suspension",
+      "engine-mechanics",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "automotive-electrical-diagnostics-0011",
+    "id": "automotive-engine-mechanics-0011",
     "category": "Automotive",
-    "subcategory": "Electrical & Diagnostics",
+    "subcategory": "Engine Mechanics",
     "difficulty": "medium",
-    "question": "Automotive mechanics and diagnosis: What are the four sequential operational strokes in a standard four-stroke internal combustion engine? (Ref #11)",
+    "question": "What term describes the percentage of fresh air mass inducted into a cylinder compared to the theoretical cylinder displacement volume at atmospheric pressure?",
     "options": [
-      "Ignition, Expansion, Cooling, and Release",
-      "Injection, Combustion, Drive, and Reset",
-      "Intake, Compression, Power, and Exhaust",
-      "Fueling, Firing, Spinning, and Vented"
+      "Thermal Efficiency",
+      "Mechanical Efficiency",
+      "Volumetric Efficiency (VE)",
+      "Brake Mean Effective Pressure"
     ],
     "correctAnswer": 2,
-    "explanation": "The Otto cycle engine operates in four piston strokes: Intake stroke, Compression stroke, Power stroke, and Exhaust stroke.",
+    "explanation": "Naturally aspirated engines achieve 80-90% VE; forced induction (turbochargers, superchargers) pushes VE well above 100%.",
     "tags": [
       "automotive",
-      "electrical-diagnostics",
+      "engine-mechanics",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "automotive-transmissions-0012",
+    "id": "automotive-engine-mechanics-0012",
     "category": "Automotive",
-    "subcategory": "Transmissions",
+    "subcategory": "Engine Mechanics",
     "difficulty": "hard",
-    "question": "Automotive mechanics and diagnosis: What automotive component generates electrical power to recharge the vehicle battery and run accessories while the engine runs? (Ref #12)",
+    "question": "What forced induction device uses hot exhaust gas energy spinning a turbine wheel to drive an intake compressor impeller?",
     "options": [
-      "Starter motor",
-      "Spark plug",
-      "Ignition coil",
-      "Alternator"
+      "A Supercharger",
+      "A Roots Blower",
+      "A Resonator",
+      "A Turbocharger"
     ],
     "correctAnswer": 3,
-    "explanation": "The alternator converts mechanical crankshaft energy into alternating electrical current, rectified to direct current.",
+    "explanation": "Turbochargers recover waste kinetic and heat energy from exhaust gases, forcing dense compressed air into cylinders without direct engine parasitic drag.",
     "tags": [
       "automotive",
-      "transmissions",
+      "engine-mechanics",
       "hard"
     ],
     "active": true
@@ -256,15 +256,15 @@
     "category": "Automotive",
     "subcategory": "Engine Mechanics",
     "difficulty": "easy",
-    "question": "Automotive mechanics and diagnosis: What exhaust emission control device converts harmful carbon monoxide, unburned hydrocarbons, and nitrogen oxides into safer gases? (Ref #13)",
+    "question": "What safety valve on a turbocharger regulates boost pressure by bypassing excess exhaust gas around the turbine wheel?",
     "options": [
-      "Catalytic Converter",
-      "Muffler resonator",
-      "EGR valve",
-      "Turbocharger"
+      "The Wastegate",
+      "The Blow-Off Valve",
+      "The Diverter Valve",
+      "The Intercooler"
     ],
     "correctAnswer": 0,
-    "explanation": "Catalytic converters contain platinum, palladium, and rhodium catalysts to oxidize CO and hydrocarbons and reduce NOx.",
+    "explanation": "Wastegates prevent dangerous overboost conditions by limiting turbine drive speed once target boost pressure is reached.",
     "tags": [
       "automotive",
       "engine-mechanics",
@@ -273,64 +273,64 @@
     "active": true
   },
   {
-    "id": "automotive-brakes-suspension-0014",
+    "id": "automotive-engine-mechanics-0014",
     "category": "Automotive",
-    "subcategory": "Brakes & Suspension",
+    "subcategory": "Engine Mechanics",
     "difficulty": "medium",
-    "question": "Automotive mechanics and diagnosis: What standardized diagnostic port found beneath the dashboard of vehicles built after 1996 allows technicians to read trouble codes? (Ref #14)",
+    "question": "What intake pressure relief valve releases pressurized air trapped between the throttle body and turbocharger when the throttle snaps shut?",
     "options": [
-      "CAN-Bus Serial Port 1",
-      "OBD-II port (On-Board Diagnostics II)",
-      "ECU Flash Header",
-      "VAG-COM terminal"
+      "A Wastegate",
+      "A Blow-Off Valve (BOV / Diverter Valve)",
+      "A Pop-Off Valve",
+      "A PCV Valve"
     ],
     "correctAnswer": 1,
-    "explanation": "OBD-II is the federally mandated standardized 16-pin diagnostic connector used to retrieve Diagnostic Trouble Codes (DTCs).",
+    "explanation": "BOVs prevent compressor surge (turbo flutter), which occurs when trapped air bounces backward and hammers compressor blades.",
     "tags": [
       "automotive",
-      "brakes-suspension",
+      "engine-mechanics",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "automotive-electrical-diagnostics-0015",
+    "id": "automotive-engine-mechanics-0015",
     "category": "Automotive",
-    "subcategory": "Electrical & Diagnostics",
+    "subcategory": "Engine Mechanics",
     "difficulty": "hard",
-    "question": "Automotive mechanics and diagnosis: In vehicles equipped with a manual transmission, what mechanical assembly disengages engine power from the gearbox during gear changes? (Ref #15)",
+    "question": "What heat exchanger cools compressed intake air between the turbocharger and the throttle body to increase air density?",
     "options": [
-      "Torque converter",
-      "Differential spider gears",
-      "Clutch disc and pressure plate",
-      "Flywheel ring gear"
+      "A Radiator",
+      "An Oil Cooler",
+      "An Intercooler (Charge Air Cooler)",
+      "A Transmission Cooler"
     ],
     "correctAnswer": 2,
-    "explanation": "Pressing the clutch pedal releases friction pressure between the flywheel and clutch disc, allowing smooth gear shifts.",
+    "explanation": "Compressing air heats it; intercoolers drop charge air temperature, increasing oxygen density and preventing engine pre-ignition/knock.",
     "tags": [
       "automotive",
-      "electrical-diagnostics",
+      "engine-mechanics",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "automotive-transmissions-0016",
+    "id": "automotive-engine-mechanics-0016",
     "category": "Automotive",
-    "subcategory": "Transmissions",
+    "subcategory": "Engine Mechanics",
     "difficulty": "easy",
-    "question": "Automotive mechanics and diagnosis: What are the four sequential operational strokes in a standard four-stroke internal combustion engine? (Ref #16)",
+    "question": "What type of forced induction compressor is driven directly by the engine crankshaft via a belt, providing instantaneous boost without lag?",
     "options": [
-      "Ignition, Expansion, Cooling, and Release",
-      "Injection, Combustion, Drive, and Reset",
-      "Fueling, Firing, Spinning, and Vented",
-      "Intake, Compression, Power, and Exhaust"
+      "A Turbocharger",
+      "An E-Booster",
+      "An Exhaust Scavenger",
+      "A Supercharger"
     ],
     "correctAnswer": 3,
-    "explanation": "The Otto cycle engine operates in four piston strokes: Intake stroke, Compression stroke, Power stroke, and Exhaust stroke.",
+    "explanation": "Superchargers (Roots, twin-screw, centrifugal) provide immediate low-RPM throttle response at the expense of parasitic crankshaft horsepower drag.",
     "tags": [
       "automotive",
-      "transmissions",
+      "engine-mechanics",
       "easy"
     ],
     "active": true
@@ -340,15 +340,15 @@
     "category": "Automotive",
     "subcategory": "Engine Mechanics",
     "difficulty": "medium",
-    "question": "Automotive mechanics and diagnosis: What automotive component generates electrical power to recharge the vehicle battery and run accessories while the engine runs? (Ref #17)",
+    "question": "What abnormal combustion phenomenon occurs when the air-fuel mixture ignites prematurely before the spark plug fires due to hot spots?",
     "options": [
-      "Alternator",
-      "Starter motor",
-      "Spark plug",
-      "Ignition coil"
+      "Pre-Ignition",
+      "Detonation (Knock)",
+      "Dieseling",
+      "Backfire"
     ],
     "correctAnswer": 0,
-    "explanation": "The alternator converts mechanical crankshaft energy into alternating electrical current, rectified to direct current.",
+    "explanation": "Glowing carbon deposits or overheated spark plug tips ignite fuel early during the compression stroke, causing extreme destructive cylinder pressures.",
     "tags": [
       "automotive",
       "engine-mechanics",
@@ -357,64 +357,64 @@
     "active": true
   },
   {
-    "id": "automotive-brakes-suspension-0018",
+    "id": "automotive-engine-mechanics-0018",
     "category": "Automotive",
-    "subcategory": "Brakes & Suspension",
+    "subcategory": "Engine Mechanics",
     "difficulty": "hard",
-    "question": "Automotive mechanics and diagnosis: What exhaust emission control device converts harmful carbon monoxide, unburned hydrocarbons, and nitrogen oxides into safer gases? (Ref #18)",
+    "question": "What violent combustion event occurs when unburned end-gases spontaneously auto-ignite after the spark plug fires, producing shock waves?",
     "options": [
-      "Muffler resonator",
-      "Catalytic Converter",
-      "EGR valve",
-      "Turbocharger"
+      "Pre-Ignition",
+      "Detonation (Engine Knock / Pinging)",
+      "Normal Combustion",
+      "Misfire"
     ],
     "correctAnswer": 1,
-    "explanation": "Catalytic converters contain platinum, palladium, and rhodium catalysts to oxidize CO and hydrocarbons and reduce NOx.",
+    "explanation": "Detonation creates metallic rattling sounds and supersonic pressure spikes that crack piston rings and erode cylinder heads.",
     "tags": [
       "automotive",
-      "brakes-suspension",
+      "engine-mechanics",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "automotive-electrical-diagnostics-0019",
+    "id": "automotive-engine-mechanics-0019",
     "category": "Automotive",
-    "subcategory": "Electrical & Diagnostics",
+    "subcategory": "Engine Mechanics",
     "difficulty": "easy",
-    "question": "Automotive mechanics and diagnosis: What standardized diagnostic port found beneath the dashboard of vehicles built after 1996 allows technicians to read trouble codes? (Ref #19)",
+    "question": "What gasoline property measures a fuel's chemical resistance to auto-ignition and engine detonation under compression?",
     "options": [
-      "CAN-Bus Serial Port 1",
-      "ECU Flash Header",
-      "OBD-II port (On-Board Diagnostics II)",
-      "VAG-COM terminal"
+      "Cetane Rating",
+      "Volatility Index",
+      "Octane Rating (AKI - Anti-Knock Index)",
+      "Viscosity Index"
     ],
     "correctAnswer": 2,
-    "explanation": "OBD-II is the federally mandated standardized 16-pin diagnostic connector used to retrieve Diagnostic Trouble Codes (DTCs).",
+    "explanation": "Higher octane fuels (e.g., 91-93 AKI) resist spontaneous detonation, allowing higher compression ratios and advanced ignition timing.",
     "tags": [
       "automotive",
-      "electrical-diagnostics",
+      "engine-mechanics",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "automotive-transmissions-0020",
+    "id": "automotive-engine-mechanics-0020",
     "category": "Automotive",
-    "subcategory": "Transmissions",
+    "subcategory": "Engine Mechanics",
     "difficulty": "medium",
-    "question": "Automotive mechanics and diagnosis: In vehicles equipped with a manual transmission, what mechanical assembly disengages engine power from the gearbox during gear changes? (Ref #20)",
+    "question": "What diesel fuel property measures the ignition delay time between fuel injection into the hot compressed air and combustion start?",
     "options": [
-      "Torque converter",
-      "Differential spider gears",
-      "Flywheel ring gear",
-      "Clutch disc and pressure plate"
+      "Octane Rating",
+      "Pour Point",
+      "Cloud Point",
+      "Cetane Rating"
     ],
     "correctAnswer": 3,
-    "explanation": "Pressing the clutch pedal releases friction pressure between the flywheel and clutch disc, allowing smooth gear shifts.",
+    "explanation": "Higher cetane numbers mean shorter ignition delay, facilitating easier cold starts, smoother combustion, and reduced diesel knock.",
     "tags": [
       "automotive",
-      "transmissions",
+      "engine-mechanics",
       "medium"
     ],
     "active": true
@@ -424,15 +424,15 @@
     "category": "Automotive",
     "subcategory": "Engine Mechanics",
     "difficulty": "hard",
-    "question": "Automotive mechanics and diagnosis: What are the four sequential operational strokes in a standard four-stroke internal combustion engine? (Ref #21)",
+    "question": "What piston rings seal high combustion chamber pressures, and what piston rings scrape excess oil from the cylinder wall?",
     "options": [
-      "Intake, Compression, Power, and Exhaust",
-      "Ignition, Expansion, Cooling, and Release",
-      "Injection, Combustion, Drive, and Reset",
-      "Fueling, Firing, Spinning, and Vented"
+      "Compression rings (top/second) and Oil control rings (bottom)",
+      "Scraper rings and Fire rings",
+      "Tension rings and Compression rings",
+      "Oil rings top, compression rings bottom"
     ],
     "correctAnswer": 0,
-    "explanation": "The Otto cycle engine operates in four piston strokes: Intake stroke, Compression stroke, Power stroke, and Exhaust stroke.",
+    "explanation": "Two upper compression rings maintain combustion seal while the bottom slotted multi-piece oil ring meters lubrication film on the cylinder liner.",
     "tags": [
       "automotive",
       "engine-mechanics",
@@ -441,64 +441,64 @@
     "active": true
   },
   {
-    "id": "automotive-brakes-suspension-0022",
+    "id": "automotive-engine-mechanics-0022",
     "category": "Automotive",
-    "subcategory": "Brakes & Suspension",
+    "subcategory": "Engine Mechanics",
     "difficulty": "easy",
-    "question": "Automotive mechanics and diagnosis: What automotive component generates electrical power to recharge the vehicle battery and run accessories while the engine runs? (Ref #22)",
+    "question": "What cylinder wall surface treatment consists of microscopic 45-degree crosshatch scratch patterns created by abrasive honing stones?",
     "options": [
-      "Starter motor",
-      "Alternator",
-      "Spark plug",
-      "Ignition coil"
+      "Mirror Polishing",
+      "Cylinder Crosshatching",
+      "Shot Peening",
+      "Nitriding"
     ],
     "correctAnswer": 1,
-    "explanation": "The alternator converts mechanical crankshaft energy into alternating electrical current, rectified to direct current.",
+    "explanation": "Crosshatch grooves retain a microscopic film of engine oil, allowing piston rings to hydrodynamically glide without scuffing.",
     "tags": [
       "automotive",
-      "brakes-suspension",
+      "engine-mechanics",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "automotive-electrical-diagnostics-0023",
+    "id": "automotive-engine-mechanics-0023",
     "category": "Automotive",
-    "subcategory": "Electrical & Diagnostics",
+    "subcategory": "Engine Mechanics",
     "difficulty": "medium",
-    "question": "Automotive mechanics and diagnosis: What exhaust emission control device converts harmful carbon monoxide, unburned hydrocarbons, and nitrogen oxides into safer gases? (Ref #23)",
+    "question": "What component located between the engine cylinder block and cylinder head seals high-pressure combustion, oil, and coolant passages?",
     "options": [
-      "Muffler resonator",
-      "EGR valve",
-      "Catalytic Converter",
-      "Turbocharger"
+      "The Valve Cover Gasket",
+      "The Intake Manifold Gasket",
+      "The Cylinder Head Gasket",
+      "The Oil Pan Gasket"
     ],
     "correctAnswer": 2,
-    "explanation": "Catalytic converters contain platinum, palladium, and rhodium catalysts to oxidize CO and hydrocarbons and reduce NOx.",
+    "explanation": "Multi-layer steel (MLS) head gaskets withstand thousands of PSI of combustion pressure while isolating oil and coolant passages.",
     "tags": [
       "automotive",
-      "electrical-diagnostics",
+      "engine-mechanics",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "automotive-transmissions-0024",
+    "id": "automotive-engine-mechanics-0024",
     "category": "Automotive",
-    "subcategory": "Transmissions",
+    "subcategory": "Engine Mechanics",
     "difficulty": "hard",
-    "question": "Automotive mechanics and diagnosis: What standardized diagnostic port found beneath the dashboard of vehicles built after 1996 allows technicians to read trouble codes? (Ref #24)",
+    "question": "What device dampens torsional vibrations in the crankshaft caused by rapid cyclic cylinder combustion pulses?",
     "options": [
-      "CAN-Bus Serial Port 1",
-      "ECU Flash Header",
-      "VAG-COM terminal",
-      "OBD-II port (On-Board Diagnostics II)"
+      "The Flywheel",
+      "The Cam Gear",
+      "The Timing Chain Tensioner",
+      "The Harmonic Balancer (Torsional Vibration Damper)"
     ],
     "correctAnswer": 3,
-    "explanation": "OBD-II is the federally mandated standardized 16-pin diagnostic connector used to retrieve Diagnostic Trouble Codes (DTCs).",
+    "explanation": "An inertia ring bonded to an inner hub via vulcanized rubber absorbs crankshaft torsional twist, preventing crankshaft fatigue failure.",
     "tags": [
       "automotive",
-      "transmissions",
+      "engine-mechanics",
       "hard"
     ],
     "active": true
@@ -508,15 +508,15 @@
     "category": "Automotive",
     "subcategory": "Engine Mechanics",
     "difficulty": "easy",
-    "question": "Automotive mechanics and diagnosis: In vehicles equipped with a manual transmission, what mechanical assembly disengages engine power from the gearbox during gear changes? (Ref #25)",
+    "question": "What lubrication system component supplies pressurized engine oil to crankshaft journal bearings and camshafts?",
     "options": [
-      "Clutch disc and pressure plate",
-      "Torque converter",
-      "Differential spider gears",
-      "Flywheel ring gear"
+      "The Positive-Displacement Oil Pump",
+      "The Water Pump",
+      "The Fuel Pump",
+      "The Vacuum Pump"
     ],
     "correctAnswer": 0,
-    "explanation": "Pressing the clutch pedal releases friction pressure between the flywheel and clutch disc, allowing smooth gear shifts.",
+    "explanation": "Gear-rotor (gerotor) or gear-driven oil pumps draw oil from the oil pan and pump it through the oil filter to the main engine oil galleries.",
     "tags": [
       "automotive",
       "engine-mechanics",
@@ -525,64 +525,64 @@
     "active": true
   },
   {
-    "id": "automotive-brakes-suspension-0026",
+    "id": "automotive-engine-mechanics-0026",
     "category": "Automotive",
-    "subcategory": "Brakes & Suspension",
+    "subcategory": "Engine Mechanics",
     "difficulty": "medium",
-    "question": "Automotive mechanics and diagnosis: What are the four sequential operational strokes in a standard four-stroke internal combustion engine? (Ref #26)",
+    "question": "What safety valve inside an engine oil filter opens to ensure engine lubrication if the filter element becomes clogged with sludge?",
     "options": [
-      "Ignition, Expansion, Cooling, and Release",
-      "Intake, Compression, Power, and Exhaust",
-      "Injection, Combustion, Drive, and Reset",
-      "Fueling, Firing, Spinning, and Vented"
+      "The Anti-Drainback Valve",
+      "The Oil Filter Bypass Valve",
+      "The Pressure Relief Valve",
+      "The PCV Valve"
     ],
     "correctAnswer": 1,
-    "explanation": "The Otto cycle engine operates in four piston strokes: Intake stroke, Compression stroke, Power stroke, and Exhaust stroke.",
+    "explanation": "Engineers prioritize circulating unfiltered oil over running bearings dry, avoiding immediate catastrophic bearing seizure.",
     "tags": [
       "automotive",
-      "brakes-suspension",
+      "engine-mechanics",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "automotive-electrical-diagnostics-0027",
+    "id": "automotive-engine-mechanics-0027",
     "category": "Automotive",
-    "subcategory": "Electrical & Diagnostics",
+    "subcategory": "Engine Mechanics",
     "difficulty": "hard",
-    "question": "Automotive mechanics and diagnosis: What automotive component generates electrical power to recharge the vehicle battery and run accessories while the engine runs? (Ref #27)",
+    "question": "What rubber flap inside an oil filter prevents engine oil from draining back into the pan when the engine is turned off?",
     "options": [
-      "Starter motor",
-      "Spark plug",
-      "Alternator",
-      "Ignition coil"
+      "The Bypass Valve",
+      "The Pressure Relief Valve",
+      "The Anti-Drainback Valve",
+      "The Shunt Valve"
     ],
     "correctAnswer": 2,
-    "explanation": "The alternator converts mechanical crankshaft energy into alternating electrical current, rectified to direct current.",
+    "explanation": "The anti-drainback valve keeps the filter full, preventing dry-start metallic clatter upon initial engine startup.",
     "tags": [
       "automotive",
-      "electrical-diagnostics",
+      "engine-mechanics",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "automotive-transmissions-0028",
+    "id": "automotive-engine-mechanics-0028",
     "category": "Automotive",
-    "subcategory": "Transmissions",
+    "subcategory": "Engine Mechanics",
     "difficulty": "easy",
-    "question": "Automotive mechanics and diagnosis: What exhaust emission control device converts harmful carbon monoxide, unburned hydrocarbons, and nitrogen oxides into safer gases? (Ref #28)",
+    "question": "What emission control system routes blow-by gases from the crankcase back into the intake manifold to be burned in the cylinders?",
     "options": [
-      "Muffler resonator",
-      "EGR valve",
-      "Turbocharger",
-      "Catalytic Converter"
+      "Exhaust Gas Recirculation (EGR)",
+      "Evaporative Emissions (EVAP)",
+      "Secondary Air Injection",
+      "Positive Crankcase Ventilation (PCV)"
     ],
     "correctAnswer": 3,
-    "explanation": "Catalytic converters contain platinum, palladium, and rhodium catalysts to oxidize CO and hydrocarbons and reduce NOx.",
+    "explanation": "The spring-loaded PCV valve prevents hazardous crankcase pressure buildup while purging moisture and unburned fuel vapors.",
     "tags": [
       "automotive",
-      "transmissions",
+      "engine-mechanics",
       "easy"
     ],
     "active": true
@@ -592,15 +592,15 @@
     "category": "Automotive",
     "subcategory": "Engine Mechanics",
     "difficulty": "medium",
-    "question": "Automotive mechanics and diagnosis: What standardized diagnostic port found beneath the dashboard of vehicles built after 1996 allows technicians to read trouble codes? (Ref #29)",
+    "question": "What automotive cooling system component regulates coolant flow to the radiator to maintain optimal engine operating temperature?",
     "options": [
-      "OBD-II port (On-Board Diagnostics II)",
-      "CAN-Bus Serial Port 1",
-      "ECU Flash Header",
-      "VAG-COM terminal"
+      "The Thermostat",
+      "The Water Pump",
+      "The Radiator Cap",
+      "The Expansion Tank"
     ],
     "correctAnswer": 0,
-    "explanation": "OBD-II is the federally mandated standardized 16-pin diagnostic connector used to retrieve Diagnostic Trouble Codes (DTCs).",
+    "explanation": "A wax pellet inside the thermostat expands as coolant warms, opening the spring-loaded valve at a calibrated temperature (e.g., 195 F / 90 C).",
     "tags": [
       "automotive",
       "engine-mechanics",
@@ -609,64 +609,64 @@
     "active": true
   },
   {
-    "id": "automotive-brakes-suspension-0030",
+    "id": "automotive-engine-mechanics-0030",
     "category": "Automotive",
-    "subcategory": "Brakes & Suspension",
+    "subcategory": "Engine Mechanics",
     "difficulty": "hard",
-    "question": "Automotive mechanics and diagnosis: In vehicles equipped with a manual transmission, what mechanical assembly disengages engine power from the gearbox during gear changes? (Ref #30)",
+    "question": "What purpose does the pressure spring in an automotive radiator cap serve?",
     "options": [
-      "Torque converter",
-      "Clutch disc and pressure plate",
-      "Differential spider gears",
-      "Flywheel ring gear"
+      "It vents steam into the exhaust pipe",
+      "It pressurizes the cooling system, raising the boiling point of the water-antifreeze mixture",
+      "It filters debris from the coolant",
+      "It speeds up the water pump"
     ],
     "correctAnswer": 1,
-    "explanation": "Pressing the clutch pedal releases friction pressure between the flywheel and clutch disc, allowing smooth gear shifts.",
+    "explanation": "Every 1 PSI of pressure raises the boiling point of water by approximately 3 F; a 15 PSI cap raises the boiling point to ~255 F (124 C).",
     "tags": [
       "automotive",
-      "brakes-suspension",
+      "engine-mechanics",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "automotive-electrical-diagnostics-0031",
+    "id": "automotive-engine-mechanics-0031",
     "category": "Automotive",
-    "subcategory": "Electrical & Diagnostics",
+    "subcategory": "Engine Mechanics",
     "difficulty": "easy",
-    "question": "Automotive mechanics and diagnosis: What are the four sequential operational strokes in a standard four-stroke internal combustion engine? (Ref #31)",
+    "question": "What chemical compound forms the base of standard long-life automotive engine coolant antifreeze?",
     "options": [
-      "Ignition, Expansion, Cooling, and Release",
-      "Injection, Combustion, Drive, and Reset",
-      "Intake, Compression, Power, and Exhaust",
-      "Fueling, Firing, Spinning, and Vented"
+      "Methanol",
+      "Isopropyl Alcohol",
+      "Ethylene Glycol (or Propylene Glycol)",
+      "Mineral Oil"
     ],
     "correctAnswer": 2,
-    "explanation": "The Otto cycle engine operates in four piston strokes: Intake stroke, Compression stroke, Power stroke, and Exhaust stroke.",
+    "explanation": "A 50/50 mixture of ethylene glycol and distilled water lowers the freezing point to -34 F (-37 C) and provides anti-corrosion additives.",
     "tags": [
       "automotive",
-      "electrical-diagnostics",
+      "engine-mechanics",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "automotive-transmissions-0032",
+    "id": "automotive-engine-mechanics-0032",
     "category": "Automotive",
-    "subcategory": "Transmissions",
+    "subcategory": "Engine Mechanics",
     "difficulty": "medium",
-    "question": "Automotive mechanics and diagnosis: What automotive component generates electrical power to recharge the vehicle battery and run accessories while the engine runs? (Ref #32)",
+    "question": "What exhaust emission system recirculates a metered portion of inert exhaust gas back into the intake air to reduce combustion temperatures?",
     "options": [
-      "Starter motor",
-      "Spark plug",
-      "Ignition coil",
-      "Alternator"
+      "Secondary Air Injection",
+      "Catalytic Reduction",
+      "Turbo Scavenging",
+      "Exhaust Gas Recirculation (EGR)"
     ],
     "correctAnswer": 3,
-    "explanation": "The alternator converts mechanical crankshaft energy into alternating electrical current, rectified to direct current.",
+    "explanation": "Inert exhaust gas dilutes the oxygen charge, lowering peak combustion flame temperatures below 2,500 F to curb Nitrogen Oxide (NOx) formation.",
     "tags": [
       "automotive",
-      "transmissions",
+      "engine-mechanics",
       "medium"
     ],
     "active": true
@@ -676,15 +676,15 @@
     "category": "Automotive",
     "subcategory": "Engine Mechanics",
     "difficulty": "hard",
-    "question": "Automotive mechanics and diagnosis: What exhaust emission control device converts harmful carbon monoxide, unburned hydrocarbons, and nitrogen oxides into safer gases? (Ref #33)",
+    "question": "What exhaust emission device uses platinum, palladium, and rhodium catalysts to convert CO, HC, and NOx into CO2, H2O, and N2?",
     "options": [
-      "Catalytic Converter",
-      "Muffler resonator",
-      "EGR valve",
-      "Turbocharger"
+      "A Three-Way Catalytic Converter",
+      "A Particulate Filter",
+      "An EGR Cooler",
+      "A Resonator"
     ],
     "correctAnswer": 0,
-    "explanation": "Catalytic converters contain platinum, palladium, and rhodium catalysts to oxidize CO and hydrocarbons and reduce NOx.",
+    "explanation": "Reduction catalysts break down NOx into nitrogen and oxygen, while oxidation catalysts burn unburned hydrocarbons (HC) and carbon monoxide (CO).",
     "tags": [
       "automotive",
       "engine-mechanics",
@@ -693,64 +693,64 @@
     "active": true
   },
   {
-    "id": "automotive-brakes-suspension-0034",
+    "id": "automotive-engine-mechanics-0034",
     "category": "Automotive",
-    "subcategory": "Brakes & Suspension",
+    "subcategory": "Engine Mechanics",
     "difficulty": "easy",
-    "question": "Automotive mechanics and diagnosis: What standardized diagnostic port found beneath the dashboard of vehicles built after 1996 allows technicians to read trouble codes? (Ref #34)",
+    "question": "What exhaust emission device in modern diesel vehicles captures and burns off microscopic black diesel soot particles?",
     "options": [
-      "CAN-Bus Serial Port 1",
-      "OBD-II port (On-Board Diagnostics II)",
-      "ECU Flash Header",
-      "VAG-COM terminal"
+      "A Catalytic Converter",
+      "A Diesel Particulate Filter (DPF)",
+      "A Selective Catalytic Reducer",
+      "A Muffler"
     ],
     "correctAnswer": 1,
-    "explanation": "OBD-II is the federally mandated standardized 16-pin diagnostic connector used to retrieve Diagnostic Trouble Codes (DTCs).",
+    "explanation": "The porous silicon carbide honeycombs trap carbon soot, incinerating it into carbon dioxide during periodic high-temperature active regeneration.",
     "tags": [
       "automotive",
-      "brakes-suspension",
+      "engine-mechanics",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "automotive-electrical-diagnostics-0035",
+    "id": "automotive-engine-mechanics-0035",
     "category": "Automotive",
-    "subcategory": "Electrical & Diagnostics",
+    "subcategory": "Engine Mechanics",
     "difficulty": "medium",
-    "question": "Automotive mechanics and diagnosis: In vehicles equipped with a manual transmission, what mechanical assembly disengages engine power from the gearbox during gear changes? (Ref #35)",
+    "question": "What liquid reagent (aqueous urea solution) is injected into diesel exhaust streams upstream of an SCR catalyst to eliminate NOx emissions?",
     "options": [
-      "Torque converter",
-      "Differential spider gears",
-      "Clutch disc and pressure plate",
-      "Flywheel ring gear"
+      "Biodiesel",
+      "Engine Coolant",
+      "Diesel Exhaust Fluid (DEF / AdBlue)",
+      "Cetane Booster"
     ],
     "correctAnswer": 2,
-    "explanation": "Pressing the clutch pedal releases friction pressure between the flywheel and clutch disc, allowing smooth gear shifts.",
+    "explanation": "Heat in the exhaust converts urea into ammonia (NH3), which reacts over the Selective Catalytic Reduction (SCR) catalyst to convert NOx into N2 and H2O.",
     "tags": [
       "automotive",
-      "electrical-diagnostics",
+      "engine-mechanics",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "automotive-transmissions-0036",
+    "id": "automotive-engine-mechanics-0036",
     "category": "Automotive",
-    "subcategory": "Transmissions",
+    "subcategory": "Engine Mechanics",
     "difficulty": "hard",
-    "question": "Automotive mechanics and diagnosis: What are the four sequential operational strokes in a standard four-stroke internal combustion engine? (Ref #36)",
+    "question": "What automotive engine management technology varies the angular position and timing of the camshaft relative to the crankshaft in real time?",
     "options": [
-      "Ignition, Expansion, Cooling, and Release",
-      "Injection, Combustion, Drive, and Reset",
-      "Fueling, Firing, Spinning, and Vented",
-      "Intake, Compression, Power, and Exhaust"
+      "Electronic Throttle Control",
+      "Variable Compression Ratio",
+      "Direct Ignition",
+      "Variable Valve Timing (VVT, e.g., VTEC, VANOS, Dual VVT-i)"
     ],
     "correctAnswer": 3,
-    "explanation": "The Otto cycle engine operates in four piston strokes: Intake stroke, Compression stroke, Power stroke, and Exhaust stroke.",
+    "explanation": "Hydraulic phasers or electric actuators advance or retard cam timing to optimize low-RPM torque, high-RPM horsepower, and emissions.",
     "tags": [
       "automotive",
-      "transmissions",
+      "engine-mechanics",
       "hard"
     ],
     "active": true
@@ -760,15 +760,15 @@
     "category": "Automotive",
     "subcategory": "Engine Mechanics",
     "difficulty": "easy",
-    "question": "Automotive mechanics and diagnosis: What automotive component generates electrical power to recharge the vehicle battery and run accessories while the engine runs? (Ref #37)",
+    "question": "What fuel injection technology injects gasoline directly into the combustion chamber at high pressures (up to 3,000 PSI) instead of the intake port?",
     "options": [
-      "Alternator",
-      "Starter motor",
-      "Spark plug",
-      "Ignition coil"
+      "Gasoline Direct Injection (GDI)",
+      "Port Fuel Injection (PFI)",
+      "Throttle Body Injection (TBI)",
+      "Multi-Point Fuel Injection (MPI)"
     ],
     "correctAnswer": 0,
-    "explanation": "The alternator converts mechanical crankshaft energy into alternating electrical current, rectified to direct current.",
+    "explanation": "GDI provides precise fuel atomization and charge cooling, allowing higher compression ratios and improved fuel economy.",
     "tags": [
       "automotive",
       "engine-mechanics",
@@ -777,85 +777,85 @@
     "active": true
   },
   {
-    "id": "automotive-brakes-suspension-0038",
+    "id": "automotive-engine-mechanics-0038",
     "category": "Automotive",
-    "subcategory": "Brakes & Suspension",
+    "subcategory": "Engine Mechanics",
     "difficulty": "medium",
-    "question": "Automotive mechanics and diagnosis: What exhaust emission control device converts harmful carbon monoxide, unburned hydrocarbons, and nitrogen oxides into safer gases? (Ref #38)",
+    "question": "What mechanical component is installed in four-cylinder and V6 engines to cancel out inherent secondary reciprocating unbalance forces?",
     "options": [
-      "Muffler resonator",
-      "Catalytic Converter",
-      "EGR valve",
-      "Turbocharger"
+      "Harmonic Dampers",
+      "Balance Shafts",
+      "Heavy Flywheels",
+      "Offset Piston Pins"
     ],
     "correctAnswer": 1,
-    "explanation": "Catalytic converters contain platinum, palladium, and rhodium catalysts to oxidize CO and hydrocarbons and reduce NOx.",
+    "explanation": "Two counter-rotating shafts spinning at twice engine speed generate counteracting forces that neutralize secondary piston-motion vibrations.",
     "tags": [
       "automotive",
-      "brakes-suspension",
+      "engine-mechanics",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "automotive-electrical-diagnostics-0039",
+    "id": "automotive-brakes-suspension-0039",
     "category": "Automotive",
-    "subcategory": "Electrical & Diagnostics",
+    "subcategory": "Brakes & Suspension",
     "difficulty": "hard",
-    "question": "Automotive mechanics and diagnosis: What standardized diagnostic port found beneath the dashboard of vehicles built after 1996 allows technicians to read trouble codes? (Ref #39)",
+    "question": "What physical principle states that pressure applied to an enclosed, incompressible static fluid is transmitted equally in all directions?",
     "options": [
-      "CAN-Bus Serial Port 1",
-      "ECU Flash Header",
-      "OBD-II port (On-Board Diagnostics II)",
-      "VAG-COM terminal"
+      "Bernoulli's Principle",
+      "Boyle's Law",
+      "Pascal's Principle (Pascal's Law)",
+      "Hooke's Law"
     ],
     "correctAnswer": 2,
-    "explanation": "OBD-II is the federally mandated standardized 16-pin diagnostic connector used to retrieve Diagnostic Trouble Codes (DTCs).",
+    "explanation": "Pascal's law forms the foundation of hydraulic brake systems: Foot force on the master cylinder generates proportional clamping force at calipers.",
     "tags": [
       "automotive",
-      "electrical-diagnostics",
+      "brakes-suspension",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "automotive-transmissions-0040",
+    "id": "automotive-brakes-suspension-0040",
     "category": "Automotive",
-    "subcategory": "Transmissions",
+    "subcategory": "Brakes & Suspension",
     "difficulty": "easy",
-    "question": "Automotive mechanics and diagnosis: In vehicles equipped with a manual transmission, what mechanical assembly disengages engine power from the gearbox during gear changes? (Ref #40)",
+    "question": "What hydraulic component translates foot pedal mechanical force into fluid hydraulic pressure in an automotive brake system?",
     "options": [
-      "Torque converter",
-      "Differential spider gears",
-      "Flywheel ring gear",
-      "Clutch disc and pressure plate"
+      "The Brake Caliper",
+      "The Wheel Cylinder",
+      "The Proportioning Valve",
+      "The Brake Master Cylinder"
     ],
     "correctAnswer": 3,
-    "explanation": "Pressing the clutch pedal releases friction pressure between the flywheel and clutch disc, allowing smooth gear shifts.",
+    "explanation": "Depressing the pedal drives primary and secondary pistons inside the master cylinder, pressurizing split hydraulic brake circuits.",
     "tags": [
       "automotive",
-      "transmissions",
+      "brakes-suspension",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "automotive-engine-mechanics-0041",
+    "id": "automotive-brakes-suspension-0041",
     "category": "Automotive",
-    "subcategory": "Engine Mechanics",
+    "subcategory": "Brakes & Suspension",
     "difficulty": "medium",
-    "question": "Automotive mechanics and diagnosis: What are the four sequential operational strokes in a standard four-stroke internal combustion engine? (Ref #41)",
+    "question": "Why do all modern production road vehicles utilize a dual-split (tandem) master cylinder braking circuit?",
     "options": [
-      "Intake, Compression, Power, and Exhaust",
-      "Ignition, Expansion, Cooling, and Release",
-      "Injection, Combustion, Drive, and Reset",
-      "Fueling, Firing, Spinning, and Vented"
+      "To maintain braking capability on at least two wheels if one hydraulic circuit ruptures or develops a leak",
+      "To double brake fluid pressure",
+      "To cool the brake fluid during long downhill descents",
+      "To operate the parking brake mechanically"
     ],
     "correctAnswer": 0,
-    "explanation": "The Otto cycle engine operates in four piston strokes: Intake stroke, Compression stroke, Power stroke, and Exhaust stroke.",
+    "explanation": "Federal regulations require diagonally split (LF/RR and RF/LR) or front/rear split hydraulic circuits for fail-safe emergency stopping.",
     "tags": [
       "automotive",
-      "engine-mechanics",
+      "brakes-suspension",
       "medium"
     ],
     "active": true
@@ -865,15 +865,15 @@
     "category": "Automotive",
     "subcategory": "Brakes & Suspension",
     "difficulty": "hard",
-    "question": "Automotive mechanics and diagnosis: What automotive component generates electrical power to recharge the vehicle battery and run accessories while the engine runs? (Ref #42)",
+    "question": "What vacuum-operated brake booster component uses engine intake manifold vacuum to multiply the driver's pedal effort force?",
     "options": [
-      "Starter motor",
-      "Alternator",
-      "Spark plug",
-      "Ignition coil"
+      "The Hydro-Boost Unit",
+      "The Vacuum Brake Booster (Power Booster)",
+      "The Master Cylinder",
+      "The ABS Pump"
     ],
     "correctAnswer": 1,
-    "explanation": "The alternator converts mechanical crankshaft energy into alternating electrical current, rectified to direct current.",
+    "explanation": "A rubber diaphragm exposed to engine vacuum on one side and atmospheric pressure on the other amplifies foot pedal effort up to five-fold.",
     "tags": [
       "automotive",
       "brakes-suspension",
@@ -882,64 +882,64 @@
     "active": true
   },
   {
-    "id": "automotive-electrical-diagnostics-0043",
+    "id": "automotive-brakes-suspension-0043",
     "category": "Automotive",
-    "subcategory": "Electrical & Diagnostics",
+    "subcategory": "Brakes & Suspension",
     "difficulty": "easy",
-    "question": "Automotive mechanics and diagnosis: What exhaust emission control device converts harmful carbon monoxide, unburned hydrocarbons, and nitrogen oxides into safer gases? (Ref #43)",
+    "question": "What brake power assist system, common on heavy diesel trucks, utilizes high-pressure power steering hydraulic fluid instead of vacuum?",
     "options": [
-      "Muffler resonator",
-      "EGR valve",
-      "Catalytic Converter",
-      "Turbocharger"
+      "A Vacuum Booster",
+      "An Air Brake Chamber",
+      "A Hydro-Boost System",
+      "An Electro-Hydraulic Booster"
     ],
     "correctAnswer": 2,
-    "explanation": "Catalytic converters contain platinum, palladium, and rhodium catalysts to oxidize CO and hydrocarbons and reduce NOx.",
+    "explanation": "Diesel engines lack consistent intake manifold vacuum; Hydro-Boost uses the power steering pump to provide robust hydraulic brake assist.",
     "tags": [
       "automotive",
-      "electrical-diagnostics",
+      "brakes-suspension",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "automotive-transmissions-0044",
+    "id": "automotive-brakes-suspension-0044",
     "category": "Automotive",
-    "subcategory": "Transmissions",
+    "subcategory": "Brakes & Suspension",
     "difficulty": "medium",
-    "question": "Automotive mechanics and diagnosis: What standardized diagnostic port found beneath the dashboard of vehicles built after 1996 allows technicians to read trouble codes? (Ref #44)",
+    "question": "What brake component features hydraulic pistons that squeeze friction pads directly against the flat sides of a spinning rotor?",
     "options": [
-      "CAN-Bus Serial Port 1",
-      "ECU Flash Header",
-      "VAG-COM terminal",
-      "OBD-II port (On-Board Diagnostics II)"
+      "A Brake Drum",
+      "A Wheel Cylinder",
+      "A Backing Plate",
+      "A Disc Brake Caliper"
     ],
     "correctAnswer": 3,
-    "explanation": "OBD-II is the federally mandated standardized 16-pin diagnostic connector used to retrieve Diagnostic Trouble Codes (DTCs).",
+    "explanation": "Floating or fixed calipers clamp high-friction brake pads against the spinning cast-iron rotor to convert kinetic energy into heat.",
     "tags": [
       "automotive",
-      "transmissions",
+      "brakes-suspension",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "automotive-engine-mechanics-0045",
+    "id": "automotive-brakes-suspension-0045",
     "category": "Automotive",
-    "subcategory": "Engine Mechanics",
+    "subcategory": "Brakes & Suspension",
     "difficulty": "hard",
-    "question": "Automotive mechanics and diagnosis: In vehicles equipped with a manual transmission, what mechanical assembly disengages engine power from the gearbox during gear changes? (Ref #45)",
+    "question": "What type of disc brake caliper has pistons on only one side and slides laterally on lubricated pins to clamp both pads?",
     "options": [
-      "Clutch disc and pressure plate",
-      "Torque converter",
-      "Differential spider gears",
-      "Flywheel ring gear"
+      "A Floating (Sliding) Brake Caliper",
+      "A Fixed Brake Caliper",
+      "A Monobloc Caliper",
+      "A Dual-Opposed Caliper"
     ],
     "correctAnswer": 0,
-    "explanation": "Pressing the clutch pedal releases friction pressure between the flywheel and clutch disc, allowing smooth gear shifts.",
+    "explanation": "A single inboard piston pushes the inner pad against the rotor, causing the caliper frame to slide inward and clamp the outer pad.",
     "tags": [
       "automotive",
-      "engine-mechanics",
+      "brakes-suspension",
       "hard"
     ],
     "active": true
@@ -949,15 +949,15 @@
     "category": "Automotive",
     "subcategory": "Brakes & Suspension",
     "difficulty": "easy",
-    "question": "Automotive mechanics and diagnosis: What are the four sequential operational strokes in a standard four-stroke internal combustion engine? (Ref #46)",
+    "question": "What type of high-performance brake caliper features rigid mounting to the steering knuckle with opposing pistons on both sides?",
     "options": [
-      "Ignition, Expansion, Cooling, and Release",
-      "Intake, Compression, Power, and Exhaust",
-      "Injection, Combustion, Drive, and Reset",
-      "Fueling, Firing, Spinning, and Vented"
+      "A Floating Caliper",
+      "A Fixed Brake Caliper",
+      "A Sliding Caliper",
+      "A Single-Piston Caliper"
     ],
     "correctAnswer": 1,
-    "explanation": "The Otto cycle engine operates in four piston strokes: Intake stroke, Compression stroke, Power stroke, and Exhaust stroke.",
+    "explanation": "Fixed calipers (4, 6, or 8 pistons) offer superior rigidity, immediate pedal response, and uniform pad wear distribution on sports cars.",
     "tags": [
       "automotive",
       "brakes-suspension",
@@ -966,64 +966,64 @@
     "active": true
   },
   {
-    "id": "automotive-electrical-diagnostics-0047",
+    "id": "automotive-brakes-suspension-0047",
     "category": "Automotive",
-    "subcategory": "Electrical & Diagnostics",
+    "subcategory": "Brakes & Suspension",
     "difficulty": "medium",
-    "question": "Automotive mechanics and diagnosis: What automotive component generates electrical power to recharge the vehicle battery and run accessories while the engine runs? (Ref #47)",
+    "question": "What disc brake rotor design features internal radial cooling fins between two friction surfaces to pump cooling air centrifugal outward?",
     "options": [
-      "Starter motor",
-      "Spark plug",
-      "Alternator",
-      "Ignition coil"
+      "A Solid Rotor",
+      "A Drilled Rotor only",
+      "A Vented (Ventilated) Brake Rotor",
+      "A Slotted Rotor only"
     ],
     "correctAnswer": 2,
-    "explanation": "The alternator converts mechanical crankshaft energy into alternating electrical current, rectified to direct current.",
+    "explanation": "Vented rotors act as centrifugal air pumps, cooling the rotor up to 30% faster than solid rotors during repeated hard stops.",
     "tags": [
       "automotive",
-      "electrical-diagnostics",
+      "brakes-suspension",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "automotive-transmissions-0048",
+    "id": "automotive-brakes-suspension-0048",
     "category": "Automotive",
-    "subcategory": "Transmissions",
+    "subcategory": "Brakes & Suspension",
     "difficulty": "hard",
-    "question": "Automotive mechanics and diagnosis: What exhaust emission control device converts harmful carbon monoxide, unburned hydrocarbons, and nitrogen oxides into safer gases? (Ref #48)",
+    "question": "What dangerous braking condition occurs when brake friction pads and rotors overheat, causing a sudden loss of friction and pedal fading?",
     "options": [
-      "Muffler resonator",
-      "EGR valve",
-      "Turbocharger",
-      "Catalytic Converter"
+      "Brake Lockup",
+      "Vapor Lock",
+      "Brake Pull",
+      "Brake Fade"
     ],
     "correctAnswer": 3,
-    "explanation": "Catalytic converters contain platinum, palladium, and rhodium catalysts to oxidize CO and hydrocarbons and reduce NOx.",
+    "explanation": "Extreme temperatures glaze pad resin or boil brake fluid, causing friction coefficients to drop precipitously.",
     "tags": [
       "automotive",
-      "transmissions",
+      "brakes-suspension",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "automotive-engine-mechanics-0049",
+    "id": "automotive-brakes-suspension-0049",
     "category": "Automotive",
-    "subcategory": "Engine Mechanics",
+    "subcategory": "Brakes & Suspension",
     "difficulty": "easy",
-    "question": "Automotive mechanics and diagnosis: What standardized diagnostic port found beneath the dashboard of vehicles built after 1996 allows technicians to read trouble codes? (Ref #49)",
+    "question": "What hazardous hydraulic condition occurs when boiling brake fluid creates compressible vapor bubbles inside brake lines, causing pedal drop?",
     "options": [
-      "OBD-II port (On-Board Diagnostics II)",
-      "CAN-Bus Serial Port 1",
-      "ECU Flash Header",
-      "VAG-COM terminal"
+      "Vapor Lock (Fluid Fade)",
+      "Mechanical Fade",
+      "Lining Fade",
+      "Pad Glazing"
     ],
     "correctAnswer": 0,
-    "explanation": "OBD-II is the federally mandated standardized 16-pin diagnostic connector used to retrieve Diagnostic Trouble Codes (DTCs).",
+    "explanation": "Compressible steam bubbles absorb pedal motion rather than moving caliper pistons, causing the brake pedal to sink to the floor with zero braking.",
     "tags": [
       "automotive",
-      "engine-mechanics",
+      "brakes-suspension",
       "easy"
     ],
     "active": true
@@ -1033,15 +1033,15 @@
     "category": "Automotive",
     "subcategory": "Brakes & Suspension",
     "difficulty": "medium",
-    "question": "Automotive mechanics and diagnosis: In vehicles equipped with a manual transmission, what mechanical assembly disengages engine power from the gearbox during gear changes? (Ref #50)",
+    "question": "Why is glycol-ether-based brake fluid (DOT 3, DOT 4, DOT 5.1) classified as hygroscopic?",
     "options": [
-      "Torque converter",
-      "Clutch disc and pressure plate",
-      "Differential spider gears",
-      "Flywheel ring gear"
+      "It repels all water molecules",
+      "It naturally absorbs ambient atmospheric moisture over time through rubber hoses and reservoir seals",
+      "It evaporates when exposed to air",
+      "It chemically dissolves steel lines"
     ],
     "correctAnswer": 1,
-    "explanation": "Pressing the clutch pedal releases friction pressure between the flywheel and clutch disc, allowing smooth gear shifts.",
+    "explanation": "Absorbed water lowers the fluid's boiling point dramatically (from ~450 F dry down to ~280 F wet), promoting dangerous vapor lock.",
     "tags": [
       "automotive",
       "brakes-suspension",
@@ -1050,64 +1050,64 @@
     "active": true
   },
   {
-    "id": "automotive-electrical-diagnostics-0051",
+    "id": "automotive-brakes-suspension-0051",
     "category": "Automotive",
-    "subcategory": "Electrical & Diagnostics",
+    "subcategory": "Brakes & Suspension",
     "difficulty": "hard",
-    "question": "Automotive mechanics and diagnosis: What are the four sequential operational strokes in a standard four-stroke internal combustion engine? (Ref #51)",
+    "question": "What non-hygroscopic, silicone-based brake fluid does not absorb moisture and is incompatible with ABS braking systems?",
     "options": [
-      "Ignition, Expansion, Cooling, and Release",
-      "Injection, Combustion, Drive, and Reset",
-      "Intake, Compression, Power, and Exhaust",
-      "Fueling, Firing, Spinning, and Vented"
+      "DOT 3 Brake Fluid",
+      "DOT 4 Brake Fluid",
+      "DOT 5 Brake Fluid (Purple)",
+      "DOT 5.1 Brake Fluid"
     ],
     "correctAnswer": 2,
-    "explanation": "The Otto cycle engine operates in four piston strokes: Intake stroke, Compression stroke, Power stroke, and Exhaust stroke.",
+    "explanation": "DOT 5 aerates easily and does not mix with glycol fluids, used primarily in classic museum cars and military vehicles.",
     "tags": [
       "automotive",
-      "electrical-diagnostics",
+      "brakes-suspension",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "automotive-transmissions-0052",
+    "id": "automotive-brakes-suspension-0052",
     "category": "Automotive",
-    "subcategory": "Transmissions",
+    "subcategory": "Brakes & Suspension",
     "difficulty": "easy",
-    "question": "Automotive mechanics and diagnosis: What automotive component generates electrical power to recharge the vehicle battery and run accessories while the engine runs? (Ref #52)",
+    "question": "What hydraulic valve reduces hydraulic pressure to the rear brakes during hard stops to prevent premature rear-wheel lockup?",
     "options": [
-      "Starter motor",
-      "Spark plug",
-      "Ignition coil",
-      "Alternator"
+      "The Metering Valve",
+      "The Residual Pressure Valve",
+      "The Shuttle Valve",
+      "The Proportioning Valve"
     ],
     "correctAnswer": 3,
-    "explanation": "The alternator converts mechanical crankshaft energy into alternating electrical current, rectified to direct current.",
+    "explanation": "Weight shifts forward under braking; proportioning valves restrict rear fluid pressure to prevent hazardous rear-axle fishtailing.",
     "tags": [
       "automotive",
-      "transmissions",
+      "brakes-suspension",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "automotive-engine-mechanics-0053",
+    "id": "automotive-brakes-suspension-0053",
     "category": "Automotive",
-    "subcategory": "Engine Mechanics",
+    "subcategory": "Brakes & Suspension",
     "difficulty": "medium",
-    "question": "Automotive mechanics and diagnosis: What exhaust emission control device converts harmful carbon monoxide, unburned hydrocarbons, and nitrogen oxides into safer gases? (Ref #53)",
+    "question": "What safety system prevents vehicle road wheels from locking up during emergency braking by rapidly pulsing hydraulic caliper pressure?",
     "options": [
-      "Catalytic Converter",
-      "Muffler resonator",
-      "EGR valve",
-      "Turbocharger"
+      "The Anti-Lock Braking System (ABS)",
+      "Electronic Stability Control (ESC)",
+      "Traction Control System (TCS)",
+      "Brake Assist System (BAS)"
     ],
     "correctAnswer": 0,
-    "explanation": "Catalytic converters contain platinum, palladium, and rhodium catalysts to oxidize CO and hydrocarbons and reduce NOx.",
+    "explanation": "Wheel speed sensors detect impending lockup; ABS solenoid valves modulate pressure up to 20 times per second to preserve steering control.",
     "tags": [
       "automotive",
-      "engine-mechanics",
+      "brakes-suspension",
       "medium"
     ],
     "active": true
@@ -1117,15 +1117,15 @@
     "category": "Automotive",
     "subcategory": "Brakes & Suspension",
     "difficulty": "hard",
-    "question": "Automotive mechanics and diagnosis: What standardized diagnostic port found beneath the dashboard of vehicles built after 1996 allows technicians to read trouble codes? (Ref #54)",
+    "question": "What active safety system builds upon ABS by applying individual wheel brakes and reducing engine torque to prevent skidding and loss of control?",
     "options": [
-      "CAN-Bus Serial Port 1",
-      "OBD-II port (On-Board Diagnostics II)",
-      "ECU Flash Header",
-      "VAG-COM terminal"
+      "Anti-Lock Braking System (ABS)",
+      "Electronic Stability Control (ESC / ESP)",
+      "Traction Control System (TCS)",
+      "Hill Start Assist"
     ],
     "correctAnswer": 1,
-    "explanation": "OBD-II is the federally mandated standardized 16-pin diagnostic connector used to retrieve Diagnostic Trouble Codes (DTCs).",
+    "explanation": "Steering angle and yaw rate sensors detect understeer or oversteer; ESC selectively brakes individual wheels to pivot the vehicle back on course.",
     "tags": [
       "automotive",
       "brakes-suspension",
@@ -1134,64 +1134,64 @@
     "active": true
   },
   {
-    "id": "automotive-electrical-diagnostics-0055",
+    "id": "automotive-brakes-suspension-0055",
     "category": "Automotive",
-    "subcategory": "Electrical & Diagnostics",
+    "subcategory": "Brakes & Suspension",
     "difficulty": "easy",
-    "question": "Automotive mechanics and diagnosis: In vehicles equipped with a manual transmission, what mechanical assembly disengages engine power from the gearbox during gear changes? (Ref #55)",
+    "question": "What independent front suspension design utilizes a single combined coil spring and telescopic shock absorber strut acting as an upper pivot?",
     "options": [
-      "Torque converter",
-      "Differential spider gears",
-      "Clutch disc and pressure plate",
-      "Flywheel ring gear"
+      "A Double Wishbone Suspension",
+      "A Multi-Link Suspension",
+      "A MacPherson Strut Suspension",
+      "A Solid Live Axle"
     ],
     "correctAnswer": 2,
-    "explanation": "Pressing the clutch pedal releases friction pressure between the flywheel and clutch disc, allowing smooth gear shifts.",
+    "explanation": "Invented by Earle S. MacPherson, this compact design eliminates upper control arms, creating spacious engine bays in front-wheel-drive cars.",
     "tags": [
       "automotive",
-      "electrical-diagnostics",
+      "brakes-suspension",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "automotive-transmissions-0056",
+    "id": "automotive-brakes-suspension-0056",
     "category": "Automotive",
-    "subcategory": "Transmissions",
+    "subcategory": "Brakes & Suspension",
     "difficulty": "medium",
-    "question": "Automotive mechanics and diagnosis: What are the four sequential operational strokes in a standard four-stroke internal combustion engine? (Ref #56)",
+    "question": "What high-performance suspension system utilizes an upper control arm and a lower control arm (A-arms) of unequal lengths?",
     "options": [
-      "Ignition, Expansion, Cooling, and Release",
-      "Injection, Combustion, Drive, and Reset",
-      "Fueling, Firing, Spinning, and Vented",
-      "Intake, Compression, Power, and Exhaust"
+      "MacPherson Strut",
+      "Trailing Arm Suspension",
+      "Torsion Beam Suspension",
+      "Double Wishbone (SLA - Short/Long Arm) Suspension"
     ],
     "correctAnswer": 3,
-    "explanation": "The Otto cycle engine operates in four piston strokes: Intake stroke, Compression stroke, Power stroke, and Exhaust stroke.",
+    "explanation": "Unequal wishbone lengths induce negative camber as the wheel compresses into bump, maximizing the tire contact patch during hard cornering.",
     "tags": [
       "automotive",
-      "transmissions",
+      "brakes-suspension",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "automotive-engine-mechanics-0057",
+    "id": "automotive-brakes-suspension-0057",
     "category": "Automotive",
-    "subcategory": "Engine Mechanics",
+    "subcategory": "Brakes & Suspension",
     "difficulty": "hard",
-    "question": "Automotive mechanics and diagnosis: What automotive component generates electrical power to recharge the vehicle battery and run accessories while the engine runs? (Ref #57)",
+    "question": "What semi-independent rear suspension design uses a flexible transverse steel beam that twists to allow independent wheel travel?",
     "options": [
-      "Alternator",
-      "Starter motor",
-      "Spark plug",
-      "Ignition coil"
+      "A Torsion Beam (Twist-Beam) Suspension",
+      "A Multi-Link Suspension",
+      "A De Dion Axle",
+      "A Hotchkiss Drive"
     ],
     "correctAnswer": 0,
-    "explanation": "The alternator converts mechanical crankshaft energy into alternating electrical current, rectified to direct current.",
+    "explanation": "Common on compact front-wheel-drive vehicles, torsion beams provide low manufacturing cost, high cargo volume, and built-in roll resistance.",
     "tags": [
       "automotive",
-      "engine-mechanics",
+      "brakes-suspension",
       "hard"
     ],
     "active": true
@@ -1201,15 +1201,15 @@
     "category": "Automotive",
     "subcategory": "Brakes & Suspension",
     "difficulty": "easy",
-    "question": "Automotive mechanics and diagnosis: What exhaust emission control device converts harmful carbon monoxide, unburned hydrocarbons, and nitrogen oxides into safer gases? (Ref #58)",
+    "question": "What hydraulic suspension component damps spring bounce oscillations by forcing hydraulic oil through calibrated internal valves?",
     "options": [
-      "Muffler resonator",
-      "Catalytic Converter",
-      "EGR valve",
-      "Turbocharger"
+      "A Coil Spring",
+      "A Shock Absorber (Strut Damper)",
+      "A Leaf Spring",
+      "A Sway Bar"
     ],
     "correctAnswer": 1,
-    "explanation": "Catalytic converters contain platinum, palladium, and rhodium catalysts to oxidize CO and hydrocarbons and reduce NOx.",
+    "explanation": "Springs support vehicle weight; shock absorbers convert kinetic bounce energy into heat through viscous fluid throttling to stabilize the ride.",
     "tags": [
       "automotive",
       "brakes-suspension",
@@ -1218,64 +1218,64 @@
     "active": true
   },
   {
-    "id": "automotive-electrical-diagnostics-0059",
+    "id": "automotive-brakes-suspension-0059",
     "category": "Automotive",
-    "subcategory": "Electrical & Diagnostics",
+    "subcategory": "Brakes & Suspension",
     "difficulty": "medium",
-    "question": "Automotive mechanics and diagnosis: What standardized diagnostic port found beneath the dashboard of vehicles built after 1996 allows technicians to read trouble codes? (Ref #59)",
+    "question": "What inert gas is charged into modern shock absorbers under high pressure (100 to 300 PSI) to prevent hydraulic oil foaming and cavitation?",
     "options": [
-      "CAN-Bus Serial Port 1",
-      "ECU Flash Header",
-      "OBD-II port (On-Board Diagnostics II)",
-      "VAG-COM terminal"
+      "Oxygen",
+      "Carbon Dioxide",
+      "Nitrogen Gas",
+      "Helium"
     ],
     "correctAnswer": 2,
-    "explanation": "OBD-II is the federally mandated standardized 16-pin diagnostic connector used to retrieve Diagnostic Trouble Codes (DTCs).",
+    "explanation": "Gas pressure prevents oil aeration (foaming) during rapid suspension cycling, maintaining consistent damping resistance.",
     "tags": [
       "automotive",
-      "electrical-diagnostics",
+      "brakes-suspension",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "automotive-transmissions-0060",
+    "id": "automotive-brakes-suspension-0060",
     "category": "Automotive",
-    "subcategory": "Transmissions",
+    "subcategory": "Brakes & Suspension",
     "difficulty": "hard",
-    "question": "Automotive mechanics and diagnosis: In vehicles equipped with a manual transmission, what mechanical assembly disengages engine power from the gearbox during gear changes? (Ref #60)",
+    "question": "What suspension component connects the left and right suspension arms to resist body lean and chassis roll during cornering?",
     "options": [
-      "Torque converter",
-      "Differential spider gears",
-      "Flywheel ring gear",
-      "Clutch disc and pressure plate"
+      "A Panhard Rod",
+      "A Control Arm",
+      "A Track Bar",
+      "An Anti-Roll Bar (Sway Bar / Stabilizer Bar)"
     ],
     "correctAnswer": 3,
-    "explanation": "Pressing the clutch pedal releases friction pressure between the flywheel and clutch disc, allowing smooth gear shifts.",
+    "explanation": "As the outer suspension compresses in a turn, the steel bar twists, forcing the inner wheel down to keep the vehicle chassis flat.",
     "tags": [
       "automotive",
-      "transmissions",
+      "brakes-suspension",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "automotive-engine-mechanics-0061",
+    "id": "automotive-brakes-suspension-0061",
     "category": "Automotive",
-    "subcategory": "Engine Mechanics",
+    "subcategory": "Brakes & Suspension",
     "difficulty": "easy",
-    "question": "Automotive mechanics and diagnosis: What are the four sequential operational strokes in a standard four-stroke internal combustion engine? (Ref #61)",
+    "question": "What type of vehicle spring consists of several curved, stacked spring steel leaves clamped together, standard on heavy-duty truck rear axles?",
     "options": [
-      "Intake, Compression, Power, and Exhaust",
-      "Ignition, Expansion, Cooling, and Release",
-      "Injection, Combustion, Drive, and Reset",
-      "Fueling, Firing, Spinning, and Vented"
+      "A Leaf Spring",
+      "A Coil Spring",
+      "A Torsion Bar",
+      "An Air Spring"
     ],
     "correctAnswer": 0,
-    "explanation": "The Otto cycle engine operates in four piston strokes: Intake stroke, Compression stroke, Power stroke, and Exhaust stroke.",
+    "explanation": "Leaf springs support heavy payload weights while simultaneously locating the rear live axle longitudinally and laterally without trailing arms.",
     "tags": [
       "automotive",
-      "engine-mechanics",
+      "brakes-suspension",
       "easy"
     ],
     "active": true
@@ -1285,15 +1285,15 @@
     "category": "Automotive",
     "subcategory": "Brakes & Suspension",
     "difficulty": "medium",
-    "question": "Automotive mechanics and diagnosis: What automotive component generates electrical power to recharge the vehicle battery and run accessories while the engine runs? (Ref #62)",
+    "question": "What type of vehicle spring uses a straight steel bar anchored at one end that twists along its longitudinal axis to support suspension loads?",
     "options": [
-      "Starter motor",
-      "Alternator",
-      "Spark plug",
-      "Ignition coil"
+      "A Coil Spring",
+      "A Torsion Bar Spring",
+      "A Leaf Spring",
+      "A Belleville Washer"
     ],
     "correctAnswer": 1,
-    "explanation": "The alternator converts mechanical crankshaft energy into alternating electrical current, rectified to direct current.",
+    "explanation": "Torsion bars provide low-profile vehicle suspension, allowing adjustable ride height by turning the anchoring key bolt.",
     "tags": [
       "automotive",
       "brakes-suspension",
@@ -1302,64 +1302,64 @@
     "active": true
   },
   {
-    "id": "automotive-electrical-diagnostics-0063",
+    "id": "automotive-brakes-suspension-0063",
     "category": "Automotive",
-    "subcategory": "Electrical & Diagnostics",
+    "subcategory": "Brakes & Suspension",
     "difficulty": "hard",
-    "question": "Automotive mechanics and diagnosis: What exhaust emission control device converts harmful carbon monoxide, unburned hydrocarbons, and nitrogen oxides into safer gases? (Ref #63)",
+    "question": "What variable vehicle suspension replaces conventional steel springs with pressurized rubber air bellows to maintain constant ride height?",
     "options": [
-      "Muffler resonator",
-      "EGR valve",
-      "Catalytic Converter",
-      "Turbocharger"
+      "A Hydraulic Suspension",
+      "A Magnetorheological Suspension",
+      "An Air Suspension System",
+      "A Multi-Leaf Suspension"
     ],
     "correctAnswer": 2,
-    "explanation": "Catalytic converters contain platinum, palladium, and rhodium catalysts to oxidize CO and hydrocarbons and reduce NOx.",
+    "explanation": "An onboard air compressor and leveling valves inflate or deflate rubber air bags to maintain level ride height regardless of passenger or cargo load.",
     "tags": [
       "automotive",
-      "electrical-diagnostics",
+      "brakes-suspension",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "automotive-transmissions-0064",
+    "id": "automotive-brakes-suspension-0064",
     "category": "Automotive",
-    "subcategory": "Transmissions",
+    "subcategory": "Brakes & Suspension",
     "difficulty": "easy",
-    "question": "Automotive mechanics and diagnosis: What standardized diagnostic port found beneath the dashboard of vehicles built after 1996 allows technicians to read trouble codes? (Ref #64)",
+    "question": "What suspension damper technology uses synthetic oil filled with microscopic iron particles whose viscosity changes in milliseconds via magnetic fields?",
     "options": [
-      "CAN-Bus Serial Port 1",
-      "ECU Flash Header",
-      "VAG-COM terminal",
-      "OBD-II port (On-Board Diagnostics II)"
+      "Pneumatic Dampers",
+      "Valved Shocks",
+      "Dual-Flow Shocks",
+      "Magnetorheological (MagneRide) Dampers"
     ],
     "correctAnswer": 3,
-    "explanation": "OBD-II is the federally mandated standardized 16-pin diagnostic connector used to retrieve Diagnostic Trouble Codes (DTCs).",
+    "explanation": "Electromagnetic coils in the damper piston align the iron particles, varying damping firmness from soft to racetrack-stiff in under 5 milliseconds.",
     "tags": [
       "automotive",
-      "transmissions",
+      "brakes-suspension",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "automotive-engine-mechanics-0065",
+    "id": "automotive-brakes-suspension-0065",
     "category": "Automotive",
-    "subcategory": "Engine Mechanics",
+    "subcategory": "Brakes & Suspension",
     "difficulty": "medium",
-    "question": "Automotive mechanics and diagnosis: In vehicles equipped with a manual transmission, what mechanical assembly disengages engine power from the gearbox during gear changes? (Ref #65)",
+    "question": "What wheel alignment angle measures the inward or outward tilt of the top of the wheel when viewed from the front of the vehicle?",
     "options": [
-      "Clutch disc and pressure plate",
-      "Torque converter",
-      "Differential spider gears",
-      "Flywheel ring gear"
+      "Camber Angle",
+      "Caster Angle",
+      "Toe Angle",
+      "Thrust Angle"
     ],
     "correctAnswer": 0,
-    "explanation": "Pressing the clutch pedal releases friction pressure between the flywheel and clutch disc, allowing smooth gear shifts.",
+    "explanation": "Negative camber tilts wheels inward at the top, improving high-speed cornering grip; excessive camber causes one-sided tire tread wear.",
     "tags": [
       "automotive",
-      "engine-mechanics",
+      "brakes-suspension",
       "medium"
     ],
     "active": true
@@ -1369,15 +1369,15 @@
     "category": "Automotive",
     "subcategory": "Brakes & Suspension",
     "difficulty": "hard",
-    "question": "Automotive mechanics and diagnosis: What are the four sequential operational strokes in a standard four-stroke internal combustion engine? (Ref #66)",
+    "question": "What wheel alignment angle measures the forward or backward tilt of the steering axis pivot line when viewed from the vehicle side?",
     "options": [
-      "Ignition, Expansion, Cooling, and Release",
-      "Intake, Compression, Power, and Exhaust",
-      "Injection, Combustion, Drive, and Reset",
-      "Fueling, Firing, Spinning, and Vented"
+      "Camber Angle",
+      "Caster Angle",
+      "Toe Angle",
+      "Steering Axis Inclination"
     ],
     "correctAnswer": 1,
-    "explanation": "The Otto cycle engine operates in four piston strokes: Intake stroke, Compression stroke, Power stroke, and Exhaust stroke.",
+    "explanation": "Positive caster tilts the steering pivot backward at the top, providing high-speed straight-line stability and steering wheel self-centering.",
     "tags": [
       "automotive",
       "brakes-suspension",
@@ -1386,64 +1386,64 @@
     "active": true
   },
   {
-    "id": "automotive-electrical-diagnostics-0067",
+    "id": "automotive-brakes-suspension-0067",
     "category": "Automotive",
-    "subcategory": "Electrical & Diagnostics",
+    "subcategory": "Brakes & Suspension",
     "difficulty": "easy",
-    "question": "Automotive mechanics and diagnosis: What automotive component generates electrical power to recharge the vehicle battery and run accessories while the engine runs? (Ref #67)",
+    "question": "What wheel alignment angle measures the direction the tires point relative to the vehicle centerline when viewed from directly above?",
     "options": [
-      "Starter motor",
-      "Spark plug",
-      "Alternator",
-      "Ignition coil"
+      "Camber Angle",
+      "Caster Angle",
+      "Toe Angle (Toe-In or Toe-Out)",
+      "Included Angle"
     ],
     "correctAnswer": 2,
-    "explanation": "The alternator converts mechanical crankshaft energy into alternating electrical current, rectified to direct current.",
+    "explanation": "Toe-in points tires slightly toward each other at the front; incorrect toe angle is the number one cause of rapid, feathered tire tread wear.",
     "tags": [
       "automotive",
-      "electrical-diagnostics",
+      "brakes-suspension",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "automotive-transmissions-0068",
+    "id": "automotive-brakes-suspension-0068",
     "category": "Automotive",
-    "subcategory": "Transmissions",
+    "subcategory": "Brakes & Suspension",
     "difficulty": "medium",
-    "question": "Automotive mechanics and diagnosis: What exhaust emission control device converts harmful carbon monoxide, unburned hydrocarbons, and nitrogen oxides into safer gases? (Ref #68)",
+    "question": "What steering geometry principle angles the steering steering arms so the inner front wheel turns at a sharper radius than the outer wheel?",
     "options": [
-      "Muffler resonator",
-      "EGR valve",
-      "Turbocharger",
-      "Catalytic Converter"
+      "Castor Geometry",
+      "Camber Curve",
+      "Parallel Steer",
+      "Ackermann Steering Geometry"
     ],
     "correctAnswer": 3,
-    "explanation": "Catalytic converters contain platinum, palladium, and rhodium catalysts to oxidize CO and hydrocarbons and reduce NOx.",
+    "explanation": "In a turn, the inner tire traces a tighter circular radius than the outer tire; Ackermann alignment prevents tires from scrubbing across pavement.",
     "tags": [
       "automotive",
-      "transmissions",
+      "brakes-suspension",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "automotive-engine-mechanics-0069",
+    "id": "automotive-brakes-suspension-0069",
     "category": "Automotive",
-    "subcategory": "Engine Mechanics",
+    "subcategory": "Brakes & Suspension",
     "difficulty": "hard",
-    "question": "Automotive mechanics and diagnosis: What standardized diagnostic port found beneath the dashboard of vehicles built after 1996 allows technicians to read trouble codes? (Ref #69)",
+    "question": "What steering gear converts steering wheel rotary motion into linear transverse motion across a toothed horizontal bar?",
     "options": [
-      "OBD-II port (On-Board Diagnostics II)",
-      "CAN-Bus Serial Port 1",
-      "ECU Flash Header",
-      "VAG-COM terminal"
+      "A Rack and Pinion Steering Gear",
+      "A Recirculating Ball Steering Gear",
+      "A Worm and Sector Gear",
+      "A Planetary Steering Box"
     ],
     "correctAnswer": 0,
-    "explanation": "OBD-II is the federally mandated standardized 16-pin diagnostic connector used to retrieve Diagnostic Trouble Codes (DTCs).",
+    "explanation": "Turning the pinion gear moves the meshed rack left and right, connecting directly to tie rods to steer the front wheels with high precision.",
     "tags": [
       "automotive",
-      "engine-mechanics",
+      "brakes-suspension",
       "hard"
     ],
     "active": true
@@ -1453,15 +1453,15 @@
     "category": "Automotive",
     "subcategory": "Brakes & Suspension",
     "difficulty": "easy",
-    "question": "Automotive mechanics and diagnosis: In vehicles equipped with a manual transmission, what mechanical assembly disengages engine power from the gearbox during gear changes? (Ref #70)",
+    "question": "What heavy-duty steering gear utilizes steel ball bearings circulating inside spiral grooves between a worm shaft and nut to minimize friction?",
     "options": [
-      "Torque converter",
-      "Clutch disc and pressure plate",
-      "Differential spider gears",
-      "Flywheel ring gear"
+      "A Rack and Pinion",
+      "A Recirculating Ball Steering Gear",
+      "A Rack and Sector",
+      "A Harmonic Steer Box"
     ],
     "correctAnswer": 1,
-    "explanation": "Pressing the clutch pedal releases friction pressure between the flywheel and clutch disc, allowing smooth gear shifts.",
+    "explanation": "Recirculating ball steering gears withstand heavy shocks and high loads, ubiquitous in full-size pickup trucks and commercial chassis.",
     "tags": [
       "automotive",
       "brakes-suspension",
@@ -1470,64 +1470,64 @@
     "active": true
   },
   {
-    "id": "automotive-electrical-diagnostics-0071",
+    "id": "automotive-brakes-suspension-0071",
     "category": "Automotive",
-    "subcategory": "Electrical & Diagnostics",
+    "subcategory": "Brakes & Suspension",
     "difficulty": "medium",
-    "question": "Automotive mechanics and diagnosis: What are the four sequential operational strokes in a standard four-stroke internal combustion engine? (Ref #71)",
+    "question": "What power steering technology replaces engine-driven hydraulic pumps with a computer-controlled electric motor mounted to the steering column or rack?",
     "options": [
-      "Ignition, Expansion, Cooling, and Release",
-      "Injection, Combustion, Drive, and Reset",
-      "Intake, Compression, Power, and Exhaust",
-      "Fueling, Firing, Spinning, and Vented"
+      "Hydraulic Power Steering",
+      "Electro-Hydraulic Steering",
+      "Electric Power Steering (EPS / EPAS)",
+      "Hydro-Boost Steering"
     ],
     "correctAnswer": 2,
-    "explanation": "The Otto cycle engine operates in four piston strokes: Intake stroke, Compression stroke, Power stroke, and Exhaust stroke.",
+    "explanation": "EPS consumes zero parasitic engine power when driving straight, saving fuel and enabling automated lane-keep assist and parking.",
     "tags": [
       "automotive",
-      "electrical-diagnostics",
+      "brakes-suspension",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "automotive-transmissions-0072",
+    "id": "automotive-brakes-suspension-0072",
     "category": "Automotive",
-    "subcategory": "Transmissions",
+    "subcategory": "Brakes & Suspension",
     "difficulty": "hard",
-    "question": "Automotive mechanics and diagnosis: What automotive component generates electrical power to recharge the vehicle battery and run accessories while the engine runs? (Ref #72)",
+    "question": "What mechanical joint in front suspension connects the control arm to the steering knuckle, permitting simultaneous steering rotation and suspension travel?",
     "options": [
-      "Starter motor",
-      "Spark plug",
-      "Ignition coil",
-      "Alternator"
+      "A Tie Rod End",
+      "A Bushing",
+      "A Sway Bar Link",
+      "A Ball Joint"
     ],
     "correctAnswer": 3,
-    "explanation": "The alternator converts mechanical crankshaft energy into alternating electrical current, rectified to direct current.",
+    "explanation": "Ball joints use a polished steel ball in a greased socket, carrying suspension load while allowing the wheel assembly to turn and articulate.",
     "tags": [
       "automotive",
-      "transmissions",
+      "brakes-suspension",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "automotive-engine-mechanics-0073",
+    "id": "automotive-brakes-suspension-0073",
     "category": "Automotive",
-    "subcategory": "Engine Mechanics",
+    "subcategory": "Brakes & Suspension",
     "difficulty": "easy",
-    "question": "Automotive mechanics and diagnosis: What exhaust emission control device converts harmful carbon monoxide, unburned hydrocarbons, and nitrogen oxides into safer gases? (Ref #73)",
+    "question": "What elastomeric suspension components isolate metal-to-metal contact between suspension arms and the chassis, dampening road vibration and harshness?",
     "options": [
-      "Catalytic Converter",
-      "Muffler resonator",
-      "EGR valve",
-      "Turbocharger"
+      "Rubber (or Polyurethane) Suspension Bushings",
+      "Bump Stops",
+      "Coil Spacers",
+      "Ball Studs"
     ],
     "correctAnswer": 0,
-    "explanation": "Catalytic converters contain platinum, palladium, and rhodium catalysts to oxidize CO and hydrocarbons and reduce NOx.",
+    "explanation": "Elastomeric bushings allow controlled angular deflection while filtering high-frequency road vibrations from entering the passenger cabin.",
     "tags": [
       "automotive",
-      "engine-mechanics",
+      "brakes-suspension",
       "easy"
     ],
     "active": true
@@ -1537,15 +1537,15 @@
     "category": "Automotive",
     "subcategory": "Brakes & Suspension",
     "difficulty": "medium",
-    "question": "Automotive mechanics and diagnosis: What standardized diagnostic port found beneath the dashboard of vehicles built after 1996 allows technicians to read trouble codes? (Ref #74)",
+    "question": "What dynamic tire condition occurs when a worn shock absorber allows a tire to bounce continuously, wearing scalloped cupping dips into the tread?",
     "options": [
-      "CAN-Bus Serial Port 1",
-      "OBD-II port (On-Board Diagnostics II)",
-      "ECU Flash Header",
-      "VAG-COM terminal"
+      "Camber Wear",
+      "Tire Cupping (Scalloping)",
+      "Feathering",
+      "Center Rib Wear"
     ],
     "correctAnswer": 1,
-    "explanation": "OBD-II is the federally mandated standardized 16-pin diagnostic connector used to retrieve Diagnostic Trouble Codes (DTCs).",
+    "explanation": "Cupping wear indicates the tire is literally bouncing off the pavement due to lost shock absorber damping control.",
     "tags": [
       "automotive",
       "brakes-suspension",
@@ -1554,85 +1554,85 @@
     "active": true
   },
   {
-    "id": "automotive-electrical-diagnostics-0075",
+    "id": "automotive-brakes-suspension-0075",
     "category": "Automotive",
-    "subcategory": "Electrical & Diagnostics",
+    "subcategory": "Brakes & Suspension",
     "difficulty": "hard",
-    "question": "Automotive mechanics and diagnosis: In vehicles equipped with a manual transmission, what mechanical assembly disengages engine power from the gearbox during gear changes? (Ref #75)",
+    "question": "What wheel vibration problem occurs at highway speeds when a tire assembly has uneven weight distribution around its circumference?",
     "options": [
-      "Torque converter",
-      "Differential spider gears",
-      "Clutch disc and pressure plate",
-      "Flywheel ring gear"
+      "Toe Misalignment",
+      "Caster Pull",
+      "Dynamic Wheel Imbalance (Wheel Shimmy)",
+      "Brake Runout"
     ],
     "correctAnswer": 2,
-    "explanation": "Pressing the clutch pedal releases friction pressure between the flywheel and clutch disc, allowing smooth gear shifts.",
+    "explanation": "Centrifugal force from unbalance weight throws the wheel into lateral or radial oscillation, corrected by clamping lead or zinc weights to wheel rims.",
     "tags": [
       "automotive",
-      "electrical-diagnostics",
+      "brakes-suspension",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "automotive-transmissions-0076",
+    "id": "automotive-brakes-suspension-0076",
     "category": "Automotive",
-    "subcategory": "Transmissions",
+    "subcategory": "Brakes & Suspension",
     "difficulty": "easy",
-    "question": "Automotive mechanics and diagnosis: What are the four sequential operational strokes in a standard four-stroke internal combustion engine? (Ref #76)",
+    "question": "What tire construction features internal steel and polyester fabric belts running radially at 90 degrees from bead to bead?",
     "options": [
-      "Ignition, Expansion, Cooling, and Release",
-      "Injection, Combustion, Drive, and Reset",
-      "Fueling, Firing, Spinning, and Vented",
-      "Intake, Compression, Power, and Exhaust"
+      "Bias-Ply Tire Construction",
+      "Belted Bias Tire",
+      "Solid Rubber Tire",
+      "Radial Tire Construction"
     ],
     "correctAnswer": 3,
-    "explanation": "The Otto cycle engine operates in four piston strokes: Intake stroke, Compression stroke, Power stroke, and Exhaust stroke.",
+    "explanation": "Radial tires provide flexible sidewalls and a flat, rigid tread contact patch, offering lower rolling resistance and longer tread lifespan.",
     "tags": [
       "automotive",
-      "transmissions",
+      "brakes-suspension",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "automotive-engine-mechanics-0077",
+    "id": "automotive-electrical-diagnostics-0077",
     "category": "Automotive",
-    "subcategory": "Engine Mechanics",
+    "subcategory": "Electrical & Diagnostics",
     "difficulty": "medium",
-    "question": "Automotive mechanics and diagnosis: What automotive component generates electrical power to recharge the vehicle battery and run accessories while the engine runs? (Ref #77)",
+    "question": "What standard automotive serial communication protocol is used across modern vehicles for inter-module high-speed network messaging?",
     "options": [
-      "Alternator",
-      "Starter motor",
-      "Spark plug",
-      "Ignition coil"
+      "CAN Bus (Controller Area Network)",
+      "LIN Bus",
+      "FlexRay",
+      "MOST Bus"
     ],
     "correctAnswer": 0,
-    "explanation": "The alternator converts mechanical crankshaft energy into alternating electrical current, rectified to direct current.",
+    "explanation": "Developed by Bosch, CAN bus uses twisted-pair differential signaling (CAN High and CAN Low) to exchange sensor data without point-to-point wiring.",
     "tags": [
       "automotive",
-      "engine-mechanics",
+      "electrical-diagnostics",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "automotive-brakes-suspension-0078",
+    "id": "automotive-electrical-diagnostics-0078",
     "category": "Automotive",
-    "subcategory": "Brakes & Suspension",
+    "subcategory": "Electrical & Diagnostics",
     "difficulty": "hard",
-    "question": "Automotive mechanics and diagnosis: What exhaust emission control device converts harmful carbon monoxide, unburned hydrocarbons, and nitrogen oxides into safer gases? (Ref #78)",
+    "question": "What are the two nominal terminating resistors installed at opposite ends of a high-speed CAN bus network, and what total resistance should be measured across the lines?",
     "options": [
-      "Muffler resonator",
-      "Catalytic Converter",
-      "EGR valve",
-      "Turbocharger"
+      "Two 60-Ohm resistors yielding 30 Ohms",
+      "Two 120-Ohm resistors in parallel, yielding an equivalent bus resistance of 60 Ohms",
+      "Two 300-Ohm resistors yielding 150 Ohms",
+      "A single 1,000-Ohm resistor"
     ],
     "correctAnswer": 1,
-    "explanation": "Catalytic converters contain platinum, palladium, and rhodium catalysts to oxidize CO and hydrocarbons and reduce NOx.",
+    "explanation": "Measuring 60 Ohms with an ohmmeter between CAN_H and CAN_L with battery disconnected verifies that both terminating resistors are intact.",
     "tags": [
       "automotive",
-      "brakes-suspension",
+      "electrical-diagnostics",
       "hard"
     ],
     "active": true
@@ -1642,15 +1642,15 @@
     "category": "Automotive",
     "subcategory": "Electrical & Diagnostics",
     "difficulty": "easy",
-    "question": "Automotive mechanics and diagnosis: What standardized diagnostic port found beneath the dashboard of vehicles built after 1996 allows technicians to read trouble codes? (Ref #79)",
+    "question": "What single-wire, low-cost serial communication sub-bus is typically used for low-speed non-critical automotive body accessories like power windows and mirrors?",
     "options": [
-      "CAN-Bus Serial Port 1",
-      "ECU Flash Header",
-      "OBD-II port (On-Board Diagnostics II)",
-      "VAG-COM terminal"
+      "CAN Bus",
+      "FlexRay",
+      "LIN Bus (Local Interconnect Network)",
+      "Ethernet"
     ],
     "correctAnswer": 2,
-    "explanation": "OBD-II is the federally mandated standardized 16-pin diagnostic connector used to retrieve Diagnostic Trouble Codes (DTCs).",
+    "explanation": "LIN bus operates at speeds up to 20 kbps using a master-slave topology to control door locks, seat heaters, and sun roofs economically.",
     "tags": [
       "automotive",
       "electrical-diagnostics",
@@ -1659,64 +1659,64 @@
     "active": true
   },
   {
-    "id": "automotive-transmissions-0080",
+    "id": "automotive-electrical-diagnostics-0080",
     "category": "Automotive",
-    "subcategory": "Transmissions",
+    "subcategory": "Electrical & Diagnostics",
     "difficulty": "medium",
-    "question": "Automotive mechanics and diagnosis: In vehicles equipped with a manual transmission, what mechanical assembly disengages engine power from the gearbox during gear changes? (Ref #80)",
+    "question": "What federally mandated standard requires all light-duty vehicles sold in North America since 1996 to feature standardized onboard diagnostics?",
     "options": [
-      "Torque converter",
-      "Differential spider gears",
-      "Flywheel ring gear",
-      "Clutch disc and pressure plate"
+      "OBD-I",
+      "SAE J1939",
+      "ISO 9001",
+      "OBD-II (On-Board Diagnostics Second Generation)"
     ],
     "correctAnswer": 3,
-    "explanation": "Pressing the clutch pedal releases friction pressure between the flywheel and clutch disc, allowing smooth gear shifts.",
+    "explanation": "OBD-II mandates a standardized 16-pin DLC connector, universal Diagnostic Trouble Codes (DTCs), and standardized emissions monitoring monitors.",
     "tags": [
       "automotive",
-      "transmissions",
+      "electrical-diagnostics",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "automotive-engine-mechanics-0081",
+    "id": "automotive-electrical-diagnostics-0081",
     "category": "Automotive",
-    "subcategory": "Engine Mechanics",
+    "subcategory": "Electrical & Diagnostics",
     "difficulty": "hard",
-    "question": "Automotive mechanics and diagnosis: What are the four sequential operational strokes in a standard four-stroke internal combustion engine? (Ref #81)",
+    "question": "In standardized OBD-II Diagnostic Trouble Codes, what does the prefix letter 'P' signify?",
     "options": [
-      "Intake, Compression, Power, and Exhaust",
-      "Ignition, Expansion, Cooling, and Release",
-      "Injection, Combustion, Drive, and Reset",
-      "Fueling, Firing, Spinning, and Vented"
+      "Powertrain system (engine, transmission, and emissions)",
+      "Body system",
+      "Chassis system",
+      "Network communication system"
     ],
     "correctAnswer": 0,
-    "explanation": "The Otto cycle engine operates in four piston strokes: Intake stroke, Compression stroke, Power stroke, and Exhaust stroke.",
+    "explanation": "P codes relate to Powertrain (engine/transmission), B relates to Body, C relates to Chassis (ABS/steering), and U relates to Network communications.",
     "tags": [
       "automotive",
-      "engine-mechanics",
+      "electrical-diagnostics",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "automotive-brakes-suspension-0082",
+    "id": "automotive-electrical-diagnostics-0082",
     "category": "Automotive",
-    "subcategory": "Brakes & Suspension",
+    "subcategory": "Electrical & Diagnostics",
     "difficulty": "easy",
-    "question": "Automotive mechanics and diagnosis: What automotive component generates electrical power to recharge the vehicle battery and run accessories while the engine runs? (Ref #82)",
+    "question": "In an OBD-II Diagnostic Trouble Code such as P0300, what does a second digit of '0' indicate?",
     "options": [
-      "Starter motor",
-      "Alternator",
-      "Spark plug",
-      "Ignition coil"
+      "A manufacturer-specific enhanced code",
+      "A generic, SAE-standardized trouble code common to all vehicle makes and models",
+      "A body control code",
+      "An ABS braking code"
     ],
     "correctAnswer": 1,
-    "explanation": "The alternator converts mechanical crankshaft energy into alternating electrical current, rectified to direct current.",
+    "explanation": "Second digit '0' indicates universal SAE codes; second digit '1' indicates manufacturer-specific proprietary DTCs.",
     "tags": [
       "automotive",
-      "brakes-suspension",
+      "electrical-diagnostics",
       "easy"
     ],
     "active": true
@@ -1726,15 +1726,15 @@
     "category": "Automotive",
     "subcategory": "Electrical & Diagnostics",
     "difficulty": "medium",
-    "question": "Automotive mechanics and diagnosis: What exhaust emission control device converts harmful carbon monoxide, unburned hydrocarbons, and nitrogen oxides into safer gases? (Ref #83)",
+    "question": "What does the classic generic OBD-II Diagnostic Trouble Code 'P0300' represent?",
     "options": [
-      "Muffler resonator",
-      "EGR valve",
-      "Catalytic Converter",
-      "Turbocharger"
+      "Catalyst System Efficiency Below Threshold",
+      "O2 Sensor Circuit Slow Response",
+      "Random / Multiple Cylinder Misfire Detected",
+      "Mass Air Flow Circuit Low Input"
     ],
     "correctAnswer": 2,
-    "explanation": "Catalytic converters contain platinum, palladium, and rhodium catalysts to oxidize CO and hydrocarbons and reduce NOx.",
+    "explanation": "P0300 indicates the PCM detects crankshaft rotational deceleration spikes caused by misfiring across multiple cylinders.",
     "tags": [
       "automotive",
       "electrical-diagnostics",
@@ -1743,64 +1743,64 @@
     "active": true
   },
   {
-    "id": "automotive-transmissions-0084",
+    "id": "automotive-electrical-diagnostics-0084",
     "category": "Automotive",
-    "subcategory": "Transmissions",
+    "subcategory": "Electrical & Diagnostics",
     "difficulty": "hard",
-    "question": "Automotive mechanics and diagnosis: What standardized diagnostic port found beneath the dashboard of vehicles built after 1996 allows technicians to read trouble codes? (Ref #84)",
+    "question": "What does the generic OBD-II Diagnostic Trouble Code 'P0420' signify?",
     "options": [
-      "CAN-Bus Serial Port 1",
-      "ECU Flash Header",
-      "VAG-COM terminal",
-      "OBD-II port (On-Board Diagnostics II)"
+      "Evaporative Emission System Leak",
+      "EGR Flow Malfunction",
+      "Engine Coolant Temperature Sensor Low",
+      "Catalyst System Efficiency Below Threshold (Bank 1)"
     ],
     "correctAnswer": 3,
-    "explanation": "OBD-II is the federally mandated standardized 16-pin diagnostic connector used to retrieve Diagnostic Trouble Codes (DTCs).",
+    "explanation": "P0420 indicates the downstream O2 sensor signal mirrors the switching frequency of the upstream sensor, proving the catalytic converter has lost oxygen storage capacity.",
     "tags": [
       "automotive",
-      "transmissions",
+      "electrical-diagnostics",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "automotive-engine-mechanics-0085",
+    "id": "automotive-electrical-diagnostics-0085",
     "category": "Automotive",
-    "subcategory": "Engine Mechanics",
+    "subcategory": "Electrical & Diagnostics",
     "difficulty": "easy",
-    "question": "Automotive mechanics and diagnosis: In vehicles equipped with a manual transmission, what mechanical assembly disengages engine power from the gearbox during gear changes? (Ref #85)",
+    "question": "What OBD-II Diagnostic Trouble Code indicates a major vacuum leak or fuel delivery failure causing a lean fuel trim condition on Bank 1?",
     "options": [
-      "Clutch disc and pressure plate",
-      "Torque converter",
-      "Differential spider gears",
-      "Flywheel ring gear"
+      "P0171 (System Too Lean - Bank 1)",
+      "P0172 (System Too Rich)",
+      "P0102 (MAF Circuit Low)",
+      "P0301 (Cylinder 1 Misfire)"
     ],
     "correctAnswer": 0,
-    "explanation": "Pressing the clutch pedal releases friction pressure between the flywheel and clutch disc, allowing smooth gear shifts.",
+    "explanation": "P0171 triggers when the powertrain control module adds maximum positive fuel trim (typically +20-25%) but the oxygen sensor still reads lean.",
     "tags": [
       "automotive",
-      "engine-mechanics",
+      "electrical-diagnostics",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "automotive-brakes-suspension-0086",
+    "id": "automotive-electrical-diagnostics-0086",
     "category": "Automotive",
-    "subcategory": "Brakes & Suspension",
+    "subcategory": "Electrical & Diagnostics",
     "difficulty": "medium",
-    "question": "Automotive mechanics and diagnosis: What are the four sequential operational strokes in a standard four-stroke internal combustion engine? (Ref #86)",
+    "question": "What snapshot of real-time sensor operating parameters is automatically recorded in PCM memory the instant an emissions DTC is set?",
     "options": [
-      "Ignition, Expansion, Cooling, and Release",
-      "Intake, Compression, Power, and Exhaust",
-      "Injection, Combustion, Drive, and Reset",
-      "Fueling, Firing, Spinning, and Vented"
+      "Live Stream Data",
+      "Freeze Frame Data",
+      "Flight Recorder Data",
+      "Mode $06 Data"
     ],
     "correctAnswer": 1,
-    "explanation": "The Otto cycle engine operates in four piston strokes: Intake stroke, Compression stroke, Power stroke, and Exhaust stroke.",
+    "explanation": "Freeze frame captures vehicle speed, engine RPM, coolant temperature, fuel trim, and throttle position at the precise moment the fault occurred.",
     "tags": [
       "automotive",
-      "brakes-suspension",
+      "electrical-diagnostics",
       "medium"
     ],
     "active": true
@@ -1810,15 +1810,15 @@
     "category": "Automotive",
     "subcategory": "Electrical & Diagnostics",
     "difficulty": "hard",
-    "question": "Automotive mechanics and diagnosis: What automotive component generates electrical power to recharge the vehicle battery and run accessories while the engine runs? (Ref #87)",
+    "question": "What advanced OBD-II diagnostic mode provides non-continuous diagnostic test results for onboard component monitors (like misfire counts per cylinder)?",
     "options": [
-      "Starter motor",
-      "Spark plug",
-      "Alternator",
-      "Ignition coil"
+      "Mode $01",
+      "Mode $03",
+      "Mode $06",
+      "Mode $04"
     ],
     "correctAnswer": 2,
-    "explanation": "The alternator converts mechanical crankshaft energy into alternating electrical current, rectified to direct current.",
+    "explanation": "Mode $06 provides raw pass/fail numerical test values and calibrated limits for components before they set a hard Check Engine Light code.",
     "tags": [
       "automotive",
       "electrical-diagnostics",
@@ -1827,64 +1827,64 @@
     "active": true
   },
   {
-    "id": "automotive-transmissions-0088",
+    "id": "automotive-electrical-diagnostics-0088",
     "category": "Automotive",
-    "subcategory": "Transmissions",
+    "subcategory": "Electrical & Diagnostics",
     "difficulty": "easy",
-    "question": "Automotive mechanics and diagnosis: What exhaust emission control device converts harmful carbon monoxide, unburned hydrocarbons, and nitrogen oxides into safer gases? (Ref #88)",
+    "question": "What engine sensor measures the mass flow volume of air entering the engine intake manifold using a heated platinum wire element?",
     "options": [
-      "Muffler resonator",
-      "EGR valve",
-      "Turbocharger",
-      "Catalytic Converter"
+      "A Manifold Absolute Pressure (MAP) Sensor",
+      "An Intake Air Temperature (IAT) Sensor",
+      "A Throttle Position Sensor",
+      "A Mass Air Flow (MAF) Sensor"
     ],
     "correctAnswer": 3,
-    "explanation": "Catalytic converters contain platinum, palladium, and rhodium catalysts to oxidize CO and hydrocarbons and reduce NOx.",
+    "explanation": "Electrical current keeps the wire at a constant temperature; incoming air cools the wire, and the current required to maintain heat reflects air mass.",
     "tags": [
       "automotive",
-      "transmissions",
+      "electrical-diagnostics",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "automotive-engine-mechanics-0089",
+    "id": "automotive-electrical-diagnostics-0089",
     "category": "Automotive",
-    "subcategory": "Engine Mechanics",
+    "subcategory": "Electrical & Diagnostics",
     "difficulty": "medium",
-    "question": "Automotive mechanics and diagnosis: What standardized diagnostic port found beneath the dashboard of vehicles built after 1996 allows technicians to read trouble codes? (Ref #89)",
+    "question": "What engine sensor measures vacuum or positive boost pressure inside the intake manifold using a silicon piezoresistive crystal?",
     "options": [
-      "OBD-II port (On-Board Diagnostics II)",
-      "CAN-Bus Serial Port 1",
-      "ECU Flash Header",
-      "VAG-COM terminal"
+      "A Manifold Absolute Pressure (MAP) Sensor",
+      "A MAF Sensor",
+      "An Oxygen Sensor",
+      "A Knock Sensor"
     ],
     "correctAnswer": 0,
-    "explanation": "OBD-II is the federally mandated standardized 16-pin diagnostic connector used to retrieve Diagnostic Trouble Codes (DTCs).",
+    "explanation": "Speed-density engine management systems calculate air mass using MAP sensor intake pressure combined with RPM and intake air temperature.",
     "tags": [
       "automotive",
-      "engine-mechanics",
+      "electrical-diagnostics",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "automotive-brakes-suspension-0090",
+    "id": "automotive-electrical-diagnostics-0090",
     "category": "Automotive",
-    "subcategory": "Brakes & Suspension",
+    "subcategory": "Electrical & Diagnostics",
     "difficulty": "hard",
-    "question": "Automotive mechanics and diagnosis: In vehicles equipped with a manual transmission, what mechanical assembly disengages engine power from the gearbox during gear changes? (Ref #90)",
+    "question": "What engine sensor monitors the rotational position, speed, and acceleration of the crankshaft to determine ignition and injection timing?",
     "options": [
-      "Torque converter",
-      "Clutch disc and pressure plate",
-      "Differential spider gears",
-      "Flywheel ring gear"
+      "A Camshaft Position (CMP) Sensor",
+      "A Crankshaft Position (CKP) Sensor",
+      "A Throttle Position Sensor",
+      "A Vehicle Speed Sensor"
     ],
     "correctAnswer": 1,
-    "explanation": "Pressing the clutch pedal releases friction pressure between the flywheel and clutch disc, allowing smooth gear shifts.",
+    "explanation": "CKP sensors use variable reluctance (magnetic) or Hall effect sensors reading teeth on a reluctor wheel to time spark and detect misfires.",
     "tags": [
       "automotive",
-      "brakes-suspension",
+      "electrical-diagnostics",
       "hard"
     ],
     "active": true
@@ -1894,15 +1894,15 @@
     "category": "Automotive",
     "subcategory": "Electrical & Diagnostics",
     "difficulty": "easy",
-    "question": "Automotive mechanics and diagnosis: What are the four sequential operational strokes in a standard four-stroke internal combustion engine? (Ref #91)",
+    "question": "What type of automotive sensor generates its own AC analog voltage signal proportional to speed without requiring external power?",
     "options": [
-      "Ignition, Expansion, Cooling, and Release",
-      "Injection, Combustion, Drive, and Reset",
-      "Intake, Compression, Power, and Exhaust",
-      "Fueling, Firing, Spinning, and Vented"
+      "A Hall Effect Sensor",
+      "An Optical Sensor",
+      "A Variable Reluctance (Magnetic Inductive) Sensor",
+      "A Piezoresistive Sensor"
     ],
     "correctAnswer": 2,
-    "explanation": "The Otto cycle engine operates in four piston strokes: Intake stroke, Compression stroke, Power stroke, and Exhaust stroke.",
+    "explanation": "As ferromagnetic gear teeth pass a permanent magnet wound with wire, magnetic flux changes induce an alternating current (AC) sine wave.",
     "tags": [
       "automotive",
       "electrical-diagnostics",
@@ -1911,64 +1911,64 @@
     "active": true
   },
   {
-    "id": "automotive-transmissions-0092",
+    "id": "automotive-electrical-diagnostics-0092",
     "category": "Automotive",
-    "subcategory": "Transmissions",
+    "subcategory": "Electrical & Diagnostics",
     "difficulty": "medium",
-    "question": "Automotive mechanics and diagnosis: What automotive component generates electrical power to recharge the vehicle battery and run accessories while the engine runs? (Ref #92)",
+    "question": "What type of automotive sensor utilizes a semiconductor element and internal amplifier to generate a digital square-wave voltage signal?",
     "options": [
-      "Starter motor",
-      "Spark plug",
-      "Ignition coil",
-      "Alternator"
+      "A Variable Reluctance Sensor",
+      "A Thermistor",
+      "A Thermocouple",
+      "A Hall Effect Sensor"
     ],
     "correctAnswer": 3,
-    "explanation": "The alternator converts mechanical crankshaft energy into alternating electrical current, rectified to direct current.",
+    "explanation": "Hall effect sensors require three wires (power, ground, and signal), outputting crisp digital square waves that are accurate down to zero RPM.",
     "tags": [
       "automotive",
-      "transmissions",
+      "electrical-diagnostics",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "automotive-engine-mechanics-0093",
+    "id": "automotive-electrical-diagnostics-0093",
     "category": "Automotive",
-    "subcategory": "Engine Mechanics",
+    "subcategory": "Electrical & Diagnostics",
     "difficulty": "hard",
-    "question": "Automotive mechanics and diagnosis: What exhaust emission control device converts harmful carbon monoxide, unburned hydrocarbons, and nitrogen oxides into safer gases? (Ref #93)",
+    "question": "What sensor screwed into the engine cylinder block uses a piezoelectric crystal to detect the mechanical high-frequency vibrations of engine knock?",
     "options": [
-      "Catalytic Converter",
-      "Muffler resonator",
-      "EGR valve",
-      "Turbocharger"
+      "A Knock Sensor (Detonation Sensor)",
+      "An Accelerometer",
+      "A Pressure Transducer",
+      "A Crankshaft Sensor"
     ],
     "correctAnswer": 0,
-    "explanation": "Catalytic converters contain platinum, palladium, and rhodium catalysts to oxidize CO and hydrocarbons and reduce NOx.",
+    "explanation": "When engine knock occurs, the crystal vibrates and generates a small AC voltage spike; the PCM responds by instantly retarding ignition timing.",
     "tags": [
       "automotive",
-      "engine-mechanics",
+      "electrical-diagnostics",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "automotive-brakes-suspension-0094",
+    "id": "automotive-electrical-diagnostics-0094",
     "category": "Automotive",
-    "subcategory": "Brakes & Suspension",
+    "subcategory": "Electrical & Diagnostics",
     "difficulty": "easy",
-    "question": "Automotive mechanics and diagnosis: What standardized diagnostic port found beneath the dashboard of vehicles built after 1996 allows technicians to read trouble codes? (Ref #94)",
+    "question": "What exhaust sensor measures the oxygen content of exhaust gases to allow the PCM to maintain a stoichiometric 14.7:1 air-fuel ratio?",
     "options": [
-      "CAN-Bus Serial Port 1",
-      "OBD-II port (On-Board Diagnostics II)",
-      "ECU Flash Header",
-      "VAG-COM terminal"
+      "A NOx Sensor",
+      "An Oxygen (O2) Sensor (Zirconia Sensor)",
+      "An EGT Sensor",
+      "A MAP Sensor"
     ],
     "correctAnswer": 1,
-    "explanation": "OBD-II is the federally mandated standardized 16-pin diagnostic connector used to retrieve Diagnostic Trouble Codes (DTCs).",
+    "explanation": "Heated zirconia sensors generate 0.1V (lean, excess oxygen) to 0.9V (rich, low oxygen), switching rapidly around the ideal 0.45V stoichiometric point.",
     "tags": [
       "automotive",
-      "brakes-suspension",
+      "electrical-diagnostics",
       "easy"
     ],
     "active": true
@@ -1978,15 +1978,15 @@
     "category": "Automotive",
     "subcategory": "Electrical & Diagnostics",
     "difficulty": "medium",
-    "question": "Automotive mechanics and diagnosis: In vehicles equipped with a manual transmission, what mechanical assembly disengages engine power from the gearbox during gear changes? (Ref #95)",
+    "question": "What wideband exhaust sensor outputs a linear current signal reflecting exact air-fuel ratio from lean to rich, rather than simple rich/lean switching?",
     "options": [
-      "Torque converter",
-      "Differential spider gears",
-      "Clutch disc and pressure plate",
-      "Flywheel ring gear"
+      "A Standard Zirconia O2 Sensor",
+      "A Titania Sensor",
+      "An Air-Fuel Ratio (AFR) Sensor (Wideband Oxygen Sensor)",
+      "A NOx Sensor"
     ],
     "correctAnswer": 2,
-    "explanation": "Pressing the clutch pedal releases friction pressure between the flywheel and clutch disc, allowing smooth gear shifts.",
+    "explanation": "Wideband AFR sensors use a dual-cell electrochemical pump cell to measure exact lambda (lambda = 1.0 at stoichiometry), standard on modern GDI cars.",
     "tags": [
       "automotive",
       "electrical-diagnostics",
@@ -1995,64 +1995,64 @@
     "active": true
   },
   {
-    "id": "automotive-transmissions-0096",
+    "id": "automotive-electrical-diagnostics-0096",
     "category": "Automotive",
-    "subcategory": "Transmissions",
+    "subcategory": "Electrical & Diagnostics",
     "difficulty": "hard",
-    "question": "Automotive mechanics and diagnosis: What are the four sequential operational strokes in a standard four-stroke internal combustion engine? (Ref #96)",
+    "question": "What parameter in PCM live data represents the immediate, rapid percentage adjustment to injector pulse width in response to real-time O2 readings?",
     "options": [
-      "Ignition, Expansion, Cooling, and Release",
-      "Injection, Combustion, Drive, and Reset",
-      "Fueling, Firing, Spinning, and Vented",
-      "Intake, Compression, Power, and Exhaust"
+      "Long-Term Fuel Trim (LTFT)",
+      "Base Fuel Map",
+      "Target Lambda",
+      "Short-Term Fuel Trim (STFT)"
     ],
     "correctAnswer": 3,
-    "explanation": "The Otto cycle engine operates in four piston strokes: Intake stroke, Compression stroke, Power stroke, and Exhaust stroke.",
+    "explanation": "STFT fluctuates constantly between positive (adding fuel) and negative (subtracting fuel) percentages to keep the catalytic converter operating efficiently.",
     "tags": [
       "automotive",
-      "transmissions",
+      "electrical-diagnostics",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "automotive-engine-mechanics-0097",
+    "id": "automotive-electrical-diagnostics-0097",
     "category": "Automotive",
-    "subcategory": "Engine Mechanics",
+    "subcategory": "Electrical & Diagnostics",
     "difficulty": "easy",
-    "question": "Automotive mechanics and diagnosis: What automotive component generates electrical power to recharge the vehicle battery and run accessories while the engine runs? (Ref #97)",
+    "question": "What parameter represents the permanent learned adaptive memory correction to the engine base fuel delivery map over time?",
     "options": [
-      "Alternator",
-      "Starter motor",
-      "Spark plug",
-      "Ignition coil"
+      "Long-Term Fuel Trim (LTFT)",
+      "Short-Term Fuel Trim (STFT)",
+      "Open-Loop Bias",
+      "Fuel Rail Trim"
     ],
     "correctAnswer": 0,
-    "explanation": "The alternator converts mechanical crankshaft energy into alternating electrical current, rectified to direct current.",
+    "explanation": "If STFT remains consistently high (+15%) over time, LTFT learns and shifts upward, indicating unmetered vacuum leaks or dirty injectors.",
     "tags": [
       "automotive",
-      "engine-mechanics",
+      "electrical-diagnostics",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "automotive-brakes-suspension-0098",
+    "id": "automotive-electrical-diagnostics-0098",
     "category": "Automotive",
-    "subcategory": "Brakes & Suspension",
+    "subcategory": "Electrical & Diagnostics",
     "difficulty": "medium",
-    "question": "Automotive mechanics and diagnosis: What exhaust emission control device converts harmful carbon monoxide, unburned hydrocarbons, and nitrogen oxides into safer gases? (Ref #98)",
+    "question": "What automotive diagnostic instrument displays electrical voltage signals graphically as waveforms over time, capturing fast glitches?",
     "options": [
-      "Muffler resonator",
-      "Catalytic Converter",
-      "EGR valve",
-      "Turbocharger"
+      "A Digital Multimeter",
+      "A Digital Storage Oscilloscope (DSO / Lab Scope)",
+      "A Scan Tool",
+      "A Logic Probe"
     ],
     "correctAnswer": 1,
-    "explanation": "Catalytic converters contain platinum, palladium, and rhodium catalysts to oxidize CO and hydrocarbons and reduce NOx.",
+    "explanation": "Scopes sample millions of times per second, displaying ignition primary/secondary firing patterns, CAN bus waveforms, and sensor glitches.",
     "tags": [
       "automotive",
-      "brakes-suspension",
+      "electrical-diagnostics",
       "medium"
     ],
     "active": true
@@ -2062,15 +2062,15 @@
     "category": "Automotive",
     "subcategory": "Electrical & Diagnostics",
     "difficulty": "hard",
-    "question": "Automotive mechanics and diagnosis: What standardized diagnostic port found beneath the dashboard of vehicles built after 1996 allows technicians to read trouble codes? (Ref #99)",
+    "question": "What electrical component in an automotive charging system converts alternating current (AC) produced by the alternator stator into direct current (DC)?",
     "options": [
-      "CAN-Bus Serial Port 1",
-      "ECU Flash Header",
-      "OBD-II port (On-Board Diagnostics II)",
-      "VAG-COM terminal"
+      "The Voltage Regulator",
+      "The Rotor Field",
+      "The Diode Rectifier Bridge",
+      "The Slip Rings"
     ],
     "correctAnswer": 2,
-    "explanation": "OBD-II is the federally mandated standardized 16-pin diagnostic connector used to retrieve Diagnostic Trouble Codes (DTCs).",
+    "explanation": "Six or eight heavy silicon diodes arrange in a full-wave bridge, rectifying three-phase AC stator output into smooth 12V-14.5V DC.",
     "tags": [
       "automotive",
       "electrical-diagnostics",
@@ -2079,64 +2079,64 @@
     "active": true
   },
   {
-    "id": "automotive-transmissions-0100",
+    "id": "automotive-electrical-diagnostics-0100",
     "category": "Automotive",
-    "subcategory": "Transmissions",
+    "subcategory": "Electrical & Diagnostics",
     "difficulty": "easy",
-    "question": "Automotive mechanics and diagnosis: In vehicles equipped with a manual transmission, what mechanical assembly disengages engine power from the gearbox during gear changes? (Ref #100)",
+    "question": "What component regulates the alternator's electrical output voltage by controlling the current flowing through the spinning rotor field winding?",
     "options": [
-      "Torque converter",
-      "Differential spider gears",
-      "Flywheel ring gear",
-      "Clutch disc and pressure plate"
+      "The Rectifier",
+      "The Stator",
+      "The Commutator",
+      "The Voltage Regulator"
     ],
     "correctAnswer": 3,
-    "explanation": "Pressing the clutch pedal releases friction pressure between the flywheel and clutch disc, allowing smooth gear shifts.",
+    "explanation": "Electronic voltage regulators maintain charging system voltage between 13.8 and 14.5 Volts DC, adjusting duty cycle based on battery temperature.",
     "tags": [
       "automotive",
-      "transmissions",
+      "electrical-diagnostics",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "automotive-engine-mechanics-0101",
+    "id": "automotive-electrical-diagnostics-0101",
     "category": "Automotive",
-    "subcategory": "Engine Mechanics",
+    "subcategory": "Electrical & Diagnostics",
     "difficulty": "medium",
-    "question": "Automotive mechanics and diagnosis: What are the four sequential operational strokes in a standard four-stroke internal combustion engine? (Ref #101)",
+    "question": "What automotive starting system component uses an electromagnetic plunger to engage the starter drive pinion gear with the flywheel ring gear?",
     "options": [
-      "Intake, Compression, Power, and Exhaust",
-      "Ignition, Expansion, Cooling, and Release",
-      "Injection, Combustion, Drive, and Reset",
-      "Fueling, Firing, Spinning, and Vented"
+      "The Starter Solenoid",
+      "The Starter Relay",
+      "The Bendix Drive only",
+      "The Neutral Safety Switch"
     ],
     "correctAnswer": 0,
-    "explanation": "The Otto cycle engine operates in four piston strokes: Intake stroke, Compression stroke, Power stroke, and Exhaust stroke.",
+    "explanation": "The solenoid performs dual duties: pulling the shift lever to mesh the pinion gear with flywheel teeth, and closing heavy copper battery contacts.",
     "tags": [
       "automotive",
-      "engine-mechanics",
+      "electrical-diagnostics",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "automotive-brakes-suspension-0102",
+    "id": "automotive-electrical-diagnostics-0102",
     "category": "Automotive",
-    "subcategory": "Brakes & Suspension",
+    "subcategory": "Electrical & Diagnostics",
     "difficulty": "hard",
-    "question": "Automotive mechanics and diagnosis: What automotive component generates electrical power to recharge the vehicle battery and run accessories while the engine runs? (Ref #102)",
+    "question": "What state of charge open-circuit terminal voltage represents a fully charged 12-volt automotive lead-acid battery at 80 F (27 C)?",
     "options": [
-      "Starter motor",
-      "Alternator",
-      "Spark plug",
-      "Ignition coil"
+      "12.00 Volts DC",
+      "12.66 to 12.72 Volts DC",
+      "13.20 Volts DC",
+      "14.40 Volts DC"
     ],
     "correctAnswer": 1,
-    "explanation": "The alternator converts mechanical crankshaft energy into alternating electrical current, rectified to direct current.",
+    "explanation": "Each of the six series battery cells produces ~2.12 Volts; an open-circuit voltage of 12.2V indicates a 50% discharged battery, and 11.9V is discharged.",
     "tags": [
       "automotive",
-      "brakes-suspension",
+      "electrical-diagnostics",
       "hard"
     ],
     "active": true
@@ -2146,15 +2146,15 @@
     "category": "Automotive",
     "subcategory": "Electrical & Diagnostics",
     "difficulty": "easy",
-    "question": "Automotive mechanics and diagnosis: What exhaust emission control device converts harmful carbon monoxide, unburned hydrocarbons, and nitrogen oxides into safer gases? (Ref #103)",
+    "question": "What automotive battery testing standard measures the number of amperes a fresh battery can deliver at 0 F (-18 C) for 30 seconds above 7.2V?",
     "options": [
-      "Muffler resonator",
-      "EGR valve",
-      "Catalytic Converter",
-      "Turbocharger"
+      "Reserve Capacity (RC)",
+      "Ampere-Hour Rating (Ah)",
+      "Cold Cranking Amps (CCA)",
+      "Cranking Amps (CA)"
     ],
     "correctAnswer": 2,
-    "explanation": "Catalytic converters contain platinum, palladium, and rhodium catalysts to oxidize CO and hydrocarbons and reduce NOx.",
+    "explanation": "CCA quantifies high-current engine starting power in sub-freezing winter weather conditions.",
     "tags": [
       "automotive",
       "electrical-diagnostics",
@@ -2163,64 +2163,64 @@
     "active": true
   },
   {
-    "id": "automotive-transmissions-0104",
+    "id": "automotive-electrical-diagnostics-0104",
     "category": "Automotive",
-    "subcategory": "Transmissions",
+    "subcategory": "Electrical & Diagnostics",
     "difficulty": "medium",
-    "question": "Automotive mechanics and diagnosis: What standardized diagnostic port found beneath the dashboard of vehicles built after 1996 allows technicians to read trouble codes? (Ref #104)",
+    "question": "What electronic testing technology tests automotive battery internal conductance without discharging high battery current through carbon piles?",
     "options": [
-      "CAN-Bus Serial Port 1",
-      "ECU Flash Header",
-      "VAG-COM terminal",
-      "OBD-II port (On-Board Diagnostics II)"
+      "Carbon Pile Load Testing",
+      "Hydrometer Specific Gravity Test",
+      "Refractometer Test",
+      "Conductance Battery Testing"
     ],
     "correctAnswer": 3,
-    "explanation": "OBD-II is the federally mandated standardized 16-pin diagnostic connector used to retrieve Diagnostic Trouble Codes (DTCs).",
+    "explanation": "Conductance testers inject a small high-frequency AC micro-signal, calculating plate surface area and battery health (CCA) electronically.",
     "tags": [
       "automotive",
-      "transmissions",
+      "electrical-diagnostics",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "automotive-engine-mechanics-0105",
+    "id": "automotive-electrical-diagnostics-0105",
     "category": "Automotive",
-    "subcategory": "Engine Mechanics",
+    "subcategory": "Electrical & Diagnostics",
     "difficulty": "hard",
-    "question": "Automotive mechanics and diagnosis: In vehicles equipped with a manual transmission, what mechanical assembly disengages engine power from the gearbox during gear changes? (Ref #105)",
+    "question": "What parasitic electrical drain draw threshold is generally considered the maximum acceptable limit for modern vehicles in sleep mode?",
     "options": [
-      "Clutch disc and pressure plate",
-      "Torque converter",
-      "Differential spider gears",
-      "Flywheel ring gear"
+      "50 milliamperes (0.050 Amps) or less",
+      "500 milliamperes",
+      "1.0 Ampere",
+      "250 milliamperes"
     ],
     "correctAnswer": 0,
-    "explanation": "Pressing the clutch pedal releases friction pressure between the flywheel and clutch disc, allowing smooth gear shifts.",
+    "explanation": "Excessive parasitic drain (>50 mA) from stuck relays, aftermarket alarms, or awake computer modules drains batteries dead within days.",
     "tags": [
       "automotive",
-      "engine-mechanics",
+      "electrical-diagnostics",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "automotive-brakes-suspension-0106",
+    "id": "automotive-electrical-diagnostics-0106",
     "category": "Automotive",
-    "subcategory": "Brakes & Suspension",
+    "subcategory": "Electrical & Diagnostics",
     "difficulty": "easy",
-    "question": "Automotive mechanics and diagnosis: What are the four sequential operational strokes in a standard four-stroke internal combustion engine? (Ref #106)",
+    "question": "What electrical diagnostic measurement technique isolates high-resistance poor connections along an energized circuit without disconnecting wires?",
     "options": [
-      "Ignition, Expansion, Cooling, and Release",
-      "Intake, Compression, Power, and Exhaust",
-      "Injection, Combustion, Drive, and Reset",
-      "Fueling, Firing, Spinning, and Vented"
+      "Resistance (Ohms) Testing with power off",
+      "Voltage Drop Testing",
+      "Continuity Beeping",
+      "Amperage Clamp Testing"
     ],
     "correctAnswer": 1,
-    "explanation": "The Otto cycle engine operates in four piston strokes: Intake stroke, Compression stroke, Power stroke, and Exhaust stroke.",
+    "explanation": "According to Ohm's law, current flowing through an unwanted resistance drops voltage (V = I * R); an ideal ground connection drops less than 0.1V.",
     "tags": [
       "automotive",
-      "brakes-suspension",
+      "electrical-diagnostics",
       "easy"
     ],
     "active": true
@@ -2230,15 +2230,15 @@
     "category": "Automotive",
     "subcategory": "Electrical & Diagnostics",
     "difficulty": "medium",
-    "question": "Automotive mechanics and diagnosis: What automotive component generates electrical power to recharge the vehicle battery and run accessories while the engine runs? (Ref #107)",
+    "question": "What is the maximum allowable voltage drop across a healthy heavy-duty starter motor positive battery cable during engine cranking?",
     "options": [
-      "Starter motor",
-      "Spark plug",
-      "Alternator",
-      "Ignition coil"
+      "2.0 Volts",
+      "4.0 Volts",
+      "0.5 Volts (or less)",
+      "0.00 Volts"
     ],
     "correctAnswer": 2,
-    "explanation": "The alternator converts mechanical crankshaft energy into alternating electrical current, rectified to direct current.",
+    "explanation": "A voltage drop greater than 0.5V indicates corroded terminals, damaged cable strands, or loose connections that starve the starter motor of current.",
     "tags": [
       "automotive",
       "electrical-diagnostics",
@@ -2247,64 +2247,64 @@
     "active": true
   },
   {
-    "id": "automotive-transmissions-0108",
+    "id": "automotive-electrical-diagnostics-0108",
     "category": "Automotive",
-    "subcategory": "Transmissions",
+    "subcategory": "Electrical & Diagnostics",
     "difficulty": "hard",
-    "question": "Automotive mechanics and diagnosis: What exhaust emission control device converts harmful carbon monoxide, unburned hydrocarbons, and nitrogen oxides into safer gases? (Ref #108)",
+    "question": "What automotive electrical actuator uses a pulse-width modulated electromagnetic coil to deliver precise metered shots of fuel into cylinders?",
     "options": [
-      "Muffler resonator",
-      "EGR valve",
-      "Turbocharger",
-      "Catalytic Converter"
+      "A Spark Plug",
+      "A Throttle Actuator",
+      "An Ignition Coil",
+      "An Electronic Fuel Injector"
     ],
     "correctAnswer": 3,
-    "explanation": "Catalytic converters contain platinum, palladium, and rhodium catalysts to oxidize CO and hydrocarbons and reduce NOx.",
+    "explanation": "The PCM grounds the injector coil circuit, lifting a pintle or ball valve against spring pressure to spray atomized fuel.",
     "tags": [
       "automotive",
-      "transmissions",
+      "electrical-diagnostics",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "automotive-engine-mechanics-0109",
+    "id": "automotive-electrical-diagnostics-0109",
     "category": "Automotive",
-    "subcategory": "Engine Mechanics",
+    "subcategory": "Electrical & Diagnostics",
     "difficulty": "easy",
-    "question": "Automotive mechanics and diagnosis: What standardized diagnostic port found beneath the dashboard of vehicles built after 1996 allows technicians to read trouble codes? (Ref #109)",
+    "question": "What ignition system component steps up 12V battery primary voltage into 20,000 to 50,000 Volts secondary voltage to jump the spark plug gap?",
     "options": [
-      "OBD-II port (On-Board Diagnostics II)",
-      "CAN-Bus Serial Port 1",
-      "ECU Flash Header",
-      "VAG-COM terminal"
+      "An Ignition Coil",
+      "A Capacitor",
+      "A Ballast Resistor",
+      "A Spark Plug Wire"
     ],
     "correctAnswer": 0,
-    "explanation": "OBD-II is the federally mandated standardized 16-pin diagnostic connector used to retrieve Diagnostic Trouble Codes (DTCs).",
+    "explanation": "Collapsing the magnetic field in the primary winding induces high secondary voltage through mutual induction (N_sec / N_pri turns ratio).",
     "tags": [
       "automotive",
-      "engine-mechanics",
+      "electrical-diagnostics",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "automotive-brakes-suspension-0110",
+    "id": "automotive-electrical-diagnostics-0110",
     "category": "Automotive",
-    "subcategory": "Brakes & Suspension",
+    "subcategory": "Electrical & Diagnostics",
     "difficulty": "medium",
-    "question": "Automotive mechanics and diagnosis: In vehicles equipped with a manual transmission, what mechanical assembly disengages engine power from the gearbox during gear changes? (Ref #110)",
+    "question": "What modern distributorless ignition system places an individual sealed miniature ignition coil directly above each individual spark plug?",
     "options": [
-      "Torque converter",
-      "Clutch disc and pressure plate",
-      "Differential spider gears",
-      "Flywheel ring gear"
+      "Waste-Spark Ignition",
+      "Coil-On-Plug (COP) Ignition",
+      "Distributor-Based Ignition",
+      "Capacitive Discharge Ignition"
     ],
     "correctAnswer": 1,
-    "explanation": "Pressing the clutch pedal releases friction pressure between the flywheel and clutch disc, allowing smooth gear shifts.",
+    "explanation": "COP systems eliminate high-voltage spark plug wires, reducing radio frequency interference (RFI) and providing individual cylinder dwell and timing control.",
     "tags": [
       "automotive",
-      "brakes-suspension",
+      "electrical-diagnostics",
       "medium"
     ],
     "active": true
@@ -2314,15 +2314,15 @@
     "category": "Automotive",
     "subcategory": "Electrical & Diagnostics",
     "difficulty": "hard",
-    "question": "Automotive mechanics and diagnosis: What are the four sequential operational strokes in a standard four-stroke internal combustion engine? (Ref #111)",
+    "question": "What spark plug electrode material offers the longest service life (up to 100,000 miles) and highest melting point for modern engines?",
     "options": [
-      "Ignition, Expansion, Cooling, and Release",
-      "Injection, Combustion, Drive, and Reset",
-      "Intake, Compression, Power, and Exhaust",
-      "Fueling, Firing, Spinning, and Vented"
+      "Standard Copper / Nickel Alloy",
+      "Silver",
+      "Iridium (or Platinum)",
+      "Tungsten"
     ],
     "correctAnswer": 2,
-    "explanation": "The Otto cycle engine operates in four piston strokes: Intake stroke, Compression stroke, Power stroke, and Exhaust stroke.",
+    "explanation": "Iridium has a melting point of over 4,400 F (2,400 C), allowing razor-thin 0.4-0.6mm center electrodes that require less firing voltage.",
     "tags": [
       "automotive",
       "electrical-diagnostics",
@@ -2331,85 +2331,85 @@
     "active": true
   },
   {
-    "id": "automotive-transmissions-0112",
+    "id": "automotive-electrical-diagnostics-0112",
     "category": "Automotive",
-    "subcategory": "Transmissions",
+    "subcategory": "Electrical & Diagnostics",
     "difficulty": "easy",
-    "question": "Automotive mechanics and diagnosis: What automotive component generates electrical power to recharge the vehicle battery and run accessories while the engine runs? (Ref #112)",
+    "question": "What engine sensor detects the opening angle of the throttle plate, converting driver accelerator pedal position into electrical voltage?",
     "options": [
-      "Starter motor",
-      "Spark plug",
-      "Ignition coil",
-      "Alternator"
+      "A MAF Sensor",
+      "A MAP Sensor",
+      "An Idle Air Control Valve",
+      "A Throttle Position Sensor (TPS) / Accelerator Pedal Sensor (APP)"
     ],
     "correctAnswer": 3,
-    "explanation": "The alternator converts mechanical crankshaft energy into alternating electrical current, rectified to direct current.",
+    "explanation": "Modern drive-by-wire vehicles use dual redundant potentiometer or Hall effect sensors to ensure fail-safe throttle actuation.",
     "tags": [
       "automotive",
-      "transmissions",
+      "electrical-diagnostics",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "automotive-engine-mechanics-0113",
+    "id": "automotive-electrical-diagnostics-0113",
     "category": "Automotive",
-    "subcategory": "Engine Mechanics",
+    "subcategory": "Electrical & Diagnostics",
     "difficulty": "medium",
-    "question": "Automotive mechanics and diagnosis: What exhaust emission control device converts harmful carbon monoxide, unburned hydrocarbons, and nitrogen oxides into safer gases? (Ref #113)",
+    "question": "What automotive sensor measures the temperature of engine coolant using a Negative Temperature Coefficient (NTC) thermistor?",
     "options": [
-      "Catalytic Converter",
-      "Muffler resonator",
-      "EGR valve",
-      "Turbocharger"
+      "An Engine Coolant Temperature (ECT) Sensor",
+      "An Intake Air Temperature Sensor",
+      "A Cylinder Head Temp Sensor",
+      "A Thermocouple"
     ],
     "correctAnswer": 0,
-    "explanation": "Catalytic converters contain platinum, palladium, and rhodium catalysts to oxidize CO and hydrocarbons and reduce NOx.",
+    "explanation": "As coolant warms, the NTC thermistor's electrical resistance decreases, allowing the PCM to transition from rich cold-start to closed-loop operation.",
     "tags": [
       "automotive",
-      "engine-mechanics",
+      "electrical-diagnostics",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "automotive-brakes-suspension-0114",
+    "id": "automotive-transmissions-0114",
     "category": "Automotive",
-    "subcategory": "Brakes & Suspension",
+    "subcategory": "Transmissions",
     "difficulty": "hard",
-    "question": "Automotive mechanics and diagnosis: What standardized diagnostic port found beneath the dashboard of vehicles built after 1996 allows technicians to read trouble codes? (Ref #114)",
+    "question": "What component in a manual transmission powertrain uses a high-friction disc to connect and disconnect engine torque from the transmission?",
     "options": [
-      "CAN-Bus Serial Port 1",
-      "OBD-II port (On-Board Diagnostics II)",
-      "ECU Flash Header",
-      "VAG-COM terminal"
+      "The Torque Converter",
+      "The Clutch Assembly (Friction Disc, Pressure Plate, and Flywheel)",
+      "The Synchronizer",
+      "The Differential"
     ],
     "correctAnswer": 1,
-    "explanation": "OBD-II is the federally mandated standardized 16-pin diagnostic connector used to retrieve Diagnostic Trouble Codes (DTCs).",
+    "explanation": "Pressing the clutch pedal releases pressure plate clamping force, decoupling the engine crankshaft from the transmission input shaft to allow smooth gear shifting.",
     "tags": [
       "automotive",
-      "brakes-suspension",
+      "transmissions",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "automotive-electrical-diagnostics-0115",
+    "id": "automotive-transmissions-0115",
     "category": "Automotive",
-    "subcategory": "Electrical & Diagnostics",
+    "subcategory": "Transmissions",
     "difficulty": "easy",
-    "question": "Automotive mechanics and diagnosis: In vehicles equipped with a manual transmission, what mechanical assembly disengages engine power from the gearbox during gear changes? (Ref #115)",
+    "question": "What mechanical component inside a manual transmission synchronizes the rotational speed of a gear with the shaft before dog teeth engage?",
     "options": [
-      "Torque converter",
-      "Differential spider gears",
-      "Clutch disc and pressure plate",
-      "Flywheel ring gear"
+      "A Shift Fork",
+      "A Detent Ball",
+      "A Synchronizer Ring (Blocking Ring)",
+      "A Countershaft"
     ],
     "correctAnswer": 2,
-    "explanation": "Pressing the clutch pedal releases friction pressure between the flywheel and clutch disc, allowing smooth gear shifts.",
+    "explanation": "Brass or carbon-composite synchronizer friction cones use friction to match shaft and gear RPM, preventing grinding during shifts.",
     "tags": [
       "automotive",
-      "electrical-diagnostics",
+      "transmissions",
       "easy"
     ],
     "active": true
@@ -2419,15 +2419,15 @@
     "category": "Automotive",
     "subcategory": "Transmissions",
     "difficulty": "medium",
-    "question": "Automotive mechanics and diagnosis: What are the four sequential operational strokes in a standard four-stroke internal combustion engine? (Ref #116)",
+    "question": "What fluid coupling device in an automatic transmission transmits engine torque to the transmission input shaft using hydrokinetic fluid flow?",
     "options": [
-      "Ignition, Expansion, Cooling, and Release",
-      "Injection, Combustion, Drive, and Reset",
-      "Fueling, Firing, Spinning, and Vented",
-      "Intake, Compression, Power, and Exhaust"
+      "A Manual Clutch",
+      "A Planetary Carrier",
+      "A Valve Body",
+      "A Torque Converter"
     ],
     "correctAnswer": 3,
-    "explanation": "The Otto cycle engine operates in four piston strokes: Intake stroke, Compression stroke, Power stroke, and Exhaust stroke.",
+    "explanation": "Consisting of an Impeller (Pump), Turbine, and Stator, the torque converter transfers rotational power through circulating transmission fluid.",
     "tags": [
       "automotive",
       "transmissions",
@@ -2436,64 +2436,64 @@
     "active": true
   },
   {
-    "id": "automotive-engine-mechanics-0117",
+    "id": "automotive-transmissions-0117",
     "category": "Automotive",
-    "subcategory": "Engine Mechanics",
+    "subcategory": "Transmissions",
     "difficulty": "hard",
-    "question": "Automotive mechanics and diagnosis: What automotive component generates electrical power to recharge the vehicle battery and run accessories while the engine runs? (Ref #117)",
+    "question": "What stationary component inside a torque converter redirects returning transmission fluid to assist the impeller and multiply torque at low speeds?",
     "options": [
-      "Alternator",
-      "Starter motor",
-      "Spark plug",
-      "Ignition coil"
+      "The Stator (with One-Way Overrunning Clutch)",
+      "The Impeller (Pump)",
+      "The Turbine",
+      "The Lock-Up Clutch"
     ],
     "correctAnswer": 0,
-    "explanation": "The alternator converts mechanical crankshaft energy into alternating electrical current, rectified to direct current.",
+    "explanation": "The stator redirects fluid exiting the turbine into the rotation direction of the impeller, multiplying engine torque by up to 2.5:1 during acceleration.",
     "tags": [
       "automotive",
-      "engine-mechanics",
+      "transmissions",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "automotive-brakes-suspension-0118",
+    "id": "automotive-transmissions-0118",
     "category": "Automotive",
-    "subcategory": "Brakes & Suspension",
+    "subcategory": "Transmissions",
     "difficulty": "easy",
-    "question": "Automotive mechanics and diagnosis: What exhaust emission control device converts harmful carbon monoxide, unburned hydrocarbons, and nitrogen oxides into safer gases? (Ref #118)",
+    "question": "What component inside a modern torque converter mechanically locks the turbine directly to the impeller cover at cruising speeds?",
     "options": [
-      "Muffler resonator",
-      "Catalytic Converter",
-      "EGR valve",
-      "Turbocharger"
+      "The Stator Overrunning Clutch",
+      "The Torque Converter Lock-Up Clutch (TCC)",
+      "The Sprag Clutch",
+      "The Input Damper"
     ],
     "correctAnswer": 1,
-    "explanation": "Catalytic converters contain platinum, palladium, and rhodium catalysts to oxidize CO and hydrocarbons and reduce NOx.",
+    "explanation": "The TCC eliminates internal fluid slip losses, achieving 100% mechanical efficiency and improved highway fuel economy.",
     "tags": [
       "automotive",
-      "brakes-suspension",
+      "transmissions",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "automotive-electrical-diagnostics-0119",
+    "id": "automotive-transmissions-0119",
     "category": "Automotive",
-    "subcategory": "Electrical & Diagnostics",
+    "subcategory": "Transmissions",
     "difficulty": "medium",
-    "question": "Automotive mechanics and diagnosis: What standardized diagnostic port found beneath the dashboard of vehicles built after 1996 allows technicians to read trouble codes? (Ref #119)",
+    "question": "What planetary gear set component forms the center gear, around which smaller planet gears rotate within a ring gear?",
     "options": [
-      "CAN-Bus Serial Port 1",
-      "ECU Flash Header",
-      "OBD-II port (On-Board Diagnostics II)",
-      "VAG-COM terminal"
+      "The Planet Carrier",
+      "The Ring Gear (Annulus)",
+      "The Sun Gear",
+      "The Pinion Shaft"
     ],
     "correctAnswer": 2,
-    "explanation": "OBD-II is the federally mandated standardized 16-pin diagnostic connector used to retrieve Diagnostic Trouble Codes (DTCs).",
+    "explanation": "An epicyclic planetary gear set consists of three members: a central Sun Gear, surrounding Planet Gears on a Carrier, and an outer internal-toothed Ring Gear.",
     "tags": [
       "automotive",
-      "electrical-diagnostics",
+      "transmissions",
       "medium"
     ],
     "active": true
@@ -2503,15 +2503,15 @@
     "category": "Automotive",
     "subcategory": "Transmissions",
     "difficulty": "hard",
-    "question": "Automotive mechanics and diagnosis: In vehicles equipped with a manual transmission, what mechanical assembly disengages engine power from the gearbox during gear changes? (Ref #120)",
+    "question": "In an epicyclic planetary gear set, what condition occurs when the Planet Carrier is driven while the Sun Gear is held stationary?",
     "options": [
-      "Torque converter",
-      "Differential spider gears",
-      "Flywheel ring gear",
-      "Clutch disc and pressure plate"
+      "Forward Gear Reduction",
+      "Reverse Gear",
+      "Direct Drive (1:1)",
+      "Forward Overdrive (High Speed, Lower Torque)"
     ],
     "correctAnswer": 3,
-    "explanation": "Pressing the clutch pedal releases friction pressure between the flywheel and clutch disc, allowing smooth gear shifts.",
+    "explanation": "Driving the carrier while holding the sun forces the outer ring gear to rotate faster than the input, producing an overdrive ratio.",
     "tags": [
       "automotive",
       "transmissions",
@@ -2520,64 +2520,64 @@
     "active": true
   },
   {
-    "id": "automotive-engine-mechanics-0121",
+    "id": "automotive-transmissions-0121",
     "category": "Automotive",
-    "subcategory": "Engine Mechanics",
+    "subcategory": "Transmissions",
     "difficulty": "easy",
-    "question": "Automotive mechanics and diagnosis: What are the four sequential operational strokes in a standard four-stroke internal combustion engine? (Ref #121)",
+    "question": "In a planetary gear set, what gear ratio occurs when any two members are locked together to rotate as a single solid unit?",
     "options": [
-      "Intake, Compression, Power, and Exhaust",
-      "Ignition, Expansion, Cooling, and Release",
-      "Injection, Combustion, Drive, and Reset",
-      "Fueling, Firing, Spinning, and Vented"
+      "Direct Drive (1:1 Ratio)",
+      "Underdrive Reduction",
+      "Overdrive",
+      "Reverse Rotation"
     ],
     "correctAnswer": 0,
-    "explanation": "The Otto cycle engine operates in four piston strokes: Intake stroke, Compression stroke, Power stroke, and Exhaust stroke.",
+    "explanation": "Locking two members together locks the entire planetary gear set, transmitting engine torque directly through at 1:1 speed ratio.",
     "tags": [
       "automotive",
-      "engine-mechanics",
+      "transmissions",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "automotive-brakes-suspension-0122",
+    "id": "automotive-transmissions-0122",
     "category": "Automotive",
-    "subcategory": "Brakes & Suspension",
+    "subcategory": "Transmissions",
     "difficulty": "medium",
-    "question": "Automotive mechanics and diagnosis: What automotive component generates electrical power to recharge the vehicle battery and run accessories while the engine runs? (Ref #122)",
+    "question": "In a planetary gear set, what operational mode occurs when the Planet Carrier is held stationary and power is applied to the Sun Gear?",
     "options": [
-      "Starter motor",
-      "Alternator",
-      "Spark plug",
-      "Ignition coil"
+      "Forward Overdrive",
+      "Reverse Gear (Ring gear turns in the opposite direction)",
+      "Direct Drive",
+      "Neutral"
     ],
     "correctAnswer": 1,
-    "explanation": "The alternator converts mechanical crankshaft energy into alternating electrical current, rectified to direct current.",
+    "explanation": "Holding the carrier causes planet gears to act as idlers, reversing the rotational direction of the outer ring gear.",
     "tags": [
       "automotive",
-      "brakes-suspension",
+      "transmissions",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "automotive-electrical-diagnostics-0123",
+    "id": "automotive-transmissions-0123",
     "category": "Automotive",
-    "subcategory": "Electrical & Diagnostics",
+    "subcategory": "Transmissions",
     "difficulty": "hard",
-    "question": "Automotive mechanics and diagnosis: What exhaust emission control device converts harmful carbon monoxide, unburned hydrocarbons, and nitrogen oxides into safer gases? (Ref #123)",
+    "question": "What hydraulic 'brain' in an automatic transmission houses valves and computer-controlled solenoids that direct fluid to clutch packs?",
     "options": [
-      "Muffler resonator",
-      "EGR valve",
-      "Catalytic Converter",
-      "Turbocharger"
+      "The Torque Converter",
+      "The Oil Pan",
+      "The Transmission Valve Body",
+      "The Bellhousing"
     ],
     "correctAnswer": 2,
-    "explanation": "Catalytic converters contain platinum, palladium, and rhodium catalysts to oxidize CO and hydrocarbons and reduce NOx.",
+    "explanation": "The Transmission Control Module (TCM) energizes pulse-width modulated solenoids inside the valve body to execute precise, smooth gear shifts.",
     "tags": [
       "automotive",
-      "electrical-diagnostics",
+      "transmissions",
       "hard"
     ],
     "active": true
@@ -2587,15 +2587,15 @@
     "category": "Automotive",
     "subcategory": "Transmissions",
     "difficulty": "easy",
-    "question": "Automotive mechanics and diagnosis: What standardized diagnostic port found beneath the dashboard of vehicles built after 1996 allows technicians to read trouble codes? (Ref #124)",
+    "question": "What internal automatic transmission components clamp together multiple friction and steel plates to lock planetary gear members?",
     "options": [
-      "CAN-Bus Serial Port 1",
-      "ECU Flash Header",
-      "VAG-COM terminal",
-      "OBD-II port (On-Board Diagnostics II)"
+      "Band Clamps only",
+      "Synchronizer Cones",
+      "Dog Clutches",
+      "Hydraulic Multi-Plate Clutch Packs"
     ],
     "correctAnswer": 3,
-    "explanation": "OBD-II is the federally mandated standardized 16-pin diagnostic connector used to retrieve Diagnostic Trouble Codes (DTCs).",
+    "explanation": "Hydraulic piston pressure clamps alternating steel and friction discs together, locking specific gear members to the case or input shaft.",
     "tags": [
       "automotive",
       "transmissions",
@@ -2604,64 +2604,64 @@
     "active": true
   },
   {
-    "id": "automotive-engine-mechanics-0125",
+    "id": "automotive-transmissions-0125",
     "category": "Automotive",
-    "subcategory": "Engine Mechanics",
+    "subcategory": "Transmissions",
     "difficulty": "medium",
-    "question": "Automotive mechanics and diagnosis: In vehicles equipped with a manual transmission, what mechanical assembly disengages engine power from the gearbox during gear changes? (Ref #125)",
+    "question": "What type of automotive transmission uses a steel push-belt between two variable-diameter hydraulically adjustable pulleys?",
     "options": [
-      "Clutch disc and pressure plate",
-      "Torque converter",
-      "Differential spider gears",
-      "Flywheel ring gear"
+      "A Continuously Variable Transmission (CVT)",
+      "A Dual-Clutch Transmission (DCT)",
+      "A Stepped Automatic Transmission",
+      "A Manual Transaxle"
     ],
     "correctAnswer": 0,
-    "explanation": "Pressing the clutch pedal releases friction pressure between the flywheel and clutch disc, allowing smooth gear shifts.",
+    "explanation": "CVTs vary effective pulley diameters continuously, maintaining the engine at its optimal RPM efficiency curve without fixed stepped gear ratios.",
     "tags": [
       "automotive",
-      "engine-mechanics",
+      "transmissions",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "automotive-brakes-suspension-0126",
+    "id": "automotive-transmissions-0126",
     "category": "Automotive",
-    "subcategory": "Brakes & Suspension",
+    "subcategory": "Transmissions",
     "difficulty": "hard",
-    "question": "Automotive mechanics and diagnosis: What are the four sequential operational strokes in a standard four-stroke internal combustion engine? (Ref #126)",
+    "question": "What high-performance automated transmission uses two separate input shafts and clutches (one for odd gears, one for even gears)?",
     "options": [
-      "Ignition, Expansion, Cooling, and Release",
-      "Intake, Compression, Power, and Exhaust",
-      "Injection, Combustion, Drive, and Reset",
-      "Fueling, Firing, Spinning, and Vented"
+      "A CVT",
+      "A Dual-Clutch Transmission (DCT / DSG)",
+      "A Planetary Automatic",
+      "A Manual Transaxle"
     ],
     "correctAnswer": 1,
-    "explanation": "The Otto cycle engine operates in four piston strokes: Intake stroke, Compression stroke, Power stroke, and Exhaust stroke.",
+    "explanation": "While one clutch drives the current gear, the second clutch pre-selects the next gear, enabling lightning-fast shifts in milliseconds without torque interruption.",
     "tags": [
       "automotive",
-      "brakes-suspension",
+      "transmissions",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "automotive-electrical-diagnostics-0127",
+    "id": "automotive-transmissions-0127",
     "category": "Automotive",
-    "subcategory": "Electrical & Diagnostics",
+    "subcategory": "Transmissions",
     "difficulty": "easy",
-    "question": "Automotive mechanics and diagnosis: What automotive component generates electrical power to recharge the vehicle battery and run accessories while the engine runs? (Ref #127)",
+    "question": "What mechanical gear assembly in an axle allows the left and right drive wheels to rotate at different speeds when cornering?",
     "options": [
-      "Starter motor",
-      "Spark plug",
-      "Alternator",
-      "Ignition coil"
+      "The Transfer Case",
+      "The Final Drive Pinion",
+      "The Differential",
+      "The Transmission Output"
     ],
     "correctAnswer": 2,
-    "explanation": "The alternator converts mechanical crankshaft energy into alternating electrical current, rectified to direct current.",
+    "explanation": "In a turn, the outside wheel travels a longer arc than the inside wheel; differential spider gears allow speed differentiation while distributing torque.",
     "tags": [
       "automotive",
-      "electrical-diagnostics",
+      "transmissions",
       "easy"
     ],
     "active": true
@@ -2671,15 +2671,15 @@
     "category": "Automotive",
     "subcategory": "Transmissions",
     "difficulty": "medium",
-    "question": "Automotive mechanics and diagnosis: What exhaust emission control device converts harmful carbon monoxide, unburned hydrocarbons, and nitrogen oxides into safer gases? (Ref #128)",
+    "question": "What type of differential uses internal clutch packs, viscous couplings, or worm gears to transfer torque away from a slipping wheel?",
     "options": [
-      "Muffler resonator",
-      "EGR valve",
-      "Turbocharger",
-      "Catalytic Converter"
+      "An Open Differential",
+      "A Spool (Locked Axle)",
+      "A Planetary Gearset",
+      "A Limited-Slip Differential (LSD / Posi-Traction)"
     ],
     "correctAnswer": 3,
-    "explanation": "Catalytic converters contain platinum, palladium, and rhodium catalysts to oxidize CO and hydrocarbons and reduce NOx.",
+    "explanation": "Standard open differentials route power to the wheel with least traction; LSDs transfer torque to the wheel with grip to prevent getting stuck.",
     "tags": [
       "automotive",
       "transmissions",
@@ -2688,64 +2688,64 @@
     "active": true
   },
   {
-    "id": "automotive-engine-mechanics-0129",
+    "id": "automotive-transmissions-0129",
     "category": "Automotive",
-    "subcategory": "Engine Mechanics",
+    "subcategory": "Transmissions",
     "difficulty": "hard",
-    "question": "Automotive mechanics and diagnosis: What standardized diagnostic port found beneath the dashboard of vehicles built after 1996 allows technicians to read trouble codes? (Ref #129)",
+    "question": "What heavy-duty four-wheel-drive gear assembly divides transmission output torque between front and rear drive axles?",
     "options": [
-      "OBD-II port (On-Board Diagnostics II)",
-      "CAN-Bus Serial Port 1",
-      "ECU Flash Header",
-      "VAG-COM terminal"
+      "The Transfer Case",
+      "The Differential",
+      "The Transaxle",
+      "The Final Drive"
     ],
     "correctAnswer": 0,
-    "explanation": "OBD-II is the federally mandated standardized 16-pin diagnostic connector used to retrieve Diagnostic Trouble Codes (DTCs).",
+    "explanation": "Transfer cases feature low-range gear reduction (e.g., 2.7:1 or 4:1) for off-road rock crawling and selectable 2WD/4WD modes.",
     "tags": [
       "automotive",
-      "engine-mechanics",
+      "transmissions",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "automotive-brakes-suspension-0130",
+    "id": "automotive-transmissions-0130",
     "category": "Automotive",
-    "subcategory": "Brakes & Suspension",
+    "subcategory": "Transmissions",
     "difficulty": "easy",
-    "question": "Automotive mechanics and diagnosis: In vehicles equipped with a manual transmission, what mechanical assembly disengages engine power from the gearbox during gear changes? (Ref #130)",
+    "question": "What type of universal joint uses four cross-trunnions in needle-bearing cups to transmit torque across variable angles in driveshafts?",
     "options": [
-      "Torque converter",
-      "Clutch disc and pressure plate",
-      "Differential spider gears",
-      "Flywheel ring gear"
+      "A Constant Velocity (CV) Joint",
+      "A Cardan Universal Joint (U-Joint)",
+      "A Rzeppa Joint",
+      "A Flex Disc (Guibo)"
     ],
     "correctAnswer": 1,
-    "explanation": "Pressing the clutch pedal releases friction pressure between the flywheel and clutch disc, allowing smooth gear shifts.",
+    "explanation": "Standard Cardan U-joints cause non-uniform rotational speed fluctuations when operating at an angle, requiring matched operating angles on driveshafts.",
     "tags": [
       "automotive",
-      "brakes-suspension",
+      "transmissions",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "automotive-electrical-diagnostics-0131",
+    "id": "automotive-transmissions-0131",
     "category": "Automotive",
-    "subcategory": "Electrical & Diagnostics",
+    "subcategory": "Transmissions",
     "difficulty": "medium",
-    "question": "Automotive mechanics and diagnosis: What are the four sequential operational strokes in a standard four-stroke internal combustion engine? (Ref #131)",
+    "question": "What type of driveshaft joint transmits rotational torque smoothly at constant speed without velocity fluctuations at high steering angles?",
     "options": [
-      "Ignition, Expansion, Cooling, and Release",
-      "Injection, Combustion, Drive, and Reset",
-      "Intake, Compression, Power, and Exhaust",
-      "Fueling, Firing, Spinning, and Vented"
+      "A Cardan U-Joint",
+      "A Slip Yoke",
+      "A Constant Velocity (CV) Joint (Rzeppa Joint)",
+      "A Rag Joint"
     ],
     "correctAnswer": 2,
-    "explanation": "The Otto cycle engine operates in four piston strokes: Intake stroke, Compression stroke, Power stroke, and Exhaust stroke.",
+    "explanation": "Rzeppa ball-type CV joints are standard on front-wheel-drive axle shafts, handling suspension articulation and sharp steering angles smoothly.",
     "tags": [
       "automotive",
-      "electrical-diagnostics",
+      "transmissions",
       "medium"
     ],
     "active": true
@@ -2755,15 +2755,15 @@
     "category": "Automotive",
     "subcategory": "Transmissions",
     "difficulty": "hard",
-    "question": "Automotive mechanics and diagnosis: What automotive component generates electrical power to recharge the vehicle battery and run accessories while the engine runs? (Ref #132)",
+    "question": "What flexible rubber boot protects CV joints from road dirt, sand, and water contamination while retaining synthetic grease?",
     "options": [
-      "Starter motor",
-      "Spark plug",
-      "Ignition coil",
-      "Alternator"
+      "A Dust Shield",
+      "A Grease Seal",
+      "A Bellows Grommet",
+      "A CV Joint Boot"
     ],
     "correctAnswer": 3,
-    "explanation": "The alternator converts mechanical crankshaft energy into alternating electrical current, rectified to direct current.",
+    "explanation": "Torn CV boots allow grease to sling out and grit to enter, causing rapid joint clicking wear during turns and eventual axle failure.",
     "tags": [
       "automotive",
       "transmissions",
@@ -2772,64 +2772,64 @@
     "active": true
   },
   {
-    "id": "automotive-engine-mechanics-0133",
+    "id": "automotive-transmissions-0133",
     "category": "Automotive",
-    "subcategory": "Engine Mechanics",
+    "subcategory": "Transmissions",
     "difficulty": "easy",
-    "question": "Automotive mechanics and diagnosis: What exhaust emission control device converts harmful carbon monoxide, unburned hydrocarbons, and nitrogen oxides into safer gases? (Ref #133)",
+    "question": "What drivetrain component on rear-wheel-drive and 4WD vehicles connects the transmission output shaft to the rear axle differential?",
     "options": [
-      "Catalytic Converter",
-      "Muffler resonator",
-      "EGR valve",
-      "Turbocharger"
+      "The Driveshaft (Propeller Shaft)",
+      "The Half-Shaft",
+      "The Pinion Gear",
+      "The Jackshaft"
     ],
     "correctAnswer": 0,
-    "explanation": "Catalytic converters contain platinum, palladium, and rhodium catalysts to oxidize CO and hydrocarbons and reduce NOx.",
+    "explanation": "Tubular steel or aluminum driveshafts transmit high rotational torque over vehicle wheelbases, balanced to prevent high-speed driveline vibration.",
     "tags": [
       "automotive",
-      "engine-mechanics",
+      "transmissions",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "automotive-brakes-suspension-0134",
+    "id": "automotive-transmissions-0134",
     "category": "Automotive",
-    "subcategory": "Brakes & Suspension",
+    "subcategory": "Transmissions",
     "difficulty": "medium",
-    "question": "Automotive mechanics and diagnosis: What standardized diagnostic port found beneath the dashboard of vehicles built after 1996 allows technicians to read trouble codes? (Ref #134)",
+    "question": "What gear pair inside the differential housing provides the final gear reduction ratio and changes the direction of drive rotation by 90 degrees?",
     "options": [
-      "CAN-Bus Serial Port 1",
-      "OBD-II port (On-Board Diagnostics II)",
-      "ECU Flash Header",
-      "VAG-COM terminal"
+      "The Spider Gears",
+      "The Ring and Pinion Gears (Hypoid Gear Set)",
+      "The Side Gears",
+      "The Planetary Gears"
     ],
     "correctAnswer": 1,
-    "explanation": "OBD-II is the federally mandated standardized 16-pin diagnostic connector used to retrieve Diagnostic Trouble Codes (DTCs).",
+    "explanation": "A small drive pinion meshes with a large ring gear, offering hypoid offset meshing for quiet operation and final drive ratio reduction (e.g., 3.73:1).",
     "tags": [
       "automotive",
-      "brakes-suspension",
+      "transmissions",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "automotive-electrical-diagnostics-0135",
+    "id": "automotive-transmissions-0135",
     "category": "Automotive",
-    "subcategory": "Electrical & Diagnostics",
+    "subcategory": "Transmissions",
     "difficulty": "hard",
-    "question": "Automotive mechanics and diagnosis: In vehicles equipped with a manual transmission, what mechanical assembly disengages engine power from the gearbox during gear changes? (Ref #135)",
+    "question": "What parameter defines the small amount of rotational clearance or play between the meshed teeth of the ring and pinion gear?",
     "options": [
-      "Torque converter",
-      "Differential spider gears",
-      "Clutch disc and pressure plate",
-      "Flywheel ring gear"
+      "Preload",
+      "Pinion Depth",
+      "Backlash",
+      "Tooth Runout"
     ],
     "correctAnswer": 2,
-    "explanation": "Pressing the clutch pedal releases friction pressure between the flywheel and clutch disc, allowing smooth gear shifts.",
+    "explanation": "Proper backlash (typically 0.006 to 0.010 inches) prevents gear binding, thermal seizure, and noisy whining under load.",
     "tags": [
       "automotive",
-      "electrical-diagnostics",
+      "transmissions",
       "hard"
     ],
     "active": true
@@ -2839,15 +2839,15 @@
     "category": "Automotive",
     "subcategory": "Transmissions",
     "difficulty": "easy",
-    "question": "Automotive mechanics and diagnosis: What are the four sequential operational strokes in a standard four-stroke internal combustion engine? (Ref #136)",
+    "question": "What component in a front-wheel-drive vehicle combines the transmission, final drive gears, and differential into a single compact housing?",
     "options": [
-      "Ignition, Expansion, Cooling, and Release",
-      "Injection, Combustion, Drive, and Reset",
-      "Fueling, Firing, Spinning, and Vented",
-      "Intake, Compression, Power, and Exhaust"
+      "A Transfer Case",
+      "A Split Axle",
+      "A Planetary Carrier",
+      "A Transaxle"
     ],
     "correctAnswer": 3,
-    "explanation": "The Otto cycle engine operates in four piston strokes: Intake stroke, Compression stroke, Power stroke, and Exhaust stroke.",
+    "explanation": "Transaxles mount transversely across front-wheel-drive engine bays, delivering power directly to left and right CV axle half-shafts.",
     "tags": [
       "automotive",
       "transmissions",
@@ -2856,64 +2856,64 @@
     "active": true
   },
   {
-    "id": "automotive-engine-mechanics-0137",
+    "id": "automotive-transmissions-0137",
     "category": "Automotive",
-    "subcategory": "Engine Mechanics",
+    "subcategory": "Transmissions",
     "difficulty": "medium",
-    "question": "Automotive mechanics and diagnosis: What automotive component generates electrical power to recharge the vehicle battery and run accessories while the engine runs? (Ref #137)",
+    "question": "What modern transmission fluid specification is critical because using incorrect viscosity or friction properties causes clutch slippage and shudder?",
     "options": [
-      "Alternator",
-      "Starter motor",
-      "Spark plug",
-      "Ignition coil"
+      "Automatic Transmission Fluid (ATF, e.g., Mercon, Dexron, WS, Multi-Vehicle Synthetic)",
+      "Standard 80W-90 Gear Oil",
+      "Engine Oil",
+      "Hydraulic ISO 46"
     ],
     "correctAnswer": 0,
-    "explanation": "The alternator converts mechanical crankshaft energy into alternating electrical current, rectified to direct current.",
+    "explanation": "Modern automatic transmissions require precise friction-modified synthetic fluids to prevent torque converter shudder and clutch glaze.",
     "tags": [
       "automotive",
-      "engine-mechanics",
+      "transmissions",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "automotive-brakes-suspension-0138",
+    "id": "automotive-transmissions-0138",
     "category": "Automotive",
-    "subcategory": "Brakes & Suspension",
+    "subcategory": "Transmissions",
     "difficulty": "hard",
-    "question": "Automotive mechanics and diagnosis: What exhaust emission control device converts harmful carbon monoxide, unburned hydrocarbons, and nitrogen oxides into safer gases? (Ref #138)",
+    "question": "What heavy gear lubricant is specifically formulated with extreme-pressure (EP) sulfur-phosphorus additives for hypoid differential gears?",
     "options": [
-      "Muffler resonator",
-      "Catalytic Converter",
-      "EGR valve",
-      "Turbocharger"
+      "Automatic Transmission Fluid",
+      "Hypoid Gear Oil (SAE 75W-90 / 80W-90 GL-5)",
+      "Motor Oil",
+      "Hydraulic Fluid"
     ],
     "correctAnswer": 1,
-    "explanation": "Catalytic converters contain platinum, palladium, and rhodium catalysts to oxidize CO and hydrocarbons and reduce NOx.",
+    "explanation": "API GL-5 hypoid gear lubricants feature chemical EP additives that form sacrificial protective films under extreme sliding tooth pressures.",
     "tags": [
       "automotive",
-      "brakes-suspension",
+      "transmissions",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "automotive-electrical-diagnostics-0139",
+    "id": "automotive-transmissions-0139",
     "category": "Automotive",
-    "subcategory": "Electrical & Diagnostics",
+    "subcategory": "Transmissions",
     "difficulty": "easy",
-    "question": "Automotive mechanics and diagnosis: What standardized diagnostic port found beneath the dashboard of vehicles built after 1996 allows technicians to read trouble codes? (Ref #139)",
+    "question": "What manual transmission component is a splined sleeve that slides forward or backward to lock a selected gear to the output shaft?",
     "options": [
-      "CAN-Bus Serial Port 1",
-      "ECU Flash Header",
-      "OBD-II port (On-Board Diagnostics II)",
-      "VAG-COM terminal"
+      "A Synchronizer Hub",
+      "A Shift Fork",
+      "A Shift Collar (Slider Sleeve)",
+      "A Blocker Ring"
     ],
     "correctAnswer": 2,
-    "explanation": "OBD-II is the federally mandated standardized 16-pin diagnostic connector used to retrieve Diagnostic Trouble Codes (DTCs).",
+    "explanation": "The shift fork slides the collar over the synchronizer teeth, locking the freely spinning gear solidly to the main transmission shaft.",
     "tags": [
       "automotive",
-      "electrical-diagnostics",
+      "transmissions",
       "easy"
     ],
     "active": true
@@ -2923,15 +2923,15 @@
     "category": "Automotive",
     "subcategory": "Transmissions",
     "difficulty": "medium",
-    "question": "Automotive mechanics and diagnosis: In vehicles equipped with a manual transmission, what mechanical assembly disengages engine power from the gearbox during gear changes? (Ref #140)",
+    "question": "What hydraulic release bearing component slides along the transmission input shaft to depress the clutch pressure plate diaphragm spring?",
     "options": [
-      "Torque converter",
-      "Differential spider gears",
-      "Flywheel ring gear",
-      "Clutch disc and pressure plate"
+      "A Pilot Bearing",
+      "A Countershaft Bearing",
+      "A Thrust Washer",
+      "A Throw-Out Bearing (Clutch Release Bearing / Concentric Slave Cylinder)"
     ],
     "correctAnswer": 3,
-    "explanation": "Pressing the clutch pedal releases friction pressure between the flywheel and clutch disc, allowing smooth gear shifts.",
+    "explanation": "When the clutch pedal is pressed, the release bearing pushes against rotating diaphragm spring fingers to disengage the clutch disc.",
     "tags": [
       "automotive",
       "transmissions",
@@ -2940,64 +2940,64 @@
     "active": true
   },
   {
-    "id": "automotive-engine-mechanics-0141",
+    "id": "automotive-transmissions-0141",
     "category": "Automotive",
-    "subcategory": "Engine Mechanics",
+    "subcategory": "Transmissions",
     "difficulty": "hard",
-    "question": "Automotive mechanics and diagnosis: What are the four sequential operational strokes in a standard four-stroke internal combustion engine? (Ref #141)",
+    "question": "What small bronze bushing or needle bearing in the back of the engine crankshaft supports the tip of the transmission input shaft?",
     "options": [
-      "Intake, Compression, Power, and Exhaust",
-      "Ignition, Expansion, Cooling, and Release",
-      "Injection, Combustion, Drive, and Reset",
-      "Fueling, Firing, Spinning, and Vented"
+      "The Pilot Bearing (or Pilot Bushing)",
+      "The Throw-Out Bearing",
+      "The Main Bearing",
+      "The Countershaft Bearing"
     ],
     "correctAnswer": 0,
-    "explanation": "The Otto cycle engine operates in four piston strokes: Intake stroke, Compression stroke, Power stroke, and Exhaust stroke.",
+    "explanation": "Pilot bearings maintain coaxial alignment between the transmission input shaft and the crankshaft when the clutch is disengaged.",
     "tags": [
       "automotive",
-      "engine-mechanics",
+      "transmissions",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "automotive-brakes-suspension-0142",
+    "id": "automotive-transmissions-0142",
     "category": "Automotive",
-    "subcategory": "Brakes & Suspension",
+    "subcategory": "Transmissions",
     "difficulty": "easy",
-    "question": "Automotive mechanics and diagnosis: What automotive component generates electrical power to recharge the vehicle battery and run accessories while the engine runs? (Ref #142)",
+    "question": "What mechanical safety mechanism in an automatic transmission engages a pawl into a toothed wheel on the output shaft to lock the vehicle?",
     "options": [
-      "Starter motor",
-      "Alternator",
-      "Spark plug",
-      "Ignition coil"
+      "The Neutral Safety Switch",
+      "The Parking Pawl",
+      "The Shift Interlock Solenoid",
+      "The Band Brake"
     ],
     "correctAnswer": 1,
-    "explanation": "The alternator converts mechanical crankshaft energy into alternating electrical current, rectified to direct current.",
+    "explanation": "Shifting into Park drops a hardened steel pawl into a parking gear, physically locking the driveline from rotating.",
     "tags": [
       "automotive",
-      "brakes-suspension",
+      "transmissions",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "automotive-electrical-diagnostics-0143",
+    "id": "automotive-transmissions-0143",
     "category": "Automotive",
-    "subcategory": "Electrical & Diagnostics",
+    "subcategory": "Transmissions",
     "difficulty": "medium",
-    "question": "Automotive mechanics and diagnosis: What exhaust emission control device converts harmful carbon monoxide, unburned hydrocarbons, and nitrogen oxides into safer gases? (Ref #143)",
+    "question": "What electronic safety interlock prevents the driver from shifting out of 'Park' unless the brake pedal is firmly depressed?",
     "options": [
-      "Muffler resonator",
-      "EGR valve",
-      "Catalytic Converter",
-      "Turbocharger"
+      "The Neutral Safety Switch",
+      "The Parking Pawl",
+      "The Brake-Transmission Shift Interlock (BTSI) Solenoid",
+      "The Backup Light Switch"
     ],
     "correctAnswer": 2,
-    "explanation": "Catalytic converters contain platinum, palladium, and rhodium catalysts to oxidize CO and hydrocarbons and reduce NOx.",
+    "explanation": "The BTSI solenoid prevents accidental shift lever movement by children or unintended vehicle rollaway accidents.",
     "tags": [
       "automotive",
-      "electrical-diagnostics",
+      "transmissions",
       "medium"
     ],
     "active": true
@@ -3007,15 +3007,15 @@
     "category": "Automotive",
     "subcategory": "Transmissions",
     "difficulty": "hard",
-    "question": "Automotive mechanics and diagnosis: What standardized diagnostic port found beneath the dashboard of vehicles built after 1996 allows technicians to read trouble codes? (Ref #144)",
+    "question": "What electrical switch ensures that the engine starter motor can only be cranked when the transmission is in Park or Neutral?",
     "options": [
-      "CAN-Bus Serial Port 1",
-      "ECU Flash Header",
-      "VAG-COM terminal",
-      "OBD-II port (On-Board Diagnostics II)"
+      "The Brake Switch",
+      "The Ignition Switch",
+      "The Lockout Solenoid",
+      "The Neutral Safety Switch (Transmission Range Sensor)"
     ],
     "correctAnswer": 3,
-    "explanation": "OBD-II is the federally mandated standardized 16-pin diagnostic connector used to retrieve Diagnostic Trouble Codes (DTCs).",
+    "explanation": "The neutral safety switch breaks the starter relay circuit in reverse or forward drive gears to prevent vehicle lunging.",
     "tags": [
       "automotive",
       "transmissions",
@@ -3024,64 +3024,64 @@
     "active": true
   },
   {
-    "id": "automotive-engine-mechanics-0145",
+    "id": "automotive-transmissions-0145",
     "category": "Automotive",
-    "subcategory": "Engine Mechanics",
+    "subcategory": "Transmissions",
     "difficulty": "easy",
-    "question": "Automotive mechanics and diagnosis: In vehicles equipped with a manual transmission, what mechanical assembly disengages engine power from the gearbox during gear changes? (Ref #145)",
+    "question": "What symptom typically indicates a worn, slipping clutch in a manual transmission vehicle?",
     "options": [
-      "Clutch disc and pressure plate",
-      "Torque converter",
-      "Differential spider gears",
-      "Flywheel ring gear"
+      "Engine RPM increases sharply when accelerating in high gear, but vehicle road speed does not increase proportionally",
+      "The gear lever grinds when shifting",
+      "The clutch pedal will not return to the top",
+      "The engine stalls immediately upon engagement"
     ],
     "correctAnswer": 0,
-    "explanation": "Pressing the clutch pedal releases friction pressure between the flywheel and clutch disc, allowing smooth gear shifts.",
+    "explanation": "When friction facings wear thin, the clutch cannot hold engine torque, slipping under heavy load and emitting an acrid burnt clutch smell.",
     "tags": [
       "automotive",
-      "engine-mechanics",
+      "transmissions",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "automotive-brakes-suspension-0146",
+    "id": "automotive-transmissions-0146",
     "category": "Automotive",
-    "subcategory": "Brakes & Suspension",
+    "subcategory": "Transmissions",
     "difficulty": "medium",
-    "question": "Automotive mechanics and diagnosis: What are the four sequential operational strokes in a standard four-stroke internal combustion engine? (Ref #146)",
+    "question": "What distinct sound typically warns that a front-wheel-drive outboard Constant Velocity (CV) joint is severely worn?",
     "options": [
-      "Ignition, Expansion, Cooling, and Release",
-      "Intake, Compression, Power, and Exhaust",
-      "Injection, Combustion, Drive, and Reset",
-      "Fueling, Firing, Spinning, and Vented"
+      "A continuous high-pitched whistle at highway speed",
+      "A rhythmic clicking, popping, or snapping noise while making sharp turns under acceleration",
+      "A deep grinding hum in a straight line",
+      "A violent clunk when applying the brakes"
     ],
     "correctAnswer": 1,
-    "explanation": "The Otto cycle engine operates in four piston strokes: Intake stroke, Compression stroke, Power stroke, and Exhaust stroke.",
+    "explanation": "Worn ball tracks inside the Rzeppa CV joint click rhythmically as balls ride over pits during high-articulation turning.",
     "tags": [
       "automotive",
-      "brakes-suspension",
+      "transmissions",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "automotive-electrical-diagnostics-0147",
+    "id": "automotive-transmissions-0147",
     "category": "Automotive",
-    "subcategory": "Electrical & Diagnostics",
+    "subcategory": "Transmissions",
     "difficulty": "hard",
-    "question": "Automotive mechanics and diagnosis: What automotive component generates electrical power to recharge the vehicle battery and run accessories while the engine runs? (Ref #147)",
+    "question": "What transmission component in rear-wheel-drive transmissions allows the driveshaft to slide in and out as the suspension moves up and down?",
     "options": [
-      "Starter motor",
-      "Spark plug",
-      "Alternator",
-      "Ignition coil"
+      "The Flange Yoke",
+      "The Center Support Bearing",
+      "The Slip Yoke",
+      "The Pinion Nut"
     ],
     "correctAnswer": 2,
-    "explanation": "The alternator converts mechanical crankshaft energy into alternating electrical current, rectified to direct current.",
+    "explanation": "As the rear axle articulates over bumps, the wheelbase distance between transmission and differential changes, absorbed by the slip yoke splines.",
     "tags": [
       "automotive",
-      "electrical-diagnostics",
+      "transmissions",
       "hard"
     ],
     "active": true
@@ -3091,15 +3091,15 @@
     "category": "Automotive",
     "subcategory": "Transmissions",
     "difficulty": "easy",
-    "question": "Automotive mechanics and diagnosis: What exhaust emission control device converts harmful carbon monoxide, unburned hydrocarbons, and nitrogen oxides into safer gases? (Ref #148)",
+    "question": "What bearing assembly supports the center of a two-piece driveshaft in long-wheelbase pickup trucks and commercial vans?",
     "options": [
-      "Muffler resonator",
-      "EGR valve",
-      "Turbocharger",
-      "Catalytic Converter"
+      "A Pilot Bearing",
+      "A Pinion Bearing",
+      "A Wheel Bearing",
+      "A Center Support Bearing (Carrier Bearing)"
     ],
     "correctAnswer": 3,
-    "explanation": "Catalytic converters contain platinum, palladium, and rhodium catalysts to oxidize CO and hydrocarbons and reduce NOx.",
+    "explanation": "Encased in a vibration-damping rubber mount, the carrier bearing supports the driveshaft joint, preventing high-speed shaft whipping.",
     "tags": [
       "automotive",
       "transmissions",
@@ -3108,43 +3108,43 @@
     "active": true
   },
   {
-    "id": "automotive-engine-mechanics-0149",
+    "id": "automotive-transmissions-0149",
     "category": "Automotive",
-    "subcategory": "Engine Mechanics",
+    "subcategory": "Transmissions",
     "difficulty": "medium",
-    "question": "Automotive mechanics and diagnosis: What standardized diagnostic port found beneath the dashboard of vehicles built after 1996 allows technicians to read trouble codes? (Ref #149)",
+    "question": "What transmission component automatically adjusts shift points and shift firmness based on throttle demand in older hydraulic automatics?",
     "options": [
-      "OBD-II port (On-Board Diagnostics II)",
-      "CAN-Bus Serial Port 1",
-      "ECU Flash Header",
-      "VAG-COM terminal"
+      "The Throttle Valve (TV) Cable / Vacuum Modulator",
+      "The Governor",
+      "The Shift Solenoid",
+      "The Speed Sensor"
     ],
     "correctAnswer": 0,
-    "explanation": "OBD-II is the federally mandated standardized 16-pin diagnostic connector used to retrieve Diagnostic Trouble Codes (DTCs).",
+    "explanation": "A misadjusted TV cable causes low line pressure, leading to slipping clutches and burned transmission friction plates within miles.",
     "tags": [
       "automotive",
-      "engine-mechanics",
+      "transmissions",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "automotive-brakes-suspension-0150",
+    "id": "automotive-transmissions-0150",
     "category": "Automotive",
-    "subcategory": "Brakes & Suspension",
+    "subcategory": "Transmissions",
     "difficulty": "hard",
-    "question": "Automotive mechanics and diagnosis: In vehicles equipped with a manual transmission, what mechanical assembly disengages engine power from the gearbox during gear changes? (Ref #150)",
+    "question": "What type of differential locking mechanism uses an electromagnetic coil or pneumatic air bladder to lock axle shafts 100% together for rock crawling?",
     "options": [
-      "Torque converter",
-      "Clutch disc and pressure plate",
-      "Differential spider gears",
-      "Flywheel ring gear"
+      "A Limited-Slip Differential",
+      "A Selectable Locking Differential (E-Locker / Air Locker)",
+      "An Open Differential",
+      "A Viscous Coupling"
     ],
     "correctAnswer": 1,
-    "explanation": "Pressing the clutch pedal releases friction pressure between the flywheel and clutch disc, allowing smooth gear shifts.",
+    "explanation": "Selectable lockers allow standard open differential manners on highway pavement, engaging a solid mechanical dog lock for extreme off-road traction.",
     "tags": [
       "automotive",
-      "brakes-suspension",
+      "transmissions",
       "hard"
     ],
     "active": true

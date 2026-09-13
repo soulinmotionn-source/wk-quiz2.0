@@ -4,15 +4,15 @@
     "category": "Engineering",
     "subcategory": "Mechanical Engineering",
     "difficulty": "easy",
-    "question": "In fundamental engineering: What physical property is defined in mechanical engineering as internal force divided by cross-sectional area? (Ref #1)",
+    "question": "What thermodynamic cycle represents the theoretical maximum thermal efficiency limit for any heat engine operating between two temperatures?",
     "options": [
-      "Stress (σ = F / A)",
-      "Strain",
-      "Torque",
-      "Viscosity"
+      "The Carnot Cycle",
+      "The Rankine Cycle",
+      "The Otto Cycle",
+      "The Brayton Cycle"
     ],
     "correctAnswer": 0,
-    "explanation": "Stress is force applied per unit area, measured in Pascals (N/m²) or pounds per square inch (psi).",
+    "explanation": "The Carnot cycle consists of two reversible isothermal and two reversible adiabatic processes, bounding maximum theoretical efficiency.",
     "tags": [
       "engineering",
       "mechanical-engineering",
@@ -21,64 +21,64 @@
     "active": true
   },
   {
-    "id": "engineering-civil-structures-0002",
+    "id": "engineering-mechanical-engineering-0002",
     "category": "Engineering",
-    "subcategory": "Civil Structures",
+    "subcategory": "Mechanical Engineering",
     "difficulty": "medium",
-    "question": "In fundamental engineering: What fundamental material property does Young's Modulus quantify? (Ref #2)",
+    "question": "What ideal thermodynamic cycle models the operation of a modern four-stroke spark-ignition internal combustion engine?",
     "options": [
-      "Thermal conductivity",
-      "Linear tensile elasticity / stiffness of a solid material",
-      "Electric resistance",
-      "Magnetic permeability"
+      "The Diesel Cycle",
+      "The Otto Cycle",
+      "The Carnot Cycle",
+      "The Stirling Cycle"
     ],
     "correctAnswer": 1,
-    "explanation": "Young's modulus is the ratio of tensile stress to tensile strain within the elastic limit of a material.",
+    "explanation": "The Otto cycle assumes constant-volume heat addition during combustion and constant-volume heat rejection.",
     "tags": [
       "engineering",
-      "civil-structures",
+      "mechanical-engineering",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "engineering-materials-science-0003",
+    "id": "engineering-mechanical-engineering-0003",
     "category": "Engineering",
-    "subcategory": "Materials Science",
+    "subcategory": "Mechanical Engineering",
     "difficulty": "hard",
-    "question": "In fundamental engineering: Which fluid dynamics principle explains why fluid pressure decreases when flow velocity increases through a constriction? (Ref #3)",
+    "question": "What thermodynamic cycle models the operation of a compression-ignition engine where fuel is injected at constant pressure?",
     "options": [
-      "Archimedes' Principle",
-      "Pascal's Law",
-      "Bernoulli's Principle",
-      "Coulomb's Law"
+      "The Otto Cycle",
+      "The Rankine Cycle",
+      "The Diesel Cycle",
+      "The Brayton Cycle"
     ],
     "correctAnswer": 2,
-    "explanation": "Bernoulli’s equation shows that for an inviscid flow, an increase in fluid speed occurs simultaneously with a decrease in static pressure.",
+    "explanation": "The Diesel cycle features constant-pressure heat addition, achieving higher compression ratios and thermal efficiency than the Otto cycle.",
     "tags": [
       "engineering",
-      "materials-science",
+      "mechanical-engineering",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "engineering-fluid-dynamics-0004",
+    "id": "engineering-mechanical-engineering-0004",
     "category": "Engineering",
-    "subcategory": "Fluid Dynamics",
+    "subcategory": "Mechanical Engineering",
     "difficulty": "easy",
-    "question": "In fundamental engineering: In structural engineering, which structural type is a beam supported at only one end and extending freely into space? (Ref #4)",
+    "question": "What thermodynamic vapor power cycle serves as the operational foundation for modern steam turbine power plants?",
     "options": [
-      "Simply supported beam",
-      "Continuous span beam",
-      "Truss arch",
-      "Cantilever beam"
+      "The Carnot Cycle",
+      "The Brayton Cycle",
+      "The Ericsson Cycle",
+      "The Rankine Cycle"
     ],
     "correctAnswer": 3,
-    "explanation": "A cantilever is anchored firmly at a single fixed support, with the other end projecting outward unsupported.",
+    "explanation": "The Rankine cycle pumps water into a boiler, superheats steam to drive a turbine, and condenses it back to liquid water.",
     "tags": [
       "engineering",
-      "fluid-dynamics",
+      "mechanical-engineering",
       "easy"
     ],
     "active": true
@@ -88,15 +88,15 @@
     "category": "Engineering",
     "subcategory": "Mechanical Engineering",
     "difficulty": "medium",
-    "question": "In fundamental engineering: What mechanical parameter is calculated as the product of applied rotational force and perpendicular distance from the pivot? (Ref #5)",
+    "question": "What thermodynamic gas power cycle models the operation of gas turbine engines and jet aircraft propulsion systems?",
     "options": [
-      "Torque (Moment of force)",
-      "Power",
-      "Impulse",
-      "Momentum"
+      "The Brayton Cycle (Joule Cycle)",
+      "The Rankine Cycle",
+      "The Otto Cycle",
+      "The Diesel Cycle"
     ],
     "correctAnswer": 0,
-    "explanation": "Torque measures the rotational tendency of a force, equal to force times the lever arm perpendicular distance (τ = r × F).",
+    "explanation": "The Brayton cycle consists of adiabatic compression, constant-pressure combustion, adiabatic expansion in a turbine, and heat rejection.",
     "tags": [
       "engineering",
       "mechanical-engineering",
@@ -105,64 +105,64 @@
     "active": true
   },
   {
-    "id": "engineering-civil-structures-0006",
+    "id": "engineering-mechanical-engineering-0006",
     "category": "Engineering",
-    "subcategory": "Civil Structures",
+    "subcategory": "Mechanical Engineering",
     "difficulty": "hard",
-    "question": "In fundamental engineering: What physical property is defined in mechanical engineering as internal force divided by cross-sectional area? (Ref #6)",
+    "question": "What formula calculates the speed ratio (velocity ratio) between an input driver gear and an output driven gear?",
     "options": [
-      "Strain",
-      "Stress (σ = F / A)",
-      "Torque",
-      "Viscosity"
+      "Driver teeth multiplied by driven teeth",
+      "Number of teeth on driven gear divided by number of teeth on driver gear (N_out / N_in)",
+      "Driver pitch diameter divided by driven teeth",
+      "Driven RPM divided by driver teeth"
     ],
     "correctAnswer": 1,
-    "explanation": "Stress is force applied per unit area, measured in Pascals (N/m²) or pounds per square inch (psi).",
+    "explanation": "Gear ratio = N_driven / N_driver; a 40-tooth gear driven by a 10-tooth gear provides a 4:1 reduction ratio, quadrupling torque.",
     "tags": [
       "engineering",
-      "civil-structures",
+      "mechanical-engineering",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "engineering-materials-science-0007",
+    "id": "engineering-mechanical-engineering-0007",
     "category": "Engineering",
-    "subcategory": "Materials Science",
+    "subcategory": "Mechanical Engineering",
     "difficulty": "easy",
-    "question": "In fundamental engineering: What fundamental material property does Young's Modulus quantify? (Ref #7)",
+    "question": "In a simple gear train, what is the mechanical purpose of an 'idler gear' placed between a driver gear and a driven gear?",
     "options": [
-      "Thermal conductivity",
-      "Electric resistance",
-      "Linear tensile elasticity / stiffness of a solid material",
-      "Magnetic permeability"
+      "To double the output shaft torque",
+      "To eliminate all rotational friction",
+      "To change the direction of rotation of the driven gear without altering the overall gear ratio",
+      "To double the output rotational speed"
     ],
     "correctAnswer": 2,
-    "explanation": "Young's modulus is the ratio of tensile stress to tensile strain within the elastic limit of a material.",
+    "explanation": "Idler gears reverse rotational direction; their tooth counts cancel out mathematically, leaving speed and torque ratios unchanged.",
     "tags": [
       "engineering",
-      "materials-science",
+      "mechanical-engineering",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "engineering-fluid-dynamics-0008",
+    "id": "engineering-mechanical-engineering-0008",
     "category": "Engineering",
-    "subcategory": "Fluid Dynamics",
+    "subcategory": "Mechanical Engineering",
     "difficulty": "medium",
-    "question": "In fundamental engineering: Which fluid dynamics principle explains why fluid pressure decreases when flow velocity increases through a constriction? (Ref #8)",
+    "question": "What type of gear set features teeth cut in a spiral along a cylinder, meshing with a perpendicular wheel to deliver high gear reduction and non-reversibility?",
     "options": [
-      "Archimedes' Principle",
-      "Pascal's Law",
-      "Coulomb's Law",
-      "Bernoulli's Principle"
+      "Spur gear set",
+      "Bevel gear set",
+      "Helical gear set",
+      "Worm gear set"
     ],
     "correctAnswer": 3,
-    "explanation": "Bernoulli’s equation shows that for an inviscid flow, an increase in fluid speed occurs simultaneously with a decrease in static pressure.",
+    "explanation": "Worm drives offer high gear reductions (up to 100:1) in compact space and self-lock to prevent back-driving.",
     "tags": [
       "engineering",
-      "fluid-dynamics",
+      "mechanical-engineering",
       "medium"
     ],
     "active": true
@@ -172,15 +172,15 @@
     "category": "Engineering",
     "subcategory": "Mechanical Engineering",
     "difficulty": "hard",
-    "question": "In fundamental engineering: In structural engineering, which structural type is a beam supported at only one end and extending freely into space? (Ref #9)",
+    "question": "What type of gear set features conical gears with intersecting shafts, commonly utilized in automotive differentials?",
     "options": [
-      "Cantilever beam",
-      "Simply supported beam",
-      "Continuous span beam",
-      "Truss arch"
+      "Bevel gears",
+      "Spur gears",
+      "Rack and pinion",
+      "Planetary gears"
     ],
     "correctAnswer": 0,
-    "explanation": "A cantilever is anchored firmly at a single fixed support, with the other end projecting outward unsupported.",
+    "explanation": "Bevel gears transmit rotational power between intersecting shafts, typically oriented at a 90-degree angle.",
     "tags": [
       "engineering",
       "mechanical-engineering",
@@ -189,64 +189,64 @@
     "active": true
   },
   {
-    "id": "engineering-civil-structures-0010",
+    "id": "engineering-mechanical-engineering-0010",
     "category": "Engineering",
-    "subcategory": "Civil Structures",
+    "subcategory": "Mechanical Engineering",
     "difficulty": "easy",
-    "question": "In fundamental engineering: What mechanical parameter is calculated as the product of applied rotational force and perpendicular distance from the pivot? (Ref #10)",
+    "question": "What mechanical gear mechanism converts rotary motion directly into linear motion using a circular gear and a flat toothed bar?",
     "options": [
-      "Power",
-      "Torque (Moment of force)",
-      "Impulse",
-      "Momentum"
+      "Worm drive",
+      "Rack and pinion",
+      "Epicyclic gear train",
+      "Scotch yoke"
     ],
     "correctAnswer": 1,
-    "explanation": "Torque measures the rotational tendency of a force, equal to force times the lever arm perpendicular distance (τ = r × F).",
+    "explanation": "Turning the pinion gear drives the toothed rack in a straight line, widely utilized in automotive steering systems.",
     "tags": [
       "engineering",
-      "civil-structures",
+      "mechanical-engineering",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "engineering-materials-science-0011",
+    "id": "engineering-mechanical-engineering-0011",
     "category": "Engineering",
-    "subcategory": "Materials Science",
+    "subcategory": "Mechanical Engineering",
     "difficulty": "medium",
-    "question": "In fundamental engineering: What physical property is defined in mechanical engineering as internal force divided by cross-sectional area? (Ref #11)",
+    "question": "What mechanical mechanism converts continuous rotary motion into reciprocating linear motion without using a connecting rod wrist pin?",
     "options": [
-      "Strain",
-      "Torque",
-      "Stress (σ = F / A)",
-      "Viscosity"
+      "Geneva drive",
+      "Four-bar linkage",
+      "Scotch yoke",
+      "Peaucellier cell"
     ],
     "correctAnswer": 2,
-    "explanation": "Stress is force applied per unit area, measured in Pascals (N/m²) or pounds per square inch (psi).",
+    "explanation": "The Scotch yoke couples a rotating pin directly within a slotted sliding yoke, producing pure simple harmonic motion.",
     "tags": [
       "engineering",
-      "materials-science",
+      "mechanical-engineering",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "engineering-fluid-dynamics-0012",
+    "id": "engineering-mechanical-engineering-0012",
     "category": "Engineering",
-    "subcategory": "Fluid Dynamics",
+    "subcategory": "Mechanical Engineering",
     "difficulty": "hard",
-    "question": "In fundamental engineering: What fundamental material property does Young's Modulus quantify? (Ref #12)",
+    "question": "What mechanical mechanism converts continuous rotary motion into intermittent, stepped rotary motion, historically used in film movie projectors?",
     "options": [
-      "Thermal conductivity",
-      "Electric resistance",
-      "Magnetic permeability",
-      "Linear tensile elasticity / stiffness of a solid material"
+      "Scotch yoke",
+      "Camshaft",
+      "Harmonic drive",
+      "Geneva mechanism (Maltese cross)"
     ],
     "correctAnswer": 3,
-    "explanation": "Young's modulus is the ratio of tensile stress to tensile strain within the elastic limit of a material.",
+    "explanation": "A drive wheel with a rotating pin enters the slot of the Maltese cross gear, advancing it by one quarter or one sixth turn per revolution.",
     "tags": [
       "engineering",
-      "fluid-dynamics",
+      "mechanical-engineering",
       "hard"
     ],
     "active": true
@@ -256,15 +256,15 @@
     "category": "Engineering",
     "subcategory": "Mechanical Engineering",
     "difficulty": "easy",
-    "question": "In fundamental engineering: Which fluid dynamics principle explains why fluid pressure decreases when flow velocity increases through a constriction? (Ref #13)",
+    "question": "What heavy rotating wheel is attached to a machine shaft to store kinetic energy during power strokes and smooth out rotational velocity fluctuations?",
     "options": [
-      "Bernoulli's Principle",
-      "Archimedes' Principle",
-      "Pascal's Law",
-      "Coulomb's Law"
+      "A Flywheel",
+      "A Governor",
+      "A Harmonic Balancer",
+      "A Torque Converter"
     ],
     "correctAnswer": 0,
-    "explanation": "Bernoulli’s equation shows that for an inviscid flow, an increase in fluid speed occurs simultaneously with a decrease in static pressure.",
+    "explanation": "Flywheels possess high mass moment of inertia, absorbing energy when torque exceeds the load and releasing it when torque drops.",
     "tags": [
       "engineering",
       "mechanical-engineering",
@@ -273,64 +273,64 @@
     "active": true
   },
   {
-    "id": "engineering-civil-structures-0014",
+    "id": "engineering-mechanical-engineering-0014",
     "category": "Engineering",
-    "subcategory": "Civil Structures",
+    "subcategory": "Mechanical Engineering",
     "difficulty": "medium",
-    "question": "In fundamental engineering: In structural engineering, which structural type is a beam supported at only one end and extending freely into space? (Ref #14)",
+    "question": "What mechanical self-regulating device automatically controls engine speed by adjusting fuel or steam supply based on centrifugal force?",
     "options": [
-      "Simply supported beam",
-      "Cantilever beam",
-      "Continuous span beam",
-      "Truss arch"
+      "Flywheel",
+      "Centrifugal Governor (Watt Governor)",
+      "Carburetor",
+      "Dynamometer"
     ],
     "correctAnswer": 1,
-    "explanation": "A cantilever is anchored firmly at a single fixed support, with the other end projecting outward unsupported.",
+    "explanation": "Invented by James Watt, spinning flyballs swing outward as speed increases, mechanically throttling the valve to restore equilibrium.",
     "tags": [
       "engineering",
-      "civil-structures",
+      "mechanical-engineering",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "engineering-materials-science-0015",
+    "id": "engineering-mechanical-engineering-0015",
     "category": "Engineering",
-    "subcategory": "Materials Science",
+    "subcategory": "Mechanical Engineering",
     "difficulty": "hard",
-    "question": "In fundamental engineering: What mechanical parameter is calculated as the product of applied rotational force and perpendicular distance from the pivot? (Ref #15)",
+    "question": "What type of plain bearing supports a rotating shaft using a thin pressurized hydrodynamic film of lubricant without rolling elements?",
     "options": [
-      "Power",
-      "Impulse",
-      "Torque (Moment of force)",
-      "Momentum"
+      "Ball bearing",
+      "Roller bearing",
+      "Journal bearing (sleeve bearing)",
+      "Needle bearing"
     ],
     "correctAnswer": 2,
-    "explanation": "Torque measures the rotational tendency of a force, equal to force times the lever arm perpendicular distance (τ = r × F).",
+    "explanation": "Journal bearings rely on shaft rotation to wedge fluid lubricant between journal and sleeve, supporting heavy industrial loads silently.",
     "tags": [
       "engineering",
-      "materials-science",
+      "mechanical-engineering",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "engineering-fluid-dynamics-0016",
+    "id": "engineering-mechanical-engineering-0016",
     "category": "Engineering",
-    "subcategory": "Fluid Dynamics",
+    "subcategory": "Mechanical Engineering",
     "difficulty": "easy",
-    "question": "In fundamental engineering: What physical property is defined in mechanical engineering as internal force divided by cross-sectional area? (Ref #16)",
+    "question": "What type of rolling-element bearing utilizes long, thin cylindrical rollers to provide high radial load capacity in compact spaces?",
     "options": [
-      "Strain",
-      "Torque",
-      "Viscosity",
-      "Stress (σ = F / A)"
+      "Deep groove ball bearing",
+      "Tapered roller bearing",
+      "Thrust ball bearing",
+      "Needle roller bearing"
     ],
     "correctAnswer": 3,
-    "explanation": "Stress is force applied per unit area, measured in Pascals (N/m²) or pounds per square inch (psi).",
+    "explanation": "Needle bearings have roller length-to-diameter ratios greater than 4:1, ideal for rocker arms, universal joints, and transmissions.",
     "tags": [
       "engineering",
-      "fluid-dynamics",
+      "mechanical-engineering",
       "easy"
     ],
     "active": true
@@ -340,15 +340,15 @@
     "category": "Engineering",
     "subcategory": "Mechanical Engineering",
     "difficulty": "medium",
-    "question": "In fundamental engineering: What fundamental material property does Young's Modulus quantify? (Ref #17)",
+    "question": "What type of rolling-element bearing is specifically designed to support combined high radial loads and high axial thrust loads simultaneously?",
     "options": [
-      "Linear tensile elasticity / stiffness of a solid material",
-      "Thermal conductivity",
-      "Electric resistance",
-      "Magnetic permeability"
+      "Tapered roller bearing",
+      "Deep groove ball bearing",
+      "Thrust ball bearing",
+      "Spherical roller bearing"
     ],
     "correctAnswer": 0,
-    "explanation": "Young's modulus is the ratio of tensile stress to tensile strain within the elastic limit of a material.",
+    "explanation": "Tapered inner and outer raceways and rollers absorb high concurrent radial and axial thrust loads in automotive wheel hubs.",
     "tags": [
       "engineering",
       "mechanical-engineering",
@@ -357,64 +357,64 @@
     "active": true
   },
   {
-    "id": "engineering-civil-structures-0018",
+    "id": "engineering-mechanical-engineering-0018",
     "category": "Engineering",
-    "subcategory": "Civil Structures",
+    "subcategory": "Mechanical Engineering",
     "difficulty": "hard",
-    "question": "In fundamental engineering: Which fluid dynamics principle explains why fluid pressure decreases when flow velocity increases through a constriction? (Ref #18)",
+    "question": "What is the primary mechanical function of a vibration damper (harmonic balancer) mounted on the front of an automotive crankshaft?",
     "options": [
-      "Archimedes' Principle",
-      "Bernoulli's Principle",
-      "Pascal's Law",
-      "Coulomb's Law"
+      "To cool engine oil as it enters the pump",
+      "To absorb and dissipate torsional crankshaft vibrations caused by cyclic cylinder firing pulses",
+      "To multiply engine torque at low RPM",
+      "To advance valve timing at high speeds"
     ],
     "correctAnswer": 1,
-    "explanation": "Bernoulli’s equation shows that for an inviscid flow, an increase in fluid speed occurs simultaneously with a decrease in static pressure.",
+    "explanation": "Combustion pulses induce torsional twist in long crankshafts; elastomeric dampers absorb resonance to prevent crankshaft snapping.",
     "tags": [
       "engineering",
-      "civil-structures",
+      "mechanical-engineering",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "engineering-materials-science-0019",
+    "id": "engineering-mechanical-engineering-0019",
     "category": "Engineering",
-    "subcategory": "Materials Science",
+    "subcategory": "Mechanical Engineering",
     "difficulty": "easy",
-    "question": "In fundamental engineering: In structural engineering, which structural type is a beam supported at only one end and extending freely into space? (Ref #19)",
+    "question": "What engineering failure mechanism occurs when a component fractures under cyclic, fluctuating mechanical stresses well below its static tensile yield strength?",
     "options": [
-      "Simply supported beam",
-      "Continuous span beam",
-      "Cantilever beam",
-      "Truss arch"
+      "Creep failure",
+      "Buckling",
+      "Fatigue failure",
+      "Brittle cleavage"
     ],
     "correctAnswer": 2,
-    "explanation": "A cantilever is anchored firmly at a single fixed support, with the other end projecting outward unsupported.",
+    "explanation": "Fatigue begins with microscopic surface stress cracks that propagate under cyclic loading until sudden catastrophic brittle fracture occurs.",
     "tags": [
       "engineering",
-      "materials-science",
+      "mechanical-engineering",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "engineering-fluid-dynamics-0020",
+    "id": "engineering-mechanical-engineering-0020",
     "category": "Engineering",
-    "subcategory": "Fluid Dynamics",
+    "subcategory": "Mechanical Engineering",
     "difficulty": "medium",
-    "question": "In fundamental engineering: What mechanical parameter is calculated as the product of applied rotational force and perpendicular distance from the pivot? (Ref #20)",
+    "question": "What material property represents the cyclic stress level below which a material can withstand an infinite number of load cycles without failing?",
     "options": [
-      "Power",
-      "Impulse",
-      "Momentum",
-      "Torque (Moment of force)"
+      "Yield strength",
+      "Ultimate tensile strength",
+      "Proportional limit",
+      "Endurance limit (Fatigue limit)"
     ],
     "correctAnswer": 3,
-    "explanation": "Torque measures the rotational tendency of a force, equal to force times the lever arm perpendicular distance (τ = r × F).",
+    "explanation": "Ferrous metals like steel exhibit a distinct endurance limit (typically 40-50% of tensile strength); non-ferrous metals like aluminum do not.",
     "tags": [
       "engineering",
-      "fluid-dynamics",
+      "mechanical-engineering",
       "medium"
     ],
     "active": true
@@ -424,15 +424,15 @@
     "category": "Engineering",
     "subcategory": "Mechanical Engineering",
     "difficulty": "hard",
-    "question": "In fundamental engineering: What physical property is defined in mechanical engineering as internal force divided by cross-sectional area? (Ref #21)",
+    "question": "What dimensionless ratio quantifies how localized geometric irregularities (notches, holes, fillets, keyways) amplify local mechanical stress?",
     "options": [
-      "Stress (σ = F / A)",
-      "Strain",
-      "Torque",
-      "Viscosity"
+      "Stress Concentration Factor (Kt)",
+      "Safety factor",
+      "Poisson's ratio",
+      "Slenderness ratio"
     ],
     "correctAnswer": 0,
-    "explanation": "Stress is force applied per unit area, measured in Pascals (N/m²) or pounds per square inch (psi).",
+    "explanation": "Sharp corners and holes cause stress trajectories to bunch together, elevating peak local stress far above nominal average stress.",
     "tags": [
       "engineering",
       "mechanical-engineering",
@@ -441,64 +441,64 @@
     "active": true
   },
   {
-    "id": "engineering-civil-structures-0022",
+    "id": "engineering-mechanical-engineering-0022",
     "category": "Engineering",
-    "subcategory": "Civil Structures",
+    "subcategory": "Mechanical Engineering",
     "difficulty": "easy",
-    "question": "In fundamental engineering: What fundamental material property does Young's Modulus quantify? (Ref #22)",
+    "question": "What is the engineering standard practice of rounding interior corners with concave transition curves to minimize stress concentration called?",
     "options": [
-      "Thermal conductivity",
-      "Linear tensile elasticity / stiffness of a solid material",
-      "Electric resistance",
-      "Magnetic permeability"
+      "Chamfer",
+      "Fillet (filleting)",
+      "Bevel",
+      "Countersink"
     ],
     "correctAnswer": 1,
-    "explanation": "Young's modulus is the ratio of tensile stress to tensile strain within the elastic limit of a material.",
+    "explanation": "Adding generous internal fillet radii smooths stress flow lines, drastically reducing the risk of fatigue crack initiation.",
     "tags": [
       "engineering",
-      "civil-structures",
+      "mechanical-engineering",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "engineering-materials-science-0023",
+    "id": "engineering-mechanical-engineering-0023",
     "category": "Engineering",
-    "subcategory": "Materials Science",
+    "subcategory": "Mechanical Engineering",
     "difficulty": "medium",
-    "question": "In fundamental engineering: Which fluid dynamics principle explains why fluid pressure decreases when flow velocity increases through a constriction? (Ref #23)",
+    "question": "What computational numerical method subdivides complex engineering structures into small discrete elements to analyze stress, heat, and fluid flow?",
     "options": [
-      "Archimedes' Principle",
-      "Pascal's Law",
-      "Bernoulli's Principle",
-      "Coulomb's Law"
+      "Computational Fluid Dynamics",
+      "Boundary Element Method",
+      "Finite Element Analysis (FEA)",
+      "Monte Carlo Simulation"
     ],
     "correctAnswer": 2,
-    "explanation": "Bernoulli’s equation shows that for an inviscid flow, an increase in fluid speed occurs simultaneously with a decrease in static pressure.",
+    "explanation": "FEA solves complex differential elasticity equations by approximating continuous geometry with interconnected mesh nodes and elements.",
     "tags": [
       "engineering",
-      "materials-science",
+      "mechanical-engineering",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "engineering-fluid-dynamics-0024",
+    "id": "engineering-mechanical-engineering-0024",
     "category": "Engineering",
-    "subcategory": "Fluid Dynamics",
+    "subcategory": "Mechanical Engineering",
     "difficulty": "hard",
-    "question": "In fundamental engineering: In structural engineering, which structural type is a beam supported at only one end and extending freely into space? (Ref #24)",
+    "question": "In simple beam bending theory, what longitudinal surface within the beam experiences zero normal longitudinal stress and zero strain?",
     "options": [
-      "Simply supported beam",
-      "Continuous span beam",
-      "Truss arch",
-      "Cantilever beam"
+      "The Centroidal Fiber",
+      "The Shear Plane",
+      "The Compression Flange",
+      "The Neutral Axis"
     ],
     "correctAnswer": 3,
-    "explanation": "A cantilever is anchored firmly at a single fixed support, with the other end projecting outward unsupported.",
+    "explanation": "Fibers above the neutral axis undergo compression while fibers below undergo tension; stress is identically zero along the neutral axis.",
     "tags": [
       "engineering",
-      "fluid-dynamics",
+      "mechanical-engineering",
       "hard"
     ],
     "active": true
@@ -508,15 +508,15 @@
     "category": "Engineering",
     "subcategory": "Mechanical Engineering",
     "difficulty": "easy",
-    "question": "In fundamental engineering: What mechanical parameter is calculated as the product of applied rotational force and perpendicular distance from the pivot? (Ref #25)",
+    "question": "What geometric property of a beam cross-section quantifies its resistance to bending deflection around a given axis, measured in length to the fourth power (in4 or mm4)?",
     "options": [
-      "Torque (Moment of force)",
-      "Power",
-      "Impulse",
-      "Momentum"
+      "Second Moment of Area (Area Moment of Inertia, I)",
+      "Section Modulus (Z)",
+      "Polar Moment of Inertia (J)",
+      "Radius of Gyration (k)"
     ],
     "correctAnswer": 0,
-    "explanation": "Torque measures the rotational tendency of a force, equal to force times the lever arm perpendicular distance (τ = r × F).",
+    "explanation": "Doubling beam depth increases area moment of inertia eight-fold (bh3/12), drastically reducing bending deflection under load.",
     "tags": [
       "engineering",
       "mechanical-engineering",
@@ -525,64 +525,64 @@
     "active": true
   },
   {
-    "id": "engineering-civil-structures-0026",
+    "id": "engineering-mechanical-engineering-0026",
     "category": "Engineering",
-    "subcategory": "Civil Structures",
+    "subcategory": "Mechanical Engineering",
     "difficulty": "medium",
-    "question": "In fundamental engineering: What physical property is defined in mechanical engineering as internal force divided by cross-sectional area? (Ref #26)",
+    "question": "What beam cross-sectional shape provides maximum bending resistance for a given weight by concentrating mass far from the neutral axis in flanges?",
     "options": [
-      "Strain",
-      "Stress (σ = F / A)",
-      "Torque",
-      "Viscosity"
+      "Solid rectangular beam",
+      "I-beam (Wide-flange W-beam)",
+      "Solid circular rod",
+      "Square bar"
     ],
     "correctAnswer": 1,
-    "explanation": "Stress is force applied per unit area, measured in Pascals (N/m²) or pounds per square inch (psi).",
+    "explanation": "I-beam flanges resist compressive and tensile bending moments while the slender central web resists vertical shear forces.",
     "tags": [
       "engineering",
-      "civil-structures",
+      "mechanical-engineering",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "engineering-materials-science-0027",
+    "id": "engineering-mechanical-engineering-0027",
     "category": "Engineering",
-    "subcategory": "Materials Science",
+    "subcategory": "Mechanical Engineering",
     "difficulty": "hard",
-    "question": "In fundamental engineering: What fundamental material property does Young's Modulus quantify? (Ref #27)",
+    "question": "In pure torsion of a circular shaft, where does maximum torsional shear stress occur within the cross-section?",
     "options": [
-      "Thermal conductivity",
-      "Electric resistance",
-      "Linear tensile elasticity / stiffness of a solid material",
-      "Magnetic permeability"
+      "At the exact central axis of the shaft",
+      "Midway between center and surface",
+      "At the outermost outer surface circumference of the shaft",
+      "Uniformly throughout the cross-section"
     ],
     "correctAnswer": 2,
-    "explanation": "Young's modulus is the ratio of tensile stress to tensile strain within the elastic limit of a material.",
+    "explanation": "Torsional shear stress varies linearly from zero at the center to a maximum at the outer radius (tau = Tr / J).",
     "tags": [
       "engineering",
-      "materials-science",
+      "mechanical-engineering",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "engineering-fluid-dynamics-0028",
+    "id": "engineering-mechanical-engineering-0028",
     "category": "Engineering",
-    "subcategory": "Fluid Dynamics",
+    "subcategory": "Mechanical Engineering",
     "difficulty": "easy",
-    "question": "In fundamental engineering: Which fluid dynamics principle explains why fluid pressure decreases when flow velocity increases through a constriction? (Ref #28)",
+    "question": "What geometric property of a shaft cross-section quantifies its resistance to torsional twist and rotational shear stress?",
     "options": [
-      "Archimedes' Principle",
-      "Pascal's Law",
-      "Coulomb's Law",
-      "Bernoulli's Principle"
+      "Area Moment of Inertia (I)",
+      "Torsional Modulus",
+      "Section Modulus",
+      "Polar Moment of Inertia (J)"
     ],
     "correctAnswer": 3,
-    "explanation": "Bernoulli’s equation shows that for an inviscid flow, an increase in fluid speed occurs simultaneously with a decrease in static pressure.",
+    "explanation": "For a solid circular shaft of diameter d, polar moment of inertia equals pi * d^4 / 32.",
     "tags": [
       "engineering",
-      "fluid-dynamics",
+      "mechanical-engineering",
       "easy"
     ],
     "active": true
@@ -592,15 +592,15 @@
     "category": "Engineering",
     "subcategory": "Mechanical Engineering",
     "difficulty": "medium",
-    "question": "In fundamental engineering: In structural engineering, which structural type is a beam supported at only one end and extending freely into space? (Ref #29)",
+    "question": "What structural failure mode occurs when a long, slender structural column abruptly bows sideways under compressive axial loading before material yield?",
     "options": [
-      "Cantilever beam",
-      "Simply supported beam",
-      "Continuous span beam",
-      "Truss arch"
+      "Buckling (Euler Column Buckling)",
+      "Tensile necking",
+      "Torsional shear",
+      "Fatigue cracking"
     ],
     "correctAnswer": 0,
-    "explanation": "A cantilever is anchored firmly at a single fixed support, with the other end projecting outward unsupported.",
+    "explanation": "Slender columns buckle elastically at the critical Euler load P_cr = pi^2 * E * I / (KL)^2, governed by stiffness rather than strength.",
     "tags": [
       "engineering",
       "mechanical-engineering",
@@ -609,64 +609,64 @@
     "active": true
   },
   {
-    "id": "engineering-civil-structures-0030",
+    "id": "engineering-mechanical-engineering-0030",
     "category": "Engineering",
-    "subcategory": "Civil Structures",
+    "subcategory": "Mechanical Engineering",
     "difficulty": "hard",
-    "question": "In fundamental engineering: What mechanical parameter is calculated as the product of applied rotational force and perpendicular distance from the pivot? (Ref #30)",
+    "question": "What parameter in structural column analysis equals the unbraced length divided by the radius of gyration (L / r)?",
     "options": [
-      "Power",
-      "Torque (Moment of force)",
-      "Impulse",
-      "Momentum"
+      "Aspect Ratio",
+      "Slenderness Ratio",
+      "Poisson's Ratio",
+      "Safety Factor"
     ],
     "correctAnswer": 1,
-    "explanation": "Torque measures the rotational tendency of a force, equal to force times the lever arm perpendicular distance (τ = r × F).",
+    "explanation": "Columns with high slenderness ratios (>100) are susceptible to elastic Euler buckling under relatively low compressive stresses.",
     "tags": [
       "engineering",
-      "civil-structures",
+      "mechanical-engineering",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "engineering-materials-science-0031",
+    "id": "engineering-mechanical-engineering-0031",
     "category": "Engineering",
-    "subcategory": "Materials Science",
+    "subcategory": "Mechanical Engineering",
     "difficulty": "easy",
-    "question": "In fundamental engineering: What physical property is defined in mechanical engineering as internal force divided by cross-sectional area? (Ref #31)",
+    "question": "What kinematic parameter of a mechanical linkage or robotic arm defines the number of independent coordinates required to specify its physical configuration?",
     "options": [
-      "Strain",
-      "Torque",
-      "Stress (σ = F / A)",
-      "Viscosity"
+      "Mobility Index",
+      "Grashof Number",
+      "Degrees of Freedom (DOF)",
+      "Mechanical Advantage"
     ],
     "correctAnswer": 2,
-    "explanation": "Stress is force applied per unit area, measured in Pascals (N/m²) or pounds per square inch (psi).",
+    "explanation": "A rigid body free in three-dimensional space possesses 6 degrees of freedom: 3 translational (x, y, z) and 3 rotational (pitch, roll, yaw).",
     "tags": [
       "engineering",
-      "materials-science",
+      "mechanical-engineering",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "engineering-fluid-dynamics-0032",
+    "id": "engineering-mechanical-engineering-0032",
     "category": "Engineering",
-    "subcategory": "Fluid Dynamics",
+    "subcategory": "Mechanical Engineering",
     "difficulty": "medium",
-    "question": "In fundamental engineering: What fundamental material property does Young's Modulus quantify? (Ref #32)",
+    "question": "What fundamental law of four-bar planar linkages states that if the sum of the shortest and longest link lengths is less than the sum of the remaining two, at least one link can rotate fully?",
     "options": [
-      "Thermal conductivity",
-      "Electric resistance",
-      "Magnetic permeability",
-      "Linear tensile elasticity / stiffness of a solid material"
+      "Euler's Law",
+      "Chebyshev's Theorem",
+      "Freudenstein's Equation",
+      "Grashof's Law"
     ],
     "correctAnswer": 3,
-    "explanation": "Young's modulus is the ratio of tensile stress to tensile strain within the elastic limit of a material.",
+    "explanation": "Grashof linkages produce continuous crank rotation, essential for transforming motor rotation into oscillating rocker motion.",
     "tags": [
       "engineering",
-      "fluid-dynamics",
+      "mechanical-engineering",
       "medium"
     ],
     "active": true
@@ -676,15 +676,15 @@
     "category": "Engineering",
     "subcategory": "Mechanical Engineering",
     "difficulty": "hard",
-    "question": "In fundamental engineering: Which fluid dynamics principle explains why fluid pressure decreases when flow velocity increases through a constriction? (Ref #33)",
+    "question": "What mechanical property of a machine defines the ratio of output force exerted on the load to input force applied by the operator?",
     "options": [
-      "Bernoulli's Principle",
-      "Archimedes' Principle",
-      "Pascal's Law",
-      "Coulomb's Law"
+      "Mechanical Advantage (MA)",
+      "Mechanical Efficiency",
+      "Velocity Ratio",
+      "Power Factor"
     ],
     "correctAnswer": 0,
-    "explanation": "Bernoulli’s equation shows that for an inviscid flow, an increase in fluid speed occurs simultaneously with a decrease in static pressure.",
+    "explanation": "Simple machines (levers, pulleys, screws) amplify applied effort force, where MA = Output Force / Input Force.",
     "tags": [
       "engineering",
       "mechanical-engineering",
@@ -693,64 +693,64 @@
     "active": true
   },
   {
-    "id": "engineering-civil-structures-0034",
+    "id": "engineering-mechanical-engineering-0034",
     "category": "Engineering",
-    "subcategory": "Civil Structures",
+    "subcategory": "Mechanical Engineering",
     "difficulty": "easy",
-    "question": "In fundamental engineering: In structural engineering, which structural type is a beam supported at only one end and extending freely into space? (Ref #34)",
+    "question": "What type of screw thread profile features square or 29-degree trapezoidal teeth, designed specifically to transmit high power in machine tool lead screws?",
     "options": [
-      "Simply supported beam",
-      "Cantilever beam",
-      "Continuous span beam",
-      "Truss arch"
+      "V-thread (Standard Unified)",
+      "Acme thread",
+      "Buttress thread",
+      "Knuckle thread"
     ],
     "correctAnswer": 1,
-    "explanation": "A cantilever is anchored firmly at a single fixed support, with the other end projecting outward unsupported.",
+    "explanation": "Acme threads possess high mechanical strength and lower friction than standard V-threads, ideal for lathe lead screws and bench vises.",
     "tags": [
       "engineering",
-      "civil-structures",
+      "mechanical-engineering",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "engineering-materials-science-0035",
+    "id": "engineering-mechanical-engineering-0035",
     "category": "Engineering",
-    "subcategory": "Materials Science",
+    "subcategory": "Mechanical Engineering",
     "difficulty": "medium",
-    "question": "In fundamental engineering: What mechanical parameter is calculated as the product of applied rotational force and perpendicular distance from the pivot? (Ref #35)",
+    "question": "What type of specialized screw thread features teeth that are perpendicular on one face and sloped on the other, designed to transmit power in one direction only?",
     "options": [
-      "Power",
-      "Impulse",
-      "Torque (Moment of force)",
-      "Momentum"
+      "Acme thread",
+      "Square thread",
+      "Buttress thread",
+      "Whitworth thread"
     ],
     "correctAnswer": 2,
-    "explanation": "Torque measures the rotational tendency of a force, equal to force times the lever arm perpendicular distance (τ = r × F).",
+    "explanation": "Buttress threads withstand immense unidirectional axial thrust in artillery breeches, screw presses, and hydraulic jacks.",
     "tags": [
       "engineering",
-      "materials-science",
+      "mechanical-engineering",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "engineering-fluid-dynamics-0036",
+    "id": "engineering-mechanical-engineering-0036",
     "category": "Engineering",
-    "subcategory": "Fluid Dynamics",
+    "subcategory": "Mechanical Engineering",
     "difficulty": "hard",
-    "question": "In fundamental engineering: What physical property is defined in mechanical engineering as internal force divided by cross-sectional area? (Ref #36)",
+    "question": "What device utilizes a liquid-filled chamber to absorb mechanical shock and dissipate kinetic energy as heat through viscous fluid throttling?",
     "options": [
-      "Strain",
-      "Torque",
-      "Viscosity",
-      "Stress (σ = F / A)"
+      "A Flywheel",
+      "A Torsion Bar",
+      "A Leaf Spring",
+      "A Dashpot (Hydraulic Damper / Shock Absorber)"
     ],
     "correctAnswer": 3,
-    "explanation": "Stress is force applied per unit area, measured in Pascals (N/m²) or pounds per square inch (psi).",
+    "explanation": "Dashpots damp out mechanical vibrations by forcing fluid through calibrated orifice restrictions.",
     "tags": [
       "engineering",
-      "fluid-dynamics",
+      "mechanical-engineering",
       "hard"
     ],
     "active": true
@@ -760,15 +760,15 @@
     "category": "Engineering",
     "subcategory": "Mechanical Engineering",
     "difficulty": "easy",
-    "question": "In fundamental engineering: What fundamental material property does Young's Modulus quantify? (Ref #37)",
+    "question": "What type of flexible drive element utilizes internal trapezoidal teeth meshing with toothed sprockets to transmit positive rotational drive without slipping?",
     "options": [
-      "Linear tensile elasticity / stiffness of a solid material",
-      "Thermal conductivity",
-      "Electric resistance",
-      "Magnetic permeability"
+      "Timing belt (Synchronous belt)",
+      "V-belt",
+      "Flat leather belt",
+      "Serpentine belt"
     ],
     "correctAnswer": 0,
-    "explanation": "Young's modulus is the ratio of tensile stress to tensile strain within the elastic limit of a material.",
+    "explanation": "Timing belts prevent rotational slippage, ensuring precise angular synchronization between engine crankshafts and camshafts.",
     "tags": [
       "engineering",
       "mechanical-engineering",
@@ -777,85 +777,85 @@
     "active": true
   },
   {
-    "id": "engineering-civil-structures-0038",
+    "id": "engineering-mechanical-engineering-0038",
     "category": "Engineering",
-    "subcategory": "Civil Structures",
+    "subcategory": "Mechanical Engineering",
     "difficulty": "medium",
-    "question": "In fundamental engineering: Which fluid dynamics principle explains why fluid pressure decreases when flow velocity increases through a constriction? (Ref #38)",
+    "question": "What type of mechanical spring stores potential energy by being twisted along its longitudinal axis rather than compressed or extended?",
     "options": [
-      "Archimedes' Principle",
-      "Bernoulli's Principle",
-      "Pascal's Law",
-      "Coulomb's Law"
+      "Helical compression spring",
+      "Torsion bar spring",
+      "Leaf spring",
+      "Belleville disc spring"
     ],
     "correctAnswer": 1,
-    "explanation": "Bernoulli’s equation shows that for an inviscid flow, an increase in fluid speed occurs simultaneously with a decrease in static pressure.",
+    "explanation": "Torsion bars provide compact, low-profile vehicle suspension by resisting angular twist when the control arm rotates.",
     "tags": [
       "engineering",
-      "civil-structures",
+      "mechanical-engineering",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "engineering-materials-science-0039",
+    "id": "engineering-civil-structures-0039",
     "category": "Engineering",
-    "subcategory": "Materials Science",
+    "subcategory": "Civil Structures",
     "difficulty": "hard",
-    "question": "In fundamental engineering: In structural engineering, which structural type is a beam supported at only one end and extending freely into space? (Ref #39)",
+    "question": "What primary internal structural force acts to stretch or pull an engineering structural member apart along its axis?",
     "options": [
-      "Simply supported beam",
-      "Continuous span beam",
-      "Cantilever beam",
-      "Truss arch"
+      "Compression",
+      "Shear",
+      "Tension",
+      "Torsion"
     ],
     "correctAnswer": 2,
-    "explanation": "A cantilever is anchored firmly at a single fixed support, with the other end projecting outward unsupported.",
+    "explanation": "Tension pulls material fibers apart; steel cables and bridge suspension hangers are engineered to carry pure tension.",
     "tags": [
       "engineering",
-      "materials-science",
+      "civil-structures",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "engineering-fluid-dynamics-0040",
+    "id": "engineering-civil-structures-0040",
     "category": "Engineering",
-    "subcategory": "Fluid Dynamics",
+    "subcategory": "Civil Structures",
     "difficulty": "easy",
-    "question": "In fundamental engineering: What mechanical parameter is calculated as the product of applied rotational force and perpendicular distance from the pivot? (Ref #40)",
+    "question": "What primary internal structural force acts to squeeze, push, or crush a structural member together along its axis?",
     "options": [
-      "Power",
-      "Impulse",
-      "Momentum",
-      "Torque (Moment of force)"
+      "Tension",
+      "Bending",
+      "Torsion",
+      "Compression"
     ],
     "correctAnswer": 3,
-    "explanation": "Torque measures the rotational tendency of a force, equal to force times the lever arm perpendicular distance (τ = r × F).",
+    "explanation": "Compression pushes material molecules closer; concrete piers, stone arches, and structural columns operate primarily in compression.",
     "tags": [
       "engineering",
-      "fluid-dynamics",
+      "civil-structures",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "engineering-mechanical-engineering-0041",
+    "id": "engineering-civil-structures-0041",
     "category": "Engineering",
-    "subcategory": "Mechanical Engineering",
+    "subcategory": "Civil Structures",
     "difficulty": "medium",
-    "question": "In fundamental engineering: What physical property is defined in mechanical engineering as internal force divided by cross-sectional area? (Ref #41)",
+    "question": "What primary internal force acts parallel to a structural cross-section, tending to slide adjacent material planes past one another?",
     "options": [
-      "Stress (σ = F / A)",
-      "Strain",
-      "Torque",
-      "Viscosity"
+      "Shear",
+      "Tension",
+      "Compression",
+      "Torsion"
     ],
     "correctAnswer": 0,
-    "explanation": "Stress is force applied per unit area, measured in Pascals (N/m²) or pounds per square inch (psi).",
+    "explanation": "Shear forces occur in structural connection bolts, rivets, and concrete beam webs resisting transverse sliding loads.",
     "tags": [
       "engineering",
-      "mechanical-engineering",
+      "civil-structures",
       "medium"
     ],
     "active": true
@@ -865,15 +865,15 @@
     "category": "Engineering",
     "subcategory": "Civil Structures",
     "difficulty": "hard",
-    "question": "In fundamental engineering: What fundamental material property does Young's Modulus quantify? (Ref #42)",
+    "question": "What structural framework consists of straight members connected at pin joints to form rigid interconnected triangles?",
     "options": [
-      "Thermal conductivity",
-      "Linear tensile elasticity / stiffness of a solid material",
-      "Electric resistance",
-      "Magnetic permeability"
+      "A Portal frame",
+      "A Truss",
+      "A Space dome",
+      "A Cantilever"
     ],
     "correctAnswer": 1,
-    "explanation": "Young's modulus is the ratio of tensile stress to tensile strain within the elastic limit of a material.",
+    "explanation": "Triangles cannot deform without changing member lengths, making trusses lightweight, rigid, and efficient for bridges and roof spans.",
     "tags": [
       "engineering",
       "civil-structures",
@@ -882,64 +882,64 @@
     "active": true
   },
   {
-    "id": "engineering-materials-science-0043",
+    "id": "engineering-civil-structures-0043",
     "category": "Engineering",
-    "subcategory": "Materials Science",
+    "subcategory": "Civil Structures",
     "difficulty": "easy",
-    "question": "In fundamental engineering: Which fluid dynamics principle explains why fluid pressure decreases when flow velocity increases through a constriction? (Ref #43)",
+    "question": "What fundamental assumption is made in the classical 'Method of Joints' analysis of an ideal pin-connected truss?",
     "options": [
-      "Archimedes' Principle",
-      "Pascal's Law",
-      "Bernoulli's Principle",
-      "Coulomb's Law"
+      "Members carry bending moments at the joints",
+      "All members are in compression",
+      "All joints are frictionless pins and all loads are applied exclusively at the joint nodes, producing pure two-force axial tension or compression",
+      "Shear stresses dominate member failure"
     ],
     "correctAnswer": 2,
-    "explanation": "Bernoulli’s equation shows that for an inviscid flow, an increase in fluid speed occurs simultaneously with a decrease in static pressure.",
+    "explanation": "Ideal truss members experience zero bending moments, acting strictly as two-force tension ties or compression struts.",
     "tags": [
       "engineering",
-      "materials-science",
+      "civil-structures",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "engineering-fluid-dynamics-0044",
+    "id": "engineering-civil-structures-0044",
     "category": "Engineering",
-    "subcategory": "Fluid Dynamics",
+    "subcategory": "Civil Structures",
     "difficulty": "medium",
-    "question": "In fundamental engineering: In structural engineering, which structural type is a beam supported at only one end and extending freely into space? (Ref #44)",
+    "question": "In truss bridge terminology, what is a structural member that theoretically carries zero axial force under a specific static loading condition called?",
     "options": [
-      "Simply supported beam",
-      "Continuous span beam",
-      "Truss arch",
-      "Cantilever beam"
+      "A Redundant Member",
+      "A Counter-bracing Strut",
+      "An Idle Tie",
+      "A Zero-Force Member"
     ],
     "correctAnswer": 3,
-    "explanation": "A cantilever is anchored firmly at a single fixed support, with the other end projecting outward unsupported.",
+    "explanation": "Zero-force members provide lateral stability, prevent column buckling of long compression members, and carry transient shifting loads.",
     "tags": [
       "engineering",
-      "fluid-dynamics",
+      "civil-structures",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "engineering-mechanical-engineering-0045",
+    "id": "engineering-civil-structures-0045",
     "category": "Engineering",
-    "subcategory": "Mechanical Engineering",
+    "subcategory": "Civil Structures",
     "difficulty": "hard",
-    "question": "In fundamental engineering: What mechanical parameter is calculated as the product of applied rotational force and perpendicular distance from the pivot? (Ref #45)",
+    "question": "What type of bridge structure transfers vertical gravity loads outward along a curved compressive profile down into massive abutment thrust blocks?",
     "options": [
-      "Torque (Moment of force)",
-      "Power",
-      "Impulse",
-      "Momentum"
+      "An Arch Bridge",
+      "A Suspension Bridge",
+      "A Cable-Stayed Bridge",
+      "A Beam Bridge"
     ],
     "correctAnswer": 0,
-    "explanation": "Torque measures the rotational tendency of a force, equal to force times the lever arm perpendicular distance (τ = r × F).",
+    "explanation": "Arch bridges eliminate tensile stress by keeping structural masonry or steel under continuous compressive thrust.",
     "tags": [
       "engineering",
-      "mechanical-engineering",
+      "civil-structures",
       "hard"
     ],
     "active": true
@@ -949,15 +949,15 @@
     "category": "Engineering",
     "subcategory": "Civil Structures",
     "difficulty": "easy",
-    "question": "In fundamental engineering: What physical property is defined in mechanical engineering as internal force divided by cross-sectional area? (Ref #46)",
+    "question": "What is the central wedge-shaped stone at the summit of a masonry stone arch that locks all adjacent voussoir stones into place?",
     "options": [
-      "Strain",
-      "Stress (σ = F / A)",
-      "Torque",
-      "Viscosity"
+      "The Voussoir",
+      "The Keystone",
+      "The Springing stone",
+      "The Impost"
     ],
     "correctAnswer": 1,
-    "explanation": "Stress is force applied per unit area, measured in Pascals (N/m²) or pounds per square inch (psi).",
+    "explanation": "The keystone bears final compressive loads from both sides, stabilizing the arch and allowing supporting falsework to be removed.",
     "tags": [
       "engineering",
       "civil-structures",
@@ -966,64 +966,64 @@
     "active": true
   },
   {
-    "id": "engineering-materials-science-0047",
+    "id": "engineering-civil-structures-0047",
     "category": "Engineering",
-    "subcategory": "Materials Science",
+    "subcategory": "Civil Structures",
     "difficulty": "medium",
-    "question": "In fundamental engineering: What fundamental material property does Young's Modulus quantify? (Ref #47)",
+    "question": "What type of monumental bridge suspends its roadway deck from vertical suspender cables hung from massive main steel wire catenary cables draped over high towers?",
     "options": [
-      "Thermal conductivity",
-      "Electric resistance",
-      "Linear tensile elasticity / stiffness of a solid material",
-      "Magnetic permeability"
+      "A Cable-Stayed Bridge",
+      "A Continuous Truss Bridge",
+      "A Suspension Bridge",
+      "A Cantilever Bridge"
     ],
     "correctAnswer": 2,
-    "explanation": "Young's modulus is the ratio of tensile stress to tensile strain within the elastic limit of a material.",
+    "explanation": "Main cables carry thousands of tons of tensile force over towers anchored into colossal concrete bedrock anchorages (e.g., Golden Gate Bridge).",
     "tags": [
       "engineering",
-      "materials-science",
+      "civil-structures",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "engineering-fluid-dynamics-0048",
+    "id": "engineering-civil-structures-0048",
     "category": "Engineering",
-    "subcategory": "Fluid Dynamics",
+    "subcategory": "Civil Structures",
     "difficulty": "hard",
-    "question": "In fundamental engineering: Which fluid dynamics principle explains why fluid pressure decreases when flow velocity increases through a constriction? (Ref #48)",
+    "question": "What type of bridge connects its roadway deck directly to support towers using multiple straight, taut diagonal steel stay cables radiating from towers?",
     "options": [
-      "Archimedes' Principle",
-      "Pascal's Law",
-      "Coulomb's Law",
-      "Bernoulli's Principle"
+      "A Suspension Bridge",
+      "A Bowstring Arch Bridge",
+      "A Bascule Bridge",
+      "A Cable-Stayed Bridge"
     ],
     "correctAnswer": 3,
-    "explanation": "Bernoulli’s equation shows that for an inviscid flow, an increase in fluid speed occurs simultaneously with a decrease in static pressure.",
+    "explanation": "Unlike suspension bridges, cable-stayed bridges attach diagonal cables directly to the deck, eliminating massive shoreline anchorages.",
     "tags": [
       "engineering",
-      "fluid-dynamics",
+      "civil-structures",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "engineering-mechanical-engineering-0049",
+    "id": "engineering-civil-structures-0049",
     "category": "Engineering",
-    "subcategory": "Mechanical Engineering",
+    "subcategory": "Civil Structures",
     "difficulty": "easy",
-    "question": "In fundamental engineering: In structural engineering, which structural type is a beam supported at only one end and extending freely into space? (Ref #49)",
+    "question": "What structural beam or member is supported and rigidly fixed at only one end, projecting horizontally into open space with a free overhang?",
     "options": [
-      "Cantilever beam",
-      "Simply supported beam",
-      "Continuous span beam",
-      "Truss arch"
+      "A Cantilever",
+      "A Simple Beam",
+      "A Continuous Beam",
+      "An Overhanging Truss"
     ],
     "correctAnswer": 0,
-    "explanation": "A cantilever is anchored firmly at a single fixed support, with the other end projecting outward unsupported.",
+    "explanation": "Cantilevers experience maximum bending moment and tension on the top surface and compression on the bottom surface at the fixed support.",
     "tags": [
       "engineering",
-      "mechanical-engineering",
+      "civil-structures",
       "easy"
     ],
     "active": true
@@ -1033,15 +1033,15 @@
     "category": "Engineering",
     "subcategory": "Civil Structures",
     "difficulty": "medium",
-    "question": "In fundamental engineering: What mechanical parameter is calculated as the product of applied rotational force and perpendicular distance from the pivot? (Ref #50)",
+    "question": "Why is steel rebar embedded within reinforced concrete structural beams?",
     "options": [
-      "Power",
-      "Torque (Moment of force)",
-      "Impulse",
-      "Momentum"
+      "Steel reduces the weight of concrete",
+      "Concrete is exceptionally strong in compression but weak in tension; steel rebar carries the tensile stresses",
+      "Steel accelerates concrete curing time",
+      "Steel prevents concrete from absorbing moisture"
     ],
     "correctAnswer": 1,
-    "explanation": "Torque measures the rotational tendency of a force, equal to force times the lever arm perpendicular distance (τ = r × F).",
+    "explanation": "Unreinforced concrete cracks under low tensile stress; placing rebar in the tensile zone provides ductile, high-strength structural capacity.",
     "tags": [
       "engineering",
       "civil-structures",
@@ -1050,64 +1050,64 @@
     "active": true
   },
   {
-    "id": "engineering-materials-science-0051",
+    "id": "engineering-civil-structures-0051",
     "category": "Engineering",
-    "subcategory": "Materials Science",
+    "subcategory": "Civil Structures",
     "difficulty": "hard",
-    "question": "In fundamental engineering: What physical property is defined in mechanical engineering as internal force divided by cross-sectional area? (Ref #51)",
+    "question": "What type of concrete has high-strength internal steel tendons tensioned before the liquid concrete is poured and cured around them?",
     "options": [
-      "Strain",
-      "Torque",
-      "Stress (σ = F / A)",
-      "Viscosity"
+      "Post-tensioned Concrete",
+      "Reinforced Concrete",
+      "Pre-tensioned Prestressed Concrete",
+      "Fiber-reinforced Concrete"
     ],
     "correctAnswer": 2,
-    "explanation": "Stress is force applied per unit area, measured in Pascals (N/m²) or pounds per square inch (psi).",
+    "explanation": "Releasing pre-tensioned tendons after curing imparts pre-compression into the concrete, eliminating tensile cracking under live loads.",
     "tags": [
       "engineering",
-      "materials-science",
+      "civil-structures",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "engineering-fluid-dynamics-0052",
+    "id": "engineering-civil-structures-0052",
     "category": "Engineering",
-    "subcategory": "Fluid Dynamics",
+    "subcategory": "Civil Structures",
     "difficulty": "easy",
-    "question": "In fundamental engineering: What fundamental material property does Young's Modulus quantify? (Ref #52)",
+    "question": "What type of concrete involves threading steel cables through internal plastic ducts after the concrete has cured, tensioning them with hydraulic jacks?",
     "options": [
-      "Thermal conductivity",
-      "Electric resistance",
-      "Magnetic permeability",
-      "Linear tensile elasticity / stiffness of a solid material"
+      "Pre-tensioned Concrete",
+      "Conventional Rebar Concrete",
+      "Cast-in-Place Concrete",
+      "Post-tensioned Concrete"
     ],
     "correctAnswer": 3,
-    "explanation": "Young's modulus is the ratio of tensile stress to tensile strain within the elastic limit of a material.",
+    "explanation": "Post-tensioning allows long, slender bridge spans and thin parking garage slabs to carry immense loads without sag.",
     "tags": [
       "engineering",
-      "fluid-dynamics",
+      "civil-structures",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "engineering-mechanical-engineering-0053",
+    "id": "engineering-civil-structures-0053",
     "category": "Engineering",
-    "subcategory": "Mechanical Engineering",
+    "subcategory": "Civil Structures",
     "difficulty": "medium",
-    "question": "In fundamental engineering: Which fluid dynamics principle explains why fluid pressure decreases when flow velocity increases through a constriction? (Ref #53)",
+    "question": "What standard on-site civil engineering test measures the workability, consistency, and moisture fluid content of freshly mixed concrete?",
     "options": [
-      "Bernoulli's Principle",
-      "Archimedes' Principle",
-      "Pascal's Law",
-      "Coulomb's Law"
+      "The Concrete Slump Test",
+      "The Compressive Cylinder Test",
+      "The Air Entrainment Test",
+      "The Vicat Needle Test"
     ],
     "correctAnswer": 0,
-    "explanation": "Bernoulli’s equation shows that for an inviscid flow, an increase in fluid speed occurs simultaneously with a decrease in static pressure.",
+    "explanation": "Fresh concrete is tamped into a conical Abrams cone; the vertical distance the unsupported concrete slumps when the cone is lifted indicates consistency.",
     "tags": [
       "engineering",
-      "mechanical-engineering",
+      "civil-structures",
       "medium"
     ],
     "active": true
@@ -1117,15 +1117,15 @@
     "category": "Engineering",
     "subcategory": "Civil Structures",
     "difficulty": "hard",
-    "question": "In fundamental engineering: In structural engineering, which structural type is a beam supported at only one end and extending freely into space? (Ref #54)",
+    "question": "What standard laboratory cylinder test measures the structural compressive strength of cured concrete, typically measured after 28 days of curing?",
     "options": [
-      "Simply supported beam",
-      "Cantilever beam",
-      "Continuous span beam",
-      "Truss arch"
+      "The Splitting Tensile Test",
+      "The 28-Day Compressive Strength Test (ASTM C39)",
+      "The Modulus of Rupture Test",
+      "The Rebound Hammer Test"
     ],
     "correctAnswer": 1,
-    "explanation": "A cantilever is anchored firmly at a single fixed support, with the other end projecting outward unsupported.",
+    "explanation": "Concrete test cylinders are loaded axially to failure in a calibrated compression press; 28-day strength (f'c) specifies structural design capacity.",
     "tags": [
       "engineering",
       "civil-structures",
@@ -1134,64 +1134,64 @@
     "active": true
   },
   {
-    "id": "engineering-materials-science-0055",
+    "id": "engineering-civil-structures-0055",
     "category": "Engineering",
-    "subcategory": "Materials Science",
+    "subcategory": "Civil Structures",
     "difficulty": "easy",
-    "question": "In fundamental engineering: What mechanical parameter is calculated as the product of applied rotational force and perpendicular distance from the pivot? (Ref #55)",
+    "question": "What structural failure occurs when different parts of a building's foundation settle into the subsoil at unequal rates, causing structural cracking?",
     "options": [
-      "Power",
-      "Impulse",
-      "Torque (Moment of force)",
-      "Momentum"
+      "Uniform Settlement",
+      "Liquefaction",
+      "Differential Settlement",
+      "Subsidence"
     ],
     "correctAnswer": 2,
-    "explanation": "Torque measures the rotational tendency of a force, equal to force times the lever arm perpendicular distance (τ = r × F).",
+    "explanation": "Unequal soil consolidation beneath foundations distorts building frames, cracking walls and jamming doors and windows.",
     "tags": [
       "engineering",
-      "materials-science",
+      "civil-structures",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "engineering-fluid-dynamics-0056",
+    "id": "engineering-civil-structures-0056",
     "category": "Engineering",
-    "subcategory": "Fluid Dynamics",
+    "subcategory": "Civil Structures",
     "difficulty": "medium",
-    "question": "In fundamental engineering: What physical property is defined in mechanical engineering as internal force divided by cross-sectional area? (Ref #56)",
+    "question": "What geological phenomenon occurs when saturated, loosely packed granular soil temporarily loses all shear strength during earthquake shaking, behaving like a liquid?",
     "options": [
-      "Strain",
-      "Torque",
-      "Viscosity",
-      "Stress (σ = F / A)"
+      "Soil Compaction",
+      "Slope Creep",
+      "Frost Heave",
+      "Soil Liquefaction"
     ],
     "correctAnswer": 3,
-    "explanation": "Stress is force applied per unit area, measured in Pascals (N/m²) or pounds per square inch (psi).",
+    "explanation": "Pore water pressure rises rapidly during seismic shear waves, suspending sand grains and causing heavy structures to sink or tilt.",
     "tags": [
       "engineering",
-      "fluid-dynamics",
+      "civil-structures",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "engineering-mechanical-engineering-0057",
+    "id": "engineering-civil-structures-0057",
     "category": "Engineering",
-    "subcategory": "Mechanical Engineering",
+    "subcategory": "Civil Structures",
     "difficulty": "hard",
-    "question": "In fundamental engineering: What fundamental material property does Young's Modulus quantify? (Ref #57)",
+    "question": "What type of deep structural foundation utilizes long steel, timber, or concrete columns driven deep into the ground to reach solid bedrock or competent load-bearing strata?",
     "options": [
-      "Linear tensile elasticity / stiffness of a solid material",
-      "Thermal conductivity",
-      "Electric resistance",
-      "Magnetic permeability"
+      "Pile Foundation (Piles)",
+      "Spread Footing",
+      "Mat Foundation (Raft)",
+      "Slab-on-Grade"
     ],
     "correctAnswer": 0,
-    "explanation": "Young's modulus is the ratio of tensile stress to tensile strain within the elastic limit of a material.",
+    "explanation": "Driven piles or drilled caissons transfer superstructural loads past weak superficial soils to competent bearing rock layers.",
     "tags": [
       "engineering",
-      "mechanical-engineering",
+      "civil-structures",
       "hard"
     ],
     "active": true
@@ -1201,15 +1201,15 @@
     "category": "Engineering",
     "subcategory": "Civil Structures",
     "difficulty": "easy",
-    "question": "In fundamental engineering: Which fluid dynamics principle explains why fluid pressure decreases when flow velocity increases through a constriction? (Ref #58)",
+    "question": "What type of shallow foundation consists of a continuous thick reinforced concrete slab supporting an entire building structure over weak soil?",
     "options": [
-      "Archimedes' Principle",
-      "Bernoulli's Principle",
-      "Pascal's Law",
-      "Coulomb's Law"
+      "Isolated Spread Footing",
+      "Mat Foundation (Raft Foundation)",
+      "Strip Footing",
+      "Friction Pile"
     ],
     "correctAnswer": 1,
-    "explanation": "Bernoulli’s equation shows that for an inviscid flow, an increase in fluid speed occurs simultaneously with a decrease in static pressure.",
+    "explanation": "A raft foundation distributes the total weight of the structure over its entire footprint area, minimizing differential settlement.",
     "tags": [
       "engineering",
       "civil-structures",
@@ -1218,64 +1218,64 @@
     "active": true
   },
   {
-    "id": "engineering-materials-science-0059",
+    "id": "engineering-civil-structures-0059",
     "category": "Engineering",
-    "subcategory": "Materials Science",
+    "subcategory": "Civil Structures",
     "difficulty": "medium",
-    "question": "In fundamental engineering: In structural engineering, which structural type is a beam supported at only one end and extending freely into space? (Ref #59)",
+    "question": "What civil engineering retaining structure holds back soil or rock embankments from collapsing onto roadways, basements, or railways?",
     "options": [
-      "Simply supported beam",
-      "Continuous span beam",
-      "Cantilever beam",
-      "Truss arch"
+      "A Sheet Pile Bulkhead",
+      "A Cofferdam",
+      "A Retaining Wall",
+      "A Curtain Wall"
     ],
     "correctAnswer": 2,
-    "explanation": "A cantilever is anchored firmly at a single fixed support, with the other end projecting outward unsupported.",
+    "explanation": "Gravity, cantilever, and anchored retaining walls resist active lateral earth pressure exerted by retained soil wedges.",
     "tags": [
       "engineering",
-      "materials-science",
+      "civil-structures",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "engineering-fluid-dynamics-0060",
+    "id": "engineering-civil-structures-0060",
     "category": "Engineering",
-    "subcategory": "Fluid Dynamics",
+    "subcategory": "Civil Structures",
     "difficulty": "hard",
-    "question": "In fundamental engineering: What mechanical parameter is calculated as the product of applied rotational force and perpendicular distance from the pivot? (Ref #60)",
+    "question": "What permanent, constant gravitational load acts on a building structure, composed of the weight of structural elements, walls, floors, and permanent fixtures?",
     "options": [
-      "Power",
-      "Impulse",
-      "Momentum",
-      "Torque (Moment of force)"
+      "Live Load",
+      "Wind Load",
+      "Seismic Load",
+      "Dead Load"
     ],
     "correctAnswer": 3,
-    "explanation": "Torque measures the rotational tendency of a force, equal to force times the lever arm perpendicular distance (τ = r × F).",
+    "explanation": "Dead loads remain stationary and predictable over the lifespan of the structure (steel beams, concrete slabs, roofing).",
     "tags": [
       "engineering",
-      "fluid-dynamics",
+      "civil-structures",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "engineering-mechanical-engineering-0061",
+    "id": "engineering-civil-structures-0061",
     "category": "Engineering",
-    "subcategory": "Mechanical Engineering",
+    "subcategory": "Civil Structures",
     "difficulty": "easy",
-    "question": "In fundamental engineering: What physical property is defined in mechanical engineering as internal force divided by cross-sectional area? (Ref #61)",
+    "question": "What temporary, variable load acts on a building structure, composed of human occupants, furniture, movable equipment, and vehicles?",
     "options": [
-      "Stress (σ = F / A)",
-      "Strain",
-      "Torque",
-      "Viscosity"
+      "Live Load",
+      "Dead Load",
+      "Environmental Load",
+      "Impact Load"
     ],
     "correctAnswer": 0,
-    "explanation": "Stress is force applied per unit area, measured in Pascals (N/m²) or pounds per square inch (psi).",
+    "explanation": "Live loads fluctuate over time, requiring building codes to prescribe minimum design floor capacity (e.g., 50 lbs/ft2 for offices).",
     "tags": [
       "engineering",
-      "mechanical-engineering",
+      "civil-structures",
       "easy"
     ],
     "active": true
@@ -1285,15 +1285,15 @@
     "category": "Engineering",
     "subcategory": "Civil Structures",
     "difficulty": "medium",
-    "question": "In fundamental engineering: What fundamental material property does Young's Modulus quantify? (Ref #62)",
+    "question": "What type of non-structural exterior building facade hangs from the building's structural frame, carrying only its own dead load and wind pressure?",
     "options": [
-      "Thermal conductivity",
-      "Linear tensile elasticity / stiffness of a solid material",
-      "Electric resistance",
-      "Magnetic permeability"
+      "A Bearing Wall",
+      "A Curtain Wall",
+      "A Shear Wall",
+      "A Parapet"
     ],
     "correctAnswer": 1,
-    "explanation": "Young's modulus is the ratio of tensile stress to tensile strain within the elastic limit of a material.",
+    "explanation": "Curtain walls made of lightweight glass and aluminum enclose the building envelope without supporting floor or roof gravity loads.",
     "tags": [
       "engineering",
       "civil-structures",
@@ -1302,64 +1302,64 @@
     "active": true
   },
   {
-    "id": "engineering-materials-science-0063",
+    "id": "engineering-civil-structures-0063",
     "category": "Engineering",
-    "subcategory": "Materials Science",
+    "subcategory": "Civil Structures",
     "difficulty": "hard",
-    "question": "In fundamental engineering: Which fluid dynamics principle explains why fluid pressure decreases when flow velocity increases through a constriction? (Ref #63)",
+    "question": "What rigid vertical reinforced concrete or masonry wall is engineered specifically to resist lateral wind and seismic lateral shear forces?",
     "options": [
-      "Archimedes' Principle",
-      "Pascal's Law",
-      "Bernoulli's Principle",
-      "Coulomb's Law"
+      "A Curtain Wall",
+      "A Partition Wall",
+      "A Shear Wall",
+      "A Retaining Wall"
     ],
     "correctAnswer": 2,
-    "explanation": "Bernoulli’s equation shows that for an inviscid flow, an increase in fluid speed occurs simultaneously with a decrease in static pressure.",
+    "explanation": "Shear walls provide immense in-plane stiffness, preventing buildings from racking or twisting during hurricane winds and earthquakes.",
     "tags": [
       "engineering",
-      "materials-science",
+      "civil-structures",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "engineering-fluid-dynamics-0064",
+    "id": "engineering-civil-structures-0064",
     "category": "Engineering",
-    "subcategory": "Fluid Dynamics",
+    "subcategory": "Civil Structures",
     "difficulty": "easy",
-    "question": "In fundamental engineering: In structural engineering, which structural type is a beam supported at only one end and extending freely into space? (Ref #64)",
+    "question": "What structural earthquake engineering technology separates a building superstructure from its foundation using flexible elastomeric rubber bearings to absorb ground motion?",
     "options": [
-      "Simply supported beam",
-      "Continuous span beam",
-      "Truss arch",
-      "Cantilever beam"
+      "Tuned Mass Damping",
+      "Moment-Resisting Framing",
+      "Cross-Bracing",
+      "Base Isolation"
     ],
     "correctAnswer": 3,
-    "explanation": "A cantilever is anchored firmly at a single fixed support, with the other end projecting outward unsupported.",
+    "explanation": "Base isolators decouple the building from ground shaking, dramatically reducing seismic acceleration transmitted into the floors.",
     "tags": [
       "engineering",
-      "fluid-dynamics",
+      "civil-structures",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "engineering-mechanical-engineering-0065",
+    "id": "engineering-civil-structures-0065",
     "category": "Engineering",
-    "subcategory": "Mechanical Engineering",
+    "subcategory": "Civil Structures",
     "difficulty": "medium",
-    "question": "In fundamental engineering: What mechanical parameter is calculated as the product of applied rotational force and perpendicular distance from the pivot? (Ref #65)",
+    "question": "What massive suspended pendulum or liquid sloshing system installed atop skyscrapers (such as Taipei 101) counteracts wind-induced sway oscillations?",
     "options": [
-      "Torque (Moment of force)",
-      "Power",
-      "Impulse",
-      "Momentum"
+      "Tuned Mass Damper (TMD)",
+      "Base Isolator",
+      "Viscous Damper",
+      "Seismic Shear Wall"
     ],
     "correctAnswer": 0,
-    "explanation": "Torque measures the rotational tendency of a force, equal to force times the lever arm perpendicular distance (τ = r × F).",
+    "explanation": "A tuned mass damper oscillates out of phase with the building's natural frequency, absorbing kinetic energy and reducing motion sickness.",
     "tags": [
       "engineering",
-      "mechanical-engineering",
+      "civil-structures",
       "medium"
     ],
     "active": true
@@ -1369,15 +1369,15 @@
     "category": "Engineering",
     "subcategory": "Civil Structures",
     "difficulty": "hard",
-    "question": "In fundamental engineering: What physical property is defined in mechanical engineering as internal force divided by cross-sectional area? (Ref #66)",
+    "question": "What structural joint intentional gap allows adjacent concrete slabs or bridge spans to expand and contract with seasonal ambient temperature changes without cracking?",
     "options": [
-      "Strain",
-      "Stress (σ = F / A)",
-      "Torque",
-      "Viscosity"
+      "A Construction Joint",
+      "An Expansion Joint",
+      "A Control Joint",
+      "An Isolation Joint"
     ],
     "correctAnswer": 1,
-    "explanation": "Stress is force applied per unit area, measured in Pascals (N/m²) or pounds per square inch (psi).",
+    "explanation": "Expansion joints feature elastomeric seals or interlocking finger joints, accommodating thermal elongation without buckling.",
     "tags": [
       "engineering",
       "civil-structures",
@@ -1386,64 +1386,64 @@
     "active": true
   },
   {
-    "id": "engineering-materials-science-0067",
+    "id": "engineering-civil-structures-0067",
     "category": "Engineering",
-    "subcategory": "Materials Science",
+    "subcategory": "Civil Structures",
     "difficulty": "easy",
-    "question": "In fundamental engineering: What fundamental material property does Young's Modulus quantify? (Ref #67)",
+    "question": "What shallow groove saw-cut into curing concrete slabs encourages shrinkage cracks to occur along neat, predictable lines rather than randomly?",
     "options": [
-      "Thermal conductivity",
-      "Electric resistance",
-      "Linear tensile elasticity / stiffness of a solid material",
-      "Magnetic permeability"
+      "An Expansion Joint",
+      "A Construction Joint",
+      "A Contraction Joint (Control Joint)",
+      "A Cold Joint"
     ],
     "correctAnswer": 2,
-    "explanation": "Young's modulus is the ratio of tensile stress to tensile strain within the elastic limit of a material.",
+    "explanation": "Cutting grooves 1/4 the depth of the slab creates a plane of weakness that concentrates tensile drying shrinkage cracks out of sight.",
     "tags": [
       "engineering",
-      "materials-science",
+      "civil-structures",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "engineering-fluid-dynamics-0068",
+    "id": "engineering-civil-structures-0068",
     "category": "Engineering",
-    "subcategory": "Fluid Dynamics",
+    "subcategory": "Civil Structures",
     "difficulty": "medium",
-    "question": "In fundamental engineering: Which fluid dynamics principle explains why fluid pressure decreases when flow velocity increases through a constriction? (Ref #68)",
+    "question": "What type of movable bridge opens by rotating its counterweighted leaves upward and backward around a horizontal trunnion axle, like London's Tower Bridge?",
     "options": [
-      "Archimedes' Principle",
-      "Pascal's Law",
-      "Coulomb's Law",
-      "Bernoulli's Principle"
+      "A Vertical Lift Bridge",
+      "A Swing Bridge",
+      "A Transporter Bridge",
+      "A Bascule Bridge (Drawbridge)"
     ],
     "correctAnswer": 3,
-    "explanation": "Bernoulli’s equation shows that for an inviscid flow, an increase in fluid speed occurs simultaneously with a decrease in static pressure.",
+    "explanation": "Counterweights balance bascule leaves perfectly, allowing electric motors to open multi-thousand-ton spans with minimal power.",
     "tags": [
       "engineering",
-      "fluid-dynamics",
+      "civil-structures",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "engineering-mechanical-engineering-0069",
+    "id": "engineering-civil-structures-0069",
     "category": "Engineering",
-    "subcategory": "Mechanical Engineering",
+    "subcategory": "Civil Structures",
     "difficulty": "hard",
-    "question": "In fundamental engineering: In structural engineering, which structural type is a beam supported at only one end and extending freely into space? (Ref #69)",
+    "question": "What type of movable bridge pivots horizontally around a central vertical turntable pier to open navigation channels for marine vessels?",
     "options": [
-      "Cantilever beam",
-      "Simply supported beam",
-      "Continuous span beam",
-      "Truss arch"
+      "A Swing Bridge",
+      "A Bascule Bridge",
+      "A Lift Bridge",
+      "A Pontoon Bridge"
     ],
     "correctAnswer": 0,
-    "explanation": "A cantilever is anchored firmly at a single fixed support, with the other end projecting outward unsupported.",
+    "explanation": "Swing spans rotate 90 degrees around a central pivot pier, opening two navigation channels simultaneously on either side.",
     "tags": [
       "engineering",
-      "mechanical-engineering",
+      "civil-structures",
       "hard"
     ],
     "active": true
@@ -1453,15 +1453,15 @@
     "category": "Engineering",
     "subcategory": "Civil Structures",
     "difficulty": "easy",
-    "question": "In fundamental engineering: What mechanical parameter is calculated as the product of applied rotational force and perpendicular distance from the pivot? (Ref #70)",
+    "question": "What type of movable bridge raises its horizontal roadway span vertically upward between two support towers like an elevator?",
     "options": [
-      "Power",
-      "Torque (Moment of force)",
-      "Impulse",
-      "Momentum"
+      "A Bascule Bridge",
+      "A Vertical Lift Bridge",
+      "A Swing Bridge",
+      "A Cable-Stayed Bridge"
     ],
     "correctAnswer": 1,
-    "explanation": "Torque measures the rotational tendency of a force, equal to force times the lever arm perpendicular distance (τ = r × F).",
+    "explanation": "Counterweighted towers lift the horizontal span skyward, providing high vertical clearance while keeping the deck level.",
     "tags": [
       "engineering",
       "civil-structures",
@@ -1470,64 +1470,64 @@
     "active": true
   },
   {
-    "id": "engineering-materials-science-0071",
+    "id": "engineering-civil-structures-0071",
     "category": "Engineering",
-    "subcategory": "Materials Science",
+    "subcategory": "Civil Structures",
     "difficulty": "medium",
-    "question": "In fundamental engineering: What physical property is defined in mechanical engineering as internal force divided by cross-sectional area? (Ref #71)",
+    "question": "What hydraulic structure constructed across a river impounds water to create an artificial reservoir for municipal water storage, flood control, or hydroelectric generation?",
     "options": [
-      "Strain",
-      "Torque",
-      "Stress (σ = F / A)",
-      "Viscosity"
+      "A Levee",
+      "A Weir",
+      "A Dam",
+      "An Aqueduct"
     ],
     "correctAnswer": 2,
-    "explanation": "Stress is force applied per unit area, measured in Pascals (N/m²) or pounds per square inch (psi).",
+    "explanation": "Dams are categorized by structural type: concrete gravity dams, concrete arch dams, buttress dams, and embankment earthfill dams.",
     "tags": [
       "engineering",
-      "materials-science",
+      "civil-structures",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "engineering-fluid-dynamics-0072",
+    "id": "engineering-civil-structures-0072",
     "category": "Engineering",
-    "subcategory": "Fluid Dynamics",
+    "subcategory": "Civil Structures",
     "difficulty": "hard",
-    "question": "In fundamental engineering: What fundamental material property does Young's Modulus quantify? (Ref #72)",
+    "question": "What type of massive concrete dam resists the horizontal hydrostatic water pressure of the reservoir entirely by its own massive gravitational weight?",
     "options": [
-      "Thermal conductivity",
-      "Electric resistance",
-      "Magnetic permeability",
-      "Linear tensile elasticity / stiffness of a solid material"
+      "An Arch Dam",
+      "An Embankment Dam",
+      "A Buttress Dam",
+      "A Concrete Gravity Dam (e.g., Grand Coulee Dam)"
     ],
     "correctAnswer": 3,
-    "explanation": "Young's modulus is the ratio of tensile stress to tensile strain within the elastic limit of a material.",
+    "explanation": "Gravity dams require solid rock foundations to resist horizontal sliding and overturning moments caused by water pressure.",
     "tags": [
       "engineering",
-      "fluid-dynamics",
+      "civil-structures",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "engineering-mechanical-engineering-0073",
+    "id": "engineering-civil-structures-0073",
     "category": "Engineering",
-    "subcategory": "Mechanical Engineering",
+    "subcategory": "Civil Structures",
     "difficulty": "easy",
-    "question": "In fundamental engineering: Which fluid dynamics principle explains why fluid pressure decreases when flow velocity increases through a constriction? (Ref #73)",
+    "question": "What type of slender concrete dam curves upstream toward the reservoir, transmitting hydrostatic water pressure into the solid rock canyon abutment walls?",
     "options": [
-      "Bernoulli's Principle",
-      "Archimedes' Principle",
-      "Pascal's Law",
-      "Coulomb's Law"
+      "A Concrete Arch Dam (e.g., Hoover Dam)",
+      "A Gravity Dam",
+      "An Earthfill Dam",
+      "A Rockfill Dam"
     ],
     "correctAnswer": 0,
-    "explanation": "Bernoulli’s equation shows that for an inviscid flow, an increase in fluid speed occurs simultaneously with a decrease in static pressure.",
+    "explanation": "Arch dams utilize structural arch compressive action, requiring far less concrete volume than comparable gravity dams.",
     "tags": [
       "engineering",
-      "mechanical-engineering",
+      "civil-structures",
       "easy"
     ],
     "active": true
@@ -1537,15 +1537,15 @@
     "category": "Engineering",
     "subcategory": "Civil Structures",
     "difficulty": "medium",
-    "question": "In fundamental engineering: In structural engineering, which structural type is a beam supported at only one end and extending freely into space? (Ref #74)",
+    "question": "What safety structure in a dam provides controlled release of surplus floodwater flows to prevent overtopping and catastrophic dam breach?",
     "options": [
-      "Simply supported beam",
-      "Cantilever beam",
-      "Continuous span beam",
-      "Truss arch"
+      "A Penstock",
+      "A Spillway",
+      "A Sluice Gate",
+      "A Tailrace"
     ],
     "correctAnswer": 1,
-    "explanation": "A cantilever is anchored firmly at a single fixed support, with the other end projecting outward unsupported.",
+    "explanation": "Spillways prevent floodwaters from overtopping the crest of the dam, which causes rapid erosive failure in embankment dams.",
     "tags": [
       "engineering",
       "civil-structures",
@@ -1554,85 +1554,85 @@
     "active": true
   },
   {
-    "id": "engineering-materials-science-0075",
+    "id": "engineering-civil-structures-0075",
     "category": "Engineering",
-    "subcategory": "Materials Science",
+    "subcategory": "Civil Structures",
     "difficulty": "hard",
-    "question": "In fundamental engineering: What mechanical parameter is calculated as the product of applied rotational force and perpendicular distance from the pivot? (Ref #75)",
+    "question": "What high-pressure conduit or pipeline carries water under head pressure from a dam reservoir directly into hydroelectric turbines?",
     "options": [
-      "Power",
-      "Impulse",
-      "Torque (Moment of force)",
-      "Momentum"
+      "A Tailrace",
+      "A Spillway",
+      "A Penstock",
+      "A Flume"
     ],
     "correctAnswer": 2,
-    "explanation": "Torque measures the rotational tendency of a force, equal to force times the lever arm perpendicular distance (τ = r × F).",
+    "explanation": "Steel penstocks deliver water at high velocity and pressure to spin Francis or Pelton turbines before exiting into the tailrace.",
     "tags": [
       "engineering",
-      "materials-science",
+      "civil-structures",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "engineering-fluid-dynamics-0076",
+    "id": "engineering-civil-structures-0076",
     "category": "Engineering",
-    "subcategory": "Fluid Dynamics",
+    "subcategory": "Civil Structures",
     "difficulty": "easy",
-    "question": "In fundamental engineering: What physical property is defined in mechanical engineering as internal force divided by cross-sectional area? (Ref #76)",
+    "question": "What artificial earthen or concrete barrier constructed parallel to a river channel confines floodwaters within the river channel to protect adjacent floodplains?",
     "options": [
-      "Strain",
-      "Torque",
-      "Viscosity",
-      "Stress (σ = F / A)"
+      "A Dam",
+      "A Seawall",
+      "A Breakwater",
+      "A Levee (or Dike)"
     ],
     "correctAnswer": 3,
-    "explanation": "Stress is force applied per unit area, measured in Pascals (N/m²) or pounds per square inch (psi).",
+    "explanation": "Levees parallel river banks to prevent inundation of surrounding low-lying residential, industrial, and agricultural lands.",
     "tags": [
       "engineering",
-      "fluid-dynamics",
+      "civil-structures",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "engineering-mechanical-engineering-0077",
+    "id": "engineering-materials-science-0077",
     "category": "Engineering",
-    "subcategory": "Mechanical Engineering",
+    "subcategory": "Materials Science",
     "difficulty": "medium",
-    "question": "In fundamental engineering: What fundamental material property does Young's Modulus quantify? (Ref #77)",
+    "question": "On an engineering stress-strain curve, what is the initial linear slope region where deformation is completely reversible upon load removal?",
     "options": [
-      "Linear tensile elasticity / stiffness of a solid material",
-      "Thermal conductivity",
-      "Electric resistance",
-      "Magnetic permeability"
+      "The Elastic Region (Young's Modulus)",
+      "The Plastic Region",
+      "The Strain Hardening Region",
+      "The Necking Region"
     ],
     "correctAnswer": 0,
-    "explanation": "Young's modulus is the ratio of tensile stress to tensile strain within the elastic limit of a material.",
+    "explanation": "In the elastic region, atomic bonds stretch reversibly; removing the applied stress allows atoms to return to their original lattice positions.",
     "tags": [
       "engineering",
-      "mechanical-engineering",
+      "materials-science",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "engineering-civil-structures-0078",
+    "id": "engineering-materials-science-0078",
     "category": "Engineering",
-    "subcategory": "Civil Structures",
+    "subcategory": "Materials Science",
     "difficulty": "hard",
-    "question": "In fundamental engineering: Which fluid dynamics principle explains why fluid pressure decreases when flow velocity increases through a constriction? (Ref #78)",
+    "question": "What fundamental physical modulus measures the tensile or compressive stiffness of a solid material, defined as the ratio of tensile stress to tensile strain?",
     "options": [
-      "Archimedes' Principle",
-      "Bernoulli's Principle",
-      "Pascal's Law",
-      "Coulomb's Law"
+      "Shear Modulus (G)",
+      "Young's Modulus (Modulus of Elasticity, E)",
+      "Bulk Modulus (K)",
+      "Poisson's Ratio (nu)"
     ],
     "correctAnswer": 1,
-    "explanation": "Bernoulli’s equation shows that for an inviscid flow, an increase in fluid speed occurs simultaneously with a decrease in static pressure.",
+    "explanation": "Young's modulus (E = sigma / epsilon) quantifies stiffness; steel has an E of ~200 GPa, compared to ~70 GPa for aluminum.",
     "tags": [
       "engineering",
-      "civil-structures",
+      "materials-science",
       "hard"
     ],
     "active": true
@@ -1642,15 +1642,15 @@
     "category": "Engineering",
     "subcategory": "Materials Science",
     "difficulty": "easy",
-    "question": "In fundamental engineering: In structural engineering, which structural type is a beam supported at only one end and extending freely into space? (Ref #79)",
+    "question": "What point on the engineering stress-strain curve marks the transition from elastic, reversible deformation to permanent, irreversible plastic deformation?",
     "options": [
-      "Simply supported beam",
-      "Continuous span beam",
-      "Cantilever beam",
-      "Truss arch"
+      "The Proportional Limit",
+      "The Ultimate Tensile Strength",
+      "The Yield Point (Yield Strength, sigma_y)",
+      "The Fracture Point"
     ],
     "correctAnswer": 2,
-    "explanation": "A cantilever is anchored firmly at a single fixed support, with the other end projecting outward unsupported.",
+    "explanation": "Beyond the yield strength, atomic planes slip irreversibly past one another along crystal slip planes (dislocation motion).",
     "tags": [
       "engineering",
       "materials-science",
@@ -1659,64 +1659,64 @@
     "active": true
   },
   {
-    "id": "engineering-fluid-dynamics-0080",
+    "id": "engineering-materials-science-0080",
     "category": "Engineering",
-    "subcategory": "Fluid Dynamics",
+    "subcategory": "Materials Science",
     "difficulty": "medium",
-    "question": "In fundamental engineering: What mechanical parameter is calculated as the product of applied rotational force and perpendicular distance from the pivot? (Ref #80)",
+    "question": "What point on the stress-strain curve represents the maximum engineering tensile stress that a material can withstand before localized necking begins?",
     "options": [
-      "Power",
-      "Impulse",
-      "Momentum",
-      "Torque (Moment of force)"
+      "Yield Strength",
+      "Fracture Strength",
+      "Proportional Limit",
+      "Ultimate Tensile Strength (UTS)"
     ],
     "correctAnswer": 3,
-    "explanation": "Torque measures the rotational tendency of a force, equal to force times the lever arm perpendicular distance (τ = r × F).",
+    "explanation": "UTS is the peak point on the engineering stress-strain curve; beyond UTS, cross-sectional area thins rapidly into a localized neck.",
     "tags": [
       "engineering",
-      "fluid-dynamics",
+      "materials-science",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "engineering-mechanical-engineering-0081",
+    "id": "engineering-materials-science-0081",
     "category": "Engineering",
-    "subcategory": "Mechanical Engineering",
+    "subcategory": "Materials Science",
     "difficulty": "hard",
-    "question": "In fundamental engineering: What physical property is defined in mechanical engineering as internal force divided by cross-sectional area? (Ref #81)",
+    "question": "What dimensionless ratio measures the transverse contraction strain to longitudinal extension strain when a material is stretched in tension?",
     "options": [
-      "Stress (σ = F / A)",
-      "Strain",
-      "Torque",
-      "Viscosity"
+      "Poisson's Ratio (nu)",
+      "Young's Modulus",
+      "Shear Modulus",
+      "Bulk Modulus"
     ],
     "correctAnswer": 0,
-    "explanation": "Stress is force applied per unit area, measured in Pascals (N/m²) or pounds per square inch (psi).",
+    "explanation": "Most engineering metals have a Poisson's ratio around 0.3; stretching a cylinder causes its diameter to contract proportionally.",
     "tags": [
       "engineering",
-      "mechanical-engineering",
+      "materials-science",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "engineering-civil-structures-0082",
+    "id": "engineering-materials-science-0082",
     "category": "Engineering",
-    "subcategory": "Civil Structures",
+    "subcategory": "Materials Science",
     "difficulty": "easy",
-    "question": "In fundamental engineering: What fundamental material property does Young's Modulus quantify? (Ref #82)",
+    "question": "What fundamental modulus measures a material's resistance to shear deformation, defined as the ratio of shear stress to shear strain?",
     "options": [
-      "Thermal conductivity",
-      "Linear tensile elasticity / stiffness of a solid material",
-      "Electric resistance",
-      "Magnetic permeability"
+      "Young's Modulus",
+      "Shear Modulus (Modulus of Rigidity, G)",
+      "Bulk Modulus",
+      "Poisson's Ratio"
     ],
     "correctAnswer": 1,
-    "explanation": "Young's modulus is the ratio of tensile stress to tensile strain within the elastic limit of a material.",
+    "explanation": "For isotropic materials, Shear Modulus G is related to Young's Modulus E and Poisson's ratio by G = E / [2(1 + nu)].",
     "tags": [
       "engineering",
-      "civil-structures",
+      "materials-science",
       "easy"
     ],
     "active": true
@@ -1726,15 +1726,15 @@
     "category": "Engineering",
     "subcategory": "Materials Science",
     "difficulty": "medium",
-    "question": "In fundamental engineering: Which fluid dynamics principle explains why fluid pressure decreases when flow velocity increases through a constriction? (Ref #83)",
+    "question": "What mechanical property defines a material's ability to undergo significant plastic deformation under tensile stress before fracturing (e.g., drawing into wires)?",
     "options": [
-      "Archimedes' Principle",
-      "Pascal's Law",
-      "Bernoulli's Principle",
-      "Coulomb's Law"
+      "Brittleness",
+      "Hardness",
+      "Ductility",
+      "Malleability"
     ],
     "correctAnswer": 2,
-    "explanation": "Bernoulli’s equation shows that for an inviscid flow, an increase in fluid speed occurs simultaneously with a decrease in static pressure.",
+    "explanation": "Ductility is measured by percent elongation or percent reduction in area; ductile metals (copper, mild steel) display substantial necking.",
     "tags": [
       "engineering",
       "materials-science",
@@ -1743,64 +1743,64 @@
     "active": true
   },
   {
-    "id": "engineering-fluid-dynamics-0084",
+    "id": "engineering-materials-science-0084",
     "category": "Engineering",
-    "subcategory": "Fluid Dynamics",
+    "subcategory": "Materials Science",
     "difficulty": "hard",
-    "question": "In fundamental engineering: In structural engineering, which structural type is a beam supported at only one end and extending freely into space? (Ref #84)",
+    "question": "What mechanical property describes a material that exhibits little to no plastic deformation prior to fracture, snapping abruptly under stress?",
     "options": [
-      "Simply supported beam",
-      "Continuous span beam",
-      "Truss arch",
-      "Cantilever beam"
+      "Ductility",
+      "Toughness",
+      "Resilience",
+      "Brittleness"
     ],
     "correctAnswer": 3,
-    "explanation": "A cantilever is anchored firmly at a single fixed support, with the other end projecting outward unsupported.",
+    "explanation": "Brittle materials (cast iron, glass, unreinforced ceramics) fracture suddenly along cleavage planes without warning necking.",
     "tags": [
       "engineering",
-      "fluid-dynamics",
+      "materials-science",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "engineering-mechanical-engineering-0085",
+    "id": "engineering-materials-science-0085",
     "category": "Engineering",
-    "subcategory": "Mechanical Engineering",
+    "subcategory": "Materials Science",
     "difficulty": "easy",
-    "question": "In fundamental engineering: What mechanical parameter is calculated as the product of applied rotational force and perpendicular distance from the pivot? (Ref #85)",
+    "question": "What mechanical property defines a material's capacity to absorb mechanical energy and deform plastically up to the point of fracture without breaking?",
     "options": [
-      "Torque (Moment of force)",
-      "Power",
-      "Impulse",
-      "Momentum"
+      "Toughness",
+      "Hardness",
+      "Resilience",
+      "Elasticity"
     ],
     "correctAnswer": 0,
-    "explanation": "Torque measures the rotational tendency of a force, equal to force times the lever arm perpendicular distance (τ = r × F).",
+    "explanation": "Toughness equals the total area under the complete stress-strain curve up to fracture, combining both high strength and high ductility.",
     "tags": [
       "engineering",
-      "mechanical-engineering",
+      "materials-science",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "engineering-civil-structures-0086",
+    "id": "engineering-materials-science-0086",
     "category": "Engineering",
-    "subcategory": "Civil Structures",
+    "subcategory": "Materials Science",
     "difficulty": "medium",
-    "question": "In fundamental engineering: What physical property is defined in mechanical engineering as internal force divided by cross-sectional area? (Ref #86)",
+    "question": "What mechanical property defines a material's ability to absorb elastic energy when deformed and release that energy upon unloading without permanent deformation?",
     "options": [
-      "Strain",
-      "Stress (σ = F / A)",
-      "Torque",
-      "Viscosity"
+      "Toughness",
+      "Resilience (Modulus of Resilience)",
+      "Hardness",
+      "Ductility"
     ],
     "correctAnswer": 1,
-    "explanation": "Stress is force applied per unit area, measured in Pascals (N/m²) or pounds per square inch (psi).",
+    "explanation": "Resilience is measured as the area under the linear elastic portion of the stress-strain curve up to the yield point.",
     "tags": [
       "engineering",
-      "civil-structures",
+      "materials-science",
       "medium"
     ],
     "active": true
@@ -1810,15 +1810,15 @@
     "category": "Engineering",
     "subcategory": "Materials Science",
     "difficulty": "hard",
-    "question": "In fundamental engineering: What fundamental material property does Young's Modulus quantify? (Ref #87)",
+    "question": "What standardized mechanical test measures the impact toughness and fracture energy of a notched specimen struck by a swinging pendulum hammer?",
     "options": [
-      "Thermal conductivity",
-      "Electric resistance",
-      "Linear tensile elasticity / stiffness of a solid material",
-      "Magnetic permeability"
+      "The Izod Impact Test",
+      "The Tensile Test",
+      "The Charpy Impact Test (Charpy V-notch)",
+      "The Jominy End-Quench Test"
     ],
     "correctAnswer": 2,
-    "explanation": "Young's modulus is the ratio of tensile stress to tensile strain within the elastic limit of a material.",
+    "explanation": "The Charpy test measures energy absorbed (in Joules) during high-strain-rate impact fracture, identifying ductile-to-brittle transition temperatures.",
     "tags": [
       "engineering",
       "materials-science",
@@ -1827,64 +1827,64 @@
     "active": true
   },
   {
-    "id": "engineering-fluid-dynamics-0088",
+    "id": "engineering-materials-science-0088",
     "category": "Engineering",
-    "subcategory": "Fluid Dynamics",
+    "subcategory": "Materials Science",
     "difficulty": "easy",
-    "question": "In fundamental engineering: Which fluid dynamics principle explains why fluid pressure decreases when flow velocity increases through a constriction? (Ref #88)",
+    "question": "What temperature threshold marks where a metal transitions from exhibiting ductile, energy-absorbing fracture to brittle, catastrophic cleavage fracture?",
     "options": [
-      "Archimedes' Principle",
-      "Pascal's Law",
-      "Coulomb's Law",
-      "Bernoulli's Principle"
+      "The Glass Transition Temperature",
+      "The Curie Point",
+      "The Recrystallization Temperature",
+      "Ductile-to-Brittle Transition Temperature (DBTT)"
     ],
     "correctAnswer": 3,
-    "explanation": "Bernoulli’s equation shows that for an inviscid flow, an increase in fluid speed occurs simultaneously with a decrease in static pressure.",
+    "explanation": "Body-centered cubic (BCC) carbon steels exhibit a DBTT; cold temperatures caused catastrophic brittle hull cracking in WWII Liberty ships.",
     "tags": [
       "engineering",
-      "fluid-dynamics",
+      "materials-science",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "engineering-mechanical-engineering-0089",
+    "id": "engineering-materials-science-0089",
     "category": "Engineering",
-    "subcategory": "Mechanical Engineering",
+    "subcategory": "Materials Science",
     "difficulty": "medium",
-    "question": "In fundamental engineering: In structural engineering, which structural type is a beam supported at only one end and extending freely into space? (Ref #89)",
+    "question": "What standard hardness test indents a material with a diamond cone or hardened steel ball under a major load, reading hardness directly from penetration depth?",
     "options": [
-      "Cantilever beam",
-      "Simply supported beam",
-      "Continuous span beam",
-      "Truss arch"
+      "The Rockwell Hardness Test (HRC / HRB)",
+      "The Brinell Hardness Test",
+      "The Vickers Hardness Test",
+      "The Knoop Microhardness Test"
     ],
     "correctAnswer": 0,
-    "explanation": "A cantilever is anchored firmly at a single fixed support, with the other end projecting outward unsupported.",
+    "explanation": "Rockwell tests are rapid and non-destructive, using minor and major preload depths to calculate hardness without optical microscopes.",
     "tags": [
       "engineering",
-      "mechanical-engineering",
+      "materials-science",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "engineering-civil-structures-0090",
+    "id": "engineering-materials-science-0090",
     "category": "Engineering",
-    "subcategory": "Civil Structures",
+    "subcategory": "Materials Science",
     "difficulty": "hard",
-    "question": "In fundamental engineering: What mechanical parameter is calculated as the product of applied rotational force and perpendicular distance from the pivot? (Ref #90)",
+    "question": "What hardness test presses a 10 mm diameter hardened tungsten carbide ball into a metal surface under a 3,000 kgf load, measuring the resulting indent diameter?",
     "options": [
-      "Power",
-      "Torque (Moment of force)",
-      "Impulse",
-      "Momentum"
+      "The Rockwell Test",
+      "The Brinell Hardness Test (HBW)",
+      "The Vickers Test",
+      "The Mohs Test"
     ],
     "correctAnswer": 1,
-    "explanation": "Torque measures the rotational tendency of a force, equal to force times the lever arm perpendicular distance (τ = r × F).",
+    "explanation": "Brinell hardness averages local grain variations over a large indentation area, standard for castings, forgings, and unmachined steels.",
     "tags": [
       "engineering",
-      "civil-structures",
+      "materials-science",
       "hard"
     ],
     "active": true
@@ -1894,15 +1894,15 @@
     "category": "Engineering",
     "subcategory": "Materials Science",
     "difficulty": "easy",
-    "question": "In fundamental engineering: What physical property is defined in mechanical engineering as internal force divided by cross-sectional area? (Ref #91)",
+    "question": "What line defects within a crystal lattice allow atomic planes to slip past one another at stresses far below theoretical atomic bond strength?",
     "options": [
-      "Strain",
-      "Torque",
-      "Stress (σ = F / A)",
-      "Viscosity"
+      "Vacancies",
+      "Interstitial atoms",
+      "Dislocations (Edge and Screw Dislocations)",
+      "Grain boundaries"
     ],
     "correctAnswer": 2,
-    "explanation": "Stress is force applied per unit area, measured in Pascals (N/m²) or pounds per square inch (psi).",
+    "explanation": "Plastic deformation in crystalline metals occurs through dislocation motion (slip); impeding dislocation movement increases yield strength.",
     "tags": [
       "engineering",
       "materials-science",
@@ -1911,64 +1911,64 @@
     "active": true
   },
   {
-    "id": "engineering-fluid-dynamics-0092",
+    "id": "engineering-materials-science-0092",
     "category": "Engineering",
-    "subcategory": "Fluid Dynamics",
+    "subcategory": "Materials Science",
     "difficulty": "medium",
-    "question": "In fundamental engineering: What fundamental material property does Young's Modulus quantify? (Ref #92)",
+    "question": "What mechanical strengthening mechanism increases metal strength and hardness by plastic deformation at room temperature, multiplying dislocation entanglements?",
     "options": [
-      "Thermal conductivity",
-      "Electric resistance",
-      "Magnetic permeability",
-      "Linear tensile elasticity / stiffness of a solid material"
+      "Annealing",
+      "Tempering",
+      "Sintering",
+      "Work Hardening (Strain Hardening / Cold Working)"
     ],
     "correctAnswer": 3,
-    "explanation": "Young's modulus is the ratio of tensile stress to tensile strain within the elastic limit of a material.",
+    "explanation": "Cold rolling or drawing bends and tangles dislocation lines, making further slip progressively more difficult and hardening the metal.",
     "tags": [
       "engineering",
-      "fluid-dynamics",
+      "materials-science",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "engineering-mechanical-engineering-0093",
+    "id": "engineering-materials-science-0093",
     "category": "Engineering",
-    "subcategory": "Mechanical Engineering",
+    "subcategory": "Materials Science",
     "difficulty": "hard",
-    "question": "In fundamental engineering: Which fluid dynamics principle explains why fluid pressure decreases when flow velocity increases through a constriction? (Ref #93)",
+    "question": "What thermal heat-treating process heats a cold-worked metal above its recrystallization temperature to relieve stresses and restore ductility?",
     "options": [
-      "Bernoulli's Principle",
-      "Archimedes' Principle",
-      "Pascal's Law",
-      "Coulomb's Law"
+      "Annealing",
+      "Quenching",
+      "Case Hardening",
+      "Precipitation Hardening"
     ],
     "correctAnswer": 0,
-    "explanation": "Bernoulli’s equation shows that for an inviscid flow, an increase in fluid speed occurs simultaneously with a decrease in static pressure.",
+    "explanation": "Annealing involves recovery, recrystallization (new strain-free grains form), and grain growth, restoring softness for further forming.",
     "tags": [
       "engineering",
-      "mechanical-engineering",
+      "materials-science",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "engineering-civil-structures-0094",
+    "id": "engineering-materials-science-0094",
     "category": "Engineering",
-    "subcategory": "Civil Structures",
+    "subcategory": "Materials Science",
     "difficulty": "easy",
-    "question": "In fundamental engineering: In structural engineering, which structural type is a beam supported at only one end and extending freely into space? (Ref #94)",
+    "question": "What thermal heat treatment rapidly cools red-hot austenitized steel by plunging it into water, oil, or brine to form hard, needle-like martensite?",
     "options": [
-      "Simply supported beam",
-      "Cantilever beam",
-      "Continuous span beam",
-      "Truss arch"
+      "Tempering",
+      "Quenching",
+      "Annealing",
+      "Normalizing"
     ],
     "correctAnswer": 1,
-    "explanation": "A cantilever is anchored firmly at a single fixed support, with the other end projecting outward unsupported.",
+    "explanation": "Rapid quenching traps carbon in solid solution, preventing pearlite formation and transforming face-centered austenite into strained, hard martensite.",
     "tags": [
       "engineering",
-      "civil-structures",
+      "materials-science",
       "easy"
     ],
     "active": true
@@ -1978,15 +1978,15 @@
     "category": "Engineering",
     "subcategory": "Materials Science",
     "difficulty": "medium",
-    "question": "In fundamental engineering: What mechanical parameter is calculated as the product of applied rotational force and perpendicular distance from the pivot? (Ref #95)",
+    "question": "What brittle, extremely hard, non-equilibrium body-centered tetragonal (BCT) microstructural phase forms in carbon steel upon rapid quenching?",
     "options": [
-      "Power",
-      "Impulse",
-      "Torque (Moment of force)",
-      "Momentum"
+      "Austenite",
+      "Ferrite",
+      "Martensite",
+      "Pearlite"
     ],
     "correctAnswer": 2,
-    "explanation": "Torque measures the rotational tendency of a force, equal to force times the lever arm perpendicular distance (τ = r × F).",
+    "explanation": "Martensite possesses immense hardness and strength but is too brittle for engineering use until tempered by reheating.",
     "tags": [
       "engineering",
       "materials-science",
@@ -1995,64 +1995,64 @@
     "active": true
   },
   {
-    "id": "engineering-fluid-dynamics-0096",
+    "id": "engineering-materials-science-0096",
     "category": "Engineering",
-    "subcategory": "Fluid Dynamics",
+    "subcategory": "Materials Science",
     "difficulty": "hard",
-    "question": "In fundamental engineering: What physical property is defined in mechanical engineering as internal force divided by cross-sectional area? (Ref #96)",
+    "question": "What secondary heat treatment reheats quenched martensitic steel to a subcritical temperature (200-600 C) to reduce brittleness and restore toughness?",
     "options": [
-      "Strain",
-      "Torque",
-      "Viscosity",
-      "Stress (σ = F / A)"
+      "Annealing",
+      "Austenitizing",
+      "Normalizing",
+      "Tempering"
     ],
     "correctAnswer": 3,
-    "explanation": "Stress is force applied per unit area, measured in Pascals (N/m²) or pounds per square inch (psi).",
+    "explanation": "Tempering allows trapped carbon to precipitate as fine iron carbides, transforming brittle martensite into tough tempered martensite.",
     "tags": [
       "engineering",
-      "fluid-dynamics",
+      "materials-science",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "engineering-mechanical-engineering-0097",
+    "id": "engineering-materials-science-0097",
     "category": "Engineering",
-    "subcategory": "Mechanical Engineering",
+    "subcategory": "Materials Science",
     "difficulty": "easy",
-    "question": "In fundamental engineering: What fundamental material property does Young's Modulus quantify? (Ref #97)",
+    "question": "What heat treatment introduces carbon or nitrogen into the outer surface of a low-carbon steel part to produce a hard, wear-resistant outer shell with a tough core?",
     "options": [
-      "Linear tensile elasticity / stiffness of a solid material",
-      "Thermal conductivity",
-      "Electric resistance",
-      "Magnetic permeability"
+      "Case Hardening (Carburizing / Nitriding)",
+      "Through Hardening",
+      "Full Annealing",
+      "Spheroidizing"
     ],
     "correctAnswer": 0,
-    "explanation": "Young's modulus is the ratio of tensile stress to tensile strain within the elastic limit of a material.",
+    "explanation": "Carburizing gears produces a glass-hard outer case (HRC 60) to resist tooth contact wear while retaining a ductile core to absorb shock.",
     "tags": [
       "engineering",
-      "mechanical-engineering",
+      "materials-science",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "engineering-civil-structures-0098",
+    "id": "engineering-materials-science-0098",
     "category": "Engineering",
-    "subcategory": "Civil Structures",
+    "subcategory": "Materials Science",
     "difficulty": "medium",
-    "question": "In fundamental engineering: Which fluid dynamics principle explains why fluid pressure decreases when flow velocity increases through a constriction? (Ref #98)",
+    "question": "What phase of iron has a face-centered cubic (FCC) crystal structure, capable of dissolving up to 2.14% carbon in solid solution at elevated temperatures?",
     "options": [
-      "Archimedes' Principle",
-      "Bernoulli's Principle",
-      "Pascal's Law",
-      "Coulomb's Law"
+      "Ferrite (Alpha Iron)",
+      "Austenite (Gamma Iron)",
+      "Delta Iron",
+      "Cementite"
     ],
     "correctAnswer": 1,
-    "explanation": "Bernoulli’s equation shows that for an inviscid flow, an increase in fluid speed occurs simultaneously with a decrease in static pressure.",
+    "explanation": "Austenite is stable above 727 C in plain carbon steels; its dense FCC lattice accommodates interstitial carbon atoms.",
     "tags": [
       "engineering",
-      "civil-structures",
+      "materials-science",
       "medium"
     ],
     "active": true
@@ -2062,15 +2062,15 @@
     "category": "Engineering",
     "subcategory": "Materials Science",
     "difficulty": "hard",
-    "question": "In fundamental engineering: In structural engineering, which structural type is a beam supported at only one end and extending freely into space? (Ref #99)",
+    "question": "What phase of iron has a body-centered cubic (BCC) crystal structure, stable at room temperature with very low maximum carbon solubility (0.022%)?",
     "options": [
-      "Simply supported beam",
-      "Continuous span beam",
-      "Cantilever beam",
-      "Truss arch"
+      "Austenite",
+      "Martensite",
+      "Ferrite (Alpha Iron)",
+      "Bainite"
     ],
     "correctAnswer": 2,
-    "explanation": "A cantilever is anchored firmly at a single fixed support, with the other end projecting outward unsupported.",
+    "explanation": "Ferrite is soft, ductile, and magnetic at room temperature, forming the primary matrix in low-carbon mild structural steels.",
     "tags": [
       "engineering",
       "materials-science",
@@ -2079,64 +2079,64 @@
     "active": true
   },
   {
-    "id": "engineering-fluid-dynamics-0100",
+    "id": "engineering-materials-science-0100",
     "category": "Engineering",
-    "subcategory": "Fluid Dynamics",
+    "subcategory": "Materials Science",
     "difficulty": "easy",
-    "question": "In fundamental engineering: What mechanical parameter is calculated as the product of applied rotational force and perpendicular distance from the pivot? (Ref #100)",
+    "question": "What hard, brittle stoichiometric intermetallic compound of iron and carbon has the chemical formula Fe3C (6.67% carbon by weight)?",
     "options": [
-      "Power",
-      "Impulse",
-      "Momentum",
-      "Torque (Moment of force)"
+      "Ferrite",
+      "Austenite",
+      "Graphite",
+      "Cementite (Iron Carbide)"
     ],
     "correctAnswer": 3,
-    "explanation": "Torque measures the rotational tendency of a force, equal to force times the lever arm perpendicular distance (τ = r × F).",
+    "explanation": "Cementite provides strength in carbon steels, existing as lamellar plates in pearlite or as spheroidal particles in tempered steels.",
     "tags": [
       "engineering",
-      "fluid-dynamics",
+      "materials-science",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "engineering-mechanical-engineering-0101",
+    "id": "engineering-materials-science-0101",
     "category": "Engineering",
-    "subcategory": "Mechanical Engineering",
+    "subcategory": "Materials Science",
     "difficulty": "medium",
-    "question": "In fundamental engineering: What physical property is defined in mechanical engineering as internal force divided by cross-sectional area? (Ref #101)",
+    "question": "What layered lamellar microstructure in carbon steel forms upon slow cooling through the eutectoid point, composed of alternating plates of ferrite and cementite?",
     "options": [
-      "Stress (σ = F / A)",
-      "Strain",
-      "Torque",
-      "Viscosity"
+      "Pearlite",
+      "Martensite",
+      "Bainite",
+      "Austenite"
     ],
     "correctAnswer": 0,
-    "explanation": "Stress is force applied per unit area, measured in Pascals (N/m²) or pounds per square inch (psi).",
+    "explanation": "Pearlite forms at 727 C under slow furnace cooling, resembling mother-of-pearl under optical magnification.",
     "tags": [
       "engineering",
-      "mechanical-engineering",
+      "materials-science",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "engineering-civil-structures-0102",
+    "id": "engineering-materials-science-0102",
     "category": "Engineering",
-    "subcategory": "Civil Structures",
+    "subcategory": "Materials Science",
     "difficulty": "hard",
-    "question": "In fundamental engineering: What fundamental material property does Young's Modulus quantify? (Ref #102)",
+    "question": "What electrochemical corrosion mechanism occurs when two dissimilar metals are in direct electrical contact within the presence of a conductive electrolyte?",
     "options": [
-      "Thermal conductivity",
-      "Linear tensile elasticity / stiffness of a solid material",
-      "Electric resistance",
-      "Magnetic permeability"
+      "Pitting Corrosion",
+      "Galvanic Corrosion",
+      "Crevice Corrosion",
+      "Intergranular Corrosion"
     ],
     "correctAnswer": 1,
-    "explanation": "Young's modulus is the ratio of tensile stress to tensile strain within the elastic limit of a material.",
+    "explanation": "The more active (anodic) metal corrodes rapidly to protect the more noble (cathodic) metal (e.g., zinc corroding to protect steel).",
     "tags": [
       "engineering",
-      "civil-structures",
+      "materials-science",
       "hard"
     ],
     "active": true
@@ -2146,15 +2146,15 @@
     "category": "Engineering",
     "subcategory": "Materials Science",
     "difficulty": "easy",
-    "question": "In fundamental engineering: Which fluid dynamics principle explains why fluid pressure decreases when flow velocity increases through a constriction? (Ref #103)",
+    "question": "What corrosion protection technique connects an easily corroded sacrificial metal (such as zinc or magnesium) to protect a submerged steel hull or pipeline?",
     "options": [
-      "Archimedes' Principle",
-      "Pascal's Law",
-      "Bernoulli's Principle",
-      "Coulomb's Law"
+      "Anodic Passivation",
+      "Galvanic Coupling",
+      "Cathodic Protection (Sacrificial Anode)",
+      "Electroless Plating"
     ],
     "correctAnswer": 2,
-    "explanation": "Bernoulli’s equation shows that for an inviscid flow, an increase in fluid speed occurs simultaneously with a decrease in static pressure.",
+    "explanation": "Sacrificial zinc anodes sacrifice themselves by donating electrons to the steel hull, maintaining steel in an uncorroded cathodic state.",
     "tags": [
       "engineering",
       "materials-science",
@@ -2163,64 +2163,64 @@
     "active": true
   },
   {
-    "id": "engineering-fluid-dynamics-0104",
+    "id": "engineering-materials-science-0104",
     "category": "Engineering",
-    "subcategory": "Fluid Dynamics",
+    "subcategory": "Materials Science",
     "difficulty": "medium",
-    "question": "In fundamental engineering: In structural engineering, which structural type is a beam supported at only one end and extending freely into space? (Ref #104)",
+    "question": "What chemical element is alloyed into carbon steel at a concentration of at least 10.5% to create self-healing, corrosion-resistant Stainless Steel?",
     "options": [
-      "Simply supported beam",
-      "Continuous span beam",
-      "Truss arch",
-      "Cantilever beam"
+      "Nickel (Ni)",
+      "Molybdenum (Mo)",
+      "Titanium (Ti)",
+      "Chromium (Cr)"
     ],
     "correctAnswer": 3,
-    "explanation": "A cantilever is anchored firmly at a single fixed support, with the other end projecting outward unsupported.",
+    "explanation": "Chromium reacts with atmospheric oxygen to form an invisible, tenacious, self-healing passive surface layer of chromium oxide (Cr2O3).",
     "tags": [
       "engineering",
-      "fluid-dynamics",
+      "materials-science",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "engineering-mechanical-engineering-0105",
+    "id": "engineering-materials-science-0105",
     "category": "Engineering",
-    "subcategory": "Mechanical Engineering",
+    "subcategory": "Materials Science",
     "difficulty": "hard",
-    "question": "In fundamental engineering: What mechanical parameter is calculated as the product of applied rotational force and perpendicular distance from the pivot? (Ref #105)",
+    "question": "What slow, time-dependent, permanent plastic deformation occurs in structural materials subjected to continuous mechanical stress at elevated temperatures?",
     "options": [
-      "Torque (Moment of force)",
-      "Power",
-      "Impulse",
-      "Momentum"
+      "Creep",
+      "Fatigue",
+      "Stress Relaxation",
+      "Thermal Shock"
     ],
     "correctAnswer": 0,
-    "explanation": "Torque measures the rotational tendency of a force, equal to force times the lever arm perpendicular distance (τ = r × F).",
+    "explanation": "Creep becomes critical in jet engine turbine blades and steam boilers operating at temperatures exceeding 40% of absolute melting point (Tm).",
     "tags": [
       "engineering",
-      "mechanical-engineering",
+      "materials-science",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "engineering-civil-structures-0106",
+    "id": "engineering-materials-science-0106",
     "category": "Engineering",
-    "subcategory": "Civil Structures",
+    "subcategory": "Materials Science",
     "difficulty": "easy",
-    "question": "In fundamental engineering: What physical property is defined in mechanical engineering as internal force divided by cross-sectional area? (Ref #106)",
+    "question": "What advanced composite material consists of high-strength carbon fibers embedded within an epoxy polymer resin matrix, offering exceptional strength-to-weight ratios?",
     "options": [
-      "Strain",
-      "Stress (σ = F / A)",
-      "Torque",
-      "Viscosity"
+      "Fiberglass (GFRP)",
+      "Carbon Fiber Reinforced Polymer (CFRP)",
+      "Kevlar Aramid",
+      "Metal Matrix Composite"
     ],
     "correctAnswer": 1,
-    "explanation": "Stress is force applied per unit area, measured in Pascals (N/m²) or pounds per square inch (psi).",
+    "explanation": "CFRP composites are utilized extensively in modern commercial airliners (Boeing 787, Airbus A350) to cut structural airframe weight.",
     "tags": [
       "engineering",
-      "civil-structures",
+      "materials-science",
       "easy"
     ],
     "active": true
@@ -2230,15 +2230,15 @@
     "category": "Engineering",
     "subcategory": "Materials Science",
     "difficulty": "medium",
-    "question": "In fundamental engineering: What fundamental material property does Young's Modulus quantify? (Ref #107)",
+    "question": "What term describes engineering materials whose physical and mechanical properties are identical in all measuring directions?",
     "options": [
-      "Thermal conductivity",
-      "Electric resistance",
-      "Linear tensile elasticity / stiffness of a solid material",
-      "Magnetic permeability"
+      "Anisotropic",
+      "Orthotropic",
+      "Isotropic",
+      "Viscoelastic"
     ],
     "correctAnswer": 2,
-    "explanation": "Young's modulus is the ratio of tensile stress to tensile strain within the elastic limit of a material.",
+    "explanation": "Unworked polycrystalline metals and glass exhibit isotropic properties; testing yield strength yields identical values in any direction.",
     "tags": [
       "engineering",
       "materials-science",
@@ -2247,64 +2247,64 @@
     "active": true
   },
   {
-    "id": "engineering-fluid-dynamics-0108",
+    "id": "engineering-materials-science-0108",
     "category": "Engineering",
-    "subcategory": "Fluid Dynamics",
+    "subcategory": "Materials Science",
     "difficulty": "hard",
-    "question": "In fundamental engineering: Which fluid dynamics principle explains why fluid pressure decreases when flow velocity increases through a constriction? (Ref #108)",
+    "question": "What term describes materials whose mechanical properties vary depending on the direction of applied measurement (such as wood or carbon fiber laminates)?",
     "options": [
-      "Archimedes' Principle",
-      "Pascal's Law",
-      "Coulomb's Law",
-      "Bernoulli's Principle"
+      "Isotropic",
+      "Homogeneous",
+      "Amorphous",
+      "Anisotropic (or Orthotropic)"
     ],
     "correctAnswer": 3,
-    "explanation": "Bernoulli’s equation shows that for an inviscid flow, an increase in fluid speed occurs simultaneously with a decrease in static pressure.",
+    "explanation": "Wood has high tensile strength along its longitudinal grain but splits easily across radial and tangential transverse directions.",
     "tags": [
       "engineering",
-      "fluid-dynamics",
+      "materials-science",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "engineering-mechanical-engineering-0109",
+    "id": "engineering-materials-science-0109",
     "category": "Engineering",
-    "subcategory": "Mechanical Engineering",
+    "subcategory": "Materials Science",
     "difficulty": "easy",
-    "question": "In fundamental engineering: In structural engineering, which structural type is a beam supported at only one end and extending freely into space? (Ref #109)",
+    "question": "What thermal state transition marks where an amorphous solid polymer changes from a hard, brittle, glassy state to a soft, rubbery, flexible state?",
     "options": [
-      "Cantilever beam",
-      "Simply supported beam",
-      "Continuous span beam",
-      "Truss arch"
+      "Glass Transition Temperature (Tg)",
+      "Melting Temperature (Tm)",
+      "Crystallization Temperature",
+      "Heat Deflection Temperature"
     ],
     "correctAnswer": 0,
-    "explanation": "A cantilever is anchored firmly at a single fixed support, with the other end projecting outward unsupported.",
+    "explanation": "Below Tg, polymer chain molecular mobility is frozen (rigid); above Tg, secondary bonds loosen, allowing chain segment flexibility.",
     "tags": [
       "engineering",
-      "mechanical-engineering",
+      "materials-science",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "engineering-civil-structures-0110",
+    "id": "engineering-materials-science-0110",
     "category": "Engineering",
-    "subcategory": "Civil Structures",
+    "subcategory": "Materials Science",
     "difficulty": "medium",
-    "question": "In fundamental engineering: What mechanical parameter is calculated as the product of applied rotational force and perpendicular distance from the pivot? (Ref #110)",
+    "question": "What class of cross-linked polymers permanently set into rigid shapes upon heating and cannot be remelted without chemical decomposition?",
     "options": [
-      "Power",
-      "Torque (Moment of force)",
-      "Impulse",
-      "Momentum"
+      "Thermoplastics (e.g., Polyethylene)",
+      "Thermosetting Polymers (Thermosets, e.g., Epoxy, Phenolic)",
+      "Elastomers",
+      "Liquid Crystal Polymers"
     ],
     "correctAnswer": 1,
-    "explanation": "Torque measures the rotational tendency of a force, equal to force times the lever arm perpendicular distance (τ = r × F).",
+    "explanation": "Thermosets form irreversible covalent chemical cross-links during curing, resisting heat and solvents without melting.",
     "tags": [
       "engineering",
-      "civil-structures",
+      "materials-science",
       "medium"
     ],
     "active": true
@@ -2314,15 +2314,15 @@
     "category": "Engineering",
     "subcategory": "Materials Science",
     "difficulty": "hard",
-    "question": "In fundamental engineering: What physical property is defined in mechanical engineering as internal force divided by cross-sectional area? (Ref #111)",
+    "question": "What class of linear or branched polymers can be repeatedly melted, reshaped, and solidified upon heating and cooling without chemical degradation?",
     "options": [
-      "Strain",
-      "Torque",
-      "Stress (σ = F / A)",
-      "Viscosity"
+      "Thermosetting Polymers",
+      "Vulcanized Rubbers",
+      "Thermoplastics (e.g., Polypropylene, Nylon)",
+      "Phenolic Resins"
     ],
     "correctAnswer": 2,
-    "explanation": "Stress is force applied per unit area, measured in Pascals (N/m²) or pounds per square inch (psi).",
+    "explanation": "Thermoplastics feature intermolecular secondary bonds that soften under heat, enabling rapid injection molding and recycling.",
     "tags": [
       "engineering",
       "materials-science",
@@ -2331,85 +2331,85 @@
     "active": true
   },
   {
-    "id": "engineering-fluid-dynamics-0112",
+    "id": "engineering-materials-science-0112",
     "category": "Engineering",
-    "subcategory": "Fluid Dynamics",
+    "subcategory": "Materials Science",
     "difficulty": "easy",
-    "question": "In fundamental engineering: What fundamental material property does Young's Modulus quantify? (Ref #112)",
+    "question": "What chemical cross-linking process heats natural rubber with sulfur to form cross-links between polymer chains, improving elasticity and thermal stability?",
     "options": [
-      "Thermal conductivity",
-      "Electric resistance",
-      "Magnetic permeability",
-      "Linear tensile elasticity / stiffness of a solid material"
+      "Polymerization",
+      "Sintering",
+      "Extrusion",
+      "Vulcanization"
     ],
     "correctAnswer": 3,
-    "explanation": "Young's modulus is the ratio of tensile stress to tensile strain within the elastic limit of a material.",
+    "explanation": "Discovered by Charles Goodyear in 1839, sulfur bridges prevent rubber chains from sliding, transforming sticky latex into resilient tire rubber.",
     "tags": [
       "engineering",
-      "fluid-dynamics",
+      "materials-science",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "engineering-mechanical-engineering-0113",
+    "id": "engineering-materials-science-0113",
     "category": "Engineering",
-    "subcategory": "Mechanical Engineering",
+    "subcategory": "Materials Science",
     "difficulty": "medium",
-    "question": "In fundamental engineering: Which fluid dynamics principle explains why fluid pressure decreases when flow velocity increases through a constriction? (Ref #113)",
+    "question": "What high-temperature manufacturing process compacts and bonds powdered metal or ceramic particles below their melting point through solid-state atomic diffusion?",
     "options": [
-      "Bernoulli's Principle",
-      "Archimedes' Principle",
-      "Pascal's Law",
-      "Coulomb's Law"
+      "Sintering",
+      "Forging",
+      "Investment Casting",
+      "Extrusion"
     ],
     "correctAnswer": 0,
-    "explanation": "Bernoulli’s equation shows that for an inviscid flow, an increase in fluid speed occurs simultaneously with a decrease in static pressure.",
+    "explanation": "Sintering fuses powder metallurgy parts and high-tech ceramics into dense, strong components without melting the entire mass.",
     "tags": [
       "engineering",
-      "mechanical-engineering",
+      "materials-science",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "engineering-civil-structures-0114",
+    "id": "engineering-fluid-dynamics-0114",
     "category": "Engineering",
-    "subcategory": "Civil Structures",
+    "subcategory": "Fluid Dynamics",
     "difficulty": "hard",
-    "question": "In fundamental engineering: In structural engineering, which structural type is a beam supported at only one end and extending freely into space? (Ref #114)",
+    "question": "What dimensionless fluid dynamics quantity represents the ratio of inertial forces to viscous forces in a fluid flow, predicting laminar vs turbulent flow?",
     "options": [
-      "Simply supported beam",
-      "Cantilever beam",
-      "Continuous span beam",
-      "Truss arch"
+      "Mach Number",
+      "Reynolds Number (Re)",
+      "Froude Number",
+      "Prandtl Number"
     ],
     "correctAnswer": 1,
-    "explanation": "A cantilever is anchored firmly at a single fixed support, with the other end projecting outward unsupported.",
+    "explanation": "Calculated as Re = rho * v * L / mu, low Re indicates smooth laminar flow dominated by viscosity; high Re indicates chaotic turbulent flow.",
     "tags": [
       "engineering",
-      "civil-structures",
+      "fluid-dynamics",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "engineering-materials-science-0115",
+    "id": "engineering-fluid-dynamics-0115",
     "category": "Engineering",
-    "subcategory": "Materials Science",
+    "subcategory": "Fluid Dynamics",
     "difficulty": "easy",
-    "question": "In fundamental engineering: What mechanical parameter is calculated as the product of applied rotational force and perpendicular distance from the pivot? (Ref #115)",
+    "question": "In internal circular pipe flow, what is the critical Reynolds number threshold below which fluid flow is universally classified as Laminar?",
     "options": [
-      "Power",
-      "Impulse",
-      "Torque (Moment of force)",
-      "Momentum"
+      "Re < 100",
+      "Re < 10,000",
+      "Re < 2,300",
+      "Re < 500"
     ],
     "correctAnswer": 2,
-    "explanation": "Torque measures the rotational tendency of a force, equal to force times the lever arm perpendicular distance (τ = r × F).",
+    "explanation": "Below Re = 2,300, viscous shear forces damp out perturbations, keeping fluid flowing in parallel, smooth concentric cylindrical streamlines.",
     "tags": [
       "engineering",
-      "materials-science",
+      "fluid-dynamics",
       "easy"
     ],
     "active": true
@@ -2419,15 +2419,15 @@
     "category": "Engineering",
     "subcategory": "Fluid Dynamics",
     "difficulty": "medium",
-    "question": "In fundamental engineering: What physical property is defined in mechanical engineering as internal force divided by cross-sectional area? (Ref #116)",
+    "question": "Above what Reynolds number threshold in circular pipe flow does fluid transition to fully developed Chaotic, Turbulent flow?",
     "options": [
-      "Strain",
-      "Torque",
-      "Viscosity",
-      "Stress (σ = F / A)"
+      "Re > 1,000",
+      "Re > 2,300",
+      "Re > 100,000",
+      "Re > 4,000"
     ],
     "correctAnswer": 3,
-    "explanation": "Stress is force applied per unit area, measured in Pascals (N/m²) or pounds per square inch (psi).",
+    "explanation": "Between Re = 2,300 and 4,000 is the transitional regime; above 4,000, turbulent eddies, vortices, and mixing dominate flow resistance.",
     "tags": [
       "engineering",
       "fluid-dynamics",
@@ -2436,64 +2436,64 @@
     "active": true
   },
   {
-    "id": "engineering-mechanical-engineering-0117",
+    "id": "engineering-fluid-dynamics-0117",
     "category": "Engineering",
-    "subcategory": "Mechanical Engineering",
+    "subcategory": "Fluid Dynamics",
     "difficulty": "hard",
-    "question": "In fundamental engineering: What fundamental material property does Young's Modulus quantify? (Ref #117)",
+    "question": "What fundamental fluid dynamics equation expresses the principle of Conservation of Mass for incompressible fluid flow in a conduit (A1V1 = A2V2)?",
     "options": [
-      "Linear tensile elasticity / stiffness of a solid material",
-      "Thermal conductivity",
-      "Electric resistance",
-      "Magnetic permeability"
+      "The Continuity Equation",
+      "Bernoulli's Equation",
+      "The Navier-Stokes Equations",
+      "Poiseuille's Law"
     ],
     "correctAnswer": 0,
-    "explanation": "Young's modulus is the ratio of tensile stress to tensile strain within the elastic limit of a material.",
+    "explanation": "Because fluid mass cannot accumulate in steady incompressible flow, reducing cross-sectional pipe area (A) forces flow velocity (V) to accelerate proportionally.",
     "tags": [
       "engineering",
-      "mechanical-engineering",
+      "fluid-dynamics",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "engineering-civil-structures-0118",
+    "id": "engineering-fluid-dynamics-0118",
     "category": "Engineering",
-    "subcategory": "Civil Structures",
+    "subcategory": "Fluid Dynamics",
     "difficulty": "easy",
-    "question": "In fundamental engineering: Which fluid dynamics principle explains why fluid pressure decreases when flow velocity increases through a constriction? (Ref #118)",
+    "question": "What energy conservation equation states that for steady, frictionless, incompressible flow along a streamline, the sum of pressure, kinetic, and potential energy heads is constant?",
     "options": [
-      "Archimedes' Principle",
-      "Bernoulli's Principle",
-      "Pascal's Law",
-      "Coulomb's Law"
+      "The Continuity Equation",
+      "Bernoulli's Equation",
+      "Euler's Momentum Equation",
+      "Torricelli's Law"
     ],
     "correctAnswer": 1,
-    "explanation": "Bernoulli’s equation shows that for an inviscid flow, an increase in fluid speed occurs simultaneously with a decrease in static pressure.",
+    "explanation": "P + 1/2 rho v^2 + rho g h = constant; accelerating flow velocity produces a corresponding drop in fluid static pressure.",
     "tags": [
       "engineering",
-      "civil-structures",
+      "fluid-dynamics",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "engineering-materials-science-0119",
+    "id": "engineering-fluid-dynamics-0119",
     "category": "Engineering",
-    "subcategory": "Materials Science",
+    "subcategory": "Fluid Dynamics",
     "difficulty": "medium",
-    "question": "In fundamental engineering: In structural engineering, which structural type is a beam supported at only one end and extending freely into space? (Ref #119)",
+    "question": "What fluid property measures a fluid's internal resistance to gradual shear deformation or flow, commonly described as fluid 'thickness'?",
     "options": [
-      "Simply supported beam",
-      "Continuous span beam",
-      "Cantilever beam",
-      "Truss arch"
+      "Kinematic Viscosity (nu)",
+      "Fluid Density (rho)",
+      "Dynamic Viscosity (Absolute Viscosity, mu)",
+      "Specific Gravity"
     ],
     "correctAnswer": 2,
-    "explanation": "A cantilever is anchored firmly at a single fixed support, with the other end projecting outward unsupported.",
+    "explanation": "Measured in Pascal-seconds (Pa s) or Poise, dynamic viscosity quantifies shear stress per unit velocity gradient (tau = mu * dv/dy).",
     "tags": [
       "engineering",
-      "materials-science",
+      "fluid-dynamics",
       "medium"
     ],
     "active": true
@@ -2503,15 +2503,15 @@
     "category": "Engineering",
     "subcategory": "Fluid Dynamics",
     "difficulty": "hard",
-    "question": "In fundamental engineering: What mechanical parameter is calculated as the product of applied rotational force and perpendicular distance from the pivot? (Ref #120)",
+    "question": "What fluid property is defined as the ratio of dynamic viscosity to fluid density (nu = mu / rho), measured in m2/s or Stokes?",
     "options": [
-      "Power",
-      "Impulse",
-      "Momentum",
-      "Torque (Moment of force)"
+      "Dynamic Viscosity",
+      "Specific Weight",
+      "Bulk Modulus",
+      "Kinematic Viscosity (nu)"
     ],
     "correctAnswer": 3,
-    "explanation": "Torque measures the rotational tendency of a force, equal to force times the lever arm perpendicular distance (τ = r × F).",
+    "explanation": "Kinematic viscosity reflects momentum diffusivity through a fluid, essential for Reynolds number calculations in hydraulic pipe networks.",
     "tags": [
       "engineering",
       "fluid-dynamics",
@@ -2520,64 +2520,64 @@
     "active": true
   },
   {
-    "id": "engineering-mechanical-engineering-0121",
+    "id": "engineering-fluid-dynamics-0121",
     "category": "Engineering",
-    "subcategory": "Mechanical Engineering",
+    "subcategory": "Fluid Dynamics",
     "difficulty": "easy",
-    "question": "In fundamental engineering: What physical property is defined in mechanical engineering as internal force divided by cross-sectional area? (Ref #121)",
+    "question": "What type of fluid maintains a constant dynamic viscosity regardless of the applied shear rate or shear stress (e.g., water, air, light oil)?",
     "options": [
-      "Stress (σ = F / A)",
-      "Strain",
-      "Torque",
-      "Viscosity"
+      "Newtonian Fluid",
+      "Non-Newtonian Fluid",
+      "Bingham Plastic",
+      "Thixotropic Fluid"
     ],
     "correctAnswer": 0,
-    "explanation": "Stress is force applied per unit area, measured in Pascals (N/m²) or pounds per square inch (psi).",
+    "explanation": "Newtonian fluids obey Newton's law of viscosity linearly: shear stress is directly and strictly proportional to shear strain rate.",
     "tags": [
       "engineering",
-      "mechanical-engineering",
+      "fluid-dynamics",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "engineering-civil-structures-0122",
+    "id": "engineering-fluid-dynamics-0122",
     "category": "Engineering",
-    "subcategory": "Civil Structures",
+    "subcategory": "Fluid Dynamics",
     "difficulty": "medium",
-    "question": "In fundamental engineering: What fundamental material property does Young's Modulus quantify? (Ref #122)",
+    "question": "What type of non-Newtonian fluid exhibits 'shear-thinning' behavior, where apparent viscosity decreases as shear rate increases (e.g., blood, paint, ketchup)?",
     "options": [
-      "Thermal conductivity",
-      "Linear tensile elasticity / stiffness of a solid material",
-      "Electric resistance",
-      "Magnetic permeability"
+      "Dilatant Fluid (Shear-Thickening)",
+      "Pseudoplastic Fluid (Shear-Thinning)",
+      "Bingham Plastic",
+      "Rheopectic Fluid"
     ],
     "correctAnswer": 1,
-    "explanation": "Young's modulus is the ratio of tensile stress to tensile strain within the elastic limit of a material.",
+    "explanation": "Paints thin under brushing/spraying shear to flow smoothly, but thicken when resting on a wall to prevent drips.",
     "tags": [
       "engineering",
-      "civil-structures",
+      "fluid-dynamics",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "engineering-materials-science-0123",
+    "id": "engineering-fluid-dynamics-0123",
     "category": "Engineering",
-    "subcategory": "Materials Science",
+    "subcategory": "Fluid Dynamics",
     "difficulty": "hard",
-    "question": "In fundamental engineering: Which fluid dynamics principle explains why fluid pressure decreases when flow velocity increases through a constriction? (Ref #123)",
+    "question": "What type of non-Newtonian fluid exhibits 'shear-thickening' behavior, where apparent viscosity increases dramatically under high shear stress (e.g., cornstarch in water / oobleck)?",
     "options": [
-      "Archimedes' Principle",
-      "Pascal's Law",
-      "Bernoulli's Principle",
-      "Coulomb's Law"
+      "Pseudoplastic Fluid",
+      "Bingham Plastic",
+      "Dilatant Fluid (Shear-Thickening)",
+      "Thixotropic Fluid"
     ],
     "correctAnswer": 2,
-    "explanation": "Bernoulli’s equation shows that for an inviscid flow, an increase in fluid speed occurs simultaneously with a decrease in static pressure.",
+    "explanation": "Under sudden impact shear, cornstarch granules lock together into a rigid solid; under slow shear, the mixture flows as a liquid.",
     "tags": [
       "engineering",
-      "materials-science",
+      "fluid-dynamics",
       "hard"
     ],
     "active": true
@@ -2587,15 +2587,15 @@
     "category": "Engineering",
     "subcategory": "Fluid Dynamics",
     "difficulty": "easy",
-    "question": "In fundamental engineering: In structural engineering, which structural type is a beam supported at only one end and extending freely into space? (Ref #124)",
+    "question": "What thin boundary layer forms immediately adjacent to a solid surface immersed in fluid flow where viscous shear forces dominate and fluid velocity increases from zero to freestream speed?",
     "options": [
-      "Simply supported beam",
-      "Continuous span beam",
-      "Truss arch",
-      "Cantilever beam"
+      "The Wake Zone",
+      "The Inviscid Core",
+      "The Shear Layer",
+      "The Boundary Layer"
     ],
     "correctAnswer": 3,
-    "explanation": "A cantilever is anchored firmly at a single fixed support, with the other end projecting outward unsupported.",
+    "explanation": "Formulated by Ludwig Prandtl in 1904, boundary layers cause friction drag and govern separation on wings, hulls, and pipes.",
     "tags": [
       "engineering",
       "fluid-dynamics",
@@ -2604,64 +2604,64 @@
     "active": true
   },
   {
-    "id": "engineering-mechanical-engineering-0125",
+    "id": "engineering-fluid-dynamics-0125",
     "category": "Engineering",
-    "subcategory": "Mechanical Engineering",
+    "subcategory": "Fluid Dynamics",
     "difficulty": "medium",
-    "question": "In fundamental engineering: What mechanical parameter is calculated as the product of applied rotational force and perpendicular distance from the pivot? (Ref #125)",
+    "question": "What fundamental fluid boundary condition dictates that fluid molecules directly contacting a solid wall adhere to it, matching the exact velocity of the wall (zero relative velocity)?",
     "options": [
-      "Torque (Moment of force)",
-      "Power",
-      "Impulse",
-      "Momentum"
+      "The No-Slip Condition",
+      "The Free-Slip Condition",
+      "The Inviscid Approximation",
+      "The Stagnation Condition"
     ],
     "correctAnswer": 0,
-    "explanation": "Torque measures the rotational tendency of a force, equal to force times the lever arm perpendicular distance (τ = r × F).",
+    "explanation": "Due to microscopic molecular cohesion, fluid velocity at a stationary wall is exactly zero relative to the surface.",
     "tags": [
       "engineering",
-      "mechanical-engineering",
+      "fluid-dynamics",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "engineering-civil-structures-0126",
+    "id": "engineering-fluid-dynamics-0126",
     "category": "Engineering",
-    "subcategory": "Civil Structures",
+    "subcategory": "Fluid Dynamics",
     "difficulty": "hard",
-    "question": "In fundamental engineering: What physical property is defined in mechanical engineering as internal force divided by cross-sectional area? (Ref #126)",
+    "question": "What aerodynamic event occurs when the boundary layer separates from the upper surface of an airfoil, resulting in a sudden, dramatic loss of lift and surge in drag?",
     "options": [
-      "Strain",
-      "Stress (σ = F / A)",
-      "Torque",
-      "Viscosity"
+      "Compressibility shock",
+      "Aerodynamic Stall",
+      "Dutch roll",
+      "Flutter"
     ],
     "correctAnswer": 1,
-    "explanation": "Stress is force applied per unit area, measured in Pascals (N/m²) or pounds per square inch (psi).",
+    "explanation": "Exceeding the critical angle of attack creates adverse pressure gradients that peel the boundary layer off the wing, stalling the aircraft.",
     "tags": [
       "engineering",
-      "civil-structures",
+      "fluid-dynamics",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "engineering-materials-science-0127",
+    "id": "engineering-fluid-dynamics-0127",
     "category": "Engineering",
-    "subcategory": "Materials Science",
+    "subcategory": "Fluid Dynamics",
     "difficulty": "easy",
-    "question": "In fundamental engineering: What fundamental material property does Young's Modulus quantify? (Ref #127)",
+    "question": "What aerodynamic parameter is defined as the angle between the chord line of an airfoil and the oncoming relative wind vector?",
     "options": [
-      "Thermal conductivity",
-      "Electric resistance",
-      "Linear tensile elasticity / stiffness of a solid material",
-      "Magnetic permeability"
+      "Angle of Incidence",
+      "Sideslip Angle",
+      "Angle of Attack (alpha)",
+      "Dihedral Angle"
     ],
     "correctAnswer": 2,
-    "explanation": "Young's modulus is the ratio of tensile stress to tensile strain within the elastic limit of a material.",
+    "explanation": "Increasing angle of attack increases lift linearly until reaching the critical stall angle (typically 15-18 degrees).",
     "tags": [
       "engineering",
-      "materials-science",
+      "fluid-dynamics",
       "easy"
     ],
     "active": true
@@ -2671,15 +2671,15 @@
     "category": "Engineering",
     "subcategory": "Fluid Dynamics",
     "difficulty": "medium",
-    "question": "In fundamental engineering: Which fluid dynamics principle explains why fluid pressure decreases when flow velocity increases through a constriction? (Ref #128)",
+    "question": "What type of aerodynamic drag is an unavoidable by-product of generating aerodynamic lift on a finite, three-dimensional wing, caused by wingtip vortices?",
     "options": [
-      "Archimedes' Principle",
-      "Pascal's Law",
-      "Coulomb's Law",
-      "Bernoulli's Principle"
+      "Parasite Drag",
+      "Skin Friction Drag",
+      "Form Drag",
+      "Induced Drag (Drag due to Lift)"
     ],
     "correctAnswer": 3,
-    "explanation": "Bernoulli’s equation shows that for an inviscid flow, an increase in fluid speed occurs simultaneously with a decrease in static pressure.",
+    "explanation": "High-pressure air beneath the wing curls around wingtips into the low-pressure upper surface, spawning swirling vortices that deflect air downward (downwash).",
     "tags": [
       "engineering",
       "fluid-dynamics",
@@ -2688,64 +2688,64 @@
     "active": true
   },
   {
-    "id": "engineering-mechanical-engineering-0129",
+    "id": "engineering-fluid-dynamics-0129",
     "category": "Engineering",
-    "subcategory": "Mechanical Engineering",
+    "subcategory": "Fluid Dynamics",
     "difficulty": "hard",
-    "question": "In fundamental engineering: In structural engineering, which structural type is a beam supported at only one end and extending freely into space? (Ref #129)",
+    "question": "What vertical aerodynamic surfaces mounted at the outer tips of aircraft wings weaken wingtip vortices and reduce induced drag, improving fuel efficiency?",
     "options": [
-      "Cantilever beam",
-      "Simply supported beam",
-      "Continuous span beam",
-      "Truss arch"
+      "Winglets (Sharklets)",
+      "Flaps",
+      "Slats",
+      "Spoilers"
     ],
     "correctAnswer": 0,
-    "explanation": "A cantilever is anchored firmly at a single fixed support, with the other end projecting outward unsupported.",
+    "explanation": "Winglets diffuse wingtip vortex energy into smaller vortex filaments, reducing fuel consumption by 4 to 6 percent on commercial airliners.",
     "tags": [
       "engineering",
-      "mechanical-engineering",
+      "fluid-dynamics",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "engineering-civil-structures-0130",
+    "id": "engineering-fluid-dynamics-0130",
     "category": "Engineering",
-    "subcategory": "Civil Structures",
+    "subcategory": "Fluid Dynamics",
     "difficulty": "easy",
-    "question": "In fundamental engineering: What mechanical parameter is calculated as the product of applied rotational force and perpendicular distance from the pivot? (Ref #130)",
+    "question": "What aerodynamic drag is caused by the physical size and geometric cross-sectional shape of a body moving through fluid, producing low-pressure turbulent wakes behind it?",
     "options": [
-      "Power",
-      "Torque (Moment of force)",
-      "Impulse",
-      "Momentum"
+      "Skin Friction Drag",
+      "Form Drag (Pressure Drag)",
+      "Induced Drag",
+      "Wave Drag"
     ],
     "correctAnswer": 1,
-    "explanation": "Torque measures the rotational tendency of a force, equal to force times the lever arm perpendicular distance (τ = r × F).",
+    "explanation": "Streamlining elongates the rear tail of an object, keeping boundary layer attached and shrinking the turbulent, drag-inducing wake.",
     "tags": [
       "engineering",
-      "civil-structures",
+      "fluid-dynamics",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "engineering-materials-science-0131",
+    "id": "engineering-fluid-dynamics-0131",
     "category": "Engineering",
-    "subcategory": "Materials Science",
+    "subcategory": "Fluid Dynamics",
     "difficulty": "medium",
-    "question": "In fundamental engineering: What physical property is defined in mechanical engineering as internal force divided by cross-sectional area? (Ref #131)",
+    "question": "What aerodynamic drag arises from frictional shear stress between fluid molecules and the wetted surface area of an aircraft fuselage or ship hull?",
     "options": [
-      "Strain",
-      "Torque",
-      "Stress (σ = F / A)",
-      "Viscosity"
+      "Form Drag",
+      "Induced Drag",
+      "Skin Friction Drag",
+      "Interference Drag"
     ],
     "correctAnswer": 2,
-    "explanation": "Stress is force applied per unit area, measured in Pascals (N/m²) or pounds per square inch (psi).",
+    "explanation": "Skin friction accounts for significant drag at cruise, minimized by smooth, polished surfaces and maintaining laminar boundary layer flow.",
     "tags": [
       "engineering",
-      "materials-science",
+      "fluid-dynamics",
       "medium"
     ],
     "active": true
@@ -2755,15 +2755,15 @@
     "category": "Engineering",
     "subcategory": "Fluid Dynamics",
     "difficulty": "hard",
-    "question": "In fundamental engineering: What fundamental material property does Young's Modulus quantify? (Ref #132)",
+    "question": "What dimensionless ratio compares the speed of an object moving through a fluid to the local speed of sound in that medium (M = v / a)?",
     "options": [
-      "Thermal conductivity",
-      "Electric resistance",
-      "Magnetic permeability",
-      "Linear tensile elasticity / stiffness of a solid material"
+      "Reynolds Number",
+      "Froude Number",
+      "Knudsen Number",
+      "Mach Number"
     ],
     "correctAnswer": 3,
-    "explanation": "Young's modulus is the ratio of tensile stress to tensile strain within the elastic limit of a material.",
+    "explanation": "Named after Ernst Mach, M < 1 is subsonic, M = 1 is sonic, M 1 to 5 is supersonic, and M > 5 is hypersonic.",
     "tags": [
       "engineering",
       "fluid-dynamics",
@@ -2772,64 +2772,64 @@
     "active": true
   },
   {
-    "id": "engineering-mechanical-engineering-0133",
+    "id": "engineering-fluid-dynamics-0133",
     "category": "Engineering",
-    "subcategory": "Mechanical Engineering",
+    "subcategory": "Fluid Dynamics",
     "difficulty": "easy",
-    "question": "In fundamental engineering: Which fluid dynamics principle explains why fluid pressure decreases when flow velocity increases through a constriction? (Ref #133)",
+    "question": "What thin, abrupt discontinuity layer forms in supersonic flow where pressure, temperature, and density rise sharply while flow velocity drops to subsonic?",
     "options": [
-      "Bernoulli's Principle",
-      "Archimedes' Principle",
-      "Pascal's Law",
-      "Coulomb's Law"
+      "A Shock Wave (Normal or Oblique Shock Wave)",
+      "An Expansion Fan",
+      "A Karman Vortex",
+      "A Boundary Layer"
     ],
     "correctAnswer": 0,
-    "explanation": "Bernoulli’s equation shows that for an inviscid flow, an increase in fluid speed occurs simultaneously with a decrease in static pressure.",
+    "explanation": "Air molecules cannot broadcast pressure signals ahead of a supersonic body, causing compression waves to pile up into a shock wave.",
     "tags": [
       "engineering",
-      "mechanical-engineering",
+      "fluid-dynamics",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "engineering-civil-structures-0134",
+    "id": "engineering-fluid-dynamics-0134",
     "category": "Engineering",
-    "subcategory": "Civil Structures",
+    "subcategory": "Fluid Dynamics",
     "difficulty": "medium",
-    "question": "In fundamental engineering: In structural engineering, which structural type is a beam supported at only one end and extending freely into space? (Ref #134)",
+    "question": "What intense explosive acoustic sound wave reaches observers on the ground when shock waves generated by a supersonic aircraft sweep past?",
     "options": [
-      "Simply supported beam",
-      "Cantilever beam",
-      "Continuous span beam",
-      "Truss arch"
+      "A Doppler Shift",
+      "A Sonic Boom",
+      "An Acoustic Cavitation",
+      "A Mach Tremor"
     ],
     "correctAnswer": 1,
-    "explanation": "A cantilever is anchored firmly at a single fixed support, with the other end projecting outward unsupported.",
+    "explanation": "A sonic boom is the continuous double-pulse pressure wave ('N-wave') dragged along the ground beneath any supersonic aircraft.",
     "tags": [
       "engineering",
-      "civil-structures",
+      "fluid-dynamics",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "engineering-materials-science-0135",
+    "id": "engineering-fluid-dynamics-0135",
     "category": "Engineering",
-    "subcategory": "Materials Science",
+    "subcategory": "Fluid Dynamics",
     "difficulty": "hard",
-    "question": "In fundamental engineering: What mechanical parameter is calculated as the product of applied rotational force and perpendicular distance from the pivot? (Ref #135)",
+    "question": "What destructive physical phenomenon occurs when local liquid pressure drops below the liquid's saturation vapor pressure, forming vapor bubbles that collapse violently?",
     "options": [
-      "Power",
-      "Impulse",
-      "Torque (Moment of force)",
-      "Momentum"
+      "Water Hammer",
+      "Surge",
+      "Cavitation",
+      "Flashing"
     ],
     "correctAnswer": 2,
-    "explanation": "Torque measures the rotational tendency of a force, equal to force times the lever arm perpendicular distance (τ = r × F).",
+    "explanation": "Imploding cavitation bubbles generate micro-jets exceeding 100,000 psi, pitting and destroying marine propellers and pump impellers.",
     "tags": [
       "engineering",
-      "materials-science",
+      "fluid-dynamics",
       "hard"
     ],
     "active": true
@@ -2839,15 +2839,15 @@
     "category": "Engineering",
     "subcategory": "Fluid Dynamics",
     "difficulty": "easy",
-    "question": "In fundamental engineering: What physical property is defined in mechanical engineering as internal force divided by cross-sectional area? (Ref #136)",
+    "question": "What hydraulic shock transient occurs when a moving column of liquid in a pipe is stopped abruptly by rapid valve closure, producing high-pressure shock waves?",
     "options": [
-      "Strain",
-      "Torque",
-      "Viscosity",
-      "Stress (σ = F / A)"
+      "Cavitation",
+      "Vapor Lock",
+      "Surging",
+      "Water Hammer (Hydraulic Shock)"
     ],
     "correctAnswer": 3,
-    "explanation": "Stress is force applied per unit area, measured in Pascals (N/m²) or pounds per square inch (psi).",
+    "explanation": "Momentum energy converts instantly into severe pressure spikes, rattling pipes and potentially rupturing fittings and welds.",
     "tags": [
       "engineering",
       "fluid-dynamics",
@@ -2856,64 +2856,64 @@
     "active": true
   },
   {
-    "id": "engineering-mechanical-engineering-0137",
+    "id": "engineering-fluid-dynamics-0137",
     "category": "Engineering",
-    "subcategory": "Mechanical Engineering",
+    "subcategory": "Fluid Dynamics",
     "difficulty": "medium",
-    "question": "In fundamental engineering: What fundamental material property does Young's Modulus quantify? (Ref #137)",
+    "question": "What device consists of an open-ended tube pointed directly into fluid flow to measure stagnation (total) pressure, used to calculate aircraft airspeed?",
     "options": [
-      "Linear tensile elasticity / stiffness of a solid material",
-      "Thermal conductivity",
-      "Electric resistance",
-      "Magnetic permeability"
+      "A Pitot Tube",
+      "A Manometer",
+      "A Venturi Meter",
+      "An Orifice Plate"
     ],
     "correctAnswer": 0,
-    "explanation": "Young's modulus is the ratio of tensile stress to tensile strain within the elastic limit of a material.",
+    "explanation": "By measuring dynamic pressure (total stagnation pressure minus static pressure), a Pitot-static system calculates true airspeed.",
     "tags": [
       "engineering",
-      "mechanical-engineering",
+      "fluid-dynamics",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "engineering-civil-structures-0138",
+    "id": "engineering-fluid-dynamics-0138",
     "category": "Engineering",
-    "subcategory": "Civil Structures",
+    "subcategory": "Fluid Dynamics",
     "difficulty": "hard",
-    "question": "In fundamental engineering: Which fluid dynamics principle explains why fluid pressure decreases when flow velocity increases through a constriction? (Ref #138)",
+    "question": "What flow measurement device constricts pipe flow through a converging throat to produce a measurable pressure drop that indicates volumetric flow rate?",
     "options": [
-      "Archimedes' Principle",
-      "Bernoulli's Principle",
-      "Pascal's Law",
-      "Coulomb's Law"
+      "A Rotameter",
+      "A Venturi Tube (Venturi Meter)",
+      "A Pitot Tube",
+      "A Weir"
     ],
     "correctAnswer": 1,
-    "explanation": "Bernoulli’s equation shows that for an inviscid flow, an increase in fluid speed occurs simultaneously with a decrease in static pressure.",
+    "explanation": "Bernoulli's principle dictates that velocity increases and static pressure drops across the constricted throat, calibrated to measure flow.",
     "tags": [
       "engineering",
-      "civil-structures",
+      "fluid-dynamics",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "engineering-materials-science-0139",
+    "id": "engineering-fluid-dynamics-0139",
     "category": "Engineering",
-    "subcategory": "Materials Science",
+    "subcategory": "Fluid Dynamics",
     "difficulty": "easy",
-    "question": "In fundamental engineering: In structural engineering, which structural type is a beam supported at only one end and extending freely into space? (Ref #139)",
+    "question": "What open-channel hydraulic phenomenon describes a sudden, turbulent transition from high-velocity shallow supercritical flow to low-velocity deep subcritical flow?",
     "options": [
-      "Simply supported beam",
-      "Continuous span beam",
-      "Cantilever beam",
-      "Truss arch"
+      "A Seiche",
+      "A Tidal Bore",
+      "A Hydraulic Jump",
+      "A Soliton"
     ],
     "correctAnswer": 2,
-    "explanation": "A cantilever is anchored firmly at a single fixed support, with the other end projecting outward unsupported.",
+    "explanation": "A hydraulic jump dissipates massive kinetic energy, utilized at the base of dam spillways to prevent downstream riverbed erosion.",
     "tags": [
       "engineering",
-      "materials-science",
+      "fluid-dynamics",
       "easy"
     ],
     "active": true
@@ -2923,15 +2923,15 @@
     "category": "Engineering",
     "subcategory": "Fluid Dynamics",
     "difficulty": "medium",
-    "question": "In fundamental engineering: What mechanical parameter is calculated as the product of applied rotational force and perpendicular distance from the pivot? (Ref #140)",
+    "question": "What repeating pattern of swirling alternating vortices forms in the wake behind a bluff cylindrical body immersed in fluid flow?",
     "options": [
-      "Power",
-      "Impulse",
-      "Momentum",
-      "Torque (Moment of force)"
+      "Taylor-Couette Flow",
+      "Poiseuille Flow",
+      "Rankine Vortex",
+      "Karman Vortex Street"
     ],
     "correctAnswer": 3,
-    "explanation": "Torque measures the rotational tendency of a force, equal to force times the lever arm perpendicular distance (τ = r × F).",
+    "explanation": "Vortex shedding induces fluctuating transverse alternating lift forces that caused the catastrophic collapse of the Tacoma Narrows Bridge in 1940.",
     "tags": [
       "engineering",
       "fluid-dynamics",
@@ -2940,64 +2940,64 @@
     "active": true
   },
   {
-    "id": "engineering-mechanical-engineering-0141",
+    "id": "engineering-fluid-dynamics-0141",
     "category": "Engineering",
-    "subcategory": "Mechanical Engineering",
+    "subcategory": "Fluid Dynamics",
     "difficulty": "hard",
-    "question": "In fundamental engineering: What physical property is defined in mechanical engineering as internal force divided by cross-sectional area? (Ref #141)",
+    "question": "What fundamental vector partial differential equations govern the motion of viscous, Newtonian fluid substances, representing Newton's second law for fluids?",
     "options": [
-      "Stress (σ = F / A)",
-      "Strain",
-      "Torque",
-      "Viscosity"
+      "The Navier-Stokes Equations",
+      "The Euler Equations",
+      "The Maxwell Equations",
+      "The Bernoulli Equations"
     ],
     "correctAnswer": 0,
-    "explanation": "Stress is force applied per unit area, measured in Pascals (N/m²) or pounds per square inch (psi).",
+    "explanation": "The Navier-Stokes equations describe fluid velocity and pressure fields; finding smooth general solutions is a Millennium Prize Problem.",
     "tags": [
       "engineering",
-      "mechanical-engineering",
+      "fluid-dynamics",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "engineering-civil-structures-0142",
+    "id": "engineering-fluid-dynamics-0142",
     "category": "Engineering",
-    "subcategory": "Civil Structures",
+    "subcategory": "Fluid Dynamics",
     "difficulty": "easy",
-    "question": "In fundamental engineering: What fundamental material property does Young's Modulus quantify? (Ref #142)",
+    "question": "What simplified form of the Navier-Stokes equations describes the motion of an idealized, completely inviscid (zero viscosity) fluid?",
     "options": [
-      "Thermal conductivity",
-      "Linear tensile elasticity / stiffness of a solid material",
-      "Electric resistance",
-      "Magnetic permeability"
+      "The Stokes Flow Equations",
+      "The Euler Equations",
+      "The Bernoulli Equation",
+      "The Continuity Equation"
     ],
     "correctAnswer": 1,
-    "explanation": "Young's modulus is the ratio of tensile stress to tensile strain within the elastic limit of a material.",
+    "explanation": "Derived by Leonhard Euler in 1757, Euler equations model high-speed aerodynamics where viscous effects outside boundary layers are negligible.",
     "tags": [
       "engineering",
-      "civil-structures",
+      "fluid-dynamics",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "engineering-materials-science-0143",
+    "id": "engineering-fluid-dynamics-0143",
     "category": "Engineering",
-    "subcategory": "Materials Science",
+    "subcategory": "Fluid Dynamics",
     "difficulty": "medium",
-    "question": "In fundamental engineering: Which fluid dynamics principle explains why fluid pressure decreases when flow velocity increases through a constriction? (Ref #143)",
+    "question": "What dimensionless fluid number represents the ratio of flow velocity to the speed of surface gravity waves in open channels (Fr = v / sqrt(g * y))?",
     "options": [
-      "Archimedes' Principle",
-      "Pascal's Law",
-      "Bernoulli's Principle",
-      "Coulomb's Law"
+      "Reynolds Number",
+      "Weber Number",
+      "Froude Number (Fr)",
+      "Mach Number"
     ],
     "correctAnswer": 2,
-    "explanation": "Bernoulli’s equation shows that for an inviscid flow, an increase in fluid speed occurs simultaneously with a decrease in static pressure.",
+    "explanation": "Fr < 1 indicates tranquil subcritical flow; Fr = 1 is critical flow; Fr > 1 indicates rapid, shooting supercritical flow.",
     "tags": [
       "engineering",
-      "materials-science",
+      "fluid-dynamics",
       "medium"
     ],
     "active": true
@@ -3007,15 +3007,15 @@
     "category": "Engineering",
     "subcategory": "Fluid Dynamics",
     "difficulty": "hard",
-    "question": "In fundamental engineering: In structural engineering, which structural type is a beam supported at only one end and extending freely into space? (Ref #144)",
+    "question": "What dimensionless fluid number represents the ratio of fluid inertia forces to surface tension forces, critical in droplet formation and thin liquid film flows?",
     "options": [
-      "Simply supported beam",
-      "Continuous span beam",
-      "Truss arch",
-      "Cantilever beam"
+      "Froude Number",
+      "Prandtl Number",
+      "Knudsen Number",
+      "Weber Number (We)"
     ],
     "correctAnswer": 3,
-    "explanation": "A cantilever is anchored firmly at a single fixed support, with the other end projecting outward unsupported.",
+    "explanation": "High Weber numbers cause liquid droplets to atomize into fine aerosol sprays due to aerodynamic drag overcoming surface tension.",
     "tags": [
       "engineering",
       "fluid-dynamics",
@@ -3024,64 +3024,64 @@
     "active": true
   },
   {
-    "id": "engineering-mechanical-engineering-0145",
+    "id": "engineering-fluid-dynamics-0145",
     "category": "Engineering",
-    "subcategory": "Mechanical Engineering",
+    "subcategory": "Fluid Dynamics",
     "difficulty": "easy",
-    "question": "In fundamental engineering: What mechanical parameter is calculated as the product of applied rotational force and perpendicular distance from the pivot? (Ref #145)",
+    "question": "What dimensionless number represents the ratio of momentum diffusivity (kinematic viscosity) to thermal diffusivity in convective heat transfer?",
     "options": [
-      "Torque (Moment of force)",
-      "Power",
-      "Impulse",
-      "Momentum"
+      "Prandtl Number (Pr)",
+      "Nusselt Number",
+      "Grashof Number",
+      "Reynolds Number"
     ],
     "correctAnswer": 0,
-    "explanation": "Torque measures the rotational tendency of a force, equal to force times the lever arm perpendicular distance (τ = r × F).",
+    "explanation": "Pr < 1 (liquid metals) indicates rapid thermal conduction; Pr > 1 (oils) indicates momentum diffusion dominates thermal transfer.",
     "tags": [
       "engineering",
-      "mechanical-engineering",
+      "fluid-dynamics",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "engineering-civil-structures-0146",
+    "id": "engineering-fluid-dynamics-0146",
     "category": "Engineering",
-    "subcategory": "Civil Structures",
+    "subcategory": "Fluid Dynamics",
     "difficulty": "medium",
-    "question": "In fundamental engineering: What physical property is defined in mechanical engineering as internal force divided by cross-sectional area? (Ref #146)",
+    "question": "What type of pump moves fluid by trapping a fixed volume in a chamber and mechanically forcing it into the discharge pipe (e.g., gear, piston, peristaltic)?",
     "options": [
-      "Strain",
-      "Stress (σ = F / A)",
-      "Torque",
-      "Viscosity"
+      "Centrifugal Pump",
+      "Positive Displacement Pump",
+      "Axial Flow Pump",
+      "Jet Pump"
     ],
     "correctAnswer": 1,
-    "explanation": "Stress is force applied per unit area, measured in Pascals (N/m²) or pounds per square inch (psi).",
+    "explanation": "Positive displacement pumps deliver constant flow rate regardless of discharge head pressure, requiring overpressure relief valves.",
     "tags": [
       "engineering",
-      "civil-structures",
+      "fluid-dynamics",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "engineering-materials-science-0147",
+    "id": "engineering-fluid-dynamics-0147",
     "category": "Engineering",
-    "subcategory": "Materials Science",
+    "subcategory": "Fluid Dynamics",
     "difficulty": "hard",
-    "question": "In fundamental engineering: What fundamental material property does Young's Modulus quantify? (Ref #147)",
+    "question": "What type of dynamic pump utilizes a high-speed rotating impeller to impart kinetic centrifugal velocity to a fluid, converted to pressure in a spiral volute casing?",
     "options": [
-      "Thermal conductivity",
-      "Electric resistance",
-      "Linear tensile elasticity / stiffness of a solid material",
-      "Magnetic permeability"
+      "Gear Pump",
+      "Diaphragm Pump",
+      "Centrifugal Pump",
+      "Progressive Cavity Pump"
     ],
     "correctAnswer": 2,
-    "explanation": "Young's modulus is the ratio of tensile stress to tensile strain within the elastic limit of a material.",
+    "explanation": "Centrifugal pumps are the most common industrial pumps, moving high volumes of low-viscosity liquid efficiently.",
     "tags": [
       "engineering",
-      "materials-science",
+      "fluid-dynamics",
       "hard"
     ],
     "active": true
@@ -3091,15 +3091,15 @@
     "category": "Engineering",
     "subcategory": "Fluid Dynamics",
     "difficulty": "easy",
-    "question": "In fundamental engineering: Which fluid dynamics principle explains why fluid pressure decreases when flow velocity increases through a constriction? (Ref #148)",
+    "question": "What net pressure value at the suction inlet of a centrifugal pump must exceed liquid vapor pressure to prevent destructive cavitation?",
     "options": [
-      "Archimedes' Principle",
-      "Pascal's Law",
-      "Coulomb's Law",
-      "Bernoulli's Principle"
+      "Total Dynamic Head",
+      "Shutoff Head",
+      "Static Suction Lift",
+      "Net Positive Suction Head (NPSH)"
     ],
     "correctAnswer": 3,
-    "explanation": "Bernoulli’s equation shows that for an inviscid flow, an increase in fluid speed occurs simultaneously with a decrease in static pressure.",
+    "explanation": "Available NPSH (NPSHa) must exceed the pump's required NPSH (NPSHr) specified by the manufacturer to prevent boiling inside the impeller.",
     "tags": [
       "engineering",
       "fluid-dynamics",
@@ -3108,43 +3108,43 @@
     "active": true
   },
   {
-    "id": "engineering-mechanical-engineering-0149",
+    "id": "engineering-fluid-dynamics-0149",
     "category": "Engineering",
-    "subcategory": "Mechanical Engineering",
+    "subcategory": "Fluid Dynamics",
     "difficulty": "medium",
-    "question": "In fundamental engineering: In structural engineering, which structural type is a beam supported at only one end and extending freely into space? (Ref #149)",
+    "question": "What is the theoretical maximum height that water at sea level can be lifted using atmospheric suction lift alone in an ideal vacuum pump?",
     "options": [
-      "Cantilever beam",
-      "Simply supported beam",
-      "Continuous span beam",
-      "Truss arch"
+      "Approximately 33.9 feet (10.3 meters)",
+      "50.0 feet",
+      "15.0 feet",
+      "100.0 feet"
     ],
     "correctAnswer": 0,
-    "explanation": "A cantilever is anchored firmly at a single fixed support, with the other end projecting outward unsupported.",
+    "explanation": "Standard atmospheric pressure (14.7 psi) supports a column of water exactly 33.9 feet high; practical pump suction limits are 22-25 feet.",
     "tags": [
       "engineering",
-      "mechanical-engineering",
+      "fluid-dynamics",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "engineering-civil-structures-0150",
+    "id": "engineering-fluid-dynamics-0150",
     "category": "Engineering",
-    "subcategory": "Civil Structures",
+    "subcategory": "Fluid Dynamics",
     "difficulty": "hard",
-    "question": "In fundamental engineering: What mechanical parameter is calculated as the product of applied rotational force and perpendicular distance from the pivot? (Ref #150)",
+    "question": "What fundamental law states that the volumetric flow rate of laminar viscous liquid through a circular pipe is proportional to the fourth power of pipe radius (r^4)?",
     "options": [
-      "Power",
-      "Torque (Moment of force)",
-      "Impulse",
-      "Momentum"
+      "Darcy-Weisbach Equation",
+      "Hagen-Poiseuille Law",
+      "Chezy's Formula",
+      "Manning's Equation"
     ],
     "correctAnswer": 1,
-    "explanation": "Torque measures the rotational tendency of a force, equal to force times the lever arm perpendicular distance (τ = r × F).",
+    "explanation": "Doubling pipe internal radius increases laminar volumetric flow rate by sixteen-fold (2^4 = 16) under identical pressure drop.",
     "tags": [
       "engineering",
-      "civil-structures",
+      "fluid-dynamics",
       "hard"
     ],
     "active": true

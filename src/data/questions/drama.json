@@ -4,15 +4,15 @@
     "category": "Drama",
     "subcategory": "Shakespeare",
     "difficulty": "easy",
-    "question": "Theater and dramatic arts: In which Shakespearean tragedy does the troubled Danish prince deliver the soliloquy beginning: 'To be, or not to be'? (Ref #1)",
+    "question": "In William Shakespeare's tragedy Hamlet, what famous soliloquy begins with Prince Hamlet pondering existence and mortality?",
     "options": [
-      "Hamlet",
-      "Macbeth",
-      "King Lear",
-      "Othello"
+      "'To be, or not to be: that is the question'",
+      "'All the world's a stage'",
+      "'O Romeo, Romeo, wherefore art thou Romeo?'",
+      "'Now is the winter of our discontent'"
     ],
     "correctAnswer": 0,
-    "explanation": "Prince Hamlet delivers the famous existential soliloquy 'To be, or not to be, that is the question' in Act 3, Scene 1.",
+    "explanation": "Hamlet contemplates whether it is nobler in the mind to suffer life's slings and arrows or take arms against a sea of troubles.",
     "tags": [
       "drama",
       "shakespeare",
@@ -21,64 +21,64 @@
     "active": true
   },
   {
-    "id": "drama-modern-theater-0002",
+    "id": "drama-shakespeare-0002",
     "category": "Drama",
-    "subcategory": "Modern Theater",
+    "subcategory": "Shakespeare",
     "difficulty": "medium",
-    "question": "Theater and dramatic arts: Which prestigious annual theatrical awards honor excellence in live Broadway theater productions in New York City? (Ref #2)",
+    "question": "In Shakespeare's Romeo and Juliet, what are the names of the two feuding noble families of Verona?",
     "options": [
-      "The Academy Awards",
-      "The Tony Awards (Antoinette Perry Awards)",
-      "The Emmy Awards",
-      "The Grammy Awards"
+      "The Capulets and the Medicis",
+      "The Montagues and the Capulets",
+      "The Borgias and the Sforzas",
+      "The Yorks and the Lancasters"
     ],
     "correctAnswer": 1,
-    "explanation": "The Antoinette Perry Awards for Excellence in Broadway Theatre, known as the Tony Awards, celebrate Broadway stage achievements.",
+    "explanation": "Romeo is of the house of Montague, and Juliet is of the house of Capulet, whose ancient grudge leads to tragic star-crossed love.",
     "tags": [
       "drama",
-      "modern-theater",
+      "shakespeare",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "drama-dramatic-arts-0003",
+    "id": "drama-shakespeare-0003",
     "category": "Drama",
-    "subcategory": "Dramatic Arts",
+    "subcategory": "Shakespeare",
     "difficulty": "hard",
-    "question": "Theater and dramatic arts: Which American playwright authored the landmark 1949 drama 'Death of a Salesman' featuring salesman Willy Loman? (Ref #3)",
+    "question": "In Shakespeare's Macbeth, what prophesied title do the Three Witches greet Macbeth with alongside Thane of Glamis and King hereafter?",
     "options": [
-      "Tennessee Williams",
-      "Eugene O'Neill",
-      "Arthur Miller",
-      "Edward Albee"
+      "Thane of Fife",
+      "Prince of Cumberland",
+      "Thane of Cawdor",
+      "Earl of Northumberland"
     ],
     "correctAnswer": 2,
-    "explanation": "Arthur Miller won the Pulitzer Prize for Drama for Death of a Salesman, examining the tragedy of the American dream through Willy Loman.",
+    "explanation": "The witches' prophecy begins Macbeth's bloody descent into regicide, spurred by Lady Macbeth's ruthless ambition.",
     "tags": [
       "drama",
-      "dramatic-arts",
+      "shakespeare",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "drama-stage-trivia-0004",
+    "id": "drama-shakespeare-0004",
     "category": "Drama",
-    "subcategory": "Stage Trivia",
+    "subcategory": "Shakespeare",
     "difficulty": "easy",
-    "question": "Theater and dramatic arts: What is the theatrical term for a dramatic speech delivered by an actor alone on stage, revealing their inner thoughts? (Ref #4)",
+    "question": "In Shakespeare's tragedy Othello, what manipulative ensign deceives the Moor of Venice into believing his wife Desdemona is unfaithful?",
     "options": [
-      "Dialogue",
-      "Prologue",
-      "Epilogue",
-      "Soliloquy"
+      "Cassio",
+      "Roderigo",
+      "Brabantio",
+      "Iago"
     ],
     "correctAnswer": 3,
-    "explanation": "A soliloquy is an utterance spoken aloud by a character when alone on stage to convey innermost thoughts directly to the audience.",
+    "explanation": "Iago exploits Othello's insecurities using Desdemona's strawberry-embroidered handkerchief as fabricated evidence of betrayal.",
     "tags": [
       "drama",
-      "stage-trivia",
+      "shakespeare",
       "easy"
     ],
     "active": true
@@ -88,15 +88,15 @@
     "category": "Drama",
     "subcategory": "Shakespeare",
     "difficulty": "medium",
-    "question": "Theater and dramatic arts: In Shakespeare's tragedy 'Romeo and Juliet', what are the names of the two feuding noble families in Verona? (Ref #5)",
+    "question": "In Shakespeare's King Lear, which of his three daughters refuses to flatter him with empty praise and is banished from Britain?",
     "options": [
-      "The Capulets and the Montagues",
-      "The Lancasters and the Yorks",
-      "The Borgias and the Medicis",
-      "The Macbeths and the Macduffs"
+      "Cordelia",
+      "Goneril",
+      "Regan",
+      "Helena"
     ],
     "correctAnswer": 0,
-    "explanation": "Romeo Montague and Juliet Capulet are the star-crossed lovers separated by their families' ancient grudge.",
+    "explanation": "Unlike her deceitful sisters Goneril and Regan, Cordelia replies that she loves her father according to her bond, no more nor less.",
     "tags": [
       "drama",
       "shakespeare",
@@ -105,64 +105,64 @@
     "active": true
   },
   {
-    "id": "drama-modern-theater-0006",
+    "id": "drama-shakespeare-0006",
     "category": "Drama",
-    "subcategory": "Modern Theater",
+    "subcategory": "Shakespeare",
     "difficulty": "hard",
-    "question": "Theater and dramatic arts: In which Shakespearean tragedy does the troubled Danish prince deliver the soliloquy beginning: 'To be, or not to be'? (Ref #6)",
+    "question": "In Shakespeare's comedy A Midsummer Night's Dream, what mischievous fairy operates under the orders of King Oberon?",
     "options": [
-      "Macbeth",
-      "Hamlet",
-      "King Lear",
-      "Othello"
+      "Bottom",
+      "Puck (Robin Goodfellow)",
+      "Peaseblossom",
+      "Titania"
     ],
     "correctAnswer": 1,
-    "explanation": "Prince Hamlet delivers the famous existential soliloquy 'To be, or not to be, that is the question' in Act 3, Scene 1.",
+    "explanation": "Puck mistakenly applies the love potion to Lysander's eyes and famously declares: 'Lord, what fools these mortals be!'",
     "tags": [
       "drama",
-      "modern-theater",
+      "shakespeare",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "drama-dramatic-arts-0007",
+    "id": "drama-shakespeare-0007",
     "category": "Drama",
-    "subcategory": "Dramatic Arts",
+    "subcategory": "Shakespeare",
     "difficulty": "easy",
-    "question": "Theater and dramatic arts: Which prestigious annual theatrical awards honor excellence in live Broadway theater productions in New York City? (Ref #7)",
+    "question": "What famous monologue delivered by Jaques in Shakespeare's As You Like It describes the seven ages of human life?",
     "options": [
-      "The Academy Awards",
-      "The Emmy Awards",
-      "The Tony Awards (Antoinette Perry Awards)",
-      "The Grammy Awards"
+      "'Tomorrow, and tomorrow, and tomorrow'",
+      "'Friends, Romans, countrymen, lend me your ears'",
+      "'All the world's a stage, and all the men and women merely players'",
+      "'Now is the winter of our discontent'"
     ],
     "correctAnswer": 2,
-    "explanation": "The Antoinette Perry Awards for Excellence in Broadway Theatre, known as the Tony Awards, celebrate Broadway stage achievements.",
+    "explanation": "Jaques outlines the stages of man from infant in the nurse's arms to second childishness and mere oblivion sans teeth, sans eyes, sans taste, sans everything.",
     "tags": [
       "drama",
-      "dramatic-arts",
+      "shakespeare",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "drama-stage-trivia-0008",
+    "id": "drama-shakespeare-0008",
     "category": "Drama",
-    "subcategory": "Stage Trivia",
+    "subcategory": "Shakespeare",
     "difficulty": "medium",
-    "question": "Theater and dramatic arts: Which American playwright authored the landmark 1949 drama 'Death of a Salesman' featuring salesman Willy Loman? (Ref #8)",
+    "question": "In Julius Caesar, what famous warning does the soothsayer give to Julius Caesar on his way to the Senate?",
     "options": [
-      "Tennessee Williams",
-      "Eugene O'Neill",
-      "Edward Albee",
-      "Arthur Miller"
+      "'Et tu, Brute?'",
+      "'The fault is not in our stars'",
+      "'Cry \\'Havoc!\\' and let slip the dogs of war'",
+      "'Beware the ides of March'"
     ],
     "correctAnswer": 3,
-    "explanation": "Arthur Miller won the Pulitzer Prize for Drama for Death of a Salesman, examining the tragedy of the American dream through Willy Loman.",
+    "explanation": "Caesar ignores the warning and is assassinated by Brutus, Cassius, and the conspirators on March 15 (the Ides of March) in 44 BC.",
     "tags": [
       "drama",
-      "stage-trivia",
+      "shakespeare",
       "medium"
     ],
     "active": true
@@ -172,15 +172,15 @@
     "category": "Drama",
     "subcategory": "Shakespeare",
     "difficulty": "hard",
-    "question": "Theater and dramatic arts: What is the theatrical term for a dramatic speech delivered by an actor alone on stage, revealing their inner thoughts? (Ref #9)",
+    "question": "What are Julius Caesar\\'s famous dying words in Shakespeare\\'s play upon recognizing his friend Marcus Brutus among his assassins?",
     "options": [
-      "Soliloquy",
-      "Dialogue",
-      "Prologue",
-      "Epilogue"
+      "'Et tu, Brute? Then fall, Caesar!'",
+      "'Beware the ides of March'",
+      "'Veni, vidi, vici'",
+      "'I am constant as the Northern Star'"
     ],
     "correctAnswer": 0,
-    "explanation": "A soliloquy is an utterance spoken aloud by a character when alone on stage to convey innermost thoughts directly to the audience.",
+    "explanation": "Caesar surrenders to his fate upon realizing that even his closest confidant Brutus has joined the conspirators.",
     "tags": [
       "drama",
       "shakespeare",
@@ -189,64 +189,64 @@
     "active": true
   },
   {
-    "id": "drama-modern-theater-0010",
+    "id": "drama-shakespeare-0010",
     "category": "Drama",
-    "subcategory": "Modern Theater",
+    "subcategory": "Shakespeare",
     "difficulty": "easy",
-    "question": "Theater and dramatic arts: In Shakespeare's tragedy 'Romeo and Juliet', what are the names of the two feuding noble families in Verona? (Ref #10)",
+    "question": "In Julius Caesar, what line opens Mark Antony\\'s funeral oration to the plebeians following Caesar\\'s assassination?",
     "options": [
-      "The Lancasters and the Yorks",
-      "The Capulets and the Montagues",
-      "The Borgias and the Medicis",
-      "The Macbeths and the Macduffs"
+      "'I come to praise Caesar, not to bury him'",
+      "'Friends, Romans, countrymen, lend me your ears;'",
+      "'Now is the winter of our discontent'",
+      "'Cry \\'Havoc!\\''"
     ],
     "correctAnswer": 1,
-    "explanation": "Romeo Montague and Juliet Capulet are the star-crossed lovers separated by their families' ancient grudge.",
+    "explanation": "Antony uses brilliant rhetorical irony to turn the Roman crowd against Brutus while repeatedly calling Brutus 'an honorable man.'",
     "tags": [
       "drama",
-      "modern-theater",
+      "shakespeare",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "drama-dramatic-arts-0011",
+    "id": "drama-shakespeare-0011",
     "category": "Drama",
-    "subcategory": "Dramatic Arts",
+    "subcategory": "Shakespeare",
     "difficulty": "medium",
-    "question": "Theater and dramatic arts: In which Shakespearean tragedy does the troubled Danish prince deliver the soliloquy beginning: 'To be, or not to be'? (Ref #11)",
+    "question": "In Shakespeare's The Merchant of Venice, what harsh penalty does the moneylender Shylock demand if Antonio defaults on his loan?",
     "options": [
-      "Macbeth",
-      "King Lear",
-      "Hamlet",
-      "Othello"
+      "Antonio's merchant fleet",
+      "Three thousand ducats with compound interest",
+      "A pound of flesh nearest Antonio's heart",
+      "Banishment from Venice"
     ],
     "correctAnswer": 2,
-    "explanation": "Prince Hamlet delivers the famous existential soliloquy 'To be, or not to be, that is the question' in Act 3, Scene 1.",
+    "explanation": "Portia disguises herself as a lawyer and saves Antonio by ruling that Shylock may take flesh, but not a single drop of Christian blood.",
     "tags": [
       "drama",
-      "dramatic-arts",
+      "shakespeare",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "drama-stage-trivia-0012",
+    "id": "drama-shakespeare-0012",
     "category": "Drama",
-    "subcategory": "Stage Trivia",
+    "subcategory": "Shakespeare",
     "difficulty": "hard",
-    "question": "Theater and dramatic arts: Which prestigious annual theatrical awards honor excellence in live Broadway theater productions in New York City? (Ref #12)",
+    "question": "In The Merchant of Venice, what quality does Portia praise in her court speech, stating it 'droppeth as the gentle rain from heaven'?",
     "options": [
-      "The Academy Awards",
-      "The Emmy Awards",
-      "The Grammy Awards",
-      "The Tony Awards (Antoinette Perry Awards)"
+      "The honor of justice",
+      "The bond of friendship",
+      "The virtue of charity",
+      "The quality of mercy"
     ],
     "correctAnswer": 3,
-    "explanation": "The Antoinette Perry Awards for Excellence in Broadway Theatre, known as the Tony Awards, celebrate Broadway stage achievements.",
+    "explanation": "Portia argues that mercy blesses both him that gives and him that takes, standing above earthly royal power.",
     "tags": [
       "drama",
-      "stage-trivia",
+      "shakespeare",
       "hard"
     ],
     "active": true
@@ -256,15 +256,15 @@
     "category": "Drama",
     "subcategory": "Shakespeare",
     "difficulty": "easy",
-    "question": "Theater and dramatic arts: Which American playwright authored the landmark 1949 drama 'Death of a Salesman' featuring salesman Willy Loman? (Ref #13)",
+    "question": "What historical Shakespearean tragedy opens with the lines: 'Now is the winter of our discontent / Made glorious summer by this sun of York'?",
     "options": [
-      "Arthur Miller",
-      "Tennessee Williams",
-      "Eugene O'Neill",
-      "Edward Albee"
+      "Richard III",
+      "Henry V",
+      "Richard II",
+      "Macbeth"
     ],
     "correctAnswer": 0,
-    "explanation": "Arthur Miller won the Pulitzer Prize for Drama for Death of a Salesman, examining the tragedy of the American dream through Willy Loman.",
+    "explanation": "The physically deformed Duke of Gloucester plots his murderous ascent to the English throne.",
     "tags": [
       "drama",
       "shakespeare",
@@ -273,64 +273,64 @@
     "active": true
   },
   {
-    "id": "drama-modern-theater-0014",
+    "id": "drama-shakespeare-0014",
     "category": "Drama",
-    "subcategory": "Modern Theater",
+    "subcategory": "Shakespeare",
     "difficulty": "medium",
-    "question": "Theater and dramatic arts: What is the theatrical term for a dramatic speech delivered by an actor alone on stage, revealing their inner thoughts? (Ref #14)",
+    "question": "In Shakespeare's Henry V, what speech does the young English king deliver on Saint Crispin's Day to inspire his outnumbered army at Agincourt?",
     "options": [
-      "Dialogue",
-      "Soliloquy",
-      "Prologue",
-      "Epilogue"
+      "The Speech to the Senate",
+      "The St. Crispin's Day Speech ('We few, we happy few, we band of brothers')",
+      "The Soliloquy on Kingship",
+      "The Marching Hymn"
     ],
     "correctAnswer": 1,
-    "explanation": "A soliloquy is an utterance spoken aloud by a character when alone on stage to convey innermost thoughts directly to the audience.",
+    "explanation": "King Henry rallies his exhausted soldiers against the French nobility, creating one of dramatic literature's greatest brotherhood speeches.",
     "tags": [
       "drama",
-      "modern-theater",
+      "shakespeare",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "drama-dramatic-arts-0015",
+    "id": "drama-shakespeare-0015",
     "category": "Drama",
-    "subcategory": "Dramatic Arts",
+    "subcategory": "Shakespeare",
     "difficulty": "hard",
-    "question": "Theater and dramatic arts: In Shakespeare's tragedy 'Romeo and Juliet', what are the names of the two feuding noble families in Verona? (Ref #15)",
+    "question": "In The Tempest, who is the rightful Duke of Milan and sorcerer who rules the enchanted island with his spirit servant Ariel?",
     "options": [
-      "The Lancasters and the Yorks",
-      "The Borgias and the Medicis",
-      "The Capulets and the Montagues",
-      "The Macbeths and the Macduffs"
+      "Ferdinand",
+      "Caliban",
+      "Prospero",
+      "Gonzalo"
     ],
     "correctAnswer": 2,
-    "explanation": "Romeo Montague and Juliet Capulet are the star-crossed lovers separated by their families' ancient grudge.",
+    "explanation": "Prospero uses magic to conjure a sea tempest, shipwrecking his usurping brother Antonio before renouncing his magical staff and book.",
     "tags": [
       "drama",
-      "dramatic-arts",
+      "shakespeare",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "drama-stage-trivia-0016",
+    "id": "drama-shakespeare-0016",
     "category": "Drama",
-    "subcategory": "Stage Trivia",
+    "subcategory": "Shakespeare",
     "difficulty": "easy",
-    "question": "Theater and dramatic arts: In which Shakespearean tragedy does the troubled Danish prince deliver the soliloquy beginning: 'To be, or not to be'? (Ref #16)",
+    "question": "In The Tempest, what monstrous indigenous inhabitant of the island resents Prospero for enslaving him?",
     "options": [
-      "Macbeth",
-      "King Lear",
-      "Othello",
-      "Hamlet"
+      "Ariel",
+      "Trinculo",
+      "Stephano",
+      "Caliban"
     ],
     "correctAnswer": 3,
-    "explanation": "Prince Hamlet delivers the famous existential soliloquy 'To be, or not to be, that is the question' in Act 3, Scene 1.",
+    "explanation": "The son of the witch Sycorax, Caliban rebukes Prospero: 'You taught me language, and my profit on't / Is, I know how to curse.'",
     "tags": [
       "drama",
-      "stage-trivia",
+      "shakespeare",
       "easy"
     ],
     "active": true
@@ -340,15 +340,15 @@
     "category": "Drama",
     "subcategory": "Shakespeare",
     "difficulty": "medium",
-    "question": "Theater and dramatic arts: Which prestigious annual theatrical awards honor excellence in live Broadway theater productions in New York City? (Ref #17)",
+    "question": "In Twelfth Night, what famous opening line does Duke Orsino speak while reveling in his lovesickness for Olivia?",
     "options": [
-      "The Tony Awards (Antoinette Perry Awards)",
-      "The Academy Awards",
-      "The Emmy Awards",
-      "The Grammy Awards"
+      "'If music be the food of love, play on;'",
+      "'Shall I compare thee to a summer's day?'",
+      "'Some are born great, some achieve greatness'",
+      "'O mistress mine, where are you roaming?'"
     ],
     "correctAnswer": 0,
-    "explanation": "The Antoinette Perry Awards for Excellence in Broadway Theatre, known as the Tony Awards, celebrate Broadway stage achievements.",
+    "explanation": "Orsino seeks an excess of music so that the appetite for love may sicken and die.",
     "tags": [
       "drama",
       "shakespeare",
@@ -357,64 +357,64 @@
     "active": true
   },
   {
-    "id": "drama-modern-theater-0018",
+    "id": "drama-shakespeare-0018",
     "category": "Drama",
-    "subcategory": "Modern Theater",
+    "subcategory": "Shakespeare",
     "difficulty": "hard",
-    "question": "Theater and dramatic arts: Which American playwright authored the landmark 1949 drama 'Death of a Salesman' featuring salesman Willy Loman? (Ref #18)",
+    "question": "In Twelfth Night, what puritanical steward is tricked by a forged letter into wearing yellow stockings and cross-garters to woo Olivia?",
     "options": [
-      "Tennessee Williams",
-      "Arthur Miller",
-      "Eugene O'Neill",
-      "Edward Albee"
+      "Sir Toby Belch",
+      "Malvolio",
+      "Sir Andrew Aguecheek",
+      "Feste"
     ],
     "correctAnswer": 1,
-    "explanation": "Arthur Miller won the Pulitzer Prize for Drama for Death of a Salesman, examining the tragedy of the American dream through Willy Loman.",
+    "explanation": "Maria and Sir Toby forge Olivia's handwriting to humiliate Malvolio, locking him in a dark room as a madman.",
     "tags": [
       "drama",
-      "modern-theater",
+      "shakespeare",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "drama-dramatic-arts-0019",
+    "id": "drama-shakespeare-0019",
     "category": "Drama",
-    "subcategory": "Dramatic Arts",
+    "subcategory": "Shakespeare",
     "difficulty": "easy",
-    "question": "Theater and dramatic arts: What is the theatrical term for a dramatic speech delivered by an actor alone on stage, revealing their inner thoughts? (Ref #19)",
+    "question": "What Shakespearean comedy centers on the witty battle of insults between confirmed bachelors Beatrice and Benedick?",
     "options": [
-      "Dialogue",
-      "Prologue",
-      "Soliloquy",
-      "Epilogue"
+      "The Taming of the Shrew",
+      "Twelfth Night",
+      "Much Ado About Nothing",
+      "The Comedy of Errors"
     ],
     "correctAnswer": 2,
-    "explanation": "A soliloquy is an utterance spoken aloud by a character when alone on stage to convey innermost thoughts directly to the audience.",
+    "explanation": "Their friends conspire to make the sharp-tongued rivals realize they are passionately in love with one another in Messina.",
     "tags": [
       "drama",
-      "dramatic-arts",
+      "shakespeare",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "drama-stage-trivia-0020",
+    "id": "drama-shakespeare-0020",
     "category": "Drama",
-    "subcategory": "Stage Trivia",
+    "subcategory": "Shakespeare",
     "difficulty": "medium",
-    "question": "Theater and dramatic arts: In Shakespeare's tragedy 'Romeo and Juliet', what are the names of the two feuding noble families in Verona? (Ref #20)",
+    "question": "In Shakespeare's The Taming of the Shrew, what Petruchio of Verona sets out to marry and 'tame' the obstinate, sharp-tempered woman?",
     "options": [
-      "The Lancasters and the Yorks",
-      "The Borgias and the Medicis",
-      "The Macbeths and the Macduffs",
-      "The Capulets and the Montagues"
+      "Bianca Minola",
+      "Grumio",
+      "Lucentio",
+      "Katherina (Kate) Minola"
     ],
     "correctAnswer": 3,
-    "explanation": "Romeo Montague and Juliet Capulet are the star-crossed lovers separated by their families' ancient grudge.",
+    "explanation": "Petruchio uses psychological deprivation of food and sleep to subvert Katherina's fiery independent spirit.",
     "tags": [
       "drama",
-      "stage-trivia",
+      "shakespeare",
       "medium"
     ],
     "active": true
@@ -424,15 +424,15 @@
     "category": "Drama",
     "subcategory": "Shakespeare",
     "difficulty": "hard",
-    "question": "Theater and dramatic arts: In which Shakespearean tragedy does the troubled Danish prince deliver the soliloquy beginning: 'To be, or not to be'? (Ref #21)",
+    "question": "What Shakespearean comedy of mistaken identities features two sets of identical twin brothers separated at birth in Syracuse and Ephesus?",
     "options": [
-      "Hamlet",
-      "Macbeth",
-      "King Lear",
-      "Othello"
+      "The Comedy of Errors",
+      "Twelfth Night",
+      "The Two Gentlemen of Verona",
+      "Love's Labour's Lost"
     ],
     "correctAnswer": 0,
-    "explanation": "Prince Hamlet delivers the famous existential soliloquy 'To be, or not to be, that is the question' in Act 3, Scene 1.",
+    "explanation": "Antipholus and Dromio of Syracuse stumble upon their long-lost twins in Ephesus, creating escalating chaos and confusion.",
     "tags": [
       "drama",
       "shakespeare",
@@ -441,64 +441,64 @@
     "active": true
   },
   {
-    "id": "drama-modern-theater-0022",
+    "id": "drama-shakespeare-0022",
     "category": "Drama",
-    "subcategory": "Modern Theater",
+    "subcategory": "Shakespeare",
     "difficulty": "easy",
-    "question": "Theater and dramatic arts: Which prestigious annual theatrical awards honor excellence in live Broadway theater productions in New York City? (Ref #22)",
+    "question": "In Shakespeare's Macbeth, what line does a guilt-ridden, sleepwalking Lady Macbeth utter as she rubs imagined blood from her hands?",
     "options": [
-      "The Academy Awards",
-      "The Tony Awards (Antoinette Perry Awards)",
-      "The Emmy Awards",
-      "The Grammy Awards"
+      "'A little water clears us of this deed'",
+      "'Out, damned spot! out, I say!'",
+      "'What's done cannot be undone'",
+      "'All the perfumes of Arabia will not sweeten this little hand'"
     ],
     "correctAnswer": 1,
-    "explanation": "The Antoinette Perry Awards for Excellence in Broadway Theatre, known as the Tony Awards, celebrate Broadway stage achievements.",
+    "explanation": "Consumed by remorse for the murder of King Duncan and Banquo, Lady Macbeth unravels psychologically before dying by suicide.",
     "tags": [
       "drama",
-      "modern-theater",
+      "shakespeare",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "drama-dramatic-arts-0023",
+    "id": "drama-shakespeare-0023",
     "category": "Drama",
-    "subcategory": "Dramatic Arts",
+    "subcategory": "Shakespeare",
     "difficulty": "medium",
-    "question": "Theater and dramatic arts: Which American playwright authored the landmark 1949 drama 'Death of a Salesman' featuring salesman Willy Loman? (Ref #23)",
+    "question": "What celebrated tragedy by Shakespeare centers on Prince Hamlet discovering his uncle Claudius murdered Hamlet's father with poison in the ear?",
     "options": [
-      "Tennessee Williams",
-      "Eugene O'Neill",
-      "Arthur Miller",
-      "Edward Albee"
+      "Macbeth",
+      "King Lear",
+      "Hamlet",
+      "Titus Andronicus"
     ],
     "correctAnswer": 2,
-    "explanation": "Arthur Miller won the Pulitzer Prize for Drama for Death of a Salesman, examining the tragedy of the American dream through Willy Loman.",
+    "explanation": "The ghost of King Hamlet appears on the battlements of Elsinore castle, commanding his melancholy son to avenge his foul murder.",
     "tags": [
       "drama",
-      "dramatic-arts",
+      "shakespeare",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "drama-stage-trivia-0024",
+    "id": "drama-shakespeare-0024",
     "category": "Drama",
-    "subcategory": "Stage Trivia",
+    "subcategory": "Shakespeare",
     "difficulty": "hard",
-    "question": "Theater and dramatic arts: What is the theatrical term for a dramatic speech delivered by an actor alone on stage, revealing their inner thoughts? (Ref #24)",
+    "question": "In Hamlet, what foolish, talkative lord chamberlain gives advice to his son Laertes, including: 'To thine own self be true'?",
     "options": [
-      "Dialogue",
-      "Prologue",
-      "Epilogue",
-      "Soliloquy"
+      "Horatio",
+      "Rosencrantz",
+      "Guildenstern",
+      "Polonius"
     ],
     "correctAnswer": 3,
-    "explanation": "A soliloquy is an utterance spoken aloud by a character when alone on stage to convey innermost thoughts directly to the audience.",
+    "explanation": "Polonius is later inadvertently stabbed to death by Hamlet behind an arras tapestry in Queen Gertrude's bedchamber.",
     "tags": [
       "drama",
-      "stage-trivia",
+      "shakespeare",
       "hard"
     ],
     "active": true
@@ -508,15 +508,15 @@
     "category": "Drama",
     "subcategory": "Shakespeare",
     "difficulty": "easy",
-    "question": "Theater and dramatic arts: In Shakespeare's tragedy 'Romeo and Juliet', what are the names of the two feuding noble families in Verona? (Ref #25)",
+    "question": "In Hamlet, what tragic young noblewoman loses her mind following her father Polonius's death and drowns in a brook surrounded by flowers?",
     "options": [
-      "The Capulets and the Montagues",
-      "The Lancasters and the Yorks",
-      "The Borgias and the Medicis",
-      "The Macbeths and the Macduffs"
+      "Ophelia",
+      "Gertrude",
+      "Desdemona",
+      "Cordelia"
     ],
     "correctAnswer": 0,
-    "explanation": "Romeo Montague and Juliet Capulet are the star-crossed lovers separated by their families' ancient grudge.",
+    "explanation": "Hamlet cruelly told her 'Get thee to a nunnery', leading to her descent into lyrical madness and tragic death.",
     "tags": [
       "drama",
       "shakespeare",
@@ -525,64 +525,64 @@
     "active": true
   },
   {
-    "id": "drama-modern-theater-0026",
+    "id": "drama-shakespeare-0026",
     "category": "Drama",
-    "subcategory": "Modern Theater",
+    "subcategory": "Shakespeare",
     "difficulty": "medium",
-    "question": "Theater and dramatic arts: In which Shakespearean tragedy does the troubled Danish prince deliver the soliloquy beginning: 'To be, or not to be'? (Ref #26)",
+    "question": "In Hamlet, whose jester skull does Hamlet hold in the graveyard while remarking: 'Alas, poor Yorick! I knew him, Horatio'?",
     "options": [
-      "Macbeth",
-      "Hamlet",
-      "King Lear",
-      "Othello"
+      "King Hamlet",
+      "Yorick, the king's jester",
+      "Polonius",
+      "Rosencrantz"
     ],
     "correctAnswer": 1,
-    "explanation": "Prince Hamlet delivers the famous existential soliloquy 'To be, or not to be, that is the question' in Act 3, Scene 1.",
+    "explanation": "Hamlet reflects on the inescapable physical decay of all human greatness while contemplating Yorick's court banter.",
     "tags": [
       "drama",
-      "modern-theater",
+      "shakespeare",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "drama-dramatic-arts-0027",
+    "id": "drama-shakespeare-0027",
     "category": "Drama",
-    "subcategory": "Dramatic Arts",
+    "subcategory": "Shakespeare",
     "difficulty": "hard",
-    "question": "Theater and dramatic arts: Which prestigious annual theatrical awards honor excellence in live Broadway theater productions in New York City? (Ref #27)",
+    "question": "What Shakespearean Roman tragedy depicts a proud general who is banished from Rome and joins his enemy Tullus Aufidius to attack the city?",
     "options": [
-      "The Academy Awards",
-      "The Emmy Awards",
-      "The Tony Awards (Antoinette Perry Awards)",
-      "The Grammy Awards"
+      "Antony and Cleopatra",
+      "Titus Andronicus",
+      "Coriolanus",
+      "Timon of Athens"
     ],
     "correctAnswer": 2,
-    "explanation": "The Antoinette Perry Awards for Excellence in Broadway Theatre, known as the Tony Awards, celebrate Broadway stage achievements.",
+    "explanation": "Caius Marcius Coriolanus is persuaded to spare Rome only by the tearful pleas of his mother Volumnia, sealing his own death.",
     "tags": [
       "drama",
-      "dramatic-arts",
+      "shakespeare",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "drama-stage-trivia-0028",
+    "id": "drama-shakespeare-0028",
     "category": "Drama",
-    "subcategory": "Stage Trivia",
+    "subcategory": "Shakespeare",
     "difficulty": "easy",
-    "question": "Theater and dramatic arts: Which American playwright authored the landmark 1949 drama 'Death of a Salesman' featuring salesman Willy Loman? (Ref #28)",
+    "question": "What Shakespearean tragedy features Queen Cleopatra of Egypt ending her life with the bite of an asp alongside Mark Antony?",
     "options": [
-      "Tennessee Williams",
-      "Eugene O'Neill",
-      "Edward Albee",
-      "Arthur Miller"
+      "Julius Caesar",
+      "Troilus and Cressida",
+      "Cymbeline",
+      "Antony and Cleopatra"
     ],
     "correctAnswer": 3,
-    "explanation": "Arthur Miller won the Pulitzer Prize for Drama for Death of a Salesman, examining the tragedy of the American dream through Willy Loman.",
+    "explanation": "Following their defeat at the naval Battle of Actium, the lovers choose suicide over public humiliation in Rome.",
     "tags": [
       "drama",
-      "stage-trivia",
+      "shakespeare",
       "easy"
     ],
     "active": true
@@ -592,15 +592,15 @@
     "category": "Drama",
     "subcategory": "Shakespeare",
     "difficulty": "medium",
-    "question": "Theater and dramatic arts: What is the theatrical term for a dramatic speech delivered by an actor alone on stage, revealing their inner thoughts? (Ref #29)",
+    "question": "In Othello, what Venetian gentleman is appointed lieutenant over Iago, sparking Iago's murderous jealousy?",
     "options": [
-      "Soliloquy",
-      "Dialogue",
-      "Prologue",
-      "Epilogue"
+      "Michael Cassio",
+      "Roderigo",
+      "Gratiano",
+      "Lodovico"
     ],
     "correctAnswer": 0,
-    "explanation": "A soliloquy is an utterance spoken aloud by a character when alone on stage to convey innermost thoughts directly to the audience.",
+    "explanation": "Iago gets Cassio drunk on guard duty to provoke a brawl and orchestrate his demotion by Othello.",
     "tags": [
       "drama",
       "shakespeare",
@@ -609,64 +609,64 @@
     "active": true
   },
   {
-    "id": "drama-modern-theater-0030",
+    "id": "drama-shakespeare-0030",
     "category": "Drama",
-    "subcategory": "Modern Theater",
+    "subcategory": "Shakespeare",
     "difficulty": "hard",
-    "question": "Theater and dramatic arts: In Shakespeare's tragedy 'Romeo and Juliet', what are the names of the two feuding noble families in Verona? (Ref #30)",
+    "question": "In King Lear, who is the villainous illegitimate son of the Earl of Gloucester who schemes to frame his legitimate brother Edgar?",
     "options": [
-      "The Lancasters and the Yorks",
-      "The Capulets and the Montagues",
-      "The Borgias and the Medicis",
-      "The Macbeths and the Macduffs"
+      "Kent",
+      "Edmund",
+      "Oswald",
+      "Albany"
     ],
     "correctAnswer": 1,
-    "explanation": "Romeo Montague and Juliet Capulet are the star-crossed lovers separated by their families' ancient grudge.",
+    "explanation": "Edmund delivers the famous soliloquy: 'Thou, nature, art my goddess; to thy law / My services are bound... Now, gods, stand up for bastards!'",
     "tags": [
       "drama",
-      "modern-theater",
+      "shakespeare",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "drama-dramatic-arts-0031",
+    "id": "drama-shakespeare-0031",
     "category": "Drama",
-    "subcategory": "Dramatic Arts",
+    "subcategory": "Shakespeare",
     "difficulty": "easy",
-    "question": "Theater and dramatic arts: In which Shakespearean tragedy does the troubled Danish prince deliver the soliloquy beginning: 'To be, or not to be'? (Ref #31)",
+    "question": "What London theater, built in 1599 by Shakespeare's playing company the Lord Chamberlain's Men, was famous for its open-air wooden 'wooden O'?",
     "options": [
-      "Macbeth",
-      "King Lear",
-      "Hamlet",
-      "Othello"
+      "The Rose",
+      "The Swan",
+      "The Globe Theatre",
+      "The Curtain"
     ],
     "correctAnswer": 2,
-    "explanation": "Prince Hamlet delivers the famous existential soliloquy 'To be, or not to be, that is the question' in Act 3, Scene 1.",
+    "explanation": "The Globe burned down in 1613 during a performance of Henry VIII when a theatrical cannon misfired into the thatched roof.",
     "tags": [
       "drama",
-      "dramatic-arts",
+      "shakespeare",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "drama-stage-trivia-0032",
+    "id": "drama-shakespeare-0032",
     "category": "Drama",
-    "subcategory": "Stage Trivia",
+    "subcategory": "Shakespeare",
     "difficulty": "medium",
-    "question": "Theater and dramatic arts: Which prestigious annual theatrical awards honor excellence in live Broadway theater productions in New York City? (Ref #32)",
+    "question": "In Elizabethan theater, what were the working-class audience members who stood in the uncovered courtyard pit called?",
     "options": [
-      "The Academy Awards",
-      "The Emmy Awards",
-      "The Grammy Awards",
-      "The Tony Awards (Antoinette Perry Awards)"
+      "Gallery Men",
+      "Boxers",
+      "Yarders",
+      "Groundlings (Penny Stinkers)"
     ],
     "correctAnswer": 3,
-    "explanation": "The Antoinette Perry Awards for Excellence in Broadway Theatre, known as the Tony Awards, celebrate Broadway stage achievements.",
+    "explanation": "Groundlings paid one penny to stand around the thrust stage, eating hazelnuts and vocalizing their reactions to actors.",
     "tags": [
       "drama",
-      "stage-trivia",
+      "shakespeare",
       "medium"
     ],
     "active": true
@@ -676,15 +676,15 @@
     "category": "Drama",
     "subcategory": "Shakespeare",
     "difficulty": "hard",
-    "question": "Theater and dramatic arts: Which American playwright authored the landmark 1949 drama 'Death of a Salesman' featuring salesman Willy Loman? (Ref #33)",
+    "question": "What verse form, consisting of unrhymed lines of iambic pentameter, was Shakespeare's primary dramatic poetic medium?",
     "options": [
-      "Arthur Miller",
-      "Tennessee Williams",
-      "Eugene O'Neill",
-      "Edward Albee"
+      "Blank Verse",
+      "Free Verse",
+      "Rhymed Couplets",
+      "Prose"
     ],
     "correctAnswer": 0,
-    "explanation": "Arthur Miller won the Pulitzer Prize for Drama for Death of a Salesman, examining the tragedy of the American dream through Willy Loman.",
+    "explanation": "Each blank verse line contains five metrical feet of unstressed followed by stressed syllables (da-DUM da-DUM da-DUM da-DUM da-DUM).",
     "tags": [
       "drama",
       "shakespeare",
@@ -697,15 +697,15 @@
     "category": "Drama",
     "subcategory": "Modern Theater",
     "difficulty": "easy",
-    "question": "Theater and dramatic arts: What is the theatrical term for a dramatic speech delivered by an actor alone on stage, revealing their inner thoughts? (Ref #34)",
+    "question": "What 1949 Arthur Miller masterpiece, which won the Pulitzer Prize for Drama, follows the tragic final days of traveling salesman Willy Loman?",
     "options": [
-      "Dialogue",
-      "Soliloquy",
-      "Prologue",
-      "Epilogue"
+      "The Crucible",
+      "Death of a Salesman",
+      "All My Sons",
+      "A View from the Bridge"
     ],
     "correctAnswer": 1,
-    "explanation": "A soliloquy is an utterance spoken aloud by a character when alone on stage to convey innermost thoughts directly to the audience.",
+    "explanation": "Willy Loman's obsession with being well-liked and achieving the American Dream leads to disillusionment and tragic self-sacrifice for insurance money.",
     "tags": [
       "drama",
       "modern-theater",
@@ -714,64 +714,64 @@
     "active": true
   },
   {
-    "id": "drama-dramatic-arts-0035",
+    "id": "drama-modern-theater-0035",
     "category": "Drama",
-    "subcategory": "Dramatic Arts",
+    "subcategory": "Modern Theater",
     "difficulty": "medium",
-    "question": "Theater and dramatic arts: In Shakespeare's tragedy 'Romeo and Juliet', what are the names of the two feuding noble families in Verona? (Ref #35)",
+    "question": "What 1953 Arthur Miller allegory uses the 1692 Salem Witch Trials to criticize Cold War McCarthyite anti-communist blacklists?",
     "options": [
-      "The Lancasters and the Yorks",
-      "The Borgias and the Medicis",
-      "The Capulets and the Montagues",
-      "The Macbeths and the Macduffs"
+      "Death of a Salesman",
+      "All My Sons",
+      "The Crucible",
+      "Incident at Vichy"
     ],
     "correctAnswer": 2,
-    "explanation": "Romeo Montague and Juliet Capulet are the star-crossed lovers separated by their families' ancient grudge.",
+    "explanation": "John Proctor chooses execution rather than signing a false confession, crying: 'Because it is my name! Because I cannot have another in my life!'",
     "tags": [
       "drama",
-      "dramatic-arts",
+      "modern-theater",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "drama-stage-trivia-0036",
+    "id": "drama-modern-theater-0036",
     "category": "Drama",
-    "subcategory": "Stage Trivia",
+    "subcategory": "Modern Theater",
     "difficulty": "hard",
-    "question": "Theater and dramatic arts: In which Shakespearean tragedy does the troubled Danish prince deliver the soliloquy beginning: 'To be, or not to be'? (Ref #36)",
+    "question": "What 1947 Tennessee Williams drama set in the French Quarter of New Orleans pits delicate Southern belle Blanche DuBois against Stanley Kowalski?",
     "options": [
-      "Macbeth",
-      "King Lear",
-      "Othello",
-      "Hamlet"
+      "The Glass Menagerie",
+      "Cat on a Hot Tin Roof",
+      "The Night of the Iguana",
+      "A Streetcar Named Desire"
     ],
     "correctAnswer": 3,
-    "explanation": "Prince Hamlet delivers the famous existential soliloquy 'To be, or not to be, that is the question' in Act 3, Scene 1.",
+    "explanation": "Blanche DuBois is driven to a mental breakdown, concluding with her iconic line: 'I have always depended on the kindness of strangers.'",
     "tags": [
       "drama",
-      "stage-trivia",
+      "modern-theater",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "drama-shakespeare-0037",
+    "id": "drama-modern-theater-0037",
     "category": "Drama",
-    "subcategory": "Shakespeare",
+    "subcategory": "Modern Theater",
     "difficulty": "easy",
-    "question": "Theater and dramatic arts: Which prestigious annual theatrical awards honor excellence in live Broadway theater productions in New York City? (Ref #37)",
+    "question": "What 1944 Tennessee Williams memory play centers on the fragile Laura Wingfield and her collection of glass animal figurines?",
     "options": [
-      "The Tony Awards (Antoinette Perry Awards)",
-      "The Academy Awards",
-      "The Emmy Awards",
-      "The Grammy Awards"
+      "The Glass Menagerie",
+      "A Streetcar Named Desire",
+      "Summer and Smoke",
+      "Sweet Bird of Youth"
     ],
     "correctAnswer": 0,
-    "explanation": "The Antoinette Perry Awards for Excellence in Broadway Theatre, known as the Tony Awards, celebrate Broadway stage achievements.",
+    "explanation": "Narrated by Tom Wingfield, Laura's limp and painful shyness are highlighted during a visit from gentleman caller Jim O'Connor.",
     "tags": [
       "drama",
-      "shakespeare",
+      "modern-theater",
       "easy"
     ],
     "active": true
@@ -781,15 +781,15 @@
     "category": "Drama",
     "subcategory": "Modern Theater",
     "difficulty": "medium",
-    "question": "Theater and dramatic arts: Which American playwright authored the landmark 1949 drama 'Death of a Salesman' featuring salesman Willy Loman? (Ref #38)",
+    "question": "What 1955 Tennessee Williams Pulitzer Prize-winning drama features Brick Pollitt, his wife Maggie the Cat, and the wealthy patriarch Big Daddy?",
     "options": [
-      "Tennessee Williams",
-      "Arthur Miller",
-      "Eugene O'Neill",
-      "Edward Albee"
+      "A Streetcar Named Desire",
+      "Cat on a Hot Tin Roof",
+      "Sweet Bird of Youth",
+      "Orpheus Descending"
     ],
     "correctAnswer": 1,
-    "explanation": "Arthur Miller won the Pulitzer Prize for Drama for Death of a Salesman, examining the tragedy of the American dream through Willy Loman.",
+    "explanation": "Set on a Mississippi Delta cotton plantation, the play exposes mendacity, alcoholism, and family greed over Big Daddy's fatal cancer.",
     "tags": [
       "drama",
       "modern-theater",
@@ -798,64 +798,64 @@
     "active": true
   },
   {
-    "id": "drama-dramatic-arts-0039",
+    "id": "drama-modern-theater-0039",
     "category": "Drama",
-    "subcategory": "Dramatic Arts",
+    "subcategory": "Modern Theater",
     "difficulty": "hard",
-    "question": "Theater and dramatic arts: What is the theatrical term for a dramatic speech delivered by an actor alone on stage, revealing their inner thoughts? (Ref #39)",
+    "question": "What landmark 1959 drama by Lorraine Hansberry was the first play written by a Black woman to be produced on Broadway?",
     "options": [
-      "Dialogue",
-      "Prologue",
-      "Soliloquy",
-      "Epilogue"
+      "The Piano Lesson",
+      "Fences",
+      "A Raisin in the Sun",
+      "For Colored Girls"
     ],
     "correctAnswer": 2,
-    "explanation": "A soliloquy is an utterance spoken aloud by a character when alone on stage to convey innermost thoughts directly to the audience.",
+    "explanation": "The Younger family debates whether to invest a $10,000 life insurance check into a liquor store or a home in a white Chicago neighborhood.",
     "tags": [
       "drama",
-      "dramatic-arts",
+      "modern-theater",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "drama-stage-trivia-0040",
+    "id": "drama-modern-theater-0040",
     "category": "Drama",
-    "subcategory": "Stage Trivia",
+    "subcategory": "Modern Theater",
     "difficulty": "easy",
-    "question": "Theater and dramatic arts: In Shakespeare's tragedy 'Romeo and Juliet', what are the names of the two feuding noble families in Verona? (Ref #40)",
+    "question": "What 1985 August Wilson drama, part of his ten-play Pittsburgh Cycle, stars 53-year-old sanitation worker Troy Maxson?",
     "options": [
-      "The Lancasters and the Yorks",
-      "The Borgias and the Medicis",
-      "The Macbeths and the Macduffs",
-      "The Capulets and the Montagues"
+      "The Piano Lesson",
+      "Ma Rainey's Black Bottom",
+      "Seven Guitars",
+      "Fences"
     ],
     "correctAnswer": 3,
-    "explanation": "Romeo Montague and Juliet Capulet are the star-crossed lovers separated by their families' ancient grudge.",
+    "explanation": "Troy Maxson grapples with past athletic discrimination, infidelity, and complex paternal conflict with his aspiring football player son Cory.",
     "tags": [
       "drama",
-      "stage-trivia",
+      "modern-theater",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "drama-shakespeare-0041",
+    "id": "drama-modern-theater-0041",
     "category": "Drama",
-    "subcategory": "Shakespeare",
+    "subcategory": "Modern Theater",
     "difficulty": "medium",
-    "question": "Theater and dramatic arts: In which Shakespearean tragedy does the troubled Danish prince deliver the soliloquy beginning: 'To be, or not to be'? (Ref #41)",
+    "question": "What 1987 August Wilson play centers on a brother and sister arguing over whether to sell an intricately carved family heirloom piano?",
     "options": [
-      "Hamlet",
-      "Macbeth",
-      "King Lear",
-      "Othello"
+      "The Piano Lesson",
+      "Fences",
+      "Jitney",
+      "Gem of the Ocean"
     ],
     "correctAnswer": 0,
-    "explanation": "Prince Hamlet delivers the famous existential soliloquy 'To be, or not to be, that is the question' in Act 3, Scene 1.",
+    "explanation": "Boy Willie wants to sell the piano to buy land, while Berniece refuses because their enslaved ancestors' faces are carved into its wood.",
     "tags": [
       "drama",
-      "shakespeare",
+      "modern-theater",
       "medium"
     ],
     "active": true
@@ -865,15 +865,15 @@
     "category": "Drama",
     "subcategory": "Modern Theater",
     "difficulty": "hard",
-    "question": "Theater and dramatic arts: Which prestigious annual theatrical awards honor excellence in live Broadway theater productions in New York City? (Ref #42)",
+    "question": "What 1962 Edward Albee masterpiece depicts the vicious, booze-fueled psychological warfare between college professor George and his wife Martha?",
     "options": [
-      "The Academy Awards",
-      "The Tony Awards (Antoinette Perry Awards)",
-      "The Emmy Awards",
-      "The Grammy Awards"
+      "The Zoo Story",
+      "Who's Afraid of Virginia Woolf?",
+      "A Delicate Balance",
+      "Three Tall Women"
     ],
     "correctAnswer": 1,
-    "explanation": "The Antoinette Perry Awards for Excellence in Broadway Theatre, known as the Tony Awards, celebrate Broadway stage achievements.",
+    "explanation": "George and Martha terrorize their young houseguests Nick and Honey with cruel party games like 'Humiliate the Host' and 'Get the Guests.'",
     "tags": [
       "drama",
       "modern-theater",
@@ -882,64 +882,64 @@
     "active": true
   },
   {
-    "id": "drama-dramatic-arts-0043",
+    "id": "drama-modern-theater-0043",
     "category": "Drama",
-    "subcategory": "Dramatic Arts",
+    "subcategory": "Modern Theater",
     "difficulty": "easy",
-    "question": "Theater and dramatic arts: Which American playwright authored the landmark 1949 drama 'Death of a Salesman' featuring salesman Willy Loman? (Ref #43)",
+    "question": "What 1953 absurdist masterpiece by Samuel Beckett features two tramps, Vladimir and Estragon, waiting endlessly near a solitary tree?",
     "options": [
-      "Tennessee Williams",
-      "Eugene O'Neill",
-      "Arthur Miller",
-      "Edward Albee"
+      "Endgame",
+      "Krapp's Last Tape",
+      "Waiting for Godot",
+      "Happy Days"
     ],
     "correctAnswer": 2,
-    "explanation": "Arthur Miller won the Pulitzer Prize for Drama for Death of a Salesman, examining the tragedy of the American dream through Willy Loman.",
+    "explanation": "Godot never arrives, embodying the existential philosophy of Theater of the Absurd and the cyclical repetition of human existence.",
     "tags": [
       "drama",
-      "dramatic-arts",
+      "modern-theater",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "drama-stage-trivia-0044",
+    "id": "drama-modern-theater-0044",
     "category": "Drama",
-    "subcategory": "Stage Trivia",
+    "subcategory": "Modern Theater",
     "difficulty": "medium",
-    "question": "Theater and dramatic arts: What is the theatrical term for a dramatic speech delivered by an actor alone on stage, revealing their inner thoughts? (Ref #44)",
+    "question": "What 1957 Samuel Beckett one-act play features the blind, paralyzed Hamm and his servant Clov inside a post-apocalyptic bunker?",
     "options": [
-      "Dialogue",
-      "Prologue",
-      "Epilogue",
-      "Soliloquy"
+      "Waiting for Godot",
+      "Rhinoceros",
+      "The Balcony",
+      "Endgame"
     ],
     "correctAnswer": 3,
-    "explanation": "A soliloquy is an utterance spoken aloud by a character when alone on stage to convey innermost thoughts directly to the audience.",
+    "explanation": "Hamm's legless parents Nagg and Nell live inside trash cans, exploring isolation, despair, and theatrical finality.",
     "tags": [
       "drama",
-      "stage-trivia",
+      "modern-theater",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "drama-shakespeare-0045",
+    "id": "drama-modern-theater-0045",
     "category": "Drama",
-    "subcategory": "Shakespeare",
+    "subcategory": "Modern Theater",
     "difficulty": "hard",
-    "question": "Theater and dramatic arts: In Shakespeare's tragedy 'Romeo and Juliet', what are the names of the two feuding noble families in Verona? (Ref #45)",
+    "question": "What 1959 absurdist play by Eugène Ionesco depicts the inhabitants of a French provincial town inexplicably transforming into horned beasts?",
     "options": [
-      "The Capulets and the Montagues",
-      "The Lancasters and the Yorks",
-      "The Borgias and the Medicis",
-      "The Macbeths and the Macduffs"
+      "Rhinoceros",
+      "The Bald Soprano",
+      "The Chairs",
+      "The Lesson"
     ],
     "correctAnswer": 0,
-    "explanation": "Romeo Montague and Juliet Capulet are the star-crossed lovers separated by their families' ancient grudge.",
+    "explanation": "Only the everyman Bérenger resists conformity, serving as a powerful anti-fascist allegory against mass hysteria.",
     "tags": [
       "drama",
-      "shakespeare",
+      "modern-theater",
       "hard"
     ],
     "active": true
@@ -949,15 +949,15 @@
     "category": "Drama",
     "subcategory": "Modern Theater",
     "difficulty": "easy",
-    "question": "Theater and dramatic arts: In which Shakespearean tragedy does the troubled Danish prince deliver the soliloquy beginning: 'To be, or not to be'? (Ref #46)",
+    "question": "What 1993 epic two-part Tony and Pulitzer-winning drama by Tony Kushner explores the 1980s AIDS crisis and conservative politics in America?",
     "options": [
-      "Macbeth",
-      "Hamlet",
-      "King Lear",
-      "Othello"
+      "The Normal Heart",
+      "Angels in America: A Gay Fantasia on National Themes",
+      "Rent",
+      "Torch Song Trilogy"
     ],
     "correctAnswer": 1,
-    "explanation": "Prince Hamlet delivers the famous existential soliloquy 'To be, or not to be, that is the question' in Act 3, Scene 1.",
+    "explanation": "Featuring Prior Walter, Roy Cohn, and Harper Pitt, the play explores disease, justice, and spiritual transformation in New York City.",
     "tags": [
       "drama",
       "modern-theater",
@@ -966,64 +966,64 @@
     "active": true
   },
   {
-    "id": "drama-dramatic-arts-0047",
+    "id": "drama-modern-theater-0047",
     "category": "Drama",
-    "subcategory": "Dramatic Arts",
+    "subcategory": "Modern Theater",
     "difficulty": "medium",
-    "question": "Theater and dramatic arts: Which prestigious annual theatrical awards honor excellence in live Broadway theater productions in New York City? (Ref #47)",
+    "question": "What 1985 Larry Kramer drama dramatizes the terrifying early rise of the HIV/AIDS epidemic in New York City and the founding of GMHC?",
     "options": [
-      "The Academy Awards",
-      "The Emmy Awards",
-      "The Tony Awards (Antoinette Perry Awards)",
-      "The Grammy Awards"
+      "Angels in America",
+      "Rent",
+      "The Normal Heart",
+      "As Is"
     ],
     "correctAnswer": 2,
-    "explanation": "The Antoinette Perry Awards for Excellence in Broadway Theatre, known as the Tony Awards, celebrate Broadway stage achievements.",
+    "explanation": "Protagonist Ned Weeks wages an aggressive battle against government silence, medical apathy, and denial within his own community.",
     "tags": [
       "drama",
-      "dramatic-arts",
+      "modern-theater",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "drama-stage-trivia-0048",
+    "id": "drama-modern-theater-0048",
     "category": "Drama",
-    "subcategory": "Stage Trivia",
+    "subcategory": "Modern Theater",
     "difficulty": "hard",
-    "question": "Theater and dramatic arts: Which American playwright authored the landmark 1949 drama 'Death of a Salesman' featuring salesman Willy Loman? (Ref #48)",
+    "question": "What 1998 drama by Moisés Kaufman and the Tectonic Theater Project dramatized the brutal 1998 murder of gay student Matthew Shepard in Wyoming?",
     "options": [
-      "Tennessee Williams",
-      "Eugene O'Neill",
-      "Edward Albee",
-      "Arthur Miller"
+      "Angels in America",
+      "The Normal Heart",
+      "Gross Indecency",
+      "The Laramie Project"
     ],
     "correctAnswer": 3,
-    "explanation": "Arthur Miller won the Pulitzer Prize for Drama for Death of a Salesman, examining the tragedy of the American dream through Willy Loman.",
+    "explanation": "Constructed from over 200 interviews with Laramie residents, the verbatim theater piece explores community hate, grief, and healing.",
     "tags": [
       "drama",
-      "stage-trivia",
+      "modern-theater",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "drama-shakespeare-0049",
+    "id": "drama-modern-theater-0049",
     "category": "Drama",
-    "subcategory": "Shakespeare",
+    "subcategory": "Modern Theater",
     "difficulty": "easy",
-    "question": "Theater and dramatic arts: What is the theatrical term for a dramatic speech delivered by an actor alone on stage, revealing their inner thoughts? (Ref #49)",
+    "question": "What 2004 John Patrick Shanley drama set in a 1964 Bronx Catholic school pits conservative Sister Aloysius against charismatic Father Flynn?",
     "options": [
-      "Soliloquy",
-      "Dialogue",
-      "Prologue",
-      "Epilogue"
+      "Doubt: A Parable",
+      "The Crucible",
+      "Mass Appeal",
+      "Agnes of God"
     ],
     "correctAnswer": 0,
-    "explanation": "A soliloquy is an utterance spoken aloud by a character when alone on stage to convey innermost thoughts directly to the audience.",
+    "explanation": "Sister Aloysius suspects Father Flynn of inappropriate conduct with an altar boy, exploring the agonizing ambiguity of moral certainty.",
     "tags": [
       "drama",
-      "shakespeare",
+      "modern-theater",
       "easy"
     ],
     "active": true
@@ -1033,15 +1033,15 @@
     "category": "Drama",
     "subcategory": "Modern Theater",
     "difficulty": "medium",
-    "question": "Theater and dramatic arts: In Shakespeare's tragedy 'Romeo and Juliet', what are the names of the two feuding noble families in Verona? (Ref #50)",
+    "question": "What 2007 Tracy Letts Pulitzer Prize-winning dark comedy-drama chronicles the dysfunctional Weston family reuniting in Oklahoma after their father disappears?",
     "options": [
-      "The Lancasters and the Yorks",
-      "The Capulets and the Montagues",
-      "The Borgias and the Medicis",
-      "The Macbeths and the Macduffs"
+      "Bug",
+      "August: Osage County",
+      "Killer Joe",
+      "Superior Donuts"
     ],
     "correctAnswer": 1,
-    "explanation": "Romeo Montague and Juliet Capulet are the star-crossed lovers separated by their families' ancient grudge.",
+    "explanation": "Pill-addicted matriarch Violet Weston unleashes brutal family secrets across a chaotic August family funeral dinner.",
     "tags": [
       "drama",
       "modern-theater",
@@ -1050,64 +1050,64 @@
     "active": true
   },
   {
-    "id": "drama-dramatic-arts-0051",
+    "id": "drama-modern-theater-0051",
     "category": "Drama",
-    "subcategory": "Dramatic Arts",
+    "subcategory": "Modern Theater",
     "difficulty": "hard",
-    "question": "Theater and dramatic arts: In which Shakespearean tragedy does the troubled Danish prince deliver the soliloquy beginning: 'To be, or not to be'? (Ref #51)",
+    "question": "What 1983 David Mamet Pulitzer-winning drama depicts four desperate Chicago real estate salesmen competing to sell worthless land parcels?",
     "options": [
-      "Macbeth",
-      "King Lear",
-      "Hamlet",
-      "Othello"
+      "American Buffalo",
+      "Speed-the-Plow",
+      "Glengarry Glen Ross",
+      "Oleanna"
     ],
     "correctAnswer": 2,
-    "explanation": "Prince Hamlet delivers the famous existential soliloquy 'To be, or not to be, that is the question' in Act 3, Scene 1.",
+    "explanation": "Famous for sharp profane dialogue ('Mamet speak') and the iconic sales motto: 'Always Be Closing.'",
     "tags": [
       "drama",
-      "dramatic-arts",
+      "modern-theater",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "drama-stage-trivia-0052",
+    "id": "drama-modern-theater-0052",
     "category": "Drama",
-    "subcategory": "Stage Trivia",
+    "subcategory": "Modern Theater",
     "difficulty": "easy",
-    "question": "Theater and dramatic arts: Which prestigious annual theatrical awards honor excellence in live Broadway theater productions in New York City? (Ref #52)",
+    "question": "What 1992 David Mamet two-character drama explores power dynamics and accusations of sexual harassment between a professor and his female college student?",
     "options": [
-      "The Academy Awards",
-      "The Emmy Awards",
-      "The Grammy Awards",
-      "The Tony Awards (Antoinette Perry Awards)"
+      "Glengarry Glen Ross",
+      "American Buffalo",
+      "The Goat",
+      "Oleanna"
     ],
     "correctAnswer": 3,
-    "explanation": "The Antoinette Perry Awards for Excellence in Broadway Theatre, known as the Tony Awards, celebrate Broadway stage achievements.",
+    "explanation": "Carol accuses professor John of predatory behavior, leading to tenure revocation and explosive physical violence.",
     "tags": [
       "drama",
-      "stage-trivia",
+      "modern-theater",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "drama-shakespeare-0053",
+    "id": "drama-modern-theater-0053",
     "category": "Drama",
-    "subcategory": "Shakespeare",
+    "subcategory": "Modern Theater",
     "difficulty": "medium",
-    "question": "Theater and dramatic arts: Which American playwright authored the landmark 1949 drama 'Death of a Salesman' featuring salesman Willy Loman? (Ref #53)",
+    "question": "What 1966 Tom Stoppard absurdist tragicomedy follows two minor courtiers from Hamlet wandering through Elsinore while coins land continuously on heads?",
     "options": [
-      "Arthur Miller",
-      "Tennessee Williams",
-      "Eugene O'Neill",
-      "Edward Albee"
+      "Rosencrantz and Guildenstern Are Dead",
+      "Arcadia",
+      "The Real Thing",
+      "Travesties"
     ],
     "correctAnswer": 0,
-    "explanation": "Arthur Miller won the Pulitzer Prize for Drama for Death of a Salesman, examining the tragedy of the American dream through Willy Loman.",
+    "explanation": "Rosencrantz and Guildenstern ponder fate, linguistic games, and their scripted deaths in a celebrated meta-theatrical classic.",
     "tags": [
       "drama",
-      "shakespeare",
+      "modern-theater",
       "medium"
     ],
     "active": true
@@ -1117,15 +1117,15 @@
     "category": "Drama",
     "subcategory": "Modern Theater",
     "difficulty": "hard",
-    "question": "Theater and dramatic arts: What is the theatrical term for a dramatic speech delivered by an actor alone on stage, revealing their inner thoughts? (Ref #54)",
+    "question": "What 1993 Tom Stoppard masterpiece alternates between 1809 and the present day in an English country estate, exploring mathematics, poetry, and chaos theory?",
     "options": [
-      "Dialogue",
-      "Soliloquy",
-      "Prologue",
-      "Epilogue"
+      "Rosencrantz and Guildenstern Are Dead",
+      "Arcadia",
+      "The Coast of Utopia",
+      "Jumpers"
     ],
     "correctAnswer": 1,
-    "explanation": "A soliloquy is an utterance spoken aloud by a character when alone on stage to convey innermost thoughts directly to the audience.",
+    "explanation": "Hannah and Bernard uncover the life of teenage mathematical prodigy Thomasina Coverly and Lord Byron at Sidley Park.",
     "tags": [
       "drama",
       "modern-theater",
@@ -1134,64 +1134,64 @@
     "active": true
   },
   {
-    "id": "drama-dramatic-arts-0055",
+    "id": "drama-modern-theater-0055",
     "category": "Drama",
-    "subcategory": "Dramatic Arts",
+    "subcategory": "Modern Theater",
     "difficulty": "easy",
-    "question": "Theater and dramatic arts: In Shakespeare's tragedy 'Romeo and Juliet', what are the names of the two feuding noble families in Verona? (Ref #55)",
+    "question": "What 1973 Peter Shaffer psychological drama stars a psychiatrist treating a 17-year-old stable boy who blinded six horses with a spike?",
     "options": [
-      "The Lancasters and the Yorks",
-      "The Borgias and the Medicis",
-      "The Capulets and the Montagues",
-      "The Macbeths and the Macduffs"
+      "Amadeus",
+      "The Royal Hunt of the Sun",
+      "Equus",
+      "Marat/Sade"
     ],
     "correctAnswer": 2,
-    "explanation": "Romeo Montague and Juliet Capulet are the star-crossed lovers separated by their families' ancient grudge.",
+    "explanation": "Dr. Martin Dysart wrestles with curing Alan Strang's twisted erotic-religious worship while mourning his own sterile, passionless life.",
     "tags": [
       "drama",
-      "dramatic-arts",
+      "modern-theater",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "drama-stage-trivia-0056",
+    "id": "drama-modern-theater-0056",
     "category": "Drama",
-    "subcategory": "Stage Trivia",
+    "subcategory": "Modern Theater",
     "difficulty": "medium",
-    "question": "Theater and dramatic arts: In which Shakespearean tragedy does the troubled Danish prince deliver the soliloquy beginning: 'To be, or not to be'? (Ref #56)",
+    "question": "What 1979 Peter Shaffer drama depicts court composer Antonio Salieri waging war against God after realizing the vulgar young Mozart is divinely gifted?",
     "options": [
-      "Macbeth",
-      "King Lear",
-      "Othello",
-      "Hamlet"
+      "Equus",
+      "The King's Speech",
+      "Red",
+      "Amadeus"
     ],
     "correctAnswer": 3,
-    "explanation": "Prince Hamlet delivers the famous existential soliloquy 'To be, or not to be, that is the question' in Act 3, Scene 1.",
+    "explanation": "Salieri confesses to poisoning Mozart in a tragic, envy-fueled examination of mediocrity versus divine genius.",
     "tags": [
       "drama",
-      "stage-trivia",
+      "modern-theater",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "drama-shakespeare-0057",
+    "id": "drama-modern-theater-0057",
     "category": "Drama",
-    "subcategory": "Shakespeare",
+    "subcategory": "Modern Theater",
     "difficulty": "hard",
-    "question": "Theater and dramatic arts: Which prestigious annual theatrical awards honor excellence in live Broadway theater productions in New York City? (Ref #57)",
+    "question": "What 1988 David Henry Hwang Tony-winning drama explores French diplomat René Gallimard's 20-year affair with a Chinese opera singer who is a male spy?",
     "options": [
-      "The Tony Awards (Antoinette Perry Awards)",
-      "The Academy Awards",
-      "The Emmy Awards",
-      "The Grammy Awards"
+      "M. Butterfly",
+      "Chinglish",
+      "Yellow Face",
+      "Golden Child"
     ],
     "correctAnswer": 0,
-    "explanation": "The Antoinette Perry Awards for Excellence in Broadway Theatre, known as the Tony Awards, celebrate Broadway stage achievements.",
+    "explanation": "Subverting Puccini's opera Madame Butterfly, the play deconstructs Western imperialist and orientalist gender illusions.",
     "tags": [
       "drama",
-      "shakespeare",
+      "modern-theater",
       "hard"
     ],
     "active": true
@@ -1201,15 +1201,15 @@
     "category": "Drama",
     "subcategory": "Modern Theater",
     "difficulty": "easy",
-    "question": "Theater and dramatic arts: Which American playwright authored the landmark 1949 drama 'Death of a Salesman' featuring salesman Willy Loman? (Ref #58)",
+    "question": "What 1980 Mark Medoff drama explores romance and communication barriers between a hearing speech teacher and a deaf cleaning woman at a deaf school?",
     "options": [
-      "Tennessee Williams",
-      "Arthur Miller",
-      "Eugene O'Neill",
-      "Edward Albee"
+      "The Miracle Worker",
+      "Children of a Lesser God",
+      "Tribes",
+      "Spring Awakening"
     ],
     "correctAnswer": 1,
-    "explanation": "Arthur Miller won the Pulitzer Prize for Drama for Death of a Salesman, examining the tragedy of the American dream through Willy Loman.",
+    "explanation": "Phyllis Frelich and John Rubinstein originated the roles, winning Tony Awards for bringing American Sign Language to Broadway.",
     "tags": [
       "drama",
       "modern-theater",
@@ -1218,64 +1218,64 @@
     "active": true
   },
   {
-    "id": "drama-dramatic-arts-0059",
+    "id": "drama-modern-theater-0059",
     "category": "Drama",
-    "subcategory": "Dramatic Arts",
+    "subcategory": "Modern Theater",
     "difficulty": "medium",
-    "question": "Theater and dramatic arts: What is the theatrical term for a dramatic speech delivered by an actor alone on stage, revealing their inner thoughts? (Ref #59)",
+    "question": "What 1960 Robert Bolt historical drama depicts Sir Thomas More refusing to endorse King Henry VIII's divorce from Catherine of Aragon?",
     "options": [
-      "Dialogue",
-      "Prologue",
-      "Soliloquy",
-      "Epilogue"
+      "The Lion in Winter",
+      "Becket",
+      "A Man for All Seasons",
+      "Wolf Hall"
     ],
     "correctAnswer": 2,
-    "explanation": "A soliloquy is an utterance spoken aloud by a character when alone on stage to convey innermost thoughts directly to the audience.",
+    "explanation": "More chooses loyalty to Catholic conscience and the Pope over temporal royal survival, facing execution with quiet moral dignity.",
     "tags": [
       "drama",
-      "dramatic-arts",
+      "modern-theater",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "drama-stage-trivia-0060",
+    "id": "drama-modern-theater-0060",
     "category": "Drama",
-    "subcategory": "Stage Trivia",
+    "subcategory": "Modern Theater",
     "difficulty": "hard",
-    "question": "Theater and dramatic arts: In Shakespeare's tragedy 'Romeo and Juliet', what are the names of the two feuding noble families in Verona? (Ref #60)",
+    "question": "What 1966 James Goldman historical play depicts King Henry II of England and his imprisoned wife Eleanor of Aquitaine clashing over Christmas in 1183?",
     "options": [
-      "The Lancasters and the Yorks",
-      "The Borgias and the Medicis",
-      "The Macbeths and the Macduffs",
-      "The Capulets and the Montagues"
+      "A Man for All Seasons",
+      "Becket",
+      "The King's Speech",
+      "The Lion in Winter"
     ],
     "correctAnswer": 3,
-    "explanation": "Romeo Montague and Juliet Capulet are the star-crossed lovers separated by their families' ancient grudge.",
+    "explanation": "Peter O'Toole and Katharine Hepburn starred in the film adaptation, bantering with venomous, theatrical family wit.",
     "tags": [
       "drama",
-      "stage-trivia",
+      "modern-theater",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "drama-shakespeare-0061",
+    "id": "drama-modern-theater-0061",
     "category": "Drama",
-    "subcategory": "Shakespeare",
+    "subcategory": "Modern Theater",
     "difficulty": "easy",
-    "question": "Theater and dramatic arts: In which Shakespearean tragedy does the troubled Danish prince deliver the soliloquy beginning: 'To be, or not to be'? (Ref #61)",
+    "question": "What 1998 Martin McDonagh black comedy, set in County Galway, depicts the bitter domestic warfare between 40-year-old Maureen and her manipulative mother Mag?",
     "options": [
-      "Hamlet",
-      "Macbeth",
-      "King Lear",
-      "Othello"
+      "The Beauty Queen of Leenane",
+      "The Cripple of Inishmaan",
+      "The Lieutenant of Inishmore",
+      "The Pillowman"
     ],
     "correctAnswer": 0,
-    "explanation": "Prince Hamlet delivers the famous existential soliloquy 'To be, or not to be, that is the question' in Act 3, Scene 1.",
+    "explanation": "Part of the Leenane Trilogy, Mag burns Maureen's love letters, provoking shocking, fatal rural vengeance.",
     "tags": [
       "drama",
-      "shakespeare",
+      "modern-theater",
       "easy"
     ],
     "active": true
@@ -1285,15 +1285,15 @@
     "category": "Drama",
     "subcategory": "Modern Theater",
     "difficulty": "medium",
-    "question": "Theater and dramatic arts: Which prestigious annual theatrical awards honor excellence in live Broadway theater productions in New York City? (Ref #62)",
+    "question": "What 2003 Martin McDonagh dark comedy-drama depicts a short-story writer in a totalitarian state interrogated about murders mimicking his macabre fairy tales?",
     "options": [
-      "The Academy Awards",
-      "The Tony Awards (Antoinette Perry Awards)",
-      "The Emmy Awards",
-      "The Grammy Awards"
+      "The Beauty Queen of Leenane",
+      "The Pillowman",
+      "The Lieutenant of Inishmore",
+      "Hangmen"
     ],
     "correctAnswer": 1,
-    "explanation": "The Antoinette Perry Awards for Excellence in Broadway Theatre, known as the Tony Awards, celebrate Broadway stage achievements.",
+    "explanation": "Katurian and his brother Michal face brutal detectives Tupolski and Ariel, exploring the responsibility and endurance of storytelling.",
     "tags": [
       "drama",
       "modern-theater",
@@ -1302,64 +1302,64 @@
     "active": true
   },
   {
-    "id": "drama-dramatic-arts-0063",
+    "id": "drama-modern-theater-0063",
     "category": "Drama",
-    "subcategory": "Dramatic Arts",
+    "subcategory": "Modern Theater",
     "difficulty": "hard",
-    "question": "Theater and dramatic arts: Which American playwright authored the landmark 1949 drama 'Death of a Salesman' featuring salesman Willy Loman? (Ref #63)",
+    "question": "What 2009 John Logan Tony-winning two-hander depicts abstract expressionist painter Mark Rothko clashing with his young studio assistant Ken?",
     "options": [
-      "Tennessee Williams",
-      "Eugene O'Neill",
-      "Arthur Miller",
-      "Edward Albee"
+      "I Am My Own Wife",
+      "Copenhagen",
+      "Red",
+      "Art"
     ],
     "correctAnswer": 2,
-    "explanation": "Arthur Miller won the Pulitzer Prize for Drama for Death of a Salesman, examining the tragedy of the American dream through Willy Loman.",
+    "explanation": "Starring Alfred Molina and Eddie Redmayne, the play debates commercialism, artistic integrity, and color theory while priming a canvas.",
     "tags": [
       "drama",
-      "dramatic-arts",
+      "modern-theater",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "drama-stage-trivia-0064",
+    "id": "drama-modern-theater-0064",
     "category": "Drama",
-    "subcategory": "Stage Trivia",
+    "subcategory": "Modern Theater",
     "difficulty": "easy",
-    "question": "Theater and dramatic arts: What is the theatrical term for a dramatic speech delivered by an actor alone on stage, revealing their inner thoughts? (Ref #64)",
+    "question": "What 1998 Michael Frayn historical drama depicts physicists Niels Bohr and Werner Heisenberg meeting in Nazi-occupied Denmark in 1941?",
     "options": [
-      "Dialogue",
-      "Prologue",
-      "Epilogue",
-      "Soliloquy"
+      "Arcadia",
+      "Einstein's Gift",
+      "Oppenheimer",
+      "Copenhagen"
     ],
     "correctAnswer": 3,
-    "explanation": "A soliloquy is an utterance spoken aloud by a character when alone on stage to convey innermost thoughts directly to the audience.",
+    "explanation": "Revisiting their mysterious historical meeting from multiple angles, the play explores quantum uncertainty and atomic bomb development.",
     "tags": [
       "drama",
-      "stage-trivia",
+      "modern-theater",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "drama-shakespeare-0065",
+    "id": "drama-modern-theater-0065",
     "category": "Drama",
-    "subcategory": "Shakespeare",
+    "subcategory": "Modern Theater",
     "difficulty": "medium",
-    "question": "Theater and dramatic arts: In Shakespeare's tragedy 'Romeo and Juliet', what are the names of the two feuding noble families in Verona? (Ref #65)",
+    "question": "What 1994 French comedy by Yasmina Reza depicts three longtime friends arguing bitterly after one buys an expensive painting that is a blank white canvas?",
     "options": [
-      "The Capulets and the Montagues",
-      "The Lancasters and the Yorks",
-      "The Borgias and the Medicis",
-      "The Macbeths and the Macduffs"
+      "'Art'",
+      "God of Carnage",
+      "Life x 3",
+      "The Father"
     ],
     "correctAnswer": 0,
-    "explanation": "Romeo Montague and Juliet Capulet are the star-crossed lovers separated by their families' ancient grudge.",
+    "explanation": "The white painting with subtle off-white diagonal stripes exposes deep fissures of pretension, insecurity, and envy in their friendship.",
     "tags": [
       "drama",
-      "shakespeare",
+      "modern-theater",
       "medium"
     ],
     "active": true
@@ -1369,15 +1369,15 @@
     "category": "Drama",
     "subcategory": "Modern Theater",
     "difficulty": "hard",
-    "question": "Theater and dramatic arts: In which Shakespearean tragedy does the troubled Danish prince deliver the soliloquy beginning: 'To be, or not to be'? (Ref #66)",
+    "question": "What 2006 Yasmina Reza dark comedy depicts two sets of Brooklyn parents meeting civilly to resolve a playground fight between their sons, spiraling into savage chaos?",
     "options": [
-      "Macbeth",
-      "Hamlet",
-      "King Lear",
-      "Othello"
+      "'Art'",
+      "God of Carnage",
+      "August: Osage County",
+      "Clybourne Park"
     ],
     "correctAnswer": 1,
-    "explanation": "Prince Hamlet delivers the famous existential soliloquy 'To be, or not to be, that is the question' in Act 3, Scene 1.",
+    "explanation": "Polite societal veneer collapses into drunken shouting, rum-soaked tears, and vomiting across a living room table.",
     "tags": [
       "drama",
       "modern-theater",
@@ -1390,15 +1390,15 @@
     "category": "Drama",
     "subcategory": "Dramatic Arts",
     "difficulty": "easy",
-    "question": "Theater and dramatic arts: Which prestigious annual theatrical awards honor excellence in live Broadway theater productions in New York City? (Ref #67)",
+    "question": "What fundamental Russian theatrical system, developed by Konstantin Stanislavski, trains actors to draw upon affective memory and emotional truth?",
     "options": [
-      "The Academy Awards",
-      "The Emmy Awards",
-      "The Tony Awards (Antoinette Perry Awards)",
-      "The Grammy Awards"
+      "The Meisner Technique",
+      "Epic Theatre",
+      "The Stanislavski System (Method Acting foundation)",
+      "Biomechanics"
     ],
     "correctAnswer": 2,
-    "explanation": "The Antoinette Perry Awards for Excellence in Broadway Theatre, known as the Tony Awards, celebrate Broadway stage achievements.",
+    "explanation": "Stanislavski advocated 'living the part' through the 'magic if', objective-action analysis, and emotional relaxation at the Moscow Art Theatre.",
     "tags": [
       "drama",
       "dramatic-arts",
@@ -1407,64 +1407,64 @@
     "active": true
   },
   {
-    "id": "drama-stage-trivia-0068",
+    "id": "drama-dramatic-arts-0068",
     "category": "Drama",
-    "subcategory": "Stage Trivia",
+    "subcategory": "Dramatic Arts",
     "difficulty": "medium",
-    "question": "Theater and dramatic arts: Which American playwright authored the landmark 1949 drama 'Death of a Salesman' featuring salesman Willy Loman? (Ref #68)",
+    "question": "What American acting approach, popularized by Lee Strasberg at The Actors Studio, emphasizes psychological immersion and sense memory substitution?",
     "options": [
-      "Tennessee Williams",
-      "Eugene O'Neill",
-      "Edward Albee",
-      "Arthur Miller"
+      "Classical Acting",
+      "Brechtian Technique",
+      "Viewpoints",
+      "Method Acting"
     ],
     "correctAnswer": 3,
-    "explanation": "Arthur Miller won the Pulitzer Prize for Drama for Death of a Salesman, examining the tragedy of the American dream through Willy Loman.",
+    "explanation": "Pioneered by Marlon Brando, James Dean, and Robert De Niro, actors recall personal sensory memories to produce raw, realistic emotional responses.",
     "tags": [
       "drama",
-      "stage-trivia",
+      "dramatic-arts",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "drama-shakespeare-0069",
+    "id": "drama-dramatic-arts-0069",
     "category": "Drama",
-    "subcategory": "Shakespeare",
+    "subcategory": "Dramatic Arts",
     "difficulty": "hard",
-    "question": "Theater and dramatic arts: What is the theatrical term for a dramatic speech delivered by an actor alone on stage, revealing their inner thoughts? (Ref #69)",
+    "question": "What acting technique, developed by Sanford Meisner at New York's Neighborhood Playhouse, emphasizes 'living truthfully under imaginary circumstances'?",
     "options": [
-      "Soliloquy",
-      "Dialogue",
-      "Prologue",
-      "Epilogue"
+      "The Meisner Technique",
+      "The Strasberg Method",
+      "Stanislavski System",
+      "Physical Theater"
     ],
     "correctAnswer": 0,
-    "explanation": "A soliloquy is an utterance spoken aloud by a character when alone on stage to convey innermost thoughts directly to the audience.",
+    "explanation": "Meisner trained actors using the 'Repetition Exercise' to eliminate self-consciousness and react organically to their scene partner's behavior.",
     "tags": [
       "drama",
-      "shakespeare",
+      "dramatic-arts",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "drama-modern-theater-0070",
+    "id": "drama-dramatic-arts-0070",
     "category": "Drama",
-    "subcategory": "Modern Theater",
+    "subcategory": "Dramatic Arts",
     "difficulty": "easy",
-    "question": "Theater and dramatic arts: In Shakespeare's tragedy 'Romeo and Juliet', what are the names of the two feuding noble families in Verona? (Ref #70)",
+    "question": "What physical theater acting methodology, developed by Vsevolod Meyerhold, trained actors using acrobatic, mechanical, and kinetic exercises?",
     "options": [
-      "The Lancasters and the Yorks",
-      "The Capulets and the Montagues",
-      "The Borgias and the Medicis",
-      "The Macbeths and the Macduffs"
+      "Method Acting",
+      "Biomechanics",
+      "Chekhov Technique",
+      "Commedia dell'arte"
     ],
     "correctAnswer": 1,
-    "explanation": "Romeo Montague and Juliet Capulet are the star-crossed lovers separated by their families' ancient grudge.",
+    "explanation": "Meyerhold rejected psychological realism, treating the actor's body as a precise machine conveying rhythm and visual geometry.",
     "tags": [
       "drama",
-      "modern-theater",
+      "dramatic-arts",
       "easy"
     ],
     "active": true
@@ -1474,15 +1474,15 @@
     "category": "Drama",
     "subcategory": "Dramatic Arts",
     "difficulty": "medium",
-    "question": "Theater and dramatic arts: In which Shakespearean tragedy does the troubled Danish prince deliver the soliloquy beginning: 'To be, or not to be'? (Ref #71)",
+    "question": "What theatrical movement, developed by German playwright Bertolt Brecht, seeks to provoke intellectual critical thought rather than emotional escapism?",
     "options": [
-      "Macbeth",
-      "King Lear",
-      "Hamlet",
-      "Othello"
+      "Naturalism",
+      "Realism",
+      "Epic Theatre (Brechtian Theatre)",
+      "Absurdism"
     ],
     "correctAnswer": 2,
-    "explanation": "Prince Hamlet delivers the famous existential soliloquy 'To be, or not to be, that is the question' in Act 3, Scene 1.",
+    "explanation": "Brecht sought to awaken audience political awareness, showing that human society is constructed and can be fundamentally changed.",
     "tags": [
       "drama",
       "dramatic-arts",
@@ -1491,64 +1491,64 @@
     "active": true
   },
   {
-    "id": "drama-stage-trivia-0072",
+    "id": "drama-dramatic-arts-0072",
     "category": "Drama",
-    "subcategory": "Stage Trivia",
+    "subcategory": "Dramatic Arts",
     "difficulty": "hard",
-    "question": "Theater and dramatic arts: Which prestigious annual theatrical awards honor excellence in live Broadway theater productions in New York City? (Ref #72)",
+    "question": "What dramatic device in Brechtian theater deliberately prevents the audience from losing themselves in emotional illusion (the 'V-effekt')?",
     "options": [
-      "The Academy Awards",
-      "The Emmy Awards",
-      "The Grammy Awards",
-      "The Tony Awards (Antoinette Perry Awards)"
+      "Catharsis",
+      "Hamartia",
+      "Method Recall",
+      "The Verfremdungseffekt (Alienation Effect / Estrangement)"
     ],
     "correctAnswer": 3,
-    "explanation": "The Antoinette Perry Awards for Excellence in Broadway Theatre, known as the Tony Awards, celebrate Broadway stage achievements.",
+    "explanation": "Techniques like breaking the fourth wall, visible stage lighting, projected titles, and musical interruptions remind viewers they are in a theater.",
     "tags": [
       "drama",
-      "stage-trivia",
+      "dramatic-arts",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "drama-shakespeare-0073",
+    "id": "drama-dramatic-arts-0073",
     "category": "Drama",
-    "subcategory": "Shakespeare",
+    "subcategory": "Dramatic Arts",
     "difficulty": "easy",
-    "question": "Theater and dramatic arts: Which American playwright authored the landmark 1949 drama 'Death of a Salesman' featuring salesman Willy Loman? (Ref #73)",
+    "question": "What Aristotle term from Poetics describes the emotional purging, cleansing, and release of pity and fear experienced by tragedy audiences?",
     "options": [
-      "Arthur Miller",
-      "Tennessee Williams",
-      "Eugene O'Neill",
-      "Edward Albee"
+      "Catharsis",
+      "Hamartia",
+      "Anagnorisis",
+      "Peripeteia"
     ],
     "correctAnswer": 0,
-    "explanation": "Arthur Miller won the Pulitzer Prize for Drama for Death of a Salesman, examining the tragedy of the American dream through Willy Loman.",
+    "explanation": "Aristotle argued that watching tragic heroes fall cleanses the audience's psyche, leaving them emotionally restored.",
     "tags": [
       "drama",
-      "shakespeare",
+      "dramatic-arts",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "drama-modern-theater-0074",
+    "id": "drama-dramatic-arts-0074",
     "category": "Drama",
-    "subcategory": "Modern Theater",
+    "subcategory": "Dramatic Arts",
     "difficulty": "medium",
-    "question": "Theater and dramatic arts: What is the theatrical term for a dramatic speech delivered by an actor alone on stage, revealing their inner thoughts? (Ref #74)",
+    "question": "What classical Greek dramatic term defines the fatal flaw, tragic error, or misjudgment that causes the downfall of a noble protagonist?",
     "options": [
-      "Dialogue",
-      "Soliloquy",
-      "Prologue",
-      "Epilogue"
+      "Hubris",
+      "Hamartia",
+      "Catharsis",
+      "Nemesis"
     ],
     "correctAnswer": 1,
-    "explanation": "A soliloquy is an utterance spoken aloud by a character when alone on stage to convey innermost thoughts directly to the audience.",
+    "explanation": "Derived from the Greek word for 'missing the mark' in archery, examples include Oedipus's arrogance or Macbeth's vaulting ambition.",
     "tags": [
       "drama",
-      "modern-theater",
+      "dramatic-arts",
       "medium"
     ],
     "active": true
@@ -1558,15 +1558,15 @@
     "category": "Drama",
     "subcategory": "Dramatic Arts",
     "difficulty": "hard",
-    "question": "Theater and dramatic arts: In Shakespeare's tragedy 'Romeo and Juliet', what are the names of the two feuding noble families in Verona? (Ref #75)",
+    "question": "What Greek tragic concept defines excessive pride, overweening arrogance, or defiance of the gods that invites divine retribution?",
     "options": [
-      "The Lancasters and the Yorks",
-      "The Borgias and the Medicis",
-      "The Capulets and the Montagues",
-      "The Macbeths and the Macduffs"
+      "Hamartia",
+      "Catharsis",
+      "Hubris",
+      "Anagnorisis"
     ],
     "correctAnswer": 2,
-    "explanation": "Romeo Montague and Juliet Capulet are the star-crossed lovers separated by their families' ancient grudge.",
+    "explanation": "Characters with hubris believe they can outsmart fate, leading directly to their confrontation with Nemesis.",
     "tags": [
       "drama",
       "dramatic-arts",
@@ -1575,64 +1575,64 @@
     "active": true
   },
   {
-    "id": "drama-stage-trivia-0076",
+    "id": "drama-dramatic-arts-0076",
     "category": "Drama",
-    "subcategory": "Stage Trivia",
+    "subcategory": "Dramatic Arts",
     "difficulty": "easy",
-    "question": "Theater and dramatic arts: In which Shakespearean tragedy does the troubled Danish prince deliver the soliloquy beginning: 'To be, or not to be'? (Ref #76)",
+    "question": "What Greek dramatic term describes the critical moment of recognition or discovery when a character moves from ignorance to tragic knowledge?",
     "options": [
-      "Macbeth",
-      "King Lear",
-      "Othello",
-      "Hamlet"
+      "Peripeteia",
+      "Hamartia",
+      "Catharsis",
+      "Anagnorisis"
     ],
     "correctAnswer": 3,
-    "explanation": "Prince Hamlet delivers the famous existential soliloquy 'To be, or not to be, that is the question' in Act 3, Scene 1.",
+    "explanation": "In Sophocles' tragedy, Oedipus experiences anagnorisis upon discovering that he killed his father Laius and married his mother Jocasta.",
     "tags": [
       "drama",
-      "stage-trivia",
+      "dramatic-arts",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "drama-shakespeare-0077",
+    "id": "drama-dramatic-arts-0077",
     "category": "Drama",
-    "subcategory": "Shakespeare",
+    "subcategory": "Dramatic Arts",
     "difficulty": "medium",
-    "question": "Theater and dramatic arts: Which prestigious annual theatrical awards honor excellence in live Broadway theater productions in New York City? (Ref #77)",
+    "question": "What classical dramatic term defines the sudden, decisive reversal of fortune or circumstances for the protagonist?",
     "options": [
-      "The Tony Awards (Antoinette Perry Awards)",
-      "The Academy Awards",
-      "The Emmy Awards",
-      "The Grammy Awards"
+      "Peripeteia",
+      "Anagnorisis",
+      "Catharsis",
+      "Stichomythia"
     ],
     "correctAnswer": 0,
-    "explanation": "The Antoinette Perry Awards for Excellence in Broadway Theatre, known as the Tony Awards, celebrate Broadway stage achievements.",
+    "explanation": "In Greek tragedy, peripeteia marks the turning point where the hero's fortune plunges from triumph into despair.",
     "tags": [
       "drama",
-      "shakespeare",
+      "dramatic-arts",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "drama-modern-theater-0078",
+    "id": "drama-dramatic-arts-0078",
     "category": "Drama",
-    "subcategory": "Modern Theater",
+    "subcategory": "Dramatic Arts",
     "difficulty": "hard",
-    "question": "Theater and dramatic arts: Which American playwright authored the landmark 1949 drama 'Death of a Salesman' featuring salesman Willy Loman? (Ref #78)",
+    "question": "What classical dramatic dialogue device features rapid, alternating single-line dialogue exchanges between two characters in conflict?",
     "options": [
-      "Tennessee Williams",
-      "Arthur Miller",
-      "Eugene O'Neill",
-      "Edward Albee"
+      "Soliloquy",
+      "Stichomythia",
+      "Monologue",
+      "Aside"
     ],
     "correctAnswer": 1,
-    "explanation": "Arthur Miller won the Pulitzer Prize for Drama for Death of a Salesman, examining the tragedy of the American dream through Willy Loman.",
+    "explanation": "Stichomythia creates sharp rhythmic tension, frequently utilized in Greek tragedies and Shakespearean arguments.",
     "tags": [
       "drama",
-      "modern-theater",
+      "dramatic-arts",
       "hard"
     ],
     "active": true
@@ -1642,15 +1642,15 @@
     "category": "Drama",
     "subcategory": "Dramatic Arts",
     "difficulty": "easy",
-    "question": "Theater and dramatic arts: What is the theatrical term for a dramatic speech delivered by an actor alone on stage, revealing their inner thoughts? (Ref #79)",
+    "question": "What dramatic convention occurs when a character speaks their innermost private thoughts aloud while alone on stage for the audience to hear?",
     "options": [
-      "Dialogue",
-      "Prologue",
-      "Soliloquy",
-      "Epilogue"
+      "A Monologue",
+      "An Aside",
+      "A Soliloquy",
+      "A Dialogue"
     ],
     "correctAnswer": 2,
-    "explanation": "A soliloquy is an utterance spoken aloud by a character when alone on stage to convey innermost thoughts directly to the audience.",
+    "explanation": "Soliloquies reveal honest psychological motivations, immortalized by Hamlet's 'To be, or not to be' and Macbeth's 'Tomorrow, and tomorrow.'",
     "tags": [
       "drama",
       "dramatic-arts",
@@ -1659,64 +1659,64 @@
     "active": true
   },
   {
-    "id": "drama-stage-trivia-0080",
+    "id": "drama-dramatic-arts-0080",
     "category": "Drama",
-    "subcategory": "Stage Trivia",
+    "subcategory": "Dramatic Arts",
     "difficulty": "medium",
-    "question": "Theater and dramatic arts: In Shakespeare's tragedy 'Romeo and Juliet', what are the names of the two feuding noble families in Verona? (Ref #80)",
+    "question": "What dramatic convention features an actor speaking directly to the audience or another character while other stage characters remain oblivious?",
     "options": [
-      "The Lancasters and the Yorks",
-      "The Borgias and the Medicis",
-      "The Macbeths and the Macduffs",
-      "The Capulets and the Montagues"
+      "A Soliloquy",
+      "A Chorus",
+      "A Monologue",
+      "An Aside"
     ],
     "correctAnswer": 3,
-    "explanation": "Romeo Montague and Juliet Capulet are the star-crossed lovers separated by their families' ancient grudge.",
+    "explanation": "Asides provide comedic irony or villainous exposition, popular in Elizabethan drama and pantomime.",
     "tags": [
       "drama",
-      "stage-trivia",
+      "dramatic-arts",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "drama-shakespeare-0081",
+    "id": "drama-dramatic-arts-0081",
     "category": "Drama",
-    "subcategory": "Shakespeare",
+    "subcategory": "Dramatic Arts",
     "difficulty": "hard",
-    "question": "Theater and dramatic arts: In which Shakespearean tragedy does the troubled Danish prince deliver the soliloquy beginning: 'To be, or not to be'? (Ref #81)",
+    "question": "What dramatic principle states that if a loaded rifle is introduced on stage in Act I, it must inevitably be fired in Act II or III?",
     "options": [
-      "Hamlet",
-      "Macbeth",
-      "King Lear",
-      "Othello"
+      "Chekhov's Gun",
+      "MacGuffin",
+      "Occam's Razor",
+      "Red Herring"
     ],
     "correctAnswer": 0,
-    "explanation": "Prince Hamlet delivers the famous existential soliloquy 'To be, or not to be, that is the question' in Act 3, Scene 1.",
+    "explanation": "Formulated by Anton Chekhov, the rule mandates that every element in a dramatic narrative must serve an essential plot purpose.",
     "tags": [
       "drama",
-      "shakespeare",
+      "dramatic-arts",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "drama-modern-theater-0082",
+    "id": "drama-dramatic-arts-0082",
     "category": "Drama",
-    "subcategory": "Modern Theater",
+    "subcategory": "Dramatic Arts",
     "difficulty": "easy",
-    "question": "Theater and dramatic arts: Which prestigious annual theatrical awards honor excellence in live Broadway theater productions in New York City? (Ref #82)",
+    "question": "What French theatrical concept, dating from 18th-century philosopher Denis Diderot, represents the invisible barrier between actors and the audience?",
     "options": [
-      "The Academy Awards",
-      "The Tony Awards (Antoinette Perry Awards)",
-      "The Emmy Awards",
-      "The Grammy Awards"
+      "The Proscenium",
+      "The Fourth Wall",
+      "The Apron",
+      "The Cyclorama"
     ],
     "correctAnswer": 1,
-    "explanation": "The Antoinette Perry Awards for Excellence in Broadway Theatre, known as the Tony Awards, celebrate Broadway stage achievements.",
+    "explanation": "Realistic theater maintains the illusion that actors are unaware of the audience; 'breaking the fourth wall' addresses viewers directly.",
     "tags": [
       "drama",
-      "modern-theater",
+      "dramatic-arts",
       "easy"
     ],
     "active": true
@@ -1726,15 +1726,15 @@
     "category": "Drama",
     "subcategory": "Dramatic Arts",
     "difficulty": "medium",
-    "question": "Theater and dramatic arts: Which American playwright authored the landmark 1949 drama 'Death of a Salesman' featuring salesman Willy Loman? (Ref #83)",
+    "question": "What classical dramatic stage configuration features a large picture-frame arch framing the stage opening like a window?",
     "options": [
-      "Tennessee Williams",
-      "Eugene O'Neill",
-      "Arthur Miller",
-      "Edward Albee"
+      "A Thrust Stage",
+      "Theater in the Round (Arena)",
+      "A Proscenium Stage (Proscenium Arch)",
+      "Black Box Theater"
     ],
     "correctAnswer": 2,
-    "explanation": "Arthur Miller won the Pulitzer Prize for Drama for Death of a Salesman, examining the tragedy of the American dream through Willy Loman.",
+    "explanation": "Proscenium theaters conceal backstage machinery, fly systems, and lighting rigs from the audience's direct view.",
     "tags": [
       "drama",
       "dramatic-arts",
@@ -1743,64 +1743,64 @@
     "active": true
   },
   {
-    "id": "drama-stage-trivia-0084",
+    "id": "drama-dramatic-arts-0084",
     "category": "Drama",
-    "subcategory": "Stage Trivia",
+    "subcategory": "Dramatic Arts",
     "difficulty": "hard",
-    "question": "Theater and dramatic arts: What is the theatrical term for a dramatic speech delivered by an actor alone on stage, revealing their inner thoughts? (Ref #84)",
+    "question": "What stage configuration extends the acting platform outward into the auditorium so that the audience surrounds it on three sides?",
     "options": [
-      "Dialogue",
-      "Prologue",
-      "Epilogue",
-      "Soliloquy"
+      "A Proscenium Stage",
+      "An Arena Stage",
+      "An Alley Stage",
+      "A Thrust Stage"
     ],
     "correctAnswer": 3,
-    "explanation": "A soliloquy is an utterance spoken aloud by a character when alone on stage to convey innermost thoughts directly to the audience.",
+    "explanation": "Thrust stages provide intimate actor-audience connection while allowing backdrops and scenic entrances on the fourth wall side.",
     "tags": [
       "drama",
-      "stage-trivia",
+      "dramatic-arts",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "drama-shakespeare-0085",
+    "id": "drama-dramatic-arts-0085",
     "category": "Drama",
-    "subcategory": "Shakespeare",
+    "subcategory": "Dramatic Arts",
     "difficulty": "easy",
-    "question": "Theater and dramatic arts: In Shakespeare's tragedy 'Romeo and Juliet', what are the names of the two feuding noble families in Verona? (Ref #85)",
+    "question": "What theater stage layout places the acting performance space in the center, completely surrounded by audience seating on all four sides?",
     "options": [
-      "The Capulets and the Montagues",
-      "The Lancasters and the Yorks",
-      "The Borgias and the Medicis",
-      "The Macbeths and the Macduffs"
+      "Theater in the Round (Arena Stage)",
+      "Thrust Stage",
+      "Proscenium Stage",
+      "Traverse Stage"
     ],
     "correctAnswer": 0,
-    "explanation": "Romeo Montague and Juliet Capulet are the star-crossed lovers separated by their families' ancient grudge.",
+    "explanation": "Arena stages eliminate traditional tall sets and backdrops, requiring dynamic multidirectional staging and sightline choreography.",
     "tags": [
       "drama",
-      "shakespeare",
+      "dramatic-arts",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "drama-modern-theater-0086",
+    "id": "drama-dramatic-arts-0086",
     "category": "Drama",
-    "subcategory": "Modern Theater",
+    "subcategory": "Dramatic Arts",
     "difficulty": "medium",
-    "question": "Theater and dramatic arts: In which Shakespearean tragedy does the troubled Danish prince deliver the soliloquy beginning: 'To be, or not to be'? (Ref #86)",
+    "question": "What versatile, unadorned performance space features simple black walls and flat floors with completely reconfigurable seating arrangements?",
     "options": [
-      "Macbeth",
-      "Hamlet",
-      "King Lear",
-      "Othello"
+      "A Proscenium Hall",
+      "A Black Box Theater",
+      "An Amphitheater",
+      "A Thrust Stage"
     ],
     "correctAnswer": 1,
-    "explanation": "Prince Hamlet delivers the famous existential soliloquy 'To be, or not to be, that is the question' in Act 3, Scene 1.",
+    "explanation": "Black box theaters allow directors to construct bespoke staging (in-the-round, alley, thrust, or environmental) for experimental plays.",
     "tags": [
       "drama",
-      "modern-theater",
+      "dramatic-arts",
       "medium"
     ],
     "active": true
@@ -1810,15 +1810,15 @@
     "category": "Drama",
     "subcategory": "Dramatic Arts",
     "difficulty": "hard",
-    "question": "Theater and dramatic arts: Which prestigious annual theatrical awards honor excellence in live Broadway theater productions in New York City? (Ref #87)",
+    "question": "In stage direction terminology, which area of the stage is located closest to the seated audience?",
     "options": [
-      "The Academy Awards",
-      "The Emmy Awards",
-      "The Tony Awards (Antoinette Perry Awards)",
-      "The Grammy Awards"
+      "Upstage",
+      "Stage Left",
+      "Downstage (Downstage Center / Downstage Left / Downstage Right)",
+      "Center Stage"
     ],
     "correctAnswer": 2,
-    "explanation": "The Antoinette Perry Awards for Excellence in Broadway Theatre, known as the Tony Awards, celebrate Broadway stage achievements.",
+    "explanation": "Derived from historical raked stages sloping downward toward the audience, walking toward the footlights is moving 'downstage.'",
     "tags": [
       "drama",
       "dramatic-arts",
@@ -1827,64 +1827,64 @@
     "active": true
   },
   {
-    "id": "drama-stage-trivia-0088",
+    "id": "drama-dramatic-arts-0088",
     "category": "Drama",
-    "subcategory": "Stage Trivia",
+    "subcategory": "Dramatic Arts",
     "difficulty": "easy",
-    "question": "Theater and dramatic arts: Which American playwright authored the landmark 1949 drama 'Death of a Salesman' featuring salesman Willy Loman? (Ref #88)",
+    "question": "In theatrical terminology, which area of the stage is located furthest away from the seated audience, near the rear wall?",
     "options": [
-      "Tennessee Williams",
-      "Eugene O'Neill",
-      "Edward Albee",
-      "Arthur Miller"
+      "Downstage",
+      "Stage Right",
+      "The Wings",
+      "Upstage (Upstage Center / Upstage Left / Upstage Right)"
     ],
     "correctAnswer": 3,
-    "explanation": "Arthur Miller won the Pulitzer Prize for Drama for Death of a Salesman, examining the tragedy of the American dream through Willy Loman.",
+    "explanation": "Moving 'upstage' draws focus away from actors standing downstage, leading to the term 'upstaging' someone.",
     "tags": [
       "drama",
-      "stage-trivia",
+      "dramatic-arts",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "drama-shakespeare-0089",
+    "id": "drama-dramatic-arts-0089",
     "category": "Drama",
-    "subcategory": "Shakespeare",
+    "subcategory": "Dramatic Arts",
     "difficulty": "medium",
-    "question": "Theater and dramatic arts: What is the theatrical term for a dramatic speech delivered by an actor alone on stage, revealing their inner thoughts? (Ref #89)",
+    "question": "When an actor stands on stage facing the audience, which side corresponds to 'Stage Right'?",
     "options": [
-      "Soliloquy",
-      "Dialogue",
-      "Prologue",
-      "Epilogue"
+      "The actor's physical right-hand side (the audience's left)",
+      "The actor's physical left-hand side",
+      "Toward the back wall",
+      "Toward the ceiling"
     ],
     "correctAnswer": 0,
-    "explanation": "A soliloquy is an utterance spoken aloud by a character when alone on stage to convey innermost thoughts directly to the audience.",
+    "explanation": "Stage directions are always defined strictly from the actor's perspective facing the house.",
     "tags": [
       "drama",
-      "shakespeare",
+      "dramatic-arts",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "drama-modern-theater-0090",
+    "id": "drama-dramatic-arts-0090",
     "category": "Drama",
-    "subcategory": "Modern Theater",
+    "subcategory": "Dramatic Arts",
     "difficulty": "hard",
-    "question": "Theater and dramatic arts: In Shakespeare's tragedy 'Romeo and Juliet', what are the names of the two feuding noble families in Verona? (Ref #90)",
+    "question": "What theatrical term describes the physical movement and spatial positioning of actors planned and rehearsed on stage by the director?",
     "options": [
-      "The Lancasters and the Yorks",
-      "The Capulets and the Montagues",
-      "The Borgias and the Medicis",
-      "The Macbeths and the Macduffs"
+      "Choreography",
+      "Blocking",
+      "Staging",
+      "Cueing"
     ],
     "correctAnswer": 1,
-    "explanation": "Romeo Montague and Juliet Capulet are the star-crossed lovers separated by their families' ancient grudge.",
+    "explanation": "Blocking dictates where actors enter, stand, sit, cross, and exit, recorded meticulously in the stage manager's prompt book.",
     "tags": [
       "drama",
-      "modern-theater",
+      "dramatic-arts",
       "hard"
     ],
     "active": true
@@ -1894,15 +1894,15 @@
     "category": "Drama",
     "subcategory": "Dramatic Arts",
     "difficulty": "easy",
-    "question": "Theater and dramatic arts: In which Shakespearean tragedy does the troubled Danish prince deliver the soliloquy beginning: 'To be, or not to be'? (Ref #91)",
+    "question": "What key theatrical crew member coordinates rehearsals, calls lighting and sound cues, and commands the technical running of live performances?",
     "options": [
-      "Macbeth",
-      "King Lear",
-      "Hamlet",
-      "Othello"
+      "The Production Assistant",
+      "The Dramaturg",
+      "The Stage Manager (SM)",
+      "The House Manager"
     ],
     "correctAnswer": 2,
-    "explanation": "Prince Hamlet delivers the famous existential soliloquy 'To be, or not to be, that is the question' in Act 3, Scene 1.",
+    "explanation": "From the prompt desk via headset, the stage manager holds ultimate operational authority once the director hands over the production.",
     "tags": [
       "drama",
       "dramatic-arts",
@@ -1911,64 +1911,64 @@
     "active": true
   },
   {
-    "id": "drama-stage-trivia-0092",
+    "id": "drama-dramatic-arts-0092",
     "category": "Drama",
-    "subcategory": "Stage Trivia",
+    "subcategory": "Dramatic Arts",
     "difficulty": "medium",
-    "question": "Theater and dramatic arts: Which prestigious annual theatrical awards honor excellence in live Broadway theater productions in New York City? (Ref #92)",
+    "question": "What theater scholar and literary advisor conducts historical research, analyzes text, and works with playwrights to contextualize the production?",
     "options": [
-      "The Academy Awards",
-      "The Emmy Awards",
-      "The Grammy Awards",
-      "The Tony Awards (Antoinette Perry Awards)"
+      "The Stage Manager",
+      "The Artistic Director",
+      "The Literary Agent",
+      "The Dramaturg (Dramaturge)"
     ],
     "correctAnswer": 3,
-    "explanation": "The Antoinette Perry Awards for Excellence in Broadway Theatre, known as the Tony Awards, celebrate Broadway stage achievements.",
+    "explanation": "Dramaturgs assemble program notes, verify period accuracy, and assist directors with script interpretations and cuts.",
     "tags": [
       "drama",
-      "stage-trivia",
+      "dramatic-arts",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "drama-shakespeare-0093",
+    "id": "drama-dramatic-arts-0093",
     "category": "Drama",
-    "subcategory": "Shakespeare",
+    "subcategory": "Dramatic Arts",
     "difficulty": "hard",
-    "question": "Theater and dramatic arts: Which American playwright authored the landmark 1949 drama 'Death of a Salesman' featuring salesman Willy Loman? (Ref #93)",
+    "question": "What large curved, seamless taut cloth or white plaster wall at the back of the stage is illuminated to create sky or infinite horizon illusions?",
     "options": [
-      "Arthur Miller",
-      "Tennessee Williams",
-      "Eugene O'Neill",
-      "Edward Albee"
+      "A Cyclorama (Cyc)",
+      "A Scrim",
+      "A Teaser",
+      "A Border"
     ],
     "correctAnswer": 0,
-    "explanation": "Arthur Miller won the Pulitzer Prize for Drama for Death of a Salesman, examining the tragedy of the American dream through Willy Loman.",
+    "explanation": "Lighting designers wash the cyclorama with colored floodlights to simulate sunrises, sunsets, starry nights, or abstract mood palettes.",
     "tags": [
       "drama",
-      "shakespeare",
+      "dramatic-arts",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "drama-modern-theater-0094",
+    "id": "drama-dramatic-arts-0094",
     "category": "Drama",
-    "subcategory": "Modern Theater",
+    "subcategory": "Dramatic Arts",
     "difficulty": "easy",
-    "question": "Theater and dramatic arts: What is the theatrical term for a dramatic speech delivered by an actor alone on stage, revealing their inner thoughts? (Ref #94)",
+    "question": "What theatrical fabric drop appears opaque when lit from the front, but becomes completely transparent when backlit from behind?",
     "options": [
-      "Dialogue",
-      "Soliloquy",
-      "Prologue",
-      "Epilogue"
+      "A Cyclorama",
+      "A Scrim (Sharkstooth Scrim)",
+      "A Drop",
+      "A Tormentor"
     ],
     "correctAnswer": 1,
-    "explanation": "A soliloquy is an utterance spoken aloud by a character when alone on stage to convey innermost thoughts directly to the audience.",
+    "explanation": "Scrims create magical reveals, ghost apparitions, and dream flashback sequences by shifting light from front to rear.",
     "tags": [
       "drama",
-      "modern-theater",
+      "dramatic-arts",
       "easy"
     ],
     "active": true
@@ -1978,15 +1978,15 @@
     "category": "Drama",
     "subcategory": "Dramatic Arts",
     "difficulty": "medium",
-    "question": "Theater and dramatic arts: In Shakespeare's tragedy 'Romeo and Juliet', what are the names of the two feuding noble families in Verona? (Ref #95)",
+    "question": "What narrow vertical theatrical drapery curtains hang on the offstage sides to mask the backstage wings from audience view?",
     "options": [
-      "The Lancasters and the Yorks",
-      "The Borgias and the Medicis",
-      "The Capulets and the Montagues",
-      "The Macbeths and the Macduffs"
+      "Borders (Teasers)",
+      "Tabs",
+      "Legs (and Tormentors)",
+      "Scrims"
     ],
     "correctAnswer": 2,
-    "explanation": "Romeo Montague and Juliet Capulet are the star-crossed lovers separated by their families' ancient grudge.",
+    "explanation": "Legs hang in paired rows along stage left and right, creating offstage corridors for actor entrances.",
     "tags": [
       "drama",
       "dramatic-arts",
@@ -1995,85 +1995,85 @@
     "active": true
   },
   {
-    "id": "drama-stage-trivia-0096",
+    "id": "drama-dramatic-arts-0096",
     "category": "Drama",
-    "subcategory": "Stage Trivia",
+    "subcategory": "Dramatic Arts",
     "difficulty": "hard",
-    "question": "Theater and dramatic arts: In which Shakespearean tragedy does the troubled Danish prince deliver the soliloquy beginning: 'To be, or not to be'? (Ref #96)",
+    "question": "What narrow horizontal masking curtains hang across the top of the stage to hide overhead lighting instruments, battens, and electrics?",
     "options": [
-      "Macbeth",
-      "King Lear",
-      "Othello",
-      "Hamlet"
+      "Legs",
+      "Cycloramas",
+      "Drops",
+      "Borders (Teasers)"
     ],
     "correctAnswer": 3,
-    "explanation": "Prince Hamlet delivers the famous existential soliloquy 'To be, or not to be, that is the question' in Act 3, Scene 1.",
+    "explanation": "Borders frame the upper proscenium, masking fly loft equipment from audience sightlines.",
     "tags": [
       "drama",
-      "stage-trivia",
+      "dramatic-arts",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "drama-shakespeare-0097",
+    "id": "drama-dramatic-arts-0097",
     "category": "Drama",
-    "subcategory": "Shakespeare",
+    "subcategory": "Dramatic Arts",
     "difficulty": "easy",
-    "question": "Theater and dramatic arts: Which prestigious annual theatrical awards honor excellence in live Broadway theater productions in New York City? (Ref #97)",
+    "question": "What theatrical rehearsal is held without costumes, sets, or makeup specifically to coordinate lighting, sound, and automation cues?",
     "options": [
-      "The Tony Awards (Antoinette Perry Awards)",
-      "The Academy Awards",
-      "The Emmy Awards",
-      "The Grammy Awards"
+      "A Technical Rehearsal (Tech Rehearsal / Paper Tech)",
+      "A Dress Rehearsal",
+      "A Speed-Through",
+      "A Sitzprobe"
     ],
     "correctAnswer": 0,
-    "explanation": "The Antoinette Perry Awards for Excellence in Broadway Theatre, known as the Tony Awards, celebrate Broadway stage achievements.",
+    "explanation": "Stage managers, designers, and board operators run cues stop-and-start to balance technical execution before adding actors.",
     "tags": [
       "drama",
-      "shakespeare",
+      "dramatic-arts",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "drama-modern-theater-0098",
+    "id": "drama-dramatic-arts-0098",
     "category": "Drama",
-    "subcategory": "Modern Theater",
+    "subcategory": "Dramatic Arts",
     "difficulty": "medium",
-    "question": "Theater and dramatic arts: Which American playwright authored the landmark 1949 drama 'Death of a Salesman' featuring salesman Willy Loman? (Ref #98)",
+    "question": "What specialized German musical rehearsal unites musical theater actors with the full orchestra for the first time, focusing strictly on singing?",
     "options": [
-      "Tennessee Williams",
-      "Arthur Miller",
-      "Eugene O'Neill",
-      "Edward Albee"
+      "A Tech Rehearsal",
+      "A Sitzprobe",
+      "A Wandelprobe",
+      "A Cue-to-Cue"
     ],
     "correctAnswer": 1,
-    "explanation": "Arthur Miller won the Pulitzer Prize for Drama for Death of a Salesman, examining the tragedy of the American dream through Willy Loman.",
+    "explanation": "Actors sit on chairs and sing through the entire score with the orchestra without choreography or staging to calibrate vocal balance.",
     "tags": [
       "drama",
-      "modern-theater",
+      "dramatic-arts",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "drama-dramatic-arts-0099",
+    "id": "drama-stage-trivia-0099",
     "category": "Drama",
-    "subcategory": "Dramatic Arts",
+    "subcategory": "Stage Trivia",
     "difficulty": "hard",
-    "question": "Theater and dramatic arts: What is the theatrical term for a dramatic speech delivered by an actor alone on stage, revealing their inner thoughts? (Ref #99)",
+    "question": "What traditional superstitious phrase do theater performers say to each other before taking the stage instead of 'good luck'?",
     "options": [
-      "Dialogue",
-      "Prologue",
-      "Soliloquy",
-      "Epilogue"
+      "'Have a great show'",
+      "'Bravo'",
+      "'Break a leg'",
+      "'To the stars'"
     ],
     "correctAnswer": 2,
-    "explanation": "A soliloquy is an utterance spoken aloud by a character when alone on stage to convey innermost thoughts directly to the audience.",
+    "explanation": "Superstition holds that wishing good luck tempts malevolent theater spirits to cause disaster; breaking a leg historically meant bowing to cross the visual leg line.",
     "tags": [
       "drama",
-      "dramatic-arts",
+      "stage-trivia",
       "hard"
     ],
     "active": true
@@ -2083,15 +2083,15 @@
     "category": "Drama",
     "subcategory": "Stage Trivia",
     "difficulty": "easy",
-    "question": "Theater and dramatic arts: In Shakespeare's tragedy 'Romeo and Juliet', what are the names of the two feuding noble families in Verona? (Ref #100)",
+    "question": "What William Shakespeare Scottish tragedy is traditionally referred to as 'The Scottish Play' inside theaters to avoid a historic curse?",
     "options": [
-      "The Lancasters and the Yorks",
-      "The Borgias and the Medicis",
-      "The Macbeths and the Macduffs",
-      "The Capulets and the Montagues"
+      "Hamlet",
+      "King Lear",
+      "Othello",
+      "Macbeth"
     ],
     "correctAnswer": 3,
-    "explanation": "Romeo Montague and Juliet Capulet are the star-crossed lovers separated by their families' ancient grudge.",
+    "explanation": "Theatrical folklore claims real witches cursed early productions, causing fatal injuries; uttering 'Macbeth' inside a theater requires a cleansing ritual.",
     "tags": [
       "drama",
       "stage-trivia",
@@ -2100,64 +2100,64 @@
     "active": true
   },
   {
-    "id": "drama-shakespeare-0101",
+    "id": "drama-stage-trivia-0101",
     "category": "Drama",
-    "subcategory": "Shakespeare",
+    "subcategory": "Stage Trivia",
     "difficulty": "medium",
-    "question": "Theater and dramatic arts: In which Shakespearean tragedy does the troubled Danish prince deliver the soliloquy beginning: 'To be, or not to be'? (Ref #101)",
+    "question": "What superstitious cleansing ritual is required if someone accidentally speaks the forbidden word 'Macbeth' inside a theater?",
     "options": [
-      "Hamlet",
-      "Macbeth",
-      "King Lear",
-      "Othello"
+      "Exit the theater, spin around three times, spit over your left shoulder, and curse (or quote a line from Hamlet)",
+      "Knock on wood three times",
+      "Throw salt into the footlights",
+      "Turn off all the stage lights"
     ],
     "correctAnswer": 0,
-    "explanation": "Prince Hamlet delivers the famous existential soliloquy 'To be, or not to be, that is the question' in Act 3, Scene 1.",
+    "explanation": "Actors take the ritual seriously to dispel bad luck before being invited back inside the theater.",
     "tags": [
       "drama",
-      "shakespeare",
+      "stage-trivia",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "drama-modern-theater-0102",
+    "id": "drama-stage-trivia-0102",
     "category": "Drama",
-    "subcategory": "Modern Theater",
+    "subcategory": "Stage Trivia",
     "difficulty": "hard",
-    "question": "Theater and dramatic arts: Which prestigious annual theatrical awards honor excellence in live Broadway theater productions in New York City? (Ref #102)",
+    "question": "What solitary electric light bulb left burning on a stand on an empty stage overnight is said to appease theater ghosts and ensure safety?",
     "options": [
-      "The Academy Awards",
-      "The Tony Awards (Antoinette Perry Awards)",
-      "The Emmy Awards",
-      "The Grammy Awards"
+      "A Pilot Light",
+      "A Ghost Light",
+      "A Safety Beam",
+      "A Beacon"
     ],
     "correctAnswer": 1,
-    "explanation": "The Antoinette Perry Awards for Excellence in Broadway Theatre, known as the Tony Awards, celebrate Broadway stage achievements.",
+    "explanation": "Every theater leaves a bare incandescent bulb burning on an iron stand center stage to prevent crew from falling into the dark orchestra pit.",
     "tags": [
       "drama",
-      "modern-theater",
+      "stage-trivia",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "drama-dramatic-arts-0103",
+    "id": "drama-stage-trivia-0103",
     "category": "Drama",
-    "subcategory": "Dramatic Arts",
+    "subcategory": "Stage Trivia",
     "difficulty": "easy",
-    "question": "Theater and dramatic arts: Which American playwright authored the landmark 1949 drama 'Death of a Salesman' featuring salesman Willy Loman? (Ref #103)",
+    "question": "Why is whistling strictly forbidden backstage in historic theaters?",
     "options": [
-      "Tennessee Williams",
-      "Eugene O'Neill",
-      "Arthur Miller",
-      "Edward Albee"
+      "It irritates the director",
+      "It damages delicate acoustic microphones",
+      "Historically, stagehand flymen were off-duty sailors who communicated scenery drops with whistle codes, so whistling could drop sandbags on actors",
+      "It signals that the show is canceled"
     ],
     "correctAnswer": 2,
-    "explanation": "Arthur Miller won the Pulitzer Prize for Drama for Death of a Salesman, examining the tragedy of the American dream through Willy Loman.",
+    "explanation": "Sailor flymen moved heavy overhead battens and counterweights upon hearing whistles; an errant whistle could cause fatal scenery drops.",
     "tags": [
       "drama",
-      "dramatic-arts",
+      "stage-trivia",
       "easy"
     ],
     "active": true
@@ -2167,15 +2167,15 @@
     "category": "Drama",
     "subcategory": "Stage Trivia",
     "difficulty": "medium",
-    "question": "Theater and dramatic arts: What is the theatrical term for a dramatic speech delivered by an actor alone on stage, revealing their inner thoughts? (Ref #104)",
+    "question": "Why is wearing peacock feathers on stage considered an unlucky superstition in traditional theater?",
     "options": [
-      "Dialogue",
-      "Prologue",
-      "Epilogue",
-      "Soliloquy"
+      "The feathers shed dust on costumes",
+      "The feathers attract stage moths",
+      "The feathers are flammable",
+      "The pattern resembles the 'evil eye', historically associated with bad luck, cast illness, or box office failure"
     ],
     "correctAnswer": 3,
-    "explanation": "A soliloquy is an utterance spoken aloud by a character when alone on stage to convey innermost thoughts directly to the audience.",
+    "explanation": "Folklore claims peacock feathers bring bad omens, alongside wearing blue clothing unless counterbalanced by silver.",
     "tags": [
       "drama",
       "stage-trivia",
@@ -2184,64 +2184,64 @@
     "active": true
   },
   {
-    "id": "drama-shakespeare-0105",
+    "id": "drama-stage-trivia-0105",
     "category": "Drama",
-    "subcategory": "Shakespeare",
+    "subcategory": "Stage Trivia",
     "difficulty": "hard",
-    "question": "Theater and dramatic arts: In Shakespeare's tragedy 'Romeo and Juliet', what are the names of the two feuding noble families in Verona? (Ref #105)",
+    "question": "What official term defines the designated theater district in Midtown Manhattan featuring 41 professional theaters with 500 or more seats?",
     "options": [
-      "The Capulets and the Montagues",
-      "The Lancasters and the Yorks",
-      "The Borgias and the Medicis",
-      "The Macbeths and the Macduffs"
+      "Broadway (The Broadway League)",
+      "Off-Broadway",
+      "The West End",
+      "The Bowery"
     ],
     "correctAnswer": 0,
-    "explanation": "Romeo Montague and Juliet Capulet are the star-crossed lovers separated by their families' ancient grudge.",
+    "explanation": "Centered around Times Square along 42nd through 54th Streets, Broadway is the commercial pinnacle of American live theater.",
     "tags": [
       "drama",
-      "shakespeare",
+      "stage-trivia",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "drama-modern-theater-0106",
+    "id": "drama-stage-trivia-0106",
     "category": "Drama",
-    "subcategory": "Modern Theater",
+    "subcategory": "Stage Trivia",
     "difficulty": "easy",
-    "question": "Theater and dramatic arts: In which Shakespearean tragedy does the troubled Danish prince deliver the soliloquy beginning: 'To be, or not to be'? (Ref #106)",
+    "question": "What seating capacity defines an 'Off-Broadway' theater in New York City?",
     "options": [
-      "Macbeth",
-      "Hamlet",
-      "King Lear",
-      "Othello"
+      "Fewer than 100 seats",
+      "Between 100 and 499 seats",
+      "500 to 999 seats",
+      "More than 1,000 seats"
     ],
     "correctAnswer": 1,
-    "explanation": "Prince Hamlet delivers the famous existential soliloquy 'To be, or not to be, that is the question' in Act 3, Scene 1.",
+    "explanation": "Off-Broadway theaters operate under different Actors' Equity Union contract scales, often premiering bold, experimental dramatic works.",
     "tags": [
       "drama",
-      "modern-theater",
+      "stage-trivia",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "drama-dramatic-arts-0107",
+    "id": "drama-stage-trivia-0107",
     "category": "Drama",
-    "subcategory": "Dramatic Arts",
+    "subcategory": "Stage Trivia",
     "difficulty": "medium",
-    "question": "Theater and dramatic arts: Which prestigious annual theatrical awards honor excellence in live Broadway theater productions in New York City? (Ref #107)",
+    "question": "What seating capacity defines an 'Off-Off-Broadway' theater venue in New York City?",
     "options": [
-      "The Academy Awards",
-      "The Emmy Awards",
-      "The Tony Awards (Antoinette Perry Awards)",
-      "The Grammy Awards"
+      "100 to 250 seats",
+      "300 to 500 seats",
+      "Fewer than 100 seats (99 seats or less)",
+      "Exactly 50 seats"
     ],
     "correctAnswer": 2,
-    "explanation": "The Antoinette Perry Awards for Excellence in Broadway Theatre, known as the Tony Awards, celebrate Broadway stage achievements.",
+    "explanation": "Off-Off-Broadway showcases indie productions, student workshops, and radical avant-garde performance art on shoestring budgets.",
     "tags": [
       "drama",
-      "dramatic-arts",
+      "stage-trivia",
       "medium"
     ],
     "active": true
@@ -2251,15 +2251,15 @@
     "category": "Drama",
     "subcategory": "Stage Trivia",
     "difficulty": "hard",
-    "question": "Theater and dramatic arts: Which American playwright authored the landmark 1949 drama 'Death of a Salesman' featuring salesman Willy Loman? (Ref #108)",
+    "question": "What famous London theater district in the City of Westminster represents the commercial pinnacle of British live theater?",
     "options": [
-      "Tennessee Williams",
-      "Eugene O'Neill",
-      "Edward Albee",
-      "Arthur Miller"
+      "The East End",
+      "Soho",
+      "Covent Garden",
+      "The West End"
     ],
     "correctAnswer": 3,
-    "explanation": "Arthur Miller won the Pulitzer Prize for Drama for Death of a Salesman, examining the tragedy of the American dream through Willy Loman.",
+    "explanation": "The West End features historic playhouses like the Theatre Royal Drury Lane and the London Palladium.",
     "tags": [
       "drama",
       "stage-trivia",
@@ -2268,64 +2268,64 @@
     "active": true
   },
   {
-    "id": "drama-shakespeare-0109",
+    "id": "drama-stage-trivia-0109",
     "category": "Drama",
-    "subcategory": "Shakespeare",
+    "subcategory": "Stage Trivia",
     "difficulty": "easy",
-    "question": "Theater and dramatic arts: What is the theatrical term for a dramatic speech delivered by an actor alone on stage, revealing their inner thoughts? (Ref #109)",
+    "question": "What Agatha Christie murder mystery play, which opened in London's West End in 1952, is the longest-running continuous theatrical show in history?",
     "options": [
-      "Soliloquy",
-      "Dialogue",
-      "Prologue",
-      "Epilogue"
+      "The Mousetrap",
+      "The Phantom of the Opera",
+      "Les Misérables",
+      "The Woman in Black"
     ],
     "correctAnswer": 0,
-    "explanation": "A soliloquy is an utterance spoken aloud by a character when alone on stage to convey innermost thoughts directly to the audience.",
+    "explanation": "Having played over 29,000 performances, audiences are bound by theatrical honor never to reveal the twist identity of the killer.",
     "tags": [
       "drama",
-      "shakespeare",
+      "stage-trivia",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "drama-modern-theater-0110",
+    "id": "drama-stage-trivia-0110",
     "category": "Drama",
-    "subcategory": "Modern Theater",
+    "subcategory": "Stage Trivia",
     "difficulty": "medium",
-    "question": "Theater and dramatic arts: In Shakespeare's tragedy 'Romeo and Juliet', what are the names of the two feuding noble families in Verona? (Ref #110)",
+    "question": "What Andrew Lloyd Webber musical, which closed on Broadway in April 2023 after 13,981 performances, is the longest-running Broadway show in history?",
     "options": [
-      "The Lancasters and the Yorks",
-      "The Capulets and the Montagues",
-      "The Borgias and the Medicis",
-      "The Macbeths and the Macduffs"
+      "Chicago",
+      "The Phantom of the Opera",
+      "The Lion King",
+      "Cats"
     ],
     "correctAnswer": 1,
-    "explanation": "Romeo Montague and Juliet Capulet are the star-crossed lovers separated by their families' ancient grudge.",
+    "explanation": "Opening at the Majestic Theatre in 1988 with its falling chandelier, it played to over 20 million Broadway patrons.",
     "tags": [
       "drama",
-      "modern-theater",
+      "stage-trivia",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "drama-dramatic-arts-0111",
+    "id": "drama-stage-trivia-0111",
     "category": "Drama",
-    "subcategory": "Dramatic Arts",
+    "subcategory": "Stage Trivia",
     "difficulty": "hard",
-    "question": "Theater and dramatic arts: In which Shakespearean tragedy does the troubled Danish prince deliver the soliloquy beginning: 'To be, or not to be'? (Ref #111)",
+    "question": "What Kander and Ebb musical revival, opening in 1996 and starring Roxie Hart and Velma Kelly, is the longest-running American musical on Broadway?",
     "options": [
-      "Macbeth",
-      "King Lear",
-      "Hamlet",
-      "Othello"
+      "A Chorus Line",
+      "Wicked",
+      "Chicago",
+      "The Lion King"
     ],
     "correctAnswer": 2,
-    "explanation": "Prince Hamlet delivers the famous existential soliloquy 'To be, or not to be, that is the question' in Act 3, Scene 1.",
+    "explanation": "Bob Fosse's iconic jazz choreography and biting satire of criminal celebrity have entertained audiences for over 10,000 performances.",
     "tags": [
       "drama",
-      "dramatic-arts",
+      "stage-trivia",
       "hard"
     ],
     "active": true
@@ -2335,15 +2335,15 @@
     "category": "Drama",
     "subcategory": "Stage Trivia",
     "difficulty": "easy",
-    "question": "Theater and dramatic arts: Which prestigious annual theatrical awards honor excellence in live Broadway theater productions in New York City? (Ref #112)",
+    "question": "What 1997 Disney theatrical musical, directed by Julie Taymor with revolutionary animal puppetry, is the highest-grossing Broadway production in history?",
     "options": [
-      "The Academy Awards",
-      "The Emmy Awards",
-      "The Grammy Awards",
-      "The Tony Awards (Antoinette Perry Awards)"
+      "Wicked",
+      "The Phantom of the Opera",
+      "Hamilton",
+      "The Lion King"
     ],
     "correctAnswer": 3,
-    "explanation": "The Antoinette Perry Awards for Excellence in Broadway Theatre, known as the Tony Awards, celebrate Broadway stage achievements.",
+    "explanation": "Taymor became the first woman to win the Tony Award for Best Direction of a Musical, grossing over $1.9 billion on Broadway alone.",
     "tags": [
       "drama",
       "stage-trivia",
@@ -2352,64 +2352,64 @@
     "active": true
   },
   {
-    "id": "drama-shakespeare-0113",
+    "id": "drama-stage-trivia-0113",
     "category": "Drama",
-    "subcategory": "Shakespeare",
+    "subcategory": "Stage Trivia",
     "difficulty": "medium",
-    "question": "Theater and dramatic arts: Which American playwright authored the landmark 1949 drama 'Death of a Salesman' featuring salesman Willy Loman? (Ref #113)",
+    "question": "What 1975 Marvin Hamlisch and Michael Bennett musical focuses on 17 Broadway dancers auditioning for spots on an eight-member chorus line?",
     "options": [
-      "Arthur Miller",
-      "Tennessee Williams",
-      "Eugene O'Neill",
-      "Edward Albee"
+      "A Chorus Line",
+      "42nd Street",
+      "Fosse",
+      "Sweet Charity"
     ],
     "correctAnswer": 0,
-    "explanation": "Arthur Miller won the Pulitzer Prize for Drama for Death of a Salesman, examining the tragedy of the American dream through Willy Loman.",
+    "explanation": "Winner of nine Tony Awards and the Pulitzer Prize for Drama, it introduced standards like 'What I Did for Love' and 'One.'",
     "tags": [
       "drama",
-      "shakespeare",
+      "stage-trivia",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "drama-modern-theater-0114",
+    "id": "drama-stage-trivia-0114",
     "category": "Drama",
-    "subcategory": "Modern Theater",
+    "subcategory": "Stage Trivia",
     "difficulty": "hard",
-    "question": "Theater and dramatic arts: What is the theatrical term for a dramatic speech delivered by an actor alone on stage, revealing their inner thoughts? (Ref #114)",
+    "question": "What 1996 Jonathan Larson rock musical, based on Puccini's La Bohème, follows impoverished East Village artists coping with HIV/AIDS?",
     "options": [
-      "Dialogue",
-      "Soliloquy",
-      "Prologue",
-      "Epilogue"
+      "Spring Awakening",
+      "Rent",
+      "Hedwig and the Angry Inch",
+      "Next to Normal"
     ],
     "correctAnswer": 1,
-    "explanation": "A soliloquy is an utterance spoken aloud by a character when alone on stage to convey innermost thoughts directly to the audience.",
+    "explanation": "Composer Jonathan Larson tragically died of an aortic aneurysm the night before the off-Broadway premiere, leaving behind 'Seasons of Love.'",
     "tags": [
       "drama",
-      "modern-theater",
+      "stage-trivia",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "drama-dramatic-arts-0115",
+    "id": "drama-stage-trivia-0115",
     "category": "Drama",
-    "subcategory": "Dramatic Arts",
+    "subcategory": "Stage Trivia",
     "difficulty": "easy",
-    "question": "Theater and dramatic arts: In Shakespeare's tragedy 'Romeo and Juliet', what are the names of the two feuding noble families in Verona? (Ref #115)",
+    "question": "What Stephen Schwartz musical, premiering in 2003 and starring Idina Menzel and Kristin Chenoweth, explores the untold story of the Witches of Oz?",
     "options": [
-      "The Lancasters and the Yorks",
-      "The Borgias and the Medicis",
-      "The Capulets and the Montagues",
-      "The Macbeths and the Macduffs"
+      "The Wizard of Oz",
+      "The Wiz",
+      "Wicked",
+      "Into the Woods"
     ],
     "correctAnswer": 2,
-    "explanation": "Romeo Montague and Juliet Capulet are the star-crossed lovers separated by their families' ancient grudge.",
+    "explanation": "Idina Menzel's soaring performance of 'Defying Gravity' propelled Wicked into a multi-billion dollar global theatrical institution.",
     "tags": [
       "drama",
-      "dramatic-arts",
+      "stage-trivia",
       "easy"
     ],
     "active": true
@@ -2419,15 +2419,15 @@
     "category": "Drama",
     "subcategory": "Stage Trivia",
     "difficulty": "medium",
-    "question": "Theater and dramatic arts: In which Shakespearean tragedy does the troubled Danish prince deliver the soliloquy beginning: 'To be, or not to be'? (Ref #116)",
+    "question": "What 1986 Stephen Sondheim musical weaves together characters from Little Red Riding Hood, Cinderella, and Rapunzel to examine the consequences of wishes?",
     "options": [
-      "Macbeth",
-      "King Lear",
-      "Othello",
-      "Hamlet"
+      "Sweeney Todd",
+      "Company",
+      "Sunday in the Park with George",
+      "Into the Woods"
     ],
     "correctAnswer": 3,
-    "explanation": "Prince Hamlet delivers the famous existential soliloquy 'To be, or not to be, that is the question' in Act 3, Scene 1.",
+    "explanation": "Sondheim's brilliant lyrical complexity explores moral responsibility: 'Into the woods, each time you go, there's more to learn of what you know.'",
     "tags": [
       "drama",
       "stage-trivia",
@@ -2436,64 +2436,64 @@
     "active": true
   },
   {
-    "id": "drama-shakespeare-0117",
+    "id": "drama-stage-trivia-0117",
     "category": "Drama",
-    "subcategory": "Shakespeare",
+    "subcategory": "Stage Trivia",
     "difficulty": "hard",
-    "question": "Theater and dramatic arts: Which prestigious annual theatrical awards honor excellence in live Broadway theater productions in New York City? (Ref #117)",
+    "question": "What macabre 1979 Stephen Sondheim musical thriller tells the tale of a vengeful Victorian barber and Mrs. Lovett's meat pies?",
     "options": [
-      "The Tony Awards (Antoinette Perry Awards)",
-      "The Academy Awards",
-      "The Emmy Awards",
-      "The Grammy Awards"
+      "Sweeney Todd: The Demon Barber of Fleet Street",
+      "Into the Woods",
+      "Assassins",
+      "Pacific Overtures"
     ],
     "correctAnswer": 0,
-    "explanation": "The Antoinette Perry Awards for Excellence in Broadway Theatre, known as the Tony Awards, celebrate Broadway stage achievements.",
+    "explanation": "Len Cariou and Angela Lansbury originated the roles, winning eight Tony Awards for operatic darkness and dark comedic grand guignol.",
     "tags": [
       "drama",
-      "shakespeare",
+      "stage-trivia",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "drama-modern-theater-0118",
+    "id": "drama-stage-trivia-0118",
     "category": "Drama",
-    "subcategory": "Modern Theater",
+    "subcategory": "Stage Trivia",
     "difficulty": "easy",
-    "question": "Theater and dramatic arts: Which American playwright authored the landmark 1949 drama 'Death of a Salesman' featuring salesman Willy Loman? (Ref #118)",
+    "question": "What prestigious annual awards, presented by the American Theatre Wing and The Broadway League, honor excellence in Broadway theater?",
     "options": [
-      "Tennessee Williams",
-      "Arthur Miller",
-      "Eugene O'Neill",
-      "Edward Albee"
+      "The Drama Desk Awards",
+      "The Antoinette Perry Awards for Excellence in Broadway Theatre (The Tony Awards)",
+      "The Obie Awards",
+      "The Olivier Awards"
     ],
     "correctAnswer": 1,
-    "explanation": "Arthur Miller won the Pulitzer Prize for Drama for Death of a Salesman, examining the tragedy of the American dream through Willy Loman.",
+    "explanation": "Named after actress and director Antoinette Perry, the Tonys have celebrated theatrical artistry in New York City since 1947.",
     "tags": [
       "drama",
-      "modern-theater",
+      "stage-trivia",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "drama-dramatic-arts-0119",
+    "id": "drama-stage-trivia-0119",
     "category": "Drama",
-    "subcategory": "Dramatic Arts",
+    "subcategory": "Stage Trivia",
     "difficulty": "medium",
-    "question": "Theater and dramatic arts: What is the theatrical term for a dramatic speech delivered by an actor alone on stage, revealing their inner thoughts? (Ref #119)",
+    "question": "What prestigious British theater awards, presented annually by the Society of London Theatre, are the West End equivalent of Broadway's Tonys?",
     "options": [
-      "Dialogue",
-      "Prologue",
-      "Soliloquy",
-      "Epilogue"
+      "The Evening Standard Awards",
+      "The BAFTA Awards",
+      "The Laurence Olivier Awards (The Olivier Awards)",
+      "The Critics' Circle Theatre Awards"
     ],
     "correctAnswer": 2,
-    "explanation": "A soliloquy is an utterance spoken aloud by a character when alone on stage to convey innermost thoughts directly to the audience.",
+    "explanation": "Named in honor of Lord Laurence Olivier, the statuettes depict the actor as Shakespeare's Henry V.",
     "tags": [
       "drama",
-      "dramatic-arts",
+      "stage-trivia",
       "medium"
     ],
     "active": true
@@ -2503,15 +2503,15 @@
     "category": "Drama",
     "subcategory": "Stage Trivia",
     "difficulty": "hard",
-    "question": "Theater and dramatic arts: In Shakespeare's tragedy 'Romeo and Juliet', what are the names of the two feuding noble families in Verona? (Ref #120)",
+    "question": "What off-Broadway and off-off-Broadway theater awards, founded by The Village Voice newspaper in 1956, honor indie theater excellence?",
     "options": [
-      "The Lancasters and the Yorks",
-      "The Borgias and the Medicis",
-      "The Macbeths and the Macduffs",
-      "The Capulets and the Montagues"
+      "The Drama Desk Awards",
+      "The Tony Awards",
+      "The Lortel Awards",
+      "The Obie Awards"
     ],
     "correctAnswer": 3,
-    "explanation": "Romeo Montague and Juliet Capulet are the star-crossed lovers separated by their families' ancient grudge.",
+    "explanation": "The Obies recognize cutting-edge, experimental playwrights, actors, and directors without fixed competitive categories.",
     "tags": [
       "drama",
       "stage-trivia",
@@ -2520,64 +2520,64 @@
     "active": true
   },
   {
-    "id": "drama-shakespeare-0121",
+    "id": "drama-stage-trivia-0121",
     "category": "Drama",
-    "subcategory": "Shakespeare",
+    "subcategory": "Stage Trivia",
     "difficulty": "easy",
-    "question": "Theater and dramatic arts: In which Shakespearean tragedy does the troubled Danish prince deliver the soliloquy beginning: 'To be, or not to be'? (Ref #121)",
+    "question": "What labor union represents professional theatrical stage actors and stage managers across the United States?",
     "options": [
-      "Hamlet",
-      "Macbeth",
-      "King Lear",
-      "Othello"
+      "Actors' Equity Association (AEA / Actors' Equity)",
+      "SAG-AFTRA",
+      "IATSE",
+      "The Dramatists Guild"
     ],
     "correctAnswer": 0,
-    "explanation": "Prince Hamlet delivers the famous existential soliloquy 'To be, or not to be, that is the question' in Act 3, Scene 1.",
+    "explanation": "Founded in 1913, Equity negotiates wages, healthcare, safe working conditions, and rules for Broadway, national tours, and regional theaters.",
     "tags": [
       "drama",
-      "shakespeare",
+      "stage-trivia",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "drama-modern-theater-0122",
+    "id": "drama-stage-trivia-0122",
     "category": "Drama",
-    "subcategory": "Modern Theater",
+    "subcategory": "Stage Trivia",
     "difficulty": "medium",
-    "question": "Theater and dramatic arts: Which prestigious annual theatrical awards honor excellence in live Broadway theater productions in New York City? (Ref #122)",
+    "question": "What labor union represents backstage technicians, stagehands, flymen, lighting operators, and wardrobe personnel in theater and cinema?",
     "options": [
-      "The Academy Awards",
-      "The Tony Awards (Antoinette Perry Awards)",
-      "The Emmy Awards",
-      "The Grammy Awards"
+      "Actors' Equity",
+      "IATSE (International Alliance of Theatrical Stage Employees)",
+      "Teamsters Local 817",
+      "USITT"
     ],
     "correctAnswer": 1,
-    "explanation": "The Antoinette Perry Awards for Excellence in Broadway Theatre, known as the Tony Awards, celebrate Broadway stage achievements.",
+    "explanation": "IATSE crews manage rigging, set assembly, lighting design operation, and audio mixing across American entertainment venues.",
     "tags": [
       "drama",
-      "modern-theater",
+      "stage-trivia",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "drama-dramatic-arts-0123",
+    "id": "drama-stage-trivia-0123",
     "category": "Drama",
-    "subcategory": "Dramatic Arts",
+    "subcategory": "Stage Trivia",
     "difficulty": "hard",
-    "question": "Theater and dramatic arts: Which American playwright authored the landmark 1949 drama 'Death of a Salesman' featuring salesman Willy Loman? (Ref #123)",
+    "question": "What traditional live theatrical announcement is made over the dressing room intercoms 30 minutes before the scheduled curtain time?",
     "options": [
-      "Tennessee Williams",
-      "Eugene O'Neill",
-      "Arthur Miller",
-      "Edward Albee"
+      "'Places, please'",
+      "'Five minutes'",
+      "'Half-hour to curtain' (Half-Hour Call)",
+      "'Curtain up'"
     ],
     "correctAnswer": 2,
-    "explanation": "Arthur Miller won the Pulitzer Prize for Drama for Death of a Salesman, examining the tragedy of the American dream through Willy Loman.",
+    "explanation": "Half-hour marks the exact contractual arrival time for actors under Equity rules, followed by fifteen, five, and 'places.'",
     "tags": [
       "drama",
-      "dramatic-arts",
+      "stage-trivia",
       "hard"
     ],
     "active": true
@@ -2587,15 +2587,15 @@
     "category": "Drama",
     "subcategory": "Stage Trivia",
     "difficulty": "easy",
-    "question": "Theater and dramatic arts: What is the theatrical term for a dramatic speech delivered by an actor alone on stage, revealing their inner thoughts? (Ref #124)",
+    "question": "What command is issued by the stage manager over the headset system summoning actors and crew to take their positions just before the show begins?",
     "options": [
-      "Dialogue",
-      "Prologue",
-      "Epilogue",
-      "Soliloquy"
+      "'Curtain going up'",
+      "'Standby all'",
+      "'Action'",
+      "'Places, please' (or 'Places')"
     ],
     "correctAnswer": 3,
-    "explanation": "A soliloquy is an utterance spoken aloud by a character when alone on stage to convey innermost thoughts directly to the audience.",
+    "explanation": "Actors assemble in the wings or set entrances to begin the performance as house lights dim.",
     "tags": [
       "drama",
       "stage-trivia",
@@ -2604,64 +2604,64 @@
     "active": true
   },
   {
-    "id": "drama-shakespeare-0125",
+    "id": "drama-stage-trivia-0125",
     "category": "Drama",
-    "subcategory": "Shakespeare",
+    "subcategory": "Stage Trivia",
     "difficulty": "medium",
-    "question": "Theater and dramatic arts: In Shakespeare's tragedy 'Romeo and Juliet', what are the names of the two feuding noble families in Verona? (Ref #125)",
+    "question": "What legendary Broadway street address, nicknamed 'The Great White Way', became famous for electric marquee marquees in the 1890s?",
     "options": [
-      "The Capulets and the Montagues",
-      "The Lancasters and the Yorks",
-      "The Borgias and the Medicis",
-      "The Macbeths and the Macduffs"
+      "Broadway (Manhattan)",
+      "Fifth Avenue",
+      "42nd Street",
+      "Madison Avenue"
     ],
     "correctAnswer": 0,
-    "explanation": "Romeo Montague and Juliet Capulet are the star-crossed lovers separated by their families' ancient grudge.",
+    "explanation": "Broadway was one of the first fully electrified streets in New York City, creating an illuminated white beacon visible from miles away.",
     "tags": [
       "drama",
-      "shakespeare",
+      "stage-trivia",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "drama-modern-theater-0126",
+    "id": "drama-stage-trivia-0126",
     "category": "Drama",
-    "subcategory": "Modern Theater",
+    "subcategory": "Stage Trivia",
     "difficulty": "hard",
-    "question": "Theater and dramatic arts: In which Shakespearean tragedy does the troubled Danish prince deliver the soliloquy beginning: 'To be, or not to be'? (Ref #126)",
+    "question": "What legendary Times Square theater booth, operated by the Theatre Development Fund (TDF) beneath the red glass steps, sells same-day discount tickets?",
     "options": [
-      "Macbeth",
-      "Hamlet",
-      "King Lear",
-      "Othello"
+      "The Box Office",
+      "The TKTS Booth",
+      "The Broadway Hub",
+      "TodayTix Booth"
     ],
     "correctAnswer": 1,
-    "explanation": "Prince Hamlet delivers the famous existential soliloquy 'To be, or not to be, that is the question' in Act 3, Scene 1.",
+    "explanation": "Since 1973, theatergoers line up at the TKTS booth in Father Duffy Square to purchase same-day Broadway tickets at 20% to 50% off.",
     "tags": [
       "drama",
-      "modern-theater",
+      "stage-trivia",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "drama-dramatic-arts-0127",
+    "id": "drama-stage-trivia-0127",
     "category": "Drama",
-    "subcategory": "Dramatic Arts",
+    "subcategory": "Stage Trivia",
     "difficulty": "easy",
-    "question": "Theater and dramatic arts: Which prestigious annual theatrical awards honor excellence in live Broadway theater productions in New York City? (Ref #127)",
+    "question": "What term describes an actor who learns all lines and blocking for a leading role, stepping in if the lead is sick or on vacation?",
     "options": [
-      "The Academy Awards",
-      "The Emmy Awards",
-      "The Tony Awards (Antoinette Perry Awards)",
-      "The Grammy Awards"
+      "A Standby",
+      "A Swing",
+      "An Understudy",
+      "A Dance Captain"
     ],
     "correctAnswer": 2,
-    "explanation": "The Antoinette Perry Awards for Excellence in Broadway Theatre, known as the Tony Awards, celebrate Broadway stage achievements.",
+    "explanation": "Understudies usually perform in the chorus or minor roles every night, ready to step into the leading role at a moment's notice.",
     "tags": [
       "drama",
-      "dramatic-arts",
+      "stage-trivia",
       "easy"
     ],
     "active": true
@@ -2671,15 +2671,15 @@
     "category": "Drama",
     "subcategory": "Stage Trivia",
     "difficulty": "medium",
-    "question": "Theater and dramatic arts: Which American playwright authored the landmark 1949 drama 'Death of a Salesman' featuring salesman Willy Loman? (Ref #128)",
+    "question": "What specialized theatrical performer memorizes and covers multiple ensemble tracks and understudy parts, ready to step in at any time?",
     "options": [
-      "Tennessee Williams",
-      "Eugene O'Neill",
-      "Edward Albee",
-      "Arthur Miller"
+      "An Understudy",
+      "A Standby",
+      "A Lead",
+      "A Swing"
     ],
     "correctAnswer": 3,
-    "explanation": "Arthur Miller won the Pulitzer Prize for Drama for Death of a Salesman, examining the tragedy of the American dream through Willy Loman.",
+    "explanation": "Swings are among the most versatile theater performers, often covering up to 10 distinct ensemble roles in a large Broadway musical.",
     "tags": [
       "drama",
       "stage-trivia",
@@ -2688,43 +2688,43 @@
     "active": true
   },
   {
-    "id": "drama-shakespeare-0129",
+    "id": "drama-stage-trivia-0129",
     "category": "Drama",
-    "subcategory": "Shakespeare",
+    "subcategory": "Stage Trivia",
     "difficulty": "hard",
-    "question": "Theater and dramatic arts: What is the theatrical term for a dramatic speech delivered by an actor alone on stage, revealing their inner thoughts? (Ref #129)",
+    "question": "What off-stage performer does not appear in the show nightly, but waits on call at the theater ready to play a major star lead role if needed?",
     "options": [
-      "Soliloquy",
-      "Dialogue",
-      "Prologue",
-      "Epilogue"
+      "A Standby",
+      "An Understudy",
+      "A Swing",
+      "A Walk-on"
     ],
     "correctAnswer": 0,
-    "explanation": "A soliloquy is an utterance spoken aloud by a character when alone on stage to convey innermost thoughts directly to the audience.",
+    "explanation": "Standbys wait in the theater dressed in street clothes, stepping in when high-profile stars like Idina Menzel or Hugh Jackman cannot perform.",
     "tags": [
       "drama",
-      "shakespeare",
+      "stage-trivia",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "drama-modern-theater-0130",
+    "id": "drama-stage-trivia-0130",
     "category": "Drama",
-    "subcategory": "Modern Theater",
+    "subcategory": "Stage Trivia",
     "difficulty": "easy",
-    "question": "Theater and dramatic arts: In Shakespeare's tragedy 'Romeo and Juliet', what are the names of the two feuding noble families in Verona? (Ref #130)",
+    "question": "What traditional cast member in a musical is responsible for running dance clean-up rehearsals and maintaining choreography standards throughout the run?",
     "options": [
-      "The Lancasters and the Yorks",
-      "The Capulets and the Montagues",
-      "The Borgias and the Medicis",
-      "The Macbeths and the Macduffs"
+      "The Choreographer",
+      "The Dance Captain",
+      "The Stage Manager",
+      "The Principal Dancer"
     ],
     "correctAnswer": 1,
-    "explanation": "Romeo Montague and Juliet Capulet are the star-crossed lovers separated by their families' ancient grudge.",
+    "explanation": "The dance captain ensures that rotating swings and replacement dancers maintain the original director and choreographer's vision.",
     "tags": [
       "drama",
-      "modern-theater",
+      "stage-trivia",
       "easy"
     ],
     "active": true

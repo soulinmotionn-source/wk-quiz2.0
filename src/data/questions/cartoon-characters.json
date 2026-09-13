@@ -4,15 +4,15 @@
     "category": "Cartoon Characters",
     "subcategory": "Classic Cartoons",
     "difficulty": "easy",
-    "question": "Animation and cartoon trivia: In which 1928 synchronized sound animated short film did Walt Disney's Mickey Mouse make his historic debut? (Ref #1)",
+    "question": "What famous animated rabbit, created in 1940 at Warner Bros., is known for munching a carrot and asking 'What's up, doc?'?",
     "options": [
-      "Steamboat Willie",
-      "Plane Crazy",
-      "The Gallopin' Gaucho",
-      "Fantasia"
+      "Bugs Bunny",
+      "Daffy Duck",
+      "Porky Pig",
+      "Roger Rabbit"
     ],
     "correctAnswer": 0,
-    "explanation": "Steamboat Willie premiered in November 1928 as one of the first animated films with synchronized sound, launching Mickey Mouse.",
+    "explanation": "Voiced by Mel Blanc ('The Man of a Thousand Voices'), Bugs Bunny became the official mascot of Warner Bros. entertainment.",
     "tags": [
       "cartoon-characters",
       "classic-cartoons",
@@ -21,64 +21,64 @@
     "active": true
   },
   {
-    "id": "cartoon-characters-disney-pixar-0002",
+    "id": "cartoon-characters-classic-cartoons-0002",
     "category": "Cartoon Characters",
-    "subcategory": "Disney & Pixar",
+    "subcategory": "Classic Cartoons",
     "difficulty": "medium",
-    "question": "Animation and cartoon trivia: Which famous animated rabbit created by Warner Bros. is renowned for munching a carrot and asking 'What's up, doc?'? (Ref #2)",
+    "question": "What short-tempered, lisping black duck was created by Tex Avery and Bob Clampett in 1937, proclaiming 'You're despicable!'?",
     "options": [
-      "Roger Rabbit",
-      "Bugs Bunny",
+      "Donald Duck",
       "Daffy Duck",
-      "Buster Bunny"
+      "Howard the Duck",
+      "Darkwing Duck"
     ],
     "correctAnswer": 1,
-    "explanation": "Bugs Bunny made his official debut in 1940's A Wild Hare, voiced by the legendary Mel Blanc.",
+    "explanation": "Daffy Duck evolved from an uninhibited screwball character into a jealous, vain rival to Bugs Bunny's fame.",
     "tags": [
       "cartoon-characters",
-      "disney-pixar",
+      "classic-cartoons",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "cartoon-characters-modern-animation-0003",
+    "id": "cartoon-characters-classic-cartoons-0003",
     "category": "Cartoon Characters",
-    "subcategory": "Modern Animation",
+    "subcategory": "Classic Cartoons",
     "difficulty": "hard",
-    "question": "Animation and cartoon trivia: In the animated series 'The Simpsons', what iconic pastry is Homer Simpson famously obsessed with eating? (Ref #3)",
+    "question": "What stuttering Warner Bros. cartoon pig famously concludes Looney Tunes and Merrie Melodies shorts with 'Th-th-th-that's all, folks!'?",
     "options": [
-      "Chocolate chip cookies",
-      "Apple strudel",
-      "Pink-frosted sprinkled donuts",
-      "Custard tarts"
+      "Babe",
+      "Miss Piggy",
+      "Porky Pig",
+      "Piglet"
     ],
     "correctAnswer": 2,
-    "explanation": "Homer Simpson's catchphrase 'Mmm... donuts' and obsession with pink-glazed sprinkled donuts is a running comedy hallmark.",
+    "explanation": "Porky Pig was Warner Bros.' first legitimate cartoon star, debuting in 1935's I Haven't Got a Hat.",
     "tags": [
       "cartoon-characters",
-      "modern-animation",
+      "classic-cartoons",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "cartoon-characters-superhero-cartoons-0004",
+    "id": "cartoon-characters-classic-cartoons-0004",
     "category": "Cartoon Characters",
-    "subcategory": "Superhero Cartoons",
+    "subcategory": "Classic Cartoons",
     "difficulty": "easy",
-    "question": "Animation and cartoon trivia: In Nickelodeon's beloved cartoon, where under the sea does SpongeBob SquarePants live inside a pineapple? (Ref #4)",
+    "question": "What persistent Looney Tunes predator endlessly orders complex contraptions from the ACME Corporation to catch the Road Runner?",
     "options": [
-      "Atlantis Reef",
-      "Coral Cove",
-      "Deep Trench Bay",
-      "Bikini Bottom"
+      "Sylvester the Cat",
+      "Elmer Fudd",
+      "Yosemite Sam",
+      "Wile E. Coyote"
     ],
     "correctAnswer": 3,
-    "explanation": "SpongeBob lives with his pet snail Gary inside a two-story pineapple at 124 Conch Street in Bikini Bottom.",
+    "explanation": "Created by Chuck Jones and Michael Maltese, Wile E. Coyote's elaborate physics-defying traps inevitably backfire on him.",
     "tags": [
       "cartoon-characters",
-      "superhero-cartoons",
+      "classic-cartoons",
       "easy"
     ],
     "active": true
@@ -88,15 +88,15 @@
     "category": "Cartoon Characters",
     "subcategory": "Classic Cartoons",
     "difficulty": "medium",
-    "question": "Animation and cartoon trivia: What breed of dog is the cowardly, mystery-solving Hanna-Barbera cartoon canine Scooby-Doo? (Ref #5)",
+    "question": "What fast-running desert bird outsmarts Wile E. Coyote with bursts of supersonic speed and a signature 'Beep-beep!' sound?",
     "options": [
-      "Great Dane",
-      "Bloodhound",
-      "Saint Bernard",
-      "Golden Retriever"
+      "The Road Runner (Acceleratii incredibilis)",
+      "Woody Woodpecker",
+      "Tweety Bird",
+      "Foghorn Leghorn"
     ],
     "correctAnswer": 0,
-    "explanation": "Scooby-Doo was designed by Iwao Takamoto as a lovable, slightly clumsy Great Dane with a fondness for Scooby Snacks.",
+    "explanation": "The Road Runner never leaves the road and never harms the coyote directly, relying on the coyote's own ineptitude.",
     "tags": [
       "cartoon-characters",
       "classic-cartoons",
@@ -105,64 +105,64 @@
     "active": true
   },
   {
-    "id": "cartoon-characters-disney-pixar-0006",
+    "id": "cartoon-characters-classic-cartoons-0006",
     "category": "Cartoon Characters",
-    "subcategory": "Disney & Pixar",
+    "subcategory": "Classic Cartoons",
     "difficulty": "hard",
-    "question": "Animation and cartoon trivia: What leafy canned vegetable does Popeye the Sailor Man consume to instantly acquire superhuman strength? (Ref #6)",
+    "question": "What bumbling, speech-impaired hunter is determined to hunt rabbits and ducks, warning 'Be vewy vewy quiet, I'm hunting wabbits'?",
     "options": [
-      "Kale",
-      "Spinach",
-      "Broccoli",
-      "Collard greens"
+      "Yosemite Sam",
+      "Elmer Fudd",
+      "Foghorn Leghorn",
+      "Taz"
     ],
     "correctAnswer": 1,
-    "explanation": "Popeye pops open a can of spinach whenever he needs sudden bursts of muscular strength to overcome Bluto.",
+    "explanation": "Elmer Fudd's rhotacism replaces 'r' and 'l' with 'w', frequently duped by Bugs Bunny's cross-dressing disguises.",
     "tags": [
       "cartoon-characters",
-      "disney-pixar",
+      "classic-cartoons",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "cartoon-characters-modern-animation-0007",
+    "id": "cartoon-characters-classic-cartoons-0007",
     "category": "Cartoon Characters",
-    "subcategory": "Modern Animation",
+    "subcategory": "Classic Cartoons",
     "difficulty": "easy",
-    "question": "Animation and cartoon trivia: In which 1928 synchronized sound animated short film did Walt Disney's Mickey Mouse make his historic debut? (Ref #7)",
+    "question": "What fiery-tempered, gun-toting cowboy prospector with a giant red mustache despises 'varmints' and Bugs Bunny?",
     "options": [
-      "Plane Crazy",
-      "The Gallopin' Gaucho",
-      "Steamboat Willie",
-      "Fantasia"
+      "Elmer Fudd",
+      "Foghorn Leghorn",
+      "Yosemite Sam",
+      "Quick Draw McGraw"
     ],
     "correctAnswer": 2,
-    "explanation": "Steamboat Willie premiered in November 1928 as one of the first animated films with synchronized sound, launching Mickey Mouse.",
+    "explanation": "Created by Friz Freleng to provide Bugs with a more aggressive, genuinely dangerous adversary than Elmer Fudd.",
     "tags": [
       "cartoon-characters",
-      "modern-animation",
+      "classic-cartoons",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "cartoon-characters-superhero-cartoons-0008",
+    "id": "cartoon-characters-classic-cartoons-0008",
     "category": "Cartoon Characters",
-    "subcategory": "Superhero Cartoons",
+    "subcategory": "Classic Cartoons",
     "difficulty": "medium",
-    "question": "Animation and cartoon trivia: Which famous animated rabbit created by Warner Bros. is renowned for munching a carrot and asking 'What's up, doc?'? (Ref #8)",
+    "question": "What loud, blustery rooster, based on the radio character Senator Claghorn, endlessly pesters the barnyard Dog?",
     "options": [
-      "Roger Rabbit",
-      "Daffy Duck",
-      "Buster Bunny",
-      "Bugs Bunny"
+      "Rooster Cogburn",
+      "Woody Woodpecker",
+      "Chicken Little",
+      "Foghorn Leghorn"
     ],
     "correctAnswer": 3,
-    "explanation": "Bugs Bunny made his official debut in 1940's A Wild Hare, voiced by the legendary Mel Blanc.",
+    "explanation": "Foghorn punctuates his booming Southern monologue with 'Look at me when I'm talkin' to ya, boy!' and 'That's a joke, son!'",
     "tags": [
       "cartoon-characters",
-      "superhero-cartoons",
+      "classic-cartoons",
       "medium"
     ],
     "active": true
@@ -172,15 +172,15 @@
     "category": "Cartoon Characters",
     "subcategory": "Classic Cartoons",
     "difficulty": "hard",
-    "question": "Animation and cartoon trivia: In the animated series 'The Simpsons', what iconic pastry is Homer Simpson famously obsessed with eating? (Ref #9)",
+    "question": "What yellow canary constantly outwits Sylvester the Cat, remarking 'I tawt I taw a puddy tat'?",
     "options": [
-      "Pink-frosted sprinkled donuts",
-      "Chocolate chip cookies",
-      "Apple strudel",
-      "Custard tarts"
+      "Tweety Bird",
+      "Woody Woodpecker",
+      "Road Runner",
+      "Big Bird"
     ],
     "correctAnswer": 0,
-    "explanation": "Homer Simpson's catchphrase 'Mmm... donuts' and obsession with pink-glazed sprinkled donuts is a running comedy hallmark.",
+    "explanation": "Created by Bob Clampett and refined by Friz Freleng, Tweety lives safely in a birdcage under the protection of Granny.",
     "tags": [
       "cartoon-characters",
       "classic-cartoons",
@@ -189,64 +189,64 @@
     "active": true
   },
   {
-    "id": "cartoon-characters-disney-pixar-0010",
+    "id": "cartoon-characters-classic-cartoons-0010",
     "category": "Cartoon Characters",
-    "subcategory": "Disney & Pixar",
+    "subcategory": "Classic Cartoons",
     "difficulty": "easy",
-    "question": "Animation and cartoon trivia: In Nickelodeon's beloved cartoon, where under the sea does SpongeBob SquarePants live inside a pineapple? (Ref #10)",
+    "question": "What tuxedo cat with a red nose endlessly stalks Tweety Bird and Speedy Gonzales, sputtering 'Sufferin' succotash!'?",
     "options": [
-      "Atlantis Reef",
-      "Bikini Bottom",
-      "Coral Cove",
-      "Deep Trench Bay"
+      "Tom",
+      "Sylvester the Cat",
+      "Garfield",
+      "Felix the Cat"
     ],
     "correctAnswer": 1,
-    "explanation": "SpongeBob lives with his pet snail Gary inside a two-story pineapple at 124 Conch Street in Bikini Bottom.",
+    "explanation": "Sylvester's wet, lisping catchphrase and persistent failures to eat Tweety won three Academy Awards for Warner Bros.",
     "tags": [
       "cartoon-characters",
-      "disney-pixar",
+      "classic-cartoons",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "cartoon-characters-modern-animation-0011",
+    "id": "cartoon-characters-classic-cartoons-0011",
     "category": "Cartoon Characters",
-    "subcategory": "Modern Animation",
+    "subcategory": "Classic Cartoons",
     "difficulty": "medium",
-    "question": "Animation and cartoon trivia: What breed of dog is the cowardly, mystery-solving Hanna-Barbera cartoon canine Scooby-Doo? (Ref #11)",
+    "question": "What Mexican mouse, wearing an oversized yellow sombrero and white clothes, is celebrated as 'The Fastest Mouse in all Mexico'?",
     "options": [
-      "Bloodhound",
-      "Saint Bernard",
-      "Great Dane",
-      "Golden Retriever"
+      "Slowpoke Rodriguez",
+      "Mighty Mouse",
+      "Speedy Gonzales",
+      "Jerry"
     ],
     "correctAnswer": 2,
-    "explanation": "Scooby-Doo was designed by Iwao Takamoto as a lovable, slightly clumsy Great Dane with a fondness for Scooby Snacks.",
+    "explanation": "Speedy shouts '¡Ándale! ¡Ándale! ¡Arriba! ¡Arriba!' as he outruns Sylvester the Cat to deliver cheese to hungry mice.",
     "tags": [
       "cartoon-characters",
-      "modern-animation",
+      "classic-cartoons",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "cartoon-characters-superhero-cartoons-0012",
+    "id": "cartoon-characters-classic-cartoons-0012",
     "category": "Cartoon Characters",
-    "subcategory": "Superhero Cartoons",
+    "subcategory": "Classic Cartoons",
     "difficulty": "hard",
-    "question": "Animation and cartoon trivia: What leafy canned vegetable does Popeye the Sailor Man consume to instantly acquire superhuman strength? (Ref #12)",
+    "question": "What destructive marsupial from Down Under spins like a tornado, grunting and devouring everything in his path?",
     "options": [
-      "Kale",
-      "Broccoli",
-      "Collard greens",
-      "Spinach"
+      "Wile E. Coyote",
+      "Crash Bandicoot",
+      "Yosemite Sam",
+      "The Tasmanian Devil (Taz)"
     ],
     "correctAnswer": 3,
-    "explanation": "Popeye pops open a can of spinach whenever he needs sudden bursts of muscular strength to overcome Bluto.",
+    "explanation": "Introduced by Robert McKimson in 1954, Taz's ferocious appetite and wild spinning vortex made him an iconic Looney Tunes star.",
     "tags": [
       "cartoon-characters",
-      "superhero-cartoons",
+      "classic-cartoons",
       "hard"
     ],
     "active": true
@@ -256,15 +256,15 @@
     "category": "Cartoon Characters",
     "subcategory": "Classic Cartoons",
     "difficulty": "easy",
-    "question": "Animation and cartoon trivia: In which 1928 synchronized sound animated short film did Walt Disney's Mickey Mouse make his historic debut? (Ref #13)",
+    "question": "What romantic French skunk, created by Chuck Jones in 1945, perpetually pursues black cats accidentally painted with a white stripe?",
     "options": [
-      "Steamboat Willie",
-      "Plane Crazy",
-      "The Gallopin' Gaucho",
-      "Fantasia"
+      "Pepé Le Pew",
+      "Sylvester",
+      "Tom",
+      "Fifi La Fume"
     ],
     "correctAnswer": 0,
-    "explanation": "Steamboat Willie premiered in November 1928 as one of the first animated films with synchronized sound, launching Mickey Mouse.",
+    "explanation": "Pepé mistakes Penelope Pussycat for a fellow skunk, wooing her aggressively with florid French romantic endearments.",
     "tags": [
       "cartoon-characters",
       "classic-cartoons",
@@ -273,64 +273,64 @@
     "active": true
   },
   {
-    "id": "cartoon-characters-disney-pixar-0014",
+    "id": "cartoon-characters-classic-cartoons-0014",
     "category": "Cartoon Characters",
-    "subcategory": "Disney & Pixar",
+    "subcategory": "Classic Cartoons",
     "difficulty": "medium",
-    "question": "Animation and cartoon trivia: Which famous animated rabbit created by Warner Bros. is renowned for munching a carrot and asking 'What's up, doc?'? (Ref #14)",
+    "question": "What silent slapstick cat-and-mouse rivalry, created by William Hanna and Joseph Barbera for MGM in 1940, won seven Academy Awards?",
     "options": [
-      "Roger Rabbit",
-      "Bugs Bunny",
-      "Daffy Duck",
-      "Buster Bunny"
+      "Sylvester and Tweety",
+      "Tom and Jerry",
+      "Itchy and Scratchy",
+      "Pixie and Dixie"
     ],
     "correctAnswer": 1,
-    "explanation": "Bugs Bunny made his official debut in 1940's A Wild Hare, voiced by the legendary Mel Blanc.",
+    "explanation": "Thomas the house cat and Jerry the clever brown mouse engaged in chaotic, violent orchestral slapstick across 161 theatrical shorts.",
     "tags": [
       "cartoon-characters",
-      "disney-pixar",
+      "classic-cartoons",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "cartoon-characters-modern-animation-0015",
+    "id": "cartoon-characters-classic-cartoons-0015",
     "category": "Cartoon Characters",
-    "subcategory": "Modern Animation",
+    "subcategory": "Classic Cartoons",
     "difficulty": "hard",
-    "question": "Animation and cartoon trivia: In the animated series 'The Simpsons', what iconic pastry is Homer Simpson famously obsessed with eating? (Ref #15)",
+    "question": "What iconic sailor, created by E.C. Segar in 1929, gains superhuman strength whenever he consumes a can of spinach?",
     "options": [
-      "Chocolate chip cookies",
-      "Apple strudel",
-      "Pink-frosted sprinkled donuts",
-      "Custard tarts"
+      "Bluto",
+      "Wimpy",
+      "Popeye the Sailor Man",
+      "Sinbad"
     ],
     "correctAnswer": 2,
-    "explanation": "Homer Simpson's catchphrase 'Mmm... donuts' and obsession with pink-glazed sprinkled donuts is a running comedy hallmark.",
+    "explanation": "Popeye protects his girlfriend Olive Oyl from the hulking bully Bluto, singing 'I'm Popeye the Sailor Man, I'm strong to the finich, 'cause I eats me spinach!'",
     "tags": [
       "cartoon-characters",
-      "modern-animation",
+      "classic-cartoons",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "cartoon-characters-superhero-cartoons-0016",
+    "id": "cartoon-characters-classic-cartoons-0016",
     "category": "Cartoon Characters",
-    "subcategory": "Superhero Cartoons",
+    "subcategory": "Classic Cartoons",
     "difficulty": "easy",
-    "question": "Animation and cartoon trivia: In Nickelodeon's beloved cartoon, where under the sea does SpongeBob SquarePants live inside a pineapple? (Ref #16)",
+    "question": "What hamburger-obsessed friend of Popeye is famous for the catchphrase 'I'll gladly pay you Tuesday for a hamburger today'?",
     "options": [
-      "Atlantis Reef",
-      "Coral Cove",
-      "Deep Trench Bay",
-      "Bikini Bottom"
+      "Popeye",
+      "Bluto",
+      "Poopdeck Pappy",
+      "J. Wellington Wimpy"
     ],
     "correctAnswer": 3,
-    "explanation": "SpongeBob lives with his pet snail Gary inside a two-story pineapple at 124 Conch Street in Bikini Bottom.",
+    "explanation": "Wimpy's relentless mooching and love of hamburgers inspired the name of the international Wimpy burger chain.",
     "tags": [
       "cartoon-characters",
-      "superhero-cartoons",
+      "classic-cartoons",
       "easy"
     ],
     "active": true
@@ -340,15 +340,15 @@
     "category": "Cartoon Characters",
     "subcategory": "Classic Cartoons",
     "difficulty": "medium",
-    "question": "Animation and cartoon trivia: What breed of dog is the cowardly, mystery-solving Hanna-Barbera cartoon canine Scooby-Doo? (Ref #17)",
+    "question": "What anthropomorphic black cat, created in 1919 during the silent film era, is famous for his magical yellow bag of tricks?",
     "options": [
-      "Great Dane",
-      "Bloodhound",
-      "Saint Bernard",
-      "Golden Retriever"
+      "Felix the Cat",
+      "Sylvester",
+      "Tom",
+      "Fritz the Cat"
     ],
     "correctAnswer": 0,
-    "explanation": "Scooby-Doo was designed by Iwao Takamoto as a lovable, slightly clumsy Great Dane with a fondness for Scooby Snacks.",
+    "explanation": "Felix was the first animated character in cinematic history to achieve mass merchandise popularity and global recognition.",
     "tags": [
       "cartoon-characters",
       "classic-cartoons",
@@ -357,64 +357,64 @@
     "active": true
   },
   {
-    "id": "cartoon-characters-disney-pixar-0018",
+    "id": "cartoon-characters-classic-cartoons-0018",
     "category": "Cartoon Characters",
-    "subcategory": "Disney & Pixar",
+    "subcategory": "Classic Cartoons",
     "difficulty": "hard",
-    "question": "Animation and cartoon trivia: What leafy canned vegetable does Popeye the Sailor Man consume to instantly acquire superhuman strength? (Ref #18)",
+    "question": "What laughing, red-crested woodpecker was created in 1940 by Walter Lantz and voiced with a signature cackling laugh by Mel Blanc?",
     "options": [
-      "Kale",
-      "Spinach",
-      "Broccoli",
-      "Collard greens"
+      "Foghorn Leghorn",
+      "Woody Woodpecker",
+      "Road Runner",
+      "Daffy Duck"
     ],
     "correctAnswer": 1,
-    "explanation": "Popeye pops open a can of spinach whenever he needs sudden bursts of muscular strength to overcome Bluto.",
+    "explanation": "Woody's maniacal staccato laugh ('Ha-ha-ha-HA-ha!') became one of the most recognized audio signatures in cartoon history.",
     "tags": [
       "cartoon-characters",
-      "disney-pixar",
+      "classic-cartoons",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "cartoon-characters-modern-animation-0019",
+    "id": "cartoon-characters-classic-cartoons-0019",
     "category": "Cartoon Characters",
-    "subcategory": "Modern Animation",
+    "subcategory": "Classic Cartoons",
     "difficulty": "easy",
-    "question": "Animation and cartoon trivia: In which 1928 synchronized sound animated short film did Walt Disney's Mickey Mouse make his historic debut? (Ref #19)",
+    "question": "What superhero mouse, created by Terrytoons in 1942 as a parody of Superman, sang in operatic recitative while flying into battle?",
     "options": [
-      "Plane Crazy",
-      "The Gallopin' Gaucho",
-      "Steamboat Willie",
-      "Fantasia"
+      "Danger Mouse",
+      "Speedy Gonzales",
+      "Mighty Mouse",
+      "Super Mouse"
     ],
     "correctAnswer": 2,
-    "explanation": "Steamboat Willie premiered in November 1928 as one of the first animated films with synchronized sound, launching Mickey Mouse.",
+    "explanation": "Originally named Super Mouse, Mighty Mouse flew in to save mice from army cats, proclaiming 'Here I come to save the day!'",
     "tags": [
       "cartoon-characters",
-      "modern-animation",
+      "classic-cartoons",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "cartoon-characters-superhero-cartoons-0020",
+    "id": "cartoon-characters-classic-cartoons-0020",
     "category": "Cartoon Characters",
-    "subcategory": "Superhero Cartoons",
+    "subcategory": "Classic Cartoons",
     "difficulty": "medium",
-    "question": "Animation and cartoon trivia: Which famous animated rabbit created by Warner Bros. is renowned for munching a carrot and asking 'What's up, doc?'? (Ref #20)",
+    "question": "What stone-age animated sitcom, created by Hanna-Barbera in 1960, followed Fred and Wilma in the prehistoric town of Bedrock?",
     "options": [
-      "Roger Rabbit",
-      "Daffy Duck",
-      "Buster Bunny",
-      "Bugs Bunny"
+      "The Jetsons",
+      "Captain Caveman",
+      "Dino Boy",
+      "The Flintstones"
     ],
     "correctAnswer": 3,
-    "explanation": "Bugs Bunny made his official debut in 1940's A Wild Hare, voiced by the legendary Mel Blanc.",
+    "explanation": "The Flintstones was the first prime-time animated television series, famous for Fred's joyous shout: 'Yabba-Dabba-Doo!'",
     "tags": [
       "cartoon-characters",
-      "superhero-cartoons",
+      "classic-cartoons",
       "medium"
     ],
     "active": true
@@ -424,15 +424,15 @@
     "category": "Cartoon Characters",
     "subcategory": "Classic Cartoons",
     "difficulty": "hard",
-    "question": "Animation and cartoon trivia: In the animated series 'The Simpsons', what iconic pastry is Homer Simpson famously obsessed with eating? (Ref #21)",
+    "question": "What futuristic Hanna-Barbera animated family lived in Orbit City with flying aerocars, moving sidewalks, and robotic maid Rosie?",
     "options": [
-      "Pink-frosted sprinkled donuts",
-      "Chocolate chip cookies",
-      "Apple strudel",
-      "Custard tarts"
+      "The Jetsons",
+      "The Flintstones",
+      "Futurama",
+      "The Centurions"
     ],
     "correctAnswer": 0,
-    "explanation": "Homer Simpson's catchphrase 'Mmm... donuts' and obsession with pink-glazed sprinkled donuts is a running comedy hallmark.",
+    "explanation": "George, Jane, Judy, and Elroy Jetson envisioned a whimsical 21st-century technological future of push-button living.",
     "tags": [
       "cartoon-characters",
       "classic-cartoons",
@@ -441,64 +441,64 @@
     "active": true
   },
   {
-    "id": "cartoon-characters-disney-pixar-0022",
+    "id": "cartoon-characters-classic-cartoons-0022",
     "category": "Cartoon Characters",
-    "subcategory": "Disney & Pixar",
+    "subcategory": "Classic Cartoons",
     "difficulty": "easy",
-    "question": "Animation and cartoon trivia: In Nickelodeon's beloved cartoon, where under the sea does SpongeBob SquarePants live inside a pineapple? (Ref #22)",
+    "question": "What Great Dane dog and his teenage mystery-solving friends travel in the green Mystery Machine van unmasking fraudulent ghosts?",
     "options": [
-      "Atlantis Reef",
-      "Bikini Bottom",
-      "Coral Cove",
-      "Deep Trench Bay"
+      "Muttley",
+      "Scooby-Doo (Scoobert Doo)",
+      "Astro",
+      "Hong Kong Phooey"
     ],
     "correctAnswer": 1,
-    "explanation": "SpongeBob lives with his pet snail Gary inside a two-story pineapple at 124 Conch Street in Bikini Bottom.",
+    "explanation": "Fred, Daphne, Velma, Shaggy, and Scooby solve supernatural mysteries, coaxed into dangerous rooms with tasty 'Scooby Snacks.'",
     "tags": [
       "cartoon-characters",
-      "disney-pixar",
+      "classic-cartoons",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "cartoon-characters-modern-animation-0023",
+    "id": "cartoon-characters-classic-cartoons-0023",
     "category": "Cartoon Characters",
-    "subcategory": "Modern Animation",
+    "subcategory": "Classic Cartoons",
     "difficulty": "medium",
-    "question": "Animation and cartoon trivia: What breed of dog is the cowardly, mystery-solving Hanna-Barbera cartoon canine Scooby-Doo? (Ref #23)",
+    "question": "What cowardly, constantly hungry beatnik companion of Scooby-Doo is known for his baggy green shirt and catchphrase 'Zoinks!'?",
     "options": [
-      "Bloodhound",
-      "Saint Bernard",
-      "Great Dane",
-      "Golden Retriever"
+      "Fred Jones",
+      "Scrappy-Doo",
+      "Norville 'Shaggy' Rogers",
+      "Daphne Blake"
     ],
     "correctAnswer": 2,
-    "explanation": "Scooby-Doo was designed by Iwao Takamoto as a lovable, slightly clumsy Great Dane with a fondness for Scooby Snacks.",
+    "explanation": "Voiced for decades by radio legend Casey Kasem, Shaggy and Scooby bonded over towering multi-layer sandwiches.",
     "tags": [
       "cartoon-characters",
-      "modern-animation",
+      "classic-cartoons",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "cartoon-characters-superhero-cartoons-0024",
+    "id": "cartoon-characters-classic-cartoons-0024",
     "category": "Cartoon Characters",
-    "subcategory": "Superhero Cartoons",
+    "subcategory": "Classic Cartoons",
     "difficulty": "hard",
-    "question": "Animation and cartoon trivia: What leafy canned vegetable does Popeye the Sailor Man consume to instantly acquire superhuman strength? (Ref #24)",
+    "question": "What picnic-basket-stealing brown bear in Jellystone Park proclaims he is 'smarter than the av-er-age bear' to his pal Boo-Boo?",
     "options": [
-      "Kale",
-      "Broccoli",
-      "Collard greens",
-      "Spinach"
+      "Smokey Bear",
+      "Fozzie Bear",
+      "Baloo",
+      "Yogi Bear"
     ],
     "correctAnswer": 3,
-    "explanation": "Popeye pops open a can of spinach whenever he needs sudden bursts of muscular strength to overcome Bluto.",
+    "explanation": "Created by Hanna-Barbera in 1958, Yogi constantly outwits Ranger Smith to swipe tourist 'pic-a-nic' baskets.",
     "tags": [
       "cartoon-characters",
-      "superhero-cartoons",
+      "classic-cartoons",
       "hard"
     ],
     "active": true
@@ -508,15 +508,15 @@
     "category": "Cartoon Characters",
     "subcategory": "Classic Cartoons",
     "difficulty": "easy",
-    "question": "Animation and cartoon trivia: In which 1928 synchronized sound animated short film did Walt Disney's Mickey Mouse make his historic debut? (Ref #25)",
+    "question": "What lazy, lasagna-loving orange tabby cat, created by cartoonist Jim Davis in 1978, despises Mondays and tormenting Odie the dog?",
     "options": [
-      "Steamboat Willie",
-      "Plane Crazy",
-      "The Gallopin' Gaucho",
-      "Fantasia"
+      "Garfield",
+      "Heathcliff",
+      "Felix the Cat",
+      "Sylvester"
     ],
     "correctAnswer": 0,
-    "explanation": "Steamboat Willie premiered in November 1928 as one of the first animated films with synchronized sound, launching Mickey Mouse.",
+    "explanation": "Garfield's deadpan sarcasm, love of naps, and exploitation of his bumbling owner Jon Arbuckle made it the world's most syndicated comic strip.",
     "tags": [
       "cartoon-characters",
       "classic-cartoons",
@@ -525,64 +525,64 @@
     "active": true
   },
   {
-    "id": "cartoon-characters-disney-pixar-0026",
+    "id": "cartoon-characters-classic-cartoons-0026",
     "category": "Cartoon Characters",
-    "subcategory": "Disney & Pixar",
+    "subcategory": "Classic Cartoons",
     "difficulty": "medium",
-    "question": "Animation and cartoon trivia: Which famous animated rabbit created by Warner Bros. is renowned for munching a carrot and asking 'What's up, doc?'? (Ref #26)",
+    "question": "What energetic, yellow-furred beagle dog in Jim Davis's Garfield comic strip is known for panting with his tongue hanging out?",
     "options": [
-      "Roger Rabbit",
-      "Bugs Bunny",
-      "Daffy Duck",
-      "Buster Bunny"
+      "Snoopy",
+      "Odie",
+      "Pluto",
+      "Poochie"
     ],
     "correctAnswer": 1,
-    "explanation": "Bugs Bunny made his official debut in 1940's A Wild Hare, voiced by the legendary Mel Blanc.",
+    "explanation": "Odie is the lovable, brainless foil whom Garfield frequently kicks off the kitchen table.",
     "tags": [
       "cartoon-characters",
-      "disney-pixar",
+      "classic-cartoons",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "cartoon-characters-modern-animation-0027",
+    "id": "cartoon-characters-classic-cartoons-0027",
     "category": "Cartoon Characters",
-    "subcategory": "Modern Animation",
+    "subcategory": "Classic Cartoons",
     "difficulty": "hard",
-    "question": "Animation and cartoon trivia: In the animated series 'The Simpsons', what iconic pastry is Homer Simpson famously obsessed with eating? (Ref #27)",
+    "question": "What imaginative black-and-white beagle dog in Charles M. Schulz's Peanuts comic strip fantasizes about being a World War I Flying Ace?",
     "options": [
-      "Chocolate chip cookies",
-      "Apple strudel",
-      "Pink-frosted sprinkled donuts",
-      "Custard tarts"
+      "Odie",
+      "Goofy",
+      "Snoopy",
+      "Brian Griffin"
     ],
     "correctAnswer": 2,
-    "explanation": "Homer Simpson's catchphrase 'Mmm... donuts' and obsession with pink-glazed sprinkled donuts is a running comedy hallmark.",
+    "explanation": "Perched on his doghouse roof, Snoopy battles the Red Baron, dances joyfully on his hind legs, and types novels on his typewriter.",
     "tags": [
       "cartoon-characters",
-      "modern-animation",
+      "classic-cartoons",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "cartoon-characters-superhero-cartoons-0028",
+    "id": "cartoon-characters-classic-cartoons-0028",
     "category": "Cartoon Characters",
-    "subcategory": "Superhero Cartoons",
+    "subcategory": "Classic Cartoons",
     "difficulty": "easy",
-    "question": "Animation and cartoon trivia: In Nickelodeon's beloved cartoon, where under the sea does SpongeBob SquarePants live inside a pineapple? (Ref #28)",
+    "question": "What sweet-natured yellow bird is Snoopy's loyal best friend and bird-mechanic in Charles M. Schulz's Peanuts?",
     "options": [
-      "Atlantis Reef",
-      "Coral Cove",
-      "Deep Trench Bay",
-      "Bikini Bottom"
+      "Tweety",
+      "Flit",
+      "Big Bird",
+      "Woodstock"
     ],
     "correctAnswer": 3,
-    "explanation": "SpongeBob lives with his pet snail Gary inside a two-story pineapple at 124 Conch Street in Bikini Bottom.",
+    "explanation": "Named after the 1969 music festival, Woodstock communicates through exclamation marks that only Snoopy can decipher.",
     "tags": [
       "cartoon-characters",
-      "superhero-cartoons",
+      "classic-cartoons",
       "easy"
     ],
     "active": true
@@ -592,15 +592,15 @@
     "category": "Cartoon Characters",
     "subcategory": "Classic Cartoons",
     "difficulty": "medium",
-    "question": "Animation and cartoon trivia: What breed of dog is the cowardly, mystery-solving Hanna-Barbera cartoon canine Scooby-Doo? (Ref #29)",
+    "question": "What insecure, round-headed boy in Peanuts wears a yellow zigzag polo shirt and endlessly attempts to kick Lucy's football?",
     "options": [
-      "Great Dane",
-      "Bloodhound",
-      "Saint Bernard",
-      "Golden Retriever"
+      "Charlie Brown",
+      "Linus van Pelt",
+      "Schroeder",
+      "Franklin"
     ],
     "correctAnswer": 0,
-    "explanation": "Scooby-Doo was designed by Iwao Takamoto as a lovable, slightly clumsy Great Dane with a fondness for Scooby Snacks.",
+    "explanation": "Charlie Brown's resilient spirit in the face of kite-eating trees and baseball losses made him an American folk anti-hero.",
     "tags": [
       "cartoon-characters",
       "classic-cartoons",
@@ -609,64 +609,64 @@
     "active": true
   },
   {
-    "id": "cartoon-characters-disney-pixar-0030",
+    "id": "cartoon-characters-classic-cartoons-0030",
     "category": "Cartoon Characters",
-    "subcategory": "Disney & Pixar",
+    "subcategory": "Classic Cartoons",
     "difficulty": "hard",
-    "question": "Animation and cartoon trivia: What leafy canned vegetable does Popeye the Sailor Man consume to instantly acquire superhuman strength? (Ref #30)",
+    "question": "What thumb-sucking, blanket-carrying philosopher in Peanuts delivers the true meaning of Christmas in A Charlie Brown Christmas?",
     "options": [
-      "Kale",
-      "Spinach",
-      "Broccoli",
-      "Collard greens"
+      "Charlie Brown",
+      "Linus van Pelt",
+      "Schroeder",
+      "Pig-Pen"
     ],
     "correctAnswer": 1,
-    "explanation": "Popeye pops open a can of spinach whenever he needs sudden bursts of muscular strength to overcome Bluto.",
+    "explanation": "Linus recites the Gospel of Luke on stage, comforting Charlie Brown's scrawny little pine tree.",
     "tags": [
       "cartoon-characters",
-      "disney-pixar",
+      "classic-cartoons",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "cartoon-characters-modern-animation-0031",
+    "id": "cartoon-characters-classic-cartoons-0031",
     "category": "Cartoon Characters",
-    "subcategory": "Modern Animation",
+    "subcategory": "Classic Cartoons",
     "difficulty": "easy",
-    "question": "Animation and cartoon trivia: In which 1928 synchronized sound animated short film did Walt Disney's Mickey Mouse make his historic debut? (Ref #31)",
+    "question": "What domineering, crabby girl in Peanuts dispenses psychiatric advice from a wooden lemonade stand for five cents?",
     "options": [
-      "Plane Crazy",
-      "The Gallopin' Gaucho",
-      "Steamboat Willie",
-      "Fantasia"
+      "Peppermint Patty",
+      "Marcie",
+      "Lucy van Pelt",
+      "Sally Brown"
     ],
     "correctAnswer": 2,
-    "explanation": "Steamboat Willie premiered in November 1928 as one of the first animated films with synchronized sound, launching Mickey Mouse.",
+    "explanation": "Lucy routinely yanks the football away from Charlie Brown at the final millisecond, sending him flying on his back.",
     "tags": [
       "cartoon-characters",
-      "modern-animation",
+      "classic-cartoons",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "cartoon-characters-superhero-cartoons-0032",
+    "id": "cartoon-characters-classic-cartoons-0032",
     "category": "Cartoon Characters",
-    "subcategory": "Superhero Cartoons",
+    "subcategory": "Classic Cartoons",
     "difficulty": "medium",
-    "question": "Animation and cartoon trivia: Which famous animated rabbit created by Warner Bros. is renowned for munching a carrot and asking 'What's up, doc?'? (Ref #32)",
+    "question": "What musical prodigy in Peanuts plays classical Beethoven sonatas on a tiny toy piano while ignoring Lucy's romantic advances?",
     "options": [
-      "Roger Rabbit",
-      "Daffy Duck",
-      "Buster Bunny",
-      "Bugs Bunny"
+      "Linus",
+      "Charlie Brown",
+      "Franklin",
+      "Schroeder"
     ],
     "correctAnswer": 3,
-    "explanation": "Bugs Bunny made his official debut in 1940's A Wild Hare, voiced by the legendary Mel Blanc.",
+    "explanation": "Schroeder's intense dedication to Beethoven's birthday and his toy grand piano highlighted Schulz's love of classical music.",
     "tags": [
       "cartoon-characters",
-      "superhero-cartoons",
+      "classic-cartoons",
       "medium"
     ],
     "active": true
@@ -676,15 +676,15 @@
     "category": "Cartoon Characters",
     "subcategory": "Classic Cartoons",
     "difficulty": "hard",
-    "question": "Animation and cartoon trivia: In the animated series 'The Simpsons', what iconic pastry is Homer Simpson famously obsessed with eating? (Ref #33)",
+    "question": "What spinach-loving baby orphan was delivered in a basket to Popeye's house in 1933, crawling into constant industrial danger?",
     "options": [
-      "Pink-frosted sprinkled donuts",
-      "Chocolate chip cookies",
-      "Apple strudel",
-      "Custard tarts"
+      "Swee'Pea",
+      "Pip-Eye",
+      "Baby Huey",
+      "Junior"
     ],
     "correctAnswer": 0,
-    "explanation": "Homer Simpson's catchphrase 'Mmm... donuts' and obsession with pink-glazed sprinkled donuts is a running comedy hallmark.",
+    "explanation": "Popeye adopts the gentle crawling infant, who miraculously survives walking along skyscraper girders unharmed.",
     "tags": [
       "cartoon-characters",
       "classic-cartoons",
@@ -693,64 +693,64 @@
     "active": true
   },
   {
-    "id": "cartoon-characters-disney-pixar-0034",
+    "id": "cartoon-characters-classic-cartoons-0034",
     "category": "Cartoon Characters",
-    "subcategory": "Disney & Pixar",
+    "subcategory": "Classic Cartoons",
     "difficulty": "easy",
-    "question": "Animation and cartoon trivia: In Nickelodeon's beloved cartoon, where under the sea does SpongeBob SquarePants live inside a pineapple? (Ref #34)",
+    "question": "What giant, innocent baby duck wearing a diaper and bonnet was created by Famous Studios in 1950, causing accidental destruction?",
     "options": [
-      "Atlantis Reef",
-      "Bikini Bottom",
-      "Coral Cove",
-      "Deep Trench Bay"
+      "Donald Duck",
+      "Baby Huey",
+      "Howard the Duck",
+      "Daffy Duck"
     ],
     "correctAnswer": 1,
-    "explanation": "SpongeBob lives with his pet snail Gary inside a two-story pineapple at 124 Conch Street in Bikini Bottom.",
+    "explanation": "Baby Huey's super-strength and dim-witted gentleness frustrated his parents and the hungry Fox who tried to cook him.",
     "tags": [
       "cartoon-characters",
-      "disney-pixar",
+      "classic-cartoons",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "cartoon-characters-modern-animation-0035",
+    "id": "cartoon-characters-classic-cartoons-0035",
     "category": "Cartoon Characters",
-    "subcategory": "Modern Animation",
+    "subcategory": "Classic Cartoons",
     "difficulty": "medium",
-    "question": "Animation and cartoon trivia: What breed of dog is the cowardly, mystery-solving Hanna-Barbera cartoon canine Scooby-Doo? (Ref #35)",
+    "question": "What classic 1930s Fleischer Studios cartoon character was modeled after singer Helen Kane with a baby-doll face and the catchphrase 'Boop-oop-a-doop'?",
     "options": [
-      "Bloodhound",
-      "Saint Bernard",
-      "Great Dane",
-      "Golden Retriever"
+      "Olive Oyl",
+      "Jessica Rabbit",
+      "Betty Boop",
+      "Brenda Starr"
     ],
     "correctAnswer": 2,
-    "explanation": "Scooby-Doo was designed by Iwao Takamoto as a lovable, slightly clumsy Great Dane with a fondness for Scooby Snacks.",
+    "explanation": "Betty Boop's flapper dress, garter, and jazz-age surrealism made her an enduring animation sex symbol.",
     "tags": [
       "cartoon-characters",
-      "modern-animation",
+      "classic-cartoons",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "cartoon-characters-superhero-cartoons-0036",
+    "id": "cartoon-characters-classic-cartoons-0036",
     "category": "Cartoon Characters",
-    "subcategory": "Superhero Cartoons",
+    "subcategory": "Classic Cartoons",
     "difficulty": "hard",
-    "question": "Animation and cartoon trivia: What leafy canned vegetable does Popeye the Sailor Man consume to instantly acquire superhuman strength? (Ref #36)",
+    "question": "What 1988 live-action/animated neo-noir comedy, directed by Robert Zemeckis, featured Bob Hoskins investigating murder in Toontown?",
     "options": [
-      "Kale",
-      "Broccoli",
-      "Collard greens",
-      "Spinach"
+      "Space Jam",
+      "Cool World",
+      "Looney Tunes: Back in Action",
+      "Who Framed Roger Rabbit"
     ],
     "correctAnswer": 3,
-    "explanation": "Popeye pops open a can of spinach whenever he needs sudden bursts of muscular strength to overcome Bluto.",
+    "explanation": "Roger Rabbit united Disney and Warner Bros. cartoon stars on screen for the first time, featuring the glamorous Jessica Rabbit.",
     "tags": [
       "cartoon-characters",
-      "superhero-cartoons",
+      "classic-cartoons",
       "hard"
     ],
     "active": true
@@ -760,15 +760,15 @@
     "category": "Cartoon Characters",
     "subcategory": "Classic Cartoons",
     "difficulty": "easy",
-    "question": "Animation and cartoon trivia: In which 1928 synchronized sound animated short film did Walt Disney's Mickey Mouse make his historic debut? (Ref #37)",
+    "question": "What glamorous femme fatale cartoon character in Who Framed Roger Rabbit famously purred: 'I'm not bad. I'm just drawn that way'?",
     "options": [
-      "Steamboat Willie",
-      "Plane Crazy",
-      "The Gallopin' Gaucho",
-      "Fantasia"
+      "Jessica Rabbit",
+      "Betty Boop",
+      "Holli Would",
+      "Lola Bunny"
     ],
     "correctAnswer": 0,
-    "explanation": "Steamboat Willie premiered in November 1928 as one of the first animated films with synchronized sound, launching Mickey Mouse.",
+    "explanation": "Voiced by Kathleen Turner with singing by Amy Irving, Jessica remained fiercely loyal to her comedy-loving husband Roger.",
     "tags": [
       "cartoon-characters",
       "classic-cartoons",
@@ -777,85 +777,85 @@
     "active": true
   },
   {
-    "id": "cartoon-characters-disney-pixar-0038",
+    "id": "cartoon-characters-classic-cartoons-0038",
     "category": "Cartoon Characters",
-    "subcategory": "Disney & Pixar",
+    "subcategory": "Classic Cartoons",
     "difficulty": "medium",
-    "question": "Animation and cartoon trivia: Which famous animated rabbit created by Warner Bros. is renowned for munching a carrot and asking 'What's up, doc?'? (Ref #38)",
+    "question": "What sinister Toontown judge, played by Christopher Lloyd in Who Framed Roger Rabbit, executed toons using a toxic vat of 'Dip'?",
     "options": [
-      "Roger Rabbit",
-      "Bugs Bunny",
-      "Daffy Duck",
-      "Buster Bunny"
+      "Eddie Valiant",
+      "Judge Doom",
+      "Marvin Acme",
+      "R.K. Maroon"
     ],
     "correctAnswer": 1,
-    "explanation": "Bugs Bunny made his official debut in 1940's A Wild Hare, voiced by the legendary Mel Blanc.",
+    "explanation": "Doom reveals himself as a red-eyed, high-pitched toon in disguise who murdered Eddie Valiant's brother with a falling piano.",
     "tags": [
       "cartoon-characters",
-      "disney-pixar",
+      "classic-cartoons",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "cartoon-characters-modern-animation-0039",
+    "id": "cartoon-characters-disney-pixar-0039",
     "category": "Cartoon Characters",
-    "subcategory": "Modern Animation",
+    "subcategory": "Disney & Pixar",
     "difficulty": "hard",
-    "question": "Animation and cartoon trivia: In the animated series 'The Simpsons', what iconic pastry is Homer Simpson famously obsessed with eating? (Ref #39)",
+    "question": "What legendary cartoon mouse, created by Walt Disney and Ub Iwerks in 1928, debuted in the synchronized sound cartoon Steamboat Willie?",
     "options": [
-      "Chocolate chip cookies",
-      "Apple strudel",
-      "Pink-frosted sprinkled donuts",
-      "Custard tarts"
+      "Mighty Mouse",
+      "Jerry",
+      "Mickey Mouse",
+      "Mortimer Mouse"
     ],
     "correctAnswer": 2,
-    "explanation": "Homer Simpson's catchphrase 'Mmm... donuts' and obsession with pink-glazed sprinkled donuts is a running comedy hallmark.",
+    "explanation": "Steamboat Willie debuted at the Colony Theater in New York, launching the Walt Disney global entertainment empire.",
     "tags": [
       "cartoon-characters",
-      "modern-animation",
+      "disney-pixar",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "cartoon-characters-superhero-cartoons-0040",
+    "id": "cartoon-characters-disney-pixar-0040",
     "category": "Cartoon Characters",
-    "subcategory": "Superhero Cartoons",
+    "subcategory": "Disney & Pixar",
     "difficulty": "easy",
-    "question": "Animation and cartoon trivia: In Nickelodeon's beloved cartoon, where under the sea does SpongeBob SquarePants live inside a pineapple? (Ref #40)",
+    "question": "What sweet-natured cartoon mouse and eternal sweetheart of Mickey Mouse debuted alongside him in Steamboat Willie and Plane Crazy?",
     "options": [
-      "Atlantis Reef",
-      "Coral Cove",
-      "Deep Trench Bay",
-      "Bikini Bottom"
+      "Daisy Duck",
+      "Clarabelle Cow",
+      "Katy Caboose",
+      "Minnie Mouse (Minerva Mouse)"
     ],
     "correctAnswer": 3,
-    "explanation": "SpongeBob lives with his pet snail Gary inside a two-story pineapple at 124 Conch Street in Bikini Bottom.",
+    "explanation": "Minnie's polka-dot dress, oversized bow, and yellow heels made her one of the most recognized female animated figures on Earth.",
     "tags": [
       "cartoon-characters",
-      "superhero-cartoons",
+      "disney-pixar",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "cartoon-characters-classic-cartoons-0041",
+    "id": "cartoon-characters-disney-pixar-0041",
     "category": "Cartoon Characters",
-    "subcategory": "Classic Cartoons",
+    "subcategory": "Disney & Pixar",
     "difficulty": "medium",
-    "question": "Animation and cartoon trivia: What breed of dog is the cowardly, mystery-solving Hanna-Barbera cartoon canine Scooby-Doo? (Ref #41)",
+    "question": "What short-tempered, white sailor-suit-wearing duck with barely intelligible speech debuted in Disney's The Wise Little Hen in 1934?",
     "options": [
-      "Great Dane",
-      "Bloodhound",
-      "Saint Bernard",
-      "Golden Retriever"
+      "Donald Duck (Donald Fauntleroy Duck)",
+      "Daffy Duck",
+      "Scrooge McDuck",
+      "Ludwig Von Drake"
     ],
     "correctAnswer": 0,
-    "explanation": "Scooby-Doo was designed by Iwao Takamoto as a lovable, slightly clumsy Great Dane with a fondness for Scooby Snacks.",
+    "explanation": "Voiced for 50 years by Clarence 'Ducky' Nash, Donald's explosive tantrums made him one of Disney's most popular characters.",
     "tags": [
       "cartoon-characters",
-      "classic-cartoons",
+      "disney-pixar",
       "medium"
     ],
     "active": true
@@ -865,15 +865,15 @@
     "category": "Cartoon Characters",
     "subcategory": "Disney & Pixar",
     "difficulty": "hard",
-    "question": "Animation and cartoon trivia: What leafy canned vegetable does Popeye the Sailor Man consume to instantly acquire superhuman strength? (Ref #42)",
+    "question": "What tall, clumsy, anthropomorphic dog wearing a rumpled fedora and vest is famous for his signature 'A-hyuck!' laugh and holler?",
     "options": [
-      "Kale",
-      "Spinach",
-      "Broccoli",
-      "Collard greens"
+      "Pluto",
+      "Goofy (Goofus D. Dawg / Dippy Dawg)",
+      "Droopy",
+      "Huckleberry Hound"
     ],
     "correctAnswer": 1,
-    "explanation": "Popeye pops open a can of spinach whenever he needs sudden bursts of muscular strength to overcome Bluto.",
+    "explanation": "Goofy starred in popular 1940s 'How to' instructional sports parody shorts, known for the falling 'Wilhelm-like' Goofy holler.",
     "tags": [
       "cartoon-characters",
       "disney-pixar",
@@ -882,64 +882,64 @@
     "active": true
   },
   {
-    "id": "cartoon-characters-modern-animation-0043",
+    "id": "cartoon-characters-disney-pixar-0043",
     "category": "Cartoon Characters",
-    "subcategory": "Modern Animation",
+    "subcategory": "Disney & Pixar",
     "difficulty": "easy",
-    "question": "Animation and cartoon trivia: In which 1928 synchronized sound animated short film did Walt Disney's Mickey Mouse make his historic debut? (Ref #43)",
+    "question": "What non-speaking, yellow-orange pet dog of Mickey Mouse behaves like a real dog, communicating through barks and expressive pantomime?",
     "options": [
-      "Plane Crazy",
-      "The Gallopin' Gaucho",
-      "Steamboat Willie",
-      "Fantasia"
+      "Goofy",
+      "Bolt",
+      "Pluto the Pup",
+      "Nana"
     ],
     "correctAnswer": 2,
-    "explanation": "Steamboat Willie premiered in November 1928 as one of the first animated films with synchronized sound, launching Mickey Mouse.",
+    "explanation": "Pluto was designed as an authentic canine character without human clothes, showcasing groundbreaking animator squash-and-stretch anatomy.",
     "tags": [
       "cartoon-characters",
-      "modern-animation",
+      "disney-pixar",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "cartoon-characters-superhero-cartoons-0044",
+    "id": "cartoon-characters-disney-pixar-0044",
     "category": "Cartoon Characters",
-    "subcategory": "Superhero Cartoons",
+    "subcategory": "Disney & Pixar",
     "difficulty": "medium",
-    "question": "Animation and cartoon trivia: Which famous animated rabbit created by Warner Bros. is renowned for munching a carrot and asking 'What's up, doc?'? (Ref #44)",
+    "question": "What miserly Scottish billionaire duck, who swims in a giant money bin of gold coins, is the great-uncle of Huey, Dewey, and Louie?",
     "options": [
-      "Roger Rabbit",
-      "Daffy Duck",
-      "Buster Bunny",
-      "Bugs Bunny"
+      "Donald Duck",
+      "Flintheart Glomgold",
+      "Launchpad McQuack",
+      "Scrooge McDuck"
     ],
     "correctAnswer": 3,
-    "explanation": "Bugs Bunny made his official debut in 1940's A Wild Hare, voiced by the legendary Mel Blanc.",
+    "explanation": "Created by comic artist Carl Barks in 1947, Scrooge headlined the hit 1987 animated television series DuckTales.",
     "tags": [
       "cartoon-characters",
-      "superhero-cartoons",
+      "disney-pixar",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "cartoon-characters-classic-cartoons-0045",
+    "id": "cartoon-characters-disney-pixar-0045",
     "category": "Cartoon Characters",
-    "subcategory": "Classic Cartoons",
+    "subcategory": "Disney & Pixar",
     "difficulty": "hard",
-    "question": "Animation and cartoon trivia: In the animated series 'The Simpsons', what iconic pastry is Homer Simpson famously obsessed with eating? (Ref #45)",
+    "question": "What wooden puppet, carved by woodcarver Geppetto, dreams of becoming a real boy if he can prove himself brave, truthful, and unselfish?",
     "options": [
-      "Pink-frosted sprinkled donuts",
-      "Chocolate chip cookies",
-      "Apple strudel",
-      "Custard tarts"
+      "Pinocchio",
+      "Gideon",
+      "Stromboli",
+      "Lampwick"
     ],
     "correctAnswer": 0,
-    "explanation": "Homer Simpson's catchphrase 'Mmm... donuts' and obsession with pink-glazed sprinkled donuts is a running comedy hallmark.",
+    "explanation": "When Pinocchio tells lies, his wooden nose grows longer, guided by his official conscience Jiminy Cricket.",
     "tags": [
       "cartoon-characters",
-      "classic-cartoons",
+      "disney-pixar",
       "hard"
     ],
     "active": true
@@ -949,15 +949,15 @@
     "category": "Cartoon Characters",
     "subcategory": "Disney & Pixar",
     "difficulty": "easy",
-    "question": "Animation and cartoon trivia: In Nickelodeon's beloved cartoon, where under the sea does SpongeBob SquarePants live inside a pineapple? (Ref #46)",
+    "question": "What dapper green cricket serves as Pinocchio's conscience, singing Disney's corporate anthem 'When You Wish Upon a Star'?",
     "options": [
-      "Atlantis Reef",
-      "Bikini Bottom",
-      "Coral Cove",
-      "Deep Trench Bay"
+      "Timothy Q. Mouse",
+      "Jiminy Cricket",
+      "Sebastian",
+      "Pascal"
     ],
     "correctAnswer": 1,
-    "explanation": "SpongeBob lives with his pet snail Gary inside a two-story pineapple at 124 Conch Street in Bikini Bottom.",
+    "explanation": "Voiced by Cliff Edwards, Jiminy Cricket became an iconic Disney ambassador of conscience, optimism, and moral guidance.",
     "tags": [
       "cartoon-characters",
       "disney-pixar",
@@ -966,64 +966,64 @@
     "active": true
   },
   {
-    "id": "cartoon-characters-modern-animation-0047",
+    "id": "cartoon-characters-disney-pixar-0047",
     "category": "Cartoon Characters",
-    "subcategory": "Modern Animation",
+    "subcategory": "Disney & Pixar",
     "difficulty": "medium",
-    "question": "Animation and cartoon trivia: What breed of dog is the cowardly, mystery-solving Hanna-Barbera cartoon canine Scooby-Doo? (Ref #47)",
+    "question": "What gentle baby circus elephant, ridiculed for his enormous ears, discovers he can use them to fly with a 'magic feather'?",
     "options": [
-      "Bloodhound",
-      "Saint Bernard",
-      "Great Dane",
-      "Golden Retriever"
+      "Bambi",
+      "Timothy",
+      "Dumbo (Jumbo Jr.)",
+      "Goliath"
     ],
     "correctAnswer": 2,
-    "explanation": "Scooby-Doo was designed by Iwao Takamoto as a lovable, slightly clumsy Great Dane with a fondness for Scooby Snacks.",
+    "explanation": "Guided by Timothy Q. Mouse, Dumbo's soaring flight over the circus big top turned him from an outcast into an international hero.",
     "tags": [
       "cartoon-characters",
-      "modern-animation",
+      "disney-pixar",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "cartoon-characters-superhero-cartoons-0048",
+    "id": "cartoon-characters-disney-pixar-0048",
     "category": "Cartoon Characters",
-    "subcategory": "Superhero Cartoons",
+    "subcategory": "Disney & Pixar",
     "difficulty": "hard",
-    "question": "Animation and cartoon trivia: What leafy canned vegetable does Popeye the Sailor Man consume to instantly acquire superhuman strength? (Ref #48)",
+    "question": "What gentle white-tailed deer fawn grows up to become the 'Great Prince of the Forest' following the tragic loss of his mother?",
     "options": [
-      "Kale",
-      "Broccoli",
-      "Collard greens",
-      "Spinach"
+      "Thumper",
+      "Flower",
+      "Faline",
+      "Bambi"
     ],
     "correctAnswer": 3,
-    "explanation": "Popeye pops open a can of spinach whenever he needs sudden bursts of muscular strength to overcome Bluto.",
+    "explanation": "Bambi navigates forest life with energetic rabbit Thumper and bashful skunk Flower in Disney's naturalistic 1942 classic.",
     "tags": [
       "cartoon-characters",
-      "superhero-cartoons",
+      "disney-pixar",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "cartoon-characters-classic-cartoons-0049",
+    "id": "cartoon-characters-disney-pixar-0049",
     "category": "Cartoon Characters",
-    "subcategory": "Classic Cartoons",
+    "subcategory": "Disney & Pixar",
     "difficulty": "easy",
-    "question": "Animation and cartoon trivia: In which 1928 synchronized sound animated short film did Walt Disney's Mickey Mouse make his historic debut? (Ref #49)",
+    "question": "What energetic young rabbit in Disney's Bambi is famous for thumping his hind foot and sharing 'If you can't say something nice, don't say nothing at all'?",
     "options": [
-      "Steamboat Willie",
-      "Plane Crazy",
-      "The Gallopin' Gaucho",
-      "Fantasia"
+      "Thumper",
+      "Bambi",
+      "Flower",
+      "Peter Cottontail"
     ],
     "correctAnswer": 0,
-    "explanation": "Steamboat Willie premiered in November 1928 as one of the first animated films with synchronized sound, launching Mickey Mouse.",
+    "explanation": "Thumper's mother's golden rule of politeness became one of the most quoted moral guidelines in animation history.",
     "tags": [
       "cartoon-characters",
-      "classic-cartoons",
+      "disney-pixar",
       "easy"
     ],
     "active": true
@@ -1033,15 +1033,15 @@
     "category": "Cartoon Characters",
     "subcategory": "Disney & Pixar",
     "difficulty": "medium",
-    "question": "Animation and cartoon trivia: Which famous animated rabbit created by Warner Bros. is renowned for munching a carrot and asking 'What's up, doc?'? (Ref #50)",
+    "question": "What tiny, feisty blonde fairy wearing a green leaf dress leaves trails of glowing pixie dust in Disney's 1953 Peter Pan?",
     "options": [
-      "Roger Rabbit",
-      "Bugs Bunny",
-      "Daffy Duck",
-      "Buster Bunny"
+      "Silvermist",
+      "Tinker Bell",
+      "Fawn",
+      "Iridessa"
     ],
     "correctAnswer": 1,
-    "explanation": "Bugs Bunny made his official debut in 1940's A Wild Hare, voiced by the legendary Mel Blanc.",
+    "explanation": "Tinker Bell became Disney's primary symbol of magic, flying over Cinderella Castle during fireworks displays.",
     "tags": [
       "cartoon-characters",
       "disney-pixar",
@@ -1050,64 +1050,64 @@
     "active": true
   },
   {
-    "id": "cartoon-characters-modern-animation-0051",
+    "id": "cartoon-characters-disney-pixar-0051",
     "category": "Cartoon Characters",
-    "subcategory": "Modern Animation",
+    "subcategory": "Disney & Pixar",
     "difficulty": "hard",
-    "question": "Animation and cartoon trivia: In the animated series 'The Simpsons', what iconic pastry is Homer Simpson famously obsessed with eating? (Ref #51)",
+    "question": "What red-haired mermaid princess trades her voice to sea witch Ursula for human legs in Disney's 1989 musical The Little Mermaid?",
     "options": [
-      "Chocolate chip cookies",
-      "Apple strudel",
-      "Pink-frosted sprinkled donuts",
-      "Custard tarts"
+      "Belle",
+      "Jasmine",
+      "Ariel",
+      "Aurora"
     ],
     "correctAnswer": 2,
-    "explanation": "Homer Simpson's catchphrase 'Mmm... donuts' and obsession with pink-glazed sprinkled donuts is a running comedy hallmark.",
+    "explanation": "Jodi Benson voiced Ariel, whose soaring 'Part of Your World' launched the golden 1990s Disney Renaissance era.",
     "tags": [
       "cartoon-characters",
-      "modern-animation",
+      "disney-pixar",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "cartoon-characters-superhero-cartoons-0052",
+    "id": "cartoon-characters-disney-pixar-0052",
     "category": "Cartoon Characters",
-    "subcategory": "Superhero Cartoons",
+    "subcategory": "Disney & Pixar",
     "difficulty": "easy",
-    "question": "Animation and cartoon trivia: In Nickelodeon's beloved cartoon, where under the sea does SpongeBob SquarePants live inside a pineapple? (Ref #52)",
+    "question": "What high-strung Jamaican red crab serves as King Triton's court composer and sings 'Under the Sea' and 'Kiss the Girl'?",
     "options": [
-      "Atlantis Reef",
-      "Coral Cove",
-      "Deep Trench Bay",
-      "Bikini Bottom"
+      "Flounder",
+      "Scuttle",
+      "Tamatoa",
+      "Sebastian (Horatio Thelonious Ignatius Crustaceous Sebastian)"
     ],
     "correctAnswer": 3,
-    "explanation": "SpongeBob lives with his pet snail Gary inside a two-story pineapple at 124 Conch Street in Bikini Bottom.",
+    "explanation": "Sebastian tries to keep Ariel from human shores, winning the Academy Award for Best Original Song for 'Under the Sea.'",
     "tags": [
       "cartoon-characters",
-      "superhero-cartoons",
+      "disney-pixar",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "cartoon-characters-classic-cartoons-0053",
+    "id": "cartoon-characters-disney-pixar-0053",
     "category": "Cartoon Characters",
-    "subcategory": "Classic Cartoons",
+    "subcategory": "Disney & Pixar",
     "difficulty": "medium",
-    "question": "Animation and cartoon trivia: What breed of dog is the cowardly, mystery-solving Hanna-Barbera cartoon canine Scooby-Doo? (Ref #53)",
+    "question": "What bookish, independent French village girl falls in love with a cursed beast in his enchanted castle to save her father?",
     "options": [
-      "Great Dane",
-      "Bloodhound",
-      "Saint Bernard",
-      "Golden Retriever"
+      "Belle",
+      "Ariel",
+      "Cinderella",
+      "Snow White"
     ],
     "correctAnswer": 0,
-    "explanation": "Scooby-Doo was designed by Iwao Takamoto as a lovable, slightly clumsy Great Dane with a fondness for Scooby Snacks.",
+    "explanation": "Voiced by Paige O'Hara, Belle's love of reading and inner beauty broke traditional passive Disney princess archetypes.",
     "tags": [
       "cartoon-characters",
-      "classic-cartoons",
+      "disney-pixar",
       "medium"
     ],
     "active": true
@@ -1117,15 +1117,15 @@
     "category": "Cartoon Characters",
     "subcategory": "Disney & Pixar",
     "difficulty": "hard",
-    "question": "Animation and cartoon trivia: What leafy canned vegetable does Popeye the Sailor Man consume to instantly acquire superhuman strength? (Ref #54)",
+    "question": "What street-smart Arabian orphan discovers a magic oil lamp in the Cave of Wonders and wishes to become Prince Ali to win Princess Jasmine?",
     "options": [
-      "Kale",
-      "Spinach",
-      "Broccoli",
-      "Collard greens"
+      "Ali Baba",
+      "Aladdin",
+      "Sinbad",
+      "Jafar"
     ],
     "correctAnswer": 1,
-    "explanation": "Popeye pops open a can of spinach whenever he needs sudden bursts of muscular strength to overcome Bluto.",
+    "explanation": "Aladdin uses his wits and three wishes, helped by his pet monkey Abu and magic flying carpet in the Sultan's city of Agrabah.",
     "tags": [
       "cartoon-characters",
       "disney-pixar",
@@ -1134,64 +1134,64 @@
     "active": true
   },
   {
-    "id": "cartoon-characters-modern-animation-0055",
+    "id": "cartoon-characters-disney-pixar-0055",
     "category": "Cartoon Characters",
-    "subcategory": "Modern Animation",
+    "subcategory": "Disney & Pixar",
     "difficulty": "easy",
-    "question": "Animation and cartoon trivia: In which 1928 synchronized sound animated short film did Walt Disney's Mickey Mouse make his historic debut? (Ref #55)",
+    "question": "What cosmic, fast-talking blue magical spirit in Aladdin granted three wishes, voiced with lightning improvisational genius by Robin Williams?",
     "options": [
-      "Plane Crazy",
-      "The Gallopin' Gaucho",
-      "Steamboat Willie",
-      "Fantasia"
+      "Jafar",
+      "Iago",
+      "The Genie",
+      "The Sultan"
     ],
     "correctAnswer": 2,
-    "explanation": "Steamboat Willie premiered in November 1928 as one of the first animated films with synchronized sound, launching Mickey Mouse.",
+    "explanation": "Williams recorded dozens of hours of unscripted celebrity impressions and jokes, revolutionizing celebrity voice casting in modern animation.",
     "tags": [
       "cartoon-characters",
-      "modern-animation",
+      "disney-pixar",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "cartoon-characters-superhero-cartoons-0056",
+    "id": "cartoon-characters-disney-pixar-0056",
     "category": "Cartoon Characters",
-    "subcategory": "Superhero Cartoons",
+    "subcategory": "Disney & Pixar",
     "difficulty": "medium",
-    "question": "Animation and cartoon trivia: Which famous animated rabbit created by Warner Bros. is renowned for munching a carrot and asking 'What's up, doc?'? (Ref #56)",
+    "question": "What lion cub prince must overcome guilt over his father Mufasa's death to reclaim Pride Rock from his villainous uncle Scar?",
     "options": [
-      "Roger Rabbit",
-      "Daffy Duck",
-      "Buster Bunny",
-      "Bugs Bunny"
+      "Mufasa",
+      "Scar",
+      "Kovu",
+      "Simba"
     ],
     "correctAnswer": 3,
-    "explanation": "Bugs Bunny made his official debut in 1940's A Wild Hare, voiced by the legendary Mel Blanc.",
+    "explanation": "Simba learns to embrace his royal heritage and the Circle of Life alongside wise mandrill shaman Rafiki.",
     "tags": [
       "cartoon-characters",
-      "superhero-cartoons",
+      "disney-pixar",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "cartoon-characters-classic-cartoons-0057",
+    "id": "cartoon-characters-disney-pixar-0057",
     "category": "Cartoon Characters",
-    "subcategory": "Classic Cartoons",
+    "subcategory": "Disney & Pixar",
     "difficulty": "hard",
-    "question": "Animation and cartoon trivia: In the animated series 'The Simpsons', what iconic pastry is Homer Simpson famously obsessed with eating? (Ref #57)",
+    "question": "What meerkat and warthog duo teach young Simba the stress-free philosophy 'Hakuna Matata' (no worries for the rest of your days)?",
     "options": [
-      "Pink-frosted sprinkled donuts",
-      "Chocolate chip cookies",
-      "Apple strudel",
-      "Custard tarts"
+      "Timon and Pumbaa",
+      "JaQ and Gus",
+      "Meeko and Flit",
+      "Baloo and Mowgli"
     ],
     "correctAnswer": 0,
-    "explanation": "Homer Simpson's catchphrase 'Mmm... donuts' and obsession with pink-glazed sprinkled donuts is a running comedy hallmark.",
+    "explanation": "Voiced by Nathan Lane and Ernie Sabella, the comedic duo survive on crunchy grubs and loyal friendship in the jungle.",
     "tags": [
       "cartoon-characters",
-      "classic-cartoons",
+      "disney-pixar",
       "hard"
     ],
     "active": true
@@ -1201,15 +1201,15 @@
     "category": "Cartoon Characters",
     "subcategory": "Disney & Pixar",
     "difficulty": "easy",
-    "question": "Animation and cartoon trivia: In Nickelodeon's beloved cartoon, where under the sea does SpongeBob SquarePants live inside a pineapple? (Ref #58)",
+    "question": "What brave Chinese maiden disguises herself as male soldier 'Ping' to take her elderly father's place in the Imperial Army against the Huns?",
     "options": [
-      "Atlantis Reef",
-      "Bikini Bottom",
-      "Coral Cove",
-      "Deep Trench Bay"
+      "Pocahontas",
+      "Fa Mulan",
+      "Raya",
+      "Cinderella"
     ],
     "correctAnswer": 1,
-    "explanation": "SpongeBob lives with his pet snail Gary inside a two-story pineapple at 124 Conch Street in Bikini Bottom.",
+    "explanation": "Ming-Na Wen provided speaking and Lea Salonga provided singing for Mulan, who saved China from Shan Yu beneath the fireworks.",
     "tags": [
       "cartoon-characters",
       "disney-pixar",
@@ -1218,64 +1218,64 @@
     "active": true
   },
   {
-    "id": "cartoon-characters-modern-animation-0059",
+    "id": "cartoon-characters-disney-pixar-0059",
     "category": "Cartoon Characters",
-    "subcategory": "Modern Animation",
+    "subcategory": "Disney & Pixar",
     "difficulty": "medium",
-    "question": "Animation and cartoon trivia: What breed of dog is the cowardly, mystery-solving Hanna-Barbera cartoon canine Scooby-Doo? (Ref #59)",
+    "question": "What tiny, disgraced red dragon guardian, voiced by Eddie Murphy, acts as Mulan's comedic self-appointed protector and hype-man?",
     "options": [
-      "Bloodhound",
-      "Saint Bernard",
-      "Great Dane",
-      "Golden Retriever"
+      "Cri-Kee",
+      "Khan",
+      "Mushu",
+      "Olaf"
     ],
     "correctAnswer": 2,
-    "explanation": "Scooby-Doo was designed by Iwao Takamoto as a lovable, slightly clumsy Great Dane with a fondness for Scooby Snacks.",
+    "explanation": "Mushu rings the gong for the ancestors before declaring: 'Dishonor on you! Dishonor on your cow!'",
     "tags": [
       "cartoon-characters",
-      "modern-animation",
+      "disney-pixar",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "cartoon-characters-superhero-cartoons-0060",
+    "id": "cartoon-characters-disney-pixar-0060",
     "category": "Cartoon Characters",
-    "subcategory": "Superhero Cartoons",
+    "subcategory": "Disney & Pixar",
     "difficulty": "hard",
-    "question": "Animation and cartoon trivia: What leafy canned vegetable does Popeye the Sailor Man consume to instantly acquire superhuman strength? (Ref #60)",
+    "question": "What pull-string cowboy doll, voiced by Tom Hanks in Pixar's Toy Story, serves as Andy's favorite toy and leader of the bedroom?",
     "options": [
-      "Kale",
-      "Broccoli",
-      "Collard greens",
-      "Spinach"
+      "Buzz Lightyear",
+      "Rex",
+      "Slinky Dog",
+      "Sheriff Woody Pride"
     ],
     "correctAnswer": 3,
-    "explanation": "Popeye pops open a can of spinach whenever he needs sudden bursts of muscular strength to overcome Bluto.",
+    "explanation": "Woody overcomes jealousy toward new space toy Buzz Lightyear, learning that true leadership means selfless friendship.",
     "tags": [
       "cartoon-characters",
-      "superhero-cartoons",
+      "disney-pixar",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "cartoon-characters-classic-cartoons-0061",
+    "id": "cartoon-characters-disney-pixar-0061",
     "category": "Cartoon Characters",
-    "subcategory": "Classic Cartoons",
+    "subcategory": "Disney & Pixar",
     "difficulty": "easy",
-    "question": "Animation and cartoon trivia: In which 1928 synchronized sound animated short film did Walt Disney's Mickey Mouse make his historic debut? (Ref #61)",
+    "question": "What electronic space ranger action figure, voiced by Tim Allen, believes he is a real Galactic Alliance officer fighting Emperor Zurg?",
     "options": [
-      "Steamboat Willie",
-      "Plane Crazy",
-      "The Gallopin' Gaucho",
-      "Fantasia"
+      "Buzz Lightyear",
+      "Woody",
+      "Zurg",
+      "Major Matt Mason"
     ],
     "correctAnswer": 0,
-    "explanation": "Steamboat Willie premiered in November 1928 as one of the first animated films with synchronized sound, launching Mickey Mouse.",
+    "explanation": "Buzz's heroic motto 'To infinity and beyond!' became an iconic catchphrase, discovering his real purpose as Andy's beloved toy.",
     "tags": [
       "cartoon-characters",
-      "classic-cartoons",
+      "disney-pixar",
       "easy"
     ],
     "active": true
@@ -1285,15 +1285,15 @@
     "category": "Cartoon Characters",
     "subcategory": "Disney & Pixar",
     "difficulty": "medium",
-    "question": "Animation and cartoon trivia: Which famous animated rabbit created by Warner Bros. is renowned for munching a carrot and asking 'What's up, doc?'? (Ref #62)",
+    "question": "What neurotic, nervous plastic green Tyrannosaurus rex toy in Toy Story fears confrontation and being replaced by a scarier dinosaur?",
     "options": [
-      "Roger Rabbit",
-      "Bugs Bunny",
-      "Daffy Duck",
-      "Buster Bunny"
+      "Reptar",
+      "Rex",
+      "Spike",
+      "Yoshi"
     ],
     "correctAnswer": 1,
-    "explanation": "Bugs Bunny made his official debut in 1940's A Wild Hare, voiced by the legendary Mel Blanc.",
+    "explanation": "Voiced by Wallace Shawn, Rex's endearing lack of confidence and tiny arms contrast with his ferocious dinosaur appearance.",
     "tags": [
       "cartoon-characters",
       "disney-pixar",
@@ -1302,64 +1302,64 @@
     "active": true
   },
   {
-    "id": "cartoon-characters-modern-animation-0063",
+    "id": "cartoon-characters-disney-pixar-0063",
     "category": "Cartoon Characters",
-    "subcategory": "Modern Animation",
+    "subcategory": "Disney & Pixar",
     "difficulty": "hard",
-    "question": "Animation and cartoon trivia: In the animated series 'The Simpsons', what iconic pastry is Homer Simpson famously obsessed with eating? (Ref #63)",
+    "question": "What blue-furred, horned monster champion scarer at Monsters, Inc. forms a protective paternal bond with a human toddler named Boo?",
     "options": [
-      "Chocolate chip cookies",
-      "Apple strudel",
-      "Pink-frosted sprinkled donuts",
-      "Custard tarts"
+      "Mike Wazowski",
+      "Randall Boggs",
+      "James P. 'Sulley' Sullivan",
+      "George Sanderson"
     ],
     "correctAnswer": 2,
-    "explanation": "Homer Simpson's catchphrase 'Mmm... donuts' and obsession with pink-glazed sprinkled donuts is a running comedy hallmark.",
+    "explanation": "Voiced by John Goodman, Sulley discovers that child laughter generates ten times more electrical energy than screams.",
     "tags": [
       "cartoon-characters",
-      "modern-animation",
+      "disney-pixar",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "cartoon-characters-superhero-cartoons-0064",
+    "id": "cartoon-characters-disney-pixar-0064",
     "category": "Cartoon Characters",
-    "subcategory": "Superhero Cartoons",
+    "subcategory": "Disney & Pixar",
     "difficulty": "easy",
-    "question": "Animation and cartoon trivia: In Nickelodeon's beloved cartoon, where under the sea does SpongeBob SquarePants live inside a pineapple? (Ref #64)",
+    "question": "What round, green, one-eyed monster in Monsters, Inc. is Sulley's comedic best friend, coach, and roommate?",
     "options": [
-      "Atlantis Reef",
-      "Coral Cove",
-      "Deep Trench Bay",
-      "Bikini Bottom"
+      "Sulley",
+      "Randall",
+      "Roz",
+      "Mike Wazowski"
     ],
     "correctAnswer": 3,
-    "explanation": "SpongeBob lives with his pet snail Gary inside a two-story pineapple at 124 Conch Street in Bikini Bottom.",
+    "explanation": "Voiced by Billy Crystal, Mike is proud of his girlfriend Celia and ecstatic even when his face is covered by barcodes on magazine covers.",
     "tags": [
       "cartoon-characters",
-      "superhero-cartoons",
+      "disney-pixar",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "cartoon-characters-classic-cartoons-0065",
+    "id": "cartoon-characters-disney-pixar-0065",
     "category": "Cartoon Characters",
-    "subcategory": "Classic Cartoons",
+    "subcategory": "Disney & Pixar",
     "difficulty": "medium",
-    "question": "Animation and cartoon trivia: What breed of dog is the cowardly, mystery-solving Hanna-Barbera cartoon canine Scooby-Doo? (Ref #65)",
+    "question": "What neurotic orange clownfish father crosses the entire Pacific Ocean to Sydney Harbour to rescue his captured son in Finding Nemo?",
     "options": [
-      "Great Dane",
-      "Bloodhound",
-      "Saint Bernard",
-      "Golden Retriever"
+      "Marlin",
+      "Nemo",
+      "Dory",
+      "Crush"
     ],
     "correctAnswer": 0,
-    "explanation": "Scooby-Doo was designed by Iwao Takamoto as a lovable, slightly clumsy Great Dane with a fondness for Scooby Snacks.",
+    "explanation": "Albert Brooks voiced Marlin, who learns to conquer his parental overprotectiveness and trust his son's capabilities.",
     "tags": [
       "cartoon-characters",
-      "classic-cartoons",
+      "disney-pixar",
       "medium"
     ],
     "active": true
@@ -1369,15 +1369,15 @@
     "category": "Cartoon Characters",
     "subcategory": "Disney & Pixar",
     "difficulty": "hard",
-    "question": "Animation and cartoon trivia: What leafy canned vegetable does Popeye the Sailor Man consume to instantly acquire superhuman strength? (Ref #66)",
+    "question": "What optimistic, short-term memory loss blue tang fish travels alongside Marlin, dispensing the life motto 'Just keep swimming'?",
     "options": [
-      "Kale",
-      "Spinach",
-      "Broccoli",
-      "Collard greens"
+      "Nemo",
+      "Dory",
+      "Destiny",
+      "Peach"
     ],
     "correctAnswer": 1,
-    "explanation": "Popeye pops open a can of spinach whenever he needs sudden bursts of muscular strength to overcome Bluto.",
+    "explanation": "Voiced by Ellen DeGeneres, Dory's ability to read human English and 'speak whale' helps Marlin navigate shark meetings and jellyfishes.",
     "tags": [
       "cartoon-characters",
       "disney-pixar",
@@ -1386,64 +1386,64 @@
     "active": true
   },
   {
-    "id": "cartoon-characters-modern-animation-0067",
+    "id": "cartoon-characters-disney-pixar-0067",
     "category": "Cartoon Characters",
-    "subcategory": "Modern Animation",
+    "subcategory": "Disney & Pixar",
     "difficulty": "easy",
-    "question": "Animation and cartoon trivia: In which 1928 synchronized sound animated short film did Walt Disney's Mickey Mouse make his historic debut? (Ref #67)",
+    "question": "What superhero family patriarch, known as Mr. Incredible, works a depressing insurance job before returning to heroics on Syndrome's island?",
     "options": [
-      "Plane Crazy",
-      "The Gallopin' Gaucho",
-      "Steamboat Willie",
-      "Fantasia"
+      "Frozone",
+      "Dash Parr",
+      "Bob Parr (Mr. Incredible)",
+      "Syndrome"
     ],
     "correctAnswer": 2,
-    "explanation": "Steamboat Willie premiered in November 1928 as one of the first animated films with synchronized sound, launching Mickey Mouse.",
+    "explanation": "Mr. Incredible possesses immense superhuman physical strength, balancing suburban dad midlife crises with saving Metroville.",
     "tags": [
       "cartoon-characters",
-      "modern-animation",
+      "disney-pixar",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "cartoon-characters-superhero-cartoons-0068",
+    "id": "cartoon-characters-disney-pixar-0068",
     "category": "Cartoon Characters",
-    "subcategory": "Superhero Cartoons",
+    "subcategory": "Disney & Pixar",
     "difficulty": "medium",
-    "question": "Animation and cartoon trivia: Which famous animated rabbit created by Warner Bros. is renowned for munching a carrot and asking 'What's up, doc?'? (Ref #68)",
+    "question": "What eccentric, diminutive German-Japanese superhero fashion designer in The Incredibles insists on one cardinal design rule: 'NO CAPES!'?",
     "options": [
-      "Roger Rabbit",
-      "Daffy Duck",
-      "Buster Bunny",
-      "Bugs Bunny"
+      "Mirage",
+      "Elastigirl",
+      "Violet",
+      "Edna 'E' Mode"
     ],
     "correctAnswer": 3,
-    "explanation": "Bugs Bunny made his official debut in 1940's A Wild Hare, voiced by the legendary Mel Blanc.",
+    "explanation": "Voiced by director Brad Bird, Edna designs high-tech supersuits tailored to each hero's powers, citing gruesome cape accidents.",
     "tags": [
       "cartoon-characters",
-      "superhero-cartoons",
+      "disney-pixar",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "cartoon-characters-classic-cartoons-0069",
+    "id": "cartoon-characters-disney-pixar-0069",
     "category": "Cartoon Characters",
-    "subcategory": "Classic Cartoons",
+    "subcategory": "Disney & Pixar",
     "difficulty": "hard",
-    "question": "Animation and cartoon trivia: In the animated series 'The Simpsons', what iconic pastry is Homer Simpson famously obsessed with eating? (Ref #69)",
+    "question": "What culinary genius sewer rat in Paris aspires to become a master French chef, controlling bumbling garbage boy Linguini like a marionette?",
     "options": [
-      "Pink-frosted sprinkled donuts",
-      "Chocolate chip cookies",
-      "Apple strudel",
-      "Custard tarts"
+      "Remy (Little Chef)",
+      "Emile",
+      "Django",
+      "Ratso"
     ],
     "correctAnswer": 0,
-    "explanation": "Homer Simpson's catchphrase 'Mmm... donuts' and obsession with pink-glazed sprinkled donuts is a running comedy hallmark.",
+    "explanation": "Voiced by Patton Oswalt, Remy proves late chef Auguste Gusteau's culinary motto that 'anyone can cook.'",
     "tags": [
       "cartoon-characters",
-      "classic-cartoons",
+      "disney-pixar",
       "hard"
     ],
     "active": true
@@ -1453,15 +1453,15 @@
     "category": "Cartoon Characters",
     "subcategory": "Disney & Pixar",
     "difficulty": "easy",
-    "question": "Animation and cartoon trivia: In Nickelodeon's beloved cartoon, where under the sea does SpongeBob SquarePants live inside a pineapple? (Ref #70)",
+    "question": "What solitary waste-collector robot compacts trash cubes on an abandoned, garbage-choked Earth for 700 years before following EVE into space?",
     "options": [
-      "Atlantis Reef",
-      "Bikini Bottom",
-      "Coral Cove",
-      "Deep Trench Bay"
+      "EVE",
+      "WALL-E (Waste Allocation Load Lifter - Earth-Class)",
+      "M-O",
+      "AUTO"
     ],
     "correctAnswer": 1,
-    "explanation": "SpongeBob lives with his pet snail Gary inside a two-story pineapple at 124 Conch Street in Bikini Bottom.",
+    "explanation": "Sound-designed by Ben Burtt with minimal dialogue, WALL-E's expressive binocular eyes and love for Hello, Dolly! make him deeply human.",
     "tags": [
       "cartoon-characters",
       "disney-pixar",
@@ -1470,64 +1470,64 @@
     "active": true
   },
   {
-    "id": "cartoon-characters-modern-animation-0071",
+    "id": "cartoon-characters-disney-pixar-0071",
     "category": "Cartoon Characters",
-    "subcategory": "Modern Animation",
+    "subcategory": "Disney & Pixar",
     "difficulty": "medium",
-    "question": "Animation and cartoon trivia: What breed of dog is the cowardly, mystery-solving Hanna-Barbera cartoon canine Scooby-Doo? (Ref #71)",
+    "question": "What 78-year-old retired balloon salesman attaches thousands of helium balloons to his house to fly to Paradise Falls in Pixar's Up?",
     "options": [
-      "Bloodhound",
-      "Saint Bernard",
-      "Great Dane",
-      "Golden Retriever"
+      "Russell",
+      "Charles Muntz",
+      "Carl Fredricksen",
+      "Dug"
     ],
     "correctAnswer": 2,
-    "explanation": "Scooby-Doo was designed by Iwao Takamoto as a lovable, slightly clumsy Great Dane with a fondness for Scooby Snacks.",
+    "explanation": "Voiced by Ed Asner, Carl fulfills a lifelong promise to his late wife Ellie, accompanied by over-eager Wilderness Explorer Russell.",
     "tags": [
       "cartoon-characters",
-      "modern-animation",
+      "disney-pixar",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "cartoon-characters-superhero-cartoons-0072",
+    "id": "cartoon-characters-disney-pixar-0072",
     "category": "Cartoon Characters",
-    "subcategory": "Superhero Cartoons",
+    "subcategory": "Disney & Pixar",
     "difficulty": "hard",
-    "question": "Animation and cartoon trivia: What leafy canned vegetable does Popeye the Sailor Man consume to instantly acquire superhuman strength? (Ref #72)",
+    "question": "What talking golden retriever in Pixar's Up wears a translator collar that translates his canine thoughts, famously yelling 'SQUIRREL!'?",
     "options": [
-      "Kale",
-      "Broccoli",
-      "Collard greens",
-      "Spinach"
+      "Alpha",
+      "Beta",
+      "Gamma",
+      "Dug"
     ],
     "correctAnswer": 3,
-    "explanation": "Popeye pops open a can of spinach whenever he needs sudden bursts of muscular strength to overcome Bluto.",
+    "explanation": "Dug immediately adores Carl, declaring: 'I have just met you, and I love you!'",
     "tags": [
       "cartoon-characters",
-      "superhero-cartoons",
+      "disney-pixar",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "cartoon-characters-classic-cartoons-0073",
+    "id": "cartoon-characters-disney-pixar-0073",
     "category": "Cartoon Characters",
-    "subcategory": "Classic Cartoons",
+    "subcategory": "Disney & Pixar",
     "difficulty": "easy",
-    "question": "Animation and cartoon trivia: In which 1928 synchronized sound animated short film did Walt Disney's Mickey Mouse make his historic debut? (Ref #73)",
+    "question": "What arrogant red Piston Cup rookie race car gets stranded in neglected Radiator Springs on Route 66, learning humility from Doc Hudson?",
     "options": [
-      "Steamboat Willie",
-      "Plane Crazy",
-      "The Gallopin' Gaucho",
-      "Fantasia"
+      "Lightning McQueen (Number 95)",
+      "Tow Mater",
+      "Doc Hudson",
+      "Chick Hicks"
     ],
     "correctAnswer": 0,
-    "explanation": "Steamboat Willie premiered in November 1928 as one of the first animated films with synchronized sound, launching Mickey Mouse.",
+    "explanation": "Voiced by Owen Wilson with his catchphrase 'Ka-chow!', McQueen learns that winning trophies is empty without true friends.",
     "tags": [
       "cartoon-characters",
-      "classic-cartoons",
+      "disney-pixar",
       "easy"
     ],
     "active": true
@@ -1537,15 +1537,15 @@
     "category": "Cartoon Characters",
     "subcategory": "Disney & Pixar",
     "difficulty": "medium",
-    "question": "Animation and cartoon trivia: Which famous animated rabbit created by Warner Bros. is renowned for munching a carrot and asking 'What's up, doc?'? (Ref #74)",
+    "question": "What rusty, buck-toothed tow truck in Radiator Springs becomes Lightning McQueen's best friend, proud of his backward driving skills?",
     "options": [
-      "Roger Rabbit",
-      "Bugs Bunny",
-      "Daffy Duck",
-      "Buster Bunny"
+      "Lightning McQueen",
+      "Tow Mater (Sir Tow Mater)",
+      "Doc Hudson",
+      "Luigi"
     ],
     "correctAnswer": 1,
-    "explanation": "Bugs Bunny made his official debut in 1940's A Wild Hare, voiced by the legendary Mel Blanc.",
+    "explanation": "Voiced by Larry the Cable Guy, Mater teaches McQueen tractor tipping and that dents are valuable memories of friendship.",
     "tags": [
       "cartoon-characters",
       "disney-pixar",
@@ -1554,85 +1554,85 @@
     "active": true
   },
   {
-    "id": "cartoon-characters-modern-animation-0075",
+    "id": "cartoon-characters-disney-pixar-0075",
     "category": "Cartoon Characters",
-    "subcategory": "Modern Animation",
+    "subcategory": "Disney & Pixar",
     "difficulty": "hard",
-    "question": "Animation and cartoon trivia: In the animated series 'The Simpsons', what iconic pastry is Homer Simpson famously obsessed with eating? (Ref #75)",
+    "question": "What glowing, effervescent yellow emotion inside 11-year-old Riley's mind strives to keep her happy in Pixar's Inside Out?",
     "options": [
-      "Chocolate chip cookies",
-      "Apple strudel",
-      "Pink-frosted sprinkled donuts",
-      "Custard tarts"
+      "Sadness",
+      "Anger",
+      "Joy",
+      "Disgust"
     ],
     "correctAnswer": 2,
-    "explanation": "Homer Simpson's catchphrase 'Mmm... donuts' and obsession with pink-glazed sprinkled donuts is a running comedy hallmark.",
+    "explanation": "Voiced by Amy Poehler, Joy learns that Sadness is essential to human empathy, grief processing, and emotional connection.",
     "tags": [
       "cartoon-characters",
-      "modern-animation",
+      "disney-pixar",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "cartoon-characters-superhero-cartoons-0076",
+    "id": "cartoon-characters-disney-pixar-0076",
     "category": "Cartoon Characters",
-    "subcategory": "Superhero Cartoons",
+    "subcategory": "Disney & Pixar",
     "difficulty": "easy",
-    "question": "Animation and cartoon trivia: In Nickelodeon's beloved cartoon, where under the sea does SpongeBob SquarePants live inside a pineapple? (Ref #76)",
+    "question": "What animated snowman created by Elsa's magical ice powers loves warm hugs and dreams of experiencing summer without melting?",
     "options": [
-      "Atlantis Reef",
-      "Coral Cove",
-      "Deep Trench Bay",
-      "Bikini Bottom"
+      "Sven",
+      "Kristoff",
+      "Marshmallow",
+      "Olaf"
     ],
     "correctAnswer": 3,
-    "explanation": "SpongeBob lives with his pet snail Gary inside a two-story pineapple at 124 Conch Street in Bikini Bottom.",
+    "explanation": "Voiced by Josh Gad in Frozen, Olaf provides innocent comedic warmth, singing 'In Summer' and teaching that 'some people are worth melting for.'",
     "tags": [
       "cartoon-characters",
-      "superhero-cartoons",
+      "disney-pixar",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "cartoon-characters-classic-cartoons-0077",
+    "id": "cartoon-characters-modern-animation-0077",
     "category": "Cartoon Characters",
-    "subcategory": "Classic Cartoons",
+    "subcategory": "Modern Animation",
     "difficulty": "medium",
-    "question": "Animation and cartoon trivia: What breed of dog is the cowardly, mystery-solving Hanna-Barbera cartoon canine Scooby-Doo? (Ref #77)",
+    "question": "What yellow sea sponge works as a fry cook at the Krusty Krab and lives in a pineapple under the sea in Bikini Bottom?",
     "options": [
-      "Great Dane",
-      "Bloodhound",
-      "Saint Bernard",
-      "Golden Retriever"
+      "SpongeBob SquarePants",
+      "Patrick Star",
+      "Squidward Tentacles",
+      "Mr. Krabs"
     ],
     "correctAnswer": 0,
-    "explanation": "Scooby-Doo was designed by Iwao Takamoto as a lovable, slightly clumsy Great Dane with a fondness for Scooby Snacks.",
+    "explanation": "Created by marine science educator Stephen Hillenburg, SpongeBob became Nickelodeon's flagship global media franchise.",
     "tags": [
       "cartoon-characters",
-      "classic-cartoons",
+      "modern-animation",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "cartoon-characters-disney-pixar-0078",
+    "id": "cartoon-characters-modern-animation-0078",
     "category": "Cartoon Characters",
-    "subcategory": "Disney & Pixar",
+    "subcategory": "Modern Animation",
     "difficulty": "hard",
-    "question": "Animation and cartoon trivia: What leafy canned vegetable does Popeye the Sailor Man consume to instantly acquire superhuman strength? (Ref #78)",
+    "question": "What dim-witted, coral-pink starfish lives under a rock and is SpongeBob SquarePants's loyal, waffle-loving best friend?",
     "options": [
-      "Kale",
-      "Spinach",
-      "Broccoli",
-      "Collard greens"
+      "Squidward",
+      "Patrick Star",
+      "Sandy Cheeks",
+      "Plankton"
     ],
     "correctAnswer": 1,
-    "explanation": "Popeye pops open a can of spinach whenever he needs sudden bursts of muscular strength to overcome Bluto.",
+    "explanation": "Voiced by Bill Fagerbakke, Patrick's absurd philosophical non-sequiturs and loyalty make him the ultimate cartoon sidekick.",
     "tags": [
       "cartoon-characters",
-      "disney-pixar",
+      "modern-animation",
       "hard"
     ],
     "active": true
@@ -1642,15 +1642,15 @@
     "category": "Cartoon Characters",
     "subcategory": "Modern Animation",
     "difficulty": "easy",
-    "question": "Animation and cartoon trivia: In which 1928 synchronized sound animated short film did Walt Disney's Mickey Mouse make his historic debut? (Ref #79)",
+    "question": "What arrogant, clarinet-playing turquoise octopus neighbor despises his Krusty Krab cashier job and neighbors SpongeBob and Patrick?",
     "options": [
-      "Plane Crazy",
-      "The Gallopin' Gaucho",
-      "Steamboat Willie",
-      "Fantasia"
+      "Mr. Krabs",
+      "Plankton",
+      "Squidward Tentacles",
+      "Barnacle Boy"
     ],
     "correctAnswer": 2,
-    "explanation": "Steamboat Willie premiered in November 1928 as one of the first animated films with synchronized sound, launching Mickey Mouse.",
+    "explanation": "Squidward's artistic pretensions and existential misery provide relatable adult workplace satire in Bikini Bottom.",
     "tags": [
       "cartoon-characters",
       "modern-animation",
@@ -1659,64 +1659,64 @@
     "active": true
   },
   {
-    "id": "cartoon-characters-superhero-cartoons-0080",
+    "id": "cartoon-characters-modern-animation-0080",
     "category": "Cartoon Characters",
-    "subcategory": "Superhero Cartoons",
+    "subcategory": "Modern Animation",
     "difficulty": "medium",
-    "question": "Animation and cartoon trivia: Which famous animated rabbit created by Warner Bros. is renowned for munching a carrot and asking 'What's up, doc?'? (Ref #80)",
+    "question": "What money-obsessed red crab and former navy sailor owns the Krusty Krab and guards the secret Krabby Patty formula in a safe?",
     "options": [
-      "Roger Rabbit",
-      "Daffy Duck",
-      "Buster Bunny",
-      "Bugs Bunny"
+      "Sheldon J. Plankton",
+      "Squidward",
+      "Larry the Lobster",
+      "Eugene H. Krabs (Mr. Krabs)"
     ],
     "correctAnswer": 3,
-    "explanation": "Bugs Bunny made his official debut in 1940's A Wild Hare, voiced by the legendary Mel Blanc.",
+    "explanation": "Voiced by Clancy Brown, Mr. Krabs loves money above all else, bantering in pirate slang: 'Ahoy, SpongeBob, me boy!'",
     "tags": [
       "cartoon-characters",
-      "superhero-cartoons",
+      "modern-animation",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "cartoon-characters-classic-cartoons-0081",
+    "id": "cartoon-characters-modern-animation-0081",
     "category": "Cartoon Characters",
-    "subcategory": "Classic Cartoons",
+    "subcategory": "Modern Animation",
     "difficulty": "hard",
-    "question": "Animation and cartoon trivia: In the animated series 'The Simpsons', what iconic pastry is Homer Simpson famously obsessed with eating? (Ref #81)",
+    "question": "What tiny, green copepod restaurant owner of the Chum Bucket endlessly schemes to steal the secret Krabby Patty formula?",
     "options": [
-      "Pink-frosted sprinkled donuts",
-      "Chocolate chip cookies",
-      "Apple strudel",
-      "Custard tarts"
+      "Sheldon J. Plankton",
+      "Mr. Krabs",
+      "Karen",
+      "Squidward"
     ],
     "correctAnswer": 0,
-    "explanation": "Homer Simpson's catchphrase 'Mmm... donuts' and obsession with pink-glazed sprinkled donuts is a running comedy hallmark.",
+    "explanation": "Assisted by his sarcastic computer wife Karen, Plankton's megalomaniacal world-domination plans are perpetually foiled by SpongeBob.",
     "tags": [
       "cartoon-characters",
-      "classic-cartoons",
+      "modern-animation",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "cartoon-characters-disney-pixar-0082",
+    "id": "cartoon-characters-modern-animation-0082",
     "category": "Cartoon Characters",
-    "subcategory": "Disney & Pixar",
+    "subcategory": "Modern Animation",
     "difficulty": "easy",
-    "question": "Animation and cartoon trivia: In Nickelodeon's beloved cartoon, where under the sea does SpongeBob SquarePants live inside a pineapple? (Ref #82)",
+    "question": "What Texas-born cowgirl scientist squirrel lives underwater in an air-pressurized tree dome and practices karate with SpongeBob?",
     "options": [
-      "Atlantis Reef",
-      "Bikini Bottom",
-      "Coral Cove",
-      "Deep Trench Bay"
+      "Pearl Krabs",
+      "Sandy Cheeks",
+      "Mrs. Puff",
+      "Karen Plankton"
     ],
     "correctAnswer": 1,
-    "explanation": "SpongeBob lives with his pet snail Gary inside a two-story pineapple at 124 Conch Street in Bikini Bottom.",
+    "explanation": "Wearing an atmospheric diving suit and oxygen helmet, Sandy is a brilliant inventor, rodeo champion, and martial artist.",
     "tags": [
       "cartoon-characters",
-      "disney-pixar",
+      "modern-animation",
       "easy"
     ],
     "active": true
@@ -1726,15 +1726,15 @@
     "category": "Cartoon Characters",
     "subcategory": "Modern Animation",
     "difficulty": "medium",
-    "question": "Animation and cartoon trivia: What breed of dog is the cowardly, mystery-solving Hanna-Barbera cartoon canine Scooby-Doo? (Ref #83)",
+    "question": "What mad scientist grandfather travels across alternate dimensions in a flying saucer with his anxious 14-year-old grandson Morty?",
     "options": [
-      "Bloodhound",
-      "Saint Bernard",
-      "Great Dane",
-      "Golden Retriever"
+      "Morty Smith",
+      "Summer Smith",
+      "Rick Sanchez (Rick and Morty)",
+      "Jerry Smith"
     ],
     "correctAnswer": 2,
-    "explanation": "Scooby-Doo was designed by Iwao Takamoto as a lovable, slightly clumsy Great Dane with a fondness for Scooby Snacks.",
+    "explanation": "Created by Justin Roiland and Dan Harmon on Adult Swim, Rick is an alcoholic nihilistic genius wielding a green portal gun.",
     "tags": [
       "cartoon-characters",
       "modern-animation",
@@ -1743,64 +1743,64 @@
     "active": true
   },
   {
-    "id": "cartoon-characters-superhero-cartoons-0084",
+    "id": "cartoon-characters-modern-animation-0084",
     "category": "Cartoon Characters",
-    "subcategory": "Superhero Cartoons",
+    "subcategory": "Modern Animation",
     "difficulty": "hard",
-    "question": "Animation and cartoon trivia: What leafy canned vegetable does Popeye the Sailor Man consume to instantly acquire superhuman strength? (Ref #84)",
+    "question": "What blue anthropomorphic scrub jay and brown raccoon duo work as groundskeepers at a local park, turning daily chores into cosmic disasters?",
     "options": [
-      "Kale",
-      "Broccoli",
-      "Collard greens",
-      "Spinach"
+      "Finn and Jake",
+      "Gumball and Darwin",
+      "Phineas and Ferb",
+      "Mordecai and Rigby (Regular Show)"
     ],
     "correctAnswer": 3,
-    "explanation": "Popeye pops open a can of spinach whenever he needs sudden bursts of muscular strength to overcome Bluto.",
+    "explanation": "Created by J.G. Quintel for Cartoon Network, their simple slacking leads to battling galactic demons with gumball machine boss Benson.",
     "tags": [
       "cartoon-characters",
-      "superhero-cartoons",
+      "modern-animation",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "cartoon-characters-classic-cartoons-0085",
+    "id": "cartoon-characters-modern-animation-0085",
     "category": "Cartoon Characters",
-    "subcategory": "Classic Cartoons",
+    "subcategory": "Modern Animation",
     "difficulty": "easy",
-    "question": "Animation and cartoon trivia: In which 1928 synchronized sound animated short film did Walt Disney's Mickey Mouse make his historic debut? (Ref #85)",
+    "question": "What human boy with a magical sword and his shape-shifting magical yellow dog brother protect the post-apocalyptic Land of Ooo?",
     "options": [
-      "Steamboat Willie",
-      "Plane Crazy",
-      "The Gallopin' Gaucho",
-      "Fantasia"
+      "Finn the Human and Jake the Dog (Adventure Time)",
+      "Mordecai and Rigby",
+      "Steven and Greg",
+      "Dipper and Mabel"
     ],
     "correctAnswer": 0,
-    "explanation": "Steamboat Willie premiered in November 1928 as one of the first animated films with synchronized sound, launching Mickey Mouse.",
+    "explanation": "Created by Pendleton Ward, Adventure Time's whimsical fantasy concealed rich post-apocalyptic lore following the ancient Mushroom War.",
     "tags": [
       "cartoon-characters",
-      "classic-cartoons",
+      "modern-animation",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "cartoon-characters-disney-pixar-0086",
+    "id": "cartoon-characters-modern-animation-0086",
     "category": "Cartoon Characters",
-    "subcategory": "Disney & Pixar",
+    "subcategory": "Modern Animation",
     "difficulty": "medium",
-    "question": "Animation and cartoon trivia: Which famous animated rabbit created by Warner Bros. is renowned for munching a carrot and asking 'What's up, doc?'? (Ref #86)",
+    "question": "What lonely, tragic wizard in Adventure Time wears a crown of ice and kidnaps princesses, formerly known as archaeologist Simon Petrikov?",
     "options": [
-      "Roger Rabbit",
-      "Bugs Bunny",
-      "Daffy Duck",
-      "Buster Bunny"
+      "The Lich",
+      "The Ice King (Simon Petrikov)",
+      "Marceline",
+      "Princess Bubblegum"
     ],
     "correctAnswer": 1,
-    "explanation": "Bugs Bunny made his official debut in 1940's A Wild Hare, voiced by the legendary Mel Blanc.",
+    "explanation": "Voiced by Tom Kenny, the crown's magical madness erased Simon's memories of his human fiancée Betty and his adopted vampire daughter Marceline.",
     "tags": [
       "cartoon-characters",
-      "disney-pixar",
+      "modern-animation",
       "medium"
     ],
     "active": true
@@ -1810,15 +1810,15 @@
     "category": "Cartoon Characters",
     "subcategory": "Modern Animation",
     "difficulty": "hard",
-    "question": "Animation and cartoon trivia: In the animated series 'The Simpsons', what iconic pastry is Homer Simpson famously obsessed with eating? (Ref #87)",
+    "question": "What rock-playing, bass-strumming 1,000-year-old half-demon vampire queen in Adventure Time drinks the color red rather than blood?",
     "options": [
-      "Chocolate chip cookies",
-      "Apple strudel",
-      "Pink-frosted sprinkled donuts",
-      "Custard tarts"
+      "Princess Bubblegum",
+      "Flame Princess",
+      "Marceline the Vampire Queen",
+      "Fionna"
     ],
     "correctAnswer": 2,
-    "explanation": "Homer Simpson's catchphrase 'Mmm... donuts' and obsession with pink-glazed sprinkled donuts is a running comedy hallmark.",
+    "explanation": "Voiced by Olivia Olson, Marceline's musical relationship with candy kingdom ruler Princess Bubblegum formed a landmark queer animation arc.",
     "tags": [
       "cartoon-characters",
       "modern-animation",
@@ -1827,64 +1827,64 @@
     "active": true
   },
   {
-    "id": "cartoon-characters-superhero-cartoons-0088",
+    "id": "cartoon-characters-modern-animation-0088",
     "category": "Cartoon Characters",
-    "subcategory": "Superhero Cartoons",
+    "subcategory": "Modern Animation",
     "difficulty": "easy",
-    "question": "Animation and cartoon trivia: In Nickelodeon's beloved cartoon, where under the sea does SpongeBob SquarePants live inside a pineapple? (Ref #88)",
+    "question": "What 12-year-old twin siblings spend their summer vacation working at their Great Uncle Stan's Mystery Shack in Gravity Falls, Oregon?",
     "options": [
-      "Atlantis Reef",
-      "Coral Cove",
-      "Deep Trench Bay",
-      "Bikini Bottom"
+      "Phineas and Candace",
+      "Billy and Mandy",
+      "Tommy and Dil",
+      "Dipper and Mabel Pines"
     ],
     "correctAnswer": 3,
-    "explanation": "SpongeBob lives with his pet snail Gary inside a two-story pineapple at 124 Conch Street in Bikini Bottom.",
+    "explanation": "Created by Alex Hirsch, Dipper investigates paranormal anomalies using an authorless journal while Mabel embraces colorful sweaters and pet pig Waddles.",
     "tags": [
       "cartoon-characters",
-      "superhero-cartoons",
+      "modern-animation",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "cartoon-characters-classic-cartoons-0089",
+    "id": "cartoon-characters-modern-animation-0089",
     "category": "Cartoon Characters",
-    "subcategory": "Classic Cartoons",
+    "subcategory": "Modern Animation",
     "difficulty": "medium",
-    "question": "Animation and cartoon trivia: What breed of dog is the cowardly, mystery-solving Hanna-Barbera cartoon canine Scooby-Doo? (Ref #89)",
+    "question": "What two inventive stepbrothers make the most of their 104 days of summer vacation by building rollercoasters while their pet platypus fights evil?",
     "options": [
-      "Great Dane",
-      "Bloodhound",
-      "Saint Bernard",
-      "Golden Retriever"
+      "Phineas Flynn and Ferb Fletcher",
+      "Dipper and Mabel",
+      "Timmy and Cosmo",
+      "Dexter and Dee Dee"
     ],
     "correctAnswer": 0,
-    "explanation": "Scooby-Doo was designed by Iwao Takamoto as a lovable, slightly clumsy Great Dane with a fondness for Scooby Snacks.",
+    "explanation": "While older sister Candace attempts to bust them to their mother, pet Perry the Platypus operates as Secret Agent P against Dr. Doofenshmirtz.",
     "tags": [
       "cartoon-characters",
-      "classic-cartoons",
+      "modern-animation",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "cartoon-characters-disney-pixar-0090",
+    "id": "cartoon-characters-modern-animation-0090",
     "category": "Cartoon Characters",
-    "subcategory": "Disney & Pixar",
+    "subcategory": "Modern Animation",
     "difficulty": "hard",
-    "question": "Animation and cartoon trivia: What leafy canned vegetable does Popeye the Sailor Man consume to instantly acquire superhuman strength? (Ref #90)",
+    "question": "What pharmacist supervillain in Phineas and Ferb builds elaborate evil machines ending in '-inator' to conquer the Tri-State Area?",
     "options": [
-      "Kale",
-      "Spinach",
-      "Broccoli",
-      "Collard greens"
+      "Perry the Platypus",
+      "Dr. Heinz Doofenshmirtz",
+      "Major Monogram",
+      "Norm"
     ],
     "correctAnswer": 1,
-    "explanation": "Popeye pops open a can of spinach whenever he needs sudden bursts of muscular strength to overcome Bluto.",
+    "explanation": "Plagued by tragic childhood backstories involving lawn gnomes and neglected birthdays, his devices always feature a self-destruct button.",
     "tags": [
       "cartoon-characters",
-      "disney-pixar",
+      "modern-animation",
       "hard"
     ],
     "active": true
@@ -1894,15 +1894,15 @@
     "category": "Cartoon Characters",
     "subcategory": "Modern Animation",
     "difficulty": "easy",
-    "question": "Animation and cartoon trivia: In which 1928 synchronized sound animated short film did Walt Disney's Mickey Mouse make his historic debut? (Ref #91)",
+    "question": "What 10-year-old boy in The Fairly OddParents has two green-haired and pink-haired fairy godparents who grant his every wish?",
     "options": [
-      "Plane Crazy",
-      "The Gallopin' Gaucho",
-      "Steamboat Willie",
-      "Fantasia"
+      "Danny Phantom",
+      "Jimmy Neutron",
+      "Timmy Turner (with Cosmo and Wanda)",
+      "Dexter"
     ],
     "correctAnswer": 2,
-    "explanation": "Steamboat Willie premiered in November 1928 as one of the first animated films with synchronized sound, launching Mickey Mouse.",
+    "explanation": "Cosmo's dim-witted goofiness and Wanda's sensible nagging help Timmy navigate babysitter Vicky and fairy rules in 'Da Rules' book.",
     "tags": [
       "cartoon-characters",
       "modern-animation",
@@ -1911,64 +1911,64 @@
     "active": true
   },
   {
-    "id": "cartoon-characters-superhero-cartoons-0092",
+    "id": "cartoon-characters-modern-animation-0092",
     "category": "Cartoon Characters",
-    "subcategory": "Superhero Cartoons",
+    "subcategory": "Modern Animation",
     "difficulty": "medium",
-    "question": "Animation and cartoon trivia: Which famous animated rabbit created by Warner Bros. is renowned for munching a carrot and asking 'What's up, doc?'? (Ref #92)",
+    "question": "What boy genius with a giant head and robotic dog Goddard creates wild inventions in his subterranean clubhouse lab in Retroville?",
     "options": [
-      "Roger Rabbit",
-      "Daffy Duck",
-      "Buster Bunny",
-      "Bugs Bunny"
+      "Dexter",
+      "Phineas Flynn",
+      "Timmy Turner",
+      "Jimmy Neutron (James Isaac Neutron)"
     ],
     "correctAnswer": 3,
-    "explanation": "Bugs Bunny made his official debut in 1940's A Wild Hare, voiced by the legendary Mel Blanc.",
+    "explanation": "Jimmy solves sci-fi town crises using his 'Brain Blast' thinking breakthroughs, bantering with friends Carl Wheezer and Sheen Estevez.",
     "tags": [
       "cartoon-characters",
-      "superhero-cartoons",
+      "modern-animation",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "cartoon-characters-classic-cartoons-0093",
+    "id": "cartoon-characters-modern-animation-0093",
     "category": "Cartoon Characters",
-    "subcategory": "Classic Cartoons",
+    "subcategory": "Modern Animation",
     "difficulty": "hard",
-    "question": "Animation and cartoon trivia: In the animated series 'The Simpsons', what iconic pastry is Homer Simpson famously obsessed with eating? (Ref #93)",
+    "question": "What red-headed boy genius in a secret bedroom laboratory endlessly fights to keep his hyperactive ballerina sister Dee Dee out?",
     "options": [
-      "Pink-frosted sprinkled donuts",
-      "Chocolate chip cookies",
-      "Apple strudel",
-      "Custard tarts"
+      "Dexter (Dexter's Laboratory)",
+      "Jimmy Neutron",
+      "Mandark",
+      "Johnny Test"
     ],
     "correctAnswer": 0,
-    "explanation": "Homer Simpson's catchphrase 'Mmm... donuts' and obsession with pink-glazed sprinkled donuts is a running comedy hallmark.",
+    "explanation": "Created by Genndy Tartakovsky for Cartoon Network, Dexter speaks in an exaggerated European accent while fighting rival Mandark.",
     "tags": [
       "cartoon-characters",
-      "classic-cartoons",
+      "modern-animation",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "cartoon-characters-disney-pixar-0094",
+    "id": "cartoon-characters-modern-animation-0094",
     "category": "Cartoon Characters",
-    "subcategory": "Disney & Pixar",
+    "subcategory": "Modern Animation",
     "difficulty": "easy",
-    "question": "Animation and cartoon trivia: In Nickelodeon's beloved cartoon, where under the sea does SpongeBob SquarePants live inside a pineapple? (Ref #94)",
+    "question": "What three superhero kindergarten girls, created with sugar, spice, everything nice, and Chemical X, protect the City of Townsville?",
     "options": [
-      "Atlantis Reef",
-      "Bikini Bottom",
-      "Coral Cove",
-      "Deep Trench Bay"
+      "The Totally Spies",
+      "The Powerpuff Girls (Blossom, Bubbles, and Buttercup)",
+      "The Crystal Gems",
+      "The Hex Girls"
     ],
     "correctAnswer": 1,
-    "explanation": "SpongeBob lives with his pet snail Gary inside a two-story pineapple at 124 Conch Street in Bikini Bottom.",
+    "explanation": "Created by Craig McCracken, Blossom is the commander, Bubbles is the joy, and Buttercup is the toughest fighter battling Mojo Jojo.",
     "tags": [
       "cartoon-characters",
-      "disney-pixar",
+      "modern-animation",
       "easy"
     ],
     "active": true
@@ -1978,15 +1978,15 @@
     "category": "Cartoon Characters",
     "subcategory": "Modern Animation",
     "difficulty": "medium",
-    "question": "Animation and cartoon trivia: What breed of dog is the cowardly, mystery-solving Hanna-Barbera cartoon canine Scooby-Doo? (Ref #95)",
+    "question": "What hyper-intelligent chimpanzee supervillain in The Powerpuff Girls wears a brain-helmet dome and speaks in redundant, repetitive monologues?",
     "options": [
-      "Bloodhound",
-      "Saint Bernard",
-      "Great Dane",
-      "Golden Retriever"
+      "Gorilla Grodd",
+      "Fuzzy Lumpkins",
+      "Mojo Jojo",
+      "Him"
     ],
     "correctAnswer": 2,
-    "explanation": "Scooby-Doo was designed by Iwao Takamoto as a lovable, slightly clumsy Great Dane with a fondness for Scooby Snacks.",
+    "explanation": "A former lab assistant to Professor Utonium mutated by Chemical X, Mojo seeks revenge: 'I, Mojo Jojo, will destroy the Powerpuff Girls!'",
     "tags": [
       "cartoon-characters",
       "modern-animation",
@@ -1995,64 +1995,64 @@
     "active": true
   },
   {
-    "id": "cartoon-characters-superhero-cartoons-0096",
+    "id": "cartoon-characters-modern-animation-0096",
     "category": "Cartoon Characters",
-    "subcategory": "Superhero Cartoons",
+    "subcategory": "Modern Animation",
     "difficulty": "hard",
-    "question": "Animation and cartoon trivia: What leafy canned vegetable does Popeye the Sailor Man consume to instantly acquire superhuman strength? (Ref #96)",
+    "question": "What cowardly, pink, timid dog lives in the middle of Nowhere, Kansas, protecting his elderly owners Muriel and Eustace Bagge from monsters?",
     "options": [
-      "Kale",
-      "Broccoli",
-      "Collard greens",
-      "Spinach"
+      "Scooby-Doo",
+      "Droopy",
+      "Ren",
+      "Courage the Cowardly Dog"
     ],
     "correctAnswer": 3,
-    "explanation": "Popeye pops open a can of spinach whenever he needs sudden bursts of muscular strength to overcome Bluto.",
+    "explanation": "Created by John R. Dilworth, Courage screaming in terror before using his computer to solve bizarre supernatural threats became a cult horror classic.",
     "tags": [
       "cartoon-characters",
-      "superhero-cartoons",
+      "modern-animation",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "cartoon-characters-classic-cartoons-0097",
+    "id": "cartoon-characters-modern-animation-0097",
     "category": "Cartoon Characters",
-    "subcategory": "Classic Cartoons",
+    "subcategory": "Modern Animation",
     "difficulty": "easy",
-    "question": "Animation and cartoon trivia: In which 1928 synchronized sound animated short film did Walt Disney's Mickey Mouse make his historic debut? (Ref #97)",
+    "question": "What time-traveling, silent samurai prince, trained across the ancient world, battles the shape-shifting demon overlord Aku to return to the past?",
     "options": [
-      "Steamboat Willie",
-      "Plane Crazy",
-      "The Gallopin' Gaucho",
-      "Fantasia"
+      "Samurai Jack",
+      "Afro Samurai",
+      "Kenshin",
+      "Scavenger"
     ],
     "correctAnswer": 0,
-    "explanation": "Steamboat Willie premiered in November 1928 as one of the first animated films with synchronized sound, launching Mickey Mouse.",
+    "explanation": "Created by Genndy Tartakovsky, Samurai Jack earned Emmy Awards for cinematic visual pacing, widescreen framing, and artistic sword combat.",
     "tags": [
       "cartoon-characters",
-      "classic-cartoons",
+      "modern-animation",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "cartoon-characters-disney-pixar-0098",
+    "id": "cartoon-characters-modern-animation-0098",
     "category": "Cartoon Characters",
-    "subcategory": "Disney & Pixar",
+    "subcategory": "Modern Animation",
     "difficulty": "medium",
-    "question": "Animation and cartoon trivia: Which famous animated rabbit created by Warner Bros. is renowned for munching a carrot and asking 'What's up, doc?'? (Ref #98)",
+    "question": "What human boy, the last airbender, must master all four elements (Water, Earth, Fire, Air) to defeat Fire Lord Ozai and restore balance to the world?",
     "options": [
-      "Roger Rabbit",
-      "Bugs Bunny",
-      "Daffy Duck",
-      "Buster Bunny"
+      "Prince Zuko",
+      "Avatar Aang (Avatar: The Last Airbender)",
+      "Sokka",
+      "Uncle Iroh"
     ],
     "correctAnswer": 1,
-    "explanation": "Bugs Bunny made his official debut in 1940's A Wild Hare, voiced by the legendary Mel Blanc.",
+    "explanation": "Frozen in an iceberg for 100 years, Aang awakens with pet flying bison Appa, leading friends Katara and Sokka in an epic fantasy journey.",
     "tags": [
       "cartoon-characters",
-      "disney-pixar",
+      "modern-animation",
       "medium"
     ],
     "active": true
@@ -2062,15 +2062,15 @@
     "category": "Cartoon Characters",
     "subcategory": "Modern Animation",
     "difficulty": "hard",
-    "question": "Animation and cartoon trivia: In the animated series 'The Simpsons', what iconic pastry is Homer Simpson famously obsessed with eating? (Ref #99)",
+    "question": "What exiled Fire Nation prince with a facial burn scar tracks Avatar Aang across the world to restore his honor, guided by Uncle Iroh?",
     "options": [
-      "Chocolate chip cookies",
-      "Apple strudel",
-      "Pink-frosted sprinkled donuts",
-      "Custard tarts"
+      "Fire Lord Ozai",
+      "Princess Azula",
+      "Prince Zuko",
+      "General Zhao"
     ],
     "correctAnswer": 2,
-    "explanation": "Homer Simpson's catchphrase 'Mmm... donuts' and obsession with pink-glazed sprinkled donuts is a running comedy hallmark.",
+    "explanation": "Zuko's emotional transformation from vengeful antagonist to Aang's firebending teacher is widely hailed as one of the greatest redemption arcs in television.",
     "tags": [
       "cartoon-characters",
       "modern-animation",
@@ -2079,64 +2079,64 @@
     "active": true
   },
   {
-    "id": "cartoon-characters-superhero-cartoons-0100",
+    "id": "cartoon-characters-modern-animation-0100",
     "category": "Cartoon Characters",
-    "subcategory": "Superhero Cartoons",
+    "subcategory": "Modern Animation",
     "difficulty": "easy",
-    "question": "Animation and cartoon trivia: In Nickelodeon's beloved cartoon, where under the sea does SpongeBob SquarePants live inside a pineapple? (Ref #100)",
+    "question": "What wise, tea-loving retired Fire Nation general in Avatar: The Last Airbender counsels his troubled nephew Zuko with compassionate wisdom?",
     "options": [
-      "Atlantis Reef",
-      "Coral Cove",
-      "Deep Trench Bay",
-      "Bikini Bottom"
+      "King Bumi",
+      "Monk Gyatso",
+      "Jeong Jeong",
+      "Uncle Iroh (The Dragon of the West)"
     ],
     "correctAnswer": 3,
-    "explanation": "SpongeBob lives with his pet snail Gary inside a two-story pineapple at 124 Conch Street in Bikini Bottom.",
+    "explanation": "Voiced by Mako and Greg Baldwin, Iroh's tearful performance of 'Leaves from the Vine' in memory of his deceased son Lu Ten is deeply beloved.",
     "tags": [
       "cartoon-characters",
-      "superhero-cartoons",
+      "modern-animation",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "cartoon-characters-classic-cartoons-0101",
+    "id": "cartoon-characters-modern-animation-0101",
     "category": "Cartoon Characters",
-    "subcategory": "Classic Cartoons",
+    "subcategory": "Modern Animation",
     "difficulty": "medium",
-    "question": "Animation and cartoon trivia: What breed of dog is the cowardly, mystery-solving Hanna-Barbera cartoon canine Scooby-Doo? (Ref #101)",
+    "question": "What blind, 12-year-old earthbending prodigy invented metalbending and fights as 'The Blind Bandit' in underground earth rumble arenas?",
     "options": [
-      "Great Dane",
-      "Bloodhound",
-      "Saint Bernard",
-      "Golden Retriever"
+      "Toph Beifong",
+      "Katara",
+      "Suki",
+      "Azula"
     ],
     "correctAnswer": 0,
-    "explanation": "Scooby-Doo was designed by Iwao Takamoto as a lovable, slightly clumsy Great Dane with a fondness for Scooby Snacks.",
+    "explanation": "Toph uses seismic sense vibrations through her bare feet to 'see' the world, joining Team Avatar with sarcastic, fierce independence.",
     "tags": [
       "cartoon-characters",
-      "classic-cartoons",
+      "modern-animation",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "cartoon-characters-disney-pixar-0102",
+    "id": "cartoon-characters-modern-animation-0102",
     "category": "Cartoon Characters",
-    "subcategory": "Disney & Pixar",
+    "subcategory": "Modern Animation",
     "difficulty": "hard",
-    "question": "Animation and cartoon trivia: What leafy canned vegetable does Popeye the Sailor Man consume to instantly acquire superhuman strength? (Ref #102)",
+    "question": "What Water Tribe warrior and older brother of Katara lacks bending abilities, relying on tactical planning, sarcasm, and his trust boomerang?",
     "options": [
-      "Kale",
-      "Spinach",
-      "Broccoli",
-      "Collard greens"
+      "Aang",
+      "Sokka",
+      "Zuko",
+      "Jet"
     ],
     "correctAnswer": 1,
-    "explanation": "Popeye pops open a can of spinach whenever he needs sudden bursts of muscular strength to overcome Bluto.",
+    "explanation": "Sokka provides comedic grounding and strategic engineering leadership, designing the hot air balloon and eclipse invasion plan.",
     "tags": [
       "cartoon-characters",
-      "disney-pixar",
+      "modern-animation",
       "hard"
     ],
     "active": true
@@ -2146,15 +2146,15 @@
     "category": "Cartoon Characters",
     "subcategory": "Modern Animation",
     "difficulty": "easy",
-    "question": "Animation and cartoon trivia: In which 1928 synchronized sound animated short film did Walt Disney's Mickey Mouse make his historic debut? (Ref #103)",
+    "question": "What passionate, next-generation Avatar from the Southern Water Tribe masters physical bending easily but struggles with spiritual patience?",
     "options": [
-      "Plane Crazy",
-      "The Gallopin' Gaucho",
-      "Steamboat Willie",
-      "Fantasia"
+      "Avatar Aang",
+      "Avatar Kyoshi",
+      "Avatar Korra (The Legend of Korra)",
+      "Avatar Roku"
     ],
     "correctAnswer": 2,
-    "explanation": "Steamboat Willie premiered in November 1928 as one of the first animated films with synchronized sound, launching Mickey Mouse.",
+    "explanation": "Korra navigates industrialized 1920s-style Republic City, battling Equalist revolution leader Amon and anarchist Zaheer.",
     "tags": [
       "cartoon-characters",
       "modern-animation",
@@ -2163,64 +2163,64 @@
     "active": true
   },
   {
-    "id": "cartoon-characters-superhero-cartoons-0104",
+    "id": "cartoon-characters-modern-animation-0104",
     "category": "Cartoon Characters",
-    "subcategory": "Superhero Cartoons",
+    "subcategory": "Modern Animation",
     "difficulty": "medium",
-    "question": "Animation and cartoon trivia: Which famous animated rabbit created by Warner Bros. is renowned for munching a carrot and asking 'What's up, doc?'? (Ref #104)",
+    "question": "What half-human, half-alien boy with a magical pink gemstone in his navel lives with the magical Crystal Gems in Beach City?",
     "options": [
-      "Roger Rabbit",
-      "Daffy Duck",
-      "Buster Bunny",
-      "Bugs Bunny"
+      "Finn",
+      "Gumball",
+      "Star Butterfly",
+      "Steven Universe"
     ],
     "correctAnswer": 3,
-    "explanation": "Bugs Bunny made his official debut in 1940's A Wild Hare, voiced by the legendary Mel Blanc.",
+    "explanation": "Created by Rebecca Sugar, Steven Universe earned acclaim for progressive themes of empathy, mental health, and LGBTQ+ representation.",
     "tags": [
       "cartoon-characters",
-      "superhero-cartoons",
+      "modern-animation",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "cartoon-characters-classic-cartoons-0105",
+    "id": "cartoon-characters-modern-animation-0105",
     "category": "Cartoon Characters",
-    "subcategory": "Classic Cartoons",
+    "subcategory": "Modern Animation",
     "difficulty": "hard",
-    "question": "Animation and cartoon trivia: In the animated series 'The Simpsons', what iconic pastry is Homer Simpson famously obsessed with eating? (Ref #105)",
+    "question": "What blue twelve-year-old cat and his adopted orange goldfish brother Darwin navigate bizarre surreal adventures in the town of Elmore?",
     "options": [
-      "Pink-frosted sprinkled donuts",
-      "Chocolate chip cookies",
-      "Apple strudel",
-      "Custard tarts"
+      "Gumball Watterson (The Amazing World of Gumball)",
+      "Darwin Watterson",
+      "Richard Watterson",
+      "Anais Watterson"
     ],
     "correctAnswer": 0,
-    "explanation": "Homer Simpson's catchphrase 'Mmm... donuts' and obsession with pink-glazed sprinkled donuts is a running comedy hallmark.",
+    "explanation": "The series merged 2D cel animation, 3D CGI, stop-motion, and live-action photography in a groundbreaking visual pastiche.",
     "tags": [
       "cartoon-characters",
-      "classic-cartoons",
+      "modern-animation",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "cartoon-characters-disney-pixar-0106",
+    "id": "cartoon-characters-modern-animation-0106",
     "category": "Cartoon Characters",
-    "subcategory": "Disney & Pixar",
+    "subcategory": "Modern Animation",
     "difficulty": "easy",
-    "question": "Animation and cartoon trivia: In Nickelodeon's beloved cartoon, where under the sea does SpongeBob SquarePants live inside a pineapple? (Ref #106)",
+    "question": "What anthropomorphic horse, former 1990s sitcom star of Horsin' Around, battles depression, addiction, and self-destruction in Hollywood?",
     "options": [
-      "Atlantis Reef",
-      "Bikini Bottom",
-      "Coral Cove",
-      "Deep Trench Bay"
+      "Mr. Peanutbutter",
+      "BoJack Horseman",
+      "Todd Chavez",
+      "Princess Carolyn"
     ],
     "correctAnswer": 1,
-    "explanation": "SpongeBob lives with his pet snail Gary inside a two-story pineapple at 124 Conch Street in Bikini Bottom.",
+    "explanation": "Voiced by Will Arnett on Netflix, BoJack Horseman received critical acclaim as one of the most honest depictions of mental illness in television.",
     "tags": [
       "cartoon-characters",
-      "disney-pixar",
+      "modern-animation",
       "easy"
     ],
     "active": true
@@ -2230,15 +2230,15 @@
     "category": "Cartoon Characters",
     "subcategory": "Modern Animation",
     "difficulty": "medium",
-    "question": "Animation and cartoon trivia: What breed of dog is the cowardly, mystery-solving Hanna-Barbera cartoon canine Scooby-Doo? (Ref #107)",
+    "question": "What pink-haired, energetic Mexican wrestling super-fan and his friends protect the city of Miracle City with magical masks?",
     "options": [
-      "Bloodhound",
-      "Saint Bernard",
-      "Great Dane",
-      "Golden Retriever"
+      "Mucha Lucha",
+      "Rikochet",
+      "El Tigre (Manny Rivera)",
+      "Speedy Gonzales"
     ],
     "correctAnswer": 2,
-    "explanation": "Scooby-Doo was designed by Iwao Takamoto as a lovable, slightly clumsy Great Dane with a fondness for Scooby Snacks.",
+    "explanation": "Manny must choose between using his tiger-claw powers for good like his superhero father or villainy like his supervillain grandfather.",
     "tags": [
       "cartoon-characters",
       "modern-animation",
@@ -2247,64 +2247,64 @@
     "active": true
   },
   {
-    "id": "cartoon-characters-superhero-cartoons-0108",
+    "id": "cartoon-characters-modern-animation-0108",
     "category": "Cartoon Characters",
-    "subcategory": "Superhero Cartoons",
+    "subcategory": "Modern Animation",
     "difficulty": "hard",
-    "question": "Animation and cartoon trivia: What leafy canned vegetable does Popeye the Sailor Man consume to instantly acquire superhuman strength? (Ref #108)",
+    "question": "What teenage half-ghost superhero, created by Butch Hartman, balances high school drama with fighting ectoplasmic villains from the Ghost Zone?",
     "options": [
-      "Kale",
-      "Broccoli",
-      "Collard greens",
-      "Spinach"
+      "Ben 10",
+      "Jake Long",
+      "Timmy Turner",
+      "Danny Phantom (Danny Fenton)"
     ],
     "correctAnswer": 3,
-    "explanation": "Popeye pops open a can of spinach whenever he needs sudden bursts of muscular strength to overcome Bluto.",
+    "explanation": "Accidentally exposed to his ghost-hunter parents' laboratory portal, Danny goes ghost with green energy blasts and intangibility.",
     "tags": [
       "cartoon-characters",
-      "superhero-cartoons",
+      "modern-animation",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "cartoon-characters-classic-cartoons-0109",
+    "id": "cartoon-characters-modern-animation-0109",
     "category": "Cartoon Characters",
-    "subcategory": "Classic Cartoons",
+    "subcategory": "Modern Animation",
     "difficulty": "easy",
-    "question": "Animation and cartoon trivia: In which 1928 synchronized sound animated short film did Walt Disney's Mickey Mouse make his historic debut? (Ref #109)",
+    "question": "What 10-year-old boy discovers the alien Omnitrix watch that allows him to transform into ten distinct extraterrestrial superheroes?",
     "options": [
-      "Steamboat Willie",
-      "Plane Crazy",
-      "The Gallopin' Gaucho",
-      "Fantasia"
+      "Ben Tennyson (Ben 10)",
+      "Danny Phantom",
+      "Generator Rex",
+      "Max Tennyson"
     ],
     "correctAnswer": 0,
-    "explanation": "Steamboat Willie premiered in November 1928 as one of the first animated films with synchronized sound, launching Mickey Mouse.",
+    "explanation": "Accompanied by cousin Gwen and Grandpa Max, Ben battles Vilgax across multiple animated television spin-offs.",
     "tags": [
       "cartoon-characters",
-      "classic-cartoons",
+      "modern-animation",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "cartoon-characters-disney-pixar-0110",
+    "id": "cartoon-characters-modern-animation-0110",
     "category": "Cartoon Characters",
-    "subcategory": "Disney & Pixar",
+    "subcategory": "Modern Animation",
     "difficulty": "medium",
-    "question": "Animation and cartoon trivia: Which famous animated rabbit created by Warner Bros. is renowned for munching a carrot and asking 'What's up, doc?'? (Ref #110)",
+    "question": "What high school cheerleader and secret agent saves the world from villains like Dr. Drakken with her naked mole rat and Ron Stoppable?",
     "options": [
-      "Roger Rabbit",
-      "Bugs Bunny",
-      "Daffy Duck",
-      "Buster Bunny"
+      "Shego",
+      "Kim Possible",
+      "Penny Proud",
+      "Totally Spies"
     ],
     "correctAnswer": 1,
-    "explanation": "Bugs Bunny made his official debut in 1940's A Wild Hare, voiced by the legendary Mel Blanc.",
+    "explanation": "Voiced by Christy Carlson Romano, Kim balances cheer practice with global spy missions under the motto 'I can do anything.'",
     "tags": [
       "cartoon-characters",
-      "disney-pixar",
+      "modern-animation",
       "medium"
     ],
     "active": true
@@ -2314,15 +2314,15 @@
     "category": "Cartoon Characters",
     "subcategory": "Modern Animation",
     "difficulty": "hard",
-    "question": "Animation and cartoon trivia: In the animated series 'The Simpsons', what iconic pastry is Homer Simpson famously obsessed with eating? (Ref #111)",
+    "question": "What clumsy, taco-loving sidekick of Kim Possible carries a pink naked mole rat named Rufus in his pocket?",
     "options": [
-      "Chocolate chip cookies",
-      "Apple strudel",
-      "Pink-frosted sprinkled donuts",
-      "Custard tarts"
+      "Wade",
+      "Dr. Drakken",
+      "Ron Stoppable",
+      "Jim Possible"
     ],
     "correctAnswer": 2,
-    "explanation": "Homer Simpson's catchphrase 'Mmm... donuts' and obsession with pink-glazed sprinkled donuts is a running comedy hallmark.",
+    "explanation": "Ron's accidental martial arts mastery ('Mystical Monkey Power') often saves Kim from supervillains at the final moment.",
     "tags": [
       "cartoon-characters",
       "modern-animation",
@@ -2331,85 +2331,85 @@
     "active": true
   },
   {
-    "id": "cartoon-characters-superhero-cartoons-0112",
+    "id": "cartoon-characters-modern-animation-0112",
     "category": "Cartoon Characters",
-    "subcategory": "Superhero Cartoons",
+    "subcategory": "Modern Animation",
     "difficulty": "easy",
-    "question": "Animation and cartoon trivia: In Nickelodeon's beloved cartoon, where under the sea does SpongeBob SquarePants live inside a pineapple? (Ref #112)",
+    "question": "What 14-year-old African-American girl navigates suburban family drama, friendships, and middle school in Disney's The Proud Family?",
     "options": [
-      "Atlantis Reef",
-      "Coral Cove",
-      "Deep Trench Bay",
-      "Bikini Bottom"
+      "Dijonay",
+      "LaCienega",
+      "Suga Mama",
+      "Penny Proud"
     ],
     "correctAnswer": 3,
-    "explanation": "SpongeBob lives with his pet snail Gary inside a two-story pineapple at 124 Conch Street in Bikini Bottom.",
+    "explanation": "Penny deals with her overprotective snack-manufacturer father Oscar Proud and feisty, wrestling-loving grandmother Suga Mama.",
     "tags": [
       "cartoon-characters",
-      "superhero-cartoons",
+      "modern-animation",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "cartoon-characters-classic-cartoons-0113",
+    "id": "cartoon-characters-modern-animation-0113",
     "category": "Cartoon Characters",
-    "subcategory": "Classic Cartoons",
+    "subcategory": "Modern Animation",
     "difficulty": "medium",
-    "question": "Animation and cartoon trivia: What breed of dog is the cowardly, mystery-solving Hanna-Barbera cartoon canine Scooby-Doo? (Ref #113)",
+    "question": "What teenage skateboarding boy in Manhattan discovers he is the magical American Dragon, charged with protecting magical creatures in New York?",
     "options": [
-      "Great Dane",
-      "Bloodhound",
-      "Saint Bernard",
-      "Golden Retriever"
+      "Jake Long (American Dragon: Jake Long)",
+      "Danny Phantom",
+      "Ben 10",
+      "Kim Possible"
     ],
     "correctAnswer": 0,
-    "explanation": "Scooby-Doo was designed by Iwao Takamoto as a lovable, slightly clumsy Great Dane with a fondness for Scooby Snacks.",
+    "explanation": "Trained by his grandfather Luong Lao Shi, Jake transforms into a fire-breathing dragon while crushing on magical huntsgirl Rose.",
     "tags": [
       "cartoon-characters",
-      "classic-cartoons",
+      "modern-animation",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "cartoon-characters-disney-pixar-0114",
+    "id": "cartoon-characters-superhero-cartoons-0114",
     "category": "Cartoon Characters",
-    "subcategory": "Disney & Pixar",
+    "subcategory": "Superhero Cartoons",
     "difficulty": "hard",
-    "question": "Animation and cartoon trivia: What leafy canned vegetable does Popeye the Sailor Man consume to instantly acquire superhuman strength? (Ref #114)",
+    "question": "What groundbreaking 1992 animated masterpiece, developed by Bruce Timm and Paul Dini, defined Batman for a generation with dark art-deco style?",
     "options": [
-      "Kale",
-      "Spinach",
-      "Broccoli",
-      "Collard greens"
+      "Batman Beyond",
+      "Batman: The Animated Series (BTAS)",
+      "The Batman",
+      "Justice League"
     ],
     "correctAnswer": 1,
-    "explanation": "Popeye pops open a can of spinach whenever he needs sudden bursts of muscular strength to overcome Bluto.",
+    "explanation": "Airing on Fox Kids, BTAS featured dark noir storytelling, Shirley Walker's orchestral score, and drew onto black paper backgrounds.",
     "tags": [
       "cartoon-characters",
-      "disney-pixar",
+      "superhero-cartoons",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "cartoon-characters-modern-animation-0115",
+    "id": "cartoon-characters-superhero-cartoons-0115",
     "category": "Cartoon Characters",
-    "subcategory": "Modern Animation",
+    "subcategory": "Superhero Cartoons",
     "difficulty": "easy",
-    "question": "Animation and cartoon trivia: In which 1928 synchronized sound animated short film did Walt Disney's Mickey Mouse make his historic debut? (Ref #115)",
+    "question": "What legendary voice actor provided the definitive, authoritative animated voice of Batman / Bruce Wayne across three decades starting with BTAS in 1992?",
     "options": [
-      "Plane Crazy",
-      "The Gallopin' Gaucho",
-      "Steamboat Willie",
-      "Fantasia"
+      "Mark Hamill",
+      "Troy Baker",
+      "Kevin Conroy",
+      "Bruce Greenwood"
     ],
     "correctAnswer": 2,
-    "explanation": "Steamboat Willie premiered in November 1928 as one of the first animated films with synchronized sound, launching Mickey Mouse.",
+    "explanation": "Conroy's distinct vocal duality between genial billionaire Bruce Wayne and gritty vigilante Batman made him the quintessential Batman voice.",
     "tags": [
       "cartoon-characters",
-      "modern-animation",
+      "superhero-cartoons",
       "easy"
     ],
     "active": true
@@ -2419,15 +2419,15 @@
     "category": "Cartoon Characters",
     "subcategory": "Superhero Cartoons",
     "difficulty": "medium",
-    "question": "Animation and cartoon trivia: Which famous animated rabbit created by Warner Bros. is renowned for munching a carrot and asking 'What's up, doc?'? (Ref #116)",
+    "question": "What Star Wars actor earned universal acclaim for his terrifying, theatrical, laughing voice performance as the Joker in Batman: The Animated Series?",
     "options": [
-      "Roger Rabbit",
-      "Daffy Duck",
-      "Buster Bunny",
-      "Bugs Bunny"
+      "Kevin Conroy",
+      "Richard Epcar",
+      "John DiMaggio",
+      "Mark Hamill"
     ],
     "correctAnswer": 3,
-    "explanation": "Bugs Bunny made his official debut in 1940's A Wild Hare, voiced by the legendary Mel Blanc.",
+    "explanation": "Hamill developed a multi-tonal, operatic laugh that ranged from jovial giggles to homicidal screams, winning animation awards.",
     "tags": [
       "cartoon-characters",
       "superhero-cartoons",
@@ -2436,64 +2436,64 @@
     "active": true
   },
   {
-    "id": "cartoon-characters-classic-cartoons-0117",
+    "id": "cartoon-characters-superhero-cartoons-0117",
     "category": "Cartoon Characters",
-    "subcategory": "Classic Cartoons",
+    "subcategory": "Superhero Cartoons",
     "difficulty": "hard",
-    "question": "Animation and cartoon trivia: In the animated series 'The Simpsons', what iconic pastry is Homer Simpson famously obsessed with eating? (Ref #117)",
+    "question": "What iconic DC supervillainess, originally created by Paul Dini as a one-time walk-on henchwoman in BTAS in 1992, became a global pop superstar?",
     "options": [
-      "Pink-frosted sprinkled donuts",
-      "Chocolate chip cookies",
-      "Apple strudel",
-      "Custard tarts"
+      "Harley Quinn (Dr. Harleen Quinzel)",
+      "Poison Ivy",
+      "Catwoman",
+      "Livewire"
     ],
     "correctAnswer": 0,
-    "explanation": "Homer Simpson's catchphrase 'Mmm... donuts' and obsession with pink-glazed sprinkled donuts is a running comedy hallmark.",
+    "explanation": "Voiced originally by Arleen Sorkin in a jester suit, the former Arkham psychiatrist's twisted romance with the Joker crossed into mainstream DC comics.",
     "tags": [
       "cartoon-characters",
-      "classic-cartoons",
+      "superhero-cartoons",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "cartoon-characters-disney-pixar-0118",
+    "id": "cartoon-characters-superhero-cartoons-0118",
     "category": "Cartoon Characters",
-    "subcategory": "Disney & Pixar",
+    "subcategory": "Superhero Cartoons",
     "difficulty": "easy",
-    "question": "Animation and cartoon trivia: In Nickelodeon's beloved cartoon, where under the sea does SpongeBob SquarePants live inside a pineapple? (Ref #118)",
+    "question": "What tragic BTAS episode, written by Paul Dini, redefined Mr. Freeze from a cheesy gimmick villain into a tragic scientist mourning his frozen wife Nora?",
     "options": [
-      "Atlantis Reef",
-      "Bikini Bottom",
-      "Coral Cove",
-      "Deep Trench Bay"
+      "'Mad as a Hatter'",
+      "'Heart of Ice'",
+      "'Almost Got 'Im'",
+      "'Two-Face'"
     ],
     "correctAnswer": 1,
-    "explanation": "SpongeBob lives with his pet snail Gary inside a two-story pineapple at 124 Conch Street in Bikini Bottom.",
+    "explanation": "Winning a Daytime Emmy Award, 'Heart of Ice' showed Dr. Victor Fries crying behind his dome, seeking revenge against the corporate boss who killed his wife.",
     "tags": [
       "cartoon-characters",
-      "disney-pixar",
+      "superhero-cartoons",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "cartoon-characters-modern-animation-0119",
+    "id": "cartoon-characters-superhero-cartoons-0119",
     "category": "Cartoon Characters",
-    "subcategory": "Modern Animation",
+    "subcategory": "Superhero Cartoons",
     "difficulty": "medium",
-    "question": "Animation and cartoon trivia: What breed of dog is the cowardly, mystery-solving Hanna-Barbera cartoon canine Scooby-Doo? (Ref #119)",
+    "question": "What futuristic Batman animated spin-off introduced teenager Terry McGinnis fighting crime in Neo-Gotham under the guidance of an elderly Bruce Wayne?",
     "options": [
-      "Bloodhound",
-      "Saint Bernard",
-      "Great Dane",
-      "Golden Retriever"
+      "Batman: The Brave and the Bold",
+      "The Batman",
+      "Batman Beyond",
+      "Gotham Girls"
     ],
     "correctAnswer": 2,
-    "explanation": "Scooby-Doo was designed by Iwao Takamoto as a lovable, slightly clumsy Great Dane with a fondness for Scooby Snacks.",
+    "explanation": "Featuring cyberpunk aesthetics and an electric industrial rock soundtrack, Terry wore a high-tech winged black nanosuit.",
     "tags": [
       "cartoon-characters",
-      "modern-animation",
+      "superhero-cartoons",
       "medium"
     ],
     "active": true
@@ -2503,15 +2503,15 @@
     "category": "Cartoon Characters",
     "subcategory": "Superhero Cartoons",
     "difficulty": "hard",
-    "question": "Animation and cartoon trivia: What leafy canned vegetable does Popeye the Sailor Man consume to instantly acquire superhuman strength? (Ref #120)",
+    "question": "What 1990s Fox Kids animated superhero series featured an iconic rock guitar synthesizer theme song and faithful comic adaptations of the Dark Phoenix Saga?",
     "options": [
-      "Kale",
-      "Broccoli",
-      "Collard greens",
-      "Spinach"
+      "Spider-Man: The Animated Series",
+      "Iron Man",
+      "Fantastic Four",
+      "X-Men: The Animated Series"
     ],
     "correctAnswer": 3,
-    "explanation": "Popeye pops open a can of spinach whenever he needs sudden bursts of muscular strength to overcome Bluto.",
+    "explanation": "Composed by Ron Wasserman, the pounding theme song and serialization introduced millions of 1990s kids to Wolverine, Cyclops, and Magneto.",
     "tags": [
       "cartoon-characters",
       "superhero-cartoons",
@@ -2520,64 +2520,64 @@
     "active": true
   },
   {
-    "id": "cartoon-characters-classic-cartoons-0121",
+    "id": "cartoon-characters-superhero-cartoons-0121",
     "category": "Cartoon Characters",
-    "subcategory": "Classic Cartoons",
+    "subcategory": "Superhero Cartoons",
     "difficulty": "easy",
-    "question": "Animation and cartoon trivia: In which 1928 synchronized sound animated short film did Walt Disney's Mickey Mouse make his historic debut? (Ref #121)",
+    "question": "What 1994 Fox Kids animated superhero series followed Peter Parker balancing college life with Kingpin, Venom, and Green Goblin in Manhattan?",
     "options": [
-      "Steamboat Willie",
-      "Plane Crazy",
-      "The Gallopin' Gaucho",
-      "Fantasia"
+      "Spider-Man: The Animated Series",
+      "X-Men",
+      "The Spectacular Spider-Man",
+      "Batman: TAS"
     ],
     "correctAnswer": 0,
-    "explanation": "Steamboat Willie premiered in November 1928 as one of the first animated films with synchronized sound, launching Mickey Mouse.",
+    "explanation": "Christopher Daniel Barnes voiced Spider-Man, featuring multi-episode story arcs, internal monologues, and Marvel superhero crossovers.",
     "tags": [
       "cartoon-characters",
-      "classic-cartoons",
+      "superhero-cartoons",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "cartoon-characters-disney-pixar-0122",
+    "id": "cartoon-characters-superhero-cartoons-0122",
     "category": "Cartoon Characters",
-    "subcategory": "Disney & Pixar",
+    "subcategory": "Superhero Cartoons",
     "difficulty": "medium",
-    "question": "Animation and cartoon trivia: Which famous animated rabbit created by Warner Bros. is renowned for munching a carrot and asking 'What's up, doc?'? (Ref #122)",
+    "question": "What critically acclaimed 2008 animated series by Greg Weisman is widely considered the most faithful, character-rich adaptation of teenage Peter Parker?",
     "options": [
-      "Roger Rabbit",
-      "Bugs Bunny",
-      "Daffy Duck",
-      "Buster Bunny"
+      "Ultimate Spider-Man",
+      "The Spectacular Spider-Man",
+      "Spider-Man: TAS",
+      "Marvel's Spider-Man"
     ],
     "correctAnswer": 1,
-    "explanation": "Bugs Bunny made his official debut in 1940's A Wild Hare, voiced by the legendary Mel Blanc.",
+    "explanation": "Balancing web-slinging action with high school relationship drama, it praised Steve Ditko and John Romita Sr.'s classic comic foundations.",
     "tags": [
       "cartoon-characters",
-      "disney-pixar",
+      "superhero-cartoons",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "cartoon-characters-modern-animation-0123",
+    "id": "cartoon-characters-superhero-cartoons-0123",
     "category": "Cartoon Characters",
-    "subcategory": "Modern Animation",
+    "subcategory": "Superhero Cartoons",
     "difficulty": "hard",
-    "question": "Animation and cartoon trivia: In the animated series 'The Simpsons', what iconic pastry is Homer Simpson famously obsessed with eating? (Ref #123)",
+    "question": "What DC animated series united Superman, Batman, Wonder Woman, Flash, Green Lantern, Martian Manhunter, and Hawkgirl to defend the globe?",
     "options": [
-      "Chocolate chip cookies",
-      "Apple strudel",
-      "Pink-frosted sprinkled donuts",
-      "Custard tarts"
+      "Young Justice",
+      "Teen Titans",
+      "Justice League (and Justice League Unlimited)",
+      "Legion of Super Heroes"
     ],
     "correctAnswer": 2,
-    "explanation": "Homer Simpson's catchphrase 'Mmm... donuts' and obsession with pink-glazed sprinkled donuts is a running comedy hallmark.",
+    "explanation": "Executive produced by Bruce Timm, Justice League set the gold standard for widescreen ensemble superhero storytelling across the DC Animated Universe.",
     "tags": [
       "cartoon-characters",
-      "modern-animation",
+      "superhero-cartoons",
       "hard"
     ],
     "active": true
@@ -2587,15 +2587,15 @@
     "category": "Cartoon Characters",
     "subcategory": "Superhero Cartoons",
     "difficulty": "easy",
-    "question": "Animation and cartoon trivia: In Nickelodeon's beloved cartoon, where under the sea does SpongeBob SquarePants live inside a pineapple? (Ref #124)",
+    "question": "What animated superhero series followed teenage sidekicks Robin, Starfire, Cyborg, Raven, and Beast Boy living in a giant T-shaped tower?",
     "options": [
-      "Atlantis Reef",
-      "Coral Cove",
-      "Deep Trench Bay",
-      "Bikini Bottom"
+      "Young Justice",
+      "Teen Titans Go!",
+      "Legion of Superheroes",
+      "Teen Titans"
     ],
     "correctAnswer": 3,
-    "explanation": "SpongeBob lives with his pet snail Gary inside a two-story pineapple at 124 Conch Street in Bikini Bottom.",
+    "explanation": "Blending American action superheroics with expressive Japanese anime visual comedy, it featured Puffy AmiYumi's theme song.",
     "tags": [
       "cartoon-characters",
       "superhero-cartoons",
@@ -2604,64 +2604,64 @@
     "active": true
   },
   {
-    "id": "cartoon-characters-classic-cartoons-0125",
+    "id": "cartoon-characters-superhero-cartoons-0125",
     "category": "Cartoon Characters",
-    "subcategory": "Classic Cartoons",
+    "subcategory": "Superhero Cartoons",
     "difficulty": "medium",
-    "question": "Animation and cartoon trivia: What breed of dog is the cowardly, mystery-solving Hanna-Barbera cartoon canine Scooby-Doo? (Ref #125)",
+    "question": "What half-demon sorceress member of the Teen Titans is known for her telekinetic shadow magic and the incantation 'Azarath Metrion Zinthos'?",
     "options": [
-      "Great Dane",
-      "Bloodhound",
-      "Saint Bernard",
-      "Golden Retriever"
+      "Raven",
+      "Starfire",
+      "Terra",
+      "Jinx"
     ],
     "correctAnswer": 0,
-    "explanation": "Scooby-Doo was designed by Iwao Takamoto as a lovable, slightly clumsy Great Dane with a fondness for Scooby Snacks.",
+    "explanation": "Voiced by Tara Strong, Raven suppresses her dark emotions to prevent her demonic conqueror father Trigon from destroying Earth.",
     "tags": [
       "cartoon-characters",
-      "classic-cartoons",
+      "superhero-cartoons",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "cartoon-characters-disney-pixar-0126",
+    "id": "cartoon-characters-superhero-cartoons-0126",
     "category": "Cartoon Characters",
-    "subcategory": "Disney & Pixar",
+    "subcategory": "Superhero Cartoons",
     "difficulty": "hard",
-    "question": "Animation and cartoon trivia: What leafy canned vegetable does Popeye the Sailor Man consume to instantly acquire superhuman strength? (Ref #126)",
+    "question": "What tamaranian alien princess on the Teen Titans shoots bright green starbolts from her hands and struggles with English slang?",
     "options": [
-      "Kale",
-      "Spinach",
-      "Broccoli",
-      "Collard greens"
+      "Raven",
+      "Starfire (Koriand'r)",
+      "Terra",
+      "Blackfire"
     ],
     "correctAnswer": 1,
-    "explanation": "Popeye pops open a can of spinach whenever he needs sudden bursts of muscular strength to overcome Bluto.",
+    "explanation": "Voiced by Hynden Walch, Starfire's innocent optimism and affection for team leader Robin contrasted with her fierce warrior power.",
     "tags": [
       "cartoon-characters",
-      "disney-pixar",
+      "superhero-cartoons",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "cartoon-characters-modern-animation-0127",
+    "id": "cartoon-characters-superhero-cartoons-0127",
     "category": "Cartoon Characters",
-    "subcategory": "Modern Animation",
+    "subcategory": "Superhero Cartoons",
     "difficulty": "easy",
-    "question": "Animation and cartoon trivia: In which 1928 synchronized sound animated short film did Walt Disney's Mickey Mouse make his historic debut? (Ref #127)",
+    "question": "What green-skinned shapeshifter on the Teen Titans can instantly morph into any animal on Earth or alien worlds while maintaining his humor?",
     "options": [
-      "Plane Crazy",
-      "The Gallopin' Gaucho",
-      "Steamboat Willie",
-      "Fantasia"
+      "Cyborg",
+      "Robin",
+      "Beast Boy (Garfield Logan)",
+      "Chameleon"
     ],
     "correctAnswer": 2,
-    "explanation": "Steamboat Willie premiered in November 1928 as one of the first animated films with synchronized sound, launching Mickey Mouse.",
+    "explanation": "Voiced by Greg Cipes, Beast Boy's vegetarian jokes and playful relationship with dark, broody Raven anchored team comedy.",
     "tags": [
       "cartoon-characters",
-      "modern-animation",
+      "superhero-cartoons",
       "easy"
     ],
     "active": true
@@ -2671,15 +2671,15 @@
     "category": "Cartoon Characters",
     "subcategory": "Superhero Cartoons",
     "difficulty": "medium",
-    "question": "Animation and cartoon trivia: Which famous animated rabbit created by Warner Bros. is renowned for munching a carrot and asking 'What's up, doc?'? (Ref #128)",
+    "question": "What cybernetic half-human, half-machine member of the Teen Titans is a master mechanical engineer who shouts his victory catchphrase 'Booyah!'?",
     "options": [
-      "Roger Rabbit",
-      "Daffy Duck",
-      "Buster Bunny",
-      "Bugs Bunny"
+      "Robin",
+      "Beast Boy",
+      "Steel",
+      "Cyborg (Victor Stone)"
     ],
     "correctAnswer": 3,
-    "explanation": "Bugs Bunny made his official debut in 1940's A Wild Hare, voiced by the legendary Mel Blanc.",
+    "explanation": "Voiced by Khary Payton, Cyborg balances his cybernetic enhancements and sonic cannon arm with a love for fixing his T-Car.",
     "tags": [
       "cartoon-characters",
       "superhero-cartoons",
@@ -2688,64 +2688,64 @@
     "active": true
   },
   {
-    "id": "cartoon-characters-classic-cartoons-0129",
+    "id": "cartoon-characters-superhero-cartoons-0129",
     "category": "Cartoon Characters",
-    "subcategory": "Classic Cartoons",
+    "subcategory": "Superhero Cartoons",
     "difficulty": "hard",
-    "question": "Animation and cartoon trivia: In the animated series 'The Simpsons', what iconic pastry is Homer Simpson famously obsessed with eating? (Ref #129)",
+    "question": "What critically acclaimed DC animated series followed teenage proteges Robin, Aqualad, Kid Flash, Superboy, and Miss Martian running covert black ops missions?",
     "options": [
-      "Pink-frosted sprinkled donuts",
-      "Chocolate chip cookies",
-      "Apple strudel",
-      "Custard tarts"
+      "Young Justice",
+      "Teen Titans",
+      "Justice League",
+      "Avengers: Earth's Mightiest Heroes"
     ],
     "correctAnswer": 0,
-    "explanation": "Homer Simpson's catchphrase 'Mmm... donuts' and obsession with pink-glazed sprinkled donuts is a running comedy hallmark.",
+    "explanation": "Developed by Brandon Vietti and Greg Weisman, Young Justice was celebrated for mature serialized storytelling, time jumps, and strategic espionage.",
     "tags": [
       "cartoon-characters",
-      "classic-cartoons",
+      "superhero-cartoons",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "cartoon-characters-disney-pixar-0130",
+    "id": "cartoon-characters-superhero-cartoons-0130",
     "category": "Cartoon Characters",
-    "subcategory": "Disney & Pixar",
+    "subcategory": "Superhero Cartoons",
     "difficulty": "easy",
-    "question": "Animation and cartoon trivia: In Nickelodeon's beloved cartoon, where under the sea does SpongeBob SquarePants live inside a pineapple? (Ref #130)",
+    "question": "What clone of Superman and Lex Luthor in Young Justice struggles with anger and finding his own identity, wearing a black-and-red 'S' t-shirt?",
     "options": [
-      "Atlantis Reef",
-      "Bikini Bottom",
-      "Coral Cove",
-      "Deep Trench Bay"
+      "Bizarro",
+      "Superboy (Conner Kent / Project Kr)",
+      "Superman",
+      "Steel"
     ],
     "correctAnswer": 1,
-    "explanation": "SpongeBob lives with his pet snail Gary inside a two-story pineapple at 124 Conch Street in Bikini Bottom.",
+    "explanation": "Rescued from Cadmus Laboratories by Robin, Aqualad, and Kid Flash, Superboy forms a deep romance with telepathic Miss Martian.",
     "tags": [
       "cartoon-characters",
-      "disney-pixar",
+      "superhero-cartoons",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "cartoon-characters-modern-animation-0131",
+    "id": "cartoon-characters-superhero-cartoons-0131",
     "category": "Cartoon Characters",
-    "subcategory": "Modern Animation",
+    "subcategory": "Superhero Cartoons",
     "difficulty": "medium",
-    "question": "Animation and cartoon trivia: What breed of dog is the cowardly, mystery-solving Hanna-Barbera cartoon canine Scooby-Doo? (Ref #131)",
+    "question": "What Green Lantern in Justice League (DCAU), voiced by Phil LaMarr, served as a former US Marine alongside Hawkgirl?",
     "options": [
-      "Bloodhound",
-      "Saint Bernard",
-      "Great Dane",
-      "Golden Retriever"
+      "Hal Jordan",
+      "Guy Gardner",
+      "John Stewart",
+      "Kyle Rayner"
     ],
     "correctAnswer": 2,
-    "explanation": "Scooby-Doo was designed by Iwao Takamoto as a lovable, slightly clumsy Great Dane with a fondness for Scooby Snacks.",
+    "explanation": "John Stewart was chosen over Hal Jordan to provide representation, celebrated for his rigid military discipline and romance with Shayera Hol.",
     "tags": [
       "cartoon-characters",
-      "modern-animation",
+      "superhero-cartoons",
       "medium"
     ],
     "active": true
@@ -2755,15 +2755,15 @@
     "category": "Cartoon Characters",
     "subcategory": "Superhero Cartoons",
     "difficulty": "hard",
-    "question": "Animation and cartoon trivia: What leafy canned vegetable does Popeye the Sailor Man consume to instantly acquire superhuman strength? (Ref #132)",
+    "question": "What Thanagarian warrior in Justice League wields an Nth metal mace capable of disrupting magical energy and dispersing electromagnetic fields?",
     "options": [
-      "Kale",
-      "Broccoli",
-      "Collard greens",
-      "Spinach"
+      "Wonder Woman",
+      "Vixen",
+      "Black Canary",
+      "Hawkgirl (Shayera Hol)"
     ],
     "correctAnswer": 3,
-    "explanation": "Popeye pops open a can of spinach whenever he needs sudden bursts of muscular strength to overcome Bluto.",
+    "explanation": "Voiced by Maria Canals-Barrera, Hawkgirl's fierce loyalty was tested during the Thanagarian invasion finale, leading to heroic redemption.",
     "tags": [
       "cartoon-characters",
       "superhero-cartoons",
@@ -2772,64 +2772,64 @@
     "active": true
   },
   {
-    "id": "cartoon-characters-classic-cartoons-0133",
+    "id": "cartoon-characters-superhero-cartoons-0133",
     "category": "Cartoon Characters",
-    "subcategory": "Classic Cartoons",
+    "subcategory": "Superhero Cartoons",
     "difficulty": "easy",
-    "question": "Animation and cartoon trivia: In which 1928 synchronized sound animated short film did Walt Disney's Mickey Mouse make his historic debut? (Ref #133)",
+    "question": "What Marvel animated series, airing in 2010 on Disney XD, faithfully adapted foundational comic storylines from the Skrull invasion to Kang the Conqueror?",
     "options": [
-      "Steamboat Willie",
-      "Plane Crazy",
-      "The Gallopin' Gaucho",
-      "Fantasia"
+      "The Avengers: Earth's Mightiest Heroes",
+      "Avengers Assemble",
+      "Iron Man: Armored Adventures",
+      "Ultimate Spider-Man"
     ],
     "correctAnswer": 0,
-    "explanation": "Steamboat Willie premiered in November 1928 as one of the first animated films with synchronized sound, launching Mickey Mouse.",
+    "explanation": "Featuring an ensemble cast with Captain America, Thor, Iron Man, Hulk, Ant-Man, and Wasp, it captured classic Stan Lee and Jack Kirby comic books.",
     "tags": [
       "cartoon-characters",
-      "classic-cartoons",
+      "superhero-cartoons",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "cartoon-characters-disney-pixar-0134",
+    "id": "cartoon-characters-superhero-cartoons-0134",
     "category": "Cartoon Characters",
-    "subcategory": "Disney & Pixar",
+    "subcategory": "Superhero Cartoons",
     "difficulty": "medium",
-    "question": "Animation and cartoon trivia: Which famous animated rabbit created by Warner Bros. is renowned for munching a carrot and asking 'What's up, doc?'? (Ref #134)",
+    "question": "What mutant hero with retractable adamantium claws and healing factor was voiced with iconic guttural fury by Cal Dodd in X-Men: The Animated Series?",
     "options": [
-      "Roger Rabbit",
-      "Bugs Bunny",
-      "Daffy Duck",
-      "Buster Bunny"
+      "Sabretooth",
+      "Wolverine (Logan)",
+      "Colossus",
+      "Beast"
     ],
     "correctAnswer": 1,
-    "explanation": "Bugs Bunny made his official debut in 1940's A Wild Hare, voiced by the legendary Mel Blanc.",
+    "explanation": "Wolverine's slicing of Sentinel robots and love triangle with Jean Grey and Cyclops made him the breakout superstar of 1990s animated television.",
     "tags": [
       "cartoon-characters",
-      "disney-pixar",
+      "superhero-cartoons",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "cartoon-characters-modern-animation-0135",
+    "id": "cartoon-characters-superhero-cartoons-0135",
     "category": "Cartoon Characters",
-    "subcategory": "Modern Animation",
+    "subcategory": "Superhero Cartoons",
     "difficulty": "hard",
-    "question": "Animation and cartoon trivia: In the animated series 'The Simpsons', what iconic pastry is Homer Simpson famously obsessed with eating? (Ref #135)",
+    "question": "What telekinetic and telepathic mutant hero in X-Men: The Animated Series possessed the universe-shattering cosmic power of the Phoenix?",
     "options": [
-      "Chocolate chip cookies",
-      "Apple strudel",
-      "Pink-frosted sprinkled donuts",
-      "Custard tarts"
+      "Storm",
+      "Rogue",
+      "Jean Grey",
+      "Emma Frost"
     ],
     "correctAnswer": 2,
-    "explanation": "Homer Simpson's catchphrase 'Mmm... donuts' and obsession with pink-glazed sprinkled donuts is a running comedy hallmark.",
+    "explanation": "The multi-episode Dark Phoenix Saga remains one of the most faithful animated adaptations of classic comic book tragedy.",
     "tags": [
       "cartoon-characters",
-      "modern-animation",
+      "superhero-cartoons",
       "hard"
     ],
     "active": true
@@ -2839,15 +2839,15 @@
     "category": "Cartoon Characters",
     "subcategory": "Superhero Cartoons",
     "difficulty": "easy",
-    "question": "Animation and cartoon trivia: In Nickelodeon's beloved cartoon, where under the sea does SpongeBob SquarePants live inside a pineapple? (Ref #136)",
+    "question": "What southern belle mutant in X-Men: The Animated Series can absorb the memories, powers, and life energy of anyone she touches skin-to-skin?",
     "options": [
-      "Atlantis Reef",
-      "Coral Cove",
-      "Deep Trench Bay",
-      "Bikini Bottom"
+      "Storm",
+      "Jubilee",
+      "Psylocke",
+      "Rogue"
     ],
     "correctAnswer": 3,
-    "explanation": "SpongeBob lives with his pet snail Gary inside a two-story pineapple at 124 Conch Street in Bikini Bottom.",
+    "explanation": "Voiced by Lenore Zann with a thick southern drawl, Rogue flew with superhuman strength absorbed from Ms. Marvel, calling everyone 'Sugar.'",
     "tags": [
       "cartoon-characters",
       "superhero-cartoons",
@@ -2856,64 +2856,64 @@
     "active": true
   },
   {
-    "id": "cartoon-characters-classic-cartoons-0137",
+    "id": "cartoon-characters-superhero-cartoons-0137",
     "category": "Cartoon Characters",
-    "subcategory": "Classic Cartoons",
+    "subcategory": "Superhero Cartoons",
     "difficulty": "medium",
-    "question": "Animation and cartoon trivia: What breed of dog is the cowardly, mystery-solving Hanna-Barbera cartoon canine Scooby-Doo? (Ref #137)",
+    "question": "What mutant master of magnetism and Holocaust survivor serves as the complex, philosophical foil to Professor Xavier in X-Men?",
     "options": [
-      "Great Dane",
-      "Bloodhound",
-      "Saint Bernard",
-      "Golden Retriever"
+      "Magneto (Erik Lehnsherr)",
+      "Apocalypse",
+      "Mister Sinister",
+      "Juggernaut"
     ],
     "correctAnswer": 0,
-    "explanation": "Scooby-Doo was designed by Iwao Takamoto as a lovable, slightly clumsy Great Dane with a fondness for Scooby Snacks.",
+    "explanation": "Voiced by David Hemblen, Magneto fights fiercely for mutant survival, arguing that peaceful coexistence with fearful humanity is an impossible dream.",
     "tags": [
       "cartoon-characters",
-      "classic-cartoons",
+      "superhero-cartoons",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "cartoon-characters-disney-pixar-0138",
+    "id": "cartoon-characters-superhero-cartoons-0138",
     "category": "Cartoon Characters",
-    "subcategory": "Disney & Pixar",
+    "subcategory": "Superhero Cartoons",
     "difficulty": "hard",
-    "question": "Animation and cartoon trivia: What leafy canned vegetable does Popeye the Sailor Man consume to instantly acquire superhuman strength? (Ref #138)",
+    "question": "What 1990s animated Superman series, created by Bruce Timm and Alan Burnett, introduced Tim Daly as the Man of Steel in Metropolis?",
     "options": [
-      "Kale",
-      "Spinach",
-      "Broccoli",
-      "Collard greens"
+      "The New Batman/Superman Adventures",
+      "Superman: The Animated Series",
+      "Legion of Super Heroes",
+      "Justice League"
     ],
     "correctAnswer": 1,
-    "explanation": "Popeye pops open a can of spinach whenever he needs sudden bursts of muscular strength to overcome Bluto.",
+    "explanation": "Featuring art-deco 'Oceanic' architecture, it balanced Clark Kent's Kansas roots at the Daily Planet with cosmic threats from Darkseid.",
     "tags": [
       "cartoon-characters",
-      "disney-pixar",
+      "superhero-cartoons",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "cartoon-characters-modern-animation-0139",
+    "id": "cartoon-characters-superhero-cartoons-0139",
     "category": "Cartoon Characters",
-    "subcategory": "Modern Animation",
+    "subcategory": "Superhero Cartoons",
     "difficulty": "easy",
-    "question": "Animation and cartoon trivia: In which 1928 synchronized sound animated short film did Walt Disney's Mickey Mouse make his historic debut? (Ref #139)",
+    "question": "What tyrannical alien despot of Apokolips, voiced with chilling bass authority by Michael Ironside, was the supreme villain of the DCAU?",
     "options": [
-      "Plane Crazy",
-      "The Gallopin' Gaucho",
-      "Steamboat Willie",
-      "Fantasia"
+      "Brainiac",
+      "Mongul",
+      "Darkseid",
+      "Doomsday"
     ],
     "correctAnswer": 2,
-    "explanation": "Steamboat Willie premiered in November 1928 as one of the first animated films with synchronized sound, launching Mickey Mouse.",
+    "explanation": "Darkseid seeks the Anti-Life Equation to extinguish all free will across the universe, breaking Superman's spirit in the finale 'Legacy.'",
     "tags": [
       "cartoon-characters",
-      "modern-animation",
+      "superhero-cartoons",
       "easy"
     ],
     "active": true
@@ -2923,15 +2923,15 @@
     "category": "Cartoon Characters",
     "subcategory": "Superhero Cartoons",
     "difficulty": "medium",
-    "question": "Animation and cartoon trivia: Which famous animated rabbit created by Warner Bros. is renowned for munching a carrot and asking 'What's up, doc?'? (Ref #140)",
+    "question": "What cold, calculating alien artificial intelligence in Superman: The Animated Series shrinks and absorbs planetary knowledge before destroying them?",
     "options": [
-      "Roger Rabbit",
-      "Daffy Duck",
-      "Buster Bunny",
-      "Bugs Bunny"
+      "Darkseid",
+      "Metallo",
+      "Parasite",
+      "Brainiac"
     ],
     "correctAnswer": 3,
-    "explanation": "Bugs Bunny made his official debut in 1940's A Wild Hare, voiced by the legendary Mel Blanc.",
+    "explanation": "Reimagined as a Kryptonian planetary supercomputer who kept Krypton's destruction secret to preserve its own data, voiced by Corey Burton.",
     "tags": [
       "cartoon-characters",
       "superhero-cartoons",
@@ -2940,64 +2940,64 @@
     "active": true
   },
   {
-    "id": "cartoon-characters-classic-cartoons-0141",
+    "id": "cartoon-characters-superhero-cartoons-0141",
     "category": "Cartoon Characters",
-    "subcategory": "Classic Cartoons",
+    "subcategory": "Superhero Cartoons",
     "difficulty": "hard",
-    "question": "Animation and cartoon trivia: In the animated series 'The Simpsons', what iconic pastry is Homer Simpson famously obsessed with eating? (Ref #141)",
+    "question": "What billionaire industrialist and archenemy of Superman, voiced by Clancy Brown in the DCAU, views Superman as an existential threat to humanity?",
     "options": [
-      "Pink-frosted sprinkled donuts",
-      "Chocolate chip cookies",
-      "Apple strudel",
-      "Custard tarts"
+      "Lex Luthor",
+      "Brainiac",
+      "Metallo",
+      "Bizarro"
     ],
     "correctAnswer": 0,
-    "explanation": "Homer Simpson's catchphrase 'Mmm... donuts' and obsession with pink-glazed sprinkled donuts is a running comedy hallmark.",
+    "explanation": "Bald, wealthy, and brilliant, Luthor uses legal loopholes and Warsuit armor to wage corporate and technological war against the Man of Steel.",
     "tags": [
       "cartoon-characters",
-      "classic-cartoons",
+      "superhero-cartoons",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "cartoon-characters-disney-pixar-0142",
+    "id": "cartoon-characters-superhero-cartoons-0142",
     "category": "Cartoon Characters",
-    "subcategory": "Disney & Pixar",
+    "subcategory": "Superhero Cartoons",
     "difficulty": "easy",
-    "question": "Animation and cartoon trivia: In Nickelodeon's beloved cartoon, where under the sea does SpongeBob SquarePants live inside a pineapple? (Ref #142)",
+    "question": "What 1994 animated Disney superhero series, created by Greg Weisman, followed ancient winged stone warriors awakening in modern Manhattan?",
     "options": [
-      "Atlantis Reef",
-      "Bikini Bottom",
-      "Coral Cove",
-      "Deep Trench Bay"
+      "Darkwing Duck",
+      "Gargoyles",
+      "X-Men",
+      "Mighty Ducks"
     ],
     "correctAnswer": 1,
-    "explanation": "SpongeBob lives with his pet snail Gary inside a two-story pineapple at 124 Conch Street in Bikini Bottom.",
+    "explanation": "Goliath and his clan turned to stone by day and protected New York City by night, featuring mature Shakespearean themes and Jonathan Frakes.",
     "tags": [
       "cartoon-characters",
-      "disney-pixar",
+      "superhero-cartoons",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "cartoon-characters-modern-animation-0143",
+    "id": "cartoon-characters-superhero-cartoons-0143",
     "category": "Cartoon Characters",
-    "subcategory": "Modern Animation",
+    "subcategory": "Superhero Cartoons",
     "difficulty": "medium",
-    "question": "Animation and cartoon trivia: What breed of dog is the cowardly, mystery-solving Hanna-Barbera cartoon canine Scooby-Doo? (Ref #143)",
+    "question": "What leader of the Manhattan Clan of Gargoyles, voiced by Keith David, embodies honor, nobility, and fierce protection of his clan?",
     "options": [
-      "Bloodhound",
-      "Saint Bernard",
-      "Great Dane",
-      "Golden Retriever"
+      "Brooklyn",
+      "Broadway",
+      "Goliath",
+      "Lexington"
     ],
     "correctAnswer": 2,
-    "explanation": "Scooby-Doo was designed by Iwao Takamoto as a lovable, slightly clumsy Great Dane with a fondness for Scooby Snacks.",
+    "explanation": "Named after the biblical giant, Goliath formed an alliance with NYPD detective Elisa Maza against billionaire David Xanatos.",
     "tags": [
       "cartoon-characters",
-      "modern-animation",
+      "superhero-cartoons",
       "medium"
     ],
     "active": true
@@ -3007,15 +3007,15 @@
     "category": "Cartoon Characters",
     "subcategory": "Superhero Cartoons",
     "difficulty": "hard",
-    "question": "Animation and cartoon trivia: What leafy canned vegetable does Popeye the Sailor Man consume to instantly acquire superhuman strength? (Ref #144)",
+    "question": "What purple-caped, mallard superhero in St. Canard fights crime with a gas gun, proclaiming 'I am the terror that flaps in the night'?",
     "options": [
-      "Kale",
-      "Broccoli",
-      "Collard greens",
-      "Spinach"
+      "DuckTales",
+      "Gizmoduck",
+      "Howard the Duck",
+      "Darkwing Duck (Drake Mallard)"
     ],
     "correctAnswer": 3,
-    "explanation": "Popeye pops open a can of spinach whenever he needs sudden bursts of muscular strength to overcome Bluto.",
+    "explanation": "Voiced by Jim Cummings, Darkwing balanced bumbling theatrical ego with genuine heroics, assisted by sidekick Launchpad McQuack.",
     "tags": [
       "cartoon-characters",
       "superhero-cartoons",
@@ -3024,64 +3024,64 @@
     "active": true
   },
   {
-    "id": "cartoon-characters-classic-cartoons-0145",
+    "id": "cartoon-characters-superhero-cartoons-0145",
     "category": "Cartoon Characters",
-    "subcategory": "Classic Cartoons",
+    "subcategory": "Superhero Cartoons",
     "difficulty": "easy",
-    "question": "Animation and cartoon trivia: In which 1928 synchronized sound animated short film did Walt Disney's Mickey Mouse make his historic debut? (Ref #145)",
+    "question": "What robotic superhero alter ego of accountant Fenton Crackshell in DuckTales and Darkwing Duck is activated by the phrase 'Blathering Blatherskite!'?",
     "options": [
-      "Steamboat Willie",
-      "Plane Crazy",
-      "The Gallopin' Gaucho",
-      "Fantasia"
+      "Gizmoduck",
+      "Darkwing Duck",
+      "Mega Duck",
+      "Iron Duck"
     ],
     "correctAnswer": 0,
-    "explanation": "Steamboat Willie premiered in November 1928 as one of the first animated films with synchronized sound, launching Mickey Mouse.",
+    "explanation": "Gizmoduck balances on a single high-speed wheel, wielding an arsenal of gadgets built into his white cybernetic armor suit.",
     "tags": [
       "cartoon-characters",
-      "classic-cartoons",
+      "superhero-cartoons",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "cartoon-characters-disney-pixar-0146",
+    "id": "cartoon-characters-superhero-cartoons-0146",
     "category": "Cartoon Characters",
-    "subcategory": "Disney & Pixar",
+    "subcategory": "Superhero Cartoons",
     "difficulty": "medium",
-    "question": "Animation and cartoon trivia: Which famous animated rabbit created by Warner Bros. is renowned for munching a carrot and asking 'What's up, doc?'? (Ref #146)",
+    "question": "What 2018 Oscar-winning animated superhero film featured Afro-Latino teenager Miles Morales learning to become Spider-Man alongside Peter B. Parker?",
     "options": [
-      "Roger Rabbit",
-      "Bugs Bunny",
-      "Daffy Duck",
-      "Buster Bunny"
+      "Spider-Man: Across the Spider-Verse",
+      "Spider-Man: Into the Spider-Verse",
+      "Big Hero 6",
+      "The Incredibles 2"
     ],
     "correctAnswer": 1,
-    "explanation": "Bugs Bunny made his official debut in 1940's A Wild Hare, voiced by the legendary Mel Blanc.",
+    "explanation": "Shameik Moore voiced Miles Morales, who learns to take a 'leap of faith' to defeat Kingpin, set to Post Malone's hit 'Sunflower.'",
     "tags": [
       "cartoon-characters",
-      "disney-pixar",
+      "superhero-cartoons",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "cartoon-characters-modern-animation-0147",
+    "id": "cartoon-characters-superhero-cartoons-0147",
     "category": "Cartoon Characters",
-    "subcategory": "Modern Animation",
+    "subcategory": "Superhero Cartoons",
     "difficulty": "hard",
-    "question": "Animation and cartoon trivia: In the animated series 'The Simpsons', what iconic pastry is Homer Simpson famously obsessed with eating? (Ref #147)",
+    "question": "What punk-rock, guitar-playing alternate-universe Spider-Man in Across the Spider-Verse is animated with chaotic cutout collage textures?",
     "options": [
-      "Chocolate chip cookies",
-      "Apple strudel",
-      "Pink-frosted sprinkled donuts",
-      "Custard tarts"
+      "Spider-Man 2099",
+      "Spider-Man Noir",
+      "Hobart 'Hobie' Brown (Spider-Punk)",
+      "Pavitr Prabhakar"
     ],
     "correctAnswer": 2,
-    "explanation": "Homer Simpson's catchphrase 'Mmm... donuts' and obsession with pink-glazed sprinkled donuts is a running comedy hallmark.",
+    "explanation": "Voiced by Daniel Kaluuya with an electric London punk accent, Spider-Punk actively resists fascist authority and corporate copyright.",
     "tags": [
       "cartoon-characters",
-      "modern-animation",
+      "superhero-cartoons",
       "hard"
     ],
     "active": true
@@ -3091,15 +3091,15 @@
     "category": "Cartoon Characters",
     "subcategory": "Superhero Cartoons",
     "difficulty": "easy",
-    "question": "Animation and cartoon trivia: In Nickelodeon's beloved cartoon, where under the sea does SpongeBob SquarePants live inside a pineapple? (Ref #148)",
+    "question": "What futuristic, serious leader of the Spider-Society, Miguel O'Hara, fights to preserve canon events across the multiverse in Across the Spider-Verse?",
     "options": [
-      "Atlantis Reef",
-      "Coral Cove",
-      "Deep Trench Bay",
-      "Bikini Bottom"
+      "Miles Morales",
+      "Peter B. Parker",
+      "Ben Reilly",
+      "Spider-Man 2099"
     ],
     "correctAnswer": 3,
-    "explanation": "SpongeBob lives with his pet snail Gary inside a two-story pineapple at 124 Conch Street in Bikini Bottom.",
+    "explanation": "Voiced by Oscar Isaac, Miguel operates out of futuristic Nueva York with red laser webs and vampire fangs, clashing with Miles over destiny.",
     "tags": [
       "cartoon-characters",
       "superhero-cartoons",
@@ -3108,43 +3108,43 @@
     "active": true
   },
   {
-    "id": "cartoon-characters-classic-cartoons-0149",
+    "id": "cartoon-characters-superhero-cartoons-0149",
     "category": "Cartoon Characters",
-    "subcategory": "Classic Cartoons",
+    "subcategory": "Superhero Cartoons",
     "difficulty": "medium",
-    "question": "Animation and cartoon trivia: What breed of dog is the cowardly, mystery-solving Hanna-Barbera cartoon canine Scooby-Doo? (Ref #149)",
+    "question": "What animated superhero comedy parody series on Cartoon Network features chibi-style Robin, Beast Boy, and Starfire engaging in absurd, fourth-wall antics?",
     "options": [
-      "Great Dane",
-      "Bloodhound",
-      "Saint Bernard",
-      "Golden Retriever"
+      "Teen Titans Go!",
+      "Teen Titans",
+      "Young Justice",
+      "Justice League Action"
     ],
     "correctAnswer": 0,
-    "explanation": "Scooby-Doo was designed by Iwao Takamoto as a lovable, slightly clumsy Great Dane with a fondness for Scooby Snacks.",
+    "explanation": "Airing over 400 episodes, Teen Titans Go! mocks comic book fan purity with catchy songs like 'The Night Begins to Shine.'",
     "tags": [
       "cartoon-characters",
-      "classic-cartoons",
+      "superhero-cartoons",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "cartoon-characters-disney-pixar-0150",
+    "id": "cartoon-characters-superhero-cartoons-0150",
     "category": "Cartoon Characters",
-    "subcategory": "Disney & Pixar",
+    "subcategory": "Superhero Cartoons",
     "difficulty": "hard",
-    "question": "Animation and cartoon trivia: What leafy canned vegetable does Popeye the Sailor Man consume to instantly acquire superhuman strength? (Ref #150)",
+    "question": "What 2024 Marvel Studios animated revival continued the iconic 1990s mutant storyline with modern animation and high-stakes drama?",
     "options": [
-      "Kale",
-      "Spinach",
-      "Broccoli",
-      "Collard greens"
+      "X-Men: Evolution",
+      "X-Men '97",
+      "Wolverine and the X-Men",
+      "Marvel Zombies"
     ],
     "correctAnswer": 1,
-    "explanation": "Popeye pops open a can of spinach whenever he needs sudden bursts of muscular strength to overcome Bluto.",
+    "explanation": "Directly continuing the 1997 series finale, X-Men '97 won massive acclaim for mature themes, tragedy at Genosha, and Magneto leading the team.",
     "tags": [
       "cartoon-characters",
-      "disney-pixar",
+      "superhero-cartoons",
       "hard"
     ],
     "active": true

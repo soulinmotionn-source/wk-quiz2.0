@@ -4,15 +4,15 @@
     "category": "Science",
     "subcategory": "Cell Biology",
     "difficulty": "easy",
-    "question": "Scientific concepts: Which cellular organelle is universally referred to as the 'powerhouse of the cell' for generating ATP? (Ref #1)",
+    "question": "What organelle is known as the 'powerhouse of the cell' for generating ATP through oxidative phosphorylation?",
     "options": [
-      "Mitochondria",
-      "Ribosome",
+      "Mitochondrion",
       "Golgi apparatus",
-      "Endoplasmic reticulum"
+      "Endoplasmic reticulum",
+      "Lysosome"
     ],
     "correctAnswer": 0,
-    "explanation": "Mitochondria generate the majority of cellular adenosine triphosphate (ATP) through oxidative phosphorylation.",
+    "explanation": "Mitochondria produce cellular adenosine triphosphate (ATP) via the Krebs cycle and electron transport chain.",
     "tags": [
       "science",
       "cell-biology",
@@ -21,64 +21,64 @@
     "active": true
   },
   {
-    "id": "science-chemistry-0002",
+    "id": "science-cell-biology-0002",
     "category": "Science",
-    "subcategory": "Chemistry",
+    "subcategory": "Cell Biology",
     "difficulty": "medium",
-    "question": "Scientific concepts: What biological process enables green plants to convert sunlight, carbon dioxide, and water into glucose and oxygen? (Ref #2)",
+    "question": "What double-membrane organelle contains the cell's primary genetic material (chromatin/DNA)?",
     "options": [
-      "Cellular respiration",
-      "Photosynthesis",
-      "Fermentation",
-      "Transpiration"
+      "The Nucleolus",
+      "The Nucleus",
+      "The Ribosome",
+      "The Centrosome"
     ],
     "correctAnswer": 1,
-    "explanation": "Photosynthesis utilizes chlorophyll in chloroplasts to capture photon energy and synthesize sugar molecules.",
+    "explanation": "The nucleus houses genomic DNA and coordinates transcription, replication, and gene expression.",
     "tags": [
       "science",
-      "chemistry",
+      "cell-biology",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "science-physics-0003",
+    "id": "science-cell-biology-0003",
     "category": "Science",
-    "subcategory": "Physics",
+    "subcategory": "Cell Biology",
     "difficulty": "hard",
-    "question": "Scientific concepts: What is the chemical element symbol for Gold on the periodic table? (Ref #3)",
+    "question": "What non-membrane organelle inside the nucleus is the primary site of ribosomal RNA (rRNA) synthesis and ribosome biogenesis?",
     "options": [
-      "Ag",
-      "Fe",
-      "Au (from Latin Aurum)",
-      "Pt"
+      "The Centriole",
+      "The Peroxisome",
+      "The Nucleolus",
+      "The Kinetochore"
     ],
     "correctAnswer": 2,
-    "explanation": "Gold has the chemical symbol Au, derived from its Latin name 'aurum', meaning shining dawn.",
+    "explanation": "The nucleolus transcribes rRNA genes and assembles precursor ribosomal subunits.",
     "tags": [
       "science",
-      "physics",
+      "cell-biology",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "science-earth-astronomy-0004",
+    "id": "science-cell-biology-0004",
     "category": "Science",
-    "subcategory": "Earth & Astronomy",
+    "subcategory": "Cell Biology",
     "difficulty": "easy",
-    "question": "Scientific concepts: According to Newton's First Law of Motion, what does an object at rest tend to do unless acted upon by a net external force? (Ref #4)",
+    "question": "Which cellular organelles are the molecular factories responsible for protein translation from messenger RNA?",
     "options": [
-      "Accelerate continuously",
-      "Decompose into smaller particles",
-      "Reverse its trajectory",
-      "Remain at rest (Law of Inertia)"
+      "Lysosomes",
+      "Peroxisomes",
+      "Vacuoles",
+      "Ribosomes"
     ],
     "correctAnswer": 3,
-    "explanation": "Newton's first law states that an object at rest remains at rest, and an object in motion continues at constant velocity unless acted upon by a net force.",
+    "explanation": "Ribosomes consist of large and small subunits composed of ribosomal proteins and catalytic rRNA.",
     "tags": [
       "science",
-      "earth-astronomy",
+      "cell-biology",
       "easy"
     ],
     "active": true
@@ -88,15 +88,15 @@
     "category": "Science",
     "subcategory": "Cell Biology",
     "difficulty": "medium",
-    "question": "Scientific concepts: Which planet is positioned closest to the Sun in our Solar System? (Ref #5)",
+    "question": "Which membrane-bound organelle is studded with ribosomes and synthesizes proteins destined for membranes or secretion?",
     "options": [
-      "Mercury",
-      "Venus",
-      "Mars",
-      "Earth"
+      "Rough Endoplasmic Reticulum (RER)",
+      "Smooth Endoplasmic Reticulum",
+      "Golgi apparatus",
+      "Proteasome"
     ],
     "correctAnswer": 0,
-    "explanation": "Mercury is the innermost and smallest planet in the Solar System, orbiting the Sun every 88 Earth days.",
+    "explanation": "The rough ER processes and folds nascent polypeptide chains synthesized by membrane-bound ribosomes.",
     "tags": [
       "science",
       "cell-biology",
@@ -105,64 +105,64 @@
     "active": true
   },
   {
-    "id": "science-chemistry-0006",
+    "id": "science-cell-biology-0006",
     "category": "Science",
-    "subcategory": "Chemistry",
+    "subcategory": "Cell Biology",
     "difficulty": "hard",
-    "question": "Scientific concepts: What is the pH value of pure neutral distilled water at 25 degrees Celsius? (Ref #6)",
+    "question": "Which organelle is responsible for lipid synthesis, steroid hormone production, and detoxification of xenobiotics and drugs?",
     "options": [
-      "pH 5.5",
-      "pH 7.0",
-      "pH 8.5",
-      "pH 0.0"
+      "Rough Endoplasmic Reticulum",
+      "Smooth Endoplasmic Reticulum (SER)",
+      "Lysosome",
+      "Centrosome"
     ],
     "correctAnswer": 1,
-    "explanation": "Pure water has an equal concentration of hydrogen (H+) and hydroxide (OH-) ions, resulting in a neutral pH of 7.0.",
+    "explanation": "The smooth ER synthesizes phospholipids and cholesterol and sequesters intracellular calcium ions in myocytes.",
     "tags": [
       "science",
-      "chemistry",
+      "cell-biology",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "science-physics-0007",
+    "id": "science-cell-biology-0007",
     "category": "Science",
-    "subcategory": "Physics",
+    "subcategory": "Cell Biology",
     "difficulty": "easy",
-    "question": "Scientific concepts: Which cellular organelle is universally referred to as the 'powerhouse of the cell' for generating ATP? (Ref #7)",
+    "question": "Which organelle functions as the 'post office' of the cell, modifying, sorting, and packaging proteins into vesicles?",
     "options": [
-      "Ribosome",
-      "Golgi apparatus",
-      "Mitochondria",
-      "Endoplasmic reticulum"
+      "The Endosome",
+      "The Lysosome",
+      "The Golgi Apparatus",
+      "The Vacuole"
     ],
     "correctAnswer": 2,
-    "explanation": "Mitochondria generate the majority of cellular adenosine triphosphate (ATP) through oxidative phosphorylation.",
+    "explanation": "Cis, medial, and trans cisternae of the Golgi carry out glycosylation and target vesicles to cellular destinations.",
     "tags": [
       "science",
-      "physics",
+      "cell-biology",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "science-earth-astronomy-0008",
+    "id": "science-cell-biology-0008",
     "category": "Science",
-    "subcategory": "Earth & Astronomy",
+    "subcategory": "Cell Biology",
     "difficulty": "medium",
-    "question": "Scientific concepts: What biological process enables green plants to convert sunlight, carbon dioxide, and water into glucose and oxygen? (Ref #8)",
+    "question": "Which acidic digestive organelle contains acid hydrolase enzymes that degrade cellular waste, worn-out organelles, and debris?",
     "options": [
-      "Cellular respiration",
-      "Fermentation",
-      "Transpiration",
-      "Photosynthesis"
+      "The Peroxisome",
+      "The Proteasome",
+      "The Phagosome",
+      "The Lysosome"
     ],
     "correctAnswer": 3,
-    "explanation": "Photosynthesis utilizes chlorophyll in chloroplasts to capture photon energy and synthesize sugar molecules.",
+    "explanation": "Lysosomes maintain a lumen pH of ~4.5 to 5.0 via proton pumps, digesting macromolecules through autophagy.",
     "tags": [
       "science",
-      "earth-astronomy",
+      "cell-biology",
       "medium"
     ],
     "active": true
@@ -172,15 +172,15 @@
     "category": "Science",
     "subcategory": "Cell Biology",
     "difficulty": "hard",
-    "question": "Scientific concepts: What is the chemical element symbol for Gold on the periodic table? (Ref #9)",
+    "question": "Which oxidative organelle contains catalase and oxidase enzymes that break down very-long-chain fatty acids and detoxify hydrogen peroxide?",
     "options": [
-      "Au (from Latin Aurum)",
-      "Ag",
-      "Fe",
-      "Pt"
+      "The Peroxisome",
+      "The Lysosome",
+      "The Mitochondrion",
+      "The Glyoxysome"
     ],
     "correctAnswer": 0,
-    "explanation": "Gold has the chemical symbol Au, derived from its Latin name 'aurum', meaning shining dawn.",
+    "explanation": "Peroxisomes beta-oxidize fatty acids and use catalase to convert toxic hydrogen peroxide into water and oxygen.",
     "tags": [
       "science",
       "cell-biology",
@@ -189,64 +189,64 @@
     "active": true
   },
   {
-    "id": "science-chemistry-0010",
+    "id": "science-cell-biology-0010",
     "category": "Science",
-    "subcategory": "Chemistry",
+    "subcategory": "Cell Biology",
     "difficulty": "easy",
-    "question": "Scientific concepts: According to Newton's First Law of Motion, what does an object at rest tend to do unless acted upon by a net external force? (Ref #10)",
+    "question": "What fundamental macromolecular framework composed of microfilaments, intermediate filaments, and microtubules maintains cell shape and internal transport?",
     "options": [
-      "Accelerate continuously",
-      "Remain at rest (Law of Inertia)",
-      "Decompose into smaller particles",
-      "Reverse its trajectory"
+      "The Extracellular Matrix",
+      "The Cytoskeleton",
+      "The Cell Wall",
+      "The Cytoplasm"
     ],
     "correctAnswer": 1,
-    "explanation": "Newton's first law states that an object at rest remains at rest, and an object in motion continues at constant velocity unless acted upon by a net force.",
+    "explanation": "The cytoskeleton provides structural tension, anchors organelles, and facilitates kinesin/dynein motor transport.",
     "tags": [
       "science",
-      "chemistry",
+      "cell-biology",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "science-physics-0011",
+    "id": "science-cell-biology-0011",
     "category": "Science",
-    "subcategory": "Physics",
+    "subcategory": "Cell Biology",
     "difficulty": "medium",
-    "question": "Scientific concepts: Which planet is positioned closest to the Sun in our Solar System? (Ref #11)",
+    "question": "What cytoskeletal protein polymerizes to form microfilaments responsible for cellular motility, cytokinesis, and muscle contraction?",
     "options": [
-      "Venus",
-      "Mars",
-      "Mercury",
-      "Earth"
+      "Tubulin",
+      "Keratin",
+      "Actin",
+      "Vimentin"
     ],
     "correctAnswer": 2,
-    "explanation": "Mercury is the innermost and smallest planet in the Solar System, orbiting the Sun every 88 Earth days.",
+    "explanation": "Globular G-actin polymerizes into double-helical filamentous F-actin, interacting with myosin motors.",
     "tags": [
       "science",
-      "physics",
+      "cell-biology",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "science-earth-astronomy-0012",
+    "id": "science-cell-biology-0012",
     "category": "Science",
-    "subcategory": "Earth & Astronomy",
+    "subcategory": "Cell Biology",
     "difficulty": "hard",
-    "question": "Scientific concepts: What is the pH value of pure neutral distilled water at 25 degrees Celsius? (Ref #12)",
+    "question": "What globular heterodimer protein polymerizes to form hollow, cylindrical microtubules essential for mitotic spindles and vesicular transport?",
     "options": [
-      "pH 5.5",
-      "pH 8.5",
-      "pH 0.0",
-      "pH 7.0"
+      "Actin",
+      "Myosin",
+      "Lamin",
+      "Tubulin (alpha and beta tubulin)"
     ],
     "correctAnswer": 3,
-    "explanation": "Pure water has an equal concentration of hydrogen (H+) and hydroxide (OH-) ions, resulting in a neutral pH of 7.0.",
+    "explanation": "Tubulin heterodimers assemble into 13 protofilaments forming a 25 nm microtubule cylinder with structural polarity.",
     "tags": [
       "science",
-      "earth-astronomy",
+      "cell-biology",
       "hard"
     ],
     "active": true
@@ -256,15 +256,15 @@
     "category": "Science",
     "subcategory": "Cell Biology",
     "difficulty": "easy",
-    "question": "Scientific concepts: Which cellular organelle is universally referred to as the 'powerhouse of the cell' for generating ATP? (Ref #13)",
+    "question": "What is the primary lipid component of the eukaryotic cell membrane bilayer?",
     "options": [
-      "Mitochondria",
-      "Ribosome",
-      "Golgi apparatus",
-      "Endoplasmic reticulum"
+      "Phospholipids (amphipathic phosphoglycerides)",
+      "Triacylglycerols",
+      "Cholesterol only",
+      "Sphingolipids only"
     ],
     "correctAnswer": 0,
-    "explanation": "Mitochondria generate the majority of cellular adenosine triphosphate (ATP) through oxidative phosphorylation.",
+    "explanation": "Phospholipids possess hydrophilic phosphate heads and hydrophobic hydrocarbon tails that form a self-sealing bilayer.",
     "tags": [
       "science",
       "cell-biology",
@@ -273,64 +273,64 @@
     "active": true
   },
   {
-    "id": "science-chemistry-0014",
+    "id": "science-cell-biology-0014",
     "category": "Science",
-    "subcategory": "Chemistry",
+    "subcategory": "Cell Biology",
     "difficulty": "medium",
-    "question": "Scientific concepts: What biological process enables green plants to convert sunlight, carbon dioxide, and water into glucose and oxygen? (Ref #14)",
+    "question": "What lipid molecule intercalates within eukaryotic cell membranes to modulate membrane fluidity across temperature fluctuations?",
     "options": [
-      "Cellular respiration",
-      "Photosynthesis",
-      "Fermentation",
-      "Transpiration"
+      "Triglyceride",
+      "Cholesterol",
+      "Glycogen",
+      "Phosphatidylserine"
     ],
     "correctAnswer": 1,
-    "explanation": "Photosynthesis utilizes chlorophyll in chloroplasts to capture photon energy and synthesize sugar molecules.",
+    "explanation": "Cholesterol prevents phospholipid fatty acid crystallization at low temperatures and restricts excess fluidity at high temperatures.",
     "tags": [
       "science",
-      "chemistry",
+      "cell-biology",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "science-physics-0015",
+    "id": "science-cell-biology-0015",
     "category": "Science",
-    "subcategory": "Physics",
+    "subcategory": "Cell Biology",
     "difficulty": "hard",
-    "question": "Scientific concepts: What is the chemical element symbol for Gold on the periodic table? (Ref #15)",
+    "question": "What passive transport process describes the net movement of water molecules across a semipermeable membrane from low solute to high solute concentration?",
     "options": [
-      "Ag",
-      "Fe",
-      "Au (from Latin Aurum)",
-      "Pt"
+      "Simple diffusion",
+      "Facilitated diffusion",
+      "Osmosis",
+      "Active transport"
     ],
     "correctAnswer": 2,
-    "explanation": "Gold has the chemical symbol Au, derived from its Latin name 'aurum', meaning shining dawn.",
+    "explanation": "Osmosis equalizes solute concentrations across cell membranes through specialized aquaporin water channels.",
     "tags": [
       "science",
-      "physics",
+      "cell-biology",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "science-earth-astronomy-0016",
+    "id": "science-cell-biology-0016",
     "category": "Science",
-    "subcategory": "Earth & Astronomy",
+    "subcategory": "Cell Biology",
     "difficulty": "easy",
-    "question": "Scientific concepts: According to Newton's First Law of Motion, what does an object at rest tend to do unless acted upon by a net external force? (Ref #16)",
+    "question": "What type of extracellular solution has a higher solute concentration than the cell interior, causing water to exit and the cell to crenate/shrink?",
     "options": [
-      "Accelerate continuously",
-      "Decompose into smaller particles",
-      "Reverse its trajectory",
-      "Remain at rest (Law of Inertia)"
+      "Hypotonic solution",
+      "Isotonic solution",
+      "Iso-osmotic solution",
+      "Hypertonic solution"
     ],
     "correctAnswer": 3,
-    "explanation": "Newton's first law states that an object at rest remains at rest, and an object in motion continues at constant velocity unless acted upon by a net force.",
+    "explanation": "Hypertonic environments exert osmotic pressure that draws water out of cells, causing cellular dehydration.",
     "tags": [
       "science",
-      "earth-astronomy",
+      "cell-biology",
       "easy"
     ],
     "active": true
@@ -340,15 +340,15 @@
     "category": "Science",
     "subcategory": "Cell Biology",
     "difficulty": "medium",
-    "question": "Scientific concepts: Which planet is positioned closest to the Sun in our Solar System? (Ref #17)",
+    "question": "What type of solution has a lower solute concentration than the cell interior, causing water to enter and potentially burst (lyse) animal cells?",
     "options": [
-      "Mercury",
-      "Venus",
-      "Mars",
-      "Earth"
+      "Hypotonic solution",
+      "Hypertonic solution",
+      "Isotonic solution",
+      "Colloidal solution"
     ],
     "correctAnswer": 0,
-    "explanation": "Mercury is the innermost and smallest planet in the Solar System, orbiting the Sun every 88 Earth days.",
+    "explanation": "In hypotonic solutions, net water influx swells animal cells; plant cells resist lysis due to rigid cellulose cell walls.",
     "tags": [
       "science",
       "cell-biology",
@@ -357,64 +357,64 @@
     "active": true
   },
   {
-    "id": "science-chemistry-0018",
+    "id": "science-cell-biology-0018",
     "category": "Science",
-    "subcategory": "Chemistry",
+    "subcategory": "Cell Biology",
     "difficulty": "hard",
-    "question": "Scientific concepts: What is the pH value of pure neutral distilled water at 25 degrees Celsius? (Ref #18)",
+    "question": "What primary active transport pump utilizes ATP hydrolysis to export 3 sodium ions while importing 2 potassium ions across the plasma membrane?",
     "options": [
-      "pH 5.5",
-      "pH 7.0",
-      "pH 8.5",
-      "pH 0.0"
+      "The Calcium-ATPase (SERCA)",
+      "The Sodium-Potassium Pump (Na+/K+-ATPase)",
+      "The Proton-Potassium Pump",
+      "The Sodium-Glucose Cotransporter"
     ],
     "correctAnswer": 1,
-    "explanation": "Pure water has an equal concentration of hydrogen (H+) and hydroxide (OH-) ions, resulting in a neutral pH of 7.0.",
+    "explanation": "The Na+/K+-ATPase establishes resting membrane potential and maintains osmotic cellular volume.",
     "tags": [
       "science",
-      "chemistry",
+      "cell-biology",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "science-physics-0019",
+    "id": "science-cell-biology-0019",
     "category": "Science",
-    "subcategory": "Physics",
+    "subcategory": "Cell Biology",
     "difficulty": "easy",
-    "question": "Scientific concepts: Which cellular organelle is universally referred to as the 'powerhouse of the cell' for generating ATP? (Ref #19)",
+    "question": "What cellular process describes the bulk engulfment and ingestion of large particles, cellular debris, or microorganisms by specialized cells like macrophages?",
     "options": [
-      "Ribosome",
-      "Golgi apparatus",
-      "Mitochondria",
-      "Endoplasmic reticulum"
+      "Pinocytosis",
+      "Receptor-mediated endocytosis",
+      "Phagocytosis",
+      "Exocytosis"
     ],
     "correctAnswer": 2,
-    "explanation": "Mitochondria generate the majority of cellular adenosine triphosphate (ATP) through oxidative phosphorylation.",
+    "explanation": "Phagocytosis ('cell eating') wraps plasma membrane pseudopodia around targets, forming an internal phagosome.",
     "tags": [
       "science",
-      "physics",
+      "cell-biology",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "science-earth-astronomy-0020",
+    "id": "science-cell-biology-0020",
     "category": "Science",
-    "subcategory": "Earth & Astronomy",
+    "subcategory": "Cell Biology",
     "difficulty": "medium",
-    "question": "Scientific concepts: What biological process enables green plants to convert sunlight, carbon dioxide, and water into glucose and oxygen? (Ref #20)",
+    "question": "What endocytic mechanism describes the non-specific fluid-phase uptake of extracellular liquid and dissolved solutes ('cell drinking')?",
     "options": [
-      "Cellular respiration",
-      "Fermentation",
-      "Transpiration",
-      "Photosynthesis"
+      "Phagocytosis",
+      "Exocytosis",
+      "Transcytosis",
+      "Pinocytosis"
     ],
     "correctAnswer": 3,
-    "explanation": "Photosynthesis utilizes chlorophyll in chloroplasts to capture photon energy and synthesize sugar molecules.",
+    "explanation": "Pinocytosis invaginates small plasma membrane vesicles to ingest extracellular fluid droplets.",
     "tags": [
       "science",
-      "earth-astronomy",
+      "cell-biology",
       "medium"
     ],
     "active": true
@@ -424,15 +424,15 @@
     "category": "Science",
     "subcategory": "Cell Biology",
     "difficulty": "hard",
-    "question": "Scientific concepts: What is the chemical element symbol for Gold on the periodic table? (Ref #21)",
+    "question": "What phase of the eukaryotic cell cycle is dedicated to DNA replication and synthesis?",
     "options": [
-      "Au (from Latin Aurum)",
-      "Ag",
-      "Fe",
-      "Pt"
+      "S Phase (Synthesis Phase)",
+      "G1 Phase",
+      "G2 Phase",
+      "M Phase"
     ],
     "correctAnswer": 0,
-    "explanation": "Gold has the chemical symbol Au, derived from its Latin name 'aurum', meaning shining dawn.",
+    "explanation": "During S phase, nuclear DNA content duplicates from 2n to 4n, generating identical sister chromatids.",
     "tags": [
       "science",
       "cell-biology",
@@ -441,64 +441,64 @@
     "active": true
   },
   {
-    "id": "science-chemistry-0022",
+    "id": "science-cell-biology-0022",
     "category": "Science",
-    "subcategory": "Chemistry",
+    "subcategory": "Cell Biology",
     "difficulty": "easy",
-    "question": "Scientific concepts: According to Newton's First Law of Motion, what does an object at rest tend to do unless acted upon by a net external force? (Ref #22)",
+    "question": "In what stage of mitosis do sister chromatids align along the equatorial plane (equator) of the cell?",
     "options": [
-      "Accelerate continuously",
-      "Remain at rest (Law of Inertia)",
-      "Decompose into smaller particles",
-      "Reverse its trajectory"
+      "Prophase",
+      "Metaphase",
+      "Anaphase",
+      "Telophase"
     ],
     "correctAnswer": 1,
-    "explanation": "Newton's first law states that an object at rest remains at rest, and an object in motion continues at constant velocity unless acted upon by a net force.",
+    "explanation": "Spindle microtubules attach to kinetochores, exerting opposing tension that aligns chromosomes at the metaphase plate.",
     "tags": [
       "science",
-      "chemistry",
+      "cell-biology",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "science-physics-0023",
+    "id": "science-cell-biology-0023",
     "category": "Science",
-    "subcategory": "Physics",
+    "subcategory": "Cell Biology",
     "difficulty": "medium",
-    "question": "Scientific concepts: Which planet is positioned closest to the Sun in our Solar System? (Ref #23)",
+    "question": "In what stage of mitosis do sister chromatids synchronously separate and move toward opposite spindle poles?",
     "options": [
-      "Venus",
-      "Mars",
-      "Mercury",
-      "Earth"
+      "Metaphase",
+      "Telophase",
+      "Anaphase",
+      "Prometaphase"
     ],
     "correctAnswer": 2,
-    "explanation": "Mercury is the innermost and smallest planet in the Solar System, orbiting the Sun every 88 Earth days.",
+    "explanation": "Cohesin complexes are cleaved by separase, allowing spindle fibers to pull separated sister chromosomes to opposite poles.",
     "tags": [
       "science",
-      "physics",
+      "cell-biology",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "science-earth-astronomy-0024",
+    "id": "science-cell-biology-0024",
     "category": "Science",
-    "subcategory": "Earth & Astronomy",
+    "subcategory": "Cell Biology",
     "difficulty": "hard",
-    "question": "Scientific concepts: What is the pH value of pure neutral distilled water at 25 degrees Celsius? (Ref #24)",
+    "question": "What process describes the physical division of the cytoplasm into two daughter cells following mitosis?",
     "options": [
-      "pH 5.5",
-      "pH 8.5",
-      "pH 0.0",
-      "pH 7.0"
+      "Karyokinesis",
+      "Interphase",
+      "Apoptosis",
+      "Cytokinesis"
     ],
     "correctAnswer": 3,
-    "explanation": "Pure water has an equal concentration of hydrogen (H+) and hydroxide (OH-) ions, resulting in a neutral pH of 7.0.",
+    "explanation": "Animal cells form an actin-myosin contractile cleavage furrow; plant cells assemble a pectin cell plate.",
     "tags": [
       "science",
-      "earth-astronomy",
+      "cell-biology",
       "hard"
     ],
     "active": true
@@ -508,15 +508,15 @@
     "category": "Science",
     "subcategory": "Cell Biology",
     "difficulty": "easy",
-    "question": "Scientific concepts: Which cellular organelle is universally referred to as the 'powerhouse of the cell' for generating ATP? (Ref #25)",
+    "question": "What specialized cell division reduces chromosome number by half, producing four genetically distinct haploid gametes?",
     "options": [
-      "Mitochondria",
-      "Ribosome",
-      "Golgi apparatus",
-      "Endoplasmic reticulum"
+      "Meiosis",
+      "Mitosis",
+      "Binary fission",
+      "Budding"
     ],
     "correctAnswer": 0,
-    "explanation": "Mitochondria generate the majority of cellular adenosine triphosphate (ATP) through oxidative phosphorylation.",
+    "explanation": "Meiosis involves one round of DNA replication followed by two nuclear divisions (Meiosis I and Meiosis II).",
     "tags": [
       "science",
       "cell-biology",
@@ -525,64 +525,64 @@
     "active": true
   },
   {
-    "id": "science-chemistry-0026",
+    "id": "science-cell-biology-0026",
     "category": "Science",
-    "subcategory": "Chemistry",
+    "subcategory": "Cell Biology",
     "difficulty": "medium",
-    "question": "Scientific concepts: What biological process enables green plants to convert sunlight, carbon dioxide, and water into glucose and oxygen? (Ref #26)",
+    "question": "In which sub-stage of Meiotic Prophase I does genetic homologous recombination (crossing over) take place?",
     "options": [
-      "Cellular respiration",
-      "Photosynthesis",
-      "Fermentation",
-      "Transpiration"
+      "Leptotene",
+      "Pachytene",
+      "Zygotene",
+      "Diplotene"
     ],
     "correctAnswer": 1,
-    "explanation": "Photosynthesis utilizes chlorophyll in chloroplasts to capture photon energy and synthesize sugar molecules.",
+    "explanation": "Non-sister chromatids of homologous pairs exchange genetic material at chiasmata during the pachytene stage.",
     "tags": [
       "science",
-      "chemistry",
+      "cell-biology",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "science-physics-0027",
+    "id": "science-cell-biology-0027",
     "category": "Science",
-    "subcategory": "Physics",
+    "subcategory": "Cell Biology",
     "difficulty": "hard",
-    "question": "Scientific concepts: What is the chemical element symbol for Gold on the periodic table? (Ref #27)",
+    "question": "What programmed, non-inflammatory process of physiological cellular self-destruction is known as 'cell suicide'?",
     "options": [
-      "Ag",
-      "Fe",
-      "Au (from Latin Aurum)",
-      "Pt"
+      "Necrosis",
+      "Autolysis",
+      "Apoptosis",
+      "Pyknosis"
     ],
     "correctAnswer": 2,
-    "explanation": "Gold has the chemical symbol Au, derived from its Latin name 'aurum', meaning shining dawn.",
+    "explanation": "Apoptosis involves caspase activation, chromatin condensation, DNA fragmentation, and phagocytosis without inflammation.",
     "tags": [
       "science",
-      "physics",
+      "cell-biology",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "science-earth-astronomy-0028",
+    "id": "science-cell-biology-0028",
     "category": "Science",
-    "subcategory": "Earth & Astronomy",
+    "subcategory": "Cell Biology",
     "difficulty": "easy",
-    "question": "Scientific concepts: According to Newton's First Law of Motion, what does an object at rest tend to do unless acted upon by a net external force? (Ref #28)",
+    "question": "What pathological, unprogrammed form of cellular death occurs in response to severe acute trauma, ischemia, or toxins, causing cell swelling and membrane rupture?",
     "options": [
-      "Accelerate continuously",
-      "Decompose into smaller particles",
-      "Reverse its trajectory",
-      "Remain at rest (Law of Inertia)"
+      "Apoptosis",
+      "Autophagy",
+      "Senescence",
+      "Necrosis"
     ],
     "correctAnswer": 3,
-    "explanation": "Newton's first law states that an object at rest remains at rest, and an object in motion continues at constant velocity unless acted upon by a net force.",
+    "explanation": "Necrosis releases intracellular contents into surrounding tissue, provoking an acute inflammatory response.",
     "tags": [
       "science",
-      "earth-astronomy",
+      "cell-biology",
       "easy"
     ],
     "active": true
@@ -592,15 +592,15 @@
     "category": "Science",
     "subcategory": "Cell Biology",
     "difficulty": "medium",
-    "question": "Scientific concepts: Which planet is positioned closest to the Sun in our Solar System? (Ref #29)",
+    "question": "What metabolic pathway in the cytoplasm breaks down one molecule of glucose into two molecules of pyruvate, generating net 2 ATP and 2 NADH?",
     "options": [
-      "Mercury",
-      "Venus",
-      "Mars",
-      "Earth"
+      "Glycolysis",
+      "The Citric Acid Cycle",
+      "The Electron Transport Chain",
+      "Gluconeogenesis"
     ],
     "correctAnswer": 0,
-    "explanation": "Mercury is the innermost and smallest planet in the Solar System, orbiting the Sun every 88 Earth days.",
+    "explanation": "Glycolysis is an anaerobic 10-step enzymatic sequence operating in the cytosol of nearly all living cells.",
     "tags": [
       "science",
       "cell-biology",
@@ -609,64 +609,64 @@
     "active": true
   },
   {
-    "id": "science-chemistry-0030",
+    "id": "science-cell-biology-0030",
     "category": "Science",
-    "subcategory": "Chemistry",
+    "subcategory": "Cell Biology",
     "difficulty": "hard",
-    "question": "Scientific concepts: What is the pH value of pure neutral distilled water at 25 degrees Celsius? (Ref #30)",
+    "question": "Where in eukaryotic cells does the Citric Acid Cycle (Krebs Cycle / TCA Cycle) take place?",
     "options": [
-      "pH 5.5",
-      "pH 7.0",
-      "pH 8.5",
-      "pH 0.0"
+      "The Mitochondrial Intermembrane Space",
+      "The Mitochondrial Matrix",
+      "The Cytoplasm",
+      "The Endoplasmic Reticulum"
     ],
     "correctAnswer": 1,
-    "explanation": "Pure water has an equal concentration of hydrogen (H+) and hydroxide (OH-) ions, resulting in a neutral pH of 7.0.",
+    "explanation": "Pyruvate enters mitochondria and is converted to Acetyl-CoA, which enters the Krebs cycle in the central matrix.",
     "tags": [
       "science",
-      "chemistry",
+      "cell-biology",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "science-physics-0031",
+    "id": "science-cell-biology-0031",
     "category": "Science",
-    "subcategory": "Physics",
+    "subcategory": "Cell Biology",
     "difficulty": "easy",
-    "question": "Scientific concepts: Which cellular organelle is universally referred to as the 'powerhouse of the cell' for generating ATP? (Ref #31)",
+    "question": "Where across the eukaryotic cell are the protein complexes of the Electron Transport Chain (ETC) and ATP Synthase embedded?",
     "options": [
-      "Ribosome",
-      "Golgi apparatus",
-      "Mitochondria",
-      "Endoplasmic reticulum"
+      "The Outer Mitochondrial Membrane",
+      "The Nuclear Envelope",
+      "The Inner Mitochondrial Membrane (cristae)",
+      "The Plasma Membrane"
     ],
     "correctAnswer": 2,
-    "explanation": "Mitochondria generate the majority of cellular adenosine triphosphate (ATP) through oxidative phosphorylation.",
+    "explanation": "The folded inner mitochondrial membrane maintains a high proton gradient across cristae to drive ATP synthase.",
     "tags": [
       "science",
-      "physics",
+      "cell-biology",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "science-earth-astronomy-0032",
+    "id": "science-cell-biology-0032",
     "category": "Science",
-    "subcategory": "Earth & Astronomy",
+    "subcategory": "Cell Biology",
     "difficulty": "medium",
-    "question": "Scientific concepts: What biological process enables green plants to convert sunlight, carbon dioxide, and water into glucose and oxygen? (Ref #32)",
+    "question": "What is the final terminal electron acceptor in the mitochondrial electron transport chain during aerobic cellular respiration?",
     "options": [
-      "Cellular respiration",
-      "Fermentation",
-      "Transpiration",
-      "Photosynthesis"
+      "Water (H2O)",
+      "Carbon Dioxide (CO2)",
+      "NAD+",
+      "Molecular Oxygen (O2)"
     ],
     "correctAnswer": 3,
-    "explanation": "Photosynthesis utilizes chlorophyll in chloroplasts to capture photon energy and synthesize sugar molecules.",
+    "explanation": "Oxygen accepts electrons and protons at Cytochrome c Oxidase (Complex IV), reducing to form metabolic water.",
     "tags": [
       "science",
-      "earth-astronomy",
+      "cell-biology",
       "medium"
     ],
     "active": true
@@ -676,15 +676,15 @@
     "category": "Science",
     "subcategory": "Cell Biology",
     "difficulty": "hard",
-    "question": "Scientific concepts: What is the chemical element symbol for Gold on the periodic table? (Ref #33)",
+    "question": "What enzyme complex uses the proton-motive force across the inner mitochondrial membrane to synthesize ATP from ADP and inorganic phosphate?",
     "options": [
-      "Au (from Latin Aurum)",
-      "Ag",
-      "Fe",
-      "Pt"
+      "ATP Synthase (Complex V / F0F1-ATPase)",
+      "Cytochrome c Oxidase",
+      "NADH Dehydrogenase",
+      "Succinate Dehydrogenase"
     ],
     "correctAnswer": 0,
-    "explanation": "Gold has the chemical symbol Au, derived from its Latin name 'aurum', meaning shining dawn.",
+    "explanation": "Proton flow through the F0 channel drives rotational conformational changes in the F1 catalytic head, generating ATP.",
     "tags": [
       "science",
       "cell-biology",
@@ -693,64 +693,64 @@
     "active": true
   },
   {
-    "id": "science-chemistry-0034",
+    "id": "science-cell-biology-0034",
     "category": "Science",
-    "subcategory": "Chemistry",
+    "subcategory": "Cell Biology",
     "difficulty": "easy",
-    "question": "Scientific concepts: According to Newton's First Law of Motion, what does an object at rest tend to do unless acted upon by a net external force? (Ref #34)",
+    "question": "What anaerobic process regenerates NAD+ from NADH in the absence of oxygen to allow glycolysis to continue producing ATP?",
     "options": [
-      "Accelerate continuously",
-      "Remain at rest (Law of Inertia)",
-      "Decompose into smaller particles",
-      "Reverse its trajectory"
+      "Oxidative Phosphorylation",
+      "Fermentation (Lactic Acid or Alcoholic Fermentation)",
+      "Beta-Oxidation",
+      "The Urea Cycle"
     ],
     "correctAnswer": 1,
-    "explanation": "Newton's first law states that an object at rest remains at rest, and an object in motion continues at constant velocity unless acted upon by a net force.",
+    "explanation": "Lactate dehydrogenase reduces pyruvate to lactate, regenerating NAD+ required by glyceraldehyde 3-phosphate dehydrogenase.",
     "tags": [
       "science",
-      "chemistry",
+      "cell-biology",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "science-physics-0035",
+    "id": "science-cell-biology-0035",
     "category": "Science",
-    "subcategory": "Physics",
+    "subcategory": "Cell Biology",
     "difficulty": "medium",
-    "question": "Scientific concepts: Which planet is positioned closest to the Sun in our Solar System? (Ref #35)",
+    "question": "What nitrogenous purine base pairs with Thymine in DNA via two hydrogen bonds?",
     "options": [
-      "Venus",
-      "Mars",
-      "Mercury",
-      "Earth"
+      "Guanine",
+      "Cytosine",
+      "Adenine",
+      "Uracil"
     ],
     "correctAnswer": 2,
-    "explanation": "Mercury is the innermost and smallest planet in the Solar System, orbiting the Sun every 88 Earth days.",
+    "explanation": "In the Watson-Crick double helix, Adenine (A) always pairs with Thymine (T) in DNA, or Uracil (U) in RNA.",
     "tags": [
       "science",
-      "physics",
+      "cell-biology",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "science-earth-astronomy-0036",
+    "id": "science-cell-biology-0036",
     "category": "Science",
-    "subcategory": "Earth & Astronomy",
+    "subcategory": "Cell Biology",
     "difficulty": "hard",
-    "question": "Scientific concepts: What is the pH value of pure neutral distilled water at 25 degrees Celsius? (Ref #36)",
+    "question": "What nitrogenous purine base pairs with Cytosine in DNA via three hydrogen bonds?",
     "options": [
-      "pH 5.5",
-      "pH 8.5",
-      "pH 0.0",
-      "pH 7.0"
+      "Adenine",
+      "Thymine",
+      "Uracil",
+      "Guanine"
     ],
     "correctAnswer": 3,
-    "explanation": "Pure water has an equal concentration of hydrogen (H+) and hydroxide (OH-) ions, resulting in a neutral pH of 7.0.",
+    "explanation": "Guanine (G) forms three hydrogen bonds with Cytosine (C), making GC-rich DNA regions thermally more stable.",
     "tags": [
       "science",
-      "earth-astronomy",
+      "cell-biology",
       "hard"
     ],
     "active": true
@@ -760,15 +760,15 @@
     "category": "Science",
     "subcategory": "Cell Biology",
     "difficulty": "easy",
-    "question": "Scientific concepts: Which cellular organelle is universally referred to as the 'powerhouse of the cell' for generating ATP? (Ref #37)",
+    "question": "What enzyme unwinds and separates the double-stranded DNA helix at the replication fork during DNA synthesis?",
     "options": [
-      "Mitochondria",
-      "Ribosome",
-      "Golgi apparatus",
-      "Endoplasmic reticulum"
+      "DNA Helicase",
+      "DNA Polymerase",
+      "DNA Ligase",
+      "Topoisomerase (Gyrase)"
     ],
     "correctAnswer": 0,
-    "explanation": "Mitochondria generate the majority of cellular adenosine triphosphate (ATP) through oxidative phosphorylation.",
+    "explanation": "Helicase hydrolyzes ATP to break hydrogen bonds holding base pairs together, opening the replication bubble.",
     "tags": [
       "science",
       "cell-biology",
@@ -777,85 +777,85 @@
     "active": true
   },
   {
-    "id": "science-chemistry-0038",
+    "id": "science-cell-biology-0038",
     "category": "Science",
-    "subcategory": "Chemistry",
+    "subcategory": "Cell Biology",
     "difficulty": "medium",
-    "question": "Scientific concepts: What biological process enables green plants to convert sunlight, carbon dioxide, and water into glucose and oxygen? (Ref #38)",
+    "question": "What primary enzyme synthesizes new complementary DNA strands in the 5' to 3' direction using a template strand?",
     "options": [
-      "Cellular respiration",
-      "Photosynthesis",
-      "Fermentation",
-      "Transpiration"
+      "RNA Polymerase",
+      "DNA Polymerase (e.g., DNA Pol III in prokaryotes)",
+      "DNA Ligase",
+      "Primase"
     ],
     "correctAnswer": 1,
-    "explanation": "Photosynthesis utilizes chlorophyll in chloroplasts to capture photon energy and synthesize sugar molecules.",
+    "explanation": "DNA polymerase adds deoxynucleotide triphosphates to the 3'-OH end of an existing primer strand.",
     "tags": [
       "science",
-      "chemistry",
+      "cell-biology",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "science-physics-0039",
+    "id": "science-cell-biology-0039",
     "category": "Science",
-    "subcategory": "Physics",
+    "subcategory": "Cell Biology",
     "difficulty": "hard",
-    "question": "Scientific concepts: What is the chemical element symbol for Gold on the periodic table? (Ref #39)",
+    "question": "What short segments of DNA are synthesized discontinuously on the lagging strand during DNA replication?",
     "options": [
-      "Ag",
-      "Fe",
-      "Au (from Latin Aurum)",
-      "Pt"
+      "Promoters",
+      "Introns",
+      "Okazaki fragments",
+      "Exons"
     ],
     "correctAnswer": 2,
-    "explanation": "Gold has the chemical symbol Au, derived from its Latin name 'aurum', meaning shining dawn.",
+    "explanation": "Discontinuous 5' to 3' synthesis on the lagging strand produces Okazaki fragments, joined together by DNA ligase.",
     "tags": [
       "science",
-      "physics",
+      "cell-biology",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "science-earth-astronomy-0040",
+    "id": "science-cell-biology-0040",
     "category": "Science",
-    "subcategory": "Earth & Astronomy",
+    "subcategory": "Cell Biology",
     "difficulty": "easy",
-    "question": "Scientific concepts: According to Newton's First Law of Motion, what does an object at rest tend to do unless acted upon by a net external force? (Ref #40)",
+    "question": "What enzyme seals nicks in the phosphodiester backbone by joining Okazaki fragments on the lagging strand?",
     "options": [
-      "Accelerate continuously",
-      "Decompose into smaller particles",
-      "Reverse its trajectory",
-      "Remain at rest (Law of Inertia)"
+      "DNA Polymerase I",
+      "Helicase",
+      "Primase",
+      "DNA Ligase"
     ],
     "correctAnswer": 3,
-    "explanation": "Newton's first law states that an object at rest remains at rest, and an object in motion continues at constant velocity unless acted upon by a net force.",
+    "explanation": "DNA ligase catalyzes phosphodiester bond formation between adjacent 3'-hydroxyl and 5'-phosphate ends.",
     "tags": [
       "science",
-      "earth-astronomy",
+      "cell-biology",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "science-cell-biology-0041",
+    "id": "science-chemistry-0041",
     "category": "Science",
-    "subcategory": "Cell Biology",
+    "subcategory": "Chemistry",
     "difficulty": "medium",
-    "question": "Scientific concepts: Which planet is positioned closest to the Sun in our Solar System? (Ref #41)",
+    "question": "What is the fundamental positively charged subatomic particle located within the atomic nucleus?",
     "options": [
-      "Mercury",
-      "Venus",
-      "Mars",
-      "Earth"
+      "Proton",
+      "Neutron",
+      "Electron",
+      "Positron"
     ],
     "correctAnswer": 0,
-    "explanation": "Mercury is the innermost and smallest planet in the Solar System, orbiting the Sun every 88 Earth days.",
+    "explanation": "Protons have a +1 elementary electrical charge; the number of protons defines an element's atomic number.",
     "tags": [
       "science",
-      "cell-biology",
+      "chemistry",
       "medium"
     ],
     "active": true
@@ -865,15 +865,15 @@
     "category": "Science",
     "subcategory": "Chemistry",
     "difficulty": "hard",
-    "question": "Scientific concepts: What is the pH value of pure neutral distilled water at 25 degrees Celsius? (Ref #42)",
+    "question": "What electrically neutral subatomic particle resides within the nucleus of all atoms except standard hydrogen (protium)?",
     "options": [
-      "pH 5.5",
-      "pH 7.0",
-      "pH 8.5",
-      "pH 0.0"
+      "Proton",
+      "Neutron",
+      "Electron",
+      "Neutrino"
     ],
     "correctAnswer": 1,
-    "explanation": "Pure water has an equal concentration of hydrogen (H+) and hydroxide (OH-) ions, resulting in a neutral pH of 7.0.",
+    "explanation": "Discovered by James Chadwick in 1932, neutrons stabilize atomic nuclei via the strong nuclear force.",
     "tags": [
       "science",
       "chemistry",
@@ -882,64 +882,64 @@
     "active": true
   },
   {
-    "id": "science-physics-0043",
+    "id": "science-chemistry-0043",
     "category": "Science",
-    "subcategory": "Physics",
+    "subcategory": "Chemistry",
     "difficulty": "easy",
-    "question": "Scientific concepts: Which cellular organelle is universally referred to as the 'powerhouse of the cell' for generating ATP? (Ref #43)",
+    "question": "What negatively charged subatomic particle orbits the atomic nucleus within quantized electron shells and orbitals?",
     "options": [
-      "Ribosome",
-      "Golgi apparatus",
-      "Mitochondria",
-      "Endoplasmic reticulum"
+      "Proton",
+      "Neutron",
+      "Electron",
+      "Positron"
     ],
     "correctAnswer": 2,
-    "explanation": "Mitochondria generate the majority of cellular adenosine triphosphate (ATP) through oxidative phosphorylation.",
+    "explanation": "Electrons have a -1 elementary charge and a tiny mass (1/1836th of a proton), governing chemical bonding.",
     "tags": [
       "science",
-      "physics",
+      "chemistry",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "science-earth-astronomy-0044",
+    "id": "science-chemistry-0044",
     "category": "Science",
-    "subcategory": "Earth & Astronomy",
+    "subcategory": "Chemistry",
     "difficulty": "medium",
-    "question": "Scientific concepts: What biological process enables green plants to convert sunlight, carbon dioxide, and water into glucose and oxygen? (Ref #44)",
+    "question": "What scientific term describes atoms of the exact same chemical element that have identical proton numbers but different numbers of neutrons?",
     "options": [
-      "Cellular respiration",
-      "Fermentation",
-      "Transpiration",
-      "Photosynthesis"
+      "Allotropes",
+      "Isomers",
+      "Isobars",
+      "Isotopes"
     ],
     "correctAnswer": 3,
-    "explanation": "Photosynthesis utilizes chlorophyll in chloroplasts to capture photon energy and synthesize sugar molecules.",
+    "explanation": "Isotopes (e.g., Carbon-12 and Carbon-14) exhibit identical chemical reactivity but different atomic masses and nuclear stability.",
     "tags": [
       "science",
-      "earth-astronomy",
+      "chemistry",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "science-cell-biology-0045",
+    "id": "science-chemistry-0045",
     "category": "Science",
-    "subcategory": "Cell Biology",
+    "subcategory": "Chemistry",
     "difficulty": "hard",
-    "question": "Scientific concepts: What is the chemical element symbol for Gold on the periodic table? (Ref #45)",
+    "question": "What horizontal rows on the Periodic Table of the Elements indicate the number of electron shells an atom possesses?",
     "options": [
-      "Au (from Latin Aurum)",
-      "Ag",
-      "Fe",
-      "Pt"
+      "Periods",
+      "Groups",
+      "Families",
+      "Blocks"
     ],
     "correctAnswer": 0,
-    "explanation": "Gold has the chemical symbol Au, derived from its Latin name 'aurum', meaning shining dawn.",
+    "explanation": "The modern periodic table contains seven horizontal periods corresponding to principal energy levels (n=1 to 7).",
     "tags": [
       "science",
-      "cell-biology",
+      "chemistry",
       "hard"
     ],
     "active": true
@@ -949,15 +949,15 @@
     "category": "Science",
     "subcategory": "Chemistry",
     "difficulty": "easy",
-    "question": "Scientific concepts: According to Newton's First Law of Motion, what does an object at rest tend to do unless acted upon by a net external force? (Ref #46)",
+    "question": "What vertical columns on the Periodic Table contain elements that share identical valence electron configurations and similar chemical reactivity?",
     "options": [
-      "Accelerate continuously",
-      "Remain at rest (Law of Inertia)",
-      "Decompose into smaller particles",
-      "Reverse its trajectory"
+      "Periods",
+      "Groups (or Families)",
+      "Series",
+      "Blocks"
     ],
     "correctAnswer": 1,
-    "explanation": "Newton's first law states that an object at rest remains at rest, and an object in motion continues at constant velocity unless acted upon by a net force.",
+    "explanation": "Elements in Group 1 (alkali metals) or Group 17 (halogens) exhibit periodic chemical trends down their column.",
     "tags": [
       "science",
       "chemistry",
@@ -966,64 +966,64 @@
     "active": true
   },
   {
-    "id": "science-physics-0047",
+    "id": "science-chemistry-0047",
     "category": "Science",
-    "subcategory": "Physics",
+    "subcategory": "Chemistry",
     "difficulty": "medium",
-    "question": "Scientific concepts: Which planet is positioned closest to the Sun in our Solar System? (Ref #47)",
+    "question": "Which group of chemical elements in Group 18 of the Periodic Table possess full valence electron shells and are virtually inert?",
     "options": [
-      "Venus",
-      "Mars",
-      "Mercury",
-      "Earth"
+      "Alkali Metals",
+      "Halogens",
+      "Noble Gases (Inert Gases)",
+      "Alkaline Earth Metals"
     ],
     "correctAnswer": 2,
-    "explanation": "Mercury is the innermost and smallest planet in the Solar System, orbiting the Sun every 88 Earth days.",
+    "explanation": "Helium, neon, argon, krypton, xenon, and radon have complete outer electron octets, exhibiting near-zero chemical reactivity.",
     "tags": [
       "science",
-      "physics",
+      "chemistry",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "science-earth-astronomy-0048",
+    "id": "science-chemistry-0048",
     "category": "Science",
-    "subcategory": "Earth & Astronomy",
+    "subcategory": "Chemistry",
     "difficulty": "hard",
-    "question": "Scientific concepts: What is the pH value of pure neutral distilled water at 25 degrees Celsius? (Ref #48)",
+    "question": "What chemical bond forms when one atom transfers one or more valence electrons entirely to another atom, creating electrostatic attraction between ions?",
     "options": [
-      "pH 5.5",
-      "pH 8.5",
-      "pH 0.0",
-      "pH 7.0"
+      "Covalent Bond",
+      "Metallic Bond",
+      "Hydrogen Bond",
+      "Ionic Bond"
     ],
     "correctAnswer": 3,
-    "explanation": "Pure water has an equal concentration of hydrogen (H+) and hydroxide (OH-) ions, resulting in a neutral pH of 7.0.",
+    "explanation": "Ionic bonds form between metals of low electronegativity and non-metals of high electronegativity (e.g., NaCl).",
     "tags": [
       "science",
-      "earth-astronomy",
+      "chemistry",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "science-cell-biology-0049",
+    "id": "science-chemistry-0049",
     "category": "Science",
-    "subcategory": "Cell Biology",
+    "subcategory": "Chemistry",
     "difficulty": "easy",
-    "question": "Scientific concepts: Which cellular organelle is universally referred to as the 'powerhouse of the cell' for generating ATP? (Ref #49)",
+    "question": "What chemical bond forms when two non-metal atoms share one or more pairs of valence electrons to achieve stable electron configurations?",
     "options": [
-      "Mitochondria",
-      "Ribosome",
-      "Golgi apparatus",
-      "Endoplasmic reticulum"
+      "Covalent Bond",
+      "Ionic Bond",
+      "Metallic Bond",
+      "Dipole-Dipole Bond"
     ],
     "correctAnswer": 0,
-    "explanation": "Mitochondria generate the majority of cellular adenosine triphosphate (ATP) through oxidative phosphorylation.",
+    "explanation": "Covalent bonds form molecules like H2O and CO2, sharing electrons between atoms with similar electronegativities.",
     "tags": [
       "science",
-      "cell-biology",
+      "chemistry",
       "easy"
     ],
     "active": true
@@ -1033,15 +1033,15 @@
     "category": "Science",
     "subcategory": "Chemistry",
     "difficulty": "medium",
-    "question": "Scientific concepts: What biological process enables green plants to convert sunlight, carbon dioxide, and water into glucose and oxygen? (Ref #50)",
+    "question": "What intermolecular electrostatic attraction forms between a hydrogen atom covalently bonded to an electronegative atom (N, O, F) and another electronegative atom?",
     "options": [
-      "Cellular respiration",
-      "Photosynthesis",
-      "Fermentation",
-      "Transpiration"
+      "Covalent bond",
+      "Hydrogen Bond",
+      "Ionic bond",
+      "London dispersion force"
     ],
     "correctAnswer": 1,
-    "explanation": "Photosynthesis utilizes chlorophyll in chloroplasts to capture photon energy and synthesize sugar molecules.",
+    "explanation": "Hydrogen bonds explain water's high boiling point, surface tension, ice density anomaly, and DNA double helix stability.",
     "tags": [
       "science",
       "chemistry",
@@ -1050,64 +1050,64 @@
     "active": true
   },
   {
-    "id": "science-physics-0051",
+    "id": "science-chemistry-0051",
     "category": "Science",
-    "subcategory": "Physics",
+    "subcategory": "Chemistry",
     "difficulty": "hard",
-    "question": "Scientific concepts: What is the chemical element symbol for Gold on the periodic table? (Ref #51)",
+    "question": "What fundamental law of chemistry states that mass is neither created nor destroyed during a chemical reaction in a closed system?",
     "options": [
-      "Ag",
-      "Fe",
-      "Au (from Latin Aurum)",
-      "Pt"
+      "The Law of Definite Proportions",
+      "The Law of Multiple Proportions",
+      "The Law of Conservation of Mass",
+      "Avogadro's Law"
     ],
     "correctAnswer": 2,
-    "explanation": "Gold has the chemical symbol Au, derived from its Latin name 'aurum', meaning shining dawn.",
+    "explanation": "Formulated by Antoine Lavoisier in 1789, the total mass of reactants must equal the total mass of reaction products.",
     "tags": [
       "science",
-      "physics",
+      "chemistry",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "science-earth-astronomy-0052",
+    "id": "science-chemistry-0052",
     "category": "Science",
-    "subcategory": "Earth & Astronomy",
+    "subcategory": "Chemistry",
     "difficulty": "easy",
-    "question": "Scientific concepts: According to Newton's First Law of Motion, what does an object at rest tend to do unless acted upon by a net external force? (Ref #52)",
+    "question": "What is the numerical value of Avogadro's Constant, defining the exact number of constituent particles (atoms, molecules) in one mole of a substance?",
     "options": [
-      "Accelerate continuously",
-      "Decompose into smaller particles",
-      "Reverse its trajectory",
-      "Remain at rest (Law of Inertia)"
+      "3.00 x 10^8",
+      "1.602 x 10^-19",
+      "9.81 x 10^2",
+      "6.022 x 10^23 particles per mole"
     ],
     "correctAnswer": 3,
-    "explanation": "Newton's first law states that an object at rest remains at rest, and an object in motion continues at constant velocity unless acted upon by a net force.",
+    "explanation": "One mole of any chemical substance contains exactly Avogadro's number (6.02214076 x 10^23) of particles.",
     "tags": [
       "science",
-      "earth-astronomy",
+      "chemistry",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "science-cell-biology-0053",
+    "id": "science-chemistry-0053",
     "category": "Science",
-    "subcategory": "Cell Biology",
+    "subcategory": "Chemistry",
     "difficulty": "medium",
-    "question": "Scientific concepts: Which planet is positioned closest to the Sun in our Solar System? (Ref #53)",
+    "question": "What logarithmic scale measuring the concentration of hydrogen/hydronium ions in an aqueous solution indicates acidity and alkalinity?",
     "options": [
-      "Mercury",
-      "Venus",
-      "Mars",
-      "Earth"
+      "The pH Scale",
+      "The pOH Scale",
+      "The Mohs Scale",
+      "The Arrhenius Index"
     ],
     "correctAnswer": 0,
-    "explanation": "Mercury is the innermost and smallest planet in the Solar System, orbiting the Sun every 88 Earth days.",
+    "explanation": "Defined as -log10[H+], pH 7 is neutral; values below 7 indicate acidity, and values above 7 indicate basicity/alkalinity.",
     "tags": [
       "science",
-      "cell-biology",
+      "chemistry",
       "medium"
     ],
     "active": true
@@ -1117,15 +1117,15 @@
     "category": "Science",
     "subcategory": "Chemistry",
     "difficulty": "hard",
-    "question": "Scientific concepts: What is the pH value of pure neutral distilled water at 25 degrees Celsius? (Ref #54)",
+    "question": "What substance donates protons (H+ ions) to another substance according to the Bronsted-Lowry acid-base theory?",
     "options": [
-      "pH 5.5",
-      "pH 7.0",
-      "pH 8.5",
-      "pH 0.0"
+      "Bronsted-Lowry Base",
+      "Bronsted-Lowry Acid",
+      "Lewis Base",
+      "Arrhenius Base"
     ],
     "correctAnswer": 1,
-    "explanation": "Pure water has an equal concentration of hydrogen (H+) and hydroxide (OH-) ions, resulting in a neutral pH of 7.0.",
+    "explanation": "In Bronsted-Lowry theory, an acid is a proton donor and a base is a proton acceptor.",
     "tags": [
       "science",
       "chemistry",
@@ -1134,64 +1134,64 @@
     "active": true
   },
   {
-    "id": "science-physics-0055",
+    "id": "science-chemistry-0055",
     "category": "Science",
-    "subcategory": "Physics",
+    "subcategory": "Chemistry",
     "difficulty": "easy",
-    "question": "Scientific concepts: Which cellular organelle is universally referred to as the 'powerhouse of the cell' for generating ATP? (Ref #55)",
+    "question": "What chemical definition states that an acid is an electron pair acceptor and a base is an electron pair donor?",
     "options": [
-      "Ribosome",
-      "Golgi apparatus",
-      "Mitochondria",
-      "Endoplasmic reticulum"
+      "Arrhenius Theory",
+      "Bronsted-Lowry Theory",
+      "Lewis Acid-Base Theory",
+      "Ostwald Dilution Theory"
     ],
     "correctAnswer": 2,
-    "explanation": "Mitochondria generate the majority of cellular adenosine triphosphate (ATP) through oxidative phosphorylation.",
+    "explanation": "Formulated by G.N. Lewis, Lewis acids (like BF3) accept electron pairs from Lewis bases (like NH3) to form adducts.",
     "tags": [
       "science",
-      "physics",
+      "chemistry",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "science-earth-astronomy-0056",
+    "id": "science-chemistry-0056",
     "category": "Science",
-    "subcategory": "Earth & Astronomy",
+    "subcategory": "Chemistry",
     "difficulty": "medium",
-    "question": "Scientific concepts: What biological process enables green plants to convert sunlight, carbon dioxide, and water into glucose and oxygen? (Ref #56)",
+    "question": "What chemical substance resists changes in pH when small quantities of acid or base are added, composed of a weak acid and its conjugate base?",
     "options": [
-      "Cellular respiration",
-      "Fermentation",
-      "Transpiration",
-      "Photosynthesis"
+      "An Amphoteric Solution",
+      "An Saturated Solution",
+      "An Indicator Solution",
+      "A Buffer Solution"
     ],
     "correctAnswer": 3,
-    "explanation": "Photosynthesis utilizes chlorophyll in chloroplasts to capture photon energy and synthesize sugar molecules.",
+    "explanation": "Bicarbonate/carbonic acid buffer systems in human arterial blood maintain physiological pH within 7.35 to 7.45.",
     "tags": [
       "science",
-      "earth-astronomy",
+      "chemistry",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "science-cell-biology-0057",
+    "id": "science-chemistry-0057",
     "category": "Science",
-    "subcategory": "Cell Biology",
+    "subcategory": "Chemistry",
     "difficulty": "hard",
-    "question": "Scientific concepts: What is the chemical element symbol for Gold on the periodic table? (Ref #57)",
+    "question": "What type of chemical reaction releases thermal energy to its surroundings, resulting in a negative enthalpy change (Delta H < 0)?",
     "options": [
-      "Au (from Latin Aurum)",
-      "Ag",
-      "Fe",
-      "Pt"
+      "Exothermic Reaction",
+      "Endothermic Reaction",
+      "Isothermal Reaction",
+      "Adiabatic Reaction"
     ],
     "correctAnswer": 0,
-    "explanation": "Gold has the chemical symbol Au, derived from its Latin name 'aurum', meaning shining dawn.",
+    "explanation": "Combustion, neutralization, and freezing are exothermic processes that release heat into the environment.",
     "tags": [
       "science",
-      "cell-biology",
+      "chemistry",
       "hard"
     ],
     "active": true
@@ -1201,15 +1201,15 @@
     "category": "Science",
     "subcategory": "Chemistry",
     "difficulty": "easy",
-    "question": "Scientific concepts: According to Newton's First Law of Motion, what does an object at rest tend to do unless acted upon by a net external force? (Ref #58)",
+    "question": "What type of chemical reaction absorbs thermal energy from its surroundings, resulting in a positive enthalpy change (Delta H > 0)?",
     "options": [
-      "Accelerate continuously",
-      "Remain at rest (Law of Inertia)",
-      "Decompose into smaller particles",
-      "Reverse its trajectory"
+      "Exothermic Reaction",
+      "Endothermic Reaction",
+      "Spontaneous Reaction",
+      "Isochoric Reaction"
     ],
     "correctAnswer": 1,
-    "explanation": "Newton's first law states that an object at rest remains at rest, and an object in motion continues at constant velocity unless acted upon by a net force.",
+    "explanation": "Photosynthesis and the thermal decomposition of calcium carbonate are endothermic, requiring external heat input.",
     "tags": [
       "science",
       "chemistry",
@@ -1218,64 +1218,64 @@
     "active": true
   },
   {
-    "id": "science-physics-0059",
+    "id": "science-chemistry-0059",
     "category": "Science",
-    "subcategory": "Physics",
+    "subcategory": "Chemistry",
     "difficulty": "medium",
-    "question": "Scientific concepts: Which planet is positioned closest to the Sun in our Solar System? (Ref #59)",
+    "question": "What substance increases the rate of a chemical reaction by lowering its activation energy without being consumed in the reaction?",
     "options": [
-      "Venus",
-      "Mars",
-      "Mercury",
-      "Earth"
+      "An Inhibitor",
+      "A Reagent",
+      "A Catalyst",
+      "An Intermediate"
     ],
     "correctAnswer": 2,
-    "explanation": "Mercury is the innermost and smallest planet in the Solar System, orbiting the Sun every 88 Earth days.",
+    "explanation": "Catalysts provide an alternative reaction pathway with lower activation energy, accelerating equilibrium attainment.",
     "tags": [
       "science",
-      "physics",
+      "chemistry",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "science-earth-astronomy-0060",
+    "id": "science-chemistry-0060",
     "category": "Science",
-    "subcategory": "Earth & Astronomy",
+    "subcategory": "Chemistry",
     "difficulty": "hard",
-    "question": "Scientific concepts: What is the pH value of pure neutral distilled water at 25 degrees Celsius? (Ref #60)",
+    "question": "What biological protein molecules serve as specialized biocatalysts that accelerate metabolic chemical reactions in living cells?",
     "options": [
-      "pH 5.5",
-      "pH 8.5",
-      "pH 0.0",
-      "pH 7.0"
+      "Hormones",
+      "Antibodies",
+      "Phospholipids",
+      "Enzymes"
     ],
     "correctAnswer": 3,
-    "explanation": "Pure water has an equal concentration of hydrogen (H+) and hydroxide (OH-) ions, resulting in a neutral pH of 7.0.",
+    "explanation": "Enzymes possess active sites with stereospecific substrate binding, accelerating reaction rates by factors over 10^6.",
     "tags": [
       "science",
-      "earth-astronomy",
+      "chemistry",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "science-cell-biology-0061",
+    "id": "science-chemistry-0061",
     "category": "Science",
-    "subcategory": "Cell Biology",
+    "subcategory": "Chemistry",
     "difficulty": "easy",
-    "question": "Scientific concepts: Which cellular organelle is universally referred to as the 'powerhouse of the cell' for generating ATP? (Ref #61)",
+    "question": "What chemical process involves the loss of electrons by a chemical species, resulting in an increase in oxidation state?",
     "options": [
-      "Mitochondria",
-      "Ribosome",
-      "Golgi apparatus",
-      "Endoplasmic reticulum"
+      "Oxidation",
+      "Reduction",
+      "Precipitation",
+      "Neutralization"
     ],
     "correctAnswer": 0,
-    "explanation": "Mitochondria generate the majority of cellular adenosine triphosphate (ATP) through oxidative phosphorylation.",
+    "explanation": "Remembered by 'OIL RIG': Oxidation Is Loss of electrons, Reduction Is Gain of electrons.",
     "tags": [
       "science",
-      "cell-biology",
+      "chemistry",
       "easy"
     ],
     "active": true
@@ -1285,15 +1285,15 @@
     "category": "Science",
     "subcategory": "Chemistry",
     "difficulty": "medium",
-    "question": "Scientific concepts: What biological process enables green plants to convert sunlight, carbon dioxide, and water into glucose and oxygen? (Ref #62)",
+    "question": "What chemical process involves the gain of electrons by a chemical species, resulting in a decrease in oxidation state?",
     "options": [
-      "Cellular respiration",
-      "Photosynthesis",
-      "Fermentation",
-      "Transpiration"
+      "Oxidation",
+      "Reduction",
+      "Sublimation",
+      "Electrolysis"
     ],
     "correctAnswer": 1,
-    "explanation": "Photosynthesis utilizes chlorophyll in chloroplasts to capture photon energy and synthesize sugar molecules.",
+    "explanation": "In redox reactions, the oxidizing agent is reduced by accepting electrons transferred from the reducing agent.",
     "tags": [
       "science",
       "chemistry",
@@ -1302,64 +1302,64 @@
     "active": true
   },
   {
-    "id": "science-physics-0063",
+    "id": "science-chemistry-0063",
     "category": "Science",
-    "subcategory": "Physics",
+    "subcategory": "Chemistry",
     "difficulty": "hard",
-    "question": "Scientific concepts: What is the chemical element symbol for Gold on the periodic table? (Ref #63)",
+    "question": "What phase transition describes the direct conversion of a solid directly into a gas without passing through an intermediate liquid state?",
     "options": [
-      "Ag",
-      "Fe",
-      "Au (from Latin Aurum)",
-      "Pt"
+      "Deposition",
+      "Evaporation",
+      "Sublimation",
+      "Condensation"
     ],
     "correctAnswer": 2,
-    "explanation": "Gold has the chemical symbol Au, derived from its Latin name 'aurum', meaning shining dawn.",
+    "explanation": "Dry ice (solid carbon dioxide) and iodine crystals sublime directly from solid to vapor at atmospheric pressure.",
     "tags": [
       "science",
-      "physics",
+      "chemistry",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "science-earth-astronomy-0064",
+    "id": "science-chemistry-0064",
     "category": "Science",
-    "subcategory": "Earth & Astronomy",
+    "subcategory": "Chemistry",
     "difficulty": "easy",
-    "question": "Scientific concepts: According to Newton's First Law of Motion, what does an object at rest tend to do unless acted upon by a net external force? (Ref #64)",
+    "question": "What phase transition describes the direct conversion of a gas directly into a solid without passing through a liquid phase?",
     "options": [
-      "Accelerate continuously",
-      "Decompose into smaller particles",
-      "Reverse its trajectory",
-      "Remain at rest (Law of Inertia)"
+      "Sublimation",
+      "Condensation",
+      "Freezing",
+      "Deposition (or Desublimation)"
     ],
     "correctAnswer": 3,
-    "explanation": "Newton's first law states that an object at rest remains at rest, and an object in motion continues at constant velocity unless acted upon by a net force.",
+    "explanation": "Water vapor depositing directly into frost on frozen windshields is a classic example of phase deposition.",
     "tags": [
       "science",
-      "earth-astronomy",
+      "chemistry",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "science-cell-biology-0065",
+    "id": "science-chemistry-0065",
     "category": "Science",
-    "subcategory": "Cell Biology",
+    "subcategory": "Chemistry",
     "difficulty": "medium",
-    "question": "Scientific concepts: Which planet is positioned closest to the Sun in our Solar System? (Ref #65)",
+    "question": "What state of matter consists of an ionized gas containing equal numbers of free mobile electrons and positive ions, conducting electricity?",
     "options": [
-      "Mercury",
-      "Venus",
-      "Mars",
-      "Earth"
+      "Plasma",
+      "Gas",
+      "Liquid",
+      "Bose-Einstein Condensate"
     ],
     "correctAnswer": 0,
-    "explanation": "Mercury is the innermost and smallest planet in the Solar System, orbiting the Sun every 88 Earth days.",
+    "explanation": "Plasma is the most common state of visible matter in the universe, composing stars, lightning, and neon signs.",
     "tags": [
       "science",
-      "cell-biology",
+      "chemistry",
       "medium"
     ],
     "active": true
@@ -1369,15 +1369,15 @@
     "category": "Science",
     "subcategory": "Chemistry",
     "difficulty": "hard",
-    "question": "Scientific concepts: What is the pH value of pure neutral distilled water at 25 degrees Celsius? (Ref #66)",
+    "question": "What fundamental gas law states that at constant temperature, the volume of a given mass of gas is inversely proportional to its pressure (P1V1 = P2V2)?",
     "options": [
-      "pH 5.5",
-      "pH 7.0",
-      "pH 8.5",
-      "pH 0.0"
+      "Charles's Law",
+      "Boyle's Law",
+      "Gay-Lussac's Law",
+      "Avogadro's Law"
     ],
     "correctAnswer": 1,
-    "explanation": "Pure water has an equal concentration of hydrogen (H+) and hydroxide (OH-) ions, resulting in a neutral pH of 7.0.",
+    "explanation": "Robert Boyle demonstrated in 1662 that compressing a gas into half its volume doubles its internal pressure.",
     "tags": [
       "science",
       "chemistry",
@@ -1386,64 +1386,64 @@
     "active": true
   },
   {
-    "id": "science-physics-0067",
+    "id": "science-chemistry-0067",
     "category": "Science",
-    "subcategory": "Physics",
+    "subcategory": "Chemistry",
     "difficulty": "easy",
-    "question": "Scientific concepts: Which cellular organelle is universally referred to as the 'powerhouse of the cell' for generating ATP? (Ref #67)",
+    "question": "What gas law states that at constant pressure, the volume of an ideal gas is directly proportional to its absolute temperature in Kelvin (V1/T1 = V2/T2)?",
     "options": [
-      "Ribosome",
-      "Golgi apparatus",
-      "Mitochondria",
-      "Endoplasmic reticulum"
+      "Boyle's Law",
+      "Dalton's Law",
+      "Charles's Law",
+      "Graham's Law"
     ],
     "correctAnswer": 2,
-    "explanation": "Mitochondria generate the majority of cellular adenosine triphosphate (ATP) through oxidative phosphorylation.",
+    "explanation": "Jacques Charles showed that heating an ideal gas causes thermal volumetric expansion proportional to Kelvin temperature.",
     "tags": [
       "science",
-      "physics",
+      "chemistry",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "science-earth-astronomy-0068",
+    "id": "science-chemistry-0068",
     "category": "Science",
-    "subcategory": "Earth & Astronomy",
+    "subcategory": "Chemistry",
     "difficulty": "medium",
-    "question": "Scientific concepts: What biological process enables green plants to convert sunlight, carbon dioxide, and water into glucose and oxygen? (Ref #68)",
+    "question": "What equation of state combines Boyle's, Charles's, and Avogadro's laws into a unified formula: PV = nRT?",
     "options": [
-      "Cellular respiration",
-      "Fermentation",
-      "Transpiration",
-      "Photosynthesis"
+      "The van der Waals Equation",
+      "The Clausius-Clapeyron Equation",
+      "Raoult's Law",
+      "The Ideal Gas Law"
     ],
     "correctAnswer": 3,
-    "explanation": "Photosynthesis utilizes chlorophyll in chloroplasts to capture photon energy and synthesize sugar molecules.",
+    "explanation": "In PV = nRT, P is pressure, V is volume, n is moles, R is the universal gas constant (8.314 J/mol K), and T is temperature.",
     "tags": [
       "science",
-      "earth-astronomy",
+      "chemistry",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "science-cell-biology-0069",
+    "id": "science-chemistry-0069",
     "category": "Science",
-    "subcategory": "Cell Biology",
+    "subcategory": "Chemistry",
     "difficulty": "hard",
-    "question": "Scientific concepts: What is the chemical element symbol for Gold on the periodic table? (Ref #69)",
+    "question": "What theoretical temperature, equivalent to 0 Kelvin (-273.15 degrees Celsius / -459.67 degrees Fahrenheit), represents the point of minimum thermal kinetic motion?",
     "options": [
-      "Au (from Latin Aurum)",
-      "Ag",
-      "Fe",
-      "Pt"
+      "Absolute Zero",
+      "Triple Point of Water",
+      "Freezing Point",
+      "Bose Transition Point"
     ],
     "correctAnswer": 0,
-    "explanation": "Gold has the chemical symbol Au, derived from its Latin name 'aurum', meaning shining dawn.",
+    "explanation": "At absolute zero, classical particle kinetic motion ceases; quantum zero-point energy remains.",
     "tags": [
       "science",
-      "cell-biology",
+      "chemistry",
       "hard"
     ],
     "active": true
@@ -1453,15 +1453,15 @@
     "category": "Science",
     "subcategory": "Chemistry",
     "difficulty": "easy",
-    "question": "Scientific concepts: According to Newton's First Law of Motion, what does an object at rest tend to do unless acted upon by a net external force? (Ref #70)",
+    "question": "What principle states that if a chemical system at dynamic equilibrium experiences a change in concentration, temperature, or pressure, the equilibrium shifts to counteract the change?",
     "options": [
-      "Accelerate continuously",
-      "Remain at rest (Law of Inertia)",
-      "Decompose into smaller particles",
-      "Reverse its trajectory"
+      "Hess's Law",
+      "Le Chatelier's Principle",
+      "Dalton's Law",
+      "Henry's Law"
     ],
     "correctAnswer": 1,
-    "explanation": "Newton's first law states that an object at rest remains at rest, and an object in motion continues at constant velocity unless acted upon by a net force.",
+    "explanation": "Formulated by Henri Louis Le Chatelier, this principle predicts chemical equilibrium adjustments to external stressors.",
     "tags": [
       "science",
       "chemistry",
@@ -1470,64 +1470,64 @@
     "active": true
   },
   {
-    "id": "science-physics-0071",
+    "id": "science-chemistry-0071",
     "category": "Science",
-    "subcategory": "Physics",
+    "subcategory": "Chemistry",
     "difficulty": "medium",
-    "question": "Scientific concepts: Which planet is positioned closest to the Sun in our Solar System? (Ref #71)",
+    "question": "What thermodynamic property is a measure of the molecular randomness, disorder, or multiplicity of energy states in a physical system?",
     "options": [
-      "Venus",
-      "Mars",
-      "Mercury",
-      "Earth"
+      "Enthalpy (H)",
+      "Gibbs Free Energy (G)",
+      "Entropy (S)",
+      "Internal Energy (U)"
     ],
     "correctAnswer": 2,
-    "explanation": "Mercury is the innermost and smallest planet in the Solar System, orbiting the Sun every 88 Earth days.",
+    "explanation": "The Second Law of Thermodynamics dictates that the total entropy of an isolated system always increases over time.",
     "tags": [
       "science",
-      "physics",
+      "chemistry",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "science-earth-astronomy-0072",
+    "id": "science-chemistry-0072",
     "category": "Science",
-    "subcategory": "Earth & Astronomy",
+    "subcategory": "Chemistry",
     "difficulty": "hard",
-    "question": "Scientific concepts: What is the pH value of pure neutral distilled water at 25 degrees Celsius? (Ref #72)",
+    "question": "What thermodynamic potential determines the spontaneity of a chemical process at constant temperature and pressure (Delta G = Delta H - T Delta S)?",
     "options": [
-      "pH 5.5",
-      "pH 8.5",
-      "pH 0.0",
-      "pH 7.0"
+      "Helmholtz Free Energy",
+      "Chemical Potential",
+      "Reaction Quotient",
+      "Gibbs Free Energy (G)"
     ],
     "correctAnswer": 3,
-    "explanation": "Pure water has an equal concentration of hydrogen (H+) and hydroxide (OH-) ions, resulting in a neutral pH of 7.0.",
+    "explanation": "A negative Delta G (exergonic process) indicates thermodynamic spontaneity without external energetic driving force.",
     "tags": [
       "science",
-      "earth-astronomy",
+      "chemistry",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "science-cell-biology-0073",
+    "id": "science-chemistry-0073",
     "category": "Science",
-    "subcategory": "Cell Biology",
+    "subcategory": "Chemistry",
     "difficulty": "easy",
-    "question": "Scientific concepts: Which cellular organelle is universally referred to as the 'powerhouse of the cell' for generating ATP? (Ref #73)",
+    "question": "What structural forms of the same chemical element exhibit distinct physical properties due to different molecular bonding arrangements?",
     "options": [
-      "Mitochondria",
-      "Ribosome",
-      "Golgi apparatus",
-      "Endoplasmic reticulum"
+      "Allotropes",
+      "Isotopes",
+      "Isomers",
+      "Polymorphs"
     ],
     "correctAnswer": 0,
-    "explanation": "Mitochondria generate the majority of cellular adenosine triphosphate (ATP) through oxidative phosphorylation.",
+    "explanation": "Diamond, graphite, and graphene are allotropes of pure carbon exhibiting vastly different hardness and conductivity.",
     "tags": [
       "science",
-      "cell-biology",
+      "chemistry",
       "easy"
     ],
     "active": true
@@ -1537,15 +1537,15 @@
     "category": "Science",
     "subcategory": "Chemistry",
     "difficulty": "medium",
-    "question": "Scientific concepts: What biological process enables green plants to convert sunlight, carbon dioxide, and water into glucose and oxygen? (Ref #74)",
+    "question": "What 2D allotrope of carbon consists of a single hexagonal honeycomb layer of sp2-hybridized carbon atoms with exceptional tensile strength?",
     "options": [
-      "Cellular respiration",
-      "Photosynthesis",
-      "Fermentation",
-      "Transpiration"
+      "Graphite",
+      "Graphene",
+      "Fullerene (Buckyball)",
+      "Carbon Nanotube"
     ],
     "correctAnswer": 1,
-    "explanation": "Photosynthesis utilizes chlorophyll in chloroplasts to capture photon energy and synthesize sugar molecules.",
+    "explanation": "Graphene conducts electricity and heat with immense efficiency and possesses a breaking strength 200 times higher than steel.",
     "tags": [
       "science",
       "chemistry",
@@ -1554,64 +1554,64 @@
     "active": true
   },
   {
-    "id": "science-physics-0075",
+    "id": "science-chemistry-0075",
     "category": "Science",
-    "subcategory": "Physics",
+    "subcategory": "Chemistry",
     "difficulty": "hard",
-    "question": "Scientific concepts: What is the chemical element symbol for Gold on the periodic table? (Ref #75)",
+    "question": "What class of chemical compounds consists exclusively of hydrogen and carbon atoms?",
     "options": [
-      "Ag",
-      "Fe",
-      "Au (from Latin Aurum)",
-      "Pt"
+      "Carbohydrates",
+      "Esters",
+      "Hydrocarbons",
+      "Amines"
     ],
     "correctAnswer": 2,
-    "explanation": "Gold has the chemical symbol Au, derived from its Latin name 'aurum', meaning shining dawn.",
+    "explanation": "Hydrocarbons include aliphatic alkanes, alkenes, alkynes, and aromatic benzene rings, serving as primary fossil fuels.",
     "tags": [
       "science",
-      "physics",
+      "chemistry",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "science-earth-astronomy-0076",
+    "id": "science-chemistry-0076",
     "category": "Science",
-    "subcategory": "Earth & Astronomy",
+    "subcategory": "Chemistry",
     "difficulty": "easy",
-    "question": "Scientific concepts: According to Newton's First Law of Motion, what does an object at rest tend to do unless acted upon by a net external force? (Ref #76)",
+    "question": "What class of saturated aliphatic hydrocarbons contains only single covalent carbon-carbon bonds with the general formula CnH2n+2?",
     "options": [
-      "Accelerate continuously",
-      "Decompose into smaller particles",
-      "Reverse its trajectory",
-      "Remain at rest (Law of Inertia)"
+      "Alkenes",
+      "Alkynes",
+      "Cycloalkanes",
+      "Alkanes (Paraffins)"
     ],
     "correctAnswer": 3,
-    "explanation": "Newton's first law states that an object at rest remains at rest, and an object in motion continues at constant velocity unless acted upon by a net force.",
+    "explanation": "Alkanes include methane (CH4), ethane (C2H6), propane (C3H8), and butane (C4H10).",
     "tags": [
       "science",
-      "earth-astronomy",
+      "chemistry",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "science-cell-biology-0077",
+    "id": "science-chemistry-0077",
     "category": "Science",
-    "subcategory": "Cell Biology",
+    "subcategory": "Chemistry",
     "difficulty": "medium",
-    "question": "Scientific concepts: Which planet is positioned closest to the Sun in our Solar System? (Ref #77)",
+    "question": "What class of unsaturated hydrocarbons contains at least one carbon-carbon double covalent bond with the general formula CnH2n?",
     "options": [
-      "Mercury",
-      "Venus",
-      "Mars",
-      "Earth"
+      "Alkenes (Olefins)",
+      "Alkanes",
+      "Alkynes",
+      "Aromatics"
     ],
     "correctAnswer": 0,
-    "explanation": "Mercury is the innermost and smallest planet in the Solar System, orbiting the Sun every 88 Earth days.",
+    "explanation": "Ethene (ethylene, C2H4) is the simplest alkene, utilized extensively as an industrial monomer for polyethylene.",
     "tags": [
       "science",
-      "cell-biology",
+      "chemistry",
       "medium"
     ],
     "active": true
@@ -1621,15 +1621,15 @@
     "category": "Science",
     "subcategory": "Chemistry",
     "difficulty": "hard",
-    "question": "Scientific concepts: What is the pH value of pure neutral distilled water at 25 degrees Celsius? (Ref #78)",
+    "question": "What class of unsaturated hydrocarbons contains at least one carbon-carbon triple covalent bond with the general formula CnH2n-2?",
     "options": [
-      "pH 5.5",
-      "pH 7.0",
-      "pH 8.5",
-      "pH 0.0"
+      "Alkanes",
+      "Alkynes (Acetylenes)",
+      "Alkenes",
+      "Arenes"
     ],
     "correctAnswer": 1,
-    "explanation": "Pure water has an equal concentration of hydrogen (H+) and hydroxide (OH-) ions, resulting in a neutral pH of 7.0.",
+    "explanation": "Ethyne (acetylene, C2H2) combusts in pure oxygen to produce industrial welding flame temperatures above 3,300 C.",
     "tags": [
       "science",
       "chemistry",
@@ -1638,85 +1638,85 @@
     "active": true
   },
   {
-    "id": "science-physics-0079",
+    "id": "science-chemistry-0079",
     "category": "Science",
-    "subcategory": "Physics",
+    "subcategory": "Chemistry",
     "difficulty": "easy",
-    "question": "Scientific concepts: Which cellular organelle is universally referred to as the 'powerhouse of the cell' for generating ATP? (Ref #79)",
+    "question": "What organic functional group contains an oxygen atom double-bonded to a carbon atom (C=O), found in ketones, aldehydes, and carboxylic acids?",
     "options": [
-      "Ribosome",
-      "Golgi apparatus",
-      "Mitochondria",
-      "Endoplasmic reticulum"
+      "The Hydroxyl Group",
+      "The Amino Group",
+      "The Carbonyl Group",
+      "The Sulfhydryl Group"
     ],
     "correctAnswer": 2,
-    "explanation": "Mitochondria generate the majority of cellular adenosine triphosphate (ATP) through oxidative phosphorylation.",
+    "explanation": "Carbonyl carbon atoms are electrophilic due to oxygen's high electronegativity, driving nucleophilic addition reactions.",
     "tags": [
       "science",
-      "physics",
+      "chemistry",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "science-earth-astronomy-0080",
+    "id": "science-chemistry-0080",
     "category": "Science",
-    "subcategory": "Earth & Astronomy",
+    "subcategory": "Chemistry",
     "difficulty": "medium",
-    "question": "Scientific concepts: What biological process enables green plants to convert sunlight, carbon dioxide, and water into glucose and oxygen? (Ref #80)",
+    "question": "What organic functional group consists of an oxygen atom bonded to a hydrogen atom (-OH), characterizing alcohols and phenols?",
     "options": [
-      "Cellular respiration",
-      "Fermentation",
-      "Transpiration",
-      "Photosynthesis"
+      "The Carboxyl Group",
+      "The Carbonyl Group",
+      "The Ester Group",
+      "The Hydroxyl Group"
     ],
     "correctAnswer": 3,
-    "explanation": "Photosynthesis utilizes chlorophyll in chloroplasts to capture photon energy and synthesize sugar molecules.",
+    "explanation": "Hydroxyl groups confer polarity and hydrogen bonding capacity, increasing boiling point and aqueous water solubility.",
     "tags": [
       "science",
-      "earth-astronomy",
+      "chemistry",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "science-cell-biology-0081",
+    "id": "science-physics-0081",
     "category": "Science",
-    "subcategory": "Cell Biology",
+    "subcategory": "Physics",
     "difficulty": "hard",
-    "question": "Scientific concepts: What is the chemical element symbol for Gold on the periodic table? (Ref #81)",
+    "question": "What is Isaac Newton's First Law of Motion commonly called?",
     "options": [
-      "Au (from Latin Aurum)",
-      "Ag",
-      "Fe",
-      "Pt"
+      "The Law of Inertia",
+      "The Law of Acceleration",
+      "The Law of Action-Reaction",
+      "The Law of Universal Gravitation"
     ],
     "correctAnswer": 0,
-    "explanation": "Gold has the chemical symbol Au, derived from its Latin name 'aurum', meaning shining dawn.",
+    "explanation": "An object at rest stays at rest, and an object in motion remains in uniform rectilinear motion unless acted upon by a net external force.",
     "tags": [
       "science",
-      "cell-biology",
+      "physics",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "science-chemistry-0082",
+    "id": "science-physics-0082",
     "category": "Science",
-    "subcategory": "Chemistry",
+    "subcategory": "Physics",
     "difficulty": "easy",
-    "question": "Scientific concepts: According to Newton's First Law of Motion, what does an object at rest tend to do unless acted upon by a net external force? (Ref #82)",
+    "question": "What famous physics equation encapsulates Newton's Second Law of Motion relating net force, mass, and acceleration?",
     "options": [
-      "Accelerate continuously",
-      "Remain at rest (Law of Inertia)",
-      "Decompose into smaller particles",
-      "Reverse its trajectory"
+      "E = mc^2",
+      "F = ma (Net Force = mass x acceleration)",
+      "p = mv",
+      "W = Fd"
     ],
     "correctAnswer": 1,
-    "explanation": "Newton's first law states that an object at rest remains at rest, and an object in motion continues at constant velocity unless acted upon by a net force.",
+    "explanation": "Newton's Second Law defines force as the time rate of change of momentum; for constant mass, F equals mass times acceleration.",
     "tags": [
       "science",
-      "chemistry",
+      "physics",
       "easy"
     ],
     "active": true
@@ -1726,15 +1726,15 @@
     "category": "Science",
     "subcategory": "Physics",
     "difficulty": "medium",
-    "question": "Scientific concepts: Which planet is positioned closest to the Sun in our Solar System? (Ref #83)",
+    "question": "What does Newton's Third Law of Motion state regarding physical interacting forces?",
     "options": [
-      "Venus",
-      "Mars",
-      "Mercury",
-      "Earth"
+      "Force is inversely proportional to distance",
+      "Energy is conserved in closed interactions",
+      "For every action force, there is an equal and opposite reaction force",
+      "Momentum cannot exceed light speed"
     ],
     "correctAnswer": 2,
-    "explanation": "Mercury is the innermost and smallest planet in the Solar System, orbiting the Sun every 88 Earth days.",
+    "explanation": "Forces always occur in matched interaction pairs that are equal in magnitude, opposite in direction, and act on different objects.",
     "tags": [
       "science",
       "physics",
@@ -1743,64 +1743,64 @@
     "active": true
   },
   {
-    "id": "science-earth-astronomy-0084",
+    "id": "science-physics-0084",
     "category": "Science",
-    "subcategory": "Earth & Astronomy",
+    "subcategory": "Physics",
     "difficulty": "hard",
-    "question": "Scientific concepts: What is the pH value of pure neutral distilled water at 25 degrees Celsius? (Ref #84)",
+    "question": "What fundamental law of physics dictates that in an isolated physical system, the total energy remains constant over time?",
     "options": [
-      "pH 5.5",
-      "pH 8.5",
-      "pH 0.0",
-      "pH 7.0"
+      "The Second Law of Thermodynamics",
+      "Newton's Law of Cooling",
+      "The Work-Energy Theorem",
+      "The Law of Conservation of Energy (First Law of Thermodynamics)"
     ],
     "correctAnswer": 3,
-    "explanation": "Pure water has an equal concentration of hydrogen (H+) and hydroxide (OH-) ions, resulting in a neutral pH of 7.0.",
+    "explanation": "Energy cannot be created or destroyed; it can only be transformed from one form (kinetic, potential, thermal) into another.",
     "tags": [
       "science",
-      "earth-astronomy",
+      "physics",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "science-cell-biology-0085",
+    "id": "science-physics-0085",
     "category": "Science",
-    "subcategory": "Cell Biology",
+    "subcategory": "Physics",
     "difficulty": "easy",
-    "question": "Scientific concepts: Which cellular organelle is universally referred to as the 'powerhouse of the cell' for generating ATP? (Ref #85)",
+    "question": "What type of mechanical energy does an object possess by virtue of its physical motion, calculated as KE = 1/2 mv^2?",
     "options": [
-      "Mitochondria",
-      "Ribosome",
-      "Golgi apparatus",
-      "Endoplasmic reticulum"
+      "Kinetic Energy",
+      "Gravitational Potential Energy",
+      "Elastic Potential Energy",
+      "Chemical Energy"
     ],
     "correctAnswer": 0,
-    "explanation": "Mitochondria generate the majority of cellular adenosine triphosphate (ATP) through oxidative phosphorylation.",
+    "explanation": "Kinetic energy quadruples if velocity doubles, reflecting velocity's squared influence in the formula 1/2 mv^2.",
     "tags": [
       "science",
-      "cell-biology",
+      "physics",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "science-chemistry-0086",
+    "id": "science-physics-0086",
     "category": "Science",
-    "subcategory": "Chemistry",
+    "subcategory": "Physics",
     "difficulty": "medium",
-    "question": "Scientific concepts: What biological process enables green plants to convert sunlight, carbon dioxide, and water into glucose and oxygen? (Ref #86)",
+    "question": "What type of stored mechanical energy does an object possess due to its position within a gravitational field, calculated as PE = mgh?",
     "options": [
-      "Cellular respiration",
-      "Photosynthesis",
-      "Fermentation",
-      "Transpiration"
+      "Kinetic Energy",
+      "Gravitational Potential Energy",
+      "Thermal Energy",
+      "Nuclear Energy"
     ],
     "correctAnswer": 1,
-    "explanation": "Photosynthesis utilizes chlorophyll in chloroplasts to capture photon energy and synthesize sugar molecules.",
+    "explanation": "Potential energy represents work done against a conservative gravitational field to elevate an object of mass m to height h.",
     "tags": [
       "science",
-      "chemistry",
+      "physics",
       "medium"
     ],
     "active": true
@@ -1810,15 +1810,15 @@
     "category": "Science",
     "subcategory": "Physics",
     "difficulty": "hard",
-    "question": "Scientific concepts: What is the chemical element symbol for Gold on the periodic table? (Ref #87)",
+    "question": "What standard SI unit is used to quantify physical work and energy, equivalent to one Newton-meter (N m) or kg m2/s2?",
     "options": [
-      "Ag",
-      "Fe",
-      "Au (from Latin Aurum)",
-      "Pt"
+      "Watt (W)",
+      "Pascal (Pa)",
+      "Joule (J)",
+      "Newton (N)"
     ],
     "correctAnswer": 2,
-    "explanation": "Gold has the chemical symbol Au, derived from its Latin name 'aurum', meaning shining dawn.",
+    "explanation": "One Joule is the work done when a force of one Newton displaces an object by one meter in the direction of the force.",
     "tags": [
       "science",
       "physics",
@@ -1827,64 +1827,64 @@
     "active": true
   },
   {
-    "id": "science-earth-astronomy-0088",
+    "id": "science-physics-0088",
     "category": "Science",
-    "subcategory": "Earth & Astronomy",
+    "subcategory": "Physics",
     "difficulty": "easy",
-    "question": "Scientific concepts: According to Newton's First Law of Motion, what does an object at rest tend to do unless acted upon by a net external force? (Ref #88)",
+    "question": "What standard SI unit measures the physical rate of doing work or transferring energy (one Joule per second)?",
     "options": [
-      "Accelerate continuously",
-      "Decompose into smaller particles",
-      "Reverse its trajectory",
-      "Remain at rest (Law of Inertia)"
+      "Joule (J)",
+      "Volt (V)",
+      "Horsepower",
+      "Watt (W)"
     ],
     "correctAnswer": 3,
-    "explanation": "Newton's first law states that an object at rest remains at rest, and an object in motion continues at constant velocity unless acted upon by a net force.",
+    "explanation": "Named after steam engineer James Watt, one Watt represents one Joule of energy consumed or delivered per second.",
     "tags": [
       "science",
-      "earth-astronomy",
+      "physics",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "science-cell-biology-0089",
+    "id": "science-physics-0089",
     "category": "Science",
-    "subcategory": "Cell Biology",
+    "subcategory": "Physics",
     "difficulty": "medium",
-    "question": "Scientific concepts: Which planet is positioned closest to the Sun in our Solar System? (Ref #89)",
+    "question": "What vector physical quantity is defined as the product of an object's mass and its velocity (p = mv)?",
     "options": [
-      "Mercury",
-      "Venus",
-      "Mars",
-      "Earth"
+      "Linear Momentum",
+      "Angular Momentum",
+      "Kinetic Energy",
+      "Impulse"
     ],
     "correctAnswer": 0,
-    "explanation": "Mercury is the innermost and smallest planet in the Solar System, orbiting the Sun every 88 Earth days.",
+    "explanation": "Linear momentum is conserved in all closed systems lacking external net impulses during both elastic and inelastic collisions.",
     "tags": [
       "science",
-      "cell-biology",
+      "physics",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "science-chemistry-0090",
+    "id": "science-physics-0090",
     "category": "Science",
-    "subcategory": "Chemistry",
+    "subcategory": "Physics",
     "difficulty": "hard",
-    "question": "Scientific concepts: What is the pH value of pure neutral distilled water at 25 degrees Celsius? (Ref #90)",
+    "question": "What physical quantity is defined as the integral of force over the time interval during which it acts (J = F Delta t), equal to change in momentum?",
     "options": [
-      "pH 5.5",
-      "pH 7.0",
-      "pH 8.5",
-      "pH 0.0"
+      "Work",
+      "Impulse",
+      "Power",
+      "Torque"
     ],
     "correctAnswer": 1,
-    "explanation": "Pure water has an equal concentration of hydrogen (H+) and hydroxide (OH-) ions, resulting in a neutral pH of 7.0.",
+    "explanation": "The Impulse-Momentum Theorem states that the net impulse exerted on an object equals its resulting change in momentum.",
     "tags": [
       "science",
-      "chemistry",
+      "physics",
       "hard"
     ],
     "active": true
@@ -1894,15 +1894,15 @@
     "category": "Science",
     "subcategory": "Physics",
     "difficulty": "easy",
-    "question": "Scientific concepts: Which cellular organelle is universally referred to as the 'powerhouse of the cell' for generating ATP? (Ref #91)",
+    "question": "What rotational analogue of linear force causes an object to acquire angular acceleration around an axis of rotation?",
     "options": [
-      "Ribosome",
-      "Golgi apparatus",
-      "Mitochondria",
-      "Endoplasmic reticulum"
+      "Angular Momentum",
+      "Moment of Inertia",
+      "Torque (Moment of Force)",
+      "Centripetal Force"
     ],
     "correctAnswer": 2,
-    "explanation": "Mitochondria generate the majority of cellular adenosine triphosphate (ATP) through oxidative phosphorylation.",
+    "explanation": "Torque is calculated as the cross product of position vector r and force vector F (tau = r F sin theta).",
     "tags": [
       "science",
       "physics",
@@ -1911,64 +1911,64 @@
     "active": true
   },
   {
-    "id": "science-earth-astronomy-0092",
+    "id": "science-physics-0092",
     "category": "Science",
-    "subcategory": "Earth & Astronomy",
+    "subcategory": "Physics",
     "difficulty": "medium",
-    "question": "Scientific concepts: What biological process enables green plants to convert sunlight, carbon dioxide, and water into glucose and oxygen? (Ref #92)",
+    "question": "What inward physical force acts on an object traversing a curved path, directing it toward the center of curvature to maintain circular motion?",
     "options": [
-      "Cellular respiration",
-      "Fermentation",
-      "Transpiration",
-      "Photosynthesis"
+      "Centrifugal Force",
+      "Coriolis Force",
+      "Euler Force",
+      "Centripetal Force"
     ],
     "correctAnswer": 3,
-    "explanation": "Photosynthesis utilizes chlorophyll in chloroplasts to capture photon energy and synthesize sugar molecules.",
+    "explanation": "Calculated as Fc = mv^2/r, centripetal force is provided by gravity (planetary orbits), friction (cars turning), or tension (strings).",
     "tags": [
       "science",
-      "earth-astronomy",
+      "physics",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "science-cell-biology-0093",
+    "id": "science-physics-0093",
     "category": "Science",
-    "subcategory": "Cell Biology",
+    "subcategory": "Physics",
     "difficulty": "hard",
-    "question": "Scientific concepts: What is the chemical element symbol for Gold on the periodic table? (Ref #93)",
+    "question": "What inverse-square law formulated by Isaac Newton describes the attractive mutual force between any two masses in the universe?",
     "options": [
-      "Au (from Latin Aurum)",
-      "Ag",
-      "Fe",
-      "Pt"
+      "Newton's Law of Universal Gravitation (F = G m1 m2 / r^2)",
+      "Coulomb's Law",
+      "Kepler's Third Law",
+      "Hooke's Law"
     ],
     "correctAnswer": 0,
-    "explanation": "Gold has the chemical symbol Au, derived from its Latin name 'aurum', meaning shining dawn.",
+    "explanation": "Gravitational attraction is directly proportional to the product of two masses and inversely proportional to the square of the separation distance.",
     "tags": [
       "science",
-      "cell-biology",
+      "physics",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "science-chemistry-0094",
+    "id": "science-physics-0094",
     "category": "Science",
-    "subcategory": "Chemistry",
+    "subcategory": "Physics",
     "difficulty": "easy",
-    "question": "Scientific concepts: According to Newton's First Law of Motion, what does an object at rest tend to do unless acted upon by a net external force? (Ref #94)",
+    "question": "What is the standard acceleration due to Earth's surface gravity at sea level, represented by the constant 'g'?",
     "options": [
-      "Accelerate continuously",
-      "Remain at rest (Law of Inertia)",
-      "Decompose into smaller particles",
-      "Reverse its trajectory"
+      "12.5 m/s2",
+      "Approximately 9.81 meters per second squared (32.2 ft/s2)",
+      "6.67 m/s2",
+      "4.9 m/s2"
     ],
     "correctAnswer": 1,
-    "explanation": "Newton's first law states that an object at rest remains at rest, and an object in motion continues at constant velocity unless acted upon by a net force.",
+    "explanation": "Free-falling objects accelerate downward at 9.81 m/s2 in a vacuum regardless of their individual mass.",
     "tags": [
       "science",
-      "chemistry",
+      "physics",
       "easy"
     ],
     "active": true
@@ -1978,15 +1978,15 @@
     "category": "Science",
     "subcategory": "Physics",
     "difficulty": "medium",
-    "question": "Scientific concepts: Which planet is positioned closest to the Sun in our Solar System? (Ref #95)",
+    "question": "What fundamental law of elasticity states that within elastic limits, the restoring force exerted by a spring is directly proportional to its displacement (F = -kx)?",
     "options": [
-      "Venus",
-      "Mars",
-      "Mercury",
-      "Earth"
+      "Bernoulli's Principle",
+      "Pascal's Law",
+      "Hooke's Law",
+      "Archimedes' Principle"
     ],
     "correctAnswer": 2,
-    "explanation": "Mercury is the innermost and smallest planet in the Solar System, orbiting the Sun every 88 Earth days.",
+    "explanation": "Formulated by Robert Hooke in 1676, k represents the spring stiffness constant and x represents displacement from equilibrium.",
     "tags": [
       "science",
       "physics",
@@ -1995,64 +1995,64 @@
     "active": true
   },
   {
-    "id": "science-earth-astronomy-0096",
+    "id": "science-physics-0096",
     "category": "Science",
-    "subcategory": "Earth & Astronomy",
+    "subcategory": "Physics",
     "difficulty": "hard",
-    "question": "Scientific concepts: What is the pH value of pure neutral distilled water at 25 degrees Celsius? (Ref #96)",
+    "question": "What fluid dynamics principle states that an upward buoyant force exerted on a submerged body equals the weight of fluid displaced by the body?",
     "options": [
-      "pH 5.5",
-      "pH 8.5",
-      "pH 0.0",
-      "pH 7.0"
+      "Bernoulli's Principle",
+      "Pascal's Law",
+      "Torricelli's Law",
+      "Archimedes' Principle"
     ],
     "correctAnswer": 3,
-    "explanation": "Pure water has an equal concentration of hydrogen (H+) and hydroxide (OH-) ions, resulting in a neutral pH of 7.0.",
+    "explanation": "A floating object displaces a weight of fluid equal to its own total weight, enabling steel ships to float.",
     "tags": [
       "science",
-      "earth-astronomy",
+      "physics",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "science-cell-biology-0097",
+    "id": "science-physics-0097",
     "category": "Science",
-    "subcategory": "Cell Biology",
+    "subcategory": "Physics",
     "difficulty": "easy",
-    "question": "Scientific concepts: Which cellular organelle is universally referred to as the 'powerhouse of the cell' for generating ATP? (Ref #97)",
+    "question": "What physical law states that a pressure change applied to an enclosed, incompressible fluid is transmitted undiminished throughout the fluid and container walls?",
     "options": [
-      "Mitochondria",
-      "Ribosome",
-      "Golgi apparatus",
-      "Endoplasmic reticulum"
+      "Pascal's Principle (Pascal's Law)",
+      "Bernoulli's Principle",
+      "Archimedes' Principle",
+      "Boyle's Law"
     ],
     "correctAnswer": 0,
-    "explanation": "Mitochondria generate the majority of cellular adenosine triphosphate (ATP) through oxidative phosphorylation.",
+    "explanation": "Pascal's law underpins hydraulic systems (automobile brakes, hydraulic presses), multiplying mechanical input force.",
     "tags": [
       "science",
-      "cell-biology",
+      "physics",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "science-chemistry-0098",
+    "id": "science-physics-0098",
     "category": "Science",
-    "subcategory": "Chemistry",
+    "subcategory": "Physics",
     "difficulty": "medium",
-    "question": "Scientific concepts: What biological process enables green plants to convert sunlight, carbon dioxide, and water into glucose and oxygen? (Ref #98)",
+    "question": "What fluid dynamics principle states that an increase in the speed of an inviscid fluid occurs simultaneously with a decrease in static pressure or potential energy?",
     "options": [
-      "Cellular respiration",
-      "Photosynthesis",
-      "Fermentation",
-      "Transpiration"
+      "Pascal's Principle",
+      "Bernoulli's Principle",
+      "Torricelli's Law",
+      "Poiseuille's Law"
     ],
     "correctAnswer": 1,
-    "explanation": "Photosynthesis utilizes chlorophyll in chloroplasts to capture photon energy and synthesize sugar molecules.",
+    "explanation": "Derived from conservation of energy, Bernoulli's equation explains aerodynamic lift generation and venturi flow meters.",
     "tags": [
       "science",
-      "chemistry",
+      "physics",
       "medium"
     ],
     "active": true
@@ -2062,15 +2062,15 @@
     "category": "Science",
     "subcategory": "Physics",
     "difficulty": "hard",
-    "question": "Scientific concepts: What is the chemical element symbol for Gold on the periodic table? (Ref #99)",
+    "question": "What physical law states that the electrostatic force between two stationary electric charges is proportional to their product and inversely proportional to the square of their distance?",
     "options": [
-      "Ag",
-      "Fe",
-      "Au (from Latin Aurum)",
-      "Pt"
+      "Ohm's Law",
+      "Gauss's Law",
+      "Coulomb's Law",
+      "Ampere's Law"
     ],
     "correctAnswer": 2,
-    "explanation": "Gold has the chemical symbol Au, derived from its Latin name 'aurum', meaning shining dawn.",
+    "explanation": "Formulated by Charles-Augustin de Coulomb, like charges repel and opposite charges attract via inverse-square field geometry.",
     "tags": [
       "science",
       "physics",
@@ -2079,64 +2079,64 @@
     "active": true
   },
   {
-    "id": "science-earth-astronomy-0100",
+    "id": "science-physics-0100",
     "category": "Science",
-    "subcategory": "Earth & Astronomy",
+    "subcategory": "Physics",
     "difficulty": "easy",
-    "question": "Scientific concepts: According to Newton's First Law of Motion, what does an object at rest tend to do unless acted upon by a net external force? (Ref #100)",
+    "question": "What basic law of electricity defines the linear relationship between voltage (V), electric current (I), and electrical resistance (R) as V = IR?",
     "options": [
-      "Accelerate continuously",
-      "Decompose into smaller particles",
-      "Reverse its trajectory",
-      "Remain at rest (Law of Inertia)"
+      "Joule's Law",
+      "Kirchhoff's Current Law",
+      "Faraday's Law",
+      "Ohm's Law"
     ],
     "correctAnswer": 3,
-    "explanation": "Newton's first law states that an object at rest remains at rest, and an object in motion continues at constant velocity unless acted upon by a net force.",
+    "explanation": "Ohm's law governs linear electrical circuits: current is directly proportional to voltage and inversely proportional to resistance.",
     "tags": [
       "science",
-      "earth-astronomy",
+      "physics",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "science-cell-biology-0101",
+    "id": "science-physics-0101",
     "category": "Science",
-    "subcategory": "Cell Biology",
+    "subcategory": "Physics",
     "difficulty": "medium",
-    "question": "Scientific concepts: Which planet is positioned closest to the Sun in our Solar System? (Ref #101)",
+    "question": "What is the standard SI unit of electric current, defined by flow of one Coulomb of electrical charge per second?",
     "options": [
-      "Mercury",
-      "Venus",
-      "Mars",
-      "Earth"
+      "Ampere (A)",
+      "Volt (V)",
+      "Ohm",
+      "Watt (W)"
     ],
     "correctAnswer": 0,
-    "explanation": "Mercury is the innermost and smallest planet in the Solar System, orbiting the Sun every 88 Earth days.",
+    "explanation": "Named after Andre-Marie Ampere, the ampere quantifies rate of flow of elementary electrical charges through a conductor.",
     "tags": [
       "science",
-      "cell-biology",
+      "physics",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "science-chemistry-0102",
+    "id": "science-physics-0102",
     "category": "Science",
-    "subcategory": "Chemistry",
+    "subcategory": "Physics",
     "difficulty": "hard",
-    "question": "Scientific concepts: What is the pH value of pure neutral distilled water at 25 degrees Celsius? (Ref #102)",
+    "question": "What standard SI unit measures electrical potential difference and electromotive force?",
     "options": [
-      "pH 5.5",
-      "pH 7.0",
-      "pH 8.5",
-      "pH 0.0"
+      "Ampere (A)",
+      "Volt (V)",
+      "Ohm",
+      "Farad (F)"
     ],
     "correctAnswer": 1,
-    "explanation": "Pure water has an equal concentration of hydrogen (H+) and hydroxide (OH-) ions, resulting in a neutral pH of 7.0.",
+    "explanation": "One volt is defined as the electric potential difference between two points that imparts one joule of energy per coulomb of charge.",
     "tags": [
       "science",
-      "chemistry",
+      "physics",
       "hard"
     ],
     "active": true
@@ -2146,15 +2146,15 @@
     "category": "Science",
     "subcategory": "Physics",
     "difficulty": "easy",
-    "question": "Scientific concepts: Which cellular organelle is universally referred to as the 'powerhouse of the cell' for generating ATP? (Ref #103)",
+    "question": "What standard SI unit measures electrical resistance in an electric circuit?",
     "options": [
-      "Ribosome",
-      "Golgi apparatus",
-      "Mitochondria",
-      "Endoplasmic reticulum"
+      "Siemens",
+      "Henry",
+      "Ohm",
+      "Tesla"
     ],
     "correctAnswer": 2,
-    "explanation": "Mitochondria generate the majority of cellular adenosine triphosphate (ATP) through oxidative phosphorylation.",
+    "explanation": "One ohm of resistance allows one ampere of current to flow under a potential difference of one volt.",
     "tags": [
       "science",
       "physics",
@@ -2163,64 +2163,64 @@
     "active": true
   },
   {
-    "id": "science-earth-astronomy-0104",
+    "id": "science-physics-0104",
     "category": "Science",
-    "subcategory": "Earth & Astronomy",
+    "subcategory": "Physics",
     "difficulty": "medium",
-    "question": "Scientific concepts: What biological process enables green plants to convert sunlight, carbon dioxide, and water into glucose and oxygen? (Ref #104)",
+    "question": "What physical phenomenon describes the creation of an electromotive force (voltage) across an electrical conductor exposed to a changing magnetic field?",
     "options": [
-      "Cellular respiration",
-      "Fermentation",
-      "Transpiration",
-      "Photosynthesis"
+      "The Hall Effect",
+      "The Photoelectric Effect",
+      "Thermoelectric Effect",
+      "Electromagnetic Induction (Faraday's Law)"
     ],
     "correctAnswer": 3,
-    "explanation": "Photosynthesis utilizes chlorophyll in chloroplasts to capture photon energy and synthesize sugar molecules.",
+    "explanation": "Discovered by Michael Faraday in 1831, induction forms the operational basis of electric generators, transformers, and induction motors.",
     "tags": [
       "science",
-      "earth-astronomy",
+      "physics",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "science-cell-biology-0105",
+    "id": "science-physics-0105",
     "category": "Science",
-    "subcategory": "Cell Biology",
+    "subcategory": "Physics",
     "difficulty": "hard",
-    "question": "Scientific concepts: What is the chemical element symbol for Gold on the periodic table? (Ref #105)",
+    "question": "What law states that the direction of an induced electric current always opposes the magnetic flux change that produced it?",
     "options": [
-      "Au (from Latin Aurum)",
-      "Ag",
-      "Fe",
-      "Pt"
+      "Lenz's Law",
+      "Faraday's Law",
+      "Ampere's Law",
+      "Biot-Savart Law"
     ],
     "correctAnswer": 0,
-    "explanation": "Gold has the chemical symbol Au, derived from its Latin name 'aurum', meaning shining dawn.",
+    "explanation": "Lenz's law enforces conservation of energy, dictating the negative sign in Faraday's mathematical equation.",
     "tags": [
       "science",
-      "cell-biology",
+      "physics",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "science-chemistry-0106",
+    "id": "science-physics-0106",
     "category": "Science",
-    "subcategory": "Chemistry",
+    "subcategory": "Physics",
     "difficulty": "easy",
-    "question": "Scientific concepts: According to Newton's First Law of Motion, what does an object at rest tend to do unless acted upon by a net external force? (Ref #106)",
+    "question": "What four classical mathematical equations formulated by a Scottish physicist unify electricity, magnetism, and light into classical electromagnetism?",
     "options": [
-      "Accelerate continuously",
-      "Remain at rest (Law of Inertia)",
-      "Decompose into smaller particles",
-      "Reverse its trajectory"
+      "Newton's Laws",
+      "Maxwell's Equations",
+      "Einstein's Field Equations",
+      "Schrodinger's Equations"
     ],
     "correctAnswer": 1,
-    "explanation": "Newton's first law states that an object at rest remains at rest, and an object in motion continues at constant velocity unless acted upon by a net force.",
+    "explanation": "James Clerk Maxwell demonstrated in 1865 that electric and magnetic fields propagate through empty space as transverse waves at the speed of light.",
     "tags": [
       "science",
-      "chemistry",
+      "physics",
       "easy"
     ],
     "active": true
@@ -2230,15 +2230,15 @@
     "category": "Science",
     "subcategory": "Physics",
     "difficulty": "medium",
-    "question": "Scientific concepts: Which planet is positioned closest to the Sun in our Solar System? (Ref #107)",
+    "question": "What type of wave features particle displacement perpendicular (at right angles) to the direction of wave propagation (e.g., light waves)?",
     "options": [
-      "Venus",
-      "Mars",
-      "Mercury",
-      "Earth"
+      "Longitudinal Wave",
+      "Compressional Wave",
+      "Transverse Wave",
+      "Standing Wave"
     ],
     "correctAnswer": 2,
-    "explanation": "Mercury is the innermost and smallest planet in the Solar System, orbiting the Sun every 88 Earth days.",
+    "explanation": "Electromagnetic waves and shear S-waves are transverse waves that can be physically polarized.",
     "tags": [
       "science",
       "physics",
@@ -2247,64 +2247,64 @@
     "active": true
   },
   {
-    "id": "science-earth-astronomy-0108",
+    "id": "science-physics-0108",
     "category": "Science",
-    "subcategory": "Earth & Astronomy",
+    "subcategory": "Physics",
     "difficulty": "hard",
-    "question": "Scientific concepts: What is the pH value of pure neutral distilled water at 25 degrees Celsius? (Ref #108)",
+    "question": "What type of mechanical wave features particle displacement parallel to the direction of wave energy propagation (e.g., sound waves in air)?",
     "options": [
-      "pH 5.5",
-      "pH 8.5",
-      "pH 0.0",
-      "pH 7.0"
+      "Transverse Wave",
+      "Surface Wave",
+      "Torsional Wave",
+      "Longitudinal Wave"
     ],
     "correctAnswer": 3,
-    "explanation": "Pure water has an equal concentration of hydrogen (H+) and hydroxide (OH-) ions, resulting in a neutral pH of 7.0.",
+    "explanation": "Sound travels through air via alternating compressions (high density) and rarefactions (low density) along the axis of propagation.",
     "tags": [
       "science",
-      "earth-astronomy",
+      "physics",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "science-cell-biology-0109",
+    "id": "science-physics-0109",
     "category": "Science",
-    "subcategory": "Cell Biology",
+    "subcategory": "Physics",
     "difficulty": "easy",
-    "question": "Scientific concepts: Which cellular organelle is universally referred to as the 'powerhouse of the cell' for generating ATP? (Ref #109)",
+    "question": "What is the standard SI unit of wave frequency, measuring the number of complete periodic cycles per second?",
     "options": [
-      "Mitochondria",
-      "Ribosome",
-      "Golgi apparatus",
-      "Endoplasmic reticulum"
+      "Hertz (Hz)",
+      "Becquerel",
+      "Radian",
+      "Decibel"
     ],
     "correctAnswer": 0,
-    "explanation": "Mitochondria generate the majority of cellular adenosine triphosphate (ATP) through oxidative phosphorylation.",
+    "explanation": "Named after Heinrich Hertz who proved electromagnetic waves, 1 Hz represents one complete wave oscillation per second.",
     "tags": [
       "science",
-      "cell-biology",
+      "physics",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "science-chemistry-0110",
+    "id": "science-physics-0110",
     "category": "Science",
-    "subcategory": "Chemistry",
+    "subcategory": "Physics",
     "difficulty": "medium",
-    "question": "Scientific concepts: What biological process enables green plants to convert sunlight, carbon dioxide, and water into glucose and oxygen? (Ref #110)",
+    "question": "What physical wave phenomenon describes the apparent shift in observed frequency and pitch of a wave when source and observer move relative to each other?",
     "options": [
-      "Cellular respiration",
-      "Photosynthesis",
-      "Fermentation",
-      "Transpiration"
+      "Wave Refraction",
+      "The Doppler Effect",
+      "Wave Diffraction",
+      "The Compton Effect"
     ],
     "correctAnswer": 1,
-    "explanation": "Photosynthesis utilizes chlorophyll in chloroplasts to capture photon energy and synthesize sugar molecules.",
+    "explanation": "Approaching sound sources compress waves into higher frequencies (higher pitch); receding sources stretch waves into lower frequencies.",
     "tags": [
       "science",
-      "chemistry",
+      "physics",
       "medium"
     ],
     "active": true
@@ -2314,15 +2314,15 @@
     "category": "Science",
     "subcategory": "Physics",
     "difficulty": "hard",
-    "question": "Scientific concepts: What is the chemical element symbol for Gold on the periodic table? (Ref #111)",
+    "question": "What optical phenomenon describes the bending of a light wave as it passes at an angle from one optical medium into another with a different refractive index?",
     "options": [
-      "Ag",
-      "Fe",
-      "Au (from Latin Aurum)",
-      "Pt"
+      "Reflection",
+      "Diffraction",
+      "Refraction",
+      "Polarization"
     ],
     "correctAnswer": 2,
-    "explanation": "Gold has the chemical symbol Au, derived from its Latin name 'aurum', meaning shining dawn.",
+    "explanation": "Light changes velocity when entering media of differing optical densities, described mathematically by Snell's Law.",
     "tags": [
       "science",
       "physics",
@@ -2331,64 +2331,64 @@
     "active": true
   },
   {
-    "id": "science-earth-astronomy-0112",
+    "id": "science-physics-0112",
     "category": "Science",
-    "subcategory": "Earth & Astronomy",
+    "subcategory": "Physics",
     "difficulty": "easy",
-    "question": "Scientific concepts: According to Newton's First Law of Motion, what does an object at rest tend to do unless acted upon by a net external force? (Ref #112)",
+    "question": "What physical principle states that every point on a propagating wavefront can be considered a source of secondary spherical wavelets?",
     "options": [
-      "Accelerate continuously",
-      "Decompose into smaller particles",
-      "Reverse its trajectory",
-      "Remain at rest (Law of Inertia)"
+      "Fermat's Principle",
+      "Babinet's Principle",
+      "Bragg's Law",
+      "Huygens' Principle"
     ],
     "correctAnswer": 3,
-    "explanation": "Newton's first law states that an object at rest remains at rest, and an object in motion continues at constant velocity unless acted upon by a net force.",
+    "explanation": "Huygens' construction explains wave diffraction around obstacles and refraction through optical interfaces.",
     "tags": [
       "science",
-      "earth-astronomy",
+      "physics",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "science-cell-biology-0113",
+    "id": "science-physics-0113",
     "category": "Science",
-    "subcategory": "Cell Biology",
+    "subcategory": "Physics",
     "difficulty": "medium",
-    "question": "Scientific concepts: Which planet is positioned closest to the Sun in our Solar System? (Ref #113)",
+    "question": "What optical phenomenon occurs when light propagating in a denser medium strikes an interface at an angle greater than the critical angle, reflecting 100% back into the medium?",
     "options": [
-      "Mercury",
-      "Venus",
-      "Mars",
-      "Earth"
+      "Total Internal Reflection",
+      "Specular Reflection",
+      "Diffuse Refraction",
+      "Optical Birefringence"
     ],
     "correctAnswer": 0,
-    "explanation": "Mercury is the innermost and smallest planet in the Solar System, orbiting the Sun every 88 Earth days.",
+    "explanation": "Total internal reflection confines light pulses inside fiber-optic cables with virtually zero transmission leakage.",
     "tags": [
       "science",
-      "cell-biology",
+      "physics",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "science-chemistry-0114",
+    "id": "science-physics-0114",
     "category": "Science",
-    "subcategory": "Chemistry",
+    "subcategory": "Physics",
     "difficulty": "hard",
-    "question": "Scientific concepts: What is the pH value of pure neutral distilled water at 25 degrees Celsius? (Ref #114)",
+    "question": "What quantum phenomenon, explained by Albert Einstein in 1905, involves the instantaneous ejection of electrons from a metal surface struck by light photons?",
     "options": [
-      "pH 5.5",
-      "pH 7.0",
-      "pH 8.5",
-      "pH 0.0"
+      "The Compton Effect",
+      "The Photoelectric Effect",
+      "The Zeeman Effect",
+      "Thermionic Emission"
     ],
     "correctAnswer": 1,
-    "explanation": "Pure water has an equal concentration of hydrogen (H+) and hydroxide (OH-) ions, resulting in a neutral pH of 7.0.",
+    "explanation": "Einstein proved light behaves as quantized discrete energy packets (photons, E = hf), earning the 1921 Nobel Prize in Physics.",
     "tags": [
       "science",
-      "chemistry",
+      "physics",
       "hard"
     ],
     "active": true
@@ -2398,15 +2398,15 @@
     "category": "Science",
     "subcategory": "Physics",
     "difficulty": "easy",
-    "question": "Scientific concepts: Which cellular organelle is universally referred to as the 'powerhouse of the cell' for generating ATP? (Ref #115)",
+    "question": "What fundamental quantum principle formulated by Werner Heisenberg states that one cannot simultaneously know with arbitrary precision both the position and momentum of a subatomic particle?",
     "options": [
-      "Ribosome",
-      "Golgi apparatus",
-      "Mitochondria",
-      "Endoplasmic reticulum"
+      "The Pauli Exclusion Principle",
+      "The Correspondence Principle",
+      "The Heisenberg Uncertainty Principle",
+      "Bell's Theorem"
     ],
     "correctAnswer": 2,
-    "explanation": "Mitochondria generate the majority of cellular adenosine triphosphate (ATP) through oxidative phosphorylation.",
+    "explanation": "The product of position uncertainty (Delta x) and momentum uncertainty (Delta p) must be greater than or equal to h-bar / 2.",
     "tags": [
       "science",
       "physics",
@@ -2415,64 +2415,64 @@
     "active": true
   },
   {
-    "id": "science-earth-astronomy-0116",
+    "id": "science-physics-0116",
     "category": "Science",
-    "subcategory": "Earth & Astronomy",
+    "subcategory": "Physics",
     "difficulty": "medium",
-    "question": "Scientific concepts: What biological process enables green plants to convert sunlight, carbon dioxide, and water into glucose and oxygen? (Ref #116)",
+    "question": "What quantum mechanical rule states that two identical fermions (such as electrons) cannot occupy the exact same quantum state simultaneously within a quantum system?",
     "options": [
-      "Cellular respiration",
-      "Fermentation",
-      "Transpiration",
-      "Photosynthesis"
+      "Hund's Rule",
+      "The Aufbau Principle",
+      "The Heisenberg Principle",
+      "The Pauli Exclusion Principle"
     ],
     "correctAnswer": 3,
-    "explanation": "Photosynthesis utilizes chlorophyll in chloroplasts to capture photon energy and synthesize sugar molecules.",
+    "explanation": "Formulated by Wolfgang Pauli, this exclusion explains electron shell configurations and prevents matter from collapsing.",
     "tags": [
       "science",
-      "earth-astronomy",
+      "physics",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "science-cell-biology-0117",
+    "id": "science-physics-0117",
     "category": "Science",
-    "subcategory": "Cell Biology",
+    "subcategory": "Physics",
     "difficulty": "hard",
-    "question": "Scientific concepts: What is the chemical element symbol for Gold on the periodic table? (Ref #117)",
+    "question": "What quantum concept asserts that all matter and light exhibit behaviors characteristic of both localized particles and continuous waves?",
     "options": [
-      "Au (from Latin Aurum)",
-      "Ag",
-      "Fe",
-      "Pt"
+      "Wave-Particle Duality",
+      "Quantum Entanglement",
+      "Quantum Tunneling",
+      "Superposition"
     ],
     "correctAnswer": 0,
-    "explanation": "Gold has the chemical symbol Au, derived from its Latin name 'aurum', meaning shining dawn.",
+    "explanation": "Louis de Broglie demonstrated in 1924 that moving particles with momentum p possess a matter wavelength equal to h / p.",
     "tags": [
       "science",
-      "cell-biology",
+      "physics",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "science-chemistry-0118",
+    "id": "science-physics-0118",
     "category": "Science",
-    "subcategory": "Chemistry",
+    "subcategory": "Physics",
     "difficulty": "easy",
-    "question": "Scientific concepts: According to Newton's First Law of Motion, what does an object at rest tend to do unless acted upon by a net external force? (Ref #118)",
+    "question": "What revolutionary 1905 physical equation demonstrates the equivalence and interconvertibility of mass (m) and energy (E)?",
     "options": [
-      "Accelerate continuously",
-      "Remain at rest (Law of Inertia)",
-      "Decompose into smaller particles",
-      "Reverse its trajectory"
+      "F = ma",
+      "E = mc^2",
+      "p = mv",
+      "Delta E = hf"
     ],
     "correctAnswer": 1,
-    "explanation": "Newton's first law states that an object at rest remains at rest, and an object in motion continues at constant velocity unless acted upon by a net force.",
+    "explanation": "Einstein's mass-energy equivalence dictates that small amounts of mass convert into colossal releases of energy in nuclear reactions.",
     "tags": [
       "science",
-      "chemistry",
+      "physics",
       "easy"
     ],
     "active": true
@@ -2482,15 +2482,15 @@
     "category": "Science",
     "subcategory": "Physics",
     "difficulty": "medium",
-    "question": "Scientific concepts: Which planet is positioned closest to the Sun in our Solar System? (Ref #119)",
+    "question": "What theoretical maximum speed in the universe dictates that no physical mass or information can travel faster than light in a vacuum?",
     "options": [
-      "Venus",
-      "Mars",
-      "Mercury",
-      "Earth"
+      "Escape Velocity",
+      "The Sound Barrier (Mach 1)",
+      "The Speed of Light (c)",
+      "Terminal Velocity"
     ],
     "correctAnswer": 2,
-    "explanation": "Mercury is the innermost and smallest planet in the Solar System, orbiting the Sun every 88 Earth days.",
+    "explanation": "Special Relativity proves that accelerating an object with mass to light speed requires infinite energy, making 'c' the absolute speed limit.",
     "tags": [
       "science",
       "physics",
@@ -2499,85 +2499,85 @@
     "active": true
   },
   {
-    "id": "science-earth-astronomy-0120",
+    "id": "science-physics-0120",
     "category": "Science",
-    "subcategory": "Earth & Astronomy",
+    "subcategory": "Physics",
     "difficulty": "hard",
-    "question": "Scientific concepts: What is the pH value of pure neutral distilled water at 25 degrees Celsius? (Ref #120)",
+    "question": "What general relativity concept explains gravity not as an invisible pull force, but as the curvature of four-dimensional spacetime caused by mass and energy?",
     "options": [
-      "pH 5.5",
-      "pH 8.5",
-      "pH 0.0",
-      "pH 7.0"
+      "String Theory",
+      "Newtonian Universal Gravitation",
+      "Loop Quantum Gravity",
+      "Spacetime Curvature (General Relativity)"
     ],
     "correctAnswer": 3,
-    "explanation": "Pure water has an equal concentration of hydrogen (H+) and hydroxide (OH-) ions, resulting in a neutral pH of 7.0.",
+    "explanation": "Einstein showed in 1915 that massive celestial objects warp the surrounding fabric of spacetime, dictating the orbital paths of matter and light.",
     "tags": [
       "science",
-      "earth-astronomy",
+      "physics",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "science-cell-biology-0121",
+    "id": "science-earth-astronomy-0121",
     "category": "Science",
-    "subcategory": "Cell Biology",
+    "subcategory": "Earth & Astronomy",
     "difficulty": "easy",
-    "question": "Scientific concepts: Which cellular organelle is universally referred to as the 'powerhouse of the cell' for generating ATP? (Ref #121)",
+    "question": "What is the approximate scientific age of planet Earth, determined through radiometric dating of meteorite material and ancient zircon crystals?",
     "options": [
-      "Mitochondria",
-      "Ribosome",
-      "Golgi apparatus",
-      "Endoplasmic reticulum"
+      "Approximately 4.54 billion years old",
+      "3.0 billion years",
+      "6.2 billion years",
+      "1.5 billion years"
     ],
     "correctAnswer": 0,
-    "explanation": "Mitochondria generate the majority of cellular adenosine triphosphate (ATP) through oxidative phosphorylation.",
+    "explanation": "Uranium-lead radiometric dating of ancient meteorites yields an age of 4.54 +/- 0.05 billion years for the Solar System and Earth.",
     "tags": [
       "science",
-      "cell-biology",
+      "earth-astronomy",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "science-chemistry-0122",
+    "id": "science-earth-astronomy-0122",
     "category": "Science",
-    "subcategory": "Chemistry",
+    "subcategory": "Earth & Astronomy",
     "difficulty": "medium",
-    "question": "Scientific concepts: What biological process enables green plants to convert sunlight, carbon dioxide, and water into glucose and oxygen? (Ref #122)",
+    "question": "What is the approximate estimated age of the universe since the Big Bang event, calculated from cosmic microwave background data?",
     "options": [
-      "Cellular respiration",
-      "Photosynthesis",
-      "Fermentation",
-      "Transpiration"
+      "10.0 billion years",
+      "Approximately 13.8 billion years old",
+      "20.0 billion years",
+      "8.5 billion years"
     ],
     "correctAnswer": 1,
-    "explanation": "Photosynthesis utilizes chlorophyll in chloroplasts to capture photon energy and synthesize sugar molecules.",
+    "explanation": "Precision measurements by the ESA Planck satellite confirm the age of our expanding universe at 13.787 +/- 0.020 billion years.",
     "tags": [
       "science",
-      "chemistry",
+      "earth-astronomy",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "science-physics-0123",
+    "id": "science-earth-astronomy-0123",
     "category": "Science",
-    "subcategory": "Physics",
+    "subcategory": "Earth & Astronomy",
     "difficulty": "hard",
-    "question": "Scientific concepts: What is the chemical element symbol for Gold on the periodic table? (Ref #123)",
+    "question": "What faint, uniform relic thermal radiation filling the observable universe provides primary observational proof of the Big Bang?",
     "options": [
-      "Ag",
-      "Fe",
-      "Au (from Latin Aurum)",
-      "Pt"
+      "Cosmic Ray Flux",
+      "Solar Wind Radiation",
+      "The Cosmic Microwave Background (CMB)",
+      "Synchrotron Radiation"
     ],
     "correctAnswer": 2,
-    "explanation": "Gold has the chemical symbol Au, derived from its Latin name 'aurum', meaning shining dawn.",
+    "explanation": "Discovered in 1965 by Penzias and Wilson, the CMB is redshifted thermal radiation from recombination 380,000 years post-Big Bang.",
     "tags": [
       "science",
-      "physics",
+      "earth-astronomy",
       "hard"
     ],
     "active": true
@@ -2587,15 +2587,15 @@
     "category": "Science",
     "subcategory": "Earth & Astronomy",
     "difficulty": "easy",
-    "question": "Scientific concepts: According to Newton's First Law of Motion, what does an object at rest tend to do unless acted upon by a net external force? (Ref #124)",
+    "question": "What astronomical effect describes the stretching of light toward longer wavelengths as distant galaxies accelerate away from Earth in an expanding universe?",
     "options": [
-      "Accelerate continuously",
-      "Decompose into smaller particles",
-      "Reverse its trajectory",
-      "Remain at rest (Law of Inertia)"
+      "Cosmological Blueshift",
+      "Gravitational Lensing",
+      "Rayleigh Scattering",
+      "Cosmological Redshift"
     ],
     "correctAnswer": 3,
-    "explanation": "Newton's first law states that an object at rest remains at rest, and an object in motion continues at constant velocity unless acted upon by a net force.",
+    "explanation": "Edwin Hubble discovered in 1929 that distant galaxies exhibit spectral line redshifting proportional to distance (Hubble's Law).",
     "tags": [
       "science",
       "earth-astronomy",
@@ -2604,64 +2604,64 @@
     "active": true
   },
   {
-    "id": "science-cell-biology-0125",
+    "id": "science-earth-astronomy-0125",
     "category": "Science",
-    "subcategory": "Cell Biology",
+    "subcategory": "Earth & Astronomy",
     "difficulty": "medium",
-    "question": "Scientific concepts: Which planet is positioned closest to the Sun in our Solar System? (Ref #125)",
+    "question": "What mysterious, invisible form of matter accounts for roughly 27% of the mass-energy content of the universe, holding galaxies together with gravity?",
     "options": [
-      "Mercury",
-      "Venus",
-      "Mars",
-      "Earth"
+      "Dark Matter",
+      "Dark Energy",
+      "Baryonic Matter",
+      "Antimatter"
     ],
     "correctAnswer": 0,
-    "explanation": "Mercury is the innermost and smallest planet in the Solar System, orbiting the Sun every 88 Earth days.",
+    "explanation": "Dark matter does not interact with electromagnetic radiation but reveals its presence through gravitational lensing and galaxy rotation curves.",
     "tags": [
       "science",
-      "cell-biology",
+      "earth-astronomy",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "science-chemistry-0126",
+    "id": "science-earth-astronomy-0126",
     "category": "Science",
-    "subcategory": "Chemistry",
+    "subcategory": "Earth & Astronomy",
     "difficulty": "hard",
-    "question": "Scientific concepts: What is the pH value of pure neutral distilled water at 25 degrees Celsius? (Ref #126)",
+    "question": "What pervasive, hypothetical form of energy accounts for roughly 68% of the universe and drives the accelerated expansion of the cosmos?",
     "options": [
-      "pH 5.5",
-      "pH 7.0",
-      "pH 8.5",
-      "pH 0.0"
+      "Dark Matter",
+      "Dark Energy",
+      "Vacuum Radiative Energy",
+      "Zero-Point Energy"
     ],
     "correctAnswer": 1,
-    "explanation": "Pure water has an equal concentration of hydrogen (H+) and hydroxide (OH-) ions, resulting in a neutral pH of 7.0.",
+    "explanation": "Discovered in 1998 via Type Ia supernovae observations, dark energy exerts negative pressure accelerating cosmic expansion.",
     "tags": [
       "science",
-      "chemistry",
+      "earth-astronomy",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "science-physics-0127",
+    "id": "science-earth-astronomy-0127",
     "category": "Science",
-    "subcategory": "Physics",
+    "subcategory": "Earth & Astronomy",
     "difficulty": "easy",
-    "question": "Scientific concepts: Which cellular organelle is universally referred to as the 'powerhouse of the cell' for generating ATP? (Ref #127)",
+    "question": "What type of galaxy is our home galaxy, the Milky Way, characterized by pinwheel spiral arms extending from a central stellar bar?",
     "options": [
-      "Ribosome",
-      "Golgi apparatus",
-      "Mitochondria",
-      "Endoplasmic reticulum"
+      "Elliptical Galaxy",
+      "Irregular Galaxy",
+      "Barred Spiral Galaxy",
+      "Lenticular Galaxy"
     ],
     "correctAnswer": 2,
-    "explanation": "Mitochondria generate the majority of cellular adenosine triphosphate (ATP) through oxidative phosphorylation.",
+    "explanation": "The Milky Way is a barred spiral galaxy (SBb classification) spanning approximately 100,000 light-years in diameter.",
     "tags": [
       "science",
-      "physics",
+      "earth-astronomy",
       "easy"
     ],
     "active": true
@@ -2671,15 +2671,15 @@
     "category": "Science",
     "subcategory": "Earth & Astronomy",
     "difficulty": "medium",
-    "question": "Scientific concepts: What biological process enables green plants to convert sunlight, carbon dioxide, and water into glucose and oxygen? (Ref #128)",
+    "question": "What is the supermassive black hole situated at the exact gravitational center of the Milky Way galaxy?",
     "options": [
-      "Cellular respiration",
-      "Fermentation",
-      "Transpiration",
-      "Photosynthesis"
+      "Cygnus X-1",
+      "M87*",
+      "Centaurus A",
+      "Sagittarius A* (Sgr A*)"
     ],
     "correctAnswer": 3,
-    "explanation": "Photosynthesis utilizes chlorophyll in chloroplasts to capture photon energy and synthesize sugar molecules.",
+    "explanation": "Sagittarius A* possesses a mass equivalent to approximately 4.1 million times the mass of our Sun.",
     "tags": [
       "science",
       "earth-astronomy",
@@ -2688,64 +2688,64 @@
     "active": true
   },
   {
-    "id": "science-cell-biology-0129",
+    "id": "science-earth-astronomy-0129",
     "category": "Science",
-    "subcategory": "Cell Biology",
+    "subcategory": "Earth & Astronomy",
     "difficulty": "hard",
-    "question": "Scientific concepts: What is the chemical element symbol for Gold on the periodic table? (Ref #129)",
+    "question": "What is the nearest major spiral galaxy to the Milky Way, destined to collide and merge with our galaxy in about 4.5 billion years?",
     "options": [
-      "Au (from Latin Aurum)",
-      "Ag",
-      "Fe",
-      "Pt"
+      "The Andromeda Galaxy (Messier 31 / M31)",
+      "The Triangulum Galaxy (M33)",
+      "The Large Magellanic Cloud",
+      "The Small Magellanic Cloud"
     ],
     "correctAnswer": 0,
-    "explanation": "Gold has the chemical symbol Au, derived from its Latin name 'aurum', meaning shining dawn.",
+    "explanation": "Andromeda is a spiral galaxy situated approximately 2.5 million light-years from Earth, approaching at 110 km/second.",
     "tags": [
       "science",
-      "cell-biology",
+      "earth-astronomy",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "science-chemistry-0130",
+    "id": "science-earth-astronomy-0130",
     "category": "Science",
-    "subcategory": "Chemistry",
+    "subcategory": "Earth & Astronomy",
     "difficulty": "easy",
-    "question": "Scientific concepts: According to Newton's First Law of Motion, what does an object at rest tend to do unless acted upon by a net external force? (Ref #130)",
+    "question": "What astronomical unit of length is defined as the average distance between the center of the Earth and the center of the Sun (about 93 million miles)?",
     "options": [
-      "Accelerate continuously",
-      "Remain at rest (Law of Inertia)",
-      "Decompose into smaller particles",
-      "Reverse its trajectory"
+      "Light-Year",
+      "Astronomical Unit (AU)",
+      "Parsec",
+      "Kiloparsec"
     ],
     "correctAnswer": 1,
-    "explanation": "Newton's first law states that an object at rest remains at rest, and an object in motion continues at constant velocity unless acted upon by a net force.",
+    "explanation": "One AU equals exactly 149,597,870,700 meters, serving as the standard distance scale within our Solar System.",
     "tags": [
       "science",
-      "chemistry",
+      "earth-astronomy",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "science-physics-0131",
+    "id": "science-earth-astronomy-0131",
     "category": "Science",
-    "subcategory": "Physics",
+    "subcategory": "Earth & Astronomy",
     "difficulty": "medium",
-    "question": "Scientific concepts: Which planet is positioned closest to the Sun in our Solar System? (Ref #131)",
+    "question": "What astronomical distance unit defines the physical distance that a light photon travels through a vacuum in one Julian year (about 5.88 trillion miles)?",
     "options": [
-      "Venus",
-      "Mars",
-      "Mercury",
-      "Earth"
+      "Astronomical Unit (AU)",
+      "Parsec (pc)",
+      "Light-Year (ly)",
+      "Megaparsec"
     ],
     "correctAnswer": 2,
-    "explanation": "Mercury is the innermost and smallest planet in the Solar System, orbiting the Sun every 88 Earth days.",
+    "explanation": "A light-year measures distance rather than time, equaling approximately 9.46 trillion kilometers (5.88 trillion miles).",
     "tags": [
       "science",
-      "physics",
+      "earth-astronomy",
       "medium"
     ],
     "active": true
@@ -2755,15 +2755,15 @@
     "category": "Science",
     "subcategory": "Earth & Astronomy",
     "difficulty": "hard",
-    "question": "Scientific concepts: What is the pH value of pure neutral distilled water at 25 degrees Celsius? (Ref #132)",
+    "question": "What astronomical distance unit, equal to approximately 3.26 light-years, is based on the parallax angle of one arcsecond across Earth's orbit?",
     "options": [
-      "pH 5.5",
-      "pH 8.5",
-      "pH 0.0",
-      "pH 7.0"
+      "Light-Year",
+      "Astronomical Unit",
+      "Fermi",
+      "Parsec (pc)"
     ],
     "correctAnswer": 3,
-    "explanation": "Pure water has an equal concentration of hydrogen (H+) and hydroxide (OH-) ions, resulting in a neutral pH of 7.0.",
+    "explanation": "Parallax-second ('parsec') is the preferred unit among astrophysicists for measuring distances to stars and distant galaxies.",
     "tags": [
       "science",
       "earth-astronomy",
@@ -2772,64 +2772,64 @@
     "active": true
   },
   {
-    "id": "science-cell-biology-0133",
+    "id": "science-earth-astronomy-0133",
     "category": "Science",
-    "subcategory": "Cell Biology",
+    "subcategory": "Earth & Astronomy",
     "difficulty": "easy",
-    "question": "Scientific concepts: Which cellular organelle is universally referred to as the 'powerhouse of the cell' for generating ATP? (Ref #133)",
+    "question": "What is the closest star system to our Solar System, located approximately 4.24 light-years away from Earth?",
     "options": [
-      "Mitochondria",
-      "Ribosome",
-      "Golgi apparatus",
-      "Endoplasmic reticulum"
+      "Alpha Centauri (specifically Proxima Centauri)",
+      "Barnard's Star",
+      "Sirius (Dog Star)",
+      "Wolf 359"
     ],
     "correctAnswer": 0,
-    "explanation": "Mitochondria generate the majority of cellular adenosine triphosphate (ATP) through oxidative phosphorylation.",
+    "explanation": "Proxima Centauri is a faint red dwarf star in the triple-star Alpha Centauri system, orbited by terrestrial exoplanets.",
     "tags": [
       "science",
-      "cell-biology",
+      "earth-astronomy",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "science-chemistry-0134",
+    "id": "science-earth-astronomy-0134",
     "category": "Science",
-    "subcategory": "Chemistry",
+    "subcategory": "Earth & Astronomy",
     "difficulty": "medium",
-    "question": "Scientific concepts: What biological process enables green plants to convert sunlight, carbon dioxide, and water into glucose and oxygen? (Ref #134)",
+    "question": "What is the brightest individual star visible in the night sky as seen from Earth, located in the constellation Canis Major?",
     "options": [
-      "Cellular respiration",
-      "Photosynthesis",
-      "Fermentation",
-      "Transpiration"
+      "Betelgeuse",
+      "Sirius (The Dog Star)",
+      "Rigel",
+      "Vega"
     ],
     "correctAnswer": 1,
-    "explanation": "Photosynthesis utilizes chlorophyll in chloroplasts to capture photon energy and synthesize sugar molecules.",
+    "explanation": "Sirius has an apparent visual magnitude of -1.46, shining brightly due to its luminosity and proximity (8.6 light-years).",
     "tags": [
       "science",
-      "chemistry",
+      "earth-astronomy",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "science-physics-0135",
+    "id": "science-earth-astronomy-0135",
     "category": "Science",
-    "subcategory": "Physics",
+    "subcategory": "Earth & Astronomy",
     "difficulty": "hard",
-    "question": "Scientific concepts: What is the chemical element symbol for Gold on the periodic table? (Ref #135)",
+    "question": "What thermonuclear process in the core of our Sun converts hydrogen nuclei into helium, releasing colossal radiant energy?",
     "options": [
-      "Ag",
-      "Fe",
-      "Au (from Latin Aurum)",
-      "Pt"
+      "Nuclear Fission",
+      "Radioactive Alpha Decay",
+      "Nuclear Fusion (Proton-Proton Chain)",
+      "Chemical Combustion"
     ],
     "correctAnswer": 2,
-    "explanation": "Gold has the chemical symbol Au, derived from its Latin name 'aurum', meaning shining dawn.",
+    "explanation": "Every second, the Sun fuses 600 million tons of hydrogen into helium, converting mass deficit directly into solar radiation.",
     "tags": [
       "science",
-      "physics",
+      "earth-astronomy",
       "hard"
     ],
     "active": true
@@ -2839,15 +2839,15 @@
     "category": "Science",
     "subcategory": "Earth & Astronomy",
     "difficulty": "easy",
-    "question": "Scientific concepts: According to Newton's First Law of Motion, what does an object at rest tend to do unless acted upon by a net external force? (Ref #136)",
+    "question": "What visible surface layer of the Sun emits the sunlight and light photons that we observe from Earth?",
     "options": [
-      "Accelerate continuously",
-      "Decompose into smaller particles",
-      "Reverse its trajectory",
-      "Remain at rest (Law of Inertia)"
+      "The Chromosphere",
+      "The Corona",
+      "The Radiation Zone",
+      "The Photosphere"
     ],
     "correctAnswer": 3,
-    "explanation": "Newton's first law states that an object at rest remains at rest, and an object in motion continues at constant velocity unless acted upon by a net force.",
+    "explanation": "The photosphere is a 300-mile-thick plasma layer with an effective surface temperature of approximately 5,500 degrees Celsius (9,900 F).",
     "tags": [
       "science",
       "earth-astronomy",
@@ -2856,64 +2856,64 @@
     "active": true
   },
   {
-    "id": "science-cell-biology-0137",
+    "id": "science-earth-astronomy-0137",
     "category": "Science",
-    "subcategory": "Cell Biology",
+    "subcategory": "Earth & Astronomy",
     "difficulty": "medium",
-    "question": "Scientific concepts: Which planet is positioned closest to the Sun in our Solar System? (Ref #137)",
+    "question": "What tenuous, high-temperature outermost plasma atmosphere of the Sun is visible to the naked eye as a white halo only during a total solar eclipse?",
     "options": [
-      "Mercury",
-      "Venus",
-      "Mars",
-      "Earth"
+      "The Corona",
+      "The Photosphere",
+      "The Chromosphere",
+      "The Convective Zone"
     ],
     "correctAnswer": 0,
-    "explanation": "Mercury is the innermost and smallest planet in the Solar System, orbiting the Sun every 88 Earth days.",
+    "explanation": "The solar corona reaches temperatures exceeding 1 to 3 million Kelvin, accelerated by magnetic reconnection events.",
     "tags": [
       "science",
-      "cell-biology",
+      "earth-astronomy",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "science-chemistry-0138",
+    "id": "science-earth-astronomy-0138",
     "category": "Science",
-    "subcategory": "Chemistry",
+    "subcategory": "Earth & Astronomy",
     "difficulty": "hard",
-    "question": "Scientific concepts: What is the pH value of pure neutral distilled water at 25 degrees Celsius? (Ref #138)",
+    "question": "What stream of charged plasma particles (electrons and protons) ejected from the Sun's corona flows continuously through the Solar System?",
     "options": [
-      "pH 5.5",
-      "pH 7.0",
-      "pH 8.5",
-      "pH 0.0"
+      "Cosmic Rays",
+      "The Solar Wind",
+      "The Van Allen Belt",
+      "Coronal Mass Discharge"
     ],
     "correctAnswer": 1,
-    "explanation": "Pure water has an equal concentration of hydrogen (H+) and hydroxide (OH-) ions, resulting in a neutral pH of 7.0.",
+    "explanation": "The solar wind travels at 400 to 800 km/s, carving the heliosphere bubble and driving auroras on magnetized planets.",
     "tags": [
       "science",
-      "chemistry",
+      "earth-astronomy",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "science-physics-0139",
+    "id": "science-earth-astronomy-0139",
     "category": "Science",
-    "subcategory": "Physics",
+    "subcategory": "Earth & Astronomy",
     "difficulty": "easy",
-    "question": "Scientific concepts: Which cellular organelle is universally referred to as the 'powerhouse of the cell' for generating ATP? (Ref #139)",
+    "question": "What temporary dark blemishes on the Sun's photosphere are caused by intense localized magnetic field flux inhibiting convection?",
     "options": [
-      "Ribosome",
-      "Golgi apparatus",
-      "Mitochondria",
-      "Endoplasmic reticulum"
+      "Solar Flares",
+      "Coronal Holes",
+      "Sunspots",
+      "Prominences"
     ],
     "correctAnswer": 2,
-    "explanation": "Mitochondria generate the majority of cellular adenosine triphosphate (ATP) through oxidative phosphorylation.",
+    "explanation": "Sunspots appear darker because their intense magnetic fields cool them to ~3,800 K compared to surrounding 5,800 K plasma.",
     "tags": [
       "science",
-      "physics",
+      "earth-astronomy",
       "easy"
     ],
     "active": true
@@ -2923,15 +2923,15 @@
     "category": "Science",
     "subcategory": "Earth & Astronomy",
     "difficulty": "medium",
-    "question": "Scientific concepts: What biological process enables green plants to convert sunlight, carbon dioxide, and water into glucose and oxygen? (Ref #140)",
+    "question": "What cyclic period, lasting approximately 11 years, characterizes the rise and fall of sunspot numbers and solar magnetic activity?",
     "options": [
-      "Cellular respiration",
-      "Fermentation",
-      "Transpiration",
-      "Photosynthesis"
+      "The Milankovitch Cycle",
+      "The Precession Cycle",
+      "The Saros Cycle",
+      "The Solar Cycle (Schwabe Cycle)"
     ],
     "correctAnswer": 3,
-    "explanation": "Photosynthesis utilizes chlorophyll in chloroplasts to capture photon energy and synthesize sugar molecules.",
+    "explanation": "Every 11 years, the Sun's magnetic polarity completely flips, peaking at solar maximum before declining to solar minimum.",
     "tags": [
       "science",
       "earth-astronomy",
@@ -2940,64 +2940,64 @@
     "active": true
   },
   {
-    "id": "science-cell-biology-0141",
+    "id": "science-earth-astronomy-0141",
     "category": "Science",
-    "subcategory": "Cell Biology",
+    "subcategory": "Earth & Astronomy",
     "difficulty": "hard",
-    "question": "Scientific concepts: What is the chemical element symbol for Gold on the periodic table? (Ref #141)",
+    "question": "Which planet in our Solar System is the smallest and closest planet to the Sun, lacking any natural moons?",
     "options": [
-      "Au (from Latin Aurum)",
-      "Ag",
-      "Fe",
-      "Pt"
+      "Mercury",
+      "Mars",
+      "Venus",
+      "Pluto"
     ],
     "correctAnswer": 0,
-    "explanation": "Gold has the chemical symbol Au, derived from its Latin name 'aurum', meaning shining dawn.",
+    "explanation": "Mercury has a cratered, moon-like surface and experiences extreme temperature swings from 800 F daytime to -290 F night.",
     "tags": [
       "science",
-      "cell-biology",
+      "earth-astronomy",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "science-chemistry-0142",
+    "id": "science-earth-astronomy-0142",
     "category": "Science",
-    "subcategory": "Chemistry",
+    "subcategory": "Earth & Astronomy",
     "difficulty": "easy",
-    "question": "Scientific concepts: According to Newton's First Law of Motion, what does an object at rest tend to do unless acted upon by a net external force? (Ref #142)",
+    "question": "Which terrestrial planet in the Solar System is famously nicknamed the 'Red Planet' due to widespread iron oxide (rust) on its surface?",
     "options": [
-      "Accelerate continuously",
-      "Remain at rest (Law of Inertia)",
-      "Decompose into smaller particles",
-      "Reverse its trajectory"
+      "Venus",
+      "Mars",
+      "Mercury",
+      "Jupiter"
     ],
     "correctAnswer": 1,
-    "explanation": "Newton's first law states that an object at rest remains at rest, and an object in motion continues at constant velocity unless acted upon by a net force.",
+    "explanation": "Mars features rust-covered deserts, polar water-ice caps, ancient dried river valleys, and the tallest volcano in the Solar System.",
     "tags": [
       "science",
-      "chemistry",
+      "earth-astronomy",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "science-physics-0143",
+    "id": "science-earth-astronomy-0143",
     "category": "Science",
-    "subcategory": "Physics",
+    "subcategory": "Earth & Astronomy",
     "difficulty": "medium",
-    "question": "Scientific concepts: Which planet is positioned closest to the Sun in our Solar System? (Ref #143)",
+    "question": "Which planet in our Solar System is the largest, containing more mass than all other planets in the Solar System combined?",
     "options": [
-      "Venus",
-      "Mars",
-      "Mercury",
-      "Earth"
+      "Saturn",
+      "Neptune",
+      "Jupiter",
+      "Uranus"
     ],
     "correctAnswer": 2,
-    "explanation": "Mercury is the innermost and smallest planet in the Solar System, orbiting the Sun every 88 Earth days.",
+    "explanation": "Jupiter is a massive gas giant with an internal volume capable of holding over 1,300 Earths inside its hydrogen-helium atmosphere.",
     "tags": [
       "science",
-      "physics",
+      "earth-astronomy",
       "medium"
     ],
     "active": true
@@ -3007,15 +3007,15 @@
     "category": "Science",
     "subcategory": "Earth & Astronomy",
     "difficulty": "hard",
-    "question": "Scientific concepts: What is the pH value of pure neutral distilled water at 25 degrees Celsius? (Ref #144)",
+    "question": "What colossal, high-pressure cyclonic storm in Jupiter's southern hemisphere has been raging continuously for hundreds of years?",
     "options": [
-      "pH 5.5",
-      "pH 8.5",
-      "pH 0.0",
-      "pH 7.0"
+      "The Dragon Storm",
+      "The Great Dark Spot",
+      "The Northern Hexagon",
+      "The Great Red Spot"
     ],
     "correctAnswer": 3,
-    "explanation": "Pure water has an equal concentration of hydrogen (H+) and hydroxide (OH-) ions, resulting in a neutral pH of 7.0.",
+    "explanation": "The Great Red Spot is an anticyclonic storm larger in diameter than the entire planet Earth, with winds exceeding 400 mph.",
     "tags": [
       "science",
       "earth-astronomy",
@@ -3024,64 +3024,64 @@
     "active": true
   },
   {
-    "id": "science-cell-biology-0145",
+    "id": "science-earth-astronomy-0145",
     "category": "Science",
-    "subcategory": "Cell Biology",
+    "subcategory": "Earth & Astronomy",
     "difficulty": "easy",
-    "question": "Scientific concepts: Which cellular organelle is universally referred to as the 'powerhouse of the cell' for generating ATP? (Ref #145)",
+    "question": "Which gas giant planet is world-renowned for its prominent, expansive, and highly visible planetary ring system composed of water ice?",
     "options": [
-      "Mitochondria",
-      "Ribosome",
-      "Golgi apparatus",
-      "Endoplasmic reticulum"
+      "Saturn",
+      "Jupiter",
+      "Uranus",
+      "Neptune"
     ],
     "correctAnswer": 0,
-    "explanation": "Mitochondria generate the majority of cellular adenosine triphosphate (ATP) through oxidative phosphorylation.",
+    "explanation": "Saturn's bright rings span up to 175,000 miles across yet measure only about 30 feet thick in most areas.",
     "tags": [
       "science",
-      "cell-biology",
+      "earth-astronomy",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "science-chemistry-0146",
+    "id": "science-earth-astronomy-0146",
     "category": "Science",
-    "subcategory": "Chemistry",
+    "subcategory": "Earth & Astronomy",
     "difficulty": "medium",
-    "question": "Scientific concepts: What biological process enables green plants to convert sunlight, carbon dioxide, and water into glucose and oxygen? (Ref #146)",
+    "question": "Which ice giant planet is the furthest recognized planet from the Sun in our Solar System, discovered mathematically in 1846?",
     "options": [
-      "Cellular respiration",
-      "Photosynthesis",
-      "Fermentation",
-      "Transpiration"
+      "Uranus",
+      "Neptune",
+      "Pluto",
+      "Saturn"
     ],
     "correctAnswer": 1,
-    "explanation": "Photosynthesis utilizes chlorophyll in chloroplasts to capture photon energy and synthesize sugar molecules.",
+    "explanation": "Neptune takes 165 Earth years to complete one orbit, featuring supersonic winds and the large retrograde moon Triton.",
     "tags": [
       "science",
-      "chemistry",
+      "earth-astronomy",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "science-physics-0147",
+    "id": "science-earth-astronomy-0147",
     "category": "Science",
-    "subcategory": "Physics",
+    "subcategory": "Earth & Astronomy",
     "difficulty": "hard",
-    "question": "Scientific concepts: What is the chemical element symbol for Gold on the periodic table? (Ref #147)",
+    "question": "In what year did the International Astronomical Union (IAU) reclassify Pluto from a major planet to a 'dwarf planet'?",
     "options": [
-      "Ag",
-      "Fe",
-      "Au (from Latin Aurum)",
-      "Pt"
+      "2000",
+      "2010",
+      "2006",
+      "1998"
     ],
     "correctAnswer": 2,
-    "explanation": "Gold has the chemical symbol Au, derived from its Latin name 'aurum', meaning shining dawn.",
+    "explanation": "The IAU required a true planet to clear the neighborhood around its orbit; Pluto shares the Kuiper Belt with thousands of icy bodies.",
     "tags": [
       "science",
-      "physics",
+      "earth-astronomy",
       "hard"
     ],
     "active": true
@@ -3091,15 +3091,15 @@
     "category": "Science",
     "subcategory": "Earth & Astronomy",
     "difficulty": "easy",
-    "question": "Scientific concepts: According to Newton's First Law of Motion, what does an object at rest tend to do unless acted upon by a net external force? (Ref #148)",
+    "question": "What region of small rocky celestial bodies orbits the Sun primarily between the orbits of Mars and Jupiter?",
     "options": [
-      "Accelerate continuously",
-      "Decompose into smaller particles",
-      "Reverse its trajectory",
-      "Remain at rest (Law of Inertia)"
+      "The Kuiper Belt",
+      "The Oort Cloud",
+      "The Scattered Disc",
+      "The Main Asteroid Belt"
     ],
     "correctAnswer": 3,
-    "explanation": "Newton's first law states that an object at rest remains at rest, and an object in motion continues at constant velocity unless acted upon by a net force.",
+    "explanation": "The asteroid belt contains millions of rocky bodies including the dwarf planet Ceres, representing leftover planetary building blocks.",
     "tags": [
       "science",
       "earth-astronomy",
@@ -3108,64 +3108,64 @@
     "active": true
   },
   {
-    "id": "science-cell-biology-0149",
+    "id": "science-earth-astronomy-0149",
     "category": "Science",
-    "subcategory": "Cell Biology",
+    "subcategory": "Earth & Astronomy",
     "difficulty": "medium",
-    "question": "Scientific concepts: Which planet is positioned closest to the Sun in our Solar System? (Ref #149)",
+    "question": "What donut-shaped ring of icy bodies and cometary nuclei extends beyond the orbit of Neptune from 30 to 55 AU from the Sun?",
     "options": [
-      "Mercury",
-      "Venus",
-      "Mars",
-      "Earth"
+      "The Kuiper Belt",
+      "The Asteroid Belt",
+      "The Oort Cloud",
+      "The Heliopause"
     ],
     "correctAnswer": 0,
-    "explanation": "Mercury is the innermost and smallest planet in the Solar System, orbiting the Sun every 88 Earth days.",
+    "explanation": "The Kuiper Belt is home to Pluto, Eris, Haumea, Makemake, and short-period comets orbiting in the plane of the Solar System.",
     "tags": [
       "science",
-      "cell-biology",
+      "earth-astronomy",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "science-chemistry-0150",
+    "id": "science-earth-astronomy-0150",
     "category": "Science",
-    "subcategory": "Chemistry",
+    "subcategory": "Earth & Astronomy",
     "difficulty": "hard",
-    "question": "Scientific concepts: What is the pH value of pure neutral distilled water at 25 degrees Celsius? (Ref #150)",
+    "question": "What vast, theoretical spherical cloud of trillions of icy planetesimals is hypothesized to envelop the entire Solar System out to 100,000 AU?",
     "options": [
-      "pH 5.5",
-      "pH 7.0",
-      "pH 8.5",
-      "pH 0.0"
+      "The Kuiper Belt",
+      "The Oort Cloud",
+      "The Asteroid Belt",
+      "The Interstellar Medium"
     ],
     "correctAnswer": 1,
-    "explanation": "Pure water has an equal concentration of hydrogen (H+) and hydroxide (OH-) ions, resulting in a neutral pH of 7.0.",
+    "explanation": "The Oort cloud is the source reservoir for long-period comets that take thousands or millions of years to orbit the Sun.",
     "tags": [
       "science",
-      "chemistry",
+      "earth-astronomy",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "science-physics-0151",
+    "id": "science-earth-astronomy-0151",
     "category": "Science",
-    "subcategory": "Physics",
+    "subcategory": "Earth & Astronomy",
     "difficulty": "easy",
-    "question": "Scientific concepts: Which cellular organelle is universally referred to as the 'powerhouse of the cell' for generating ATP? (Ref #151)",
+    "question": "What astronomical event occurs when the Moon passes directly between the Sun and Earth, casting its shadow upon the Earth's surface?",
     "options": [
-      "Ribosome",
-      "Golgi apparatus",
-      "Mitochondria",
-      "Endoplasmic reticulum"
+      "A Lunar Eclipse",
+      "A Transit of Venus",
+      "A Solar Eclipse",
+      "An Occultation"
     ],
     "correctAnswer": 2,
-    "explanation": "Mitochondria generate the majority of cellular adenosine triphosphate (ATP) through oxidative phosphorylation.",
+    "explanation": "During a total solar eclipse, the Moon's dark umbral shadow touches Earth, revealing the solar corona in daytime darkness.",
     "tags": [
       "science",
-      "physics",
+      "earth-astronomy",
       "easy"
     ],
     "active": true
@@ -3175,15 +3175,15 @@
     "category": "Science",
     "subcategory": "Earth & Astronomy",
     "difficulty": "medium",
-    "question": "Scientific concepts: What biological process enables green plants to convert sunlight, carbon dioxide, and water into glucose and oxygen? (Ref #152)",
+    "question": "What astronomical event occurs when the Earth passes directly between the Sun and Moon, casting Earth's shadow across the Full Moon?",
     "options": [
-      "Cellular respiration",
-      "Fermentation",
-      "Transpiration",
-      "Photosynthesis"
+      "A Solar Eclipse",
+      "A Supermoon",
+      "A Blue Moon",
+      "A Lunar Eclipse"
     ],
     "correctAnswer": 3,
-    "explanation": "Photosynthesis utilizes chlorophyll in chloroplasts to capture photon energy and synthesize sugar molecules.",
+    "explanation": "During a total lunar eclipse, Rayleigh scattering bends red sunlight through Earth's atmosphere, turning the Moon a copper-red 'Blood Moon.'",
     "tags": [
       "science",
       "earth-astronomy",
@@ -3192,64 +3192,64 @@
     "active": true
   },
   {
-    "id": "science-cell-biology-0153",
+    "id": "science-earth-astronomy-0153",
     "category": "Science",
-    "subcategory": "Cell Biology",
+    "subcategory": "Earth & Astronomy",
     "difficulty": "hard",
-    "question": "Scientific concepts: What is the chemical element symbol for Gold on the periodic table? (Ref #153)",
+    "question": "What physical gravitational phenomenon causes ocean water levels to rise and fall twice daily along coastal shorelines?",
     "options": [
-      "Au (from Latin Aurum)",
-      "Ag",
-      "Fe",
-      "Pt"
+      "Tides (Lunar and Solar Gravitational Tides)",
+      "Coriolis Force",
+      "Oceanic Gyres",
+      "Thermohaline Convection"
     ],
     "correctAnswer": 0,
-    "explanation": "Gold has the chemical symbol Au, derived from its Latin name 'aurum', meaning shining dawn.",
+    "explanation": "The Moon's differential gravitational gradient pulls the ocean into two opposing tidal bulges on opposite sides of Earth.",
     "tags": [
       "science",
-      "cell-biology",
+      "earth-astronomy",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "science-chemistry-0154",
+    "id": "science-earth-astronomy-0154",
     "category": "Science",
-    "subcategory": "Chemistry",
+    "subcategory": "Earth & Astronomy",
     "difficulty": "easy",
-    "question": "Scientific concepts: According to Newton's First Law of Motion, what does an object at rest tend to do unless acted upon by a net external force? (Ref #154)",
+    "question": "What exceptionally high ocean tides occur during New Moon and Full Moon phases when the gravitational pull of the Sun and Moon align?",
     "options": [
-      "Accelerate continuously",
-      "Remain at rest (Law of Inertia)",
-      "Decompose into smaller particles",
-      "Reverse its trajectory"
+      "Neap Tides",
+      "Spring Tides",
+      "Diurnal Tides",
+      "Rip Tides"
     ],
     "correctAnswer": 1,
-    "explanation": "Newton's first law states that an object at rest remains at rest, and an object in motion continues at constant velocity unless acted upon by a net force.",
+    "explanation": "Spring tides produce maximum tidal range with the highest high tides and lowest low tides twice each lunar month.",
     "tags": [
       "science",
-      "chemistry",
+      "earth-astronomy",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "science-physics-0155",
+    "id": "science-earth-astronomy-0155",
     "category": "Science",
-    "subcategory": "Physics",
+    "subcategory": "Earth & Astronomy",
     "difficulty": "medium",
-    "question": "Scientific concepts: Which planet is positioned closest to the Sun in our Solar System? (Ref #155)",
+    "question": "What moderate ocean tides occur during the First Quarter and Third Quarter Moon phases when the Sun and Moon pull at right angles?",
     "options": [
-      "Venus",
-      "Mars",
-      "Mercury",
-      "Earth"
+      "Spring Tides",
+      "Storm Tides",
+      "Neap Tides",
+      "Ebb Tides"
     ],
     "correctAnswer": 2,
-    "explanation": "Mercury is the innermost and smallest planet in the Solar System, orbiting the Sun every 88 Earth days.",
+    "explanation": "Neap tides produce the smallest tidal range because solar and lunar gravitational pulls partially cancel each other out.",
     "tags": [
       "science",
-      "physics",
+      "earth-astronomy",
       "medium"
     ],
     "active": true
@@ -3259,15 +3259,15 @@
     "category": "Science",
     "subcategory": "Earth & Astronomy",
     "difficulty": "hard",
-    "question": "Scientific concepts: What is the pH value of pure neutral distilled water at 25 degrees Celsius? (Ref #156)",
+    "question": "What is the molten rock called while it is still located beneath Earth's solid crust within the mantle or a magma chamber?",
     "options": [
-      "pH 5.5",
-      "pH 8.5",
-      "pH 0.0",
-      "pH 7.0"
+      "Lava",
+      "Tephra",
+      "Pumice",
+      "Magma"
     ],
     "correctAnswer": 3,
-    "explanation": "Pure water has an equal concentration of hydrogen (H+) and hydroxide (OH-) ions, resulting in a neutral pH of 7.0.",
+    "explanation": "Molten rock beneath the surface is magma; once it breaches the surface through volcanic vents, it is classified as lava.",
     "tags": [
       "science",
       "earth-astronomy",
@@ -3276,64 +3276,64 @@
     "active": true
   },
   {
-    "id": "science-cell-biology-0157",
+    "id": "science-earth-astronomy-0157",
     "category": "Science",
-    "subcategory": "Cell Biology",
+    "subcategory": "Earth & Astronomy",
     "difficulty": "easy",
-    "question": "Scientific concepts: Which cellular organelle is universally referred to as the 'powerhouse of the cell' for generating ATP? (Ref #157)",
+    "question": "What deep geological layer of Earth constitutes approximately 84% of Earth's total volume, situated between the crust and the outer core?",
     "options": [
-      "Mitochondria",
-      "Ribosome",
-      "Golgi apparatus",
-      "Endoplasmic reticulum"
+      "The Mantle",
+      "The Crust",
+      "The Outer Core",
+      "The Inner Core"
     ],
     "correctAnswer": 0,
-    "explanation": "Mitochondria generate the majority of cellular adenosine triphosphate (ATP) through oxidative phosphorylation.",
+    "explanation": "Earth's mantle consists of semi-solid silicate rock extending 1,800 miles deep, convective currents driving plate tectonics.",
     "tags": [
       "science",
-      "cell-biology",
+      "earth-astronomy",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "science-chemistry-0158",
+    "id": "science-earth-astronomy-0158",
     "category": "Science",
-    "subcategory": "Chemistry",
+    "subcategory": "Earth & Astronomy",
     "difficulty": "medium",
-    "question": "Scientific concepts: What biological process enables green plants to convert sunlight, carbon dioxide, and water into glucose and oxygen? (Ref #158)",
+    "question": "What physical state is Earth's Outer Core in, consisting of molten iron and nickel whose convection currents generate Earth's magnetic field?",
     "options": [
-      "Cellular respiration",
-      "Photosynthesis",
-      "Fermentation",
-      "Transpiration"
+      "Solid",
+      "Liquid (molten metallic state)",
+      "Gas",
+      "Plasma"
     ],
     "correctAnswer": 1,
-    "explanation": "Photosynthesis utilizes chlorophyll in chloroplasts to capture photon energy and synthesize sugar molecules.",
+    "explanation": "The liquid metallic outer core acts as a self-sustaining geodynamo, generating Earth's geomagnetic shield against solar wind.",
     "tags": [
       "science",
-      "chemistry",
+      "earth-astronomy",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "science-physics-0159",
+    "id": "science-earth-astronomy-0159",
     "category": "Science",
-    "subcategory": "Physics",
+    "subcategory": "Earth & Astronomy",
     "difficulty": "hard",
-    "question": "Scientific concepts: What is the chemical element symbol for Gold on the periodic table? (Ref #159)",
+    "question": "What physical state is Earth's Inner Core in, remaining solid despite temperatures exceeding 5,000 C due to immense planetary pressure?",
     "options": [
-      "Ag",
-      "Fe",
-      "Au (from Latin Aurum)",
-      "Pt"
+      "Liquid",
+      "Gas",
+      "Solid (crystalline iron-nickel alloy)",
+      "Amorphous glass"
     ],
     "correctAnswer": 2,
-    "explanation": "Gold has the chemical symbol Au, derived from its Latin name 'aurum', meaning shining dawn.",
+    "explanation": "Immense central hydrostatic pressure forces iron and nickel atoms into a solid crystalline ball despite extreme temperatures.",
     "tags": [
       "science",
-      "physics",
+      "earth-astronomy",
       "hard"
     ],
     "active": true
@@ -3343,15 +3343,15 @@
     "category": "Science",
     "subcategory": "Earth & Astronomy",
     "difficulty": "easy",
-    "question": "Scientific concepts: According to Newton's First Law of Motion, what does an object at rest tend to do unless acted upon by a net external force? (Ref #160)",
+    "question": "What boundary layer between Earth's crust and the upper mantle is named after the Croatian seismologist who discovered it in 1909?",
     "options": [
-      "Accelerate continuously",
-      "Decompose into smaller particles",
-      "Reverse its trajectory",
-      "Remain at rest (Law of Inertia)"
+      "The Gutenberg Discontinuity",
+      "The Lehmann Discontinuity",
+      "The Conrad Discontinuity",
+      "The Mohorovicic Discontinuity (The Moho)"
     ],
     "correctAnswer": 3,
-    "explanation": "Newton's first law states that an object at rest remains at rest, and an object in motion continues at constant velocity unless acted upon by a net force.",
+    "explanation": "The Moho marks an abrupt increase in seismic P-wave and S-wave velocity resulting from the transition to denser peridotite rock.",
     "tags": [
       "science",
       "earth-astronomy",

@@ -4,15 +4,15 @@
     "category": "Technology",
     "subcategory": "Web & Software",
     "difficulty": "easy",
-    "question": "In modern software and networking technology: What standard networking transport port is dedicated to secure encrypted HTTPS web communication? (Ref #1)",
+    "question": "What HTTP status code indicates that a requested web resource was successfully processed and returned by the server?",
     "options": [
-      "Port 443",
-      "Port 80",
-      "Port 22",
-      "Port 21"
+      "200 OK",
+      "404 Not Found",
+      "500 Internal Server Error",
+      "301 Moved Permanently"
     ],
     "correctAnswer": 0,
-    "explanation": "HTTPS uses Transport Layer Security (TLS) typically over TCP port 443, whereas unencrypted HTTP operates over port 80.",
+    "explanation": "HTTP 200 OK is the standard response for successful HTTP requests across web servers.",
     "tags": [
       "technology",
       "web-software",
@@ -21,64 +21,64 @@
     "active": true
   },
   {
-    "id": "technology-networking-security-0002",
+    "id": "technology-web-software-0002",
     "category": "Technology",
-    "subcategory": "Networking & Security",
+    "subcategory": "Web & Software",
     "difficulty": "medium",
-    "question": "In modern software and networking technology: What essential internet service translates human-readable domain names (such as wkquiz.com) into numerical IP addresses? (Ref #2)",
+    "question": "What HTTP status code signifies that a requested web resource could not be found on the server?",
     "options": [
-      "DHCP",
-      "DNS (Domain Name System)",
-      "FTP",
-      "BGP routing"
+      "200 OK",
+      "404 Not Found",
+      "403 Forbidden",
+      "502 Bad Gateway"
     ],
     "correctAnswer": 1,
-    "explanation": "DNS acts as the phonebook of the internet, resolving alphanumeric URLs into IP addresses for routing.",
+    "explanation": "HTTP 404 indicates the server cannot find the requested URL path or endpoint.",
     "tags": [
       "technology",
-      "networking-security",
+      "web-software",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "technology-operating-systems-0003",
+    "id": "technology-web-software-0003",
     "category": "Technology",
-    "subcategory": "Operating Systems",
+    "subcategory": "Web & Software",
     "difficulty": "hard",
-    "question": "In modern software and networking technology: In Git version control, which command permanently saves staged code snapshots to the local repository history? (Ref #3)",
+    "question": "What HTTP status code signifies that the client is unauthorized and lacks valid authentication credentials?",
     "options": [
-      "git push",
-      "git add",
-      "git commit",
-      "git pull"
+      "403 Forbidden",
+      "404 Not Found",
+      "401 Unauthorized",
+      "400 Bad Request"
     ],
     "correctAnswer": 2,
-    "explanation": "'git commit -m ...' writes the staged changes into the local repository's version history tree.",
+    "explanation": "HTTP 401 requires the client to authenticate before gaining access to the protected resource.",
     "tags": [
       "technology",
-      "operating-systems",
+      "web-software",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "technology-data-cloud-0004",
+    "id": "technology-web-software-0004",
     "category": "Technology",
-    "subcategory": "Data & Cloud",
+    "subcategory": "Web & Software",
     "difficulty": "easy",
-    "question": "In modern software and networking technology: In cloud computing architecture, what model describes services where the provider manages runtime, OS, and servers while users write application code? (Ref #4)",
+    "question": "What HTTP status code indicates that the server understands the client's identity but refuses to authorize access?",
     "options": [
-      "IaaS (Infrastructure as a Service)",
-      "SaaS (Software as a Service)",
-      "Bare Metal Colocation",
-      "PaaS (Platform as a Service)"
+      "401 Unauthorized",
+      "404 Not Found",
+      "503 Service Unavailable",
+      "403 Forbidden"
     ],
     "correctAnswer": 3,
-    "explanation": "PaaS provides development platforms and execution runtimes without users needing to configure virtual machines or operating systems.",
+    "explanation": "HTTP 403 means authentication succeeded, but the user does not possess the requisite permissions.",
     "tags": [
       "technology",
-      "data-cloud",
+      "web-software",
       "easy"
     ],
     "active": true
@@ -88,15 +88,15 @@
     "category": "Technology",
     "subcategory": "Web & Software",
     "difficulty": "medium",
-    "question": "In modern software and networking technology: What relational database query language is universally utilized to query and manipulate structured tabular data? (Ref #5)",
+    "question": "What HTTP status code indicates that an unexpected server-side exception prevented fulfilling the request?",
     "options": [
-      "SQL (Structured Query Language)",
-      "JSON",
-      "HTML",
-      "XML"
+      "500 Internal Server Error",
+      "400 Bad Request",
+      "502 Bad Gateway",
+      "504 Gateway Timeout"
     ],
     "correctAnswer": 0,
-    "explanation": "SQL is the standardized declarative language for managing data held in relational database management systems (RDBMS).",
+    "explanation": "HTTP 500 is a generic error message returned when an unhandled exception occurs in backend server code.",
     "tags": [
       "technology",
       "web-software",
@@ -105,64 +105,64 @@
     "active": true
   },
   {
-    "id": "technology-networking-security-0006",
+    "id": "technology-web-software-0006",
     "category": "Technology",
-    "subcategory": "Networking & Security",
+    "subcategory": "Web & Software",
     "difficulty": "hard",
-    "question": "In modern software and networking technology: What standard networking transport port is dedicated to secure encrypted HTTPS web communication? (Ref #6)",
+    "question": "What HTTP status code indicates that an intermediate gateway or reverse proxy server received an invalid response from an upstream server?",
     "options": [
-      "Port 80",
-      "Port 443",
-      "Port 22",
-      "Port 21"
+      "504 Gateway Timeout",
+      "502 Bad Gateway",
+      "500 Internal Server Error",
+      "404 Not Found"
     ],
     "correctAnswer": 1,
-    "explanation": "HTTPS uses Transport Layer Security (TLS) typically over TCP port 443, whereas unencrypted HTTP operates over port 80.",
+    "explanation": "HTTP 502 occurs when a reverse proxy like Nginx or Cloudflare cannot communicate with the upstream app server.",
     "tags": [
       "technology",
-      "networking-security",
+      "web-software",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "technology-operating-systems-0007",
+    "id": "technology-web-software-0007",
     "category": "Technology",
-    "subcategory": "Operating Systems",
+    "subcategory": "Web & Software",
     "difficulty": "easy",
-    "question": "In modern software and networking technology: What essential internet service translates human-readable domain names (such as wkquiz.com) into numerical IP addresses? (Ref #7)",
+    "question": "What HTTP status code indicates that a reverse proxy or gateway timed out waiting for an upstream server to respond?",
     "options": [
-      "DHCP",
-      "FTP",
-      "DNS (Domain Name System)",
-      "BGP routing"
+      "502 Bad Gateway",
+      "500 Internal Server Error",
+      "504 Gateway Timeout",
+      "408 Request Timeout"
     ],
     "correctAnswer": 2,
-    "explanation": "DNS acts as the phonebook of the internet, resolving alphanumeric URLs into IP addresses for routing.",
+    "explanation": "HTTP 504 indicates the backend server took too long to complete its work and reply to the proxy.",
     "tags": [
       "technology",
-      "operating-systems",
+      "web-software",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "technology-data-cloud-0008",
+    "id": "technology-web-software-0008",
     "category": "Technology",
-    "subcategory": "Data & Cloud",
+    "subcategory": "Web & Software",
     "difficulty": "medium",
-    "question": "In modern software and networking technology: In Git version control, which command permanently saves staged code snapshots to the local repository history? (Ref #8)",
+    "question": "What HTTP status code informs search engine crawlers that a webpage URL has been permanently redirected to a new destination?",
     "options": [
-      "git push",
-      "git add",
-      "git pull",
-      "git commit"
+      "302 Found",
+      "307 Temporary Redirect",
+      "308 Permanent Redirect",
+      "301 Moved Permanently"
     ],
     "correctAnswer": 3,
-    "explanation": "'git commit -m ...' writes the staged changes into the local repository's version history tree.",
+    "explanation": "301 redirects transfer SEO page rank and backlinks from the old URL to the new URL destination.",
     "tags": [
       "technology",
-      "data-cloud",
+      "web-software",
       "medium"
     ],
     "active": true
@@ -172,15 +172,15 @@
     "category": "Technology",
     "subcategory": "Web & Software",
     "difficulty": "hard",
-    "question": "In modern software and networking technology: In cloud computing architecture, what model describes services where the provider manages runtime, OS, and servers while users write application code? (Ref #9)",
+    "question": "What HTTP request method is designed to be idempotent and retrieve representation data from a server without side effects?",
     "options": [
-      "PaaS (Platform as a Service)",
-      "IaaS (Infrastructure as a Service)",
-      "SaaS (Software as a Service)",
-      "Bare Metal Colocation"
+      "GET",
+      "POST",
+      "PATCH",
+      "DELETE"
     ],
     "correctAnswer": 0,
-    "explanation": "PaaS provides development platforms and execution runtimes without users needing to configure virtual machines or operating systems.",
+    "explanation": "GET requests are read-only and safe, meaning repeated identical requests do not modify server state.",
     "tags": [
       "technology",
       "web-software",
@@ -189,64 +189,64 @@
     "active": true
   },
   {
-    "id": "technology-networking-security-0010",
+    "id": "technology-web-software-0010",
     "category": "Technology",
-    "subcategory": "Networking & Security",
+    "subcategory": "Web & Software",
     "difficulty": "easy",
-    "question": "In modern software and networking technology: What relational database query language is universally utilized to query and manipulate structured tabular data? (Ref #10)",
+    "question": "What HTTP request method is used to submit new entity data to the server, typically creating a new database record?",
     "options": [
-      "JSON",
-      "SQL (Structured Query Language)",
-      "HTML",
-      "XML"
+      "GET",
+      "POST",
+      "PUT",
+      "HEAD"
     ],
     "correctAnswer": 1,
-    "explanation": "SQL is the standardized declarative language for managing data held in relational database management systems (RDBMS).",
+    "explanation": "POST requests send a payload in the request body to create subordinate resources.",
     "tags": [
       "technology",
-      "networking-security",
+      "web-software",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "technology-operating-systems-0011",
+    "id": "technology-web-software-0011",
     "category": "Technology",
-    "subcategory": "Operating Systems",
+    "subcategory": "Web & Software",
     "difficulty": "medium",
-    "question": "In modern software and networking technology: What standard networking transport port is dedicated to secure encrypted HTTPS web communication? (Ref #11)",
+    "question": "What HTTP method replaces an entire target resource with the requested payload representation?",
     "options": [
-      "Port 80",
-      "Port 22",
-      "Port 443",
-      "Port 21"
+      "PATCH",
+      "POST",
+      "PUT",
+      "OPTIONS"
     ],
     "correctAnswer": 2,
-    "explanation": "HTTPS uses Transport Layer Security (TLS) typically over TCP port 443, whereas unencrypted HTTP operates over port 80.",
+    "explanation": "PUT is idempotent and replaces the entire target resource; missing fields are typically reset to defaults.",
     "tags": [
       "technology",
-      "operating-systems",
+      "web-software",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "technology-data-cloud-0012",
+    "id": "technology-web-software-0012",
     "category": "Technology",
-    "subcategory": "Data & Cloud",
+    "subcategory": "Web & Software",
     "difficulty": "hard",
-    "question": "In modern software and networking technology: What essential internet service translates human-readable domain names (such as wkquiz.com) into numerical IP addresses? (Ref #12)",
+    "question": "What HTTP request method applies partial modifications to an existing resource without sending the complete entity?",
     "options": [
-      "DHCP",
-      "FTP",
-      "BGP routing",
-      "DNS (Domain Name System)"
+      "PUT",
+      "POST",
+      "UPDATE",
+      "PATCH"
     ],
     "correctAnswer": 3,
-    "explanation": "DNS acts as the phonebook of the internet, resolving alphanumeric URLs into IP addresses for routing.",
+    "explanation": "PATCH updates only the specific fields specified in the request body, leaving other attributes intact.",
     "tags": [
       "technology",
-      "data-cloud",
+      "web-software",
       "hard"
     ],
     "active": true
@@ -256,15 +256,15 @@
     "category": "Technology",
     "subcategory": "Web & Software",
     "difficulty": "easy",
-    "question": "In modern software and networking technology: In Git version control, which command permanently saves staged code snapshots to the local repository history? (Ref #13)",
+    "question": "What HTTP method removes or deletes the specified target resource from the server?",
     "options": [
-      "git commit",
-      "git push",
-      "git add",
-      "git pull"
+      "DELETE",
+      "REMOVE",
+      "DROP",
+      "CLEAR"
     ],
     "correctAnswer": 0,
-    "explanation": "'git commit -m ...' writes the staged changes into the local repository's version history tree.",
+    "explanation": "DELETE requests tell the server to delete the entity mapped to the specified URI.",
     "tags": [
       "technology",
       "web-software",
@@ -273,64 +273,64 @@
     "active": true
   },
   {
-    "id": "technology-networking-security-0014",
+    "id": "technology-web-software-0014",
     "category": "Technology",
-    "subcategory": "Networking & Security",
+    "subcategory": "Web & Software",
     "difficulty": "medium",
-    "question": "In modern software and networking technology: In cloud computing architecture, what model describes services where the provider manages runtime, OS, and servers while users write application code? (Ref #14)",
+    "question": "What browser security mechanism restricts a web page from making AJAX requests to a different domain, protocol, or port?",
     "options": [
-      "IaaS (Infrastructure as a Service)",
-      "PaaS (Platform as a Service)",
-      "SaaS (Software as a Service)",
-      "Bare Metal Colocation"
+      "Cross-Origin Resource Sharing (CORS)",
+      "Same-Origin Policy (SOP)",
+      "Content Security Policy (CSP)",
+      "Strict-Transport-Security (HSTS)"
     ],
     "correctAnswer": 1,
-    "explanation": "PaaS provides development platforms and execution runtimes without users needing to configure virtual machines or operating systems.",
+    "explanation": "SOP isolates malicious web scripts, preventing one website from reading sensitive cookie-authenticated session data from another.",
     "tags": [
       "technology",
-      "networking-security",
+      "web-software",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "technology-operating-systems-0015",
+    "id": "technology-web-software-0015",
     "category": "Technology",
-    "subcategory": "Operating Systems",
+    "subcategory": "Web & Software",
     "difficulty": "hard",
-    "question": "In modern software and networking technology: What relational database query language is universally utilized to query and manipulate structured tabular data? (Ref #15)",
+    "question": "What HTTP header mechanism allows a server to explicitly whitelist which external origins are permitted to access its API resources?",
     "options": [
-      "JSON",
-      "HTML",
-      "SQL (Structured Query Language)",
-      "XML"
+      "Same-Origin Policy",
+      "Content Security Policy",
+      "CORS (Cross-Origin Resource Sharing)",
+      "Public Key Pinning"
     ],
     "correctAnswer": 2,
-    "explanation": "SQL is the standardized declarative language for managing data held in relational database management systems (RDBMS).",
+    "explanation": "Headers such as Access-Control-Allow-Origin instruct client browsers whether cross-origin HTTP requests are authorized.",
     "tags": [
       "technology",
-      "operating-systems",
+      "web-software",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "technology-data-cloud-0016",
+    "id": "technology-web-software-0016",
     "category": "Technology",
-    "subcategory": "Data & Cloud",
+    "subcategory": "Web & Software",
     "difficulty": "easy",
-    "question": "In modern software and networking technology: What standard networking transport port is dedicated to secure encrypted HTTPS web communication? (Ref #16)",
+    "question": "What HTTP security header helps prevent Cross-Site Scripting (XSS) and data injection attacks by restricting trusted sources of executable content?",
     "options": [
-      "Port 80",
-      "Port 22",
-      "Port 21",
-      "Port 443"
+      "HSTS",
+      "X-Frame-Options",
+      "X-Content-Type-Options",
+      "Content Security Policy (CSP)"
     ],
     "correctAnswer": 3,
-    "explanation": "HTTPS uses Transport Layer Security (TLS) typically over TCP port 443, whereas unencrypted HTTP operates over port 80.",
+    "explanation": "CSP restricts the origins from which scripts, styles, images, and fonts can be loaded and executed by the browser.",
     "tags": [
       "technology",
-      "data-cloud",
+      "web-software",
       "easy"
     ],
     "active": true
@@ -340,15 +340,15 @@
     "category": "Technology",
     "subcategory": "Web & Software",
     "difficulty": "medium",
-    "question": "In modern software and networking technology: What essential internet service translates human-readable domain names (such as wkquiz.com) into numerical IP addresses? (Ref #17)",
+    "question": "What HTTP security header prevents clickjacking attacks by forbidding the webpage from being embedded within an HTML iframe on another site?",
     "options": [
-      "DNS (Domain Name System)",
-      "DHCP",
-      "FTP",
-      "BGP routing"
+      "X-Frame-Options (or CSP frame-ancestors)",
+      "HSTS",
+      "X-XSS-Protection",
+      "Cross-Origin-Embedder-Policy"
     ],
     "correctAnswer": 0,
-    "explanation": "DNS acts as the phonebook of the internet, resolving alphanumeric URLs into IP addresses for routing.",
+    "explanation": "X-Frame-Options: DENY or SAMEORIGIN prevents invisible overlay iframes from hijacking user mouse clicks.",
     "tags": [
       "technology",
       "web-software",
@@ -357,64 +357,64 @@
     "active": true
   },
   {
-    "id": "technology-networking-security-0018",
+    "id": "technology-web-software-0018",
     "category": "Technology",
-    "subcategory": "Networking & Security",
+    "subcategory": "Web & Software",
     "difficulty": "hard",
-    "question": "In modern software and networking technology: In Git version control, which command permanently saves staged code snapshots to the local repository history? (Ref #18)",
+    "question": "What HTTP header forces modern web browsers to communicate exclusively over secure HTTPS connections, rejecting plaintext HTTP?",
     "options": [
-      "git push",
-      "git commit",
-      "git add",
-      "git pull"
+      "Content Security Policy",
+      "HTTP Strict Transport Security (HSTS)",
+      "CORS",
+      "Server-Timing"
     ],
     "correctAnswer": 1,
-    "explanation": "'git commit -m ...' writes the staged changes into the local repository's version history tree.",
+    "explanation": "HSTS eliminates man-in-the-middle SSL-stripping attacks by forcing browsers to rewrite all http:// links to https:// automatically.",
     "tags": [
       "technology",
-      "networking-security",
+      "web-software",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "technology-operating-systems-0019",
+    "id": "technology-web-software-0019",
     "category": "Technology",
-    "subcategory": "Operating Systems",
+    "subcategory": "Web & Software",
     "difficulty": "easy",
-    "question": "In modern software and networking technology: In cloud computing architecture, what model describes services where the provider manages runtime, OS, and servers while users write application code? (Ref #19)",
+    "question": "What web security vulnerability occurs when an application executes untrusted malicious JavaScript code injected into browser pages viewed by other users?",
     "options": [
-      "IaaS (Infrastructure as a Service)",
-      "SaaS (Software as a Service)",
-      "PaaS (Platform as a Service)",
-      "Bare Metal Colocation"
+      "Cross-Site Request Forgery (CSRF)",
+      "SQL Injection",
+      "Cross-Site Scripting (XSS)",
+      "Server-Side Request Forgery (SSRF)"
     ],
     "correctAnswer": 2,
-    "explanation": "PaaS provides development platforms and execution runtimes without users needing to configure virtual machines or operating systems.",
+    "explanation": "XSS allows attackers to steal session cookies, capture keystrokes, and impersonate legitimate users.",
     "tags": [
       "technology",
-      "operating-systems",
+      "web-software",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "technology-data-cloud-0020",
+    "id": "technology-web-software-0020",
     "category": "Technology",
-    "subcategory": "Data & Cloud",
+    "subcategory": "Web & Software",
     "difficulty": "medium",
-    "question": "In modern software and networking technology: What relational database query language is universally utilized to query and manipulate structured tabular data? (Ref #20)",
+    "question": "What web attack tricks an authenticated user's browser into executing unauthorized actions on a vulnerable web application without their knowledge?",
     "options": [
-      "JSON",
-      "HTML",
-      "XML",
-      "SQL (Structured Query Language)"
+      "Cross-Site Scripting (XSS)",
+      "SQL Injection",
+      "Clickjacking",
+      "Cross-Site Request Forgery (CSRF)"
     ],
     "correctAnswer": 3,
-    "explanation": "SQL is the standardized declarative language for managing data held in relational database management systems (RDBMS).",
+    "explanation": "Anti-CSRF tokens validate that HTTP state-changing requests originate from legitimate forms generated by the trusted application.",
     "tags": [
       "technology",
-      "data-cloud",
+      "web-software",
       "medium"
     ],
     "active": true
@@ -424,15 +424,15 @@
     "category": "Technology",
     "subcategory": "Web & Software",
     "difficulty": "hard",
-    "question": "In modern software and networking technology: What standard networking transport port is dedicated to secure encrypted HTTPS web communication? (Ref #21)",
+    "question": "What security vulnerability occurs when user input is concatenated directly into database query strings without parameterized escaping?",
     "options": [
-      "Port 443",
-      "Port 80",
-      "Port 22",
-      "Port 21"
+      "SQL Injection (SQLi)",
+      "Cross-Site Scripting",
+      "Buffer Overflow",
+      "Command Injection"
     ],
     "correctAnswer": 0,
-    "explanation": "HTTPS uses Transport Layer Security (TLS) typically over TCP port 443, whereas unencrypted HTTP operates over port 80.",
+    "explanation": "SQL injection allows attackers to bypass authentication, dump entire database tables, and modify sensitive records.",
     "tags": [
       "technology",
       "web-software",
@@ -441,64 +441,64 @@
     "active": true
   },
   {
-    "id": "technology-networking-security-0022",
+    "id": "technology-web-software-0022",
     "category": "Technology",
-    "subcategory": "Networking & Security",
+    "subcategory": "Web & Software",
     "difficulty": "easy",
-    "question": "In modern software and networking technology: What essential internet service translates human-readable domain names (such as wkquiz.com) into numerical IP addresses? (Ref #22)",
+    "question": "What is the primary architectural style of web APIs that relies on stateless communication, standard HTTP methods, and uniform resource URIs?",
     "options": [
-      "DHCP",
-      "DNS (Domain Name System)",
-      "FTP",
-      "BGP routing"
+      "SOAP",
+      "REST (Representational State Transfer)",
+      "GraphQL",
+      "RPC"
     ],
     "correctAnswer": 1,
-    "explanation": "DNS acts as the phonebook of the internet, resolving alphanumeric URLs into IP addresses for routing.",
+    "explanation": "Defined by Roy Fielding, REST leverages HTTP methods and resource representations (JSON/XML) for scalable distributed web services.",
     "tags": [
       "technology",
-      "networking-security",
+      "web-software",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "technology-operating-systems-0023",
+    "id": "technology-web-software-0023",
     "category": "Technology",
-    "subcategory": "Operating Systems",
+    "subcategory": "Web & Software",
     "difficulty": "medium",
-    "question": "In modern software and networking technology: In Git version control, which command permanently saves staged code snapshots to the local repository history? (Ref #23)",
+    "question": "What open-source query language for APIs, developed by Meta, allows client apps to request exactly the data fields they need in a single round-trip?",
     "options": [
-      "git push",
-      "git add",
-      "git commit",
-      "git pull"
+      "REST",
+      "gRPC",
+      "GraphQL",
+      "SOAP"
     ],
     "correctAnswer": 2,
-    "explanation": "'git commit -m ...' writes the staged changes into the local repository's version history tree.",
+    "explanation": "GraphQL eliminates over-fetching and under-fetching by allowing clients to specify precise query structures.",
     "tags": [
       "technology",
-      "operating-systems",
+      "web-software",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "technology-data-cloud-0024",
+    "id": "technology-web-software-0024",
     "category": "Technology",
-    "subcategory": "Data & Cloud",
+    "subcategory": "Web & Software",
     "difficulty": "hard",
-    "question": "In modern software and networking technology: In cloud computing architecture, what model describes services where the provider manages runtime, OS, and servers while users write application code? (Ref #24)",
+    "question": "What high-performance remote procedure call framework, developed by Google, utilizes Protocol Buffers over HTTP/2 for microservice communications?",
     "options": [
-      "IaaS (Infrastructure as a Service)",
-      "SaaS (Software as a Service)",
-      "Bare Metal Colocation",
-      "PaaS (Platform as a Service)"
+      "GraphQL",
+      "REST",
+      "XML-RPC",
+      "gRPC"
     ],
     "correctAnswer": 3,
-    "explanation": "PaaS provides development platforms and execution runtimes without users needing to configure virtual machines or operating systems.",
+    "explanation": "gRPC provides strongly typed contracts, binary serialization, bidirectional streaming, and multiplexing.",
     "tags": [
       "technology",
-      "data-cloud",
+      "web-software",
       "hard"
     ],
     "active": true
@@ -508,15 +508,15 @@
     "category": "Technology",
     "subcategory": "Web & Software",
     "difficulty": "easy",
-    "question": "In modern software and networking technology: What relational database query language is universally utilized to query and manipulate structured tabular data? (Ref #25)",
+    "question": "What compact, URL-safe standard format is used to securely transmit cryptographically signed claims between two parties in web authentication?",
     "options": [
-      "SQL (Structured Query Language)",
-      "JSON",
-      "HTML",
-      "XML"
+      "JSON Web Token (JWT)",
+      "OAuth 2.0",
+      "SAML",
+      "Session ID"
     ],
     "correctAnswer": 0,
-    "explanation": "SQL is the standardized declarative language for managing data held in relational database management systems (RDBMS).",
+    "explanation": "JWTs consist of three Base64URL-encoded parts: Header, Payload, and Signature, verified using HMAC or asymmetric RSA/ECDSA keys.",
     "tags": [
       "technology",
       "web-software",
@@ -525,64 +525,64 @@
     "active": true
   },
   {
-    "id": "technology-networking-security-0026",
+    "id": "technology-web-software-0026",
     "category": "Technology",
-    "subcategory": "Networking & Security",
+    "subcategory": "Web & Software",
     "difficulty": "medium",
-    "question": "In modern software and networking technology: What standard networking transport port is dedicated to secure encrypted HTTPS web communication? (Ref #26)",
+    "question": "What authorization framework enables third-party web applications to obtain limited access to a user's account without exposing user passwords?",
     "options": [
-      "Port 80",
-      "Port 443",
-      "Port 22",
-      "Port 21"
+      "OpenID Connect (OIDC)",
+      "OAuth 2.0",
+      "SAML",
+      "Kerberos"
     ],
     "correctAnswer": 1,
-    "explanation": "HTTPS uses Transport Layer Security (TLS) typically over TCP port 443, whereas unencrypted HTTP operates over port 80.",
+    "explanation": "OAuth 2.0 uses authorization codes and access tokens to grant specific delegated permissions (scopes).",
     "tags": [
       "technology",
-      "networking-security",
+      "web-software",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "technology-operating-systems-0027",
+    "id": "technology-web-software-0027",
     "category": "Technology",
-    "subcategory": "Operating Systems",
+    "subcategory": "Web & Software",
     "difficulty": "hard",
-    "question": "In modern software and networking technology: What essential internet service translates human-readable domain names (such as wkquiz.com) into numerical IP addresses? (Ref #27)",
+    "question": "What identity authentication layer built directly on top of OAuth 2.0 provides standardized single sign-on and user profile verification?",
     "options": [
-      "DHCP",
-      "FTP",
-      "DNS (Domain Name System)",
-      "BGP routing"
+      "SAML 2.0",
+      "WS-Federation",
+      "OpenID Connect (OIDC)",
+      "RADIUS"
     ],
     "correctAnswer": 2,
-    "explanation": "DNS acts as the phonebook of the internet, resolving alphanumeric URLs into IP addresses for routing.",
+    "explanation": "OIDC introduces an ID Token (JWT) that provides verifiable claims about the identity of the authenticated end user.",
     "tags": [
       "technology",
-      "operating-systems",
+      "web-software",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "technology-data-cloud-0028",
+    "id": "technology-web-software-0028",
     "category": "Technology",
-    "subcategory": "Data & Cloud",
+    "subcategory": "Web & Software",
     "difficulty": "easy",
-    "question": "In modern software and networking technology: In Git version control, which command permanently saves staged code snapshots to the local repository history? (Ref #28)",
+    "question": "What distributed version control system, created by Linus Torvalds in 2005, tracks changes in source code using cryptographic commit hashes?",
     "options": [
-      "git push",
-      "git add",
-      "git pull",
-      "git commit"
+      "Subversion (SVN)",
+      "Mercurial",
+      "Perforce",
+      "Git"
     ],
     "correctAnswer": 3,
-    "explanation": "'git commit -m ...' writes the staged changes into the local repository's version history tree.",
+    "explanation": "Git tracks code snapshots as a directed acyclic graph (DAG) of cryptographic SHA commit hashes.",
     "tags": [
       "technology",
-      "data-cloud",
+      "web-software",
       "easy"
     ],
     "active": true
@@ -592,15 +592,15 @@
     "category": "Technology",
     "subcategory": "Web & Software",
     "difficulty": "medium",
-    "question": "In modern software and networking technology: In cloud computing architecture, what model describes services where the provider manages runtime, OS, and servers while users write application code? (Ref #29)",
+    "question": "In Git, what command downloads new commits, branches, and tags from a remote repository and immediately integrates them into the current active branch?",
     "options": [
-      "PaaS (Platform as a Service)",
-      "IaaS (Infrastructure as a Service)",
-      "SaaS (Software as a Service)",
-      "Bare Metal Colocation"
+      "git pull",
+      "git fetch",
+      "git push",
+      "git clone"
     ],
     "correctAnswer": 0,
-    "explanation": "PaaS provides development platforms and execution runtimes without users needing to configure virtual machines or operating systems.",
+    "explanation": "git pull executes 'git fetch' followed immediately by 'git merge' to update the local working branch.",
     "tags": [
       "technology",
       "web-software",
@@ -609,64 +609,64 @@
     "active": true
   },
   {
-    "id": "technology-networking-security-0030",
+    "id": "technology-web-software-0030",
     "category": "Technology",
-    "subcategory": "Networking & Security",
+    "subcategory": "Web & Software",
     "difficulty": "hard",
-    "question": "In modern software and networking technology: What relational database query language is universally utilized to query and manipulate structured tabular data? (Ref #30)",
+    "question": "In Git, what command downloads commits and branch references from a remote repository WITHOUT modifying or merging local branch files?",
     "options": [
-      "JSON",
-      "SQL (Structured Query Language)",
-      "HTML",
-      "XML"
+      "git pull",
+      "git fetch",
+      "git checkout",
+      "git rebase"
     ],
     "correctAnswer": 1,
-    "explanation": "SQL is the standardized declarative language for managing data held in relational database management systems (RDBMS).",
+    "explanation": "git fetch allows developers to inspect upstream commits before deciding how to merge them locally.",
     "tags": [
       "technology",
-      "networking-security",
+      "web-software",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "technology-operating-systems-0031",
+    "id": "technology-web-software-0031",
     "category": "Technology",
-    "subcategory": "Operating Systems",
+    "subcategory": "Web & Software",
     "difficulty": "easy",
-    "question": "In modern software and networking technology: What standard networking transport port is dedicated to secure encrypted HTTPS web communication? (Ref #31)",
+    "question": "What Git command temporarily shelves uncommitted local modifications so the developer can switch branches without losing changes?",
     "options": [
-      "Port 80",
-      "Port 22",
-      "Port 443",
-      "Port 21"
+      "git commit",
+      "git reset",
+      "git stash",
+      "git revert"
     ],
     "correctAnswer": 2,
-    "explanation": "HTTPS uses Transport Layer Security (TLS) typically over TCP port 443, whereas unencrypted HTTP operates over port 80.",
+    "explanation": "git stash saves modified tracked files to a dirty working directory stack and reverts the working tree to match the HEAD commit.",
     "tags": [
       "technology",
-      "operating-systems",
+      "web-software",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "technology-data-cloud-0032",
+    "id": "technology-web-software-0032",
     "category": "Technology",
-    "subcategory": "Data & Cloud",
+    "subcategory": "Web & Software",
     "difficulty": "medium",
-    "question": "In modern software and networking technology: What essential internet service translates human-readable domain names (such as wkquiz.com) into numerical IP addresses? (Ref #32)",
+    "question": "What Git command creates a new commit that applies the exact inverse changes of an earlier commit, safely undoing it without rewriting public history?",
     "options": [
-      "DHCP",
-      "FTP",
-      "BGP routing",
-      "DNS (Domain Name System)"
+      "git reset",
+      "git clean",
+      "git checkout",
+      "git revert"
     ],
     "correctAnswer": 3,
-    "explanation": "DNS acts as the phonebook of the internet, resolving alphanumeric URLs into IP addresses for routing.",
+    "explanation": "Unlike git reset which destroys history, git revert appends a new compensating commit, making it safe for shared branches.",
     "tags": [
       "technology",
-      "data-cloud",
+      "web-software",
       "medium"
     ],
     "active": true
@@ -676,15 +676,15 @@
     "category": "Technology",
     "subcategory": "Web & Software",
     "difficulty": "hard",
-    "question": "In modern software and networking technology: In Git version control, which command permanently saves staged code snapshots to the local repository history? (Ref #33)",
+    "question": "What software architectural paradigm organizes an application as a collection of loosely coupled, independently deployable services around business capabilities?",
     "options": [
-      "git commit",
-      "git push",
-      "git add",
-      "git pull"
+      "Microservices Architecture",
+      "Monolithic Architecture",
+      "Layered Architecture",
+      "Serverless Architecture"
     ],
     "correctAnswer": 0,
-    "explanation": "'git commit -m ...' writes the staged changes into the local repository's version history tree.",
+    "explanation": "Microservices allow separate engineering teams to develop, test, and deploy features independently using different tech stacks.",
     "tags": [
       "technology",
       "web-software",
@@ -693,64 +693,64 @@
     "active": true
   },
   {
-    "id": "technology-networking-security-0034",
+    "id": "technology-web-software-0034",
     "category": "Technology",
-    "subcategory": "Networking & Security",
+    "subcategory": "Web & Software",
     "difficulty": "easy",
-    "question": "In modern software and networking technology: In cloud computing architecture, what model describes services where the provider manages runtime, OS, and servers while users write application code? (Ref #34)",
+    "question": "What software engineering pattern enforces having only a single instance of a given class throughout the entire lifetime of the application?",
     "options": [
-      "IaaS (Infrastructure as a Service)",
-      "PaaS (Platform as a Service)",
-      "SaaS (Software as a Service)",
-      "Bare Metal Colocation"
+      "Factory Pattern",
+      "Singleton Pattern",
+      "Observer Pattern",
+      "Strategy Pattern"
     ],
     "correctAnswer": 1,
-    "explanation": "PaaS provides development platforms and execution runtimes without users needing to configure virtual machines or operating systems.",
+    "explanation": "Singletons provide a global point of access to a single shared resource, such as a database connection pool or configuration manager.",
     "tags": [
       "technology",
-      "networking-security",
+      "web-software",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "technology-operating-systems-0035",
+    "id": "technology-web-software-0035",
     "category": "Technology",
-    "subcategory": "Operating Systems",
+    "subcategory": "Web & Software",
     "difficulty": "medium",
-    "question": "In modern software and networking technology: What relational database query language is universally utilized to query and manipulate structured tabular data? (Ref #35)",
+    "question": "What design pattern defines a one-to-many dependency so that when one object changes state, all its dependents are notified automatically?",
     "options": [
-      "JSON",
-      "HTML",
-      "SQL (Structured Query Language)",
-      "XML"
+      "Decorator Pattern",
+      "Facade Pattern",
+      "Observer Pattern",
+      "Adapter Pattern"
     ],
     "correctAnswer": 2,
-    "explanation": "SQL is the standardized declarative language for managing data held in relational database management systems (RDBMS).",
+    "explanation": "The observer pattern forms the foundation of event-driven architectures, pub/sub messaging, and reactive UI frameworks.",
     "tags": [
       "technology",
-      "operating-systems",
+      "web-software",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "technology-data-cloud-0036",
+    "id": "technology-web-software-0036",
     "category": "Technology",
-    "subcategory": "Data & Cloud",
+    "subcategory": "Web & Software",
     "difficulty": "hard",
-    "question": "In modern software and networking technology: What standard networking transport port is dedicated to secure encrypted HTTPS web communication? (Ref #36)",
+    "question": "What software design pattern creates objects without explicitly specifying the exact class of the object that will be created?",
     "options": [
-      "Port 80",
-      "Port 22",
-      "Port 21",
-      "Port 443"
+      "Singleton Pattern",
+      "Builder Pattern",
+      "Prototype Pattern",
+      "Factory Pattern (Factory Method / Abstract Factory)"
     ],
     "correctAnswer": 3,
-    "explanation": "HTTPS uses Transport Layer Security (TLS) typically over TCP port 443, whereas unencrypted HTTP operates over port 80.",
+    "explanation": "Factory patterns decouple client code from concrete implementations, improving modularity and unit testability.",
     "tags": [
       "technology",
-      "data-cloud",
+      "web-software",
       "hard"
     ],
     "active": true
@@ -760,15 +760,15 @@
     "category": "Technology",
     "subcategory": "Web & Software",
     "difficulty": "easy",
-    "question": "In modern software and networking technology: What essential internet service translates human-readable domain names (such as wkquiz.com) into numerical IP addresses? (Ref #37)",
+    "question": "What software engineering practice involves merging developer code changes into a shared mainline branch multiple times a day with automated builds?",
     "options": [
-      "DNS (Domain Name System)",
-      "DHCP",
-      "FTP",
-      "BGP routing"
+      "Continuous Integration (CI)",
+      "Continuous Deployment (CD)",
+      "Agile Development",
+      "Scrum"
     ],
     "correctAnswer": 0,
-    "explanation": "DNS acts as the phonebook of the internet, resolving alphanumeric URLs into IP addresses for routing.",
+    "explanation": "CI pipelines automatically compile code and run unit test suites on every commit, catching integration bugs early.",
     "tags": [
       "technology",
       "web-software",
@@ -777,85 +777,85 @@
     "active": true
   },
   {
-    "id": "technology-networking-security-0038",
+    "id": "technology-web-software-0038",
     "category": "Technology",
-    "subcategory": "Networking & Security",
+    "subcategory": "Web & Software",
     "difficulty": "medium",
-    "question": "In modern software and networking technology: In Git version control, which command permanently saves staged code snapshots to the local repository history? (Ref #38)",
+    "question": "What software testing technique tests individual functions or methods in complete isolation from external databases or networks using mock objects?",
     "options": [
-      "git push",
-      "git commit",
-      "git add",
-      "git pull"
+      "Integration Testing",
+      "Unit Testing",
+      "End-to-End Testing (E2E)",
+      "Stress Testing"
     ],
     "correctAnswer": 1,
-    "explanation": "'git commit -m ...' writes the staged changes into the local repository's version history tree.",
+    "explanation": "Unit tests verify that isolated pieces of business logic produce expected outputs given known test inputs.",
     "tags": [
       "technology",
-      "networking-security",
+      "web-software",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "technology-operating-systems-0039",
+    "id": "technology-web-software-0039",
     "category": "Technology",
-    "subcategory": "Operating Systems",
+    "subcategory": "Web & Software",
     "difficulty": "hard",
-    "question": "In modern software and networking technology: In cloud computing architecture, what model describes services where the provider manages runtime, OS, and servers while users write application code? (Ref #39)",
+    "question": "What testing practice tests how multiple software components, modules, or services interact and exchange data with one another?",
     "options": [
-      "IaaS (Infrastructure as a Service)",
-      "SaaS (Software as a Service)",
-      "PaaS (Platform as a Service)",
-      "Bare Metal Colocation"
+      "Unit Testing",
+      "Acceptance Testing",
+      "Integration Testing",
+      "Fuzz Testing"
     ],
     "correctAnswer": 2,
-    "explanation": "PaaS provides development platforms and execution runtimes without users needing to configure virtual machines or operating systems.",
+    "explanation": "Integration tests verify database queries, API client communication, and inter-service messaging contracts.",
     "tags": [
       "technology",
-      "operating-systems",
+      "web-software",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "technology-data-cloud-0040",
+    "id": "technology-web-software-0040",
     "category": "Technology",
-    "subcategory": "Data & Cloud",
+    "subcategory": "Web & Software",
     "difficulty": "easy",
-    "question": "In modern software and networking technology: What relational database query language is universally utilized to query and manipulate structured tabular data? (Ref #40)",
+    "question": "What software development methodology practices writing automated failing unit tests BEFORE writing the actual production application code?",
     "options": [
-      "JSON",
-      "HTML",
-      "XML",
-      "SQL (Structured Query Language)"
+      "Behavior-Driven Development (BDD)",
+      "Scrum",
+      "Extreme Programming",
+      "Test-Driven Development (TDD)"
     ],
     "correctAnswer": 3,
-    "explanation": "SQL is the standardized declarative language for managing data held in relational database management systems (RDBMS).",
+    "explanation": "The TDD cycle follows 'Red (write failing test) -> Green (write code to pass) -> Refactor (clean up code)' iteratively.",
     "tags": [
       "technology",
-      "data-cloud",
+      "web-software",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "technology-web-software-0041",
+    "id": "technology-networking-security-0041",
     "category": "Technology",
-    "subcategory": "Web & Software",
+    "subcategory": "Networking & Security",
     "difficulty": "medium",
-    "question": "In modern software and networking technology: What standard networking transport port is dedicated to secure encrypted HTTPS web communication? (Ref #41)",
+    "question": "How many conceptual abstraction layers comprise the International Organization for Standardization Open Systems Interconnection (OSI) model?",
     "options": [
-      "Port 443",
-      "Port 80",
-      "Port 22",
-      "Port 21"
+      "7 Layers",
+      "4 Layers",
+      "5 Layers",
+      "6 Layers"
     ],
     "correctAnswer": 0,
-    "explanation": "HTTPS uses Transport Layer Security (TLS) typically over TCP port 443, whereas unencrypted HTTP operates over port 80.",
+    "explanation": "The 7 OSI layers are Physical, Data Link, Network, Transport, Session, Presentation, and Application.",
     "tags": [
       "technology",
-      "web-software",
+      "networking-security",
       "medium"
     ],
     "active": true
@@ -865,15 +865,15 @@
     "category": "Technology",
     "subcategory": "Networking & Security",
     "difficulty": "hard",
-    "question": "In modern software and networking technology: What essential internet service translates human-readable domain names (such as wkquiz.com) into numerical IP addresses? (Ref #42)",
+    "question": "Which layer of the 7-layer OSI model is responsible for logical IP addressing, packet routing, and path determination across different networks?",
     "options": [
-      "DHCP",
-      "DNS (Domain Name System)",
-      "FTP",
-      "BGP routing"
+      "Layer 2 (Data Link Layer)",
+      "Layer 3 (Network Layer)",
+      "Layer 4 (Transport Layer)",
+      "Layer 7 (Application Layer)"
     ],
     "correctAnswer": 1,
-    "explanation": "DNS acts as the phonebook of the internet, resolving alphanumeric URLs into IP addresses for routing.",
+    "explanation": "Routers operate primarily at Layer 3, forwarding IPv4 and IPv6 packets across wide area networks.",
     "tags": [
       "technology",
       "networking-security",
@@ -882,64 +882,64 @@
     "active": true
   },
   {
-    "id": "technology-operating-systems-0043",
+    "id": "technology-networking-security-0043",
     "category": "Technology",
-    "subcategory": "Operating Systems",
+    "subcategory": "Networking & Security",
     "difficulty": "easy",
-    "question": "In modern software and networking technology: In Git version control, which command permanently saves staged code snapshots to the local repository history? (Ref #43)",
+    "question": "Which layer of the OSI model handles physical MAC addressing, framing, and media access control between nodes on the same local network segment?",
     "options": [
-      "git push",
-      "git add",
-      "git commit",
-      "git pull"
+      "Layer 1 (Physical Layer)",
+      "Layer 3 (Network Layer)",
+      "Layer 2 (Data Link Layer)",
+      "Layer 4 (Transport Layer)"
     ],
     "correctAnswer": 2,
-    "explanation": "'git commit -m ...' writes the staged changes into the local repository's version history tree.",
+    "explanation": "Network switches operate at Layer 2, switching Ethernet frames based on 48-bit MAC addresses.",
     "tags": [
       "technology",
-      "operating-systems",
+      "networking-security",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "technology-data-cloud-0044",
+    "id": "technology-networking-security-0044",
     "category": "Technology",
-    "subcategory": "Data & Cloud",
+    "subcategory": "Networking & Security",
     "difficulty": "medium",
-    "question": "In modern software and networking technology: In cloud computing architecture, what model describes services where the provider manages runtime, OS, and servers while users write application code? (Ref #44)",
+    "question": "Which layer of the OSI model provides end-to-end communication services, port multiplexing, and optional reliable connection delivery?",
     "options": [
-      "IaaS (Infrastructure as a Service)",
-      "SaaS (Software as a Service)",
-      "Bare Metal Colocation",
-      "PaaS (Platform as a Service)"
+      "Layer 3 (Network Layer)",
+      "Layer 5 (Session Layer)",
+      "Layer 6 (Presentation Layer)",
+      "Layer 4 (Transport Layer)"
     ],
     "correctAnswer": 3,
-    "explanation": "PaaS provides development platforms and execution runtimes without users needing to configure virtual machines or operating systems.",
+    "explanation": "TCP and UDP protocols operate at Layer 4, using 16-bit port numbers to route segments to specific applications.",
     "tags": [
       "technology",
-      "data-cloud",
+      "networking-security",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "technology-web-software-0045",
+    "id": "technology-networking-security-0045",
     "category": "Technology",
-    "subcategory": "Web & Software",
+    "subcategory": "Networking & Security",
     "difficulty": "hard",
-    "question": "In modern software and networking technology: What relational database query language is universally utilized to query and manipulate structured tabular data? (Ref #45)",
+    "question": "What transport layer protocol establishes a reliable, connection-oriented session using a three-way handshake and guaranteed delivery acknowledgments?",
     "options": [
-      "SQL (Structured Query Language)",
-      "JSON",
-      "HTML",
-      "XML"
+      "TCP (Transmission Control Protocol)",
+      "UDP (User Datagram Protocol)",
+      "ICMP",
+      "IGMP"
     ],
     "correctAnswer": 0,
-    "explanation": "SQL is the standardized declarative language for managing data held in relational database management systems (RDBMS).",
+    "explanation": "TCP provides ordered, error-checked, flow-controlled delivery of data streams across IP networks.",
     "tags": [
       "technology",
-      "web-software",
+      "networking-security",
       "hard"
     ],
     "active": true
@@ -949,15 +949,15 @@
     "category": "Technology",
     "subcategory": "Networking & Security",
     "difficulty": "easy",
-    "question": "In modern software and networking technology: What standard networking transport port is dedicated to secure encrypted HTTPS web communication? (Ref #46)",
+    "question": "What are the three sequential packet flags exchanged during the standard TCP connection establishment handshake?",
     "options": [
-      "Port 80",
-      "Port 443",
-      "Port 22",
-      "Port 21"
+      "ACK, ACK-SYN, FIN",
+      "SYN, SYN-ACK, ACK",
+      "HELLO, REQUEST, CONFIRM",
+      "INIT, READY, GO"
     ],
     "correctAnswer": 1,
-    "explanation": "HTTPS uses Transport Layer Security (TLS) typically over TCP port 443, whereas unencrypted HTTP operates over port 80.",
+    "explanation": "The client sends SYN, the server responds with SYN-ACK, and the client acknowledges with ACK to establish a full-duplex session.",
     "tags": [
       "technology",
       "networking-security",
@@ -966,64 +966,64 @@
     "active": true
   },
   {
-    "id": "technology-operating-systems-0047",
+    "id": "technology-networking-security-0047",
     "category": "Technology",
-    "subcategory": "Operating Systems",
+    "subcategory": "Networking & Security",
     "difficulty": "medium",
-    "question": "In modern software and networking technology: What essential internet service translates human-readable domain names (such as wkquiz.com) into numerical IP addresses? (Ref #47)",
+    "question": "What connectionless, lightweight transport protocol transmits packets without establishing a connection or guaranteeing packet delivery?",
     "options": [
-      "DHCP",
-      "FTP",
-      "DNS (Domain Name System)",
-      "BGP routing"
+      "TCP",
+      "SCTP",
+      "UDP (User Datagram Protocol)",
+      "TLS"
     ],
     "correctAnswer": 2,
-    "explanation": "DNS acts as the phonebook of the internet, resolving alphanumeric URLs into IP addresses for routing.",
+    "explanation": "UDP trades guaranteed delivery for minimal latency and low overhead, dominating real-time VoIP, live video streaming, and online gaming.",
     "tags": [
       "technology",
-      "operating-systems",
+      "networking-security",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "technology-data-cloud-0048",
+    "id": "technology-networking-security-0048",
     "category": "Technology",
-    "subcategory": "Data & Cloud",
+    "subcategory": "Networking & Security",
     "difficulty": "hard",
-    "question": "In modern software and networking technology: In Git version control, which command permanently saves staged code snapshots to the local repository history? (Ref #48)",
+    "question": "What network protocol automatically leases IP addresses, default gateway configurations, and DNS server settings to client computers?",
     "options": [
-      "git push",
-      "git add",
-      "git pull",
-      "git commit"
+      "DNS",
+      "ARP",
+      "NAT",
+      "DHCP (Dynamic Host Configuration Protocol)"
     ],
     "correctAnswer": 3,
-    "explanation": "'git commit -m ...' writes the staged changes into the local repository's version history tree.",
+    "explanation": "DHCP uses the four-step DORA process (Discover, Offer, Request, Acknowledge) over UDP ports 67 and 68.",
     "tags": [
       "technology",
-      "data-cloud",
+      "networking-security",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "technology-web-software-0049",
+    "id": "technology-networking-security-0049",
     "category": "Technology",
-    "subcategory": "Web & Software",
+    "subcategory": "Networking & Security",
     "difficulty": "easy",
-    "question": "In modern software and networking technology: In cloud computing architecture, what model describes services where the provider manages runtime, OS, and servers while users write application code? (Ref #49)",
+    "question": "What network service translates human-friendly domain names like 'wkquiz.com' into computer-routable IP addresses?",
     "options": [
-      "PaaS (Platform as a Service)",
-      "IaaS (Infrastructure as a Service)",
-      "SaaS (Software as a Service)",
-      "Bare Metal Colocation"
+      "DNS (Domain Name System)",
+      "DHCP",
+      "ARP",
+      "BGP"
     ],
     "correctAnswer": 0,
-    "explanation": "PaaS provides development platforms and execution runtimes without users needing to configure virtual machines or operating systems.",
+    "explanation": "DNS functions as the phonebook of the Internet, resolving domain names through recursive and authoritative nameservers.",
     "tags": [
       "technology",
-      "web-software",
+      "networking-security",
       "easy"
     ],
     "active": true
@@ -1033,15 +1033,15 @@
     "category": "Technology",
     "subcategory": "Networking & Security",
     "difficulty": "medium",
-    "question": "In modern software and networking technology: What relational database query language is universally utilized to query and manipulate structured tabular data? (Ref #50)",
+    "question": "What type of DNS record maps a domain name directly to a 32-bit IPv4 address?",
     "options": [
-      "JSON",
-      "SQL (Structured Query Language)",
-      "HTML",
-      "XML"
+      "AAAA Record",
+      "A Record",
+      "CNAME Record",
+      "MX Record"
     ],
     "correctAnswer": 1,
-    "explanation": "SQL is the standardized declarative language for managing data held in relational database management systems (RDBMS).",
+    "explanation": "An 'A' (Address) record resolves a hostname to an IPv4 address (e.g., 192.0.2.1).",
     "tags": [
       "technology",
       "networking-security",
@@ -1050,64 +1050,64 @@
     "active": true
   },
   {
-    "id": "technology-operating-systems-0051",
+    "id": "technology-networking-security-0051",
     "category": "Technology",
-    "subcategory": "Operating Systems",
+    "subcategory": "Networking & Security",
     "difficulty": "hard",
-    "question": "In modern software and networking technology: What standard networking transport port is dedicated to secure encrypted HTTPS web communication? (Ref #51)",
+    "question": "What type of DNS record maps a domain name directly to a 128-bit IPv6 address?",
     "options": [
-      "Port 80",
-      "Port 22",
-      "Port 443",
-      "Port 21"
+      "A Record",
+      "CNAME Record",
+      "AAAA Record (Quad-A)",
+      "PTR Record"
     ],
     "correctAnswer": 2,
-    "explanation": "HTTPS uses Transport Layer Security (TLS) typically over TCP port 443, whereas unencrypted HTTP operates over port 80.",
+    "explanation": "An AAAA record provides the IPv6 destination address for modern dual-stack Internet communications.",
     "tags": [
       "technology",
-      "operating-systems",
+      "networking-security",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "technology-data-cloud-0052",
+    "id": "technology-networking-security-0052",
     "category": "Technology",
-    "subcategory": "Data & Cloud",
+    "subcategory": "Networking & Security",
     "difficulty": "easy",
-    "question": "In modern software and networking technology: What essential internet service translates human-readable domain names (such as wkquiz.com) into numerical IP addresses? (Ref #52)",
+    "question": "What type of DNS record creates an alias that points one domain name to another canonical domain name?",
     "options": [
-      "DHCP",
-      "FTP",
-      "BGP routing",
-      "DNS (Domain Name System)"
+      "A Record",
+      "PTR Record",
+      "NS Record",
+      "CNAME Record (Canonical Name)"
     ],
     "correctAnswer": 3,
-    "explanation": "DNS acts as the phonebook of the internet, resolving alphanumeric URLs into IP addresses for routing.",
+    "explanation": "A CNAME record directs traffic for aliases (e.g., www.example.com) to the root canonical domain.",
     "tags": [
       "technology",
-      "data-cloud",
+      "networking-security",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "technology-web-software-0053",
+    "id": "technology-networking-security-0053",
     "category": "Technology",
-    "subcategory": "Web & Software",
+    "subcategory": "Networking & Security",
     "difficulty": "medium",
-    "question": "In modern software and networking technology: In Git version control, which command permanently saves staged code snapshots to the local repository history? (Ref #53)",
+    "question": "What type of DNS record specifies the mail exchange servers responsible for receiving email messages on behalf of a domain?",
     "options": [
-      "git commit",
-      "git push",
-      "git add",
-      "git pull"
+      "MX Record (Mail Exchanger)",
+      "TXT Record",
+      "SRV Record",
+      "SOA Record"
     ],
     "correctAnswer": 0,
-    "explanation": "'git commit -m ...' writes the staged changes into the local repository's version history tree.",
+    "explanation": "MX records contain server hostnames and priority numbers for directing inbound SMTP email traffic.",
     "tags": [
       "technology",
-      "web-software",
+      "networking-security",
       "medium"
     ],
     "active": true
@@ -1117,15 +1117,15 @@
     "category": "Technology",
     "subcategory": "Networking & Security",
     "difficulty": "hard",
-    "question": "In modern software and networking technology: In cloud computing architecture, what model describes services where the provider manages runtime, OS, and servers while users write application code? (Ref #54)",
+    "question": "What network protocol resolves a known Layer 3 logical IP address to a physical Layer 2 Ethernet MAC address on a local network?",
     "options": [
-      "IaaS (Infrastructure as a Service)",
-      "PaaS (Platform as a Service)",
-      "SaaS (Software as a Service)",
-      "Bare Metal Colocation"
+      "RARP",
+      "ARP (Address Resolution Protocol)",
+      "DNS",
+      "DHCP"
     ],
     "correctAnswer": 1,
-    "explanation": "PaaS provides development platforms and execution runtimes without users needing to configure virtual machines or operating systems.",
+    "explanation": "ARP broadcasts 'Who has IP X? Tell MAC Y' across the local broadcast domain to populate local ARP cache tables.",
     "tags": [
       "technology",
       "networking-security",
@@ -1134,64 +1134,64 @@
     "active": true
   },
   {
-    "id": "technology-operating-systems-0055",
+    "id": "technology-networking-security-0055",
     "category": "Technology",
-    "subcategory": "Operating Systems",
+    "subcategory": "Networking & Security",
     "difficulty": "easy",
-    "question": "In modern software and networking technology: What relational database query language is universally utilized to query and manipulate structured tabular data? (Ref #55)",
+    "question": "What networking technique modifies network address information in IP packet headers while in transit across a router, conserving public IPv4 addresses?",
     "options": [
-      "JSON",
-      "HTML",
-      "SQL (Structured Query Language)",
-      "XML"
+      "Subnetting",
+      "CIDR",
+      "NAT (Network Address Translation / PAT)",
+      "VLAN Tagging"
     ],
     "correctAnswer": 2,
-    "explanation": "SQL is the standardized declarative language for managing data held in relational database management systems (RDBMS).",
+    "explanation": "NAT allows thousands of private local IP addresses (RFC 1918) to share a single public routable IP address.",
     "tags": [
       "technology",
-      "operating-systems",
+      "networking-security",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "technology-data-cloud-0056",
+    "id": "technology-networking-security-0056",
     "category": "Technology",
-    "subcategory": "Data & Cloud",
+    "subcategory": "Networking & Security",
     "difficulty": "medium",
-    "question": "In modern software and networking technology: What standard networking transport port is dedicated to secure encrypted HTTPS web communication? (Ref #56)",
+    "question": "What core exterior gateway routing protocol manages how data packets are routed between autonomous systems (AS) across the global Internet?",
     "options": [
-      "Port 80",
-      "Port 22",
-      "Port 21",
-      "Port 443"
+      "OSPF",
+      "EIGRP",
+      "RIP",
+      "BGP (Border Gateway Protocol)"
     ],
     "correctAnswer": 3,
-    "explanation": "HTTPS uses Transport Layer Security (TLS) typically over TCP port 443, whereas unencrypted HTTP operates over port 80.",
+    "explanation": "BGP is a path-vector protocol that maintains routing tables of reachable networks across global telecommunications carriers.",
     "tags": [
       "technology",
-      "data-cloud",
+      "networking-security",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "technology-web-software-0057",
+    "id": "technology-networking-security-0057",
     "category": "Technology",
-    "subcategory": "Web & Software",
+    "subcategory": "Networking & Security",
     "difficulty": "hard",
-    "question": "In modern software and networking technology: What essential internet service translates human-readable domain names (such as wkquiz.com) into numerical IP addresses? (Ref #57)",
+    "question": "What popular interior gateway link-state routing protocol calculates the shortest path through an enterprise network using Dijkstra's algorithm?",
     "options": [
-      "DNS (Domain Name System)",
-      "DHCP",
-      "FTP",
-      "BGP routing"
+      "OSPF (Open Shortest Path First)",
+      "BGP",
+      "RIP",
+      "IS-IS"
     ],
     "correctAnswer": 0,
-    "explanation": "DNS acts as the phonebook of the internet, resolving alphanumeric URLs into IP addresses for routing.",
+    "explanation": "OSPF establishes neighbor adjacencies and floods Link-State Advertisements (LSAs) within hierarchical network areas.",
     "tags": [
       "technology",
-      "web-software",
+      "networking-security",
       "hard"
     ],
     "active": true
@@ -1201,15 +1201,15 @@
     "category": "Technology",
     "subcategory": "Networking & Security",
     "difficulty": "easy",
-    "question": "In modern software and networking technology: In Git version control, which command permanently saves staged code snapshots to the local repository history? (Ref #58)",
+    "question": "What network security technology isolates and segments broadcast domains within physical network switches using 802.1Q tagging?",
     "options": [
-      "git push",
-      "git commit",
-      "git add",
-      "git pull"
+      "VPN",
+      "VLAN (Virtual Local Area Network)",
+      "DMZ",
+      "Subnet Mask"
     ],
     "correctAnswer": 1,
-    "explanation": "'git commit -m ...' writes the staged changes into the local repository's version history tree.",
+    "explanation": "VLANs logically group switch ports into separate virtual networks, improving security and containing broadcast storms.",
     "tags": [
       "technology",
       "networking-security",
@@ -1218,64 +1218,64 @@
     "active": true
   },
   {
-    "id": "technology-operating-systems-0059",
+    "id": "technology-networking-security-0059",
     "category": "Technology",
-    "subcategory": "Operating Systems",
+    "subcategory": "Networking & Security",
     "difficulty": "medium",
-    "question": "In modern software and networking technology: In cloud computing architecture, what model describes services where the provider manages runtime, OS, and servers while users write application code? (Ref #59)",
+    "question": "What cryptographic protocol secures communications across the Internet, encrypting data between web browsers and servers in HTTPS?",
     "options": [
-      "IaaS (Infrastructure as a Service)",
-      "SaaS (Software as a Service)",
-      "PaaS (Platform as a Service)",
-      "Bare Metal Colocation"
+      "SSL 2.0",
+      "SSH",
+      "TLS (Transport Layer Security)",
+      "IPsec"
     ],
     "correctAnswer": 2,
-    "explanation": "PaaS provides development platforms and execution runtimes without users needing to configure virtual machines or operating systems.",
+    "explanation": "TLS 1.3 provides confidentiality, authenticity, and forward secrecy, completely deprecating insecure legacy SSL protocols.",
     "tags": [
       "technology",
-      "operating-systems",
+      "networking-security",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "technology-data-cloud-0060",
+    "id": "technology-networking-security-0060",
     "category": "Technology",
-    "subcategory": "Data & Cloud",
+    "subcategory": "Networking & Security",
     "difficulty": "hard",
-    "question": "In modern software and networking technology: What relational database query language is universally utilized to query and manipulate structured tabular data? (Ref #60)",
+    "question": "What asymmetric public-key cryptographic algorithm, published in 1977, relies on the computational difficulty of factoring large prime numbers?",
     "options": [
-      "JSON",
-      "HTML",
-      "XML",
-      "SQL (Structured Query Language)"
+      "AES",
+      "Blowfish",
+      "DES",
+      "RSA (Rivest-Shamir-Adleman)"
     ],
     "correctAnswer": 3,
-    "explanation": "SQL is the standardized declarative language for managing data held in relational database management systems (RDBMS).",
+    "explanation": "RSA uses a public key for encryption and a mathematically paired private key for decryption and digital signatures.",
     "tags": [
       "technology",
-      "data-cloud",
+      "networking-security",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "technology-web-software-0061",
+    "id": "technology-networking-security-0061",
     "category": "Technology",
-    "subcategory": "Web & Software",
+    "subcategory": "Networking & Security",
     "difficulty": "easy",
-    "question": "In modern software and networking technology: What standard networking transport port is dedicated to secure encrypted HTTPS web communication? (Ref #61)",
+    "question": "What symmetric block cipher standard, adopted by the U.S. government in 2001, uses 128, 192, or 256-bit keys to encrypt sensitive electronic data?",
     "options": [
-      "Port 443",
-      "Port 80",
-      "Port 22",
-      "Port 21"
+      "AES (Advanced Encryption Standard / Rijndael)",
+      "DES",
+      "RSA",
+      "Triple-DES"
     ],
     "correctAnswer": 0,
-    "explanation": "HTTPS uses Transport Layer Security (TLS) typically over TCP port 443, whereas unencrypted HTTP operates over port 80.",
+    "explanation": "AES is a substitution-permutation network cipher that encrypts data in 128-bit blocks with immense mathematical security.",
     "tags": [
       "technology",
-      "web-software",
+      "networking-security",
       "easy"
     ],
     "active": true
@@ -1285,15 +1285,15 @@
     "category": "Technology",
     "subcategory": "Networking & Security",
     "difficulty": "medium",
-    "question": "In modern software and networking technology: What essential internet service translates human-readable domain names (such as wkquiz.com) into numerical IP addresses? (Ref #62)",
+    "question": "What cryptographic hash function, designed by the NSA, generates a fixed 256-bit digest and is ubiquitous in Bitcoin and TLS certificates?",
     "options": [
-      "DHCP",
-      "DNS (Domain Name System)",
-      "FTP",
-      "BGP routing"
+      "MD5",
+      "SHA-256 (Secure Hash Algorithm 256-bit)",
+      "SHA-1",
+      "CRC32"
     ],
     "correctAnswer": 1,
-    "explanation": "DNS acts as the phonebook of the internet, resolving alphanumeric URLs into IP addresses for routing.",
+    "explanation": "SHA-256 is a one-way collision-resistant hash function where even a single bit change in the input completely alters the output hash digest.",
     "tags": [
       "technology",
       "networking-security",
@@ -1302,64 +1302,64 @@
     "active": true
   },
   {
-    "id": "technology-operating-systems-0063",
+    "id": "technology-networking-security-0063",
     "category": "Technology",
-    "subcategory": "Operating Systems",
+    "subcategory": "Networking & Security",
     "difficulty": "hard",
-    "question": "In modern software and networking technology: In Git version control, which command permanently saves staged code snapshots to the local repository history? (Ref #63)",
+    "question": "What legacy cryptographic hash function that produces a 128-bit digest is now cryptographically broken and unsafe due to collision vulnerabilities?",
     "options": [
-      "git push",
-      "git add",
-      "git commit",
-      "git pull"
+      "SHA-256",
+      "SHA-384",
+      "MD5 (Message Digest 5)",
+      "BLAKE3"
     ],
     "correctAnswer": 2,
-    "explanation": "'git commit -m ...' writes the staged changes into the local repository's version history tree.",
+    "explanation": "MD5 was demonstrated vulnerable to practical collision attacks in 2004 and should never be used for digital certificates or password hashing.",
     "tags": [
       "technology",
-      "operating-systems",
+      "networking-security",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "technology-data-cloud-0064",
+    "id": "technology-networking-security-0064",
     "category": "Technology",
-    "subcategory": "Data & Cloud",
+    "subcategory": "Networking & Security",
     "difficulty": "easy",
-    "question": "In modern software and networking technology: In cloud computing architecture, what model describes services where the provider manages runtime, OS, and servers while users write application code? (Ref #64)",
+    "question": "What slow, computationally expensive cryptographic password-hashing function incorporates random salts and adjustable work factors (cost)?",
     "options": [
-      "IaaS (Infrastructure as a Service)",
-      "SaaS (Software as a Service)",
-      "Bare Metal Colocation",
-      "PaaS (Platform as a Service)"
+      "SHA-256",
+      "MD5",
+      "Base64",
+      "bcrypt (or Argon2)"
     ],
     "correctAnswer": 3,
-    "explanation": "PaaS provides development platforms and execution runtimes without users needing to configure virtual machines or operating systems.",
+    "explanation": "bcrypt is deliberately slow to compute, protecting user password databases against high-speed GPU-accelerated brute-force attacks.",
     "tags": [
       "technology",
-      "data-cloud",
+      "networking-security",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "technology-web-software-0065",
+    "id": "technology-networking-security-0065",
     "category": "Technology",
-    "subcategory": "Web & Software",
+    "subcategory": "Networking & Security",
     "difficulty": "medium",
-    "question": "In modern software and networking technology: What relational database query language is universally utilized to query and manipulate structured tabular data? (Ref #65)",
+    "question": "In password security, what is the purpose of adding a unique cryptographic 'salt' to each password before hashing?",
     "options": [
-      "SQL (Structured Query Language)",
-      "JSON",
-      "HTML",
-      "XML"
+      "To prevent attackers from using precomputed rainbow tables and ensure identical passwords produce completely different hash digests",
+      "To make passwords longer",
+      "To encrypt the password symmetrically",
+      "To compress the database"
     ],
     "correctAnswer": 0,
-    "explanation": "SQL is the standardized declarative language for managing data held in relational database management systems (RDBMS).",
+    "explanation": "Salting forces attackers to compute brute-force hashes individually for every single user account.",
     "tags": [
       "technology",
-      "web-software",
+      "networking-security",
       "medium"
     ],
     "active": true
@@ -1369,15 +1369,15 @@
     "category": "Technology",
     "subcategory": "Networking & Security",
     "difficulty": "hard",
-    "question": "In modern software and networking technology: What standard networking transport port is dedicated to secure encrypted HTTPS web communication? (Ref #66)",
+    "question": "What type of cyberattack floods a target server, website, or network with a massive deluge of distributed traffic to make it unavailable to legitimate users?",
     "options": [
-      "Port 80",
-      "Port 443",
-      "Port 22",
-      "Port 21"
+      "Man-in-the-Middle Attack",
+      "Distributed Denial of Service (DDoS) Attack",
+      "Phishing Attack",
+      "Ransomware Attack"
     ],
     "correctAnswer": 1,
-    "explanation": "HTTPS uses Transport Layer Security (TLS) typically over TCP port 443, whereas unencrypted HTTP operates over port 80.",
+    "explanation": "DDoS attacks leverage botnets to saturate network bandwidth or crash backend web applications with millions of requests.",
     "tags": [
       "technology",
       "networking-security",
@@ -1386,64 +1386,64 @@
     "active": true
   },
   {
-    "id": "technology-operating-systems-0067",
+    "id": "technology-networking-security-0067",
     "category": "Technology",
-    "subcategory": "Operating Systems",
+    "subcategory": "Networking & Security",
     "difficulty": "easy",
-    "question": "In modern software and networking technology: What essential internet service translates human-readable domain names (such as wkquiz.com) into numerical IP addresses? (Ref #67)",
+    "question": "What cyberattack tricks victims into revealing sensitive login credentials or credit card numbers by masquerading as a trustworthy institution?",
     "options": [
-      "DHCP",
-      "FTP",
-      "DNS (Domain Name System)",
-      "BGP routing"
+      "SQL Injection",
+      "Cross-Site Scripting",
+      "Phishing Attack",
+      "Drive-by Download"
     ],
     "correctAnswer": 2,
-    "explanation": "DNS acts as the phonebook of the internet, resolving alphanumeric URLs into IP addresses for routing.",
+    "explanation": "Phishing attacks use deceptive emails, fake login pages, and social engineering to harvest user credentials.",
     "tags": [
       "technology",
-      "operating-systems",
+      "networking-security",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "technology-data-cloud-0068",
+    "id": "technology-networking-security-0068",
     "category": "Technology",
-    "subcategory": "Data & Cloud",
+    "subcategory": "Networking & Security",
     "difficulty": "medium",
-    "question": "In modern software and networking technology: In Git version control, which command permanently saves staged code snapshots to the local repository history? (Ref #68)",
+    "question": "What authentication methodology requires users to supply two or more distinct verification factors before granting system access?",
     "options": [
-      "git push",
-      "git add",
-      "git pull",
-      "git commit"
+      "Single Sign-On",
+      "Biometric Encryption",
+      "Symmetric Authentication",
+      "Multi-Factor Authentication (MFA / 2FA)"
     ],
     "correctAnswer": 3,
-    "explanation": "'git commit -m ...' writes the staged changes into the local repository's version history tree.",
+    "explanation": "MFA combines something you know (password), something you have (authenticator app/security key), and something you are (fingerprint/Face ID).",
     "tags": [
       "technology",
-      "data-cloud",
+      "networking-security",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "technology-web-software-0069",
+    "id": "technology-networking-security-0069",
     "category": "Technology",
-    "subcategory": "Web & Software",
+    "subcategory": "Networking & Security",
     "difficulty": "hard",
-    "question": "In modern software and networking technology: In cloud computing architecture, what model describes services where the provider manages runtime, OS, and servers while users write application code? (Ref #69)",
+    "question": "What security framework operates on the strict principle of 'never trust, always verify', requiring continuous authentication for every request?",
     "options": [
-      "PaaS (Platform as a Service)",
-      "IaaS (Infrastructure as a Service)",
-      "SaaS (Software as a Service)",
-      "Bare Metal Colocation"
+      "Zero Trust Architecture",
+      "Perimeter-Based Security",
+      "Defense in Depth",
+      "Air-Gapped Security"
     ],
     "correctAnswer": 0,
-    "explanation": "PaaS provides development platforms and execution runtimes without users needing to configure virtual machines or operating systems.",
+    "explanation": "Zero trust treats internal network traffic as potentially hostile, enforcing micro-segmentation and least-privilege access controls.",
     "tags": [
       "technology",
-      "web-software",
+      "networking-security",
       "hard"
     ],
     "active": true
@@ -1453,15 +1453,15 @@
     "category": "Technology",
     "subcategory": "Networking & Security",
     "difficulty": "easy",
-    "question": "In modern software and networking technology: What relational database query language is universally utilized to query and manipulate structured tabular data? (Ref #70)",
+    "question": "What network security device inspects incoming and outgoing network traffic, permitting or blocking data based on stateful security rules?",
     "options": [
-      "JSON",
-      "SQL (Structured Query Language)",
-      "HTML",
-      "XML"
+      "A Network Switch",
+      "A Firewall",
+      "A Repeater",
+      "A Hub"
     ],
     "correctAnswer": 1,
-    "explanation": "SQL is the standardized declarative language for managing data held in relational database management systems (RDBMS).",
+    "explanation": "Firewalls filter traffic by IP addresses, ports, protocols, and application layer payload inspection (Next-Gen Firewalls).",
     "tags": [
       "technology",
       "networking-security",
@@ -1470,64 +1470,64 @@
     "active": true
   },
   {
-    "id": "technology-operating-systems-0071",
+    "id": "technology-networking-security-0071",
     "category": "Technology",
-    "subcategory": "Operating Systems",
+    "subcategory": "Networking & Security",
     "difficulty": "medium",
-    "question": "In modern software and networking technology: What standard networking transport port is dedicated to secure encrypted HTTPS web communication? (Ref #71)",
+    "question": "What physical or logical subnetwork separates an organization's untrusted external Internet connections from its secure internal local network?",
     "options": [
-      "Port 80",
-      "Port 22",
-      "Port 443",
-      "Port 21"
+      "Intranet",
+      "VLAN",
+      "Demilitarized Zone (DMZ)",
+      "VPN Tunnel"
     ],
     "correctAnswer": 2,
-    "explanation": "HTTPS uses Transport Layer Security (TLS) typically over TCP port 443, whereas unencrypted HTTP operates over port 80.",
+    "explanation": "Public-facing servers (web, mail, DNS) reside in the DMZ so that a compromised server cannot directly access internal database networks.",
     "tags": [
       "technology",
-      "operating-systems",
+      "networking-security",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "technology-data-cloud-0072",
+    "id": "technology-networking-security-0072",
     "category": "Technology",
-    "subcategory": "Data & Cloud",
+    "subcategory": "Networking & Security",
     "difficulty": "hard",
-    "question": "In modern software and networking technology: What essential internet service translates human-readable domain names (such as wkquiz.com) into numerical IP addresses? (Ref #72)",
+    "question": "What security system passively monitors network traffic for suspicious malicious activity or known attack signatures and logs alerts?",
     "options": [
-      "DHCP",
-      "FTP",
-      "BGP routing",
-      "DNS (Domain Name System)"
+      "Intrusion Prevention System (IPS)",
+      "Firewall",
+      "Web Application Firewall",
+      "Intrusion Detection System (IDS)"
     ],
     "correctAnswer": 3,
-    "explanation": "DNS acts as the phonebook of the internet, resolving alphanumeric URLs into IP addresses for routing.",
+    "explanation": "An IDS alerts security analysts (SOC) of intrusion attempts without actively dropping packets in real time.",
     "tags": [
       "technology",
-      "data-cloud",
+      "networking-security",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "technology-web-software-0073",
+    "id": "technology-networking-security-0073",
     "category": "Technology",
-    "subcategory": "Web & Software",
+    "subcategory": "Networking & Security",
     "difficulty": "easy",
-    "question": "In modern software and networking technology: In Git version control, which command permanently saves staged code snapshots to the local repository history? (Ref #73)",
+    "question": "What active network security system analyzes traffic in-line and automatically blocks, drops, or resets connections when malicious attacks are detected?",
     "options": [
-      "git commit",
-      "git push",
-      "git add",
-      "git pull"
+      "Intrusion Prevention System (IPS)",
+      "Intrusion Detection System (IDS)",
+      "Network Tap",
+      "Packet Sniffer"
     ],
     "correctAnswer": 0,
-    "explanation": "'git commit -m ...' writes the staged changes into the local repository's version history tree.",
+    "explanation": "An IPS inspects packet payloads in real time and drops attack packets (like exploit payloads) before they reach target servers.",
     "tags": [
       "technology",
-      "web-software",
+      "networking-security",
       "easy"
     ],
     "active": true
@@ -1537,15 +1537,15 @@
     "category": "Technology",
     "subcategory": "Networking & Security",
     "difficulty": "medium",
-    "question": "In modern software and networking technology: In cloud computing architecture, what model describes services where the provider manages runtime, OS, and servers while users write application code? (Ref #74)",
+    "question": "What security vulnerability scanner or port scanner, created by Gordon Lyon in 1997, is the industry standard for network discovery?",
     "options": [
-      "IaaS (Infrastructure as a Service)",
-      "PaaS (Platform as a Service)",
-      "SaaS (Software as a Service)",
-      "Bare Metal Colocation"
+      "Wireshark",
+      "Nmap (Network Mapper)",
+      "Metasploit",
+      "Burp Suite"
     ],
     "correctAnswer": 1,
-    "explanation": "PaaS provides development platforms and execution runtimes without users needing to configure virtual machines or operating systems.",
+    "explanation": "Nmap sends raw network packets to determine active hosts, open ports, operating system fingerprints, and service versions.",
     "tags": [
       "technology",
       "networking-security",
@@ -1554,64 +1554,64 @@
     "active": true
   },
   {
-    "id": "technology-operating-systems-0075",
+    "id": "technology-networking-security-0075",
     "category": "Technology",
-    "subcategory": "Operating Systems",
+    "subcategory": "Networking & Security",
     "difficulty": "hard",
-    "question": "In modern software and networking technology: What relational database query language is universally utilized to query and manipulate structured tabular data? (Ref #75)",
+    "question": "What free and open-source packet analyzer is the global standard for capturing, inspecting, and troubleshooting live network traffic at the packet level?",
     "options": [
-      "JSON",
-      "HTML",
-      "SQL (Structured Query Language)",
-      "XML"
+      "Nmap",
+      "Putty",
+      "Wireshark (and tcpdump)",
+      "Cisco Packet Tracer"
     ],
     "correctAnswer": 2,
-    "explanation": "SQL is the standardized declarative language for managing data held in relational database management systems (RDBMS).",
+    "explanation": "Wireshark decodes hundreds of network protocols, displaying frame headers, packet payloads, and timing diagrams.",
     "tags": [
       "technology",
-      "operating-systems",
+      "networking-security",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "technology-data-cloud-0076",
+    "id": "technology-networking-security-0076",
     "category": "Technology",
-    "subcategory": "Data & Cloud",
+    "subcategory": "Networking & Security",
     "difficulty": "easy",
-    "question": "In modern software and networking technology: What standard networking transport port is dedicated to secure encrypted HTTPS web communication? (Ref #76)",
+    "question": "What standard default network port is assigned for unencrypted web traffic over HTTP?",
     "options": [
-      "Port 80",
-      "Port 22",
+      "Port 443",
+      "Port 8080",
       "Port 21",
-      "Port 443"
+      "Port 80"
     ],
     "correctAnswer": 3,
-    "explanation": "HTTPS uses Transport Layer Security (TLS) typically over TCP port 443, whereas unencrypted HTTP operates over port 80.",
+    "explanation": "TCP port 80 is the global IANA standard port for unencrypted plaintext HTTP web traffic.",
     "tags": [
       "technology",
-      "data-cloud",
+      "networking-security",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "technology-web-software-0077",
+    "id": "technology-networking-security-0077",
     "category": "Technology",
-    "subcategory": "Web & Software",
+    "subcategory": "Networking & Security",
     "difficulty": "medium",
-    "question": "In modern software and networking technology: What essential internet service translates human-readable domain names (such as wkquiz.com) into numerical IP addresses? (Ref #77)",
+    "question": "What standard default network port is assigned for secure encrypted web traffic over HTTPS?",
     "options": [
-      "DNS (Domain Name System)",
-      "DHCP",
-      "FTP",
-      "BGP routing"
+      "Port 443",
+      "Port 80",
+      "Port 8443",
+      "Port 22"
     ],
     "correctAnswer": 0,
-    "explanation": "DNS acts as the phonebook of the internet, resolving alphanumeric URLs into IP addresses for routing.",
+    "explanation": "TCP port 443 encrypts web traffic using TLS, preventing eavesdropping and tampering.",
     "tags": [
       "technology",
-      "web-software",
+      "networking-security",
       "medium"
     ],
     "active": true
@@ -1621,15 +1621,15 @@
     "category": "Technology",
     "subcategory": "Networking & Security",
     "difficulty": "hard",
-    "question": "In modern software and networking technology: In Git version control, which command permanently saves staged code snapshots to the local repository history? (Ref #78)",
+    "question": "What standard default network port is assigned for secure remote command-line login over SSH?",
     "options": [
-      "git push",
-      "git commit",
-      "git add",
-      "git pull"
+      "Port 23",
+      "Port 22",
+      "Port 21",
+      "Port 3389"
     ],
     "correctAnswer": 1,
-    "explanation": "'git commit -m ...' writes the staged changes into the local repository's version history tree.",
+    "explanation": "SSH operates over TCP port 22, replacing legacy insecure Telnet (port 23).",
     "tags": [
       "technology",
       "networking-security",
@@ -1638,85 +1638,85 @@
     "active": true
   },
   {
-    "id": "technology-operating-systems-0079",
+    "id": "technology-networking-security-0079",
     "category": "Technology",
-    "subcategory": "Operating Systems",
+    "subcategory": "Networking & Security",
     "difficulty": "easy",
-    "question": "In modern software and networking technology: In cloud computing architecture, what model describes services where the provider manages runtime, OS, and servers while users write application code? (Ref #79)",
+    "question": "What standard default network port is assigned for resolving domain names via DNS queries?",
     "options": [
-      "IaaS (Infrastructure as a Service)",
-      "SaaS (Software as a Service)",
-      "PaaS (Platform as a Service)",
-      "Bare Metal Colocation"
+      "Port 67",
+      "Port 25",
+      "Port 53",
+      "Port 110"
     ],
     "correctAnswer": 2,
-    "explanation": "PaaS provides development platforms and execution runtimes without users needing to configure virtual machines or operating systems.",
+    "explanation": "DNS operates primarily over UDP port 53 for speed, falling back to TCP port 53 for large zone transfers and DNSSEC.",
     "tags": [
       "technology",
-      "operating-systems",
+      "networking-security",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "technology-data-cloud-0080",
+    "id": "technology-networking-security-0080",
     "category": "Technology",
-    "subcategory": "Data & Cloud",
+    "subcategory": "Networking & Security",
     "difficulty": "medium",
-    "question": "In modern software and networking technology: What relational database query language is universally utilized to query and manipulate structured tabular data? (Ref #80)",
+    "question": "What standard network port is assigned for outgoing mail transfer between servers using Simple Mail Transfer Protocol (SMTP)?",
     "options": [
-      "JSON",
-      "HTML",
-      "XML",
-      "SQL (Structured Query Language)"
+      "Port 110",
+      "Port 143",
+      "Port 993",
+      "Port 25 (and 587 for secure submission)"
     ],
     "correctAnswer": 3,
-    "explanation": "SQL is the standardized declarative language for managing data held in relational database management systems (RDBMS).",
+    "explanation": "TCP port 25 relays emails between mail servers; port 587 is used by email clients for authenticated submission.",
     "tags": [
       "technology",
-      "data-cloud",
+      "networking-security",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "technology-web-software-0081",
+    "id": "technology-operating-systems-0081",
     "category": "Technology",
-    "subcategory": "Web & Software",
+    "subcategory": "Operating Systems",
     "difficulty": "hard",
-    "question": "In modern software and networking technology: What standard networking transport port is dedicated to secure encrypted HTTPS web communication? (Ref #81)",
+    "question": "What core central program of an operating system possesses complete control over all physical computer hardware and system resources?",
     "options": [
-      "Port 443",
-      "Port 80",
-      "Port 22",
-      "Port 21"
+      "The Kernel",
+      "The Shell",
+      "The Bootloader",
+      "The File System"
     ],
     "correctAnswer": 0,
-    "explanation": "HTTPS uses Transport Layer Security (TLS) typically over TCP port 443, whereas unencrypted HTTP operates over port 80.",
+    "explanation": "The kernel manages CPU scheduling, virtual memory allocation, interrupt handling, and device driver communication.",
     "tags": [
       "technology",
-      "web-software",
+      "operating-systems",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "technology-networking-security-0082",
+    "id": "technology-operating-systems-0082",
     "category": "Technology",
-    "subcategory": "Networking & Security",
+    "subcategory": "Operating Systems",
     "difficulty": "easy",
-    "question": "In modern software and networking technology: What essential internet service translates human-readable domain names (such as wkquiz.com) into numerical IP addresses? (Ref #82)",
+    "question": "What CPU execution mode grants uninhibited direct access to all hardware instructions, memory spaces, and peripheral registers?",
     "options": [
-      "DHCP",
-      "DNS (Domain Name System)",
-      "FTP",
-      "BGP routing"
+      "User Mode (Ring 3)",
+      "Kernel Mode (Ring 0 / Supervisor Mode)",
+      "Guest Mode",
+      "Protected Mode"
     ],
     "correctAnswer": 1,
-    "explanation": "DNS acts as the phonebook of the internet, resolving alphanumeric URLs into IP addresses for routing.",
+    "explanation": "Critical kernel code and device drivers execute in Ring 0; user applications are restricted to Ring 3 to protect system stability.",
     "tags": [
       "technology",
-      "networking-security",
+      "operating-systems",
       "easy"
     ],
     "active": true
@@ -1726,15 +1726,15 @@
     "category": "Technology",
     "subcategory": "Operating Systems",
     "difficulty": "medium",
-    "question": "In modern software and networking technology: In Git version control, which command permanently saves staged code snapshots to the local repository history? (Ref #83)",
+    "question": "What programmatic mechanism allows an unprivileged user-mode application to request services from the operating system kernel?",
     "options": [
-      "git push",
-      "git add",
-      "git commit",
-      "git pull"
+      "An Interrupt Request",
+      "A Hardware Trap",
+      "A System Call (Syscall)",
+      "A Function Call"
     ],
     "correctAnswer": 2,
-    "explanation": "'git commit -m ...' writes the staged changes into the local repository's version history tree.",
+    "explanation": "System calls (such as read, write, fork, and open) execute an architectural software interrupt or syscall instruction to transition to kernel mode.",
     "tags": [
       "technology",
       "operating-systems",
@@ -1743,64 +1743,64 @@
     "active": true
   },
   {
-    "id": "technology-data-cloud-0084",
+    "id": "technology-operating-systems-0084",
     "category": "Technology",
-    "subcategory": "Data & Cloud",
+    "subcategory": "Operating Systems",
     "difficulty": "hard",
-    "question": "In modern software and networking technology: In cloud computing architecture, what model describes services where the provider manages runtime, OS, and servers while users write application code? (Ref #84)",
+    "question": "What OS kernel architecture runs all operating system services (VFS, IPC, drivers, memory manager) inside a single large address space in kernel mode?",
     "options": [
-      "IaaS (Infrastructure as a Service)",
-      "SaaS (Software as a Service)",
-      "Bare Metal Colocation",
-      "PaaS (Platform as a Service)"
+      "Microkernel",
+      "Hybrid Kernel",
+      "Exokernel",
+      "Monolithic Kernel (e.g., Linux)"
     ],
     "correctAnswer": 3,
-    "explanation": "PaaS provides development platforms and execution runtimes without users needing to configure virtual machines or operating systems.",
+    "explanation": "Monolithic kernels maximize performance by eliminating context-switching overhead between OS components, but a driver crash can panic the kernel.",
     "tags": [
       "technology",
-      "data-cloud",
+      "operating-systems",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "technology-web-software-0085",
+    "id": "technology-operating-systems-0085",
     "category": "Technology",
-    "subcategory": "Web & Software",
+    "subcategory": "Operating Systems",
     "difficulty": "easy",
-    "question": "In modern software and networking technology: What relational database query language is universally utilized to query and manipulate structured tabular data? (Ref #85)",
+    "question": "What operating system kernel architecture strips kernel functionality to a bare minimum, running file systems and device drivers as user-space servers?",
     "options": [
-      "SQL (Structured Query Language)",
-      "JSON",
-      "HTML",
-      "XML"
+      "Microkernel (e.g., QNX, seL4)",
+      "Monolithic Kernel",
+      "Hybrid Kernel",
+      "Macrokernel"
     ],
     "correctAnswer": 0,
-    "explanation": "SQL is the standardized declarative language for managing data held in relational database management systems (RDBMS).",
+    "explanation": "Microkernels achieve superior reliability, fault isolation, and formal security verification by communicating via Inter-Process Communication (IPC).",
     "tags": [
       "technology",
-      "web-software",
+      "operating-systems",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "technology-networking-security-0086",
+    "id": "technology-operating-systems-0086",
     "category": "Technology",
-    "subcategory": "Networking & Security",
+    "subcategory": "Operating Systems",
     "difficulty": "medium",
-    "question": "In modern software and networking technology: What standard networking transport port is dedicated to secure encrypted HTTPS web communication? (Ref #86)",
+    "question": "What fundamental computer memory management technique provides each process with its own private contiguous address space mapped to physical RAM?",
     "options": [
-      "Port 80",
-      "Port 443",
-      "Port 22",
-      "Port 21"
+      "Direct Memory Addressing",
+      "Virtual Memory",
+      "Paging Segmentation",
+      "Bank Switching"
     ],
     "correctAnswer": 1,
-    "explanation": "HTTPS uses Transport Layer Security (TLS) typically over TCP port 443, whereas unencrypted HTTP operates over port 80.",
+    "explanation": "Virtual memory isolates processes from one another and allows systems to run programs requiring more memory than physically installed RAM.",
     "tags": [
       "technology",
-      "networking-security",
+      "operating-systems",
       "medium"
     ],
     "active": true
@@ -1810,15 +1810,15 @@
     "category": "Technology",
     "subcategory": "Operating Systems",
     "difficulty": "hard",
-    "question": "In modern software and networking technology: What essential internet service translates human-readable domain names (such as wkquiz.com) into numerical IP addresses? (Ref #87)",
+    "question": "What dedicated CPU hardware component translates virtual memory addresses into physical RAM addresses using Page Tables?",
     "options": [
-      "DHCP",
-      "FTP",
-      "DNS (Domain Name System)",
-      "BGP routing"
+      "Arithmetic Logic Unit (ALU)",
+      "Translation Lookaside Buffer (TLB)",
+      "Memory Management Unit (MMU)",
+      "Control Unit (CU)"
     ],
     "correctAnswer": 2,
-    "explanation": "DNS acts as the phonebook of the internet, resolving alphanumeric URLs into IP addresses for routing.",
+    "explanation": "The MMU performs hardware page table walks and enforces read/write/execute memory protection privileges.",
     "tags": [
       "technology",
       "operating-systems",
@@ -1827,64 +1827,64 @@
     "active": true
   },
   {
-    "id": "technology-data-cloud-0088",
+    "id": "technology-operating-systems-0088",
     "category": "Technology",
-    "subcategory": "Data & Cloud",
+    "subcategory": "Operating Systems",
     "difficulty": "easy",
-    "question": "In modern software and networking technology: In Git version control, which command permanently saves staged code snapshots to the local repository history? (Ref #88)",
+    "question": "What high-speed hardware cache inside the CPU stores recent virtual-to-physical address translations to accelerate memory access?",
     "options": [
-      "git push",
-      "git add",
-      "git pull",
-      "git commit"
+      "L1 Data Cache",
+      "Instruction Register",
+      "Branch Predictor",
+      "Translation Lookaside Buffer (TLB)"
     ],
     "correctAnswer": 3,
-    "explanation": "'git commit -m ...' writes the staged changes into the local repository's version history tree.",
+    "explanation": "A TLB hit allows the MMU to retrieve physical addresses in a single clock cycle, avoiding slow multi-level page table walks in RAM.",
     "tags": [
       "technology",
-      "data-cloud",
+      "operating-systems",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "technology-web-software-0089",
+    "id": "technology-operating-systems-0089",
     "category": "Technology",
-    "subcategory": "Web & Software",
+    "subcategory": "Operating Systems",
     "difficulty": "medium",
-    "question": "In modern software and networking technology: In cloud computing architecture, what model describes services where the provider manages runtime, OS, and servers while users write application code? (Ref #89)",
+    "question": "What operating system interrupt occurs when a program attempts to access a virtual memory page that is currently not mapped in physical RAM?",
     "options": [
-      "PaaS (Platform as a Service)",
-      "IaaS (Infrastructure as a Service)",
-      "SaaS (Software as a Service)",
-      "Bare Metal Colocation"
+      "Page Fault",
+      "Segmentation Fault",
+      "General Protection Fault",
+      "Bus Error"
     ],
     "correctAnswer": 0,
-    "explanation": "PaaS provides development platforms and execution runtimes without users needing to configure virtual machines or operating systems.",
+    "explanation": "The OS intercepts the page fault, retrieves the missing page from disk swap/pagefile into a physical RAM frame, and resumes process execution.",
     "tags": [
       "technology",
-      "web-software",
+      "operating-systems",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "technology-networking-security-0090",
+    "id": "technology-operating-systems-0090",
     "category": "Technology",
-    "subcategory": "Networking & Security",
+    "subcategory": "Operating Systems",
     "difficulty": "hard",
-    "question": "In modern software and networking technology: What relational database query language is universally utilized to query and manipulate structured tabular data? (Ref #90)",
+    "question": "What fatal software error occurs when a program attempts to read or write to a restricted, read-only, or unallocated memory address?",
     "options": [
-      "JSON",
-      "SQL (Structured Query Language)",
-      "HTML",
-      "XML"
+      "Page Fault",
+      "Segmentation Fault (SIGSEGV)",
+      "Stack Overflow",
+      "Buffer Underrun"
     ],
     "correctAnswer": 1,
-    "explanation": "SQL is the standardized declarative language for managing data held in relational database management systems (RDBMS).",
+    "explanation": "The operating system terminates offending programs immediately with a segmentation fault to preserve system memory integrity.",
     "tags": [
       "technology",
-      "networking-security",
+      "operating-systems",
       "hard"
     ],
     "active": true
@@ -1894,15 +1894,15 @@
     "category": "Technology",
     "subcategory": "Operating Systems",
     "difficulty": "easy",
-    "question": "In modern software and networking technology: What standard networking transport port is dedicated to secure encrypted HTTPS web communication? (Ref #91)",
+    "question": "What memory management condition occurs when an operating system spends virtually all its CPU time swapping pages to disk rather than executing code?",
     "options": [
-      "Port 80",
-      "Port 22",
-      "Port 443",
-      "Port 21"
+      "Metastability",
+      "Deadlock",
+      "Thrashing",
+      "Starvation"
     ],
     "correctAnswer": 2,
-    "explanation": "HTTPS uses Transport Layer Security (TLS) typically over TCP port 443, whereas unencrypted HTTP operates over port 80.",
+    "explanation": "Thrashing occurs when active program memory demands exceed physical RAM, causing continuous cascading page faults.",
     "tags": [
       "technology",
       "operating-systems",
@@ -1911,64 +1911,64 @@
     "active": true
   },
   {
-    "id": "technology-data-cloud-0092",
+    "id": "technology-operating-systems-0092",
     "category": "Technology",
-    "subcategory": "Data & Cloud",
+    "subcategory": "Operating Systems",
     "difficulty": "medium",
-    "question": "In modern software and networking technology: What essential internet service translates human-readable domain names (such as wkquiz.com) into numerical IP addresses? (Ref #92)",
+    "question": "What is the fundamental difference between an operating system Process and a Thread?",
     "options": [
-      "DHCP",
-      "FTP",
-      "BGP routing",
-      "DNS (Domain Name System)"
+      "Threads have separate address spaces",
+      "Processes cannot be scheduled by the CPU",
+      "Threads are purely hardware components",
+      "A Process has its own dedicated private virtual memory space; Threads exist within a process and share its memory space"
     ],
     "correctAnswer": 3,
-    "explanation": "DNS acts as the phonebook of the internet, resolving alphanumeric URLs into IP addresses for routing.",
+    "explanation": "Threads within the same process share code, data, and open files, making inter-thread communication fast while sharing thread crash risks.",
     "tags": [
       "technology",
-      "data-cloud",
+      "operating-systems",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "technology-web-software-0093",
+    "id": "technology-operating-systems-0093",
     "category": "Technology",
-    "subcategory": "Web & Software",
+    "subcategory": "Operating Systems",
     "difficulty": "hard",
-    "question": "In modern software and networking technology: In Git version control, which command permanently saves staged code snapshots to the local repository history? (Ref #93)",
+    "question": "What CPU scheduling algorithm assigns each ready process a fixed slice of execution time (quantum) in circular chronological order?",
     "options": [
-      "git commit",
-      "git push",
-      "git add",
-      "git pull"
+      "Round-Robin (RR) Scheduling",
+      "First-Come First-Served (FCFS)",
+      "Shortest Job Next (SJN)",
+      "Priority Scheduling"
     ],
     "correctAnswer": 0,
-    "explanation": "'git commit -m ...' writes the staged changes into the local repository's version history tree.",
+    "explanation": "Round-Robin ensures fair CPU time sharing and prevents process starvation in interactive multitasking systems.",
     "tags": [
       "technology",
-      "web-software",
+      "operating-systems",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "technology-networking-security-0094",
+    "id": "technology-operating-systems-0094",
     "category": "Technology",
-    "subcategory": "Networking & Security",
+    "subcategory": "Operating Systems",
     "difficulty": "easy",
-    "question": "In modern software and networking technology: In cloud computing architecture, what model describes services where the provider manages runtime, OS, and servers while users write application code? (Ref #94)",
+    "question": "What scheduling algorithm executes the pending process with the smallest estimated CPU burst time first?",
     "options": [
-      "IaaS (Infrastructure as a Service)",
-      "PaaS (Platform as a Service)",
-      "SaaS (Software as a Service)",
-      "Bare Metal Colocation"
+      "Round-Robin",
+      "Shortest Job First (SJF / Shortest Job Next)",
+      "Priority Scheduling",
+      "Multilevel Queue"
     ],
     "correctAnswer": 1,
-    "explanation": "PaaS provides development platforms and execution runtimes without users needing to configure virtual machines or operating systems.",
+    "explanation": "SJF is provably optimal for minimizing average waiting time, but requires estimating execution times in advance.",
     "tags": [
       "technology",
-      "networking-security",
+      "operating-systems",
       "easy"
     ],
     "active": true
@@ -1978,15 +1978,15 @@
     "category": "Technology",
     "subcategory": "Operating Systems",
     "difficulty": "medium",
-    "question": "In modern software and networking technology: What relational database query language is universally utilized to query and manipulate structured tabular data? (Ref #95)",
+    "question": "What dangerous concurrent computing state occurs when two or more processes are permanently blocked, each waiting for a resource held by another?",
     "options": [
-      "JSON",
-      "HTML",
-      "SQL (Structured Query Language)",
-      "XML"
+      "Livelock",
+      "Race Condition",
+      "Deadlock",
+      "Starvation"
     ],
     "correctAnswer": 2,
-    "explanation": "SQL is the standardized declarative language for managing data held in relational database management systems (RDBMS).",
+    "explanation": "Deadlock freezes processes forever unless broken by preemption or process termination.",
     "tags": [
       "technology",
       "operating-systems",
@@ -1995,64 +1995,64 @@
     "active": true
   },
   {
-    "id": "technology-data-cloud-0096",
+    "id": "technology-operating-systems-0096",
     "category": "Technology",
-    "subcategory": "Data & Cloud",
+    "subcategory": "Operating Systems",
     "difficulty": "hard",
-    "question": "In modern software and networking technology: What standard networking transport port is dedicated to secure encrypted HTTPS web communication? (Ref #96)",
+    "question": "What four conditions (the Coffman Conditions) must simultaneously hold true for a deadlock to occur in an operating system?",
     "options": [
-      "Port 80",
-      "Port 22",
-      "Port 21",
-      "Port 443"
+      "Shared Memory, Pointers, Threads, and Clocks",
+      "Paging, Swapping, Thrashing, and Interrupts",
+      "FIFO, LIFO, Priority, and Quantum",
+      "Mutual Exclusion, Hold and Wait, No Preemption, and Circular Wait"
     ],
     "correctAnswer": 3,
-    "explanation": "HTTPS uses Transport Layer Security (TLS) typically over TCP port 443, whereas unencrypted HTTP operates over port 80.",
+    "explanation": "Eliminating any single one of these four conditions mathematically guarantees that deadlocks cannot occur.",
     "tags": [
       "technology",
-      "data-cloud",
+      "operating-systems",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "technology-web-software-0097",
+    "id": "technology-operating-systems-0097",
     "category": "Technology",
-    "subcategory": "Web & Software",
+    "subcategory": "Operating Systems",
     "difficulty": "easy",
-    "question": "In modern software and networking technology: What essential internet service translates human-readable domain names (such as wkquiz.com) into numerical IP addresses? (Ref #97)",
+    "question": "What concurrent computing bug occurs when program correctness depends on the non-deterministic timing or execution order of multiple threads?",
     "options": [
-      "DNS (Domain Name System)",
-      "DHCP",
-      "FTP",
-      "BGP routing"
+      "Race Condition",
+      "Deadlock",
+      "Priority Inversion",
+      "Memory Leak"
     ],
     "correctAnswer": 0,
-    "explanation": "DNS acts as the phonebook of the internet, resolving alphanumeric URLs into IP addresses for routing.",
+    "explanation": "Race conditions corrupt shared data when two threads attempt to read, modify, and write the same variable simultaneously without synchronization.",
     "tags": [
       "technology",
-      "web-software",
+      "operating-systems",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "technology-networking-security-0098",
+    "id": "technology-operating-systems-0098",
     "category": "Technology",
-    "subcategory": "Networking & Security",
+    "subcategory": "Operating Systems",
     "difficulty": "medium",
-    "question": "In modern software and networking technology: In Git version control, which command permanently saves staged code snapshots to the local repository history? (Ref #98)",
+    "question": "What synchronization primitive provides an atomic lock that grants exclusive mutual exclusion access to a critical code section?",
     "options": [
-      "git push",
-      "git commit",
-      "git add",
-      "git pull"
+      "A Semaphore",
+      "A Mutex (Mutual Exclusion Lock)",
+      "A Barrier",
+      "A Spinlock"
     ],
     "correctAnswer": 1,
-    "explanation": "'git commit -m ...' writes the staged changes into the local repository's version history tree.",
+    "explanation": "Only the thread that successfully locks the mutex is allowed to enter the critical section, unlocking it upon completion.",
     "tags": [
       "technology",
-      "networking-security",
+      "operating-systems",
       "medium"
     ],
     "active": true
@@ -2062,15 +2062,15 @@
     "category": "Technology",
     "subcategory": "Operating Systems",
     "difficulty": "hard",
-    "question": "In modern software and networking technology: In cloud computing architecture, what model describes services where the provider manages runtime, OS, and servers while users write application code? (Ref #99)",
+    "question": "What synchronization variable maintains an integer counter to control access to a finite pool of identical shared resources?",
     "options": [
-      "IaaS (Infrastructure as a Service)",
-      "SaaS (Software as a Service)",
-      "PaaS (Platform as a Service)",
-      "Bare Metal Colocation"
+      "A Mutex",
+      "A Condition Variable",
+      "A Counting Semaphore (invented by Edsger Dijkstra)",
+      "A Spinlock"
     ],
     "correctAnswer": 2,
-    "explanation": "PaaS provides development platforms and execution runtimes without users needing to configure virtual machines or operating systems.",
+    "explanation": "Calling wait() (P) decrements the counter, blocking when zero; calling signal() (V) increments the counter, unblocking waiting threads.",
     "tags": [
       "technology",
       "operating-systems",
@@ -2079,64 +2079,64 @@
     "active": true
   },
   {
-    "id": "technology-data-cloud-0100",
+    "id": "technology-operating-systems-0100",
     "category": "Technology",
-    "subcategory": "Data & Cloud",
+    "subcategory": "Operating Systems",
     "difficulty": "easy",
-    "question": "In modern software and networking technology: What relational database query language is universally utilized to query and manipulate structured tabular data? (Ref #100)",
+    "question": "What synchronization mechanism repeatedly tests a lock flag in a tight CPU loop ('busy-waiting') until the lock becomes free?",
     "options": [
-      "JSON",
-      "HTML",
-      "XML",
-      "SQL (Structured Query Language)"
+      "A Blocking Mutex",
+      "A Semaphore",
+      "A Futex",
+      "A Spinlock"
     ],
     "correctAnswer": 3,
-    "explanation": "SQL is the standardized declarative language for managing data held in relational database management systems (RDBMS).",
+    "explanation": "Spinlocks avoid the latency of OS thread context switching, useful in low-latency multicore kernel code for brief hold times.",
     "tags": [
       "technology",
-      "data-cloud",
+      "operating-systems",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "technology-web-software-0101",
+    "id": "technology-operating-systems-0101",
     "category": "Technology",
-    "subcategory": "Web & Software",
+    "subcategory": "Operating Systems",
     "difficulty": "medium",
-    "question": "In modern software and networking technology: What standard networking transport port is dedicated to secure encrypted HTTPS web communication? (Ref #101)",
+    "question": "What fundamental file system abstraction in Linux and Unix represents all files, directories, and device nodes uniquely using an index number?",
     "options": [
-      "Port 443",
-      "Port 80",
-      "Port 22",
-      "Port 21"
+      "An Inode (Index Node)",
+      "A File Descriptor",
+      "A Cluster Chain",
+      "A Master Boot Record"
     ],
     "correctAnswer": 0,
-    "explanation": "HTTPS uses Transport Layer Security (TLS) typically over TCP port 443, whereas unencrypted HTTP operates over port 80.",
+    "explanation": "An inode stores file metadata (size, permissions, timestamps, owner) and pointers to disk data blocks, but does not contain the file name.",
     "tags": [
       "technology",
-      "web-software",
+      "operating-systems",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "technology-networking-security-0102",
+    "id": "technology-operating-systems-0102",
     "category": "Technology",
-    "subcategory": "Networking & Security",
+    "subcategory": "Operating Systems",
     "difficulty": "hard",
-    "question": "In modern software and networking technology: What essential internet service translates human-readable domain names (such as wkquiz.com) into numerical IP addresses? (Ref #102)",
+    "question": "What Unix concept allows multiple distinct directory paths and filenames to point directly to the exact same physical inode on disk?",
     "options": [
-      "DHCP",
-      "DNS (Domain Name System)",
-      "FTP",
-      "BGP routing"
+      "A Symbolic Link (Symlink)",
+      "A Hard Link",
+      "A Shortcut",
+      "A Junction"
     ],
     "correctAnswer": 1,
-    "explanation": "DNS acts as the phonebook of the internet, resolving alphanumeric URLs into IP addresses for routing.",
+    "explanation": "Deleting a file only unlinks the directory reference; file data blocks are freed only when the inode's hard link count drops to zero.",
     "tags": [
       "technology",
-      "networking-security",
+      "operating-systems",
       "hard"
     ],
     "active": true
@@ -2146,15 +2146,15 @@
     "category": "Technology",
     "subcategory": "Operating Systems",
     "difficulty": "easy",
-    "question": "In modern software and networking technology: In Git version control, which command permanently saves staged code snapshots to the local repository history? (Ref #103)",
+    "question": "What type of link is a special file that contains a text string representing the relative or absolute pathname of another target file?",
     "options": [
-      "git push",
-      "git add",
-      "git commit",
-      "git pull"
+      "A Hard Link",
+      "An Inode Pointer",
+      "A Symbolic Link (Symlink / Soft Link)",
+      "A File Descriptor"
     ],
     "correctAnswer": 2,
-    "explanation": "'git commit -m ...' writes the staged changes into the local repository's version history tree.",
+    "explanation": "If the target file is deleted or moved, a symbolic link becomes broken (dangling), whereas hard links remain valid.",
     "tags": [
       "technology",
       "operating-systems",
@@ -2163,64 +2163,64 @@
     "active": true
   },
   {
-    "id": "technology-data-cloud-0104",
+    "id": "technology-operating-systems-0104",
     "category": "Technology",
-    "subcategory": "Data & Cloud",
+    "subcategory": "Operating Systems",
     "difficulty": "medium",
-    "question": "In modern software and networking technology: In cloud computing architecture, what model describes services where the provider manages runtime, OS, and servers while users write application code? (Ref #104)",
+    "question": "What file system feature writes planned file modifications to a dedicated sequential log before applying them to master disk structures?",
     "options": [
-      "IaaS (Infrastructure as a Service)",
-      "SaaS (Software as a Service)",
-      "Bare Metal Colocation",
-      "PaaS (Platform as a Service)"
+      "Copy-On-Write (COW)",
+      "Disk Defragmentation",
+      "Block Caching",
+      "Journaling"
     ],
     "correctAnswer": 3,
-    "explanation": "PaaS provides development platforms and execution runtimes without users needing to configure virtual machines or operating systems.",
+    "explanation": "Journaling allows file systems (like ext4 and NTFS) to rapidly recover from sudden power loss or system crashes without corruption.",
     "tags": [
       "technology",
-      "data-cloud",
+      "operating-systems",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "technology-web-software-0105",
+    "id": "technology-operating-systems-0105",
     "category": "Technology",
-    "subcategory": "Web & Software",
+    "subcategory": "Operating Systems",
     "difficulty": "hard",
-    "question": "In modern software and networking technology: What relational database query language is universally utilized to query and manipulate structured tabular data? (Ref #105)",
+    "question": "What advanced file system paradigm never overwrites active data in-place, instead writing modified blocks to new empty disk sectors?",
     "options": [
-      "SQL (Structured Query Language)",
-      "JSON",
-      "HTML",
-      "XML"
+      "Copy-On-Write (COW, e.g., ZFS, Btrfs)",
+      "Journaling",
+      "Direct Allocation",
+      "Linear Block Addressing"
     ],
     "correctAnswer": 0,
-    "explanation": "SQL is the standardized declarative language for managing data held in relational database management systems (RDBMS).",
+    "explanation": "COW guarantees consistent data snapshots, instantaneous rollbacks, and eliminates file corruption during write crashes.",
     "tags": [
       "technology",
-      "web-software",
+      "operating-systems",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "technology-networking-security-0106",
+    "id": "technology-operating-systems-0106",
     "category": "Technology",
-    "subcategory": "Networking & Security",
+    "subcategory": "Operating Systems",
     "difficulty": "easy",
-    "question": "In modern software and networking technology: What standard networking transport port is dedicated to secure encrypted HTTPS web communication? (Ref #106)",
+    "question": "What is the primary native journaling file system utilized by modern Microsoft Windows operating systems?",
     "options": [
-      "Port 80",
-      "Port 443",
-      "Port 22",
-      "Port 21"
+      "FAT32",
+      "NTFS (New Technology File System)",
+      "exFAT",
+      "ReFS"
     ],
     "correctAnswer": 1,
-    "explanation": "HTTPS uses Transport Layer Security (TLS) typically over TCP port 443, whereas unencrypted HTTP operates over port 80.",
+    "explanation": "NTFS supports file-level permissions (ACLs), transparent encryption (EFS), compression, volume shadow copies, and journaling.",
     "tags": [
       "technology",
-      "networking-security",
+      "operating-systems",
       "easy"
     ],
     "active": true
@@ -2230,15 +2230,15 @@
     "category": "Technology",
     "subcategory": "Operating Systems",
     "difficulty": "medium",
-    "question": "In modern software and networking technology: What essential internet service translates human-readable domain names (such as wkquiz.com) into numerical IP addresses? (Ref #107)",
+    "question": "What legacy file system, originally developed for MS-DOS, has a strict 4 Gigabyte maximum file size limitation?",
     "options": [
-      "DHCP",
-      "FTP",
-      "DNS (Domain Name System)",
-      "BGP routing"
+      "exFAT",
+      "NTFS",
+      "FAT32 (File Allocation Table 32)",
+      "ext2"
     ],
     "correctAnswer": 2,
-    "explanation": "DNS acts as the phonebook of the internet, resolving alphanumeric URLs into IP addresses for routing.",
+    "explanation": "FAT32 cannot store individual files larger than 4 GB (2^32 - 1 bytes), replaced by exFAT for modern high-capacity flash drives.",
     "tags": [
       "technology",
       "operating-systems",
@@ -2247,64 +2247,64 @@
     "active": true
   },
   {
-    "id": "technology-data-cloud-0108",
+    "id": "technology-operating-systems-0108",
     "category": "Technology",
-    "subcategory": "Data & Cloud",
+    "subcategory": "Operating Systems",
     "difficulty": "hard",
-    "question": "In modern software and networking technology: In Git version control, which command permanently saves staged code snapshots to the local repository history? (Ref #108)",
+    "question": "What modern file system is engineered specifically for USB flash drives and SD cards to overcome FAT32 limitations without NTFS overhead?",
     "options": [
-      "git push",
-      "git add",
-      "git pull",
-      "git commit"
+      "FAT32",
+      "ext4",
+      "HFS+",
+      "exFAT (Extended File Allocation Table)"
     ],
     "correctAnswer": 3,
-    "explanation": "'git commit -m ...' writes the staged changes into the local repository's version history tree.",
+    "explanation": "exFAT supports massive file sizes (up to 16 Exabytes) with lightweight structures optimized for portable flash storage.",
     "tags": [
       "technology",
-      "data-cloud",
+      "operating-systems",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "technology-web-software-0109",
+    "id": "technology-operating-systems-0109",
     "category": "Technology",
-    "subcategory": "Web & Software",
+    "subcategory": "Operating Systems",
     "difficulty": "easy",
-    "question": "In modern software and networking technology: In cloud computing architecture, what model describes services where the provider manages runtime, OS, and servers while users write application code? (Ref #109)",
+    "question": "What default journaling file system is standard across modern enterprise and desktop Linux distributions?",
     "options": [
-      "PaaS (Platform as a Service)",
-      "IaaS (Infrastructure as a Service)",
-      "SaaS (Software as a Service)",
-      "Bare Metal Colocation"
+      "ext4 (Fourth Extended File System)",
+      "ext3",
+      "XFS",
+      "Btrfs"
     ],
     "correctAnswer": 0,
-    "explanation": "PaaS provides development platforms and execution runtimes without users needing to configure virtual machines or operating systems.",
+    "explanation": "ext4 features multiblock allocation, delayed allocation, extents, and 64-bit block addressing for high reliability.",
     "tags": [
       "technology",
-      "web-software",
+      "operating-systems",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "technology-networking-security-0110",
+    "id": "technology-operating-systems-0110",
     "category": "Technology",
-    "subcategory": "Networking & Security",
+    "subcategory": "Operating Systems",
     "difficulty": "medium",
-    "question": "In modern software and networking technology: What relational database query language is universally utilized to query and manipulate structured tabular data? (Ref #110)",
+    "question": "What process is universally created first by the Linux kernel during system boot, assigned Process ID 1 (PID 1)?",
     "options": [
-      "JSON",
-      "SQL (Structured Query Language)",
-      "HTML",
-      "XML"
+      "The Swapper",
+      "The Init Process (systemd / sysvinit)",
+      "The Shell",
+      "The Login Manager"
     ],
     "correctAnswer": 1,
-    "explanation": "SQL is the standardized declarative language for managing data held in relational database management systems (RDBMS).",
+    "explanation": "PID 1 is the parent or ancestor of all user-space processes on the system, adopting orphaned zombie child processes.",
     "tags": [
       "technology",
-      "networking-security",
+      "operating-systems",
       "medium"
     ],
     "active": true
@@ -2314,15 +2314,15 @@
     "category": "Technology",
     "subcategory": "Operating Systems",
     "difficulty": "hard",
-    "question": "In modern software and networking technology: What standard networking transport port is dedicated to secure encrypted HTTPS web communication? (Ref #111)",
+    "question": "What modern Linux system and service manager replaces legacy SysV init, providing parallelized service startup and logging via journald?",
     "options": [
-      "Port 80",
-      "Port 22",
-      "Port 443",
-      "Port 21"
+      "Upstart",
+      "OpenRC",
+      "systemd",
+      "runit"
     ],
     "correctAnswer": 2,
-    "explanation": "HTTPS uses Transport Layer Security (TLS) typically over TCP port 443, whereas unencrypted HTTP operates over port 80.",
+    "explanation": "systemd manages system daemons, timers, mount points, and targets, utilizing declarative configuration unit files.",
     "tags": [
       "technology",
       "operating-systems",
@@ -2331,64 +2331,64 @@
     "active": true
   },
   {
-    "id": "technology-data-cloud-0112",
+    "id": "technology-operating-systems-0112",
     "category": "Technology",
-    "subcategory": "Data & Cloud",
+    "subcategory": "Operating Systems",
     "difficulty": "easy",
-    "question": "In modern software and networking technology: What essential internet service translates human-readable domain names (such as wkquiz.com) into numerical IP addresses? (Ref #112)",
+    "question": "What Unix system call creates an exact duplicate clone of the calling parent process, copying memory and file descriptors?",
     "options": [
-      "DHCP",
-      "FTP",
-      "BGP routing",
-      "DNS (Domain Name System)"
+      "exec()",
+      "clone()",
+      "spawn()",
+      "fork()"
     ],
     "correctAnswer": 3,
-    "explanation": "DNS acts as the phonebook of the internet, resolving alphanumeric URLs into IP addresses for routing.",
+    "explanation": "fork() returns 0 to the child process and returns the child's new PID to the parent process.",
     "tags": [
       "technology",
-      "data-cloud",
+      "operating-systems",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "technology-web-software-0113",
+    "id": "technology-operating-systems-0113",
     "category": "Technology",
-    "subcategory": "Web & Software",
+    "subcategory": "Operating Systems",
     "difficulty": "medium",
-    "question": "In modern software and networking technology: In Git version control, which command permanently saves staged code snapshots to the local repository history? (Ref #113)",
+    "question": "What Unix system call family replaces the current process memory image with a new executable program binary?",
     "options": [
-      "git commit",
-      "git push",
-      "git add",
-      "git pull"
+      "exec() (e.g., execve, execl, execvp)",
+      "fork()",
+      "pthread_create()",
+      "system()"
     ],
     "correctAnswer": 0,
-    "explanation": "'git commit -m ...' writes the staged changes into the local repository's version history tree.",
+    "explanation": "When paired as fork() followed by exec(), an operating system launches and runs an entirely new program binary.",
     "tags": [
       "technology",
-      "web-software",
+      "operating-systems",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "technology-networking-security-0114",
+    "id": "technology-operating-systems-0114",
     "category": "Technology",
-    "subcategory": "Networking & Security",
+    "subcategory": "Operating Systems",
     "difficulty": "hard",
-    "question": "In modern software and networking technology: In cloud computing architecture, what model describes services where the provider manages runtime, OS, and servers while users write application code? (Ref #114)",
+    "question": "What Unix system call suspends a parent process until one of its child processes has finished executing and terminated?",
     "options": [
-      "IaaS (Infrastructure as a Service)",
-      "PaaS (Platform as a Service)",
-      "SaaS (Software as a Service)",
-      "Bare Metal Colocation"
+      "sleep()",
+      "wait() (or waitpid())",
+      "pause()",
+      "kill()"
     ],
     "correctAnswer": 1,
-    "explanation": "PaaS provides development platforms and execution runtimes without users needing to configure virtual machines or operating systems.",
+    "explanation": "wait() retrieves the child's exit status code and allows the kernel to purge the child's dead process table entry.",
     "tags": [
       "technology",
-      "networking-security",
+      "operating-systems",
       "hard"
     ],
     "active": true
@@ -2398,15 +2398,15 @@
     "category": "Technology",
     "subcategory": "Operating Systems",
     "difficulty": "easy",
-    "question": "In modern software and networking technology: What relational database query language is universally utilized to query and manipulate structured tabular data? (Ref #115)",
+    "question": "What is a terminated Unix child process called whose exit status has not yet been collected by its parent process via wait()?",
     "options": [
-      "JSON",
-      "HTML",
-      "SQL (Structured Query Language)",
-      "XML"
+      "An Orphan Process",
+      "A Daemon Process",
+      "A Zombie Process (Defunct Process)",
+      "A Sleeping Process"
     ],
     "correctAnswer": 2,
-    "explanation": "SQL is the standardized declarative language for managing data held in relational database management systems (RDBMS).",
+    "explanation": "Zombies consume no CPU or RAM, but tie up an entry in the system process table until reaped.",
     "tags": [
       "technology",
       "operating-systems",
@@ -2415,64 +2415,64 @@
     "active": true
   },
   {
-    "id": "technology-data-cloud-0116",
+    "id": "technology-operating-systems-0116",
     "category": "Technology",
-    "subcategory": "Data & Cloud",
+    "subcategory": "Operating Systems",
     "difficulty": "medium",
-    "question": "In modern software and networking technology: What standard networking transport port is dedicated to secure encrypted HTTPS web communication? (Ref #116)",
+    "question": "What is a running Unix process called whose parent process terminates before the child process finishes executing?",
     "options": [
-      "Port 80",
-      "Port 22",
-      "Port 21",
-      "Port 443"
+      "A Zombie Process",
+      "A Daemon Process",
+      "A Ghost Process",
+      "An Orphan Process"
     ],
     "correctAnswer": 3,
-    "explanation": "HTTPS uses Transport Layer Security (TLS) typically over TCP port 443, whereas unencrypted HTTP operates over port 80.",
+    "explanation": "Orphaned processes are automatically adopted by PID 1 (systemd/init), which reaps their exit statuses upon termination.",
     "tags": [
       "technology",
-      "data-cloud",
+      "operating-systems",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "technology-web-software-0117",
+    "id": "technology-operating-systems-0117",
     "category": "Technology",
-    "subcategory": "Web & Software",
+    "subcategory": "Operating Systems",
     "difficulty": "hard",
-    "question": "In modern software and networking technology: What essential internet service translates human-readable domain names (such as wkquiz.com) into numerical IP addresses? (Ref #117)",
+    "question": "What Unix system call sends an asynchronous control signal (such as SIGTERM or SIGKILL) to a specified process ID?",
     "options": [
-      "DNS (Domain Name System)",
-      "DHCP",
-      "FTP",
-      "BGP routing"
+      "kill()",
+      "signal()",
+      "terminate()",
+      "abort()"
     ],
     "correctAnswer": 0,
-    "explanation": "DNS acts as the phonebook of the internet, resolving alphanumeric URLs into IP addresses for routing.",
+    "explanation": "kill() sends signals; SIGTERM (signal 15) requests graceful shutdown, while SIGKILL (signal 9) forces immediate un-catchable termination.",
     "tags": [
       "technology",
-      "web-software",
+      "operating-systems",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "technology-networking-security-0118",
+    "id": "technology-operating-systems-0118",
     "category": "Technology",
-    "subcategory": "Networking & Security",
+    "subcategory": "Operating Systems",
     "difficulty": "easy",
-    "question": "In modern software and networking technology: In Git version control, which command permanently saves staged code snapshots to the local repository history? (Ref #118)",
+    "question": "What un-catchable Unix kill signal immediately and unconditionally terminates a process at the kernel level?",
     "options": [
-      "git push",
-      "git commit",
-      "git add",
-      "git pull"
+      "SIGTERM (Signal 15)",
+      "SIGKILL (Signal 9)",
+      "SIGINT (Signal 2)",
+      "SIGHUP (Signal 1)"
     ],
     "correctAnswer": 1,
-    "explanation": "'git commit -m ...' writes the staged changes into the local repository's version history tree.",
+    "explanation": "SIGKILL cannot be caught, blocked, or ignored by application software, terminating uncooperative processes forcefully.",
     "tags": [
       "technology",
-      "networking-security",
+      "operating-systems",
       "easy"
     ],
     "active": true
@@ -2482,15 +2482,15 @@
     "category": "Technology",
     "subcategory": "Operating Systems",
     "difficulty": "medium",
-    "question": "In modern software and networking technology: In cloud computing architecture, what model describes services where the provider manages runtime, OS, and servers while users write application code? (Ref #119)",
+    "question": "What Unix signal is sent when an interactive terminal user presses the keyboard shortcut Ctrl+C?",
     "options": [
-      "IaaS (Infrastructure as a Service)",
-      "SaaS (Software as a Service)",
-      "PaaS (Platform as a Service)",
-      "Bare Metal Colocation"
+      "SIGQUIT",
+      "SIGSTOP",
+      "SIGINT (Signal 2 - Terminal Interrupt)",
+      "SIGTSTP"
     ],
     "correctAnswer": 2,
-    "explanation": "PaaS provides development platforms and execution runtimes without users needing to configure virtual machines or operating systems.",
+    "explanation": "SIGINT requests that the foreground process cleanly abort and exit to the command prompt.",
     "tags": [
       "technology",
       "operating-systems",
@@ -2499,85 +2499,85 @@
     "active": true
   },
   {
-    "id": "technology-data-cloud-0120",
+    "id": "technology-operating-systems-0120",
     "category": "Technology",
-    "subcategory": "Data & Cloud",
+    "subcategory": "Operating Systems",
     "difficulty": "hard",
-    "question": "In modern software and networking technology: What relational database query language is universally utilized to query and manipulate structured tabular data? (Ref #120)",
+    "question": "What Unix signal is sent when an interactive terminal user presses Ctrl+Z to suspend the active foreground process?",
     "options": [
-      "JSON",
-      "HTML",
-      "XML",
-      "SQL (Structured Query Language)"
+      "SIGSTOP",
+      "SIGINT",
+      "SIGQUIT",
+      "SIGTSTP (Terminal Stop)"
     ],
     "correctAnswer": 3,
-    "explanation": "SQL is the standardized declarative language for managing data held in relational database management systems (RDBMS).",
+    "explanation": "SIGTSTP suspends execution, allowing the user to resume it later in the background with the 'bg' shell command.",
     "tags": [
       "technology",
-      "data-cloud",
+      "operating-systems",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "technology-web-software-0121",
+    "id": "technology-data-cloud-0121",
     "category": "Technology",
-    "subcategory": "Web & Software",
+    "subcategory": "Data & Cloud",
     "difficulty": "easy",
-    "question": "In modern software and networking technology: What standard networking transport port is dedicated to secure encrypted HTTPS web communication? (Ref #121)",
+    "question": "What fundamental database ACID property guarantees that all operations within a transaction succeed completely or all are rolled back?",
     "options": [
-      "Port 443",
-      "Port 80",
-      "Port 22",
-      "Port 21"
+      "Atomicity",
+      "Consistency",
+      "Isolation",
+      "Durability"
     ],
     "correctAnswer": 0,
-    "explanation": "HTTPS uses Transport Layer Security (TLS) typically over TCP port 443, whereas unencrypted HTTP operates over port 80.",
+    "explanation": "Atomicity ensures 'all-or-nothing' execution; if any step in a banking transfer fails, the entire transaction is reverted.",
     "tags": [
       "technology",
-      "web-software",
+      "data-cloud",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "technology-networking-security-0122",
+    "id": "technology-data-cloud-0122",
     "category": "Technology",
-    "subcategory": "Networking & Security",
+    "subcategory": "Data & Cloud",
     "difficulty": "medium",
-    "question": "In modern software and networking technology: What essential internet service translates human-readable domain names (such as wkquiz.com) into numerical IP addresses? (Ref #122)",
+    "question": "What ACID property ensures that database transactions preserve all explicit integrity constraints, foreign keys, and schema rules?",
     "options": [
-      "DHCP",
-      "DNS (Domain Name System)",
-      "FTP",
-      "BGP routing"
+      "Atomicity",
+      "Consistency",
+      "Isolation",
+      "Durability"
     ],
     "correctAnswer": 1,
-    "explanation": "DNS acts as the phonebook of the internet, resolving alphanumeric URLs into IP addresses for routing.",
+    "explanation": "Consistency prevents transactions from leaving the database in an illegal or corrupted internal state.",
     "tags": [
       "technology",
-      "networking-security",
+      "data-cloud",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "technology-operating-systems-0123",
+    "id": "technology-data-cloud-0123",
     "category": "Technology",
-    "subcategory": "Operating Systems",
+    "subcategory": "Data & Cloud",
     "difficulty": "hard",
-    "question": "In modern software and networking technology: In Git version control, which command permanently saves staged code snapshots to the local repository history? (Ref #123)",
+    "question": "What ACID property guarantees that concurrent transactions execute without interfering with one another or seeing uncommitted data?",
     "options": [
-      "git push",
-      "git add",
-      "git commit",
-      "git pull"
+      "Durability",
+      "Consistency",
+      "Isolation",
+      "Atomicity"
     ],
     "correctAnswer": 2,
-    "explanation": "'git commit -m ...' writes the staged changes into the local repository's version history tree.",
+    "explanation": "Isolation levels (Read Committed, Repeatable Read, Serializable) control transaction visibility and lock contention.",
     "tags": [
       "technology",
-      "operating-systems",
+      "data-cloud",
       "hard"
     ],
     "active": true
@@ -2587,15 +2587,15 @@
     "category": "Technology",
     "subcategory": "Data & Cloud",
     "difficulty": "easy",
-    "question": "In modern software and networking technology: In cloud computing architecture, what model describes services where the provider manages runtime, OS, and servers while users write application code? (Ref #124)",
+    "question": "What ACID property guarantees that once a transaction commits, its recorded modifications survive system crashes or power failures?",
     "options": [
-      "IaaS (Infrastructure as a Service)",
-      "SaaS (Software as a Service)",
-      "Bare Metal Colocation",
-      "PaaS (Platform as a Service)"
+      "Atomicity",
+      "Consistency",
+      "Isolation",
+      "Durability"
     ],
     "correctAnswer": 3,
-    "explanation": "PaaS provides development platforms and execution runtimes without users needing to configure virtual machines or operating systems.",
+    "explanation": "Durability is achieved by committing transaction logs (Write-Ahead Logging / WAL) to non-volatile disk storage before confirming success.",
     "tags": [
       "technology",
       "data-cloud",
@@ -2604,64 +2604,64 @@
     "active": true
   },
   {
-    "id": "technology-web-software-0125",
+    "id": "technology-data-cloud-0125",
     "category": "Technology",
-    "subcategory": "Web & Software",
+    "subcategory": "Data & Cloud",
     "difficulty": "medium",
-    "question": "In modern software and networking technology: What relational database query language is universally utilized to query and manipulate structured tabular data? (Ref #125)",
+    "question": "What theorem, formulated by Eric Brewer, states that a distributed data store can simultaneously guarantee only two of: Consistency, Availability, and Partition Tolerance?",
     "options": [
-      "SQL (Structured Query Language)",
-      "JSON",
-      "HTML",
-      "XML"
+      "The CAP Theorem",
+      "The PACELC Theorem",
+      "Amdahl's Law",
+      "Little's Law"
     ],
     "correctAnswer": 0,
-    "explanation": "SQL is the standardized declarative language for managing data held in relational database management systems (RDBMS).",
+    "explanation": "In the inevitable presence of a network partition (P), a distributed system must choose between strong Consistency (C) or continuous Availability (A).",
     "tags": [
       "technology",
-      "web-software",
+      "data-cloud",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "technology-networking-security-0126",
+    "id": "technology-data-cloud-0126",
     "category": "Technology",
-    "subcategory": "Networking & Security",
+    "subcategory": "Data & Cloud",
     "difficulty": "hard",
-    "question": "In modern software and networking technology: What standard networking transport port is dedicated to secure encrypted HTTPS web communication? (Ref #126)",
+    "question": "What distributed database consistency model guarantees that all cluster nodes return the exact same data value at any given instant?",
     "options": [
-      "Port 80",
-      "Port 443",
-      "Port 22",
-      "Port 21"
+      "Eventual Consistency",
+      "Strong Consistency",
+      "Read-After-Write Consistency",
+      "Causal Consistency"
     ],
     "correctAnswer": 1,
-    "explanation": "HTTPS uses Transport Layer Security (TLS) typically over TCP port 443, whereas unencrypted HTTP operates over port 80.",
+    "explanation": "Strong consistency mandates synchronous replica confirmation, increasing latency and reducing availability during network splits.",
     "tags": [
       "technology",
-      "networking-security",
+      "data-cloud",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "technology-operating-systems-0127",
+    "id": "technology-data-cloud-0127",
     "category": "Technology",
-    "subcategory": "Operating Systems",
+    "subcategory": "Data & Cloud",
     "difficulty": "easy",
-    "question": "In modern software and networking technology: What essential internet service translates human-readable domain names (such as wkquiz.com) into numerical IP addresses? (Ref #127)",
+    "question": "What consistency model promises that all replicas will converge on the same data value over time if no new updates are made?",
     "options": [
-      "DHCP",
-      "FTP",
-      "DNS (Domain Name System)",
-      "BGP routing"
+      "Strong Consistency",
+      "Strict Serializability",
+      "Eventual Consistency",
+      "Linearizability"
     ],
     "correctAnswer": 2,
-    "explanation": "DNS acts as the phonebook of the internet, resolving alphanumeric URLs into IP addresses for routing.",
+    "explanation": "Eventual consistency enables massive scale and high availability in distributed NoSQL systems like Amazon DynamoDB and Apache Cassandra.",
     "tags": [
       "technology",
-      "operating-systems",
+      "data-cloud",
       "easy"
     ],
     "active": true
@@ -2671,15 +2671,15 @@
     "category": "Technology",
     "subcategory": "Data & Cloud",
     "difficulty": "medium",
-    "question": "In modern software and networking technology: In Git version control, which command permanently saves staged code snapshots to the local repository history? (Ref #128)",
+    "question": "What type of database organizes structured data into relational tables composed of rows and columns enforced by schemas?",
     "options": [
-      "git push",
-      "git add",
-      "git pull",
-      "git commit"
+      "NoSQL Database",
+      "Document Store",
+      "Graph Database",
+      "Relational Database Management System (RDBMS)"
     ],
     "correctAnswer": 3,
-    "explanation": "'git commit -m ...' writes the staged changes into the local repository's version history tree.",
+    "explanation": "RDBMS systems (PostgreSQL, MySQL, Oracle, SQL Server) utilize Structured Query Language (SQL) and relational algebra.",
     "tags": [
       "technology",
       "data-cloud",
@@ -2688,64 +2688,64 @@
     "active": true
   },
   {
-    "id": "technology-web-software-0129",
+    "id": "technology-data-cloud-0129",
     "category": "Technology",
-    "subcategory": "Web & Software",
+    "subcategory": "Data & Cloud",
     "difficulty": "hard",
-    "question": "In modern software and networking technology: In cloud computing architecture, what model describes services where the provider manages runtime, OS, and servers while users write application code? (Ref #129)",
+    "question": "What class of non-relational databases avoids rigid relational table schemas, scaling horizontally across clusters?",
     "options": [
-      "PaaS (Platform as a Service)",
-      "IaaS (Infrastructure as a Service)",
-      "SaaS (Software as a Service)",
-      "Bare Metal Colocation"
+      "NoSQL Database",
+      "RDBMS",
+      "SQL Database",
+      "Object-Relational Database"
     ],
     "correctAnswer": 0,
-    "explanation": "PaaS provides development platforms and execution runtimes without users needing to configure virtual machines or operating systems.",
+    "explanation": "NoSQL encompasses Key-Value (Redis), Document (MongoDB), Wide-Column (Cassandra), and Graph (Neo4j) databases.",
     "tags": [
       "technology",
-      "web-software",
+      "data-cloud",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "technology-networking-security-0130",
+    "id": "technology-data-cloud-0130",
     "category": "Technology",
-    "subcategory": "Networking & Security",
+    "subcategory": "Data & Cloud",
     "difficulty": "easy",
-    "question": "In modern software and networking technology: What relational database query language is universally utilized to query and manipulate structured tabular data? (Ref #130)",
+    "question": "What type of NoSQL database stores semi-structured records as JSON-like documents (BSON) containing nested arrays and objects?",
     "options": [
-      "JSON",
-      "SQL (Structured Query Language)",
-      "HTML",
-      "XML"
+      "Key-Value Store",
+      "Document Database (e.g., MongoDB, CouchDB)",
+      "Graph Database",
+      "Columnar Database"
     ],
     "correctAnswer": 1,
-    "explanation": "SQL is the standardized declarative language for managing data held in relational database management systems (RDBMS).",
+    "explanation": "Document stores allow flexible, evolving schemas without requiring complex relational joins across multiple tables.",
     "tags": [
       "technology",
-      "networking-security",
+      "data-cloud",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "technology-operating-systems-0131",
+    "id": "technology-data-cloud-0131",
     "category": "Technology",
-    "subcategory": "Operating Systems",
+    "subcategory": "Data & Cloud",
     "difficulty": "medium",
-    "question": "In modern software and networking technology: What standard networking transport port is dedicated to secure encrypted HTTPS web communication? (Ref #131)",
+    "question": "What ultra-fast in-memory NoSQL data structure store is standardly used for distributed caching, session management, and pub/sub messaging?",
     "options": [
-      "Port 80",
-      "Port 22",
-      "Port 443",
-      "Port 21"
+      "MongoDB",
+      "PostgreSQL",
+      "Redis",
+      "Cassandra"
     ],
     "correctAnswer": 2,
-    "explanation": "HTTPS uses Transport Layer Security (TLS) typically over TCP port 443, whereas unencrypted HTTP operates over port 80.",
+    "explanation": "Redis stores data in RAM, executing reads and writes in sub-millisecond times while supporting lists, sets, hashes, and sorted sets.",
     "tags": [
       "technology",
-      "operating-systems",
+      "data-cloud",
       "medium"
     ],
     "active": true
@@ -2755,15 +2755,15 @@
     "category": "Technology",
     "subcategory": "Data & Cloud",
     "difficulty": "hard",
-    "question": "In modern software and networking technology: What essential internet service translates human-readable domain names (such as wkquiz.com) into numerical IP addresses? (Ref #132)",
+    "question": "What type of database represents data as nodes, edges, and properties, optimized for traversing complex connected networks (social graphs, fraud detection)?",
     "options": [
-      "DHCP",
-      "FTP",
-      "BGP routing",
-      "DNS (Domain Name System)"
+      "Relational Database",
+      "Document Database",
+      "Time-Series Database",
+      "Graph Database (e.g., Neo4j)"
     ],
     "correctAnswer": 3,
-    "explanation": "DNS acts as the phonebook of the internet, resolving alphanumeric URLs into IP addresses for routing.",
+    "explanation": "Graph databases execute multi-hop relational path traversals in constant time without computationally expensive SQL joins.",
     "tags": [
       "technology",
       "data-cloud",
@@ -2772,64 +2772,64 @@
     "active": true
   },
   {
-    "id": "technology-web-software-0133",
+    "id": "technology-data-cloud-0133",
     "category": "Technology",
-    "subcategory": "Web & Software",
+    "subcategory": "Data & Cloud",
     "difficulty": "easy",
-    "question": "In modern software and networking technology: In Git version control, which command permanently saves staged code snapshots to the local repository history? (Ref #133)",
+    "question": "What specialized database is engineered specifically to ingest, index, and query timestamped metrics and IoT sensor streams over time?",
     "options": [
-      "git commit",
-      "git push",
-      "git add",
-      "git pull"
+      "Time-Series Database (TSDB, e.g., InfluxDB, Prometheus, TimescaleDB)",
+      "Document Database",
+      "Relational Database",
+      "Graph Database"
     ],
     "correctAnswer": 0,
-    "explanation": "'git commit -m ...' writes the staged changes into the local repository's version history tree.",
+    "explanation": "TSDBs optimize sequential time-ordered writes, retention downsampling, and temporal aggregation queries.",
     "tags": [
       "technology",
-      "web-software",
+      "data-cloud",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "technology-networking-security-0134",
+    "id": "technology-data-cloud-0134",
     "category": "Technology",
-    "subcategory": "Networking & Security",
+    "subcategory": "Data & Cloud",
     "difficulty": "medium",
-    "question": "In modern software and networking technology: In cloud computing architecture, what model describes services where the provider manages runtime, OS, and servers while users write application code? (Ref #134)",
+    "question": "What database indexing structure organizes sorted keys into a balanced tree where all leaf nodes reside at identical depth?",
     "options": [
-      "IaaS (Infrastructure as a Service)",
-      "PaaS (Platform as a Service)",
-      "SaaS (Software as a Service)",
-      "Bare Metal Colocation"
+      "Hash Table",
+      "B-Tree (or B+ Tree)",
+      "Binary Search Tree",
+      "LSM Tree"
     ],
     "correctAnswer": 1,
-    "explanation": "PaaS provides development platforms and execution runtimes without users needing to configure virtual machines or operating systems.",
+    "explanation": "B-Trees minimize disk I/O operations by keeping node sizes matched to disk page blocks, ubiquitous in SQL database indexes.",
     "tags": [
       "technology",
-      "networking-security",
+      "data-cloud",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "technology-operating-systems-0135",
+    "id": "technology-data-cloud-0135",
     "category": "Technology",
-    "subcategory": "Operating Systems",
+    "subcategory": "Data & Cloud",
     "difficulty": "hard",
-    "question": "In modern software and networking technology: What relational database query language is universally utilized to query and manipulate structured tabular data? (Ref #135)",
+    "question": "What write-optimized data structure buffers sequential writes in memory (MemTable) before flushing them to immutable sorted disk files (SSTables)?",
     "options": [
-      "JSON",
-      "HTML",
-      "SQL (Structured Query Language)",
-      "XML"
+      "B+ Tree",
+      "Hash Index",
+      "Log-Structured Merge-tree (LSM Tree)",
+      "Red-Black Tree"
     ],
     "correctAnswer": 2,
-    "explanation": "SQL is the standardized declarative language for managing data held in relational database management systems (RDBMS).",
+    "explanation": "LSM Trees provide high-throughput sequential write performance in distributed NoSQL databases like Cassandra and RocksDB.",
     "tags": [
       "technology",
-      "operating-systems",
+      "data-cloud",
       "hard"
     ],
     "active": true
@@ -2839,15 +2839,15 @@
     "category": "Technology",
     "subcategory": "Data & Cloud",
     "difficulty": "easy",
-    "question": "In modern software and networking technology: What standard networking transport port is dedicated to secure encrypted HTTPS web communication? (Ref #136)",
+    "question": "What database optimization technique partitions a large database table into smaller, independent physical segments across multiple database servers?",
     "options": [
-      "Port 80",
-      "Port 22",
-      "Port 21",
-      "Port 443"
+      "Vertical Partitioning",
+      "Database Normalization",
+      "Denormalization",
+      "Sharding (Horizontal Partitioning)"
     ],
     "correctAnswer": 3,
-    "explanation": "HTTPS uses Transport Layer Security (TLS) typically over TCP port 443, whereas unencrypted HTTP operates over port 80.",
+    "explanation": "Sharding distributes query loads and storage across a cluster of database machines using a partition shard key.",
     "tags": [
       "technology",
       "data-cloud",
@@ -2856,64 +2856,64 @@
     "active": true
   },
   {
-    "id": "technology-web-software-0137",
+    "id": "technology-data-cloud-0137",
     "category": "Technology",
-    "subcategory": "Web & Software",
+    "subcategory": "Data & Cloud",
     "difficulty": "medium",
-    "question": "In modern software and networking technology: What essential internet service translates human-readable domain names (such as wkquiz.com) into numerical IP addresses? (Ref #137)",
+    "question": "What cloud computing deployment model allows clients to rent raw virtual machines, block storage, and virtual networks on demand?",
     "options": [
-      "DNS (Domain Name System)",
-      "DHCP",
-      "FTP",
-      "BGP routing"
+      "Infrastructure as a Service (IaaS)",
+      "Platform as a Service (PaaS)",
+      "Software as a Service (SaaS)",
+      "Function as a Service (FaaS)"
     ],
     "correctAnswer": 0,
-    "explanation": "DNS acts as the phonebook of the internet, resolving alphanumeric URLs into IP addresses for routing.",
+    "explanation": "IaaS (e.g., AWS EC2, Azure VMs, Google Compute Engine) provides low-level infrastructure where users manage OS, runtime, and applications.",
     "tags": [
       "technology",
-      "web-software",
+      "data-cloud",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "technology-networking-security-0138",
+    "id": "technology-data-cloud-0138",
     "category": "Technology",
-    "subcategory": "Networking & Security",
+    "subcategory": "Data & Cloud",
     "difficulty": "hard",
-    "question": "In modern software and networking technology: In Git version control, which command permanently saves staged code snapshots to the local repository history? (Ref #138)",
+    "question": "What cloud service model provides managed application runtimes, databases, and deployment environments, abstracting underlying servers?",
     "options": [
-      "git push",
-      "git commit",
-      "git add",
-      "git pull"
+      "IaaS",
+      "Platform as a Service (PaaS)",
+      "SaaS",
+      "Bare Metal"
     ],
     "correctAnswer": 1,
-    "explanation": "'git commit -m ...' writes the staged changes into the local repository's version history tree.",
+    "explanation": "PaaS (e.g., Heroku, AWS Elastic Beanstalk, Google App Engine) allows developers to focus on writing application code without managing infrastructure.",
     "tags": [
       "technology",
-      "networking-security",
+      "data-cloud",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "technology-operating-systems-0139",
+    "id": "technology-data-cloud-0139",
     "category": "Technology",
-    "subcategory": "Operating Systems",
+    "subcategory": "Data & Cloud",
     "difficulty": "easy",
-    "question": "In modern software and networking technology: In cloud computing architecture, what model describes services where the provider manages runtime, OS, and servers while users write application code? (Ref #139)",
+    "question": "What cloud software delivery model delivers finished software applications over the web on a subscription basis without installation?",
     "options": [
-      "IaaS (Infrastructure as a Service)",
-      "SaaS (Software as a Service)",
-      "PaaS (Platform as a Service)",
-      "Bare Metal Colocation"
+      "IaaS",
+      "PaaS",
+      "Software as a Service (SaaS)",
+      "FaaS"
     ],
     "correctAnswer": 2,
-    "explanation": "PaaS provides development platforms and execution runtimes without users needing to configure virtual machines or operating systems.",
+    "explanation": "SaaS applications (e.g., Google Workspace, Microsoft 365, Salesforce) are fully managed and accessible through a web browser.",
     "tags": [
       "technology",
-      "operating-systems",
+      "data-cloud",
       "easy"
     ],
     "active": true
@@ -2923,15 +2923,15 @@
     "category": "Technology",
     "subcategory": "Data & Cloud",
     "difficulty": "medium",
-    "question": "In modern software and networking technology: What relational database query language is universally utilized to query and manipulate structured tabular data? (Ref #140)",
+    "question": "What cloud computing model runs event-triggered stateless code functions in ephemeral containers billed strictly per execution millisecond?",
     "options": [
-      "JSON",
-      "HTML",
-      "XML",
-      "SQL (Structured Query Language)"
+      "PaaS",
+      "IaaS",
+      "Dedicated Hosting",
+      "Serverless / Function as a Service (FaaS, e.g., AWS Lambda)"
     ],
     "correctAnswer": 3,
-    "explanation": "SQL is the standardized declarative language for managing data held in relational database management systems (RDBMS).",
+    "explanation": "FaaS scales automatically from zero to thousands of concurrent requests without provisioning or maintaining persistent server instances.",
     "tags": [
       "technology",
       "data-cloud",
@@ -2940,64 +2940,64 @@
     "active": true
   },
   {
-    "id": "technology-web-software-0141",
+    "id": "technology-data-cloud-0141",
     "category": "Technology",
-    "subcategory": "Web & Software",
+    "subcategory": "Data & Cloud",
     "difficulty": "hard",
-    "question": "In modern software and networking technology: What standard networking transport port is dedicated to secure encrypted HTTPS web communication? (Ref #141)",
+    "question": "What lightweight OS-level virtualization technology packages software code and all dependencies into portable, isolated containers sharing the host kernel?",
     "options": [
-      "Port 443",
-      "Port 80",
-      "Port 22",
-      "Port 21"
+      "Docker (Containerization)",
+      "Virtual Machines (Hypervisors)",
+      "Sandboxing",
+      "Chroot Jails"
     ],
     "correctAnswer": 0,
-    "explanation": "HTTPS uses Transport Layer Security (TLS) typically over TCP port 443, whereas unencrypted HTTP operates over port 80.",
+    "explanation": "Containers share the host operating system kernel, making them significantly lighter, faster to boot, and less resource-intensive than full VMs.",
     "tags": [
       "technology",
-      "web-software",
+      "data-cloud",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "technology-networking-security-0142",
+    "id": "technology-data-cloud-0142",
     "category": "Technology",
-    "subcategory": "Networking & Security",
+    "subcategory": "Data & Cloud",
     "difficulty": "easy",
-    "question": "In modern software and networking technology: What essential internet service translates human-readable domain names (such as wkquiz.com) into numerical IP addresses? (Ref #142)",
+    "question": "What open-source container orchestration platform, originally designed by Google, automates the deployment, scaling, and management of containerized apps?",
     "options": [
-      "DHCP",
-      "DNS (Domain Name System)",
-      "FTP",
-      "BGP routing"
+      "Docker Swarm",
+      "Kubernetes (K8s)",
+      "Apache Mesos",
+      "Nomad"
     ],
     "correctAnswer": 1,
-    "explanation": "DNS acts as the phonebook of the internet, resolving alphanumeric URLs into IP addresses for routing.",
+    "explanation": "Kubernetes schedules containers onto worker nodes, manages service discovery, performs automated rollouts, and provides self-healing restarts.",
     "tags": [
       "technology",
-      "networking-security",
+      "data-cloud",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "technology-operating-systems-0143",
+    "id": "technology-data-cloud-0143",
     "category": "Technology",
-    "subcategory": "Operating Systems",
+    "subcategory": "Data & Cloud",
     "difficulty": "medium",
-    "question": "In modern software and networking technology: In Git version control, which command permanently saves staged code snapshots to the local repository history? (Ref #143)",
+    "question": "What is the smallest deployable computing unit in Kubernetes, consisting of one or more tightly coupled containers sharing network and storage?",
     "options": [
-      "git push",
-      "git add",
-      "git commit",
-      "git pull"
+      "A Node",
+      "A Cluster",
+      "A Pod",
+      "A Deployment"
     ],
     "correctAnswer": 2,
-    "explanation": "'git commit -m ...' writes the staged changes into the local repository's version history tree.",
+    "explanation": "Containers within the same Pod share the same localhost network namespace, IP address, and mounted storage volumes.",
     "tags": [
       "technology",
-      "operating-systems",
+      "data-cloud",
       "medium"
     ],
     "active": true
@@ -3007,15 +3007,15 @@
     "category": "Technology",
     "subcategory": "Data & Cloud",
     "difficulty": "hard",
-    "question": "In modern software and networking technology: In cloud computing architecture, what model describes services where the provider manages runtime, OS, and servers while users write application code? (Ref #144)",
+    "question": "What Kubernetes controller manages stateless Pod replicas, ensuring the desired number of healthy Pod instances are running at all times?",
     "options": [
-      "IaaS (Infrastructure as a Service)",
-      "SaaS (Software as a Service)",
-      "Bare Metal Colocation",
-      "PaaS (Platform as a Service)"
+      "StatefulSet",
+      "DaemonSet",
+      "Job",
+      "Deployment (managing a ReplicaSet)"
     ],
     "correctAnswer": 3,
-    "explanation": "PaaS provides development platforms and execution runtimes without users needing to configure virtual machines or operating systems.",
+    "explanation": "Deployments provide declarative updates, zero-downtime rolling upgrades, and instantaneous rollbacks for microservices.",
     "tags": [
       "technology",
       "data-cloud",
@@ -3024,64 +3024,64 @@
     "active": true
   },
   {
-    "id": "technology-web-software-0145",
+    "id": "technology-data-cloud-0145",
     "category": "Technology",
-    "subcategory": "Web & Software",
+    "subcategory": "Data & Cloud",
     "difficulty": "easy",
-    "question": "In modern software and networking technology: What relational database query language is universally utilized to query and manipulate structured tabular data? (Ref #145)",
+    "question": "What Kubernetes resource runs exactly one copy of a specified Pod on every worker node in the cluster, ideal for log collectors and monitoring agents?",
     "options": [
-      "SQL (Structured Query Language)",
-      "JSON",
-      "HTML",
-      "XML"
+      "A DaemonSet",
+      "A Deployment",
+      "A StatefulSet",
+      "A CronJob"
     ],
     "correctAnswer": 0,
-    "explanation": "SQL is the standardized declarative language for managing data held in relational database management systems (RDBMS).",
+    "explanation": "DaemonSets automatically deploy monitoring agents (like Prometheus Node Exporter or Fluentd) whenever a new node joins the cluster.",
     "tags": [
       "technology",
-      "web-software",
+      "data-cloud",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "technology-networking-security-0146",
+    "id": "technology-data-cloud-0146",
     "category": "Technology",
-    "subcategory": "Networking & Security",
+    "subcategory": "Data & Cloud",
     "difficulty": "medium",
-    "question": "In modern software and networking technology: What standard networking transport port is dedicated to secure encrypted HTTPS web communication? (Ref #146)",
+    "question": "What Kubernetes object defines an abstract way to expose an application running on a set of Pods as a network service with a stable virtual IP?",
     "options": [
-      "Port 80",
-      "Port 443",
-      "Port 22",
-      "Port 21"
+      "An Ingress",
+      "A Kubernetes Service (ClusterIP, NodePort, LoadBalancer)",
+      "A ConfigMap",
+      "A Secret"
     ],
     "correctAnswer": 1,
-    "explanation": "HTTPS uses Transport Layer Security (TLS) typically over TCP port 443, whereas unencrypted HTTP operates over port 80.",
+    "explanation": "Services provide load-balanced virtual IP routing and internal DNS hostnames that decouple clients from ephemeral Pod IP addresses.",
     "tags": [
       "technology",
-      "networking-security",
+      "data-cloud",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "technology-operating-systems-0147",
+    "id": "technology-data-cloud-0147",
     "category": "Technology",
-    "subcategory": "Operating Systems",
+    "subcategory": "Data & Cloud",
     "difficulty": "hard",
-    "question": "In modern software and networking technology: What essential internet service translates human-readable domain names (such as wkquiz.com) into numerical IP addresses? (Ref #147)",
+    "question": "What Kubernetes resource manages external HTTP/HTTPS routing and traffic ingress into cluster services from outside the cluster?",
     "options": [
-      "DHCP",
-      "FTP",
-      "DNS (Domain Name System)",
-      "BGP routing"
+      "A ClusterIP Service",
+      "A NetworkPolicy",
+      "An Ingress Controller",
+      "A Kubelet"
     ],
     "correctAnswer": 2,
-    "explanation": "DNS acts as the phonebook of the internet, resolving alphanumeric URLs into IP addresses for routing.",
+    "explanation": "Ingress controllers (such as Nginx Ingress or Traefik) provide SSL termination, host-based routing, and path-based URL forwarding.",
     "tags": [
       "technology",
-      "operating-systems",
+      "data-cloud",
       "hard"
     ],
     "active": true
@@ -3091,15 +3091,15 @@
     "category": "Technology",
     "subcategory": "Data & Cloud",
     "difficulty": "easy",
-    "question": "In modern software and networking technology: In Git version control, which command permanently saves staged code snapshots to the local repository history? (Ref #148)",
+    "question": "What software practice manages and provisions cloud infrastructure through version-controlled, machine-readable definition files rather than manual clicks?",
     "options": [
-      "git push",
-      "git add",
-      "git pull",
-      "git commit"
+      "Continuous Integration",
+      "DevOps",
+      "Site Reliability Engineering",
+      "Infrastructure as Code (IaC)"
     ],
     "correctAnswer": 3,
-    "explanation": "'git commit -m ...' writes the staged changes into the local repository's version history tree.",
+    "explanation": "IaC ensures reproducible, idempotent infrastructure deployment across environments without configuration drift.",
     "tags": [
       "technology",
       "data-cloud",
@@ -3108,64 +3108,64 @@
     "active": true
   },
   {
-    "id": "technology-web-software-0149",
+    "id": "technology-data-cloud-0149",
     "category": "Technology",
-    "subcategory": "Web & Software",
+    "subcategory": "Data & Cloud",
     "difficulty": "medium",
-    "question": "In modern software and networking technology: In cloud computing architecture, what model describes services where the provider manages runtime, OS, and servers while users write application code? (Ref #149)",
+    "question": "What popular open-source declarative Infrastructure as Code tool, created by HashiCorp, uses HCL to provision multi-cloud resources?",
     "options": [
-      "PaaS (Platform as a Service)",
-      "IaaS (Infrastructure as a Service)",
-      "SaaS (Software as a Service)",
-      "Bare Metal Colocation"
+      "Terraform",
+      "Ansible",
+      "Chef",
+      "Puppet"
     ],
     "correctAnswer": 0,
-    "explanation": "PaaS provides development platforms and execution runtimes without users needing to configure virtual machines or operating systems.",
+    "explanation": "Terraform uses state files to plan and apply changes across hundreds of cloud providers using declarative configuration.",
     "tags": [
       "technology",
-      "web-software",
+      "data-cloud",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "technology-networking-security-0150",
+    "id": "technology-data-cloud-0150",
     "category": "Technology",
-    "subcategory": "Networking & Security",
+    "subcategory": "Data & Cloud",
     "difficulty": "hard",
-    "question": "In modern software and networking technology: What relational database query language is universally utilized to query and manipulate structured tabular data? (Ref #150)",
+    "question": "What agentless open-source configuration management tool uses YAML playbooks over SSH to automate software deployment and server configuration?",
     "options": [
-      "JSON",
-      "SQL (Structured Query Language)",
-      "HTML",
-      "XML"
+      "Terraform",
+      "Ansible",
+      "Puppet",
+      "SaltStack"
     ],
     "correctAnswer": 1,
-    "explanation": "SQL is the standardized declarative language for managing data held in relational database management systems (RDBMS).",
+    "explanation": "Ansible executes idempotent playbooks over SSH without requiring special background agent software installed on target servers.",
     "tags": [
       "technology",
-      "networking-security",
+      "data-cloud",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "technology-operating-systems-0151",
+    "id": "technology-data-cloud-0151",
     "category": "Technology",
-    "subcategory": "Operating Systems",
+    "subcategory": "Data & Cloud",
     "difficulty": "easy",
-    "question": "In modern software and networking technology: What standard networking transport port is dedicated to secure encrypted HTTPS web communication? (Ref #151)",
+    "question": "What cloud architectural strategy deploys application components across multiple distinct physical data centers within a geographic region?",
     "options": [
-      "Port 80",
-      "Port 22",
-      "Port 443",
-      "Port 21"
+      "Single Zone Deployment",
+      "Local Hosting",
+      "Multi-Availability Zone (Multi-AZ) Deployment",
+      "Multi-Tenancy"
     ],
     "correctAnswer": 2,
-    "explanation": "HTTPS uses Transport Layer Security (TLS) typically over TCP port 443, whereas unencrypted HTTP operates over port 80.",
+    "explanation": "Deploying across multiple AZs ensures that an electrical blackout or flood at one data center does not bring down the application.",
     "tags": [
       "technology",
-      "operating-systems",
+      "data-cloud",
       "easy"
     ],
     "active": true
@@ -3175,15 +3175,15 @@
     "category": "Technology",
     "subcategory": "Data & Cloud",
     "difficulty": "medium",
-    "question": "In modern software and networking technology: What essential internet service translates human-readable domain names (such as wkquiz.com) into numerical IP addresses? (Ref #152)",
+    "question": "What scalable cloud storage architecture stores unstructured data (images, backups, videos) as discrete objects with metadata and unique identifiers?",
     "options": [
-      "DHCP",
-      "FTP",
-      "BGP routing",
-      "DNS (Domain Name System)"
+      "Block Storage",
+      "File Storage",
+      "Network Attached Storage",
+      "Object Storage (e.g., AWS S3, Google Cloud Storage, Azure Blob)"
     ],
     "correctAnswer": 3,
-    "explanation": "DNS acts as the phonebook of the internet, resolving alphanumeric URLs into IP addresses for routing.",
+    "explanation": "Object storage scales to petabytes with high durability (99.999999999% '11 nines'), accessible via standard REST APIs.",
     "tags": [
       "technology",
       "data-cloud",
@@ -3192,64 +3192,64 @@
     "active": true
   },
   {
-    "id": "technology-web-software-0153",
+    "id": "technology-data-cloud-0153",
     "category": "Technology",
-    "subcategory": "Web & Software",
+    "subcategory": "Data & Cloud",
     "difficulty": "hard",
-    "question": "In modern software and networking technology: In Git version control, which command permanently saves staged code snapshots to the local repository history? (Ref #153)",
+    "question": "What type of persistent cloud storage presents raw virtual hard drives to virtual machine instances (e.g., AWS EBS, Azure Managed Disks)?",
     "options": [
-      "git commit",
-      "git push",
-      "git add",
-      "git pull"
+      "Block Storage",
+      "Object Storage",
+      "Object Store",
+      "Tape Storage"
     ],
     "correctAnswer": 0,
-    "explanation": "'git commit -m ...' writes the staged changes into the local repository's version history tree.",
+    "explanation": "Block storage provides low-latency block-level access required by file systems and database engines running inside virtual machines.",
     "tags": [
       "technology",
-      "web-software",
+      "data-cloud",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "technology-networking-security-0154",
+    "id": "technology-data-cloud-0154",
     "category": "Technology",
-    "subcategory": "Networking & Security",
+    "subcategory": "Data & Cloud",
     "difficulty": "easy",
-    "question": "In modern software and networking technology: In cloud computing architecture, what model describes services where the provider manages runtime, OS, and servers while users write application code? (Ref #154)",
+    "question": "What network file storage protocol allows multiple Linux virtual machines to mount and share a single concurrent file system over a network?",
     "options": [
-      "IaaS (Infrastructure as a Service)",
-      "PaaS (Platform as a Service)",
-      "SaaS (Software as a Service)",
-      "Bare Metal Colocation"
+      "SMB / CIFS",
+      "NFS (Network File System)",
+      "iSCSI",
+      "Fibre Channel"
     ],
     "correctAnswer": 1,
-    "explanation": "PaaS provides development platforms and execution runtimes without users needing to configure virtual machines or operating systems.",
+    "explanation": "NFS provides POSIX-compliant file sharing across cloud servers (e.g., AWS EFS).",
     "tags": [
       "technology",
-      "networking-security",
+      "data-cloud",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "technology-operating-systems-0155",
+    "id": "technology-data-cloud-0155",
     "category": "Technology",
-    "subcategory": "Operating Systems",
+    "subcategory": "Data & Cloud",
     "difficulty": "medium",
-    "question": "In modern software and networking technology: What relational database query language is universally utilized to query and manipulate structured tabular data? (Ref #155)",
+    "question": "What network file sharing protocol is standard for shared network folders in Microsoft Windows enterprise environments?",
     "options": [
-      "JSON",
-      "HTML",
-      "SQL (Structured Query Language)",
-      "XML"
+      "NFS",
+      "AFP",
+      "SMB (Server Message Block / CIFS)",
+      "FTP"
     ],
     "correctAnswer": 2,
-    "explanation": "SQL is the standardized declarative language for managing data held in relational database management systems (RDBMS).",
+    "explanation": "SMB handles file, folder, and printer sharing across Windows Active Directory domain networks.",
     "tags": [
       "technology",
-      "operating-systems",
+      "data-cloud",
       "medium"
     ],
     "active": true
@@ -3259,15 +3259,15 @@
     "category": "Technology",
     "subcategory": "Data & Cloud",
     "difficulty": "hard",
-    "question": "In modern software and networking technology: What standard networking transport port is dedicated to secure encrypted HTTPS web communication? (Ref #156)",
+    "question": "What distributed network of proxy servers caches static web content (images, CSS, video) close to end users geographically?",
     "options": [
-      "Port 80",
-      "Port 22",
-      "Port 21",
-      "Port 443"
+      "Reverse Proxy",
+      "Load Balancer",
+      "DNS Resolver",
+      "Content Delivery Network (CDN, e.g., Cloudflare, Akamai, CloudFront)"
     ],
     "correctAnswer": 3,
-    "explanation": "HTTPS uses Transport Layer Security (TLS) typically over TCP port 443, whereas unencrypted HTTP operates over port 80.",
+    "explanation": "CDNs dramatically reduce server latency and bandwidth costs by serving cached web assets from edge Points of Presence (PoPs).",
     "tags": [
       "technology",
       "data-cloud",
@@ -3276,64 +3276,64 @@
     "active": true
   },
   {
-    "id": "technology-web-software-0157",
+    "id": "technology-data-cloud-0157",
     "category": "Technology",
-    "subcategory": "Web & Software",
+    "subcategory": "Data & Cloud",
     "difficulty": "easy",
-    "question": "In modern software and networking technology: What essential internet service translates human-readable domain names (such as wkquiz.com) into numerical IP addresses? (Ref #157)",
+    "question": "What device distributes incoming network and application traffic across multiple backend servers to prevent overload and ensure high availability?",
     "options": [
-      "DNS (Domain Name System)",
-      "DHCP",
-      "FTP",
-      "BGP routing"
+      "A Load Balancer",
+      "A Gateway",
+      "A Firewall",
+      "A Proxy"
     ],
     "correctAnswer": 0,
-    "explanation": "DNS acts as the phonebook of the internet, resolving alphanumeric URLs into IP addresses for routing.",
+    "explanation": "Load balancers use algorithms like Round Robin, Least Connections, and IP Hash to route requests to healthy backend nodes.",
     "tags": [
       "technology",
-      "web-software",
+      "data-cloud",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "technology-networking-security-0158",
+    "id": "technology-data-cloud-0158",
     "category": "Technology",
-    "subcategory": "Networking & Security",
+    "subcategory": "Data & Cloud",
     "difficulty": "medium",
-    "question": "In modern software and networking technology: In Git version control, which command permanently saves staged code snapshots to the local repository history? (Ref #158)",
+    "question": "What central repository aggregates structured historical business data from multiple operational sources for analytics and business intelligence?",
     "options": [
-      "git push",
-      "git commit",
-      "git add",
-      "git pull"
+      "A Data Lake",
+      "A Data Warehouse (e.g., Snowflake, Google BigQuery, Amazon Redshift)",
+      "An OLTP Database",
+      "A Cache"
     ],
     "correctAnswer": 1,
-    "explanation": "'git commit -m ...' writes the staged changes into the local repository's version history tree.",
+    "explanation": "Data warehouses utilize columnar storage and OLAP architectures to execute complex analytical aggregation queries across billions of rows.",
     "tags": [
       "technology",
-      "networking-security",
+      "data-cloud",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "technology-operating-systems-0159",
+    "id": "technology-data-cloud-0159",
     "category": "Technology",
-    "subcategory": "Operating Systems",
+    "subcategory": "Data & Cloud",
     "difficulty": "hard",
-    "question": "In modern software and networking technology: In cloud computing architecture, what model describes services where the provider manages runtime, OS, and servers while users write application code? (Ref #159)",
+    "question": "What centralized repository stores vast amounts of raw, unstructured, semi-structured, and structured data in its native format for Big Data analytics?",
     "options": [
-      "IaaS (Infrastructure as a Service)",
-      "SaaS (Software as a Service)",
-      "PaaS (Platform as a Service)",
-      "Bare Metal Colocation"
+      "A Data Warehouse",
+      "An RDBMS",
+      "A Data Lake",
+      "A Key-Value Store"
     ],
     "correctAnswer": 2,
-    "explanation": "PaaS provides development platforms and execution runtimes without users needing to configure virtual machines or operating systems.",
+    "explanation": "Data lakes store massive volumes of raw logs, telemetry, and media for machine learning and exploratory Big Data analysis.",
     "tags": [
       "technology",
-      "operating-systems",
+      "data-cloud",
       "hard"
     ],
     "active": true
@@ -3343,15 +3343,15 @@
     "category": "Technology",
     "subcategory": "Data & Cloud",
     "difficulty": "easy",
-    "question": "In modern software and networking technology: What relational database query language is universally utilized to query and manipulate structured tabular data? (Ref #160)",
+    "question": "What distributed open-source data streaming platform, created by LinkedIn, provides high-throughput, fault-tolerant publish-subscribe message queuing?",
     "options": [
-      "JSON",
-      "HTML",
-      "XML",
-      "SQL (Structured Query Language)"
+      "RabbitMQ",
+      "ActiveMQ",
+      "ZeroMQ",
+      "Apache Kafka"
     ],
     "correctAnswer": 3,
-    "explanation": "SQL is the standardized declarative language for managing data held in relational database management systems (RDBMS).",
+    "explanation": "Kafka stores partitioned, immutable commit logs on disk, streaming millions of events per second between microservices.",
     "tags": [
       "technology",
       "data-cloud",

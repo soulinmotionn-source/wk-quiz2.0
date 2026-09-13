@@ -4,15 +4,15 @@
     "category": "Electrical Symbols",
     "subcategory": "Schematic Symbols",
     "difficulty": "easy",
-    "question": "In electrical schematic diagrams: What electronic component is represented on standard North American schematic diagrams by a sharp zig-zag line? (Ref #1)",
+    "question": "On an electrical schematic diagram in North America, what basic component is depicted by a sharp zigzag line?",
     "options": [
-      "Fixed Resistor",
-      "Capacitor",
-      "Inductor coil",
-      "Diode"
+      "A Resistor",
+      "An Inductor",
+      "A Capacitor",
+      "A Transformer"
     ],
     "correctAnswer": 0,
-    "explanation": "In ANSI/IEEE schematics, a fixed resistor is drawn as a zig-zag line, whereas international IEC schematics often use a rectangle.",
+    "explanation": "ANSI/IEEE standards depict standard fixed resistors as a continuous zigzag line with three or four peaks.",
     "tags": [
       "electrical-symbols",
       "schematic-symbols",
@@ -21,64 +21,64 @@
     "active": true
   },
   {
-    "id": "electrical-symbols-passive-components-0002",
+    "id": "electrical-symbols-schematic-symbols-0002",
     "category": "Electrical Symbols",
-    "subcategory": "Passive Components",
+    "subcategory": "Schematic Symbols",
     "difficulty": "medium",
-    "question": "In electrical schematic diagrams: What schematic symbol depicts a non-polarized capacitor in circuit diagrams? (Ref #2)",
+    "question": "On international IEC schematic diagrams, what geometric shape is used to represent a fixed resistor?",
     "options": [
-      "A series of coiled loops",
-      "Two parallel straight lines perpendicular to the connecting leads",
-      "A triangle pointing to a straight line",
-      "A circle with an X inside"
+      "A zigzag line",
+      "A hollow rectangle",
+      "A shaded circle",
+      "A diamond"
     ],
     "correctAnswer": 1,
-    "explanation": "Capacitors are symbolized by two parallel plates separated by a gap, representing dielectric separation.",
+    "explanation": "International Electrotechnical Commission (IEC 60617) standards depict resistors as a clean hollow rectangle.",
     "tags": [
       "electrical-symbols",
-      "passive-components",
+      "schematic-symbols",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "electrical-symbols-semiconductor-symbols-0003",
+    "id": "electrical-symbols-schematic-symbols-0003",
     "category": "Electrical Symbols",
-    "subcategory": "Semiconductor Symbols",
+    "subcategory": "Schematic Symbols",
     "difficulty": "hard",
-    "question": "In electrical schematic diagrams: How is an electrical earth or chassis ground symbolized on schematics? (Ref #3)",
+    "question": "What schematic symbol depicts a variable resistor or potentiometer?",
     "options": [
-      "A closed circle with three dots",
-      "A zig-zag arrow pointing up",
-      "A vertical lead terminating in progressively shorter horizontal parallel lines",
-      "A square with a diagonal cross"
+      "A resistor with a circle around it",
+      "A coil with two parallel lines",
+      "A resistor zigzag line with a diagonal arrow through it or a third terminal arrow pointing to its side",
+      "A triangle with a bar"
     ],
     "correctAnswer": 2,
-    "explanation": "The ground symbol consists of descending horizontal lines of decreasing width, indicating zero reference potential.",
+    "explanation": "The arrow represents the movable mechanical wiper contact that adjusts resistance across the resistive track.",
     "tags": [
       "electrical-symbols",
-      "semiconductor-symbols",
+      "schematic-symbols",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "electrical-symbols-switch-relay-symbols-0004",
+    "id": "electrical-symbols-schematic-symbols-0004",
     "category": "Electrical Symbols",
-    "subcategory": "Switch & Relay Symbols",
+    "subcategory": "Schematic Symbols",
     "difficulty": "easy",
-    "question": "In electrical schematic diagrams: What distinguishes a Light Emitting Diode (LED) symbol from a standard semiconductor diode symbol? (Ref #4)",
+    "question": "What schematic symbol represents a standard non-polarized fixed capacitor?",
     "options": [
-      "Two arrows pointing inward toward the triangle",
-      "A circle surrounding a resistor",
-      "A wavy line through the center",
-      "Two small arrows pointing outward away from the diode triangle"
+      "One straight line and one curved line",
+      "A zigzag line",
+      "A coiled loop",
+      "Two parallel straight lines of equal length separated by a small gap"
     ],
     "correctAnswer": 3,
-    "explanation": "Outward-pointing arrows on a diode symbol denote photon radiation (emission of light), designating an LED.",
+    "explanation": "Two parallel plates separated by an air gap represent the physical construction of a dielectric capacitor.",
     "tags": [
       "electrical-symbols",
-      "switch-relay-symbols",
+      "schematic-symbols",
       "easy"
     ],
     "active": true
@@ -88,15 +88,15 @@
     "category": "Electrical Symbols",
     "subcategory": "Schematic Symbols",
     "difficulty": "medium",
-    "question": "In electrical schematic diagrams: What switch type is designated by the schematic abbreviation 'SPST'? (Ref #5)",
+    "question": "What schematic symbol represents a polarized electrolytic capacitor on an electrical schematic?",
     "options": [
-      "Single Pole, Single Throw switch",
-      "Single Phase, System Terminal",
-      "Series Parallel Synchronous Toggle",
-      "Step Power Signal Trigger"
+      "One straight flat line representing positive and one curved line representing negative, often with a '+' sign",
+      "Two parallel lines of equal length",
+      "A zigzag line with a plus sign",
+      "A triangle with a bar"
     ],
     "correctAnswer": 0,
-    "explanation": "An SPST switch has one input pole and connects to one output throw, serving as a simple on-off control.",
+    "explanation": "The curved plate represents the negative terminal cathode in electrolytic and tantalum polarized capacitors.",
     "tags": [
       "electrical-symbols",
       "schematic-symbols",
@@ -105,64 +105,64 @@
     "active": true
   },
   {
-    "id": "electrical-symbols-passive-components-0006",
+    "id": "electrical-symbols-schematic-symbols-0006",
     "category": "Electrical Symbols",
-    "subcategory": "Passive Components",
+    "subcategory": "Schematic Symbols",
     "difficulty": "hard",
-    "question": "In electrical schematic diagrams: What electronic component is represented on standard North American schematic diagrams by a sharp zig-zag line? (Ref #6)",
+    "question": "What schematic symbol represents an electrical inductor or choke coil?",
     "options": [
-      "Capacitor",
-      "Fixed Resistor",
-      "Inductor coil",
-      "Diode"
+      "A sharp zigzag line",
+      "A series of curved loops or scalloped humps resembling wire coiled into loops",
+      "Two parallel plates",
+      "A rectangle with a line through it"
     ],
     "correctAnswer": 1,
-    "explanation": "In ANSI/IEEE schematics, a fixed resistor is drawn as a zig-zag line, whereas international IEC schematics often use a rectangle.",
+    "explanation": "The curved loops visually depict turns of magnet wire wrapped around a core to create an electromagnetic inductor.",
     "tags": [
       "electrical-symbols",
-      "passive-components",
+      "schematic-symbols",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "electrical-symbols-semiconductor-symbols-0007",
+    "id": "electrical-symbols-schematic-symbols-0007",
     "category": "Electrical Symbols",
-    "subcategory": "Semiconductor Symbols",
+    "subcategory": "Schematic Symbols",
     "difficulty": "easy",
-    "question": "In electrical schematic diagrams: What schematic symbol depicts a non-polarized capacitor in circuit diagrams? (Ref #7)",
+    "question": "What schematic symbol represents an iron-core inductor, differentiating it from an air-core inductor?",
     "options": [
-      "A series of coiled loops",
-      "A triangle pointing to a straight line",
-      "Two parallel straight lines perpendicular to the connecting leads",
-      "A circle with an X inside"
+      "Inductor loops with a diagonal arrow",
+      "Inductor loops enclosed in a circle",
+      "Inductor wire loops with two solid parallel lines drawn along the back of the loops",
+      "Inductor loops with a plus sign"
     ],
     "correctAnswer": 2,
-    "explanation": "Capacitors are symbolized by two parallel plates separated by a gap, representing dielectric separation.",
+    "explanation": "Parallel solid lines adjacent to the inductor loops designate a high-permeability laminated iron or ferrite core.",
     "tags": [
       "electrical-symbols",
-      "semiconductor-symbols",
+      "schematic-symbols",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "electrical-symbols-switch-relay-symbols-0008",
+    "id": "electrical-symbols-schematic-symbols-0008",
     "category": "Electrical Symbols",
-    "subcategory": "Switch & Relay Symbols",
+    "subcategory": "Schematic Symbols",
     "difficulty": "medium",
-    "question": "In electrical schematic diagrams: How is an electrical earth or chassis ground symbolized on schematics? (Ref #8)",
+    "question": "What schematic symbol represents a standard chemical DC voltage battery?",
     "options": [
-      "A closed circle with three dots",
-      "A zig-zag arrow pointing up",
-      "A square with a diagonal cross",
-      "A vertical lead terminating in progressively shorter horizontal parallel lines"
+      "A circle with a sine wave tilde inside",
+      "Two parallel lines of equal length",
+      "A square with a plus sign",
+      "Alternating pairs of long thin lines (positive) and short thick lines (negative)"
     ],
     "correctAnswer": 3,
-    "explanation": "The ground symbol consists of descending horizontal lines of decreasing width, indicating zero reference potential.",
+    "explanation": "Long thin plates represent positive anodes; short thicker plates represent negative cathodes.",
     "tags": [
       "electrical-symbols",
-      "switch-relay-symbols",
+      "schematic-symbols",
       "medium"
     ],
     "active": true
@@ -172,15 +172,15 @@
     "category": "Electrical Symbols",
     "subcategory": "Schematic Symbols",
     "difficulty": "hard",
-    "question": "In electrical schematic diagrams: What distinguishes a Light Emitting Diode (LED) symbol from a standard semiconductor diode symbol? (Ref #9)",
+    "question": "What schematic symbol represents an ideal alternating current (AC) voltage source?",
     "options": [
-      "Two small arrows pointing outward away from the diode triangle",
-      "Two arrows pointing inward toward the triangle",
-      "A circle surrounding a resistor",
-      "A wavy line through the center"
+      "A circle containing a single sinusoidal wave (tilde ~) inside",
+      "A circle containing a plus and minus sign",
+      "A rectangle with two arrows",
+      "A diamond with a cross"
     ],
     "correctAnswer": 0,
-    "explanation": "Outward-pointing arrows on a diode symbol denote photon radiation (emission of light), designating an LED.",
+    "explanation": "The sine wave tilde inside the circle indicates an AC sinusoidal alternating voltage output.",
     "tags": [
       "electrical-symbols",
       "schematic-symbols",
@@ -189,64 +189,64 @@
     "active": true
   },
   {
-    "id": "electrical-symbols-passive-components-0010",
+    "id": "electrical-symbols-schematic-symbols-0010",
     "category": "Electrical Symbols",
-    "subcategory": "Passive Components",
+    "subcategory": "Schematic Symbols",
     "difficulty": "easy",
-    "question": "In electrical schematic diagrams: What switch type is designated by the schematic abbreviation 'SPST'? (Ref #10)",
+    "question": "What schematic symbol represents an Earth Ground (protective earth ground) connection?",
     "options": [
-      "Single Phase, System Terminal",
-      "Single Pole, Single Throw switch",
-      "Series Parallel Synchronous Toggle",
-      "Step Power Signal Trigger"
+      "A trident rake symbol",
+      "Three descending horizontal parallel lines decreasing in width toward the bottom, attached to a vertical stem",
+      "A hollow triangle pointing down",
+      "A solid black dot"
     ],
     "correctAnswer": 1,
-    "explanation": "An SPST switch has one input pole and connects to one output throw, serving as a simple on-off control.",
+    "explanation": "Descending horizontal lines represent metal ground rods driven deep into descending strata of the physical earth.",
     "tags": [
       "electrical-symbols",
-      "passive-components",
+      "schematic-symbols",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "electrical-symbols-semiconductor-symbols-0011",
+    "id": "electrical-symbols-schematic-symbols-0011",
     "category": "Electrical Symbols",
-    "subcategory": "Semiconductor Symbols",
+    "subcategory": "Schematic Symbols",
     "difficulty": "medium",
-    "question": "In electrical schematic diagrams: What electronic component is represented on standard North American schematic diagrams by a sharp zig-zag line? (Ref #11)",
+    "question": "What schematic symbol represents a Chassis Ground (frame ground connection to metallic equipment enclosure)?",
     "options": [
-      "Capacitor",
-      "Inductor coil",
-      "Fixed Resistor",
-      "Diode"
+      "Three descending horizontal lines",
+      "A hollow circle",
+      "A pitchfork or rake symbol with diagonal lines slanting from a horizontal bar",
+      "A solid triangle"
     ],
     "correctAnswer": 2,
-    "explanation": "In ANSI/IEEE schematics, a fixed resistor is drawn as a zig-zag line, whereas international IEC schematics often use a rectangle.",
+    "explanation": "The rake-like chassis symbol indicates an electrical connection to the metal frame, chassis, or enclosure of an appliance.",
     "tags": [
       "electrical-symbols",
-      "semiconductor-symbols",
+      "schematic-symbols",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "electrical-symbols-switch-relay-symbols-0012",
+    "id": "electrical-symbols-schematic-symbols-0012",
     "category": "Electrical Symbols",
-    "subcategory": "Switch & Relay Symbols",
+    "subcategory": "Schematic Symbols",
     "difficulty": "hard",
-    "question": "In electrical schematic diagrams: What schematic symbol depicts a non-polarized capacitor in circuit diagrams? (Ref #12)",
+    "question": "What schematic symbol represents a Signal Ground or Common Analog Ground?",
     "options": [
-      "A series of coiled loops",
-      "A triangle pointing to a straight line",
-      "A circle with an X inside",
-      "Two parallel straight lines perpendicular to the connecting leads"
+      "Three descending lines",
+      "A rake-like pitchfork",
+      "A circle with a ground cross",
+      "A hollow triangle pointing downward attached to the ground lead"
     ],
     "correctAnswer": 3,
-    "explanation": "Capacitors are symbolized by two parallel plates separated by a gap, representing dielectric separation.",
+    "explanation": "A downward triangle denotes an isolated common circuit reference point, keeping analog signal grounds clean from digital noise.",
     "tags": [
       "electrical-symbols",
-      "switch-relay-symbols",
+      "schematic-symbols",
       "hard"
     ],
     "active": true
@@ -256,15 +256,15 @@
     "category": "Electrical Symbols",
     "subcategory": "Schematic Symbols",
     "difficulty": "easy",
-    "question": "In electrical schematic diagrams: How is an electrical earth or chassis ground symbolized on schematics? (Ref #13)",
+    "question": "What schematic symbol represents an electrical fuse?",
     "options": [
-      "A vertical lead terminating in progressively shorter horizontal parallel lines",
-      "A closed circle with three dots",
-      "A zig-zag arrow pointing up",
-      "A square with a diagonal cross"
+      "A rectangle with a straight line passing through its center (or an S-shaped wavy line inside a tube)",
+      "A zigzag line with a circle",
+      "Two parallel plates",
+      "A coil with a dot"
     ],
     "correctAnswer": 0,
-    "explanation": "The ground symbol consists of descending horizontal lines of decreasing width, indicating zero reference potential.",
+    "explanation": "The line passing through the rectangle depicts a calibrated fusible metallic wire link that melts during overcurrent.",
     "tags": [
       "electrical-symbols",
       "schematic-symbols",
@@ -273,64 +273,64 @@
     "active": true
   },
   {
-    "id": "electrical-symbols-passive-components-0014",
+    "id": "electrical-symbols-schematic-symbols-0014",
     "category": "Electrical Symbols",
-    "subcategory": "Passive Components",
+    "subcategory": "Schematic Symbols",
     "difficulty": "medium",
-    "question": "In electrical schematic diagrams: What distinguishes a Light Emitting Diode (LED) symbol from a standard semiconductor diode symbol? (Ref #14)",
+    "question": "What schematic symbol represents an electrical transformer?",
     "options": [
-      "Two arrows pointing inward toward the triangle",
-      "Two small arrows pointing outward away from the diode triangle",
-      "A circle surrounding a resistor",
-      "A wavy line through the center"
+      "An inductor with a diagonal arrow",
+      "Two adjacent inductor coils facing each other, with two parallel lines between them for an iron core",
+      "Two capacitors facing each other",
+      "A circle with four terminals"
     ],
     "correctAnswer": 1,
-    "explanation": "Outward-pointing arrows on a diode symbol denote photon radiation (emission of light), designating an LED.",
+    "explanation": "The primary and secondary coils placed side-by-side symbolize magnetic inductive coupling through the core.",
     "tags": [
       "electrical-symbols",
-      "passive-components",
+      "schematic-symbols",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "electrical-symbols-semiconductor-symbols-0015",
+    "id": "electrical-symbols-schematic-symbols-0015",
     "category": "Electrical Symbols",
-    "subcategory": "Semiconductor Symbols",
+    "subcategory": "Schematic Symbols",
     "difficulty": "hard",
-    "question": "In electrical schematic diagrams: What switch type is designated by the schematic abbreviation 'SPST'? (Ref #15)",
+    "question": "What schematic symbol represents a semiconductor diode?",
     "options": [
-      "Single Phase, System Terminal",
-      "Series Parallel Synchronous Toggle",
-      "Single Pole, Single Throw switch",
-      "Step Power Signal Trigger"
+      "A triangle with two circles",
+      "A zigzag line with a bar",
+      "A triangle pointing in the direction of forward current flow toward a vertical bar across its apex",
+      "A rectangle with an arrow"
     ],
     "correctAnswer": 2,
-    "explanation": "An SPST switch has one input pole and connects to one output throw, serving as a simple on-off control.",
+    "explanation": "The triangle represents the P-type anode; the vertical bar represents the N-type cathode (current flows in direction of triangle).",
     "tags": [
       "electrical-symbols",
-      "semiconductor-symbols",
+      "schematic-symbols",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "electrical-symbols-switch-relay-symbols-0016",
+    "id": "electrical-symbols-schematic-symbols-0016",
     "category": "Electrical Symbols",
-    "subcategory": "Switch & Relay Symbols",
+    "subcategory": "Schematic Symbols",
     "difficulty": "easy",
-    "question": "In electrical schematic diagrams: What electronic component is represented on standard North American schematic diagrams by a sharp zig-zag line? (Ref #16)",
+    "question": "What schematic symbol represents a Light-Emitting Diode (LED)?",
     "options": [
-      "Capacitor",
-      "Inductor coil",
-      "Diode",
-      "Fixed Resistor"
+      "A diode with two arrows pointing inward",
+      "A diode inside a solid circle",
+      "A diode with an S-shaped bar",
+      "A standard diode symbol with two small arrows pointing outward away from the triangle"
     ],
     "correctAnswer": 3,
-    "explanation": "In ANSI/IEEE schematics, a fixed resistor is drawn as a zig-zag line, whereas international IEC schematics often use a rectangle.",
+    "explanation": "The outward-pointing arrows depict photons of light emitted when the P-N junction is forward-biased.",
     "tags": [
       "electrical-symbols",
-      "switch-relay-symbols",
+      "schematic-symbols",
       "easy"
     ],
     "active": true
@@ -340,15 +340,15 @@
     "category": "Electrical Symbols",
     "subcategory": "Schematic Symbols",
     "difficulty": "medium",
-    "question": "In electrical schematic diagrams: What schematic symbol depicts a non-polarized capacitor in circuit diagrams? (Ref #17)",
+    "question": "What schematic symbol represents a light-sensitive Photodiode?",
     "options": [
-      "Two parallel straight lines perpendicular to the connecting leads",
-      "A series of coiled loops",
-      "A triangle pointing to a straight line",
-      "A circle with an X inside"
+      "A diode symbol with two small arrows pointing inward toward the triangle",
+      "A diode with outward arrows",
+      "A diode with a Z-shaped bar",
+      "A diode with three leads"
     ],
     "correctAnswer": 0,
-    "explanation": "Capacitors are symbolized by two parallel plates separated by a gap, representing dielectric separation.",
+    "explanation": "Inward arrows indicate external light photons striking the reverse-biased junction to generate photocurrent.",
     "tags": [
       "electrical-symbols",
       "schematic-symbols",
@@ -357,64 +357,64 @@
     "active": true
   },
   {
-    "id": "electrical-symbols-passive-components-0018",
+    "id": "electrical-symbols-schematic-symbols-0018",
     "category": "Electrical Symbols",
-    "subcategory": "Passive Components",
+    "subcategory": "Schematic Symbols",
     "difficulty": "hard",
-    "question": "In electrical schematic diagrams: How is an electrical earth or chassis ground symbolized on schematics? (Ref #18)",
+    "question": "What schematic symbol represents a Zener diode, designed to operate in reverse breakdown?",
     "options": [
-      "A closed circle with three dots",
-      "A vertical lead terminating in progressively shorter horizontal parallel lines",
-      "A zig-zag arrow pointing up",
-      "A square with a diagonal cross"
+      "A diode with outward arrows",
+      "A diode symbol with the cathode bar bent at both ends into a shape resembling the letter 'Z'",
+      "A diode with curly C-shaped ends",
+      "A diode with a center gate tap"
     ],
     "correctAnswer": 1,
-    "explanation": "The ground symbol consists of descending horizontal lines of decreasing width, indicating zero reference potential.",
+    "explanation": "The bent Z-shaped cathode bar distinguishes Zener voltage-regulator diodes from standard rectifier diodes.",
     "tags": [
       "electrical-symbols",
-      "passive-components",
+      "schematic-symbols",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "electrical-symbols-semiconductor-symbols-0019",
+    "id": "electrical-symbols-schematic-symbols-0019",
     "category": "Electrical Symbols",
-    "subcategory": "Semiconductor Symbols",
+    "subcategory": "Schematic Symbols",
     "difficulty": "easy",
-    "question": "In electrical schematic diagrams: What distinguishes a Light Emitting Diode (LED) symbol from a standard semiconductor diode symbol? (Ref #19)",
+    "question": "What schematic symbol represents a high-speed, low-forward-voltage Schottky diode?",
     "options": [
-      "Two arrows pointing inward toward the triangle",
-      "A circle surrounding a resistor",
-      "Two small arrows pointing outward away from the diode triangle",
-      "A wavy line through the center"
+      "A diode with a straight bar",
+      "A diode with a Z-bar",
+      "A diode symbol with the cathode bar bent with two rectangular S-shaped curls resembling an 'S'",
+      "A diode with arrows pointing inward"
     ],
     "correctAnswer": 2,
-    "explanation": "Outward-pointing arrows on a diode symbol denote photon radiation (emission of light), designating an LED.",
+    "explanation": "The S-shaped cathode bar visually denotes a metal-semiconductor Schottky barrier diode.",
     "tags": [
       "electrical-symbols",
-      "semiconductor-symbols",
+      "schematic-symbols",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "electrical-symbols-switch-relay-symbols-0020",
+    "id": "electrical-symbols-schematic-symbols-0020",
     "category": "Electrical Symbols",
-    "subcategory": "Switch & Relay Symbols",
+    "subcategory": "Schematic Symbols",
     "difficulty": "medium",
-    "question": "In electrical schematic diagrams: What switch type is designated by the schematic abbreviation 'SPST'? (Ref #20)",
+    "question": "What schematic symbol represents an adjustable variable capacitor (trimmer capacitor)?",
     "options": [
-      "Single Phase, System Terminal",
-      "Series Parallel Synchronous Toggle",
-      "Step Power Signal Trigger",
-      "Single Pole, Single Throw switch"
+      "A capacitor with a plus sign",
+      "A capacitor enclosed in a circle",
+      "A capacitor with curved plates",
+      "A standard capacitor symbol with a diagonal arrow passing completely through both plates"
     ],
     "correctAnswer": 3,
-    "explanation": "An SPST switch has one input pole and connects to one output throw, serving as a simple on-off control.",
+    "explanation": "The diagonal arrow universally denotes adjustability across all electrical schematic components.",
     "tags": [
       "electrical-symbols",
-      "switch-relay-symbols",
+      "schematic-symbols",
       "medium"
     ],
     "active": true
@@ -424,15 +424,15 @@
     "category": "Electrical Symbols",
     "subcategory": "Schematic Symbols",
     "difficulty": "hard",
-    "question": "In electrical schematic diagrams: What electronic component is represented on standard North American schematic diagrams by a sharp zig-zag line? (Ref #21)",
+    "question": "What schematic symbol represents an incandescent electric lamp or light bulb?",
     "options": [
-      "Fixed Resistor",
-      "Capacitor",
-      "Inductor coil",
-      "Diode"
+      "A circle containing a cross (X) inside, or a circle with a small looped filament inside",
+      "A diode with outward arrows",
+      "A circle with a sine wave",
+      "A circle with an arrow"
     ],
     "correctAnswer": 0,
-    "explanation": "In ANSI/IEEE schematics, a fixed resistor is drawn as a zig-zag line, whereas international IEC schematics often use a rectangle.",
+    "explanation": "A circle with an internal cross (or looped filament wire) denotes a visual illumination lamp on architectural schematics.",
     "tags": [
       "electrical-symbols",
       "schematic-symbols",
@@ -441,64 +441,64 @@
     "active": true
   },
   {
-    "id": "electrical-symbols-passive-components-0022",
+    "id": "electrical-symbols-schematic-symbols-0022",
     "category": "Electrical Symbols",
-    "subcategory": "Passive Components",
+    "subcategory": "Schematic Symbols",
     "difficulty": "easy",
-    "question": "In electrical schematic diagrams: What schematic symbol depicts a non-polarized capacitor in circuit diagrams? (Ref #22)",
+    "question": "What schematic symbol represents an electric motor?",
     "options": [
-      "A series of coiled loops",
-      "Two parallel straight lines perpendicular to the connecting leads",
-      "A triangle pointing to a straight line",
-      "A circle with an X inside"
+      "A circle containing a 'G'",
+      "A circle containing a bold capital letter 'M' inside",
+      "A circle with a coil",
+      "A square with an 'M'"
     ],
     "correctAnswer": 1,
-    "explanation": "Capacitors are symbolized by two parallel plates separated by a gap, representing dielectric separation.",
+    "explanation": "A circle with 'M' denotes an electric motor; a circle with 'G' denotes an electric generator.",
     "tags": [
       "electrical-symbols",
-      "passive-components",
+      "schematic-symbols",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "electrical-symbols-semiconductor-symbols-0023",
+    "id": "electrical-symbols-schematic-symbols-0023",
     "category": "Electrical Symbols",
-    "subcategory": "Semiconductor Symbols",
+    "subcategory": "Schematic Symbols",
     "difficulty": "medium",
-    "question": "In electrical schematic diagrams: How is an electrical earth or chassis ground symbolized on schematics? (Ref #23)",
+    "question": "What schematic symbol represents an electric generator?",
     "options": [
-      "A closed circle with three dots",
-      "A zig-zag arrow pointing up",
-      "A vertical lead terminating in progressively shorter horizontal parallel lines",
-      "A square with a diagonal cross"
+      "A circle containing an 'M'",
+      "A circle with a tilde",
+      "A circle containing a bold capital letter 'G' inside",
+      "A circle with arrows"
     ],
     "correctAnswer": 2,
-    "explanation": "The ground symbol consists of descending horizontal lines of decreasing width, indicating zero reference potential.",
+    "explanation": "The capital letter 'G' within a circle designates an electrical rotating generator or alternator.",
     "tags": [
       "electrical-symbols",
-      "semiconductor-symbols",
+      "schematic-symbols",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "electrical-symbols-switch-relay-symbols-0024",
+    "id": "electrical-symbols-schematic-symbols-0024",
     "category": "Electrical Symbols",
-    "subcategory": "Switch & Relay Symbols",
+    "subcategory": "Schematic Symbols",
     "difficulty": "hard",
-    "question": "In electrical schematic diagrams: What distinguishes a Light Emitting Diode (LED) symbol from a standard semiconductor diode symbol? (Ref #24)",
+    "question": "What schematic symbol represents a standard voltmeter in electrical test diagrams?",
     "options": [
-      "Two arrows pointing inward toward the triangle",
-      "A circle surrounding a resistor",
-      "A wavy line through the center",
-      "Two small arrows pointing outward away from the diode triangle"
+      "A circle with an 'A'",
+      "A circle with an 'Omega'",
+      "A circle with a 'W'",
+      "A circle containing a capital letter 'V' inside"
     ],
     "correctAnswer": 3,
-    "explanation": "Outward-pointing arrows on a diode symbol denote photon radiation (emission of light), designating an LED.",
+    "explanation": "Voltmeters are connected in parallel across components, designated by 'V' on circuit schematics.",
     "tags": [
       "electrical-symbols",
-      "switch-relay-symbols",
+      "schematic-symbols",
       "hard"
     ],
     "active": true
@@ -508,15 +508,15 @@
     "category": "Electrical Symbols",
     "subcategory": "Schematic Symbols",
     "difficulty": "easy",
-    "question": "In electrical schematic diagrams: What switch type is designated by the schematic abbreviation 'SPST'? (Ref #25)",
+    "question": "What schematic symbol represents an ammeter measuring electric current?",
     "options": [
-      "Single Pole, Single Throw switch",
-      "Single Phase, System Terminal",
-      "Series Parallel Synchronous Toggle",
-      "Step Power Signal Trigger"
+      "A circle containing a capital letter 'A' inside",
+      "A circle with a 'V'",
+      "A circle with an 'Omega'",
+      "A circle with a 'P'"
     ],
     "correctAnswer": 0,
-    "explanation": "An SPST switch has one input pole and connects to one output throw, serving as a simple on-off control.",
+    "explanation": "Ammeters are connected in series within a circuit branch, designated by 'A' on schematics.",
     "tags": [
       "electrical-symbols",
       "schematic-symbols",
@@ -525,64 +525,64 @@
     "active": true
   },
   {
-    "id": "electrical-symbols-passive-components-0026",
+    "id": "electrical-symbols-schematic-symbols-0026",
     "category": "Electrical Symbols",
-    "subcategory": "Passive Components",
+    "subcategory": "Schematic Symbols",
     "difficulty": "medium",
-    "question": "In electrical schematic diagrams: What electronic component is represented on standard North American schematic diagrams by a sharp zig-zag line? (Ref #26)",
+    "question": "What schematic symbol represents an ohmmeter measuring electrical resistance?",
     "options": [
-      "Capacitor",
-      "Fixed Resistor",
-      "Inductor coil",
-      "Diode"
+      "A circle with an 'O'",
+      "A circle containing the Greek Omega symbol inside",
+      "A circle with an 'R'",
+      "A circle with an 'A'"
     ],
     "correctAnswer": 1,
-    "explanation": "In ANSI/IEEE schematics, a fixed resistor is drawn as a zig-zag line, whereas international IEC schematics often use a rectangle.",
+    "explanation": "The Greek capital letter Omega inside a circle universally represents an electrical resistance meter.",
     "tags": [
       "electrical-symbols",
-      "passive-components",
+      "schematic-symbols",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "electrical-symbols-semiconductor-symbols-0027",
+    "id": "electrical-symbols-schematic-symbols-0027",
     "category": "Electrical Symbols",
-    "subcategory": "Semiconductor Symbols",
+    "subcategory": "Schematic Symbols",
     "difficulty": "hard",
-    "question": "In electrical schematic diagrams: What schematic symbol depicts a non-polarized capacitor in circuit diagrams? (Ref #27)",
+    "question": "What schematic symbol represents an acoustic loudspeaker?",
     "options": [
-      "A series of coiled loops",
-      "A triangle pointing to a straight line",
-      "Two parallel straight lines perpendicular to the connecting leads",
-      "A circle with an X inside"
+      "A circle with sound waves",
+      "A microphone symbol",
+      "A cone-shaped horn attached to a small rectangular base",
+      "A bell symbol"
     ],
     "correctAnswer": 2,
-    "explanation": "Capacitors are symbolized by two parallel plates separated by a gap, representing dielectric separation.",
+    "explanation": "The flared cone profile visually depicts the physical diaphragm and horn of an audio speaker.",
     "tags": [
       "electrical-symbols",
-      "semiconductor-symbols",
+      "schematic-symbols",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "electrical-symbols-switch-relay-symbols-0028",
+    "id": "electrical-symbols-schematic-symbols-0028",
     "category": "Electrical Symbols",
-    "subcategory": "Switch & Relay Symbols",
+    "subcategory": "Schematic Symbols",
     "difficulty": "easy",
-    "question": "In electrical schematic diagrams: How is an electrical earth or chassis ground symbolized on schematics? (Ref #28)",
+    "question": "What schematic symbol represents an audio microphone?",
     "options": [
-      "A closed circle with three dots",
-      "A zig-zag arrow pointing up",
-      "A square with a diagonal cross",
-      "A vertical lead terminating in progressively shorter horizontal parallel lines"
+      "A speaker cone",
+      "A bell symbol",
+      "A buzzer symbol",
+      "A circle with a vertical bar intersecting it, or a cylinder on a stand"
     ],
     "correctAnswer": 3,
-    "explanation": "The ground symbol consists of descending horizontal lines of decreasing width, indicating zero reference potential.",
+    "explanation": "The circle with an intersecting plate represents the acoustic diaphragm of a microphone capsule.",
     "tags": [
       "electrical-symbols",
-      "switch-relay-symbols",
+      "schematic-symbols",
       "easy"
     ],
     "active": true
@@ -592,15 +592,15 @@
     "category": "Electrical Symbols",
     "subcategory": "Schematic Symbols",
     "difficulty": "medium",
-    "question": "In electrical schematic diagrams: What distinguishes a Light Emitting Diode (LED) symbol from a standard semiconductor diode symbol? (Ref #29)",
+    "question": "What schematic symbol represents an electric bell in alarm and signaling schematics?",
     "options": [
-      "Two small arrows pointing outward away from the diode triangle",
-      "Two arrows pointing inward toward the triangle",
-      "A circle surrounding a resistor",
-      "A wavy line through the center"
+      "A mushroom-shaped semi-circle dome with two terminal leads at the base",
+      "A speaker cone",
+      "A circle with a 'B'",
+      "A flared trumpet"
     ],
     "correctAnswer": 0,
-    "explanation": "Outward-pointing arrows on a diode symbol denote photon radiation (emission of light), designating an LED.",
+    "explanation": "The inverted dome visually represents the acoustic metal gong bell struck by a solenoid clapper.",
     "tags": [
       "electrical-symbols",
       "schematic-symbols",
@@ -609,64 +609,64 @@
     "active": true
   },
   {
-    "id": "electrical-symbols-passive-components-0030",
+    "id": "electrical-symbols-schematic-symbols-0030",
     "category": "Electrical Symbols",
-    "subcategory": "Passive Components",
+    "subcategory": "Schematic Symbols",
     "difficulty": "hard",
-    "question": "In electrical schematic diagrams: What switch type is designated by the schematic abbreviation 'SPST'? (Ref #30)",
+    "question": "What schematic symbol represents an electromagnetic buzzer?",
     "options": [
-      "Single Phase, System Terminal",
-      "Single Pole, Single Throw switch",
-      "Series Parallel Synchronous Toggle",
-      "Step Power Signal Trigger"
+      "A bell dome facing down",
+      "A semi-circle dome with its flat side facing upward and two downward legs",
+      "A circle with an X",
+      "A rectangle with a wave"
     ],
     "correctAnswer": 1,
-    "explanation": "An SPST switch has one input pole and connects to one output throw, serving as a simple on-off control.",
+    "explanation": "The inverted buzzer symbol differentiates high-frequency buzzers from low-frequency bells.",
     "tags": [
       "electrical-symbols",
-      "passive-components",
+      "schematic-symbols",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "electrical-symbols-semiconductor-symbols-0031",
+    "id": "electrical-symbols-schematic-symbols-0031",
     "category": "Electrical Symbols",
-    "subcategory": "Semiconductor Symbols",
+    "subcategory": "Schematic Symbols",
     "difficulty": "easy",
-    "question": "In electrical schematic diagrams: What electronic component is represented on standard North American schematic diagrams by a sharp zig-zag line? (Ref #31)",
+    "question": "What schematic symbol represents an radio antenna or aerial?",
     "options": [
-      "Capacitor",
-      "Inductor coil",
-      "Fixed Resistor",
-      "Diode"
+      "A triangle pointing up",
+      "A circle with radiating arcs",
+      "A vertical stem branching upward into three diagonal prongs resembling a pitchfork or umbrella",
+      "A coiled loop"
     ],
     "correctAnswer": 2,
-    "explanation": "In ANSI/IEEE schematics, a fixed resistor is drawn as a zig-zag line, whereas international IEC schematics often use a rectangle.",
+    "explanation": "The branched tree or trident symbol represents an outdoor aerial conductor radiating or receiving radio waves.",
     "tags": [
       "electrical-symbols",
-      "semiconductor-symbols",
+      "schematic-symbols",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "electrical-symbols-switch-relay-symbols-0032",
+    "id": "electrical-symbols-schematic-symbols-0032",
     "category": "Electrical Symbols",
-    "subcategory": "Switch & Relay Symbols",
+    "subcategory": "Schematic Symbols",
     "difficulty": "medium",
-    "question": "In electrical schematic diagrams: What schematic symbol depicts a non-polarized capacitor in circuit diagrams? (Ref #32)",
+    "question": "What schematic symbol represents a crystal oscillator used for microcomputer clock generation?",
     "options": [
-      "A series of coiled loops",
-      "A triangle pointing to a straight line",
-      "A circle with an X inside",
-      "Two parallel straight lines perpendicular to the connecting leads"
+      "A capacitor with a dot",
+      "A coil with a crystal",
+      "A diode with two plates",
+      "A rectangle representing a quartz slice positioned between two parallel capacitive electrode plates"
     ],
     "correctAnswer": 3,
-    "explanation": "Capacitors are symbolized by two parallel plates separated by a gap, representing dielectric separation.",
+    "explanation": "The central rectangle represents the piezoelectric quartz crystal wafer clamped between metal contact electrodes.",
     "tags": [
       "electrical-symbols",
-      "switch-relay-symbols",
+      "schematic-symbols",
       "medium"
     ],
     "active": true
@@ -676,15 +676,15 @@
     "category": "Electrical Symbols",
     "subcategory": "Schematic Symbols",
     "difficulty": "hard",
-    "question": "In electrical schematic diagrams: How is an electrical earth or chassis ground symbolized on schematics? (Ref #33)",
+    "question": "What schematic symbol represents an operational amplifier (op-amp)?",
     "options": [
-      "A vertical lead terminating in progressively shorter horizontal parallel lines",
-      "A closed circle with three dots",
-      "A zig-zag arrow pointing up",
-      "A square with a diagonal cross"
+      "A large triangle with two inputs on the flat base (inverting '-' and non-inverting '+') and one output at the apex",
+      "A circle with three leads",
+      "A diamond with four leads",
+      "A square with two arrows"
     ],
     "correctAnswer": 0,
-    "explanation": "The ground symbol consists of descending horizontal lines of decreasing width, indicating zero reference potential.",
+    "explanation": "The triangle denotes amplification, with '-' designating the inverting input and '+' the non-inverting input.",
     "tags": [
       "electrical-symbols",
       "schematic-symbols",
@@ -693,64 +693,64 @@
     "active": true
   },
   {
-    "id": "electrical-symbols-passive-components-0034",
+    "id": "electrical-symbols-schematic-symbols-0034",
     "category": "Electrical Symbols",
-    "subcategory": "Passive Components",
+    "subcategory": "Schematic Symbols",
     "difficulty": "easy",
-    "question": "In electrical schematic diagrams: What distinguishes a Light Emitting Diode (LED) symbol from a standard semiconductor diode symbol? (Ref #34)",
+    "question": "What schematic symbol represents an optocoupler (opto-isolator)?",
     "options": [
-      "Two arrows pointing inward toward the triangle",
-      "Two small arrows pointing outward away from the diode triangle",
-      "A circle surrounding a resistor",
-      "A wavy line through the center"
+      "Two diodes facing each other",
+      "An LED symbol and a phototransistor symbol facing each other inside an enclosed rectangle",
+      "A transformer with a dot",
+      "A relay with a coil"
     ],
     "correctAnswer": 1,
-    "explanation": "Outward-pointing arrows on a diode symbol denote photon radiation (emission of light), designating an LED.",
+    "explanation": "The enclosed LED optically triggers the phototransistor, providing thousands of volts of electrical galvanic isolation.",
     "tags": [
       "electrical-symbols",
-      "passive-components",
+      "schematic-symbols",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "electrical-symbols-semiconductor-symbols-0035",
+    "id": "electrical-symbols-schematic-symbols-0035",
     "category": "Electrical Symbols",
-    "subcategory": "Semiconductor Symbols",
+    "subcategory": "Schematic Symbols",
     "difficulty": "medium",
-    "question": "In electrical schematic diagrams: What switch type is designated by the schematic abbreviation 'SPST'? (Ref #35)",
+    "question": "What does a small solid black dot located at the intersection of two crossing wire lines signify on a schematic?",
     "options": [
-      "Single Phase, System Terminal",
-      "Series Parallel Synchronous Toggle",
-      "Single Pole, Single Throw switch",
-      "Step Power Signal Trigger"
+      "Wires cross without connecting",
+      "A test point terminal",
+      "An intentional, permanent electrical connection (node) joining the two crossing wires",
+      "A grounded shield"
     ],
     "correctAnswer": 2,
-    "explanation": "An SPST switch has one input pole and connects to one output throw, serving as a simple on-off control.",
+    "explanation": "A junction dot indicates electrical connection; lines crossing without a dot (or with a bridge hop) do not connect.",
     "tags": [
       "electrical-symbols",
-      "semiconductor-symbols",
+      "schematic-symbols",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "electrical-symbols-switch-relay-symbols-0036",
+    "id": "electrical-symbols-schematic-symbols-0036",
     "category": "Electrical Symbols",
-    "subcategory": "Switch & Relay Symbols",
+    "subcategory": "Schematic Symbols",
     "difficulty": "hard",
-    "question": "In electrical schematic diagrams: What electronic component is represented on standard North American schematic diagrams by a sharp zig-zag line? (Ref #36)",
+    "question": "What does an arching 'bridge hop' (half-circle hump) signify when one wire crosses over another on older schematics?",
     "options": [
-      "Capacitor",
-      "Inductor coil",
-      "Diode",
-      "Fixed Resistor"
+      "The wires are soldered together",
+      "A capacitor connection",
+      "A high-voltage bridge",
+      "The two wires cross over each other without making any electrical contact"
     ],
     "correctAnswer": 3,
-    "explanation": "In ANSI/IEEE schematics, a fixed resistor is drawn as a zig-zag line, whereas international IEC schematics often use a rectangle.",
+    "explanation": "Bridge hops explicitly show that crossing conductors bypass each other in three dimensions without electrical connection.",
     "tags": [
       "electrical-symbols",
-      "switch-relay-symbols",
+      "schematic-symbols",
       "hard"
     ],
     "active": true
@@ -760,15 +760,15 @@
     "category": "Electrical Symbols",
     "subcategory": "Schematic Symbols",
     "difficulty": "easy",
-    "question": "In electrical schematic diagrams: What schematic symbol depicts a non-polarized capacitor in circuit diagrams? (Ref #37)",
+    "question": "What schematic symbol represents a thermistor, a temperature-sensitive resistor?",
     "options": [
-      "Two parallel straight lines perpendicular to the connecting leads",
-      "A series of coiled loops",
-      "A triangle pointing to a straight line",
-      "A circle with an X inside"
+      "A resistor symbol with a diagonal line across it ending in a flat horizontal foot, labeled -t or +t",
+      "A resistor inside a thermometer",
+      "A diode with a heater",
+      "A capacitor with an arrow"
     ],
     "correctAnswer": 0,
-    "explanation": "Capacitors are symbolized by two parallel plates separated by a gap, representing dielectric separation.",
+    "explanation": "The flat horizontal foot on the diagonal line designates temperature dependence (NTC or PTC).",
     "tags": [
       "electrical-symbols",
       "schematic-symbols",
@@ -777,85 +777,85 @@
     "active": true
   },
   {
-    "id": "electrical-symbols-passive-components-0038",
+    "id": "electrical-symbols-schematic-symbols-0038",
     "category": "Electrical Symbols",
-    "subcategory": "Passive Components",
+    "subcategory": "Schematic Symbols",
     "difficulty": "medium",
-    "question": "In electrical schematic diagrams: How is an electrical earth or chassis ground symbolized on schematics? (Ref #38)",
+    "question": "What schematic symbol represents a Metal Oxide Varistor (MOV) used for transient surge suppression?",
     "options": [
-      "A closed circle with three dots",
-      "A vertical lead terminating in progressively shorter horizontal parallel lines",
-      "A zig-zag arrow pointing up",
-      "A square with a diagonal cross"
+      "A capacitor with an arrow",
+      "A resistor symbol with a diagonal line through it with a small foot on both ends, or labeled with an internal bidirectional Z",
+      "Two diodes in series",
+      "A fuse with a spark gap"
     ],
     "correctAnswer": 1,
-    "explanation": "The ground symbol consists of descending horizontal lines of decreasing width, indicating zero reference potential.",
+    "explanation": "Varistors clamp high-voltage spikes by dropping resistance from Megaohms to near zero when breakdown voltage is exceeded.",
     "tags": [
       "electrical-symbols",
-      "passive-components",
+      "schematic-symbols",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "electrical-symbols-semiconductor-symbols-0039",
+    "id": "electrical-symbols-passive-components-0039",
     "category": "Electrical Symbols",
-    "subcategory": "Semiconductor Symbols",
+    "subcategory": "Passive Components",
     "difficulty": "hard",
-    "question": "In electrical schematic diagrams: What distinguishes a Light Emitting Diode (LED) symbol from a standard semiconductor diode symbol? (Ref #39)",
+    "question": "On a standard 4-band axial resistor, what color represents the numerical digit 0?",
     "options": [
-      "Two arrows pointing inward toward the triangle",
-      "A circle surrounding a resistor",
-      "Two small arrows pointing outward away from the diode triangle",
-      "A wavy line through the center"
+      "Brown",
+      "Red",
+      "Black",
+      "Blue"
     ],
     "correctAnswer": 2,
-    "explanation": "Outward-pointing arrows on a diode symbol denote photon radiation (emission of light), designating an LED.",
+    "explanation": "Under the electronic color code: Black = 0, Brown = 1, Red = 2, Orange = 3, Yellow = 4, Green = 5, Blue = 6, Violet = 7, Gray = 8, White = 9.",
     "tags": [
       "electrical-symbols",
-      "semiconductor-symbols",
+      "passive-components",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "electrical-symbols-switch-relay-symbols-0040",
+    "id": "electrical-symbols-passive-components-0040",
     "category": "Electrical Symbols",
-    "subcategory": "Switch & Relay Symbols",
+    "subcategory": "Passive Components",
     "difficulty": "easy",
-    "question": "In electrical schematic diagrams: What switch type is designated by the schematic abbreviation 'SPST'? (Ref #40)",
+    "question": "On a standard color-coded resistor, what color represents the numerical digit 1?",
     "options": [
-      "Single Phase, System Terminal",
-      "Series Parallel Synchronous Toggle",
-      "Step Power Signal Trigger",
-      "Single Pole, Single Throw switch"
+      "Black",
+      "Red",
+      "Orange",
+      "Brown"
     ],
     "correctAnswer": 3,
-    "explanation": "An SPST switch has one input pole and connects to one output throw, serving as a simple on-off control.",
+    "explanation": "Brown represents the number 1; on the tolerance band, brown also represents +/- 1% precision tolerance.",
     "tags": [
       "electrical-symbols",
-      "switch-relay-symbols",
+      "passive-components",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "electrical-symbols-schematic-symbols-0041",
+    "id": "electrical-symbols-passive-components-0041",
     "category": "Electrical Symbols",
-    "subcategory": "Schematic Symbols",
+    "subcategory": "Passive Components",
     "difficulty": "medium",
-    "question": "In electrical schematic diagrams: What electronic component is represented on standard North American schematic diagrams by a sharp zig-zag line? (Ref #41)",
+    "question": "On a standard color-coded resistor, what color represents the numerical digit 2?",
     "options": [
-      "Fixed Resistor",
-      "Capacitor",
-      "Inductor coil",
-      "Diode"
+      "Red",
+      "Orange",
+      "Yellow",
+      "Brown"
     ],
     "correctAnswer": 0,
-    "explanation": "In ANSI/IEEE schematics, a fixed resistor is drawn as a zig-zag line, whereas international IEC schematics often use a rectangle.",
+    "explanation": "Red represents digit 2; as a decimal multiplier, red multiplies by 10^2 (100).",
     "tags": [
       "electrical-symbols",
-      "schematic-symbols",
+      "passive-components",
       "medium"
     ],
     "active": true
@@ -865,15 +865,15 @@
     "category": "Electrical Symbols",
     "subcategory": "Passive Components",
     "difficulty": "hard",
-    "question": "In electrical schematic diagrams: What schematic symbol depicts a non-polarized capacitor in circuit diagrams? (Ref #42)",
+    "question": "On a standard color-coded resistor, what color represents the numerical digit 3?",
     "options": [
-      "A series of coiled loops",
-      "Two parallel straight lines perpendicular to the connecting leads",
-      "A triangle pointing to a straight line",
-      "A circle with an X inside"
+      "Yellow",
+      "Orange",
+      "Red",
+      "Green"
     ],
     "correctAnswer": 1,
-    "explanation": "Capacitors are symbolized by two parallel plates separated by a gap, representing dielectric separation.",
+    "explanation": "Orange represents digit 3; as a decimal multiplier, orange multiplies by 10^3 (1,000 / 1k).",
     "tags": [
       "electrical-symbols",
       "passive-components",
@@ -882,64 +882,64 @@
     "active": true
   },
   {
-    "id": "electrical-symbols-semiconductor-symbols-0043",
+    "id": "electrical-symbols-passive-components-0043",
     "category": "Electrical Symbols",
-    "subcategory": "Semiconductor Symbols",
+    "subcategory": "Passive Components",
     "difficulty": "easy",
-    "question": "In electrical schematic diagrams: How is an electrical earth or chassis ground symbolized on schematics? (Ref #43)",
+    "question": "On a standard color-coded resistor, what color represents the numerical digit 4?",
     "options": [
-      "A closed circle with three dots",
-      "A zig-zag arrow pointing up",
-      "A vertical lead terminating in progressively shorter horizontal parallel lines",
-      "A square with a diagonal cross"
+      "Green",
+      "Orange",
+      "Yellow",
+      "Blue"
     ],
     "correctAnswer": 2,
-    "explanation": "The ground symbol consists of descending horizontal lines of decreasing width, indicating zero reference potential.",
+    "explanation": "Yellow represents digit 4; as a decimal multiplier, yellow multiplies by 10^4 (10,000 / 10k).",
     "tags": [
       "electrical-symbols",
-      "semiconductor-symbols",
+      "passive-components",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "electrical-symbols-switch-relay-symbols-0044",
+    "id": "electrical-symbols-passive-components-0044",
     "category": "Electrical Symbols",
-    "subcategory": "Switch & Relay Symbols",
+    "subcategory": "Passive Components",
     "difficulty": "medium",
-    "question": "In electrical schematic diagrams: What distinguishes a Light Emitting Diode (LED) symbol from a standard semiconductor diode symbol? (Ref #44)",
+    "question": "On a standard color-coded resistor, what color represents the numerical digit 5?",
     "options": [
-      "Two arrows pointing inward toward the triangle",
-      "A circle surrounding a resistor",
-      "A wavy line through the center",
-      "Two small arrows pointing outward away from the diode triangle"
+      "Blue",
+      "Yellow",
+      "Violet",
+      "Green"
     ],
     "correctAnswer": 3,
-    "explanation": "Outward-pointing arrows on a diode symbol denote photon radiation (emission of light), designating an LED.",
+    "explanation": "Green represents digit 5; on tolerance bands, green represents +/- 0.5% high-precision tolerance.",
     "tags": [
       "electrical-symbols",
-      "switch-relay-symbols",
+      "passive-components",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "electrical-symbols-schematic-symbols-0045",
+    "id": "electrical-symbols-passive-components-0045",
     "category": "Electrical Symbols",
-    "subcategory": "Schematic Symbols",
+    "subcategory": "Passive Components",
     "difficulty": "hard",
-    "question": "In electrical schematic diagrams: What switch type is designated by the schematic abbreviation 'SPST'? (Ref #45)",
+    "question": "On a standard color-coded resistor, what color represents the numerical digit 6?",
     "options": [
-      "Single Pole, Single Throw switch",
-      "Single Phase, System Terminal",
-      "Series Parallel Synchronous Toggle",
-      "Step Power Signal Trigger"
+      "Blue",
+      "Violet",
+      "Green",
+      "Gray"
     ],
     "correctAnswer": 0,
-    "explanation": "An SPST switch has one input pole and connects to one output throw, serving as a simple on-off control.",
+    "explanation": "Blue represents digit 6; as a multiplier, blue multiplies by 10^6 (1,000,000 / 1M).",
     "tags": [
       "electrical-symbols",
-      "schematic-symbols",
+      "passive-components",
       "hard"
     ],
     "active": true
@@ -949,15 +949,15 @@
     "category": "Electrical Symbols",
     "subcategory": "Passive Components",
     "difficulty": "easy",
-    "question": "In electrical schematic diagrams: What electronic component is represented on standard North American schematic diagrams by a sharp zig-zag line? (Ref #46)",
+    "question": "On a standard color-coded resistor, what color represents the numerical digit 7?",
     "options": [
-      "Capacitor",
-      "Fixed Resistor",
-      "Inductor coil",
-      "Diode"
+      "Blue",
+      "Violet (Purple)",
+      "Gray",
+      "White"
     ],
     "correctAnswer": 1,
-    "explanation": "In ANSI/IEEE schematics, a fixed resistor is drawn as a zig-zag line, whereas international IEC schematics often use a rectangle.",
+    "explanation": "Violet represents digit 7 across all resistor and capacitor electronic color codes.",
     "tags": [
       "electrical-symbols",
       "passive-components",
@@ -966,64 +966,64 @@
     "active": true
   },
   {
-    "id": "electrical-symbols-semiconductor-symbols-0047",
+    "id": "electrical-symbols-passive-components-0047",
     "category": "Electrical Symbols",
-    "subcategory": "Semiconductor Symbols",
+    "subcategory": "Passive Components",
     "difficulty": "medium",
-    "question": "In electrical schematic diagrams: What schematic symbol depicts a non-polarized capacitor in circuit diagrams? (Ref #47)",
+    "question": "On a standard color-coded resistor, what color represents the numerical digit 8?",
     "options": [
-      "A series of coiled loops",
-      "A triangle pointing to a straight line",
-      "Two parallel straight lines perpendicular to the connecting leads",
-      "A circle with an X inside"
+      "White",
+      "Violet",
+      "Gray",
+      "Silver"
     ],
     "correctAnswer": 2,
-    "explanation": "Capacitors are symbolized by two parallel plates separated by a gap, representing dielectric separation.",
+    "explanation": "Gray represents digit 8 across standard electronic component marking codes.",
     "tags": [
       "electrical-symbols",
-      "semiconductor-symbols",
+      "passive-components",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "electrical-symbols-switch-relay-symbols-0048",
+    "id": "electrical-symbols-passive-components-0048",
     "category": "Electrical Symbols",
-    "subcategory": "Switch & Relay Symbols",
+    "subcategory": "Passive Components",
     "difficulty": "hard",
-    "question": "In electrical schematic diagrams: How is an electrical earth or chassis ground symbolized on schematics? (Ref #48)",
+    "question": "On a standard color-coded resistor, what color represents the numerical digit 9?",
     "options": [
-      "A closed circle with three dots",
-      "A zig-zag arrow pointing up",
-      "A square with a diagonal cross",
-      "A vertical lead terminating in progressively shorter horizontal parallel lines"
+      "Gray",
+      "Gold",
+      "Black",
+      "White"
     ],
     "correctAnswer": 3,
-    "explanation": "The ground symbol consists of descending horizontal lines of decreasing width, indicating zero reference potential.",
+    "explanation": "White represents digit 9; as a multiplier, white multiplies by 10^9 (1 Gigohm).",
     "tags": [
       "electrical-symbols",
-      "switch-relay-symbols",
+      "passive-components",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "electrical-symbols-schematic-symbols-0049",
+    "id": "electrical-symbols-passive-components-0049",
     "category": "Electrical Symbols",
-    "subcategory": "Schematic Symbols",
+    "subcategory": "Passive Components",
     "difficulty": "easy",
-    "question": "In electrical schematic diagrams: What distinguishes a Light Emitting Diode (LED) symbol from a standard semiconductor diode symbol? (Ref #49)",
+    "question": "What does a Gold band in the fourth position (tolerance band) of a standard 4-band resistor indicate?",
     "options": [
-      "Two small arrows pointing outward away from the diode triangle",
-      "Two arrows pointing inward toward the triangle",
-      "A circle surrounding a resistor",
-      "A wavy line through the center"
+      "+/- 5% tolerance",
+      "+/- 10% tolerance",
+      "+/- 1% tolerance",
+      "+/- 20% tolerance"
     ],
     "correctAnswer": 0,
-    "explanation": "Outward-pointing arrows on a diode symbol denote photon radiation (emission of light), designating an LED.",
+    "explanation": "Gold indicates that the actual resistance value is guaranteed to be within +/- 5% of the nominal labeled value.",
     "tags": [
       "electrical-symbols",
-      "schematic-symbols",
+      "passive-components",
       "easy"
     ],
     "active": true
@@ -1033,15 +1033,15 @@
     "category": "Electrical Symbols",
     "subcategory": "Passive Components",
     "difficulty": "medium",
-    "question": "In electrical schematic diagrams: What switch type is designated by the schematic abbreviation 'SPST'? (Ref #50)",
+    "question": "What does a Silver band in the fourth position (tolerance band) of a 4-band resistor indicate?",
     "options": [
-      "Single Phase, System Terminal",
-      "Single Pole, Single Throw switch",
-      "Series Parallel Synchronous Toggle",
-      "Step Power Signal Trigger"
+      "+/- 5% tolerance",
+      "+/- 10% tolerance",
+      "+/- 20% tolerance",
+      "+/- 2% tolerance"
     ],
     "correctAnswer": 1,
-    "explanation": "An SPST switch has one input pole and connects to one output throw, serving as a simple on-off control.",
+    "explanation": "Silver designates a standard +/- 10% tolerance band on carbon composition and film resistors.",
     "tags": [
       "electrical-symbols",
       "passive-components",
@@ -1050,64 +1050,64 @@
     "active": true
   },
   {
-    "id": "electrical-symbols-semiconductor-symbols-0051",
+    "id": "electrical-symbols-passive-components-0051",
     "category": "Electrical Symbols",
-    "subcategory": "Semiconductor Symbols",
+    "subcategory": "Passive Components",
     "difficulty": "hard",
-    "question": "In electrical schematic diagrams: What electronic component is represented on standard North American schematic diagrams by a sharp zig-zag line? (Ref #51)",
+    "question": "What is the nominal resistance of a 4-band resistor with color bands: Brown, Black, Red, Gold?",
     "options": [
-      "Capacitor",
-      "Inductor coil",
-      "Fixed Resistor",
-      "Diode"
+      "100 Ohms",
+      "10,000 Ohms",
+      "1,000 Ohms (1 k-Ohm) +/- 5%",
+      "120 Ohms"
     ],
     "correctAnswer": 2,
-    "explanation": "In ANSI/IEEE schematics, a fixed resistor is drawn as a zig-zag line, whereas international IEC schematics often use a rectangle.",
+    "explanation": "Brown = 1, Black = 0, Red = x100; 10 * 100 = 1,000 Ohms (1 k-Ohm), with Gold = +/- 5% tolerance.",
     "tags": [
       "electrical-symbols",
-      "semiconductor-symbols",
+      "passive-components",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "electrical-symbols-switch-relay-symbols-0052",
+    "id": "electrical-symbols-passive-components-0052",
     "category": "Electrical Symbols",
-    "subcategory": "Switch & Relay Symbols",
+    "subcategory": "Passive Components",
     "difficulty": "easy",
-    "question": "In electrical schematic diagrams: What schematic symbol depicts a non-polarized capacitor in circuit diagrams? (Ref #52)",
+    "question": "What is the nominal resistance of a 4-band resistor with color bands: Yellow, Violet, Orange, Gold?",
     "options": [
-      "A series of coiled loops",
-      "A triangle pointing to a straight line",
-      "A circle with an X inside",
-      "Two parallel straight lines perpendicular to the connecting leads"
+      "4,700 Ohms",
+      "470 Ohms",
+      "470,000 Ohms",
+      "47,000 Ohms (47 k-Ohms) +/- 5%"
     ],
     "correctAnswer": 3,
-    "explanation": "Capacitors are symbolized by two parallel plates separated by a gap, representing dielectric separation.",
+    "explanation": "Yellow = 4, Violet = 7, Orange = x1,000; 47 * 1,000 = 47,000 Ohms (47 k-Ohms).",
     "tags": [
       "electrical-symbols",
-      "switch-relay-symbols",
+      "passive-components",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "electrical-symbols-schematic-symbols-0053",
+    "id": "electrical-symbols-passive-components-0053",
     "category": "Electrical Symbols",
-    "subcategory": "Schematic Symbols",
+    "subcategory": "Passive Components",
     "difficulty": "medium",
-    "question": "In electrical schematic diagrams: How is an electrical earth or chassis ground symbolized on schematics? (Ref #53)",
+    "question": "What is the nominal resistance of a 4-band resistor with color bands: Red, Red, Brown, Gold?",
     "options": [
-      "A vertical lead terminating in progressively shorter horizontal parallel lines",
-      "A closed circle with three dots",
-      "A zig-zag arrow pointing up",
-      "A square with a diagonal cross"
+      "220 Ohms +/- 5%",
+      "22 Ohms",
+      "2,200 Ohms",
+      "200 Ohms"
     ],
     "correctAnswer": 0,
-    "explanation": "The ground symbol consists of descending horizontal lines of decreasing width, indicating zero reference potential.",
+    "explanation": "Red = 2, Red = 2, Brown = x10; 22 * 10 = 220 Ohms.",
     "tags": [
       "electrical-symbols",
-      "schematic-symbols",
+      "passive-components",
       "medium"
     ],
     "active": true
@@ -1117,15 +1117,15 @@
     "category": "Electrical Symbols",
     "subcategory": "Passive Components",
     "difficulty": "hard",
-    "question": "In electrical schematic diagrams: What distinguishes a Light Emitting Diode (LED) symbol from a standard semiconductor diode symbol? (Ref #54)",
+    "question": "What is the nominal resistance of a 4-band resistor with color bands: Brown, Black, Yellow, Gold?",
     "options": [
-      "Two arrows pointing inward toward the triangle",
-      "Two small arrows pointing outward away from the diode triangle",
-      "A circle surrounding a resistor",
-      "A wavy line through the center"
+      "10,000 Ohms",
+      "100,000 Ohms (100 k-Ohms) +/- 5%",
+      "1,000,000 Ohms",
+      "1,000 Ohms"
     ],
     "correctAnswer": 1,
-    "explanation": "Outward-pointing arrows on a diode symbol denote photon radiation (emission of light), designating an LED.",
+    "explanation": "Brown = 1, Black = 0, Yellow = x10,000; 10 * 10,000 = 100,000 Ohms (100 k-Ohms).",
     "tags": [
       "electrical-symbols",
       "passive-components",
@@ -1134,64 +1134,64 @@
     "active": true
   },
   {
-    "id": "electrical-symbols-semiconductor-symbols-0055",
+    "id": "electrical-symbols-passive-components-0055",
     "category": "Electrical Symbols",
-    "subcategory": "Semiconductor Symbols",
+    "subcategory": "Passive Components",
     "difficulty": "easy",
-    "question": "In electrical schematic diagrams: What switch type is designated by the schematic abbreviation 'SPST'? (Ref #55)",
+    "question": "What three-digit EIA numeric code stamped on a Surface Mount Device (SMD) resistor represents 10,000 Ohms (10k)?",
     "options": [
-      "Single Phase, System Terminal",
-      "Series Parallel Synchronous Toggle",
-      "Single Pole, Single Throw switch",
-      "Step Power Signal Trigger"
+      "102",
+      "104",
+      "103",
+      "100"
     ],
     "correctAnswer": 2,
-    "explanation": "An SPST switch has one input pole and connects to one output throw, serving as a simple on-off control.",
+    "explanation": "First two digits are significant (10), third digit is the power of 10 multiplier (10^3 = 1,000); 10 * 1,000 = 10k.",
     "tags": [
       "electrical-symbols",
-      "semiconductor-symbols",
+      "passive-components",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "electrical-symbols-switch-relay-symbols-0056",
+    "id": "electrical-symbols-passive-components-0056",
     "category": "Electrical Symbols",
-    "subcategory": "Switch & Relay Symbols",
+    "subcategory": "Passive Components",
     "difficulty": "medium",
-    "question": "In electrical schematic diagrams: What electronic component is represented on standard North American schematic diagrams by a sharp zig-zag line? (Ref #56)",
+    "question": "What three-digit EIA numeric code stamped on an SMD resistor represents 4,700 Ohms (4.7k)?",
     "options": [
-      "Capacitor",
-      "Inductor coil",
-      "Diode",
-      "Fixed Resistor"
+      "471",
+      "473",
+      "470",
+      "472"
     ],
     "correctAnswer": 3,
-    "explanation": "In ANSI/IEEE schematics, a fixed resistor is drawn as a zig-zag line, whereas international IEC schematics often use a rectangle.",
+    "explanation": "47 followed by two zeros (47 * 10^2) equals 4,700 Ohms (4.7 k-Ohms).",
     "tags": [
       "electrical-symbols",
-      "switch-relay-symbols",
+      "passive-components",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "electrical-symbols-schematic-symbols-0057",
+    "id": "electrical-symbols-passive-components-0057",
     "category": "Electrical Symbols",
-    "subcategory": "Schematic Symbols",
+    "subcategory": "Passive Components",
     "difficulty": "hard",
-    "question": "In electrical schematic diagrams: What schematic symbol depicts a non-polarized capacitor in circuit diagrams? (Ref #57)",
+    "question": "What three-digit code on an SMD resistor represents a fractional resistance of 4.7 Ohms using the letter 'R' as a decimal point?",
     "options": [
-      "Two parallel straight lines perpendicular to the connecting leads",
-      "A series of coiled loops",
-      "A triangle pointing to a straight line",
-      "A circle with an X inside"
+      "4R7",
+      "47R",
+      "R47",
+      "4.7"
     ],
     "correctAnswer": 0,
-    "explanation": "Capacitors are symbolized by two parallel plates separated by a gap, representing dielectric separation.",
+    "explanation": "The letter 'R' designates a decimal point in metric component notation: 4R7 = 4.7 Ohms; 0R22 = 0.22 Ohms.",
     "tags": [
       "electrical-symbols",
-      "schematic-symbols",
+      "passive-components",
       "hard"
     ],
     "active": true
@@ -1201,15 +1201,15 @@
     "category": "Electrical Symbols",
     "subcategory": "Passive Components",
     "difficulty": "easy",
-    "question": "In electrical schematic diagrams: How is an electrical earth or chassis ground symbolized on schematics? (Ref #58)",
+    "question": "What type of temperature-dependent resistor decreases its electrical resistance dramatically as its temperature increases?",
     "options": [
-      "A closed circle with three dots",
-      "A vertical lead terminating in progressively shorter horizontal parallel lines",
-      "A zig-zag arrow pointing up",
-      "A square with a diagonal cross"
+      "Positive Temperature Coefficient (PTC) Thermistor",
+      "Negative Temperature Coefficient (NTC) Thermistor",
+      "Varistor",
+      "Photoresistor"
     ],
     "correctAnswer": 1,
-    "explanation": "The ground symbol consists of descending horizontal lines of decreasing width, indicating zero reference potential.",
+    "explanation": "NTC thermistors exhibit an exponential drop in resistance with heat, widely used as temperature sensors and inrush current limiters.",
     "tags": [
       "electrical-symbols",
       "passive-components",
@@ -1218,64 +1218,64 @@
     "active": true
   },
   {
-    "id": "electrical-symbols-semiconductor-symbols-0059",
+    "id": "electrical-symbols-passive-components-0059",
     "category": "Electrical Symbols",
-    "subcategory": "Semiconductor Symbols",
+    "subcategory": "Passive Components",
     "difficulty": "medium",
-    "question": "In electrical schematic diagrams: What distinguishes a Light Emitting Diode (LED) symbol from a standard semiconductor diode symbol? (Ref #59)",
+    "question": "What type of temperature-dependent resistor increases its electrical resistance sharply as its temperature rises above a switching threshold?",
     "options": [
-      "Two arrows pointing inward toward the triangle",
-      "A circle surrounding a resistor",
-      "Two small arrows pointing outward away from the diode triangle",
-      "A wavy line through the center"
+      "Negative Temperature Coefficient (NTC) Thermistor",
+      "Photoresistor",
+      "Positive Temperature Coefficient (PTC) Thermistor",
+      "Strain Gauge"
     ],
     "correctAnswer": 2,
-    "explanation": "Outward-pointing arrows on a diode symbol denote photon radiation (emission of light), designating an LED.",
+    "explanation": "PTC thermistors act as self-resetting overcurrent protection devices ('polyswitches'), heating up and choking fault current.",
     "tags": [
       "electrical-symbols",
-      "semiconductor-symbols",
+      "passive-components",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "electrical-symbols-switch-relay-symbols-0060",
+    "id": "electrical-symbols-passive-components-0060",
     "category": "Electrical Symbols",
-    "subcategory": "Switch & Relay Symbols",
+    "subcategory": "Passive Components",
     "difficulty": "hard",
-    "question": "In electrical schematic diagrams: What switch type is designated by the schematic abbreviation 'SPST'? (Ref #60)",
+    "question": "What type of light-sensitive passive resistor decreases its electrical resistance when exposed to increasing levels of ambient light?",
     "options": [
-      "Single Phase, System Terminal",
-      "Series Parallel Synchronous Toggle",
-      "Step Power Signal Trigger",
-      "Single Pole, Single Throw switch"
+      "Thermistor",
+      "Varistor",
+      "Piezoresistor",
+      "Photoresistor (Light Dependent Resistor / LDR)"
     ],
     "correctAnswer": 3,
-    "explanation": "An SPST switch has one input pole and connects to one output throw, serving as a simple on-off control.",
+    "explanation": "Cadmium sulfide (CdS) photoresistors drop from Megaohms in darkness to a few hundred Ohms in bright light, used in dusk-to-dawn sensors.",
     "tags": [
       "electrical-symbols",
-      "switch-relay-symbols",
+      "passive-components",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "electrical-symbols-schematic-symbols-0061",
+    "id": "electrical-symbols-passive-components-0061",
     "category": "Electrical Symbols",
-    "subcategory": "Schematic Symbols",
+    "subcategory": "Passive Components",
     "difficulty": "easy",
-    "question": "In electrical schematic diagrams: What electronic component is represented on standard North American schematic diagrams by a sharp zig-zag line? (Ref #61)",
+    "question": "What passive semiconductor component features resistance that changes proportional to mechanical strain or physical deformation?",
     "options": [
-      "Fixed Resistor",
-      "Capacitor",
-      "Inductor coil",
-      "Diode"
+      "A Strain Gauge (Piezoresistor)",
+      "A Thermistor",
+      "A Potentiometer",
+      "A Hall Sensor"
     ],
     "correctAnswer": 0,
-    "explanation": "In ANSI/IEEE schematics, a fixed resistor is drawn as a zig-zag line, whereas international IEC schematics often use a rectangle.",
+    "explanation": "Strain gauges bonded to metal members stretch under load, altering resistance to measure structural strain on bridges and load cells.",
     "tags": [
       "electrical-symbols",
-      "schematic-symbols",
+      "passive-components",
       "easy"
     ],
     "active": true
@@ -1285,15 +1285,15 @@
     "category": "Electrical Symbols",
     "subcategory": "Passive Components",
     "difficulty": "medium",
-    "question": "In electrical schematic diagrams: What schematic symbol depicts a non-polarized capacitor in circuit diagrams? (Ref #62)",
+    "question": "What cylindrical passive component made of magnetic ferrite ceramic is slipped over computer cables to suppress high-frequency EMI noise?",
     "options": [
-      "A series of coiled loops",
-      "Two parallel straight lines perpendicular to the connecting leads",
-      "A triangle pointing to a straight line",
-      "A circle with an X inside"
+      "A Toroid Transformer",
+      "A Ferrite Bead (Ferrite Choke)",
+      "A Decoupling Capacitor",
+      "A Metal Varistor"
     ],
     "correctAnswer": 1,
-    "explanation": "Capacitors are symbolized by two parallel plates separated by a gap, representing dielectric separation.",
+    "explanation": "Ferrite beads act as high-frequency RF resistors, dissipating high-frequency electromagnetic noise as tiny amounts of heat.",
     "tags": [
       "electrical-symbols",
       "passive-components",
@@ -1302,64 +1302,64 @@
     "active": true
   },
   {
-    "id": "electrical-symbols-semiconductor-symbols-0063",
+    "id": "electrical-symbols-passive-components-0063",
     "category": "Electrical Symbols",
-    "subcategory": "Semiconductor Symbols",
+    "subcategory": "Passive Components",
     "difficulty": "hard",
-    "question": "In electrical schematic diagrams: How is an electrical earth or chassis ground symbolized on schematics? (Ref #63)",
+    "question": "What type of capacitor utilizes a thin metal oxide dielectric layer formed on etched tantalum powder, offering high capacitance in tiny SMD packages?",
     "options": [
-      "A closed circle with three dots",
-      "A zig-zag arrow pointing up",
-      "A vertical lead terminating in progressively shorter horizontal parallel lines",
-      "A square with a diagonal cross"
+      "A Ceramic Disc Capacitor",
+      "An Aluminum Electrolytic Capacitor",
+      "A Tantalum Capacitor",
+      "A Polyester Film Capacitor"
     ],
     "correctAnswer": 2,
-    "explanation": "The ground symbol consists of descending horizontal lines of decreasing width, indicating zero reference potential.",
+    "explanation": "Tantalum capacitors deliver high volumetric capacitance efficiency and stable temperature performance, but fail as short circuits if reversed.",
     "tags": [
       "electrical-symbols",
-      "semiconductor-symbols",
+      "passive-components",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "electrical-symbols-switch-relay-symbols-0064",
+    "id": "electrical-symbols-passive-components-0064",
     "category": "Electrical Symbols",
-    "subcategory": "Switch & Relay Symbols",
+    "subcategory": "Passive Components",
     "difficulty": "easy",
-    "question": "In electrical schematic diagrams: What distinguishes a Light Emitting Diode (LED) symbol from a standard semiconductor diode symbol? (Ref #64)",
+    "question": "What type of high-capacitance passive energy storage device bridges the gap between conventional electrolytic capacitors and rechargeable batteries?",
     "options": [
-      "Two arrows pointing inward toward the triangle",
-      "A circle surrounding a resistor",
-      "A wavy line through the center",
-      "Two small arrows pointing outward away from the diode triangle"
+      "A Ceramic Capacitor",
+      "A Tantalum Capacitor",
+      "A Mica Capacitor",
+      "A Supercapacitor (Ultracapacitor / EDLC)"
     ],
     "correctAnswer": 3,
-    "explanation": "Outward-pointing arrows on a diode symbol denote photon radiation (emission of light), designating an LED.",
+    "explanation": "Electric Double-Layer Capacitors (EDLC) achieve capacitances of hundreds to thousands of Farads using porous activated carbon electrodes.",
     "tags": [
       "electrical-symbols",
-      "switch-relay-symbols",
+      "passive-components",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "electrical-symbols-schematic-symbols-0065",
+    "id": "electrical-symbols-passive-components-0065",
     "category": "Electrical Symbols",
-    "subcategory": "Schematic Symbols",
+    "subcategory": "Passive Components",
     "difficulty": "medium",
-    "question": "In electrical schematic diagrams: What switch type is designated by the schematic abbreviation 'SPST'? (Ref #65)",
+    "question": "What three-digit code stamped on a small ceramic disc capacitor represents a capacitance of 100,000 picofarads (0.1 microfarad)?",
     "options": [
-      "Single Pole, Single Throw switch",
-      "Single Phase, System Terminal",
-      "Series Parallel Synchronous Toggle",
-      "Step Power Signal Trigger"
+      "104",
+      "103",
+      "102",
+      "105"
     ],
     "correctAnswer": 0,
-    "explanation": "An SPST switch has one input pole and connects to one output throw, serving as a simple on-off control.",
+    "explanation": "10 followed by 4 zeros = 100,000 picofarads (pF) = 100 nanofarads (nF) = 0.1 microfarad (uF).",
     "tags": [
       "electrical-symbols",
-      "schematic-symbols",
+      "passive-components",
       "medium"
     ],
     "active": true
@@ -1369,15 +1369,15 @@
     "category": "Electrical Symbols",
     "subcategory": "Passive Components",
     "difficulty": "hard",
-    "question": "In electrical schematic diagrams: What electronic component is represented on standard North American schematic diagrams by a sharp zig-zag line? (Ref #66)",
+    "question": "What three-digit code on a ceramic disc capacitor represents 1,000 picofarads (1 nF)?",
     "options": [
-      "Capacitor",
-      "Fixed Resistor",
-      "Inductor coil",
-      "Diode"
+      "101",
+      "102",
+      "103",
+      "100"
     ],
     "correctAnswer": 1,
-    "explanation": "In ANSI/IEEE schematics, a fixed resistor is drawn as a zig-zag line, whereas international IEC schematics often use a rectangle.",
+    "explanation": "10 followed by 2 zeros = 1,000 pF (picofarads) = 1 nF.",
     "tags": [
       "electrical-symbols",
       "passive-components",
@@ -1386,64 +1386,64 @@
     "active": true
   },
   {
-    "id": "electrical-symbols-semiconductor-symbols-0067",
+    "id": "electrical-symbols-passive-components-0067",
     "category": "Electrical Symbols",
-    "subcategory": "Semiconductor Symbols",
+    "subcategory": "Passive Components",
     "difficulty": "easy",
-    "question": "In electrical schematic diagrams: What schematic symbol depicts a non-polarized capacitor in circuit diagrams? (Ref #67)",
+    "question": "What is the primary operational purpose of placing small (0.1 uF) ceramic 'decoupling capacitors' directly adjacent to integrated circuit power pins?",
     "options": [
-      "A series of coiled loops",
-      "A triangle pointing to a straight line",
-      "Two parallel straight lines perpendicular to the connecting leads",
-      "A circle with an X inside"
+      "To step down DC voltage to the chip",
+      "To store data bits during power loss",
+      "To filter out high-frequency switching noise on power supply rails and supply instantaneous transient current pulses",
+      "To limit input current to the chip"
     ],
     "correctAnswer": 2,
-    "explanation": "Capacitors are symbolized by two parallel plates separated by a gap, representing dielectric separation.",
+    "explanation": "Decoupling (bypass) capacitors provide a local reservoir of charge, bypassing high-frequency power supply ripples to ground.",
     "tags": [
       "electrical-symbols",
-      "semiconductor-symbols",
+      "passive-components",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "electrical-symbols-switch-relay-symbols-0068",
+    "id": "electrical-symbols-passive-components-0068",
     "category": "Electrical Symbols",
-    "subcategory": "Switch & Relay Symbols",
+    "subcategory": "Passive Components",
     "difficulty": "medium",
-    "question": "In electrical schematic diagrams: How is an electrical earth or chassis ground symbolized on schematics? (Ref #68)",
+    "question": "What type of capacitor dielectric material offers exceptional capacitance stability, low dielectric absorption, and self-healing properties?",
     "options": [
-      "A closed circle with three dots",
-      "A zig-zag arrow pointing up",
-      "A square with a diagonal cross",
-      "A vertical lead terminating in progressively shorter horizontal parallel lines"
+      "Aluminum Oxide",
+      "Tantalum Oxide",
+      "Titanium Dioxide",
+      "Metallized Polypropylene Film"
     ],
     "correctAnswer": 3,
-    "explanation": "The ground symbol consists of descending horizontal lines of decreasing width, indicating zero reference potential.",
+    "explanation": "Film capacitors excel in high-current AC filtering, snubber circuits, and audio crossover networks without microphonic distortion.",
     "tags": [
       "electrical-symbols",
-      "switch-relay-symbols",
+      "passive-components",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "electrical-symbols-schematic-symbols-0069",
+    "id": "electrical-symbols-passive-components-0069",
     "category": "Electrical Symbols",
-    "subcategory": "Schematic Symbols",
+    "subcategory": "Passive Components",
     "difficulty": "hard",
-    "question": "In electrical schematic diagrams: What distinguishes a Light Emitting Diode (LED) symbol from a standard semiconductor diode symbol? (Ref #69)",
+    "question": "What passive magnetic component consists of a donut-shaped ring of ferromagnetic core wrapped with wire windings to minimize stray magnetic flux leakage?",
     "options": [
-      "Two small arrows pointing outward away from the diode triangle",
-      "Two arrows pointing inward toward the triangle",
-      "A circle surrounding a resistor",
-      "A wavy line through the center"
+      "A Toroidal Inductor (or Toroidal Transformer)",
+      "A Solenoid",
+      "An Air Core Choke",
+      "A Laminated E-I Core"
     ],
     "correctAnswer": 0,
-    "explanation": "Outward-pointing arrows on a diode symbol denote photon radiation (emission of light), designating an LED.",
+    "explanation": "The closed circular magnetic path of a toroid confines virtually all magnetic flux within the core, preventing electromagnetic interference.",
     "tags": [
       "electrical-symbols",
-      "schematic-symbols",
+      "passive-components",
       "hard"
     ],
     "active": true
@@ -1453,15 +1453,15 @@
     "category": "Electrical Symbols",
     "subcategory": "Passive Components",
     "difficulty": "easy",
-    "question": "In electrical schematic diagrams: What switch type is designated by the schematic abbreviation 'SPST'? (Ref #70)",
+    "question": "What type of inductor features two separate windings on a shared magnetic core designed to block high-frequency common-mode noise on AC power lines?",
     "options": [
-      "Single Phase, System Terminal",
-      "Single Pole, Single Throw switch",
-      "Series Parallel Synchronous Toggle",
-      "Step Power Signal Trigger"
+      "A Differential Inductor",
+      "A Common-Mode Choke",
+      "A Flyback Transformer",
+      "An Autotransformer"
     ],
     "correctAnswer": 1,
-    "explanation": "An SPST switch has one input pole and connects to one output throw, serving as a simple on-off control.",
+    "explanation": "Common-mode currents flowing in the same direction on both conductors create additive flux that chokes noise without impeding differential load current.",
     "tags": [
       "electrical-symbols",
       "passive-components",
@@ -1470,64 +1470,64 @@
     "active": true
   },
   {
-    "id": "electrical-symbols-semiconductor-symbols-0071",
+    "id": "electrical-symbols-passive-components-0071",
     "category": "Electrical Symbols",
-    "subcategory": "Semiconductor Symbols",
+    "subcategory": "Passive Components",
     "difficulty": "medium",
-    "question": "In electrical schematic diagrams: What electronic component is represented on standard North American schematic diagrams by a sharp zig-zag line? (Ref #71)",
+    "question": "What passive component consists of a multi-terminal single continuous winding where secondary voltage is tapped from part of the primary winding?",
     "options": [
-      "Capacitor",
-      "Inductor coil",
-      "Fixed Resistor",
-      "Diode"
+      "An Isolation Transformer",
+      "A Step-Up Transformer",
+      "An Autotransformer (e.g., Variac)",
+      "A Current Transformer"
     ],
     "correctAnswer": 2,
-    "explanation": "In ANSI/IEEE schematics, a fixed resistor is drawn as a zig-zag line, whereas international IEC schematics often use a rectangle.",
+    "explanation": "Autotransformers share a single continuous winding, offering compact voltage adjustment but lacking galvanic isolation between input and output.",
     "tags": [
       "electrical-symbols",
-      "semiconductor-symbols",
+      "passive-components",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "electrical-symbols-switch-relay-symbols-0072",
+    "id": "electrical-symbols-passive-components-0072",
     "category": "Electrical Symbols",
-    "subcategory": "Switch & Relay Symbols",
+    "subcategory": "Passive Components",
     "difficulty": "hard",
-    "question": "In electrical schematic diagrams: What schematic symbol depicts a non-polarized capacitor in circuit diagrams? (Ref #72)",
+    "question": "What specialized instrument transformer steps down thousands of Amperes of high line current to a standardized 5A output for safe metering?",
     "options": [
-      "A series of coiled loops",
-      "A triangle pointing to a straight line",
-      "A circle with an X inside",
-      "Two parallel straight lines perpendicular to the connecting leads"
+      "A Potential Transformer (PT)",
+      "An Autotransformer",
+      "A Power Transformer",
+      "A Current Transformer (CT)"
     ],
     "correctAnswer": 3,
-    "explanation": "Capacitors are symbolized by two parallel plates separated by a gap, representing dielectric separation.",
+    "explanation": "Current transformers clamp around high-voltage power cables to safely measure heavy AC currents with low-range ammeters.",
     "tags": [
       "electrical-symbols",
-      "switch-relay-symbols",
+      "passive-components",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "electrical-symbols-schematic-symbols-0073",
+    "id": "electrical-symbols-passive-components-0073",
     "category": "Electrical Symbols",
-    "subcategory": "Schematic Symbols",
+    "subcategory": "Passive Components",
     "difficulty": "easy",
-    "question": "In electrical schematic diagrams: How is an electrical earth or chassis ground symbolized on schematics? (Ref #73)",
+    "question": "What instrument transformer steps down thousands of Volts of high transmission voltage to a standardized 120V output for metering?",
     "options": [
-      "A vertical lead terminating in progressively shorter horizontal parallel lines",
-      "A closed circle with three dots",
-      "A zig-zag arrow pointing up",
-      "A square with a diagonal cross"
+      "A Potential Transformer (Voltage Transformer / PT)",
+      "A Current Transformer",
+      "A Step-Up Transformer",
+      "A Pulse Transformer"
     ],
     "correctAnswer": 0,
-    "explanation": "The ground symbol consists of descending horizontal lines of decreasing width, indicating zero reference potential.",
+    "explanation": "Potential transformers accurately scale down high transmission line voltages for digital protective relays and utility meters.",
     "tags": [
       "electrical-symbols",
-      "schematic-symbols",
+      "passive-components",
       "easy"
     ],
     "active": true
@@ -1537,15 +1537,15 @@
     "category": "Electrical Symbols",
     "subcategory": "Passive Components",
     "difficulty": "medium",
-    "question": "In electrical schematic diagrams: What distinguishes a Light Emitting Diode (LED) symbol from a standard semiconductor diode symbol? (Ref #74)",
+    "question": "What safety hazard occurs if the secondary winding terminals of an active, energized Current Transformer (CT) are accidentally left open-circuited?",
     "options": [
-      "Two arrows pointing inward toward the triangle",
-      "Two small arrows pointing outward away from the diode triangle",
-      "A circle surrounding a resistor",
-      "A wavy line through the center"
+      "The primary circuit breaker trips immediately",
+      "Extremely high, lethal voltages (thousands of volts) develop across the open secondary terminals, risking fatal shock and explosive flashover",
+      "The CT core freezes solid",
+      "The ammeter burns out"
     ],
     "correctAnswer": 1,
-    "explanation": "Outward-pointing arrows on a diode symbol denote photon radiation (emission of light), designating an LED.",
+    "explanation": "Without secondary opposing demagnetizing flux, core flux surges to saturation, inducing lethal kilovolt spikes across the open terminals.",
     "tags": [
       "electrical-symbols",
       "passive-components",
@@ -1554,85 +1554,85 @@
     "active": true
   },
   {
-    "id": "electrical-symbols-semiconductor-symbols-0075",
+    "id": "electrical-symbols-passive-components-0075",
     "category": "Electrical Symbols",
-    "subcategory": "Semiconductor Symbols",
+    "subcategory": "Passive Components",
     "difficulty": "hard",
-    "question": "In electrical schematic diagrams: What switch type is designated by the schematic abbreviation 'SPST'? (Ref #75)",
+    "question": "What small, adjustable passive capacitor is tuned with an insulated non-metallic screwdriver during radio frequency alignment?",
     "options": [
-      "Single Phase, System Terminal",
-      "Series Parallel Synchronous Toggle",
-      "Single Pole, Single Throw switch",
-      "Step Power Signal Trigger"
+      "A Supercapacitor",
+      "An Electrolytic Capacitor",
+      "A Trimmer Capacitor",
+      "A Decoupling Capacitor"
     ],
     "correctAnswer": 2,
-    "explanation": "An SPST switch has one input pole and connects to one output throw, serving as a simple on-off control.",
+    "explanation": "Trimmer capacitors provide fine-tuning adjustments (typically 1 to 50 pF) in RF oscillators, antennas, and filter networks.",
     "tags": [
       "electrical-symbols",
-      "semiconductor-symbols",
+      "passive-components",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "electrical-symbols-switch-relay-symbols-0076",
+    "id": "electrical-symbols-passive-components-0076",
     "category": "Electrical Symbols",
-    "subcategory": "Switch & Relay Symbols",
+    "subcategory": "Passive Components",
     "difficulty": "easy",
-    "question": "In electrical schematic diagrams: What electronic component is represented on standard North American schematic diagrams by a sharp zig-zag line? (Ref #76)",
+    "question": "What type of resistor consists of a ceramic core wrapped with resistance alloy wire (nichrome), capable of withstanding extreme temperatures and high power dissipation?",
     "options": [
-      "Capacitor",
-      "Inductor coil",
-      "Diode",
-      "Fixed Resistor"
+      "Carbon Composition Resistor",
+      "Metal Film Resistor",
+      "Carbon Film Resistor",
+      "Wirewound Power Resistor"
     ],
     "correctAnswer": 3,
-    "explanation": "In ANSI/IEEE schematics, a fixed resistor is drawn as a zig-zag line, whereas international IEC schematics often use a rectangle.",
+    "explanation": "Wirewound power resistors handle continuous heat dissipation from 5 to 500 Watts in industrial dynamic braking and motor starters.",
     "tags": [
       "electrical-symbols",
-      "switch-relay-symbols",
+      "passive-components",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "electrical-symbols-schematic-symbols-0077",
+    "id": "electrical-symbols-semiconductor-symbols-0077",
     "category": "Electrical Symbols",
-    "subcategory": "Schematic Symbols",
+    "subcategory": "Semiconductor Symbols",
     "difficulty": "medium",
-    "question": "In electrical schematic diagrams: What schematic symbol depicts a non-polarized capacitor in circuit diagrams? (Ref #77)",
+    "question": "On an electrical schematic, what type of Bipolar Junction Transistor (BJT) has its emitter arrow pointing outward away from the base?",
     "options": [
-      "Two parallel straight lines perpendicular to the connecting leads",
-      "A series of coiled loops",
-      "A triangle pointing to a straight line",
-      "A circle with an X inside"
+      "NPN Transistor ('Not Pointing iN')",
+      "PNP Transistor",
+      "N-Channel JFET",
+      "P-Channel MOSFET"
     ],
     "correctAnswer": 0,
-    "explanation": "Capacitors are symbolized by two parallel plates separated by a gap, representing dielectric separation.",
+    "explanation": "In an NPN transistor, the emitter arrow points outward, indicating the direction of conventional current flow from collector to emitter.",
     "tags": [
       "electrical-symbols",
-      "schematic-symbols",
+      "semiconductor-symbols",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "electrical-symbols-passive-components-0078",
+    "id": "electrical-symbols-semiconductor-symbols-0078",
     "category": "Electrical Symbols",
-    "subcategory": "Passive Components",
+    "subcategory": "Semiconductor Symbols",
     "difficulty": "hard",
-    "question": "In electrical schematic diagrams: How is an electrical earth or chassis ground symbolized on schematics? (Ref #78)",
+    "question": "On an electrical schematic, what type of BJT transistor has its emitter arrow pointing inward toward the base?",
     "options": [
-      "A closed circle with three dots",
-      "A vertical lead terminating in progressively shorter horizontal parallel lines",
-      "A zig-zag arrow pointing up",
-      "A square with a diagonal cross"
+      "NPN Transistor",
+      "PNP Transistor ('Points iN Proudly')",
+      "N-Channel MOSFET",
+      "SCR"
     ],
     "correctAnswer": 1,
-    "explanation": "The ground symbol consists of descending horizontal lines of decreasing width, indicating zero reference potential.",
+    "explanation": "In a PNP transistor, the arrow on the emitter terminal points inward, indicating conventional current flow entering the emitter toward the base.",
     "tags": [
       "electrical-symbols",
-      "passive-components",
+      "semiconductor-symbols",
       "hard"
     ],
     "active": true
@@ -1642,15 +1642,15 @@
     "category": "Electrical Symbols",
     "subcategory": "Semiconductor Symbols",
     "difficulty": "easy",
-    "question": "In electrical schematic diagrams: What distinguishes a Light Emitting Diode (LED) symbol from a standard semiconductor diode symbol? (Ref #79)",
+    "question": "What are the three operational terminals of a standard Bipolar Junction Transistor (BJT)?",
     "options": [
-      "Two arrows pointing inward toward the triangle",
-      "A circle surrounding a resistor",
-      "Two small arrows pointing outward away from the diode triangle",
-      "A wavy line through the center"
+      "Gate, Drain, and Source",
+      "Anode, Cathode, and Gate",
+      "Base, Collector, and Emitter",
+      "Main Terminal 1, Main Terminal 2, and Gate"
     ],
     "correctAnswer": 2,
-    "explanation": "Outward-pointing arrows on a diode symbol denote photon radiation (emission of light), designating an LED.",
+    "explanation": "Base current controls the much larger current flowing between the collector and emitter terminals (I_c = beta * I_b).",
     "tags": [
       "electrical-symbols",
       "semiconductor-symbols",
@@ -1659,64 +1659,64 @@
     "active": true
   },
   {
-    "id": "electrical-symbols-switch-relay-symbols-0080",
+    "id": "electrical-symbols-semiconductor-symbols-0080",
     "category": "Electrical Symbols",
-    "subcategory": "Switch & Relay Symbols",
+    "subcategory": "Semiconductor Symbols",
     "difficulty": "medium",
-    "question": "In electrical schematic diagrams: What switch type is designated by the schematic abbreviation 'SPST'? (Ref #80)",
+    "question": "What are the three operational terminals of a Field-Effect Transistor (FET or MOSFET)?",
     "options": [
-      "Single Phase, System Terminal",
-      "Series Parallel Synchronous Toggle",
-      "Step Power Signal Trigger",
-      "Single Pole, Single Throw switch"
+      "Base, Collector, and Emitter",
+      "Anode, Cathode, and Grid",
+      "Emitter, Collector, and Gate",
+      "Gate, Drain, and Source"
     ],
     "correctAnswer": 3,
-    "explanation": "An SPST switch has one input pole and connects to one output throw, serving as a simple on-off control.",
+    "explanation": "Voltage applied to the isolated Gate terminal creates an electric field that modulates current conduction between Drain and Source.",
     "tags": [
       "electrical-symbols",
-      "switch-relay-symbols",
+      "semiconductor-symbols",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "electrical-symbols-schematic-symbols-0081",
+    "id": "electrical-symbols-semiconductor-symbols-0081",
     "category": "Electrical Symbols",
-    "subcategory": "Schematic Symbols",
+    "subcategory": "Semiconductor Symbols",
     "difficulty": "hard",
-    "question": "In electrical schematic diagrams: What electronic component is represented on standard North American schematic diagrams by a sharp zig-zag line? (Ref #81)",
+    "question": "On a schematic symbol for an N-Channel MOSFET, in which direction does the central substrate/body arrow point?",
     "options": [
-      "Fixed Resistor",
-      "Capacitor",
-      "Inductor coil",
-      "Diode"
+      "Pointing inward toward the channel",
+      "Pointing outward away from the channel",
+      "Pointing upward toward the drain",
+      "Pointing downward toward the source"
     ],
     "correctAnswer": 0,
-    "explanation": "In ANSI/IEEE schematics, a fixed resistor is drawn as a zig-zag line, whereas international IEC schematics often use a rectangle.",
+    "explanation": "An inward-pointing arrow on the channel or source indicates an N-channel MOSFET, where electrons form the conducting inversion layer.",
     "tags": [
       "electrical-symbols",
-      "schematic-symbols",
+      "semiconductor-symbols",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "electrical-symbols-passive-components-0082",
+    "id": "electrical-symbols-semiconductor-symbols-0082",
     "category": "Electrical Symbols",
-    "subcategory": "Passive Components",
+    "subcategory": "Semiconductor Symbols",
     "difficulty": "easy",
-    "question": "In electrical schematic diagrams: What schematic symbol depicts a non-polarized capacitor in circuit diagrams? (Ref #82)",
+    "question": "On a schematic symbol for a P-Channel MOSFET, in which direction does the substrate/body arrow point?",
     "options": [
-      "A series of coiled loops",
-      "Two parallel straight lines perpendicular to the connecting leads",
-      "A triangle pointing to a straight line",
-      "A circle with an X inside"
+      "Pointing inward toward the channel",
+      "Pointing outward away from the channel",
+      "Pointing toward the gate",
+      "Pointing downward"
     ],
     "correctAnswer": 1,
-    "explanation": "Capacitors are symbolized by two parallel plates separated by a gap, representing dielectric separation.",
+    "explanation": "An outward-pointing arrow on the channel designates a P-channel device, where positive charge holes form the conducting channel.",
     "tags": [
       "electrical-symbols",
-      "passive-components",
+      "semiconductor-symbols",
       "easy"
     ],
     "active": true
@@ -1726,15 +1726,15 @@
     "category": "Electrical Symbols",
     "subcategory": "Semiconductor Symbols",
     "difficulty": "medium",
-    "question": "In electrical schematic diagrams: How is an electrical earth or chassis ground symbolized on schematics? (Ref #83)",
+    "question": "What terminal of an enhancement-mode MOSFET is electrically isolated from the conducting channel by an ultra-thin layer of silicon dioxide glass?",
     "options": [
-      "A closed circle with three dots",
-      "A zig-zag arrow pointing up",
-      "A vertical lead terminating in progressively shorter horizontal parallel lines",
-      "A square with a diagonal cross"
+      "The Drain terminal",
+      "The Source terminal",
+      "The Gate terminal",
+      "The Substrate terminal"
     ],
     "correctAnswer": 2,
-    "explanation": "The ground symbol consists of descending horizontal lines of decreasing width, indicating zero reference potential.",
+    "explanation": "The insulated dielectric gate gives MOSFETs near-infinite DC input resistance, drawing virtually zero static gate current.",
     "tags": [
       "electrical-symbols",
       "semiconductor-symbols",
@@ -1743,64 +1743,64 @@
     "active": true
   },
   {
-    "id": "electrical-symbols-switch-relay-symbols-0084",
+    "id": "electrical-symbols-semiconductor-symbols-0084",
     "category": "Electrical Symbols",
-    "subcategory": "Switch & Relay Symbols",
+    "subcategory": "Semiconductor Symbols",
     "difficulty": "hard",
-    "question": "In electrical schematic diagrams: What distinguishes a Light Emitting Diode (LED) symbol from a standard semiconductor diode symbol? (Ref #84)",
+    "question": "What four-layer (PNPN) semiconductor switching device acts as a latching switch, turned on by a gate current pulse and remaining on until current drops below holding current?",
     "options": [
-      "Two arrows pointing inward toward the triangle",
-      "A circle surrounding a resistor",
-      "A wavy line through the center",
-      "Two small arrows pointing outward away from the diode triangle"
+      "TRIAC",
+      "DIAC",
+      "BJT",
+      "Silicon Controlled Rectifier (SCR / Thyristor)"
     ],
     "correctAnswer": 3,
-    "explanation": "Outward-pointing arrows on a diode symbol denote photon radiation (emission of light), designating an LED.",
+    "explanation": "Once triggered by a positive gate pulse, an SCR latches fully on, conducting high unidirectional DC power until anode current is interrupted.",
     "tags": [
       "electrical-symbols",
-      "switch-relay-symbols",
+      "semiconductor-symbols",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "electrical-symbols-schematic-symbols-0085",
+    "id": "electrical-symbols-semiconductor-symbols-0085",
     "category": "Electrical Symbols",
-    "subcategory": "Schematic Symbols",
+    "subcategory": "Semiconductor Symbols",
     "difficulty": "easy",
-    "question": "In electrical schematic diagrams: What switch type is designated by the schematic abbreviation 'SPST'? (Ref #85)",
+    "question": "What are the three terminals of a Silicon Controlled Rectifier (SCR)?",
     "options": [
-      "Single Pole, Single Throw switch",
-      "Single Phase, System Terminal",
-      "Series Parallel Synchronous Toggle",
-      "Step Power Signal Trigger"
+      "Anode, Cathode, and Gate",
+      "Drain, Source, and Gate",
+      "Emitter, Base, and Collector",
+      "MT1, MT2, and Gate"
     ],
     "correctAnswer": 0,
-    "explanation": "An SPST switch has one input pole and connects to one output throw, serving as a simple on-off control.",
+    "explanation": "The SCR conducts current from Anode to Cathode when triggered by an electrical pulse applied to the Gate terminal.",
     "tags": [
       "electrical-symbols",
-      "schematic-symbols",
+      "semiconductor-symbols",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "electrical-symbols-passive-components-0086",
+    "id": "electrical-symbols-semiconductor-symbols-0086",
     "category": "Electrical Symbols",
-    "subcategory": "Passive Components",
+    "subcategory": "Semiconductor Symbols",
     "difficulty": "medium",
-    "question": "In electrical schematic diagrams: What electronic component is represented on standard North American schematic diagrams by a sharp zig-zag line? (Ref #86)",
+    "question": "What bidirectional thyristor component can conduct electric current in either direction when triggered by a gate pulse, widely used in AC light dimmers and motor speed controls?",
     "options": [
-      "Capacitor",
-      "Fixed Resistor",
-      "Inductor coil",
-      "Diode"
+      "A Silicon Controlled Rectifier (SCR)",
+      "A TRIAC (Triode for Alternating Current)",
+      "A DIAC",
+      "An IGBT"
     ],
     "correctAnswer": 1,
-    "explanation": "In ANSI/IEEE schematics, a fixed resistor is drawn as a zig-zag line, whereas international IEC schematics often use a rectangle.",
+    "explanation": "A TRIAC functions as two inverse-parallel SCRs sharing a single gate terminal, controlling AC power across both halves of the AC cycle.",
     "tags": [
       "electrical-symbols",
-      "passive-components",
+      "semiconductor-symbols",
       "medium"
     ],
     "active": true
@@ -1810,15 +1810,15 @@
     "category": "Electrical Symbols",
     "subcategory": "Semiconductor Symbols",
     "difficulty": "hard",
-    "question": "In electrical schematic diagrams: What schematic symbol depicts a non-polarized capacitor in circuit diagrams? (Ref #87)",
+    "question": "What are the three terminals of a TRIAC switch?",
     "options": [
-      "A series of coiled loops",
-      "A triangle pointing to a straight line",
-      "Two parallel straight lines perpendicular to the connecting leads",
-      "A circle with an X inside"
+      "Anode, Cathode, and Gate",
+      "Collector, Emitter, and Base",
+      "Main Terminal 1 (MT1), Main Terminal 2 (MT2), and Gate",
+      "Drain, Source, and Gate"
     ],
     "correctAnswer": 2,
-    "explanation": "Capacitors are symbolized by two parallel plates separated by a gap, representing dielectric separation.",
+    "explanation": "Because AC current flows bidirectionally through a TRIAC, the two power terminals are designated MT1 and MT2 rather than anode/cathode.",
     "tags": [
       "electrical-symbols",
       "semiconductor-symbols",
@@ -1827,64 +1827,64 @@
     "active": true
   },
   {
-    "id": "electrical-symbols-switch-relay-symbols-0088",
+    "id": "electrical-symbols-semiconductor-symbols-0088",
     "category": "Electrical Symbols",
-    "subcategory": "Switch & Relay Symbols",
+    "subcategory": "Semiconductor Symbols",
     "difficulty": "easy",
-    "question": "In electrical schematic diagrams: How is an electrical earth or chassis ground symbolized on schematics? (Ref #88)",
+    "question": "What two-terminal bidirectional trigger diode breaks down and conducts current in either direction once applied voltage exceeds its breakover voltage (~30V)?",
     "options": [
-      "A closed circle with three dots",
-      "A zig-zag arrow pointing up",
-      "A square with a diagonal cross",
-      "A vertical lead terminating in progressively shorter horizontal parallel lines"
+      "A Zener Diode",
+      "A Varactor Diode",
+      "A Tunnel Diode",
+      "A DIAC (Diode for Alternating Current)"
     ],
     "correctAnswer": 3,
-    "explanation": "The ground symbol consists of descending horizontal lines of decreasing width, indicating zero reference potential.",
+    "explanation": "DIACs provide sharp trigger pulses to the gate of a TRIAC to initiate symmetrical phase-control switching in AC dimmers.",
     "tags": [
       "electrical-symbols",
-      "switch-relay-symbols",
+      "semiconductor-symbols",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "electrical-symbols-schematic-symbols-0089",
+    "id": "electrical-symbols-semiconductor-symbols-0089",
     "category": "Electrical Symbols",
-    "subcategory": "Schematic Symbols",
+    "subcategory": "Semiconductor Symbols",
     "difficulty": "medium",
-    "question": "In electrical schematic diagrams: What distinguishes a Light Emitting Diode (LED) symbol from a standard semiconductor diode symbol? (Ref #89)",
+    "question": "What power semiconductor device combines the simple, high-impedance MOS gate drive of a MOSFET with the high-current, low-saturation conduction of a BJT?",
     "options": [
-      "Two small arrows pointing outward away from the diode triangle",
-      "Two arrows pointing inward toward the triangle",
-      "A circle surrounding a resistor",
-      "A wavy line through the center"
+      "Insulated Gate Bipolar Transistor (IGBT)",
+      "Power MOSFET",
+      "Darlington Transistor",
+      "Thyristor"
     ],
     "correctAnswer": 0,
-    "explanation": "Outward-pointing arrows on a diode symbol denote photon radiation (emission of light), designating an LED.",
+    "explanation": "IGBTs dominate high-power, high-voltage switching applications, including electric vehicle traction inverters and variable frequency drives (VFDs).",
     "tags": [
       "electrical-symbols",
-      "schematic-symbols",
+      "semiconductor-symbols",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "electrical-symbols-passive-components-0090",
+    "id": "electrical-symbols-semiconductor-symbols-0090",
     "category": "Electrical Symbols",
-    "subcategory": "Passive Components",
+    "subcategory": "Semiconductor Symbols",
     "difficulty": "hard",
-    "question": "In electrical schematic diagrams: What switch type is designated by the schematic abbreviation 'SPST'? (Ref #90)",
+    "question": "What are the three terminals of an Insulated Gate Bipolar Transistor (IGBT)?",
     "options": [
-      "Single Phase, System Terminal",
-      "Single Pole, Single Throw switch",
-      "Series Parallel Synchronous Toggle",
-      "Step Power Signal Trigger"
+      "Gate, Drain, and Source",
+      "Gate, Collector, and Emitter",
+      "Base, Collector, and Emitter",
+      "Anode, Cathode, and Gate"
     ],
     "correctAnswer": 1,
-    "explanation": "An SPST switch has one input pole and connects to one output throw, serving as a simple on-off control.",
+    "explanation": "An IGBT features a voltage-controlled Gate terminal paired with bipolar Collector and Emitter power output terminals.",
     "tags": [
       "electrical-symbols",
-      "passive-components",
+      "semiconductor-symbols",
       "hard"
     ],
     "active": true
@@ -1894,15 +1894,15 @@
     "category": "Electrical Symbols",
     "subcategory": "Semiconductor Symbols",
     "difficulty": "easy",
-    "question": "In electrical schematic diagrams: What electronic component is represented on standard North American schematic diagrams by a sharp zig-zag line? (Ref #91)",
+    "question": "What schematic symbol represents an Integrated Circuit (IC) chip on modern electronic schematics?",
     "options": [
-      "Capacitor",
-      "Inductor coil",
-      "Fixed Resistor",
-      "Diode"
+      "A circle with letters",
+      "A triangle with multiple leads",
+      "A rectangle or block with numbered pin leads extending from the sides, identified with a 'U' or 'IC' reference designator",
+      "A diamond with numbers"
     ],
     "correctAnswer": 2,
-    "explanation": "In ANSI/IEEE schematics, a fixed resistor is drawn as a zig-zag line, whereas international IEC schematics often use a rectangle.",
+    "explanation": "Schematic blocks display functional pin names (VCC, GND, IN, OUT) and physical pin numbers for CAD PCB layout.",
     "tags": [
       "electrical-symbols",
       "semiconductor-symbols",
@@ -1911,64 +1911,64 @@
     "active": true
   },
   {
-    "id": "electrical-symbols-switch-relay-symbols-0092",
+    "id": "electrical-symbols-semiconductor-symbols-0092",
     "category": "Electrical Symbols",
-    "subcategory": "Switch & Relay Symbols",
+    "subcategory": "Semiconductor Symbols",
     "difficulty": "medium",
-    "question": "In electrical schematic diagrams: What schematic symbol depicts a non-polarized capacitor in circuit diagrams? (Ref #92)",
+    "question": "What semiconductor diode exhibits variable capacitance controlled by the magnitude of reverse voltage applied across its terminals?",
     "options": [
-      "A series of coiled loops",
-      "A triangle pointing to a straight line",
-      "A circle with an X inside",
-      "Two parallel straight lines perpendicular to the connecting leads"
+      "A Zener Diode",
+      "A Tunnel Diode",
+      "A PIN Diode",
+      "A Varactor Diode (Varicap Diode)"
     ],
     "correctAnswer": 3,
-    "explanation": "Capacitors are symbolized by two parallel plates separated by a gap, representing dielectric separation.",
+    "explanation": "Varying reverse bias changes the depletion layer width, varying capacitance to electronically tune radio frequency LC circuits.",
     "tags": [
       "electrical-symbols",
-      "switch-relay-symbols",
+      "semiconductor-symbols",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "electrical-symbols-schematic-symbols-0093",
+    "id": "electrical-symbols-semiconductor-symbols-0093",
     "category": "Electrical Symbols",
-    "subcategory": "Schematic Symbols",
+    "subcategory": "Semiconductor Symbols",
     "difficulty": "hard",
-    "question": "In electrical schematic diagrams: How is an electrical earth or chassis ground symbolized on schematics? (Ref #93)",
+    "question": "What schematic symbol represents a Varactor (Varicap) diode?",
     "options": [
-      "A vertical lead terminating in progressively shorter horizontal parallel lines",
-      "A closed circle with three dots",
-      "A zig-zag arrow pointing up",
-      "A square with a diagonal cross"
+      "A diode symbol with two parallel capacitor plates integrated into the cathode bar",
+      "A diode with a Z-bar",
+      "A diode with outward arrows",
+      "A diode with a resistor zig-zag"
     ],
     "correctAnswer": 0,
-    "explanation": "The ground symbol consists of descending horizontal lines of decreasing width, indicating zero reference potential.",
+    "explanation": "The combined diode-capacitor symbol visually signifies voltage-dependent semiconductor capacitance.",
     "tags": [
       "electrical-symbols",
-      "schematic-symbols",
+      "semiconductor-symbols",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "electrical-symbols-passive-components-0094",
+    "id": "electrical-symbols-semiconductor-symbols-0094",
     "category": "Electrical Symbols",
-    "subcategory": "Passive Components",
+    "subcategory": "Semiconductor Symbols",
     "difficulty": "easy",
-    "question": "In electrical schematic diagrams: What distinguishes a Light Emitting Diode (LED) symbol from a standard semiconductor diode symbol? (Ref #94)",
+    "question": "What specialized diode exhibits 'negative resistance' at low forward voltages due to quantum mechanical tunneling, operating at microwave frequencies?",
     "options": [
-      "Two arrows pointing inward toward the triangle",
-      "Two small arrows pointing outward away from the diode triangle",
-      "A circle surrounding a resistor",
-      "A wavy line through the center"
+      "A Zener Diode",
+      "A Tunnel Diode (Esaki Diode)",
+      "A Schottky Diode",
+      "A Photodiode"
     ],
     "correctAnswer": 1,
-    "explanation": "Outward-pointing arrows on a diode symbol denote photon radiation (emission of light), designating an LED.",
+    "explanation": "Invented by Leo Esaki, tunnel diodes switch in picoseconds, utilized in high-frequency microwave amplifiers and oscillators.",
     "tags": [
       "electrical-symbols",
-      "passive-components",
+      "semiconductor-symbols",
       "easy"
     ],
     "active": true
@@ -1978,15 +1978,15 @@
     "category": "Electrical Symbols",
     "subcategory": "Semiconductor Symbols",
     "difficulty": "medium",
-    "question": "In electrical schematic diagrams: What switch type is designated by the schematic abbreviation 'SPST'? (Ref #95)",
+    "question": "What semiconductor device consists of two bipolar junction transistors connected in tandem so the amplified current of the first drives the base of the second?",
     "options": [
-      "Single Phase, System Terminal",
-      "Series Parallel Synchronous Toggle",
-      "Single Pole, Single Throw switch",
-      "Step Power Signal Trigger"
+      "A Push-Pull Pair",
+      "A Cascode Amplifier",
+      "A Darlington Pair Transistor",
+      "A Differential Pair"
     ],
     "correctAnswer": 2,
-    "explanation": "An SPST switch has one input pole and connects to one output throw, serving as a simple on-off control.",
+    "explanation": "Darlington pairs achieve massive combined current gains (beta = beta1 * beta2, often exceeding 1,000 to 10,000) from tiny input signals.",
     "tags": [
       "electrical-symbols",
       "semiconductor-symbols",
@@ -1995,64 +1995,64 @@
     "active": true
   },
   {
-    "id": "electrical-symbols-switch-relay-symbols-0096",
+    "id": "electrical-symbols-semiconductor-symbols-0096",
     "category": "Electrical Symbols",
-    "subcategory": "Switch & Relay Symbols",
+    "subcategory": "Semiconductor Symbols",
     "difficulty": "hard",
-    "question": "In electrical schematic diagrams: What electronic component is represented on standard North American schematic diagrams by a sharp zig-zag line? (Ref #96)",
+    "question": "What power electronic circuit consisting of four diodes arranged in a diamond bridge configuration converts alternating current (AC) into pulsating direct current (DC)?",
     "options": [
-      "Capacitor",
-      "Inductor coil",
-      "Diode",
-      "Fixed Resistor"
+      "A Half-Wave Rectifier",
+      "A Voltage Doubler",
+      "A Clamping Bridge",
+      "A Full-Wave Bridge Rectifier"
     ],
     "correctAnswer": 3,
-    "explanation": "In ANSI/IEEE schematics, a fixed resistor is drawn as a zig-zag line, whereas international IEC schematics often use a rectangle.",
+    "explanation": "Bridge rectifiers conduct during both positive and negative AC half-cycles, delivering full-wave rectified DC output.",
     "tags": [
       "electrical-symbols",
-      "switch-relay-symbols",
+      "semiconductor-symbols",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "electrical-symbols-schematic-symbols-0097",
+    "id": "electrical-symbols-semiconductor-symbols-0097",
     "category": "Electrical Symbols",
-    "subcategory": "Schematic Symbols",
+    "subcategory": "Semiconductor Symbols",
     "difficulty": "easy",
-    "question": "In electrical schematic diagrams: What schematic symbol depicts a non-polarized capacitor in circuit diagrams? (Ref #97)",
+    "question": "What type of diode features an intrinsic, undoped semiconductor layer sandwiched between P-type and N-type regions, used as an RF switch and photodetector?",
     "options": [
-      "Two parallel straight lines perpendicular to the connecting leads",
-      "A series of coiled loops",
-      "A triangle pointing to a straight line",
-      "A circle with an X inside"
+      "A PIN Diode",
+      "A Zener Diode",
+      "A Schottky Diode",
+      "A Tunnel Diode"
     ],
     "correctAnswer": 0,
-    "explanation": "Capacitors are symbolized by two parallel plates separated by a gap, representing dielectric separation.",
+    "explanation": "The wide intrinsic (I) layer yields low capacitance and high reverse breakdown, functioning as an RF resistor modulated by DC forward bias.",
     "tags": [
       "electrical-symbols",
-      "schematic-symbols",
+      "semiconductor-symbols",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "electrical-symbols-passive-components-0098",
+    "id": "electrical-symbols-semiconductor-symbols-0098",
     "category": "Electrical Symbols",
-    "subcategory": "Passive Components",
+    "subcategory": "Semiconductor Symbols",
     "difficulty": "medium",
-    "question": "In electrical schematic diagrams: How is an electrical earth or chassis ground symbolized on schematics? (Ref #98)",
+    "question": "What is the operational forward voltage drop across a standard silicon P-N junction diode under normal operating current?",
     "options": [
-      "A closed circle with three dots",
-      "A vertical lead terminating in progressively shorter horizontal parallel lines",
-      "A zig-zag arrow pointing up",
-      "A square with a diagonal cross"
+      "0.2 to 0.3 Volts",
+      "Approximately 0.6 to 0.7 Volts",
+      "1.5 to 2.0 Volts",
+      "0.0 Volts"
     ],
     "correctAnswer": 1,
-    "explanation": "The ground symbol consists of descending horizontal lines of decreasing width, indicating zero reference potential.",
+    "explanation": "Silicon diodes require ~0.7V forward bias to overcome the internal barrier potential of the depletion zone.",
     "tags": [
       "electrical-symbols",
-      "passive-components",
+      "semiconductor-symbols",
       "medium"
     ],
     "active": true
@@ -2062,15 +2062,15 @@
     "category": "Electrical Symbols",
     "subcategory": "Semiconductor Symbols",
     "difficulty": "hard",
-    "question": "In electrical schematic diagrams: What distinguishes a Light Emitting Diode (LED) symbol from a standard semiconductor diode symbol? (Ref #99)",
+    "question": "What is the typical forward voltage drop across a Germanium diode?",
     "options": [
-      "Two arrows pointing inward toward the triangle",
-      "A circle surrounding a resistor",
-      "Two small arrows pointing outward away from the diode triangle",
-      "A wavy line through the center"
+      "0.6 to 0.7 Volts",
+      "1.0 to 1.2 Volts",
+      "Approximately 0.2 to 0.3 Volts",
+      "0.05 Volts"
     ],
     "correctAnswer": 2,
-    "explanation": "Outward-pointing arrows on a diode symbol denote photon radiation (emission of light), designating an LED.",
+    "explanation": "Germanium's lower bandgap requires only ~0.3V forward bias to conduct, historically favored in low-level RF detectors.",
     "tags": [
       "electrical-symbols",
       "semiconductor-symbols",
@@ -2079,64 +2079,64 @@
     "active": true
   },
   {
-    "id": "electrical-symbols-switch-relay-symbols-0100",
+    "id": "electrical-symbols-semiconductor-symbols-0100",
     "category": "Electrical Symbols",
-    "subcategory": "Switch & Relay Symbols",
+    "subcategory": "Semiconductor Symbols",
     "difficulty": "easy",
-    "question": "In electrical schematic diagrams: What switch type is designated by the schematic abbreviation 'SPST'? (Ref #100)",
+    "question": "What is the typical forward voltage drop across a metal-semiconductor Schottky barrier diode?",
     "options": [
-      "Single Phase, System Terminal",
-      "Series Parallel Synchronous Toggle",
-      "Step Power Signal Trigger",
-      "Single Pole, Single Throw switch"
+      "0.7 to 0.8 Volts",
+      "1.2 to 1.5 Volts",
+      "2.0 Volts",
+      "Approximately 0.15 to 0.4 Volts"
     ],
     "correctAnswer": 3,
-    "explanation": "An SPST switch has one input pole and connects to one output throw, serving as a simple on-off control.",
+    "explanation": "Schottky diodes have lower forward drops (~0.3V) and zero reverse recovery time, maximizing switching power supply efficiency.",
     "tags": [
       "electrical-symbols",
-      "switch-relay-symbols",
+      "semiconductor-symbols",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "electrical-symbols-schematic-symbols-0101",
+    "id": "electrical-symbols-semiconductor-symbols-0101",
     "category": "Electrical Symbols",
-    "subcategory": "Schematic Symbols",
+    "subcategory": "Semiconductor Symbols",
     "difficulty": "medium",
-    "question": "In electrical schematic diagrams: What electronic component is represented on standard North American schematic diagrams by a sharp zig-zag line? (Ref #101)",
+    "question": "What is the typical forward voltage drop range across a standard Red Light-Emitting Diode (LED)?",
     "options": [
-      "Fixed Resistor",
-      "Capacitor",
-      "Inductor coil",
-      "Diode"
+      "Approximately 1.8 to 2.2 Volts",
+      "0.7 Volts",
+      "3.0 to 3.5 Volts",
+      "5.0 Volts"
     ],
     "correctAnswer": 0,
-    "explanation": "In ANSI/IEEE schematics, a fixed resistor is drawn as a zig-zag line, whereas international IEC schematics often use a rectangle.",
+    "explanation": "Red LEDs (GaAsP) drop ~2.0V; higher energy Blue and White LEDs (InGaN) require forward voltages of 3.0 to 3.5V.",
     "tags": [
       "electrical-symbols",
-      "schematic-symbols",
+      "semiconductor-symbols",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "electrical-symbols-passive-components-0102",
+    "id": "electrical-symbols-semiconductor-symbols-0102",
     "category": "Electrical Symbols",
-    "subcategory": "Passive Components",
+    "subcategory": "Semiconductor Symbols",
     "difficulty": "hard",
-    "question": "In electrical schematic diagrams: What schematic symbol depicts a non-polarized capacitor in circuit diagrams? (Ref #102)",
+    "question": "What is the typical forward voltage drop across modern Blue or White Light-Emitting Diodes (InGaN semiconductors)?",
     "options": [
-      "A series of coiled loops",
-      "Two parallel straight lines perpendicular to the connecting leads",
-      "A triangle pointing to a straight line",
-      "A circle with an X inside"
+      "1.8 to 2.0 Volts",
+      "Approximately 3.0 to 3.6 Volts",
+      "0.7 Volts",
+      "12.0 Volts"
     ],
     "correctAnswer": 1,
-    "explanation": "Capacitors are symbolized by two parallel plates separated by a gap, representing dielectric separation.",
+    "explanation": "Blue photons have higher quantum energy (E = hf), requiring higher forward electron transition voltages across the wide bandgap.",
     "tags": [
       "electrical-symbols",
-      "passive-components",
+      "semiconductor-symbols",
       "hard"
     ],
     "active": true
@@ -2146,15 +2146,15 @@
     "category": "Electrical Symbols",
     "subcategory": "Semiconductor Symbols",
     "difficulty": "easy",
-    "question": "In electrical schematic diagrams: How is an electrical earth or chassis ground symbolized on schematics? (Ref #103)",
+    "question": "What semiconductor thermal sensor utilizes the linear positive temperature coefficient of a reverse-biased silicon junction to measure temperature accurately?",
     "options": [
-      "A closed circle with three dots",
-      "A zig-zag arrow pointing up",
-      "A vertical lead terminating in progressively shorter horizontal parallel lines",
-      "A square with a diagonal cross"
+      "A Thermocouple",
+      "A Bimetallic Strip",
+      "A Silicon Temperature Sensor (e.g., LM35 / TMP36)",
+      "A Mercury Sensor"
     ],
     "correctAnswer": 2,
-    "explanation": "The ground symbol consists of descending horizontal lines of decreasing width, indicating zero reference potential.",
+    "explanation": "Silicon IC temperature sensors provide linear output voltages (e.g., 10 mV per degree Celsius) without non-linear curve conversion.",
     "tags": [
       "electrical-symbols",
       "semiconductor-symbols",
@@ -2163,64 +2163,64 @@
     "active": true
   },
   {
-    "id": "electrical-symbols-switch-relay-symbols-0104",
+    "id": "electrical-symbols-semiconductor-symbols-0104",
     "category": "Electrical Symbols",
-    "subcategory": "Switch & Relay Symbols",
+    "subcategory": "Semiconductor Symbols",
     "difficulty": "medium",
-    "question": "In electrical schematic diagrams: What distinguishes a Light Emitting Diode (LED) symbol from a standard semiconductor diode symbol? (Ref #104)",
+    "question": "What solid-state sensor utilizes the Hall Effect to detect magnetic field strength and presence without mechanical contact?",
     "options": [
-      "Two arrows pointing inward toward the triangle",
-      "A circle surrounding a resistor",
-      "A wavy line through the center",
-      "Two small arrows pointing outward away from the diode triangle"
+      "A Reed Switch",
+      "A Piezoresistor",
+      "A Phototransistor",
+      "A Hall Effect Sensor"
     ],
     "correctAnswer": 3,
-    "explanation": "Outward-pointing arrows on a diode symbol denote photon radiation (emission of light), designating an LED.",
+    "explanation": "Magnetic flux deflects moving electrons transversely across a semiconductor slab, generating a measurable Hall voltage proportional to field strength.",
     "tags": [
       "electrical-symbols",
-      "switch-relay-symbols",
+      "semiconductor-symbols",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "electrical-symbols-schematic-symbols-0105",
+    "id": "electrical-symbols-semiconductor-symbols-0105",
     "category": "Electrical Symbols",
-    "subcategory": "Schematic Symbols",
+    "subcategory": "Semiconductor Symbols",
     "difficulty": "hard",
-    "question": "In electrical schematic diagrams: What switch type is designated by the schematic abbreviation 'SPST'? (Ref #105)",
+    "question": "What three-terminal negative voltage regulator in the classic 78xx/79xx series produces a steady regulated output of -12 Volts DC?",
     "options": [
-      "Single Pole, Single Throw switch",
-      "Single Phase, System Terminal",
-      "Series Parallel Synchronous Toggle",
-      "Step Power Signal Trigger"
+      "7912 voltage regulator",
+      "7812 voltage regulator",
+      "7805 voltage regulator",
+      "LM317 regulator"
     ],
     "correctAnswer": 0,
-    "explanation": "An SPST switch has one input pole and connects to one output throw, serving as a simple on-off control.",
+    "explanation": "The 78xx series regulates positive voltages (e.g., 7805 = +5V, 7812 = +12V); the 79xx series regulates negative voltages (7912 = -12V).",
     "tags": [
       "electrical-symbols",
-      "schematic-symbols",
+      "semiconductor-symbols",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "electrical-symbols-passive-components-0106",
+    "id": "electrical-symbols-semiconductor-symbols-0106",
     "category": "Electrical Symbols",
-    "subcategory": "Passive Components",
+    "subcategory": "Semiconductor Symbols",
     "difficulty": "easy",
-    "question": "In electrical schematic diagrams: What electronic component is represented on standard North American schematic diagrams by a sharp zig-zag line? (Ref #106)",
+    "question": "What popular three-terminal positive adjustable linear voltage regulator can adjust output from 1.25V to 37V using two external resistors?",
     "options": [
-      "Capacitor",
-      "Fixed Resistor",
-      "Inductor coil",
-      "Diode"
+      "7805",
+      "LM317",
+      "LM741",
+      "NE555"
     ],
     "correctAnswer": 1,
-    "explanation": "In ANSI/IEEE schematics, a fixed resistor is drawn as a zig-zag line, whereas international IEC schematics often use a rectangle.",
+    "explanation": "The LM317 maintains a stable 1.25V reference between output and adjustment pin, setting output voltage with an external resistor divider.",
     "tags": [
       "electrical-symbols",
-      "passive-components",
+      "semiconductor-symbols",
       "easy"
     ],
     "active": true
@@ -2230,15 +2230,15 @@
     "category": "Electrical Symbols",
     "subcategory": "Semiconductor Symbols",
     "difficulty": "medium",
-    "question": "In electrical schematic diagrams: What schematic symbol depicts a non-polarized capacitor in circuit diagrams? (Ref #107)",
+    "question": "What legendary 8-pin integrated circuit, introduced by Signetics in 1972, is the world's most popular timer and pulse generator chip?",
     "options": [
-      "A series of coiled loops",
-      "A triangle pointing to a straight line",
-      "Two parallel straight lines perpendicular to the connecting leads",
-      "A circle with an X inside"
+      "LM741 Op-Amp",
+      "LM386 Audio Amp",
+      "NE555 Timer IC",
+      "MAX232"
     ],
     "correctAnswer": 2,
-    "explanation": "Capacitors are symbolized by two parallel plates separated by a gap, representing dielectric separation.",
+    "explanation": "The 555 timer operates in monostable (one-shot pulse), astable (free-running clock oscillator), or bistable flip-flop modes.",
     "tags": [
       "electrical-symbols",
       "semiconductor-symbols",
@@ -2247,64 +2247,64 @@
     "active": true
   },
   {
-    "id": "electrical-symbols-switch-relay-symbols-0108",
+    "id": "electrical-symbols-semiconductor-symbols-0108",
     "category": "Electrical Symbols",
-    "subcategory": "Switch & Relay Symbols",
+    "subcategory": "Semiconductor Symbols",
     "difficulty": "hard",
-    "question": "In electrical schematic diagrams: How is an electrical earth or chassis ground symbolized on schematics? (Ref #108)",
+    "question": "What legendary 8-pin operational amplifier integrated circuit, designed by Dave Fullagar in 1968, became the universal industry standard analog op-amp?",
     "options": [
-      "A closed circle with three dots",
-      "A zig-zag arrow pointing up",
-      "A square with a diagonal cross",
-      "A vertical lead terminating in progressively shorter horizontal parallel lines"
+      "LM324",
+      "NE555",
+      "TL082",
+      "uA741 (LM741) Op-Amp"
     ],
     "correctAnswer": 3,
-    "explanation": "The ground symbol consists of descending horizontal lines of decreasing width, indicating zero reference potential.",
+    "explanation": "The internally compensated 741 op-amp features conditional stability, short-circuit protection, and operates without external frequency capacitors.",
     "tags": [
       "electrical-symbols",
-      "switch-relay-symbols",
+      "semiconductor-symbols",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "electrical-symbols-schematic-symbols-0109",
+    "id": "electrical-symbols-semiconductor-symbols-0109",
     "category": "Electrical Symbols",
-    "subcategory": "Schematic Symbols",
+    "subcategory": "Semiconductor Symbols",
     "difficulty": "easy",
-    "question": "In electrical schematic diagrams: What distinguishes a Light Emitting Diode (LED) symbol from a standard semiconductor diode symbol? (Ref #109)",
+    "question": "What specialized optical semiconductor component consists of a photodiode paired with a bipolar transistor inside a single light-sensitive package?",
     "options": [
-      "Two small arrows pointing outward away from the diode triangle",
-      "Two arrows pointing inward toward the triangle",
-      "A circle surrounding a resistor",
-      "A wavy line through the center"
+      "A Phototransistor",
+      "An Optocoupler",
+      "A Solar Cell",
+      "A Light-Activated SCR"
     ],
     "correctAnswer": 0,
-    "explanation": "Outward-pointing arrows on a diode symbol denote photon radiation (emission of light), designating an LED.",
+    "explanation": "Light photons generate base current in the reverse-biased collector-base junction, which is then amplified by the transistor's internal beta gain.",
     "tags": [
       "electrical-symbols",
-      "schematic-symbols",
+      "semiconductor-symbols",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "electrical-symbols-passive-components-0110",
+    "id": "electrical-symbols-semiconductor-symbols-0110",
     "category": "Electrical Symbols",
-    "subcategory": "Passive Components",
+    "subcategory": "Semiconductor Symbols",
     "difficulty": "medium",
-    "question": "In electrical schematic diagrams: What switch type is designated by the schematic abbreviation 'SPST'? (Ref #110)",
+    "question": "What semiconductor component converts radiant solar sunlight directly into electrical DC voltage via the photovoltaic effect?",
     "options": [
-      "Single Phase, System Terminal",
-      "Single Pole, Single Throw switch",
-      "Series Parallel Synchronous Toggle",
-      "Step Power Signal Trigger"
+      "A Photodiode",
+      "A Solar Cell (Photovoltaic Cell)",
+      "A Light Emitting Diode",
+      "A Thermopile"
     ],
     "correctAnswer": 1,
-    "explanation": "An SPST switch has one input pole and connects to one output throw, serving as a simple on-off control.",
+    "explanation": "Photons excite valence electrons across the P-N junction bandgap into the conduction band, generating electric current into an external load.",
     "tags": [
       "electrical-symbols",
-      "passive-components",
+      "semiconductor-symbols",
       "medium"
     ],
     "active": true
@@ -2314,15 +2314,15 @@
     "category": "Electrical Symbols",
     "subcategory": "Semiconductor Symbols",
     "difficulty": "hard",
-    "question": "In electrical schematic diagrams: What electronic component is represented on standard North American schematic diagrams by a sharp zig-zag line? (Ref #111)",
+    "question": "What type of semiconductor diode emits coherent, monochromatic, phase-locked light through stimulated photon emission within an optical resonant cavity?",
     "options": [
-      "Capacitor",
-      "Inductor coil",
-      "Fixed Resistor",
-      "Diode"
+      "A Superluminescent Diode",
+      "A Standard LED",
+      "A Laser Diode",
+      "An Avalanche Diode"
     ],
     "correctAnswer": 2,
-    "explanation": "In ANSI/IEEE schematics, a fixed resistor is drawn as a zig-zag line, whereas international IEC schematics often use a rectangle.",
+    "explanation": "Laser diodes utilize cleaved crystal facet mirrors to achieve optical amplification, used in optical fiber communications and barcode scanners.",
     "tags": [
       "electrical-symbols",
       "semiconductor-symbols",
@@ -2331,85 +2331,85 @@
     "active": true
   },
   {
-    "id": "electrical-symbols-switch-relay-symbols-0112",
+    "id": "electrical-symbols-semiconductor-symbols-0112",
     "category": "Electrical Symbols",
-    "subcategory": "Switch & Relay Symbols",
+    "subcategory": "Semiconductor Symbols",
     "difficulty": "easy",
-    "question": "In electrical schematic diagrams: What schematic symbol depicts a non-polarized capacitor in circuit diagrams? (Ref #112)",
+    "question": "What semiconductor device consists of a tiny heating element paired with an integrated semiconductor sensor that switches rapidly based on thermal convection?",
     "options": [
-      "A series of coiled loops",
-      "A triangle pointing to a straight line",
-      "A circle with an X inside",
-      "Two parallel straight lines perpendicular to the connecting leads"
+      "A Thermocouple",
+      "A Peltier Cooler",
+      "A Heat Pipe",
+      "A Thermal Flow Sensor"
     ],
     "correctAnswer": 3,
-    "explanation": "Capacitors are symbolized by two parallel plates separated by a gap, representing dielectric separation.",
+    "explanation": "Airflow cools the heated semiconductor element, altering resistance to measure mass airflow into automobile engines and ventilators.",
     "tags": [
       "electrical-symbols",
-      "switch-relay-symbols",
+      "semiconductor-symbols",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "electrical-symbols-schematic-symbols-0113",
+    "id": "electrical-symbols-semiconductor-symbols-0113",
     "category": "Electrical Symbols",
-    "subcategory": "Schematic Symbols",
+    "subcategory": "Semiconductor Symbols",
     "difficulty": "medium",
-    "question": "In electrical schematic diagrams: How is an electrical earth or chassis ground symbolized on schematics? (Ref #113)",
+    "question": "What solid-state semiconductor thermoelectric module transfers heat from one side to the other when electric current is applied (The Peltier Effect)?",
     "options": [
-      "A vertical lead terminating in progressively shorter horizontal parallel lines",
-      "A closed circle with three dots",
-      "A zig-zag arrow pointing up",
-      "A square with a diagonal cross"
+      "Peltier Cooler (Thermoelectric Cooler / TEC)",
+      "Seebeck Generator",
+      "Heat Exchanger",
+      "Heat Pipe"
     ],
     "correctAnswer": 0,
-    "explanation": "The ground symbol consists of descending horizontal lines of decreasing width, indicating zero reference potential.",
+    "explanation": "Passing DC current through alternating P-type and N-type bismuth telluride pellets absorbs heat on one ceramic face and rejects it on the opposite face.",
     "tags": [
       "electrical-symbols",
-      "schematic-symbols",
+      "semiconductor-symbols",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "electrical-symbols-passive-components-0114",
+    "id": "electrical-symbols-switch-relay-symbols-0114",
     "category": "Electrical Symbols",
-    "subcategory": "Passive Components",
+    "subcategory": "Switch & Relay Symbols",
     "difficulty": "hard",
-    "question": "In electrical schematic diagrams: What distinguishes a Light Emitting Diode (LED) symbol from a standard semiconductor diode symbol? (Ref #114)",
+    "question": "What type of basic electrical switch makes or breaks a single electrical circuit connection between two terminals?",
     "options": [
-      "Two arrows pointing inward toward the triangle",
-      "Two small arrows pointing outward away from the diode triangle",
-      "A circle surrounding a resistor",
-      "A wavy line through the center"
+      "Single Pole Double Throw (SPDT)",
+      "Single Pole Single Throw (SPST)",
+      "Double Pole Single Throw (DPST)",
+      "Double Pole Double Throw (DPDT)"
     ],
     "correctAnswer": 1,
-    "explanation": "Outward-pointing arrows on a diode symbol denote photon radiation (emission of light), designating an LED.",
+    "explanation": "An SPST switch is a simple on-off switch controlling a single circuit (one input, one output).",
     "tags": [
       "electrical-symbols",
-      "passive-components",
+      "switch-relay-symbols",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "electrical-symbols-semiconductor-symbols-0115",
+    "id": "electrical-symbols-switch-relay-symbols-0115",
     "category": "Electrical Symbols",
-    "subcategory": "Semiconductor Symbols",
+    "subcategory": "Switch & Relay Symbols",
     "difficulty": "easy",
-    "question": "In electrical schematic diagrams: What switch type is designated by the schematic abbreviation 'SPST'? (Ref #115)",
+    "question": "What type of switch routes a single common input connection between two alternate output terminals?",
     "options": [
-      "Single Phase, System Terminal",
-      "Series Parallel Synchronous Toggle",
-      "Single Pole, Single Throw switch",
-      "Step Power Signal Trigger"
+      "Single Pole Single Throw (SPST)",
+      "Double Pole Single Throw (DPST)",
+      "Single Pole Double Throw (SPDT)",
+      "Double Pole Double Throw (DPDT)"
     ],
     "correctAnswer": 2,
-    "explanation": "An SPST switch has one input pole and connects to one output throw, serving as a simple on-off control.",
+    "explanation": "An SPDT switch features one common terminal (C) that switches between normally open (NO) and normally closed (NC) contacts.",
     "tags": [
       "electrical-symbols",
-      "semiconductor-symbols",
+      "switch-relay-symbols",
       "easy"
     ],
     "active": true
@@ -2419,15 +2419,15 @@
     "category": "Electrical Symbols",
     "subcategory": "Switch & Relay Symbols",
     "difficulty": "medium",
-    "question": "In electrical schematic diagrams: What electronic component is represented on standard North American schematic diagrams by a sharp zig-zag line? (Ref #116)",
+    "question": "What type of switch controls two separate, independent electrical circuits simultaneously with a single mechanical actuator (on/off)?",
     "options": [
-      "Capacitor",
-      "Inductor coil",
-      "Diode",
-      "Fixed Resistor"
+      "Single Pole Single Throw (SPST)",
+      "Single Pole Double Throw (SPDT)",
+      "Double Pole Double Throw (DPDT)",
+      "Double Pole Single Throw (DPST)"
     ],
     "correctAnswer": 3,
-    "explanation": "In ANSI/IEEE schematics, a fixed resistor is drawn as a zig-zag line, whereas international IEC schematics often use a rectangle.",
+    "explanation": "A DPST switch operates two separate sets of on-off contacts simultaneously, standardly used to switch both hot legs of a 240V circuit.",
     "tags": [
       "electrical-symbols",
       "switch-relay-symbols",
@@ -2436,64 +2436,64 @@
     "active": true
   },
   {
-    "id": "electrical-symbols-schematic-symbols-0117",
+    "id": "electrical-symbols-switch-relay-symbols-0117",
     "category": "Electrical Symbols",
-    "subcategory": "Schematic Symbols",
+    "subcategory": "Switch & Relay Symbols",
     "difficulty": "hard",
-    "question": "In electrical schematic diagrams: What schematic symbol depicts a non-polarized capacitor in circuit diagrams? (Ref #117)",
+    "question": "What type of switch operates two separate poles, each switching between two alternate output contacts simultaneously?",
     "options": [
-      "Two parallel straight lines perpendicular to the connecting leads",
-      "A series of coiled loops",
-      "A triangle pointing to a straight line",
-      "A circle with an X inside"
+      "Double Pole Double Throw (DPDT)",
+      "Double Pole Single Throw (DPST)",
+      "Single Pole Double Throw (SPDT)",
+      "Three-Way Switch"
     ],
     "correctAnswer": 0,
-    "explanation": "Capacitors are symbolized by two parallel plates separated by a gap, representing dielectric separation.",
+    "explanation": "DPDT switches feature six terminals, commonly wired as motor reversing switches to invert DC motor polarity.",
     "tags": [
       "electrical-symbols",
-      "schematic-symbols",
+      "switch-relay-symbols",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "electrical-symbols-passive-components-0118",
+    "id": "electrical-symbols-switch-relay-symbols-0118",
     "category": "Electrical Symbols",
-    "subcategory": "Passive Components",
+    "subcategory": "Switch & Relay Symbols",
     "difficulty": "easy",
-    "question": "In electrical schematic diagrams: How is an electrical earth or chassis ground symbolized on schematics? (Ref #118)",
+    "question": "What does the electrical contact acronym 'NO' stand for in switch and relay specifications?",
     "options": [
-      "A closed circle with three dots",
-      "A vertical lead terminating in progressively shorter horizontal parallel lines",
-      "A zig-zag arrow pointing up",
-      "A square with a diagonal cross"
+      "Normally Operating",
+      "Normally Open",
+      "Non-Operated",
+      "Negative Output"
     ],
     "correctAnswer": 1,
-    "explanation": "The ground symbol consists of descending horizontal lines of decreasing width, indicating zero reference potential.",
+    "explanation": "Normally Open contacts remain open (disconnected) when the switch or relay coil is unpowered, closing only when actuated.",
     "tags": [
       "electrical-symbols",
-      "passive-components",
+      "switch-relay-symbols",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "electrical-symbols-semiconductor-symbols-0119",
+    "id": "electrical-symbols-switch-relay-symbols-0119",
     "category": "Electrical Symbols",
-    "subcategory": "Semiconductor Symbols",
+    "subcategory": "Switch & Relay Symbols",
     "difficulty": "medium",
-    "question": "In electrical schematic diagrams: What distinguishes a Light Emitting Diode (LED) symbol from a standard semiconductor diode symbol? (Ref #119)",
+    "question": "What does the electrical contact acronym 'NC' stand for in switch and relay specifications?",
     "options": [
-      "Two arrows pointing inward toward the triangle",
-      "A circle surrounding a resistor",
-      "Two small arrows pointing outward away from the diode triangle",
-      "A wavy line through the center"
+      "Normally Connected",
+      "Non-Conductive",
+      "Normally Closed",
+      "Neutral Circuit"
     ],
     "correctAnswer": 2,
-    "explanation": "Outward-pointing arrows on a diode symbol denote photon radiation (emission of light), designating an LED.",
+    "explanation": "Normally Closed contacts conduct current continuously when unactuated, breaking the circuit when actuated or energized.",
     "tags": [
       "electrical-symbols",
-      "semiconductor-symbols",
+      "switch-relay-symbols",
       "medium"
     ],
     "active": true
@@ -2503,15 +2503,15 @@
     "category": "Electrical Symbols",
     "subcategory": "Switch & Relay Symbols",
     "difficulty": "hard",
-    "question": "In electrical schematic diagrams: What switch type is designated by the schematic abbreviation 'SPST'? (Ref #120)",
+    "question": "What schematic symbol represents a momentary push-button switch that makes contact only while physically depressed?",
     "options": [
-      "Single Phase, System Terminal",
-      "Series Parallel Synchronous Toggle",
-      "Step Power Signal Trigger",
-      "Single Pole, Single Throw switch"
+      "A hinged knife blade",
+      "A closed diagonal line",
+      "A circle with an arrow",
+      "A horizontal contact plate with a vertical push-plunger T-bar resting above two open terminal contacts"
     ],
     "correctAnswer": 3,
-    "explanation": "An SPST switch has one input pole and connects to one output throw, serving as a simple on-off control.",
+    "explanation": "Momentary normally open (NO) pushbuttons spring back to open status as soon as finger pressure is released.",
     "tags": [
       "electrical-symbols",
       "switch-relay-symbols",
@@ -2520,64 +2520,64 @@
     "active": true
   },
   {
-    "id": "electrical-symbols-schematic-symbols-0121",
+    "id": "electrical-symbols-switch-relay-symbols-0121",
     "category": "Electrical Symbols",
-    "subcategory": "Schematic Symbols",
+    "subcategory": "Switch & Relay Symbols",
     "difficulty": "easy",
-    "question": "In electrical schematic diagrams: What electronic component is represented on standard North American schematic diagrams by a sharp zig-zag line? (Ref #121)",
+    "question": "What schematic symbol represents a momentary push-button switch that breaks contact while pressed, releasing back to a closed circuit?",
     "options": [
-      "Fixed Resistor",
-      "Capacitor",
-      "Inductor coil",
-      "Diode"
+      "A contact plate resting across two closed terminals with a vertical plunger pushed downward",
+      "A diagonal open line",
+      "A lever arm with a roller",
+      "A toggle switch"
     ],
     "correctAnswer": 0,
-    "explanation": "In ANSI/IEEE schematics, a fixed resistor is drawn as a zig-zag line, whereas international IEC schematics often use a rectangle.",
+    "explanation": "Normally closed (NC) pushbuttons are standardly wired as industrial emergency stop (E-Stop) and motor stop buttons.",
     "tags": [
       "electrical-symbols",
-      "schematic-symbols",
+      "switch-relay-symbols",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "electrical-symbols-passive-components-0122",
+    "id": "electrical-symbols-switch-relay-symbols-0122",
     "category": "Electrical Symbols",
-    "subcategory": "Passive Components",
+    "subcategory": "Switch & Relay Symbols",
     "difficulty": "medium",
-    "question": "In electrical schematic diagrams: What schematic symbol depicts a non-polarized capacitor in circuit diagrams? (Ref #122)",
+    "question": "What schematic symbol represents an industrial Limit Switch actuated by mechanical machine movement?",
     "options": [
-      "A series of coiled loops",
-      "Two parallel straight lines perpendicular to the connecting leads",
-      "A triangle pointing to a straight line",
-      "A circle with an X inside"
+      "A switch with a plunger T-bar",
+      "A switch contact arm fitted with a small circle or roller on its tip",
+      "A switch with a foot pedal",
+      "A switch with an hourglass"
     ],
     "correctAnswer": 1,
-    "explanation": "Capacitors are symbolized by two parallel plates separated by a gap, representing dielectric separation.",
+    "explanation": "The roller symbol indicates that moving mechanical equipment (cranes, elevator cars) physically strikes the roller to actuate the switch.",
     "tags": [
       "electrical-symbols",
-      "passive-components",
+      "switch-relay-symbols",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "electrical-symbols-semiconductor-symbols-0123",
+    "id": "electrical-symbols-switch-relay-symbols-0123",
     "category": "Electrical Symbols",
-    "subcategory": "Semiconductor Symbols",
+    "subcategory": "Switch & Relay Symbols",
     "difficulty": "hard",
-    "question": "In electrical schematic diagrams: How is an electrical earth or chassis ground symbolized on schematics? (Ref #123)",
+    "question": "What schematic symbol represents an electromechanical Relay Coil?",
     "options": [
-      "A closed circle with three dots",
-      "A zig-zag arrow pointing up",
-      "A vertical lead terminating in progressively shorter horizontal parallel lines",
-      "A square with a diagonal cross"
+      "A contact with a roller",
+      "A circle with an arrow",
+      "A rectangle or cylindrical wire winding with two terminals, labeled with a letter designation such as 'CR' or 'K'",
+      "A transformer with a dot"
     ],
     "correctAnswer": 2,
-    "explanation": "The ground symbol consists of descending horizontal lines of decreasing width, indicating zero reference potential.",
+    "explanation": "When energized, the relay coil generates an electromagnetic field that pulls an internal armature to actuate contact points.",
     "tags": [
       "electrical-symbols",
-      "semiconductor-symbols",
+      "switch-relay-symbols",
       "hard"
     ],
     "active": true
@@ -2587,15 +2587,15 @@
     "category": "Electrical Symbols",
     "subcategory": "Switch & Relay Symbols",
     "difficulty": "easy",
-    "question": "In electrical schematic diagrams: What distinguishes a Light Emitting Diode (LED) symbol from a standard semiconductor diode symbol? (Ref #124)",
+    "question": "What schematic symbol represents an industrial contactor or motor starter coil?",
     "options": [
-      "Two arrows pointing inward toward the triangle",
-      "A circle surrounding a resistor",
-      "A wavy line through the center",
-      "Two small arrows pointing outward away from the diode triangle"
+      "A square with an X",
+      "A rectangle with a diagonal slash",
+      "A circle with a tilde",
+      "A circle containing a letter designation like 'M' (Motor Starter) with incoming and outgoing control wire leads"
     ],
     "correctAnswer": 3,
-    "explanation": "Outward-pointing arrows on a diode symbol denote photon radiation (emission of light), designating an LED.",
+    "explanation": "In ladder logic schematics, circles represent output loads and motor starter coils; parallel brackets represent contacts.",
     "tags": [
       "electrical-symbols",
       "switch-relay-symbols",
@@ -2604,64 +2604,64 @@
     "active": true
   },
   {
-    "id": "electrical-symbols-schematic-symbols-0125",
+    "id": "electrical-symbols-switch-relay-symbols-0125",
     "category": "Electrical Symbols",
-    "subcategory": "Schematic Symbols",
+    "subcategory": "Switch & Relay Symbols",
     "difficulty": "medium",
-    "question": "In electrical schematic diagrams: What switch type is designated by the schematic abbreviation 'SPST'? (Ref #125)",
+    "question": "In electrical ladder logic schematics, what symbol represents a Normally Open (NO) relay contact?",
     "options": [
-      "Single Pole, Single Throw switch",
-      "Single Phase, System Terminal",
-      "Series Parallel Synchronous Toggle",
-      "Step Power Signal Trigger"
+      "Two parallel vertical lines with a space between them: --| |--",
+      "Two parallel lines with a diagonal slash: --|/|--",
+      "A circle: --( )--",
+      "A diamond"
     ],
     "correctAnswer": 0,
-    "explanation": "An SPST switch has one input pole and connects to one output throw, serving as a simple on-off control.",
+    "explanation": "In ladder diagrams, --| |-- represents a normally open contact that passes simulated power when the controlling bit or coil is True.",
     "tags": [
       "electrical-symbols",
-      "schematic-symbols",
+      "switch-relay-symbols",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "electrical-symbols-passive-components-0126",
+    "id": "electrical-symbols-switch-relay-symbols-0126",
     "category": "Electrical Symbols",
-    "subcategory": "Passive Components",
+    "subcategory": "Switch & Relay Symbols",
     "difficulty": "hard",
-    "question": "In electrical schematic diagrams: What electronic component is represented on standard North American schematic diagrams by a sharp zig-zag line? (Ref #126)",
+    "question": "In electrical ladder logic schematics, what symbol represents a Normally Closed (NC) relay contact?",
     "options": [
-      "Capacitor",
-      "Fixed Resistor",
-      "Inductor coil",
-      "Diode"
+      "Two parallel vertical lines: --| |--",
+      "Two parallel vertical lines with a diagonal slash through them: --|/|--",
+      "A circle with an M: --(M)--",
+      "A coil bracket"
     ],
     "correctAnswer": 1,
-    "explanation": "In ANSI/IEEE schematics, a fixed resistor is drawn as a zig-zag line, whereas international IEC schematics often use a rectangle.",
+    "explanation": "The slash across the contact indicates that the contact is normally closed and passes power until its controlling coil is energized.",
     "tags": [
       "electrical-symbols",
-      "passive-components",
+      "switch-relay-symbols",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "electrical-symbols-semiconductor-symbols-0127",
+    "id": "electrical-symbols-switch-relay-symbols-0127",
     "category": "Electrical Symbols",
-    "subcategory": "Semiconductor Symbols",
+    "subcategory": "Switch & Relay Symbols",
     "difficulty": "easy",
-    "question": "In electrical schematic diagrams: What schematic symbol depicts a non-polarized capacitor in circuit diagrams? (Ref #127)",
+    "question": "In electrical ladder logic schematics, what symbol represents an output relay coil or solenoid load?",
     "options": [
-      "A series of coiled loops",
-      "A triangle pointing to a straight line",
-      "Two parallel straight lines perpendicular to the connecting leads",
-      "A circle with an X inside"
+      "Two parallel vertical lines: --| |--",
+      "A square block",
+      "A pair of parentheses or a circle: --( )--",
+      "A diamond"
     ],
     "correctAnswer": 2,
-    "explanation": "Capacitors are symbolized by two parallel plates separated by a gap, representing dielectric separation.",
+    "explanation": "Coil symbols --( )-- on the right rail of a ladder rung represent the controlled field device (relay, solenoid, pilot light).",
     "tags": [
       "electrical-symbols",
-      "semiconductor-symbols",
+      "switch-relay-symbols",
       "easy"
     ],
     "active": true
@@ -2671,15 +2671,15 @@
     "category": "Electrical Symbols",
     "subcategory": "Switch & Relay Symbols",
     "difficulty": "medium",
-    "question": "In electrical schematic diagrams: How is an electrical earth or chassis ground symbolized on schematics? (Ref #128)",
+    "question": "What type of industrial relay features contacts that delay closing for a calibrated time interval after the coil is energized?",
     "options": [
-      "A closed circle with three dots",
-      "A zig-zag arrow pointing up",
-      "A square with a diagonal cross",
-      "A vertical lead terminating in progressively shorter horizontal parallel lines"
+      "Off-Delay Timer Relay (TOF)",
+      "Latching Relay",
+      "Impulse Relay",
+      "On-Delay Timer Relay (TON)"
     ],
     "correctAnswer": 3,
-    "explanation": "The ground symbol consists of descending horizontal lines of decreasing width, indicating zero reference potential.",
+    "explanation": "In an on-delay timer (TON), when the coil receives power, internal timing begins; contacts actuate only after the preset delay expires.",
     "tags": [
       "electrical-symbols",
       "switch-relay-symbols",
@@ -2688,64 +2688,64 @@
     "active": true
   },
   {
-    "id": "electrical-symbols-schematic-symbols-0129",
+    "id": "electrical-symbols-switch-relay-symbols-0129",
     "category": "Electrical Symbols",
-    "subcategory": "Schematic Symbols",
+    "subcategory": "Switch & Relay Symbols",
     "difficulty": "hard",
-    "question": "In electrical schematic diagrams: What distinguishes a Light Emitting Diode (LED) symbol from a standard semiconductor diode symbol? (Ref #129)",
+    "question": "What type of timer relay actuates its contacts immediately upon coil energization, but maintains contact actuation for a set delay after coil power is removed?",
     "options": [
-      "Two small arrows pointing outward away from the diode triangle",
-      "Two arrows pointing inward toward the triangle",
-      "A circle surrounding a resistor",
-      "A wavy line through the center"
+      "Off-Delay Timer Relay (TOF)",
+      "On-Delay Timer Relay (TON)",
+      "Instantaneous Relay",
+      "Thermal Overload Relay"
     ],
     "correctAnswer": 0,
-    "explanation": "Outward-pointing arrows on a diode symbol denote photon radiation (emission of light), designating an LED.",
+    "explanation": "Off-delay relays maintain ventilation fans or cooling pumps running for several minutes after the main machine is turned off.",
     "tags": [
       "electrical-symbols",
-      "schematic-symbols",
+      "switch-relay-symbols",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "electrical-symbols-passive-components-0130",
+    "id": "electrical-symbols-switch-relay-symbols-0130",
     "category": "Electrical Symbols",
-    "subcategory": "Passive Components",
+    "subcategory": "Switch & Relay Symbols",
     "difficulty": "easy",
-    "question": "In electrical schematic diagrams: What switch type is designated by the schematic abbreviation 'SPST'? (Ref #130)",
+    "question": "What type of electromechanical relay maintains its switched contact position mechanically or magnetically without requiring continuous coil power?",
     "options": [
-      "Single Phase, System Terminal",
-      "Single Pole, Single Throw switch",
-      "Series Parallel Synchronous Toggle",
-      "Step Power Signal Trigger"
+      "A Monostable Relay",
+      "A Latching Relay (Bistable Relay / Impulse Relay)",
+      "A Reed Relay",
+      "A Solid State Relay"
     ],
     "correctAnswer": 1,
-    "explanation": "An SPST switch has one input pole and connects to one output throw, serving as a simple on-off control.",
+    "explanation": "Latching relays use a dual-coil or permanent magnet latch; a momentary pulse sets the relay, and a reverse pulse resets it.",
     "tags": [
       "electrical-symbols",
-      "passive-components",
+      "switch-relay-symbols",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "electrical-symbols-semiconductor-symbols-0131",
+    "id": "electrical-symbols-switch-relay-symbols-0131",
     "category": "Electrical Symbols",
-    "subcategory": "Semiconductor Symbols",
+    "subcategory": "Switch & Relay Symbols",
     "difficulty": "medium",
-    "question": "In electrical schematic diagrams: What electronic component is represented on standard North American schematic diagrams by a sharp zig-zag line? (Ref #131)",
+    "question": "What type of hermetically sealed relay consists of two ferromagnetic nickel-iron contact reeds sealed inside a glass tube, actuated by an external magnetic field?",
     "options": [
-      "Capacitor",
-      "Inductor coil",
-      "Fixed Resistor",
-      "Diode"
+      "An Armature Relay",
+      "A Mercury Wetted Relay",
+      "A Reed Relay (Reed Switch)",
+      "A Contactor"
     ],
     "correctAnswer": 2,
-    "explanation": "In ANSI/IEEE schematics, a fixed resistor is drawn as a zig-zag line, whereas international IEC schematics often use a rectangle.",
+    "explanation": "Reed switches close silently when a permanent magnet or electromagnetic coil approaches, widely used in security door sensors.",
     "tags": [
       "electrical-symbols",
-      "semiconductor-symbols",
+      "switch-relay-symbols",
       "medium"
     ],
     "active": true
@@ -2755,15 +2755,15 @@
     "category": "Electrical Symbols",
     "subcategory": "Switch & Relay Symbols",
     "difficulty": "hard",
-    "question": "In electrical schematic diagrams: What schematic symbol depicts a non-polarized capacitor in circuit diagrams? (Ref #132)",
+    "question": "What semiconductor relay device replaces mechanical moving armatures with optocouplers and power MOSFETs/TRIACs to switch loads silently with zero contact bounce?",
     "options": [
-      "A series of coiled loops",
-      "A triangle pointing to a straight line",
-      "A circle with an X inside",
-      "Two parallel straight lines perpendicular to the connecting leads"
+      "Electromechanical Relay",
+      "Contactor",
+      "Knife Switch",
+      "Solid State Relay (SSR)"
     ],
     "correctAnswer": 3,
-    "explanation": "Capacitors are symbolized by two parallel plates separated by a gap, representing dielectric separation.",
+    "explanation": "SSRs switch in microseconds with zero arcing, infinite mechanical cycle life, and optical isolation between control and load.",
     "tags": [
       "electrical-symbols",
       "switch-relay-symbols",
@@ -2772,64 +2772,64 @@
     "active": true
   },
   {
-    "id": "electrical-symbols-schematic-symbols-0133",
+    "id": "electrical-symbols-switch-relay-symbols-0133",
     "category": "Electrical Symbols",
-    "subcategory": "Schematic Symbols",
+    "subcategory": "Switch & Relay Symbols",
     "difficulty": "easy",
-    "question": "In electrical schematic diagrams: How is an electrical earth or chassis ground symbolized on schematics? (Ref #133)",
+    "question": "What heavy-duty industrial switch consists of a hinged copper blade that swings manually into a spring-clip jaw contact, often enclosed in a safety box?",
     "options": [
-      "A vertical lead terminating in progressively shorter horizontal parallel lines",
-      "A closed circle with three dots",
-      "A zig-zag arrow pointing up",
-      "A square with a diagonal cross"
+      "A Knife Switch",
+      "A Toggle Switch",
+      "A Rotary Cam Switch",
+      "A Pushbutton Switch"
     ],
     "correctAnswer": 0,
-    "explanation": "The ground symbol consists of descending horizontal lines of decreasing width, indicating zero reference potential.",
+    "explanation": "Knife switches provide positive visual confirmation of disconnection, utilized as high-current battery disconnects and emergency switches.",
     "tags": [
       "electrical-symbols",
-      "schematic-symbols",
+      "switch-relay-symbols",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "electrical-symbols-passive-components-0134",
+    "id": "electrical-symbols-switch-relay-symbols-0134",
     "category": "Electrical Symbols",
-    "subcategory": "Passive Components",
+    "subcategory": "Switch & Relay Symbols",
     "difficulty": "medium",
-    "question": "In electrical schematic diagrams: What distinguishes a Light Emitting Diode (LED) symbol from a standard semiconductor diode symbol? (Ref #134)",
+    "question": "What type of safety disconnect switch allows padlocks to be applied directly through holes in its handle in the open/off position to enforce Lockout/Tagout?",
     "options": [
-      "Two arrows pointing inward toward the triangle",
-      "Two small arrows pointing outward away from the diode triangle",
-      "A circle surrounding a resistor",
-      "A wavy line through the center"
+      "A standard household toggle switch",
+      "A Safety Disconnect Switch (Enclosed Knife Switch)",
+      "A push-button dimmer",
+      "A foot switch"
     ],
     "correctAnswer": 1,
-    "explanation": "Outward-pointing arrows on a diode symbol denote photon radiation (emission of light), designating an LED.",
+    "explanation": "Safety switches feature interlocking doors that cannot be opened while energized, with provisions for multiple worker LOTO padlocks.",
     "tags": [
       "electrical-symbols",
-      "passive-components",
+      "switch-relay-symbols",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "electrical-symbols-semiconductor-symbols-0135",
+    "id": "electrical-symbols-switch-relay-symbols-0135",
     "category": "Electrical Symbols",
-    "subcategory": "Semiconductor Symbols",
+    "subcategory": "Switch & Relay Symbols",
     "difficulty": "hard",
-    "question": "In electrical schematic diagrams: What switch type is designated by the schematic abbreviation 'SPST'? (Ref #135)",
+    "question": "What type of industrial rotary switch has multiple internal cams that close or open specific contacts at discrete angular positions?",
     "options": [
-      "Single Phase, System Terminal",
-      "Series Parallel Synchronous Toggle",
-      "Single Pole, Single Throw switch",
-      "Step Power Signal Trigger"
+      "A Toggle Switch",
+      "A DIP Switch",
+      "A Rotary Cam Switch (Selector Switch)",
+      "A Reed Switch"
     ],
     "correctAnswer": 2,
-    "explanation": "An SPST switch has one input pole and connects to one output throw, serving as a simple on-off control.",
+    "explanation": "Rotary selector switches allow machine operators to select modes: Hand-Off-Auto (HOA), forward/reverse, or multiple voltage taps.",
     "tags": [
       "electrical-symbols",
-      "semiconductor-symbols",
+      "switch-relay-symbols",
       "hard"
     ],
     "active": true
@@ -2839,15 +2839,15 @@
     "category": "Electrical Symbols",
     "subcategory": "Switch & Relay Symbols",
     "difficulty": "easy",
-    "question": "In electrical schematic diagrams: What electronic component is represented on standard North American schematic diagrams by a sharp zig-zag line? (Ref #136)",
+    "question": "What multi-switch package consists of miniature slide or rocker switches housed in a dual in-line package mounted directly on a printed circuit board?",
     "options": [
-      "Capacitor",
-      "Inductor coil",
-      "Diode",
-      "Fixed Resistor"
+      "A Rotary Switch",
+      "A Membrane Switch",
+      "A Limit Switch",
+      "A DIP Switch (Dual In-line Package Switch)"
     ],
     "correctAnswer": 3,
-    "explanation": "In ANSI/IEEE schematics, a fixed resistor is drawn as a zig-zag line, whereas international IEC schematics often use a rectangle.",
+    "explanation": "DIP switches allow technicians to configure hardware options, device addresses, and communication baud rates directly on circuit boards.",
     "tags": [
       "electrical-symbols",
       "switch-relay-symbols",
@@ -2856,64 +2856,64 @@
     "active": true
   },
   {
-    "id": "electrical-symbols-schematic-symbols-0137",
+    "id": "electrical-symbols-switch-relay-symbols-0137",
     "category": "Electrical Symbols",
-    "subcategory": "Schematic Symbols",
+    "subcategory": "Switch & Relay Symbols",
     "difficulty": "medium",
-    "question": "In electrical schematic diagrams: What schematic symbol depicts a non-polarized capacitor in circuit diagrams? (Ref #137)",
+    "question": "What safety sensor switch is actuated by the foot of an operator to control heavy industrial machinery (punch presses, shears), freeing both hands?",
     "options": [
-      "Two parallel straight lines perpendicular to the connecting leads",
-      "A series of coiled loops",
-      "A triangle pointing to a straight line",
-      "A circle with an X inside"
+      "A Foot Switch",
+      "A Palm Button",
+      "A Limit Switch",
+      "A Joy Stick"
     ],
     "correctAnswer": 0,
-    "explanation": "Capacitors are symbolized by two parallel plates separated by a gap, representing dielectric separation.",
+    "explanation": "Foot switches often feature protective steel treadle hoods to prevent accidental tripping if an object drops onto the pedal.",
     "tags": [
       "electrical-symbols",
-      "schematic-symbols",
+      "switch-relay-symbols",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "electrical-symbols-passive-components-0138",
+    "id": "electrical-symbols-switch-relay-symbols-0138",
     "category": "Electrical Symbols",
-    "subcategory": "Passive Components",
+    "subcategory": "Switch & Relay Symbols",
     "difficulty": "hard",
-    "question": "In electrical schematic diagrams: How is an electrical earth or chassis ground symbolized on schematics? (Ref #138)",
+    "question": "What prominent industrial emergency switch features a large red mushroom-shaped push head that latches mechanically in the open position when struck?",
     "options": [
-      "A closed circle with three dots",
-      "A vertical lead terminating in progressively shorter horizontal parallel lines",
-      "A zig-zag arrow pointing up",
-      "A square with a diagonal cross"
+      "A toggle switch",
+      "Emergency Stop Pushbutton (E-Stop / Palm Button)",
+      "A momentary pushbutton",
+      "A selector switch"
     ],
     "correctAnswer": 1,
-    "explanation": "The ground symbol consists of descending horizontal lines of decreasing width, indicating zero reference potential.",
+    "explanation": "E-Stops are designed for panic actuation by striking with a fist or palm; twisting or key-unlocking is required to release the stop latch.",
     "tags": [
       "electrical-symbols",
-      "passive-components",
+      "switch-relay-symbols",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "electrical-symbols-semiconductor-symbols-0139",
+    "id": "electrical-symbols-switch-relay-symbols-0139",
     "category": "Electrical Symbols",
-    "subcategory": "Semiconductor Symbols",
+    "subcategory": "Switch & Relay Symbols",
     "difficulty": "easy",
-    "question": "In electrical schematic diagrams: What distinguishes a Light Emitting Diode (LED) symbol from a standard semiconductor diode symbol? (Ref #139)",
+    "question": "What type of pressure-sensitive switch monitors fluid pressure in a tank or hydraulic pipe, closing or opening contacts at preset thresholds?",
     "options": [
-      "Two arrows pointing inward toward the triangle",
-      "A circle surrounding a resistor",
-      "Two small arrows pointing outward away from the diode triangle",
-      "A wavy line through the center"
+      "A Float Switch",
+      "A Flow Switch",
+      "A Pressure Switch",
+      "A Thermostat"
     ],
     "correctAnswer": 2,
-    "explanation": "Outward-pointing arrows on a diode symbol denote photon radiation (emission of light), designating an LED.",
+    "explanation": "Pressure switches automatically cycle air compressor motors and water well pumps when tank pressure reaches cut-in and cut-out limits.",
     "tags": [
       "electrical-symbols",
-      "semiconductor-symbols",
+      "switch-relay-symbols",
       "easy"
     ],
     "active": true
@@ -2923,15 +2923,15 @@
     "category": "Electrical Symbols",
     "subcategory": "Switch & Relay Symbols",
     "difficulty": "medium",
-    "question": "In electrical schematic diagrams: What switch type is designated by the schematic abbreviation 'SPST'? (Ref #140)",
+    "question": "What type of level-sensing switch utilizes a buoyant float to actuate contacts when liquid reaches a predetermined level in a tank or sump pit?",
     "options": [
-      "Single Phase, System Terminal",
-      "Series Parallel Synchronous Toggle",
-      "Step Power Signal Trigger",
-      "Single Pole, Single Throw switch"
+      "A Pressure Switch",
+      "A Flow Switch",
+      "A Limit Switch",
+      "A Float Switch"
     ],
     "correctAnswer": 3,
-    "explanation": "An SPST switch has one input pole and connects to one output throw, serving as a simple on-off control.",
+    "explanation": "Sump pumps rely on float switches to energize the pump motor when water rises, turning it off when the pit empties.",
     "tags": [
       "electrical-symbols",
       "switch-relay-symbols",
@@ -2940,64 +2940,64 @@
     "active": true
   },
   {
-    "id": "electrical-symbols-schematic-symbols-0141",
+    "id": "electrical-symbols-switch-relay-symbols-0141",
     "category": "Electrical Symbols",
-    "subcategory": "Schematic Symbols",
+    "subcategory": "Switch & Relay Symbols",
     "difficulty": "hard",
-    "question": "In electrical schematic diagrams: What electronic component is represented on standard North American schematic diagrams by a sharp zig-zag line? (Ref #141)",
+    "question": "What mechanical flow sensor switch features a paddle or vane suspended in a liquid or gas pipe to detect moving flow?",
     "options": [
-      "Fixed Resistor",
-      "Capacitor",
-      "Inductor coil",
-      "Diode"
+      "A Flow Switch (Paddle Switch)",
+      "A Pressure Switch",
+      "A Float Switch",
+      "A Thermal Well"
     ],
     "correctAnswer": 0,
-    "explanation": "In ANSI/IEEE schematics, a fixed resistor is drawn as a zig-zag line, whereas international IEC schematics often use a rectangle.",
+    "explanation": "If liquid stops flowing through a chiller barrel, the paddle returns to neutral and the flow switch trips to prevent freezing.",
     "tags": [
       "electrical-symbols",
-      "schematic-symbols",
+      "switch-relay-symbols",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "electrical-symbols-passive-components-0142",
+    "id": "electrical-symbols-switch-relay-symbols-0142",
     "category": "Electrical Symbols",
-    "subcategory": "Passive Components",
+    "subcategory": "Switch & Relay Symbols",
     "difficulty": "easy",
-    "question": "In electrical schematic diagrams: What schematic symbol depicts a non-polarized capacitor in circuit diagrams? (Ref #142)",
+    "question": "What temperature-actuated switch utilizes a bimetallic strip or thermistor to open or close heating and cooling control circuits?",
     "options": [
-      "A series of coiled loops",
-      "Two parallel straight lines perpendicular to the connecting leads",
-      "A triangle pointing to a straight line",
-      "A circle with an X inside"
+      "A Humidistat",
+      "A Thermostat",
+      "A Flow Switch",
+      "A Limit Switch"
     ],
     "correctAnswer": 1,
-    "explanation": "Capacitors are symbolized by two parallel plates separated by a gap, representing dielectric separation.",
+    "explanation": "Thermostats cycle residential furnaces and air conditioners based on ambient temperature comparison to a user setpoint.",
     "tags": [
       "electrical-symbols",
-      "passive-components",
+      "switch-relay-symbols",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "electrical-symbols-semiconductor-symbols-0143",
+    "id": "electrical-symbols-switch-relay-symbols-0143",
     "category": "Electrical Symbols",
-    "subcategory": "Semiconductor Symbols",
+    "subcategory": "Switch & Relay Symbols",
     "difficulty": "medium",
-    "question": "In electrical schematic diagrams: How is an electrical earth or chassis ground symbolized on schematics? (Ref #143)",
+    "question": "What humidity-sensitive switch measures relative humidity in a space to actuate dehumidifiers, humidifiers, or exhaust fans?",
     "options": [
-      "A closed circle with three dots",
-      "A zig-zag arrow pointing up",
-      "A vertical lead terminating in progressively shorter horizontal parallel lines",
-      "A square with a diagonal cross"
+      "A Thermostat",
+      "A Pressure Switch",
+      "A Humidistat",
+      "A Barometer"
     ],
     "correctAnswer": 2,
-    "explanation": "The ground symbol consists of descending horizontal lines of decreasing width, indicating zero reference potential.",
+    "explanation": "Humidistats feature hygroscopic nylon or electronic capacitance sensors that trip contacts when moisture exceeds target setpoints.",
     "tags": [
       "electrical-symbols",
-      "semiconductor-symbols",
+      "switch-relay-symbols",
       "medium"
     ],
     "active": true
@@ -3007,15 +3007,15 @@
     "category": "Electrical Symbols",
     "subcategory": "Switch & Relay Symbols",
     "difficulty": "hard",
-    "question": "In electrical schematic diagrams: What distinguishes a Light Emitting Diode (LED) symbol from a standard semiconductor diode symbol? (Ref #144)",
+    "question": "What high-current electromechanical switch is specifically engineered to make and break power circuits supplying electric motors, handling heavy inductive inrush currents?",
     "options": [
-      "Two arrows pointing inward toward the triangle",
-      "A circle surrounding a resistor",
-      "A wavy line through the center",
-      "Two small arrows pointing outward away from the diode triangle"
+      "A Control Relay",
+      "A Miniature Circuit Breaker",
+      "A Disconnect Switch",
+      "A Magnetic Contactor"
     ],
     "correctAnswer": 3,
-    "explanation": "Outward-pointing arrows on a diode symbol denote photon radiation (emission of light), designating an LED.",
+    "explanation": "Contactors feature heavy silver-alloy contact points, magnetic blowout coils, and arc chutes to interrupt high motor currents without welding.",
     "tags": [
       "electrical-symbols",
       "switch-relay-symbols",
@@ -3024,64 +3024,64 @@
     "active": true
   },
   {
-    "id": "electrical-symbols-schematic-symbols-0145",
+    "id": "electrical-symbols-switch-relay-symbols-0145",
     "category": "Electrical Symbols",
-    "subcategory": "Schematic Symbols",
+    "subcategory": "Switch & Relay Symbols",
     "difficulty": "easy",
-    "question": "In electrical schematic diagrams: What switch type is designated by the schematic abbreviation 'SPST'? (Ref #145)",
+    "question": "What protective device paired directly with a motor contactor protects electric motor windings from overheating during sustained mechanical overloads?",
     "options": [
-      "Single Pole, Single Throw switch",
-      "Single Phase, System Terminal",
-      "Series Parallel Synchronous Toggle",
-      "Step Power Signal Trigger"
+      "A Thermal Overload Relay",
+      "A Magnetic Circuit Breaker",
+      "A Fast-Acting Fuse",
+      "A Phase Monitor"
     ],
     "correctAnswer": 0,
-    "explanation": "An SPST switch has one input pole and connects to one output throw, serving as a simple on-off control.",
+    "explanation": "Bimetallic or electronic overload relays monitor motor current, tripping control contacts if sustained current exceeds motor full-load rating.",
     "tags": [
       "electrical-symbols",
-      "schematic-symbols",
+      "switch-relay-symbols",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "electrical-symbols-passive-components-0146",
+    "id": "electrical-symbols-switch-relay-symbols-0146",
     "category": "Electrical Symbols",
-    "subcategory": "Passive Components",
+    "subcategory": "Switch & Relay Symbols",
     "difficulty": "medium",
-    "question": "In electrical schematic diagrams: What electronic component is represented on standard North American schematic diagrams by a sharp zig-zag line? (Ref #146)",
+    "question": "What protective relay senses the loss of a phase, voltage unbalance, or reverse phase rotation in three-phase motor circuits?",
     "options": [
-      "Capacitor",
-      "Fixed Resistor",
-      "Inductor coil",
-      "Diode"
+      "An Overload Relay",
+      "A Phase Monitoring Relay (Phase Failure Relay)",
+      "A Ground Fault Relay",
+      "A Time Delay Relay"
     ],
     "correctAnswer": 1,
-    "explanation": "In ANSI/IEEE schematics, a fixed resistor is drawn as a zig-zag line, whereas international IEC schematics often use a rectangle.",
+    "explanation": "Operating a 3-phase motor with one phase lost ('single-phasing') causes rapid motor burnout; phase monitors de-energize the contactor instantly.",
     "tags": [
       "electrical-symbols",
-      "passive-components",
+      "switch-relay-symbols",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "electrical-symbols-semiconductor-symbols-0147",
+    "id": "electrical-symbols-switch-relay-symbols-0147",
     "category": "Electrical Symbols",
-    "subcategory": "Semiconductor Symbols",
+    "subcategory": "Switch & Relay Symbols",
     "difficulty": "hard",
-    "question": "In electrical schematic diagrams: What schematic symbol depicts a non-polarized capacitor in circuit diagrams? (Ref #147)",
+    "question": "What safety sensor switch utilizes a light beam and optical receiver to detect objects interrupting the beam on automated conveyor lines?",
     "options": [
-      "A series of coiled loops",
-      "A triangle pointing to a straight line",
-      "Two parallel straight lines perpendicular to the connecting leads",
-      "A circle with an X inside"
+      "A Proximity Sensor",
+      "A Limit Switch",
+      "A Photoelectric Sensor (Photo Eye)",
+      "A Hall Sensor"
     ],
     "correctAnswer": 2,
-    "explanation": "Capacitors are symbolized by two parallel plates separated by a gap, representing dielectric separation.",
+    "explanation": "Photo eyes operate in through-beam, retro-reflective (bouncing off a reflector), or diffuse-reflective proximity modes.",
     "tags": [
       "electrical-symbols",
-      "semiconductor-symbols",
+      "switch-relay-symbols",
       "hard"
     ],
     "active": true
@@ -3091,15 +3091,15 @@
     "category": "Electrical Symbols",
     "subcategory": "Switch & Relay Symbols",
     "difficulty": "easy",
-    "question": "In electrical schematic diagrams: How is an electrical earth or chassis ground symbolized on schematics? (Ref #148)",
+    "question": "What non-contact electronic proximity sensor generates a high-frequency electromagnetic field to detect metallic targets without physical contact?",
     "options": [
-      "A closed circle with three dots",
-      "A zig-zag arrow pointing up",
-      "A square with a diagonal cross",
-      "A vertical lead terminating in progressively shorter horizontal parallel lines"
+      "A Capacitive Proximity Sensor",
+      "A Photoelectric Sensor",
+      "An Ultrasonic Sensor",
+      "An Inductive Proximity Sensor"
     ],
     "correctAnswer": 3,
-    "explanation": "The ground symbol consists of descending horizontal lines of decreasing width, indicating zero reference potential.",
+    "explanation": "Eddy currents induced in approaching metal targets damp the sensor's internal oscillator, triggering the solid-state output switch.",
     "tags": [
       "electrical-symbols",
       "switch-relay-symbols",
@@ -3108,43 +3108,43 @@
     "active": true
   },
   {
-    "id": "electrical-symbols-schematic-symbols-0149",
+    "id": "electrical-symbols-switch-relay-symbols-0149",
     "category": "Electrical Symbols",
-    "subcategory": "Schematic Symbols",
+    "subcategory": "Switch & Relay Symbols",
     "difficulty": "medium",
-    "question": "In electrical schematic diagrams: What distinguishes a Light Emitting Diode (LED) symbol from a standard semiconductor diode symbol? (Ref #149)",
+    "question": "What non-contact proximity sensor detects both metallic and non-metallic objects (liquids, plastics, grains) by sensing changes in electrostatic capacitance?",
     "options": [
-      "Two small arrows pointing outward away from the diode triangle",
-      "Two arrows pointing inward toward the triangle",
-      "A circle surrounding a resistor",
-      "A wavy line through the center"
+      "A Capacitive Proximity Sensor",
+      "An Inductive Proximity Sensor",
+      "A Hall Effect Sensor",
+      "A Magnetic Reed Sensor"
     ],
     "correctAnswer": 0,
-    "explanation": "Outward-pointing arrows on a diode symbol denote photon radiation (emission of light), designating an LED.",
+    "explanation": "Capacitive sensors detect through cardboard boxes or sight glass tubes to monitor fill levels of powders, liquids, and plastic pellets.",
     "tags": [
       "electrical-symbols",
-      "schematic-symbols",
+      "switch-relay-symbols",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "electrical-symbols-passive-components-0150",
+    "id": "electrical-symbols-switch-relay-symbols-0150",
     "category": "Electrical Symbols",
-    "subcategory": "Passive Components",
+    "subcategory": "Switch & Relay Symbols",
     "difficulty": "hard",
-    "question": "In electrical schematic diagrams: What switch type is designated by the schematic abbreviation 'SPST'? (Ref #150)",
+    "question": "What non-contact sensor emits high-frequency sound waves and measures the echo return time to detect objects and measure distances regardless of optical color or transparency?",
     "options": [
-      "Single Phase, System Terminal",
-      "Single Pole, Single Throw switch",
-      "Series Parallel Synchronous Toggle",
-      "Step Power Signal Trigger"
+      "A Photoelectric Sensor",
+      "An Ultrasonic Proximity Sensor",
+      "An Inductive Sensor",
+      "A Radar Sensor"
     ],
     "correctAnswer": 1,
-    "explanation": "An SPST switch has one input pole and connects to one output throw, serving as a simple on-off control.",
+    "explanation": "Ultrasonic sensors excel at detecting clear glass bottles, transparent plastic films, and liquid levels unaffected by optical ambient lighting.",
     "tags": [
       "electrical-symbols",
-      "passive-components",
+      "switch-relay-symbols",
       "hard"
     ],
     "active": true

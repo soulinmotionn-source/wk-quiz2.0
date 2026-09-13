@@ -7,6 +7,7 @@ import { QuizProgress } from './QuizProgress';
 import { AnswerOption } from './AnswerOption';
 import { ExplanationCard } from './ExplanationCard';
 import { ResultsCard } from './ResultsCard';
+import { cleanQuestionText } from '../../data/questionBank';
 
 interface QuizPlayerProps {
   quizId: string;
@@ -308,7 +309,7 @@ export const QuizPlayer: React.FC<QuizPlayerProps> = ({
             marginBottom: 'var(--space-xl)'
           }}
         >
-          {currentQuestion.question}
+          {cleanQuestionText(currentQuestion.question)}
         </h2>
 
         {/* Options List */}

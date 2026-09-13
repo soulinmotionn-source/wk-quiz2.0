@@ -4,15 +4,15 @@
     "category": "USA Tests",
     "subcategory": "US Civics",
     "difficulty": "easy",
-    "question": "US Civics and Government: What are the three constitutional branches of the United States federal government? (Ref #1)",
+    "question": "What is the supreme law of the land in the United States?",
     "options": [
-      "Legislative, Executive, and Judicial",
-      "Federal, State, and Municipal",
-      "Military, Commercial, and Diplomatic",
-      "Presidential, Congressional, and Gubernatorial"
+      "The United States Constitution",
+      "The Declaration of Independence",
+      "The Articles of Confederation",
+      "The Federalist Papers"
     ],
     "correctAnswer": 0,
-    "explanation": "The US Constitution establishes three co-equal branches with checks and balances: Legislative (Congress), Executive (President), and Judicial (Supreme Court).",
+    "explanation": "The US Constitution establishes the national frame of government and fundamental laws of the nation.",
     "tags": [
       "usa-tests",
       "us-civics",
@@ -21,64 +21,64 @@
     "active": true
   },
   {
-    "id": "usa-tests-us-constitution-0002",
+    "id": "usa-tests-us-civics-0002",
     "category": "USA Tests",
-    "subcategory": "US Constitution",
+    "subcategory": "US Civics",
     "difficulty": "medium",
-    "question": "US Civics and Government: How many voting United States Senators serve in the US Senate? (Ref #2)",
+    "question": "What are the two major political parties in the modern United States?",
     "options": [
-      "435 Senators",
-      "100 Senators (exactly 2 from each of the 50 states)",
-      "50 Senators",
-      "200 Senators"
+      "Libertarian and Green",
+      "Democratic and Republican",
+      "Federalist and Anti-Federalist",
+      "Whig and Democratic-Republican"
     ],
     "correctAnswer": 1,
-    "explanation": "Under Article I of the Constitution, each state is represented by exactly 2 senators, totaling 100.",
+    "explanation": "The Democratic Party and Republican Party are the two dominant parties in the US political system.",
     "tags": [
       "usa-tests",
-      "us-constitution",
+      "us-civics",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "usa-tests-american-government-0003",
+    "id": "usa-tests-us-civics-0003",
     "category": "USA Tests",
-    "subcategory": "American Government",
+    "subcategory": "US Civics",
     "difficulty": "hard",
-    "question": "US Civics and Government: What collective name is given to the first ten amendments added to the United States Constitution? (Ref #3)",
+    "question": "How many voting members currently serve in the United States House of Representatives?",
     "options": [
-      "The Articles of Confederation",
-      "The Federalist Papers",
-      "The Bill of Rights",
-      "The Magna Carta"
+      "100",
+      "50",
+      "435",
+      "438"
     ],
     "correctAnswer": 2,
-    "explanation": "Ratified in 1791, the first ten amendments comprise the Bill of Rights, safeguarding fundamental civil liberties.",
+    "explanation": "The Permanent Apportionment Act of 1929 capped the House of Representatives at 435 voting members.",
     "tags": [
       "usa-tests",
-      "american-government",
+      "us-civics",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "usa-tests-rights-symbols-0004",
+    "id": "usa-tests-us-civics-0004",
     "category": "USA Tests",
-    "subcategory": "Rights & Symbols",
+    "subcategory": "US Civics",
     "difficulty": "easy",
-    "question": "US Civics and Government: How many voting members currently comprise the United States House of Representatives? (Ref #4)",
+    "question": "How many voting members serve in the United States Senate?",
     "options": [
-      "100 members",
-      "538 members",
-      "500 members",
-      "435 voting members"
+      "435",
+      "50",
+      "538",
+      "100"
     ],
     "correctAnswer": 3,
-    "explanation": "The Permanent Apportionment Act of 1929 fixed the total number of voting US House Representatives at 435.",
+    "explanation": "Each of the 50 states elects exactly two senators, totaling 100 US senators.",
     "tags": [
       "usa-tests",
-      "rights-symbols",
+      "us-civics",
       "easy"
     ],
     "active": true
@@ -88,15 +88,15 @@
     "category": "USA Tests",
     "subcategory": "US Civics",
     "difficulty": "medium",
-    "question": "US Civics and Government: What is the standard constitutional term length in years for a United States President? (Ref #5)",
+    "question": "For how many years is a United States Senator elected to serve in one term?",
     "options": [
-      "4 years per term",
-      "2 years",
       "6 years",
+      "2 years",
+      "4 years",
       "8 years"
     ],
     "correctAnswer": 0,
-    "explanation": "Article II of the US Constitution establishes a presidential term length of 4 years, limited to two terms by the 22nd Amendment.",
+    "explanation": "Senators serve staggered six-year terms, with approximately one-third of seats up for election every two years.",
     "tags": [
       "usa-tests",
       "us-civics",
@@ -105,64 +105,64 @@
     "active": true
   },
   {
-    "id": "usa-tests-us-constitution-0006",
+    "id": "usa-tests-us-civics-0006",
     "category": "USA Tests",
-    "subcategory": "US Constitution",
+    "subcategory": "US Civics",
     "difficulty": "hard",
-    "question": "US Civics and Government: What are the three constitutional branches of the United States federal government? (Ref #6)",
+    "question": "For how many years is a member of the United States House of Representatives elected to serve in one term?",
     "options": [
-      "Federal, State, and Municipal",
-      "Legislative, Executive, and Judicial",
-      "Military, Commercial, and Diplomatic",
-      "Presidential, Congressional, and Gubernatorial"
+      "4 years",
+      "2 years",
+      "6 years",
+      "1 year"
     ],
     "correctAnswer": 1,
-    "explanation": "The US Constitution establishes three co-equal branches with checks and balances: Legislative (Congress), Executive (President), and Judicial (Supreme Court).",
+    "explanation": "House representatives are elected every two years directly by the citizens of their congressional districts.",
     "tags": [
       "usa-tests",
-      "us-constitution",
+      "us-civics",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "usa-tests-american-government-0007",
+    "id": "usa-tests-us-civics-0007",
     "category": "USA Tests",
-    "subcategory": "American Government",
+    "subcategory": "US Civics",
     "difficulty": "easy",
-    "question": "US Civics and Government: How many voting United States Senators serve in the US Senate? (Ref #7)",
+    "question": "What is the minimum age required by the Constitution to serve as President of the United States?",
     "options": [
-      "435 Senators",
-      "50 Senators",
-      "100 Senators (exactly 2 from each of the 50 states)",
-      "200 Senators"
+      "30 years old",
+      "25 years old",
+      "35 years old",
+      "40 years old"
     ],
     "correctAnswer": 2,
-    "explanation": "Under Article I of the Constitution, each state is represented by exactly 2 senators, totaling 100.",
+    "explanation": "Article II, Section 1 sets the qualifications: a natural-born citizen, at least 35 years old, and 14 years a resident within the US.",
     "tags": [
       "usa-tests",
-      "american-government",
+      "us-civics",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "usa-tests-rights-symbols-0008",
+    "id": "usa-tests-us-civics-0008",
     "category": "USA Tests",
-    "subcategory": "Rights & Symbols",
+    "subcategory": "US Civics",
     "difficulty": "medium",
-    "question": "US Civics and Government: What collective name is given to the first ten amendments added to the United States Constitution? (Ref #8)",
+    "question": "What is the minimum age required by the Constitution to serve as a United States Senator?",
     "options": [
-      "The Articles of Confederation",
-      "The Federalist Papers",
-      "The Magna Carta",
-      "The Bill of Rights"
+      "25 years old",
+      "35 years old",
+      "21 years old",
+      "30 years old"
     ],
     "correctAnswer": 3,
-    "explanation": "Ratified in 1791, the first ten amendments comprise the Bill of Rights, safeguarding fundamental civil liberties.",
+    "explanation": "Article I, Section 3 requires a senator to be at least 30 years old and a citizen of the US for at least 9 years.",
     "tags": [
       "usa-tests",
-      "rights-symbols",
+      "us-civics",
       "medium"
     ],
     "active": true
@@ -172,15 +172,15 @@
     "category": "USA Tests",
     "subcategory": "US Civics",
     "difficulty": "hard",
-    "question": "US Civics and Government: How many voting members currently comprise the United States House of Representatives? (Ref #9)",
+    "question": "What is the minimum age required by the Constitution to serve in the United States House of Representatives?",
     "options": [
-      "435 voting members",
-      "100 members",
-      "538 members",
-      "500 members"
+      "25 years old",
+      "30 years old",
+      "21 years old",
+      "18 years old"
     ],
     "correctAnswer": 0,
-    "explanation": "The Permanent Apportionment Act of 1929 fixed the total number of voting US House Representatives at 435.",
+    "explanation": "Article I, Section 2 requires representatives to be at least 25 years old and a citizen of the US for at least 7 years.",
     "tags": [
       "usa-tests",
       "us-civics",
@@ -189,64 +189,64 @@
     "active": true
   },
   {
-    "id": "usa-tests-us-constitution-0010",
+    "id": "usa-tests-us-civics-0010",
     "category": "USA Tests",
-    "subcategory": "US Constitution",
+    "subcategory": "US Civics",
     "difficulty": "easy",
-    "question": "US Civics and Government: What is the standard constitutional term length in years for a United States President? (Ref #10)",
+    "question": "In what month do United States citizens vote for President in national general elections?",
     "options": [
-      "2 years",
-      "4 years per term",
-      "6 years",
-      "8 years"
+      "October",
+      "November",
+      "January",
+      "December"
     ],
     "correctAnswer": 1,
-    "explanation": "Article II of the US Constitution establishes a presidential term length of 4 years, limited to two terms by the 22nd Amendment.",
+    "explanation": "Federal general elections are held on the Tuesday following the first Monday in November.",
     "tags": [
       "usa-tests",
-      "us-constitution",
+      "us-civics",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "usa-tests-american-government-0011",
+    "id": "usa-tests-us-civics-0011",
     "category": "USA Tests",
-    "subcategory": "American Government",
+    "subcategory": "US Civics",
     "difficulty": "medium",
-    "question": "US Civics and Government: What are the three constitutional branches of the United States federal government? (Ref #11)",
+    "question": "Who becomes President of the United States if both the President and Vice President can no longer serve?",
     "options": [
-      "Federal, State, and Municipal",
-      "Military, Commercial, and Diplomatic",
-      "Legislative, Executive, and Judicial",
-      "Presidential, Congressional, and Gubernatorial"
+      "The Senate President pro tempore",
+      "The Secretary of State",
+      "The Speaker of the House of Representatives",
+      "The Chief Justice of the Supreme Court"
     ],
     "correctAnswer": 2,
-    "explanation": "The US Constitution establishes three co-equal branches with checks and balances: Legislative (Congress), Executive (President), and Judicial (Supreme Court).",
+    "explanation": "Under the Presidential Succession Act of 1947, the Speaker of the House is second in line of succession.",
     "tags": [
       "usa-tests",
-      "american-government",
+      "us-civics",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "usa-tests-rights-symbols-0012",
+    "id": "usa-tests-us-civics-0012",
     "category": "USA Tests",
-    "subcategory": "Rights & Symbols",
+    "subcategory": "US Civics",
     "difficulty": "hard",
-    "question": "US Civics and Government: How many voting United States Senators serve in the US Senate? (Ref #12)",
+    "question": "Who is the Commander in Chief of the United States Armed Forces?",
     "options": [
-      "435 Senators",
-      "50 Senators",
-      "200 Senators",
-      "100 Senators (exactly 2 from each of the 50 states)"
+      "The Secretary of Defense",
+      "The Chairman of the Joint Chiefs of Staff",
+      "The Speaker of the House",
+      "The President of the United States"
     ],
     "correctAnswer": 3,
-    "explanation": "Under Article I of the Constitution, each state is represented by exactly 2 senators, totaling 100.",
+    "explanation": "Article II, Section 2 of the Constitution designates the President as Commander in Chief of the Army and Navy.",
     "tags": [
       "usa-tests",
-      "rights-symbols",
+      "us-civics",
       "hard"
     ],
     "active": true
@@ -256,15 +256,15 @@
     "category": "USA Tests",
     "subcategory": "US Civics",
     "difficulty": "easy",
-    "question": "US Civics and Government: What collective name is given to the first ten amendments added to the United States Constitution? (Ref #13)",
+    "question": "Who signs bills passed by Congress to make them official federal laws?",
     "options": [
-      "The Bill of Rights",
-      "The Articles of Confederation",
-      "The Federalist Papers",
-      "The Magna Carta"
+      "The President of the United States",
+      "The Chief Justice",
+      "The Vice President",
+      "The Attorney General"
     ],
     "correctAnswer": 0,
-    "explanation": "Ratified in 1791, the first ten amendments comprise the Bill of Rights, safeguarding fundamental civil liberties.",
+    "explanation": "The President must sign an enrolled bill for it to become law, or it becomes law after 10 days without a presidential veto.",
     "tags": [
       "usa-tests",
       "us-civics",
@@ -273,64 +273,64 @@
     "active": true
   },
   {
-    "id": "usa-tests-us-constitution-0014",
+    "id": "usa-tests-us-civics-0014",
     "category": "USA Tests",
-    "subcategory": "US Constitution",
+    "subcategory": "US Civics",
     "difficulty": "medium",
-    "question": "US Civics and Government: How many voting members currently comprise the United States House of Representatives? (Ref #14)",
+    "question": "What fraction of votes in both the House and Senate is required to override a Presidential veto?",
     "options": [
-      "100 members",
-      "435 voting members",
-      "538 members",
-      "500 members"
+      "Three-fourths majority (3/4)",
+      "Two-thirds majority (2/3)",
+      "Simple majority (50% + 1)",
+      "Three-fifths majority (3/5)"
     ],
     "correctAnswer": 1,
-    "explanation": "The Permanent Apportionment Act of 1929 fixed the total number of voting US House Representatives at 435.",
+    "explanation": "Article I, Section 7 requires a two-thirds supermajority in both chambers of Congress to enact a bill over a presidential veto.",
     "tags": [
       "usa-tests",
-      "us-constitution",
+      "us-civics",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "usa-tests-american-government-0015",
+    "id": "usa-tests-us-civics-0015",
     "category": "USA Tests",
-    "subcategory": "American Government",
+    "subcategory": "US Civics",
     "difficulty": "hard",
-    "question": "US Civics and Government: What is the standard constitutional term length in years for a United States President? (Ref #15)",
+    "question": "What is the highest judicial court in the United States?",
     "options": [
-      "2 years",
-      "6 years",
-      "4 years per term",
-      "8 years"
+      "The Court of Appeals for the Federal Circuit",
+      "The Court of International Trade",
+      "The Supreme Court of the United States",
+      "The District Court of Washington D.C."
     ],
     "correctAnswer": 2,
-    "explanation": "Article II of the US Constitution establishes a presidential term length of 4 years, limited to two terms by the 22nd Amendment.",
+    "explanation": "Article III establishes the Supreme Court as the highest court with final appellate jurisdiction over federal questions.",
     "tags": [
       "usa-tests",
-      "american-government",
+      "us-civics",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "usa-tests-rights-symbols-0016",
+    "id": "usa-tests-us-civics-0016",
     "category": "USA Tests",
-    "subcategory": "Rights & Symbols",
+    "subcategory": "US Civics",
     "difficulty": "easy",
-    "question": "US Civics and Government: What are the three constitutional branches of the United States federal government? (Ref #16)",
+    "question": "How many Justices currently serve on the Supreme Court of the United States?",
     "options": [
-      "Federal, State, and Municipal",
-      "Military, Commercial, and Diplomatic",
-      "Presidential, Congressional, and Gubernatorial",
-      "Legislative, Executive, and Judicial"
+      "7",
+      "11",
+      "12",
+      "9"
     ],
     "correctAnswer": 3,
-    "explanation": "The US Constitution establishes three co-equal branches with checks and balances: Legislative (Congress), Executive (President), and Judicial (Supreme Court).",
+    "explanation": "The Judiciary Act of 1869 set the number of Supreme Court Justices at nine (one Chief Justice and eight Associate Justices).",
     "tags": [
       "usa-tests",
-      "rights-symbols",
+      "us-civics",
       "easy"
     ],
     "active": true
@@ -340,15 +340,15 @@
     "category": "USA Tests",
     "subcategory": "US Civics",
     "difficulty": "medium",
-    "question": "US Civics and Government: How many voting United States Senators serve in the US Senate? (Ref #17)",
+    "question": "Who appoints federal judges and Supreme Court Justices in the United States?",
     "options": [
-      "100 Senators (exactly 2 from each of the 50 states)",
-      "435 Senators",
-      "50 Senators",
-      "200 Senators"
+      "The President, with the advice and consent of the Senate",
+      "The House of Representatives",
+      "The Chief Justice",
+      "Direct popular vote by citizens"
     ],
     "correctAnswer": 0,
-    "explanation": "Under Article I of the Constitution, each state is represented by exactly 2 senators, totaling 100.",
+    "explanation": "Under the Appointments Clause of Article II, the President nominates judges subject to confirmation by a Senate majority.",
     "tags": [
       "usa-tests",
       "us-civics",
@@ -357,64 +357,64 @@
     "active": true
   },
   {
-    "id": "usa-tests-us-constitution-0018",
+    "id": "usa-tests-us-civics-0018",
     "category": "USA Tests",
-    "subcategory": "US Constitution",
+    "subcategory": "US Civics",
     "difficulty": "hard",
-    "question": "US Civics and Government: What collective name is given to the first ten amendments added to the United States Constitution? (Ref #18)",
+    "question": "How long do federal judges, including Supreme Court Justices, hold their office under Article III?",
     "options": [
-      "The Articles of Confederation",
-      "The Bill of Rights",
-      "The Federalist Papers",
-      "The Magna Carta"
+      "Ten-year terms",
+      "Life tenure during good behavior",
+      "Four-year renewable terms",
+      "Until age 70"
     ],
     "correctAnswer": 1,
-    "explanation": "Ratified in 1791, the first ten amendments comprise the Bill of Rights, safeguarding fundamental civil liberties.",
+    "explanation": "Article III judges serve for life during good behavior, insulating the judiciary from political pressures.",
     "tags": [
       "usa-tests",
-      "us-constitution",
+      "us-civics",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "usa-tests-american-government-0019",
+    "id": "usa-tests-us-civics-0019",
     "category": "USA Tests",
-    "subcategory": "American Government",
+    "subcategory": "US Civics",
     "difficulty": "easy",
-    "question": "US Civics and Government: How many voting members currently comprise the United States House of Representatives? (Ref #19)",
+    "question": "Who is the official President of the United States Senate, casting the tie-breaking vote when senators are equally divided?",
     "options": [
-      "100 members",
-      "538 members",
-      "435 voting members",
-      "500 members"
+      "The Senate Majority Leader",
+      "The Speaker of the House",
+      "The Vice President of the United States",
+      "The Attorney General"
     ],
     "correctAnswer": 2,
-    "explanation": "The Permanent Apportionment Act of 1929 fixed the total number of voting US House Representatives at 435.",
+    "explanation": "Article I, Section 3 designates the Vice President as President of the Senate with no vote unless the chamber is tied 50-50.",
     "tags": [
       "usa-tests",
-      "american-government",
+      "us-civics",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "usa-tests-rights-symbols-0020",
+    "id": "usa-tests-us-civics-0020",
     "category": "USA Tests",
-    "subcategory": "Rights & Symbols",
+    "subcategory": "US Civics",
     "difficulty": "medium",
-    "question": "US Civics and Government: What is the standard constitutional term length in years for a United States President? (Ref #20)",
+    "question": "What body officially elects the President and Vice President of the United States based on state popular votes?",
     "options": [
-      "2 years",
-      "6 years",
-      "8 years",
-      "4 years per term"
+      "The United States Senate",
+      "The House of Representatives",
+      "The National Governors Association",
+      "The Electoral College"
     ],
     "correctAnswer": 3,
-    "explanation": "Article II of the US Constitution establishes a presidential term length of 4 years, limited to two terms by the 22nd Amendment.",
+    "explanation": "Citizens vote for electors representing their state; the candidate securing at least 270 of 538 electoral votes wins the presidency.",
     "tags": [
       "usa-tests",
-      "rights-symbols",
+      "us-civics",
       "medium"
     ],
     "active": true
@@ -424,15 +424,15 @@
     "category": "USA Tests",
     "subcategory": "US Civics",
     "difficulty": "hard",
-    "question": "US Civics and Government: What are the three constitutional branches of the United States federal government? (Ref #21)",
+    "question": "How many total electoral votes comprise the United States Electoral College?",
     "options": [
-      "Legislative, Executive, and Judicial",
-      "Federal, State, and Municipal",
-      "Military, Commercial, and Diplomatic",
-      "Presidential, Congressional, and Gubernatorial"
+      "538",
+      "500",
+      "435",
+      "100"
     ],
     "correctAnswer": 0,
-    "explanation": "The US Constitution establishes three co-equal branches with checks and balances: Legislative (Congress), Executive (President), and Judicial (Supreme Court).",
+    "explanation": "538 votes total: 435 for representatives, 100 for senators, and 3 for the District of Columbia under the 23rd Amendment.",
     "tags": [
       "usa-tests",
       "us-civics",
@@ -441,64 +441,64 @@
     "active": true
   },
   {
-    "id": "usa-tests-us-constitution-0022",
+    "id": "usa-tests-us-civics-0022",
     "category": "USA Tests",
-    "subcategory": "US Constitution",
+    "subcategory": "US Civics",
     "difficulty": "easy",
-    "question": "US Civics and Government: How many voting United States Senators serve in the US Senate? (Ref #22)",
+    "question": "How many electoral votes are needed for a presidential candidate to win a majority in the Electoral College?",
     "options": [
-      "435 Senators",
-      "100 Senators (exactly 2 from each of the 50 states)",
-      "50 Senators",
-      "200 Senators"
+      "268",
+      "270",
+      "300",
+      "250"
     ],
     "correctAnswer": 1,
-    "explanation": "Under Article I of the Constitution, each state is represented by exactly 2 senators, totaling 100.",
+    "explanation": "A candidate must achieve an absolute majority of 270 electoral votes out of 538 to win the election.",
     "tags": [
       "usa-tests",
-      "us-constitution",
+      "us-civics",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "usa-tests-american-government-0023",
+    "id": "usa-tests-us-civics-0023",
     "category": "USA Tests",
-    "subcategory": "American Government",
+    "subcategory": "US Civics",
     "difficulty": "medium",
-    "question": "US Civics and Government: What collective name is given to the first ten amendments added to the United States Constitution? (Ref #23)",
+    "question": "Which federal department is responsible for foreign affairs and diplomatic relations of the United States?",
     "options": [
-      "The Articles of Confederation",
-      "The Federalist Papers",
-      "The Bill of Rights",
-      "The Magna Carta"
+      "The Department of Homeland Security",
+      "The Department of Defense",
+      "The Department of State",
+      "The Department of Commerce"
     ],
     "correctAnswer": 2,
-    "explanation": "Ratified in 1791, the first ten amendments comprise the Bill of Rights, safeguarding fundamental civil liberties.",
+    "explanation": "Headed by the Secretary of State, the State Department advises the President on foreign policy and leads diplomacy.",
     "tags": [
       "usa-tests",
-      "american-government",
+      "us-civics",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "usa-tests-rights-symbols-0024",
+    "id": "usa-tests-us-civics-0024",
     "category": "USA Tests",
-    "subcategory": "Rights & Symbols",
+    "subcategory": "US Civics",
     "difficulty": "hard",
-    "question": "US Civics and Government: How many voting members currently comprise the United States House of Representatives? (Ref #24)",
+    "question": "Which executive department is responsible for federal law enforcement and legal affairs, headed by the Attorney General?",
     "options": [
-      "100 members",
-      "538 members",
-      "500 members",
-      "435 voting members"
+      "The Department of the Interior",
+      "The Department of Homeland Security",
+      "The Department of the Treasury",
+      "The Department of Justice"
     ],
     "correctAnswer": 3,
-    "explanation": "The Permanent Apportionment Act of 1929 fixed the total number of voting US House Representatives at 435.",
+    "explanation": "The Department of Justice enforces federal laws, prosecutes federal criminal cases, and represents the US government in court.",
     "tags": [
       "usa-tests",
-      "rights-symbols",
+      "us-civics",
       "hard"
     ],
     "active": true
@@ -508,15 +508,15 @@
     "category": "USA Tests",
     "subcategory": "US Civics",
     "difficulty": "easy",
-    "question": "US Civics and Government: What is the standard constitutional term length in years for a United States President? (Ref #25)",
+    "question": "What is the primary role of the President's Cabinet?",
     "options": [
-      "4 years per term",
-      "2 years",
-      "6 years",
-      "8 years"
+      "To advise the President on matters relating to their respective executive departments",
+      "To pass federal legislation",
+      "To interpret constitutional legality of laws",
+      "To command combat troops directly"
     ],
     "correctAnswer": 0,
-    "explanation": "Article II of the US Constitution establishes a presidential term length of 4 years, limited to two terms by the 22nd Amendment.",
+    "explanation": "The Cabinet consists of the Vice President and heads of 15 executive departments, serving as the President's principal advisory advisory council.",
     "tags": [
       "usa-tests",
       "us-civics",
@@ -525,64 +525,64 @@
     "active": true
   },
   {
-    "id": "usa-tests-us-constitution-0026",
+    "id": "usa-tests-us-civics-0026",
     "category": "USA Tests",
-    "subcategory": "US Constitution",
+    "subcategory": "US Civics",
     "difficulty": "medium",
-    "question": "US Civics and Government: What are the three constitutional branches of the United States federal government? (Ref #26)",
+    "question": "Under the US Constitution, who possesses the exclusive power to declare war?",
     "options": [
-      "Federal, State, and Municipal",
-      "Legislative, Executive, and Judicial",
-      "Military, Commercial, and Diplomatic",
-      "Presidential, Congressional, and Gubernatorial"
+      "The President of the United States",
+      "The United States Congress",
+      "The Secretary of Defense",
+      "The Joint Chiefs of Staff"
     ],
     "correctAnswer": 1,
-    "explanation": "The US Constitution establishes three co-equal branches with checks and balances: Legislative (Congress), Executive (President), and Judicial (Supreme Court).",
+    "explanation": "Article I, Section 8, Clause 11 explicitly grants Congress the constitutional power to declare war.",
     "tags": [
       "usa-tests",
-      "us-constitution",
+      "us-civics",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "usa-tests-american-government-0027",
+    "id": "usa-tests-us-civics-0027",
     "category": "USA Tests",
-    "subcategory": "American Government",
+    "subcategory": "US Civics",
     "difficulty": "hard",
-    "question": "US Civics and Government: How many voting United States Senators serve in the US Senate? (Ref #27)",
+    "question": "Under the US Constitution, who has the sole power to impeach a federal official?",
     "options": [
-      "435 Senators",
-      "50 Senators",
-      "100 Senators (exactly 2 from each of the 50 states)",
-      "200 Senators"
+      "The United States Senate",
+      "The Supreme Court",
+      "The House of Representatives",
+      "The Department of Justice"
     ],
     "correctAnswer": 2,
-    "explanation": "Under Article I of the Constitution, each state is represented by exactly 2 senators, totaling 100.",
+    "explanation": "Article I, Section 2 grants the House the sole power of impeachment (bringing formal charges).",
     "tags": [
       "usa-tests",
-      "american-government",
+      "us-civics",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "usa-tests-rights-symbols-0028",
+    "id": "usa-tests-us-civics-0028",
     "category": "USA Tests",
-    "subcategory": "Rights & Symbols",
+    "subcategory": "US Civics",
     "difficulty": "easy",
-    "question": "US Civics and Government: What collective name is given to the first ten amendments added to the United States Constitution? (Ref #28)",
+    "question": "Where is the impeachment trial of a federal official conducted after charges are brought by the House?",
     "options": [
-      "The Articles of Confederation",
-      "The Federalist Papers",
-      "The Magna Carta",
-      "The Bill of Rights"
+      "In the Supreme Court",
+      "In the Federal District Court",
+      "In a military tribunal",
+      "In the United States Senate"
     ],
     "correctAnswer": 3,
-    "explanation": "Ratified in 1791, the first ten amendments comprise the Bill of Rights, safeguarding fundamental civil liberties.",
+    "explanation": "Article I, Section 3 states that the Senate has the sole power to try all impeachments, requiring a two-thirds vote to convict.",
     "tags": [
       "usa-tests",
-      "rights-symbols",
+      "us-civics",
       "easy"
     ],
     "active": true
@@ -592,15 +592,15 @@
     "category": "USA Tests",
     "subcategory": "US Civics",
     "difficulty": "medium",
-    "question": "US Civics and Government: How many voting members currently comprise the United States House of Representatives? (Ref #29)",
+    "question": "Who presides over the Senate trial when the President of the United States is impeached?",
     "options": [
-      "435 voting members",
-      "100 members",
-      "538 members",
-      "500 members"
+      "The Chief Justice of the Supreme Court",
+      "The Vice President",
+      "The Senate Majority Leader",
+      "The Speaker of the House"
     ],
     "correctAnswer": 0,
-    "explanation": "The Permanent Apportionment Act of 1929 fixed the total number of voting US House Representatives at 435.",
+    "explanation": "Article I, Section 3 requires the Chief Justice to preside over a presidential impeachment trial to avoid a conflict of interest with the Vice President.",
     "tags": [
       "usa-tests",
       "us-civics",
@@ -609,64 +609,64 @@
     "active": true
   },
   {
-    "id": "usa-tests-us-constitution-0030",
+    "id": "usa-tests-us-civics-0030",
     "category": "USA Tests",
-    "subcategory": "US Constitution",
+    "subcategory": "US Civics",
     "difficulty": "hard",
-    "question": "US Civics and Government: What is the standard constitutional term length in years for a United States President? (Ref #30)",
+    "question": "What is the minimum voting age for United States citizens established by the Twenty-Sixth Amendment?",
     "options": [
-      "2 years",
-      "4 years per term",
-      "6 years",
-      "8 years"
+      "21 years old",
+      "18 years old",
+      "16 years old",
+      "20 years old"
     ],
     "correctAnswer": 1,
-    "explanation": "Article II of the US Constitution establishes a presidential term length of 4 years, limited to two terms by the 22nd Amendment.",
+    "explanation": "Ratified in 1971 during the Vietnam War, the 26th Amendment lowered the voting age across the country to 18.",
     "tags": [
       "usa-tests",
-      "us-constitution",
+      "us-civics",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "usa-tests-american-government-0031",
+    "id": "usa-tests-us-civics-0031",
     "category": "USA Tests",
-    "subcategory": "American Government",
+    "subcategory": "US Civics",
     "difficulty": "easy",
-    "question": "US Civics and Government: What are the three constitutional branches of the United States federal government? (Ref #31)",
+    "question": "Which constitutional amendment guarantees the right of citizens to peaceably assemble and petition the government for a redress of grievances?",
     "options": [
-      "Federal, State, and Municipal",
-      "Military, Commercial, and Diplomatic",
-      "Legislative, Executive, and Judicial",
-      "Presidential, Congressional, and Gubernatorial"
+      "The Second Amendment",
+      "The Fourth Amendment",
+      "The First Amendment",
+      "The Fifth Amendment"
     ],
     "correctAnswer": 2,
-    "explanation": "The US Constitution establishes three co-equal branches with checks and balances: Legislative (Congress), Executive (President), and Judicial (Supreme Court).",
+    "explanation": "The First Amendment protects five fundamental freedoms: religion, speech, press, assembly, and petition.",
     "tags": [
       "usa-tests",
-      "american-government",
+      "us-civics",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "usa-tests-rights-symbols-0032",
+    "id": "usa-tests-us-civics-0032",
     "category": "USA Tests",
-    "subcategory": "Rights & Symbols",
+    "subcategory": "US Civics",
     "difficulty": "medium",
-    "question": "US Civics and Government: How many voting United States Senators serve in the US Senate? (Ref #32)",
+    "question": "Which constitutional amendment protects citizens against unreasonable searches and seizures of their persons, houses, papers, and effects?",
     "options": [
-      "435 Senators",
-      "50 Senators",
-      "200 Senators",
-      "100 Senators (exactly 2 from each of the 50 states)"
+      "The Fifth Amendment",
+      "The Sixth Amendment",
+      "The Eighth Amendment",
+      "The Fourth Amendment"
     ],
     "correctAnswer": 3,
-    "explanation": "Under Article I of the Constitution, each state is represented by exactly 2 senators, totaling 100.",
+    "explanation": "The Fourth Amendment requires warrants supported by probable cause describing the place to be searched and persons or things to be seized.",
     "tags": [
       "usa-tests",
-      "rights-symbols",
+      "us-civics",
       "medium"
     ],
     "active": true
@@ -676,15 +676,15 @@
     "category": "USA Tests",
     "subcategory": "US Civics",
     "difficulty": "hard",
-    "question": "US Civics and Government: What collective name is given to the first ten amendments added to the United States Constitution? (Ref #33)",
+    "question": "Which constitutional amendment guarantees protection against double jeopardy and self-incrimination, and ensures due process of law?",
     "options": [
-      "The Bill of Rights",
-      "The Articles of Confederation",
-      "The Federalist Papers",
-      "The Magna Carta"
+      "The Fifth Amendment",
+      "The Fourth Amendment",
+      "The Sixth Amendment",
+      "The Seventh Amendment"
     ],
     "correctAnswer": 0,
-    "explanation": "Ratified in 1791, the first ten amendments comprise the Bill of Rights, safeguarding fundamental civil liberties.",
+    "explanation": "The Fifth Amendment provides the right to grand jury indictment, prohibits double jeopardy, and guarantees due process.",
     "tags": [
       "usa-tests",
       "us-civics",
@@ -693,64 +693,64 @@
     "active": true
   },
   {
-    "id": "usa-tests-us-constitution-0034",
+    "id": "usa-tests-us-civics-0034",
     "category": "USA Tests",
-    "subcategory": "US Constitution",
+    "subcategory": "US Civics",
     "difficulty": "easy",
-    "question": "US Civics and Government: How many voting members currently comprise the United States House of Representatives? (Ref #34)",
+    "question": "Which constitutional amendment guarantees an accused person the right to a speedy and public trial by an impartial jury and the assistance of counsel?",
     "options": [
-      "100 members",
-      "435 voting members",
-      "538 members",
-      "500 members"
+      "The Seventh Amendment",
+      "The Sixth Amendment",
+      "The Fifth Amendment",
+      "The Eighth Amendment"
     ],
     "correctAnswer": 1,
-    "explanation": "The Permanent Apportionment Act of 1929 fixed the total number of voting US House Representatives at 435.",
+    "explanation": "The Sixth Amendment secures fundamental criminal trial rights, including compulsory process and legal counsel.",
     "tags": [
       "usa-tests",
-      "us-constitution",
+      "us-civics",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "usa-tests-american-government-0035",
+    "id": "usa-tests-us-civics-0035",
     "category": "USA Tests",
-    "subcategory": "American Government",
+    "subcategory": "US Civics",
     "difficulty": "medium",
-    "question": "US Civics and Government: What is the standard constitutional term length in years for a United States President? (Ref #35)",
+    "question": "Which constitutional amendment prohibits excessive bail, excessive fines, and cruel and unusual punishments?",
     "options": [
-      "2 years",
-      "6 years",
-      "4 years per term",
-      "8 years"
+      "The Seventh Amendment",
+      "The Ninth Amendment",
+      "The Eighth Amendment",
+      "The Tenth Amendment"
     ],
     "correctAnswer": 2,
-    "explanation": "Article II of the US Constitution establishes a presidential term length of 4 years, limited to two terms by the 22nd Amendment.",
+    "explanation": "The Eighth Amendment safeguards individuals against disproportionate punishments and torture by the state.",
     "tags": [
       "usa-tests",
-      "american-government",
+      "us-civics",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "usa-tests-rights-symbols-0036",
+    "id": "usa-tests-us-civics-0036",
     "category": "USA Tests",
-    "subcategory": "Rights & Symbols",
+    "subcategory": "US Civics",
     "difficulty": "hard",
-    "question": "US Civics and Government: What are the three constitutional branches of the United States federal government? (Ref #36)",
+    "question": "Which constitutional amendment clarifies that the enumeration of certain rights in the Constitution shall not be construed to deny other retained rights?",
     "options": [
-      "Federal, State, and Municipal",
-      "Military, Commercial, and Diplomatic",
-      "Presidential, Congressional, and Gubernatorial",
-      "Legislative, Executive, and Judicial"
+      "The Tenth Amendment",
+      "The Seventh Amendment",
+      "The Fourteenth Amendment",
+      "The Ninth Amendment"
     ],
     "correctAnswer": 3,
-    "explanation": "The US Constitution establishes three co-equal branches with checks and balances: Legislative (Congress), Executive (President), and Judicial (Supreme Court).",
+    "explanation": "The Ninth Amendment confirms that individuals possess unenumerated fundamental natural rights not explicitly written in the text.",
     "tags": [
       "usa-tests",
-      "rights-symbols",
+      "us-civics",
       "hard"
     ],
     "active": true
@@ -760,15 +760,15 @@
     "category": "USA Tests",
     "subcategory": "US Civics",
     "difficulty": "easy",
-    "question": "US Civics and Government: How many voting United States Senators serve in the US Senate? (Ref #37)",
+    "question": "Which constitutional amendment states that powers not delegated to the federal government by the Constitution are reserved to the states or people?",
     "options": [
-      "100 Senators (exactly 2 from each of the 50 states)",
-      "435 Senators",
-      "50 Senators",
-      "200 Senators"
+      "The Tenth Amendment",
+      "The Ninth Amendment",
+      "The Eleventh Amendment",
+      "The Twelfth Amendment"
     ],
     "correctAnswer": 0,
-    "explanation": "Under Article I of the Constitution, each state is represented by exactly 2 senators, totaling 100.",
+    "explanation": "The Tenth Amendment embodies the core principle of federalism, preserving states' police powers and residual authority.",
     "tags": [
       "usa-tests",
       "us-civics",
@@ -777,85 +777,85 @@
     "active": true
   },
   {
-    "id": "usa-tests-us-constitution-0038",
+    "id": "usa-tests-us-civics-0038",
     "category": "USA Tests",
-    "subcategory": "US Constitution",
+    "subcategory": "US Civics",
     "difficulty": "medium",
-    "question": "US Civics and Government: What collective name is given to the first ten amendments added to the United States Constitution? (Ref #38)",
+    "question": "How many total constitutional amendments have been ratified since the adoption of the United States Constitution?",
     "options": [
-      "The Articles of Confederation",
-      "The Bill of Rights",
-      "The Federalist Papers",
-      "The Magna Carta"
+      "10 amendments",
+      "27 amendments",
+      "21 amendments",
+      "33 amendments"
     ],
     "correctAnswer": 1,
-    "explanation": "Ratified in 1791, the first ten amendments comprise the Bill of Rights, safeguarding fundamental civil liberties.",
+    "explanation": "Starting with the Bill of Rights (1-10 in 1791), 27 total amendments have been ratified, most recently the 27th in 1992.",
     "tags": [
       "usa-tests",
-      "us-constitution",
+      "us-civics",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "usa-tests-american-government-0039",
+    "id": "usa-tests-us-civics-0039",
     "category": "USA Tests",
-    "subcategory": "American Government",
+    "subcategory": "US Civics",
     "difficulty": "hard",
-    "question": "US Civics and Government: How many voting members currently comprise the United States House of Representatives? (Ref #39)",
+    "question": "What process conducts a complete national count of the United States population every ten years as mandated by Article I?",
     "options": [
-      "100 members",
-      "538 members",
-      "435 voting members",
-      "500 members"
+      "The Federal Voter Registry",
+      "The Department of Labor Survey",
+      "The United States Decennial Census",
+      "The National Housing Index"
     ],
     "correctAnswer": 2,
-    "explanation": "The Permanent Apportionment Act of 1929 fixed the total number of voting US House Representatives at 435.",
+    "explanation": "The US Census counts every resident to determine the apportionment of seats in the House of Representatives.",
     "tags": [
       "usa-tests",
-      "american-government",
+      "us-civics",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "usa-tests-rights-symbols-0040",
+    "id": "usa-tests-us-civics-0040",
     "category": "USA Tests",
-    "subcategory": "Rights & Symbols",
+    "subcategory": "US Civics",
     "difficulty": "easy",
-    "question": "US Civics and Government: What is the standard constitutional term length in years for a United States President? (Ref #40)",
+    "question": "What is the primary responsibility of the executive branch of the United States government?",
     "options": [
-      "2 years",
-      "6 years",
-      "8 years",
-      "4 years per term"
+      "To make and enact federal statutory laws",
+      "To evaluate and interpret the constitutionality of laws",
+      "To print and regulate monetary currency",
+      "To enforce and administer federal laws"
     ],
     "correctAnswer": 3,
-    "explanation": "Article II of the US Constitution establishes a presidential term length of 4 years, limited to two terms by the 22nd Amendment.",
+    "explanation": "Article II vests executive power in the President to ensure that laws enacted by Congress are faithfully executed.",
     "tags": [
       "usa-tests",
-      "rights-symbols",
+      "us-civics",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "usa-tests-us-civics-0041",
+    "id": "usa-tests-us-constitution-0041",
     "category": "USA Tests",
-    "subcategory": "US Civics",
+    "subcategory": "US Constitution",
     "difficulty": "medium",
-    "question": "US Civics and Government: What are the three constitutional branches of the United States federal government? (Ref #41)",
+    "question": "Which Article of the United States Constitution establishes the structure, powers, and limits of the Legislative Branch (Congress)?",
     "options": [
-      "Legislative, Executive, and Judicial",
-      "Federal, State, and Municipal",
-      "Military, Commercial, and Diplomatic",
-      "Presidential, Congressional, and Gubernatorial"
+      "Article I",
+      "Article II",
+      "Article III",
+      "Article IV"
     ],
     "correctAnswer": 0,
-    "explanation": "The US Constitution establishes three co-equal branches with checks and balances: Legislative (Congress), Executive (President), and Judicial (Supreme Court).",
+    "explanation": "Article I establishes the bicameral Congress (Senate and House of Representatives) and lists legislative powers.",
     "tags": [
       "usa-tests",
-      "us-civics",
+      "us-constitution",
       "medium"
     ],
     "active": true
@@ -865,15 +865,15 @@
     "category": "USA Tests",
     "subcategory": "US Constitution",
     "difficulty": "hard",
-    "question": "US Civics and Government: How many voting United States Senators serve in the US Senate? (Ref #42)",
+    "question": "Which Article of the United States Constitution establishes the Executive Branch headed by the President?",
     "options": [
-      "435 Senators",
-      "100 Senators (exactly 2 from each of the 50 states)",
-      "50 Senators",
-      "200 Senators"
+      "Article I",
+      "Article II",
+      "Article III",
+      "Article IV"
     ],
     "correctAnswer": 1,
-    "explanation": "Under Article I of the Constitution, each state is represented by exactly 2 senators, totaling 100.",
+    "explanation": "Article II details executive authority, presidential qualifications, election procedures, and removal through impeachment.",
     "tags": [
       "usa-tests",
       "us-constitution",
@@ -882,64 +882,64 @@
     "active": true
   },
   {
-    "id": "usa-tests-american-government-0043",
+    "id": "usa-tests-us-constitution-0043",
     "category": "USA Tests",
-    "subcategory": "American Government",
+    "subcategory": "US Constitution",
     "difficulty": "easy",
-    "question": "US Civics and Government: What collective name is given to the first ten amendments added to the United States Constitution? (Ref #43)",
+    "question": "Which Article of the United States Constitution establishes the Judicial Branch and the Supreme Court?",
     "options": [
-      "The Articles of Confederation",
-      "The Federalist Papers",
-      "The Bill of Rights",
-      "The Magna Carta"
+      "Article II",
+      "Article IV",
+      "Article III",
+      "Article V"
     ],
     "correctAnswer": 2,
-    "explanation": "Ratified in 1791, the first ten amendments comprise the Bill of Rights, safeguarding fundamental civil liberties.",
+    "explanation": "Article III creates the Supreme Court, grants federal judicial tenure during good behavior, and defines treason.",
     "tags": [
       "usa-tests",
-      "american-government",
+      "us-constitution",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "usa-tests-rights-symbols-0044",
+    "id": "usa-tests-us-constitution-0044",
     "category": "USA Tests",
-    "subcategory": "Rights & Symbols",
+    "subcategory": "US Constitution",
     "difficulty": "medium",
-    "question": "US Civics and Government: How many voting members currently comprise the United States House of Representatives? (Ref #44)",
+    "question": "Which Article of the United States Constitution addresses relations among states and guarantees a republican form of government to every state?",
     "options": [
-      "100 members",
-      "538 members",
-      "500 members",
-      "435 voting members"
+      "Article III",
+      "Article V",
+      "Article VI",
+      "Article IV"
     ],
     "correctAnswer": 3,
-    "explanation": "The Permanent Apportionment Act of 1929 fixed the total number of voting US House Representatives at 435.",
+    "explanation": "Article IV contains the Full Faith and Credit Clause, Privileges and Immunities Clause, and procedures for admitting new states.",
     "tags": [
       "usa-tests",
-      "rights-symbols",
+      "us-constitution",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "usa-tests-us-civics-0045",
+    "id": "usa-tests-us-constitution-0045",
     "category": "USA Tests",
-    "subcategory": "US Civics",
+    "subcategory": "US Constitution",
     "difficulty": "hard",
-    "question": "US Civics and Government: What is the standard constitutional term length in years for a United States President? (Ref #45)",
+    "question": "Which Article of the United States Constitution specifies the two methods for proposing and ratifying constitutional amendments?",
     "options": [
-      "4 years per term",
-      "2 years",
-      "6 years",
-      "8 years"
+      "Article V",
+      "Article IV",
+      "Article VI",
+      "Article VII"
     ],
     "correctAnswer": 0,
-    "explanation": "Article II of the US Constitution establishes a presidential term length of 4 years, limited to two terms by the 22nd Amendment.",
+    "explanation": "Article V stipulates that amendments may be proposed by a two-thirds vote of both houses of Congress and ratified by three-fourths of states.",
     "tags": [
       "usa-tests",
-      "us-civics",
+      "us-constitution",
       "hard"
     ],
     "active": true
@@ -949,15 +949,15 @@
     "category": "USA Tests",
     "subcategory": "US Constitution",
     "difficulty": "easy",
-    "question": "US Civics and Government: What are the three constitutional branches of the United States federal government? (Ref #46)",
+    "question": "Which clause in Article VI of the Constitution declares that the Constitution and federal treaties constitute the supreme law of the land?",
     "options": [
-      "Federal, State, and Municipal",
-      "Legislative, Executive, and Judicial",
-      "Military, Commercial, and Diplomatic",
-      "Presidential, Congressional, and Gubernatorial"
+      "The Commerce Clause",
+      "The Supremacy Clause",
+      "The Necessary and Proper Clause",
+      "The Equal Protection Clause"
     ],
     "correctAnswer": 1,
-    "explanation": "The US Constitution establishes three co-equal branches with checks and balances: Legislative (Congress), Executive (President), and Judicial (Supreme Court).",
+    "explanation": "The Supremacy Clause ensures that federal constitutional law takes precedence over conflicting state laws and state constitutions.",
     "tags": [
       "usa-tests",
       "us-constitution",
@@ -966,64 +966,64 @@
     "active": true
   },
   {
-    "id": "usa-tests-american-government-0047",
+    "id": "usa-tests-us-constitution-0047",
     "category": "USA Tests",
-    "subcategory": "American Government",
+    "subcategory": "US Constitution",
     "difficulty": "medium",
-    "question": "US Civics and Government: How many voting United States Senators serve in the US Senate? (Ref #47)",
+    "question": "Which clause in Article I, Section 8 authorizes Congress to make all laws 'necessary and proper' for executing enumerated powers?",
     "options": [
-      "435 Senators",
-      "50 Senators",
-      "100 Senators (exactly 2 from each of the 50 states)",
-      "200 Senators"
+      "The Commerce Clause",
+      "The General Welfare Clause",
+      "The Elastic Clause (Necessary and Proper Clause)",
+      "The Due Process Clause"
     ],
     "correctAnswer": 2,
-    "explanation": "Under Article I of the Constitution, each state is represented by exactly 2 senators, totaling 100.",
+    "explanation": "The Elastic Clause grants Congress implied powers beyond its explicitly listed enumerated constitutional duties.",
     "tags": [
       "usa-tests",
-      "american-government",
+      "us-constitution",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "usa-tests-rights-symbols-0048",
+    "id": "usa-tests-us-constitution-0048",
     "category": "USA Tests",
-    "subcategory": "Rights & Symbols",
+    "subcategory": "US Constitution",
     "difficulty": "hard",
-    "question": "US Civics and Government: What collective name is given to the first ten amendments added to the United States Constitution? (Ref #48)",
+    "question": "Which clause in Article I, Section 8 grants Congress the authority to regulate commerce with foreign nations and among the several states?",
     "options": [
-      "The Articles of Confederation",
-      "The Federalist Papers",
-      "The Magna Carta",
-      "The Bill of Rights"
+      "The Supremacy Clause",
+      "The Contracts Clause",
+      "The Takings Clause",
+      "The Commerce Clause"
     ],
     "correctAnswer": 3,
-    "explanation": "Ratified in 1791, the first ten amendments comprise the Bill of Rights, safeguarding fundamental civil liberties.",
+    "explanation": "The Commerce Clause has served as the constitutional foundation for federal regulation of the interstate national economy.",
     "tags": [
       "usa-tests",
-      "rights-symbols",
+      "us-constitution",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "usa-tests-us-civics-0049",
+    "id": "usa-tests-us-constitution-0049",
     "category": "USA Tests",
-    "subcategory": "US Civics",
+    "subcategory": "US Constitution",
     "difficulty": "easy",
-    "question": "US Civics and Government: How many voting members currently comprise the United States House of Representatives? (Ref #49)",
+    "question": "What constitutional clause in Article IV requires each state to recognize public acts, records, and judicial proceedings of every other state?",
     "options": [
-      "435 voting members",
-      "100 members",
-      "538 members",
-      "500 members"
+      "The Full Faith and Credit Clause",
+      "The Privileges and Immunities Clause",
+      "The Establishment Clause",
+      "The Free Exercise Clause"
     ],
     "correctAnswer": 0,
-    "explanation": "The Permanent Apportionment Act of 1929 fixed the total number of voting US House Representatives at 435.",
+    "explanation": "This clause ensures legal reciprocity, such as state recognition of marriages, driver licenses, and civil court judgments.",
     "tags": [
       "usa-tests",
-      "us-civics",
+      "us-constitution",
       "easy"
     ],
     "active": true
@@ -1033,15 +1033,15 @@
     "category": "USA Tests",
     "subcategory": "US Constitution",
     "difficulty": "medium",
-    "question": "US Civics and Government: What is the standard constitutional term length in years for a United States President? (Ref #50)",
+    "question": "What clause of the First Amendment prohibits the federal government from establishing an official state religion or favoring one faith?",
     "options": [
-      "2 years",
-      "4 years per term",
-      "6 years",
-      "8 years"
+      "The Free Exercise Clause",
+      "The Establishment Clause",
+      "The Equal Protection Clause",
+      "The Supremacy Clause"
     ],
     "correctAnswer": 1,
-    "explanation": "Article II of the US Constitution establishes a presidential term length of 4 years, limited to two terms by the 22nd Amendment.",
+    "explanation": "The Establishment Clause erects a wall of separation between church and state, banning government-sponsored religion.",
     "tags": [
       "usa-tests",
       "us-constitution",
@@ -1050,64 +1050,64 @@
     "active": true
   },
   {
-    "id": "usa-tests-american-government-0051",
+    "id": "usa-tests-us-constitution-0051",
     "category": "USA Tests",
-    "subcategory": "American Government",
+    "subcategory": "US Constitution",
     "difficulty": "hard",
-    "question": "US Civics and Government: What are the three constitutional branches of the United States federal government? (Ref #51)",
+    "question": "What clause of the First Amendment protects the fundamental right of individuals to practice their chosen religious beliefs freely?",
     "options": [
-      "Federal, State, and Municipal",
-      "Military, Commercial, and Diplomatic",
-      "Legislative, Executive, and Judicial",
-      "Presidential, Congressional, and Gubernatorial"
+      "The Establishment Clause",
+      "The Privileges and Immunities Clause",
+      "The Free Exercise Clause",
+      "The Due Process Clause"
     ],
     "correctAnswer": 2,
-    "explanation": "The US Constitution establishes three co-equal branches with checks and balances: Legislative (Congress), Executive (President), and Judicial (Supreme Court).",
+    "explanation": "The Free Exercise Clause prohibits government interference with the lawful exercise and practice of religious faith.",
     "tags": [
       "usa-tests",
-      "american-government",
+      "us-constitution",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "usa-tests-rights-symbols-0052",
+    "id": "usa-tests-us-constitution-0052",
     "category": "USA Tests",
-    "subcategory": "Rights & Symbols",
+    "subcategory": "US Constitution",
     "difficulty": "easy",
-    "question": "US Civics and Government: How many voting United States Senators serve in the US Senate? (Ref #52)",
+    "question": "What legal doctrine derived from the Fourth Amendment bars the use of unconstitutionally seized evidence in a criminal trial?",
     "options": [
-      "435 Senators",
-      "50 Senators",
-      "200 Senators",
-      "100 Senators (exactly 2 from each of the 50 states)"
+      "The Plain View Doctrine",
+      "The Good Faith Exception",
+      "The Inevitable Discovery Rule",
+      "The Exclusionary Rule"
     ],
     "correctAnswer": 3,
-    "explanation": "Under Article I of the Constitution, each state is represented by exactly 2 senators, totaling 100.",
+    "explanation": "Established in Weeks v. US and applied to states in Mapp v. Ohio, this rule excludes illegally obtained evidence.",
     "tags": [
       "usa-tests",
-      "rights-symbols",
+      "us-constitution",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "usa-tests-us-civics-0053",
+    "id": "usa-tests-us-constitution-0053",
     "category": "USA Tests",
-    "subcategory": "US Civics",
+    "subcategory": "US Constitution",
     "difficulty": "medium",
-    "question": "US Civics and Government: What collective name is given to the first ten amendments added to the United States Constitution? (Ref #53)",
+    "question": "What constitutional safeguard ensures that an arrested person must be brought before a judge to determine whether their detention is lawful?",
     "options": [
-      "The Bill of Rights",
-      "The Articles of Confederation",
-      "The Federalist Papers",
-      "The Magna Carta"
+      "Writ of Habeas Corpus",
+      "Ex Post Facto Law",
+      "Bill of Attainder",
+      "Letters of Marque"
     ],
     "correctAnswer": 0,
-    "explanation": "Ratified in 1791, the first ten amendments comprise the Bill of Rights, safeguarding fundamental civil liberties.",
+    "explanation": "Article I, Section 9 protects the Privilege of the Writ of Habeas Corpus from suspension except in cases of rebellion or invasion.",
     "tags": [
       "usa-tests",
-      "us-civics",
+      "us-constitution",
       "medium"
     ],
     "active": true
@@ -1117,15 +1117,15 @@
     "category": "USA Tests",
     "subcategory": "US Constitution",
     "difficulty": "hard",
-    "question": "US Civics and Government: How many voting members currently comprise the United States House of Representatives? (Ref #54)",
+    "question": "What type of retroactive criminal law, strictly prohibited by Article I of the Constitution, punishes an act committed before the law was passed?",
     "options": [
-      "100 members",
-      "435 voting members",
-      "538 members",
-      "500 members"
+      "Bill of attainder",
+      "Ex post facto law",
+      "Writ of mandamus",
+      "Substantive due process law"
     ],
     "correctAnswer": 1,
-    "explanation": "The Permanent Apportionment Act of 1929 fixed the total number of voting US House Representatives at 435.",
+    "explanation": "The Constitution bans both federal and state governments from passing ex post facto laws that retroactively increase criminal penalties.",
     "tags": [
       "usa-tests",
       "us-constitution",
@@ -1134,64 +1134,64 @@
     "active": true
   },
   {
-    "id": "usa-tests-american-government-0055",
+    "id": "usa-tests-us-constitution-0055",
     "category": "USA Tests",
-    "subcategory": "American Government",
+    "subcategory": "US Constitution",
     "difficulty": "easy",
-    "question": "US Civics and Government: What is the standard constitutional term length in years for a United States President? (Ref #55)",
+    "question": "What legislative act that declares a named person guilty of a crime and imposes punishment without a judicial trial is banned by the Constitution?",
     "options": [
-      "2 years",
-      "6 years",
-      "4 years per term",
-      "8 years"
+      "Ex post facto law",
+      "Writ of certiorari",
+      "Bill of attainder",
+      "Quo warranto"
     ],
     "correctAnswer": 2,
-    "explanation": "Article II of the US Constitution establishes a presidential term length of 4 years, limited to two terms by the 22nd Amendment.",
+    "explanation": "Bills of attainder violate the separation of powers by allowing legislators to perform judicial sentencing.",
     "tags": [
       "usa-tests",
-      "american-government",
+      "us-constitution",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "usa-tests-rights-symbols-0056",
+    "id": "usa-tests-us-constitution-0056",
     "category": "USA Tests",
-    "subcategory": "Rights & Symbols",
+    "subcategory": "US Constitution",
     "difficulty": "medium",
-    "question": "US Civics and Government: What are the three constitutional branches of the United States federal government? (Ref #56)",
+    "question": "Which constitutional amendment established the direct popular election of United States Senators by the voters of each state?",
     "options": [
-      "Federal, State, and Municipal",
-      "Military, Commercial, and Diplomatic",
-      "Presidential, Congressional, and Gubernatorial",
-      "Legislative, Executive, and Judicial"
+      "The Sixteenth Amendment",
+      "The Fifteenth Amendment",
+      "The Nineteenth Amendment",
+      "The Seventeenth Amendment"
     ],
     "correctAnswer": 3,
-    "explanation": "The US Constitution establishes three co-equal branches with checks and balances: Legislative (Congress), Executive (President), and Judicial (Supreme Court).",
+    "explanation": "Ratified in 1913, the 17th Amendment replaced senator selection by state legislatures with direct democratic elections.",
     "tags": [
       "usa-tests",
-      "rights-symbols",
+      "us-constitution",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "usa-tests-us-civics-0057",
+    "id": "usa-tests-us-constitution-0057",
     "category": "USA Tests",
-    "subcategory": "US Civics",
+    "subcategory": "US Constitution",
     "difficulty": "hard",
-    "question": "US Civics and Government: How many voting United States Senators serve in the US Senate? (Ref #57)",
+    "question": "Which constitutional amendment authorized the federal government to levy an income tax on individuals without state apportionment?",
     "options": [
-      "100 Senators (exactly 2 from each of the 50 states)",
-      "435 Senators",
-      "50 Senators",
-      "200 Senators"
+      "The Sixteenth Amendment",
+      "The Fifteenth Amendment",
+      "The Seventeenth Amendment",
+      "The Fourteenth Amendment"
     ],
     "correctAnswer": 0,
-    "explanation": "Under Article I of the Constitution, each state is represented by exactly 2 senators, totaling 100.",
+    "explanation": "Ratified in 1913, the 16th Amendment empowered Congress to collect taxes on incomes from whatever source derived.",
     "tags": [
       "usa-tests",
-      "us-civics",
+      "us-constitution",
       "hard"
     ],
     "active": true
@@ -1201,15 +1201,15 @@
     "category": "USA Tests",
     "subcategory": "US Constitution",
     "difficulty": "easy",
-    "question": "US Civics and Government: What collective name is given to the first ten amendments added to the United States Constitution? (Ref #58)",
+    "question": "Which constitutional amendment enacted national Prohibition, banning the manufacture, sale, and transportation of intoxicating liquors?",
     "options": [
-      "The Articles of Confederation",
-      "The Bill of Rights",
-      "The Federalist Papers",
-      "The Magna Carta"
+      "The Sixteenth Amendment",
+      "The Eighteenth Amendment",
+      "The Twenty-First Amendment",
+      "The Twentieth Amendment"
     ],
     "correctAnswer": 1,
-    "explanation": "Ratified in 1791, the first ten amendments comprise the Bill of Rights, safeguarding fundamental civil liberties.",
+    "explanation": "Ratified in 1919, the 18th Amendment outlawed alcohol, creating an era of bootlegging and speakeasies.",
     "tags": [
       "usa-tests",
       "us-constitution",
@@ -1218,64 +1218,64 @@
     "active": true
   },
   {
-    "id": "usa-tests-american-government-0059",
+    "id": "usa-tests-us-constitution-0059",
     "category": "USA Tests",
-    "subcategory": "American Government",
+    "subcategory": "US Constitution",
     "difficulty": "medium",
-    "question": "US Civics and Government: How many voting members currently comprise the United States House of Representatives? (Ref #59)",
+    "question": "Which constitutional amendment repealed Prohibition in 1933, making it the only amendment ratified specifically to overturn an earlier amendment?",
     "options": [
-      "100 members",
-      "538 members",
-      "435 voting members",
-      "500 members"
+      "The Twentieth Amendment",
+      "The Twenty-Second Amendment",
+      "The Twenty-First Amendment",
+      "The Nineteenth Amendment"
     ],
     "correctAnswer": 2,
-    "explanation": "The Permanent Apportionment Act of 1929 fixed the total number of voting US House Representatives at 435.",
+    "explanation": "The 21st Amendment repealed the 18th Amendment, returning alcohol regulation to the individual states.",
     "tags": [
       "usa-tests",
-      "american-government",
+      "us-constitution",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "usa-tests-rights-symbols-0060",
+    "id": "usa-tests-us-constitution-0060",
     "category": "USA Tests",
-    "subcategory": "Rights & Symbols",
+    "subcategory": "US Constitution",
     "difficulty": "hard",
-    "question": "US Civics and Government: What is the standard constitutional term length in years for a United States President? (Ref #60)",
+    "question": "Which constitutional amendment moved Presidential Inauguration Day from March 4 to January 20, reducing the 'lame duck' transition period?",
     "options": [
-      "2 years",
-      "6 years",
-      "8 years",
-      "4 years per term"
+      "The Twenty-Second Amendment",
+      "The Twenty-Fifth Amendment",
+      "The Twenty-Fourth Amendment",
+      "The Twentieth Amendment"
     ],
     "correctAnswer": 3,
-    "explanation": "Article II of the US Constitution establishes a presidential term length of 4 years, limited to two terms by the 22nd Amendment.",
+    "explanation": "Ratified in 1933, the 20th Amendment shortened the post-election transition period for the President and Congress.",
     "tags": [
       "usa-tests",
-      "rights-symbols",
+      "us-constitution",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "usa-tests-us-civics-0061",
+    "id": "usa-tests-us-constitution-0061",
     "category": "USA Tests",
-    "subcategory": "US Civics",
+    "subcategory": "US Constitution",
     "difficulty": "easy",
-    "question": "US Civics and Government: What are the three constitutional branches of the United States federal government? (Ref #61)",
+    "question": "Which constitutional amendment limits an elected President of the United States to serving a maximum of two full terms in office?",
     "options": [
-      "Legislative, Executive, and Judicial",
-      "Federal, State, and Municipal",
-      "Military, Commercial, and Diplomatic",
-      "Presidential, Congressional, and Gubernatorial"
+      "The Twenty-Second Amendment",
+      "The Twentieth Amendment",
+      "The Twenty-Fourth Amendment",
+      "The Twenty-Fifth Amendment"
     ],
     "correctAnswer": 0,
-    "explanation": "The US Constitution establishes three co-equal branches with checks and balances: Legislative (Congress), Executive (President), and Judicial (Supreme Court).",
+    "explanation": "Ratified in 1951 following FDR's four presidential election victories, the 22nd Amendment limits presidents to two terms.",
     "tags": [
       "usa-tests",
-      "us-civics",
+      "us-constitution",
       "easy"
     ],
     "active": true
@@ -1285,15 +1285,15 @@
     "category": "USA Tests",
     "subcategory": "US Constitution",
     "difficulty": "medium",
-    "question": "US Civics and Government: How many voting United States Senators serve in the US Senate? (Ref #62)",
+    "question": "Which constitutional amendment granted the District of Columbia three electoral votes in presidential elections?",
     "options": [
-      "435 Senators",
-      "100 Senators (exactly 2 from each of the 50 states)",
-      "50 Senators",
-      "200 Senators"
+      "The Twenty-Fourth Amendment",
+      "The Twenty-Third Amendment",
+      "The Twenty-Second Amendment",
+      "The Twenty-Sixth Amendment"
     ],
     "correctAnswer": 1,
-    "explanation": "Under Article I of the Constitution, each state is represented by exactly 2 senators, totaling 100.",
+    "explanation": "Ratified in 1961, the 23rd Amendment gave D.C. residents representation in the Electoral College.",
     "tags": [
       "usa-tests",
       "us-constitution",
@@ -1302,64 +1302,64 @@
     "active": true
   },
   {
-    "id": "usa-tests-american-government-0063",
+    "id": "usa-tests-us-constitution-0063",
     "category": "USA Tests",
-    "subcategory": "American Government",
+    "subcategory": "US Constitution",
     "difficulty": "hard",
-    "question": "US Civics and Government: What collective name is given to the first ten amendments added to the United States Constitution? (Ref #63)",
+    "question": "Which constitutional amendment prohibited poll taxes in federal elections, removing a major Jim Crow voting barrier for minority citizens?",
     "options": [
-      "The Articles of Confederation",
-      "The Federalist Papers",
-      "The Bill of Rights",
-      "The Magna Carta"
+      "The Fifteenth Amendment",
+      "The Nineteenth Amendment",
+      "The Twenty-Fourth Amendment",
+      "The Twenty-Sixth Amendment"
     ],
     "correctAnswer": 2,
-    "explanation": "Ratified in 1791, the first ten amendments comprise the Bill of Rights, safeguarding fundamental civil liberties.",
+    "explanation": "Ratified in 1964, the 24th Amendment outlawed payment of poll taxes as a condition for voting in federal elections.",
     "tags": [
       "usa-tests",
-      "american-government",
+      "us-constitution",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "usa-tests-rights-symbols-0064",
+    "id": "usa-tests-us-constitution-0064",
     "category": "USA Tests",
-    "subcategory": "Rights & Symbols",
+    "subcategory": "US Constitution",
     "difficulty": "easy",
-    "question": "US Civics and Government: How many voting members currently comprise the United States House of Representatives? (Ref #64)",
+    "question": "Which constitutional amendment established clear procedures for presidential disability and filling vacancies in the office of Vice President?",
     "options": [
-      "100 members",
-      "538 members",
-      "500 members",
-      "435 voting members"
+      "The Twentieth Amendment",
+      "The Twenty-Second Amendment",
+      "The Twelfth Amendment",
+      "The Twenty-Fifth Amendment"
     ],
     "correctAnswer": 3,
-    "explanation": "The Permanent Apportionment Act of 1929 fixed the total number of voting US House Representatives at 435.",
+    "explanation": "Ratified in 1967, the 25th Amendment provides mechanisms for transferring presidential power during incapacitation.",
     "tags": [
       "usa-tests",
-      "rights-symbols",
+      "us-constitution",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "usa-tests-us-civics-0065",
+    "id": "usa-tests-us-constitution-0065",
     "category": "USA Tests",
-    "subcategory": "US Civics",
+    "subcategory": "US Constitution",
     "difficulty": "medium",
-    "question": "US Civics and Government: What is the standard constitutional term length in years for a United States President? (Ref #65)",
+    "question": "Which constitutional amendment requires that any congressional salary change take effect only after an intervening House election?",
     "options": [
-      "4 years per term",
-      "2 years",
-      "6 years",
-      "8 years"
+      "The Twenty-Seventh Amendment",
+      "The Twenty-Sixth Amendment",
+      "The Twenty-Fifth Amendment",
+      "The Twenty-Third Amendment"
     ],
     "correctAnswer": 0,
-    "explanation": "Article II of the US Constitution establishes a presidential term length of 4 years, limited to two terms by the 22nd Amendment.",
+    "explanation": "Originally proposed by James Madison in 1789, the 27th Amendment was finally ratified 202 years later in 1992.",
     "tags": [
       "usa-tests",
-      "us-civics",
+      "us-constitution",
       "medium"
     ],
     "active": true
@@ -1369,15 +1369,15 @@
     "category": "USA Tests",
     "subcategory": "US Constitution",
     "difficulty": "hard",
-    "question": "US Civics and Government: What are the three constitutional branches of the United States federal government? (Ref #66)",
+    "question": "Which constitutional amendment reformed the Electoral College by requiring electors to cast separate, distinct ballots for President and Vice President?",
     "options": [
-      "Federal, State, and Municipal",
-      "Legislative, Executive, and Judicial",
-      "Military, Commercial, and Diplomatic",
-      "Presidential, Congressional, and Gubernatorial"
+      "The Eleventh Amendment",
+      "The Twelfth Amendment",
+      "The Tenth Amendment",
+      "The Fourteenth Amendment"
     ],
     "correctAnswer": 1,
-    "explanation": "The US Constitution establishes three co-equal branches with checks and balances: Legislative (Congress), Executive (President), and Judicial (Supreme Court).",
+    "explanation": "Ratified in 1804 after the tied election of 1800, the 12th Amendment ended the practice of runner-up becoming Vice President.",
     "tags": [
       "usa-tests",
       "us-constitution",
@@ -1386,64 +1386,64 @@
     "active": true
   },
   {
-    "id": "usa-tests-american-government-0067",
+    "id": "usa-tests-us-constitution-0067",
     "category": "USA Tests",
-    "subcategory": "American Government",
+    "subcategory": "US Constitution",
     "difficulty": "easy",
-    "question": "US Civics and Government: How many voting United States Senators serve in the US Senate? (Ref #67)",
+    "question": "What constitutional clause in the Fifth Amendment guarantees that private property cannot be taken for public use without just compensation?",
     "options": [
-      "435 Senators",
-      "50 Senators",
-      "100 Senators (exactly 2 from each of the 50 states)",
-      "200 Senators"
+      "The Due Process Clause",
+      "The Contracts Clause",
+      "The Takings Clause (Eminent Domain)",
+      "The Commerce Clause"
     ],
     "correctAnswer": 2,
-    "explanation": "Under Article I of the Constitution, each state is represented by exactly 2 senators, totaling 100.",
+    "explanation": "The Takings Clause limits sovereign eminent domain by mandating fair market financial compensation for expropriated land.",
     "tags": [
       "usa-tests",
-      "american-government",
+      "us-constitution",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "usa-tests-rights-symbols-0068",
+    "id": "usa-tests-us-constitution-0068",
     "category": "USA Tests",
-    "subcategory": "Rights & Symbols",
+    "subcategory": "US Constitution",
     "difficulty": "medium",
-    "question": "US Civics and Government: What collective name is given to the first ten amendments added to the United States Constitution? (Ref #68)",
+    "question": "What constitutional clause in the Fourteenth Amendment prohibits states from denying any person equal protection under the laws?",
     "options": [
-      "The Articles of Confederation",
-      "The Federalist Papers",
-      "The Magna Carta",
-      "The Bill of Rights"
+      "The Due Process Clause",
+      "The Citizenship Clause",
+      "The Privileges or Immunities Clause",
+      "The Equal Protection Clause"
     ],
     "correctAnswer": 3,
-    "explanation": "Ratified in 1791, the first ten amendments comprise the Bill of Rights, safeguarding fundamental civil liberties.",
+    "explanation": "The Equal Protection Clause serves as the primary constitutional vehicle for dismantling segregation and discriminatory laws.",
     "tags": [
       "usa-tests",
-      "rights-symbols",
+      "us-constitution",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "usa-tests-us-civics-0069",
+    "id": "usa-tests-us-constitution-0069",
     "category": "USA Tests",
-    "subcategory": "US Civics",
+    "subcategory": "US Constitution",
     "difficulty": "hard",
-    "question": "US Civics and Government: How many voting members currently comprise the United States House of Representatives? (Ref #69)",
+    "question": "What constitutional principle divides federal authority among three independent branches: legislative, executive, and judicial?",
     "options": [
-      "435 voting members",
-      "100 members",
-      "538 members",
-      "500 members"
+      "Separation of Powers",
+      "Federalism",
+      "Popular Sovereignty",
+      "Judicial Restraint"
     ],
     "correctAnswer": 0,
-    "explanation": "The Permanent Apportionment Act of 1929 fixed the total number of voting US House Representatives at 435.",
+    "explanation": "Conceived by Montesquieu and embedded in Articles I, II, and III, separation of powers prevents autocratic consolidation of power.",
     "tags": [
       "usa-tests",
-      "us-civics",
+      "us-constitution",
       "hard"
     ],
     "active": true
@@ -1453,15 +1453,15 @@
     "category": "USA Tests",
     "subcategory": "US Constitution",
     "difficulty": "easy",
-    "question": "US Civics and Government: What is the standard constitutional term length in years for a United States President? (Ref #70)",
+    "question": "What constitutional system gives each of the three branches of government the authority to check and balance the other two branches?",
     "options": [
-      "2 years",
-      "4 years per term",
-      "6 years",
-      "8 years"
+      "Federalism",
+      "Checks and Balances",
+      "Bicameralism",
+      "Direct Democracy"
     ],
     "correctAnswer": 1,
-    "explanation": "Article II of the US Constitution establishes a presidential term length of 4 years, limited to two terms by the 22nd Amendment.",
+    "explanation": "Examples include presidential vetoes, Senate treaty ratification, and judicial review of legislative statutes.",
     "tags": [
       "usa-tests",
       "us-constitution",
@@ -1470,64 +1470,64 @@
     "active": true
   },
   {
-    "id": "usa-tests-american-government-0071",
+    "id": "usa-tests-us-constitution-0071",
     "category": "USA Tests",
-    "subcategory": "American Government",
+    "subcategory": "US Constitution",
     "difficulty": "medium",
-    "question": "US Civics and Government: What are the three constitutional branches of the United States federal government? (Ref #71)",
+    "question": "What political system divides sovereign governing power between a central national government and individual regional state governments?",
     "options": [
-      "Federal, State, and Municipal",
-      "Military, Commercial, and Diplomatic",
-      "Legislative, Executive, and Judicial",
-      "Presidential, Congressional, and Gubernatorial"
+      "Unitary Government",
+      "Confederation",
+      "Federalism",
+      "Direct Democracy"
     ],
     "correctAnswer": 2,
-    "explanation": "The US Constitution establishes three co-equal branches with checks and balances: Legislative (Congress), Executive (President), and Judicial (Supreme Court).",
+    "explanation": "The US federal system delegates enumerated powers to the national government while reserving residual powers to states.",
     "tags": [
       "usa-tests",
-      "american-government",
+      "us-constitution",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "usa-tests-rights-symbols-0072",
+    "id": "usa-tests-us-constitution-0072",
     "category": "USA Tests",
-    "subcategory": "Rights & Symbols",
+    "subcategory": "US Constitution",
     "difficulty": "hard",
-    "question": "US Civics and Government: How many voting United States Senators serve in the US Senate? (Ref #72)",
+    "question": "What constitutional standard requires a search warrant to be based on specific facts and circumstances establishing fair probability of a crime?",
     "options": [
-      "435 Senators",
-      "50 Senators",
-      "200 Senators",
-      "100 Senators (exactly 2 from each of the 50 states)"
+      "Reasonable Suspicion",
+      "Preponderance of the Evidence",
+      "Beyond a Reasonable Doubt",
+      "Probable Cause"
     ],
     "correctAnswer": 3,
-    "explanation": "Under Article I of the Constitution, each state is represented by exactly 2 senators, totaling 100.",
+    "explanation": "The Fourth Amendment requires sworn affidavits establishing probable cause before a neutral magistrate issues a search warrant.",
     "tags": [
       "usa-tests",
-      "rights-symbols",
+      "us-constitution",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "usa-tests-us-civics-0073",
+    "id": "usa-tests-us-constitution-0073",
     "category": "USA Tests",
-    "subcategory": "US Civics",
+    "subcategory": "US Constitution",
     "difficulty": "easy",
-    "question": "US Civics and Government: What collective name is given to the first ten amendments added to the United States Constitution? (Ref #73)",
+    "question": "What standard of evidence, lower than probable cause, is required for a police officer to conduct a brief investigatory stop and frisk under Terry v. Ohio?",
     "options": [
-      "The Bill of Rights",
-      "The Articles of Confederation",
-      "The Federalist Papers",
-      "The Magna Carta"
+      "Reasonable Articulable Suspicion",
+      "Probable Cause",
+      "Clear and Convincing Evidence",
+      "Proof beyond a reasonable doubt"
     ],
     "correctAnswer": 0,
-    "explanation": "Ratified in 1791, the first ten amendments comprise the Bill of Rights, safeguarding fundamental civil liberties.",
+    "explanation": "Officers must possess specific, articulable facts showing criminal activity may be afoot to perform an investigatory Terry stop.",
     "tags": [
       "usa-tests",
-      "us-civics",
+      "us-constitution",
       "easy"
     ],
     "active": true
@@ -1537,15 +1537,15 @@
     "category": "USA Tests",
     "subcategory": "US Constitution",
     "difficulty": "medium",
-    "question": "US Civics and Government: How many voting members currently comprise the United States House of Representatives? (Ref #74)",
+    "question": "What landmark 1803 Supreme Court case established the principle of Judicial Review, empowering federal courts to declare acts of Congress unconstitutional?",
     "options": [
-      "100 members",
-      "435 voting members",
-      "538 members",
-      "500 members"
+      "McCulloch v. Maryland",
+      "Marbury v. Madison",
+      "Gibbons v. Ogden",
+      "Dred Scott v. Sandford"
     ],
     "correctAnswer": 1,
-    "explanation": "The Permanent Apportionment Act of 1929 fixed the total number of voting US House Representatives at 435.",
+    "explanation": "Chief Justice John Marshall declared that 'it is emphatically the province and duty of the judicial department to say what the law is.'",
     "tags": [
       "usa-tests",
       "us-constitution",
@@ -1554,64 +1554,64 @@
     "active": true
   },
   {
-    "id": "usa-tests-american-government-0075",
+    "id": "usa-tests-us-constitution-0075",
     "category": "USA Tests",
-    "subcategory": "American Government",
+    "subcategory": "US Constitution",
     "difficulty": "hard",
-    "question": "US Civics and Government: What is the standard constitutional term length in years for a United States President? (Ref #75)",
+    "question": "What landmark 1819 Supreme Court case affirmed the constitutionality of the Bank of the United States and the supremacy of federal law over states?",
     "options": [
-      "2 years",
-      "6 years",
-      "4 years per term",
-      "8 years"
+      "Marbury v. Madison",
+      "Gibbons v. Ogden",
+      "McCulloch v. Maryland",
+      "Barron v. Baltimore"
     ],
     "correctAnswer": 2,
-    "explanation": "Article II of the US Constitution establishes a presidential term length of 4 years, limited to two terms by the 22nd Amendment.",
+    "explanation": "The court held that Congress possesses implied powers under the Elastic Clause and that 'the power to tax involves the power to destroy.'",
     "tags": [
       "usa-tests",
-      "american-government",
+      "us-constitution",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "usa-tests-rights-symbols-0076",
+    "id": "usa-tests-us-constitution-0076",
     "category": "USA Tests",
-    "subcategory": "Rights & Symbols",
+    "subcategory": "US Constitution",
     "difficulty": "easy",
-    "question": "US Civics and Government: What are the three constitutional branches of the United States federal government? (Ref #76)",
+    "question": "What landmark 1824 Supreme Court decision established broad federal regulatory power over interstate commerce, including navigation?",
     "options": [
-      "Federal, State, and Municipal",
-      "Military, Commercial, and Diplomatic",
-      "Presidential, Congressional, and Gubernatorial",
-      "Legislative, Executive, and Judicial"
+      "McCulloch v. Maryland",
+      "Marbury v. Madison",
+      "Cohens v. Virginia",
+      "Gibbons v. Ogden"
     ],
     "correctAnswer": 3,
-    "explanation": "The US Constitution establishes three co-equal branches with checks and balances: Legislative (Congress), Executive (President), and Judicial (Supreme Court).",
+    "explanation": "The decision dismantled New York's steamboat navigation monopoly, asserting broad federal supremacy under the Commerce Clause.",
     "tags": [
       "usa-tests",
-      "rights-symbols",
+      "us-constitution",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "usa-tests-us-civics-0077",
+    "id": "usa-tests-us-constitution-0077",
     "category": "USA Tests",
-    "subcategory": "US Civics",
+    "subcategory": "US Constitution",
     "difficulty": "medium",
-    "question": "US Civics and Government: How many voting United States Senators serve in the US Senate? (Ref #77)",
+    "question": "What landmark 1966 Supreme Court ruling established that criminal suspects must be informed of their constitutional rights before custodial interrogation?",
     "options": [
-      "100 Senators (exactly 2 from each of the 50 states)",
-      "435 Senators",
-      "50 Senators",
-      "200 Senators"
+      "Miranda v. Arizona",
+      "Gideon v. Wainwright",
+      "Mapp v. Ohio",
+      "Escobedo v. Illinois"
     ],
     "correctAnswer": 0,
-    "explanation": "Under Article I of the Constitution, each state is represented by exactly 2 senators, totaling 100.",
+    "explanation": "Suspects must be advised of their right to remain silent, that statements can be used against them, and their right to an attorney.",
     "tags": [
       "usa-tests",
-      "us-civics",
+      "us-constitution",
       "medium"
     ],
     "active": true
@@ -1621,15 +1621,15 @@
     "category": "USA Tests",
     "subcategory": "US Constitution",
     "difficulty": "hard",
-    "question": "US Civics and Government: What collective name is given to the first ten amendments added to the United States Constitution? (Ref #78)",
+    "question": "What landmark 1963 Supreme Court ruling established that states must provide free legal counsel to indigent criminal defendants under the Sixth Amendment?",
     "options": [
-      "The Articles of Confederation",
-      "The Bill of Rights",
-      "The Federalist Papers",
-      "The Magna Carta"
+      "Miranda v. Arizona",
+      "Gideon v. Wainwright",
+      "Terry v. Ohio",
+      "Mapp v. Ohio"
     ],
     "correctAnswer": 1,
-    "explanation": "Ratified in 1791, the first ten amendments comprise the Bill of Rights, safeguarding fundamental civil liberties.",
+    "explanation": "The court held that the Sixth Amendment right to counsel is a fundamental right essential to a fair trial applied to states via the 14th Amendment.",
     "tags": [
       "usa-tests",
       "us-constitution",
@@ -1638,85 +1638,85 @@
     "active": true
   },
   {
-    "id": "usa-tests-american-government-0079",
+    "id": "usa-tests-us-constitution-0079",
     "category": "USA Tests",
-    "subcategory": "American Government",
+    "subcategory": "US Constitution",
     "difficulty": "easy",
-    "question": "US Civics and Government: How many voting members currently comprise the United States House of Representatives? (Ref #79)",
+    "question": "What constitutional clause prohibits a person from being prosecuted twice for the exact same criminal offense after an acquittal or conviction?",
     "options": [
-      "100 members",
-      "538 members",
-      "435 voting members",
-      "500 members"
+      "The Due Process Clause",
+      "The Self-Incrimination Clause",
+      "The Double Jeopardy Clause",
+      "The Cruel and Unusual Punishment Clause"
     ],
     "correctAnswer": 2,
-    "explanation": "The Permanent Apportionment Act of 1929 fixed the total number of voting US House Representatives at 435.",
+    "explanation": "Found in the Fifth Amendment, double jeopardy protects citizens from repeated state prosecutions for the same act.",
     "tags": [
       "usa-tests",
-      "american-government",
+      "us-constitution",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "usa-tests-rights-symbols-0080",
+    "id": "usa-tests-us-constitution-0080",
     "category": "USA Tests",
-    "subcategory": "Rights & Symbols",
+    "subcategory": "US Constitution",
     "difficulty": "medium",
-    "question": "US Civics and Government: What is the standard constitutional term length in years for a United States President? (Ref #80)",
+    "question": "How many states were required to ratify the United States Constitution under Article VII before it could take legal effect among ratifying states?",
     "options": [
-      "2 years",
-      "6 years",
-      "8 years",
-      "4 years per term"
+      "All 13 states",
+      "7 out of 13 states",
+      "10 out of 13 states",
+      "9 out of 13 states"
     ],
     "correctAnswer": 3,
-    "explanation": "Article II of the US Constitution establishes a presidential term length of 4 years, limited to two terms by the 22nd Amendment.",
+    "explanation": "Article VII established that nine state ratifying conventions were required; New Hampshire became the crucial ninth state in June 1788.",
     "tags": [
       "usa-tests",
-      "rights-symbols",
+      "us-constitution",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "usa-tests-us-civics-0081",
+    "id": "usa-tests-american-government-0081",
     "category": "USA Tests",
-    "subcategory": "US Civics",
+    "subcategory": "American Government",
     "difficulty": "hard",
-    "question": "US Civics and Government: What are the three constitutional branches of the United States federal government? (Ref #81)",
+    "question": "What is the primary role of the legislative branch of the United States government?",
     "options": [
-      "Legislative, Executive, and Judicial",
-      "Federal, State, and Municipal",
-      "Military, Commercial, and Diplomatic",
-      "Presidential, Congressional, and Gubernatorial"
+      "To write, debate, and pass federal laws",
+      "To enforce and execute statutory laws",
+      "To interpret the constitutionality of laws",
+      "To command active armed forces"
     ],
     "correctAnswer": 0,
-    "explanation": "The US Constitution establishes three co-equal branches with checks and balances: Legislative (Congress), Executive (President), and Judicial (Supreme Court).",
+    "explanation": "Article I vests all federal legislative powers in the bicameral Congress of the United States.",
     "tags": [
       "usa-tests",
-      "us-civics",
+      "american-government",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "usa-tests-us-constitution-0082",
+    "id": "usa-tests-american-government-0082",
     "category": "USA Tests",
-    "subcategory": "US Constitution",
+    "subcategory": "American Government",
     "difficulty": "easy",
-    "question": "US Civics and Government: How many voting United States Senators serve in the US Senate? (Ref #82)",
+    "question": "What is the title of the presiding officer of the United States House of Representatives, chosen by a vote of its members?",
     "options": [
-      "435 Senators",
-      "100 Senators (exactly 2 from each of the 50 states)",
-      "50 Senators",
-      "200 Senators"
+      "Majority Leader",
+      "Speaker of the House",
+      "President pro tempore",
+      "House Whip"
     ],
     "correctAnswer": 1,
-    "explanation": "Under Article I of the Constitution, each state is represented by exactly 2 senators, totaling 100.",
+    "explanation": "The Speaker of the House presides over debates, sets the legislative agenda, and leads the majority party caucus.",
     "tags": [
       "usa-tests",
-      "us-constitution",
+      "american-government",
       "easy"
     ],
     "active": true
@@ -1726,15 +1726,15 @@
     "category": "USA Tests",
     "subcategory": "American Government",
     "difficulty": "medium",
-    "question": "US Civics and Government: What collective name is given to the first ten amendments added to the United States Constitution? (Ref #83)",
+    "question": "Who presides over the United States Senate in the absence of the Vice President?",
     "options": [
-      "The Articles of Confederation",
-      "The Federalist Papers",
-      "The Bill of Rights",
-      "The Magna Carta"
+      "The Speaker of the House",
+      "The Senate Majority Whip",
+      "The President pro tempore",
+      "The Secretary of the Senate"
     ],
     "correctAnswer": 2,
-    "explanation": "Ratified in 1791, the first ten amendments comprise the Bill of Rights, safeguarding fundamental civil liberties.",
+    "explanation": "The President pro tempore is traditionally the longest-serving senator of the majority party.",
     "tags": [
       "usa-tests",
       "american-government",
@@ -1743,64 +1743,64 @@
     "active": true
   },
   {
-    "id": "usa-tests-rights-symbols-0084",
+    "id": "usa-tests-american-government-0084",
     "category": "USA Tests",
-    "subcategory": "Rights & Symbols",
+    "subcategory": "American Government",
     "difficulty": "hard",
-    "question": "US Civics and Government: How many voting members currently comprise the United States House of Representatives? (Ref #84)",
+    "question": "What legislative procedure in the United States Senate allows a senator to prolong debate to delay or prevent a vote on a bill?",
     "options": [
-      "100 members",
-      "538 members",
-      "500 members",
-      "435 voting members"
+      "A cloture motion",
+      "A pocket veto",
+      "A discharge petition",
+      "A filibuster"
     ],
     "correctAnswer": 3,
-    "explanation": "The Permanent Apportionment Act of 1929 fixed the total number of voting US House Representatives at 435.",
+    "explanation": "Filibusters allow prolonged debate; ending a filibuster traditionally requires invoking cloture with a three-fifths supermajority.",
     "tags": [
       "usa-tests",
-      "rights-symbols",
+      "american-government",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "usa-tests-us-civics-0085",
+    "id": "usa-tests-american-government-0085",
     "category": "USA Tests",
-    "subcategory": "US Civics",
+    "subcategory": "American Government",
     "difficulty": "easy",
-    "question": "US Civics and Government: What is the standard constitutional term length in years for a United States President? (Ref #85)",
+    "question": "How many votes are required in the United States Senate to invoke Cloture and bring an end to a filibuster on general legislation?",
     "options": [
-      "4 years per term",
-      "2 years",
-      "6 years",
-      "8 years"
+      "60 votes (three-fifths majority)",
+      "51 votes (simple majority)",
+      "67 votes (two-thirds majority)",
+      "75 votes (three-fourths majority)"
     ],
     "correctAnswer": 0,
-    "explanation": "Article II of the US Constitution establishes a presidential term length of 4 years, limited to two terms by the 22nd Amendment.",
+    "explanation": "Senate Rule XXII requires a three-fifths vote of all sworn senators (normally 60 votes) to invoke cloture.",
     "tags": [
       "usa-tests",
-      "us-civics",
+      "american-government",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "usa-tests-us-constitution-0086",
+    "id": "usa-tests-american-government-0086",
     "category": "USA Tests",
-    "subcategory": "US Constitution",
+    "subcategory": "American Government",
     "difficulty": "medium",
-    "question": "US Civics and Government: What are the three constitutional branches of the United States federal government? (Ref #86)",
+    "question": "What happens to a bill if the President does not sign or veto it within 10 days while Congress is adjourned?",
     "options": [
-      "Federal, State, and Municipal",
-      "Legislative, Executive, and Judicial",
-      "Military, Commercial, and Diplomatic",
-      "Presidential, Congressional, and Gubernatorial"
+      "The bill automatically becomes law",
+      "The bill dies by Pocket Veto",
+      "The bill returns to the Senate for reconsideration",
+      "The bill is submitted to the Supreme Court"
     ],
     "correctAnswer": 1,
-    "explanation": "The US Constitution establishes three co-equal branches with checks and balances: Legislative (Congress), Executive (President), and Judicial (Supreme Court).",
+    "explanation": "A pocket veto occurs when Congress adjourns before the 10-day signing period expires, preventing a presidential veto override.",
     "tags": [
       "usa-tests",
-      "us-constitution",
+      "american-government",
       "medium"
     ],
     "active": true
@@ -1810,15 +1810,15 @@
     "category": "USA Tests",
     "subcategory": "American Government",
     "difficulty": "hard",
-    "question": "US Civics and Government: How many voting United States Senators serve in the US Senate? (Ref #87)",
+    "question": "What happens to a bill if the President does not sign or veto it within 10 days while Congress is in session?",
     "options": [
-      "435 Senators",
-      "50 Senators",
-      "100 Senators (exactly 2 from each of the 50 states)",
-      "200 Senators"
+      "The bill is automatically rejected",
+      "The bill must be revoted in the House",
+      "The bill automatically becomes law without presidential signature",
+      "The bill is referred to a conference committee"
     ],
     "correctAnswer": 2,
-    "explanation": "Under Article I of the Constitution, each state is represented by exactly 2 senators, totaling 100.",
+    "explanation": "Article I, Section 7 specifies that an unsigned bill becomes law after 10 days (excluding Sundays) if Congress remains in session.",
     "tags": [
       "usa-tests",
       "american-government",
@@ -1827,64 +1827,64 @@
     "active": true
   },
   {
-    "id": "usa-tests-rights-symbols-0088",
+    "id": "usa-tests-american-government-0088",
     "category": "USA Tests",
-    "subcategory": "Rights & Symbols",
+    "subcategory": "American Government",
     "difficulty": "easy",
-    "question": "US Civics and Government: What collective name is given to the first ten amendments added to the United States Constitution? (Ref #88)",
+    "question": "What joint committee of Congress reconciles differences between House and Senate versions of the same legislative bill?",
     "options": [
-      "The Articles of Confederation",
-      "The Federalist Papers",
-      "The Magna Carta",
-      "The Bill of Rights"
+      "A Standing Committee",
+      "A Select Committee",
+      "A Joint Economic Committee",
+      "A Conference Committee"
     ],
     "correctAnswer": 3,
-    "explanation": "Ratified in 1791, the first ten amendments comprise the Bill of Rights, safeguarding fundamental civil liberties.",
+    "explanation": "Conference committees iron out differences, producing a compromise conference report that both chambers must pass unchanged.",
     "tags": [
       "usa-tests",
-      "rights-symbols",
+      "american-government",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "usa-tests-us-civics-0089",
+    "id": "usa-tests-american-government-0089",
     "category": "USA Tests",
-    "subcategory": "US Civics",
+    "subcategory": "American Government",
     "difficulty": "medium",
-    "question": "US Civics and Government: How many voting members currently comprise the United States House of Representatives? (Ref #89)",
+    "question": "Which permanent congressional committees have legislative jurisdiction to consider and report bills within their specialized policy areas?",
     "options": [
-      "435 voting members",
-      "100 members",
-      "538 members",
-      "500 members"
+      "Standing Committees",
+      "Conference Committees",
+      "Select Committees",
+      "Ad Hoc Committees"
     ],
     "correctAnswer": 0,
-    "explanation": "The Permanent Apportionment Act of 1929 fixed the total number of voting US House Representatives at 435.",
+    "explanation": "Standing committees (e.g., House Judiciary, Senate Foreign Relations) handle the regular ongoing work of legislation.",
     "tags": [
       "usa-tests",
-      "us-civics",
+      "american-government",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "usa-tests-us-constitution-0090",
+    "id": "usa-tests-american-government-0090",
     "category": "USA Tests",
-    "subcategory": "US Constitution",
+    "subcategory": "American Government",
     "difficulty": "hard",
-    "question": "US Civics and Government: What is the standard constitutional term length in years for a United States President? (Ref #90)",
+    "question": "Which powerful House committee determines the rules, terms, and amendments under which bills will be debated on the House floor?",
     "options": [
-      "2 years",
-      "4 years per term",
-      "6 years",
-      "8 years"
+      "The Ways and Means Committee",
+      "The House Rules Committee",
+      "The Appropriations Committee",
+      "The Oversight Committee"
     ],
     "correctAnswer": 1,
-    "explanation": "Article II of the US Constitution establishes a presidential term length of 4 years, limited to two terms by the 22nd Amendment.",
+    "explanation": "Often called the 'traffic cop of the House', the Rules Committee controls which bills reach the floor and how they are amended.",
     "tags": [
       "usa-tests",
-      "us-constitution",
+      "american-government",
       "hard"
     ],
     "active": true
@@ -1894,15 +1894,15 @@
     "category": "USA Tests",
     "subcategory": "American Government",
     "difficulty": "easy",
-    "question": "US Civics and Government: What are the three constitutional branches of the United States federal government? (Ref #91)",
+    "question": "Which House committee has constitutional jurisdiction over taxation, revenue-raising measures, customs, and entitlement programs?",
     "options": [
-      "Federal, State, and Municipal",
-      "Military, Commercial, and Diplomatic",
-      "Legislative, Executive, and Judicial",
-      "Presidential, Congressional, and Gubernatorial"
+      "The Budget Committee",
+      "The Financial Services Committee",
+      "The House Ways and Means Committee",
+      "The Appropriations Committee"
     ],
     "correctAnswer": 2,
-    "explanation": "The US Constitution establishes three co-equal branches with checks and balances: Legislative (Congress), Executive (President), and Judicial (Supreme Court).",
+    "explanation": "Article I mandates that all revenue-raising bills must originate in the House, under the jurisdiction of Ways and Means.",
     "tags": [
       "usa-tests",
       "american-government",
@@ -1911,64 +1911,64 @@
     "active": true
   },
   {
-    "id": "usa-tests-rights-symbols-0092",
+    "id": "usa-tests-american-government-0092",
     "category": "USA Tests",
-    "subcategory": "Rights & Symbols",
+    "subcategory": "American Government",
     "difficulty": "medium",
-    "question": "US Civics and Government: How many voting United States Senators serve in the US Senate? (Ref #92)",
+    "question": "Which congressional committee in each chamber is responsible for drafting legislation that allocates federal funding to government agencies?",
     "options": [
-      "435 Senators",
-      "50 Senators",
-      "200 Senators",
-      "100 Senators (exactly 2 from each of the 50 states)"
+      "The Budget Committee",
+      "The Finance Committee",
+      "The Ways and Means Committee",
+      "The Appropriations Committee"
     ],
     "correctAnswer": 3,
-    "explanation": "Under Article I of the Constitution, each state is represented by exactly 2 senators, totaling 100.",
+    "explanation": "Appropriations committees write annual spending bills that fund discretionary operations of the federal government.",
     "tags": [
       "usa-tests",
-      "rights-symbols",
+      "american-government",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "usa-tests-us-civics-0093",
+    "id": "usa-tests-american-government-0093",
     "category": "USA Tests",
-    "subcategory": "US Civics",
+    "subcategory": "American Government",
     "difficulty": "hard",
-    "question": "US Civics and Government: What collective name is given to the first ten amendments added to the United States Constitution? (Ref #93)",
+    "question": "What is the formal role of the Federal Reserve System (the Fed) in the United States government?",
     "options": [
-      "The Bill of Rights",
-      "The Articles of Confederation",
-      "The Federalist Papers",
-      "The Magna Carta"
+      "The independent central bank that conducts monetary policy and regulates financial institutions",
+      "The executive department that collects federal income taxes",
+      "The agency that prints physical paper currency exclusively",
+      "The congressional committee that oversees national debt ceilings"
     ],
     "correctAnswer": 0,
-    "explanation": "Ratified in 1791, the first ten amendments comprise the Bill of Rights, safeguarding fundamental civil liberties.",
+    "explanation": "Created by the Federal Reserve Act of 1913, the Fed manages interest rates, money supply, and banking system stability.",
     "tags": [
       "usa-tests",
-      "us-civics",
+      "american-government",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "usa-tests-us-constitution-0094",
+    "id": "usa-tests-american-government-0094",
     "category": "USA Tests",
-    "subcategory": "US Constitution",
+    "subcategory": "American Government",
     "difficulty": "easy",
-    "question": "US Civics and Government: How many voting members currently comprise the United States House of Representatives? (Ref #94)",
+    "question": "How many geographic Federal Reserve Districts comprise the Federal Reserve System across the United States?",
     "options": [
-      "100 members",
-      "435 voting members",
-      "538 members",
-      "500 members"
+      "10 districts",
+      "12 districts",
+      "15 districts",
+      "50 districts"
     ],
     "correctAnswer": 1,
-    "explanation": "The Permanent Apportionment Act of 1929 fixed the total number of voting US House Representatives at 435.",
+    "explanation": "The Federal Reserve System includes 12 regional Reserve Banks situated in major financial centers across the country.",
     "tags": [
       "usa-tests",
-      "us-constitution",
+      "american-government",
       "easy"
     ],
     "active": true
@@ -1978,15 +1978,15 @@
     "category": "USA Tests",
     "subcategory": "American Government",
     "difficulty": "medium",
-    "question": "US Civics and Government: What is the standard constitutional term length in years for a United States President? (Ref #95)",
+    "question": "Who nominates the Chair of the Federal Reserve Board of Governors for a four-year term?",
     "options": [
-      "2 years",
-      "6 years",
-      "4 years per term",
-      "8 years"
+      "The Secretary of the Treasury",
+      "The President of the New York Fed",
+      "The President of the United States, confirmed by the Senate",
+      "Direct popular vote of commercial bank CEOs"
     ],
     "correctAnswer": 2,
-    "explanation": "Article II of the US Constitution establishes a presidential term length of 4 years, limited to two terms by the 22nd Amendment.",
+    "explanation": "The President appoints the Fed Chair from among the members of the Board of Governors, subject to Senate confirmation.",
     "tags": [
       "usa-tests",
       "american-government",
@@ -1995,64 +1995,64 @@
     "active": true
   },
   {
-    "id": "usa-tests-rights-symbols-0096",
+    "id": "usa-tests-american-government-0096",
     "category": "USA Tests",
-    "subcategory": "Rights & Symbols",
+    "subcategory": "American Government",
     "difficulty": "hard",
-    "question": "US Civics and Government: What are the three constitutional branches of the United States federal government? (Ref #96)",
+    "question": "Which agency within the executive branch is responsible for collecting federal taxes and enforcing the Internal Revenue Code?",
     "options": [
-      "Federal, State, and Municipal",
-      "Military, Commercial, and Diplomatic",
-      "Presidential, Congressional, and Gubernatorial",
-      "Legislative, Executive, and Judicial"
+      "Federal Reserve",
+      "Treasury Office of Thrift",
+      "Consumer Financial Protection Bureau",
+      "Internal Revenue Service (IRS)"
     ],
     "correctAnswer": 3,
-    "explanation": "The US Constitution establishes three co-equal branches with checks and balances: Legislative (Congress), Executive (President), and Judicial (Supreme Court).",
+    "explanation": "The IRS is a bureau of the Department of the Treasury responsible for administering the federal tax collection system.",
     "tags": [
       "usa-tests",
-      "rights-symbols",
+      "american-government",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "usa-tests-us-civics-0097",
+    "id": "usa-tests-american-government-0097",
     "category": "USA Tests",
-    "subcategory": "US Civics",
+    "subcategory": "American Government",
     "difficulty": "easy",
-    "question": "US Civics and Government: How many voting United States Senators serve in the US Senate? (Ref #97)",
+    "question": "Which independent federal regulatory agency regulates interstate and international communications by radio, television, wire, satellite, and cable?",
     "options": [
-      "100 Senators (exactly 2 from each of the 50 states)",
-      "435 Senators",
-      "50 Senators",
-      "200 Senators"
+      "Federal Communications Commission (FCC)",
+      "Federal Trade Commission (FTC)",
+      "Securities and Exchange Commission (SEC)",
+      "Consumer Product Safety Commission (CPSC)"
     ],
     "correctAnswer": 0,
-    "explanation": "Under Article I of the Constitution, each state is represented by exactly 2 senators, totaling 100.",
+    "explanation": "The FCC oversees telecommunications, broadband access, spectrum allocation, and broadcast media compliance.",
     "tags": [
       "usa-tests",
-      "us-civics",
+      "american-government",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "usa-tests-us-constitution-0098",
+    "id": "usa-tests-american-government-0098",
     "category": "USA Tests",
-    "subcategory": "US Constitution",
+    "subcategory": "American Government",
     "difficulty": "medium",
-    "question": "US Civics and Government: What collective name is given to the first ten amendments added to the United States Constitution? (Ref #98)",
+    "question": "Which federal agency regulates the securities markets, enforces federal securities laws, and protects investors from fraudulent market practices?",
     "options": [
-      "The Articles of Confederation",
-      "The Bill of Rights",
-      "The Federalist Papers",
-      "The Magna Carta"
+      "Federal Reserve",
+      "Securities and Exchange Commission (SEC)",
+      "Commodity Futures Trading Commission",
+      "Department of Commerce"
     ],
     "correctAnswer": 1,
-    "explanation": "Ratified in 1791, the first ten amendments comprise the Bill of Rights, safeguarding fundamental civil liberties.",
+    "explanation": "Established during the New Deal in 1934, the SEC ensures transparency and fair dealing in corporate equities and securities.",
     "tags": [
       "usa-tests",
-      "us-constitution",
+      "american-government",
       "medium"
     ],
     "active": true
@@ -2062,15 +2062,15 @@
     "category": "USA Tests",
     "subcategory": "American Government",
     "difficulty": "hard",
-    "question": "US Civics and Government: How many voting members currently comprise the United States House of Representatives? (Ref #99)",
+    "question": "Which federal agency enforces federal consumer protection laws and prevents anti-competitive deceptive business practices?",
     "options": [
-      "100 members",
-      "538 members",
-      "435 voting members",
-      "500 members"
+      "Department of Commerce",
+      "Small Business Administration",
+      "Federal Trade Commission (FTC)",
+      "Consumer Financial Protection Bureau"
     ],
     "correctAnswer": 2,
-    "explanation": "The Permanent Apportionment Act of 1929 fixed the total number of voting US House Representatives at 435.",
+    "explanation": "Created in 1914, the FTC protects consumers from unfair practices and reviews corporate mergers for antitrust violations.",
     "tags": [
       "usa-tests",
       "american-government",
@@ -2079,64 +2079,64 @@
     "active": true
   },
   {
-    "id": "usa-tests-rights-symbols-0100",
+    "id": "usa-tests-american-government-0100",
     "category": "USA Tests",
-    "subcategory": "Rights & Symbols",
+    "subcategory": "American Government",
     "difficulty": "easy",
-    "question": "US Civics and Government: What is the standard constitutional term length in years for a United States President? (Ref #100)",
+    "question": "Which independent agency protects human health and the environment by writing and enforcing regulations based on laws passed by Congress?",
     "options": [
-      "2 years",
-      "6 years",
-      "8 years",
-      "4 years per term"
+      "Department of the Interior",
+      "Occupational Safety and Health Administration",
+      "Food and Drug Administration",
+      "Environmental Protection Agency (EPA)"
     ],
     "correctAnswer": 3,
-    "explanation": "Article II of the US Constitution establishes a presidential term length of 4 years, limited to two terms by the 22nd Amendment.",
+    "explanation": "Established in 1970 under President Nixon, the EPA monitors air quality, water safety, and hazardous chemical emissions.",
     "tags": [
       "usa-tests",
-      "rights-symbols",
+      "american-government",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "usa-tests-us-civics-0101",
+    "id": "usa-tests-american-government-0101",
     "category": "USA Tests",
-    "subcategory": "US Civics",
+    "subcategory": "American Government",
     "difficulty": "medium",
-    "question": "US Civics and Government: What are the three constitutional branches of the United States federal government? (Ref #101)",
+    "question": "Which agency within the Department of Health and Human Services is responsible for ensuring the safety and efficacy of pharmaceuticals, foods, and medical devices?",
     "options": [
-      "Legislative, Executive, and Judicial",
-      "Federal, State, and Municipal",
-      "Military, Commercial, and Diplomatic",
-      "Presidential, Congressional, and Gubernatorial"
+      "Food and Drug Administration (FDA)",
+      "Centers for Disease Control and Prevention (CDC)",
+      "National Institutes of Health (NIH)",
+      "Centers for Medicare & Medicaid Services (CMS)"
     ],
     "correctAnswer": 0,
-    "explanation": "The US Constitution establishes three co-equal branches with checks and balances: Legislative (Congress), Executive (President), and Judicial (Supreme Court).",
+    "explanation": "The FDA regulates clinical drug approvals, food safety, vaccines, veterinary medicines, and medical devices in the US.",
     "tags": [
       "usa-tests",
-      "us-civics",
+      "american-government",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "usa-tests-us-constitution-0102",
+    "id": "usa-tests-american-government-0102",
     "category": "USA Tests",
-    "subcategory": "US Constitution",
+    "subcategory": "American Government",
     "difficulty": "hard",
-    "question": "US Civics and Government: How many voting United States Senators serve in the US Senate? (Ref #102)",
+    "question": "Which federal agency based in Atlanta, Georgia leads the national effort to prevent, detect, and respond to infectious disease outbreaks?",
     "options": [
-      "435 Senators",
-      "100 Senators (exactly 2 from each of the 50 states)",
-      "50 Senators",
-      "200 Senators"
+      "Food and Drug Administration (FDA)",
+      "Centers for Disease Control and Prevention (CDC)",
+      "World Health Organization (WHO)",
+      "National Science Foundation (NSF)"
     ],
     "correctAnswer": 1,
-    "explanation": "Under Article I of the Constitution, each state is represented by exactly 2 senators, totaling 100.",
+    "explanation": "The CDC conducts health research, issues public health advisories, and coordinates disease outbreak epidemiology.",
     "tags": [
       "usa-tests",
-      "us-constitution",
+      "american-government",
       "hard"
     ],
     "active": true
@@ -2146,15 +2146,15 @@
     "category": "USA Tests",
     "subcategory": "American Government",
     "difficulty": "easy",
-    "question": "US Civics and Government: What collective name is given to the first ten amendments added to the United States Constitution? (Ref #103)",
+    "question": "Which civilian intelligence agency is responsible for gathering, processing, and analyzing national security intelligence from foreign sources?",
     "options": [
-      "The Articles of Confederation",
-      "The Federalist Papers",
-      "The Bill of Rights",
-      "The Magna Carta"
+      "Federal Bureau of Investigation (FBI)",
+      "National Security Agency (NSA)",
+      "Central Intelligence Agency (CIA)",
+      "Defense Intelligence Agency (DIA)"
     ],
     "correctAnswer": 2,
-    "explanation": "Ratified in 1791, the first ten amendments comprise the Bill of Rights, safeguarding fundamental civil liberties.",
+    "explanation": "Created by the National Security Act of 1947, the CIA operates under the Director of National Intelligence to conduct foreign intelligence.",
     "tags": [
       "usa-tests",
       "american-government",
@@ -2163,64 +2163,64 @@
     "active": true
   },
   {
-    "id": "usa-tests-rights-symbols-0104",
+    "id": "usa-tests-american-government-0104",
     "category": "USA Tests",
-    "subcategory": "Rights & Symbols",
+    "subcategory": "American Government",
     "difficulty": "medium",
-    "question": "US Civics and Government: How many voting members currently comprise the United States House of Representatives? (Ref #104)",
+    "question": "Which federal law enforcement agency within the Department of Justice investigates domestic federal crimes, terrorism, and counterintelligence?",
     "options": [
-      "100 members",
-      "538 members",
-      "500 members",
-      "435 voting members"
+      "Central Intelligence Agency (CIA)",
+      "United States Secret Service",
+      "Bureau of Alcohol, Tobacco, Firearms and Explosives",
+      "Federal Bureau of Investigation (FBI)"
     ],
     "correctAnswer": 3,
-    "explanation": "The Permanent Apportionment Act of 1929 fixed the total number of voting US House Representatives at 435.",
+    "explanation": "The FBI is the principal federal investigative agency with domestic jurisdiction over white-collar crime, organized crime, and espionage.",
     "tags": [
       "usa-tests",
-      "rights-symbols",
+      "american-government",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "usa-tests-us-civics-0105",
+    "id": "usa-tests-american-government-0105",
     "category": "USA Tests",
-    "subcategory": "US Civics",
+    "subcategory": "American Government",
     "difficulty": "hard",
-    "question": "US Civics and Government: What is the standard constitutional term length in years for a United States President? (Ref #105)",
+    "question": "Which federal agency within the Department of Homeland Security is responsible for protecting the President, Vice President, and foreign heads of state?",
     "options": [
-      "4 years per term",
-      "2 years",
-      "6 years",
-      "8 years"
+      "United States Secret Service",
+      "Federal Bureau of Investigation (FBI)",
+      "United States Marshals Service",
+      "Customs and Border Protection (CBP)"
     ],
     "correctAnswer": 0,
-    "explanation": "Article II of the US Constitution establishes a presidential term length of 4 years, limited to two terms by the 22nd Amendment.",
+    "explanation": "Originally formed in 1865 to suppress counterfeiting, the Secret Service added protective executive security in 1901.",
     "tags": [
       "usa-tests",
-      "us-civics",
+      "american-government",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "usa-tests-us-constitution-0106",
+    "id": "usa-tests-american-government-0106",
     "category": "USA Tests",
-    "subcategory": "US Constitution",
+    "subcategory": "American Government",
     "difficulty": "easy",
-    "question": "US Civics and Government: What are the three constitutional branches of the United States federal government? (Ref #106)",
+    "question": "Which federal law enforcement agency is the oldest in the United States, responsible for federal judicial security, fugitive apprehension, and witness protection?",
     "options": [
-      "Federal, State, and Municipal",
-      "Legislative, Executive, and Judicial",
-      "Military, Commercial, and Diplomatic",
-      "Presidential, Congressional, and Gubernatorial"
+      "Federal Bureau of Investigation",
+      "United States Marshals Service",
+      "Secret Service",
+      "Postal Inspection Service"
     ],
     "correctAnswer": 1,
-    "explanation": "The US Constitution establishes three co-equal branches with checks and balances: Legislative (Congress), Executive (President), and Judicial (Supreme Court).",
+    "explanation": "Created by the Judiciary Act of 1789, the US Marshals protect federal judges, transport prisoners, and execute court warrants.",
     "tags": [
       "usa-tests",
-      "us-constitution",
+      "american-government",
       "easy"
     ],
     "active": true
@@ -2230,15 +2230,15 @@
     "category": "USA Tests",
     "subcategory": "American Government",
     "difficulty": "medium",
-    "question": "US Civics and Government: How many voting United States Senators serve in the US Senate? (Ref #107)",
+    "question": "What is the primary document that outlines the President's proposed federal spending priorities and tax policies for the upcoming fiscal year?",
     "options": [
-      "435 Senators",
-      "50 Senators",
-      "100 Senators (exactly 2 from each of the 50 states)",
-      "200 Senators"
+      "The Congressional Budget Resolution",
+      "The National Deficit Statement",
+      "The President's Executive Budget Request",
+      "The Treasury Annual Balance Sheet"
     ],
     "correctAnswer": 2,
-    "explanation": "Under Article I of the Constitution, each state is represented by exactly 2 senators, totaling 100.",
+    "explanation": "Submitted annually to Congress, the President's budget serves as the opening recommendation for congressional budget debates.",
     "tags": [
       "usa-tests",
       "american-government",
@@ -2247,64 +2247,64 @@
     "active": true
   },
   {
-    "id": "usa-tests-rights-symbols-0108",
+    "id": "usa-tests-american-government-0108",
     "category": "USA Tests",
-    "subcategory": "Rights & Symbols",
+    "subcategory": "American Government",
     "difficulty": "hard",
-    "question": "US Civics and Government: What collective name is given to the first ten amendments added to the United States Constitution? (Ref #108)",
+    "question": "Which nonpartisan legislative agency provides Congress with independent economic forecasts, cost estimates, and budget analyses of proposed bills?",
     "options": [
-      "The Articles of Confederation",
-      "The Federalist Papers",
-      "The Magna Carta",
-      "The Bill of Rights"
+      "Government Accountability Office (GAO)",
+      "Office of Management and Budget (OMB)",
+      "Federal Reserve Board",
+      "Congressional Budget Office (CBO)"
     ],
     "correctAnswer": 3,
-    "explanation": "Ratified in 1791, the first ten amendments comprise the Bill of Rights, safeguarding fundamental civil liberties.",
+    "explanation": "Established in 1974, the CBO produces nonpartisan 'scores' estimating the budgetary impact of proposed legislation.",
     "tags": [
       "usa-tests",
-      "rights-symbols",
+      "american-government",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "usa-tests-us-civics-0109",
+    "id": "usa-tests-american-government-0109",
     "category": "USA Tests",
-    "subcategory": "US Civics",
+    "subcategory": "American Government",
     "difficulty": "easy",
-    "question": "US Civics and Government: How many voting members currently comprise the United States House of Representatives? (Ref #109)",
+    "question": "Which independent nonpartisan audit agency, known as the 'congressional watchdog', investigates how the federal government spends taxpayer money?",
     "options": [
-      "435 voting members",
-      "100 members",
-      "538 members",
-      "500 members"
+      "Government Accountability Office (GAO)",
+      "Congressional Budget Office (CBO)",
+      "Office of Management and Budget (OMB)",
+      "Internal Revenue Service (IRS)"
     ],
     "correctAnswer": 0,
-    "explanation": "The Permanent Apportionment Act of 1929 fixed the total number of voting US House Representatives at 435.",
+    "explanation": "Headed by the Comptroller General, the GAO conducts performance audits and evaluates executive agency operations for Congress.",
     "tags": [
       "usa-tests",
-      "us-civics",
+      "american-government",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "usa-tests-us-constitution-0110",
+    "id": "usa-tests-american-government-0110",
     "category": "USA Tests",
-    "subcategory": "US Constitution",
+    "subcategory": "American Government",
     "difficulty": "medium",
-    "question": "US Civics and Government: What is the standard constitutional term length in years for a United States President? (Ref #110)",
+    "question": "Which executive agency within the Executive Office of the President oversees the implementation of presidential policy and assists in drafting the federal budget?",
     "options": [
-      "2 years",
-      "4 years per term",
-      "6 years",
-      "8 years"
+      "Congressional Budget Office (CBO)",
+      "Office of Management and Budget (OMB)",
+      "Department of the Treasury",
+      "Council of Economic Advisers"
     ],
     "correctAnswer": 1,
-    "explanation": "Article II of the US Constitution establishes a presidential term length of 4 years, limited to two terms by the 22nd Amendment.",
+    "explanation": "The OMB is the largest component of the Executive Office of the President, reviewing agency regulations and federal spending.",
     "tags": [
       "usa-tests",
-      "us-constitution",
+      "american-government",
       "medium"
     ],
     "active": true
@@ -2314,15 +2314,15 @@
     "category": "USA Tests",
     "subcategory": "American Government",
     "difficulty": "hard",
-    "question": "US Civics and Government: What are the three constitutional branches of the United States federal government? (Ref #111)",
+    "question": "What term describes redrawing the boundaries of legislative districts to favor one political party or interest group over another?",
     "options": [
-      "Federal, State, and Municipal",
-      "Military, Commercial, and Diplomatic",
-      "Legislative, Executive, and Judicial",
-      "Presidential, Congressional, and Gubernatorial"
+      "Reapportionment",
+      "Redistricting",
+      "Gerrymandering",
+      "Filibustering"
     ],
     "correctAnswer": 2,
-    "explanation": "The US Constitution establishes three co-equal branches with checks and balances: Legislative (Congress), Executive (President), and Judicial (Supreme Court).",
+    "explanation": "Gerrymandering manipulates district boundaries ('cracking and packing') to give a party an unfair electoral advantage.",
     "tags": [
       "usa-tests",
       "american-government",
@@ -2331,64 +2331,64 @@
     "active": true
   },
   {
-    "id": "usa-tests-rights-symbols-0112",
+    "id": "usa-tests-american-government-0112",
     "category": "USA Tests",
-    "subcategory": "Rights & Symbols",
+    "subcategory": "American Government",
     "difficulty": "easy",
-    "question": "US Civics and Government: How many voting United States Senators serve in the US Senate? (Ref #112)",
+    "question": "What process adjusts the number of seats each state receives in the House of Representatives based on the results of the decennial census?",
     "options": [
-      "435 Senators",
-      "50 Senators",
-      "200 Senators",
-      "100 Senators (exactly 2 from each of the 50 states)"
+      "Redistricting",
+      "Gerrymandering",
+      "Direct Election",
+      "Reapportionment"
     ],
     "correctAnswer": 3,
-    "explanation": "Under Article I of the Constitution, each state is represented by exactly 2 senators, totaling 100.",
+    "explanation": "States that gain population gain seats in the House, while states with slower growth or declining population lose seats.",
     "tags": [
       "usa-tests",
-      "rights-symbols",
+      "american-government",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "usa-tests-us-civics-0113",
+    "id": "usa-tests-american-government-0113",
     "category": "USA Tests",
-    "subcategory": "US Civics",
+    "subcategory": "American Government",
     "difficulty": "medium",
-    "question": "US Civics and Government: What collective name is given to the first ten amendments added to the United States Constitution? (Ref #113)",
+    "question": "What is the primary function of the United States Courts of Appeals (Circuit Courts)?",
     "options": [
-      "The Bill of Rights",
-      "The Articles of Confederation",
-      "The Federalist Papers",
-      "The Magna Carta"
+      "To review decisions made by federal district courts for legal and procedural errors",
+      "To conduct original trials with witnesses and juries",
+      "To issue advisory opinions to state legislatures",
+      "To hear international military disputes exclusively"
     ],
     "correctAnswer": 0,
-    "explanation": "Ratified in 1791, the first ten amendments comprise the Bill of Rights, safeguarding fundamental civil liberties.",
+    "explanation": "The 13 US Courts of Appeals intermediate between federal trial district courts and the Supreme Court.",
     "tags": [
       "usa-tests",
-      "us-civics",
+      "american-government",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "usa-tests-us-constitution-0114",
+    "id": "usa-tests-american-government-0114",
     "category": "USA Tests",
-    "subcategory": "US Constitution",
+    "subcategory": "American Government",
     "difficulty": "hard",
-    "question": "US Civics and Government: How many voting members currently comprise the United States House of Representatives? (Ref #114)",
+    "question": "How many regional judicial circuits comprise the United States Courts of Appeals system across the nation?",
     "options": [
-      "100 members",
-      "435 voting members",
-      "538 members",
-      "500 members"
+      "10 circuits",
+      "12 regional circuits (plus the Federal Circuit)",
+      "15 circuits",
+      "50 circuits"
     ],
     "correctAnswer": 1,
-    "explanation": "The Permanent Apportionment Act of 1929 fixed the total number of voting US House Representatives at 435.",
+    "explanation": "There are 11 numbered regional circuits, the D.C. Circuit, and the nationwide Court of Appeals for the Federal Circuit.",
     "tags": [
       "usa-tests",
-      "us-constitution",
+      "american-government",
       "hard"
     ],
     "active": true
@@ -2398,15 +2398,15 @@
     "category": "USA Tests",
     "subcategory": "American Government",
     "difficulty": "easy",
-    "question": "US Civics and Government: What is the standard constitutional term length in years for a United States President? (Ref #115)",
+    "question": "What is the principal federal trial court where federal criminal and civil lawsuits are originally filed, heard, and decided?",
     "options": [
-      "2 years",
-      "6 years",
-      "4 years per term",
-      "8 years"
+      "United States Court of Appeals",
+      "Supreme Court of the United States",
+      "United States District Court",
+      "United States Claims Court"
     ],
     "correctAnswer": 2,
-    "explanation": "Article II of the US Constitution establishes a presidential term length of 4 years, limited to two terms by the 22nd Amendment.",
+    "explanation": "There are 94 federal judicial district courts staffed by federal judges and juries hearing original evidence.",
     "tags": [
       "usa-tests",
       "american-government",
@@ -2415,64 +2415,64 @@
     "active": true
   },
   {
-    "id": "usa-tests-rights-symbols-0116",
+    "id": "usa-tests-american-government-0116",
     "category": "USA Tests",
-    "subcategory": "Rights & Symbols",
+    "subcategory": "American Government",
     "difficulty": "medium",
-    "question": "US Civics and Government: What are the three constitutional branches of the United States federal government? (Ref #116)",
+    "question": "What order issued by the Supreme Court agrees to hear an appeal from a lower court, requiring the assent of at least four Justices?",
     "options": [
-      "Federal, State, and Municipal",
-      "Military, Commercial, and Diplomatic",
-      "Presidential, Congressional, and Gubernatorial",
-      "Legislative, Executive, and Judicial"
+      "Writ of Mandamus",
+      "Writ of Habeas Corpus",
+      "Subpoena duces tecum",
+      "Writ of Certiorari"
     ],
     "correctAnswer": 3,
-    "explanation": "The US Constitution establishes three co-equal branches with checks and balances: Legislative (Congress), Executive (President), and Judicial (Supreme Court).",
+    "explanation": "Under the 'Rule of Four', if four of the nine Justices vote to grant certiorari, the Supreme Court accepts the case for review.",
     "tags": [
       "usa-tests",
-      "rights-symbols",
+      "american-government",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "usa-tests-us-civics-0117",
+    "id": "usa-tests-american-government-0117",
     "category": "USA Tests",
-    "subcategory": "US Civics",
+    "subcategory": "American Government",
     "difficulty": "hard",
-    "question": "US Civics and Government: How many voting United States Senators serve in the US Senate? (Ref #117)",
+    "question": "What written brief submitted by a non-party with an interest in the outcome of a case is translated as 'friend of the court'?",
     "options": [
-      "100 Senators (exactly 2 from each of the 50 states)",
-      "435 Senators",
-      "50 Senators",
-      "200 Senators"
+      "Amicus Curiae brief",
+      "Certiorari petition",
+      "Habeas corpus motion",
+      "Stare decisis memorandum"
     ],
     "correctAnswer": 0,
-    "explanation": "Under Article I of the Constitution, each state is represented by exactly 2 senators, totaling 100.",
+    "explanation": "Amicus curiae briefs provide additional legal arguments, empirical data, and policy perspectives to help appellate judges decide cases.",
     "tags": [
       "usa-tests",
-      "us-civics",
+      "american-government",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "usa-tests-us-constitution-0118",
+    "id": "usa-tests-american-government-0118",
     "category": "USA Tests",
-    "subcategory": "US Constitution",
+    "subcategory": "American Government",
     "difficulty": "easy",
-    "question": "US Civics and Government: What collective name is given to the first ten amendments added to the United States Constitution? (Ref #118)",
+    "question": "What legal doctrine obligates courts to follow judicial precedents established by prior rulings on identical legal issues?",
     "options": [
-      "The Articles of Confederation",
-      "The Bill of Rights",
-      "The Federalist Papers",
-      "The Magna Carta"
+      "Habeas Corpus",
+      "Stare Decisis",
+      "Mandamus",
+      "Ultra Vires"
     ],
     "correctAnswer": 1,
-    "explanation": "Ratified in 1791, the first ten amendments comprise the Bill of Rights, safeguarding fundamental civil liberties.",
+    "explanation": "Stare decisis ('to stand by things decided') ensures legal stability, consistency, and predictability in common law jurisprudence.",
     "tags": [
       "usa-tests",
-      "us-constitution",
+      "american-government",
       "easy"
     ],
     "active": true
@@ -2482,15 +2482,15 @@
     "category": "USA Tests",
     "subcategory": "American Government",
     "difficulty": "medium",
-    "question": "US Civics and Government: How many voting members currently comprise the United States House of Representatives? (Ref #119)",
+    "question": "What executive advisory body, chaired by the President, considers national security and foreign policy matters with senior military and cabinet advisors?",
     "options": [
-      "100 members",
-      "538 members",
-      "435 voting members",
-      "500 members"
+      "The Joint Chiefs of Staff",
+      "The Homeland Security Council",
+      "The National Security Council (NSC)",
+      "The Foreign Intelligence Advisory Board"
     ],
     "correctAnswer": 2,
-    "explanation": "The Permanent Apportionment Act of 1929 fixed the total number of voting US House Representatives at 435.",
+    "explanation": "Created in 1947, the NSC includes the Vice President, Secretary of State, Secretary of Defense, and National Security Advisor.",
     "tags": [
       "usa-tests",
       "american-government",
@@ -2499,85 +2499,85 @@
     "active": true
   },
   {
-    "id": "usa-tests-rights-symbols-0120",
+    "id": "usa-tests-american-government-0120",
     "category": "USA Tests",
-    "subcategory": "Rights & Symbols",
+    "subcategory": "American Government",
     "difficulty": "hard",
-    "question": "US Civics and Government: What is the standard constitutional term length in years for a United States President? (Ref #120)",
+    "question": "What official register published daily by the federal government contains proposed administrative rules, executive orders, and federal agency notices?",
     "options": [
-      "2 years",
-      "6 years",
-      "8 years",
-      "4 years per term"
+      "The Congressional Record",
+      "The United States Code",
+      "The Code of Federal Regulations",
+      "The Federal Register"
     ],
     "correctAnswer": 3,
-    "explanation": "Article II of the US Constitution establishes a presidential term length of 4 years, limited to two terms by the 22nd Amendment.",
+    "explanation": "The Federal Register provides public notice of executive orders, proposed agency rules, and opportunities for public comment.",
     "tags": [
       "usa-tests",
-      "rights-symbols",
+      "american-government",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "usa-tests-us-civics-0121",
+    "id": "usa-tests-rights-symbols-0121",
     "category": "USA Tests",
-    "subcategory": "US Civics",
+    "subcategory": "Rights & Symbols",
     "difficulty": "easy",
-    "question": "US Civics and Government: What are the three constitutional branches of the United States federal government? (Ref #121)",
+    "question": "What historical document signed in 1776 declared the thirteen American colonies to be free and independent states from Great Britain?",
     "options": [
-      "Legislative, Executive, and Judicial",
-      "Federal, State, and Municipal",
-      "Military, Commercial, and Diplomatic",
-      "Presidential, Congressional, and Gubernatorial"
+      "The Declaration of Independence",
+      "The United States Constitution",
+      "The Articles of Confederation",
+      "The Treaty of Paris"
     ],
     "correctAnswer": 0,
-    "explanation": "The US Constitution establishes three co-equal branches with checks and balances: Legislative (Congress), Executive (President), and Judicial (Supreme Court).",
+    "explanation": "Adopted by the Second Continental Congress, the Declaration announced the birth of the sovereign United States.",
     "tags": [
       "usa-tests",
-      "us-civics",
+      "rights-symbols",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "usa-tests-us-constitution-0122",
+    "id": "usa-tests-rights-symbols-0122",
     "category": "USA Tests",
-    "subcategory": "US Constitution",
+    "subcategory": "Rights & Symbols",
     "difficulty": "medium",
-    "question": "US Civics and Government: How many voting United States Senators serve in the US Senate? (Ref #122)",
+    "question": "What iconic phrase in the Declaration of Independence defines unalienable rights granted to all human beings?",
     "options": [
-      "435 Senators",
-      "100 Senators (exactly 2 from each of the 50 states)",
-      "50 Senators",
-      "200 Senators"
+      "'Life, Liberty and Property'",
+      "'Life, Liberty and the pursuit of Happiness'",
+      "'Peace, Order and Good Government'",
+      "'Liberty, Equality and Fraternity'"
     ],
     "correctAnswer": 1,
-    "explanation": "Under Article I of the Constitution, each state is represented by exactly 2 senators, totaling 100.",
+    "explanation": "Thomas Jefferson adapted John Locke's philosophical concepts to assert universal moral rights belonging to all people.",
     "tags": [
       "usa-tests",
-      "us-constitution",
+      "rights-symbols",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "usa-tests-american-government-0123",
+    "id": "usa-tests-rights-symbols-0123",
     "category": "USA Tests",
-    "subcategory": "American Government",
+    "subcategory": "Rights & Symbols",
     "difficulty": "hard",
-    "question": "US Civics and Government: What collective name is given to the first ten amendments added to the United States Constitution? (Ref #123)",
+    "question": "What national anthem of the United States was penned by Francis Scott Key during the British bombardment of Fort McHenry in 1814?",
     "options": [
-      "The Articles of Confederation",
-      "The Federalist Papers",
-      "The Bill of Rights",
-      "The Magna Carta"
+      "America the Beautiful",
+      "God Bless America",
+      "The Star-Spangled Banner",
+      "My Country, 'Tis of Thee"
     ],
     "correctAnswer": 2,
-    "explanation": "Ratified in 1791, the first ten amendments comprise the Bill of Rights, safeguarding fundamental civil liberties.",
+    "explanation": "Written during the War of 1812, Congress officially recognized the Star-Spangled Banner as the national anthem in 1931.",
     "tags": [
       "usa-tests",
-      "american-government",
+      "rights-symbols",
       "hard"
     ],
     "active": true
@@ -2587,15 +2587,15 @@
     "category": "USA Tests",
     "subcategory": "Rights & Symbols",
     "difficulty": "easy",
-    "question": "US Civics and Government: How many voting members currently comprise the United States House of Representatives? (Ref #124)",
+    "question": "How many alternating red and white stripes are featured on the official flag of the United States, and what do they symbolize?",
     "options": [
-      "100 members",
-      "538 members",
-      "500 members",
-      "435 voting members"
+      "15 stripes, symbolizing initial federal territories",
+      "50 stripes, symbolizing modern states",
+      "10 stripes, symbolizing Bill of Rights amendments",
+      "13 stripes, symbolizing the original thirteen British colonies that declared independence"
     ],
     "correctAnswer": 3,
-    "explanation": "The Permanent Apportionment Act of 1929 fixed the total number of voting US House Representatives at 435.",
+    "explanation": "The flag has 13 horizontal stripes (7 red and 6 white) representing the original 13 American colonies.",
     "tags": [
       "usa-tests",
       "rights-symbols",
@@ -2604,64 +2604,64 @@
     "active": true
   },
   {
-    "id": "usa-tests-us-civics-0125",
+    "id": "usa-tests-rights-symbols-0125",
     "category": "USA Tests",
-    "subcategory": "US Civics",
+    "subcategory": "Rights & Symbols",
     "difficulty": "medium",
-    "question": "US Civics and Government: What is the standard constitutional term length in years for a United States President? (Ref #125)",
+    "question": "How many white stars are featured on the blue union field of the current flag of the United States, and what do they represent?",
     "options": [
-      "4 years per term",
-      "2 years",
-      "6 years",
-      "8 years"
+      "50 stars, representing the fifty individual states of the Union",
+      "48 stars, representing continental states",
+      "13 stars, representing founding colonies",
+      "52 stars, including territories"
     ],
     "correctAnswer": 0,
-    "explanation": "Article II of the US Constitution establishes a presidential term length of 4 years, limited to two terms by the 22nd Amendment.",
+    "explanation": "Each star represents a state; the 50th star for Hawaii was added to the flag on July 4, 1960.",
     "tags": [
       "usa-tests",
-      "us-civics",
+      "rights-symbols",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "usa-tests-us-constitution-0126",
+    "id": "usa-tests-rights-symbols-0126",
     "category": "USA Tests",
-    "subcategory": "US Constitution",
+    "subcategory": "Rights & Symbols",
     "difficulty": "hard",
-    "question": "US Civics and Government: What are the three constitutional branches of the United States federal government? (Ref #126)",
+    "question": "What monumental copper statue was gifted to the United States by the people of France in 1886 to commemorate the alliance and friendship?",
     "options": [
-      "Federal, State, and Municipal",
-      "Legislative, Executive, and Judicial",
-      "Military, Commercial, and Diplomatic",
-      "Presidential, Congressional, and Gubernatorial"
+      "The Washington Monument",
+      "The Statue of Liberty (Liberty Enlightening the World)",
+      "The Lincoln Memorial",
+      "The Gateway Arch"
     ],
     "correctAnswer": 1,
-    "explanation": "The US Constitution establishes three co-equal branches with checks and balances: Legislative (Congress), Executive (President), and Judicial (Supreme Court).",
+    "explanation": "Designed by Frederic-Auguste Bartholdi with a steel framework by Gustave Eiffel, the statue stands in New York Harbor.",
     "tags": [
       "usa-tests",
-      "us-constitution",
+      "rights-symbols",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "usa-tests-american-government-0127",
+    "id": "usa-tests-rights-symbols-0127",
     "category": "USA Tests",
-    "subcategory": "American Government",
+    "subcategory": "Rights & Symbols",
     "difficulty": "easy",
-    "question": "US Civics and Government: How many voting United States Senators serve in the US Senate? (Ref #127)",
+    "question": "What sonnet written by poet Emma Lazarus is inscribed on a bronze plaque mounted inside the pedestal of the Statue of Liberty?",
     "options": [
-      "435 Senators",
-      "50 Senators",
-      "100 Senators (exactly 2 from each of the 50 states)",
-      "200 Senators"
+      "'O Captain! My Captain!'",
+      "'Paul Revere's Ride'",
+      "'The New Colossus'",
+      "'Song of Myself'"
     ],
     "correctAnswer": 2,
-    "explanation": "Under Article I of the Constitution, each state is represented by exactly 2 senators, totaling 100.",
+    "explanation": "The poem contains the celebrated line: 'Give me your tired, your poor, your huddled masses yearning to breathe free.'",
     "tags": [
       "usa-tests",
-      "american-government",
+      "rights-symbols",
       "easy"
     ],
     "active": true
@@ -2671,15 +2671,15 @@
     "category": "USA Tests",
     "subcategory": "Rights & Symbols",
     "difficulty": "medium",
-    "question": "US Civics and Government: What collective name is given to the first ten amendments added to the United States Constitution? (Ref #128)",
+    "question": "What historic bronze bell in Philadelphia, Pennsylvania features an inscription from Leviticus: 'Proclaim LIBERTY Throughout all the Land'?",
     "options": [
-      "The Articles of Confederation",
-      "The Federalist Papers",
-      "The Magna Carta",
-      "The Bill of Rights"
+      "The Independence Bell",
+      "The Freedom Chime",
+      "The Centennial Bell",
+      "The Liberty Bell"
     ],
     "correctAnswer": 3,
-    "explanation": "Ratified in 1791, the first ten amendments comprise the Bill of Rights, safeguarding fundamental civil liberties.",
+    "explanation": "Rung to commemorate historic readings of the Declaration of Independence, the bell features its famous iconic crack.",
     "tags": [
       "usa-tests",
       "rights-symbols",
@@ -2688,64 +2688,64 @@
     "active": true
   },
   {
-    "id": "usa-tests-us-civics-0129",
+    "id": "usa-tests-rights-symbols-0129",
     "category": "USA Tests",
-    "subcategory": "US Civics",
+    "subcategory": "Rights & Symbols",
     "difficulty": "hard",
-    "question": "US Civics and Government: How many voting members currently comprise the United States House of Representatives? (Ref #129)",
+    "question": "What majestic bird of prey was chosen by the Continental Congress in 1782 as the national bird and national emblem of the United States?",
     "options": [
-      "435 voting members",
-      "100 members",
-      "538 members",
-      "500 members"
+      "The Bald Eagle (Haliaeetus leucocephalus)",
+      "The Golden Eagle",
+      "The Red-tailed Hawk",
+      "The Wild Turkey"
     ],
     "correctAnswer": 0,
-    "explanation": "The Permanent Apportionment Act of 1929 fixed the total number of voting US House Representatives at 435.",
+    "explanation": "The bald eagle appears on the Great Seal of the United States holding an olive branch (peace) and thirteen arrows (defense).",
     "tags": [
       "usa-tests",
-      "us-civics",
+      "rights-symbols",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "usa-tests-us-constitution-0130",
+    "id": "usa-tests-rights-symbols-0130",
     "category": "USA Tests",
-    "subcategory": "US Constitution",
+    "subcategory": "Rights & Symbols",
     "difficulty": "easy",
-    "question": "US Civics and Government: What is the standard constitutional term length in years for a United States President? (Ref #130)",
+    "question": "What Latin motto appearing on the Great Seal of the United States translates to 'Out of many, one'?",
     "options": [
-      "2 years",
-      "4 years per term",
-      "6 years",
-      "8 years"
+      "'Novus Ordo Seclorum'",
+      "'E Pluribus Unum'",
+      "'Annuit Coeptis'",
+      "'In Deo Speramus'"
     ],
     "correctAnswer": 1,
-    "explanation": "Article II of the US Constitution establishes a presidential term length of 4 years, limited to two terms by the 22nd Amendment.",
+    "explanation": "Adopted in 1782, the motto reflects the creation of a single unified nation from thirteen disparate colonies.",
     "tags": [
       "usa-tests",
-      "us-constitution",
+      "rights-symbols",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "usa-tests-american-government-0131",
+    "id": "usa-tests-rights-symbols-0131",
     "category": "USA Tests",
-    "subcategory": "American Government",
+    "subcategory": "Rights & Symbols",
     "difficulty": "medium",
-    "question": "US Civics and Government: What are the three constitutional branches of the United States federal government? (Ref #131)",
+    "question": "What official motto of the United States was adopted by Congress in 1956 and appears on all United States currency?",
     "options": [
-      "Federal, State, and Municipal",
-      "Military, Commercial, and Diplomatic",
-      "Legislative, Executive, and Judicial",
-      "Presidential, Congressional, and Gubernatorial"
+      "'E Pluribus Unum'",
+      "'Liberty and Justice for All'",
+      "'In God We Trust'",
+      "'One Nation Under God'"
     ],
     "correctAnswer": 2,
-    "explanation": "The US Constitution establishes three co-equal branches with checks and balances: Legislative (Congress), Executive (President), and Judicial (Supreme Court).",
+    "explanation": "President Dwight D. Eisenhower signed legislation establishing 'In God We Trust' as the national motto.",
     "tags": [
       "usa-tests",
-      "american-government",
+      "rights-symbols",
       "medium"
     ],
     "active": true
@@ -2755,15 +2755,15 @@
     "category": "USA Tests",
     "subcategory": "Rights & Symbols",
     "difficulty": "hard",
-    "question": "US Civics and Government: How many voting United States Senators serve in the US Senate? (Ref #132)",
+    "question": "What patriotic oath of allegiance to the United States flag was first published in 1892 by Francis Bellamy?",
     "options": [
-      "435 Senators",
-      "50 Senators",
-      "200 Senators",
-      "100 Senators (exactly 2 from each of the 50 states)"
+      "The American's Creed",
+      "The Oath of Citizenship",
+      "The Constitution Day Salute",
+      "The Pledge of Allegiance"
     ],
     "correctAnswer": 3,
-    "explanation": "Under Article I of the Constitution, each state is represented by exactly 2 senators, totaling 100.",
+    "explanation": "Schoolchildren recite the pledge: 'I pledge allegiance to the flag of the United States of America, and to the Republic for which it stands...'",
     "tags": [
       "usa-tests",
       "rights-symbols",
@@ -2772,64 +2772,64 @@
     "active": true
   },
   {
-    "id": "usa-tests-us-civics-0133",
+    "id": "usa-tests-rights-symbols-0133",
     "category": "USA Tests",
-    "subcategory": "US Civics",
+    "subcategory": "Rights & Symbols",
     "difficulty": "easy",
-    "question": "US Civics and Government: What collective name is given to the first ten amendments added to the United States Constitution? (Ref #133)",
+    "question": "Which four United States presidents have their 60-foot likenesses carved into the granite face of Mount Rushmore in South Dakota?",
     "options": [
-      "The Bill of Rights",
-      "The Articles of Confederation",
-      "The Federalist Papers",
-      "The Magna Carta"
+      "George Washington, Thomas Jefferson, Theodore Roosevelt, and Abraham Lincoln",
+      "George Washington, John Adams, Abraham Lincoln, and FDR",
+      "Thomas Jefferson, James Madison, Abraham Lincoln, and Ulysses S. Grant",
+      "George Washington, Benjamin Franklin, Abraham Lincoln, and Dwight Eisenhower"
     ],
     "correctAnswer": 0,
-    "explanation": "Ratified in 1791, the first ten amendments comprise the Bill of Rights, safeguarding fundamental civil liberties.",
+    "explanation": "Sculpted by Gutzon Borglum between 1927 and 1941, the monument commemorates the birth, growth, development, and preservation of the nation.",
     "tags": [
       "usa-tests",
-      "us-civics",
+      "rights-symbols",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "usa-tests-us-constitution-0134",
+    "id": "usa-tests-rights-symbols-0134",
     "category": "USA Tests",
-    "subcategory": "US Constitution",
+    "subcategory": "Rights & Symbols",
     "difficulty": "medium",
-    "question": "US Civics and Government: How many voting members currently comprise the United States House of Representatives? (Ref #134)",
+    "question": "Which federal holiday observed on the third Monday of January honors the civil rights leader who advocated nonviolent resistance to racial segregation?",
     "options": [
-      "100 members",
-      "435 voting members",
-      "538 members",
-      "500 members"
+      "Juneteenth",
+      "Martin Luther King Jr. Day",
+      "Civil Rights Day",
+      "Presidential Remembrance Day"
     ],
     "correctAnswer": 1,
-    "explanation": "The Permanent Apportionment Act of 1929 fixed the total number of voting US House Representatives at 435.",
+    "explanation": "Signed into law by President Reagan in 1983, the holiday commemorates Dr. King's dedication to racial justice and peace.",
     "tags": [
       "usa-tests",
-      "us-constitution",
+      "rights-symbols",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "usa-tests-american-government-0135",
+    "id": "usa-tests-rights-symbols-0135",
     "category": "USA Tests",
-    "subcategory": "American Government",
+    "subcategory": "Rights & Symbols",
     "difficulty": "hard",
-    "question": "US Civics and Government: What is the standard constitutional term length in years for a United States President? (Ref #135)",
+    "question": "Which federal holiday celebrated on June 19 commemorates the emancipation of enslaved African Americans in the United States?",
     "options": [
-      "2 years",
-      "6 years",
-      "4 years per term",
-      "8 years"
+      "Emancipation Proclamation Day",
+      "Freedom Day",
+      "Juneteenth National Independence Day",
+      "Kwanzaa"
     ],
     "correctAnswer": 2,
-    "explanation": "Article II of the US Constitution establishes a presidential term length of 4 years, limited to two terms by the 22nd Amendment.",
+    "explanation": "Juneteenth marks June 19, 1865, when Union General Gordon Granger arrived in Galveston, Texas to announce that slavery had ended.",
     "tags": [
       "usa-tests",
-      "american-government",
+      "rights-symbols",
       "hard"
     ],
     "active": true
@@ -2839,15 +2839,15 @@
     "category": "USA Tests",
     "subcategory": "Rights & Symbols",
     "difficulty": "easy",
-    "question": "US Civics and Government: What are the three constitutional branches of the United States federal government? (Ref #136)",
+    "question": "Which federal holiday observed on the last Monday of May honors members of the United States Armed Forces who died in military service?",
     "options": [
-      "Federal, State, and Municipal",
-      "Military, Commercial, and Diplomatic",
-      "Presidential, Congressional, and Gubernatorial",
-      "Legislative, Executive, and Judicial"
+      "Veterans Day",
+      "Armed Forces Day",
+      "Patriot Day",
+      "Memorial Day"
     ],
     "correctAnswer": 3,
-    "explanation": "The US Constitution establishes three co-equal branches with checks and balances: Legislative (Congress), Executive (President), and Judicial (Supreme Court).",
+    "explanation": "Originating after the Civil War as Decoration Day, Memorial Day honors all American service personnel killed in war.",
     "tags": [
       "usa-tests",
       "rights-symbols",
@@ -2856,64 +2856,64 @@
     "active": true
   },
   {
-    "id": "usa-tests-us-civics-0137",
+    "id": "usa-tests-rights-symbols-0137",
     "category": "USA Tests",
-    "subcategory": "US Civics",
+    "subcategory": "Rights & Symbols",
     "difficulty": "medium",
-    "question": "US Civics and Government: How many voting United States Senators serve in the US Senate? (Ref #137)",
+    "question": "Which federal holiday observed annually on November 11 honors all military veterans who have served in the United States Armed Forces?",
     "options": [
-      "100 Senators (exactly 2 from each of the 50 states)",
-      "435 Senators",
-      "50 Senators",
-      "200 Senators"
+      "Veterans Day",
+      "Memorial Day",
+      "Armed Forces Day",
+      "Patriot Day"
     ],
     "correctAnswer": 0,
-    "explanation": "Under Article I of the Constitution, each state is represented by exactly 2 senators, totaling 100.",
+    "explanation": "Originally celebrated as Armistice Day marking the end of World War I in 1918, it honors all living and deceased military veterans.",
     "tags": [
       "usa-tests",
-      "us-civics",
+      "rights-symbols",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "usa-tests-us-constitution-0138",
+    "id": "usa-tests-rights-symbols-0138",
     "category": "USA Tests",
-    "subcategory": "US Constitution",
+    "subcategory": "Rights & Symbols",
     "difficulty": "hard",
-    "question": "US Civics and Government: What collective name is given to the first ten amendments added to the United States Constitution? (Ref #138)",
+    "question": "What federal holiday celebrated on the fourth Thursday of November commemorates a 1621 harvest feast shared by Pilgrims and Wampanoag people?",
     "options": [
-      "The Articles of Confederation",
-      "The Bill of Rights",
-      "The Federalist Papers",
-      "The Magna Carta"
+      "Columbus Day",
+      "Thanksgiving Day",
+      "Labor Day",
+      "Presidents' Day"
     ],
     "correctAnswer": 1,
-    "explanation": "Ratified in 1791, the first ten amendments comprise the Bill of Rights, safeguarding fundamental civil liberties.",
+    "explanation": "President Abraham Lincoln proclaimed a national day of Thanksgiving in 1863 during the Civil War to foster national unity.",
     "tags": [
       "usa-tests",
-      "us-constitution",
+      "rights-symbols",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "usa-tests-american-government-0139",
+    "id": "usa-tests-rights-symbols-0139",
     "category": "USA Tests",
-    "subcategory": "American Government",
+    "subcategory": "Rights & Symbols",
     "difficulty": "easy",
-    "question": "US Civics and Government: How many voting members currently comprise the United States House of Representatives? (Ref #139)",
+    "question": "Which federal holiday observed on the first Monday in September recognizes the American labor movement and contributions of workers?",
     "options": [
-      "100 members",
-      "538 members",
-      "435 voting members",
-      "500 members"
+      "Workers' Memorial Day",
+      "Memorial Day",
+      "Labor Day",
+      "National Employment Day"
     ],
     "correctAnswer": 2,
-    "explanation": "The Permanent Apportionment Act of 1929 fixed the total number of voting US House Representatives at 435.",
+    "explanation": "Created during the late 19th century labor movement, Labor Day became a federal holiday under President Grover Cleveland in 1894.",
     "tags": [
       "usa-tests",
-      "american-government",
+      "rights-symbols",
       "easy"
     ],
     "active": true
@@ -2923,15 +2923,15 @@
     "category": "USA Tests",
     "subcategory": "Rights & Symbols",
     "difficulty": "medium",
-    "question": "US Civics and Government: What is the standard constitutional term length in years for a United States President? (Ref #140)",
+    "question": "Which federal holiday celebrated on the third Monday of February officially honors the birth of George Washington and all US presidents?",
     "options": [
-      "2 years",
-      "6 years",
-      "8 years",
-      "4 years per term"
+      "Founders' Day",
+      "Patriots' Day",
+      "Constitution Day",
+      "Washington's Birthday (Presidents' Day)"
     ],
     "correctAnswer": 3,
-    "explanation": "Article II of the US Constitution establishes a presidential term length of 4 years, limited to two terms by the 22nd Amendment.",
+    "explanation": "Established by Congress in 1879 to celebrate George Washington's birthday (February 22), it colloquially honors all American presidents.",
     "tags": [
       "usa-tests",
       "rights-symbols",
@@ -2940,64 +2940,64 @@
     "active": true
   },
   {
-    "id": "usa-tests-us-civics-0141",
+    "id": "usa-tests-rights-symbols-0141",
     "category": "USA Tests",
-    "subcategory": "US Civics",
+    "subcategory": "Rights & Symbols",
     "difficulty": "hard",
-    "question": "US Civics and Government: What are the three constitutional branches of the United States federal government? (Ref #141)",
+    "question": "What federal holiday celebrated on July 4 commemorates the adoption of the Declaration of Independence in 1776?",
     "options": [
-      "Legislative, Executive, and Judicial",
-      "Federal, State, and Municipal",
-      "Military, Commercial, and Diplomatic",
-      "Presidential, Congressional, and Gubernatorial"
+      "Independence Day",
+      "Constitution Day",
+      "Flag Day",
+      "Liberty Day"
     ],
     "correctAnswer": 0,
-    "explanation": "The US Constitution establishes three co-equal branches with checks and balances: Legislative (Congress), Executive (President), and Judicial (Supreme Court).",
+    "explanation": "Celebrated nationwide with parades, civic speeches, and fireworks, July 4 marks the birthday of the American republic.",
     "tags": [
       "usa-tests",
-      "us-civics",
+      "rights-symbols",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "usa-tests-us-constitution-0142",
+    "id": "usa-tests-rights-symbols-0142",
     "category": "USA Tests",
-    "subcategory": "US Constitution",
+    "subcategory": "Rights & Symbols",
     "difficulty": "easy",
-    "question": "US Civics and Government: How many voting United States Senators serve in the US Senate? (Ref #142)",
+    "question": "What official holiday celebrated on June 14 commemorates the adoption of the Stars and Stripes as the official flag of the United States in 1777?",
     "options": [
-      "435 Senators",
-      "100 Senators (exactly 2 from each of the 50 states)",
-      "50 Senators",
-      "200 Senators"
+      "Independence Day",
+      "Flag Day",
+      "Patriot Day",
+      "Civics Day"
     ],
     "correctAnswer": 1,
-    "explanation": "Under Article I of the Constitution, each state is represented by exactly 2 senators, totaling 100.",
+    "explanation": "President Woodrow Wilson issued a proclamation establishing June 14 as Flag Day in 1916.",
     "tags": [
       "usa-tests",
-      "us-constitution",
+      "rights-symbols",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "usa-tests-american-government-0143",
+    "id": "usa-tests-rights-symbols-0143",
     "category": "USA Tests",
-    "subcategory": "American Government",
+    "subcategory": "Rights & Symbols",
     "difficulty": "medium",
-    "question": "US Civics and Government: What collective name is given to the first ten amendments added to the United States Constitution? (Ref #143)",
+    "question": "What holiday celebrated on September 17 commemorates the signing of the United States Constitution in Philadelphia in 1787?",
     "options": [
-      "The Articles of Confederation",
-      "The Federalist Papers",
-      "The Bill of Rights",
-      "The Magna Carta"
+      "Independence Day",
+      "Bill of Rights Day",
+      "Constitution Day and Citizenship Day",
+      "Federalist Day"
     ],
     "correctAnswer": 2,
-    "explanation": "Ratified in 1791, the first ten amendments comprise the Bill of Rights, safeguarding fundamental civil liberties.",
+    "explanation": "Congress designated September 17 to celebrate the drafting of the Constitution and recognize all naturalized citizens.",
     "tags": [
       "usa-tests",
-      "american-government",
+      "rights-symbols",
       "medium"
     ],
     "active": true
@@ -3007,15 +3007,15 @@
     "category": "USA Tests",
     "subcategory": "Rights & Symbols",
     "difficulty": "hard",
-    "question": "US Civics and Government: How many voting members currently comprise the United States House of Representatives? (Ref #144)",
+    "question": "What day celebrated on December 15 commemorates the ratification of the first ten amendments to the United States Constitution in 1791?",
     "options": [
-      "100 members",
-      "538 members",
-      "500 members",
-      "435 voting members"
+      "Constitution Day",
+      "Liberty Day",
+      "Civic Rights Day",
+      "Bill of Rights Day"
     ],
     "correctAnswer": 3,
-    "explanation": "The Permanent Apportionment Act of 1929 fixed the total number of voting US House Representatives at 435.",
+    "explanation": "President Franklin D. Roosevelt proclaimed December 15 as Bill of Rights Day in 1941 to celebrate constitutional liberties.",
     "tags": [
       "usa-tests",
       "rights-symbols",
@@ -3024,64 +3024,64 @@
     "active": true
   },
   {
-    "id": "usa-tests-us-civics-0145",
+    "id": "usa-tests-rights-symbols-0145",
     "category": "USA Tests",
-    "subcategory": "US Civics",
+    "subcategory": "Rights & Symbols",
     "difficulty": "easy",
-    "question": "US Civics and Government: What is the standard constitutional term length in years for a United States President? (Ref #145)",
+    "question": "What is the name of the official presidential guest house located across Pennsylvania Avenue from the White House?",
     "options": [
-      "4 years per term",
-      "2 years",
-      "6 years",
-      "8 years"
+      "Blair House",
+      "Camp David",
+      "Decatur House",
+      "Eisenhower Executive Office"
     ],
     "correctAnswer": 0,
-    "explanation": "Article II of the US Constitution establishes a presidential term length of 4 years, limited to two terms by the 22nd Amendment.",
+    "explanation": "Blair House has served as the official presidential guest quarters for foreign heads of state since 1942.",
     "tags": [
       "usa-tests",
-      "us-civics",
+      "rights-symbols",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "usa-tests-us-constitution-0146",
+    "id": "usa-tests-rights-symbols-0146",
     "category": "USA Tests",
-    "subcategory": "US Constitution",
+    "subcategory": "Rights & Symbols",
     "difficulty": "medium",
-    "question": "US Civics and Government: What are the three constitutional branches of the United States federal government? (Ref #146)",
+    "question": "What is the secluded presidential country retreat located in Catoctin Mountain Park in Frederick County, Maryland?",
     "options": [
-      "Federal, State, and Municipal",
-      "Legislative, Executive, and Judicial",
-      "Military, Commercial, and Diplomatic",
-      "Presidential, Congressional, and Gubernatorial"
+      "Mount Vernon",
+      "Camp David (Naval Support Facility Thurmont)",
+      "Monticello",
+      "The Hermitage"
     ],
     "correctAnswer": 1,
-    "explanation": "The US Constitution establishes three co-equal branches with checks and balances: Legislative (Congress), Executive (President), and Judicial (Supreme Court).",
+    "explanation": "Established by FDR as Shangri-La, Camp David serves as a private presidential retreat and venue for historic diplomatic summits.",
     "tags": [
       "usa-tests",
-      "us-constitution",
+      "rights-symbols",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "usa-tests-american-government-0147",
+    "id": "usa-tests-rights-symbols-0147",
     "category": "USA Tests",
-    "subcategory": "American Government",
+    "subcategory": "Rights & Symbols",
     "difficulty": "hard",
-    "question": "US Civics and Government: How many voting United States Senators serve in the US Senate? (Ref #147)",
+    "question": "What iconic neoclassical government building with a cast-iron dome houses the United States Senate and House of Representatives in Washington D.C.?",
     "options": [
-      "435 Senators",
-      "50 Senators",
-      "100 Senators (exactly 2 from each of the 50 states)",
-      "200 Senators"
+      "The White House",
+      "The Library of Congress",
+      "The United States Capitol",
+      "The Supreme Court Building"
     ],
     "correctAnswer": 2,
-    "explanation": "Under Article I of the Constitution, each state is represented by exactly 2 senators, totaling 100.",
+    "explanation": "Situated on Capitol Hill, the Capitol is the meeting place of the legislative branch of the federal government.",
     "tags": [
       "usa-tests",
-      "american-government",
+      "rights-symbols",
       "hard"
     ],
     "active": true
@@ -3091,15 +3091,15 @@
     "category": "USA Tests",
     "subcategory": "Rights & Symbols",
     "difficulty": "easy",
-    "question": "US Civics and Government: What collective name is given to the first ten amendments added to the United States Constitution? (Ref #148)",
+    "question": "What marble memorial in Washington D.C. features a 19-foot seated statue of Abraham Lincoln looking out over the Reflecting Pool?",
     "options": [
-      "The Articles of Confederation",
-      "The Federalist Papers",
-      "The Magna Carta",
-      "The Bill of Rights"
+      "The Jefferson Memorial",
+      "The Washington Monument",
+      "The FDR Memorial",
+      "The Lincoln Memorial"
     ],
     "correctAnswer": 3,
-    "explanation": "Ratified in 1791, the first ten amendments comprise the Bill of Rights, safeguarding fundamental civil liberties.",
+    "explanation": "Designed by Henry Bacon, the temple features the text of the Gettysburg Address and Lincoln's Second Inaugural Address.",
     "tags": [
       "usa-tests",
       "rights-symbols",
@@ -3108,64 +3108,64 @@
     "active": true
   },
   {
-    "id": "usa-tests-us-civics-0149",
+    "id": "usa-tests-rights-symbols-0149",
     "category": "USA Tests",
-    "subcategory": "US Civics",
+    "subcategory": "Rights & Symbols",
     "difficulty": "medium",
-    "question": "US Civics and Government: How many voting members currently comprise the United States House of Representatives? (Ref #149)",
+    "question": "What 555-foot marble obelisk on the National Mall in Washington D.C. was built to commemorate the first President of the United States?",
     "options": [
-      "435 voting members",
-      "100 members",
-      "538 members",
-      "500 members"
+      "The Washington Monument",
+      "The Jefferson Memorial",
+      "The Lincoln Memorial",
+      "The World War II Memorial"
     ],
     "correctAnswer": 0,
-    "explanation": "The Permanent Apportionment Act of 1929 fixed the total number of voting US House Representatives at 435.",
+    "explanation": "Engineered by Robert Mills, it was the tallest structure in the world when completed in 1884.",
     "tags": [
       "usa-tests",
-      "us-civics",
+      "rights-symbols",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "usa-tests-us-constitution-0150",
+    "id": "usa-tests-rights-symbols-0150",
     "category": "USA Tests",
-    "subcategory": "US Constitution",
+    "subcategory": "Rights & Symbols",
     "difficulty": "hard",
-    "question": "US Civics and Government: What is the standard constitutional term length in years for a United States President? (Ref #150)",
+    "question": "What circular neoclassical memorial on the Tidal Basin in Washington D.C. features a bronze statue of the author of the Declaration of Independence?",
     "options": [
-      "2 years",
-      "4 years per term",
-      "6 years",
-      "8 years"
+      "The Lincoln Memorial",
+      "The Thomas Jefferson Memorial",
+      "The Washington Monument",
+      "The Madison Memorial"
     ],
     "correctAnswer": 1,
-    "explanation": "Article II of the US Constitution establishes a presidential term length of 4 years, limited to two terms by the 22nd Amendment.",
+    "explanation": "Surrounded by famous Japanese cherry blossom trees, the memorial features engraved excerpts from Jefferson's political writings.",
     "tags": [
       "usa-tests",
-      "us-constitution",
+      "rights-symbols",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "usa-tests-american-government-0151",
+    "id": "usa-tests-rights-symbols-0151",
     "category": "USA Tests",
-    "subcategory": "American Government",
+    "subcategory": "Rights & Symbols",
     "difficulty": "easy",
-    "question": "US Civics and Government: What are the three constitutional branches of the United States federal government? (Ref #151)",
+    "question": "What national military cemetery in Virginia across the Potomac River from Washington D.C. contains the Tomb of the Unknown Soldier?",
     "options": [
-      "Federal, State, and Municipal",
-      "Military, Commercial, and Diplomatic",
-      "Legislative, Executive, and Judicial",
-      "Presidential, Congressional, and Gubernatorial"
+      "Gettysburg National Cemetery",
+      "Colonial National Historical Cemetery",
+      "Arlington National Cemetery",
+      "Quantico National Cemetery"
     ],
     "correctAnswer": 2,
-    "explanation": "The US Constitution establishes three co-equal branches with checks and balances: Legislative (Congress), Executive (President), and Judicial (Supreme Court).",
+    "explanation": "Established on the former plantation of Robert E. Lee during the Civil War, Arlington serves as the final resting place for over 400,000 veterans.",
     "tags": [
       "usa-tests",
-      "american-government",
+      "rights-symbols",
       "easy"
     ],
     "active": true
@@ -3175,15 +3175,15 @@
     "category": "USA Tests",
     "subcategory": "Rights & Symbols",
     "difficulty": "medium",
-    "question": "US Civics and Government: How many voting United States Senators serve in the US Senate? (Ref #152)",
+    "question": "What memorial in Arlington National Cemetery is guarded 24 hours a day, 365 days a year by elite sentinels of the 3rd US Infantry Regiment (The Old Guard)?",
     "options": [
-      "435 Senators",
-      "50 Senators",
-      "200 Senators",
-      "100 Senators (exactly 2 from each of the 50 states)"
+      "The Eternal Flame",
+      "The Space Shuttle Challenger Memorial",
+      "The USS Maine Memorial",
+      "The Tomb of the Unknown Soldier"
     ],
     "correctAnswer": 3,
-    "explanation": "Under Article I of the Constitution, each state is represented by exactly 2 senators, totaling 100.",
+    "explanation": "Dedicated in 1921, the tomb honors unidentified American military personnel who made the ultimate sacrifice in wartime.",
     "tags": [
       "usa-tests",
       "rights-symbols",
@@ -3192,64 +3192,64 @@
     "active": true
   },
   {
-    "id": "usa-tests-us-civics-0153",
+    "id": "usa-tests-rights-symbols-0153",
     "category": "USA Tests",
-    "subcategory": "US Civics",
+    "subcategory": "Rights & Symbols",
     "difficulty": "hard",
-    "question": "US Civics and Government: What collective name is given to the first ten amendments added to the United States Constitution? (Ref #153)",
+    "question": "What historic gravesite in Arlington National Cemetery features an Eternal Flame lit by Jacqueline Kennedy in 1963?",
     "options": [
-      "The Bill of Rights",
-      "The Articles of Confederation",
-      "The Federalist Papers",
-      "The Magna Carta"
+      "Gravesite of President John F. Kennedy",
+      "Gravesite of General George C. Marshall",
+      "Gravesite of Robert F. Kennedy",
+      "Gravesite of General John J. Pershing"
     ],
     "correctAnswer": 0,
-    "explanation": "Ratified in 1791, the first ten amendments comprise the Bill of Rights, safeguarding fundamental civil liberties.",
+    "explanation": "The gravesite overlooks Washington D.C., visited by millions of citizens paying tribute to the 35th President.",
     "tags": [
       "usa-tests",
-      "us-civics",
+      "rights-symbols",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "usa-tests-us-constitution-0154",
+    "id": "usa-tests-rights-symbols-0154",
     "category": "USA Tests",
-    "subcategory": "US Constitution",
+    "subcategory": "Rights & Symbols",
     "difficulty": "easy",
-    "question": "US Civics and Government: How many voting members currently comprise the United States House of Representatives? (Ref #154)",
+    "question": "What V-shaped black granite reflective memorial in Washington D.C., designed by Maya Lin, is etched with over 58,000 names of fallen service members?",
     "options": [
-      "100 members",
-      "435 voting members",
-      "538 members",
-      "500 members"
+      "The Korean War Veterans Memorial",
+      "The Vietnam Veterans Memorial",
+      "The World War I Memorial",
+      "The National World War II Memorial"
     ],
     "correctAnswer": 1,
-    "explanation": "The Permanent Apportionment Act of 1929 fixed the total number of voting US House Representatives at 435.",
+    "explanation": "Unveiled in 1982, the reflective black wall lists names chronologically by date of casualty, creating an intensely moving emotional tribute.",
     "tags": [
       "usa-tests",
-      "us-constitution",
+      "rights-symbols",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "usa-tests-american-government-0155",
+    "id": "usa-tests-rights-symbols-0155",
     "category": "USA Tests",
-    "subcategory": "American Government",
+    "subcategory": "Rights & Symbols",
     "difficulty": "medium",
-    "question": "US Civics and Government: What is the standard constitutional term length in years for a United States President? (Ref #155)",
+    "question": "What memorial on the National Mall consists of 19 stainless steel statues depicting an infantry squad advancing through rice paddies in ponchos?",
     "options": [
-      "2 years",
-      "6 years",
-      "4 years per term",
-      "8 years"
+      "The Vietnam Veterans Memorial",
+      "The World War II Memorial",
+      "The Korean War Veterans Memorial",
+      "The Marine Corps War Memorial"
     ],
     "correctAnswer": 2,
-    "explanation": "Article II of the US Constitution establishes a presidential term length of 4 years, limited to two terms by the 22nd Amendment.",
+    "explanation": "The memorial honors service members who fought in the Korean War (1950-1953), bearing the inscription 'Freedom Is Not Free.'",
     "tags": [
       "usa-tests",
-      "american-government",
+      "rights-symbols",
       "medium"
     ],
     "active": true
@@ -3259,15 +3259,15 @@
     "category": "USA Tests",
     "subcategory": "Rights & Symbols",
     "difficulty": "hard",
-    "question": "US Civics and Government: What are the three constitutional branches of the United States federal government? (Ref #156)",
+    "question": "What iconic bronze monument in Arlington, Virginia depicts five Marines and a Navy corpsman raising the American flag on Mount Suribachi during WWII?",
     "options": [
-      "Federal, State, and Municipal",
-      "Military, Commercial, and Diplomatic",
-      "Presidential, Congressional, and Gubernatorial",
-      "Legislative, Executive, and Judicial"
+      "The Navy Memorial",
+      "The National D-Day Memorial",
+      "The Air Force Memorial",
+      "The Marine Corps War Memorial (Iwo Jima Memorial)"
     ],
     "correctAnswer": 3,
-    "explanation": "The US Constitution establishes three co-equal branches with checks and balances: Legislative (Congress), Executive (President), and Judicial (Supreme Court).",
+    "explanation": "Sculpted by Felix de Weldon based on Joe Rosenthal's Pulitzer Prize-winning photograph, it honors all Marines who gave their lives.",
     "tags": [
       "usa-tests",
       "rights-symbols",
@@ -3276,64 +3276,64 @@
     "active": true
   },
   {
-    "id": "usa-tests-us-civics-0157",
+    "id": "usa-tests-rights-symbols-0157",
     "category": "USA Tests",
-    "subcategory": "US Civics",
+    "subcategory": "Rights & Symbols",
     "difficulty": "easy",
-    "question": "US Civics and Government: How many voting United States Senators serve in the US Senate? (Ref #157)",
+    "question": "What is the formal constitutional duty required of every male United States citizen within 30 days of turning 18 years old?",
     "options": [
-      "100 Senators (exactly 2 from each of the 50 states)",
-      "435 Senators",
-      "50 Senators",
-      "200 Senators"
+      "Register with the Selective Service System",
+      "Register with a political party",
+      "Obtain a federal passport",
+      "Pay federal property tax"
     ],
     "correctAnswer": 0,
-    "explanation": "Under Article I of the Constitution, each state is represented by exactly 2 senators, totaling 100.",
+    "explanation": "Federal law requires virtually all male US citizens and male immigrants residing in the US to register with Selective Service upon turning 18.",
     "tags": [
       "usa-tests",
-      "us-civics",
+      "rights-symbols",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "usa-tests-us-constitution-0158",
+    "id": "usa-tests-rights-symbols-0158",
     "category": "USA Tests",
-    "subcategory": "US Constitution",
+    "subcategory": "Rights & Symbols",
     "difficulty": "medium",
-    "question": "US Civics and Government: What collective name is given to the first ten amendments added to the United States Constitution? (Ref #158)",
+    "question": "What fundamental civic responsibility is expected of every United States citizen summoned to participate in the judicial trial process?",
     "options": [
-      "The Articles of Confederation",
-      "The Bill of Rights",
-      "The Federalist Papers",
-      "The Magna Carta"
+      "Running for elected public office",
+      "Serving on a jury when summoned",
+      "Writing letters to congressional representatives",
+      "Donating to campaign finance committees"
     ],
     "correctAnswer": 1,
-    "explanation": "Ratified in 1791, the first ten amendments comprise the Bill of Rights, safeguarding fundamental civil liberties.",
+    "explanation": "Jury service ensures that accused individuals are judged by an impartial community of their peers, upholding constitutional due process.",
     "tags": [
       "usa-tests",
-      "us-constitution",
+      "rights-symbols",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "usa-tests-american-government-0159",
+    "id": "usa-tests-rights-symbols-0159",
     "category": "USA Tests",
-    "subcategory": "American Government",
+    "subcategory": "Rights & Symbols",
     "difficulty": "hard",
-    "question": "US Civics and Government: How many voting members currently comprise the United States House of Representatives? (Ref #159)",
+    "question": "What civic obligation requires citizens who earn taxable income above statutory thresholds to file annual returns with the federal government?",
     "options": [
-      "100 members",
-      "538 members",
-      "435 voting members",
-      "500 members"
+      "Purchasing municipal bonds",
+      "Volunteering for civil defense duties",
+      "Filing and paying federal income taxes",
+      "Voting in every state referendum"
     ],
     "correctAnswer": 2,
-    "explanation": "The Permanent Apportionment Act of 1929 fixed the total number of voting US House Representatives at 435.",
+    "explanation": "Tax revenue finances national defense, public infrastructure, education, Medicare, Social Security, and federal government services.",
     "tags": [
       "usa-tests",
-      "american-government",
+      "rights-symbols",
       "hard"
     ],
     "active": true
@@ -3343,15 +3343,15 @@
     "category": "USA Tests",
     "subcategory": "Rights & Symbols",
     "difficulty": "easy",
-    "question": "US Civics and Government: What is the standard constitutional term length in years for a United States President? (Ref #160)",
+    "question": "What voluntary civic act is the cornerstone of democratic self-governance in the United States?",
     "options": [
-      "2 years",
-      "6 years",
-      "8 years",
-      "4 years per term"
+      "Serving in the armed forces",
+      "Joining a labor union",
+      "Attending municipal zoning board hearings",
+      "Voting in federal, state, and local elections"
     ],
     "correctAnswer": 3,
-    "explanation": "Article II of the US Constitution establishes a presidential term length of 4 years, limited to two terms by the 22nd Amendment.",
+    "explanation": "Voting empowers citizens to elect representatives, shape government policies, and hold political leaders accountable.",
     "tags": [
       "usa-tests",
       "rights-symbols",

@@ -4,15 +4,15 @@
     "category": "IQ & Logic",
     "subcategory": "Pattern Sequences",
     "difficulty": "easy",
-    "question": "Logic and analytical reasoning: What is the next logical number in the numeric sequence: 3, 6, 12, 24, 48, ___? (Ref #1)",
+    "question": "What is the next number in the sequence: 2, 4, 8, 16, 32, ...?",
     "options": [
-      "96 (each term doubles)",
-      "72",
-      "84",
-      "102"
+      "64",
+      "48",
+      "56",
+      "72"
     ],
     "correctAnswer": 0,
-    "explanation": "Each consecutive term in this geometric sequence is multiplied by 2: 48 × 2 = 96.",
+    "explanation": "Each term is multiplied by 2: 32 * 2 = 64.",
     "tags": [
       "iq-logic",
       "pattern-sequences",
@@ -21,64 +21,64 @@
     "active": true
   },
   {
-    "id": "iq-logic-spatial-reasoning-0002",
+    "id": "iq-logic-pattern-sequences-0002",
     "category": "IQ & Logic",
-    "subcategory": "Spatial Reasoning",
+    "subcategory": "Pattern Sequences",
     "difficulty": "medium",
-    "question": "Logic and analytical reasoning: Consider the premises: 'All dogs are mammals. All mammals are warm-blooded.' What valid conclusion follows logically? (Ref #2)",
+    "question": "What is the next number in the sequence: 3, 7, 11, 15, 19, ...?",
     "options": [
-      "All warm-blooded animals are dogs",
-      "All dogs are warm-blooded",
-      "Some dogs are not mammals",
-      "No mammals are dogs"
+      "21",
+      "23",
+      "22",
+      "25"
     ],
     "correctAnswer": 1,
-    "explanation": "By classical categorical syllogism (Barbara format: All A are B, all B are C), it follows that all A are C.",
+    "explanation": "Each term increases by 4: 19 + 4 = 23.",
     "tags": [
       "iq-logic",
-      "spatial-reasoning",
+      "pattern-sequences",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "iq-logic-logical-deductions-0003",
+    "id": "iq-logic-pattern-sequences-0003",
     "category": "IQ & Logic",
-    "subcategory": "Logical Deductions",
+    "subcategory": "Pattern Sequences",
     "difficulty": "hard",
-    "question": "Logic and analytical reasoning: What is the next number in the Fibonacci sequence: 1, 1, 2, 3, 5, 8, 13, ___? (Ref #3)",
+    "question": "What is the next number in the sequence: 1, 1, 2, 3, 5, 8, 13, ...?",
     "options": [
-      "18",
+      "19",
       "20",
       "21",
       "24"
     ],
     "correctAnswer": 2,
-    "explanation": "In the Fibonacci sequence, each number is the sum of the two preceding ones: 8 + 13 = 21.",
+    "explanation": "This is the Fibonacci sequence where each term is the sum of the two preceding terms: 8 + 13 = 21.",
     "tags": [
       "iq-logic",
-      "logical-deductions",
+      "pattern-sequences",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "iq-logic-lateral-thinking-0004",
+    "id": "iq-logic-pattern-sequences-0004",
     "category": "IQ & Logic",
-    "subcategory": "Lateral Thinking",
+    "subcategory": "Pattern Sequences",
     "difficulty": "easy",
-    "question": "Logic and analytical reasoning: If 5 machines take exactly 5 minutes to manufacture 5 widgets, how many minutes would it take 100 machines to manufacture 100 widgets? (Ref #4)",
+    "question": "What is the next number in the sequence: 2, 6, 12, 20, 30, ...?",
     "options": [
-      "100 minutes",
-      "20 minutes",
-      "50 minutes",
-      "5 minutes"
+      "38",
+      "40",
+      "44",
+      "42"
     ],
     "correctAnswer": 3,
-    "explanation": "Each individual machine takes 5 minutes to complete one widget; running 100 machines in parallel produces 100 widgets in 5 minutes.",
+    "explanation": "The differences between terms are 4, 6, 8, 10, so the next difference is 12: 30 + 12 = 42 (also n*(n+1)).",
     "tags": [
       "iq-logic",
-      "lateral-thinking",
+      "pattern-sequences",
       "easy"
     ],
     "active": true
@@ -88,15 +88,15 @@
     "category": "IQ & Logic",
     "subcategory": "Pattern Sequences",
     "difficulty": "medium",
-    "question": "Logic and analytical reasoning: Complete the analogy: Book is to Reading as Fork is to ___? (Ref #5)",
+    "question": "What is the next number in the sequence: 1, 4, 9, 16, 25, 36, ...?",
     "options": [
-      "Eating",
-      "Cooking",
-      "Sharpening",
-      "Baking"
+      "49",
+      "42",
+      "48",
+      "64"
     ],
     "correctAnswer": 0,
-    "explanation": "A book is an instrument used primarily for reading; a fork is an instrument used primarily for eating.",
+    "explanation": "These are consecutive squares (1^2, 2^2, 3^2, ...). 7^2 = 49.",
     "tags": [
       "iq-logic",
       "pattern-sequences",
@@ -105,64 +105,64 @@
     "active": true
   },
   {
-    "id": "iq-logic-spatial-reasoning-0006",
+    "id": "iq-logic-pattern-sequences-0006",
     "category": "IQ & Logic",
-    "subcategory": "Spatial Reasoning",
+    "subcategory": "Pattern Sequences",
     "difficulty": "hard",
-    "question": "Logic and analytical reasoning: What is the next logical number in the numeric sequence: 3, 6, 12, 24, 48, ___? (Ref #6)",
+    "question": "What is the next number in the sequence: 1, 8, 27, 64, 125, ...?",
     "options": [
-      "72",
-      "96 (each term doubles)",
-      "84",
-      "102"
+      "196",
+      "216",
+      "225",
+      "256"
     ],
     "correctAnswer": 1,
-    "explanation": "Each consecutive term in this geometric sequence is multiplied by 2: 48 × 2 = 96.",
+    "explanation": "These are consecutive cubes (1^3, 2^3, 3^3, ...). 6^3 = 216.",
     "tags": [
       "iq-logic",
-      "spatial-reasoning",
+      "pattern-sequences",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "iq-logic-logical-deductions-0007",
+    "id": "iq-logic-pattern-sequences-0007",
     "category": "IQ & Logic",
-    "subcategory": "Logical Deductions",
+    "subcategory": "Pattern Sequences",
     "difficulty": "easy",
-    "question": "Logic and analytical reasoning: Consider the premises: 'All dogs are mammals. All mammals are warm-blooded.' What valid conclusion follows logically? (Ref #7)",
+    "question": "What is the next number in the sequence: 80, 40, 20, 10, ...?",
     "options": [
-      "All warm-blooded animals are dogs",
-      "Some dogs are not mammals",
-      "All dogs are warm-blooded",
-      "No mammals are dogs"
+      "2.5",
+      "4",
+      "5",
+      "0"
     ],
     "correctAnswer": 2,
-    "explanation": "By classical categorical syllogism (Barbara format: All A are B, all B are C), it follows that all A are C.",
+    "explanation": "Each term is divided by 2: 10 / 2 = 5.",
     "tags": [
       "iq-logic",
-      "logical-deductions",
+      "pattern-sequences",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "iq-logic-lateral-thinking-0008",
+    "id": "iq-logic-pattern-sequences-0008",
     "category": "IQ & Logic",
-    "subcategory": "Lateral Thinking",
+    "subcategory": "Pattern Sequences",
     "difficulty": "medium",
-    "question": "Logic and analytical reasoning: What is the next number in the Fibonacci sequence: 1, 1, 2, 3, 5, 8, 13, ___? (Ref #8)",
+    "question": "What is the next number in the sequence: 5, 10, 20, 40, 80, ...?",
     "options": [
-      "18",
-      "20",
-      "24",
-      "21"
+      "120",
+      "140",
+      "200",
+      "160"
     ],
     "correctAnswer": 3,
-    "explanation": "In the Fibonacci sequence, each number is the sum of the two preceding ones: 8 + 13 = 21.",
+    "explanation": "Each term is multiplied by 2: 80 * 2 = 160.",
     "tags": [
       "iq-logic",
-      "lateral-thinking",
+      "pattern-sequences",
       "medium"
     ],
     "active": true
@@ -172,15 +172,15 @@
     "category": "IQ & Logic",
     "subcategory": "Pattern Sequences",
     "difficulty": "hard",
-    "question": "Logic and analytical reasoning: If 5 machines take exactly 5 minutes to manufacture 5 widgets, how many minutes would it take 100 machines to manufacture 100 widgets? (Ref #9)",
+    "question": "What is the next number in the sequence: 100, 95, 85, 70, 50, ...?",
     "options": [
-      "5 minutes",
-      "100 minutes",
-      "20 minutes",
-      "50 minutes"
+      "25",
+      "20",
+      "30",
+      "35"
     ],
     "correctAnswer": 0,
-    "explanation": "Each individual machine takes 5 minutes to complete one widget; running 100 machines in parallel produces 100 widgets in 5 minutes.",
+    "explanation": "The differences subtracted are 5, 10, 15, 20, so next subtract 25: 50 - 25 = 25.",
     "tags": [
       "iq-logic",
       "pattern-sequences",
@@ -189,64 +189,64 @@
     "active": true
   },
   {
-    "id": "iq-logic-spatial-reasoning-0010",
+    "id": "iq-logic-pattern-sequences-0010",
     "category": "IQ & Logic",
-    "subcategory": "Spatial Reasoning",
+    "subcategory": "Pattern Sequences",
     "difficulty": "easy",
-    "question": "Logic and analytical reasoning: Complete the analogy: Book is to Reading as Fork is to ___? (Ref #10)",
+    "question": "What is the next number in the sequence: 2, 3, 5, 7, 11, 13, ...?",
     "options": [
-      "Cooking",
-      "Eating",
-      "Sharpening",
-      "Baking"
+      "15",
+      "17",
+      "19",
+      "21"
     ],
     "correctAnswer": 1,
-    "explanation": "A book is an instrument used primarily for reading; a fork is an instrument used primarily for eating.",
+    "explanation": "This is the sequence of consecutive prime numbers. The prime following 13 is 17.",
     "tags": [
       "iq-logic",
-      "spatial-reasoning",
+      "pattern-sequences",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "iq-logic-logical-deductions-0011",
+    "id": "iq-logic-pattern-sequences-0011",
     "category": "IQ & Logic",
-    "subcategory": "Logical Deductions",
+    "subcategory": "Pattern Sequences",
     "difficulty": "medium",
-    "question": "Logic and analytical reasoning: What is the next logical number in the numeric sequence: 3, 6, 12, 24, 48, ___? (Ref #11)",
+    "question": "What is the next number in the sequence: 4, 9, 19, 39, 79, ...?",
     "options": [
-      "72",
-      "84",
-      "96 (each term doubles)",
-      "102"
+      "149",
+      "158",
+      "159",
+      "169"
     ],
     "correctAnswer": 2,
-    "explanation": "Each consecutive term in this geometric sequence is multiplied by 2: 48 × 2 = 96.",
+    "explanation": "Each term is multiplied by 2 and then add 1: 79 * 2 + 1 = 158 + 1 = 159.",
     "tags": [
       "iq-logic",
-      "logical-deductions",
+      "pattern-sequences",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "iq-logic-lateral-thinking-0012",
+    "id": "iq-logic-pattern-sequences-0012",
     "category": "IQ & Logic",
-    "subcategory": "Lateral Thinking",
+    "subcategory": "Pattern Sequences",
     "difficulty": "hard",
-    "question": "Logic and analytical reasoning: Consider the premises: 'All dogs are mammals. All mammals are warm-blooded.' What valid conclusion follows logically? (Ref #12)",
+    "question": "What is the next number in the sequence: 0, 3, 8, 15, 24, ...?",
     "options": [
-      "All warm-blooded animals are dogs",
-      "Some dogs are not mammals",
-      "No mammals are dogs",
-      "All dogs are warm-blooded"
+      "32",
+      "36",
+      "48",
+      "35"
     ],
     "correctAnswer": 3,
-    "explanation": "By classical categorical syllogism (Barbara format: All A are B, all B are C), it follows that all A are C.",
+    "explanation": "Pattern is n^2 - 1: 6^2 - 1 = 36 - 1 = 35.",
     "tags": [
       "iq-logic",
-      "lateral-thinking",
+      "pattern-sequences",
       "hard"
     ],
     "active": true
@@ -256,15 +256,15 @@
     "category": "IQ & Logic",
     "subcategory": "Pattern Sequences",
     "difficulty": "easy",
-    "question": "Logic and analytical reasoning: What is the next number in the Fibonacci sequence: 1, 1, 2, 3, 5, 8, 13, ___? (Ref #13)",
+    "question": "What is the next number in the sequence: 2, 5, 10, 17, 26, ...?",
     "options": [
-      "21",
-      "18",
-      "20",
-      "24"
+      "37",
+      "35",
+      "36",
+      "38"
     ],
     "correctAnswer": 0,
-    "explanation": "In the Fibonacci sequence, each number is the sum of the two preceding ones: 8 + 13 = 21.",
+    "explanation": "Pattern is n^2 + 1: 6^2 + 1 = 36 + 1 = 37.",
     "tags": [
       "iq-logic",
       "pattern-sequences",
@@ -273,64 +273,64 @@
     "active": true
   },
   {
-    "id": "iq-logic-spatial-reasoning-0014",
+    "id": "iq-logic-pattern-sequences-0014",
     "category": "IQ & Logic",
-    "subcategory": "Spatial Reasoning",
+    "subcategory": "Pattern Sequences",
     "difficulty": "medium",
-    "question": "Logic and analytical reasoning: If 5 machines take exactly 5 minutes to manufacture 5 widgets, how many minutes would it take 100 machines to manufacture 100 widgets? (Ref #14)",
+    "question": "What is the next letter in the sequence: A, C, E, G, I, ...?",
     "options": [
-      "100 minutes",
-      "5 minutes",
-      "20 minutes",
-      "50 minutes"
+      "J",
+      "K",
+      "L",
+      "M"
     ],
     "correctAnswer": 1,
-    "explanation": "Each individual machine takes 5 minutes to complete one widget; running 100 machines in parallel produces 100 widgets in 5 minutes.",
+    "explanation": "Letters skip one position in the alphabet: I -> K.",
     "tags": [
       "iq-logic",
-      "spatial-reasoning",
+      "pattern-sequences",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "iq-logic-logical-deductions-0015",
+    "id": "iq-logic-pattern-sequences-0015",
     "category": "IQ & Logic",
-    "subcategory": "Logical Deductions",
+    "subcategory": "Pattern Sequences",
     "difficulty": "hard",
-    "question": "Logic and analytical reasoning: Complete the analogy: Book is to Reading as Fork is to ___? (Ref #15)",
+    "question": "What is the next letter in the sequence: Z, X, V, T, R, ...?",
     "options": [
-      "Cooking",
-      "Sharpening",
-      "Eating",
-      "Baking"
+      "Q",
+      "O",
+      "P",
+      "N"
     ],
     "correctAnswer": 2,
-    "explanation": "A book is an instrument used primarily for reading; a fork is an instrument used primarily for eating.",
+    "explanation": "Letters skip backwards by two positions: R -> P.",
     "tags": [
       "iq-logic",
-      "logical-deductions",
+      "pattern-sequences",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "iq-logic-lateral-thinking-0016",
+    "id": "iq-logic-pattern-sequences-0016",
     "category": "IQ & Logic",
-    "subcategory": "Lateral Thinking",
+    "subcategory": "Pattern Sequences",
     "difficulty": "easy",
-    "question": "Logic and analytical reasoning: What is the next logical number in the numeric sequence: 3, 6, 12, 24, 48, ___? (Ref #16)",
+    "question": "What is the next number in the sequence: 128, 64, 32, 16, 8, ...?",
     "options": [
-      "72",
-      "84",
-      "102",
-      "96 (each term doubles)"
+      "2",
+      "6",
+      "0",
+      "4"
     ],
     "correctAnswer": 3,
-    "explanation": "Each consecutive term in this geometric sequence is multiplied by 2: 48 × 2 = 96.",
+    "explanation": "Each term is halved: 8 / 2 = 4.",
     "tags": [
       "iq-logic",
-      "lateral-thinking",
+      "pattern-sequences",
       "easy"
     ],
     "active": true
@@ -340,15 +340,15 @@
     "category": "IQ & Logic",
     "subcategory": "Pattern Sequences",
     "difficulty": "medium",
-    "question": "Logic and analytical reasoning: Consider the premises: 'All dogs are mammals. All mammals are warm-blooded.' What valid conclusion follows logically? (Ref #17)",
+    "question": "What is the next number in the sequence: 7, 14, 28, 56, 112, ...?",
     "options": [
-      "All dogs are warm-blooded",
-      "All warm-blooded animals are dogs",
-      "Some dogs are not mammals",
-      "No mammals are dogs"
+      "224",
+      "168",
+      "212",
+      "248"
     ],
     "correctAnswer": 0,
-    "explanation": "By classical categorical syllogism (Barbara format: All A are B, all B are C), it follows that all A are C.",
+    "explanation": "Each term doubles: 112 * 2 = 224.",
     "tags": [
       "iq-logic",
       "pattern-sequences",
@@ -357,64 +357,64 @@
     "active": true
   },
   {
-    "id": "iq-logic-spatial-reasoning-0018",
+    "id": "iq-logic-pattern-sequences-0018",
     "category": "IQ & Logic",
-    "subcategory": "Spatial Reasoning",
+    "subcategory": "Pattern Sequences",
     "difficulty": "hard",
-    "question": "Logic and analytical reasoning: What is the next number in the Fibonacci sequence: 1, 1, 2, 3, 5, 8, 13, ___? (Ref #18)",
+    "question": "What is the next number in the sequence: 1, 3, 6, 10, 15, 21, ...?",
     "options": [
-      "18",
-      "21",
-      "20",
-      "24"
+      "26",
+      "28",
+      "27",
+      "30"
     ],
     "correctAnswer": 1,
-    "explanation": "In the Fibonacci sequence, each number is the sum of the two preceding ones: 8 + 13 = 21.",
+    "explanation": "These are triangular numbers (+2, +3, +4, +5, +6, +7): 21 + 7 = 28.",
     "tags": [
       "iq-logic",
-      "spatial-reasoning",
+      "pattern-sequences",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "iq-logic-logical-deductions-0019",
+    "id": "iq-logic-pattern-sequences-0019",
     "category": "IQ & Logic",
-    "subcategory": "Logical Deductions",
+    "subcategory": "Pattern Sequences",
     "difficulty": "easy",
-    "question": "Logic and analytical reasoning: If 5 machines take exactly 5 minutes to manufacture 5 widgets, how many minutes would it take 100 machines to manufacture 100 widgets? (Ref #19)",
+    "question": "What is the next number in the sequence: 3, 9, 27, 81, ...?",
     "options": [
-      "100 minutes",
-      "20 minutes",
-      "5 minutes",
-      "50 minutes"
+      "162",
+      "216",
+      "243",
+      "729"
     ],
     "correctAnswer": 2,
-    "explanation": "Each individual machine takes 5 minutes to complete one widget; running 100 machines in parallel produces 100 widgets in 5 minutes.",
+    "explanation": "Each term is multiplied by 3: 81 * 3 = 243.",
     "tags": [
       "iq-logic",
-      "logical-deductions",
+      "pattern-sequences",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "iq-logic-lateral-thinking-0020",
+    "id": "iq-logic-pattern-sequences-0020",
     "category": "IQ & Logic",
-    "subcategory": "Lateral Thinking",
+    "subcategory": "Pattern Sequences",
     "difficulty": "medium",
-    "question": "Logic and analytical reasoning: Complete the analogy: Book is to Reading as Fork is to ___? (Ref #20)",
+    "question": "What is the next letter in the sequence: B, D, G, K, P, ...?",
     "options": [
-      "Cooking",
-      "Sharpening",
-      "Baking",
-      "Eating"
+      "U",
+      "W",
+      "X",
+      "V"
     ],
     "correctAnswer": 3,
-    "explanation": "A book is an instrument used primarily for reading; a fork is an instrument used primarily for eating.",
+    "explanation": "The gaps increase by +2, +3, +4, +5, +6: P (16) + 6 = 22 (V).",
     "tags": [
       "iq-logic",
-      "lateral-thinking",
+      "pattern-sequences",
       "medium"
     ],
     "active": true
@@ -424,15 +424,15 @@
     "category": "IQ & Logic",
     "subcategory": "Pattern Sequences",
     "difficulty": "hard",
-    "question": "Logic and analytical reasoning: What is the next logical number in the numeric sequence: 3, 6, 12, 24, 48, ___? (Ref #21)",
+    "question": "What is the next number in the sequence: 50, 45, 40, 35, 30, ...?",
     "options": [
-      "96 (each term doubles)",
-      "72",
-      "84",
-      "102"
+      "25",
+      "20",
+      "28",
+      "15"
     ],
     "correctAnswer": 0,
-    "explanation": "Each consecutive term in this geometric sequence is multiplied by 2: 48 × 2 = 96.",
+    "explanation": "Each term decreases by 5: 30 - 5 = 25.",
     "tags": [
       "iq-logic",
       "pattern-sequences",
@@ -441,64 +441,64 @@
     "active": true
   },
   {
-    "id": "iq-logic-spatial-reasoning-0022",
+    "id": "iq-logic-pattern-sequences-0022",
     "category": "IQ & Logic",
-    "subcategory": "Spatial Reasoning",
+    "subcategory": "Pattern Sequences",
     "difficulty": "easy",
-    "question": "Logic and analytical reasoning: Consider the premises: 'All dogs are mammals. All mammals are warm-blooded.' What valid conclusion follows logically? (Ref #22)",
+    "question": "What is the next number in the sequence: 6, 11, 21, 36, 56, ...?",
     "options": [
-      "All warm-blooded animals are dogs",
-      "All dogs are warm-blooded",
-      "Some dogs are not mammals",
-      "No mammals are dogs"
+      "76",
+      "81",
+      "86",
+      "91"
     ],
     "correctAnswer": 1,
-    "explanation": "By classical categorical syllogism (Barbara format: All A are B, all B are C), it follows that all A are C.",
+    "explanation": "Differences are +5, +10, +15, +20, +25: 56 + 25 = 81.",
     "tags": [
       "iq-logic",
-      "spatial-reasoning",
+      "pattern-sequences",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "iq-logic-logical-deductions-0023",
+    "id": "iq-logic-pattern-sequences-0023",
     "category": "IQ & Logic",
-    "subcategory": "Logical Deductions",
+    "subcategory": "Pattern Sequences",
     "difficulty": "medium",
-    "question": "Logic and analytical reasoning: What is the next number in the Fibonacci sequence: 1, 1, 2, 3, 5, 8, 13, ___? (Ref #23)",
+    "question": "What is the next number in the sequence: 1, 2, 6, 24, 120, ...?",
     "options": [
-      "18",
-      "20",
-      "21",
-      "24"
+      "600",
+      "640",
+      "720",
+      "840"
     ],
     "correctAnswer": 2,
-    "explanation": "In the Fibonacci sequence, each number is the sum of the two preceding ones: 8 + 13 = 21.",
+    "explanation": "These are factorials (1!, 2!, 3!, 4!, 5!, 6!): 120 * 6 = 720.",
     "tags": [
       "iq-logic",
-      "logical-deductions",
+      "pattern-sequences",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "iq-logic-lateral-thinking-0024",
+    "id": "iq-logic-pattern-sequences-0024",
     "category": "IQ & Logic",
-    "subcategory": "Lateral Thinking",
+    "subcategory": "Pattern Sequences",
     "difficulty": "hard",
-    "question": "Logic and analytical reasoning: If 5 machines take exactly 5 minutes to manufacture 5 widgets, how many minutes would it take 100 machines to manufacture 100 widgets? (Ref #24)",
+    "question": "What is the next number in the sequence: 13, 26, 39, 52, 65, ...?",
     "options": [
-      "100 minutes",
-      "20 minutes",
-      "50 minutes",
-      "5 minutes"
+      "72",
+      "75",
+      "81",
+      "78"
     ],
     "correctAnswer": 3,
-    "explanation": "Each individual machine takes 5 minutes to complete one widget; running 100 machines in parallel produces 100 widgets in 5 minutes.",
+    "explanation": "Multiples of 13: 65 + 13 = 78.",
     "tags": [
       "iq-logic",
-      "lateral-thinking",
+      "pattern-sequences",
       "hard"
     ],
     "active": true
@@ -508,15 +508,15 @@
     "category": "IQ & Logic",
     "subcategory": "Pattern Sequences",
     "difficulty": "easy",
-    "question": "Logic and analytical reasoning: Complete the analogy: Book is to Reading as Fork is to ___? (Ref #25)",
+    "question": "What is the next letter in the sequence: O, T, T, F, F, S, S, E, ...?",
     "options": [
-      "Eating",
-      "Cooking",
-      "Sharpening",
-      "Baking"
+      "N",
+      "T",
+      "O",
+      "E"
     ],
     "correctAnswer": 0,
-    "explanation": "A book is an instrument used primarily for reading; a fork is an instrument used primarily for eating.",
+    "explanation": "First letters of numbers: One, Two, Three, Four, Five, Six, Seven, Eight, Nine -> N.",
     "tags": [
       "iq-logic",
       "pattern-sequences",
@@ -525,64 +525,64 @@
     "active": true
   },
   {
-    "id": "iq-logic-spatial-reasoning-0026",
+    "id": "iq-logic-pattern-sequences-0026",
     "category": "IQ & Logic",
-    "subcategory": "Spatial Reasoning",
+    "subcategory": "Pattern Sequences",
     "difficulty": "medium",
-    "question": "Logic and analytical reasoning: What is the next logical number in the numeric sequence: 3, 6, 12, 24, 48, ___? (Ref #26)",
+    "question": "What is the next number in the sequence: 2, 4, 16, 256, ...?",
     "options": [
-      "72",
-      "96 (each term doubles)",
-      "84",
-      "102"
+      "1,024",
+      "65,536",
+      "4,096",
+      "32,768"
     ],
     "correctAnswer": 1,
-    "explanation": "Each consecutive term in this geometric sequence is multiplied by 2: 48 × 2 = 96.",
+    "explanation": "Each term is squared to get the next: 256^2 = 65,536.",
     "tags": [
       "iq-logic",
-      "spatial-reasoning",
+      "pattern-sequences",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "iq-logic-logical-deductions-0027",
+    "id": "iq-logic-pattern-sequences-0027",
     "category": "IQ & Logic",
-    "subcategory": "Logical Deductions",
+    "subcategory": "Pattern Sequences",
     "difficulty": "hard",
-    "question": "Logic and analytical reasoning: Consider the premises: 'All dogs are mammals. All mammals are warm-blooded.' What valid conclusion follows logically? (Ref #27)",
+    "question": "What is the next number in the sequence: 99, 92, 85, 78, 71, ...?",
     "options": [
-      "All warm-blooded animals are dogs",
-      "Some dogs are not mammals",
-      "All dogs are warm-blooded",
-      "No mammals are dogs"
+      "62",
+      "63",
+      "64",
+      "65"
     ],
     "correctAnswer": 2,
-    "explanation": "By classical categorical syllogism (Barbara format: All A are B, all B are C), it follows that all A are C.",
+    "explanation": "Each term decreases by 7: 71 - 7 = 64.",
     "tags": [
       "iq-logic",
-      "logical-deductions",
+      "pattern-sequences",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "iq-logic-lateral-thinking-0028",
+    "id": "iq-logic-pattern-sequences-0028",
     "category": "IQ & Logic",
-    "subcategory": "Lateral Thinking",
+    "subcategory": "Pattern Sequences",
     "difficulty": "easy",
-    "question": "Logic and analytical reasoning: What is the next number in the Fibonacci sequence: 1, 1, 2, 3, 5, 8, 13, ___? (Ref #28)",
+    "question": "What is the next number in the sequence: 4, 8, 12, 24, 28, 56, ...?",
     "options": [
-      "18",
-      "20",
-      "24",
-      "21"
+      "58",
+      "62",
+      "112",
+      "60"
     ],
     "correctAnswer": 3,
-    "explanation": "In the Fibonacci sequence, each number is the sum of the two preceding ones: 8 + 13 = 21.",
+    "explanation": "Alternating pattern: *2, +4, *2, +4, *2, +4: 56 + 4 = 60.",
     "tags": [
       "iq-logic",
-      "lateral-thinking",
+      "pattern-sequences",
       "easy"
     ],
     "active": true
@@ -592,15 +592,15 @@
     "category": "IQ & Logic",
     "subcategory": "Pattern Sequences",
     "difficulty": "medium",
-    "question": "Logic and analytical reasoning: If 5 machines take exactly 5 minutes to manufacture 5 widgets, how many minutes would it take 100 machines to manufacture 100 widgets? (Ref #29)",
+    "question": "What is the next number in the sequence: 1, 5, 13, 29, 61, ...?",
     "options": [
-      "5 minutes",
-      "100 minutes",
-      "20 minutes",
-      "50 minutes"
+      "125",
+      "115",
+      "121",
+      "129"
     ],
     "correctAnswer": 0,
-    "explanation": "Each individual machine takes 5 minutes to complete one widget; running 100 machines in parallel produces 100 widgets in 5 minutes.",
+    "explanation": "Pattern is *2 + 3: 61 * 2 + 3 = 122 + 3 = 125.",
     "tags": [
       "iq-logic",
       "pattern-sequences",
@@ -609,64 +609,64 @@
     "active": true
   },
   {
-    "id": "iq-logic-spatial-reasoning-0030",
+    "id": "iq-logic-pattern-sequences-0030",
     "category": "IQ & Logic",
-    "subcategory": "Spatial Reasoning",
+    "subcategory": "Pattern Sequences",
     "difficulty": "hard",
-    "question": "Logic and analytical reasoning: Complete the analogy: Book is to Reading as Fork is to ___? (Ref #30)",
+    "question": "What is the next number in the sequence: 10, 12, 16, 22, 30, ...?",
     "options": [
-      "Cooking",
-      "Eating",
-      "Sharpening",
-      "Baking"
+      "38",
+      "40",
+      "42",
+      "44"
     ],
     "correctAnswer": 1,
-    "explanation": "A book is an instrument used primarily for reading; a fork is an instrument used primarily for eating.",
+    "explanation": "Differences increase by 2 (+2, +4, +6, +8, +10): 30 + 10 = 40.",
     "tags": [
       "iq-logic",
-      "spatial-reasoning",
+      "pattern-sequences",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "iq-logic-logical-deductions-0031",
+    "id": "iq-logic-pattern-sequences-0031",
     "category": "IQ & Logic",
-    "subcategory": "Logical Deductions",
+    "subcategory": "Pattern Sequences",
     "difficulty": "easy",
-    "question": "Logic and analytical reasoning: What is the next logical number in the numeric sequence: 3, 6, 12, 24, 48, ___? (Ref #31)",
+    "question": "What is the next number in the sequence: 2, 5, 9, 14, 20, 27, ...?",
     "options": [
-      "72",
-      "84",
-      "96 (each term doubles)",
-      "102"
+      "33",
+      "34",
+      "35",
+      "36"
     ],
     "correctAnswer": 2,
-    "explanation": "Each consecutive term in this geometric sequence is multiplied by 2: 48 × 2 = 96.",
+    "explanation": "Differences increase by 1 (+3, +4, +5, +6, +7, +8): 27 + 8 = 35.",
     "tags": [
       "iq-logic",
-      "logical-deductions",
+      "pattern-sequences",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "iq-logic-lateral-thinking-0032",
+    "id": "iq-logic-pattern-sequences-0032",
     "category": "IQ & Logic",
-    "subcategory": "Lateral Thinking",
+    "subcategory": "Pattern Sequences",
     "difficulty": "medium",
-    "question": "Logic and analytical reasoning: Consider the premises: 'All dogs are mammals. All mammals are warm-blooded.' What valid conclusion follows logically? (Ref #32)",
+    "question": "What is the next letter in the sequence: J, F, M, A, M, J, J, A, ...?",
     "options": [
-      "All warm-blooded animals are dogs",
-      "Some dogs are not mammals",
-      "No mammals are dogs",
-      "All dogs are warm-blooded"
+      "O",
+      "N",
+      "D",
+      "S"
     ],
     "correctAnswer": 3,
-    "explanation": "By classical categorical syllogism (Barbara format: All A are B, all B are C), it follows that all A are C.",
+    "explanation": "First letters of months: January through August, next is September -> S.",
     "tags": [
       "iq-logic",
-      "lateral-thinking",
+      "pattern-sequences",
       "medium"
     ],
     "active": true
@@ -676,15 +676,15 @@
     "category": "IQ & Logic",
     "subcategory": "Pattern Sequences",
     "difficulty": "hard",
-    "question": "Logic and analytical reasoning: What is the next number in the Fibonacci sequence: 1, 1, 2, 3, 5, 8, 13, ___? (Ref #33)",
+    "question": "What is the next number in the sequence: 64, 32, 16, 8, 4, ...?",
     "options": [
-      "21",
-      "18",
-      "20",
-      "24"
+      "2",
+      "1",
+      "0",
+      "3"
     ],
     "correctAnswer": 0,
-    "explanation": "In the Fibonacci sequence, each number is the sum of the two preceding ones: 8 + 13 = 21.",
+    "explanation": "Halving each term: 4 / 2 = 2.",
     "tags": [
       "iq-logic",
       "pattern-sequences",
@@ -693,64 +693,64 @@
     "active": true
   },
   {
-    "id": "iq-logic-spatial-reasoning-0034",
+    "id": "iq-logic-pattern-sequences-0034",
     "category": "IQ & Logic",
-    "subcategory": "Spatial Reasoning",
+    "subcategory": "Pattern Sequences",
     "difficulty": "easy",
-    "question": "Logic and analytical reasoning: If 5 machines take exactly 5 minutes to manufacture 5 widgets, how many minutes would it take 100 machines to manufacture 100 widgets? (Ref #34)",
+    "question": "What is the next number in the sequence: 11, 22, 33, 44, 55, ...?",
     "options": [
-      "100 minutes",
-      "5 minutes",
-      "20 minutes",
-      "50 minutes"
+      "65",
+      "66",
+      "67",
+      "77"
     ],
     "correctAnswer": 1,
-    "explanation": "Each individual machine takes 5 minutes to complete one widget; running 100 machines in parallel produces 100 widgets in 5 minutes.",
+    "explanation": "Multiples of 11: 55 + 11 = 66.",
     "tags": [
       "iq-logic",
-      "spatial-reasoning",
+      "pattern-sequences",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "iq-logic-logical-deductions-0035",
+    "id": "iq-logic-pattern-sequences-0035",
     "category": "IQ & Logic",
-    "subcategory": "Logical Deductions",
+    "subcategory": "Pattern Sequences",
     "difficulty": "medium",
-    "question": "Logic and analytical reasoning: Complete the analogy: Book is to Reading as Fork is to ___? (Ref #35)",
+    "question": "What is the next number in the sequence: 3, 5, 9, 17, 33, ...?",
     "options": [
-      "Cooking",
-      "Sharpening",
-      "Eating",
-      "Baking"
+      "49",
+      "57",
+      "65",
+      "63"
     ],
     "correctAnswer": 2,
-    "explanation": "A book is an instrument used primarily for reading; a fork is an instrument used primarily for eating.",
+    "explanation": "Pattern is *2 - 1: 33 * 2 - 1 = 66 - 1 = 65.",
     "tags": [
       "iq-logic",
-      "logical-deductions",
+      "pattern-sequences",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "iq-logic-lateral-thinking-0036",
+    "id": "iq-logic-pattern-sequences-0036",
     "category": "IQ & Logic",
-    "subcategory": "Lateral Thinking",
+    "subcategory": "Pattern Sequences",
     "difficulty": "hard",
-    "question": "Logic and analytical reasoning: What is the next logical number in the numeric sequence: 3, 6, 12, 24, 48, ___? (Ref #36)",
+    "question": "What is the next number in the sequence: 1000, 500, 250, 125, ...?",
     "options": [
-      "72",
-      "84",
-      "102",
-      "96 (each term doubles)"
+      "60",
+      "65",
+      "50",
+      "62.5"
     ],
     "correctAnswer": 3,
-    "explanation": "Each consecutive term in this geometric sequence is multiplied by 2: 48 × 2 = 96.",
+    "explanation": "Each term divided by 2: 125 / 2 = 62.5.",
     "tags": [
       "iq-logic",
-      "lateral-thinking",
+      "pattern-sequences",
       "hard"
     ],
     "active": true
@@ -760,15 +760,15 @@
     "category": "IQ & Logic",
     "subcategory": "Pattern Sequences",
     "difficulty": "easy",
-    "question": "Logic and analytical reasoning: Consider the premises: 'All dogs are mammals. All mammals are warm-blooded.' What valid conclusion follows logically? (Ref #37)",
+    "question": "What is the next number in the sequence: 400, 361, 324, 289, 256, ...?",
     "options": [
-      "All dogs are warm-blooded",
-      "All warm-blooded animals are dogs",
-      "Some dogs are not mammals",
-      "No mammals are dogs"
+      "225",
+      "216",
+      "220",
+      "240"
     ],
     "correctAnswer": 0,
-    "explanation": "By classical categorical syllogism (Barbara format: All A are B, all B are C), it follows that all A are C.",
+    "explanation": "Descending squares: 20^2, 19^2, 18^2, 17^2, 16^2, 15^2 = 225.",
     "tags": [
       "iq-logic",
       "pattern-sequences",
@@ -777,85 +777,85 @@
     "active": true
   },
   {
-    "id": "iq-logic-spatial-reasoning-0038",
+    "id": "iq-logic-pattern-sequences-0038",
     "category": "IQ & Logic",
-    "subcategory": "Spatial Reasoning",
+    "subcategory": "Pattern Sequences",
     "difficulty": "medium",
-    "question": "Logic and analytical reasoning: What is the next number in the Fibonacci sequence: 1, 1, 2, 3, 5, 8, 13, ___? (Ref #38)",
+    "question": "What is the next number in the sequence: 5, 8, 14, 26, 50, ...?",
     "options": [
-      "18",
-      "21",
-      "20",
-      "24"
+      "86",
+      "98",
+      "92",
+      "102"
     ],
     "correctAnswer": 1,
-    "explanation": "In the Fibonacci sequence, each number is the sum of the two preceding ones: 8 + 13 = 21.",
+    "explanation": "Pattern is *2 - 2: 50 * 2 - 2 = 100 - 2 = 98.",
     "tags": [
       "iq-logic",
-      "spatial-reasoning",
+      "pattern-sequences",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "iq-logic-logical-deductions-0039",
+    "id": "iq-logic-pattern-sequences-0039",
     "category": "IQ & Logic",
-    "subcategory": "Logical Deductions",
+    "subcategory": "Pattern Sequences",
     "difficulty": "hard",
-    "question": "Logic and analytical reasoning: If 5 machines take exactly 5 minutes to manufacture 5 widgets, how many minutes would it take 100 machines to manufacture 100 widgets? (Ref #39)",
+    "question": "What is the next letter in the sequence: M, T, W, T, F, ...?",
     "options": [
-      "100 minutes",
-      "20 minutes",
-      "5 minutes",
-      "50 minutes"
+      "W",
+      "M",
+      "S",
+      "T"
     ],
     "correctAnswer": 2,
-    "explanation": "Each individual machine takes 5 minutes to complete one widget; running 100 machines in parallel produces 100 widgets in 5 minutes.",
+    "explanation": "Days of the week: Monday, Tuesday, Wednesday, Thursday, Friday, Saturday -> S.",
     "tags": [
       "iq-logic",
-      "logical-deductions",
+      "pattern-sequences",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "iq-logic-lateral-thinking-0040",
+    "id": "iq-logic-pattern-sequences-0040",
     "category": "IQ & Logic",
-    "subcategory": "Lateral Thinking",
+    "subcategory": "Pattern Sequences",
     "difficulty": "easy",
-    "question": "Logic and analytical reasoning: Complete the analogy: Book is to Reading as Fork is to ___? (Ref #40)",
+    "question": "What is the next number in the sequence: 1, 4, 27, 256, ...?",
     "options": [
-      "Cooking",
-      "Sharpening",
-      "Baking",
-      "Eating"
+      "1,024",
+      "2,048",
+      "4,096",
+      "3,125"
     ],
     "correctAnswer": 3,
-    "explanation": "A book is an instrument used primarily for reading; a fork is an instrument used primarily for eating.",
+    "explanation": "Pattern is n^n: 1^1, 2^2, 3^3, 4^4, 5^5 = 3,125.",
     "tags": [
       "iq-logic",
-      "lateral-thinking",
+      "pattern-sequences",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "iq-logic-pattern-sequences-0041",
+    "id": "iq-logic-spatial-reasoning-0041",
     "category": "IQ & Logic",
-    "subcategory": "Pattern Sequences",
+    "subcategory": "Spatial Reasoning",
     "difficulty": "medium",
-    "question": "Logic and analytical reasoning: What is the next logical number in the numeric sequence: 3, 6, 12, 24, 48, ___? (Ref #41)",
+    "question": "If a standard six-sided die is rolled, what is the sum of the numbers on any two opposite faces?",
     "options": [
-      "96 (each term doubles)",
-      "72",
-      "84",
-      "102"
+      "7",
+      "6",
+      "8",
+      "9"
     ],
     "correctAnswer": 0,
-    "explanation": "Each consecutive term in this geometric sequence is multiplied by 2: 48 × 2 = 96.",
+    "explanation": "On standard dice, opposite faces always sum to 7 (1+6, 2+5, 3+4).",
     "tags": [
       "iq-logic",
-      "pattern-sequences",
+      "spatial-reasoning",
       "medium"
     ],
     "active": true
@@ -865,15 +865,15 @@
     "category": "IQ & Logic",
     "subcategory": "Spatial Reasoning",
     "difficulty": "hard",
-    "question": "Logic and analytical reasoning: Consider the premises: 'All dogs are mammals. All mammals are warm-blooded.' What valid conclusion follows logically? (Ref #42)",
+    "question": "How many 1-cm small cubes are required to construct a solid cube with an edge length of 4 cm?",
     "options": [
-      "All warm-blooded animals are dogs",
-      "All dogs are warm-blooded",
-      "Some dogs are not mammals",
-      "No mammals are dogs"
+      "16",
+      "64",
+      "32",
+      "48"
     ],
     "correctAnswer": 1,
-    "explanation": "By classical categorical syllogism (Barbara format: All A are B, all B are C), it follows that all A are C.",
+    "explanation": "Volume = 4 * 4 * 4 = 64 small cubes.",
     "tags": [
       "iq-logic",
       "spatial-reasoning",
@@ -882,64 +882,64 @@
     "active": true
   },
   {
-    "id": "iq-logic-logical-deductions-0043",
+    "id": "iq-logic-spatial-reasoning-0043",
     "category": "IQ & Logic",
-    "subcategory": "Logical Deductions",
+    "subcategory": "Spatial Reasoning",
     "difficulty": "easy",
-    "question": "Logic and analytical reasoning: What is the next number in the Fibonacci sequence: 1, 1, 2, 3, 5, 8, 13, ___? (Ref #43)",
+    "question": "If a flat piece of paper is folded in half three consecutive times, into how many layered sections is it divided?",
     "options": [
-      "18",
-      "20",
-      "21",
-      "24"
+      "4",
+      "6",
+      "8",
+      "12"
     ],
     "correctAnswer": 2,
-    "explanation": "In the Fibonacci sequence, each number is the sum of the two preceding ones: 8 + 13 = 21.",
+    "explanation": "Each fold doubles the layers: 2^3 = 8.",
     "tags": [
       "iq-logic",
-      "logical-deductions",
+      "spatial-reasoning",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "iq-logic-lateral-thinking-0044",
+    "id": "iq-logic-spatial-reasoning-0044",
     "category": "IQ & Logic",
-    "subcategory": "Lateral Thinking",
+    "subcategory": "Spatial Reasoning",
     "difficulty": "medium",
-    "question": "Logic and analytical reasoning: If 5 machines take exactly 5 minutes to manufacture 5 widgets, how many minutes would it take 100 machines to manufacture 100 widgets? (Ref #44)",
+    "question": "When viewed from directly above (bird's-eye view), what 2D shape does a standard upright cylinder cast?",
     "options": [
-      "100 minutes",
-      "20 minutes",
-      "50 minutes",
-      "5 minutes"
+      "Rectangle",
+      "Oval",
+      "Square",
+      "Circle"
     ],
     "correctAnswer": 3,
-    "explanation": "Each individual machine takes 5 minutes to complete one widget; running 100 machines in parallel produces 100 widgets in 5 minutes.",
+    "explanation": "Looking down the longitudinal axis of an upright cylinder reveals a circular top profile.",
     "tags": [
       "iq-logic",
-      "lateral-thinking",
+      "spatial-reasoning",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "iq-logic-pattern-sequences-0045",
+    "id": "iq-logic-spatial-reasoning-0045",
     "category": "IQ & Logic",
-    "subcategory": "Pattern Sequences",
+    "subcategory": "Spatial Reasoning",
     "difficulty": "hard",
-    "question": "Logic and analytical reasoning: Complete the analogy: Book is to Reading as Fork is to ___? (Ref #45)",
+    "question": "When viewed directly from the side at eye level, what 2D shape does a solid cone present?",
     "options": [
-      "Eating",
-      "Cooking",
-      "Sharpening",
-      "Baking"
+      "Triangle",
+      "Circle",
+      "Trapezoid",
+      "Ellipse"
     ],
     "correctAnswer": 0,
-    "explanation": "A book is an instrument used primarily for reading; a fork is an instrument used primarily for eating.",
+    "explanation": "The orthographic side projection of a right circular cone is an isosceles triangle.",
     "tags": [
       "iq-logic",
-      "pattern-sequences",
+      "spatial-reasoning",
       "hard"
     ],
     "active": true
@@ -949,15 +949,15 @@
     "category": "IQ & Logic",
     "subcategory": "Spatial Reasoning",
     "difficulty": "easy",
-    "question": "Logic and analytical reasoning: What is the next logical number in the numeric sequence: 3, 6, 12, 24, 48, ___? (Ref #46)",
+    "question": "How many total edges does a standard square-based pyramid possess?",
     "options": [
-      "72",
-      "96 (each term doubles)",
-      "84",
-      "102"
+      "5",
+      "8",
+      "6",
+      "10"
     ],
     "correctAnswer": 1,
-    "explanation": "Each consecutive term in this geometric sequence is multiplied by 2: 48 × 2 = 96.",
+    "explanation": "A square pyramid has 4 base edges and 4 triangular lateral edges, totaling 8 edges.",
     "tags": [
       "iq-logic",
       "spatial-reasoning",
@@ -966,64 +966,64 @@
     "active": true
   },
   {
-    "id": "iq-logic-logical-deductions-0047",
+    "id": "iq-logic-spatial-reasoning-0047",
     "category": "IQ & Logic",
-    "subcategory": "Logical Deductions",
+    "subcategory": "Spatial Reasoning",
     "difficulty": "medium",
-    "question": "Logic and analytical reasoning: Consider the premises: 'All dogs are mammals. All mammals are warm-blooded.' What valid conclusion follows logically? (Ref #47)",
+    "question": "How many vertices does a regular tetrahedron have?",
     "options": [
-      "All warm-blooded animals are dogs",
-      "Some dogs are not mammals",
-      "All dogs are warm-blooded",
-      "No mammals are dogs"
+      "6",
+      "8",
+      "4",
+      "12"
     ],
     "correctAnswer": 2,
-    "explanation": "By classical categorical syllogism (Barbara format: All A are B, all B are C), it follows that all A are C.",
+    "explanation": "A tetrahedron is a triangular pyramid with 4 triangular faces and 4 vertices.",
     "tags": [
       "iq-logic",
-      "logical-deductions",
+      "spatial-reasoning",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "iq-logic-lateral-thinking-0048",
+    "id": "iq-logic-spatial-reasoning-0048",
     "category": "IQ & Logic",
-    "subcategory": "Lateral Thinking",
+    "subcategory": "Spatial Reasoning",
     "difficulty": "hard",
-    "question": "Logic and analytical reasoning: What is the next number in the Fibonacci sequence: 1, 1, 2, 3, 5, 8, 13, ___? (Ref #48)",
+    "question": "If a 3x3x3 solid wooden cube painted red on all outer surfaces is cut into 27 small 1x1x1 cubes, how many have exactly 3 red faces?",
     "options": [
-      "18",
-      "20",
-      "24",
-      "21"
+      "6",
+      "12",
+      "1",
+      "8"
     ],
     "correctAnswer": 3,
-    "explanation": "In the Fibonacci sequence, each number is the sum of the two preceding ones: 8 + 13 = 21.",
+    "explanation": "Only the 8 corner cubes have three exposed painted faces.",
     "tags": [
       "iq-logic",
-      "lateral-thinking",
+      "spatial-reasoning",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "iq-logic-pattern-sequences-0049",
+    "id": "iq-logic-spatial-reasoning-0049",
     "category": "IQ & Logic",
-    "subcategory": "Pattern Sequences",
+    "subcategory": "Spatial Reasoning",
     "difficulty": "easy",
-    "question": "Logic and analytical reasoning: If 5 machines take exactly 5 minutes to manufacture 5 widgets, how many minutes would it take 100 machines to manufacture 100 widgets? (Ref #49)",
+    "question": "If a 3x3x3 painted cube is cut into 27 small 1x1x1 cubes, how many have exactly 2 red faces?",
     "options": [
-      "5 minutes",
-      "100 minutes",
-      "20 minutes",
-      "50 minutes"
+      "12",
+      "6",
+      "8",
+      "16"
     ],
     "correctAnswer": 0,
-    "explanation": "Each individual machine takes 5 minutes to complete one widget; running 100 machines in parallel produces 100 widgets in 5 minutes.",
+    "explanation": "The edge cubes (excluding corners) have 2 painted faces: 12 edges * 1 cube per edge = 12.",
     "tags": [
       "iq-logic",
-      "pattern-sequences",
+      "spatial-reasoning",
       "easy"
     ],
     "active": true
@@ -1033,15 +1033,15 @@
     "category": "IQ & Logic",
     "subcategory": "Spatial Reasoning",
     "difficulty": "medium",
-    "question": "Logic and analytical reasoning: Complete the analogy: Book is to Reading as Fork is to ___? (Ref #50)",
+    "question": "If a 3x3x3 painted cube is cut into 27 small 1x1x1 cubes, how many have exactly 1 red face?",
     "options": [
-      "Cooking",
-      "Eating",
-      "Sharpening",
-      "Baking"
+      "8",
+      "6",
+      "12",
+      "9"
     ],
     "correctAnswer": 1,
-    "explanation": "A book is an instrument used primarily for reading; a fork is an instrument used primarily for eating.",
+    "explanation": "The center cubes of the 6 outer faces have exactly 1 painted face: 6 faces * 1 = 6.",
     "tags": [
       "iq-logic",
       "spatial-reasoning",
@@ -1050,64 +1050,64 @@
     "active": true
   },
   {
-    "id": "iq-logic-logical-deductions-0051",
+    "id": "iq-logic-spatial-reasoning-0051",
     "category": "IQ & Logic",
-    "subcategory": "Logical Deductions",
+    "subcategory": "Spatial Reasoning",
     "difficulty": "hard",
-    "question": "Logic and analytical reasoning: What is the next logical number in the numeric sequence: 3, 6, 12, 24, 48, ___? (Ref #51)",
+    "question": "If a 3x3x3 painted cube is cut into 27 small 1x1x1 cubes, how many have NO painted faces (0 red faces)?",
     "options": [
-      "72",
-      "84",
-      "96 (each term doubles)",
-      "102"
+      "0",
+      "2",
+      "1",
+      "4"
     ],
     "correctAnswer": 2,
-    "explanation": "Each consecutive term in this geometric sequence is multiplied by 2: 48 × 2 = 96.",
+    "explanation": "Only the single core cube in the exact geometric center remains unpainted.",
     "tags": [
       "iq-logic",
-      "logical-deductions",
+      "spatial-reasoning",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "iq-logic-lateral-thinking-0052",
+    "id": "iq-logic-spatial-reasoning-0052",
     "category": "IQ & Logic",
-    "subcategory": "Lateral Thinking",
+    "subcategory": "Spatial Reasoning",
     "difficulty": "easy",
-    "question": "Logic and analytical reasoning: Consider the premises: 'All dogs are mammals. All mammals are warm-blooded.' What valid conclusion follows logically? (Ref #52)",
+    "question": "What 3D solid is formed when a right triangle is rotated 360 degrees around one of its legs?",
     "options": [
-      "All warm-blooded animals are dogs",
-      "Some dogs are not mammals",
-      "No mammals are dogs",
-      "All dogs are warm-blooded"
+      "Cylinder",
+      "Sphere",
+      "Prism",
+      "Cone"
     ],
     "correctAnswer": 3,
-    "explanation": "By classical categorical syllogism (Barbara format: All A are B, all B are C), it follows that all A are C.",
+    "explanation": "Rotating a right triangle around one leg sweeps out a right circular cone.",
     "tags": [
       "iq-logic",
-      "lateral-thinking",
+      "spatial-reasoning",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "iq-logic-pattern-sequences-0053",
+    "id": "iq-logic-spatial-reasoning-0053",
     "category": "IQ & Logic",
-    "subcategory": "Pattern Sequences",
+    "subcategory": "Spatial Reasoning",
     "difficulty": "medium",
-    "question": "Logic and analytical reasoning: What is the next number in the Fibonacci sequence: 1, 1, 2, 3, 5, 8, 13, ___? (Ref #53)",
+    "question": "What 3D solid is formed when a rectangle is rotated 360 degrees around one of its edges?",
     "options": [
-      "21",
-      "18",
-      "20",
-      "24"
+      "Cylinder",
+      "Cone",
+      "Sphere",
+      "Torus"
     ],
     "correctAnswer": 0,
-    "explanation": "In the Fibonacci sequence, each number is the sum of the two preceding ones: 8 + 13 = 21.",
+    "explanation": "Rotating a rectangle around one edge generates a cylinder.",
     "tags": [
       "iq-logic",
-      "pattern-sequences",
+      "spatial-reasoning",
       "medium"
     ],
     "active": true
@@ -1117,15 +1117,15 @@
     "category": "IQ & Logic",
     "subcategory": "Spatial Reasoning",
     "difficulty": "hard",
-    "question": "Logic and analytical reasoning: If 5 machines take exactly 5 minutes to manufacture 5 widgets, how many minutes would it take 100 machines to manufacture 100 widgets? (Ref #54)",
+    "question": "What 3D solid is formed when a semicircle is rotated 360 degrees around its diameter?",
     "options": [
-      "100 minutes",
-      "5 minutes",
-      "20 minutes",
-      "50 minutes"
+      "Hemisphere",
+      "Sphere",
+      "Cylinder",
+      "Cone"
     ],
     "correctAnswer": 1,
-    "explanation": "Each individual machine takes 5 minutes to complete one widget; running 100 machines in parallel produces 100 widgets in 5 minutes.",
+    "explanation": "Rotating a semicircle around its diameter sweeps out a complete 3D sphere.",
     "tags": [
       "iq-logic",
       "spatial-reasoning",
@@ -1134,64 +1134,64 @@
     "active": true
   },
   {
-    "id": "iq-logic-logical-deductions-0055",
+    "id": "iq-logic-spatial-reasoning-0055",
     "category": "IQ & Logic",
-    "subcategory": "Logical Deductions",
+    "subcategory": "Spatial Reasoning",
     "difficulty": "easy",
-    "question": "Logic and analytical reasoning: Complete the analogy: Book is to Reading as Fork is to ___? (Ref #55)",
+    "question": "How many rotational axes of symmetry does a regular hexagon have in a 2D plane?",
     "options": [
-      "Cooking",
-      "Sharpening",
-      "Eating",
-      "Baking"
+      "3",
+      "4",
+      "6",
+      "8"
     ],
     "correctAnswer": 2,
-    "explanation": "A book is an instrument used primarily for reading; a fork is an instrument used primarily for eating.",
+    "explanation": "A regular hexagon has 6-fold rotational symmetry (angles of 60, 120, 180, 240, 300, 360 degrees).",
     "tags": [
       "iq-logic",
-      "logical-deductions",
+      "spatial-reasoning",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "iq-logic-lateral-thinking-0056",
+    "id": "iq-logic-spatial-reasoning-0056",
     "category": "IQ & Logic",
-    "subcategory": "Lateral Thinking",
+    "subcategory": "Spatial Reasoning",
     "difficulty": "medium",
-    "question": "Logic and analytical reasoning: What is the next logical number in the numeric sequence: 3, 6, 12, 24, 48, ___? (Ref #56)",
+    "question": "How many lines of reflective symmetry does a non-square rectangle possess?",
     "options": [
-      "72",
-      "84",
-      "102",
-      "96 (each term doubles)"
+      "1",
+      "4",
+      "Infinite",
+      "2"
     ],
     "correctAnswer": 3,
-    "explanation": "Each consecutive term in this geometric sequence is multiplied by 2: 48 × 2 = 96.",
+    "explanation": "A rectangle has 2 lines of symmetry (connecting midpoints of opposite sides); its diagonals are not reflection lines.",
     "tags": [
       "iq-logic",
-      "lateral-thinking",
+      "spatial-reasoning",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "iq-logic-pattern-sequences-0057",
+    "id": "iq-logic-spatial-reasoning-0057",
     "category": "IQ & Logic",
-    "subcategory": "Pattern Sequences",
+    "subcategory": "Spatial Reasoning",
     "difficulty": "hard",
-    "question": "Logic and analytical reasoning: Consider the premises: 'All dogs are mammals. All mammals are warm-blooded.' What valid conclusion follows logically? (Ref #57)",
+    "question": "How many lines of reflective symmetry does an equilateral triangle have?",
     "options": [
-      "All dogs are warm-blooded",
-      "All warm-blooded animals are dogs",
-      "Some dogs are not mammals",
-      "No mammals are dogs"
+      "3",
+      "1",
+      "2",
+      "6"
     ],
     "correctAnswer": 0,
-    "explanation": "By classical categorical syllogism (Barbara format: All A are B, all B are C), it follows that all A are C.",
+    "explanation": "An equilateral triangle has 3 lines of symmetry passing through each vertex to the opposite midpoint.",
     "tags": [
       "iq-logic",
-      "pattern-sequences",
+      "spatial-reasoning",
       "hard"
     ],
     "active": true
@@ -1201,15 +1201,15 @@
     "category": "IQ & Logic",
     "subcategory": "Spatial Reasoning",
     "difficulty": "easy",
-    "question": "Logic and analytical reasoning: What is the next number in the Fibonacci sequence: 1, 1, 2, 3, 5, 8, 13, ___? (Ref #58)",
+    "question": "How many lines of reflective symmetry does a regular circle have?",
     "options": [
-      "18",
-      "21",
-      "20",
-      "24"
+      "360",
+      "Infinite",
+      "180",
+      "100"
     ],
     "correctAnswer": 1,
-    "explanation": "In the Fibonacci sequence, each number is the sum of the two preceding ones: 8 + 13 = 21.",
+    "explanation": "Any straight diameter line passing through the center of a circle is an axis of reflective symmetry.",
     "tags": [
       "iq-logic",
       "spatial-reasoning",
@@ -1218,64 +1218,64 @@
     "active": true
   },
   {
-    "id": "iq-logic-logical-deductions-0059",
+    "id": "iq-logic-spatial-reasoning-0059",
     "category": "IQ & Logic",
-    "subcategory": "Logical Deductions",
+    "subcategory": "Spatial Reasoning",
     "difficulty": "medium",
-    "question": "Logic and analytical reasoning: If 5 machines take exactly 5 minutes to manufacture 5 widgets, how many minutes would it take 100 machines to manufacture 100 widgets? (Ref #59)",
+    "question": "If you look at the word 'MOM' in a vertical mirror, what appears in the reflection?",
     "options": [
-      "100 minutes",
-      "20 minutes",
-      "5 minutes",
-      "50 minutes"
+      "WOW",
+      "NON",
+      "MOM",
+      "OWO"
     ],
     "correctAnswer": 2,
-    "explanation": "Each individual machine takes 5 minutes to complete one widget; running 100 machines in parallel produces 100 widgets in 5 minutes.",
+    "explanation": "M and O are laterally symmetrical, so 'MOM' reads identically in a mirror.",
     "tags": [
       "iq-logic",
-      "logical-deductions",
+      "spatial-reasoning",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "iq-logic-lateral-thinking-0060",
+    "id": "iq-logic-spatial-reasoning-0060",
     "category": "IQ & Logic",
-    "subcategory": "Lateral Thinking",
+    "subcategory": "Spatial Reasoning",
     "difficulty": "hard",
-    "question": "Logic and analytical reasoning: Complete the analogy: Book is to Reading as Fork is to ___? (Ref #60)",
+    "question": "If you look at the capital letter 'E' in a standard vertical mirror, how does it orient?",
     "options": [
-      "Cooking",
-      "Sharpening",
-      "Baking",
-      "Eating"
+      "Upside down",
+      "Unchanged",
+      "Rotated 90 degrees",
+      "Reflected horizontally facing left"
     ],
     "correctAnswer": 3,
-    "explanation": "A book is an instrument used primarily for reading; a fork is an instrument used primarily for eating.",
+    "explanation": "A vertical mirror reverses left and right, so the three arms of 'E' point to the left.",
     "tags": [
       "iq-logic",
-      "lateral-thinking",
+      "spatial-reasoning",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "iq-logic-pattern-sequences-0061",
+    "id": "iq-logic-spatial-reasoning-0061",
     "category": "IQ & Logic",
-    "subcategory": "Pattern Sequences",
+    "subcategory": "Spatial Reasoning",
     "difficulty": "easy",
-    "question": "Logic and analytical reasoning: What is the next logical number in the numeric sequence: 3, 6, 12, 24, 48, ___? (Ref #61)",
+    "question": "What is the top view of a standard rectangular house with a simple gabled roof?",
     "options": [
-      "96 (each term doubles)",
-      "72",
-      "84",
-      "102"
+      "A rectangle divided down the center by a ridge line",
+      "A triangle",
+      "A circle",
+      "A trapezoid"
     ],
     "correctAnswer": 0,
-    "explanation": "Each consecutive term in this geometric sequence is multiplied by 2: 48 × 2 = 96.",
+    "explanation": "Looking from above, the two sloping roof planes appear as two adjacent rectangles joined at the ridge.",
     "tags": [
       "iq-logic",
-      "pattern-sequences",
+      "spatial-reasoning",
       "easy"
     ],
     "active": true
@@ -1285,15 +1285,15 @@
     "category": "IQ & Logic",
     "subcategory": "Spatial Reasoning",
     "difficulty": "medium",
-    "question": "Logic and analytical reasoning: Consider the premises: 'All dogs are mammals. All mammals are warm-blooded.' What valid conclusion follows logically? (Ref #62)",
+    "question": "How many degrees must a square be rotated around its center to map onto itself for the first time?",
     "options": [
-      "All warm-blooded animals are dogs",
-      "All dogs are warm-blooded",
-      "Some dogs are not mammals",
-      "No mammals are dogs"
+      "45 degrees",
+      "90 degrees",
+      "180 degrees",
+      "360 degrees"
     ],
     "correctAnswer": 1,
-    "explanation": "By classical categorical syllogism (Barbara format: All A are B, all B are C), it follows that all A are C.",
+    "explanation": "A square has 4-fold rotational symmetry: 360 / 4 = 90 degrees.",
     "tags": [
       "iq-logic",
       "spatial-reasoning",
@@ -1302,64 +1302,64 @@
     "active": true
   },
   {
-    "id": "iq-logic-logical-deductions-0063",
+    "id": "iq-logic-spatial-reasoning-0063",
     "category": "IQ & Logic",
-    "subcategory": "Logical Deductions",
+    "subcategory": "Spatial Reasoning",
     "difficulty": "hard",
-    "question": "Logic and analytical reasoning: What is the next number in the Fibonacci sequence: 1, 1, 2, 3, 5, 8, 13, ___? (Ref #63)",
+    "question": "How many faces does a standard rectangular cardboard shipping box have?",
     "options": [
-      "18",
-      "20",
-      "21",
-      "24"
+      "4",
+      "8",
+      "6",
+      "12"
     ],
     "correctAnswer": 2,
-    "explanation": "In the Fibonacci sequence, each number is the sum of the two preceding ones: 8 + 13 = 21.",
+    "explanation": "A rectangular cuboid has top, bottom, front, back, left, and right faces: 6 faces.",
     "tags": [
       "iq-logic",
-      "logical-deductions",
+      "spatial-reasoning",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "iq-logic-lateral-thinking-0064",
+    "id": "iq-logic-spatial-reasoning-0064",
     "category": "IQ & Logic",
-    "subcategory": "Lateral Thinking",
+    "subcategory": "Spatial Reasoning",
     "difficulty": "easy",
-    "question": "Logic and analytical reasoning: If 5 machines take exactly 5 minutes to manufacture 5 widgets, how many minutes would it take 100 machines to manufacture 100 widgets? (Ref #64)",
+    "question": "If an analog clock face is mirrored across the vertical 12-to-6 axis, what time does 3:00 appear to show?",
     "options": [
-      "100 minutes",
-      "20 minutes",
-      "50 minutes",
-      "5 minutes"
+      "6:00",
+      "12:00",
+      "8:00",
+      "9:00"
     ],
     "correctAnswer": 3,
-    "explanation": "Each individual machine takes 5 minutes to complete one widget; running 100 machines in parallel produces 100 widgets in 5 minutes.",
+    "explanation": "The minute hand at 12 remains at 12, while the hour hand at 3 reflects across to 9.",
     "tags": [
       "iq-logic",
-      "lateral-thinking",
+      "spatial-reasoning",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "iq-logic-pattern-sequences-0065",
+    "id": "iq-logic-spatial-reasoning-0065",
     "category": "IQ & Logic",
-    "subcategory": "Pattern Sequences",
+    "subcategory": "Spatial Reasoning",
     "difficulty": "medium",
-    "question": "Logic and analytical reasoning: Complete the analogy: Book is to Reading as Fork is to ___? (Ref #65)",
+    "question": "How many right angles are formed when two perpendicular lines intersect in a plane?",
     "options": [
-      "Eating",
-      "Cooking",
-      "Sharpening",
-      "Baking"
+      "4",
+      "2",
+      "1",
+      "8"
     ],
     "correctAnswer": 0,
-    "explanation": "A book is an instrument used primarily for reading; a fork is an instrument used primarily for eating.",
+    "explanation": "Perpendicular lines intersect to form four adjacent 90-degree right angles.",
     "tags": [
       "iq-logic",
-      "pattern-sequences",
+      "spatial-reasoning",
       "medium"
     ],
     "active": true
@@ -1369,15 +1369,15 @@
     "category": "IQ & Logic",
     "subcategory": "Spatial Reasoning",
     "difficulty": "hard",
-    "question": "Logic and analytical reasoning: What is the next logical number in the numeric sequence: 3, 6, 12, 24, 48, ___? (Ref #66)",
+    "question": "What is the cross-section shape obtained by slicing a sphere with a flat plane at any angle?",
     "options": [
-      "72",
-      "96 (each term doubles)",
-      "84",
-      "102"
+      "Ellipse",
+      "Circle",
+      "Parabola",
+      "Oval"
     ],
     "correctAnswer": 1,
-    "explanation": "Each consecutive term in this geometric sequence is multiplied by 2: 48 × 2 = 96.",
+    "explanation": "Any planar cross-section of a sphere is always a circle.",
     "tags": [
       "iq-logic",
       "spatial-reasoning",
@@ -1386,64 +1386,64 @@
     "active": true
   },
   {
-    "id": "iq-logic-logical-deductions-0067",
+    "id": "iq-logic-spatial-reasoning-0067",
     "category": "IQ & Logic",
-    "subcategory": "Logical Deductions",
+    "subcategory": "Spatial Reasoning",
     "difficulty": "easy",
-    "question": "Logic and analytical reasoning: Consider the premises: 'All dogs are mammals. All mammals are warm-blooded.' What valid conclusion follows logically? (Ref #67)",
+    "question": "What cross-section is produced when a right cone is sliced parallel to its circular base?",
     "options": [
-      "All warm-blooded animals are dogs",
-      "Some dogs are not mammals",
-      "All dogs are warm-blooded",
-      "No mammals are dogs"
+      "Ellipse",
+      "Hyperbola",
+      "Circle",
+      "Triangle"
     ],
     "correctAnswer": 2,
-    "explanation": "By classical categorical syllogism (Barbara format: All A are B, all B are C), it follows that all A are C.",
+    "explanation": "Slicing parallel to the base produces a circle of smaller radius.",
     "tags": [
       "iq-logic",
-      "logical-deductions",
+      "spatial-reasoning",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "iq-logic-lateral-thinking-0068",
+    "id": "iq-logic-spatial-reasoning-0068",
     "category": "IQ & Logic",
-    "subcategory": "Lateral Thinking",
+    "subcategory": "Spatial Reasoning",
     "difficulty": "medium",
-    "question": "Logic and analytical reasoning: What is the next number in the Fibonacci sequence: 1, 1, 2, 3, 5, 8, 13, ___? (Ref #68)",
+    "question": "What cross-section is produced when a right cone is sliced at an angle through both opposite sides?",
     "options": [
-      "18",
-      "20",
-      "24",
-      "21"
+      "Circle",
+      "Parabola",
+      "Hyperbola",
+      "Ellipse"
     ],
     "correctAnswer": 3,
-    "explanation": "In the Fibonacci sequence, each number is the sum of the two preceding ones: 8 + 13 = 21.",
+    "explanation": "A planar cut at an angle through both generators of a cone produces an ellipse.",
     "tags": [
       "iq-logic",
-      "lateral-thinking",
+      "spatial-reasoning",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "iq-logic-pattern-sequences-0069",
+    "id": "iq-logic-spatial-reasoning-0069",
     "category": "IQ & Logic",
-    "subcategory": "Pattern Sequences",
+    "subcategory": "Spatial Reasoning",
     "difficulty": "hard",
-    "question": "Logic and analytical reasoning: If 5 machines take exactly 5 minutes to manufacture 5 widgets, how many minutes would it take 100 machines to manufacture 100 widgets? (Ref #69)",
+    "question": "How many diagonal lines can be drawn inside a regular pentagon?",
     "options": [
-      "5 minutes",
-      "100 minutes",
-      "20 minutes",
-      "50 minutes"
+      "5",
+      "4",
+      "6",
+      "10"
     ],
     "correctAnswer": 0,
-    "explanation": "Each individual machine takes 5 minutes to complete one widget; running 100 machines in parallel produces 100 widgets in 5 minutes.",
+    "explanation": "Formula n(n-3)/2 = 5*(2)/2 = 5 diagonals forming a five-pointed star.",
     "tags": [
       "iq-logic",
-      "pattern-sequences",
+      "spatial-reasoning",
       "hard"
     ],
     "active": true
@@ -1453,15 +1453,15 @@
     "category": "IQ & Logic",
     "subcategory": "Spatial Reasoning",
     "difficulty": "easy",
-    "question": "Logic and analytical reasoning: Complete the analogy: Book is to Reading as Fork is to ___? (Ref #70)",
+    "question": "How many diagonal lines can be drawn inside a regular hexagon?",
     "options": [
-      "Cooking",
-      "Eating",
-      "Sharpening",
-      "Baking"
+      "6",
+      "9",
+      "8",
+      "12"
     ],
     "correctAnswer": 1,
-    "explanation": "A book is an instrument used primarily for reading; a fork is an instrument used primarily for eating.",
+    "explanation": "Formula n(n-3)/2 = 6*(3)/2 = 9 diagonals.",
     "tags": [
       "iq-logic",
       "spatial-reasoning",
@@ -1470,64 +1470,64 @@
     "active": true
   },
   {
-    "id": "iq-logic-logical-deductions-0071",
+    "id": "iq-logic-spatial-reasoning-0071",
     "category": "IQ & Logic",
-    "subcategory": "Logical Deductions",
+    "subcategory": "Spatial Reasoning",
     "difficulty": "medium",
-    "question": "Logic and analytical reasoning: What is the next logical number in the numeric sequence: 3, 6, 12, 24, 48, ___? (Ref #71)",
+    "question": "If you walk 10 meters north, turn right 90 degrees and walk 10 meters east, what is your bearing from the starting point?",
     "options": [
-      "72",
-      "84",
-      "96 (each term doubles)",
-      "102"
+      "Northwest",
+      "Southeast",
+      "Northeast (45 degrees)",
+      "East"
     ],
     "correctAnswer": 2,
-    "explanation": "Each consecutive term in this geometric sequence is multiplied by 2: 48 × 2 = 96.",
+    "explanation": "Equal north and east displacements point directly northeast at a 45-degree bearing.",
     "tags": [
       "iq-logic",
-      "logical-deductions",
+      "spatial-reasoning",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "iq-logic-lateral-thinking-0072",
+    "id": "iq-logic-spatial-reasoning-0072",
     "category": "IQ & Logic",
-    "subcategory": "Lateral Thinking",
+    "subcategory": "Spatial Reasoning",
     "difficulty": "hard",
-    "question": "Logic and analytical reasoning: Consider the premises: 'All dogs are mammals. All mammals are warm-blooded.' What valid conclusion follows logically? (Ref #72)",
+    "question": "If you walk 5 miles south, turn right 90 degrees and walk 5 miles, in which cardinal direction are you now walking?",
     "options": [
-      "All warm-blooded animals are dogs",
-      "Some dogs are not mammals",
-      "No mammals are dogs",
-      "All dogs are warm-blooded"
+      "East",
+      "North",
+      "South",
+      "West"
     ],
     "correctAnswer": 3,
-    "explanation": "By classical categorical syllogism (Barbara format: All A are B, all B are C), it follows that all A are C.",
+    "explanation": "Facing south, a right turn points west.",
     "tags": [
       "iq-logic",
-      "lateral-thinking",
+      "spatial-reasoning",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "iq-logic-pattern-sequences-0073",
+    "id": "iq-logic-spatial-reasoning-0073",
     "category": "IQ & Logic",
-    "subcategory": "Pattern Sequences",
+    "subcategory": "Spatial Reasoning",
     "difficulty": "easy",
-    "question": "Logic and analytical reasoning: What is the next number in the Fibonacci sequence: 1, 1, 2, 3, 5, 8, 13, ___? (Ref #73)",
+    "question": "How many flat square faces are needed to construct an open box with no top lid?",
     "options": [
-      "21",
-      "18",
-      "20",
-      "24"
+      "5",
+      "4",
+      "6",
+      "3"
     ],
     "correctAnswer": 0,
-    "explanation": "In the Fibonacci sequence, each number is the sum of the two preceding ones: 8 + 13 = 21.",
+    "explanation": "An open box has 1 bottom and 4 sides, requiring 5 faces.",
     "tags": [
       "iq-logic",
-      "pattern-sequences",
+      "spatial-reasoning",
       "easy"
     ],
     "active": true
@@ -1537,15 +1537,15 @@
     "category": "IQ & Logic",
     "subcategory": "Spatial Reasoning",
     "difficulty": "medium",
-    "question": "Logic and analytical reasoning: If 5 machines take exactly 5 minutes to manufacture 5 widgets, how many minutes would it take 100 machines to manufacture 100 widgets? (Ref #74)",
+    "question": "What shape is formed by the net of a cylinder consisting of two identical circles and one connecting shape?",
     "options": [
-      "100 minutes",
-      "5 minutes",
-      "20 minutes",
-      "50 minutes"
+      "Triangle",
+      "Rectangle",
+      "Trapezoid",
+      "Parallelogram"
     ],
     "correctAnswer": 1,
-    "explanation": "Each individual machine takes 5 minutes to complete one widget; running 100 machines in parallel produces 100 widgets in 5 minutes.",
+    "explanation": "Unrolling the lateral curved surface of a cylinder forms a flat rectangle.",
     "tags": [
       "iq-logic",
       "spatial-reasoning",
@@ -1554,64 +1554,64 @@
     "active": true
   },
   {
-    "id": "iq-logic-logical-deductions-0075",
+    "id": "iq-logic-spatial-reasoning-0075",
     "category": "IQ & Logic",
-    "subcategory": "Logical Deductions",
+    "subcategory": "Spatial Reasoning",
     "difficulty": "hard",
-    "question": "Logic and analytical reasoning: Complete the analogy: Book is to Reading as Fork is to ___? (Ref #75)",
+    "question": "How many corners does a standard sheet of paper have if you cut off one corner with a straight line?",
     "options": [
-      "Cooking",
-      "Sharpening",
-      "Eating",
-      "Baking"
+      "3",
+      "4",
+      "5",
+      "6"
     ],
     "correctAnswer": 2,
-    "explanation": "A book is an instrument used primarily for reading; a fork is an instrument used primarily for eating.",
+    "explanation": "Cutting off one corner removes 1 corner and introduces 2 new corners: 4 - 1 + 2 = 5.",
     "tags": [
       "iq-logic",
-      "logical-deductions",
+      "spatial-reasoning",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "iq-logic-lateral-thinking-0076",
+    "id": "iq-logic-spatial-reasoning-0076",
     "category": "IQ & Logic",
-    "subcategory": "Lateral Thinking",
+    "subcategory": "Spatial Reasoning",
     "difficulty": "easy",
-    "question": "Logic and analytical reasoning: What is the next logical number in the numeric sequence: 3, 6, 12, 24, 48, ___? (Ref #76)",
+    "question": "If two gears are meshed together, in what direction does the second gear rotate when the first rotates clockwise?",
     "options": [
-      "72",
-      "84",
-      "102",
-      "96 (each term doubles)"
+      "Clockwise",
+      "Alternating",
+      "Parallel",
+      "Counterclockwise"
     ],
     "correctAnswer": 3,
-    "explanation": "Each consecutive term in this geometric sequence is multiplied by 2: 48 × 2 = 96.",
+    "explanation": "Directly meshed external gears always rotate in opposite directions.",
     "tags": [
       "iq-logic",
-      "lateral-thinking",
+      "spatial-reasoning",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "iq-logic-pattern-sequences-0077",
+    "id": "iq-logic-spatial-reasoning-0077",
     "category": "IQ & Logic",
-    "subcategory": "Pattern Sequences",
+    "subcategory": "Spatial Reasoning",
     "difficulty": "medium",
-    "question": "Logic and analytical reasoning: Consider the premises: 'All dogs are mammals. All mammals are warm-blooded.' What valid conclusion follows logically? (Ref #77)",
+    "question": "In a system of three sequentially meshed inline gears, what direction does the third gear turn if the first turns clockwise?",
     "options": [
-      "All dogs are warm-blooded",
-      "All warm-blooded animals are dogs",
-      "Some dogs are not mammals",
-      "No mammals are dogs"
+      "Clockwise",
+      "Counterclockwise",
+      "Stationary",
+      "Perpendicular"
     ],
     "correctAnswer": 0,
-    "explanation": "By classical categorical syllogism (Barbara format: All A are B, all B are C), it follows that all A are C.",
+    "explanation": "Gear 1 (CW) -> Gear 2 (CCW) -> Gear 3 (CW).",
     "tags": [
       "iq-logic",
-      "pattern-sequences",
+      "spatial-reasoning",
       "medium"
     ],
     "active": true
@@ -1621,15 +1621,15 @@
     "category": "IQ & Logic",
     "subcategory": "Spatial Reasoning",
     "difficulty": "hard",
-    "question": "Logic and analytical reasoning: What is the next number in the Fibonacci sequence: 1, 1, 2, 3, 5, 8, 13, ___? (Ref #78)",
+    "question": "What is the minimum number of colors needed to color a planar map so that no two adjacent regions share the same color?",
     "options": [
-      "18",
-      "21",
-      "20",
-      "24"
+      "3",
+      "4",
+      "5",
+      "6"
     ],
     "correctAnswer": 1,
-    "explanation": "In the Fibonacci sequence, each number is the sum of the two preceding ones: 8 + 13 = 21.",
+    "explanation": "The Four Color Theorem proves that any planar map requires at most 4 colors.",
     "tags": [
       "iq-logic",
       "spatial-reasoning",
@@ -1638,85 +1638,85 @@
     "active": true
   },
   {
-    "id": "iq-logic-logical-deductions-0079",
+    "id": "iq-logic-spatial-reasoning-0079",
     "category": "IQ & Logic",
-    "subcategory": "Logical Deductions",
+    "subcategory": "Spatial Reasoning",
     "difficulty": "easy",
-    "question": "Logic and analytical reasoning: If 5 machines take exactly 5 minutes to manufacture 5 widgets, how many minutes would it take 100 machines to manufacture 100 widgets? (Ref #79)",
+    "question": "How many distinct planes of symmetry does a regular cube possess?",
     "options": [
-      "100 minutes",
-      "20 minutes",
-      "5 minutes",
-      "50 minutes"
+      "6",
+      "8",
+      "9",
+      "12"
     ],
     "correctAnswer": 2,
-    "explanation": "Each individual machine takes 5 minutes to complete one widget; running 100 machines in parallel produces 100 widgets in 5 minutes.",
+    "explanation": "A cube has 3 planes parallel to faces and 6 diagonal planes connecting opposite edges, totaling 9.",
     "tags": [
       "iq-logic",
-      "logical-deductions",
+      "spatial-reasoning",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "iq-logic-lateral-thinking-0080",
+    "id": "iq-logic-spatial-reasoning-0080",
     "category": "IQ & Logic",
-    "subcategory": "Lateral Thinking",
+    "subcategory": "Spatial Reasoning",
     "difficulty": "medium",
-    "question": "Logic and analytical reasoning: Complete the analogy: Book is to Reading as Fork is to ___? (Ref #80)",
+    "question": "What is the name of a polyhedron with 20 equilateral triangular faces?",
     "options": [
-      "Cooking",
-      "Sharpening",
-      "Baking",
-      "Eating"
+      "Dodecahedron",
+      "Octahedron",
+      "Decahedron",
+      "Icosahedron"
     ],
     "correctAnswer": 3,
-    "explanation": "A book is an instrument used primarily for reading; a fork is an instrument used primarily for eating.",
+    "explanation": "A regular icosahedron has 20 triangular faces, 30 edges, and 12 vertices.",
     "tags": [
       "iq-logic",
-      "lateral-thinking",
+      "spatial-reasoning",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "iq-logic-pattern-sequences-0081",
+    "id": "iq-logic-logical-deductions-0081",
     "category": "IQ & Logic",
-    "subcategory": "Pattern Sequences",
+    "subcategory": "Logical Deductions",
     "difficulty": "hard",
-    "question": "Logic and analytical reasoning: What is the next logical number in the numeric sequence: 3, 6, 12, 24, 48, ___? (Ref #81)",
+    "question": "All roses are flowers. Some flowers fade quickly. Which conclusion can be logically deduced with absolute certainty?",
     "options": [
-      "96 (each term doubles)",
-      "72",
-      "84",
-      "102"
+      "Some roses might fade quickly, but it is not guaranteed",
+      "All roses fade quickly",
+      "No roses fade quickly",
+      "All flowers are roses"
     ],
     "correctAnswer": 0,
-    "explanation": "Each consecutive term in this geometric sequence is multiplied by 2: 48 × 2 = 96.",
+    "explanation": "The premise only states 'some flowers', so roses may or may not belong to the subset that fades quickly.",
     "tags": [
       "iq-logic",
-      "pattern-sequences",
+      "logical-deductions",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "iq-logic-spatial-reasoning-0082",
+    "id": "iq-logic-logical-deductions-0082",
     "category": "IQ & Logic",
-    "subcategory": "Spatial Reasoning",
+    "subcategory": "Logical Deductions",
     "difficulty": "easy",
-    "question": "Logic and analytical reasoning: Consider the premises: 'All dogs are mammals. All mammals are warm-blooded.' What valid conclusion follows logically? (Ref #82)",
+    "question": "All mammals are warm-blooded. A whale is a mammal. What is the logical conclusion?",
     "options": [
-      "All warm-blooded animals are dogs",
-      "All dogs are warm-blooded",
-      "Some dogs are not mammals",
-      "No mammals are dogs"
+      "A whale is a fish",
+      "A whale is warm-blooded",
+      "Some mammals are cold-blooded",
+      "All warm-blooded animals are whales"
     ],
     "correctAnswer": 1,
-    "explanation": "By classical categorical syllogism (Barbara format: All A are B, all B are C), it follows that all A are C.",
+    "explanation": "By categorical syllogism (modus ponens), the specific subject inherits the universal predicate.",
     "tags": [
       "iq-logic",
-      "spatial-reasoning",
+      "logical-deductions",
       "easy"
     ],
     "active": true
@@ -1726,15 +1726,15 @@
     "category": "IQ & Logic",
     "subcategory": "Logical Deductions",
     "difficulty": "medium",
-    "question": "Logic and analytical reasoning: What is the next number in the Fibonacci sequence: 1, 1, 2, 3, 5, 8, 13, ___? (Ref #83)",
+    "question": "If it rains, the grass gets wet. The grass is not wet. What can be logically concluded?",
     "options": [
-      "18",
-      "20",
-      "21",
-      "24"
+      "It rained lightly",
+      "The grass is synthetic",
+      "It did not rain",
+      "The sun is shining"
     ],
     "correctAnswer": 2,
-    "explanation": "In the Fibonacci sequence, each number is the sum of the two preceding ones: 8 + 13 = 21.",
+    "explanation": "By modus tollens (denying the consequent): if P implies Q and not Q, then not P.",
     "tags": [
       "iq-logic",
       "logical-deductions",
@@ -1743,64 +1743,64 @@
     "active": true
   },
   {
-    "id": "iq-logic-lateral-thinking-0084",
+    "id": "iq-logic-logical-deductions-0084",
     "category": "IQ & Logic",
-    "subcategory": "Lateral Thinking",
+    "subcategory": "Logical Deductions",
     "difficulty": "hard",
-    "question": "Logic and analytical reasoning: If 5 machines take exactly 5 minutes to manufacture 5 widgets, how many minutes would it take 100 machines to manufacture 100 widgets? (Ref #84)",
+    "question": "No reptiles have fur. All snakes are reptiles. What is the valid logical conclusion?",
     "options": [
-      "100 minutes",
-      "20 minutes",
-      "50 minutes",
-      "5 minutes"
+      "Some snakes have fur",
+      "All reptiles are snakes",
+      "Snakes are mammals",
+      "No snakes have fur"
     ],
     "correctAnswer": 3,
-    "explanation": "Each individual machine takes 5 minutes to complete one widget; running 100 machines in parallel produces 100 widgets in 5 minutes.",
+    "explanation": "Since all snakes are in the class of reptiles, and no reptiles have fur, snakes cannot have fur.",
     "tags": [
       "iq-logic",
-      "lateral-thinking",
+      "logical-deductions",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "iq-logic-pattern-sequences-0085",
+    "id": "iq-logic-logical-deductions-0085",
     "category": "IQ & Logic",
-    "subcategory": "Pattern Sequences",
+    "subcategory": "Logical Deductions",
     "difficulty": "easy",
-    "question": "Logic and analytical reasoning: Complete the analogy: Book is to Reading as Fork is to ___? (Ref #85)",
+    "question": "If Alice is taller than Bob, and Bob is taller than Charlie, who is the shortest?",
     "options": [
-      "Eating",
-      "Cooking",
-      "Sharpening",
-      "Baking"
+      "Charlie",
+      "Alice",
+      "Bob",
+      "Cannot be determined"
     ],
     "correctAnswer": 0,
-    "explanation": "A book is an instrument used primarily for reading; a fork is an instrument used primarily for eating.",
+    "explanation": "By transitive property of inequality: Alice > Bob > Charlie; Charlie is shortest.",
     "tags": [
       "iq-logic",
-      "pattern-sequences",
+      "logical-deductions",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "iq-logic-spatial-reasoning-0086",
+    "id": "iq-logic-logical-deductions-0086",
     "category": "IQ & Logic",
-    "subcategory": "Spatial Reasoning",
+    "subcategory": "Logical Deductions",
     "difficulty": "medium",
-    "question": "Logic and analytical reasoning: What is the next logical number in the numeric sequence: 3, 6, 12, 24, 48, ___? (Ref #86)",
+    "question": "If all squares are rectangles, and all rectangles are quadrilaterals, which statement is guaranteed true?",
     "options": [
-      "72",
-      "96 (each term doubles)",
-      "84",
-      "102"
+      "All quadrilaterals are squares",
+      "All squares are quadrilaterals",
+      "No quadrilaterals are rectangles",
+      "Some squares are not quadrilaterals"
     ],
     "correctAnswer": 1,
-    "explanation": "Each consecutive term in this geometric sequence is multiplied by 2: 48 × 2 = 96.",
+    "explanation": "Transitive relationship: Squares c Rectangles c Quadrilaterals.",
     "tags": [
       "iq-logic",
-      "spatial-reasoning",
+      "logical-deductions",
       "medium"
     ],
     "active": true
@@ -1810,15 +1810,15 @@
     "category": "IQ & Logic",
     "subcategory": "Logical Deductions",
     "difficulty": "hard",
-    "question": "Logic and analytical reasoning: Consider the premises: 'All dogs are mammals. All mammals are warm-blooded.' What valid conclusion follows logically? (Ref #87)",
+    "question": "In a town, all dentists are golfers. Dr. Evans is not a golfer. What is the guaranteed conclusion?",
     "options": [
-      "All warm-blooded animals are dogs",
-      "Some dogs are not mammals",
-      "All dogs are warm-blooded",
-      "No mammals are dogs"
+      "Dr. Evans is a retired dentist",
+      "Dr. Evans dislikes sports",
+      "Dr. Evans is not a dentist",
+      "Dr. Evans plays tennis"
     ],
     "correctAnswer": 2,
-    "explanation": "By classical categorical syllogism (Barbara format: All A are B, all B are C), it follows that all A are C.",
+    "explanation": "Contrapositive logic: If Dentist -> Golfer, then Not Golfer -> Not Dentist.",
     "tags": [
       "iq-logic",
       "logical-deductions",
@@ -1827,64 +1827,64 @@
     "active": true
   },
   {
-    "id": "iq-logic-lateral-thinking-0088",
+    "id": "iq-logic-logical-deductions-0088",
     "category": "IQ & Logic",
-    "subcategory": "Lateral Thinking",
+    "subcategory": "Logical Deductions",
     "difficulty": "easy",
-    "question": "Logic and analytical reasoning: What is the next number in the Fibonacci sequence: 1, 1, 2, 3, 5, 8, 13, ___? (Ref #88)",
+    "question": "Tom is older than Dave. Dave is older than Sam. Who is the oldest?",
     "options": [
-      "18",
-      "20",
-      "24",
-      "21"
+      "Dave",
+      "Sam",
+      "Cannot be determined",
+      "Tom"
     ],
     "correctAnswer": 3,
-    "explanation": "In the Fibonacci sequence, each number is the sum of the two preceding ones: 8 + 13 = 21.",
+    "explanation": "Tom > Dave > Sam; Tom is the oldest.",
     "tags": [
       "iq-logic",
-      "lateral-thinking",
+      "logical-deductions",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "iq-logic-pattern-sequences-0089",
+    "id": "iq-logic-logical-deductions-0089",
     "category": "IQ & Logic",
-    "subcategory": "Pattern Sequences",
+    "subcategory": "Logical Deductions",
     "difficulty": "medium",
-    "question": "Logic and analytical reasoning: If 5 machines take exactly 5 minutes to manufacture 5 widgets, how many minutes would it take 100 machines to manufacture 100 widgets? (Ref #89)",
+    "question": "Some artists are painters. All painters are creative. Which statement is logically valid?",
     "options": [
-      "5 minutes",
-      "100 minutes",
-      "20 minutes",
-      "50 minutes"
+      "Some artists are creative",
+      "All artists are painters",
+      "All creative people are artists",
+      "No artists are creative"
     ],
     "correctAnswer": 0,
-    "explanation": "Each individual machine takes 5 minutes to complete one widget; running 100 machines in parallel produces 100 widgets in 5 minutes.",
+    "explanation": "The subset of artists who are painters are necessarily creative.",
     "tags": [
       "iq-logic",
-      "pattern-sequences",
+      "logical-deductions",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "iq-logic-spatial-reasoning-0090",
+    "id": "iq-logic-logical-deductions-0090",
     "category": "IQ & Logic",
-    "subcategory": "Spatial Reasoning",
+    "subcategory": "Logical Deductions",
     "difficulty": "hard",
-    "question": "Logic and analytical reasoning: Complete the analogy: Book is to Reading as Fork is to ___? (Ref #90)",
+    "question": "If today is Monday, tomorrow is Tuesday. Tomorrow is not Tuesday. What is the conclusion?",
     "options": [
-      "Cooking",
-      "Eating",
-      "Sharpening",
-      "Baking"
+      "Today is Sunday",
+      "Today is not Monday",
+      "Tomorrow is Wednesday",
+      "Today is Tuesday"
     ],
     "correctAnswer": 1,
-    "explanation": "A book is an instrument used primarily for reading; a fork is an instrument used primarily for eating.",
+    "explanation": "Modus tollens: negation of the consequent implies negation of the antecedent.",
     "tags": [
       "iq-logic",
-      "spatial-reasoning",
+      "logical-deductions",
       "hard"
     ],
     "active": true
@@ -1894,15 +1894,15 @@
     "category": "IQ & Logic",
     "subcategory": "Logical Deductions",
     "difficulty": "easy",
-    "question": "Logic and analytical reasoning: What is the next logical number in the numeric sequence: 3, 6, 12, 24, 48, ___? (Ref #91)",
+    "question": "Every member of the club has a membership badge. Frank does not have a membership badge. What is the conclusion?",
     "options": [
-      "72",
-      "84",
-      "96 (each term doubles)",
-      "102"
+      "Frank lost his badge",
+      "Frank is an honorary member",
+      "Frank is not a member of the club",
+      "Frank is the club president"
     ],
     "correctAnswer": 2,
-    "explanation": "Each consecutive term in this geometric sequence is multiplied by 2: 48 × 2 = 96.",
+    "explanation": "If Member -> Has Badge, then No Badge -> Not Member.",
     "tags": [
       "iq-logic",
       "logical-deductions",
@@ -1911,64 +1911,64 @@
     "active": true
   },
   {
-    "id": "iq-logic-lateral-thinking-0092",
+    "id": "iq-logic-logical-deductions-0092",
     "category": "IQ & Logic",
-    "subcategory": "Lateral Thinking",
+    "subcategory": "Logical Deductions",
     "difficulty": "medium",
-    "question": "Logic and analytical reasoning: Consider the premises: 'All dogs are mammals. All mammals are warm-blooded.' What valid conclusion follows logically? (Ref #92)",
+    "question": "If a polygon has 3 sides, it is a triangle. Polygon Z has 4 sides. What can be concluded?",
     "options": [
-      "All warm-blooded animals are dogs",
-      "Some dogs are not mammals",
-      "No mammals are dogs",
-      "All dogs are warm-blooded"
+      "Polygon Z is a pentagon",
+      "Polygon Z is an equilateral triangle",
+      "Polygon Z is a circle",
+      "Polygon Z is not a triangle"
     ],
     "correctAnswer": 3,
-    "explanation": "By classical categorical syllogism (Barbara format: All A are B, all B are C), it follows that all A are C.",
+    "explanation": "Triangles have strictly 3 sides; a 4-sided polygon cannot be a triangle.",
     "tags": [
       "iq-logic",
-      "lateral-thinking",
+      "logical-deductions",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "iq-logic-pattern-sequences-0093",
+    "id": "iq-logic-logical-deductions-0093",
     "category": "IQ & Logic",
-    "subcategory": "Pattern Sequences",
+    "subcategory": "Logical Deductions",
     "difficulty": "hard",
-    "question": "Logic and analytical reasoning: What is the next number in the Fibonacci sequence: 1, 1, 2, 3, 5, 8, 13, ___? (Ref #93)",
+    "question": "If all cats purr, and Luna is a cat, what follows?",
     "options": [
-      "21",
-      "18",
-      "20",
-      "24"
+      "Luna purrs",
+      "Luna does not purr",
+      "All animals that purr are cats",
+      "Luna is a tiger"
     ],
     "correctAnswer": 0,
-    "explanation": "In the Fibonacci sequence, each number is the sum of the two preceding ones: 8 + 13 = 21.",
+    "explanation": "Universal instantiation: Luna possesses all properties universal to cats.",
     "tags": [
       "iq-logic",
-      "pattern-sequences",
+      "logical-deductions",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "iq-logic-spatial-reasoning-0094",
+    "id": "iq-logic-logical-deductions-0094",
     "category": "IQ & Logic",
-    "subcategory": "Spatial Reasoning",
+    "subcategory": "Logical Deductions",
     "difficulty": "easy",
-    "question": "Logic and analytical reasoning: If 5 machines take exactly 5 minutes to manufacture 5 widgets, how many minutes would it take 100 machines to manufacture 100 widgets? (Ref #94)",
+    "question": "No prime number greater than 2 is even. The number N is a prime greater than 2. What is true of N?",
     "options": [
-      "100 minutes",
-      "5 minutes",
-      "20 minutes",
-      "50 minutes"
+      "N is even",
+      "N is odd",
+      "N is divisible by 4",
+      "N equals 2"
     ],
     "correctAnswer": 1,
-    "explanation": "Each individual machine takes 5 minutes to complete one widget; running 100 machines in parallel produces 100 widgets in 5 minutes.",
+    "explanation": "Since 2 is the only even prime, all primes > 2 must be odd.",
     "tags": [
       "iq-logic",
-      "spatial-reasoning",
+      "logical-deductions",
       "easy"
     ],
     "active": true
@@ -1978,15 +1978,15 @@
     "category": "IQ & Logic",
     "subcategory": "Logical Deductions",
     "difficulty": "medium",
-    "question": "Logic and analytical reasoning: Complete the analogy: Book is to Reading as Fork is to ___? (Ref #95)",
+    "question": "If neither Jack nor Jill went up the hill, did Jack go up the hill?",
     "options": [
-      "Cooking",
-      "Sharpening",
-      "Eating",
-      "Baking"
+      "Yes",
+      "Only with Jill",
+      "No",
+      "Cannot be determined"
     ],
     "correctAnswer": 2,
-    "explanation": "A book is an instrument used primarily for reading; a fork is an instrument used primarily for eating.",
+    "explanation": "'Neither Jack nor Jill' means Jack did not go, and Jill did not go.",
     "tags": [
       "iq-logic",
       "logical-deductions",
@@ -1995,64 +1995,64 @@
     "active": true
   },
   {
-    "id": "iq-logic-lateral-thinking-0096",
+    "id": "iq-logic-logical-deductions-0096",
     "category": "IQ & Logic",
-    "subcategory": "Lateral Thinking",
+    "subcategory": "Logical Deductions",
     "difficulty": "hard",
-    "question": "Logic and analytical reasoning: What is the next logical number in the numeric sequence: 3, 6, 12, 24, 48, ___? (Ref #96)",
+    "question": "All books have pages. This object has no pages. What follows?",
     "options": [
-      "72",
-      "84",
-      "102",
-      "96 (each term doubles)"
+      "This object is an electronic book",
+      "This object is an empty book",
+      "This object is a magazine",
+      "This object is not a book"
     ],
     "correctAnswer": 3,
-    "explanation": "Each consecutive term in this geometric sequence is multiplied by 2: 48 × 2 = 96.",
+    "explanation": "By contraposition, an object lacking pages cannot be a book under the stated premise.",
     "tags": [
       "iq-logic",
-      "lateral-thinking",
+      "logical-deductions",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "iq-logic-pattern-sequences-0097",
+    "id": "iq-logic-logical-deductions-0097",
     "category": "IQ & Logic",
-    "subcategory": "Pattern Sequences",
+    "subcategory": "Logical Deductions",
     "difficulty": "easy",
-    "question": "Logic and analytical reasoning: Consider the premises: 'All dogs are mammals. All mammals are warm-blooded.' What valid conclusion follows logically? (Ref #97)",
+    "question": "If every vehicle in the fleet is electric, and truck #12 is in the fleet, what follows?",
     "options": [
-      "All dogs are warm-blooded",
-      "All warm-blooded animals are dogs",
-      "Some dogs are not mammals",
-      "No mammals are dogs"
+      "Truck #12 is electric",
+      "Truck #12 runs on diesel",
+      "Truck #12 is hybrid",
+      "Only trucks are in the fleet"
     ],
     "correctAnswer": 0,
-    "explanation": "By classical categorical syllogism (Barbara format: All A are B, all B are C), it follows that all A are C.",
+    "explanation": "Truck #12 belongs to the fleet and therefore possesses the fleet's universal property.",
     "tags": [
       "iq-logic",
-      "pattern-sequences",
+      "logical-deductions",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "iq-logic-spatial-reasoning-0098",
+    "id": "iq-logic-logical-deductions-0098",
     "category": "IQ & Logic",
-    "subcategory": "Spatial Reasoning",
+    "subcategory": "Logical Deductions",
     "difficulty": "medium",
-    "question": "Logic and analytical reasoning: What is the next number in the Fibonacci sequence: 1, 1, 2, 3, 5, 8, 13, ___? (Ref #98)",
+    "question": "Statement: 'Either it is sunny or it is raining.' If it is not sunny, what must be true?",
     "options": [
-      "18",
-      "21",
-      "20",
-      "24"
+      "It is snowing",
+      "It is raining",
+      "It is cloudy",
+      "Cannot be determined"
     ],
     "correctAnswer": 1,
-    "explanation": "In the Fibonacci sequence, each number is the sum of the two preceding ones: 8 + 13 = 21.",
+    "explanation": "In a disjunction (P or Q), the negation of one disjunct necessitates the truth of the other.",
     "tags": [
       "iq-logic",
-      "spatial-reasoning",
+      "logical-deductions",
       "medium"
     ],
     "active": true
@@ -2062,15 +2062,15 @@
     "category": "IQ & Logic",
     "subcategory": "Logical Deductions",
     "difficulty": "hard",
-    "question": "Logic and analytical reasoning: If 5 machines take exactly 5 minutes to manufacture 5 widgets, how many minutes would it take 100 machines to manufacture 100 widgets? (Ref #99)",
+    "question": "If Emma is faster than Liam, and Liam is faster than Noah, who finishes last in a race between them?",
     "options": [
-      "100 minutes",
-      "20 minutes",
-      "5 minutes",
-      "50 minutes"
+      "Emma",
+      "Liam",
+      "Noah",
+      "Cannot be determined"
     ],
     "correctAnswer": 2,
-    "explanation": "Each individual machine takes 5 minutes to complete one widget; running 100 machines in parallel produces 100 widgets in 5 minutes.",
+    "explanation": "Speed order: Emma > Liam > Noah. Noah finishes last.",
     "tags": [
       "iq-logic",
       "logical-deductions",
@@ -2079,64 +2079,64 @@
     "active": true
   },
   {
-    "id": "iq-logic-lateral-thinking-0100",
+    "id": "iq-logic-logical-deductions-0100",
     "category": "IQ & Logic",
-    "subcategory": "Lateral Thinking",
+    "subcategory": "Logical Deductions",
     "difficulty": "easy",
-    "question": "Logic and analytical reasoning: Complete the analogy: Book is to Reading as Fork is to ___? (Ref #100)",
+    "question": "All apples are fruits. Some fruits are sweet. Can we conclude that all apples are sweet?",
     "options": [
-      "Cooking",
-      "Sharpening",
-      "Baking",
-      "Eating"
+      "Yes, all apples are sweet",
+      "No apples are sweet",
+      "Fruits cannot be apples",
+      "No, because only some fruits are sweet"
     ],
     "correctAnswer": 3,
-    "explanation": "A book is an instrument used primarily for reading; a fork is an instrument used primarily for eating.",
+    "explanation": "Fallacy of the undistributed middle: apples may fall in the non-sweet fruit subset.",
     "tags": [
       "iq-logic",
-      "lateral-thinking",
+      "logical-deductions",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "iq-logic-pattern-sequences-0101",
+    "id": "iq-logic-logical-deductions-0101",
     "category": "IQ & Logic",
-    "subcategory": "Pattern Sequences",
+    "subcategory": "Logical Deductions",
     "difficulty": "medium",
-    "question": "Logic and analytical reasoning: What is the next logical number in the numeric sequence: 3, 6, 12, 24, 48, ___? (Ref #101)",
+    "question": "If P implies Q, what is the logically equivalent contrapositive statement?",
     "options": [
-      "96 (each term doubles)",
-      "72",
-      "84",
-      "102"
+      "Not Q implies Not P",
+      "Q implies P",
+      "Not P implies Not Q",
+      "P implies Not Q"
     ],
     "correctAnswer": 0,
-    "explanation": "Each consecutive term in this geometric sequence is multiplied by 2: 48 × 2 = 96.",
+    "explanation": "A conditional statement P -> Q is logically equivalent to its contrapositive ~Q -> ~P.",
     "tags": [
       "iq-logic",
-      "pattern-sequences",
+      "logical-deductions",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "iq-logic-spatial-reasoning-0102",
+    "id": "iq-logic-logical-deductions-0102",
     "category": "IQ & Logic",
-    "subcategory": "Spatial Reasoning",
+    "subcategory": "Logical Deductions",
     "difficulty": "hard",
-    "question": "Logic and analytical reasoning: Consider the premises: 'All dogs are mammals. All mammals are warm-blooded.' What valid conclusion follows logically? (Ref #102)",
+    "question": "What is the converse of the statement: 'If it is raining, then the ground is wet'?",
     "options": [
-      "All warm-blooded animals are dogs",
-      "All dogs are warm-blooded",
-      "Some dogs are not mammals",
-      "No mammals are dogs"
+      "If it is not raining, the ground is not wet",
+      "If the ground is wet, then it is raining",
+      "If the ground is not wet, it is not raining",
+      "The ground is always wet"
     ],
     "correctAnswer": 1,
-    "explanation": "By classical categorical syllogism (Barbara format: All A are B, all B are C), it follows that all A are C.",
+    "explanation": "The converse reverses the hypothesis and conclusion: Q -> P.",
     "tags": [
       "iq-logic",
-      "spatial-reasoning",
+      "logical-deductions",
       "hard"
     ],
     "active": true
@@ -2146,15 +2146,15 @@
     "category": "IQ & Logic",
     "subcategory": "Logical Deductions",
     "difficulty": "easy",
-    "question": "Logic and analytical reasoning: What is the next number in the Fibonacci sequence: 1, 1, 2, 3, 5, 8, 13, ___? (Ref #103)",
+    "question": "What is the inverse of the statement: 'If a number is even, then it is divisible by 2'?",
     "options": [
-      "18",
-      "20",
-      "21",
-      "24"
+      "If a number is divisible by 2, then it is even",
+      "If a number is odd, it is prime",
+      "If a number is not even, then it is not divisible by 2",
+      "All numbers are divisible by 2"
     ],
     "correctAnswer": 2,
-    "explanation": "In the Fibonacci sequence, each number is the sum of the two preceding ones: 8 + 13 = 21.",
+    "explanation": "The inverse negates both hypothesis and conclusion: ~P -> ~Q.",
     "tags": [
       "iq-logic",
       "logical-deductions",
@@ -2163,64 +2163,64 @@
     "active": true
   },
   {
-    "id": "iq-logic-lateral-thinking-0104",
+    "id": "iq-logic-logical-deductions-0104",
     "category": "IQ & Logic",
-    "subcategory": "Lateral Thinking",
+    "subcategory": "Logical Deductions",
     "difficulty": "medium",
-    "question": "Logic and analytical reasoning: If 5 machines take exactly 5 minutes to manufacture 5 widgets, how many minutes would it take 100 machines to manufacture 100 widgets? (Ref #104)",
+    "question": "If all A are B, and all B are C, are all A necessarily C?",
     "options": [
-      "100 minutes",
-      "20 minutes",
-      "50 minutes",
-      "5 minutes"
+      "No, never",
+      "Only some A are C",
+      "Cannot be determined",
+      "Yes, absolutely"
     ],
     "correctAnswer": 3,
-    "explanation": "Each individual machine takes 5 minutes to complete one widget; running 100 machines in parallel produces 100 widgets in 5 minutes.",
+    "explanation": "Transitive property of subset inclusion: A c B c C implies A c C.",
     "tags": [
       "iq-logic",
-      "lateral-thinking",
+      "logical-deductions",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "iq-logic-pattern-sequences-0105",
+    "id": "iq-logic-logical-deductions-0105",
     "category": "IQ & Logic",
-    "subcategory": "Pattern Sequences",
+    "subcategory": "Logical Deductions",
     "difficulty": "hard",
-    "question": "Logic and analytical reasoning: Complete the analogy: Book is to Reading as Fork is to ___? (Ref #105)",
+    "question": "A person claims: 'I always lie.' Is this statement logically possible?",
     "options": [
-      "Eating",
-      "Cooking",
-      "Sharpening",
-      "Baking"
+      "No, it creates a self-referential paradox",
+      "Yes, it is always true",
+      "Yes, it is a proven theorem",
+      "It depends on the time of day"
     ],
     "correctAnswer": 0,
-    "explanation": "A book is an instrument used primarily for reading; a fork is an instrument used primarily for eating.",
+    "explanation": "The Epimenides/Liar paradox: if true, the speaker lies (false); if false, the speaker told truth (contradiction).",
     "tags": [
       "iq-logic",
-      "pattern-sequences",
+      "logical-deductions",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "iq-logic-spatial-reasoning-0106",
+    "id": "iq-logic-logical-deductions-0106",
     "category": "IQ & Logic",
-    "subcategory": "Spatial Reasoning",
+    "subcategory": "Logical Deductions",
     "difficulty": "easy",
-    "question": "Logic and analytical reasoning: What is the next logical number in the numeric sequence: 3, 6, 12, 24, 48, ___? (Ref #106)",
+    "question": "If some birds cannot fly, and penguins are birds, can we conclude from these premises alone that penguins cannot fly?",
     "options": [
-      "72",
-      "96 (each term doubles)",
-      "84",
-      "102"
+      "Yes, the premises prove it directly",
+      "No, that requires specific external knowledge about penguins",
+      "Penguins are not birds",
+      "All birds can fly"
     ],
     "correctAnswer": 1,
-    "explanation": "Each consecutive term in this geometric sequence is multiplied by 2: 48 × 2 = 96.",
+    "explanation": "The premises state only that 'some' birds cannot fly, not specifying which ones.",
     "tags": [
       "iq-logic",
-      "spatial-reasoning",
+      "logical-deductions",
       "easy"
     ],
     "active": true
@@ -2230,15 +2230,15 @@
     "category": "IQ & Logic",
     "subcategory": "Logical Deductions",
     "difficulty": "medium",
-    "question": "Logic and analytical reasoning: Consider the premises: 'All dogs are mammals. All mammals are warm-blooded.' What valid conclusion follows logically? (Ref #107)",
+    "question": "Either the door is locked or it is unlocked. The door is not unlocked. What is the deduction?",
     "options": [
-      "All warm-blooded animals are dogs",
-      "Some dogs are not mammals",
-      "All dogs are warm-blooded",
-      "No mammals are dogs"
+      "The door is broken",
+      "The door is open",
+      "The door is locked",
+      "Cannot be determined"
     ],
     "correctAnswer": 2,
-    "explanation": "By classical categorical syllogism (Barbara format: All A are B, all B are C), it follows that all A are C.",
+    "explanation": "Law of excluded middle: an entity must satisfy one of two complementary states.",
     "tags": [
       "iq-logic",
       "logical-deductions",
@@ -2247,64 +2247,64 @@
     "active": true
   },
   {
-    "id": "iq-logic-lateral-thinking-0108",
+    "id": "iq-logic-logical-deductions-0108",
     "category": "IQ & Logic",
-    "subcategory": "Lateral Thinking",
+    "subcategory": "Logical Deductions",
     "difficulty": "hard",
-    "question": "Logic and analytical reasoning: What is the next number in the Fibonacci sequence: 1, 1, 2, 3, 5, 8, 13, ___? (Ref #108)",
+    "question": "If X is greater than Y, and Y is greater than Z, is X greater than Z?",
     "options": [
-      "18",
-      "20",
-      "24",
-      "21"
+      "No, never",
+      "Only if X is positive",
+      "Cannot be determined",
+      "Yes, always"
     ],
     "correctAnswer": 3,
-    "explanation": "In the Fibonacci sequence, each number is the sum of the two preceding ones: 8 + 13 = 21.",
+    "explanation": "Transitivity of inequality: X > Y > Z implies X > Z.",
     "tags": [
       "iq-logic",
-      "lateral-thinking",
+      "logical-deductions",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "iq-logic-pattern-sequences-0109",
+    "id": "iq-logic-logical-deductions-0109",
     "category": "IQ & Logic",
-    "subcategory": "Pattern Sequences",
+    "subcategory": "Logical Deductions",
     "difficulty": "easy",
-    "question": "Logic and analytical reasoning: If 5 machines take exactly 5 minutes to manufacture 5 widgets, how many minutes would it take 100 machines to manufacture 100 widgets? (Ref #109)",
+    "question": "All metals conduct electricity. Copper is a metal. What conclusion follows?",
     "options": [
-      "5 minutes",
-      "100 minutes",
-      "20 minutes",
-      "50 minutes"
+      "Copper conducts electricity",
+      "Copper is an insulator",
+      "All electrical conductors are copper",
+      "Some metals are non-conductive"
     ],
     "correctAnswer": 0,
-    "explanation": "Each individual machine takes 5 minutes to complete one widget; running 100 machines in parallel produces 100 widgets in 5 minutes.",
+    "explanation": "Deductive syllogism: Copper possesses the universal property of metals.",
     "tags": [
       "iq-logic",
-      "pattern-sequences",
+      "logical-deductions",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "iq-logic-spatial-reasoning-0110",
+    "id": "iq-logic-logical-deductions-0110",
     "category": "IQ & Logic",
-    "subcategory": "Spatial Reasoning",
+    "subcategory": "Logical Deductions",
     "difficulty": "medium",
-    "question": "Logic and analytical reasoning: Complete the analogy: Book is to Reading as Fork is to ___? (Ref #110)",
+    "question": "If no fish can breathe atmospheric air directly, and goldfish are fish, what follows?",
     "options": [
-      "Cooking",
-      "Eating",
-      "Sharpening",
-      "Baking"
+      "Goldfish can breathe air",
+      "Goldfish cannot breathe atmospheric air directly",
+      "Some fish are mammals",
+      "All water animals are fish"
     ],
     "correctAnswer": 1,
-    "explanation": "A book is an instrument used primarily for reading; a fork is an instrument used primarily for eating.",
+    "explanation": "Negative universal syllogism: Goldfish inherit the exclusion.",
     "tags": [
       "iq-logic",
-      "spatial-reasoning",
+      "logical-deductions",
       "medium"
     ],
     "active": true
@@ -2314,15 +2314,15 @@
     "category": "IQ & Logic",
     "subcategory": "Logical Deductions",
     "difficulty": "hard",
-    "question": "Logic and analytical reasoning: What is the next logical number in the numeric sequence: 3, 6, 12, 24, 48, ___? (Ref #111)",
+    "question": "If you cannot be in two places at once, and Mark is in London right now, can Mark also be in Paris right now?",
     "options": [
-      "72",
-      "84",
-      "96 (each term doubles)",
-      "102"
+      "Yes, easily",
+      "Only with a passport",
+      "No, impossible",
+      "Cannot be determined"
     ],
     "correctAnswer": 2,
-    "explanation": "Each consecutive term in this geometric sequence is multiplied by 2: 48 × 2 = 96.",
+    "explanation": "By the law of non-contradiction and spatial exclusivity, one cannot occupy disjoint locations simultaneously.",
     "tags": [
       "iq-logic",
       "logical-deductions",
@@ -2331,64 +2331,64 @@
     "active": true
   },
   {
-    "id": "iq-logic-lateral-thinking-0112",
+    "id": "iq-logic-logical-deductions-0112",
     "category": "IQ & Logic",
-    "subcategory": "Lateral Thinking",
+    "subcategory": "Logical Deductions",
     "difficulty": "easy",
-    "question": "Logic and analytical reasoning: Consider the premises: 'All dogs are mammals. All mammals are warm-blooded.' What valid conclusion follows logically? (Ref #112)",
+    "question": "Every student who scored over 90 received an A. Kevin received an A. Did Kevin necessarily score over 90?",
     "options": [
-      "All warm-blooded animals are dogs",
-      "Some dogs are not mammals",
-      "No mammals are dogs",
-      "All dogs are warm-blooded"
+      "Yes, he scored exactly 95",
+      "Yes, he must have scored over 90",
+      "No, Kevin failed",
+      "No, he could have scored an A through another grading criterion"
     ],
     "correctAnswer": 3,
-    "explanation": "By classical categorical syllogism (Barbara format: All A are B, all B are C), it follows that all A are C.",
+    "explanation": "Affirming the consequent is a formal fallacy: receiving an A does not guarantee a score over 90 unless it was an 'if and only if' condition.",
     "tags": [
       "iq-logic",
-      "lateral-thinking",
+      "logical-deductions",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "iq-logic-pattern-sequences-0113",
+    "id": "iq-logic-logical-deductions-0113",
     "category": "IQ & Logic",
-    "subcategory": "Pattern Sequences",
+    "subcategory": "Logical Deductions",
     "difficulty": "medium",
-    "question": "Logic and analytical reasoning: What is the next number in the Fibonacci sequence: 1, 1, 2, 3, 5, 8, 13, ___? (Ref #113)",
+    "question": "If all dogs bark, and Buster does not bark, is Buster a dog?",
     "options": [
-      "21",
-      "18",
-      "20",
-      "24"
+      "No, according to the premise",
+      "Yes, Buster is a quiet dog",
+      "Buster is a puppy",
+      "Cannot be determined"
     ],
     "correctAnswer": 0,
-    "explanation": "In the Fibonacci sequence, each number is the sum of the two preceding ones: 8 + 13 = 21.",
+    "explanation": "Modus tollens: if Dog -> Barks, then Not Bark -> Not Dog.",
     "tags": [
       "iq-logic",
-      "pattern-sequences",
+      "logical-deductions",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "iq-logic-spatial-reasoning-0114",
+    "id": "iq-logic-logical-deductions-0114",
     "category": "IQ & Logic",
-    "subcategory": "Spatial Reasoning",
+    "subcategory": "Logical Deductions",
     "difficulty": "hard",
-    "question": "Logic and analytical reasoning: If 5 machines take exactly 5 minutes to manufacture 5 widgets, how many minutes would it take 100 machines to manufacture 100 widgets? (Ref #114)",
+    "question": "If Sarah is in New York, she is in the United States. Sarah is not in the United States. Where is Sarah?",
     "options": [
-      "100 minutes",
-      "5 minutes",
-      "20 minutes",
-      "50 minutes"
+      "Sarah is in Canada",
+      "Sarah is not in New York",
+      "Sarah is in Europe",
+      "Cannot be determined"
     ],
     "correctAnswer": 1,
-    "explanation": "Each individual machine takes 5 minutes to complete one widget; running 100 machines in parallel produces 100 widgets in 5 minutes.",
+    "explanation": "Contrapositive deduction confirms Sarah cannot be in New York.",
     "tags": [
       "iq-logic",
-      "spatial-reasoning",
+      "logical-deductions",
       "hard"
     ],
     "active": true
@@ -2398,15 +2398,15 @@
     "category": "IQ & Logic",
     "subcategory": "Logical Deductions",
     "difficulty": "easy",
-    "question": "Logic and analytical reasoning: Complete the analogy: Book is to Reading as Fork is to ___? (Ref #115)",
+    "question": "All squares have four equal sides. Figure W does not have four equal sides. What is Figure W?",
     "options": [
-      "Cooking",
-      "Sharpening",
-      "Eating",
-      "Baking"
+      "Figure W is a rhombus",
+      "Figure W is a rectangle",
+      "Figure W is not a square",
+      "Figure W is a triangle"
     ],
     "correctAnswer": 2,
-    "explanation": "A book is an instrument used primarily for reading; a fork is an instrument used primarily for eating.",
+    "explanation": "Figure W lacks a necessary property of squares and therefore cannot be a square.",
     "tags": [
       "iq-logic",
       "logical-deductions",
@@ -2415,64 +2415,64 @@
     "active": true
   },
   {
-    "id": "iq-logic-lateral-thinking-0116",
+    "id": "iq-logic-logical-deductions-0116",
     "category": "IQ & Logic",
-    "subcategory": "Lateral Thinking",
+    "subcategory": "Logical Deductions",
     "difficulty": "medium",
-    "question": "Logic and analytical reasoning: What is the next logical number in the numeric sequence: 3, 6, 12, 24, 48, ___? (Ref #116)",
+    "question": "Premise 1: Only VIP guests may enter the lounge. Premise 2: Leo entered the lounge. What is the valid conclusion?",
     "options": [
-      "72",
-      "84",
-      "102",
-      "96 (each term doubles)"
+      "Leo is an employee",
+      "Leo broke the rules",
+      "Cannot be determined",
+      "Leo is a VIP guest"
     ],
     "correctAnswer": 3,
-    "explanation": "Each consecutive term in this geometric sequence is multiplied by 2: 48 × 2 = 96.",
+    "explanation": "'Only VIPs' means Enter -> VIP. Since Leo entered, Leo is a VIP.",
     "tags": [
       "iq-logic",
-      "lateral-thinking",
+      "logical-deductions",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "iq-logic-pattern-sequences-0117",
+    "id": "iq-logic-logical-deductions-0117",
     "category": "IQ & Logic",
-    "subcategory": "Pattern Sequences",
+    "subcategory": "Logical Deductions",
     "difficulty": "hard",
-    "question": "Logic and analytical reasoning: Consider the premises: 'All dogs are mammals. All mammals are warm-blooded.' What valid conclusion follows logically? (Ref #117)",
+    "question": "If a card is an Ace, it has the letter 'A'. Card #5 does not have the letter 'A'. Is it an Ace?",
     "options": [
-      "All dogs are warm-blooded",
-      "All warm-blooded animals are dogs",
-      "Some dogs are not mammals",
-      "No mammals are dogs"
+      "No",
+      "Yes",
+      "Maybe",
+      "Cannot be determined"
     ],
     "correctAnswer": 0,
-    "explanation": "By classical categorical syllogism (Barbara format: All A are B, all B are C), it follows that all A are C.",
+    "explanation": "Lacking the necessary feature means Card #5 cannot be an Ace.",
     "tags": [
       "iq-logic",
-      "pattern-sequences",
+      "logical-deductions",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "iq-logic-spatial-reasoning-0118",
+    "id": "iq-logic-logical-deductions-0118",
     "category": "IQ & Logic",
-    "subcategory": "Spatial Reasoning",
+    "subcategory": "Logical Deductions",
     "difficulty": "easy",
-    "question": "Logic and analytical reasoning: What is the next number in the Fibonacci sequence: 1, 1, 2, 3, 5, 8, 13, ___? (Ref #118)",
+    "question": "All integers divisible by 10 end in 0. The integer M ends in 7. Is M divisible by 10?",
     "options": [
-      "18",
-      "21",
-      "20",
-      "24"
+      "Yes",
+      "No",
+      "Only if M is negative",
+      "Cannot be determined"
     ],
     "correctAnswer": 1,
-    "explanation": "In the Fibonacci sequence, each number is the sum of the two preceding ones: 8 + 13 = 21.",
+    "explanation": "Contrapositive: Not ending in 0 implies not divisible by 10.",
     "tags": [
       "iq-logic",
-      "spatial-reasoning",
+      "logical-deductions",
       "easy"
     ],
     "active": true
@@ -2482,15 +2482,15 @@
     "category": "IQ & Logic",
     "subcategory": "Logical Deductions",
     "difficulty": "medium",
-    "question": "Logic and analytical reasoning: If 5 machines take exactly 5 minutes to manufacture 5 widgets, how many minutes would it take 100 machines to manufacture 100 widgets? (Ref #119)",
+    "question": "If train A arrives before train B, and train B arrives before train C, which train arrives first?",
     "options": [
-      "100 minutes",
-      "20 minutes",
-      "5 minutes",
-      "50 minutes"
+      "Train B",
+      "Train C",
+      "Train A",
+      "They arrive simultaneously"
     ],
     "correctAnswer": 2,
-    "explanation": "Each individual machine takes 5 minutes to complete one widget; running 100 machines in parallel produces 100 widgets in 5 minutes.",
+    "explanation": "Transitive arrival order: A before B before C; A is first.",
     "tags": [
       "iq-logic",
       "logical-deductions",
@@ -2499,85 +2499,85 @@
     "active": true
   },
   {
-    "id": "iq-logic-lateral-thinking-0120",
+    "id": "iq-logic-logical-deductions-0120",
     "category": "IQ & Logic",
-    "subcategory": "Lateral Thinking",
+    "subcategory": "Logical Deductions",
     "difficulty": "hard",
-    "question": "Logic and analytical reasoning: Complete the analogy: Book is to Reading as Fork is to ___? (Ref #120)",
+    "question": "If it is impossible for a triangle to have two right angles, can a shape with two right angles be a planar triangle?",
     "options": [
-      "Cooking",
-      "Sharpening",
-      "Baking",
-      "Eating"
+      "Yes, always",
+      "Only if it is scalene",
+      "Cannot be determined",
+      "No, it cannot be a planar triangle"
     ],
     "correctAnswer": 3,
-    "explanation": "A book is an instrument used primarily for reading; a fork is an instrument used primarily for eating.",
+    "explanation": "A planar triangle's angles sum to 180 degrees; two 90-degree angles leave 0 degrees for the third vertex.",
     "tags": [
       "iq-logic",
-      "lateral-thinking",
+      "logical-deductions",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "iq-logic-pattern-sequences-0121",
+    "id": "iq-logic-lateral-thinking-0121",
     "category": "IQ & Logic",
-    "subcategory": "Pattern Sequences",
+    "subcategory": "Lateral Thinking",
     "difficulty": "easy",
-    "question": "Logic and analytical reasoning: What is the next logical number in the numeric sequence: 3, 6, 12, 24, 48, ___? (Ref #121)",
+    "question": "A farmer has 17 sheep, and all but 9 run away. How many sheep does the farmer have left?",
     "options": [
-      "96 (each term doubles)",
-      "72",
-      "84",
-      "102"
+      "9",
+      "8",
+      "17",
+      "0"
     ],
     "correctAnswer": 0,
-    "explanation": "Each consecutive term in this geometric sequence is multiplied by 2: 48 × 2 = 96.",
+    "explanation": "'All but 9' means exactly 9 sheep remained on the farm.",
     "tags": [
       "iq-logic",
-      "pattern-sequences",
+      "lateral-thinking",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "iq-logic-spatial-reasoning-0122",
+    "id": "iq-logic-lateral-thinking-0122",
     "category": "IQ & Logic",
-    "subcategory": "Spatial Reasoning",
+    "subcategory": "Lateral Thinking",
     "difficulty": "medium",
-    "question": "Logic and analytical reasoning: Consider the premises: 'All dogs are mammals. All mammals are warm-blooded.' What valid conclusion follows logically? (Ref #122)",
+    "question": "How many months in a standard calendar year have 28 days?",
     "options": [
-      "All warm-blooded animals are dogs",
-      "All dogs are warm-blooded",
-      "Some dogs are not mammals",
-      "No mammals are dogs"
+      "Only 1 month",
+      "All 12 months",
+      "2 months",
+      "6 months"
     ],
     "correctAnswer": 1,
-    "explanation": "By classical categorical syllogism (Barbara format: All A are B, all B are C), it follows that all A are C.",
+    "explanation": "Every month has at least 28 days; February has 28 (or 29), while others have 30 or 31.",
     "tags": [
       "iq-logic",
-      "spatial-reasoning",
+      "lateral-thinking",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "iq-logic-logical-deductions-0123",
+    "id": "iq-logic-lateral-thinking-0123",
     "category": "IQ & Logic",
-    "subcategory": "Logical Deductions",
+    "subcategory": "Lateral Thinking",
     "difficulty": "hard",
-    "question": "Logic and analytical reasoning: What is the next number in the Fibonacci sequence: 1, 1, 2, 3, 5, 8, 13, ___? (Ref #123)",
+    "question": "What can you catch but never throw?",
     "options": [
-      "18",
-      "20",
-      "21",
-      "24"
+      "A baseball",
+      "A frisbee",
+      "A cold",
+      "A fishing hook"
     ],
     "correctAnswer": 2,
-    "explanation": "In the Fibonacci sequence, each number is the sum of the two preceding ones: 8 + 13 = 21.",
+    "explanation": "A classic wordplay riddle: you can 'catch a cold', but you cannot throw it.",
     "tags": [
       "iq-logic",
-      "logical-deductions",
+      "lateral-thinking",
       "hard"
     ],
     "active": true
@@ -2587,15 +2587,15 @@
     "category": "IQ & Logic",
     "subcategory": "Lateral Thinking",
     "difficulty": "easy",
-    "question": "Logic and analytical reasoning: If 5 machines take exactly 5 minutes to manufacture 5 widgets, how many minutes would it take 100 machines to manufacture 100 widgets? (Ref #124)",
+    "question": "What has hands and a face, but no arms or legs?",
     "options": [
-      "100 minutes",
-      "20 minutes",
-      "50 minutes",
-      "5 minutes"
+      "A doll",
+      "A mirror",
+      "A portrait",
+      "A clock"
     ],
     "correctAnswer": 3,
-    "explanation": "Each individual machine takes 5 minutes to complete one widget; running 100 machines in parallel produces 100 widgets in 5 minutes.",
+    "explanation": "An analog clock has an hour/minute hand and a dial face.",
     "tags": [
       "iq-logic",
       "lateral-thinking",
@@ -2604,64 +2604,64 @@
     "active": true
   },
   {
-    "id": "iq-logic-pattern-sequences-0125",
+    "id": "iq-logic-lateral-thinking-0125",
     "category": "IQ & Logic",
-    "subcategory": "Pattern Sequences",
+    "subcategory": "Lateral Thinking",
     "difficulty": "medium",
-    "question": "Logic and analytical reasoning: Complete the analogy: Book is to Reading as Fork is to ___? (Ref #125)",
+    "question": "What gets wetter the more it dries?",
     "options": [
-      "Eating",
-      "Cooking",
-      "Sharpening",
-      "Baking"
+      "A towel",
+      "A sponge",
+      "A cloud",
+      "A waterfall"
     ],
     "correctAnswer": 0,
-    "explanation": "A book is an instrument used primarily for reading; a fork is an instrument used primarily for eating.",
+    "explanation": "As a towel dries water off your body, the towel itself absorbs moisture and becomes wetter.",
     "tags": [
       "iq-logic",
-      "pattern-sequences",
+      "lateral-thinking",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "iq-logic-spatial-reasoning-0126",
+    "id": "iq-logic-lateral-thinking-0126",
     "category": "IQ & Logic",
-    "subcategory": "Spatial Reasoning",
+    "subcategory": "Lateral Thinking",
     "difficulty": "hard",
-    "question": "Logic and analytical reasoning: What is the next logical number in the numeric sequence: 3, 6, 12, 24, 48, ___? (Ref #126)",
+    "question": "What belongs to you, but other people use it much more often than you do?",
     "options": [
-      "72",
-      "96 (each term doubles)",
-      "84",
-      "102"
+      "Your phone",
+      "Your name",
+      "Your car",
+      "Your money"
     ],
     "correctAnswer": 1,
-    "explanation": "Each consecutive term in this geometric sequence is multiplied by 2: 48 × 2 = 96.",
+    "explanation": "Other people address you by your name constantly.",
     "tags": [
       "iq-logic",
-      "spatial-reasoning",
+      "lateral-thinking",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "iq-logic-logical-deductions-0127",
+    "id": "iq-logic-lateral-thinking-0127",
     "category": "IQ & Logic",
-    "subcategory": "Logical Deductions",
+    "subcategory": "Lateral Thinking",
     "difficulty": "easy",
-    "question": "Logic and analytical reasoning: Consider the premises: 'All dogs are mammals. All mammals are warm-blooded.' What valid conclusion follows logically? (Ref #127)",
+    "question": "What goes up but never comes down?",
     "options": [
-      "All warm-blooded animals are dogs",
-      "Some dogs are not mammals",
-      "All dogs are warm-blooded",
-      "No mammals are dogs"
+      "A balloon",
+      "Smoke",
+      "Your age",
+      "An airplane"
     ],
     "correctAnswer": 2,
-    "explanation": "By classical categorical syllogism (Barbara format: All A are B, all B are C), it follows that all A are C.",
+    "explanation": "Chronological age continuously increases and cannot decrease.",
     "tags": [
       "iq-logic",
-      "logical-deductions",
+      "lateral-thinking",
       "easy"
     ],
     "active": true
@@ -2671,15 +2671,15 @@
     "category": "IQ & Logic",
     "subcategory": "Lateral Thinking",
     "difficulty": "medium",
-    "question": "Logic and analytical reasoning: What is the next number in the Fibonacci sequence: 1, 1, 2, 3, 5, 8, 13, ___? (Ref #128)",
+    "question": "If you are running in a race and you pass the person in second place, what place are you in?",
     "options": [
-      "18",
-      "20",
-      "24",
-      "21"
+      "First place",
+      "Third place",
+      "Cannot be determined",
+      "Second place"
     ],
     "correctAnswer": 3,
-    "explanation": "In the Fibonacci sequence, each number is the sum of the two preceding ones: 8 + 13 = 21.",
+    "explanation": "By overtaking the second-place runner, you assume their former position: second place.",
     "tags": [
       "iq-logic",
       "lateral-thinking",
@@ -2688,64 +2688,64 @@
     "active": true
   },
   {
-    "id": "iq-logic-pattern-sequences-0129",
+    "id": "iq-logic-lateral-thinking-0129",
     "category": "IQ & Logic",
-    "subcategory": "Pattern Sequences",
+    "subcategory": "Lateral Thinking",
     "difficulty": "hard",
-    "question": "Logic and analytical reasoning: If 5 machines take exactly 5 minutes to manufacture 5 widgets, how many minutes would it take 100 machines to manufacture 100 widgets? (Ref #129)",
+    "question": "What has a neck but no head?",
     "options": [
-      "5 minutes",
-      "100 minutes",
-      "20 minutes",
-      "50 minutes"
+      "A bottle",
+      "A giraffe",
+      "A shirt",
+      "A guitar"
     ],
     "correctAnswer": 0,
-    "explanation": "Each individual machine takes 5 minutes to complete one widget; running 100 machines in parallel produces 100 widgets in 5 minutes.",
+    "explanation": "A glass bottle has a narrow cylindrical neck and a mouth, but no head.",
     "tags": [
       "iq-logic",
-      "pattern-sequences",
+      "lateral-thinking",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "iq-logic-spatial-reasoning-0130",
+    "id": "iq-logic-lateral-thinking-0130",
     "category": "IQ & Logic",
-    "subcategory": "Spatial Reasoning",
+    "subcategory": "Lateral Thinking",
     "difficulty": "easy",
-    "question": "Logic and analytical reasoning: Complete the analogy: Book is to Reading as Fork is to ___? (Ref #130)",
+    "question": "What has many keys but cannot unlock a single door?",
     "options": [
-      "Cooking",
-      "Eating",
-      "Sharpening",
-      "Baking"
+      "A locksmith",
+      "A piano",
+      "A keychain",
+      "A computer keyboard"
     ],
     "correctAnswer": 1,
-    "explanation": "A book is an instrument used primarily for reading; a fork is an instrument used primarily for eating.",
+    "explanation": "Musical pianos have 88 keys that produce sound, not mechanical locks.",
     "tags": [
       "iq-logic",
-      "spatial-reasoning",
+      "lateral-thinking",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "iq-logic-logical-deductions-0131",
+    "id": "iq-logic-lateral-thinking-0131",
     "category": "IQ & Logic",
-    "subcategory": "Logical Deductions",
+    "subcategory": "Lateral Thinking",
     "difficulty": "medium",
-    "question": "Logic and analytical reasoning: What is the next logical number in the numeric sequence: 3, 6, 12, 24, 48, ___? (Ref #131)",
+    "question": "What has one eye but cannot see anything?",
     "options": [
-      "72",
-      "84",
-      "96 (each term doubles)",
-      "102"
+      "A potato",
+      "A hurricane",
+      "A needle",
+      "A storm"
     ],
     "correctAnswer": 2,
-    "explanation": "Each consecutive term in this geometric sequence is multiplied by 2: 48 × 2 = 96.",
+    "explanation": "A sewing needle has an 'eye' for threading thread.",
     "tags": [
       "iq-logic",
-      "logical-deductions",
+      "lateral-thinking",
       "medium"
     ],
     "active": true
@@ -2755,15 +2755,15 @@
     "category": "IQ & Logic",
     "subcategory": "Lateral Thinking",
     "difficulty": "hard",
-    "question": "Logic and analytical reasoning: Consider the premises: 'All dogs are mammals. All mammals are warm-blooded.' What valid conclusion follows logically? (Ref #132)",
+    "question": "What can travel around the world while staying in the exact same corner?",
     "options": [
-      "All warm-blooded animals are dogs",
-      "Some dogs are not mammals",
-      "No mammals are dogs",
-      "All dogs are warm-blooded"
+      "An envelope",
+      "A postcard",
+      "A passport",
+      "A postage stamp"
     ],
     "correctAnswer": 3,
-    "explanation": "By classical categorical syllogism (Barbara format: All A are B, all B are C), it follows that all A are C.",
+    "explanation": "A postage stamp is affixed to the upper right corner of an envelope as it travels across the globe.",
     "tags": [
       "iq-logic",
       "lateral-thinking",
@@ -2772,64 +2772,64 @@
     "active": true
   },
   {
-    "id": "iq-logic-pattern-sequences-0133",
+    "id": "iq-logic-lateral-thinking-0133",
     "category": "IQ & Logic",
-    "subcategory": "Pattern Sequences",
+    "subcategory": "Lateral Thinking",
     "difficulty": "easy",
-    "question": "Logic and analytical reasoning: What is the next number in the Fibonacci sequence: 1, 1, 2, 3, 5, 8, 13, ___? (Ref #133)",
+    "question": "What has teeth but cannot bite or chew?",
     "options": [
-      "21",
-      "18",
-      "20",
-      "24"
+      "A comb",
+      "A saw",
+      "A zipper",
+      "A gear"
     ],
     "correctAnswer": 0,
-    "explanation": "In the Fibonacci sequence, each number is the sum of the two preceding ones: 8 + 13 = 21.",
+    "explanation": "A hair comb has teeth used for grooming.",
     "tags": [
       "iq-logic",
-      "pattern-sequences",
+      "lateral-thinking",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "iq-logic-spatial-reasoning-0134",
+    "id": "iq-logic-lateral-thinking-0134",
     "category": "IQ & Logic",
-    "subcategory": "Spatial Reasoning",
+    "subcategory": "Lateral Thinking",
     "difficulty": "medium",
-    "question": "Logic and analytical reasoning: If 5 machines take exactly 5 minutes to manufacture 5 widgets, how many minutes would it take 100 machines to manufacture 100 widgets? (Ref #134)",
+    "question": "What has a thumb and four fingers, but is not alive and has no flesh?",
     "options": [
-      "100 minutes",
-      "5 minutes",
-      "20 minutes",
-      "50 minutes"
+      "A robot hand",
+      "A glove",
+      "A skeleton",
+      "A puppet"
     ],
     "correctAnswer": 1,
-    "explanation": "Each individual machine takes 5 minutes to complete one widget; running 100 machines in parallel produces 100 widgets in 5 minutes.",
+    "explanation": "A standard clothing glove features five fingers including a thumb.",
     "tags": [
       "iq-logic",
-      "spatial-reasoning",
+      "lateral-thinking",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "iq-logic-logical-deductions-0135",
+    "id": "iq-logic-lateral-thinking-0135",
     "category": "IQ & Logic",
-    "subcategory": "Logical Deductions",
+    "subcategory": "Lateral Thinking",
     "difficulty": "hard",
-    "question": "Logic and analytical reasoning: Complete the analogy: Book is to Reading as Fork is to ___? (Ref #135)",
+    "question": "What begins with an 'E', ends with an 'E', but usually contains only one letter?",
     "options": [
-      "Cooking",
-      "Sharpening",
-      "Eating",
-      "Baking"
+      "An eye",
+      "An eagle",
+      "An envelope",
+      "An engine"
     ],
     "correctAnswer": 2,
-    "explanation": "A book is an instrument used primarily for reading; a fork is an instrument used primarily for eating.",
+    "explanation": "An envelope spells with E's at both ends and holds a written postal letter.",
     "tags": [
       "iq-logic",
-      "logical-deductions",
+      "lateral-thinking",
       "hard"
     ],
     "active": true
@@ -2839,15 +2839,15 @@
     "category": "IQ & Logic",
     "subcategory": "Lateral Thinking",
     "difficulty": "easy",
-    "question": "Logic and analytical reasoning: What is the next logical number in the numeric sequence: 3, 6, 12, 24, 48, ___? (Ref #136)",
+    "question": "What word in the dictionary is spelled incorrectly?",
     "options": [
-      "72",
-      "84",
-      "102",
-      "96 (each term doubles)"
+      "Misspelled",
+      "Wrongly",
+      "Erroneous",
+      "Incorrectly"
     ],
     "correctAnswer": 3,
-    "explanation": "Each consecutive term in this geometric sequence is multiplied by 2: 48 × 2 = 96.",
+    "explanation": "The word 'incorrectly' is literally spelled i-n-c-o-r-r-e-c-t-l-y.",
     "tags": [
       "iq-logic",
       "lateral-thinking",
@@ -2856,64 +2856,64 @@
     "active": true
   },
   {
-    "id": "iq-logic-pattern-sequences-0137",
+    "id": "iq-logic-lateral-thinking-0137",
     "category": "IQ & Logic",
-    "subcategory": "Pattern Sequences",
+    "subcategory": "Lateral Thinking",
     "difficulty": "medium",
-    "question": "Logic and analytical reasoning: Consider the premises: 'All dogs are mammals. All mammals are warm-blooded.' What valid conclusion follows logically? (Ref #137)",
+    "question": "If an electric train is traveling north at 60 mph and the wind is blowing west at 20 mph, which way does the smoke blow?",
     "options": [
-      "All dogs are warm-blooded",
-      "All warm-blooded animals are dogs",
-      "Some dogs are not mammals",
-      "No mammals are dogs"
+      "There is no smoke because it is an electric train",
+      "North",
+      "West",
+      "Southwest"
     ],
     "correctAnswer": 0,
-    "explanation": "By classical categorical syllogism (Barbara format: All A are B, all B are C), it follows that all A are C.",
+    "explanation": "Electric trains run on electricity and emit zero smoke.",
     "tags": [
       "iq-logic",
-      "pattern-sequences",
+      "lateral-thinking",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "iq-logic-spatial-reasoning-0138",
+    "id": "iq-logic-lateral-thinking-0138",
     "category": "IQ & Logic",
-    "subcategory": "Spatial Reasoning",
+    "subcategory": "Lateral Thinking",
     "difficulty": "hard",
-    "question": "Logic and analytical reasoning: What is the next number in the Fibonacci sequence: 1, 1, 2, 3, 5, 8, 13, ___? (Ref #138)",
+    "question": "What can fill an entire room without taking up any physical space?",
     "options": [
-      "18",
-      "21",
-      "20",
-      "24"
+      "Air",
+      "Light",
+      "Sound",
+      "Furniture"
     ],
     "correctAnswer": 1,
-    "explanation": "In the Fibonacci sequence, each number is the sum of the two preceding ones: 8 + 13 = 21.",
+    "explanation": "Photons of light illuminate a volume without displacing solid matter.",
     "tags": [
       "iq-logic",
-      "spatial-reasoning",
+      "lateral-thinking",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "iq-logic-logical-deductions-0139",
+    "id": "iq-logic-lateral-thinking-0139",
     "category": "IQ & Logic",
-    "subcategory": "Logical Deductions",
+    "subcategory": "Lateral Thinking",
     "difficulty": "easy",
-    "question": "Logic and analytical reasoning: If 5 machines take exactly 5 minutes to manufacture 5 widgets, how many minutes would it take 100 machines to manufacture 100 widgets? (Ref #139)",
+    "question": "What has legs but cannot walk?",
     "options": [
-      "100 minutes",
-      "20 minutes",
-      "5 minutes",
-      "50 minutes"
+      "A dog",
+      "A chair",
+      "A table",
+      "A stool"
     ],
     "correctAnswer": 2,
-    "explanation": "Each individual machine takes 5 minutes to complete one widget; running 100 machines in parallel produces 100 widgets in 5 minutes.",
+    "explanation": "Furniture like tables and chairs have support legs but cannot ambulate.",
     "tags": [
       "iq-logic",
-      "logical-deductions",
+      "lateral-thinking",
       "easy"
     ],
     "active": true
@@ -2923,15 +2923,15 @@
     "category": "IQ & Logic",
     "subcategory": "Lateral Thinking",
     "difficulty": "medium",
-    "question": "Logic and analytical reasoning: Complete the analogy: Book is to Reading as Fork is to ___? (Ref #140)",
+    "question": "What can you break without ever touching or picking it up?",
     "options": [
-      "Cooking",
-      "Sharpening",
-      "Baking",
-      "Eating"
+      "A window",
+      "A bone",
+      "A plate",
+      "A promise"
     ],
     "correctAnswer": 3,
-    "explanation": "A book is an instrument used primarily for reading; a fork is an instrument used primarily for eating.",
+    "explanation": "You can break an intangible oath, trust, or promise through your actions.",
     "tags": [
       "iq-logic",
       "lateral-thinking",
@@ -2940,64 +2940,64 @@
     "active": true
   },
   {
-    "id": "iq-logic-pattern-sequences-0141",
+    "id": "iq-logic-lateral-thinking-0141",
     "category": "IQ & Logic",
-    "subcategory": "Pattern Sequences",
+    "subcategory": "Lateral Thinking",
     "difficulty": "hard",
-    "question": "Logic and analytical reasoning: What is the next logical number in the numeric sequence: 3, 6, 12, 24, 48, ___? (Ref #141)",
+    "question": "What comes once in a minute, twice in a moment, but never in a thousand years?",
     "options": [
-      "96 (each term doubles)",
-      "72",
-      "84",
-      "102"
+      "The letter 'M'",
+      "A second",
+      "An hour",
+      "The sun"
     ],
     "correctAnswer": 0,
-    "explanation": "Each consecutive term in this geometric sequence is multiplied by 2: 48 × 2 = 96.",
+    "explanation": "The letter 'm' appears once in 'minute', twice in 'moment', and zero times in 'thousand years'.",
     "tags": [
       "iq-logic",
-      "pattern-sequences",
+      "lateral-thinking",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "iq-logic-spatial-reasoning-0142",
+    "id": "iq-logic-lateral-thinking-0142",
     "category": "IQ & Logic",
-    "subcategory": "Spatial Reasoning",
+    "subcategory": "Lateral Thinking",
     "difficulty": "easy",
-    "question": "Logic and analytical reasoning: Consider the premises: 'All dogs are mammals. All mammals are warm-blooded.' What valid conclusion follows logically? (Ref #142)",
+    "question": "What is so fragile that saying its name breaks it?",
     "options": [
-      "All warm-blooded animals are dogs",
-      "All dogs are warm-blooded",
-      "Some dogs are not mammals",
-      "No mammals are dogs"
+      "Glass",
+      "Silence",
+      "A secret",
+      "A bubble"
     ],
     "correctAnswer": 1,
-    "explanation": "By classical categorical syllogism (Barbara format: All A are B, all B are C), it follows that all A are C.",
+    "explanation": "Uttering any sound immediately ends silence.",
     "tags": [
       "iq-logic",
-      "spatial-reasoning",
+      "lateral-thinking",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "iq-logic-logical-deductions-0143",
+    "id": "iq-logic-lateral-thinking-0143",
     "category": "IQ & Logic",
-    "subcategory": "Logical Deductions",
+    "subcategory": "Lateral Thinking",
     "difficulty": "medium",
-    "question": "Logic and analytical reasoning: What is the next number in the Fibonacci sequence: 1, 1, 2, 3, 5, 8, 13, ___? (Ref #143)",
+    "question": "What has words, but never speaks?",
     "options": [
-      "18",
-      "20",
-      "21",
-      "24"
+      "A radio",
+      "A mime",
+      "A book",
+      "A parrot"
     ],
     "correctAnswer": 2,
-    "explanation": "In the Fibonacci sequence, each number is the sum of the two preceding ones: 8 + 13 = 21.",
+    "explanation": "Printed books contain written words without vocal apparatus.",
     "tags": [
       "iq-logic",
-      "logical-deductions",
+      "lateral-thinking",
       "medium"
     ],
     "active": true
@@ -3007,15 +3007,15 @@
     "category": "IQ & Logic",
     "subcategory": "Lateral Thinking",
     "difficulty": "hard",
-    "question": "Logic and analytical reasoning: If 5 machines take exactly 5 minutes to manufacture 5 widgets, how many minutes would it take 100 machines to manufacture 100 widgets? (Ref #144)",
+    "question": "What can run, but never walks; has a bed, but never sleeps; has a mouth, but never talks?",
     "options": [
-      "100 minutes",
-      "20 minutes",
-      "50 minutes",
-      "5 minutes"
+      "A clock",
+      "A car",
+      "A computer",
+      "A river"
     ],
     "correctAnswer": 3,
-    "explanation": "Each individual machine takes 5 minutes to complete one widget; running 100 machines in parallel produces 100 widgets in 5 minutes.",
+    "explanation": "A river runs downstream, rests in a riverbed, and empties at its river mouth.",
     "tags": [
       "iq-logic",
       "lateral-thinking",
@@ -3024,64 +3024,64 @@
     "active": true
   },
   {
-    "id": "iq-logic-pattern-sequences-0145",
+    "id": "iq-logic-lateral-thinking-0145",
     "category": "IQ & Logic",
-    "subcategory": "Pattern Sequences",
+    "subcategory": "Lateral Thinking",
     "difficulty": "easy",
-    "question": "Logic and analytical reasoning: Complete the analogy: Book is to Reading as Fork is to ___? (Ref #145)",
+    "question": "What has a head and a tail, but no body?",
     "options": [
-      "Eating",
-      "Cooking",
-      "Sharpening",
-      "Baking"
+      "A coin",
+      "A snake",
+      "A comet",
+      "A kite"
     ],
     "correctAnswer": 0,
-    "explanation": "A book is an instrument used primarily for reading; a fork is an instrument used primarily for eating.",
+    "explanation": "A metal coin has 'heads' on the obverse and 'tails' on the reverse.",
     "tags": [
       "iq-logic",
-      "pattern-sequences",
+      "lateral-thinking",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "iq-logic-spatial-reasoning-0146",
+    "id": "iq-logic-lateral-thinking-0146",
     "category": "IQ & Logic",
-    "subcategory": "Spatial Reasoning",
+    "subcategory": "Lateral Thinking",
     "difficulty": "medium",
-    "question": "Logic and analytical reasoning: What is the next logical number in the numeric sequence: 3, 6, 12, 24, 48, ___? (Ref #146)",
+    "question": "If there are three apples and you take away two, how many apples do you have?",
     "options": [
-      "72",
-      "96 (each term doubles)",
-      "84",
-      "102"
+      "1 apple",
+      "2 apples",
+      "3 apples",
+      "0 apples"
     ],
     "correctAnswer": 1,
-    "explanation": "Each consecutive term in this geometric sequence is multiplied by 2: 48 × 2 = 96.",
+    "explanation": "You took 2 apples, so you have the 2 apples you took.",
     "tags": [
       "iq-logic",
-      "spatial-reasoning",
+      "lateral-thinking",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "iq-logic-logical-deductions-0147",
+    "id": "iq-logic-lateral-thinking-0147",
     "category": "IQ & Logic",
-    "subcategory": "Logical Deductions",
+    "subcategory": "Lateral Thinking",
     "difficulty": "hard",
-    "question": "Logic and analytical reasoning: Consider the premises: 'All dogs are mammals. All mammals are warm-blooded.' What valid conclusion follows logically? (Ref #147)",
+    "question": "A plane crashes exactly on the border between the US and Canada. Where do they bury the survivors?",
     "options": [
-      "All warm-blooded animals are dogs",
-      "Some dogs are not mammals",
-      "All dogs are warm-blooded",
-      "No mammals are dogs"
+      "In the US",
+      "In Canada",
+      "You do not bury survivors",
+      "On the border"
     ],
     "correctAnswer": 2,
-    "explanation": "By classical categorical syllogism (Barbara format: All A are B, all B are C), it follows that all A are C.",
+    "explanation": "Survivors are living persons; they are not buried.",
     "tags": [
       "iq-logic",
-      "logical-deductions",
+      "lateral-thinking",
       "hard"
     ],
     "active": true
@@ -3091,15 +3091,15 @@
     "category": "IQ & Logic",
     "subcategory": "Lateral Thinking",
     "difficulty": "easy",
-    "question": "Logic and analytical reasoning: What is the next number in the Fibonacci sequence: 1, 1, 2, 3, 5, 8, 13, ___? (Ref #148)",
+    "question": "What gets sharper the more you use it?",
     "options": [
-      "18",
-      "20",
-      "24",
-      "21"
+      "A pencil",
+      "A kitchen knife",
+      "A scissors",
+      "Your brain"
     ],
     "correctAnswer": 3,
-    "explanation": "In the Fibonacci sequence, each number is the sum of the two preceding ones: 8 + 13 = 21.",
+    "explanation": "Cognitive mental faculties improve and sharpen with frequent exercise.",
     "tags": [
       "iq-logic",
       "lateral-thinking",
@@ -3108,64 +3108,64 @@
     "active": true
   },
   {
-    "id": "iq-logic-pattern-sequences-0149",
+    "id": "iq-logic-lateral-thinking-0149",
     "category": "IQ & Logic",
-    "subcategory": "Pattern Sequences",
+    "subcategory": "Lateral Thinking",
     "difficulty": "medium",
-    "question": "Logic and analytical reasoning: If 5 machines take exactly 5 minutes to manufacture 5 widgets, how many minutes would it take 100 machines to manufacture 100 widgets? (Ref #149)",
+    "question": "How far can a dog run into the woods?",
     "options": [
-      "5 minutes",
-      "100 minutes",
-      "20 minutes",
-      "50 minutes"
+      "Halfway, because after that the dog is running out of the woods",
+      "All the way",
+      "Until it gets tired",
+      "1 mile"
     ],
     "correctAnswer": 0,
-    "explanation": "Each individual machine takes 5 minutes to complete one widget; running 100 machines in parallel produces 100 widgets in 5 minutes.",
+    "explanation": "Once the dog reaches the midpoint of the woods, it begins exiting the woods.",
     "tags": [
       "iq-logic",
-      "pattern-sequences",
+      "lateral-thinking",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "iq-logic-spatial-reasoning-0150",
+    "id": "iq-logic-lateral-thinking-0150",
     "category": "IQ & Logic",
-    "subcategory": "Spatial Reasoning",
+    "subcategory": "Lateral Thinking",
     "difficulty": "hard",
-    "question": "Logic and analytical reasoning: Complete the analogy: Book is to Reading as Fork is to ___? (Ref #150)",
+    "question": "What has an endless supply of holes, yet holds water?",
     "options": [
-      "Cooking",
-      "Eating",
-      "Sharpening",
-      "Baking"
+      "A strainer",
+      "A sponge",
+      "A net",
+      "A barrel"
     ],
     "correctAnswer": 1,
-    "explanation": "A book is an instrument used primarily for reading; a fork is an instrument used primarily for eating.",
+    "explanation": "A porous bath sponge retains liquid within its open cellular matrix.",
     "tags": [
       "iq-logic",
-      "spatial-reasoning",
+      "lateral-thinking",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "iq-logic-logical-deductions-0151",
+    "id": "iq-logic-lateral-thinking-0151",
     "category": "IQ & Logic",
-    "subcategory": "Logical Deductions",
+    "subcategory": "Lateral Thinking",
     "difficulty": "easy",
-    "question": "Logic and analytical reasoning: What is the next logical number in the numeric sequence: 3, 6, 12, 24, 48, ___? (Ref #151)",
+    "question": "Before Mount Everest was discovered, what was the highest mountain on Earth?",
     "options": [
-      "72",
-      "84",
-      "96 (each term doubles)",
-      "102"
+      "K2",
+      "Kangchenjunga",
+      "Mount Everest",
+      "Mont Blanc"
     ],
     "correctAnswer": 2,
-    "explanation": "Each consecutive term in this geometric sequence is multiplied by 2: 48 × 2 = 96.",
+    "explanation": "Mount Everest was still the tallest geographic mountain on Earth before humans discovered and surveyed it.",
     "tags": [
       "iq-logic",
-      "logical-deductions",
+      "lateral-thinking",
       "easy"
     ],
     "active": true
@@ -3175,15 +3175,15 @@
     "category": "IQ & Logic",
     "subcategory": "Lateral Thinking",
     "difficulty": "medium",
-    "question": "Logic and analytical reasoning: Consider the premises: 'All dogs are mammals. All mammals are warm-blooded.' What valid conclusion follows logically? (Ref #152)",
+    "question": "What weighs more: a pound of feathers or a pound of iron bricks?",
     "options": [
-      "All warm-blooded animals are dogs",
-      "Some dogs are not mammals",
-      "No mammals are dogs",
-      "All dogs are warm-blooded"
+      "A pound of iron bricks",
+      "A pound of feathers",
+      "It depends on humidity",
+      "They weigh the exact same amount (one pound each)"
     ],
     "correctAnswer": 3,
-    "explanation": "By classical categorical syllogism (Barbara format: All A are B, all B are C), it follows that all A are C.",
+    "explanation": "Both quantities specify an identical mass of exactly one pound.",
     "tags": [
       "iq-logic",
       "lateral-thinking",
@@ -3192,64 +3192,64 @@
     "active": true
   },
   {
-    "id": "iq-logic-pattern-sequences-0153",
+    "id": "iq-logic-lateral-thinking-0153",
     "category": "IQ & Logic",
-    "subcategory": "Pattern Sequences",
+    "subcategory": "Lateral Thinking",
     "difficulty": "hard",
-    "question": "Logic and analytical reasoning: What is the next number in the Fibonacci sequence: 1, 1, 2, 3, 5, 8, 13, ___? (Ref #153)",
+    "question": "Two fathers and two sons go fishing together. They catch 3 fish and each takes home one whole fish. How is this possible?",
     "options": [
-      "21",
-      "18",
-      "20",
-      "24"
+      "There are only 3 people: a grandfather, a father, and a son",
+      "One fish was cut in half",
+      "One person did not want a fish",
+      "They caught a 4th fish later"
     ],
     "correctAnswer": 0,
-    "explanation": "In the Fibonacci sequence, each number is the sum of the two preceding ones: 8 + 13 = 21.",
+    "explanation": "The father is both a son to the grandfather and a father to his own son, totaling 3 individuals.",
     "tags": [
       "iq-logic",
-      "pattern-sequences",
+      "lateral-thinking",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "iq-logic-spatial-reasoning-0154",
+    "id": "iq-logic-lateral-thinking-0154",
     "category": "IQ & Logic",
-    "subcategory": "Spatial Reasoning",
+    "subcategory": "Lateral Thinking",
     "difficulty": "easy",
-    "question": "Logic and analytical reasoning: If 5 machines take exactly 5 minutes to manufacture 5 widgets, how many minutes would it take 100 machines to manufacture 100 widgets? (Ref #154)",
+    "question": "What five-letter word becomes shorter when you add two letters to it?",
     "options": [
-      "100 minutes",
-      "5 minutes",
-      "20 minutes",
-      "50 minutes"
+      "Small",
+      "Short",
+      "Brief",
+      "Quick"
     ],
     "correctAnswer": 1,
-    "explanation": "Each individual machine takes 5 minutes to complete one widget; running 100 machines in parallel produces 100 widgets in 5 minutes.",
+    "explanation": "Adding '-er' to the word 'short' spells 'shorter'.",
     "tags": [
       "iq-logic",
-      "spatial-reasoning",
+      "lateral-thinking",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "iq-logic-logical-deductions-0155",
+    "id": "iq-logic-lateral-thinking-0155",
     "category": "IQ & Logic",
-    "subcategory": "Logical Deductions",
+    "subcategory": "Lateral Thinking",
     "difficulty": "medium",
-    "question": "Logic and analytical reasoning: Complete the analogy: Book is to Reading as Fork is to ___? (Ref #155)",
+    "question": "What invention lets you look right through a solid brick wall?",
     "options": [
-      "Cooking",
-      "Sharpening",
-      "Eating",
-      "Baking"
+      "X-rays",
+      "A periscope",
+      "A window",
+      "A mirror"
     ],
     "correctAnswer": 2,
-    "explanation": "A book is an instrument used primarily for reading; a fork is an instrument used primarily for eating.",
+    "explanation": "A glass window installed in a wall enables seeing through to the outside.",
     "tags": [
       "iq-logic",
-      "logical-deductions",
+      "lateral-thinking",
       "medium"
     ],
     "active": true
@@ -3259,15 +3259,15 @@
     "category": "IQ & Logic",
     "subcategory": "Lateral Thinking",
     "difficulty": "hard",
-    "question": "Logic and analytical reasoning: What is the next logical number in the numeric sequence: 3, 6, 12, 24, 48, ___? (Ref #156)",
+    "question": "What goes through cities and over mountains, but never moves an inch?",
     "options": [
-      "72",
-      "84",
-      "102",
-      "96 (each term doubles)"
+      "A train",
+      "The wind",
+      "The sun",
+      "A road"
     ],
     "correctAnswer": 3,
-    "explanation": "Each consecutive term in this geometric sequence is multiplied by 2: 48 × 2 = 96.",
+    "explanation": "Highways and roads traverse vast terrain while remaining stationary infrastructure.",
     "tags": [
       "iq-logic",
       "lateral-thinking",
@@ -3276,64 +3276,64 @@
     "active": true
   },
   {
-    "id": "iq-logic-pattern-sequences-0157",
+    "id": "iq-logic-lateral-thinking-0157",
     "category": "IQ & Logic",
-    "subcategory": "Pattern Sequences",
+    "subcategory": "Lateral Thinking",
     "difficulty": "easy",
-    "question": "Logic and analytical reasoning: Consider the premises: 'All dogs are mammals. All mammals are warm-blooded.' What valid conclusion follows logically? (Ref #157)",
+    "question": "What has a ring, but no finger?",
     "options": [
-      "All dogs are warm-blooded",
-      "All warm-blooded animals are dogs",
-      "Some dogs are not mammals",
-      "No mammals are dogs"
+      "A telephone",
+      "A bell",
+      "A planet",
+      "A circus"
     ],
     "correctAnswer": 0,
-    "explanation": "By classical categorical syllogism (Barbara format: All A are B, all B are C), it follows that all A are C.",
+    "explanation": "A telephone rings when receiving an incoming call.",
     "tags": [
       "iq-logic",
-      "pattern-sequences",
+      "lateral-thinking",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "iq-logic-spatial-reasoning-0158",
+    "id": "iq-logic-lateral-thinking-0158",
     "category": "IQ & Logic",
-    "subcategory": "Spatial Reasoning",
+    "subcategory": "Lateral Thinking",
     "difficulty": "medium",
-    "question": "Logic and analytical reasoning: What is the next number in the Fibonacci sequence: 1, 1, 2, 3, 5, 8, 13, ___? (Ref #158)",
+    "question": "What kind of room has no doors, windows, floor, or walls?",
     "options": [
-      "18",
-      "21",
-      "20",
-      "24"
+      "A vacuum",
+      "A mushroom",
+      "A darkroom",
+      "An attic"
     ],
     "correctAnswer": 1,
-    "explanation": "In the Fibonacci sequence, each number is the sum of the two preceding ones: 8 + 13 = 21.",
+    "explanation": "A mushroom is a fungal fruiting body, not an architectural room.",
     "tags": [
       "iq-logic",
-      "spatial-reasoning",
+      "lateral-thinking",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "iq-logic-logical-deductions-0159",
+    "id": "iq-logic-lateral-thinking-0159",
     "category": "IQ & Logic",
-    "subcategory": "Logical Deductions",
+    "subcategory": "Lateral Thinking",
     "difficulty": "hard",
-    "question": "Logic and analytical reasoning: If 5 machines take exactly 5 minutes to manufacture 5 widgets, how many minutes would it take 100 machines to manufacture 100 widgets? (Ref #159)",
+    "question": "What can you hold in your right hand, but never in your left hand?",
     "options": [
-      "100 minutes",
-      "20 minutes",
-      "5 minutes",
-      "50 minutes"
+      "A cup",
+      "A pencil",
+      "Your left hand or left elbow",
+      "A ball"
     ],
     "correctAnswer": 2,
-    "explanation": "Each individual machine takes 5 minutes to complete one widget; running 100 machines in parallel produces 100 widgets in 5 minutes.",
+    "explanation": "Your left hand cannot physically grasp itself.",
     "tags": [
       "iq-logic",
-      "logical-deductions",
+      "lateral-thinking",
       "hard"
     ],
     "active": true
@@ -3343,15 +3343,15 @@
     "category": "IQ & Logic",
     "subcategory": "Lateral Thinking",
     "difficulty": "easy",
-    "question": "Logic and analytical reasoning: Complete the analogy: Book is to Reading as Fork is to ___? (Ref #160)",
+    "question": "What begins with 'T', ends with 'T', and has 'T' inside it?",
     "options": [
-      "Cooking",
-      "Sharpening",
-      "Baking",
-      "Eating"
+      "A tent",
+      "A target",
+      "A toast",
+      "A teapot"
     ],
     "correctAnswer": 3,
-    "explanation": "A book is an instrument used primarily for reading; a fork is an instrument used primarily for eating.",
+    "explanation": "A 'teapot' starts with T, ends with T, and holds tea inside.",
     "tags": [
       "iq-logic",
       "lateral-thinking",

@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import type { QuestionReviewItem } from '../../types/quiz';
 import { Check, X, ChevronDown, ChevronUp, Lightbulb } from 'lucide-react';
+import { cleanQuestionText } from '../../data/questionBank';
 
 interface ReviewListProps {
   reviews: QuestionReviewItem[];
@@ -96,7 +97,7 @@ export const ReviewList: React.FC<ReviewListProps> = ({ reviews }) => {
                   </div>
 
                   <span style={{ fontWeight: 600, fontSize: '0.95rem', color: 'var(--color-text-primary)' }}>
-                    {idx + 1}. {item.question}
+                    {idx + 1}. {cleanQuestionText(item.question)}
                   </span>
                 </div>
 

@@ -210,82 +210,103 @@ export const CategoryDetailPage: React.FC = () => {
               <div style={{ display: 'flex', flexWrap: 'wrap', gap: 'var(--space-xl)', justifyContent: 'space-between', alignItems: 'flex-end' }}>
                 {/* Mode Selector */}
                 <div>
-                  <label style={{ display: 'block', fontSize: '0.85rem', fontWeight: 700, textTransform: 'uppercase', marginBottom: '8px', color: 'var(--color-text-muted)' }}>
+                  <label style={{ display: 'block', fontSize: '0.825rem', fontWeight: 800, textTransform: 'uppercase', marginBottom: '8px', color: 'var(--color-text-muted)', letterSpacing: '0.04em' }}>
                     Select Quiz Mode
                   </label>
                   <div style={{ display: 'flex', flexWrap: 'wrap', gap: '8px' }}>
-                    {(['classic', 'quick', 'practice', 'timed', 'endless'] as QuizMode[]).map(mode => (
-                      <button
-                        key={mode}
-                        type="button"
-                        onClick={() => {
-                          setSelectedMode(mode);
-                          if (mode === 'classic') setSelectedCount(10);
-                          else if (mode === 'quick') setSelectedCount(5);
-                          else if (mode === 'practice') setSelectedCount(20);
-                          else if (mode === 'timed') setSelectedCount(10);
-                          else if (mode === 'endless') setSelectedCount(category.questionCount > 0 ? category.questionCount : 50);
-                        }}
-                        style={{
-                          padding: '8px 16px',
-                          borderRadius: 'var(--radius-full)',
-                          fontSize: '0.85rem',
-                          fontWeight: 600,
-                          backgroundColor: selectedMode === mode ? 'var(--color-primary)' : 'var(--color-bg)',
-                          color: selectedMode === mode ? '#FFFFFF' : 'var(--color-text-primary)',
-                          border: `1px solid ${selectedMode === mode ? 'var(--color-primary)' : 'var(--color-border)'}`,
-                          transition: 'all var(--transition-fast)',
-                          textTransform: 'capitalize'
-                        }}
-                      >
-                        {mode === 'classic' && 'Classic (10q)'}
-                        {mode === 'quick' && 'Quick (5q)'}
-                        {mode === 'practice' && 'Practice (20q)'}
-                        {mode === 'timed' && 'Timed (20s)'}
-                        {mode === 'endless' && 'Endless (All)'}
-                      </button>
-                    ))}
+                    {(['classic', 'quick', 'practice', 'timed', 'endless'] as QuizMode[]).map(mode => {
+                      const isActive = selectedMode === mode;
+                      return (
+                        <button
+                          key={mode}
+                          type="button"
+                          onClick={() => {
+                            setSelectedMode(mode);
+                            if (mode === 'classic') setSelectedCount(10);
+                            else if (mode === 'quick') setSelectedCount(5);
+                            else if (mode === 'practice') setSelectedCount(20);
+                            else if (mode === 'timed') setSelectedCount(10);
+                            else if (mode === 'endless') setSelectedCount(category.questionCount > 0 ? category.questionCount : 50);
+                          }}
+                          className="hover-lift"
+                          style={{
+                            padding: '8px 18px',
+                            borderRadius: 'var(--radius-full)',
+                            fontSize: '0.85rem',
+                            fontWeight: 700,
+                            letterSpacing: '0.02em',
+                            backgroundColor: isActive ? 'var(--color-primary)' : 'var(--color-surface)',
+                            color: isActive ? '#FFFFFF' : 'var(--color-text-primary)',
+                            border: `1.5px solid ${isActive ? 'var(--color-primary)' : 'var(--color-border)'}`,
+                            boxShadow: isActive ? '0 4px 14px rgba(255, 107, 53, 0.35)' : 'none',
+                            transform: isActive ? 'scale(1.02)' : 'none',
+                            transition: 'all 0.25s cubic-bezier(0.4, 0, 0.2, 1)',
+                            cursor: 'pointer',
+                            textTransform: 'capitalize'
+                          }}
+                        >
+                          {mode === 'classic' && 'Classic (10q)'}
+                          {mode === 'quick' && 'Quick (5q)'}
+                          {mode === 'practice' && 'Practice (20q)'}
+                          {mode === 'timed' && 'Timed (20s)'}
+                          {mode === 'endless' && 'Endless (All)'}
+                        </button>
+                      );
+                    })}
                   </div>
                 </div>
 
-                {/* Question Count Selector */}
+                {/* Question Count Selector (without 25q) */}
                 <div>
-                  <label style={{ display: 'block', fontSize: '0.85rem', fontWeight: 700, textTransform: 'uppercase', marginBottom: '8px', color: 'var(--color-text-muted)' }}>
+                  <label style={{ display: 'block', fontSize: '0.825rem', fontWeight: 800, textTransform: 'uppercase', marginBottom: '8px', color: 'var(--color-text-muted)', letterSpacing: '0.04em' }}>
                     Questions to Play
                   </label>
                   <div style={{ display: 'flex', flexWrap: 'wrap', gap: '8px' }}>
-                    {[5, 10, 15, 20, 25].map(cnt => (
-                      <button
-                        key={cnt}
-                        type="button"
-                        onClick={() => setSelectedCount(cnt)}
-                        style={{
-                          padding: '8px 14px',
-                          borderRadius: 'var(--radius-full)',
-                          fontSize: '0.85rem',
-                          fontWeight: 700,
-                          backgroundColor: selectedCount === cnt ? 'var(--color-primary)' : 'var(--color-bg)',
-                          color: selectedCount === cnt ? '#FFFFFF' : 'var(--color-text-primary)',
-                          border: `1.5px solid ${selectedCount === cnt ? 'var(--color-primary)' : 'var(--color-border)'}`,
-                          transition: 'all var(--transition-fast)'
-                        }}
-                      >
-                        {cnt} Qs
-                      </button>
-                    ))}
-                    {category.questionCount > 25 && (
+                    {[5, 10, 15, 20].map(cnt => {
+                      const isActive = selectedCount === cnt;
+                      return (
+                        <button
+                          key={cnt}
+                          type="button"
+                          onClick={() => setSelectedCount(cnt)}
+                          className="hover-lift"
+                          style={{
+                            padding: '8px 18px',
+                            borderRadius: 'var(--radius-full)',
+                            fontSize: '0.85rem',
+                            fontWeight: 700,
+                            letterSpacing: '0.02em',
+                            backgroundColor: isActive ? 'var(--color-primary)' : 'var(--color-surface)',
+                            color: isActive ? '#FFFFFF' : 'var(--color-text-primary)',
+                            border: `1.5px solid ${isActive ? 'var(--color-primary)' : 'var(--color-border)'}`,
+                            boxShadow: isActive ? '0 4px 14px rgba(255, 107, 53, 0.35)' : 'none',
+                            transform: isActive ? 'scale(1.02)' : 'none',
+                            transition: 'all 0.25s cubic-bezier(0.4, 0, 0.2, 1)',
+                            cursor: 'pointer'
+                          }}
+                        >
+                          {cnt} Qs
+                        </button>
+                      );
+                    })}
+                    {category.questionCount > 20 && (
                       <button
                         type="button"
                         onClick={() => setSelectedCount(category.questionCount)}
+                        className="hover-lift"
                         style={{
-                          padding: '8px 14px',
+                          padding: '8px 18px',
                           borderRadius: 'var(--radius-full)',
                           fontSize: '0.85rem',
                           fontWeight: 700,
-                          backgroundColor: selectedCount === category.questionCount ? 'var(--color-primary)' : 'var(--color-bg)',
+                          letterSpacing: '0.02em',
+                          backgroundColor: selectedCount === category.questionCount ? 'var(--color-primary)' : 'var(--color-surface)',
                           color: selectedCount === category.questionCount ? '#FFFFFF' : 'var(--color-text-primary)',
                           border: `1.5px solid ${selectedCount === category.questionCount ? 'var(--color-primary)' : 'var(--color-border)'}`,
-                          transition: 'all var(--transition-fast)'
+                          boxShadow: selectedCount === category.questionCount ? '0 4px 14px rgba(255, 107, 53, 0.35)' : 'none',
+                          transform: selectedCount === category.questionCount ? 'scale(1.02)' : 'none',
+                          transition: 'all 0.25s cubic-bezier(0.4, 0, 0.2, 1)',
+                          cursor: 'pointer'
                         }}
                       >
                         All ({category.questionCount})
@@ -294,32 +315,40 @@ export const CategoryDetailPage: React.FC = () => {
                   </div>
                 </div>
 
-                {/* Difficulty Selector */}
+                {/* Difficulty Selector (unified animated style) */}
                 <div>
-                  <label style={{ display: 'block', fontSize: '0.85rem', fontWeight: 700, textTransform: 'uppercase', marginBottom: '8px', color: 'var(--color-text-muted)' }}>
+                  <label style={{ display: 'block', fontSize: '0.825rem', fontWeight: 800, textTransform: 'uppercase', marginBottom: '8px', color: 'var(--color-text-muted)', letterSpacing: '0.04em' }}>
                     Difficulty Level
                   </label>
                   <div style={{ display: 'flex', gap: '8px' }}>
-                    {(['easy', 'medium', 'hard', 'mixed'] as Difficulty[]).map(diff => (
-                      <button
-                        key={diff}
-                        type="button"
-                        onClick={() => setSelectedDifficulty(diff)}
-                        style={{
-                          padding: '8px 14px',
-                          borderRadius: 'var(--radius-full)',
-                          fontSize: '0.85rem',
-                          fontWeight: 600,
-                          backgroundColor: selectedDifficulty === diff ? 'var(--color-secondary)' : 'var(--color-bg)',
-                          color: selectedDifficulty === diff ? '#FFFFFF' : 'var(--color-text-primary)',
-                          border: `1px solid ${selectedDifficulty === diff ? 'var(--color-secondary)' : 'var(--color-border)'}`,
-                          transition: 'all var(--transition-fast)',
-                          textTransform: 'capitalize'
-                        }}
-                      >
-                        {diff}
-                      </button>
-                    ))}
+                    {(['easy', 'medium', 'hard', 'mixed'] as Difficulty[]).map(diff => {
+                      const isActive = selectedDifficulty === diff;
+                      return (
+                        <button
+                          key={diff}
+                          type="button"
+                          onClick={() => setSelectedDifficulty(diff)}
+                          className="hover-lift"
+                          style={{
+                            padding: '8px 18px',
+                            borderRadius: 'var(--radius-full)',
+                            fontSize: '0.85rem',
+                            fontWeight: 700,
+                            letterSpacing: '0.02em',
+                            backgroundColor: isActive ? 'var(--color-primary)' : 'var(--color-surface)',
+                            color: isActive ? '#FFFFFF' : 'var(--color-text-primary)',
+                            border: `1.5px solid ${isActive ? 'var(--color-primary)' : 'var(--color-border)'}`,
+                            boxShadow: isActive ? '0 4px 14px rgba(255, 107, 53, 0.35)' : 'none',
+                            transform: isActive ? 'scale(1.02)' : 'none',
+                            transition: 'all 0.25s cubic-bezier(0.4, 0, 0.2, 1)',
+                            cursor: 'pointer',
+                            textTransform: 'capitalize'
+                          }}
+                        >
+                          {diff}
+                        </button>
+                      );
+                    })}
                   </div>
                 </div>
 

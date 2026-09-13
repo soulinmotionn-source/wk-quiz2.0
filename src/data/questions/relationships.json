@@ -4,15 +4,15 @@
     "category": "Relationships",
     "subcategory": "Communication",
     "difficulty": "easy",
-    "question": "In healthy relationship dynamics and interpersonal communication: Why are 'I' statements favored over 'You' statements in constructive relationship communication? (Ref #1)",
+    "question": "What communication technique involves fully concentrating, understanding, responding, and remembering what the other person is saying?",
     "options": [
-      "They express personal feelings and needs without triggering defensive reactions or placing blame",
-      "They ensure one partner always dominates the discussion",
-      "They avoid discussing difficult emotional topics altogether",
-      "They demand immediate compliance from the partner"
+      "Active Listening",
+      "Passive Hearing",
+      "Selective Hearing",
+      "Defensive Listening"
     ],
     "correctAnswer": 0,
-    "explanation": "'I' statements (e.g., 'I feel overwhelmed when...') take ownership of feelings rather than accusing the partner, reducing conflict escalation.",
+    "explanation": "Active listening involves verbal and non-verbal feedback (nodding, summarizing, asking clarifying questions) without interrupting.",
     "tags": [
       "relationships",
       "communication",
@@ -21,64 +21,64 @@
     "active": true
   },
   {
-    "id": "relationships-conflict-resolution-0002",
+    "id": "relationships-communication-0002",
     "category": "Relationships",
-    "subcategory": "Conflict Resolution",
+    "subcategory": "Communication",
     "difficulty": "medium",
-    "question": "In healthy relationship dynamics and interpersonal communication: What is the core distinction between empathy and sympathy in emotional intelligence? (Ref #2)",
+    "question": "What communication model by Marshall Rosenberg emphasizes expressing feelings, universal needs, and concrete requests without blaming?",
     "options": [
-      "Sympathy requires sharing identical life experiences, whereas empathy is superficial polite agreement",
-      "Empathy means genuinely understanding and feeling another person's perspective, while sympathy is feeling pity from a detached viewpoint",
-      "Empathy is only practiced between family members, while sympathy is for strangers",
-      "There is no psychological difference between the two terms"
+      "Transactional Analysis",
+      "Nonviolent Communication (NVC)",
+      "Assertiveness Training",
+      "Cognitive Reframing"
     ],
     "correctAnswer": 1,
-    "explanation": "Empathy connects with someone by taking their perspective and feeling with them; sympathy observes from outside with feelings of pity or sorrow.",
+    "explanation": "NVC teaches observing without evaluation, identifying feelings, recognizing core human needs, and making actionable requests.",
     "tags": [
       "relationships",
-      "conflict-resolution",
+      "communication",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "relationships-emotional-intelligence-0003",
+    "id": "relationships-communication-0003",
     "category": "Relationships",
-    "subcategory": "Emotional Intelligence",
+    "subcategory": "Communication",
     "difficulty": "hard",
-    "question": "In healthy relationship dynamics and interpersonal communication: Which behavior is a core component of active listening during relationship conversations? (Ref #3)",
+    "question": "Why are 'I-statements' generally more constructive than 'You-statements' during sensitive interpersonal conversations?",
     "options": [
-      "Interrupting immediately to offer solutions before the speaker finishes",
-      "Looking at a smartphone while nodding periodically",
-      "Paraphrasing what the speaker shared to verify understanding before formulating a response",
-      "Silently preparing your rebuttal while the other person is talking"
+      "'I-statements' are shorter and easier to remember",
+      "'You-statements' are grammatically incorrect",
+      "'I-statements' express personal feelings and ownership of experience without making the listener feel attacked or defensive",
+      "'I-statements' force the other person to apologize"
     ],
     "correctAnswer": 2,
-    "explanation": "Active listening requires paying undivided attention, reflecting back what was heard, and validating emotions without jumping to defensive rebuttals.",
+    "explanation": "Saying 'I feel anxious when plans change unexpectedly' invites collaboration, whereas 'You always ruin our plans' provokes defensiveness.",
     "tags": [
       "relationships",
-      "emotional-intelligence",
+      "communication",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "relationships-friendship-trust-0004",
+    "id": "relationships-communication-0004",
     "category": "Relationships",
-    "subcategory": "Friendship & Trust",
+    "subcategory": "Communication",
     "difficulty": "easy",
-    "question": "In healthy relationship dynamics and interpersonal communication: According to relationship counseling frameworks, what is the primary purpose of setting healthy personal boundaries? (Ref #4)",
+    "question": "What active listening behavior involves paraphrasing the speaker's core message in your own words to confirm mutual understanding?",
     "options": [
-      "To punish the partner whenever disagreements arise",
-      "To isolate oneself completely from friends and family",
-      "To control the partner's schedule and social interactions",
-      "To clearly communicate what behaviors are acceptable to protect personal well-being and foster mutual respect"
+      "Interrogation",
+      "Advising",
+      "Validating",
+      "Reflective Listening (Mirroring)"
     ],
     "correctAnswer": 3,
-    "explanation": "Healthy boundaries establish clear expectations regarding personal space, values, and emotional safety, supporting long-term relationship trust.",
+    "explanation": "Reflective statements like 'It sounds like you felt overwhelmed by the workload yesterday' signal genuine empathy and precision.",
     "tags": [
       "relationships",
-      "friendship-trust",
+      "communication",
       "easy"
     ],
     "active": true
@@ -88,15 +88,15 @@
     "category": "Relationships",
     "subcategory": "Communication",
     "difficulty": "medium",
-    "question": "In healthy relationship dynamics and interpersonal communication: According to Dr. Gary Chapman's popular relationship framework, which of the following is one of the Five Love Languages? (Ref #5)",
+    "question": "What psychological barrier occurs when a listener mentally prepares their rebuttal while the other person is still speaking?",
     "options": [
-      "Words of Affirmation",
-      "Financial Control",
-      "Intellectual Superiority",
-      "Public Performance"
+      "Premature Rebuttal (Rehearsing)",
+      "Active Listening",
+      "Confirmation Bias",
+      "Cognitive Dissonance"
     ],
     "correctAnswer": 0,
-    "explanation": "The Five Love Languages are Words of Affirmation, Quality Time, Receiving Gifts, Acts of Service, and Physical Touch.",
+    "explanation": "Rehearsing prevents the listener from absorbing nuanced points or emotional subtext, keeping conversations locked in combative debate.",
     "tags": [
       "relationships",
       "communication",
@@ -105,64 +105,64 @@
     "active": true
   },
   {
-    "id": "relationships-conflict-resolution-0006",
+    "id": "relationships-communication-0006",
     "category": "Relationships",
-    "subcategory": "Conflict Resolution",
+    "subcategory": "Communication",
     "difficulty": "hard",
-    "question": "In healthy relationship dynamics and interpersonal communication: When repairing trust after a relationship misunderstanding, which element is essential for a sincere apology? (Ref #6)",
+    "question": "What non-verbal communication behavior establishes trust, attentiveness, and emotional connection during a face-to-face conversation?",
     "options": [
-      "Saying 'I am sorry you feel that way' to deflect responsibility",
-      "Acknowledging specific hurt caused, taking genuine accountability, and committing to changed behavior",
-      "Giving expensive gifts while refusing to discuss what happened",
-      "Blaming external circumstances for one's own actions"
+      "Crossing arms tightly",
+      "Comfortable, culturally appropriate eye contact",
+      "Looking at your smartphone screen",
+      "Staring continuously without blinking"
     ],
     "correctAnswer": 1,
-    "explanation": "Meaningful apologies require acknowledging harm, validating the other person's pain, taking ownership without defensiveness, and demonstrating behavioral change.",
+    "explanation": "Natural eye contact conveys respect, presence, and interest, fostering relational intimacy and mutual safety.",
     "tags": [
       "relationships",
-      "conflict-resolution",
+      "communication",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "relationships-emotional-intelligence-0007",
+    "id": "relationships-communication-0007",
     "category": "Relationships",
-    "subcategory": "Emotional Intelligence",
+    "subcategory": "Communication",
     "difficulty": "easy",
-    "question": "In healthy relationship dynamics and interpersonal communication: Why are 'I' statements favored over 'You' statements in constructive relationship communication? (Ref #7)",
+    "question": "What psychological concept, introduced by Dr. John Gottman, describes a partner making an attempt for connection, affection, or attention?",
     "options": [
-      "They ensure one partner always dominates the discussion",
-      "They avoid discussing difficult emotional topics altogether",
-      "They express personal feelings and needs without triggering defensive reactions or placing blame",
-      "They demand immediate compliance from the partner"
+      "A Repair Attempt",
+      "A Triangulation",
+      "A Bid for Connection",
+      "A Projection"
     ],
     "correctAnswer": 2,
-    "explanation": "'I' statements (e.g., 'I feel overwhelmed when...') take ownership of feelings rather than accusing the partner, reducing conflict escalation.",
+    "explanation": "Partners either 'turn toward', 'turn away', or 'turn against' bids; couples with high rates of turning toward build resilient long-term bonds.",
     "tags": [
       "relationships",
-      "emotional-intelligence",
+      "communication",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "relationships-friendship-trust-0008",
+    "id": "relationships-communication-0008",
     "category": "Relationships",
-    "subcategory": "Friendship & Trust",
+    "subcategory": "Communication",
     "difficulty": "medium",
-    "question": "In healthy relationship dynamics and interpersonal communication: What is the core distinction between empathy and sympathy in emotional intelligence? (Ref #8)",
+    "question": "What communication pitfall occurs when one person assumes they already know what their partner is thinking, feeling, or intending without asking?",
     "options": [
-      "Sympathy requires sharing identical life experiences, whereas empathy is superficial polite agreement",
-      "Empathy is only practiced between family members, while sympathy is for strangers",
-      "There is no psychological difference between the two terms",
-      "Empathy means genuinely understanding and feeling another person's perspective, while sympathy is feeling pity from a detached viewpoint"
+      "Validation",
+      "Empathy",
+      "Projection",
+      "Mind Reading"
     ],
     "correctAnswer": 3,
-    "explanation": "Empathy connects with someone by taking their perspective and feeling with them; sympathy observes from outside with feelings of pity or sorrow.",
+    "explanation": "Mind reading leads to false conclusions and unnecessary friction, easily avoided by asking curious, open-ended questions.",
     "tags": [
       "relationships",
-      "friendship-trust",
+      "communication",
       "medium"
     ],
     "active": true
@@ -172,15 +172,15 @@
     "category": "Relationships",
     "subcategory": "Communication",
     "difficulty": "hard",
-    "question": "In healthy relationship dynamics and interpersonal communication: Which behavior is a core component of active listening during relationship conversations? (Ref #9)",
+    "question": "What type of conversation question cannot be answered with a simple 'yes' or 'no', encouraging deeper explanation and reflection?",
     "options": [
-      "Paraphrasing what the speaker shared to verify understanding before formulating a response",
-      "Interrupting immediately to offer solutions before the speaker finishes",
-      "Looking at a smartphone while nodding periodically",
-      "Silently preparing your rebuttal while the other person is talking"
+      "An Open-Ended Question",
+      "A Closed-Ended Question",
+      "A Leading Question",
+      "A Rhetorical Question"
     ],
     "correctAnswer": 0,
-    "explanation": "Active listening requires paying undivided attention, reflecting back what was heard, and validating emotions without jumping to defensive rebuttals.",
+    "explanation": "Questions beginning with 'How' or 'What' (such as 'What was the most challenging part of your day?') invite rich sharing.",
     "tags": [
       "relationships",
       "communication",
@@ -189,64 +189,64 @@
     "active": true
   },
   {
-    "id": "relationships-conflict-resolution-0010",
+    "id": "relationships-communication-0010",
     "category": "Relationships",
-    "subcategory": "Conflict Resolution",
+    "subcategory": "Communication",
     "difficulty": "easy",
-    "question": "In healthy relationship dynamics and interpersonal communication: According to relationship counseling frameworks, what is the primary purpose of setting healthy personal boundaries? (Ref #10)",
+    "question": "What non-verbal posture signals openness, receptivity, and lack of defensiveness in interpersonal communication?",
     "options": [
-      "To punish the partner whenever disagreements arise",
-      "To clearly communicate what behaviors are acceptable to protect personal well-being and foster mutual respect",
-      "To isolate oneself completely from friends and family",
-      "To control the partner's schedule and social interactions"
+      "Arms crossed tightly over chest",
+      "An Open Posture (Uncrossed arms, relaxed shoulders, leaning slightly forward)",
+      "Slouching away with head down",
+      "Fidgeting with keys"
     ],
     "correctAnswer": 1,
-    "explanation": "Healthy boundaries establish clear expectations regarding personal space, values, and emotional safety, supporting long-term relationship trust.",
+    "explanation": "Open body language signals psychological safety and welcoming presence, encouraging the other person to speak freely.",
     "tags": [
       "relationships",
-      "conflict-resolution",
+      "communication",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "relationships-emotional-intelligence-0011",
+    "id": "relationships-communication-0011",
     "category": "Relationships",
-    "subcategory": "Emotional Intelligence",
+    "subcategory": "Communication",
     "difficulty": "medium",
-    "question": "In healthy relationship dynamics and interpersonal communication: According to Dr. Gary Chapman's popular relationship framework, which of the following is one of the Five Love Languages? (Ref #11)",
+    "question": "What communication phenomenon occurs when non-verbal cues (tone of voice, facial expressions) contradict the literal spoken words?",
     "options": [
-      "Financial Control",
-      "Intellectual Superiority",
-      "Words of Affirmation",
-      "Public Performance"
+      "Congruent Communication",
+      "Subtextual Harmony",
+      "Incongruent Communication (Mixed Signals)",
+      "Metacommunication"
     ],
     "correctAnswer": 2,
-    "explanation": "The Five Love Languages are Words of Affirmation, Quality Time, Receiving Gifts, Acts of Service, and Physical Touch.",
+    "explanation": "When a partner says 'I'm fine' with a clenched jaw and flat tone, non-verbal signals convey the true emotional reality.",
     "tags": [
       "relationships",
-      "emotional-intelligence",
+      "communication",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "relationships-friendship-trust-0012",
+    "id": "relationships-communication-0012",
     "category": "Relationships",
-    "subcategory": "Friendship & Trust",
+    "subcategory": "Communication",
     "difficulty": "hard",
-    "question": "In healthy relationship dynamics and interpersonal communication: When repairing trust after a relationship misunderstanding, which element is essential for a sincere apology? (Ref #12)",
+    "question": "What conversational behavior involves interrupting someone to shift the conversation back to yourself and your own experiences?",
     "options": [
-      "Saying 'I am sorry you feel that way' to deflect responsibility",
-      "Giving expensive gifts while refusing to discuss what happened",
-      "Blaming external circumstances for one's own actions",
-      "Acknowledging specific hurt caused, taking genuine accountability, and committing to changed behavior"
+      "Active Listening",
+      "Validation",
+      "Reflective Inquiry",
+      "Conversational Narcissism"
     ],
     "correctAnswer": 3,
-    "explanation": "Meaningful apologies require acknowledging harm, validating the other person's pain, taking ownership without defensiveness, and demonstrating behavioral change.",
+    "explanation": "Shifting the spotlight back to one's own anecdotes deprives the other person of feeling heard and supported.",
     "tags": [
       "relationships",
-      "friendship-trust",
+      "communication",
       "hard"
     ],
     "active": true
@@ -256,15 +256,15 @@
     "category": "Relationships",
     "subcategory": "Communication",
     "difficulty": "easy",
-    "question": "In healthy relationship dynamics and interpersonal communication: Why are 'I' statements favored over 'You' statements in constructive relationship communication? (Ref #13)",
+    "question": "What supportive communication response validates the other person's feelings before offering practical solutions or advice?",
     "options": [
-      "They express personal feelings and needs without triggering defensive reactions or placing blame",
-      "They ensure one partner always dominates the discussion",
-      "They avoid discussing difficult emotional topics altogether",
-      "They demand immediate compliance from the partner"
+      "Empathetic Validation",
+      "Immediate Problem-Solving",
+      "Dismissal",
+      "Minimization"
     ],
     "correctAnswer": 0,
-    "explanation": "'I' statements (e.g., 'I feel overwhelmed when...') take ownership of feelings rather than accusing the partner, reducing conflict escalation.",
+    "explanation": "Saying 'That sounds really frustrating, I understand why you feel that way' builds emotional connection before jumping into action steps.",
     "tags": [
       "relationships",
       "communication",
@@ -273,64 +273,64 @@
     "active": true
   },
   {
-    "id": "relationships-conflict-resolution-0014",
+    "id": "relationships-communication-0014",
     "category": "Relationships",
-    "subcategory": "Conflict Resolution",
+    "subcategory": "Communication",
     "difficulty": "medium",
-    "question": "In healthy relationship dynamics and interpersonal communication: What is the core distinction between empathy and sympathy in emotional intelligence? (Ref #14)",
+    "question": "What conversational error involves telling someone who is upset that their feelings are irrational or that 'it's not a big deal'?",
     "options": [
-      "Sympathy requires sharing identical life experiences, whereas empathy is superficial polite agreement",
-      "Empathy means genuinely understanding and feeling another person's perspective, while sympathy is feeling pity from a detached viewpoint",
-      "Empathy is only practiced between family members, while sympathy is for strangers",
-      "There is no psychological difference between the two terms"
+      "Validation",
+      "Invalidation (Minimizing)",
+      "Active Listening",
+      "Reframing"
     ],
     "correctAnswer": 1,
-    "explanation": "Empathy connects with someone by taking their perspective and feeling with them; sympathy observes from outside with feelings of pity or sorrow.",
+    "explanation": "Invalidating someone's emotional experience causes them to feel alienated, misunderstood, and emotionally isolated.",
     "tags": [
       "relationships",
-      "conflict-resolution",
+      "communication",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "relationships-emotional-intelligence-0015",
+    "id": "relationships-communication-0015",
     "category": "Relationships",
-    "subcategory": "Emotional Intelligence",
+    "subcategory": "Communication",
     "difficulty": "hard",
-    "question": "In healthy relationship dynamics and interpersonal communication: Which behavior is a core component of active listening during relationship conversations? (Ref #15)",
+    "question": "What communication style clearly and respectfully expresses personal thoughts, feelings, and boundaries without being passive or aggressive?",
     "options": [
-      "Interrupting immediately to offer solutions before the speaker finishes",
-      "Looking at a smartphone while nodding periodically",
-      "Paraphrasing what the speaker shared to verify understanding before formulating a response",
-      "Silently preparing your rebuttal while the other person is talking"
+      "Passive Communication",
+      "Aggressive Communication",
+      "Assertive Communication",
+      "Passive-Aggressive Communication"
     ],
     "correctAnswer": 2,
-    "explanation": "Active listening requires paying undivided attention, reflecting back what was heard, and validating emotions without jumping to defensive rebuttals.",
+    "explanation": "Assertive communicators advocate for their needs firmly while respecting the dignity, rights, and feelings of others.",
     "tags": [
       "relationships",
-      "emotional-intelligence",
+      "communication",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "relationships-friendship-trust-0016",
+    "id": "relationships-communication-0016",
     "category": "Relationships",
-    "subcategory": "Friendship & Trust",
+    "subcategory": "Communication",
     "difficulty": "easy",
-    "question": "In healthy relationship dynamics and interpersonal communication: According to relationship counseling frameworks, what is the primary purpose of setting healthy personal boundaries? (Ref #16)",
+    "question": "What communication style involves avoiding conflict, withholding honest opinions, and yielding to others at the expense of one's own needs?",
     "options": [
-      "To punish the partner whenever disagreements arise",
-      "To isolate oneself completely from friends and family",
-      "To control the partner's schedule and social interactions",
-      "To clearly communicate what behaviors are acceptable to protect personal well-being and foster mutual respect"
+      "Assertive Communication",
+      "Aggressive Communication",
+      "Constructive Communication",
+      "Passive Communication"
     ],
     "correctAnswer": 3,
-    "explanation": "Healthy boundaries establish clear expectations regarding personal space, values, and emotional safety, supporting long-term relationship trust.",
+    "explanation": "Passive communicators build internal resentment over time, often leading to sudden emotional outbursts or depression.",
     "tags": [
       "relationships",
-      "friendship-trust",
+      "communication",
       "easy"
     ],
     "active": true
@@ -340,15 +340,15 @@
     "category": "Relationships",
     "subcategory": "Communication",
     "difficulty": "medium",
-    "question": "In healthy relationship dynamics and interpersonal communication: According to Dr. Gary Chapman's popular relationship framework, which of the following is one of the Five Love Languages? (Ref #17)",
+    "question": "What communication style uses intimidation, insults, and blaming to dominate others and force compliance?",
     "options": [
-      "Words of Affirmation",
-      "Financial Control",
-      "Intellectual Superiority",
-      "Public Performance"
+      "Aggressive Communication",
+      "Assertive Communication",
+      "Passive Communication",
+      "Constructive Communication"
     ],
     "correctAnswer": 0,
-    "explanation": "The Five Love Languages are Words of Affirmation, Quality Time, Receiving Gifts, Acts of Service, and Physical Touch.",
+    "explanation": "Aggressive behavior damages trust, triggers fear, and prevents collaborative problem-solving.",
     "tags": [
       "relationships",
       "communication",
@@ -357,64 +357,64 @@
     "active": true
   },
   {
-    "id": "relationships-conflict-resolution-0018",
+    "id": "relationships-communication-0018",
     "category": "Relationships",
-    "subcategory": "Conflict Resolution",
+    "subcategory": "Communication",
     "difficulty": "hard",
-    "question": "In healthy relationship dynamics and interpersonal communication: When repairing trust after a relationship misunderstanding, which element is essential for a sincere apology? (Ref #18)",
+    "question": "What communication style expresses negative feelings, anger, or resistance indirectly through sarcasm, procrastination, or silent treatment?",
     "options": [
-      "Saying 'I am sorry you feel that way' to deflect responsibility",
-      "Acknowledging specific hurt caused, taking genuine accountability, and committing to changed behavior",
-      "Giving expensive gifts while refusing to discuss what happened",
-      "Blaming external circumstances for one's own actions"
+      "Assertive Communication",
+      "Passive-Aggressive Communication",
+      "Open Communication",
+      "Direct Inquiry"
     ],
     "correctAnswer": 1,
-    "explanation": "Meaningful apologies require acknowledging harm, validating the other person's pain, taking ownership without defensiveness, and demonstrating behavioral change.",
+    "explanation": "Passive-aggression masks hostility behind plausible deniability, frustrating partners and preventing honest resolution.",
     "tags": [
       "relationships",
-      "conflict-resolution",
+      "communication",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "relationships-emotional-intelligence-0019",
+    "id": "relationships-communication-0019",
     "category": "Relationships",
-    "subcategory": "Emotional Intelligence",
+    "subcategory": "Communication",
     "difficulty": "easy",
-    "question": "In healthy relationship dynamics and interpersonal communication: Why are 'I' statements favored over 'You' statements in constructive relationship communication? (Ref #19)",
+    "question": "What interpersonal practice involves having honest conversations about how you and your partner communicate (communicating about communication)?",
     "options": [
-      "They ensure one partner always dominates the discussion",
-      "They avoid discussing difficult emotional topics altogether",
-      "They express personal feelings and needs without triggering defensive reactions or placing blame",
-      "They demand immediate compliance from the partner"
+      "Subtextual Analysis",
+      "Triangulation",
+      "Metacommunication",
+      "Reflective Processing"
     ],
     "correctAnswer": 2,
-    "explanation": "'I' statements (e.g., 'I feel overwhelmed when...') take ownership of feelings rather than accusing the partner, reducing conflict escalation.",
+    "explanation": "Metacommunication discusses conversation ground rules, such as agreeing not to discuss sensitive financial topics right before sleep.",
     "tags": [
       "relationships",
-      "emotional-intelligence",
+      "communication",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "relationships-friendship-trust-0020",
+    "id": "relationships-communication-0020",
     "category": "Relationships",
-    "subcategory": "Friendship & Trust",
+    "subcategory": "Communication",
     "difficulty": "medium",
-    "question": "In healthy relationship dynamics and interpersonal communication: What is the core distinction between empathy and sympathy in emotional intelligence? (Ref #20)",
+    "question": "What relational concept describes sharing private thoughts, vulnerabilities, and personal history with someone over time?",
     "options": [
-      "Sympathy requires sharing identical life experiences, whereas empathy is superficial polite agreement",
-      "Empathy is only practiced between family members, while sympathy is for strangers",
-      "There is no psychological difference between the two terms",
-      "Empathy means genuinely understanding and feeling another person's perspective, while sympathy is feeling pity from a detached viewpoint"
+      "Emotional Flooding",
+      "Projection",
+      "Over-Sharing",
+      "Self-Disclosure"
     ],
     "correctAnswer": 3,
-    "explanation": "Empathy connects with someone by taking their perspective and feeling with them; sympathy observes from outside with feelings of pity or sorrow.",
+    "explanation": "Gradual, reciprocal self-disclosure is the foundational engine that deepens relational intimacy, closeness, and trust.",
     "tags": [
       "relationships",
-      "friendship-trust",
+      "communication",
       "medium"
     ],
     "active": true
@@ -424,15 +424,15 @@
     "category": "Relationships",
     "subcategory": "Communication",
     "difficulty": "hard",
-    "question": "In healthy relationship dynamics and interpersonal communication: Which behavior is a core component of active listening during relationship conversations? (Ref #21)",
+    "question": "What conversational habit involves abruptly changing the subject when uncomfortable emotional topics or disagreements arise?",
     "options": [
-      "Paraphrasing what the speaker shared to verify understanding before formulating a response",
-      "Interrupting immediately to offer solutions before the speaker finishes",
-      "Looking at a smartphone while nodding periodically",
-      "Silently preparing your rebuttal while the other person is talking"
+      "Deflection (Avoidance)",
+      "Active Listening",
+      "Confrontation",
+      "Reframing"
     ],
     "correctAnswer": 0,
-    "explanation": "Active listening requires paying undivided attention, reflecting back what was heard, and validating emotions without jumping to defensive rebuttals.",
+    "explanation": "Deflection stalls resolution of core issues, allowing underlying relationship resentments to fester unresolved.",
     "tags": [
       "relationships",
       "communication",
@@ -441,64 +441,64 @@
     "active": true
   },
   {
-    "id": "relationships-conflict-resolution-0022",
+    "id": "relationships-communication-0022",
     "category": "Relationships",
-    "subcategory": "Conflict Resolution",
+    "subcategory": "Communication",
     "difficulty": "easy",
-    "question": "In healthy relationship dynamics and interpersonal communication: According to relationship counseling frameworks, what is the primary purpose of setting healthy personal boundaries? (Ref #22)",
+    "question": "What non-verbal vocal qualities (tone, pitch, volume, pace) convey emotional meaning alongside spoken words?",
     "options": [
-      "To punish the partner whenever disagreements arise",
-      "To clearly communicate what behaviors are acceptable to protect personal well-being and foster mutual respect",
-      "To isolate oneself completely from friends and family",
-      "To control the partner's schedule and social interactions"
+      "Kinesics",
+      "Paralanguage (Vocalics)",
+      "Proxemics",
+      "Haptics"
     ],
     "correctAnswer": 1,
-    "explanation": "Healthy boundaries establish clear expectations regarding personal space, values, and emotional safety, supporting long-term relationship trust.",
+    "explanation": "How something is said (a soft, gentle tone versus a sharp, clipped cadence) often conveys more emotional truth than the words themselves.",
     "tags": [
       "relationships",
-      "conflict-resolution",
+      "communication",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "relationships-emotional-intelligence-0023",
+    "id": "relationships-communication-0023",
     "category": "Relationships",
-    "subcategory": "Emotional Intelligence",
+    "subcategory": "Communication",
     "difficulty": "medium",
-    "question": "In healthy relationship dynamics and interpersonal communication: According to Dr. Gary Chapman's popular relationship framework, which of the following is one of the Five Love Languages? (Ref #23)",
+    "question": "What non-verbal study examines physical interpersonal distance and personal space in human interactions?",
     "options": [
-      "Financial Control",
-      "Intellectual Superiority",
-      "Words of Affirmation",
-      "Public Performance"
+      "Kinesics",
+      "Haptics",
+      "Proxemics",
+      "Chronemics"
     ],
     "correctAnswer": 2,
-    "explanation": "The Five Love Languages are Words of Affirmation, Quality Time, Receiving Gifts, Acts of Service, and Physical Touch.",
+    "explanation": "Pioneered by Edward T. Hall, proxemics defines intimate, personal, social, and public spatial zones in relationships.",
     "tags": [
       "relationships",
-      "emotional-intelligence",
+      "communication",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "relationships-friendship-trust-0024",
+    "id": "relationships-communication-0024",
     "category": "Relationships",
-    "subcategory": "Friendship & Trust",
+    "subcategory": "Communication",
     "difficulty": "hard",
-    "question": "In healthy relationship dynamics and interpersonal communication: When repairing trust after a relationship misunderstanding, which element is essential for a sincere apology? (Ref #24)",
+    "question": "What non-verbal communication study examines eye contact, facial expressions, and bodily gestures?",
     "options": [
-      "Saying 'I am sorry you feel that way' to deflect responsibility",
-      "Giving expensive gifts while refusing to discuss what happened",
-      "Blaming external circumstances for one's own actions",
-      "Acknowledging specific hurt caused, taking genuine accountability, and committing to changed behavior"
+      "Proxemics",
+      "Haptics",
+      "Semiotics",
+      "Kinesics"
     ],
     "correctAnswer": 3,
-    "explanation": "Meaningful apologies require acknowledging harm, validating the other person's pain, taking ownership without defensiveness, and demonstrating behavioral change.",
+    "explanation": "Kinesics analyzes micro-expressions, posture shifts, and hand gestures that reveal subconscious emotional states.",
     "tags": [
       "relationships",
-      "friendship-trust",
+      "communication",
       "hard"
     ],
     "active": true
@@ -508,15 +508,15 @@
     "category": "Relationships",
     "subcategory": "Communication",
     "difficulty": "easy",
-    "question": "In healthy relationship dynamics and interpersonal communication: Why are 'I' statements favored over 'You' statements in constructive relationship communication? (Ref #25)",
+    "question": "What non-verbal communication study examines the interpersonal meaning and emotional impact of touch (handshakes, hugs, caresses)?",
     "options": [
-      "They express personal feelings and needs without triggering defensive reactions or placing blame",
-      "They ensure one partner always dominates the discussion",
-      "They avoid discussing difficult emotional topics altogether",
-      "They demand immediate compliance from the partner"
+      "Haptics",
+      "Proxemics",
+      "Kinesics",
+      "Vocalics"
     ],
     "correctAnswer": 0,
-    "explanation": "'I' statements (e.g., 'I feel overwhelmed when...') take ownership of feelings rather than accusing the partner, reducing conflict escalation.",
+    "explanation": "Consensual, affectionate physical touch releases oxytocin, reducing stress hormones and reinforcing emotional bonding.",
     "tags": [
       "relationships",
       "communication",
@@ -525,64 +525,64 @@
     "active": true
   },
   {
-    "id": "relationships-conflict-resolution-0026",
+    "id": "relationships-communication-0026",
     "category": "Relationships",
-    "subcategory": "Conflict Resolution",
+    "subcategory": "Communication",
     "difficulty": "medium",
-    "question": "In healthy relationship dynamics and interpersonal communication: What is the core distinction between empathy and sympathy in emotional intelligence? (Ref #26)",
+    "question": "What supportive technique involves checking in with a partner to ask: 'Do you want comfort, advice, or just someone to listen?'",
     "options": [
-      "Sympathy requires sharing identical life experiences, whereas empathy is superficial polite agreement",
-      "Empathy means genuinely understanding and feeling another person's perspective, while sympathy is feeling pity from a detached viewpoint",
-      "Empathy is only practiced between family members, while sympathy is for strangers",
-      "There is no psychological difference between the two terms"
+      "Mind Reading",
+      "Role Clarification (Support Boundary)",
+      "Avoidance",
+      "Dismissal"
     ],
     "correctAnswer": 1,
-    "explanation": "Empathy connects with someone by taking their perspective and feeling with them; sympathy observes from outside with feelings of pity or sorrow.",
+    "explanation": "Clarifying the partner's immediate need prevents frustration from offering unwanted practical advice when they simply need empathy.",
     "tags": [
       "relationships",
-      "conflict-resolution",
+      "communication",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "relationships-emotional-intelligence-0027",
+    "id": "relationships-communication-0027",
     "category": "Relationships",
-    "subcategory": "Emotional Intelligence",
+    "subcategory": "Communication",
     "difficulty": "hard",
-    "question": "In healthy relationship dynamics and interpersonal communication: Which behavior is a core component of active listening during relationship conversations? (Ref #27)",
+    "question": "What communication mistake occurs when someone uses absolute generalizations like 'You ALWAYS do this' or 'You NEVER listen'?",
     "options": [
-      "Interrupting immediately to offer solutions before the speaker finishes",
-      "Looking at a smartphone while nodding periodically",
-      "Paraphrasing what the speaker shared to verify understanding before formulating a response",
-      "Silently preparing your rebuttal while the other person is talking"
+      "Specific Feedback",
+      "Assertive Request",
+      "Absolutist Language (Global Blaming)",
+      "Objective Observation"
     ],
     "correctAnswer": 2,
-    "explanation": "Active listening requires paying undivided attention, reflecting back what was heard, and validating emotions without jumping to defensive rebuttals.",
+    "explanation": "Absolutist claims are rarely factually accurate and instantly force the other partner into defensive counter-arguments.",
     "tags": [
       "relationships",
-      "emotional-intelligence",
+      "communication",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "relationships-friendship-trust-0028",
+    "id": "relationships-communication-0028",
     "category": "Relationships",
-    "subcategory": "Friendship & Trust",
+    "subcategory": "Communication",
     "difficulty": "easy",
-    "question": "In healthy relationship dynamics and interpersonal communication: According to relationship counseling frameworks, what is the primary purpose of setting healthy personal boundaries? (Ref #28)",
+    "question": "What conversational technique involves acknowledging and summarizing points of agreement before addressing areas of disagreement?",
     "options": [
-      "To punish the partner whenever disagreements arise",
-      "To isolate oneself completely from friends and family",
-      "To control the partner's schedule and social interactions",
-      "To clearly communicate what behaviors are acceptable to protect personal well-being and foster mutual respect"
+      "Immediate Rebuttal",
+      "Stonewalling",
+      "Deflection",
+      "The Agreement First Principle ('Yes, and...')"
     ],
     "correctAnswer": 3,
-    "explanation": "Healthy boundaries establish clear expectations regarding personal space, values, and emotional safety, supporting long-term relationship trust.",
+    "explanation": "Highlighting shared goals and common ground builds collaborative momentum, making disagreements feel like teamwork rather than conflict.",
     "tags": [
       "relationships",
-      "friendship-trust",
+      "communication",
       "easy"
     ],
     "active": true
@@ -592,15 +592,15 @@
     "category": "Relationships",
     "subcategory": "Communication",
     "difficulty": "medium",
-    "question": "In healthy relationship dynamics and interpersonal communication: According to Dr. Gary Chapman's popular relationship framework, which of the following is one of the Five Love Languages? (Ref #29)",
+    "question": "What respectful practice involves giving someone your undivided presence by putting down phones and eliminating screen distractions?",
     "options": [
-      "Words of Affirmation",
-      "Financial Control",
-      "Intellectual Superiority",
-      "Public Performance"
+      "Undivided Attention (Presence)",
+      "Multitasking",
+      "Passive Listening",
+      "Selective Presence"
     ],
     "correctAnswer": 0,
-    "explanation": "The Five Love Languages are Words of Affirmation, Quality Time, Receiving Gifts, Acts of Service, and Physical Touch.",
+    "explanation": "Multitasking while a partner is sharing conveys that their words are secondary in priority, degrading conversational intimacy.",
     "tags": [
       "relationships",
       "communication",
@@ -609,64 +609,64 @@
     "active": true
   },
   {
-    "id": "relationships-conflict-resolution-0030",
+    "id": "relationships-communication-0030",
     "category": "Relationships",
-    "subcategory": "Conflict Resolution",
+    "subcategory": "Communication",
     "difficulty": "hard",
-    "question": "In healthy relationship dynamics and interpersonal communication: When repairing trust after a relationship misunderstanding, which element is essential for a sincere apology? (Ref #30)",
+    "question": "What communication trap occurs when someone responds to a legitimate relationship concern by bringing up a completely unrelated past grievance?",
     "options": [
-      "Saying 'I am sorry you feel that way' to deflect responsibility",
-      "Acknowledging specific hurt caused, taking genuine accountability, and committing to changed behavior",
-      "Giving expensive gifts while refusing to discuss what happened",
-      "Blaming external circumstances for one's own actions"
+      "Focused Resolution",
+      "Kitchen-Sinking",
+      "Active Inquiry",
+      "Reframing"
     ],
     "correctAnswer": 1,
-    "explanation": "Meaningful apologies require acknowledging harm, validating the other person's pain, taking ownership without defensiveness, and demonstrating behavioral change.",
+    "explanation": "Kitchen-sinking overwhelms conversations with an avalanche of past grievances, derailing progress on the current topic.",
     "tags": [
       "relationships",
-      "conflict-resolution",
+      "communication",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "relationships-emotional-intelligence-0031",
+    "id": "relationships-communication-0031",
     "category": "Relationships",
-    "subcategory": "Emotional Intelligence",
+    "subcategory": "Communication",
     "difficulty": "easy",
-    "question": "In healthy relationship dynamics and interpersonal communication: Why are 'I' statements favored over 'You' statements in constructive relationship communication? (Ref #31)",
+    "question": "What respectful practice involves asking permission before initiating heavy, emotionally charged relationship conversations?",
     "options": [
-      "They ensure one partner always dominates the discussion",
-      "They avoid discussing difficult emotional topics altogether",
-      "They express personal feelings and needs without triggering defensive reactions or placing blame",
-      "They demand immediate compliance from the partner"
+      "Ambush Confrontation",
+      "Stonewalling",
+      "Setting the Stage (Conversation Consensuality)",
+      "Silent Treatment"
     ],
     "correctAnswer": 2,
-    "explanation": "'I' statements (e.g., 'I feel overwhelmed when...') take ownership of feelings rather than accusing the partner, reducing conflict escalation.",
+    "explanation": "Asking 'Is now a good time to talk about summer plans?' ensures both partners have the mental energy and presence required.",
     "tags": [
       "relationships",
-      "emotional-intelligence",
+      "communication",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "relationships-friendship-trust-0032",
+    "id": "relationships-communication-0032",
     "category": "Relationships",
-    "subcategory": "Friendship & Trust",
+    "subcategory": "Communication",
     "difficulty": "medium",
-    "question": "In healthy relationship dynamics and interpersonal communication: What is the core distinction between empathy and sympathy in emotional intelligence? (Ref #32)",
+    "question": "What healthy conversational habit involves expressing specific gratitude and appreciation to your partner on a daily basis?",
     "options": [
-      "Sympathy requires sharing identical life experiences, whereas empathy is superficial polite agreement",
-      "Empathy is only practiced between family members, while sympathy is for strangers",
-      "There is no psychological difference between the two terms",
-      "Empathy means genuinely understanding and feeling another person's perspective, while sympathy is feeling pity from a detached viewpoint"
+      "Flattery",
+      "Obligatory Praise",
+      "Conditional Feedback",
+      "Daily Appreciation (Gratitude Sharing)"
     ],
     "correctAnswer": 3,
-    "explanation": "Empathy connects with someone by taking their perspective and feeling with them; sympathy observes from outside with feelings of pity or sorrow.",
+    "explanation": "Expressing authentic gratitude ('Thank you for packing lunch today, it made my morning easier') reinforces goodwill and positivity.",
     "tags": [
       "relationships",
-      "friendship-trust",
+      "communication",
       "medium"
     ],
     "active": true
@@ -676,15 +676,15 @@
     "category": "Relationships",
     "subcategory": "Communication",
     "difficulty": "hard",
-    "question": "In healthy relationship dynamics and interpersonal communication: Which behavior is a core component of active listening during relationship conversations? (Ref #33)",
+    "question": "What communication practice involves asking 'What I hear you saying is X, is that right?' to ensure clarity before responding?",
     "options": [
-      "Paraphrasing what the speaker shared to verify understanding before formulating a response",
-      "Interrupting immediately to offer solutions before the speaker finishes",
-      "Looking at a smartphone while nodding periodically",
-      "Silently preparing your rebuttal while the other person is talking"
+      "Perception Checking",
+      "Mind Reading",
+      "Interrogation",
+      "Passive Listening"
     ],
     "correctAnswer": 0,
-    "explanation": "Active listening requires paying undivided attention, reflecting back what was heard, and validating emotions without jumping to defensive rebuttals.",
+    "explanation": "Perception checking clears up misunderstandings immediately, ensuring both partners are working from the exact same shared reality.",
     "tags": [
       "relationships",
       "communication",
@@ -697,15 +697,15 @@
     "category": "Relationships",
     "subcategory": "Conflict Resolution",
     "difficulty": "easy",
-    "question": "In healthy relationship dynamics and interpersonal communication: According to relationship counseling frameworks, what is the primary purpose of setting healthy personal boundaries? (Ref #34)",
+    "question": "What renowned relationship psychologist identified the 'Four Horsemen of the Apocalypse' that predict relationship dissolution with 90%+ accuracy?",
     "options": [
-      "To punish the partner whenever disagreements arise",
-      "To clearly communicate what behaviors are acceptable to protect personal well-being and foster mutual respect",
-      "To isolate oneself completely from friends and family",
-      "To control the partner's schedule and social interactions"
+      "Dr. Sue Johnson",
+      "Dr. John Gottman",
+      "Dr. Gary Chapman",
+      "Dr. Harville Hendrix"
     ],
     "correctAnswer": 1,
-    "explanation": "Healthy boundaries establish clear expectations regarding personal space, values, and emotional safety, supporting long-term relationship trust.",
+    "explanation": "Decades of research at the Gottman 'Love Lab' proved that Criticism, Contempt, Defensiveness, and Stonewalling corrode relationships.",
     "tags": [
       "relationships",
       "conflict-resolution",
@@ -714,64 +714,64 @@
     "active": true
   },
   {
-    "id": "relationships-emotional-intelligence-0035",
+    "id": "relationships-conflict-resolution-0035",
     "category": "Relationships",
-    "subcategory": "Emotional Intelligence",
+    "subcategory": "Conflict Resolution",
     "difficulty": "medium",
-    "question": "In healthy relationship dynamics and interpersonal communication: According to Dr. Gary Chapman's popular relationship framework, which of the following is one of the Five Love Languages? (Ref #35)",
+    "question": "Which of John Gottman's Four Horsemen involves attacking a partner's core character rather than addressing a specific behavior?",
     "options": [
-      "Financial Control",
-      "Intellectual Superiority",
-      "Words of Affirmation",
-      "Public Performance"
+      "Complaint",
+      "Contempt",
+      "Criticism",
+      "Stonewalling"
     ],
     "correctAnswer": 2,
-    "explanation": "The Five Love Languages are Words of Affirmation, Quality Time, Receiving Gifts, Acts of Service, and Physical Touch.",
+    "explanation": "A healthy complaint addresses specific actions ('The dishes were left in the sink'); criticism attacks character ('You are lazy and careless').",
     "tags": [
       "relationships",
-      "emotional-intelligence",
+      "conflict-resolution",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "relationships-friendship-trust-0036",
+    "id": "relationships-conflict-resolution-0036",
     "category": "Relationships",
-    "subcategory": "Friendship & Trust",
+    "subcategory": "Conflict Resolution",
     "difficulty": "hard",
-    "question": "In healthy relationship dynamics and interpersonal communication: When repairing trust after a relationship misunderstanding, which element is essential for a sincere apology? (Ref #36)",
+    "question": "Which of the Four Horsemen is identified by John Gottman as the single greatest predictor of relationship divorce and breakdown?",
     "options": [
-      "Saying 'I am sorry you feel that way' to deflect responsibility",
-      "Giving expensive gifts while refusing to discuss what happened",
-      "Blaming external circumstances for one's own actions",
-      "Acknowledging specific hurt caused, taking genuine accountability, and committing to changed behavior"
+      "Criticism",
+      "Defensiveness",
+      "Stonewalling",
+      "Contempt"
     ],
     "correctAnswer": 3,
-    "explanation": "Meaningful apologies require acknowledging harm, validating the other person's pain, taking ownership without defensiveness, and demonstrating behavioral change.",
+    "explanation": "Contempt conveys disgust, superiority, eye-rolling, and mockery, corroding emotional bonds and measurably suppressing partners' immune systems.",
     "tags": [
       "relationships",
-      "friendship-trust",
+      "conflict-resolution",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "relationships-communication-0037",
+    "id": "relationships-conflict-resolution-0037",
     "category": "Relationships",
-    "subcategory": "Communication",
+    "subcategory": "Conflict Resolution",
     "difficulty": "easy",
-    "question": "In healthy relationship dynamics and interpersonal communication: Why are 'I' statements favored over 'You' statements in constructive relationship communication? (Ref #37)",
+    "question": "Which of the Four Horsemen involves deflecting responsibility, making excuses, or counter-attacking when confronted with a concern?",
     "options": [
-      "They express personal feelings and needs without triggering defensive reactions or placing blame",
-      "They ensure one partner always dominates the discussion",
-      "They avoid discussing difficult emotional topics altogether",
-      "They demand immediate compliance from the partner"
+      "Defensiveness",
+      "Criticism",
+      "Contempt",
+      "Stonewalling"
     ],
     "correctAnswer": 0,
-    "explanation": "'I' statements (e.g., 'I feel overwhelmed when...') take ownership of feelings rather than accusing the partner, reducing conflict escalation.",
+    "explanation": "Defensiveness signals 'The problem isn't me, it's you', escalating conflict rather than taking ownership of one's contribution.",
     "tags": [
       "relationships",
-      "communication",
+      "conflict-resolution",
       "easy"
     ],
     "active": true
@@ -781,15 +781,15 @@
     "category": "Relationships",
     "subcategory": "Conflict Resolution",
     "difficulty": "medium",
-    "question": "In healthy relationship dynamics and interpersonal communication: What is the core distinction between empathy and sympathy in emotional intelligence? (Ref #38)",
+    "question": "Which of the Four Horsemen involves shutting down, withdrawing emotionally, and refusing to interact or respond during an argument?",
     "options": [
-      "Sympathy requires sharing identical life experiences, whereas empathy is superficial polite agreement",
-      "Empathy means genuinely understanding and feeling another person's perspective, while sympathy is feeling pity from a detached viewpoint",
-      "Empathy is only practiced between family members, while sympathy is for strangers",
-      "There is no psychological difference between the two terms"
+      "Criticism",
+      "Stonewalling",
+      "Contempt",
+      "Defensiveness"
     ],
     "correctAnswer": 1,
-    "explanation": "Empathy connects with someone by taking their perspective and feeling with them; sympathy observes from outside with feelings of pity or sorrow.",
+    "explanation": "Stonewalling is typically an involuntary physiological response to severe nervous system overwhelm, treated by taking a calm 20-minute timeout.",
     "tags": [
       "relationships",
       "conflict-resolution",
@@ -798,64 +798,64 @@
     "active": true
   },
   {
-    "id": "relationships-emotional-intelligence-0039",
+    "id": "relationships-conflict-resolution-0039",
     "category": "Relationships",
-    "subcategory": "Emotional Intelligence",
+    "subcategory": "Conflict Resolution",
     "difficulty": "hard",
-    "question": "In healthy relationship dynamics and interpersonal communication: Which behavior is a core component of active listening during relationship conversations? (Ref #39)",
+    "question": "What physiological state occurs during heated arguments when heart rates exceed 100 BPM and fight-or-flight hormones overwhelm rational thought?",
     "options": [
-      "Interrupting immediately to offer solutions before the speaker finishes",
-      "Looking at a smartphone while nodding periodically",
-      "Paraphrasing what the speaker shared to verify understanding before formulating a response",
-      "Silently preparing your rebuttal while the other person is talking"
+      "Cognitive Dissonance",
+      "Emotional Contagion",
+      "Diffuse Physiological Arousal (Emotional Flooding)",
+      "Hyper-Vigilance"
     ],
     "correctAnswer": 2,
-    "explanation": "Active listening requires paying undivided attention, reflecting back what was heard, and validating emotions without jumping to defensive rebuttals.",
+    "explanation": "When flooded, the brain's prefrontal cortex shuts down; constructive communication is neurologically impossible until the body calms down.",
     "tags": [
       "relationships",
-      "emotional-intelligence",
+      "conflict-resolution",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "relationships-friendship-trust-0040",
+    "id": "relationships-conflict-resolution-0040",
     "category": "Relationships",
-    "subcategory": "Friendship & Trust",
+    "subcategory": "Conflict Resolution",
     "difficulty": "easy",
-    "question": "In healthy relationship dynamics and interpersonal communication: According to relationship counseling frameworks, what is the primary purpose of setting healthy personal boundaries? (Ref #40)",
+    "question": "What is the most effective immediate action to take when one or both partners become emotionally flooded during an argument?",
     "options": [
-      "To punish the partner whenever disagreements arise",
-      "To isolate oneself completely from friends and family",
-      "To control the partner's schedule and social interactions",
-      "To clearly communicate what behaviors are acceptable to protect personal well-being and foster mutual respect"
+      "Keep arguing until the issue is completely resolved",
+      "Raise your voice to be heard clearly",
+      "Leave the house without saying a word",
+      "Call a respectful 20-minute timeout to separate and self-soothe"
     ],
     "correctAnswer": 3,
-    "explanation": "Healthy boundaries establish clear expectations regarding personal space, values, and emotional safety, supporting long-term relationship trust.",
+    "explanation": "It takes at least 20 minutes for heart rates and stress hormones (adrenaline and cortisol) to return to baseline resting levels.",
     "tags": [
       "relationships",
-      "friendship-trust",
+      "conflict-resolution",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "relationships-communication-0041",
+    "id": "relationships-conflict-resolution-0041",
     "category": "Relationships",
-    "subcategory": "Communication",
+    "subcategory": "Conflict Resolution",
     "difficulty": "medium",
-    "question": "In healthy relationship dynamics and interpersonal communication: According to Dr. Gary Chapman's popular relationship framework, which of the following is one of the Five Love Languages? (Ref #41)",
+    "question": "What healthy Gottman antidote counteracts the destructive relationship habit of Criticism?",
     "options": [
-      "Words of Affirmation",
-      "Financial Control",
-      "Intellectual Superiority",
-      "Public Performance"
+      "A Gentle Start-Up (Expressing a feeling and a positive need)",
+      "A Counter-Complaint",
+      "Silent Treatment",
+      "A Sharp Critique"
     ],
     "correctAnswer": 0,
-    "explanation": "The Five Love Languages are Words of Affirmation, Quality Time, Receiving Gifts, Acts of Service, and Physical Touch.",
+    "explanation": "A gentle start-up uses 'I-statements' without blame: 'I feel overwhelmed by the clutter in the hallway. Could you please help me pick it up?'",
     "tags": [
       "relationships",
-      "communication",
+      "conflict-resolution",
       "medium"
     ],
     "active": true
@@ -865,15 +865,15 @@
     "category": "Relationships",
     "subcategory": "Conflict Resolution",
     "difficulty": "hard",
-    "question": "In healthy relationship dynamics and interpersonal communication: When repairing trust after a relationship misunderstanding, which element is essential for a sincere apology? (Ref #42)",
+    "question": "What is the foundational Gottman antidote to counteract the toxic relationship habit of Contempt?",
     "options": [
-      "Saying 'I am sorry you feel that way' to deflect responsibility",
-      "Acknowledging specific hurt caused, taking genuine accountability, and committing to changed behavior",
-      "Giving expensive gifts while refusing to discuss what happened",
-      "Blaming external circumstances for one's own actions"
+      "Assertive Dominance",
+      "Building a Culture of Appreciation and Respect",
+      "Humor and Sarcasm",
+      "Tit-for-Tat Accounting"
     ],
     "correctAnswer": 1,
-    "explanation": "Meaningful apologies require acknowledging harm, validating the other person's pain, taking ownership without defensiveness, and demonstrating behavioral change.",
+    "explanation": "Consciously noticing and verbalizing what your partner does right creates an emotional reservoir of mutual admiration and goodwill.",
     "tags": [
       "relationships",
       "conflict-resolution",
@@ -882,64 +882,64 @@
     "active": true
   },
   {
-    "id": "relationships-emotional-intelligence-0043",
+    "id": "relationships-conflict-resolution-0043",
     "category": "Relationships",
-    "subcategory": "Emotional Intelligence",
+    "subcategory": "Conflict Resolution",
     "difficulty": "easy",
-    "question": "In healthy relationship dynamics and interpersonal communication: Why are 'I' statements favored over 'You' statements in constructive relationship communication? (Ref #43)",
+    "question": "What is the healthy Gottman antidote to counteract the relationship habit of Defensiveness?",
     "options": [
-      "They ensure one partner always dominates the discussion",
-      "They avoid discussing difficult emotional topics altogether",
-      "They express personal feelings and needs without triggering defensive reactions or placing blame",
-      "They demand immediate compliance from the partner"
+      "Explaining all your reasons thoroughly",
+      "Counter-attacking immediately",
+      "Taking Responsibility (Accepting at least a part of the issue)",
+      "Refusing to speak"
     ],
     "correctAnswer": 2,
-    "explanation": "'I' statements (e.g., 'I feel overwhelmed when...') take ownership of feelings rather than accusing the partner, reducing conflict escalation.",
+    "explanation": "Acknowledging your role ('You're right, I forgot to call and let you know I'd be late. I'm sorry') diffuses tension instantly.",
     "tags": [
       "relationships",
-      "emotional-intelligence",
+      "conflict-resolution",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "relationships-friendship-trust-0044",
+    "id": "relationships-conflict-resolution-0044",
     "category": "Relationships",
-    "subcategory": "Friendship & Trust",
+    "subcategory": "Conflict Resolution",
     "difficulty": "medium",
-    "question": "In healthy relationship dynamics and interpersonal communication: What is the core distinction between empathy and sympathy in emotional intelligence? (Ref #44)",
+    "question": "What is the healthy Gottman antidote to counteract the relationship habit of Stonewalling?",
     "options": [
-      "Sympathy requires sharing identical life experiences, whereas empathy is superficial polite agreement",
-      "Empathy is only practiced between family members, while sympathy is for strangers",
-      "There is no psychological difference between the two terms",
-      "Empathy means genuinely understanding and feeling another person's perspective, while sympathy is feeling pity from a detached viewpoint"
+      "Forcing the partner to answer questions",
+      "Screaming louder",
+      "Sending angry text messages",
+      "Physiological Self-Soothing during a planned break"
     ],
     "correctAnswer": 3,
-    "explanation": "Empathy connects with someone by taking their perspective and feeling with them; sympathy observes from outside with feelings of pity or sorrow.",
+    "explanation": "Engaging in deep breathing, walking, or listening to calming music soothes the autonomic nervous system back to safety.",
     "tags": [
       "relationships",
-      "friendship-trust",
+      "conflict-resolution",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "relationships-communication-0045",
+    "id": "relationships-conflict-resolution-0045",
     "category": "Relationships",
-    "subcategory": "Communication",
+    "subcategory": "Conflict Resolution",
     "difficulty": "hard",
-    "question": "In healthy relationship dynamics and interpersonal communication: Which behavior is a core component of active listening during relationship conversations? (Ref #45)",
+    "question": "What concept describes small statements or physical gestures made during an argument to de-escalate tension and prevent emotional flooding?",
     "options": [
-      "Paraphrasing what the speaker shared to verify understanding before formulating a response",
-      "Interrupting immediately to offer solutions before the speaker finishes",
-      "Looking at a smartphone while nodding periodically",
-      "Silently preparing your rebuttal while the other person is talking"
+      "A Repair Attempt",
+      "A Concession",
+      "A Defeat",
+      "A Triangulation"
     ],
     "correctAnswer": 0,
-    "explanation": "Active listening requires paying undivided attention, reflecting back what was heard, and validating emotions without jumping to defensive rebuttals.",
+    "explanation": "Repairs can be playful ('Okay, we're arguing over peanut butter right now'), affectionate, or conciliatory, acting as the relationship's emotional airbag.",
     "tags": [
       "relationships",
-      "communication",
+      "conflict-resolution",
       "hard"
     ],
     "active": true
@@ -949,15 +949,15 @@
     "category": "Relationships",
     "subcategory": "Conflict Resolution",
     "difficulty": "easy",
-    "question": "In healthy relationship dynamics and interpersonal communication: According to relationship counseling frameworks, what is the primary purpose of setting healthy personal boundaries? (Ref #46)",
+    "question": "According to John Gottman's research, what ratio of positive interactions to negative interactions characterizes stable, happy relationships?",
     "options": [
-      "To punish the partner whenever disagreements arise",
-      "To clearly communicate what behaviors are acceptable to protect personal well-being and foster mutual respect",
-      "To isolate oneself completely from friends and family",
-      "To control the partner's schedule and social interactions"
+      "1 to 1",
+      "5 to 1 (Five positive interactions for every one negative interaction)",
+      "10 to 1",
+      "20 to 1"
     ],
     "correctAnswer": 1,
-    "explanation": "Healthy boundaries establish clear expectations regarding personal space, values, and emotional safety, supporting long-term relationship trust.",
+    "explanation": "During conflict, healthy couples maintain at least 5 positive interactions (humor, affection, nods, smiles) for every 1 negative interaction.",
     "tags": [
       "relationships",
       "conflict-resolution",
@@ -966,64 +966,64 @@
     "active": true
   },
   {
-    "id": "relationships-emotional-intelligence-0047",
+    "id": "relationships-conflict-resolution-0047",
     "category": "Relationships",
-    "subcategory": "Emotional Intelligence",
+    "subcategory": "Conflict Resolution",
     "difficulty": "medium",
-    "question": "In healthy relationship dynamics and interpersonal communication: According to Dr. Gary Chapman's popular relationship framework, which of the following is one of the Five Love Languages? (Ref #47)",
+    "question": "What Thomas-Kilmann conflict handling mode seeks a win-win solution that fully satisfies the core concerns of both parties?",
     "options": [
-      "Financial Control",
-      "Intellectual Superiority",
-      "Words of Affirmation",
-      "Public Performance"
+      "Compromising",
+      "Accommodating",
+      "Collaborating",
+      "Competing"
     ],
     "correctAnswer": 2,
-    "explanation": "The Five Love Languages are Words of Affirmation, Quality Time, Receiving Gifts, Acts of Service, and Physical Touch.",
+    "explanation": "Collaboration requires open exploration of underlying needs to synthesize creative solutions that neither party initially considered.",
     "tags": [
       "relationships",
-      "emotional-intelligence",
+      "conflict-resolution",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "relationships-friendship-trust-0048",
+    "id": "relationships-conflict-resolution-0048",
     "category": "Relationships",
-    "subcategory": "Friendship & Trust",
+    "subcategory": "Conflict Resolution",
     "difficulty": "hard",
-    "question": "In healthy relationship dynamics and interpersonal communication: When repairing trust after a relationship misunderstanding, which element is essential for a sincere apology? (Ref #48)",
+    "question": "What conflict handling mode involves both parties making mutual concessions and trade-offs to reach an acceptable middle ground?",
     "options": [
-      "Saying 'I am sorry you feel that way' to deflect responsibility",
-      "Giving expensive gifts while refusing to discuss what happened",
-      "Blaming external circumstances for one's own actions",
-      "Acknowledging specific hurt caused, taking genuine accountability, and committing to changed behavior"
+      "Collaborating",
+      "Avoiding",
+      "Accommodating",
+      "Compromising"
     ],
     "correctAnswer": 3,
-    "explanation": "Meaningful apologies require acknowledging harm, validating the other person's pain, taking ownership without defensiveness, and demonstrating behavioral change.",
+    "explanation": "Compromise splits the difference so both parties win some and yield some, useful when time is limited.",
     "tags": [
       "relationships",
-      "friendship-trust",
+      "conflict-resolution",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "relationships-communication-0049",
+    "id": "relationships-conflict-resolution-0049",
     "category": "Relationships",
-    "subcategory": "Communication",
+    "subcategory": "Conflict Resolution",
     "difficulty": "easy",
-    "question": "In healthy relationship dynamics and interpersonal communication: Why are 'I' statements favored over 'You' statements in constructive relationship communication? (Ref #49)",
+    "question": "What conflict handling mode involves one party voluntarily yielding to the other person's wishes at the expense of their own preferences?",
     "options": [
-      "They express personal feelings and needs without triggering defensive reactions or placing blame",
-      "They ensure one partner always dominates the discussion",
-      "They avoid discussing difficult emotional topics altogether",
-      "They demand immediate compliance from the partner"
+      "Accommodating",
+      "Competing",
+      "Avoiding",
+      "Compromising"
     ],
     "correctAnswer": 0,
-    "explanation": "'I' statements (e.g., 'I feel overwhelmed when...') take ownership of feelings rather than accusing the partner, reducing conflict escalation.",
+    "explanation": "Accommodation is appropriate when the issue matters significantly more to the other person or to preserve relational peace.",
     "tags": [
       "relationships",
-      "communication",
+      "conflict-resolution",
       "easy"
     ],
     "active": true
@@ -1033,15 +1033,15 @@
     "category": "Relationships",
     "subcategory": "Conflict Resolution",
     "difficulty": "medium",
-    "question": "In healthy relationship dynamics and interpersonal communication: What is the core distinction between empathy and sympathy in emotional intelligence? (Ref #50)",
+    "question": "What conflict handling mode pursues one's own concerns at the other person's expense, seeking to win the argument at all costs?",
     "options": [
-      "Sympathy requires sharing identical life experiences, whereas empathy is superficial polite agreement",
-      "Empathy means genuinely understanding and feeling another person's perspective, while sympathy is feeling pity from a detached viewpoint",
-      "Empathy is only practiced between family members, while sympathy is for strangers",
-      "There is no psychological difference between the two terms"
+      "Accommodating",
+      "Competing (Forcing)",
+      "Collaborating",
+      "Compromising"
     ],
     "correctAnswer": 1,
-    "explanation": "Empathy connects with someone by taking their perspective and feeling with them; sympathy observes from outside with feelings of pity or sorrow.",
+    "explanation": "Competition creates zero-sum dynamics ('I win, you lose'), breeding resentment and power imbalances in personal relationships.",
     "tags": [
       "relationships",
       "conflict-resolution",
@@ -1050,64 +1050,64 @@
     "active": true
   },
   {
-    "id": "relationships-emotional-intelligence-0051",
+    "id": "relationships-conflict-resolution-0051",
     "category": "Relationships",
-    "subcategory": "Emotional Intelligence",
+    "subcategory": "Conflict Resolution",
     "difficulty": "hard",
-    "question": "In healthy relationship dynamics and interpersonal communication: Which behavior is a core component of active listening during relationship conversations? (Ref #51)",
+    "question": "What conflict handling mode avoids addressing the conflict altogether, hoping the issue will fade away without confrontation?",
     "options": [
-      "Interrupting immediately to offer solutions before the speaker finishes",
-      "Looking at a smartphone while nodding periodically",
-      "Paraphrasing what the speaker shared to verify understanding before formulating a response",
-      "Silently preparing your rebuttal while the other person is talking"
+      "Collaborating",
+      "Compromising",
+      "Avoiding (Withdrawal)",
+      "Accommodating"
     ],
     "correctAnswer": 2,
-    "explanation": "Active listening requires paying undivided attention, reflecting back what was heard, and validating emotions without jumping to defensive rebuttals.",
+    "explanation": "While temporary avoidance helps cool down hot emotions, chronic avoidance allows unaddressed problems to grow into crises.",
     "tags": [
       "relationships",
-      "emotional-intelligence",
+      "conflict-resolution",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "relationships-friendship-trust-0052",
+    "id": "relationships-conflict-resolution-0052",
     "category": "Relationships",
-    "subcategory": "Friendship & Trust",
+    "subcategory": "Conflict Resolution",
     "difficulty": "easy",
-    "question": "In healthy relationship dynamics and interpersonal communication: According to relationship counseling frameworks, what is the primary purpose of setting healthy personal boundaries? (Ref #52)",
+    "question": "What crucial distinction in negotiation theory separates what someone asks for from the deeper reason why they want it?",
     "options": [
-      "To punish the partner whenever disagreements arise",
-      "To isolate oneself completely from friends and family",
-      "To control the partner's schedule and social interactions",
-      "To clearly communicate what behaviors are acceptable to protect personal well-being and foster mutual respect"
+      "Facts versus Opinions",
+      "Demands versus Concessions",
+      "Tactics versus Strategies",
+      "Positions versus Interests"
     ],
     "correctAnswer": 3,
-    "explanation": "Healthy boundaries establish clear expectations regarding personal space, values, and emotional safety, supporting long-term relationship trust.",
+    "explanation": "Pioneered in Getting to Yes, focusing on underlying interests (security, respect, rest) allows creative solutions where rigid positions clash.",
     "tags": [
       "relationships",
-      "friendship-trust",
+      "conflict-resolution",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "relationships-communication-0053",
+    "id": "relationships-conflict-resolution-0053",
     "category": "Relationships",
-    "subcategory": "Communication",
+    "subcategory": "Conflict Resolution",
     "difficulty": "medium",
-    "question": "In healthy relationship dynamics and interpersonal communication: According to Dr. Gary Chapman's popular relationship framework, which of the following is one of the Five Love Languages? (Ref #53)",
+    "question": "According to Gottman's research, what percentage of relationship conflicts are 'perpetual problems' rooted in fundamental personality differences?",
     "options": [
-      "Words of Affirmation",
-      "Financial Control",
-      "Intellectual Superiority",
-      "Public Performance"
+      "Approximately 69 percent",
+      "10 percent",
+      "30 percent",
+      "90 percent"
     ],
     "correctAnswer": 0,
-    "explanation": "The Five Love Languages are Words of Affirmation, Quality Time, Receiving Gifts, Acts of Service, and Physical Touch.",
+    "explanation": "Most relationship conflicts never truly disappear; successful couples learn to dialogue about perpetual issues with humor and acceptance rather than stalemate.",
     "tags": [
       "relationships",
-      "communication",
+      "conflict-resolution",
       "medium"
     ],
     "active": true
@@ -1117,15 +1117,15 @@
     "category": "Relationships",
     "subcategory": "Conflict Resolution",
     "difficulty": "hard",
-    "question": "In healthy relationship dynamics and interpersonal communication: When repairing trust after a relationship misunderstanding, which element is essential for a sincere apology? (Ref #54)",
+    "question": "What destructive conflict pattern occurs when one partner criticizes and presses for resolution while the other partner withdraws and shuts down?",
     "options": [
-      "Saying 'I am sorry you feel that way' to deflect responsibility",
-      "Acknowledging specific hurt caused, taking genuine accountability, and committing to changed behavior",
-      "Giving expensive gifts while refusing to discuss what happened",
-      "Blaming external circumstances for one's own actions"
+      "Symmetrical Escalation",
+      "The Demand-Withdraw Pattern (Pursuer-Distancer Dynamic)",
+      "Complementary Alignment",
+      "Mutual Accommodation"
     ],
     "correctAnswer": 1,
-    "explanation": "Meaningful apologies require acknowledging harm, validating the other person's pain, taking ownership without defensiveness, and demonstrating behavioral change.",
+    "explanation": "The pursuer feels abandoned and pushes harder, causing the distancer to feel overwhelmed and withdraw further in a vicious cycle.",
     "tags": [
       "relationships",
       "conflict-resolution",
@@ -1134,64 +1134,64 @@
     "active": true
   },
   {
-    "id": "relationships-emotional-intelligence-0055",
+    "id": "relationships-conflict-resolution-0055",
     "category": "Relationships",
-    "subcategory": "Emotional Intelligence",
+    "subcategory": "Conflict Resolution",
     "difficulty": "easy",
-    "question": "In healthy relationship dynamics and interpersonal communication: Why are 'I' statements favored over 'You' statements in constructive relationship communication? (Ref #55)",
+    "question": "What healthy practice breaks the demand-withdraw cycle by giving both partners reassurance of commitment?",
     "options": [
-      "They ensure one partner always dominates the discussion",
-      "They avoid discussing difficult emotional topics altogether",
-      "They express personal feelings and needs without triggering defensive reactions or placing blame",
-      "They demand immediate compliance from the partner"
+      "The pursuer follows the distancer into other rooms",
+      "Both partners stop talking for three days",
+      "The distancer promises to return to the conversation at a specific time after calming down",
+      "The pursuer demands an immediate apology"
     ],
     "correctAnswer": 2,
-    "explanation": "'I' statements (e.g., 'I feel overwhelmed when...') take ownership of feelings rather than accusing the partner, reducing conflict escalation.",
+    "explanation": "Knowing the conversation will resume within hours gives the pursuer reassurance while giving the distancer emotional breathing room.",
     "tags": [
       "relationships",
-      "emotional-intelligence",
+      "conflict-resolution",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "relationships-friendship-trust-0056",
+    "id": "relationships-conflict-resolution-0056",
     "category": "Relationships",
-    "subcategory": "Friendship & Trust",
+    "subcategory": "Conflict Resolution",
     "difficulty": "medium",
-    "question": "In healthy relationship dynamics and interpersonal communication: What is the core distinction between empathy and sympathy in emotional intelligence? (Ref #56)",
+    "question": "What manipulative psychological tactic involves denying someone's objective reality, memory, or sanity so they doubt their own perceptions?",
     "options": [
-      "Sympathy requires sharing identical life experiences, whereas empathy is superficial polite agreement",
-      "Empathy is only practiced between family members, while sympathy is for strangers",
-      "There is no psychological difference between the two terms",
-      "Empathy means genuinely understanding and feeling another person's perspective, while sympathy is feeling pity from a detached viewpoint"
+      "Validation",
+      "Projection",
+      "Triangulation",
+      "Gaslighting"
     ],
     "correctAnswer": 3,
-    "explanation": "Empathy connects with someone by taking their perspective and feeling with them; sympathy observes from outside with feelings of pity or sorrow.",
+    "explanation": "Derived from the 1944 film Gaslight, phrases like 'That never happened' or 'You're crazy' destabilize a partner's self-trust.",
     "tags": [
       "relationships",
-      "friendship-trust",
+      "conflict-resolution",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "relationships-communication-0057",
+    "id": "relationships-conflict-resolution-0057",
     "category": "Relationships",
-    "subcategory": "Communication",
+    "subcategory": "Conflict Resolution",
     "difficulty": "hard",
-    "question": "In healthy relationship dynamics and interpersonal communication: Which behavior is a core component of active listening during relationship conversations? (Ref #57)",
+    "question": "What psychological defense mechanism involves attributing one's own unacceptable feelings, impulses, or flaws onto someone else?",
     "options": [
-      "Paraphrasing what the speaker shared to verify understanding before formulating a response",
-      "Interrupting immediately to offer solutions before the speaker finishes",
-      "Looking at a smartphone while nodding periodically",
-      "Silently preparing your rebuttal while the other person is talking"
+      "Projection",
+      "Rationalization",
+      "Sublimation",
+      "Introjection"
     ],
     "correctAnswer": 0,
-    "explanation": "Active listening requires paying undivided attention, reflecting back what was heard, and validating emotions without jumping to defensive rebuttals.",
+    "explanation": "An unfaithful or jealous partner who constantly accuses their innocent spouse of cheating is projecting their own internal feelings.",
     "tags": [
       "relationships",
-      "communication",
+      "conflict-resolution",
       "hard"
     ],
     "active": true
@@ -1201,15 +1201,15 @@
     "category": "Relationships",
     "subcategory": "Conflict Resolution",
     "difficulty": "easy",
-    "question": "In healthy relationship dynamics and interpersonal communication: According to relationship counseling frameworks, what is the primary purpose of setting healthy personal boundaries? (Ref #58)",
+    "question": "What dysfunctional relational dynamic draws a third person (like a child or in-law) into a two-person conflict to deflect tension?",
     "options": [
-      "To punish the partner whenever disagreements arise",
-      "To clearly communicate what behaviors are acceptable to protect personal well-being and foster mutual respect",
-      "To isolate oneself completely from friends and family",
-      "To control the partner's schedule and social interactions"
+      "Dyadic Alignment",
+      "Triangulation",
+      "Enmeshment",
+      "Co-Dependency"
     ],
     "correctAnswer": 1,
-    "explanation": "Healthy boundaries establish clear expectations regarding personal space, values, and emotional safety, supporting long-term relationship trust.",
+    "explanation": "Pioneered by family systems theorist Murray Bowen, triangulation avoids direct resolution between the primary partners.",
     "tags": [
       "relationships",
       "conflict-resolution",
@@ -1218,64 +1218,64 @@
     "active": true
   },
   {
-    "id": "relationships-emotional-intelligence-0059",
+    "id": "relationships-conflict-resolution-0059",
     "category": "Relationships",
-    "subcategory": "Emotional Intelligence",
+    "subcategory": "Conflict Resolution",
     "difficulty": "medium",
-    "question": "In healthy relationship dynamics and interpersonal communication: According to Dr. Gary Chapman's popular relationship framework, which of the following is one of the Five Love Languages? (Ref #59)",
+    "question": "What healthy conflict rule prohibits bringing up unresolved grievances from weeks or years ago during an argument about current issues?",
     "options": [
-      "Financial Control",
-      "Intellectual Superiority",
-      "Words of Affirmation",
-      "Public Performance"
+      "Total Transparency",
+      "Unrestricted Feedback",
+      "Focusing on the Present Issue (Avoiding Historical Dredging)",
+      "Zero-Tolerance Policy"
     ],
     "correctAnswer": 2,
-    "explanation": "The Five Love Languages are Words of Affirmation, Quality Time, Receiving Gifts, Acts of Service, and Physical Touch.",
+    "explanation": "Sticking to the current issue prevents arguments from spiraling into overwhelming catalog battles of past mistakes.",
     "tags": [
       "relationships",
-      "emotional-intelligence",
+      "conflict-resolution",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "relationships-friendship-trust-0060",
+    "id": "relationships-conflict-resolution-0060",
     "category": "Relationships",
-    "subcategory": "Friendship & Trust",
+    "subcategory": "Conflict Resolution",
     "difficulty": "hard",
-    "question": "In healthy relationship dynamics and interpersonal communication: When repairing trust after a relationship misunderstanding, which element is essential for a sincere apology? (Ref #60)",
+    "question": "What conflict ground rule insists that insults, name-calling, profanity, and physical intimidation are completely unacceptable?",
     "options": [
-      "Saying 'I am sorry you feel that way' to deflect responsibility",
-      "Giving expensive gifts while refusing to discuss what happened",
-      "Blaming external circumstances for one's own actions",
-      "Acknowledging specific hurt caused, taking genuine accountability, and committing to changed behavior"
+      "Laissez-Faire Argumentation",
+      "Emotional Venting Rights",
+      "Equal Retaliation",
+      "Relational Safety and Respect Boundaries"
     ],
     "correctAnswer": 3,
-    "explanation": "Meaningful apologies require acknowledging harm, validating the other person's pain, taking ownership without defensiveness, and demonstrating behavioral change.",
+    "explanation": "Agreeing that personal insults are off-limits preserves basic human dignity and psychological safety even when angry.",
     "tags": [
       "relationships",
-      "friendship-trust",
+      "conflict-resolution",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "relationships-communication-0061",
+    "id": "relationships-conflict-resolution-0061",
     "category": "Relationships",
-    "subcategory": "Communication",
+    "subcategory": "Conflict Resolution",
     "difficulty": "easy",
-    "question": "In healthy relationship dynamics and interpersonal communication: Why are 'I' statements favored over 'You' statements in constructive relationship communication? (Ref #61)",
+    "question": "What constructive conflict habit involves looking for what is valid and true in your partner's perspective, even if you disagree with the conclusion?",
     "options": [
-      "They express personal feelings and needs without triggering defensive reactions or placing blame",
-      "They ensure one partner always dominates the discussion",
-      "They avoid discussing difficult emotional topics altogether",
-      "They demand immediate compliance from the partner"
+      "Finding the Kernel of Truth",
+      "Compromising Everything",
+      "Gaslighting Yourself",
+      "Passive Agreement"
     ],
     "correctAnswer": 0,
-    "explanation": "'I' statements (e.g., 'I feel overwhelmed when...') take ownership of feelings rather than accusing the partner, reducing conflict escalation.",
+    "explanation": "Acknowledging 'You're right that I didn't communicate my schedule clearly' diffuses defensiveness and models maturity.",
     "tags": [
       "relationships",
-      "communication",
+      "conflict-resolution",
       "easy"
     ],
     "active": true
@@ -1285,15 +1285,15 @@
     "category": "Relationships",
     "subcategory": "Conflict Resolution",
     "difficulty": "medium",
-    "question": "In healthy relationship dynamics and interpersonal communication: What is the core distinction between empathy and sympathy in emotional intelligence? (Ref #62)",
+    "question": "What conflict resolution step involves expressing genuine remorse, acknowledging specific harm, and asking how to make amends?",
     "options": [
-      "Sympathy requires sharing identical life experiences, whereas empathy is superficial polite agreement",
-      "Empathy means genuinely understanding and feeling another person's perspective, while sympathy is feeling pity from a detached viewpoint",
-      "Empathy is only practiced between family members, while sympathy is for strangers",
-      "There is no psychological difference between the two terms"
+      "A Defensive Justification",
+      "A Sincere Apology (Restorative Amends)",
+      "A Conditional Excuse",
+      "A Passive Dismissal"
     ],
     "correctAnswer": 1,
-    "explanation": "Empathy connects with someone by taking their perspective and feeling with them; sympathy observes from outside with feelings of pity or sorrow.",
+    "explanation": "A true apology says 'I was wrong to speak to you that way, I hurt your feelings, and I will be more mindful' without adding 'but you made me do it.'",
     "tags": [
       "relationships",
       "conflict-resolution",
@@ -1302,64 +1302,64 @@
     "active": true
   },
   {
-    "id": "relationships-emotional-intelligence-0063",
+    "id": "relationships-conflict-resolution-0063",
     "category": "Relationships",
-    "subcategory": "Emotional Intelligence",
+    "subcategory": "Conflict Resolution",
     "difficulty": "hard",
-    "question": "In healthy relationship dynamics and interpersonal communication: Which behavior is a core component of active listening during relationship conversations? (Ref #63)",
+    "question": "What relational concept describes accepting that two people can experience the exact same event differently and both perspectives can have emotional validity?",
     "options": [
-      "Interrupting immediately to offer solutions before the speaker finishes",
-      "Looking at a smartphone while nodding periodically",
-      "Paraphrasing what the speaker shared to verify understanding before formulating a response",
-      "Silently preparing your rebuttal while the other person is talking"
+      "Objective Absolutism",
+      "Relational Relativism",
+      "The 'Two Truths' Principle (Multiple Valid Realities)",
+      "Doublethink"
     ],
     "correctAnswer": 2,
-    "explanation": "Active listening requires paying undivided attention, reflecting back what was heard, and validating emotions without jumping to defensive rebuttals.",
+    "explanation": "Relationships flourish when partners stop fighting over who has the 'correct' memory and start validating how the experience felt to each person.",
     "tags": [
       "relationships",
-      "emotional-intelligence",
+      "conflict-resolution",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "relationships-friendship-trust-0064",
+    "id": "relationships-conflict-resolution-0064",
     "category": "Relationships",
-    "subcategory": "Friendship & Trust",
+    "subcategory": "Conflict Resolution",
     "difficulty": "easy",
-    "question": "In healthy relationship dynamics and interpersonal communication: According to relationship counseling frameworks, what is the primary purpose of setting healthy personal boundaries? (Ref #64)",
+    "question": "What conflict technique involves agreeing to implement an experimental compromise for two weeks and then evaluating how it worked?",
     "options": [
-      "To punish the partner whenever disagreements arise",
-      "To isolate oneself completely from friends and family",
-      "To control the partner's schedule and social interactions",
-      "To clearly communicate what behaviors are acceptable to protect personal well-being and foster mutual respect"
+      "Permanent Settlement",
+      "Stalemate Acceptance",
+      "Unconditional Surrender",
+      "The Trial Agreement (Behavioral Experiment)"
     ],
     "correctAnswer": 3,
-    "explanation": "Healthy boundaries establish clear expectations regarding personal space, values, and emotional safety, supporting long-term relationship trust.",
+    "explanation": "Framing compromises as temporary experiments lowers emotional stakes and encourages flexible problem-solving.",
     "tags": [
       "relationships",
-      "friendship-trust",
+      "conflict-resolution",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "relationships-communication-0065",
+    "id": "relationships-conflict-resolution-0065",
     "category": "Relationships",
-    "subcategory": "Communication",
+    "subcategory": "Conflict Resolution",
     "difficulty": "medium",
-    "question": "In healthy relationship dynamics and interpersonal communication: According to Dr. Gary Chapman's popular relationship framework, which of the following is one of the Five Love Languages? (Ref #65)",
+    "question": "What constructive practice involves debriefing an argument together after calm has returned to understand what went wrong without reigniting the fight?",
     "options": [
-      "Words of Affirmation",
-      "Financial Control",
-      "Intellectual Superiority",
-      "Public Performance"
+      "The Aftermath of a Fight Dialogue",
+      "A Victory Lap",
+      "Silent Forgetting",
+      "Secondary Accusation"
     ],
     "correctAnswer": 0,
-    "explanation": "The Five Love Languages are Words of Affirmation, Quality Time, Receiving Gifts, Acts of Service, and Physical Touch.",
+    "explanation": "Gottman recommends analyzing the trigger, feelings experienced, and what each person can do differently next time.",
     "tags": [
       "relationships",
-      "communication",
+      "conflict-resolution",
       "medium"
     ],
     "active": true
@@ -1369,15 +1369,15 @@
     "category": "Relationships",
     "subcategory": "Conflict Resolution",
     "difficulty": "hard",
-    "question": "In healthy relationship dynamics and interpersonal communication: When repairing trust after a relationship misunderstanding, which element is essential for a sincere apology? (Ref #66)",
+    "question": "What healthy mindset recognizes that conflict is not a sign of relationship failure, but an inevitable opportunity for deeper understanding?",
     "options": [
-      "Saying 'I am sorry you feel that way' to deflect responsibility",
-      "Acknowledging specific hurt caused, taking genuine accountability, and committing to changed behavior",
-      "Giving expensive gifts while refusing to discuss what happened",
-      "Blaming external circumstances for one's own actions"
+      "Conflict Avoidance",
+      "Viewing Conflict as a Growth Catalyst",
+      "Pessimistic Realism",
+      "Fatalism"
     ],
     "correctAnswer": 1,
-    "explanation": "Meaningful apologies require acknowledging harm, validating the other person's pain, taking ownership without defensiveness, and demonstrating behavioral change.",
+    "explanation": "When navigated with respect and empathy, overcoming disagreements strengthens trust and deepens long-term intimacy.",
     "tags": [
       "relationships",
       "conflict-resolution",
@@ -1390,15 +1390,15 @@
     "category": "Relationships",
     "subcategory": "Emotional Intelligence",
     "difficulty": "easy",
-    "question": "In healthy relationship dynamics and interpersonal communication: Why are 'I' statements favored over 'You' statements in constructive relationship communication? (Ref #67)",
+    "question": "What American psychologist popularized the concept of Emotional Intelligence (EQ) in his groundbreaking 1995 bestselling book?",
     "options": [
-      "They ensure one partner always dominates the discussion",
-      "They avoid discussing difficult emotional topics altogether",
-      "They express personal feelings and needs without triggering defensive reactions or placing blame",
-      "They demand immediate compliance from the partner"
+      "Howard Gardner",
+      "Peter Salovey",
+      "Daniel Goleman",
+      "John Mayer"
     ],
     "correctAnswer": 2,
-    "explanation": "'I' statements (e.g., 'I feel overwhelmed when...') take ownership of feelings rather than accusing the partner, reducing conflict escalation.",
+    "explanation": "Goleman demonstrated that emotional competencies like self-awareness and empathy are stronger predictors of life success than traditional IQ.",
     "tags": [
       "relationships",
       "emotional-intelligence",
@@ -1407,64 +1407,64 @@
     "active": true
   },
   {
-    "id": "relationships-friendship-trust-0068",
+    "id": "relationships-emotional-intelligence-0068",
     "category": "Relationships",
-    "subcategory": "Friendship & Trust",
+    "subcategory": "Emotional Intelligence",
     "difficulty": "medium",
-    "question": "In healthy relationship dynamics and interpersonal communication: What is the core distinction between empathy and sympathy in emotional intelligence? (Ref #68)",
+    "question": "What are the five core domains of Emotional Intelligence outlined in Daniel Goleman's framework?",
     "options": [
-      "Sympathy requires sharing identical life experiences, whereas empathy is superficial polite agreement",
-      "Empathy is only practiced between family members, while sympathy is for strangers",
-      "There is no psychological difference between the two terms",
-      "Empathy means genuinely understanding and feeling another person's perspective, while sympathy is feeling pity from a detached viewpoint"
+      "Intelligence, Memory, Logic, Reasoning, and Perception",
+      "Confidence, Aggression, Dominance, Power, and Control",
+      "Patience, Kindness, Faith, Hope, and Charity",
+      "Self-Awareness, Self-Regulation, Motivation, Empathy, and Social Skills"
     ],
     "correctAnswer": 3,
-    "explanation": "Empathy connects with someone by taking their perspective and feeling with them; sympathy observes from outside with feelings of pity or sorrow.",
+    "explanation": "These five competencies govern how individuals recognize, manage, and channel emotions within themselves and in relationships.",
     "tags": [
       "relationships",
-      "friendship-trust",
+      "emotional-intelligence",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "relationships-communication-0069",
+    "id": "relationships-emotional-intelligence-0069",
     "category": "Relationships",
-    "subcategory": "Communication",
+    "subcategory": "Emotional Intelligence",
     "difficulty": "hard",
-    "question": "In healthy relationship dynamics and interpersonal communication: Which behavior is a core component of active listening during relationship conversations? (Ref #69)",
+    "question": "What core EQ competency involves recognizing and understanding your own personal moods, emotions, triggers, and their effects on others?",
     "options": [
-      "Paraphrasing what the speaker shared to verify understanding before formulating a response",
-      "Interrupting immediately to offer solutions before the speaker finishes",
-      "Looking at a smartphone while nodding periodically",
-      "Silently preparing your rebuttal while the other person is talking"
+      "Self-Awareness",
+      "Self-Regulation",
+      "Empathy",
+      "Social Skills"
     ],
     "correctAnswer": 0,
-    "explanation": "Active listening requires paying undivided attention, reflecting back what was heard, and validating emotions without jumping to defensive rebuttals.",
+    "explanation": "Self-awareness is the foundational bedrock of emotional intelligence, enabling conscious choice rather than automatic emotional reaction.",
     "tags": [
       "relationships",
-      "communication",
+      "emotional-intelligence",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "relationships-conflict-resolution-0070",
+    "id": "relationships-emotional-intelligence-0070",
     "category": "Relationships",
-    "subcategory": "Conflict Resolution",
+    "subcategory": "Emotional Intelligence",
     "difficulty": "easy",
-    "question": "In healthy relationship dynamics and interpersonal communication: According to relationship counseling frameworks, what is the primary purpose of setting healthy personal boundaries? (Ref #70)",
+    "question": "What core EQ domain involves the ability to control or redirect disruptive emotional impulses and think before acting?",
     "options": [
-      "To punish the partner whenever disagreements arise",
-      "To clearly communicate what behaviors are acceptable to protect personal well-being and foster mutual respect",
-      "To isolate oneself completely from friends and family",
-      "To control the partner's schedule and social interactions"
+      "Self-Awareness",
+      "Self-Regulation (Emotional Self-Control)",
+      "Motivation",
+      "Empathy"
     ],
     "correctAnswer": 1,
-    "explanation": "Healthy boundaries establish clear expectations regarding personal space, values, and emotional safety, supporting long-term relationship trust.",
+    "explanation": "Self-regulation prevents impulsive rage, emotional outbursts, and destructive behaviors through mindfulness and emotional composure.",
     "tags": [
       "relationships",
-      "conflict-resolution",
+      "emotional-intelligence",
       "easy"
     ],
     "active": true
@@ -1474,15 +1474,15 @@
     "category": "Relationships",
     "subcategory": "Emotional Intelligence",
     "difficulty": "medium",
-    "question": "In healthy relationship dynamics and interpersonal communication: According to Dr. Gary Chapman's popular relationship framework, which of the following is one of the Five Love Languages? (Ref #71)",
+    "question": "What core EQ competency involves the ability to understand the emotional makeup of other people and treat them according to their feelings?",
     "options": [
-      "Financial Control",
-      "Intellectual Superiority",
-      "Words of Affirmation",
-      "Public Performance"
+      "Sympathy",
+      "Self-Awareness",
+      "Empathy",
+      "Social Coordination"
     ],
     "correctAnswer": 2,
-    "explanation": "The Five Love Languages are Words of Affirmation, Quality Time, Receiving Gifts, Acts of Service, and Physical Touch.",
+    "explanation": "Empathy allows individuals to step into another person's shoes, feeling with them rather than merely feeling sorry for them.",
     "tags": [
       "relationships",
       "emotional-intelligence",
@@ -1491,64 +1491,64 @@
     "active": true
   },
   {
-    "id": "relationships-friendship-trust-0072",
+    "id": "relationships-emotional-intelligence-0072",
     "category": "Relationships",
-    "subcategory": "Friendship & Trust",
+    "subcategory": "Emotional Intelligence",
     "difficulty": "hard",
-    "question": "In healthy relationship dynamics and interpersonal communication: When repairing trust after a relationship misunderstanding, which element is essential for a sincere apology? (Ref #72)",
+    "question": "What is the fundamental difference between Empathy and Sympathy in interpersonal relationships?",
     "options": [
-      "Saying 'I am sorry you feel that way' to deflect responsibility",
-      "Giving expensive gifts while refusing to discuss what happened",
-      "Blaming external circumstances for one's own actions",
-      "Acknowledging specific hurt caused, taking genuine accountability, and committing to changed behavior"
+      "Empathy is passive; sympathy is active",
+      "Sympathy solves the problem; empathy ignores it",
+      "There is no difference between them",
+      "Empathy involves feeling with someone and sharing their emotional reality, while sympathy involves feeling pity or sorrow from an outside distance"
     ],
     "correctAnswer": 3,
-    "explanation": "Meaningful apologies require acknowledging harm, validating the other person's pain, taking ownership without defensiveness, and demonstrating behavioral change.",
+    "explanation": "As researcher Brené Brown notes, empathy fuels genuine human connection, whereas sympathy often drives disconnection.",
     "tags": [
       "relationships",
-      "friendship-trust",
+      "emotional-intelligence",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "relationships-communication-0073",
+    "id": "relationships-emotional-intelligence-0073",
     "category": "Relationships",
-    "subcategory": "Communication",
+    "subcategory": "Emotional Intelligence",
     "difficulty": "easy",
-    "question": "In healthy relationship dynamics and interpersonal communication: Why are 'I' statements favored over 'You' statements in constructive relationship communication? (Ref #73)",
+    "question": "What form of empathy involves intellectually understanding someone else's perspective, thoughts, and mental state without feeling their emotion?",
     "options": [
-      "They express personal feelings and needs without triggering defensive reactions or placing blame",
-      "They ensure one partner always dominates the discussion",
-      "They avoid discussing difficult emotional topics altogether",
-      "They demand immediate compliance from the partner"
+      "Cognitive Empathy (Perspective Taking)",
+      "Emotional Empathy",
+      "Compassionate Empathy",
+      "Somatic Empathy"
     ],
     "correctAnswer": 0,
-    "explanation": "'I' statements (e.g., 'I feel overwhelmed when...') take ownership of feelings rather than accusing the partner, reducing conflict escalation.",
+    "explanation": "Cognitive empathy helps negotiators understand how another party views a situation, essential for strategic problem-solving.",
     "tags": [
       "relationships",
-      "communication",
+      "emotional-intelligence",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "relationships-conflict-resolution-0074",
+    "id": "relationships-emotional-intelligence-0074",
     "category": "Relationships",
-    "subcategory": "Conflict Resolution",
+    "subcategory": "Emotional Intelligence",
     "difficulty": "medium",
-    "question": "In healthy relationship dynamics and interpersonal communication: What is the core distinction between empathy and sympathy in emotional intelligence? (Ref #74)",
+    "question": "What type of empathy involves physically or emotionally feeling the sensations and emotions experienced by another person?",
     "options": [
-      "Sympathy requires sharing identical life experiences, whereas empathy is superficial polite agreement",
-      "Empathy means genuinely understanding and feeling another person's perspective, while sympathy is feeling pity from a detached viewpoint",
-      "Empathy is only practiced between family members, while sympathy is for strangers",
-      "There is no psychological difference between the two terms"
+      "Cognitive Empathy",
+      "Emotional Empathy (Affective Empathy)",
+      "Compassionate Empathy",
+      "Intellectual Empathy"
     ],
     "correctAnswer": 1,
-    "explanation": "Empathy connects with someone by taking their perspective and feeling with them; sympathy observes from outside with feelings of pity or sorrow.",
+    "explanation": "Emotional empathy creates deep human resonance, but without boundaries can lead to emotional exhaustion and caregiver burnout.",
     "tags": [
       "relationships",
-      "conflict-resolution",
+      "emotional-intelligence",
       "medium"
     ],
     "active": true
@@ -1558,15 +1558,15 @@
     "category": "Relationships",
     "subcategory": "Emotional Intelligence",
     "difficulty": "hard",
-    "question": "In healthy relationship dynamics and interpersonal communication: Which behavior is a core component of active listening during relationship conversations? (Ref #75)",
+    "question": "What highest form of empathy combines emotional understanding with a spontaneous, caring desire to take action and help?",
     "options": [
-      "Interrupting immediately to offer solutions before the speaker finishes",
-      "Looking at a smartphone while nodding periodically",
-      "Paraphrasing what the speaker shared to verify understanding before formulating a response",
-      "Silently preparing your rebuttal while the other person is talking"
+      "Cognitive Empathy",
+      "Emotional Empathy",
+      "Compassionate Empathy (Empathetic Concern)",
+      "Sympathy"
     ],
     "correctAnswer": 2,
-    "explanation": "Active listening requires paying undivided attention, reflecting back what was heard, and validating emotions without jumping to defensive rebuttals.",
+    "explanation": "Compassionate empathy bridges the gap between feeling someone's pain and providing practical, supportive action.",
     "tags": [
       "relationships",
       "emotional-intelligence",
@@ -1575,64 +1575,64 @@
     "active": true
   },
   {
-    "id": "relationships-friendship-trust-0076",
+    "id": "relationships-emotional-intelligence-0076",
     "category": "Relationships",
-    "subcategory": "Friendship & Trust",
+    "subcategory": "Emotional Intelligence",
     "difficulty": "easy",
-    "question": "In healthy relationship dynamics and interpersonal communication: According to relationship counseling frameworks, what is the primary purpose of setting healthy personal boundaries? (Ref #76)",
+    "question": "What neurological brain structure acts as the emotional alarm center, triggering instantaneous fight, flight, or freeze survival responses?",
     "options": [
-      "To punish the partner whenever disagreements arise",
-      "To isolate oneself completely from friends and family",
-      "To control the partner's schedule and social interactions",
-      "To clearly communicate what behaviors are acceptable to protect personal well-being and foster mutual respect"
+      "The Prefrontal Cortex",
+      "The Hippocampus",
+      "The Medulla",
+      "The Amygdala"
     ],
     "correctAnswer": 3,
-    "explanation": "Healthy boundaries establish clear expectations regarding personal space, values, and emotional safety, supporting long-term relationship trust.",
+    "explanation": "Pioneered by Joseph LeDoux, the amygdala scans for threats and can hijack rational thinking in milliseconds.",
     "tags": [
       "relationships",
-      "friendship-trust",
+      "emotional-intelligence",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "relationships-communication-0077",
+    "id": "relationships-emotional-intelligence-0077",
     "category": "Relationships",
-    "subcategory": "Communication",
+    "subcategory": "Emotional Intelligence",
     "difficulty": "medium",
-    "question": "In healthy relationship dynamics and interpersonal communication: According to Dr. Gary Chapman's popular relationship framework, which of the following is one of the Five Love Languages? (Ref #77)",
+    "question": "What term, coined by Daniel Goleman, describes sudden emotional overreactions that bypass rational prefrontal brain control?",
     "options": [
-      "Words of Affirmation",
-      "Financial Control",
-      "Intellectual Superiority",
-      "Public Performance"
+      "An Amygdala Hijack",
+      "A Panic Attack",
+      "A Cognitive Shift",
+      "An Emotional Surge"
     ],
     "correctAnswer": 0,
-    "explanation": "The Five Love Languages are Words of Affirmation, Quality Time, Receiving Gifts, Acts of Service, and Physical Touch.",
+    "explanation": "An amygdala hijack causes impulsive shouting or defensiveness before the thinking brain can assess whether real danger exists.",
     "tags": [
       "relationships",
-      "communication",
+      "emotional-intelligence",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "relationships-conflict-resolution-0078",
+    "id": "relationships-emotional-intelligence-0078",
     "category": "Relationships",
-    "subcategory": "Conflict Resolution",
+    "subcategory": "Emotional Intelligence",
     "difficulty": "hard",
-    "question": "In healthy relationship dynamics and interpersonal communication: When repairing trust after a relationship misunderstanding, which element is essential for a sincere apology? (Ref #78)",
+    "question": "What brain region responsible for executive functioning, impulse control, and rational decision-making calms the amygdala down?",
     "options": [
-      "Saying 'I am sorry you feel that way' to deflect responsibility",
-      "Acknowledging specific hurt caused, taking genuine accountability, and committing to changed behavior",
-      "Giving expensive gifts while refusing to discuss what happened",
-      "Blaming external circumstances for one's own actions"
+      "The Cerebellum",
+      "The Prefrontal Cortex (PFC)",
+      "The Brainstem",
+      "The Occipital Lobe"
     ],
     "correctAnswer": 1,
-    "explanation": "Meaningful apologies require acknowledging harm, validating the other person's pain, taking ownership without defensiveness, and demonstrating behavioral change.",
+    "explanation": "Developing strong prefrontal neural pathways through mindfulness strengthens emotional self-regulation and pause capacity.",
     "tags": [
       "relationships",
-      "conflict-resolution",
+      "emotional-intelligence",
       "hard"
     ],
     "active": true
@@ -1642,15 +1642,15 @@
     "category": "Relationships",
     "subcategory": "Emotional Intelligence",
     "difficulty": "easy",
-    "question": "In healthy relationship dynamics and interpersonal communication: Why are 'I' statements favored over 'You' statements in constructive relationship communication? (Ref #79)",
+    "question": "What emotional regulation practice involves verbally naming what you are feeling to reduce amygdala reactivity ('Name it to tame it')?",
     "options": [
-      "They ensure one partner always dominates the discussion",
-      "They avoid discussing difficult emotional topics altogether",
-      "They express personal feelings and needs without triggering defensive reactions or placing blame",
-      "They demand immediate compliance from the partner"
+      "Emotional Suppression",
+      "Intellectualization",
+      "Affect Labeling (Emotional Granularity)",
+      "Rumination"
     ],
     "correctAnswer": 2,
-    "explanation": "'I' statements (e.g., 'I feel overwhelmed when...') take ownership of feelings rather than accusing the partner, reducing conflict escalation.",
+    "explanation": "Research by Matthew Lieberman shows that putting feelings into precise words ('I feel resentful and unappreciated') dampens emotional arousal.",
     "tags": [
       "relationships",
       "emotional-intelligence",
@@ -1659,64 +1659,64 @@
     "active": true
   },
   {
-    "id": "relationships-friendship-trust-0080",
+    "id": "relationships-emotional-intelligence-0080",
     "category": "Relationships",
-    "subcategory": "Friendship & Trust",
+    "subcategory": "Emotional Intelligence",
     "difficulty": "medium",
-    "question": "In healthy relationship dynamics and interpersonal communication: What is the core distinction between empathy and sympathy in emotional intelligence? (Ref #80)",
+    "question": "What concept, developed by Dr. Lisa Feldman Barrett, describes having a rich, nuanced vocabulary to differentiate specific emotional states?",
     "options": [
-      "Sympathy requires sharing identical life experiences, whereas empathy is superficial polite agreement",
-      "Empathy is only practiced between family members, while sympathy is for strangers",
-      "There is no psychological difference between the two terms",
-      "Empathy means genuinely understanding and feeling another person's perspective, while sympathy is feeling pity from a detached viewpoint"
+      "Emotional Stability",
+      "Cognitive Rigidity",
+      "Emotional Flooding",
+      "Emotional Granularity"
     ],
     "correctAnswer": 3,
-    "explanation": "Empathy connects with someone by taking their perspective and feeling with them; sympathy observes from outside with feelings of pity or sorrow.",
+    "explanation": "Distinguishing between feeling 'tired', 'disappointed', or 'isolated' allows more targeted, effective emotional regulation than just feeling 'bad.'",
     "tags": [
       "relationships",
-      "friendship-trust",
+      "emotional-intelligence",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "relationships-communication-0081",
+    "id": "relationships-emotional-intelligence-0081",
     "category": "Relationships",
-    "subcategory": "Communication",
+    "subcategory": "Emotional Intelligence",
     "difficulty": "hard",
-    "question": "In healthy relationship dynamics and interpersonal communication: Which behavior is a core component of active listening during relationship conversations? (Ref #81)",
+    "question": "What unhelpful coping strategy involves consciously forcing emotions down and pretending they do not exist?",
     "options": [
-      "Paraphrasing what the speaker shared to verify understanding before formulating a response",
-      "Interrupting immediately to offer solutions before the speaker finishes",
-      "Looking at a smartphone while nodding periodically",
-      "Silently preparing your rebuttal while the other person is talking"
+      "Emotional Suppression",
+      "Emotional Acceptance",
+      "Cognitive Reappraisal",
+      "Mindful Observation"
     ],
     "correctAnswer": 0,
-    "explanation": "Active listening requires paying undivided attention, reflecting back what was heard, and validating emotions without jumping to defensive rebuttals.",
+    "explanation": "Suppression increases internal physiological stress, elevates blood pressure, and often results in sudden passive-aggressive eruptions.",
     "tags": [
       "relationships",
-      "communication",
+      "emotional-intelligence",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "relationships-conflict-resolution-0082",
+    "id": "relationships-emotional-intelligence-0082",
     "category": "Relationships",
-    "subcategory": "Conflict Resolution",
+    "subcategory": "Emotional Intelligence",
     "difficulty": "easy",
-    "question": "In healthy relationship dynamics and interpersonal communication: According to relationship counseling frameworks, what is the primary purpose of setting healthy personal boundaries? (Ref #82)",
+    "question": "What cognitive emotional regulation strategy involves changing how you interpret or think about a situation to alter its emotional impact?",
     "options": [
-      "To punish the partner whenever disagreements arise",
-      "To clearly communicate what behaviors are acceptable to protect personal well-being and foster mutual respect",
-      "To isolate oneself completely from friends and family",
-      "To control the partner's schedule and social interactions"
+      "Emotional Suppression",
+      "Cognitive Reappraisal (Reframing)",
+      "Rumination",
+      "Catastrophizing"
     ],
     "correctAnswer": 1,
-    "explanation": "Healthy boundaries establish clear expectations regarding personal space, values, and emotional safety, supporting long-term relationship trust.",
+    "explanation": "Reappraising a colleague's curt email as 'they must be rushing to a family emergency' prevents taking the tone personally.",
     "tags": [
       "relationships",
-      "conflict-resolution",
+      "emotional-intelligence",
       "easy"
     ],
     "active": true
@@ -1726,15 +1726,15 @@
     "category": "Relationships",
     "subcategory": "Emotional Intelligence",
     "difficulty": "medium",
-    "question": "In healthy relationship dynamics and interpersonal communication: According to Dr. Gary Chapman's popular relationship framework, which of the following is one of the Five Love Languages? (Ref #83)",
+    "question": "What mental trap involves focusing obsessively on distress, past mistakes, and negative emotions in a repetitive loop?",
     "options": [
-      "Financial Control",
-      "Intellectual Superiority",
-      "Words of Affirmation",
-      "Public Performance"
+      "Reflection",
+      "Mindfulness",
+      "Rumination",
+      "Self-Awareness"
     ],
     "correctAnswer": 2,
-    "explanation": "The Five Love Languages are Words of Affirmation, Quality Time, Receiving Gifts, Acts of Service, and Physical Touch.",
+    "explanation": "Rumination amplifies depression and anxiety without leading to constructive action or problem-solving.",
     "tags": [
       "relationships",
       "emotional-intelligence",
@@ -1743,64 +1743,64 @@
     "active": true
   },
   {
-    "id": "relationships-friendship-trust-0084",
+    "id": "relationships-emotional-intelligence-0084",
     "category": "Relationships",
-    "subcategory": "Friendship & Trust",
+    "subcategory": "Emotional Intelligence",
     "difficulty": "hard",
-    "question": "In healthy relationship dynamics and interpersonal communication: When repairing trust after a relationship misunderstanding, which element is essential for a sincere apology? (Ref #84)",
+    "question": "What internal drive described in Goleman's EQ framework pursues goals for personal fulfillment and growth rather than money or status?",
     "options": [
-      "Saying 'I am sorry you feel that way' to deflect responsibility",
-      "Giving expensive gifts while refusing to discuss what happened",
-      "Blaming external circumstances for one's own actions",
-      "Acknowledging specific hurt caused, taking genuine accountability, and committing to changed behavior"
+      "Extrinsic Motivation",
+      "Social Pressure",
+      "Fear of Failure",
+      "Intrinsic Motivation"
     ],
     "correctAnswer": 3,
-    "explanation": "Meaningful apologies require acknowledging harm, validating the other person's pain, taking ownership without defensiveness, and demonstrating behavioral change.",
+    "explanation": "Intrinsically motivated individuals demonstrate deep resilience, curiosity, and perseverance in the face of setbacks.",
     "tags": [
       "relationships",
-      "friendship-trust",
+      "emotional-intelligence",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "relationships-communication-0085",
+    "id": "relationships-emotional-intelligence-0085",
     "category": "Relationships",
-    "subcategory": "Communication",
+    "subcategory": "Emotional Intelligence",
     "difficulty": "easy",
-    "question": "In healthy relationship dynamics and interpersonal communication: Why are 'I' statements favored over 'You' statements in constructive relationship communication? (Ref #85)",
+    "question": "What Stanford University psychological experiment, conducted by Walter Mischel, linked childhood delayed gratification to future life success?",
     "options": [
-      "They express personal feelings and needs without triggering defensive reactions or placing blame",
-      "They ensure one partner always dominates the discussion",
-      "They avoid discussing difficult emotional topics altogether",
-      "They demand immediate compliance from the partner"
+      "The Marshmallow Test",
+      "The Stanford Prison Experiment",
+      "The Milgram Experiment",
+      "The Bobo Doll Experiment"
     ],
     "correctAnswer": 0,
-    "explanation": "'I' statements (e.g., 'I feel overwhelmed when...') take ownership of feelings rather than accusing the partner, reducing conflict escalation.",
+    "explanation": "Children who resisted eating one marshmallow immediately to receive two later showed higher academic and emotional resilience in adulthood.",
     "tags": [
       "relationships",
-      "communication",
+      "emotional-intelligence",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "relationships-conflict-resolution-0086",
+    "id": "relationships-emotional-intelligence-0086",
     "category": "Relationships",
-    "subcategory": "Conflict Resolution",
+    "subcategory": "Emotional Intelligence",
     "difficulty": "medium",
-    "question": "In healthy relationship dynamics and interpersonal communication: What is the core distinction between empathy and sympathy in emotional intelligence? (Ref #86)",
+    "question": "What psychological concept, introduced by Carl Rogers, describes accepting and valuing someone without conditions, judgment, or reservations?",
     "options": [
-      "Sympathy requires sharing identical life experiences, whereas empathy is superficial polite agreement",
-      "Empathy means genuinely understanding and feeling another person's perspective, while sympathy is feeling pity from a detached viewpoint",
-      "Empathy is only practiced between family members, while sympathy is for strangers",
-      "There is no psychological difference between the two terms"
+      "Conditional Acceptance",
+      "Unconditional Positive Regard",
+      "Empathetic Detachment",
+      "Moral Approval"
     ],
     "correctAnswer": 1,
-    "explanation": "Empathy connects with someone by taking their perspective and feeling with them; sympathy observes from outside with feelings of pity or sorrow.",
+    "explanation": "Providing unconditional positive regard creates psychological safety, allowing individuals to explore vulnerability without fear of rejection.",
     "tags": [
       "relationships",
-      "conflict-resolution",
+      "emotional-intelligence",
       "medium"
     ],
     "active": true
@@ -1810,15 +1810,15 @@
     "category": "Relationships",
     "subcategory": "Emotional Intelligence",
     "difficulty": "hard",
-    "question": "In healthy relationship dynamics and interpersonal communication: Which behavior is a core component of active listening during relationship conversations? (Ref #87)",
+    "question": "What term describes the subtle, unconscious process by which people mirror and absorb the moods and emotions of those around them?",
     "options": [
-      "Interrupting immediately to offer solutions before the speaker finishes",
-      "Looking at a smartphone while nodding periodically",
-      "Paraphrasing what the speaker shared to verify understanding before formulating a response",
-      "Silently preparing your rebuttal while the other person is talking"
+      "Social Mimicry",
+      "Affective Resonance",
+      "Emotional Contagion",
+      "Empathy Fatigue"
     ],
     "correctAnswer": 2,
-    "explanation": "Active listening requires paying undivided attention, reflecting back what was heard, and validating emotions without jumping to defensive rebuttals.",
+    "explanation": "Being around an anxious or irritable partner naturally triggers mirror neurons that induce similar stress unless shielded by boundaries.",
     "tags": [
       "relationships",
       "emotional-intelligence",
@@ -1827,64 +1827,64 @@
     "active": true
   },
   {
-    "id": "relationships-friendship-trust-0088",
+    "id": "relationships-emotional-intelligence-0088",
     "category": "Relationships",
-    "subcategory": "Friendship & Trust",
+    "subcategory": "Emotional Intelligence",
     "difficulty": "easy",
-    "question": "In healthy relationship dynamics and interpersonal communication: According to relationship counseling frameworks, what is the primary purpose of setting healthy personal boundaries? (Ref #88)",
+    "question": "What specialized brain cells fire both when performing an action and when observing someone else perform that same action?",
     "options": [
-      "To punish the partner whenever disagreements arise",
-      "To isolate oneself completely from friends and family",
-      "To control the partner's schedule and social interactions",
-      "To clearly communicate what behaviors are acceptable to protect personal well-being and foster mutual respect"
+      "Sensory Receptors",
+      "Glial Cells",
+      "Motor Interneurons",
+      "Mirror Neurons"
     ],
     "correctAnswer": 3,
-    "explanation": "Healthy boundaries establish clear expectations regarding personal space, values, and emotional safety, supporting long-term relationship trust.",
+    "explanation": "Discovered by Giacomo Rizzolatti, mirror neurons provide the biological neurological foundation for human empathy and social learning.",
     "tags": [
       "relationships",
-      "friendship-trust",
+      "emotional-intelligence",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "relationships-communication-0089",
+    "id": "relationships-emotional-intelligence-0089",
     "category": "Relationships",
-    "subcategory": "Communication",
+    "subcategory": "Emotional Intelligence",
     "difficulty": "medium",
-    "question": "In healthy relationship dynamics and interpersonal communication: According to Dr. Gary Chapman's popular relationship framework, which of the following is one of the Five Love Languages? (Ref #89)",
+    "question": "What state of physical, emotional, and mental exhaustion results from chronic, unmanaged empathetic absorption of others' suffering?",
     "options": [
-      "Words of Affirmation",
-      "Financial Control",
-      "Intellectual Superiority",
-      "Public Performance"
+      "Compassion Fatigue (Secondary Traumatic Stress)",
+      "Burnout",
+      "Empathy Deficit",
+      "Depersonalization"
     ],
     "correctAnswer": 0,
-    "explanation": "The Five Love Languages are Words of Affirmation, Quality Time, Receiving Gifts, Acts of Service, and Physical Touch.",
+    "explanation": "Common in healthcare workers and caregivers, compassion fatigue requires deliberate self-care boundaries and emotional detachment.",
     "tags": [
       "relationships",
-      "communication",
+      "emotional-intelligence",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "relationships-conflict-resolution-0090",
+    "id": "relationships-emotional-intelligence-0090",
     "category": "Relationships",
-    "subcategory": "Conflict Resolution",
+    "subcategory": "Emotional Intelligence",
     "difficulty": "hard",
-    "question": "In healthy relationship dynamics and interpersonal communication: When repairing trust after a relationship misunderstanding, which element is essential for a sincere apology? (Ref #90)",
+    "question": "What emotional ability allows a person to sit calmly with distress and difficult feelings without immediately needing to react or numb them?",
     "options": [
-      "Saying 'I am sorry you feel that way' to deflect responsibility",
-      "Acknowledging specific hurt caused, taking genuine accountability, and committing to changed behavior",
-      "Giving expensive gifts while refusing to discuss what happened",
-      "Blaming external circumstances for one's own actions"
+      "Emotional Avoidance",
+      "Distress Tolerance",
+      "Stoic Numbness",
+      "Impulse Suppression"
     ],
     "correctAnswer": 1,
-    "explanation": "Meaningful apologies require acknowledging harm, validating the other person's pain, taking ownership without defensiveness, and demonstrating behavioral change.",
+    "explanation": "A core skill in Dialectical Behavior Therapy (DBT), distress tolerance helps people navigate emotional crises without making them worse.",
     "tags": [
       "relationships",
-      "conflict-resolution",
+      "emotional-intelligence",
       "hard"
     ],
     "active": true
@@ -1894,15 +1894,15 @@
     "category": "Relationships",
     "subcategory": "Emotional Intelligence",
     "difficulty": "easy",
-    "question": "In healthy relationship dynamics and interpersonal communication: Why are 'I' statements favored over 'You' statements in constructive relationship communication? (Ref #91)",
+    "question": "What psychological capacity involves recovering quickly from difficulties, adapting to adversity, and growing stronger from failure?",
     "options": [
-      "They ensure one partner always dominates the discussion",
-      "They avoid discussing difficult emotional topics altogether",
-      "They express personal feelings and needs without triggering defensive reactions or placing blame",
-      "They demand immediate compliance from the partner"
+      "Rigidity",
+      "Stubbornness",
+      "Resilience (Psychological Hardiness)",
+      "Optimism"
     ],
     "correctAnswer": 2,
-    "explanation": "'I' statements (e.g., 'I feel overwhelmed when...') take ownership of feelings rather than accusing the partner, reducing conflict escalation.",
+    "explanation": "Resilient individuals view challenges as opportunities to learn, maintain supportive social networks, and practice self-compassion.",
     "tags": [
       "relationships",
       "emotional-intelligence",
@@ -1911,64 +1911,64 @@
     "active": true
   },
   {
-    "id": "relationships-friendship-trust-0092",
+    "id": "relationships-emotional-intelligence-0092",
     "category": "Relationships",
-    "subcategory": "Friendship & Trust",
+    "subcategory": "Emotional Intelligence",
     "difficulty": "medium",
-    "question": "In healthy relationship dynamics and interpersonal communication: What is the core distinction between empathy and sympathy in emotional intelligence? (Ref #92)",
+    "question": "What concept, popularized by Dr. Kristin Neff, involves treating oneself with kindness, understanding, and forgiveness during times of failure?",
     "options": [
-      "Sympathy requires sharing identical life experiences, whereas empathy is superficial polite agreement",
-      "Empathy is only practiced between family members, while sympathy is for strangers",
-      "There is no psychological difference between the two terms",
-      "Empathy means genuinely understanding and feeling another person's perspective, while sympathy is feeling pity from a detached viewpoint"
+      "Self-Esteem",
+      "Self-Pity",
+      "Self-Indulgence",
+      "Self-Compassion"
     ],
     "correctAnswer": 3,
-    "explanation": "Empathy connects with someone by taking their perspective and feeling with them; sympathy observes from outside with feelings of pity or sorrow.",
+    "explanation": "Self-compassion comprises three elements: self-kindness versus self-judgment, common humanity versus isolation, and mindfulness.",
     "tags": [
       "relationships",
-      "friendship-trust",
+      "emotional-intelligence",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "relationships-communication-0093",
+    "id": "relationships-emotional-intelligence-0093",
     "category": "Relationships",
-    "subcategory": "Communication",
+    "subcategory": "Emotional Intelligence",
     "difficulty": "hard",
-    "question": "In healthy relationship dynamics and interpersonal communication: Which behavior is a core component of active listening during relationship conversations? (Ref #93)",
+    "question": "What psychological trap defines self-worth based entirely on external achievements, comparisons, and approval from other people?",
     "options": [
-      "Paraphrasing what the speaker shared to verify understanding before formulating a response",
-      "Interrupting immediately to offer solutions before the speaker finishes",
-      "Looking at a smartphone while nodding periodically",
-      "Silently preparing your rebuttal while the other person is talking"
+      "Contingent Self-Esteem",
+      "Stable Self-Worth",
+      "Self-Compassion",
+      "Internal Validation"
     ],
     "correctAnswer": 0,
-    "explanation": "Active listening requires paying undivided attention, reflecting back what was heard, and validating emotions without jumping to defensive rebuttals.",
+    "explanation": "Contingent self-esteem creates fragile, volatile emotional swings dependent on the latest praise or criticism.",
     "tags": [
       "relationships",
-      "communication",
+      "emotional-intelligence",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "relationships-conflict-resolution-0094",
+    "id": "relationships-emotional-intelligence-0094",
     "category": "Relationships",
-    "subcategory": "Conflict Resolution",
+    "subcategory": "Emotional Intelligence",
     "difficulty": "easy",
-    "question": "In healthy relationship dynamics and interpersonal communication: According to relationship counseling frameworks, what is the primary purpose of setting healthy personal boundaries? (Ref #94)",
+    "question": "What term describes an individual's ability to tolerate emotional vulnerability, uncertainty, and emotional exposure without withdrawing?",
     "options": [
-      "To punish the partner whenever disagreements arise",
-      "To clearly communicate what behaviors are acceptable to protect personal well-being and foster mutual respect",
-      "To isolate oneself completely from friends and family",
-      "To control the partner's schedule and social interactions"
+      "Weakness",
+      "Vulnerability (as defined by Brené Brown)",
+      "Fragility",
+      "Impulsivity"
     ],
     "correctAnswer": 1,
-    "explanation": "Healthy boundaries establish clear expectations regarding personal space, values, and emotional safety, supporting long-term relationship trust.",
+    "explanation": "Brown's research demonstrates that vulnerability is not weakness, but the birthplace of courage, love, belonging, and authentic connection.",
     "tags": [
       "relationships",
-      "conflict-resolution",
+      "emotional-intelligence",
       "easy"
     ],
     "active": true
@@ -1978,15 +1978,15 @@
     "category": "Relationships",
     "subcategory": "Emotional Intelligence",
     "difficulty": "medium",
-    "question": "In healthy relationship dynamics and interpersonal communication: According to Dr. Gary Chapman's popular relationship framework, which of the following is one of the Five Love Languages? (Ref #95)",
+    "question": "What interpersonal phenomenon occurs when sharing vulnerability with a trusted person is met with empathy, creating deep emotional safety?",
     "options": [
-      "Financial Control",
-      "Intellectual Superiority",
-      "Words of Affirmation",
-      "Public Performance"
+      "Validation",
+      "Co-Regulation",
+      "Attunement (Emotional Resonance)",
+      "Mirroring"
     ],
     "correctAnswer": 2,
-    "explanation": "The Five Love Languages are Words of Affirmation, Quality Time, Receiving Gifts, Acts of Service, and Physical Touch.",
+    "explanation": "Parental and partner attunement teaches the nervous system that emotions are safe and can be shared without abandonment.",
     "tags": [
       "relationships",
       "emotional-intelligence",
@@ -1995,85 +1995,85 @@
     "active": true
   },
   {
-    "id": "relationships-friendship-trust-0096",
+    "id": "relationships-emotional-intelligence-0096",
     "category": "Relationships",
-    "subcategory": "Friendship & Trust",
+    "subcategory": "Emotional Intelligence",
     "difficulty": "hard",
-    "question": "In healthy relationship dynamics and interpersonal communication: When repairing trust after a relationship misunderstanding, which element is essential for a sincere apology? (Ref #96)",
+    "question": "What relational process involves two people using mutual eye contact, gentle voice, and physical touch to calm each other's nervous systems?",
     "options": [
-      "Saying 'I am sorry you feel that way' to deflect responsibility",
-      "Giving expensive gifts while refusing to discuss what happened",
-      "Blaming external circumstances for one's own actions",
-      "Acknowledging specific hurt caused, taking genuine accountability, and committing to changed behavior"
+      "Self-Regulation",
+      "Emotional Dependence",
+      "Enmeshment",
+      "Co-Regulation"
     ],
     "correctAnswer": 3,
-    "explanation": "Meaningful apologies require acknowledging harm, validating the other person's pain, taking ownership without defensiveness, and demonstrating behavioral change.",
+    "explanation": "Human nervous systems are designed to regulate collaboratively, providing deep security and soothing distress through connection.",
     "tags": [
       "relationships",
-      "friendship-trust",
+      "emotional-intelligence",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "relationships-communication-0097",
+    "id": "relationships-emotional-intelligence-0097",
     "category": "Relationships",
-    "subcategory": "Communication",
+    "subcategory": "Emotional Intelligence",
     "difficulty": "easy",
-    "question": "In healthy relationship dynamics and interpersonal communication: Why are 'I' statements favored over 'You' statements in constructive relationship communication? (Ref #97)",
+    "question": "What emotional skill involves recognizing that your initial emotional reaction is real, but does not necessarily represent objective factual truth?",
     "options": [
-      "They express personal feelings and needs without triggering defensive reactions or placing blame",
-      "They ensure one partner always dominates the discussion",
-      "They avoid discussing difficult emotional topics altogether",
-      "They demand immediate compliance from the partner"
+      "Separating Feelings from Facts",
+      "Emotional Reasoning",
+      "Rationalization",
+      "Cognitive Distortion"
     ],
     "correctAnswer": 0,
-    "explanation": "'I' statements (e.g., 'I feel overwhelmed when...') take ownership of feelings rather than accusing the partner, reducing conflict escalation.",
+    "explanation": "Emotional reasoning falsely concludes 'I feel unloved, therefore my partner does not love me'; high EQ checks objective facts first.",
     "tags": [
       "relationships",
-      "communication",
+      "emotional-intelligence",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "relationships-conflict-resolution-0098",
+    "id": "relationships-emotional-intelligence-0098",
     "category": "Relationships",
-    "subcategory": "Conflict Resolution",
+    "subcategory": "Emotional Intelligence",
     "difficulty": "medium",
-    "question": "In healthy relationship dynamics and interpersonal communication: What is the core distinction between empathy and sympathy in emotional intelligence? (Ref #98)",
+    "question": "What healthy emotional practice involves consciously expressing love, appreciation, and affection rather than assuming your partner 'already knows'?",
     "options": [
-      "Sympathy requires sharing identical life experiences, whereas empathy is superficial polite agreement",
-      "Empathy means genuinely understanding and feeling another person's perspective, while sympathy is feeling pity from a detached viewpoint",
-      "Empathy is only practiced between family members, while sympathy is for strangers",
-      "There is no psychological difference between the two terms"
+      "Implicit Trust",
+      "Active Emotional Affirmation",
+      "Passive Affection",
+      "Conditional Approval"
     ],
     "correctAnswer": 1,
-    "explanation": "Empathy connects with someone by taking their perspective and feeling with them; sympathy observes from outside with feelings of pity or sorrow.",
+    "explanation": "Verbal and behavioral affirmations reinforce emotional safety, reassuring partners that they are cherished and valued in the relationship.",
     "tags": [
       "relationships",
-      "conflict-resolution",
+      "emotional-intelligence",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "relationships-emotional-intelligence-0099",
+    "id": "relationships-friendship-trust-0099",
     "category": "Relationships",
-    "subcategory": "Emotional Intelligence",
+    "subcategory": "Friendship & Trust",
     "difficulty": "hard",
-    "question": "In healthy relationship dynamics and interpersonal communication: Which behavior is a core component of active listening during relationship conversations? (Ref #99)",
+    "question": "What fundamental relationship currency takes months or years to build through consistent actions, but can be destroyed in seconds?",
     "options": [
-      "Interrupting immediately to offer solutions before the speaker finishes",
-      "Looking at a smartphone while nodding periodically",
-      "Paraphrasing what the speaker shared to verify understanding before formulating a response",
-      "Silently preparing your rebuttal while the other person is talking"
+      "Affection",
+      "Charisma",
+      "Trust",
+      "Generosity"
     ],
     "correctAnswer": 2,
-    "explanation": "Active listening requires paying undivided attention, reflecting back what was heard, and validating emotions without jumping to defensive rebuttals.",
+    "explanation": "Trust is the confident reliance on the integrity, honesty, reliability, and character of another person.",
     "tags": [
       "relationships",
-      "emotional-intelligence",
+      "friendship-trust",
       "hard"
     ],
     "active": true
@@ -2083,15 +2083,15 @@
     "category": "Relationships",
     "subcategory": "Friendship & Trust",
     "difficulty": "easy",
-    "question": "In healthy relationship dynamics and interpersonal communication: According to relationship counseling frameworks, what is the primary purpose of setting healthy personal boundaries? (Ref #100)",
+    "question": "What concept, described by social researcher Brené Brown using the acronym B.R.A.V.I.N.G., defines the anatomy of trust?",
     "options": [
-      "To punish the partner whenever disagreements arise",
-      "To isolate oneself completely from friends and family",
-      "To control the partner's schedule and social interactions",
-      "To clearly communicate what behaviors are acceptable to protect personal well-being and foster mutual respect"
+      "Belief, Respect, Action, Vision, Intimacy, Nurture, Grace",
+      "Bravery, Realism, Altruism, Value, Insight, Network, Growth",
+      "Balance, Resilience, Autonomy, Voice, Identity, Norms, Goodness",
+      "Boundaries, Reliability, Accountability, Vault, Integrity, Non-judgment, and Generosity"
     ],
     "correctAnswer": 3,
-    "explanation": "Healthy boundaries establish clear expectations regarding personal space, values, and emotional safety, supporting long-term relationship trust.",
+    "explanation": "Trust is built in small, everyday moments where individuals honor commitments, keep confidences (the vault), and choose integrity.",
     "tags": [
       "relationships",
       "friendship-trust",
@@ -2100,64 +2100,64 @@
     "active": true
   },
   {
-    "id": "relationships-communication-0101",
+    "id": "relationships-friendship-trust-0101",
     "category": "Relationships",
-    "subcategory": "Communication",
+    "subcategory": "Friendship & Trust",
     "difficulty": "medium",
-    "question": "In healthy relationship dynamics and interpersonal communication: According to Dr. Gary Chapman's popular relationship framework, which of the following is one of the Five Love Languages? (Ref #101)",
+    "question": "What metaphor, popularized by Stephen R. Covey, describes the reservoir of trust, goodwill, and safety built between two people over time?",
     "options": [
-      "Words of Affirmation",
-      "Financial Control",
-      "Intellectual Superiority",
-      "Public Performance"
+      "The Emotional Bank Account",
+      "The Social Credit System",
+      "The Trust Thermometer",
+      "The Goodwill Ledger"
     ],
     "correctAnswer": 0,
-    "explanation": "The Five Love Languages are Words of Affirmation, Quality Time, Receiving Gifts, Acts of Service, and Physical Touch.",
+    "explanation": "Deposits (kindness, keeping promises, listening) build security, while withdrawals (breaking promises, harshness, neglect) deplete the reserve.",
     "tags": [
       "relationships",
-      "communication",
+      "friendship-trust",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "relationships-conflict-resolution-0102",
+    "id": "relationships-friendship-trust-0102",
     "category": "Relationships",
-    "subcategory": "Conflict Resolution",
+    "subcategory": "Friendship & Trust",
     "difficulty": "hard",
-    "question": "In healthy relationship dynamics and interpersonal communication: When repairing trust after a relationship misunderstanding, which element is essential for a sincere apology? (Ref #102)",
+    "question": "What Greek philosopher categorized friendships into three distinct types: Friendships of Utility, Friendships of Pleasure, and Friendships of Virtue?",
     "options": [
-      "Saying 'I am sorry you feel that way' to deflect responsibility",
-      "Acknowledging specific hurt caused, taking genuine accountability, and committing to changed behavior",
-      "Giving expensive gifts while refusing to discuss what happened",
-      "Blaming external circumstances for one's own actions"
+      "Plato",
+      "Aristotle",
+      "Socrates",
+      "Epicurus"
     ],
     "correctAnswer": 1,
-    "explanation": "Meaningful apologies require acknowledging harm, validating the other person's pain, taking ownership without defensiveness, and demonstrating behavioral change.",
+    "explanation": "In Nicomachean Ethics, Aristotle argued that Friendships of Virtue (based on mutual character and moral growth) are the rarest and most enduring.",
     "tags": [
       "relationships",
-      "conflict-resolution",
+      "friendship-trust",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "relationships-emotional-intelligence-0103",
+    "id": "relationships-friendship-trust-0103",
     "category": "Relationships",
-    "subcategory": "Emotional Intelligence",
+    "subcategory": "Friendship & Trust",
     "difficulty": "easy",
-    "question": "In healthy relationship dynamics and interpersonal communication: Why are 'I' statements favored over 'You' statements in constructive relationship communication? (Ref #103)",
+    "question": "In Aristotle's friendship framework, what type of friendship is based strictly on mutual usefulness, business advantage, or material gain?",
     "options": [
-      "They ensure one partner always dominates the discussion",
-      "They avoid discussing difficult emotional topics altogether",
-      "They express personal feelings and needs without triggering defensive reactions or placing blame",
-      "They demand immediate compliance from the partner"
+      "Friendship of Pleasure",
+      "Friendship of Virtue",
+      "Friendship of Utility",
+      "Friendship of Equality"
     ],
     "correctAnswer": 2,
-    "explanation": "'I' statements (e.g., 'I feel overwhelmed when...') take ownership of feelings rather than accusing the partner, reducing conflict escalation.",
+    "explanation": "These relationships dissolve quickly as soon as the mutual material benefit or utility ceases to exist.",
     "tags": [
       "relationships",
-      "emotional-intelligence",
+      "friendship-trust",
       "easy"
     ],
     "active": true
@@ -2167,15 +2167,15 @@
     "category": "Relationships",
     "subcategory": "Friendship & Trust",
     "difficulty": "medium",
-    "question": "In healthy relationship dynamics and interpersonal communication: What is the core distinction between empathy and sympathy in emotional intelligence? (Ref #104)",
+    "question": "In Aristotle's framework, what type of friendship is based on shared fun, entertainment, shared hobbies, or athletic pursuits?",
     "options": [
-      "Sympathy requires sharing identical life experiences, whereas empathy is superficial polite agreement",
-      "Empathy is only practiced between family members, while sympathy is for strangers",
-      "There is no psychological difference between the two terms",
-      "Empathy means genuinely understanding and feeling another person's perspective, while sympathy is feeling pity from a detached viewpoint"
+      "Friendship of Utility",
+      "Friendship of Virtue",
+      "Friendship of Honor",
+      "Friendship of Pleasure"
     ],
     "correctAnswer": 3,
-    "explanation": "Empathy connects with someone by taking their perspective and feeling with them; sympathy observes from outside with feelings of pity or sorrow.",
+    "explanation": "Common among youth, these friendships last as long as both parties find amusement and joy in the shared recreational activity.",
     "tags": [
       "relationships",
       "friendship-trust",
@@ -2184,64 +2184,64 @@
     "active": true
   },
   {
-    "id": "relationships-communication-0105",
+    "id": "relationships-friendship-trust-0105",
     "category": "Relationships",
-    "subcategory": "Communication",
+    "subcategory": "Friendship & Trust",
     "difficulty": "hard",
-    "question": "In healthy relationship dynamics and interpersonal communication: Which behavior is a core component of active listening during relationship conversations? (Ref #105)",
+    "question": "What did Aristotle describe as the highest, truest form of friendship, where friends love each other for their character and wish each other's good?",
     "options": [
-      "Paraphrasing what the speaker shared to verify understanding before formulating a response",
-      "Interrupting immediately to offer solutions before the speaker finishes",
-      "Looking at a smartphone while nodding periodically",
-      "Silently preparing your rebuttal while the other person is talking"
+      "Friendship of Virtue (The Good / Perfect Friendship)",
+      "Friendship of Pleasure",
+      "Friendship of Utility",
+      "Platonic Soulmates"
     ],
     "correctAnswer": 0,
-    "explanation": "Active listening requires paying undivided attention, reflecting back what was heard, and validating emotions without jumping to defensive rebuttals.",
+    "explanation": "Aristotle noted that a true friend is 'a single soul dwelling in two bodies', enduring through life's trials.",
     "tags": [
       "relationships",
-      "communication",
+      "friendship-trust",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "relationships-conflict-resolution-0106",
+    "id": "relationships-friendship-trust-0106",
     "category": "Relationships",
-    "subcategory": "Conflict Resolution",
+    "subcategory": "Friendship & Trust",
     "difficulty": "easy",
-    "question": "In healthy relationship dynamics and interpersonal communication: According to relationship counseling frameworks, what is the primary purpose of setting healthy personal boundaries? (Ref #106)",
+    "question": "What cognitive psychological limit, proposed by British anthropologist Robin Dunbar, suggests humans can maintain stable friendships with ~150 people?",
     "options": [
-      "To punish the partner whenever disagreements arise",
-      "To clearly communicate what behaviors are acceptable to protect personal well-being and foster mutual respect",
-      "To isolate oneself completely from friends and family",
-      "To control the partner's schedule and social interactions"
+      "The Miller Limit",
+      "Dunbar's Number",
+      "The Magic Number Seven",
+      "The Social Horizon"
     ],
     "correctAnswer": 1,
-    "explanation": "Healthy boundaries establish clear expectations regarding personal space, values, and emotional safety, supporting long-term relationship trust.",
+    "explanation": "Dunbar's research linked neocortex brain size to social group capacity, showing people maintain ~5 close friends and ~150 acquaintances.",
     "tags": [
       "relationships",
-      "conflict-resolution",
+      "friendship-trust",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "relationships-emotional-intelligence-0107",
+    "id": "relationships-friendship-trust-0107",
     "category": "Relationships",
-    "subcategory": "Emotional Intelligence",
+    "subcategory": "Friendship & Trust",
     "difficulty": "medium",
-    "question": "In healthy relationship dynamics and interpersonal communication: According to Dr. Gary Chapman's popular relationship framework, which of the following is one of the Five Love Languages? (Ref #107)",
+    "question": "Within Dunbar's social layers, how many individuals typically comprise a person's innermost support clique of closest friends?",
     "options": [
-      "Financial Control",
-      "Intellectual Superiority",
-      "Words of Affirmation",
-      "Public Performance"
+      "15 Friends",
+      "50 Friends",
+      "Approximately 5 Close Friends",
+      "1 Friend"
     ],
     "correctAnswer": 2,
-    "explanation": "The Five Love Languages are Words of Affirmation, Quality Time, Receiving Gifts, Acts of Service, and Physical Touch.",
+    "explanation": "This inner core provides immediate emotional, financial, and psychological support during major life crises.",
     "tags": [
       "relationships",
-      "emotional-intelligence",
+      "friendship-trust",
       "medium"
     ],
     "active": true
@@ -2251,15 +2251,15 @@
     "category": "Relationships",
     "subcategory": "Friendship & Trust",
     "difficulty": "hard",
-    "question": "In healthy relationship dynamics and interpersonal communication: When repairing trust after a relationship misunderstanding, which element is essential for a sincere apology? (Ref #108)",
+    "question": "What psychological attachment style, formed through consistent, responsive childhood caregiving, fosters healthy, trusting adult relationships?",
     "options": [
-      "Saying 'I am sorry you feel that way' to deflect responsibility",
-      "Giving expensive gifts while refusing to discuss what happened",
-      "Blaming external circumstances for one's own actions",
-      "Acknowledging specific hurt caused, taking genuine accountability, and committing to changed behavior"
+      "Anxious-Preoccupied Style",
+      "Dismissive-Avoidant Style",
+      "Fearful-Avoidant Style",
+      "Secure Attachment Style"
     ],
     "correctAnswer": 3,
-    "explanation": "Meaningful apologies require acknowledging harm, validating the other person's pain, taking ownership without defensiveness, and demonstrating behavioral change.",
+    "explanation": "Secure adults comfortably balance intimacy with independence, trusting their partner and communicating needs openly without fear.",
     "tags": [
       "relationships",
       "friendship-trust",
@@ -2268,64 +2268,64 @@
     "active": true
   },
   {
-    "id": "relationships-communication-0109",
+    "id": "relationships-friendship-trust-0109",
     "category": "Relationships",
-    "subcategory": "Communication",
+    "subcategory": "Friendship & Trust",
     "difficulty": "easy",
-    "question": "In healthy relationship dynamics and interpersonal communication: Why are 'I' statements favored over 'You' statements in constructive relationship communication? (Ref #109)",
+    "question": "What adult attachment style is characterized by fear of abandonment, hyper-vigilance, and constant need for validation and reassurance?",
     "options": [
-      "They express personal feelings and needs without triggering defensive reactions or placing blame",
-      "They ensure one partner always dominates the discussion",
-      "They avoid discussing difficult emotional topics altogether",
-      "They demand immediate compliance from the partner"
+      "Anxious-Preoccupied Attachment Style",
+      "Secure Style",
+      "Dismissive-Avoidant Style",
+      "Disorganized Style"
     ],
     "correctAnswer": 0,
-    "explanation": "'I' statements (e.g., 'I feel overwhelmed when...') take ownership of feelings rather than accusing the partner, reducing conflict escalation.",
+    "explanation": "Anxious individuals often fear that others do not love them as much as they love others, leading to clinging behaviors under stress.",
     "tags": [
       "relationships",
-      "communication",
+      "friendship-trust",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "relationships-conflict-resolution-0110",
+    "id": "relationships-friendship-trust-0110",
     "category": "Relationships",
-    "subcategory": "Conflict Resolution",
+    "subcategory": "Friendship & Trust",
     "difficulty": "medium",
-    "question": "In healthy relationship dynamics and interpersonal communication: What is the core distinction between empathy and sympathy in emotional intelligence? (Ref #110)",
+    "question": "What adult attachment style is characterized by intense self-reliance, emotional distance, and discomfort with closeness and vulnerability?",
     "options": [
-      "Sympathy requires sharing identical life experiences, whereas empathy is superficial polite agreement",
-      "Empathy means genuinely understanding and feeling another person's perspective, while sympathy is feeling pity from a detached viewpoint",
-      "Empathy is only practiced between family members, while sympathy is for strangers",
-      "There is no psychological difference between the two terms"
+      "Secure Style",
+      "Dismissive-Avoidant Attachment Style",
+      "Anxious Style",
+      "Fearful Style"
     ],
     "correctAnswer": 1,
-    "explanation": "Empathy connects with someone by taking their perspective and feeling with them; sympathy observes from outside with feelings of pity or sorrow.",
+    "explanation": "Avoidant individuals suppress vulnerable feelings and maintain independence by keeping partners at an emotional distance.",
     "tags": [
       "relationships",
-      "conflict-resolution",
+      "friendship-trust",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "relationships-emotional-intelligence-0111",
+    "id": "relationships-friendship-trust-0111",
     "category": "Relationships",
-    "subcategory": "Emotional Intelligence",
+    "subcategory": "Friendship & Trust",
     "difficulty": "hard",
-    "question": "In healthy relationship dynamics and interpersonal communication: Which behavior is a core component of active listening during relationship conversations? (Ref #111)",
+    "question": "What attachment style combines a deep desire for intimacy with an intense fear of getting hurt, leading to hot-and-cold behavioral swings?",
     "options": [
-      "Interrupting immediately to offer solutions before the speaker finishes",
-      "Looking at a smartphone while nodding periodically",
-      "Paraphrasing what the speaker shared to verify understanding before formulating a response",
-      "Silently preparing your rebuttal while the other person is talking"
+      "Secure Style",
+      "Dismissive-Avoidant Style",
+      "Fearful-Avoidant (Disorganized) Attachment Style",
+      "Anxious Style"
     ],
     "correctAnswer": 2,
-    "explanation": "Active listening requires paying undivided attention, reflecting back what was heard, and validating emotions without jumping to defensive rebuttals.",
+    "explanation": "Rooted in traumatic or erratic childhood caregiving, individuals crave closeness but pull away in terror when relationships become intimate.",
     "tags": [
       "relationships",
-      "emotional-intelligence",
+      "friendship-trust",
       "hard"
     ],
     "active": true
@@ -2335,15 +2335,15 @@
     "category": "Relationships",
     "subcategory": "Friendship & Trust",
     "difficulty": "easy",
-    "question": "In healthy relationship dynamics and interpersonal communication: According to relationship counseling frameworks, what is the primary purpose of setting healthy personal boundaries? (Ref #112)",
+    "question": "What relational concept describes clear guidelines and limits that a person establishes to protect their physical, emotional, and mental well-being?",
     "options": [
-      "To punish the partner whenever disagreements arise",
-      "To isolate oneself completely from friends and family",
-      "To control the partner's schedule and social interactions",
-      "To clearly communicate what behaviors are acceptable to protect personal well-being and foster mutual respect"
+      "Walls",
+      "Rules",
+      "Defenses",
+      "Personal Boundaries"
     ],
     "correctAnswer": 3,
-    "explanation": "Healthy boundaries establish clear expectations regarding personal space, values, and emotional safety, supporting long-term relationship trust.",
+    "explanation": "Boundaries communicate what is acceptable and what is not ('I love you, but I cannot lend you money'), preserving self-respect.",
     "tags": [
       "relationships",
       "friendship-trust",
@@ -2352,64 +2352,64 @@
     "active": true
   },
   {
-    "id": "relationships-communication-0113",
+    "id": "relationships-friendship-trust-0113",
     "category": "Relationships",
-    "subcategory": "Communication",
+    "subcategory": "Friendship & Trust",
     "difficulty": "medium",
-    "question": "In healthy relationship dynamics and interpersonal communication: According to Dr. Gary Chapman's popular relationship framework, which of the following is one of the Five Love Languages? (Ref #113)",
+    "question": "What is the crucial psychological difference between a personal boundary and a rigid emotional wall?",
     "options": [
-      "Words of Affirmation",
-      "Financial Control",
-      "Intellectual Superiority",
-      "Public Performance"
+      "Boundaries have permeable gates that allow love and connection in while keeping harm out; walls block all intimacy completely",
+      "Boundaries are aggressive; walls are peaceful",
+      "Walls protect; boundaries control others",
+      "There is no difference"
     ],
     "correctAnswer": 0,
-    "explanation": "The Five Love Languages are Words of Affirmation, Quality Time, Receiving Gifts, Acts of Service, and Physical Touch.",
+    "explanation": "Healthy boundaries foster intimacy through safety, whereas walls isolate people in lonely self-protection.",
     "tags": [
       "relationships",
-      "communication",
+      "friendship-trust",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "relationships-conflict-resolution-0114",
+    "id": "relationships-friendship-trust-0114",
     "category": "Relationships",
-    "subcategory": "Conflict Resolution",
+    "subcategory": "Friendship & Trust",
     "difficulty": "hard",
-    "question": "In healthy relationship dynamics and interpersonal communication: When repairing trust after a relationship misunderstanding, which element is essential for a sincere apology? (Ref #114)",
+    "question": "What dysfunctional relationship pattern involves one person enabling another's addiction, irresponsibility, or immaturity at their own expense?",
     "options": [
-      "Saying 'I am sorry you feel that way' to deflect responsibility",
-      "Acknowledging specific hurt caused, taking genuine accountability, and committing to changed behavior",
-      "Giving expensive gifts while refusing to discuss what happened",
-      "Blaming external circumstances for one's own actions"
+      "Interdependence",
+      "Codependency",
+      "Independence",
+      "Mutualism"
     ],
     "correctAnswer": 1,
-    "explanation": "Meaningful apologies require acknowledging harm, validating the other person's pain, taking ownership without defensiveness, and demonstrating behavioral change.",
+    "explanation": "Codependent individuals sacrifice their own emotional needs and identity to manage and 'fix' another person's chaotic life.",
     "tags": [
       "relationships",
-      "conflict-resolution",
+      "friendship-trust",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "relationships-emotional-intelligence-0115",
+    "id": "relationships-friendship-trust-0115",
     "category": "Relationships",
-    "subcategory": "Emotional Intelligence",
+    "subcategory": "Friendship & Trust",
     "difficulty": "easy",
-    "question": "In healthy relationship dynamics and interpersonal communication: Why are 'I' statements favored over 'You' statements in constructive relationship communication? (Ref #115)",
+    "question": "What healthy relationship model describes two autonomous, whole individuals choosing to share their lives while maintaining separate identities?",
     "options": [
-      "They ensure one partner always dominates the discussion",
-      "They avoid discussing difficult emotional topics altogether",
-      "They express personal feelings and needs without triggering defensive reactions or placing blame",
-      "They demand immediate compliance from the partner"
+      "Codependency",
+      "Independence",
+      "Interdependence",
+      "Enmeshment"
     ],
     "correctAnswer": 2,
-    "explanation": "'I' statements (e.g., 'I feel overwhelmed when...') take ownership of feelings rather than accusing the partner, reducing conflict escalation.",
+    "explanation": "Interdependence allows mutual reliance and collaboration without losing one's personal values, friends, or autonomy.",
     "tags": [
       "relationships",
-      "emotional-intelligence",
+      "friendship-trust",
       "easy"
     ],
     "active": true
@@ -2419,15 +2419,15 @@
     "category": "Relationships",
     "subcategory": "Friendship & Trust",
     "difficulty": "medium",
-    "question": "In healthy relationship dynamics and interpersonal communication: What is the core distinction between empathy and sympathy in emotional intelligence? (Ref #116)",
+    "question": "What family or relational dynamic describes boundaries that are blurred, permeable, and indistinct, where one person's mood dictates everyone's state?",
     "options": [
-      "Sympathy requires sharing identical life experiences, whereas empathy is superficial polite agreement",
-      "Empathy is only practiced between family members, while sympathy is for strangers",
-      "There is no psychological difference between the two terms",
-      "Empathy means genuinely understanding and feeling another person's perspective, while sympathy is feeling pity from a detached viewpoint"
+      "Differentiation",
+      "Isolation",
+      "Autonomy",
+      "Enmeshment"
     ],
     "correctAnswer": 3,
-    "explanation": "Empathy connects with someone by taking their perspective and feeling with them; sympathy observes from outside with feelings of pity or sorrow.",
+    "explanation": "In enmeshed relationships, individuals are forbidden from having independent thoughts or feelings separate from the collective unit.",
     "tags": [
       "relationships",
       "friendship-trust",
@@ -2436,64 +2436,64 @@
     "active": true
   },
   {
-    "id": "relationships-communication-0117",
+    "id": "relationships-friendship-trust-0117",
     "category": "Relationships",
-    "subcategory": "Communication",
+    "subcategory": "Friendship & Trust",
     "difficulty": "hard",
-    "question": "In healthy relationship dynamics and interpersonal communication: Which behavior is a core component of active listening during relationship conversations? (Ref #117)",
+    "question": "What healthy psychological process involves developing a solid sense of self while remaining emotionally connected to loved ones?",
     "options": [
-      "Paraphrasing what the speaker shared to verify understanding before formulating a response",
-      "Interrupting immediately to offer solutions before the speaker finishes",
-      "Looking at a smartphone while nodding periodically",
-      "Silently preparing your rebuttal while the other person is talking"
+      "Differentiation of Self",
+      "Enmeshment",
+      "Detachment",
+      "Alienation"
     ],
     "correctAnswer": 0,
-    "explanation": "Active listening requires paying undivided attention, reflecting back what was heard, and validating emotions without jumping to defensive rebuttals.",
+    "explanation": "Pioneered by Murray Bowen, highly differentiated individuals can stay calm and hold their personal convictions without cutting people off.",
     "tags": [
       "relationships",
-      "communication",
+      "friendship-trust",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "relationships-conflict-resolution-0118",
+    "id": "relationships-friendship-trust-0118",
     "category": "Relationships",
-    "subcategory": "Conflict Resolution",
+    "subcategory": "Friendship & Trust",
     "difficulty": "easy",
-    "question": "In healthy relationship dynamics and interpersonal communication: According to relationship counseling frameworks, what is the primary purpose of setting healthy personal boundaries? (Ref #118)",
+    "question": "What damaging relational habit involves keeping a mental score of past favors, gifts, and mistakes to wield as leverage in future arguments?",
     "options": [
-      "To punish the partner whenever disagreements arise",
-      "To clearly communicate what behaviors are acceptable to protect personal well-being and foster mutual respect",
-      "To isolate oneself completely from friends and family",
-      "To control the partner's schedule and social interactions"
+      "Generosity",
+      "Scorekeeping (Transactional Accounting)",
+      "Reciprocity",
+      "Emotional Investing"
     ],
     "correctAnswer": 1,
-    "explanation": "Healthy boundaries establish clear expectations regarding personal space, values, and emotional safety, supporting long-term relationship trust.",
+    "explanation": "Treating relationships as transactional scoreboards breeds resentment and destroys genuine generosity.",
     "tags": [
       "relationships",
-      "conflict-resolution",
+      "friendship-trust",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "relationships-emotional-intelligence-0119",
+    "id": "relationships-friendship-trust-0119",
     "category": "Relationships",
-    "subcategory": "Emotional Intelligence",
+    "subcategory": "Friendship & Trust",
     "difficulty": "medium",
-    "question": "In healthy relationship dynamics and interpersonal communication: According to Dr. Gary Chapman's popular relationship framework, which of the following is one of the Five Love Languages? (Ref #119)",
+    "question": "What healthy concept describes mutual, balanced giving and receiving over time without rigid immediate transactional accounting?",
     "options": [
-      "Financial Control",
-      "Intellectual Superiority",
-      "Words of Affirmation",
-      "Public Performance"
+      "Scorekeeping",
+      "Altruism",
+      "Relational Reciprocity",
+      "Codependency"
     ],
     "correctAnswer": 2,
-    "explanation": "The Five Love Languages are Words of Affirmation, Quality Time, Receiving Gifts, Acts of Service, and Physical Touch.",
+    "explanation": "In healthy friendships, the balance shifts naturally during hard times without either person feeling exploited or shortchanged.",
     "tags": [
       "relationships",
-      "emotional-intelligence",
+      "friendship-trust",
       "medium"
     ],
     "active": true
@@ -2503,15 +2503,15 @@
     "category": "Relationships",
     "subcategory": "Friendship & Trust",
     "difficulty": "hard",
-    "question": "In healthy relationship dynamics and interpersonal communication: When repairing trust after a relationship misunderstanding, which element is essential for a sincere apology? (Ref #120)",
+    "question": "What type of toxic friendship features subtle jabs, passive-aggressive envy, and rejoicing in your failures masked as friendship?",
     "options": [
-      "Saying 'I am sorry you feel that way' to deflect responsibility",
-      "Giving expensive gifts while refusing to discuss what happened",
-      "Blaming external circumstances for one's own actions",
-      "Acknowledging specific hurt caused, taking genuine accountability, and committing to changed behavior"
+      "A Casual Acquaintance",
+      "An Outgoing Friend",
+      "A Mentor",
+      "A 'Frenemy' (Toxic Friendship)"
     ],
     "correctAnswer": 3,
-    "explanation": "Meaningful apologies require acknowledging harm, validating the other person's pain, taking ownership without defensiveness, and demonstrating behavioral change.",
+    "explanation": "Frenemies drain emotional energy, compete constantly, and undermine your confidence while pretending to be supportive.",
     "tags": [
       "relationships",
       "friendship-trust",
@@ -2520,64 +2520,64 @@
     "active": true
   },
   {
-    "id": "relationships-communication-0121",
+    "id": "relationships-friendship-trust-0121",
     "category": "Relationships",
-    "subcategory": "Communication",
+    "subcategory": "Friendship & Trust",
     "difficulty": "easy",
-    "question": "In healthy relationship dynamics and interpersonal communication: Why are 'I' statements favored over 'You' statements in constructive relationship communication? (Ref #121)",
+    "question": "What concept, coined by researcher Robert Putnam, describes social networks, shared norms, and mutual trust that bind communities together?",
     "options": [
-      "They express personal feelings and needs without triggering defensive reactions or placing blame",
-      "They ensure one partner always dominates the discussion",
-      "They avoid discussing difficult emotional topics altogether",
-      "They demand immediate compliance from the partner"
+      "Social Capital",
+      "Human Capital",
+      "Financial Capital",
+      "Cultural Cachet"
     ],
     "correctAnswer": 0,
-    "explanation": "'I' statements (e.g., 'I feel overwhelmed when...') take ownership of feelings rather than accusing the partner, reducing conflict escalation.",
+    "explanation": "In Bowling Alone, Putnam demonstrated that declining community civic friendships weaken social trust and public health.",
     "tags": [
       "relationships",
-      "communication",
+      "friendship-trust",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "relationships-conflict-resolution-0122",
+    "id": "relationships-friendship-trust-0122",
     "category": "Relationships",
-    "subcategory": "Conflict Resolution",
+    "subcategory": "Friendship & Trust",
     "difficulty": "medium",
-    "question": "In healthy relationship dynamics and interpersonal communication: What is the core distinction between empathy and sympathy in emotional intelligence? (Ref #122)",
+    "question": "What major 85-year Harvard longitudinal study proved that warm, supportive relationships are the single greatest predictor of health and happiness?",
     "options": [
-      "Sympathy requires sharing identical life experiences, whereas empathy is superficial polite agreement",
-      "Empathy means genuinely understanding and feeling another person's perspective, while sympathy is feeling pity from a detached viewpoint",
-      "Empathy is only practiced between family members, while sympathy is for strangers",
-      "There is no psychological difference between the two terms"
+      "The Framingham Heart Study",
+      "The Harvard Study of Adult Development",
+      "The Terman Study",
+      "The Grant Health Project"
     ],
     "correctAnswer": 1,
-    "explanation": "Empathy connects with someone by taking their perspective and feeling with them; sympathy observes from outside with feelings of pity or sorrow.",
+    "explanation": "Directors Robert Waldinger and George Vaillant concluded: 'Good relationships keep us happier and healthier. Period.'",
     "tags": [
       "relationships",
-      "conflict-resolution",
+      "friendship-trust",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "relationships-emotional-intelligence-0123",
+    "id": "relationships-friendship-trust-0123",
     "category": "Relationships",
-    "subcategory": "Emotional Intelligence",
+    "subcategory": "Friendship & Trust",
     "difficulty": "hard",
-    "question": "In healthy relationship dynamics and interpersonal communication: Which behavior is a core component of active listening during relationship conversations? (Ref #123)",
+    "question": "What social phenomenon describes the pervasive modern epidemic of feeling socially disconnected and isolated, carrying health risks equivalent to smoking?",
     "options": [
-      "Interrupting immediately to offer solutions before the speaker finishes",
-      "Looking at a smartphone while nodding periodically",
-      "Paraphrasing what the speaker shared to verify understanding before formulating a response",
-      "Silently preparing your rebuttal while the other person is talking"
+      "Social Fatigue",
+      "Digital Isolation",
+      "The Loneliness Epidemic",
+      "Alienation Disorder"
     ],
     "correctAnswer": 2,
-    "explanation": "Active listening requires paying undivided attention, reflecting back what was heard, and validating emotions without jumping to defensive rebuttals.",
+    "explanation": "U.S. Surgeon General Vivek Murthy warned that chronic loneliness elevates mortality risks from cardiovascular disease, stroke, and depression.",
     "tags": [
       "relationships",
-      "emotional-intelligence",
+      "friendship-trust",
       "hard"
     ],
     "active": true
@@ -2587,15 +2587,15 @@
     "category": "Relationships",
     "subcategory": "Friendship & Trust",
     "difficulty": "easy",
-    "question": "In healthy relationship dynamics and interpersonal communication: According to relationship counseling frameworks, what is the primary purpose of setting healthy personal boundaries? (Ref #124)",
+    "question": "What friendship maintenance behavior involves intentionally reaching out, scheduling calls, and making time for friends despite busy life demands?",
     "options": [
-      "To punish the partner whenever disagreements arise",
-      "To isolate oneself completely from friends and family",
-      "To control the partner's schedule and social interactions",
-      "To clearly communicate what behaviors are acceptable to protect personal well-being and foster mutual respect"
+      "Passive Drift",
+      "Obligatory Contact",
+      "Conditional Friendship",
+      "Proactive Investment"
     ],
     "correctAnswer": 3,
-    "explanation": "Healthy boundaries establish clear expectations regarding personal space, values, and emotional safety, supporting long-term relationship trust.",
+    "explanation": "Friendships drift apart naturally through neglect; intentional proactive outreach keeps connection vital across decades.",
     "tags": [
       "relationships",
       "friendship-trust",
@@ -2604,64 +2604,64 @@
     "active": true
   },
   {
-    "id": "relationships-communication-0125",
+    "id": "relationships-friendship-trust-0125",
     "category": "Relationships",
-    "subcategory": "Communication",
+    "subcategory": "Friendship & Trust",
     "difficulty": "medium",
-    "question": "In healthy relationship dynamics and interpersonal communication: According to Dr. Gary Chapman's popular relationship framework, which of the following is one of the Five Love Languages? (Ref #125)",
+    "question": "What type of friend listens without judgment during your darkest crises, keeping your deepest secrets safe in confidence?",
     "options": [
-      "Words of Affirmation",
-      "Financial Control",
-      "Intellectual Superiority",
-      "Public Performance"
+      "A Confidant ('Vault' Friend)",
+      "A Casual Friend",
+      "A Social Acquaintance",
+      "A Work Colleague"
     ],
     "correctAnswer": 0,
-    "explanation": "The Five Love Languages are Words of Affirmation, Quality Time, Receiving Gifts, Acts of Service, and Physical Touch.",
+    "explanation": "Having even one true confidant provides immense psychological buffering against depression, grief, and burnout.",
     "tags": [
       "relationships",
-      "communication",
+      "friendship-trust",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "relationships-conflict-resolution-0126",
+    "id": "relationships-friendship-trust-0126",
     "category": "Relationships",
-    "subcategory": "Conflict Resolution",
+    "subcategory": "Friendship & Trust",
     "difficulty": "hard",
-    "question": "In healthy relationship dynamics and interpersonal communication: When repairing trust after a relationship misunderstanding, which element is essential for a sincere apology? (Ref #126)",
+    "question": "What social concept describes friendships formed primarily around shared workplace environments that often fade when employment changes?",
     "options": [
-      "Saying 'I am sorry you feel that way' to deflect responsibility",
-      "Acknowledging specific hurt caused, taking genuine accountability, and committing to changed behavior",
-      "Giving expensive gifts while refusing to discuss what happened",
-      "Blaming external circumstances for one's own actions"
+      "Core Friends",
+      "Workplace Friendships (Situational Friends)",
+      "Soulmates",
+      "Lifelong Friends"
     ],
     "correctAnswer": 1,
-    "explanation": "Meaningful apologies require acknowledging harm, validating the other person's pain, taking ownership without defensiveness, and demonstrating behavioral change.",
+    "explanation": "While valuable for daily camaraderie, situational friendships require deliberate effort to transition into enduring personal friendships.",
     "tags": [
       "relationships",
-      "conflict-resolution",
+      "friendship-trust",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "relationships-emotional-intelligence-0127",
+    "id": "relationships-friendship-trust-0127",
     "category": "Relationships",
-    "subcategory": "Emotional Intelligence",
+    "subcategory": "Friendship & Trust",
     "difficulty": "easy",
-    "question": "In healthy relationship dynamics and interpersonal communication: Why are 'I' statements favored over 'You' statements in constructive relationship communication? (Ref #127)",
+    "question": "What is the healthy response when a longtime friend makes a significant positive breakthrough or achieves major success in life?",
     "options": [
-      "They ensure one partner always dominates the discussion",
-      "They avoid discussing difficult emotional topics altogether",
-      "They express personal feelings and needs without triggering defensive reactions or placing blame",
-      "They demand immediate compliance from the partner"
+      "Schadenfreude",
+      "Jealous Competition",
+      "Freudenfreude (Sharing in their joy without envy)",
+      "Silent Comparison"
     ],
     "correctAnswer": 2,
-    "explanation": "'I' statements (e.g., 'I feel overwhelmed when...') take ownership of feelings rather than accusing the partner, reducing conflict escalation.",
+    "explanation": "Freudenfreude is the bliss of rejoicing in someone else's happiness, acting as the ultimate test of genuine friendship.",
     "tags": [
       "relationships",
-      "emotional-intelligence",
+      "friendship-trust",
       "easy"
     ],
     "active": true
@@ -2671,15 +2671,15 @@
     "category": "Relationships",
     "subcategory": "Friendship & Trust",
     "difficulty": "medium",
-    "question": "In healthy relationship dynamics and interpersonal communication: What is the core distinction between empathy and sympathy in emotional intelligence? (Ref #128)",
+    "question": "What German word describes the malicious pleasure or joy derived from witnessing another person's misfortune, trouble, or failure?",
     "options": [
-      "Sympathy requires sharing identical life experiences, whereas empathy is superficial polite agreement",
-      "Empathy is only practiced between family members, while sympathy is for strangers",
-      "There is no psychological difference between the two terms",
-      "Empathy means genuinely understanding and feeling another person's perspective, while sympathy is feeling pity from a detached viewpoint"
+      "Freudenfreude",
+      "Weltschmerz",
+      "Sehnsucht",
+      "Schadenfreude"
     ],
     "correctAnswer": 3,
-    "explanation": "Empathy connects with someone by taking their perspective and feeling with them; sympathy observes from outside with feelings of pity or sorrow.",
+    "explanation": "Toxic friendships harbor hidden schadenfreude, contrasting with true friends who grieve your setbacks and celebrate your victories.",
     "tags": [
       "relationships",
       "friendship-trust",
@@ -2688,43 +2688,43 @@
     "active": true
   },
   {
-    "id": "relationships-communication-0129",
+    "id": "relationships-friendship-trust-0129",
     "category": "Relationships",
-    "subcategory": "Communication",
+    "subcategory": "Friendship & Trust",
     "difficulty": "hard",
-    "question": "In healthy relationship dynamics and interpersonal communication: Which behavior is a core component of active listening during relationship conversations? (Ref #129)",
+    "question": "What relational repair step is essential when you accidentally breach a friend's trust or break an important commitment?",
     "options": [
-      "Paraphrasing what the speaker shared to verify understanding before formulating a response",
-      "Interrupting immediately to offer solutions before the speaker finishes",
-      "Looking at a smartphone while nodding periodically",
-      "Silently preparing your rebuttal while the other person is talking"
+      "Acknowledge the breach immediately, offer a sincere apology, and consistently demonstrate changed behavior over time",
+      "Pretend nothing happened",
+      "Blame other external circumstances",
+      "Avoid contacting them until they forget"
     ],
     "correctAnswer": 0,
-    "explanation": "Active listening requires paying undivided attention, reflecting back what was heard, and validating emotions without jumping to defensive rebuttals.",
+    "explanation": "Rebuilding trust requires visible behavioral consistency, transparent accountability, and patience while wounds heal.",
     "tags": [
       "relationships",
-      "communication",
+      "friendship-trust",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "relationships-conflict-resolution-0130",
+    "id": "relationships-friendship-trust-0130",
     "category": "Relationships",
-    "subcategory": "Conflict Resolution",
+    "subcategory": "Friendship & Trust",
     "difficulty": "easy",
-    "question": "In healthy relationship dynamics and interpersonal communication: According to relationship counseling frameworks, what is the primary purpose of setting healthy personal boundaries? (Ref #130)",
+    "question": "What boundary practice involves accepting that you cannot be everything to everyone and gracefully declining social invitations when exhausted?",
     "options": [
-      "To punish the partner whenever disagreements arise",
-      "To clearly communicate what behaviors are acceptable to protect personal well-being and foster mutual respect",
-      "To isolate oneself completely from friends and family",
-      "To control the partner's schedule and social interactions"
+      "Selfish Isolation",
+      "Protecting Your Energy (Polite Refusal)",
+      "Social Ghosting",
+      "Flaking"
     ],
     "correctAnswer": 1,
-    "explanation": "Healthy boundaries establish clear expectations regarding personal space, values, and emotional safety, supporting long-term relationship trust.",
+    "explanation": "A warm, honest refusal ('I would love to see you, but I am completely depleted this weekend and need rest') honors both parties.",
     "tags": [
       "relationships",
-      "conflict-resolution",
+      "friendship-trust",
       "easy"
     ],
     "active": true

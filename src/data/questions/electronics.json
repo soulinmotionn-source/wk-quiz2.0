@@ -4,15 +4,15 @@
     "category": "Electronics",
     "subcategory": "Semiconductors",
     "difficulty": "easy",
-    "question": "Electronics and circuit engineering: Which basic digital logic gate produces a HIGH (1) output if and only if ALL of its inputs are simultaneously HIGH (1)? (Ref #1)",
+    "question": "What is the primary difference between an intrinsic semiconductor and an extrinsic semiconductor?",
     "options": [
-      "AND gate",
-      "OR gate",
-      "NAND gate",
-      "XOR gate"
+      "Intrinsic is pure undoped crystalline material; extrinsic is doped with donor or acceptor impurity atoms",
+      "Intrinsic conducts better than metals",
+      "Extrinsic has no valence band",
+      "Intrinsic contains only holes"
     ],
     "correctAnswer": 0,
-    "explanation": "An AND gate requires all inputs to be true (1) to produce a true (1) output.",
+    "explanation": "Pure intrinsic silicon has few free charge carriers; doping creates extrinsic N-type or P-type semiconductors.",
     "tags": [
       "electronics",
       "semiconductors",
@@ -21,64 +21,64 @@
     "active": true
   },
   {
-    "id": "electronics-digital-logic-0002",
+    "id": "electronics-semiconductors-0002",
     "category": "Electronics",
-    "subcategory": "Digital Logic",
+    "subcategory": "Semiconductors",
     "difficulty": "medium",
-    "question": "Electronics and circuit engineering: What three functional terminals exist on a standard Bipolar Junction Transistor (BJT)? (Ref #2)",
+    "question": "What is the energy bandgap of pure crystalline Silicon at room temperature (300 Kelvin)?",
     "options": [
-      "Gate, Drain, and Source",
-      "Base, Collector, and Emitter",
-      "Anode, Cathode, and Grid",
-      "Phase, Neutral, and Ground"
+      "0.67 eV",
+      "Approximately 1.12 electron-volts (eV)",
+      "3.2 eV",
+      "0.1 eV"
     ],
     "correctAnswer": 1,
-    "explanation": "BJTs possess Base, Collector, and Emitter terminals, where a small base current controls a larger collector-emitter current.",
+    "explanation": "Silicon's 1.12 eV bandgap provides stable thermal operation up to ~150 C compared to Germanium's 0.67 eV.",
     "tags": [
       "electronics",
-      "digital-logic",
+      "semiconductors",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "electronics-microcontrollers-0003",
+    "id": "electronics-semiconductors-0003",
     "category": "Electronics",
-    "subcategory": "Microcontrollers",
+    "subcategory": "Semiconductors",
     "difficulty": "hard",
-    "question": "Electronics and circuit engineering: What is the ideal input impedance of an ideal operational amplifier (Op-Amp)? (Ref #3)",
+    "question": "What type of semiconductor is created by doping pure silicon with pentavalent Group V donor atoms like phosphorus or arsenic?",
     "options": [
-      "Zero impedance",
-      "50 Ohms",
-      "Infinite impedance (draws zero input current)",
-      "1000 Ohms"
+      "P-type semiconductor",
+      "Intrinsic semiconductor",
+      "N-type semiconductor",
+      "Compensated semiconductor"
     ],
     "correctAnswer": 2,
-    "explanation": "Ideal op-amps have infinite input impedance so that they do not load or draw current from preceding circuit stages.",
+    "explanation": "Pentavalent atoms donate a fifth loosely bound valence electron, creating abundant mobile conduction-band electrons.",
     "tags": [
       "electronics",
-      "microcontrollers",
+      "semiconductors",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "electronics-amplifiers-filters-0004",
+    "id": "electronics-semiconductors-0004",
     "category": "Electronics",
-    "subcategory": "Amplifiers & Filters",
+    "subcategory": "Semiconductors",
     "difficulty": "easy",
-    "question": "Electronics and circuit engineering: What is the decimal numerical value of the 4-bit binary number 1010? (Ref #4)",
+    "question": "What type of semiconductor is created by doping pure silicon with trivalent Group III acceptor atoms like boron or gallium?",
     "options": [
-      "Decimal 12",
-      "Decimal 6",
-      "Decimal 14",
-      "Decimal 10 (8 + 2)"
+      "N-type semiconductor",
+      "Intrinsic semiconductor",
+      "Degenerate semiconductor",
+      "P-type semiconductor"
     ],
     "correctAnswer": 3,
-    "explanation": "Binary 1010 = (1 × 8) + (0 × 4) + (1 × 2) + (0 × 1) = 8 + 2 = 10.",
+    "explanation": "Trivalent atoms accept electrons, creating mobile positive vacancies (holes) in the valence band.",
     "tags": [
       "electronics",
-      "amplifiers-filters",
+      "semiconductors",
       "easy"
     ],
     "active": true
@@ -88,15 +88,15 @@
     "category": "Electronics",
     "subcategory": "Semiconductors",
     "difficulty": "medium",
-    "question": "Electronics and circuit engineering: What electronic component resists rapid changes in electrical current through stored magnetic energy? (Ref #5)",
+    "question": "What region forms at the metallurgical junction of P-type and N-type silicon where free electrons and holes diffuse and recombine?",
     "options": [
-      "Inductor (Choke)",
-      "Capacitor",
-      "Resistor",
-      "Varistor"
+      "Depletion Region (Space Charge Region)",
+      "Conduction Channel",
+      "Inversion Layer",
+      "Ohmic Contact"
     ],
     "correctAnswer": 0,
-    "explanation": "Inductors store energy in a magnetic field according to Faraday's law, opposing sudden variations in current.",
+    "explanation": "Mobile carriers diffuse across the junction, leaving uncompensated ionized donor (+) and acceptor (-) dopant atoms that form an electric field.",
     "tags": [
       "electronics",
       "semiconductors",
@@ -105,64 +105,64 @@
     "active": true
   },
   {
-    "id": "electronics-digital-logic-0006",
+    "id": "electronics-semiconductors-0006",
     "category": "Electronics",
-    "subcategory": "Digital Logic",
+    "subcategory": "Semiconductors",
     "difficulty": "hard",
-    "question": "Electronics and circuit engineering: Which basic digital logic gate produces a HIGH (1) output if and only if ALL of its inputs are simultaneously HIGH (1)? (Ref #6)",
+    "question": "What is the built-in barrier potential across the depletion region of a standard silicon P-N junction diode at room temperature?",
     "options": [
-      "OR gate",
-      "AND gate",
-      "NAND gate",
-      "XOR gate"
+      "0.2 to 0.3 Volts",
+      "Approximately 0.6 to 0.7 Volts",
+      "1.5 to 2.0 Volts",
+      "0.0 Volts"
     ],
     "correctAnswer": 1,
-    "explanation": "An AND gate requires all inputs to be true (1) to produce a true (1) output.",
+    "explanation": "Forward bias must overcome this internal 0.7V electrostatic barrier before significant diffusion current flows.",
     "tags": [
       "electronics",
-      "digital-logic",
+      "semiconductors",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "electronics-microcontrollers-0007",
+    "id": "electronics-semiconductors-0007",
     "category": "Electronics",
-    "subcategory": "Microcontrollers",
+    "subcategory": "Semiconductors",
     "difficulty": "easy",
-    "question": "Electronics and circuit engineering: What three functional terminals exist on a standard Bipolar Junction Transistor (BJT)? (Ref #7)",
+    "question": "What bias condition is applied to a P-N junction diode when the positive terminal of a voltage source connects to the anode?",
     "options": [
-      "Gate, Drain, and Source",
-      "Anode, Cathode, and Grid",
-      "Base, Collector, and Emitter",
-      "Phase, Neutral, and Ground"
+      "Reverse Bias",
+      "Zero Bias",
+      "Forward Bias",
+      "Breakdown Bias"
     ],
     "correctAnswer": 2,
-    "explanation": "BJTs possess Base, Collector, and Emitter terminals, where a small base current controls a larger collector-emitter current.",
+    "explanation": "Forward bias opposes the internal built-in electric field, narrowing the depletion region and allowing exponential current.",
     "tags": [
       "electronics",
-      "microcontrollers",
+      "semiconductors",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "electronics-amplifiers-filters-0008",
+    "id": "electronics-semiconductors-0008",
     "category": "Electronics",
-    "subcategory": "Amplifiers & Filters",
+    "subcategory": "Semiconductors",
     "difficulty": "medium",
-    "question": "Electronics and circuit engineering: What is the ideal input impedance of an ideal operational amplifier (Op-Amp)? (Ref #8)",
+    "question": "What happens to the depletion region width when a P-N junction diode is subjected to reverse bias?",
     "options": [
-      "Zero impedance",
-      "50 Ohms",
-      "1000 Ohms",
-      "Infinite impedance (draws zero input current)"
+      "The depletion region collapses to zero",
+      "The depletion region turns into a conductor",
+      "The depletion region emits light photons",
+      "The depletion region widens, creating a stronger electric field that blocks major current flow"
     ],
     "correctAnswer": 3,
-    "explanation": "Ideal op-amps have infinite input impedance so that they do not load or draw current from preceding circuit stages.",
+    "explanation": "Reverse bias pulls majority carriers away from the junction, leaving only a tiny nanoampere reverse saturation leakage current.",
     "tags": [
       "electronics",
-      "amplifiers-filters",
+      "semiconductors",
       "medium"
     ],
     "active": true
@@ -172,15 +172,15 @@
     "category": "Electronics",
     "subcategory": "Semiconductors",
     "difficulty": "hard",
-    "question": "Electronics and circuit engineering: What is the decimal numerical value of the 4-bit binary number 1010? (Ref #9)",
+    "question": "What reverse breakdown mechanism occurs in heavily doped P-N junctions at low reverse voltages under 5V via quantum mechanical tunneling?",
     "options": [
-      "Decimal 10 (8 + 2)",
-      "Decimal 12",
-      "Decimal 6",
-      "Decimal 14"
+      "Zener Breakdown",
+      "Avalanche Breakdown",
+      "Thermal Breakdown",
+      "Dielectric Puncture"
     ],
     "correctAnswer": 0,
-    "explanation": "Binary 1010 = (1 × 8) + (0 × 4) + (1 × 2) + (0 × 1) = 8 + 2 = 10.",
+    "explanation": "Narrow depletion barriers in heavily doped junctions allow valence electrons to tunnel directly into the conduction band under high electric fields.",
     "tags": [
       "electronics",
       "semiconductors",
@@ -189,64 +189,64 @@
     "active": true
   },
   {
-    "id": "electronics-digital-logic-0010",
+    "id": "electronics-semiconductors-0010",
     "category": "Electronics",
-    "subcategory": "Digital Logic",
+    "subcategory": "Semiconductors",
     "difficulty": "easy",
-    "question": "Electronics and circuit engineering: What electronic component resists rapid changes in electrical current through stored magnetic energy? (Ref #10)",
+    "question": "What reverse breakdown mechanism occurs in lightly doped junctions at higher reverse voltages above 6V via carrier impact ionization?",
     "options": [
-      "Capacitor",
-      "Inductor (Choke)",
-      "Resistor",
-      "Varistor"
+      "Zener Breakdown",
+      "Avalanche Breakdown",
+      "Tunneling Breakdown",
+      "Electroluminescent Breakdown"
     ],
     "correctAnswer": 1,
-    "explanation": "Inductors store energy in a magnetic field according to Faraday's law, opposing sudden variations in current.",
+    "explanation": "Thermally accelerated electrons gain kinetic energy in the depletion field, knocking valence electrons loose in a cascading avalanche.",
     "tags": [
       "electronics",
-      "digital-logic",
+      "semiconductors",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "electronics-microcontrollers-0011",
+    "id": "electronics-semiconductors-0011",
     "category": "Electronics",
-    "subcategory": "Microcontrollers",
+    "subcategory": "Semiconductors",
     "difficulty": "medium",
-    "question": "Electronics and circuit engineering: Which basic digital logic gate produces a HIGH (1) output if and only if ALL of its inputs are simultaneously HIGH (1)? (Ref #11)",
+    "question": "What temperature coefficient characterizes Zener breakdown compared to Avalanche breakdown in voltage regulator diodes?",
     "options": [
-      "OR gate",
-      "NAND gate",
-      "AND gate",
-      "XOR gate"
+      "Both have identical positive coefficients",
+      "Both have zero temperature coefficients",
+      "Zener breakdown has a negative temperature coefficient while Avalanche has a positive temperature coefficient",
+      "Zener is positive while Avalanche is negative"
     ],
     "correctAnswer": 2,
-    "explanation": "An AND gate requires all inputs to be true (1) to produce a true (1) output.",
+    "explanation": "Diodes rated at ~5.6V combine both mechanisms with opposing temperature coefficients, achieving near-zero temperature drift.",
     "tags": [
       "electronics",
-      "microcontrollers",
+      "semiconductors",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "electronics-amplifiers-filters-0012",
+    "id": "electronics-semiconductors-0012",
     "category": "Electronics",
-    "subcategory": "Amplifiers & Filters",
+    "subcategory": "Semiconductors",
     "difficulty": "hard",
-    "question": "Electronics and circuit engineering: What three functional terminals exist on a standard Bipolar Junction Transistor (BJT)? (Ref #12)",
+    "question": "What parameter defines the small DC current that flows through a reverse-biased diode prior to reaching breakdown?",
     "options": [
-      "Gate, Drain, and Source",
-      "Anode, Cathode, and Grid",
-      "Phase, Neutral, and Ground",
-      "Base, Collector, and Emitter"
+      "Forward Knee Current",
+      "Holding Current",
+      "Peak Inverse Current",
+      "Reverse Saturation Current (Is)"
     ],
     "correctAnswer": 3,
-    "explanation": "BJTs possess Base, Collector, and Emitter terminals, where a small base current controls a larger collector-emitter current.",
+    "explanation": "Reverse leakage current is governed by thermal generation of minority carriers in the depletion layer, doubling roughly every 10 C.",
     "tags": [
       "electronics",
-      "amplifiers-filters",
+      "semiconductors",
       "hard"
     ],
     "active": true
@@ -256,15 +256,15 @@
     "category": "Electronics",
     "subcategory": "Semiconductors",
     "difficulty": "easy",
-    "question": "Electronics and circuit engineering: What is the ideal input impedance of an ideal operational amplifier (Op-Amp)? (Ref #13)",
+    "question": "What does the Peak Inverse Voltage (PIV) rating of a semiconductor rectifier diode signify?",
     "options": [
-      "Infinite impedance (draws zero input current)",
-      "Zero impedance",
-      "50 Ohms",
-      "1000 Ohms"
+      "The maximum instantaneous reverse voltage that the diode can withstand without breaking down",
+      "The forward threshold voltage",
+      "The voltage at peak forward current",
+      "The continuous RMS working voltage"
     ],
     "correctAnswer": 0,
-    "explanation": "Ideal op-amps have infinite input impedance so that they do not load or draw current from preceding circuit stages.",
+    "explanation": "Exceeding a diode's PIV rating causes uncontrolled reverse breakdown and catastrophic thermal destruction.",
     "tags": [
       "electronics",
       "semiconductors",
@@ -273,64 +273,64 @@
     "active": true
   },
   {
-    "id": "electronics-digital-logic-0014",
+    "id": "electronics-semiconductors-0014",
     "category": "Electronics",
-    "subcategory": "Digital Logic",
+    "subcategory": "Semiconductors",
     "difficulty": "medium",
-    "question": "Electronics and circuit engineering: What is the decimal numerical value of the 4-bit binary number 1010? (Ref #14)",
+    "question": "What wide-bandgap semiconductor material with a bandgap around 3.2 eV is replacing silicon in high-voltage electric vehicle inverters?",
     "options": [
-      "Decimal 12",
-      "Decimal 10 (8 + 2)",
-      "Decimal 6",
-      "Decimal 14"
+      "Gallium Arsenide (GaAs)",
+      "Silicon Carbide (SiC)",
+      "Germanium (Ge)",
+      "Indium Phosphide (InP)"
     ],
     "correctAnswer": 1,
-    "explanation": "Binary 1010 = (1 × 8) + (0 × 4) + (1 × 2) + (0 × 1) = 8 + 2 = 10.",
+    "explanation": "SiC offers 10x higher breakdown electric field strength and superior thermal conductivity, slashing switching losses in EV inverters.",
     "tags": [
       "electronics",
-      "digital-logic",
+      "semiconductors",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "electronics-microcontrollers-0015",
+    "id": "electronics-semiconductors-0015",
     "category": "Electronics",
-    "subcategory": "Microcontrollers",
+    "subcategory": "Semiconductors",
     "difficulty": "hard",
-    "question": "Electronics and circuit engineering: What electronic component resists rapid changes in electrical current through stored magnetic energy? (Ref #15)",
+    "question": "What high-electron-mobility wide-bandgap semiconductor with a bandgap around 3.4 eV dominates high-frequency RF power amplifiers and compact fast chargers?",
     "options": [
-      "Capacitor",
-      "Resistor",
-      "Inductor (Choke)",
-      "Varistor"
+      "Silicon Carbide",
+      "Silicon",
+      "Gallium Nitride (GaN)",
+      "Germanium"
     ],
     "correctAnswer": 2,
-    "explanation": "Inductors store energy in a magnetic field according to Faraday's law, opposing sudden variations in current.",
+    "explanation": "GaN transistors achieve high electron saturation velocity and low on-resistance, enabling compact, high-efficiency power converters.",
     "tags": [
       "electronics",
-      "microcontrollers",
+      "semiconductors",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "electronics-amplifiers-filters-0016",
+    "id": "electronics-semiconductors-0016",
     "category": "Electronics",
-    "subcategory": "Amplifiers & Filters",
+    "subcategory": "Semiconductors",
     "difficulty": "easy",
-    "question": "Electronics and circuit engineering: Which basic digital logic gate produces a HIGH (1) output if and only if ALL of its inputs are simultaneously HIGH (1)? (Ref #16)",
+    "question": "What term describes the ratio of collector current to base current in a Bipolar Junction Transistor common-emitter configuration?",
     "options": [
-      "OR gate",
-      "NAND gate",
-      "XOR gate",
-      "AND gate"
+      "Alpha",
+      "Transconductance (gm)",
+      "Amplification Factor",
+      "DC Current Gain (Beta or hFE)"
     ],
     "correctAnswer": 3,
-    "explanation": "An AND gate requires all inputs to be true (1) to produce a true (1) output.",
+    "explanation": "Beta (hFE) typically ranges from 50 to 300 in small-signal BJTs, defining how much small base current controls collector output current.",
     "tags": [
       "electronics",
-      "amplifiers-filters",
+      "semiconductors",
       "easy"
     ],
     "active": true
@@ -340,15 +340,15 @@
     "category": "Electronics",
     "subcategory": "Semiconductors",
     "difficulty": "medium",
-    "question": "Electronics and circuit engineering: What three functional terminals exist on a standard Bipolar Junction Transistor (BJT)? (Ref #17)",
+    "question": "What operational state of a BJT occurs when both the base-emitter and base-collector junctions are forward-biased?",
     "options": [
-      "Base, Collector, and Emitter",
-      "Gate, Drain, and Source",
-      "Anode, Cathode, and Grid",
-      "Phase, Neutral, and Ground"
+      "Saturation Region",
+      "Cutoff Region",
+      "Active (Linear) Region",
+      "Breakdown Region"
     ],
     "correctAnswer": 0,
-    "explanation": "BJTs possess Base, Collector, and Emitter terminals, where a small base current controls a larger collector-emitter current.",
+    "explanation": "In saturation, collector-emitter voltage drops to its minimum (VCE(sat) ~0.1 to 0.2V), conducting maximum collector load current.",
     "tags": [
       "electronics",
       "semiconductors",
@@ -357,64 +357,64 @@
     "active": true
   },
   {
-    "id": "electronics-digital-logic-0018",
+    "id": "electronics-semiconductors-0018",
     "category": "Electronics",
-    "subcategory": "Digital Logic",
+    "subcategory": "Semiconductors",
     "difficulty": "hard",
-    "question": "Electronics and circuit engineering: What is the ideal input impedance of an ideal operational amplifier (Op-Amp)? (Ref #18)",
+    "question": "What operational state of a BJT occurs when the base-emitter junction is reverse-biased, resulting in virtually zero collector current?",
     "options": [
-      "Zero impedance",
-      "Infinite impedance (draws zero input current)",
-      "50 Ohms",
-      "1000 Ohms"
+      "Saturation Region",
+      "Cutoff Region",
+      "Active Region",
+      "Ohmic Region"
     ],
     "correctAnswer": 1,
-    "explanation": "Ideal op-amps have infinite input impedance so that they do not load or draw current from preceding circuit stages.",
+    "explanation": "In cutoff, collector current is virtually zero, acting like an open mechanical switch contact.",
     "tags": [
       "electronics",
-      "digital-logic",
+      "semiconductors",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "electronics-microcontrollers-0019",
+    "id": "electronics-semiconductors-0019",
     "category": "Electronics",
-    "subcategory": "Microcontrollers",
+    "subcategory": "Semiconductors",
     "difficulty": "easy",
-    "question": "Electronics and circuit engineering: What is the decimal numerical value of the 4-bit binary number 1010? (Ref #19)",
+    "question": "In what BJT operating region is the base-emitter junction forward-biased and the base-collector junction reverse-biased?",
     "options": [
-      "Decimal 12",
-      "Decimal 6",
-      "Decimal 10 (8 + 2)",
-      "Decimal 14"
+      "Saturation Region",
+      "Cutoff Region",
+      "Active (Linear) Region",
+      "Inverted Region"
     ],
     "correctAnswer": 2,
-    "explanation": "Binary 1010 = (1 × 8) + (0 × 4) + (1 × 2) + (0 × 1) = 8 + 2 = 10.",
+    "explanation": "In the active region, small changes in base current produce proportional linear changes in collector current.",
     "tags": [
       "electronics",
-      "microcontrollers",
+      "semiconductors",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "electronics-amplifiers-filters-0020",
+    "id": "electronics-semiconductors-0020",
     "category": "Electronics",
-    "subcategory": "Amplifiers & Filters",
+    "subcategory": "Semiconductors",
     "difficulty": "medium",
-    "question": "Electronics and circuit engineering: What electronic component resists rapid changes in electrical current through stored magnetic energy? (Ref #20)",
+    "question": "What fundamental equation relates BJT collector current to base-emitter voltage?",
     "options": [
-      "Capacitor",
-      "Resistor",
-      "Varistor",
-      "Inductor (Choke)"
+      "Ohm's Law",
+      "Einstein Relation",
+      "Poisson Equation",
+      "Ebers-Moll Equation"
     ],
     "correctAnswer": 3,
-    "explanation": "Inductors store energy in a magnetic field according to Faraday's law, opposing sudden variations in current.",
+    "explanation": "The exponential relationship demonstrates that a tiny increase in VBE produces a massive exponential surge in collector current.",
     "tags": [
       "electronics",
-      "amplifiers-filters",
+      "semiconductors",
       "medium"
     ],
     "active": true
@@ -424,15 +424,15 @@
     "category": "Electronics",
     "subcategory": "Semiconductors",
     "difficulty": "hard",
-    "question": "Electronics and circuit engineering: Which basic digital logic gate produces a HIGH (1) output if and only if ALL of its inputs are simultaneously HIGH (1)? (Ref #21)",
+    "question": "What thermal hazard occurs in BJTs when rising temperature increases collector current, which in turn generates more destructive heat?",
     "options": [
-      "AND gate",
-      "OR gate",
-      "NAND gate",
-      "XOR gate"
+      "Thermal Runaway",
+      "Second Breakdown",
+      "Punch-Through",
+      "Avalanche Multiplication"
     ],
     "correctAnswer": 0,
-    "explanation": "An AND gate requires all inputs to be true (1) to produce a true (1) output.",
+    "explanation": "BJTs have a negative temperature coefficient of VBE; without emitter degeneration resistors, self-heating causes destructive current runaway.",
     "tags": [
       "electronics",
       "semiconductors",
@@ -441,64 +441,64 @@
     "active": true
   },
   {
-    "id": "electronics-digital-logic-0022",
+    "id": "electronics-semiconductors-0022",
     "category": "Electronics",
-    "subcategory": "Digital Logic",
+    "subcategory": "Semiconductors",
     "difficulty": "easy",
-    "question": "Electronics and circuit engineering: What three functional terminals exist on a standard Bipolar Junction Transistor (BJT)? (Ref #22)",
+    "question": "What type of Field-Effect Transistor utilizes a reverse-biased P-N junction to modulate the width of a conducting channel?",
     "options": [
-      "Gate, Drain, and Source",
-      "Base, Collector, and Emitter",
-      "Anode, Cathode, and Grid",
-      "Phase, Neutral, and Ground"
+      "MOSFET",
+      "Junction Field-Effect Transistor (JFET)",
+      "IGBT",
+      "HEMT"
     ],
     "correctAnswer": 1,
-    "explanation": "BJTs possess Base, Collector, and Emitter terminals, where a small base current controls a larger collector-emitter current.",
+    "explanation": "JFETs are depletion-mode devices; applying reverse bias to the Gate narrows the channel, pinching off current at the pinch-off voltage.",
     "tags": [
       "electronics",
-      "digital-logic",
+      "semiconductors",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "electronics-microcontrollers-0023",
+    "id": "electronics-semiconductors-0023",
     "category": "Electronics",
-    "subcategory": "Microcontrollers",
+    "subcategory": "Semiconductors",
     "difficulty": "medium",
-    "question": "Electronics and circuit engineering: What is the ideal input impedance of an ideal operational amplifier (Op-Amp)? (Ref #23)",
+    "question": "What type of MOSFET is normally off at zero gate voltage and requires positive gate-to-source voltage to conduct?",
     "options": [
-      "Zero impedance",
-      "50 Ohms",
-      "Infinite impedance (draws zero input current)",
-      "1000 Ohms"
+      "Depletion-Mode MOSFET",
+      "JFET",
+      "Enhancement-Mode MOSFET",
+      "MESFET"
     ],
     "correctAnswer": 2,
-    "explanation": "Ideal op-amps have infinite input impedance so that they do not load or draw current from preceding circuit stages.",
+    "explanation": "Enhancement-mode N-channel MOSFETs are the universal standard for modern digital logic (CMOS) and power switching.",
     "tags": [
       "electronics",
-      "microcontrollers",
+      "semiconductors",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "electronics-amplifiers-filters-0024",
+    "id": "electronics-semiconductors-0024",
     "category": "Electronics",
-    "subcategory": "Amplifiers & Filters",
+    "subcategory": "Semiconductors",
     "difficulty": "hard",
-    "question": "Electronics and circuit engineering: What is the decimal numerical value of the 4-bit binary number 1010? (Ref #24)",
+    "question": "What type of MOSFET possesses a doped conducting channel that conducts at zero gate voltage and requires negative voltage to turn off?",
     "options": [
-      "Decimal 12",
-      "Decimal 6",
-      "Decimal 14",
-      "Decimal 10 (8 + 2)"
+      "Enhancement-Mode MOSFET",
+      "BJT",
+      "IGBT",
+      "Depletion-Mode MOSFET"
     ],
     "correctAnswer": 3,
-    "explanation": "Binary 1010 = (1 × 8) + (0 × 4) + (1 × 2) + (0 × 1) = 8 + 2 = 10.",
+    "explanation": "Depletion-mode MOSFETs are normally on at VGS = 0, useful in current sources and startup circuits.",
     "tags": [
       "electronics",
-      "amplifiers-filters",
+      "semiconductors",
       "hard"
     ],
     "active": true
@@ -508,15 +508,15 @@
     "category": "Electronics",
     "subcategory": "Semiconductors",
     "difficulty": "easy",
-    "question": "Electronics and circuit engineering: What electronic component resists rapid changes in electrical current through stored magnetic energy? (Ref #25)",
+    "question": "What crucial MOSFET parameter defines the minimum gate-to-source voltage required to create the conducting channel inversion layer?",
     "options": [
-      "Inductor (Choke)",
-      "Capacitor",
-      "Resistor",
-      "Varistor"
+      "Gate Threshold Voltage (VGS(th))",
+      "Pinch-Off Voltage",
+      "Breakdown Voltage",
+      "Saturation Voltage"
     ],
     "correctAnswer": 0,
-    "explanation": "Inductors store energy in a magnetic field according to Faraday's law, opposing sudden variations in current.",
+    "explanation": "VGS must exceed threshold voltage (typically 1-3V for logic-level, 3-5V for standard power FETs) to turn the device on.",
     "tags": [
       "electronics",
       "semiconductors",
@@ -525,64 +525,64 @@
     "active": true
   },
   {
-    "id": "electronics-digital-logic-0026",
+    "id": "electronics-semiconductors-0026",
     "category": "Electronics",
-    "subcategory": "Digital Logic",
+    "subcategory": "Semiconductors",
     "difficulty": "medium",
-    "question": "Electronics and circuit engineering: Which basic digital logic gate produces a HIGH (1) output if and only if ALL of its inputs are simultaneously HIGH (1)? (Ref #26)",
+    "question": "What parameter defines the internal electrical resistance between Drain and Source when a power MOSFET is fully turned on?",
     "options": [
-      "OR gate",
-      "AND gate",
-      "NAND gate",
-      "XOR gate"
+      "Transconductance",
+      "Drain-Source On-Resistance (RDS(on))",
+      "Gate Resistance",
+      "Drain Leakage"
     ],
     "correctAnswer": 1,
-    "explanation": "An AND gate requires all inputs to be true (1) to produce a true (1) output.",
+    "explanation": "Low RDS(on) (often single-digit milliohms) minimizes conduction heat losses in high-efficiency switching power supplies.",
     "tags": [
       "electronics",
-      "digital-logic",
+      "semiconductors",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "electronics-microcontrollers-0027",
+    "id": "electronics-semiconductors-0027",
     "category": "Electronics",
-    "subcategory": "Microcontrollers",
+    "subcategory": "Semiconductors",
     "difficulty": "hard",
-    "question": "Electronics and circuit engineering: What three functional terminals exist on a standard Bipolar Junction Transistor (BJT)? (Ref #27)",
+    "question": "Why do power MOSFETs naturally share current equally when placed in parallel?",
     "options": [
-      "Gate, Drain, and Source",
-      "Anode, Cathode, and Grid",
-      "Base, Collector, and Emitter",
-      "Phase, Neutral, and Ground"
+      "MOSFETs have built-in cooling fans",
+      "Parallel MOSFETs fuse together",
+      "As MOSFET junction temperature rises, RDS(on) increases, naturally balancing and sharing current equally",
+      "MOSFETs switch to bipolar mode at high heat"
     ],
     "correctAnswer": 2,
-    "explanation": "BJTs possess Base, Collector, and Emitter terminals, where a small base current controls a larger collector-emitter current.",
+    "explanation": "Unlike BJTs, parallel MOSFETs self-stabilize: hotter devices develop higher resistance, shunting current to cooler parallel FETs.",
     "tags": [
       "electronics",
-      "microcontrollers",
+      "semiconductors",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "electronics-amplifiers-filters-0028",
+    "id": "electronics-semiconductors-0028",
     "category": "Electronics",
-    "subcategory": "Amplifiers & Filters",
+    "subcategory": "Semiconductors",
     "difficulty": "easy",
-    "question": "Electronics and circuit engineering: What is the ideal input impedance of an ideal operational amplifier (Op-Amp)? (Ref #28)",
+    "question": "What parasitic component exists inside every power MOSFET between Drain and Source due to its silicon substrate construction?",
     "options": [
-      "Zero impedance",
-      "50 Ohms",
-      "1000 Ohms",
-      "Infinite impedance (draws zero input current)"
+      "Parasitic BJT only",
+      "Internal Zener Diode",
+      "Schottky Barrier",
+      "Body Diode (Intrinsic Anti-Parallel Diode)"
     ],
     "correctAnswer": 3,
-    "explanation": "Ideal op-amps have infinite input impedance so that they do not load or draw current from preceding circuit stages.",
+    "explanation": "The integral body diode conducts reverse freewheeling current in H-bridge inverters, but exhibits slow reverse recovery time.",
     "tags": [
       "electronics",
-      "amplifiers-filters",
+      "semiconductors",
       "easy"
     ],
     "active": true
@@ -592,15 +592,15 @@
     "category": "Electronics",
     "subcategory": "Semiconductors",
     "difficulty": "medium",
-    "question": "Electronics and circuit engineering: What is the decimal numerical value of the 4-bit binary number 1010? (Ref #29)",
+    "question": "What phenomenon in CMOS integrated circuits occurs when parasitic bipolar structures trigger an unintended low-impedance short circuit?",
     "options": [
-      "Decimal 10 (8 + 2)",
-      "Decimal 12",
-      "Decimal 6",
-      "Decimal 14"
+      "CMOS Latch-Up",
+      "Thermal Runaway",
+      "Electromigration",
+      "Oxide Breakdown"
     ],
     "correctAnswer": 0,
-    "explanation": "Binary 1010 = (1 × 8) + (0 × 4) + (1 × 2) + (0 × 1) = 8 + 2 = 10.",
+    "explanation": "Voltage spikes or radiation can trigger parasitic thyristor latch-up across VDD and GND, burning out the chip unless power is removed.",
     "tags": [
       "electronics",
       "semiconductors",
@@ -609,64 +609,64 @@
     "active": true
   },
   {
-    "id": "electronics-digital-logic-0030",
+    "id": "electronics-semiconductors-0030",
     "category": "Electronics",
-    "subcategory": "Digital Logic",
+    "subcategory": "Semiconductors",
     "difficulty": "hard",
-    "question": "Electronics and circuit engineering: What electronic component resists rapid changes in electrical current through stored magnetic energy? (Ref #30)",
+    "question": "What progressive failure mechanism occurs in microchip metal traces when high current density physically displaces metal atoms?",
     "options": [
-      "Capacitor",
-      "Inductor (Choke)",
-      "Resistor",
-      "Varistor"
+      "Latch-Up",
+      "Electromigration",
+      "Dielectric Breakdown",
+      "Hot Carrier Injection"
     ],
     "correctAnswer": 1,
-    "explanation": "Inductors store energy in a magnetic field according to Faraday's law, opposing sudden variations in current.",
+    "explanation": "Over years, electromigration creates microscopic voids or metal whiskers inside sub-micron silicon chips.",
     "tags": [
       "electronics",
-      "digital-logic",
+      "semiconductors",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "electronics-microcontrollers-0031",
+    "id": "electronics-semiconductors-0031",
     "category": "Electronics",
-    "subcategory": "Microcontrollers",
+    "subcategory": "Semiconductors",
     "difficulty": "easy",
-    "question": "Electronics and circuit engineering: Which basic digital logic gate produces a HIGH (1) output if and only if ALL of its inputs are simultaneously HIGH (1)? (Ref #31)",
+    "question": "What degradation phenomenon in submicron MOSFETs occurs when electrons accelerated by electric fields become trapped in gate oxide?",
     "options": [
-      "OR gate",
-      "NAND gate",
-      "AND gate",
-      "XOR gate"
+      "Dielectric Breakdown",
+      "Electromigration",
+      "Hot Carrier Injection (HCI)",
+      "Negative Bias Instability"
     ],
     "correctAnswer": 2,
-    "explanation": "An AND gate requires all inputs to be true (1) to produce a true (1) output.",
+    "explanation": "Trapped energetic electrons permanently shift gate threshold voltage and degrade transconductance over the operational lifetime of the CPU.",
     "tags": [
       "electronics",
-      "microcontrollers",
+      "semiconductors",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "electronics-amplifiers-filters-0032",
+    "id": "electronics-semiconductors-0032",
     "category": "Electronics",
-    "subcategory": "Amplifiers & Filters",
+    "subcategory": "Semiconductors",
     "difficulty": "medium",
-    "question": "Electronics and circuit engineering: What three functional terminals exist on a standard Bipolar Junction Transistor (BJT)? (Ref #32)",
+    "question": "What high-frequency effect describes the unwanted capacitive multiplication between the input and output terminals of an inverting amplifier?",
     "options": [
-      "Gate, Drain, and Source",
-      "Anode, Cathode, and Grid",
-      "Phase, Neutral, and Ground",
-      "Base, Collector, and Emitter"
+      "Early Effect",
+      "Barkhausen Criterion",
+      "Skin Effect",
+      "Miller Effect"
     ],
     "correctAnswer": 3,
-    "explanation": "BJTs possess Base, Collector, and Emitter terminals, where a small base current controls a larger collector-emitter current.",
+    "explanation": "The Miller effect multiplies feedback capacitance by amplifier voltage gain, restricting high-frequency bandwidth.",
     "tags": [
       "electronics",
-      "amplifiers-filters",
+      "semiconductors",
       "medium"
     ],
     "active": true
@@ -676,15 +676,15 @@
     "category": "Electronics",
     "subcategory": "Semiconductors",
     "difficulty": "hard",
-    "question": "Electronics and circuit engineering: What is the ideal input impedance of an ideal operational amplifier (Op-Amp)? (Ref #33)",
+    "question": "What logic circuit technology pairs N-channel and P-channel MOSFETs to achieve virtually zero static power consumption?",
     "options": [
-      "Infinite impedance (draws zero input current)",
-      "Zero impedance",
-      "50 Ohms",
-      "1000 Ohms"
+      "CMOS (Complementary Metal-Oxide-Semiconductor)",
+      "TTL",
+      "ECL",
+      "NMOS Logic"
     ],
     "correctAnswer": 0,
-    "explanation": "Ideal op-amps have infinite input impedance so that they do not load or draw current from preceding circuit stages.",
+    "explanation": "In CMOS gates, one transistor is always off when the other is on, drawing current only dynamically during switching transitions.",
     "tags": [
       "electronics",
       "semiconductors",
@@ -693,64 +693,64 @@
     "active": true
   },
   {
-    "id": "electronics-digital-logic-0034",
+    "id": "electronics-semiconductors-0034",
     "category": "Electronics",
-    "subcategory": "Digital Logic",
+    "subcategory": "Semiconductors",
     "difficulty": "easy",
-    "question": "Electronics and circuit engineering: What is the decimal numerical value of the 4-bit binary number 1010? (Ref #34)",
+    "question": "What legacy bipolar digital logic family, introduced with the 7400 series, utilized multi-emitter input transistors and 5V DC?",
     "options": [
-      "Decimal 12",
-      "Decimal 10 (8 + 2)",
-      "Decimal 6",
-      "Decimal 14"
+      "CMOS",
+      "Transistor-Transistor Logic (TTL)",
+      "ECL",
+      "RTL"
     ],
     "correctAnswer": 1,
-    "explanation": "Binary 1010 = (1 × 8) + (0 × 4) + (1 × 2) + (0 × 1) = 8 + 2 = 10.",
+    "explanation": "Standard TTL defined logic low as 0 to 0.8V and logic high as 2.0 to 5.0V, dominating early digital computers.",
     "tags": [
       "electronics",
-      "digital-logic",
+      "semiconductors",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "electronics-microcontrollers-0035",
+    "id": "electronics-semiconductors-0035",
     "category": "Electronics",
-    "subcategory": "Microcontrollers",
+    "subcategory": "Semiconductors",
     "difficulty": "medium",
-    "question": "Electronics and circuit engineering: What electronic component resists rapid changes in electrical current through stored magnetic energy? (Ref #35)",
+    "question": "What ultra-fast bipolar logic family operates transistors strictly in the active region to eliminate saturation storage delay?",
     "options": [
-      "Capacitor",
-      "Resistor",
-      "Inductor (Choke)",
-      "Varistor"
+      "TTL",
+      "CMOS",
+      "Emitter-Coupled Logic (ECL)",
+      "I2L"
     ],
     "correctAnswer": 2,
-    "explanation": "Inductors store energy in a magnetic field according to Faraday's law, opposing sudden variations in current.",
+    "explanation": "ECL avoids saturation delays by using differential pairs, used in early supercomputers like Cray-1.",
     "tags": [
       "electronics",
-      "microcontrollers",
+      "semiconductors",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "electronics-amplifiers-filters-0036",
+    "id": "electronics-semiconductors-0036",
     "category": "Electronics",
-    "subcategory": "Amplifiers & Filters",
+    "subcategory": "Semiconductors",
     "difficulty": "hard",
-    "question": "Electronics and circuit engineering: Which basic digital logic gate produces a HIGH (1) output if and only if ALL of its inputs are simultaneously HIGH (1)? (Ref #36)",
+    "question": "What semiconductor component consists of two antiparallel SCRs sharing a single gate to control AC power bidirectionally?",
     "options": [
-      "OR gate",
-      "NAND gate",
-      "XOR gate",
-      "AND gate"
+      "DIAC",
+      "IGBT",
+      "Darlington Pair",
+      "TRIAC"
     ],
     "correctAnswer": 3,
-    "explanation": "An AND gate requires all inputs to be true (1) to produce a true (1) output.",
+    "explanation": "TRIACs conduct across both positive and negative AC half-cycles, ubiquitous in domestic fan speed regulators and light dimmers.",
     "tags": [
       "electronics",
-      "amplifiers-filters",
+      "semiconductors",
       "hard"
     ],
     "active": true
@@ -760,15 +760,15 @@
     "category": "Electronics",
     "subcategory": "Semiconductors",
     "difficulty": "easy",
-    "question": "Electronics and circuit engineering: What three functional terminals exist on a standard Bipolar Junction Transistor (BJT)? (Ref #37)",
+    "question": "What two-terminal semiconductor device triggers at a specific breakover voltage without a gate terminal, used to trigger TRIACs?",
     "options": [
-      "Base, Collector, and Emitter",
-      "Gate, Drain, and Source",
-      "Anode, Cathode, and Grid",
-      "Phase, Neutral, and Ground"
+      "DIAC",
+      "Zener Diode",
+      "Tunnel Diode",
+      "Varistor"
     ],
     "correctAnswer": 0,
-    "explanation": "BJTs possess Base, Collector, and Emitter terminals, where a small base current controls a larger collector-emitter current.",
+    "explanation": "DIACs conduct when voltage across them reaches ~30V in either polarity, delivering a sharp gate pulse to trigger a TRIAC.",
     "tags": [
       "electronics",
       "semiconductors",
@@ -777,85 +777,85 @@
     "active": true
   },
   {
-    "id": "electronics-digital-logic-0038",
+    "id": "electronics-semiconductors-0038",
     "category": "Electronics",
-    "subcategory": "Digital Logic",
+    "subcategory": "Semiconductors",
     "difficulty": "medium",
-    "question": "Electronics and circuit engineering: What is the ideal input impedance of an ideal operational amplifier (Op-Amp)? (Ref #38)",
+    "question": "What power device combines an isolated MOS gate with a bipolar output, standardly used in high-voltage industrial motor drives above 600V?",
     "options": [
-      "Zero impedance",
-      "Infinite impedance (draws zero input current)",
-      "50 Ohms",
-      "1000 Ohms"
+      "Power MOSFET",
+      "Insulated Gate Bipolar Transistor (IGBT)",
+      "Darlington Transistor",
+      "JFET"
     ],
     "correctAnswer": 1,
-    "explanation": "Ideal op-amps have infinite input impedance so that they do not load or draw current from preceding circuit stages.",
+    "explanation": "IGBTs eliminate high gate drive current while avoiding the high on-resistance penalty that limits silicon power MOSFETs above 600V.",
     "tags": [
       "electronics",
-      "digital-logic",
+      "semiconductors",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "electronics-microcontrollers-0039",
+    "id": "electronics-digital-logic-0039",
     "category": "Electronics",
-    "subcategory": "Microcontrollers",
+    "subcategory": "Digital Logic",
     "difficulty": "hard",
-    "question": "Electronics and circuit engineering: What is the decimal numerical value of the 4-bit binary number 1010? (Ref #39)",
+    "question": "What fundamental logic gate produces an output of binary 1 if and only if ALL of its inputs are binary 1?",
     "options": [
-      "Decimal 12",
-      "Decimal 6",
-      "Decimal 10 (8 + 2)",
-      "Decimal 14"
+      "OR Gate",
+      "XOR Gate",
+      "AND Gate",
+      "NAND Gate"
     ],
     "correctAnswer": 2,
-    "explanation": "Binary 1010 = (1 × 8) + (0 × 4) + (1 × 2) + (0 × 1) = 8 + 2 = 10.",
+    "explanation": "The AND gate performs logical conjunction: output Y = A * B. Output is 0 if any input is 0.",
     "tags": [
       "electronics",
-      "microcontrollers",
+      "digital-logic",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "electronics-amplifiers-filters-0040",
+    "id": "electronics-digital-logic-0040",
     "category": "Electronics",
-    "subcategory": "Amplifiers & Filters",
+    "subcategory": "Digital Logic",
     "difficulty": "easy",
-    "question": "Electronics and circuit engineering: What electronic component resists rapid changes in electrical current through stored magnetic energy? (Ref #40)",
+    "question": "What logic gate produces an output of binary 1 if AT LEAST ONE of its inputs is binary 1?",
     "options": [
-      "Capacitor",
-      "Resistor",
-      "Varistor",
-      "Inductor (Choke)"
+      "AND Gate",
+      "NOR Gate",
+      "XNOR Gate",
+      "OR Gate"
     ],
     "correctAnswer": 3,
-    "explanation": "Inductors store energy in a magnetic field according to Faraday's law, opposing sudden variations in current.",
+    "explanation": "The OR gate performs logical disjunction: output Y = A + B. Output is 0 only when all inputs are 0.",
     "tags": [
       "electronics",
-      "amplifiers-filters",
+      "digital-logic",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "electronics-semiconductors-0041",
+    "id": "electronics-digital-logic-0041",
     "category": "Electronics",
-    "subcategory": "Semiconductors",
+    "subcategory": "Digital Logic",
     "difficulty": "medium",
-    "question": "Electronics and circuit engineering: Which basic digital logic gate produces a HIGH (1) output if and only if ALL of its inputs are simultaneously HIGH (1)? (Ref #41)",
+    "question": "What single-input logic gate inverts a binary signal so that 1 becomes 0 and 0 becomes 1?",
     "options": [
-      "AND gate",
-      "OR gate",
-      "NAND gate",
-      "XOR gate"
+      "NOT Gate (Inverter)",
+      "Buffer",
+      "AND Gate",
+      "XOR Gate"
     ],
     "correctAnswer": 0,
-    "explanation": "An AND gate requires all inputs to be true (1) to produce a true (1) output.",
+    "explanation": "The inverter negates input logic: output Y = NOT A.",
     "tags": [
       "electronics",
-      "semiconductors",
+      "digital-logic",
       "medium"
     ],
     "active": true
@@ -865,15 +865,15 @@
     "category": "Electronics",
     "subcategory": "Digital Logic",
     "difficulty": "hard",
-    "question": "Electronics and circuit engineering: What three functional terminals exist on a standard Bipolar Junction Transistor (BJT)? (Ref #42)",
+    "question": "What logic gate produces an output of binary 0 only when ALL of its inputs are binary 1?",
     "options": [
-      "Gate, Drain, and Source",
-      "Base, Collector, and Emitter",
-      "Anode, Cathode, and Grid",
-      "Phase, Neutral, and Ground"
+      "NOR Gate",
+      "NAND Gate",
+      "AND Gate",
+      "XOR Gate"
     ],
     "correctAnswer": 1,
-    "explanation": "BJTs possess Base, Collector, and Emitter terminals, where a small base current controls a larger collector-emitter current.",
+    "explanation": "NAND performs negated conjunction: Y = NOT(A * B). It is a universal gate capable of creating all other logic functions.",
     "tags": [
       "electronics",
       "digital-logic",
@@ -882,64 +882,64 @@
     "active": true
   },
   {
-    "id": "electronics-microcontrollers-0043",
+    "id": "electronics-digital-logic-0043",
     "category": "Electronics",
-    "subcategory": "Microcontrollers",
+    "subcategory": "Digital Logic",
     "difficulty": "easy",
-    "question": "Electronics and circuit engineering: What is the ideal input impedance of an ideal operational amplifier (Op-Amp)? (Ref #43)",
+    "question": "What logic gate produces an output of binary 1 only when ALL of its inputs are binary 0?",
     "options": [
-      "Zero impedance",
-      "50 Ohms",
-      "Infinite impedance (draws zero input current)",
-      "1000 Ohms"
+      "NAND Gate",
+      "OR Gate",
+      "NOR Gate",
+      "XNOR Gate"
     ],
     "correctAnswer": 2,
-    "explanation": "Ideal op-amps have infinite input impedance so that they do not load or draw current from preceding circuit stages.",
+    "explanation": "NOR performs negated disjunction: Y = NOT(A + B). Like NAND, NOR is a universal logic gate.",
     "tags": [
       "electronics",
-      "microcontrollers",
+      "digital-logic",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "electronics-amplifiers-filters-0044",
+    "id": "electronics-digital-logic-0044",
     "category": "Electronics",
-    "subcategory": "Amplifiers & Filters",
+    "subcategory": "Digital Logic",
     "difficulty": "medium",
-    "question": "Electronics and circuit engineering: What is the decimal numerical value of the 4-bit binary number 1010? (Ref #44)",
+    "question": "What logic gate produces an output of binary 1 when its inputs are DIFFERENT from each other, and 0 when they match?",
     "options": [
-      "Decimal 12",
-      "Decimal 6",
-      "Decimal 14",
-      "Decimal 10 (8 + 2)"
+      "XNOR Gate",
+      "OR Gate",
+      "AND Gate",
+      "XOR Gate (Exclusive-OR)"
     ],
     "correctAnswer": 3,
-    "explanation": "Binary 1010 = (1 × 8) + (0 × 4) + (1 × 2) + (0 × 1) = 8 + 2 = 10.",
+    "explanation": "XOR outputs 1 if either A or B is 1, but not both, essential for binary adders and parity checkers.",
     "tags": [
       "electronics",
-      "amplifiers-filters",
+      "digital-logic",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "electronics-semiconductors-0045",
+    "id": "electronics-digital-logic-0045",
     "category": "Electronics",
-    "subcategory": "Semiconductors",
+    "subcategory": "Digital Logic",
     "difficulty": "hard",
-    "question": "Electronics and circuit engineering: What electronic component resists rapid changes in electrical current through stored magnetic energy? (Ref #45)",
+    "question": "What logic gate produces an output of binary 1 when its inputs are IDENTICAL, acting as an equivalence detector?",
     "options": [
-      "Inductor (Choke)",
-      "Capacitor",
-      "Resistor",
-      "Varistor"
+      "XNOR Gate (Exclusive-NOR)",
+      "XOR Gate",
+      "NAND Gate",
+      "NOR Gate"
     ],
     "correctAnswer": 0,
-    "explanation": "Inductors store energy in a magnetic field according to Faraday's law, opposing sudden variations in current.",
+    "explanation": "XNOR outputs 1 when inputs match (both 0 or both 1), functioning as a digital magnitude comparator.",
     "tags": [
       "electronics",
-      "semiconductors",
+      "digital-logic",
       "hard"
     ],
     "active": true
@@ -949,15 +949,15 @@
     "category": "Electronics",
     "subcategory": "Digital Logic",
     "difficulty": "easy",
-    "question": "Electronics and circuit engineering: Which basic digital logic gate produces a HIGH (1) output if and only if ALL of its inputs are simultaneously HIGH (1)? (Ref #46)",
+    "question": "Why are NAND and NOR gates classified as universal logic gates?",
     "options": [
-      "OR gate",
-      "AND gate",
-      "NAND gate",
-      "XOR gate"
+      "They operate on any voltage level",
+      "Any Boolean logic function can be constructed using exclusively NAND or exclusively NOR gates",
+      "They have infinite inputs",
+      "They do not require power"
     ],
     "correctAnswer": 1,
-    "explanation": "An AND gate requires all inputs to be true (1) to produce a true (1) output.",
+    "explanation": "Functional completeness proves that inverter, AND, and OR functions can be synthesized entirely from networked NAND or NOR gates.",
     "tags": [
       "electronics",
       "digital-logic",
@@ -966,64 +966,64 @@
     "active": true
   },
   {
-    "id": "electronics-microcontrollers-0047",
+    "id": "electronics-digital-logic-0047",
     "category": "Electronics",
-    "subcategory": "Microcontrollers",
+    "subcategory": "Digital Logic",
     "difficulty": "medium",
-    "question": "Electronics and circuit engineering: What three functional terminals exist on a standard Bipolar Junction Transistor (BJT)? (Ref #47)",
+    "question": "What Boolean theorem states that the complement of a product equals the sum of the complements: NOT(A * B) = NOT A + NOT B?",
     "options": [
-      "Gate, Drain, and Source",
-      "Anode, Cathode, and Grid",
-      "Base, Collector, and Emitter",
-      "Phase, Neutral, and Ground"
+      "De Morgan's Second Law",
+      "Shannon's Expansion Theorem",
+      "De Morgan's First Law",
+      "Boole's Identity"
     ],
     "correctAnswer": 2,
-    "explanation": "BJTs possess Base, Collector, and Emitter terminals, where a small base current controls a larger collector-emitter current.",
+    "explanation": "De Morgan's laws allow engineers to convert between AND/OR gates by bubbling inputs and outputs.",
     "tags": [
       "electronics",
-      "microcontrollers",
+      "digital-logic",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "electronics-amplifiers-filters-0048",
+    "id": "electronics-digital-logic-0048",
     "category": "Electronics",
-    "subcategory": "Amplifiers & Filters",
+    "subcategory": "Digital Logic",
     "difficulty": "hard",
-    "question": "Electronics and circuit engineering: What is the ideal input impedance of an ideal operational amplifier (Op-Amp)? (Ref #48)",
+    "question": "What Boolean theorem states that the complement of a sum equals the product of the complements: NOT(A + B) = NOT A * NOT B?",
     "options": [
-      "Zero impedance",
-      "50 Ohms",
-      "1000 Ohms",
-      "Infinite impedance (draws zero input current)"
+      "De Morgan's First Law",
+      "Consensus Theorem",
+      "Absorption Law",
+      "De Morgan's Second Law"
     ],
     "correctAnswer": 3,
-    "explanation": "Ideal op-amps have infinite input impedance so that they do not load or draw current from preceding circuit stages.",
+    "explanation": "De Morgan's second law enables engineers to replace NOR operations with active-low input AND gates.",
     "tags": [
       "electronics",
-      "amplifiers-filters",
+      "digital-logic",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "electronics-semiconductors-0049",
+    "id": "electronics-digital-logic-0049",
     "category": "Electronics",
-    "subcategory": "Semiconductors",
+    "subcategory": "Digital Logic",
     "difficulty": "easy",
-    "question": "Electronics and circuit engineering: What is the decimal numerical value of the 4-bit binary number 1010? (Ref #49)",
+    "question": "What graphical method uses a 2D grid with Gray code coordinates to simplify Boolean algebraic expressions?",
     "options": [
-      "Decimal 10 (8 + 2)",
-      "Decimal 12",
-      "Decimal 6",
-      "Decimal 14"
+      "Karnaugh Map (K-Map)",
+      "Truth Table",
+      "State Diagram",
+      "Venn Diagram"
     ],
     "correctAnswer": 0,
-    "explanation": "Binary 1010 = (1 × 8) + (0 × 4) + (1 × 2) + (0 × 1) = 8 + 2 = 10.",
+    "explanation": "K-Maps group adjacent 1s into powers of two (1, 2, 4, 8, 16) to find minimal sum-of-products Boolean expressions.",
     "tags": [
       "electronics",
-      "semiconductors",
+      "digital-logic",
       "easy"
     ],
     "active": true
@@ -1033,15 +1033,15 @@
     "category": "Electronics",
     "subcategory": "Digital Logic",
     "difficulty": "medium",
-    "question": "Electronics and circuit engineering: What electronic component resists rapid changes in electrical current through stored magnetic energy? (Ref #50)",
+    "question": "What digital arithmetic circuit adds two single-bit binary inputs to produce a Sum bit and a Carry bit?",
     "options": [
-      "Capacitor",
-      "Inductor (Choke)",
-      "Resistor",
-      "Varistor"
+      "Full Adder",
+      "Half Adder",
+      "Binary Multiplier",
+      "ALU"
     ],
     "correctAnswer": 1,
-    "explanation": "Inductors store energy in a magnetic field according to Faraday's law, opposing sudden variations in current.",
+    "explanation": "A half adder utilizes an XOR gate to generate Sum and an AND gate to generate Carry.",
     "tags": [
       "electronics",
       "digital-logic",
@@ -1050,64 +1050,64 @@
     "active": true
   },
   {
-    "id": "electronics-microcontrollers-0051",
+    "id": "electronics-digital-logic-0051",
     "category": "Electronics",
-    "subcategory": "Microcontrollers",
+    "subcategory": "Digital Logic",
     "difficulty": "hard",
-    "question": "Electronics and circuit engineering: Which basic digital logic gate produces a HIGH (1) output if and only if ALL of its inputs are simultaneously HIGH (1)? (Ref #51)",
+    "question": "What digital circuit adds three single binary bits (two operand bits plus an incoming carry bit)?",
     "options": [
-      "OR gate",
-      "NAND gate",
-      "AND gate",
-      "XOR gate"
+      "Half Adder",
+      "Ripple Carry Adder",
+      "Full Adder",
+      "Digital Comparator"
     ],
     "correctAnswer": 2,
-    "explanation": "An AND gate requires all inputs to be true (1) to produce a true (1) output.",
+    "explanation": "A full adder consists of two half adders and an OR gate, generating Sum and Carry-out.",
     "tags": [
       "electronics",
-      "microcontrollers",
+      "digital-logic",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "electronics-amplifiers-filters-0052",
+    "id": "electronics-digital-logic-0052",
     "category": "Electronics",
-    "subcategory": "Amplifiers & Filters",
+    "subcategory": "Digital Logic",
     "difficulty": "easy",
-    "question": "Electronics and circuit engineering: What three functional terminals exist on a standard Bipolar Junction Transistor (BJT)? (Ref #52)",
+    "question": "What type of multi-bit binary adder chains full adders in series where each stage's carry feeds into the next?",
     "options": [
-      "Gate, Drain, and Source",
-      "Anode, Cathode, and Grid",
-      "Phase, Neutral, and Ground",
-      "Base, Collector, and Emitter"
+      "Carry-Lookahead Adder",
+      "Carry-Save Adder",
+      "Carry-Skip Adder",
+      "Ripple Carry Adder"
     ],
     "correctAnswer": 3,
-    "explanation": "BJTs possess Base, Collector, and Emitter terminals, where a small base current controls a larger collector-emitter current.",
+    "explanation": "Ripple carry adders are simple but slow because carry propagation ripples through all stages from LSB to MSB.",
     "tags": [
       "electronics",
-      "amplifiers-filters",
+      "digital-logic",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "electronics-semiconductors-0053",
+    "id": "electronics-digital-logic-0053",
     "category": "Electronics",
-    "subcategory": "Semiconductors",
+    "subcategory": "Digital Logic",
     "difficulty": "medium",
-    "question": "Electronics and circuit engineering: What is the ideal input impedance of an ideal operational amplifier (Op-Amp)? (Ref #53)",
+    "question": "What advanced binary adder computes all carry bits simultaneously in parallel using generate and propagate logic?",
     "options": [
-      "Infinite impedance (draws zero input current)",
-      "Zero impedance",
-      "50 Ohms",
-      "1000 Ohms"
+      "Carry-Lookahead Adder (CLA)",
+      "Ripple Carry Adder",
+      "Serial Adder",
+      "Manchester Adder"
     ],
     "correctAnswer": 0,
-    "explanation": "Ideal op-amps have infinite input impedance so that they do not load or draw current from preceding circuit stages.",
+    "explanation": "CLA circuits compute carry bits in constant time using generate and propagate terms, eliminating ripple delay.",
     "tags": [
       "electronics",
-      "semiconductors",
+      "digital-logic",
       "medium"
     ],
     "active": true
@@ -1117,15 +1117,15 @@
     "category": "Electronics",
     "subcategory": "Digital Logic",
     "difficulty": "hard",
-    "question": "Electronics and circuit engineering: What is the decimal numerical value of the 4-bit binary number 1010? (Ref #54)",
+    "question": "What combinational circuit selects binary data from one of multiple input channels and routes it to a single output line?",
     "options": [
-      "Decimal 12",
-      "Decimal 10 (8 + 2)",
-      "Decimal 6",
-      "Decimal 14"
+      "Demultiplexer (DEMUX)",
+      "Multiplexer (MUX)",
+      "Decoder",
+      "Encoder"
     ],
     "correctAnswer": 1,
-    "explanation": "Binary 1010 = (1 × 8) + (0 × 4) + (1 × 2) + (0 × 1) = 8 + 2 = 10.",
+    "explanation": "A 4-to-1 MUX utilizes two binary select lines to connect one of four input lines to the output.",
     "tags": [
       "electronics",
       "digital-logic",
@@ -1134,64 +1134,64 @@
     "active": true
   },
   {
-    "id": "electronics-microcontrollers-0055",
+    "id": "electronics-digital-logic-0055",
     "category": "Electronics",
-    "subcategory": "Microcontrollers",
+    "subcategory": "Digital Logic",
     "difficulty": "easy",
-    "question": "Electronics and circuit engineering: What electronic component resists rapid changes in electrical current through stored magnetic energy? (Ref #55)",
+    "question": "What combinational circuit takes a single input data line and routes it to one of multiple output lines based on select lines?",
     "options": [
-      "Capacitor",
-      "Resistor",
-      "Inductor (Choke)",
-      "Varistor"
+      "Multiplexer",
+      "Encoder",
+      "Demultiplexer (DEMUX)",
+      "Shift Register"
     ],
     "correctAnswer": 2,
-    "explanation": "Inductors store energy in a magnetic field according to Faraday's law, opposing sudden variations in current.",
+    "explanation": "A DEMUX distributes a single serial data line into selected parallel destination lines.",
     "tags": [
       "electronics",
-      "microcontrollers",
+      "digital-logic",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "electronics-amplifiers-filters-0056",
+    "id": "electronics-digital-logic-0056",
     "category": "Electronics",
-    "subcategory": "Amplifiers & Filters",
+    "subcategory": "Digital Logic",
     "difficulty": "medium",
-    "question": "Electronics and circuit engineering: Which basic digital logic gate produces a HIGH (1) output if and only if ALL of its inputs are simultaneously HIGH (1)? (Ref #56)",
+    "question": "What digital circuit converts an n-bit binary input code into a maximum of 2^n unique active output lines?",
     "options": [
-      "OR gate",
-      "NAND gate",
-      "XOR gate",
-      "AND gate"
+      "Encoder",
+      "Multiplexer",
+      "Comparator",
+      "Binary Decoder"
     ],
     "correctAnswer": 3,
-    "explanation": "An AND gate requires all inputs to be true (1) to produce a true (1) output.",
+    "explanation": "Decoders activate one specific output line corresponding to the binary value applied to input address lines.",
     "tags": [
       "electronics",
-      "amplifiers-filters",
+      "digital-logic",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "electronics-semiconductors-0057",
+    "id": "electronics-digital-logic-0057",
     "category": "Electronics",
-    "subcategory": "Semiconductors",
+    "subcategory": "Digital Logic",
     "difficulty": "hard",
-    "question": "Electronics and circuit engineering: What three functional terminals exist on a standard Bipolar Junction Transistor (BJT)? (Ref #57)",
+    "question": "What specialized decoder converts a 4-bit Binary Coded Decimal number into signals for a 7-segment display?",
     "options": [
-      "Base, Collector, and Emitter",
-      "Gate, Drain, and Source",
-      "Anode, Cathode, and Grid",
-      "Phase, Neutral, and Ground"
+      "BCD to 7-Segment Decoder (e.g., 7447)",
+      "Priority Encoder",
+      "Gray Code Converter",
+      "Parity Generator"
     ],
     "correctAnswer": 0,
-    "explanation": "BJTs possess Base, Collector, and Emitter terminals, where a small base current controls a larger collector-emitter current.",
+    "explanation": "The 7447 decoder maps digits 0-9 to control display segments a through g.",
     "tags": [
       "electronics",
-      "semiconductors",
+      "digital-logic",
       "hard"
     ],
     "active": true
@@ -1201,15 +1201,15 @@
     "category": "Electronics",
     "subcategory": "Digital Logic",
     "difficulty": "easy",
-    "question": "Electronics and circuit engineering: What is the ideal input impedance of an ideal operational amplifier (Op-Amp)? (Ref #58)",
+    "question": "What combinational circuit converts multiple input lines into an encoded binary output word?",
     "options": [
-      "Zero impedance",
-      "Infinite impedance (draws zero input current)",
-      "50 Ohms",
-      "1000 Ohms"
+      "Decoder",
+      "Binary Encoder",
+      "Multiplexer",
+      "Flip-Flop"
     ],
     "correctAnswer": 1,
-    "explanation": "Ideal op-amps have infinite input impedance so that they do not load or draw current from preceding circuit stages.",
+    "explanation": "An 8-to-3 encoder outputs a 3-bit binary word representing whichever one of eight input lines is active.",
     "tags": [
       "electronics",
       "digital-logic",
@@ -1218,64 +1218,64 @@
     "active": true
   },
   {
-    "id": "electronics-microcontrollers-0059",
+    "id": "electronics-digital-logic-0059",
     "category": "Electronics",
-    "subcategory": "Microcontrollers",
+    "subcategory": "Digital Logic",
     "difficulty": "medium",
-    "question": "Electronics and circuit engineering: What is the decimal numerical value of the 4-bit binary number 1010? (Ref #59)",
+    "question": "What specialized encoder outputs the binary code of the highest-order active input, ignoring all lower active inputs?",
     "options": [
-      "Decimal 12",
-      "Decimal 6",
-      "Decimal 10 (8 + 2)",
-      "Decimal 14"
+      "Standard Binary Encoder",
+      "Decoder",
+      "Priority Encoder",
+      "Transcoder"
     ],
     "correctAnswer": 2,
-    "explanation": "Binary 1010 = (1 × 8) + (0 × 4) + (1 × 2) + (0 × 1) = 8 + 2 = 10.",
+    "explanation": "Priority encoders manage microprocessor hardware interrupt requests, servicing the highest-priority interrupt first.",
     "tags": [
       "electronics",
-      "microcontrollers",
+      "digital-logic",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "electronics-amplifiers-filters-0060",
+    "id": "electronics-digital-logic-0060",
     "category": "Electronics",
-    "subcategory": "Amplifiers & Filters",
+    "subcategory": "Digital Logic",
     "difficulty": "hard",
-    "question": "Electronics and circuit engineering: What electronic component resists rapid changes in electrical current through stored magnetic energy? (Ref #60)",
+    "question": "What is the fundamental difference between combinational logic and sequential logic circuits?",
     "options": [
-      "Capacitor",
-      "Resistor",
-      "Varistor",
-      "Inductor (Choke)"
+      "Combinational uses clock pulses while sequential does not",
+      "Sequential logic has no feedback loops",
+      "Combinational circuits contain flip-flops",
+      "Combinational output depends only on current inputs, while sequential output depends on current inputs and past states (memory)"
     ],
     "correctAnswer": 3,
-    "explanation": "Inductors store energy in a magnetic field according to Faraday's law, opposing sudden variations in current.",
+    "explanation": "Sequential circuits contain feedback loops and memory elements (latches, flip-flops) that store state information.",
     "tags": [
       "electronics",
-      "amplifiers-filters",
+      "digital-logic",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "electronics-semiconductors-0061",
+    "id": "electronics-digital-logic-0061",
     "category": "Electronics",
-    "subcategory": "Semiconductors",
+    "subcategory": "Digital Logic",
     "difficulty": "easy",
-    "question": "Electronics and circuit engineering: Which basic digital logic gate produces a HIGH (1) output if and only if ALL of its inputs are simultaneously HIGH (1)? (Ref #61)",
+    "question": "What is the simplest asynchronous bistable sequential memory element constructed from two cross-coupled NOR or NAND gates?",
     "options": [
-      "AND gate",
-      "OR gate",
-      "NAND gate",
-      "XOR gate"
+      "SR Latch",
+      "D Flip-Flop",
+      "Shift Register",
+      "Binary Counter"
     ],
     "correctAnswer": 0,
-    "explanation": "An AND gate requires all inputs to be true (1) to produce a true (1) output.",
+    "explanation": "An SR latch stores one binary bit; pulsing Set forces Q=1, pulsing Reset forces Q=0, while S=R=1 is invalid.",
     "tags": [
       "electronics",
-      "semiconductors",
+      "digital-logic",
       "easy"
     ],
     "active": true
@@ -1285,15 +1285,15 @@
     "category": "Electronics",
     "subcategory": "Digital Logic",
     "difficulty": "medium",
-    "question": "Electronics and circuit engineering: What three functional terminals exist on a standard Bipolar Junction Transistor (BJT)? (Ref #62)",
+    "question": "Why is the input condition S = 1 and R = 1 considered invalid in a basic NOR SR latch?",
     "options": [
-      "Gate, Drain, and Source",
-      "Base, Collector, and Emitter",
-      "Anode, Cathode, and Grid",
-      "Phase, Neutral, and Ground"
+      "It burns out the transistors",
+      "It forces both Q and NOT-Q to 0 simultaneously and produces an unpredictable race condition upon release",
+      "It short-circuits the power supply",
+      "It causes the clock to stop"
     ],
     "correctAnswer": 1,
-    "explanation": "BJTs possess Base, Collector, and Emitter terminals, where a small base current controls a larger collector-emitter current.",
+    "explanation": "Violating the complementary definition Q != NOT-Q leads to metastable racing when inputs transition to 0.",
     "tags": [
       "electronics",
       "digital-logic",
@@ -1302,64 +1302,64 @@
     "active": true
   },
   {
-    "id": "electronics-microcontrollers-0063",
+    "id": "electronics-digital-logic-0063",
     "category": "Electronics",
-    "subcategory": "Microcontrollers",
+    "subcategory": "Digital Logic",
     "difficulty": "hard",
-    "question": "Electronics and circuit engineering: What is the ideal input impedance of an ideal operational amplifier (Op-Amp)? (Ref #63)",
+    "question": "What sequential flip-flop eliminates invalid states by transferring its single Data input to Q on the active clock edge?",
     "options": [
-      "Zero impedance",
-      "50 Ohms",
-      "Infinite impedance (draws zero input current)",
-      "1000 Ohms"
+      "SR Flip-Flop",
+      "T Flip-Flop",
+      "D Flip-Flop",
+      "JK Flip-Flop"
     ],
     "correctAnswer": 2,
-    "explanation": "Ideal op-amps have infinite input impedance so that they do not load or draw current from preceding circuit stages.",
+    "explanation": "D flip-flops sample input D on clock edges and hold it, forming the foundation of CPU registers.",
     "tags": [
       "electronics",
-      "microcontrollers",
+      "digital-logic",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "electronics-amplifiers-filters-0064",
+    "id": "electronics-digital-logic-0064",
     "category": "Electronics",
-    "subcategory": "Amplifiers & Filters",
+    "subcategory": "Digital Logic",
     "difficulty": "easy",
-    "question": "Electronics and circuit engineering: What is the decimal numerical value of the 4-bit binary number 1010? (Ref #64)",
+    "question": "What sequential flip-flop toggles its output state when both inputs are binary 1 on an active clock edge?",
     "options": [
-      "Decimal 12",
-      "Decimal 6",
-      "Decimal 14",
-      "Decimal 10 (8 + 2)"
+      "D Flip-Flop",
+      "SR Latch",
+      "Schmitt Trigger",
+      "JK Flip-Flop"
     ],
     "correctAnswer": 3,
-    "explanation": "Binary 1010 = (1 × 8) + (0 × 4) + (1 × 2) + (0 × 1) = 8 + 2 = 10.",
+    "explanation": "Named after Jack Kilby, a JK flip-flop toggles when J=K=1, functioning as a frequency divider.",
     "tags": [
       "electronics",
-      "amplifiers-filters",
+      "digital-logic",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "electronics-semiconductors-0065",
+    "id": "electronics-digital-logic-0065",
     "category": "Electronics",
-    "subcategory": "Semiconductors",
+    "subcategory": "Digital Logic",
     "difficulty": "medium",
-    "question": "Electronics and circuit engineering: What electronic component resists rapid changes in electrical current through stored magnetic energy? (Ref #65)",
+    "question": "What single-input sequential flip-flop toggles its output between 0 and 1 on every clock pulse when its input is HIGH?",
     "options": [
-      "Inductor (Choke)",
-      "Capacitor",
-      "Resistor",
-      "Varistor"
+      "T Flip-Flop (Toggle Flip-Flop)",
+      "D Flip-Flop",
+      "SR Latch",
+      "Monostable Multivibrator"
     ],
     "correctAnswer": 0,
-    "explanation": "Inductors store energy in a magnetic field according to Faraday's law, opposing sudden variations in current.",
+    "explanation": "T flip-flops divide incoming clock frequency exactly in half, forming binary counters.",
     "tags": [
       "electronics",
-      "semiconductors",
+      "digital-logic",
       "medium"
     ],
     "active": true
@@ -1369,15 +1369,15 @@
     "category": "Electronics",
     "subcategory": "Digital Logic",
     "difficulty": "hard",
-    "question": "Electronics and circuit engineering: Which basic digital logic gate produces a HIGH (1) output if and only if ALL of its inputs are simultaneously HIGH (1)? (Ref #66)",
+    "question": "What timing parameter defines the minimum time that input data must remain stable BEFORE the active clock edge arrives?",
     "options": [
-      "OR gate",
-      "AND gate",
-      "NAND gate",
-      "XOR gate"
+      "Hold Time (t_hold)",
+      "Setup Time (t_setup)",
+      "Propagation Delay",
+      "Clock Skew"
     ],
     "correctAnswer": 1,
-    "explanation": "An AND gate requires all inputs to be true (1) to produce a true (1) output.",
+    "explanation": "Violating setup time prevents internal latch circuits from settling, triggering dangerous flip-flop metastability.",
     "tags": [
       "electronics",
       "digital-logic",
@@ -1386,64 +1386,64 @@
     "active": true
   },
   {
-    "id": "electronics-microcontrollers-0067",
+    "id": "electronics-digital-logic-0067",
     "category": "Electronics",
-    "subcategory": "Microcontrollers",
+    "subcategory": "Digital Logic",
     "difficulty": "easy",
-    "question": "Electronics and circuit engineering: What three functional terminals exist on a standard Bipolar Junction Transistor (BJT)? (Ref #67)",
+    "question": "What timing parameter defines the minimum time that input data must remain stable AFTER the active clock edge arrives?",
     "options": [
-      "Gate, Drain, and Source",
-      "Anode, Cathode, and Grid",
-      "Base, Collector, and Emitter",
-      "Phase, Neutral, and Ground"
+      "Setup Time",
+      "Fall Time",
+      "Hold Time (t_hold)",
+      "Jitter"
     ],
     "correctAnswer": 2,
-    "explanation": "BJTs possess Base, Collector, and Emitter terminals, where a small base current controls a larger collector-emitter current.",
+    "explanation": "Data must be held steady for t_hold after the clock transition to ensure positive latching.",
     "tags": [
       "electronics",
-      "microcontrollers",
+      "digital-logic",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "electronics-amplifiers-filters-0068",
+    "id": "electronics-digital-logic-0068",
     "category": "Electronics",
-    "subcategory": "Amplifiers & Filters",
+    "subcategory": "Digital Logic",
     "difficulty": "medium",
-    "question": "Electronics and circuit engineering: What is the ideal input impedance of an ideal operational amplifier (Op-Amp)? (Ref #68)",
+    "question": "What dangerous condition occurs when setup or hold times are violated, causing a flip-flop output to hover between 0 and 1?",
     "options": [
-      "Zero impedance",
-      "50 Ohms",
-      "1000 Ohms",
-      "Infinite impedance (draws zero input current)"
+      "Thermal Runaway",
+      "Clock Jitter",
+      "Ground Bounce",
+      "Metastability"
     ],
     "correctAnswer": 3,
-    "explanation": "Ideal op-amps have infinite input impedance so that they do not load or draw current from preceding circuit stages.",
+    "explanation": "A metastable flip-flop hovers in an intermediate voltage state before randomly collapsing, causing unpredictable system crashes.",
     "tags": [
       "electronics",
-      "amplifiers-filters",
+      "digital-logic",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "electronics-semiconductors-0069",
+    "id": "electronics-digital-logic-0069",
     "category": "Electronics",
-    "subcategory": "Semiconductors",
+    "subcategory": "Digital Logic",
     "difficulty": "hard",
-    "question": "Electronics and circuit engineering: What is the decimal numerical value of the 4-bit binary number 1010? (Ref #69)",
+    "question": "What digital sequential circuit consists of cascading flip-flops used to move binary bits laterally with each clock pulse?",
     "options": [
-      "Decimal 10 (8 + 2)",
-      "Decimal 12",
-      "Decimal 6",
-      "Decimal 14"
+      "Shift Register",
+      "Ripple Counter",
+      "Multiplexer",
+      "ALU"
     ],
     "correctAnswer": 0,
-    "explanation": "Binary 1010 = (1 × 8) + (0 × 4) + (1 × 2) + (0 × 1) = 8 + 2 = 10.",
+    "explanation": "Shift registers operate in serial and parallel modes to buffer, delay, and convert data formats.",
     "tags": [
       "electronics",
-      "semiconductors",
+      "digital-logic",
       "hard"
     ],
     "active": true
@@ -1453,15 +1453,15 @@
     "category": "Electronics",
     "subcategory": "Digital Logic",
     "difficulty": "easy",
-    "question": "Electronics and circuit engineering: What electronic component resists rapid changes in electrical current through stored magnetic energy? (Ref #70)",
+    "question": "What shift register configuration accepts binary data serially and outputs all bits simultaneously in parallel?",
     "options": [
-      "Capacitor",
-      "Inductor (Choke)",
-      "Resistor",
-      "Varistor"
+      "Parallel-In Serial-Out (PISO)",
+      "Serial-In Parallel-Out (SIPO)",
+      "Serial-In Serial-Out (SISO)",
+      "Parallel-In Parallel-Out (PIPO)"
     ],
     "correctAnswer": 1,
-    "explanation": "Inductors store energy in a magnetic field according to Faraday's law, opposing sudden variations in current.",
+    "explanation": "SIPO shift registers like the 74HC595 expand microcontroller I/O pins, driving displays and LED arrays efficiently.",
     "tags": [
       "electronics",
       "digital-logic",
@@ -1470,64 +1470,64 @@
     "active": true
   },
   {
-    "id": "electronics-microcontrollers-0071",
+    "id": "electronics-digital-logic-0071",
     "category": "Electronics",
-    "subcategory": "Microcontrollers",
+    "subcategory": "Digital Logic",
     "difficulty": "medium",
-    "question": "Electronics and circuit engineering: Which basic digital logic gate produces a HIGH (1) output if and only if ALL of its inputs are simultaneously HIGH (1)? (Ref #71)",
+    "question": "What type of digital counter has all of its flip-flop clock inputs triggered simultaneously by a common clock?",
     "options": [
-      "OR gate",
-      "NAND gate",
-      "AND gate",
-      "XOR gate"
+      "Asynchronous (Ripple) Counter",
+      "Johnson Counter",
+      "Synchronous Counter",
+      "Decade Counter"
     ],
     "correctAnswer": 2,
-    "explanation": "An AND gate requires all inputs to be true (1) to produce a true (1) output.",
+    "explanation": "Synchronous counters eliminate ripple propagation delays because all state flip-flops trigger at the exact same instant.",
     "tags": [
       "electronics",
-      "microcontrollers",
+      "digital-logic",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "electronics-amplifiers-filters-0072",
+    "id": "electronics-digital-logic-0072",
     "category": "Electronics",
-    "subcategory": "Amplifiers & Filters",
+    "subcategory": "Digital Logic",
     "difficulty": "hard",
-    "question": "Electronics and circuit engineering: What three functional terminals exist on a standard Bipolar Junction Transistor (BJT)? (Ref #72)",
+    "question": "What type of digital counter connects the output of each flip-flop to clock the succeeding flip-flop in cascade?",
     "options": [
-      "Gate, Drain, and Source",
-      "Anode, Cathode, and Grid",
-      "Phase, Neutral, and Ground",
-      "Base, Collector, and Emitter"
+      "Synchronous Counter",
+      "Ring Counter",
+      "Parallel Counter",
+      "Asynchronous Counter (Ripple Counter)"
     ],
     "correctAnswer": 3,
-    "explanation": "BJTs possess Base, Collector, and Emitter terminals, where a small base current controls a larger collector-emitter current.",
+    "explanation": "In ripple counters, clock pulses ripple down the chain, accumulating propagation delay.",
     "tags": [
       "electronics",
-      "amplifiers-filters",
+      "digital-logic",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "electronics-semiconductors-0073",
+    "id": "electronics-digital-logic-0073",
     "category": "Electronics",
-    "subcategory": "Semiconductors",
+    "subcategory": "Digital Logic",
     "difficulty": "easy",
-    "question": "Electronics and circuit engineering: What is the ideal input impedance of an ideal operational amplifier (Op-Amp)? (Ref #73)",
+    "question": "What digital counter cycles through ten binary states from 0000 to 1001 before resetting back to zero on the tenth count?",
     "options": [
-      "Infinite impedance (draws zero input current)",
-      "Zero impedance",
-      "50 Ohms",
-      "1000 Ohms"
+      "Decade Counter (BCD Counter)",
+      "Modulo-16 Counter",
+      "Johnson Counter",
+      "Gray Code Counter"
     ],
     "correctAnswer": 0,
-    "explanation": "Ideal op-amps have infinite input impedance so that they do not load or draw current from preceding circuit stages.",
+    "explanation": "Decade counters reset upon reaching 1010, widely utilized in digital clocks and frequency counters.",
     "tags": [
       "electronics",
-      "semiconductors",
+      "digital-logic",
       "easy"
     ],
     "active": true
@@ -1537,15 +1537,15 @@
     "category": "Electronics",
     "subcategory": "Digital Logic",
     "difficulty": "medium",
-    "question": "Electronics and circuit engineering: What is the decimal numerical value of the 4-bit binary number 1010? (Ref #74)",
+    "question": "What binary unweighted encoding system changes only one single bit between successive counts, eliminating transitional errors?",
     "options": [
-      "Decimal 12",
-      "Decimal 10 (8 + 2)",
-      "Decimal 6",
-      "Decimal 14"
+      "Standard Binary",
+      "Gray Code",
+      "Binary Coded Decimal (BCD)",
+      "Excess-3 Code"
     ],
     "correctAnswer": 1,
-    "explanation": "Binary 1010 = (1 × 8) + (0 × 4) + (1 × 2) + (0 × 1) = 8 + 2 = 10.",
+    "explanation": "In optical rotary shaft encoders, Gray code prevents multi-bit misreadings when physical sensors cross adjacent sectors.",
     "tags": [
       "electronics",
       "digital-logic",
@@ -1554,85 +1554,85 @@
     "active": true
   },
   {
-    "id": "electronics-microcontrollers-0075",
+    "id": "electronics-digital-logic-0075",
     "category": "Electronics",
-    "subcategory": "Microcontrollers",
+    "subcategory": "Digital Logic",
     "difficulty": "hard",
-    "question": "Electronics and circuit engineering: What electronic component resists rapid changes in electrical current through stored magnetic energy? (Ref #75)",
+    "question": "What digital circuit compares two n-bit binary numbers and indicates whether the first is greater than, less than, or equal to the second?",
     "options": [
-      "Capacitor",
-      "Resistor",
-      "Inductor (Choke)",
-      "Varistor"
+      "Binary Full Adder",
+      "Parity Checker",
+      "Digital Magnitude Comparator",
+      "Priority Encoder"
     ],
     "correctAnswer": 2,
-    "explanation": "Inductors store energy in a magnetic field according to Faraday's law, opposing sudden variations in current.",
+    "explanation": "Comparators evaluate binary words bit-by-bit from MSB to LSB to determine magnitude relationship.",
     "tags": [
       "electronics",
-      "microcontrollers",
+      "digital-logic",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "electronics-amplifiers-filters-0076",
+    "id": "electronics-digital-logic-0076",
     "category": "Electronics",
-    "subcategory": "Amplifiers & Filters",
+    "subcategory": "Digital Logic",
     "difficulty": "easy",
-    "question": "Electronics and circuit engineering: Which basic digital logic gate produces a HIGH (1) output if and only if ALL of its inputs are simultaneously HIGH (1)? (Ref #76)",
+    "question": "What circuit uses positive feedback to introduce electrical hysteresis, turning noisy analog signals into sharp digital square waves?",
     "options": [
-      "OR gate",
-      "NAND gate",
-      "XOR gate",
-      "AND gate"
+      "Operational Amplifier",
+      "Monostable Multivibrator",
+      "Peak Detector",
+      "Schmitt Trigger"
     ],
     "correctAnswer": 3,
-    "explanation": "An AND gate requires all inputs to be true (1) to produce a true (1) output.",
+    "explanation": "Schmitt triggers have separate high and low switching threshold voltages, eliminating false triggering caused by noise.",
     "tags": [
       "electronics",
-      "amplifiers-filters",
+      "digital-logic",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "electronics-semiconductors-0077",
+    "id": "electronics-microcontrollers-0077",
     "category": "Electronics",
-    "subcategory": "Semiconductors",
+    "subcategory": "Microcontrollers",
     "difficulty": "medium",
-    "question": "Electronics and circuit engineering: What three functional terminals exist on a standard Bipolar Junction Transistor (BJT)? (Ref #77)",
+    "question": "What is the primary architectural difference between Harvard architecture and Von Neumann architecture in microcontrollers?",
     "options": [
-      "Base, Collector, and Emitter",
-      "Gate, Drain, and Source",
-      "Anode, Cathode, and Grid",
-      "Phase, Neutral, and Ground"
+      "Harvard has separate memory buses for program instructions and data, while Von Neumann shares a single memory bus",
+      "Harvard has no RAM",
+      "Von Neumann has separate instruction caches only",
+      "Harvard cannot execute C code"
     ],
     "correctAnswer": 0,
-    "explanation": "BJTs possess Base, Collector, and Emitter terminals, where a small base current controls a larger collector-emitter current.",
+    "explanation": "Harvard architecture allows simultaneous fetching of instructions and data, doubling throughput in microcontrollers like PIC and AVR.",
     "tags": [
       "electronics",
-      "semiconductors",
+      "microcontrollers",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "electronics-digital-logic-0078",
+    "id": "electronics-microcontrollers-0078",
     "category": "Electronics",
-    "subcategory": "Digital Logic",
+    "subcategory": "Microcontrollers",
     "difficulty": "hard",
-    "question": "Electronics and circuit engineering: What is the ideal input impedance of an ideal operational amplifier (Op-Amp)? (Ref #78)",
+    "question": "What type of memory in a modern microcontroller retains program code non-volatiles when power is removed and can be electrically erased in blocks?",
     "options": [
-      "Zero impedance",
-      "Infinite impedance (draws zero input current)",
-      "50 Ohms",
-      "1000 Ohms"
+      "SRAM",
+      "Flash Memory",
+      "DRAM",
+      "Mask ROM"
     ],
     "correctAnswer": 1,
-    "explanation": "Ideal op-amps have infinite input impedance so that they do not load or draw current from preceding circuit stages.",
+    "explanation": "Flash memory stores the executable firmware, surviving power cycles and supporting in-system reprogramming.",
     "tags": [
       "electronics",
-      "digital-logic",
+      "microcontrollers",
       "hard"
     ],
     "active": true
@@ -1642,15 +1642,15 @@
     "category": "Electronics",
     "subcategory": "Microcontrollers",
     "difficulty": "easy",
-    "question": "Electronics and circuit engineering: What is the decimal numerical value of the 4-bit binary number 1010? (Ref #79)",
+    "question": "What type of fast static memory in a microcontroller provides volatile storage for runtime variables and stack frames?",
     "options": [
-      "Decimal 12",
-      "Decimal 6",
-      "Decimal 10 (8 + 2)",
-      "Decimal 14"
+      "Flash Memory",
+      "EEPROM",
+      "Static RAM (SRAM)",
+      "ROM"
     ],
     "correctAnswer": 2,
-    "explanation": "Binary 1010 = (1 × 8) + (0 × 4) + (1 × 2) + (0 × 1) = 8 + 2 = 10.",
+    "explanation": "SRAM uses 6-transistor cross-coupled inverters per bit, requiring no refresh cycles and providing single-cycle read/write access.",
     "tags": [
       "electronics",
       "microcontrollers",
@@ -1659,64 +1659,64 @@
     "active": true
   },
   {
-    "id": "electronics-amplifiers-filters-0080",
+    "id": "electronics-microcontrollers-0080",
     "category": "Electronics",
-    "subcategory": "Amplifiers & Filters",
+    "subcategory": "Microcontrollers",
     "difficulty": "medium",
-    "question": "Electronics and circuit engineering: What electronic component resists rapid changes in electrical current through stored magnetic energy? (Ref #80)",
+    "question": "What internal hardware timer in a microcontroller resets the system if software hangs or enters an infinite loop?",
     "options": [
-      "Capacitor",
-      "Resistor",
-      "Varistor",
-      "Inductor (Choke)"
+      "Real-Time Clock (RTC)",
+      "PWM Generator",
+      "Baud Rate Generator",
+      "Watchdog Timer (WDT)"
     ],
     "correctAnswer": 3,
-    "explanation": "Inductors store energy in a magnetic field according to Faraday's law, opposing sudden variations in current.",
+    "explanation": "Firmware must periodically clear or 'kick' the watchdog timer; if software crashes, the WDT times out and triggers a hardware reset.",
     "tags": [
       "electronics",
-      "amplifiers-filters",
+      "microcontrollers",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "electronics-semiconductors-0081",
+    "id": "electronics-microcontrollers-0081",
     "category": "Electronics",
-    "subcategory": "Semiconductors",
+    "subcategory": "Microcontrollers",
     "difficulty": "hard",
-    "question": "Electronics and circuit engineering: Which basic digital logic gate produces a HIGH (1) output if and only if ALL of its inputs are simultaneously HIGH (1)? (Ref #81)",
+    "question": "What hardware signal suspends the CPU's current execution thread to immediately service an urgent asynchronous hardware event?",
     "options": [
-      "AND gate",
-      "OR gate",
-      "NAND gate",
-      "XOR gate"
+      "Interrupt Request (IRQ)",
+      "Polling Loop",
+      "Direct Memory Access",
+      "Trapdoor Call"
     ],
     "correctAnswer": 0,
-    "explanation": "An AND gate requires all inputs to be true (1) to produce a true (1) output.",
+    "explanation": "When an interrupt occurs, the CPU saves its program counter and status register to the stack and jumps to an Interrupt Service Routine (ISR).",
     "tags": [
       "electronics",
-      "semiconductors",
+      "microcontrollers",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "electronics-digital-logic-0082",
+    "id": "electronics-microcontrollers-0082",
     "category": "Electronics",
-    "subcategory": "Digital Logic",
+    "subcategory": "Microcontrollers",
     "difficulty": "easy",
-    "question": "Electronics and circuit engineering: What three functional terminals exist on a standard Bipolar Junction Transistor (BJT)? (Ref #82)",
+    "question": "What table in microcontroller program memory stores the memory addresses of all Interrupt Service Routines?",
     "options": [
-      "Gate, Drain, and Source",
-      "Base, Collector, and Emitter",
-      "Anode, Cathode, and Grid",
-      "Phase, Neutral, and Ground"
+      "Look-Up Table",
+      "Interrupt Vector Table (IVT)",
+      "Stack Pointer Table",
+      "Symbol Table"
     ],
     "correctAnswer": 1,
-    "explanation": "BJTs possess Base, Collector, and Emitter terminals, where a small base current controls a larger collector-emitter current.",
+    "explanation": "Hardware indexes into the IVT upon an interrupt, executing the handler code mapped to that specific hardware event.",
     "tags": [
       "electronics",
-      "digital-logic",
+      "microcontrollers",
       "easy"
     ],
     "active": true
@@ -1726,15 +1726,15 @@
     "category": "Electronics",
     "subcategory": "Microcontrollers",
     "difficulty": "medium",
-    "question": "Electronics and circuit engineering: What is the ideal input impedance of an ideal operational amplifier (Op-Amp)? (Ref #83)",
+    "question": "What microcontroller peripheral converts continuous real-world analog sensor voltages into discrete digital numbers?",
     "options": [
-      "Zero impedance",
-      "50 Ohms",
-      "Infinite impedance (draws zero input current)",
-      "1000 Ohms"
+      "Digital-to-Analog Converter (DAC)",
+      "Comparator",
+      "Analog-to-Digital Converter (ADC)",
+      "PWM Module"
     ],
     "correctAnswer": 2,
-    "explanation": "Ideal op-amps have infinite input impedance so that they do not load or draw current from preceding circuit stages.",
+    "explanation": "A 10-bit ADC translates an analog voltage (0-5V) into a digital integer from 0 to 1023 (2^10 steps).",
     "tags": [
       "electronics",
       "microcontrollers",
@@ -1743,64 +1743,64 @@
     "active": true
   },
   {
-    "id": "electronics-amplifiers-filters-0084",
+    "id": "electronics-microcontrollers-0084",
     "category": "Electronics",
-    "subcategory": "Amplifiers & Filters",
+    "subcategory": "Microcontrollers",
     "difficulty": "hard",
-    "question": "Electronics and circuit engineering: What is the decimal numerical value of the 4-bit binary number 1010? (Ref #84)",
+    "question": "What common ADC architecture uses a binary search algorithm with an internal DAC to convert analog voltages quickly?",
     "options": [
-      "Decimal 12",
-      "Decimal 6",
-      "Decimal 14",
-      "Decimal 10 (8 + 2)"
+      "Flash ADC",
+      "Delta-Sigma ADC",
+      "Dual-Slope ADC",
+      "Successive Approximation Register (SAR) ADC"
     ],
     "correctAnswer": 3,
-    "explanation": "Binary 1010 = (1 × 8) + (0 × 4) + (1 × 2) + (0 × 1) = 8 + 2 = 10.",
+    "explanation": "SAR ADCs determine one bit per clock cycle from MSB to LSB, balancing high conversion speed, low cost, and good resolution.",
     "tags": [
       "electronics",
-      "amplifiers-filters",
+      "microcontrollers",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "electronics-semiconductors-0085",
+    "id": "electronics-microcontrollers-0085",
     "category": "Electronics",
-    "subcategory": "Semiconductors",
+    "subcategory": "Microcontrollers",
     "difficulty": "easy",
-    "question": "Electronics and circuit engineering: What electronic component resists rapid changes in electrical current through stored magnetic energy? (Ref #85)",
+    "question": "What ultra-fast ADC architecture uses a bank of 2^n - 1 parallel comparators to complete a conversion in a single clock cycle?",
     "options": [
-      "Inductor (Choke)",
-      "Capacitor",
-      "Resistor",
-      "Varistor"
+      "Flash ADC",
+      "SAR ADC",
+      "Pipeline ADC",
+      "Delta-Sigma ADC"
     ],
     "correctAnswer": 0,
-    "explanation": "Inductors store energy in a magnetic field according to Faraday's law, opposing sudden variations in current.",
+    "explanation": "Flash ADCs achieve gigasample-per-second speeds in digital oscilloscopes and radar, but consume substantial power.",
     "tags": [
       "electronics",
-      "semiconductors",
+      "microcontrollers",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "electronics-digital-logic-0086",
+    "id": "electronics-microcontrollers-0086",
     "category": "Electronics",
-    "subcategory": "Digital Logic",
+    "subcategory": "Microcontrollers",
     "difficulty": "medium",
-    "question": "Electronics and circuit engineering: Which basic digital logic gate produces a HIGH (1) output if and only if ALL of its inputs are simultaneously HIGH (1)? (Ref #86)",
+    "question": "What peripheral technique modulates the duty cycle of a fixed-frequency digital square wave to control DC motor speed or LED brightness?",
     "options": [
-      "OR gate",
-      "AND gate",
-      "NAND gate",
-      "XOR gate"
+      "Frequency Modulation",
+      "Pulse-Width Modulation (PWM)",
+      "Amplitude Modulation",
+      "Phase Modulation"
     ],
     "correctAnswer": 1,
-    "explanation": "An AND gate requires all inputs to be true (1) to produce a true (1) output.",
+    "explanation": "A 50% duty cycle delivers half the average DC voltage to the load, providing highly efficient power control with minimal heat dissipation.",
     "tags": [
       "electronics",
-      "digital-logic",
+      "microcontrollers",
       "medium"
     ],
     "active": true
@@ -1810,15 +1810,15 @@
     "category": "Electronics",
     "subcategory": "Microcontrollers",
     "difficulty": "hard",
-    "question": "Electronics and circuit engineering: What three functional terminals exist on a standard Bipolar Junction Transistor (BJT)? (Ref #87)",
+    "question": "What synchronous serial communication protocol utilizes four wires: MOSI, MISO, SCK, and SS (Chip Select)?",
     "options": [
-      "Gate, Drain, and Source",
-      "Anode, Cathode, and Grid",
-      "Base, Collector, and Emitter",
-      "Phase, Neutral, and Ground"
+      "I2C",
+      "UART",
+      "SPI (Serial Peripheral Interface)",
+      "CAN Bus"
     ],
     "correctAnswer": 2,
-    "explanation": "BJTs possess Base, Collector, and Emitter terminals, where a small base current controls a larger collector-emitter current.",
+    "explanation": "SPI supports full-duplex high-speed data transfers (tens of megahertz) between a master microcontroller and slave peripherals.",
     "tags": [
       "electronics",
       "microcontrollers",
@@ -1827,64 +1827,64 @@
     "active": true
   },
   {
-    "id": "electronics-amplifiers-filters-0088",
+    "id": "electronics-microcontrollers-0088",
     "category": "Electronics",
-    "subcategory": "Amplifiers & Filters",
+    "subcategory": "Microcontrollers",
     "difficulty": "easy",
-    "question": "Electronics and circuit engineering: What is the ideal input impedance of an ideal operational amplifier (Op-Amp)? (Ref #88)",
+    "question": "What two-wire synchronous serial communication bus uses open-drain lines (SDA and SCL) with external pull-up resistors?",
     "options": [
-      "Zero impedance",
-      "50 Ohms",
-      "1000 Ohms",
-      "Infinite impedance (draws zero input current)"
+      "SPI",
+      "UART",
+      "RS-485",
+      "I2C (Inter-Integrated Circuit)"
     ],
     "correctAnswer": 3,
-    "explanation": "Ideal op-amps have infinite input impedance so that they do not load or draw current from preceding circuit stages.",
+    "explanation": "I2C addresses up to 127 devices on just two physical wires, standardly running at 100 kHz (standard) or 400 kHz (fast mode).",
     "tags": [
       "electronics",
-      "amplifiers-filters",
+      "microcontrollers",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "electronics-semiconductors-0089",
+    "id": "electronics-microcontrollers-0089",
     "category": "Electronics",
-    "subcategory": "Semiconductors",
+    "subcategory": "Microcontrollers",
     "difficulty": "medium",
-    "question": "Electronics and circuit engineering: What is the decimal numerical value of the 4-bit binary number 1010? (Ref #89)",
+    "question": "What asynchronous serial communication interface transmits data without a shared clock line using start, data, parity, and stop bits?",
     "options": [
-      "Decimal 10 (8 + 2)",
-      "Decimal 12",
-      "Decimal 6",
-      "Decimal 14"
+      "UART (Universal Asynchronous Receiver-Transmitter)",
+      "SPI",
+      "I2C",
+      "CAN"
     ],
     "correctAnswer": 0,
-    "explanation": "Binary 1010 = (1 × 8) + (0 × 4) + (1 × 2) + (0 × 1) = 8 + 2 = 10.",
+    "explanation": "Both transmitting and receiving UARTs must agree in advance on a matching baud rate (e.g., 9600, 115200 bps).",
     "tags": [
       "electronics",
-      "semiconductors",
+      "microcontrollers",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "electronics-digital-logic-0090",
+    "id": "electronics-microcontrollers-0090",
     "category": "Electronics",
-    "subcategory": "Digital Logic",
+    "subcategory": "Microcontrollers",
     "difficulty": "hard",
-    "question": "Electronics and circuit engineering: What electronic component resists rapid changes in electrical current through stored magnetic energy? (Ref #90)",
+    "question": "What differential serial bus protocol, developed by Bosch, provides robust fault-tolerant communication in automotive vehicle networks?",
     "options": [
-      "Capacitor",
-      "Inductor (Choke)",
-      "Resistor",
-      "Varistor"
+      "LIN Bus",
+      "CAN Bus (Controller Area Network)",
+      "Modbus",
+      "SPI"
     ],
     "correctAnswer": 1,
-    "explanation": "Inductors store energy in a magnetic field according to Faraday's law, opposing sudden variations in current.",
+    "explanation": "CAN uses differential signaling (CAN_H and CAN_L) and non-destructive bitwise arbitration, resisting electromagnetic interference.",
     "tags": [
       "electronics",
-      "digital-logic",
+      "microcontrollers",
       "hard"
     ],
     "active": true
@@ -1894,15 +1894,15 @@
     "category": "Electronics",
     "subcategory": "Microcontrollers",
     "difficulty": "easy",
-    "question": "Electronics and circuit engineering: Which basic digital logic gate produces a HIGH (1) output if and only if ALL of its inputs are simultaneously HIGH (1)? (Ref #91)",
+    "question": "What hardware feature enables high-speed peripheral data transfer directly into microcontroller RAM without involving the CPU core?",
     "options": [
-      "OR gate",
-      "NAND gate",
-      "AND gate",
-      "XOR gate"
+      "Interrupt Controller",
+      "Watchdog Timer",
+      "Direct Memory Access (DMA)",
+      "Bus Arbiter"
     ],
     "correctAnswer": 2,
-    "explanation": "An AND gate requires all inputs to be true (1) to produce a true (1) output.",
+    "explanation": "DMA transfers data buffers (e.g., ADC readings, audio samples, SPI transfers) in the background while the CPU executes other code.",
     "tags": [
       "electronics",
       "microcontrollers",
@@ -1911,64 +1911,64 @@
     "active": true
   },
   {
-    "id": "electronics-amplifiers-filters-0092",
+    "id": "electronics-microcontrollers-0092",
     "category": "Electronics",
-    "subcategory": "Amplifiers & Filters",
+    "subcategory": "Microcontrollers",
     "difficulty": "medium",
-    "question": "Electronics and circuit engineering: What three functional terminals exist on a standard Bipolar Junction Transistor (BJT)? (Ref #92)",
+    "question": "What low-power microcontroller operating mode stops the CPU core clock while keeping RAM, registers, and external interrupts active?",
     "options": [
-      "Gate, Drain, and Source",
-      "Anode, Cathode, and Grid",
-      "Phase, Neutral, and Ground",
-      "Base, Collector, and Emitter"
+      "Deep Power-Down Mode",
+      "Reset Mode",
+      "Brown-Out Mode",
+      "Sleep / Standby Mode"
     ],
     "correctAnswer": 3,
-    "explanation": "BJTs possess Base, Collector, and Emitter terminals, where a small base current controls a larger collector-emitter current.",
+    "explanation": "Microcontrollers enter sleep mode to reduce power consumption to microamps, waking rapidly when a sensor interrupt triggers.",
     "tags": [
       "electronics",
-      "amplifiers-filters",
+      "microcontrollers",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "electronics-semiconductors-0093",
+    "id": "electronics-microcontrollers-0093",
     "category": "Electronics",
-    "subcategory": "Semiconductors",
+    "subcategory": "Microcontrollers",
     "difficulty": "hard",
-    "question": "Electronics and circuit engineering: What is the ideal input impedance of an ideal operational amplifier (Op-Amp)? (Ref #93)",
+    "question": "What internal safety circuit forces a microcontroller into reset when the supply voltage drops below the minimum reliable operating threshold?",
     "options": [
-      "Infinite impedance (draws zero input current)",
-      "Zero impedance",
-      "50 Ohms",
-      "1000 Ohms"
+      "Brown-Out Detector (BOD)",
+      "Watchdog Timer",
+      "Power-On Reset (POR)",
+      "Crystal Oscillator"
     ],
     "correctAnswer": 0,
-    "explanation": "Ideal op-amps have infinite input impedance so that they do not load or draw current from preceding circuit stages.",
+    "explanation": "Brown-out detection prevents the microcontroller from corrupting Flash/EEPROM or executing invalid opcodes under decaying battery voltage.",
     "tags": [
       "electronics",
-      "semiconductors",
+      "microcontrollers",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "electronics-digital-logic-0094",
+    "id": "electronics-microcontrollers-0094",
     "category": "Electronics",
-    "subcategory": "Digital Logic",
+    "subcategory": "Microcontrollers",
     "difficulty": "easy",
-    "question": "Electronics and circuit engineering: What is the decimal numerical value of the 4-bit binary number 1010? (Ref #94)",
+    "question": "What type of memory pointer register in a microcontroller holds the return address and saved register states during function calls and interrupts?",
     "options": [
-      "Decimal 12",
-      "Decimal 10 (8 + 2)",
-      "Decimal 6",
-      "Decimal 14"
+      "Program Counter (PC)",
+      "Stack Pointer (SP)",
+      "Accumulator",
+      "Status Register"
     ],
     "correctAnswer": 1,
-    "explanation": "Binary 1010 = (1 × 8) + (0 × 4) + (1 × 2) + (0 × 1) = 8 + 2 = 10.",
+    "explanation": "The Stack Pointer points to the current top of the stack in SRAM, decrementing or incrementing with push and pop operations.",
     "tags": [
       "electronics",
-      "digital-logic",
+      "microcontrollers",
       "easy"
     ],
     "active": true
@@ -1978,15 +1978,15 @@
     "category": "Electronics",
     "subcategory": "Microcontrollers",
     "difficulty": "medium",
-    "question": "Electronics and circuit engineering: What electronic component resists rapid changes in electrical current through stored magnetic energy? (Ref #95)",
+    "question": "What CPU register holds the memory address of the next machine instruction to be fetched, decoded, and executed?",
     "options": [
-      "Capacitor",
-      "Resistor",
-      "Inductor (Choke)",
-      "Varistor"
+      "Instruction Register (IR)",
+      "Stack Pointer (SP)",
+      "Program Counter (PC)",
+      "Memory Address Register"
     ],
     "correctAnswer": 2,
-    "explanation": "Inductors store energy in a magnetic field according to Faraday's law, opposing sudden variations in current.",
+    "explanation": "The Program Counter increments automatically after each instruction fetch, unless altered by branch, jump, or call instructions.",
     "tags": [
       "electronics",
       "microcontrollers",
@@ -1995,64 +1995,64 @@
     "active": true
   },
   {
-    "id": "electronics-amplifiers-filters-0096",
+    "id": "electronics-microcontrollers-0096",
     "category": "Electronics",
-    "subcategory": "Amplifiers & Filters",
+    "subcategory": "Microcontrollers",
     "difficulty": "hard",
-    "question": "Electronics and circuit engineering: Which basic digital logic gate produces a HIGH (1) output if and only if ALL of its inputs are simultaneously HIGH (1)? (Ref #96)",
+    "question": "What RISC microcontroller core family, designed by ARM, dominates modern 32-bit embedded systems and automotive controllers?",
     "options": [
-      "OR gate",
-      "NAND gate",
-      "XOR gate",
-      "AND gate"
+      "ARM Cortex-A",
+      "Intel x86",
+      "MIPS32",
+      "ARM Cortex-M (M0, M3, M4, M7)"
     ],
     "correctAnswer": 3,
-    "explanation": "An AND gate requires all inputs to be true (1) to produce a true (1) output.",
+    "explanation": "Cortex-M cores offer deterministic low-latency interrupt handling, hardware division, and optional floating-point units (FPU).",
     "tags": [
       "electronics",
-      "amplifiers-filters",
+      "microcontrollers",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "electronics-semiconductors-0097",
+    "id": "electronics-microcontrollers-0097",
     "category": "Electronics",
-    "subcategory": "Semiconductors",
+    "subcategory": "Microcontrollers",
     "difficulty": "easy",
-    "question": "Electronics and circuit engineering: What three functional terminals exist on a standard Bipolar Junction Transistor (BJT)? (Ref #97)",
+    "question": "What open-source processor instruction set architecture (ISA), based on RISC principles, is rapidly gaining adoption in embedded microcontrollers?",
     "options": [
-      "Base, Collector, and Emitter",
-      "Gate, Drain, and Source",
-      "Anode, Cathode, and Grid",
-      "Phase, Neutral, and Ground"
+      "RISC-V",
+      "x86",
+      "SPARC",
+      "PowerPC"
     ],
     "correctAnswer": 0,
-    "explanation": "BJTs possess Base, Collector, and Emitter terminals, where a small base current controls a larger collector-emitter current.",
+    "explanation": "RISC-V is a royalty-free, open standard instruction set that allows developers to design custom silicon cores without licensing fees.",
     "tags": [
       "electronics",
-      "semiconductors",
+      "microcontrollers",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "electronics-digital-logic-0098",
+    "id": "electronics-microcontrollers-0098",
     "category": "Electronics",
-    "subcategory": "Digital Logic",
+    "subcategory": "Microcontrollers",
     "difficulty": "medium",
-    "question": "Electronics and circuit engineering: What is the ideal input impedance of an ideal operational amplifier (Op-Amp)? (Ref #98)",
+    "question": "What register inside a GPIO peripheral controls whether a specific physical microcontroller pin functions as an input or an output?",
     "options": [
-      "Zero impedance",
-      "Infinite impedance (draws zero input current)",
-      "50 Ohms",
-      "1000 Ohms"
+      "Pin State Register",
+      "Data Direction Register (DDR or MODER)",
+      "Pull-Up Register",
+      "Output Latch Register"
     ],
     "correctAnswer": 1,
-    "explanation": "Ideal op-amps have infinite input impedance so that they do not load or draw current from preceding circuit stages.",
+    "explanation": "Setting a bit in DDR to 1 configures the corresponding pin as an output, while setting it to 0 configures it as a high-impedance input.",
     "tags": [
       "electronics",
-      "digital-logic",
+      "microcontrollers",
       "medium"
     ],
     "active": true
@@ -2062,15 +2062,15 @@
     "category": "Electronics",
     "subcategory": "Microcontrollers",
     "difficulty": "hard",
-    "question": "Electronics and circuit engineering: What is the decimal numerical value of the 4-bit binary number 1010? (Ref #99)",
+    "question": "What type of internal resistor can be programmatically connected to a microcontroller GPIO pin to prevent it from floating when unconnected?",
     "options": [
-      "Decimal 12",
-      "Decimal 6",
-      "Decimal 10 (8 + 2)",
-      "Decimal 14"
+      "Shunt Resistor",
+      "Damping Resistor",
+      "Internal Pull-Up (or Pull-Down) Resistor",
+      "Bleeder Resistor"
     ],
     "correctAnswer": 2,
-    "explanation": "Binary 1010 = (1 × 8) + (0 × 4) + (1 × 2) + (0 × 1) = 8 + 2 = 10.",
+    "explanation": "Pull-up resistors hold the input line at a solid logic HIGH (e.g., 3.3V) when an external mechanical pushbutton is open.",
     "tags": [
       "electronics",
       "microcontrollers",
@@ -2079,64 +2079,64 @@
     "active": true
   },
   {
-    "id": "electronics-amplifiers-filters-0100",
+    "id": "electronics-microcontrollers-0100",
     "category": "Electronics",
-    "subcategory": "Amplifiers & Filters",
+    "subcategory": "Microcontrollers",
     "difficulty": "easy",
-    "question": "Electronics and circuit engineering: What electronic component resists rapid changes in electrical current through stored magnetic energy? (Ref #100)",
+    "question": "What microcontroller peripheral generates an interrupt or pulse width output based on counting external digital pulses or internal clock cycles?",
     "options": [
-      "Capacitor",
-      "Resistor",
-      "Varistor",
-      "Inductor (Choke)"
+      "Comparator",
+      "Baud Rate Generator",
+      "DAC",
+      "Hardware Timer/Counter"
     ],
     "correctAnswer": 3,
-    "explanation": "Inductors store energy in a magnetic field according to Faraday's law, opposing sudden variations in current.",
+    "explanation": "Timers can run in input capture mode (measuring pulse width) or output compare mode (generating precise PWM waveforms).",
     "tags": [
       "electronics",
-      "amplifiers-filters",
+      "microcontrollers",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "electronics-semiconductors-0101",
+    "id": "electronics-microcontrollers-0101",
     "category": "Electronics",
-    "subcategory": "Semiconductors",
+    "subcategory": "Microcontrollers",
     "difficulty": "medium",
-    "question": "Electronics and circuit engineering: Which basic digital logic gate produces a HIGH (1) output if and only if ALL of its inputs are simultaneously HIGH (1)? (Ref #101)",
+    "question": "What internal hardware peripheral generates an analog voltage output from a digital binary word without requiring PWM filtering?",
     "options": [
-      "AND gate",
-      "OR gate",
-      "NAND gate",
-      "XOR gate"
+      "Digital-to-Analog Converter (DAC)",
+      "ADC",
+      "Comparator",
+      "Charge Pump"
     ],
     "correctAnswer": 0,
-    "explanation": "An AND gate requires all inputs to be true (1) to produce a true (1) output.",
+    "explanation": "A DAC outputs a true analog DC voltage, utilized for audio waveform synthesis and precise reference voltage generation.",
     "tags": [
       "electronics",
-      "semiconductors",
+      "microcontrollers",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "electronics-digital-logic-0102",
+    "id": "electronics-microcontrollers-0102",
     "category": "Electronics",
-    "subcategory": "Digital Logic",
+    "subcategory": "Microcontrollers",
     "difficulty": "hard",
-    "question": "Electronics and circuit engineering: What three functional terminals exist on a standard Bipolar Junction Transistor (BJT)? (Ref #102)",
+    "question": "What microcontroller debugging interface utilizes standard 4-wire or 5-wire boundary scan hardware to program and debug chips in-circuit?",
     "options": [
-      "Gate, Drain, and Source",
-      "Base, Collector, and Emitter",
-      "Anode, Cathode, and Grid",
-      "Phase, Neutral, and Ground"
+      "UART",
+      "JTAG (IEEE 1149.1)",
+      "I2C",
+      "SPI"
     ],
     "correctAnswer": 1,
-    "explanation": "BJTs possess Base, Collector, and Emitter terminals, where a small base current controls a larger collector-emitter current.",
+    "explanation": "JTAG provides hardware breakpoints, single-stepping, and register inspection directly inside the target silicon core.",
     "tags": [
       "electronics",
-      "digital-logic",
+      "microcontrollers",
       "hard"
     ],
     "active": true
@@ -2146,15 +2146,15 @@
     "category": "Electronics",
     "subcategory": "Microcontrollers",
     "difficulty": "easy",
-    "question": "Electronics and circuit engineering: What is the ideal input impedance of an ideal operational amplifier (Op-Amp)? (Ref #103)",
+    "question": "What 2-wire debugging protocol, developed by ARM as an alternative to JTAG, uses only SWDIO and SWCLK lines?",
     "options": [
-      "Zero impedance",
-      "50 Ohms",
-      "Infinite impedance (draws zero input current)",
-      "1000 Ohms"
+      "JTAG",
+      "ICSP",
+      "Serial Wire Debug (SWD)",
+      "BDM"
     ],
     "correctAnswer": 2,
-    "explanation": "Ideal op-amps have infinite input impedance so that they do not load or draw current from preceding circuit stages.",
+    "explanation": "SWD provides the full debugging capabilities of JTAG while saving pin count on small-pinout microcontrollers.",
     "tags": [
       "electronics",
       "microcontrollers",
@@ -2163,64 +2163,64 @@
     "active": true
   },
   {
-    "id": "electronics-amplifiers-filters-0104",
+    "id": "electronics-microcontrollers-0104",
     "category": "Electronics",
-    "subcategory": "Amplifiers & Filters",
+    "subcategory": "Microcontrollers",
     "difficulty": "medium",
-    "question": "Electronics and circuit engineering: What is the decimal numerical value of the 4-bit binary number 1010? (Ref #104)",
+    "question": "What is the primary function of a crystal oscillator circuit connected to a microcontroller's XTAL pins?",
     "options": [
-      "Decimal 12",
-      "Decimal 6",
-      "Decimal 14",
-      "Decimal 10 (8 + 2)"
+      "To filter electrical noise from the power supply",
+      "To generate high-voltage programming pulses",
+      "To store configuration bits",
+      "To provide a precise, stable master clock reference signal for CPU timing and peripheral synchronization"
     ],
     "correctAnswer": 3,
-    "explanation": "Binary 1010 = (1 × 8) + (0 × 4) + (1 × 2) + (0 × 1) = 8 + 2 = 10.",
+    "explanation": "Quartz crystal resonators vibrate at a fixed resonant frequency with high temperature stability (ppm precision).",
     "tags": [
       "electronics",
-      "amplifiers-filters",
+      "microcontrollers",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "electronics-semiconductors-0105",
+    "id": "electronics-microcontrollers-0105",
     "category": "Electronics",
-    "subcategory": "Semiconductors",
+    "subcategory": "Microcontrollers",
     "difficulty": "hard",
-    "question": "Electronics and circuit engineering: What electronic component resists rapid changes in electrical current through stored magnetic energy? (Ref #105)",
+    "question": "What register in a microcontroller CPU reflects the outcome of arithmetic operations (zero, carry, overflow, negative flags)?",
     "options": [
-      "Inductor (Choke)",
-      "Capacitor",
-      "Resistor",
-      "Varistor"
+      "Status Register (Condition Code Register / Flags Register)",
+      "Accumulator",
+      "Program Counter",
+      "Stack Pointer"
     ],
     "correctAnswer": 0,
-    "explanation": "Inductors store energy in a magnetic field according to Faraday's law, opposing sudden variations in current.",
+    "explanation": "Branch instructions evaluate status flags (Z, C, V, N) to make decisions like branching if equal or branching if greater than.",
     "tags": [
       "electronics",
-      "semiconductors",
+      "microcontrollers",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "electronics-digital-logic-0106",
+    "id": "electronics-microcontrollers-0106",
     "category": "Electronics",
-    "subcategory": "Digital Logic",
+    "subcategory": "Microcontrollers",
     "difficulty": "easy",
-    "question": "Electronics and circuit engineering: Which basic digital logic gate produces a HIGH (1) output if and only if ALL of its inputs are simultaneously HIGH (1)? (Ref #106)",
+    "question": "What embedded programming technique avoids blocking delays by maintaining a state variable that updates inside an event loop?",
     "options": [
-      "OR gate",
-      "AND gate",
-      "NAND gate",
-      "XOR gate"
+      "Busy-Wait Loop",
+      "Finite State Machine (FSM)",
+      "Recursive Descent",
+      "Polling Delay"
     ],
     "correctAnswer": 1,
-    "explanation": "An AND gate requires all inputs to be true (1) to produce a true (1) output.",
+    "explanation": "FSMs allow cooperative multi-tasking without an operating system, ensuring the microcontroller remains responsive to sensor inputs.",
     "tags": [
       "electronics",
-      "digital-logic",
+      "microcontrollers",
       "easy"
     ],
     "active": true
@@ -2230,15 +2230,15 @@
     "category": "Electronics",
     "subcategory": "Microcontrollers",
     "difficulty": "medium",
-    "question": "Electronics and circuit engineering: What three functional terminals exist on a standard Bipolar Junction Transistor (BJT)? (Ref #107)",
+    "question": "What real-time software layer provides preemptive multitasking, task scheduling, and inter-task communication in embedded systems?",
     "options": [
-      "Gate, Drain, and Source",
-      "Anode, Cathode, and Grid",
-      "Base, Collector, and Emitter",
-      "Phase, Neutral, and Ground"
+      "Linux Kernel",
+      "BIOS",
+      "Real-Time Operating System (RTOS, e.g., FreeRTOS)",
+      "Compiler"
     ],
     "correctAnswer": 2,
-    "explanation": "BJTs possess Base, Collector, and Emitter terminals, where a small base current controls a larger collector-emitter current.",
+    "explanation": "An RTOS switches tasks based on priority, ensuring time-critical tasks meet strict deterministic execution deadlines.",
     "tags": [
       "electronics",
       "microcontrollers",
@@ -2247,64 +2247,64 @@
     "active": true
   },
   {
-    "id": "electronics-amplifiers-filters-0108",
+    "id": "electronics-microcontrollers-0108",
     "category": "Electronics",
-    "subcategory": "Amplifiers & Filters",
+    "subcategory": "Microcontrollers",
     "difficulty": "hard",
-    "question": "Electronics and circuit engineering: What is the ideal input impedance of an ideal operational amplifier (Op-Amp)? (Ref #108)",
+    "question": "What synchronization mechanism in an RTOS is used to protect a shared peripheral or resource from simultaneous concurrent access by multiple tasks?",
     "options": [
-      "Zero impedance",
-      "50 Ohms",
-      "1000 Ohms",
-      "Infinite impedance (draws zero input current)"
+      "Timer",
+      "Queue",
+      "Event Flag",
+      "Mutex (Mutual Exclusion Semaphore)"
     ],
     "correctAnswer": 3,
-    "explanation": "Ideal op-amps have infinite input impedance so that they do not load or draw current from preceding circuit stages.",
+    "explanation": "A mutex grants exclusive ownership to one task at a time, preventing data corruption during shared memory access.",
     "tags": [
       "electronics",
-      "amplifiers-filters",
+      "microcontrollers",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "electronics-semiconductors-0109",
+    "id": "electronics-microcontrollers-0109",
     "category": "Electronics",
-    "subcategory": "Semiconductors",
+    "subcategory": "Microcontrollers",
     "difficulty": "easy",
-    "question": "Electronics and circuit engineering: What is the decimal numerical value of the 4-bit binary number 1010? (Ref #109)",
+    "question": "What dangerous scheduling anomaly occurs when a low-priority task holding a mutex blocks a high-priority task because a medium task pre-empts it?",
     "options": [
-      "Decimal 10 (8 + 2)",
-      "Decimal 12",
-      "Decimal 6",
-      "Decimal 14"
+      "Priority Inversion",
+      "Deadlock",
+      "Race Condition",
+      "Starvation"
     ],
     "correctAnswer": 0,
-    "explanation": "Binary 1010 = (1 × 8) + (0 × 4) + (1 × 2) + (0 × 1) = 8 + 2 = 10.",
+    "explanation": "Priority inheritance protocols temporarily elevate the low-priority task's priority so it quickly finishes and releases the shared resource.",
     "tags": [
       "electronics",
-      "semiconductors",
+      "microcontrollers",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "electronics-digital-logic-0110",
+    "id": "electronics-microcontrollers-0110",
     "category": "Electronics",
-    "subcategory": "Digital Logic",
+    "subcategory": "Microcontrollers",
     "difficulty": "medium",
-    "question": "Electronics and circuit engineering: What electronic component resists rapid changes in electrical current through stored magnetic energy? (Ref #110)",
+    "question": "What RTOS communication construct allows tasks to safely pass data packets or messages to one another in first-in, first-out order?",
     "options": [
-      "Capacitor",
-      "Inductor (Choke)",
-      "Resistor",
-      "Varistor"
+      "Binary Semaphore",
+      "Message Queue",
+      "Spinlock",
+      "Interrupt Vector"
     ],
     "correctAnswer": 1,
-    "explanation": "Inductors store energy in a magnetic field according to Faraday's law, opposing sudden variations in current.",
+    "explanation": "Message queues provide thread-safe FIFO buffering between data producers (like ISRs) and consumer tasks.",
     "tags": [
       "electronics",
-      "digital-logic",
+      "microcontrollers",
       "medium"
     ],
     "active": true
@@ -2314,15 +2314,15 @@
     "category": "Electronics",
     "subcategory": "Microcontrollers",
     "difficulty": "hard",
-    "question": "Electronics and circuit engineering: Which basic digital logic gate produces a HIGH (1) output if and only if ALL of its inputs are simultaneously HIGH (1)? (Ref #111)",
+    "question": "What hardware timer in battery-powered microcontrollers continues counting seconds, minutes, hours, and calendar dates using a 32.768 kHz crystal?",
     "options": [
-      "OR gate",
-      "NAND gate",
-      "AND gate",
-      "XOR gate"
+      "Watchdog Timer",
+      "SysTick Timer",
+      "Real-Time Clock (RTC)",
+      "PWM Timer"
     ],
     "correctAnswer": 2,
-    "explanation": "An AND gate requires all inputs to be true (1) to produce a true (1) output.",
+    "explanation": "32.768 kHz equals 2^15 cycles per second, enabling a simple 15-stage binary counter to produce an exact 1-second pulse.",
     "tags": [
       "electronics",
       "microcontrollers",
@@ -2331,85 +2331,85 @@
     "active": true
   },
   {
-    "id": "electronics-amplifiers-filters-0112",
+    "id": "electronics-microcontrollers-0112",
     "category": "Electronics",
-    "subcategory": "Amplifiers & Filters",
+    "subcategory": "Microcontrollers",
     "difficulty": "easy",
-    "question": "Electronics and circuit engineering: What three functional terminals exist on a standard Bipolar Junction Transistor (BJT)? (Ref #112)",
+    "question": "What system timer in ARM Cortex-M microcontrollers provides a dedicated 24-bit down-counter for generating RTOS periodic scheduling ticks?",
     "options": [
-      "Gate, Drain, and Source",
-      "Anode, Cathode, and Grid",
-      "Phase, Neutral, and Ground",
-      "Base, Collector, and Emitter"
+      "Watchdog Timer",
+      "RTC",
+      "General-Purpose Timer 1",
+      "SysTick Timer"
     ],
     "correctAnswer": 3,
-    "explanation": "BJTs possess Base, Collector, and Emitter terminals, where a small base current controls a larger collector-emitter current.",
+    "explanation": "SysTick is integrated directly into the Cortex-M core, ensuring code portability across different chip manufacturers.",
     "tags": [
       "electronics",
-      "amplifiers-filters",
+      "microcontrollers",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "electronics-semiconductors-0113",
+    "id": "electronics-microcontrollers-0113",
     "category": "Electronics",
-    "subcategory": "Semiconductors",
+    "subcategory": "Microcontrollers",
     "difficulty": "medium",
-    "question": "Electronics and circuit engineering: What is the ideal input impedance of an ideal operational amplifier (Op-Amp)? (Ref #113)",
+    "question": "What hardware peripheral on modern microcontrollers performs single-cycle hardware multiplication and division for DSP algorithms?",
     "options": [
-      "Infinite impedance (draws zero input current)",
-      "Zero impedance",
-      "50 Ohms",
-      "1000 Ohms"
+      "Hardware Multiplier / MAC (Multiply-Accumulate Unit)",
+      "ALU Shift Register",
+      "Barrel Shifter",
+      "DMA Controller"
     ],
     "correctAnswer": 0,
-    "explanation": "Ideal op-amps have infinite input impedance so that they do not load or draw current from preceding circuit stages.",
+    "explanation": "MAC units execute operations like A = A + (B * C) in a single cycle, accelerating digital audio filters and motor vector control.",
     "tags": [
       "electronics",
-      "semiconductors",
+      "microcontrollers",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "electronics-digital-logic-0114",
+    "id": "electronics-amplifiers-filters-0114",
     "category": "Electronics",
-    "subcategory": "Digital Logic",
+    "subcategory": "Amplifiers & Filters",
     "difficulty": "hard",
-    "question": "Electronics and circuit engineering: What is the decimal numerical value of the 4-bit binary number 1010? (Ref #114)",
+    "question": "What are the two golden rules for analyzing an ideal operational amplifier operating with negative feedback?",
     "options": [
-      "Decimal 12",
-      "Decimal 10 (8 + 2)",
-      "Decimal 6",
-      "Decimal 14"
+      "The output voltage is zero and gain is zero",
+      "The differential input voltage is zero (V+ = V-), and input terminals draw zero electrical current (infinite input impedance)",
+      "Both inputs are connected to ground directly",
+      "Feedback is always positive and bandwidth is infinite"
     ],
     "correctAnswer": 1,
-    "explanation": "Binary 1010 = (1 × 8) + (0 × 4) + (1 × 2) + (0 × 1) = 8 + 2 = 10.",
+    "explanation": "Because open-loop gain is infinite and input impedance is infinite, negative feedback forces the inputs to identical voltages without drawing current.",
     "tags": [
       "electronics",
-      "digital-logic",
+      "amplifiers-filters",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "electronics-microcontrollers-0115",
+    "id": "electronics-amplifiers-filters-0115",
     "category": "Electronics",
-    "subcategory": "Microcontrollers",
+    "subcategory": "Amplifiers & Filters",
     "difficulty": "easy",
-    "question": "Electronics and circuit engineering: What electronic component resists rapid changes in electrical current through stored magnetic energy? (Ref #115)",
+    "question": "What is the theoretical voltage gain formula for an ideal inverting operational amplifier circuit?",
     "options": [
-      "Capacitor",
-      "Resistor",
-      "Inductor (Choke)",
-      "Varistor"
+      "Gain = 1 + (Rf / Rin)",
+      "Gain = Rin / Rf",
+      "Gain = -Rf / Rin",
+      "Gain = -Rin / Rf"
     ],
     "correctAnswer": 2,
-    "explanation": "Inductors store energy in a magnetic field according to Faraday's law, opposing sudden variations in current.",
+    "explanation": "The input resistor Rin and feedback resistor Rf form an inverting amplifier where output voltage Vout = -(Rf / Rin) * Vin.",
     "tags": [
       "electronics",
-      "microcontrollers",
+      "amplifiers-filters",
       "easy"
     ],
     "active": true
@@ -2419,15 +2419,15 @@
     "category": "Electronics",
     "subcategory": "Amplifiers & Filters",
     "difficulty": "medium",
-    "question": "Electronics and circuit engineering: Which basic digital logic gate produces a HIGH (1) output if and only if ALL of its inputs are simultaneously HIGH (1)? (Ref #116)",
+    "question": "What is the theoretical voltage gain formula for an ideal non-inverting operational amplifier circuit?",
     "options": [
-      "OR gate",
-      "NAND gate",
-      "XOR gate",
-      "AND gate"
+      "Gain = -Rf / Rin",
+      "Gain = Rf / Rin",
+      "Gain = 1 - (Rf / Rin)",
+      "Gain = 1 + (Rf / Rin)"
     ],
     "correctAnswer": 3,
-    "explanation": "An AND gate requires all inputs to be true (1) to produce a true (1) output.",
+    "explanation": "The non-inverting amplifier applies input directly to the non-inverting terminal, producing in-phase gain that is always greater than or equal to 1.",
     "tags": [
       "electronics",
       "amplifiers-filters",
@@ -2436,64 +2436,64 @@
     "active": true
   },
   {
-    "id": "electronics-semiconductors-0117",
+    "id": "electronics-amplifiers-filters-0117",
     "category": "Electronics",
-    "subcategory": "Semiconductors",
+    "subcategory": "Amplifiers & Filters",
     "difficulty": "hard",
-    "question": "Electronics and circuit engineering: What three functional terminals exist on a standard Bipolar Junction Transistor (BJT)? (Ref #117)",
+    "question": "What operational amplifier configuration connects the output directly to the inverting input, delivering unity gain (Gain = 1)?",
     "options": [
-      "Base, Collector, and Emitter",
-      "Gate, Drain, and Source",
-      "Anode, Cathode, and Grid",
-      "Phase, Neutral, and Ground"
+      "Voltage Follower (Buffer)",
+      "Inverting Amplifier",
+      "Integrator",
+      "Differentiator"
     ],
     "correctAnswer": 0,
-    "explanation": "BJTs possess Base, Collector, and Emitter terminals, where a small base current controls a larger collector-emitter current.",
+    "explanation": "A voltage follower provides unity voltage gain with very high input impedance and very low output impedance, preventing loading of sensitive sensors.",
     "tags": [
       "electronics",
-      "semiconductors",
+      "amplifiers-filters",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "electronics-digital-logic-0118",
+    "id": "electronics-amplifiers-filters-0118",
     "category": "Electronics",
-    "subcategory": "Digital Logic",
+    "subcategory": "Amplifiers & Filters",
     "difficulty": "easy",
-    "question": "Electronics and circuit engineering: What is the ideal input impedance of an ideal operational amplifier (Op-Amp)? (Ref #118)",
+    "question": "What op-amp circuit produces an output voltage that is proportional to the mathematical time integral of the input voltage?",
     "options": [
-      "Zero impedance",
-      "Infinite impedance (draws zero input current)",
-      "50 Ohms",
-      "1000 Ohms"
+      "Op-Amp Differentiator",
+      "Op-Amp Integrator",
+      "Summing Amplifier",
+      "Logarithmic Amplifier"
     ],
     "correctAnswer": 1,
-    "explanation": "Ideal op-amps have infinite input impedance so that they do not load or draw current from preceding circuit stages.",
+    "explanation": "An integrator replaces the feedback resistor with a capacitor, yielding Vout = -(1 / RC) * integral(Vin dt).",
     "tags": [
       "electronics",
-      "digital-logic",
+      "amplifiers-filters",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "electronics-microcontrollers-0119",
+    "id": "electronics-amplifiers-filters-0119",
     "category": "Electronics",
-    "subcategory": "Microcontrollers",
+    "subcategory": "Amplifiers & Filters",
     "difficulty": "medium",
-    "question": "Electronics and circuit engineering: What is the decimal numerical value of the 4-bit binary number 1010? (Ref #119)",
+    "question": "What op-amp circuit produces an output voltage proportional to the time derivative (rate of change) of the input voltage?",
     "options": [
-      "Decimal 12",
-      "Decimal 6",
-      "Decimal 10 (8 + 2)",
-      "Decimal 14"
+      "Op-Amp Integrator",
+      "Comparator",
+      "Op-Amp Differentiator",
+      "Peak Detector"
     ],
     "correctAnswer": 2,
-    "explanation": "Binary 1010 = (1 × 8) + (0 × 4) + (1 × 2) + (0 × 1) = 8 + 2 = 10.",
+    "explanation": "A differentiator places a capacitor at the input and a resistor in the feedback path, yielding Vout = -RC * (dVin / dt).",
     "tags": [
       "electronics",
-      "microcontrollers",
+      "amplifiers-filters",
       "medium"
     ],
     "active": true
@@ -2503,15 +2503,15 @@
     "category": "Electronics",
     "subcategory": "Amplifiers & Filters",
     "difficulty": "hard",
-    "question": "Electronics and circuit engineering: What electronic component resists rapid changes in electrical current through stored magnetic energy? (Ref #120)",
+    "question": "What parameter defines the maximum rate of change of an operational amplifier's output voltage, measured in Volts per microsecond (V/us)?",
     "options": [
-      "Capacitor",
-      "Resistor",
-      "Varistor",
-      "Inductor (Choke)"
+      "Gain-Bandwidth Product",
+      "Common-Mode Rejection Ratio",
+      "Input Offset Voltage",
+      "Slew Rate"
     ],
     "correctAnswer": 3,
-    "explanation": "Inductors store energy in a magnetic field according to Faraday's law, opposing sudden variations in current.",
+    "explanation": "If an input signal's frequency or amplitude demands a faster voltage rise than the op-amp's slew rate can provide, output distortion and triangular distortion occur.",
     "tags": [
       "electronics",
       "amplifiers-filters",
@@ -2520,64 +2520,64 @@
     "active": true
   },
   {
-    "id": "electronics-semiconductors-0121",
+    "id": "electronics-amplifiers-filters-0121",
     "category": "Electronics",
-    "subcategory": "Semiconductors",
+    "subcategory": "Amplifiers & Filters",
     "difficulty": "easy",
-    "question": "Electronics and circuit engineering: Which basic digital logic gate produces a HIGH (1) output if and only if ALL of its inputs are simultaneously HIGH (1)? (Ref #121)",
+    "question": "What figure of merit quantifies an operational amplifier's ability to reject identical noise signals present on both input terminals simultaneously?",
     "options": [
-      "AND gate",
-      "OR gate",
-      "NAND gate",
-      "XOR gate"
+      "Common-Mode Rejection Ratio (CMRR)",
+      "Power Supply Rejection Ratio (PSRR)",
+      "Slew Rate",
+      "Open-Loop Gain"
     ],
     "correctAnswer": 0,
-    "explanation": "An AND gate requires all inputs to be true (1) to produce a true (1) output.",
+    "explanation": "CMRR is the ratio of differential gain to common-mode gain, expressed in decibels (typically 80 to 120 dB in quality op-amps).",
     "tags": [
       "electronics",
-      "semiconductors",
+      "amplifiers-filters",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "electronics-digital-logic-0122",
+    "id": "electronics-amplifiers-filters-0122",
     "category": "Electronics",
-    "subcategory": "Digital Logic",
+    "subcategory": "Amplifiers & Filters",
     "difficulty": "medium",
-    "question": "Electronics and circuit engineering: What three functional terminals exist on a standard Bipolar Junction Transistor (BJT)? (Ref #122)",
+    "question": "What small DC error voltage must be applied between op-amp inputs to force the output voltage exactly to zero?",
     "options": [
-      "Gate, Drain, and Source",
-      "Base, Collector, and Emitter",
-      "Anode, Cathode, and Grid",
-      "Phase, Neutral, and Ground"
+      "Input Bias Current",
+      "Input Offset Voltage (Vos)",
+      "Thermal Drift",
+      "Hysteresis Voltage"
     ],
     "correctAnswer": 1,
-    "explanation": "BJTs possess Base, Collector, and Emitter terminals, where a small base current controls a larger collector-emitter current.",
+    "explanation": "Imperfect matching between input differential pair transistors causes slight offset voltage, typically tens of microvolts to a few millivolts.",
     "tags": [
       "electronics",
-      "digital-logic",
+      "amplifiers-filters",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "electronics-microcontrollers-0123",
+    "id": "electronics-amplifiers-filters-0123",
     "category": "Electronics",
-    "subcategory": "Microcontrollers",
+    "subcategory": "Amplifiers & Filters",
     "difficulty": "hard",
-    "question": "Electronics and circuit engineering: What is the ideal input impedance of an ideal operational amplifier (Op-Amp)? (Ref #123)",
+    "question": "What op-amp parameter states that the product of open-loop voltage gain and operating frequency remains constant across its linear range?",
     "options": [
-      "Zero impedance",
-      "50 Ohms",
-      "Infinite impedance (draws zero input current)",
-      "1000 Ohms"
+      "Slew Rate",
+      "Unity-Gain Crossover",
+      "Gain-Bandwidth Product (GBWP)",
+      "Transit Frequency"
     ],
     "correctAnswer": 2,
-    "explanation": "Ideal op-amps have infinite input impedance so that they do not load or draw current from preceding circuit stages.",
+    "explanation": "If an op-amp has a GBWP of 10 MHz, an amplifier configured for a gain of 10 will have a maximum bandwidth of 1 MHz (10 * 1 MHz = 10 MHz).",
     "tags": [
       "electronics",
-      "microcontrollers",
+      "amplifiers-filters",
       "hard"
     ],
     "active": true
@@ -2587,15 +2587,15 @@
     "category": "Electronics",
     "subcategory": "Amplifiers & Filters",
     "difficulty": "easy",
-    "question": "Electronics and circuit engineering: What is the decimal numerical value of the 4-bit binary number 1010? (Ref #124)",
+    "question": "What specialized three-op-amp circuit provides high differential gain, extremely high input impedance, and high CMRR for medical ECG amplifiers?",
     "options": [
-      "Decimal 12",
-      "Decimal 6",
-      "Decimal 14",
-      "Decimal 10 (8 + 2)"
+      "Summing Amplifier",
+      "Logarithmic Amplifier",
+      "Transimpedance Amplifier",
+      "Instrumentation Amplifier (In-Amp)"
     ],
     "correctAnswer": 3,
-    "explanation": "Binary 1010 = (1 × 8) + (0 × 4) + (1 × 2) + (0 × 1) = 8 + 2 = 10.",
+    "explanation": "Instrumentation amplifiers use two buffered inputs feeding a difference amplifier stage, standardly utilized for strain gauges and thermocouple bridges.",
     "tags": [
       "electronics",
       "amplifiers-filters",
@@ -2604,64 +2604,64 @@
     "active": true
   },
   {
-    "id": "electronics-semiconductors-0125",
+    "id": "electronics-amplifiers-filters-0125",
     "category": "Electronics",
-    "subcategory": "Semiconductors",
+    "subcategory": "Amplifiers & Filters",
     "difficulty": "medium",
-    "question": "Electronics and circuit engineering: What electronic component resists rapid changes in electrical current through stored magnetic energy? (Ref #125)",
+    "question": "What op-amp circuit converts a small input current from a photodiode directly into a proportional output voltage?",
     "options": [
-      "Inductor (Choke)",
-      "Capacitor",
-      "Resistor",
-      "Varistor"
+      "Transimpedance Amplifier (Current-to-Voltage Converter)",
+      "Instrumentation Amplifier",
+      "Charge Amplifier",
+      "Logarithmic Amplifier"
     ],
     "correctAnswer": 0,
-    "explanation": "Inductors store energy in a magnetic field according to Faraday's law, opposing sudden variations in current.",
+    "explanation": "A transimpedance amplifier uses a feedback resistor Rf across the op-amp, producing output Vout = -I_in * Rf.",
     "tags": [
       "electronics",
-      "semiconductors",
+      "amplifiers-filters",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "electronics-digital-logic-0126",
+    "id": "electronics-amplifiers-filters-0126",
     "category": "Electronics",
-    "subcategory": "Digital Logic",
+    "subcategory": "Amplifiers & Filters",
     "difficulty": "hard",
-    "question": "Electronics and circuit engineering: Which basic digital logic gate produces a HIGH (1) output if and only if ALL of its inputs are simultaneously HIGH (1)? (Ref #126)",
+    "question": "What circuit converts an input voltage into a proportional output current, also known as a voltage-controlled current source?",
     "options": [
-      "OR gate",
-      "AND gate",
-      "NAND gate",
-      "XOR gate"
+      "Transimpedance Amplifier",
+      "Transconductance Amplifier",
+      "Voltage Follower",
+      "Buffer Amplifier"
     ],
     "correctAnswer": 1,
-    "explanation": "An AND gate requires all inputs to be true (1) to produce a true (1) output.",
+    "explanation": "Transconductance amplifiers deliver an output current proportional to input voltage (Iout = gm * Vin).",
     "tags": [
       "electronics",
-      "digital-logic",
+      "amplifiers-filters",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "electronics-microcontrollers-0127",
+    "id": "electronics-amplifiers-filters-0127",
     "category": "Electronics",
-    "subcategory": "Microcontrollers",
+    "subcategory": "Amplifiers & Filters",
     "difficulty": "easy",
-    "question": "Electronics and circuit engineering: What three functional terminals exist on a standard Bipolar Junction Transistor (BJT)? (Ref #127)",
+    "question": "What type of filter passes low-frequency signals below a specific cutoff frequency and attenuates high frequencies above that point?",
     "options": [
-      "Gate, Drain, and Source",
-      "Anode, Cathode, and Grid",
-      "Base, Collector, and Emitter",
-      "Phase, Neutral, and Ground"
+      "High-Pass Filter (HPF)",
+      "Band-Pass Filter (BPF)",
+      "Low-Pass Filter (LPF)",
+      "Notch Filter"
     ],
     "correctAnswer": 2,
-    "explanation": "BJTs possess Base, Collector, and Emitter terminals, where a small base current controls a larger collector-emitter current.",
+    "explanation": "Low-pass filters eliminate high-frequency noise and prevent aliasing before analog-to-digital conversion.",
     "tags": [
       "electronics",
-      "microcontrollers",
+      "amplifiers-filters",
       "easy"
     ],
     "active": true
@@ -2671,15 +2671,15 @@
     "category": "Electronics",
     "subcategory": "Amplifiers & Filters",
     "difficulty": "medium",
-    "question": "Electronics and circuit engineering: What is the ideal input impedance of an ideal operational amplifier (Op-Amp)? (Ref #128)",
+    "question": "What formula calculates the -3 dB cutoff frequency of a simple single-pole passive RC low-pass filter?",
     "options": [
-      "Zero impedance",
-      "50 Ohms",
-      "1000 Ohms",
-      "Infinite impedance (draws zero input current)"
+      "fc = 2 * pi * R * C",
+      "fc = R / (2 * pi * C)",
+      "fc = 1 / (R * C)",
+      "fc = 1 / (2 * pi * R * C)"
     ],
     "correctAnswer": 3,
-    "explanation": "Ideal op-amps have infinite input impedance so that they do not load or draw current from preceding circuit stages.",
+    "explanation": "At the cutoff frequency fc, signal power drops by half (-3 dB) and output phase shifts by -45 degrees.",
     "tags": [
       "electronics",
       "amplifiers-filters",
@@ -2688,64 +2688,64 @@
     "active": true
   },
   {
-    "id": "electronics-semiconductors-0129",
+    "id": "electronics-amplifiers-filters-0129",
     "category": "Electronics",
-    "subcategory": "Semiconductors",
+    "subcategory": "Amplifiers & Filters",
     "difficulty": "hard",
-    "question": "Electronics and circuit engineering: What is the decimal numerical value of the 4-bit binary number 1010? (Ref #129)",
+    "question": "What is the roll-off attenuation rate of a standard first-order (single-pole) analog filter in its stopband?",
     "options": [
-      "Decimal 10 (8 + 2)",
-      "Decimal 12",
-      "Decimal 6",
-      "Decimal 14"
+      "20 dB per decade (or 6 dB per octave)",
+      "40 dB per decade",
+      "60 dB per decade",
+      "10 dB per decade"
     ],
     "correctAnswer": 0,
-    "explanation": "Binary 1010 = (1 × 8) + (0 × 4) + (1 × 2) + (0 × 1) = 8 + 2 = 10.",
+    "explanation": "Each additional filter pole adds 20 dB/decade of attenuation; a second-order filter rolls off at 40 dB/decade, and a fourth-order rolls off at 80 dB/decade.",
     "tags": [
       "electronics",
-      "semiconductors",
+      "amplifiers-filters",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "electronics-digital-logic-0130",
+    "id": "electronics-amplifiers-filters-0130",
     "category": "Electronics",
-    "subcategory": "Digital Logic",
+    "subcategory": "Amplifiers & Filters",
     "difficulty": "easy",
-    "question": "Electronics and circuit engineering: What electronic component resists rapid changes in electrical current through stored magnetic energy? (Ref #130)",
+    "question": "What active filter topology utilizes an op-amp with resistor-capacitor feedback networks to implement second-order filter sections?",
     "options": [
-      "Capacitor",
-      "Inductor (Choke)",
-      "Resistor",
-      "Varistor"
+      "Multiple Feedback (MFB) Topology",
+      "Sallen-Key Topology",
+      "State-Variable Topology",
+      "Twin-T Topology"
     ],
     "correctAnswer": 1,
-    "explanation": "Inductors store energy in a magnetic field according to Faraday's law, opposing sudden variations in current.",
+    "explanation": "Sallen-Key circuits are widely used to construct second-order low-pass and high-pass filters with unity or low gain.",
     "tags": [
       "electronics",
-      "digital-logic",
+      "amplifiers-filters",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "electronics-microcontrollers-0131",
+    "id": "electronics-amplifiers-filters-0131",
     "category": "Electronics",
-    "subcategory": "Microcontrollers",
+    "subcategory": "Amplifiers & Filters",
     "difficulty": "medium",
-    "question": "Electronics and circuit engineering: Which basic digital logic gate produces a HIGH (1) output if and only if ALL of its inputs are simultaneously HIGH (1)? (Ref #131)",
+    "question": "What analog filter response type is characterized by a maximally flat passband with zero gain ripple?",
     "options": [
-      "OR gate",
-      "NAND gate",
-      "AND gate",
-      "XOR gate"
+      "Chebyshev Filter",
+      "Bessel Filter",
+      "Butterworth Filter",
+      "Elliptic (Cauer) Filter"
     ],
     "correctAnswer": 2,
-    "explanation": "An AND gate requires all inputs to be true (1) to produce a true (1) output.",
+    "explanation": "Butterworth filters feature a smooth, monotonic frequency response in the passband, sacrificing steep roll-off for flatness.",
     "tags": [
       "electronics",
-      "microcontrollers",
+      "amplifiers-filters",
       "medium"
     ],
     "active": true
@@ -2755,15 +2755,15 @@
     "category": "Electronics",
     "subcategory": "Amplifiers & Filters",
     "difficulty": "hard",
-    "question": "Electronics and circuit engineering: What three functional terminals exist on a standard Bipolar Junction Transistor (BJT)? (Ref #132)",
+    "question": "What analog filter type features a steep transition roll-off at the expense of equal-amplitude ripple in the passband?",
     "options": [
-      "Gate, Drain, and Source",
-      "Anode, Cathode, and Grid",
-      "Phase, Neutral, and Ground",
-      "Base, Collector, and Emitter"
+      "Butterworth Filter",
+      "Bessel Filter",
+      "Gaussian Filter",
+      "Chebyshev Type I Filter"
     ],
     "correctAnswer": 3,
-    "explanation": "BJTs possess Base, Collector, and Emitter terminals, where a small base current controls a larger collector-emitter current.",
+    "explanation": "Chebyshev filters achieve sharper transition skirts than Butterworth filters of the same order, but introduce passband ripple.",
     "tags": [
       "electronics",
       "amplifiers-filters",
@@ -2772,64 +2772,64 @@
     "active": true
   },
   {
-    "id": "electronics-semiconductors-0133",
+    "id": "electronics-amplifiers-filters-0133",
     "category": "Electronics",
-    "subcategory": "Semiconductors",
+    "subcategory": "Amplifiers & Filters",
     "difficulty": "easy",
-    "question": "Electronics and circuit engineering: What is the ideal input impedance of an ideal operational amplifier (Op-Amp)? (Ref #133)",
+    "question": "What analog filter type optimizes linear phase response and constant group delay, preserving pulse waveforms without overshoot or ringing?",
     "options": [
-      "Infinite impedance (draws zero input current)",
-      "Zero impedance",
-      "50 Ohms",
-      "1000 Ohms"
+      "Bessel Filter",
+      "Butterworth Filter",
+      "Chebyshev Filter",
+      "Elliptic Filter"
     ],
     "correctAnswer": 0,
-    "explanation": "Ideal op-amps have infinite input impedance so that they do not load or draw current from preceding circuit stages.",
+    "explanation": "Bessel filters are ideal for audio and pulse processing because all frequency components undergo equal time delay.",
     "tags": [
       "electronics",
-      "semiconductors",
+      "amplifiers-filters",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "electronics-digital-logic-0134",
+    "id": "electronics-amplifiers-filters-0134",
     "category": "Electronics",
-    "subcategory": "Digital Logic",
+    "subcategory": "Amplifiers & Filters",
     "difficulty": "medium",
-    "question": "Electronics and circuit engineering: What is the decimal numerical value of the 4-bit binary number 1010? (Ref #134)",
+    "question": "What analog filter type achieves the steepest possible transition between passband and stopband by allowing ripple in both regions?",
     "options": [
-      "Decimal 12",
-      "Decimal 10 (8 + 2)",
-      "Decimal 6",
-      "Decimal 14"
+      "Butterworth Filter",
+      "Elliptic (Cauer) Filter",
+      "Chebyshev Filter",
+      "Bessel Filter"
     ],
     "correctAnswer": 1,
-    "explanation": "Binary 1010 = (1 × 8) + (0 × 4) + (1 × 2) + (0 × 1) = 8 + 2 = 10.",
+    "explanation": "Elliptic filters provide maximum selectivity for a given order, but exhibit severe phase distortion and ripple in both passband and stopband.",
     "tags": [
       "electronics",
-      "digital-logic",
+      "amplifiers-filters",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "electronics-microcontrollers-0135",
+    "id": "electronics-amplifiers-filters-0135",
     "category": "Electronics",
-    "subcategory": "Microcontrollers",
+    "subcategory": "Amplifiers & Filters",
     "difficulty": "hard",
-    "question": "Electronics and circuit engineering: What electronic component resists rapid changes in electrical current through stored magnetic energy? (Ref #135)",
+    "question": "What type of filter rejects a narrow band of frequencies while passing all frequencies above and below it?",
     "options": [
-      "Capacitor",
-      "Resistor",
-      "Inductor (Choke)",
-      "Varistor"
+      "Band-Pass Filter",
+      "Low-Pass Filter",
+      "Band-Stop Filter (Notch Filter)",
+      "High-Pass Filter"
     ],
     "correctAnswer": 2,
-    "explanation": "Inductors store energy in a magnetic field according to Faraday's law, opposing sudden variations in current.",
+    "explanation": "A 60 Hz (or 50 Hz) notch filter eliminates mains hum from sensitive biological ECG or EEG signals.",
     "tags": [
       "electronics",
-      "microcontrollers",
+      "amplifiers-filters",
       "hard"
     ],
     "active": true
@@ -2839,15 +2839,15 @@
     "category": "Electronics",
     "subcategory": "Amplifiers & Filters",
     "difficulty": "easy",
-    "question": "Electronics and circuit engineering: Which basic digital logic gate produces a HIGH (1) output if and only if ALL of its inputs are simultaneously HIGH (1)? (Ref #136)",
+    "question": "What circuit topology uses two parallel T-shaped RC networks to create a deep notch filter without inductors?",
     "options": [
-      "OR gate",
-      "NAND gate",
-      "XOR gate",
-      "AND gate"
+      "Sallen-Key Filter",
+      "Wien Bridge",
+      "Colpitts Circuit",
+      "Twin-T Notch Filter"
     ],
     "correctAnswer": 3,
-    "explanation": "An AND gate requires all inputs to be true (1) to produce a true (1) output.",
+    "explanation": "Twin-T networks provide high Q rejection at a single frequency fc = 1 / (2 * pi * R * C).",
     "tags": [
       "electronics",
       "amplifiers-filters",
@@ -2856,64 +2856,64 @@
     "active": true
   },
   {
-    "id": "electronics-semiconductors-0137",
+    "id": "electronics-amplifiers-filters-0137",
     "category": "Electronics",
-    "subcategory": "Semiconductors",
+    "subcategory": "Amplifiers & Filters",
     "difficulty": "medium",
-    "question": "Electronics and circuit engineering: What three functional terminals exist on a standard Bipolar Junction Transistor (BJT)? (Ref #137)",
+    "question": "What operational amplifier parameter measures the change in input offset voltage resulting from power supply voltage fluctuations?",
     "options": [
-      "Base, Collector, and Emitter",
-      "Gate, Drain, and Source",
-      "Anode, Cathode, and Grid",
-      "Phase, Neutral, and Ground"
+      "Power Supply Rejection Ratio (PSRR)",
+      "Common-Mode Rejection Ratio",
+      "Slew Rate",
+      "Gain-Bandwidth Product"
     ],
     "correctAnswer": 0,
-    "explanation": "BJTs possess Base, Collector, and Emitter terminals, where a small base current controls a larger collector-emitter current.",
+    "explanation": "High PSRR ensures that ripple and noise on DC supply rails do not leak into the amplified audio or sensor output.",
     "tags": [
       "electronics",
-      "semiconductors",
+      "amplifiers-filters",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "electronics-digital-logic-0138",
+    "id": "electronics-amplifiers-filters-0138",
     "category": "Electronics",
-    "subcategory": "Digital Logic",
+    "subcategory": "Amplifiers & Filters",
     "difficulty": "hard",
-    "question": "Electronics and circuit engineering: What is the ideal input impedance of an ideal operational amplifier (Op-Amp)? (Ref #138)",
+    "question": "What type of transistor audio amplifier operates in Class A configuration?",
     "options": [
-      "Zero impedance",
-      "Infinite impedance (draws zero input current)",
-      "50 Ohms",
-      "1000 Ohms"
+      "An amplifier where transistors conduct for 180 degrees",
+      "An amplifier where output transistors conduct current continuously through the entire 360 degrees of the input waveform cycle",
+      "An amplifier using pulse-width modulation",
+      "An amplifier that conducts for less than 90 degrees"
     ],
     "correctAnswer": 1,
-    "explanation": "Ideal op-amps have infinite input impedance so that they do not load or draw current from preceding circuit stages.",
+    "explanation": "Class A provides highest linearity and zero crossover distortion, but suffers from low thermal efficiency (maximum 25-50%).",
     "tags": [
       "electronics",
-      "digital-logic",
+      "amplifiers-filters",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "electronics-microcontrollers-0139",
+    "id": "electronics-amplifiers-filters-0139",
     "category": "Electronics",
-    "subcategory": "Microcontrollers",
+    "subcategory": "Amplifiers & Filters",
     "difficulty": "easy",
-    "question": "Electronics and circuit engineering: What is the decimal numerical value of the 4-bit binary number 1010? (Ref #139)",
+    "question": "What amplifier class conducts for exactly 180 degrees of the input cycle using complementary push-pull transistors?",
     "options": [
-      "Decimal 12",
-      "Decimal 6",
-      "Decimal 10 (8 + 2)",
-      "Decimal 14"
+      "Class A Amplifier",
+      "Class AB Amplifier",
+      "Class B Amplifier",
+      "Class D Amplifier"
     ],
     "correctAnswer": 2,
-    "explanation": "Binary 1010 = (1 × 8) + (0 × 4) + (1 × 2) + (0 × 1) = 8 + 2 = 10.",
+    "explanation": "Class B uses an NPN transistor for the positive half-cycle and a PNP for the negative half-cycle, but suffers from crossover distortion near zero volts.",
     "tags": [
       "electronics",
-      "microcontrollers",
+      "amplifiers-filters",
       "easy"
     ],
     "active": true
@@ -2923,15 +2923,15 @@
     "category": "Electronics",
     "subcategory": "Amplifiers & Filters",
     "difficulty": "medium",
-    "question": "Electronics and circuit engineering: What electronic component resists rapid changes in electrical current through stored magnetic energy? (Ref #140)",
+    "question": "What amplifier class biases push-pull transistors with a small idle quiescent current to eliminate crossover distortion?",
     "options": [
-      "Capacitor",
-      "Resistor",
-      "Varistor",
-      "Inductor (Choke)"
+      "Class A Amplifier",
+      "Class B Amplifier",
+      "Class D Amplifier",
+      "Class AB Amplifier"
     ],
     "correctAnswer": 3,
-    "explanation": "Inductors store energy in a magnetic field according to Faraday's law, opposing sudden variations in current.",
+    "explanation": "Class AB is the ubiquitous standard for high-fidelity linear audio, combining Class B efficiency with Class A distortion-free zero crossing.",
     "tags": [
       "electronics",
       "amplifiers-filters",
@@ -2940,64 +2940,64 @@
     "active": true
   },
   {
-    "id": "electronics-semiconductors-0141",
+    "id": "electronics-amplifiers-filters-0141",
     "category": "Electronics",
-    "subcategory": "Semiconductors",
+    "subcategory": "Amplifiers & Filters",
     "difficulty": "hard",
-    "question": "Electronics and circuit engineering: Which basic digital logic gate produces a HIGH (1) output if and only if ALL of its inputs are simultaneously HIGH (1)? (Ref #141)",
+    "question": "What highly efficient amplifier class operates output transistors as fully on or fully off digital switches using PWM modulation?",
     "options": [
-      "AND gate",
-      "OR gate",
-      "NAND gate",
-      "XOR gate"
+      "Class D Amplifier",
+      "Class A Amplifier",
+      "Class B Amplifier",
+      "Class C Amplifier"
     ],
     "correctAnswer": 0,
-    "explanation": "An AND gate requires all inputs to be true (1) to produce a true (1) output.",
+    "explanation": "Class D achieves greater than 90% power efficiency by switching rapidly between rail voltages, minimizing heat dissipation.",
     "tags": [
       "electronics",
-      "semiconductors",
+      "amplifiers-filters",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "electronics-digital-logic-0142",
+    "id": "electronics-amplifiers-filters-0142",
     "category": "Electronics",
-    "subcategory": "Digital Logic",
+    "subcategory": "Amplifiers & Filters",
     "difficulty": "easy",
-    "question": "Electronics and circuit engineering: What three functional terminals exist on a standard Bipolar Junction Transistor (BJT)? (Ref #142)",
+    "question": "What high-frequency amplifier class conducts for significantly less than 180 degrees into a resonant LC tank circuit, achieving high RF efficiency?",
     "options": [
-      "Gate, Drain, and Source",
-      "Base, Collector, and Emitter",
-      "Anode, Cathode, and Grid",
-      "Phase, Neutral, and Ground"
+      "Class A Amplifier",
+      "Class C Amplifier",
+      "Class B Amplifier",
+      "Class AB Amplifier"
     ],
     "correctAnswer": 1,
-    "explanation": "BJTs possess Base, Collector, and Emitter terminals, where a small base current controls a larger collector-emitter current.",
+    "explanation": "Class C amplifiers are used for constant-envelope RF transmitter power stages, relying on the tuned tank to reconstruct the sine wave.",
     "tags": [
       "electronics",
-      "digital-logic",
+      "amplifiers-filters",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "electronics-microcontrollers-0143",
+    "id": "electronics-amplifiers-filters-0143",
     "category": "Electronics",
-    "subcategory": "Microcontrollers",
+    "subcategory": "Amplifiers & Filters",
     "difficulty": "medium",
-    "question": "Electronics and circuit engineering: What is the ideal input impedance of an ideal operational amplifier (Op-Amp)? (Ref #143)",
+    "question": "What condition for sustained oscillation states that loop gain must equal 1 and total loop phase shift must be 0 or 360 degrees?",
     "options": [
-      "Zero impedance",
-      "50 Ohms",
-      "Infinite impedance (draws zero input current)",
-      "1000 Ohms"
+      "Nyquist Stability Criterion",
+      "Bode Criterion",
+      "Barkhausen Stability Criterion",
+      "Routh-Hurwitz Criterion"
     ],
     "correctAnswer": 2,
-    "explanation": "Ideal op-amps have infinite input impedance so that they do not load or draw current from preceding circuit stages.",
+    "explanation": "Barkhausen's criteria dictate the exact conditions under which an amplifier circuit will maintain steady sinusoidal oscillations.",
     "tags": [
       "electronics",
-      "microcontrollers",
+      "amplifiers-filters",
       "medium"
     ],
     "active": true
@@ -3007,15 +3007,15 @@
     "category": "Electronics",
     "subcategory": "Amplifiers & Filters",
     "difficulty": "hard",
-    "question": "Electronics and circuit engineering: What is the decimal numerical value of the 4-bit binary number 1010? (Ref #144)",
+    "question": "What audio oscillator circuit utilizes a balanced resistive-capacitive bridge network to generate low-distortion sine waves?",
     "options": [
-      "Decimal 12",
-      "Decimal 6",
-      "Decimal 14",
-      "Decimal 10 (8 + 2)"
+      "Colpitts Oscillator",
+      "Hartley Oscillator",
+      "Clapp Oscillator",
+      "Wien Bridge Oscillator"
     ],
     "correctAnswer": 3,
-    "explanation": "Binary 1010 = (1 × 8) + (0 × 4) + (1 × 2) + (0 × 1) = 8 + 2 = 10.",
+    "explanation": "The Wien bridge operates with a phase shift of zero degrees at resonant frequency fo = 1 / (2 * pi * R * C), stabilized by a tungsten bulb or JFET.",
     "tags": [
       "electronics",
       "amplifiers-filters",
@@ -3024,64 +3024,64 @@
     "active": true
   },
   {
-    "id": "electronics-semiconductors-0145",
+    "id": "electronics-amplifiers-filters-0145",
     "category": "Electronics",
-    "subcategory": "Semiconductors",
+    "subcategory": "Amplifiers & Filters",
     "difficulty": "easy",
-    "question": "Electronics and circuit engineering: What electronic component resists rapid changes in electrical current through stored magnetic energy? (Ref #145)",
+    "question": "What LC resonant oscillator circuit uses a tapped capacitive voltage divider in its resonant tank to provide feedback?",
     "options": [
-      "Inductor (Choke)",
-      "Capacitor",
-      "Resistor",
-      "Varistor"
+      "Colpitts Oscillator",
+      "Hartley Oscillator",
+      "Wien Bridge Oscillator",
+      "Pierce Oscillator"
     ],
     "correctAnswer": 0,
-    "explanation": "Inductors store energy in a magnetic field according to Faraday's law, opposing sudden variations in current.",
+    "explanation": "Colpitts oscillators use two capacitors and an inductor in the feedback tank, providing stable RF sine wave generation.",
     "tags": [
       "electronics",
-      "semiconductors",
+      "amplifiers-filters",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "electronics-digital-logic-0146",
+    "id": "electronics-amplifiers-filters-0146",
     "category": "Electronics",
-    "subcategory": "Digital Logic",
+    "subcategory": "Amplifiers & Filters",
     "difficulty": "medium",
-    "question": "Electronics and circuit engineering: Which basic digital logic gate produces a HIGH (1) output if and only if ALL of its inputs are simultaneously HIGH (1)? (Ref #146)",
+    "question": "What LC resonant oscillator circuit uses a tapped inductor (autotransformer) in its resonant tank to provide feedback?",
     "options": [
-      "OR gate",
-      "AND gate",
-      "NAND gate",
-      "XOR gate"
+      "Colpitts Oscillator",
+      "Hartley Oscillator",
+      "Pierce Oscillator",
+      "Wien Bridge Oscillator"
     ],
     "correctAnswer": 1,
-    "explanation": "An AND gate requires all inputs to be true (1) to produce a true (1) output.",
+    "explanation": "Hartley oscillators use a center-tapped inductor paired with a capacitor, widely utilized in early superheterodyne radio local oscillators.",
     "tags": [
       "electronics",
-      "digital-logic",
+      "amplifiers-filters",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "electronics-microcontrollers-0147",
+    "id": "electronics-amplifiers-filters-0147",
     "category": "Electronics",
-    "subcategory": "Microcontrollers",
+    "subcategory": "Amplifiers & Filters",
     "difficulty": "hard",
-    "question": "Electronics and circuit engineering: What three functional terminals exist on a standard Bipolar Junction Transistor (BJT)? (Ref #147)",
+    "question": "What crystal oscillator circuit, standard in microcontrollers, connects a quartz crystal across an inverting gate with two load capacitors?",
     "options": [
-      "Gate, Drain, and Source",
-      "Anode, Cathode, and Grid",
-      "Base, Collector, and Emitter",
-      "Phase, Neutral, and Ground"
+      "Colpitts Oscillator",
+      "Hartley Oscillator",
+      "Pierce Oscillator",
+      "Armstrong Oscillator"
     ],
     "correctAnswer": 2,
-    "explanation": "BJTs possess Base, Collector, and Emitter terminals, where a small base current controls a larger collector-emitter current.",
+    "explanation": "Pierce oscillators provide high frequency stability, low cost, and minimal component count for digital clock generation.",
     "tags": [
       "electronics",
-      "microcontrollers",
+      "amplifiers-filters",
       "hard"
     ],
     "active": true
@@ -3091,15 +3091,15 @@
     "category": "Electronics",
     "subcategory": "Amplifiers & Filters",
     "difficulty": "easy",
-    "question": "Electronics and circuit engineering: What is the ideal input impedance of an ideal operational amplifier (Op-Amp)? (Ref #148)",
+    "question": "What circuit topology uses two matched transistors sharing a common emitter current source to amplify only the voltage difference between inputs?",
     "options": [
-      "Zero impedance",
-      "50 Ohms",
-      "1000 Ohms",
-      "Infinite impedance (draws zero input current)"
+      "Darlington Pair",
+      "Cascode Amplifier",
+      "Push-Pull Stage",
+      "Differential Pair (Long-Tailed Pair)"
     ],
     "correctAnswer": 3,
-    "explanation": "Ideal op-amps have infinite input impedance so that they do not load or draw current from preceding circuit stages.",
+    "explanation": "The differential pair forms the input stage of virtually all operational amplifiers, rejecting common-mode noise while amplifying differential signals.",
     "tags": [
       "electronics",
       "amplifiers-filters",
@@ -3108,43 +3108,43 @@
     "active": true
   },
   {
-    "id": "electronics-semiconductors-0149",
+    "id": "electronics-amplifiers-filters-0149",
     "category": "Electronics",
-    "subcategory": "Semiconductors",
+    "subcategory": "Amplifiers & Filters",
     "difficulty": "medium",
-    "question": "Electronics and circuit engineering: What is the decimal numerical value of the 4-bit binary number 1010? (Ref #149)",
+    "question": "What two-transistor configuration connects the collector of a common-emitter stage to the emitter of a common-base stage to eliminate Miller effect?",
     "options": [
-      "Decimal 10 (8 + 2)",
-      "Decimal 12",
-      "Decimal 6",
-      "Decimal 14"
+      "Cascode Configuration",
+      "Darlington Pair",
+      "Sziklai Pair",
+      "Push-Pull Stage"
     ],
     "correctAnswer": 0,
-    "explanation": "Binary 1010 = (1 × 8) + (0 × 4) + (1 × 2) + (0 × 1) = 8 + 2 = 10.",
+    "explanation": "Cascode amplifiers provide very high output impedance, wide bandwidth, and high reverse isolation by suppressing Miller capacitance.",
     "tags": [
       "electronics",
-      "semiconductors",
+      "amplifiers-filters",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "electronics-digital-logic-0150",
+    "id": "electronics-amplifiers-filters-0150",
     "category": "Electronics",
-    "subcategory": "Digital Logic",
+    "subcategory": "Amplifiers & Filters",
     "difficulty": "hard",
-    "question": "Electronics and circuit engineering: What electronic component resists rapid changes in electrical current through stored magnetic energy? (Ref #150)",
+    "question": "What two-transistor composite configuration connects two BJTs such that the emitter of the first drives the base of the second, multiplying current gain?",
     "options": [
-      "Capacitor",
-      "Inductor (Choke)",
-      "Resistor",
-      "Varistor"
+      "Cascode Pair",
+      "Darlington Pair",
+      "Differential Pair",
+      "Totem Pole"
     ],
     "correctAnswer": 1,
-    "explanation": "Inductors store energy in a magnetic field according to Faraday's law, opposing sudden variations in current.",
+    "explanation": "A Darlington pair achieves composite current gain Beta_total = Beta1 * Beta2, delivering high input impedance and huge current gain.",
     "tags": [
       "electronics",
-      "digital-logic",
+      "amplifiers-filters",
       "hard"
     ],
     "active": true

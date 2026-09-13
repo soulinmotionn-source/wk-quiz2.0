@@ -4,15 +4,15 @@
     "category": "English & Grammar",
     "subcategory": "Parts of Speech",
     "difficulty": "easy",
-    "question": "English grammar and usage: In English grammar, what part of speech describes, quantifies, or modifies a noun or pronoun? (Ref #1)",
+    "question": "In the sentence 'She quickly finished her assignment', what part of speech is 'quickly'?",
     "options": [
-      "Adjective",
       "Adverb",
-      "Preposition",
+      "Adjective",
+      "Verb",
       "Conjunction"
     ],
     "correctAnswer": 0,
-    "explanation": "Adjectives modify or describe nouns and pronouns (e.g., 'gentle breeze', 'five stars').",
+    "explanation": "'Quickly' modifies the verb 'finished', describing how the action was performed.",
     "tags": [
       "english-grammar",
       "parts-of-speech",
@@ -21,64 +21,64 @@
     "active": true
   },
   {
-    "id": "english-grammar-punctuation-syntax-0002",
+    "id": "english-grammar-parts-of-speech-0002",
     "category": "English & Grammar",
-    "subcategory": "Punctuation & Syntax",
+    "subcategory": "Parts of Speech",
     "difficulty": "medium",
-    "question": "English grammar and usage: What punctuation mark is used to link two closely related independent clauses without a coordinating conjunction? (Ref #2)",
+    "question": "In the sentence 'The brilliant student solved the puzzle', what part of speech is 'brilliant'?",
     "options": [
-      "Comma (,)",
-      "Semicolon (;)",
-      "Hyphen (-)",
-      "Slash (/)"
+      "Noun",
+      "Adjective",
+      "Adverb",
+      "Pronoun"
     ],
     "correctAnswer": 1,
-    "explanation": "A semicolon joins two independent clauses that are closely connected in thought when no conjunction is used.",
+    "explanation": "'Brilliant' modifies and describes the noun 'student'.",
     "tags": [
       "english-grammar",
-      "punctuation-syntax",
+      "parts-of-speech",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "english-grammar-vocabulary-etymology-0003",
+    "id": "english-grammar-parts-of-speech-0003",
     "category": "English & Grammar",
-    "subcategory": "Vocabulary & Etymology",
+    "subcategory": "Parts of Speech",
     "difficulty": "hard",
-    "question": "English grammar and usage: Which word represents the possessive form in the English homophone trio: they're / there / their? (Ref #3)",
+    "question": "What part of speech connects words, phrases, or clauses (such as 'and', 'but', or 'or')?",
     "options": [
-      "They're (contraction of they are)",
-      "There (indicating place or direction)",
-      "Their (e.g., 'their books')",
-      "Theyre (without apostrophe)"
+      "Preposition",
+      "Interjection",
+      "Conjunction",
+      "Adverb"
     ],
     "correctAnswer": 2,
-    "explanation": "'Their' is the possessive pronoun; 'they're' is a contraction of 'they are'; and 'there' refers to location.",
+    "explanation": "Coordinating conjunctions join grammatically equal syntactic elements.",
     "tags": [
       "english-grammar",
-      "vocabulary-etymology",
+      "parts-of-speech",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "english-grammar-common-errors-0004",
+    "id": "english-grammar-parts-of-speech-0004",
     "category": "English & Grammar",
-    "subcategory": "Common Errors",
+    "subcategory": "Parts of Speech",
     "difficulty": "easy",
-    "question": "English grammar and usage: Identify the sentence structured in active voice rather than passive voice. (Ref #4)",
+    "question": "In the sentence 'They arrived at the station before noon', what part of speech is 'at'?",
     "options": [
-      "The medication was administered by the nurse.",
-      "The report was prepared by the technician.",
-      "The test was completed yesterday.",
-      "The nurse administered the medication promptly."
+      "Conjunction",
+      "Adverb",
+      "Pronoun",
+      "Preposition"
     ],
     "correctAnswer": 3,
-    "explanation": "In active voice, the subject performs the action directly: 'The nurse (subject) administered (verb) the medication (object)'.",
+    "explanation": "'At' is a preposition expressing spatial or temporal relationship.",
     "tags": [
       "english-grammar",
-      "common-errors",
+      "parts-of-speech",
       "easy"
     ],
     "active": true
@@ -88,15 +88,15 @@
     "category": "English & Grammar",
     "subcategory": "Parts of Speech",
     "difficulty": "medium",
-    "question": "English grammar and usage: Which grammatical error occurs when two independent clauses are joined with only a comma without a conjunction? (Ref #5)",
+    "question": "Which word in the sentence 'Ouch! That hot pan burned my finger' is an interjection?",
     "options": [
-      "Comma splice",
-      "Dangling modifier",
-      "Fragment",
-      "Split infinitive"
+      "Ouch",
+      "That",
+      "Hot",
+      "Burned"
     ],
     "correctAnswer": 0,
-    "explanation": "A comma splice is the incorrect joining of two complete independent clauses with a comma alone.",
+    "explanation": "'Ouch' is an exclamatory interjection expressing sudden physical sensation.",
     "tags": [
       "english-grammar",
       "parts-of-speech",
@@ -105,64 +105,64 @@
     "active": true
   },
   {
-    "id": "english-grammar-punctuation-syntax-0006",
+    "id": "english-grammar-parts-of-speech-0006",
     "category": "English & Grammar",
-    "subcategory": "Punctuation & Syntax",
+    "subcategory": "Parts of Speech",
     "difficulty": "hard",
-    "question": "English grammar and usage: In English grammar, what part of speech describes, quantifies, or modifies a noun or pronoun? (Ref #6)",
+    "question": "In the sentence 'Knowledge is power', what part of speech is 'knowledge'?",
     "options": [
-      "Adverb",
+      "Verb",
+      "Noun (abstract noun)",
       "Adjective",
-      "Preposition",
-      "Conjunction"
+      "Pronoun"
     ],
     "correctAnswer": 1,
-    "explanation": "Adjectives modify or describe nouns and pronouns (e.g., 'gentle breeze', 'five stars').",
+    "explanation": "'Knowledge' names an abstract concept, functioning as the subject noun.",
     "tags": [
       "english-grammar",
-      "punctuation-syntax",
+      "parts-of-speech",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "english-grammar-vocabulary-etymology-0007",
+    "id": "english-grammar-parts-of-speech-0007",
     "category": "English & Grammar",
-    "subcategory": "Vocabulary & Etymology",
+    "subcategory": "Parts of Speech",
     "difficulty": "easy",
-    "question": "English grammar and usage: What punctuation mark is used to link two closely related independent clauses without a coordinating conjunction? (Ref #7)",
+    "question": "What type of pronoun replaces a specific person or thing (such as 'he', 'she', or 'it')?",
     "options": [
-      "Comma (,)",
-      "Hyphen (-)",
-      "Semicolon (;)",
-      "Slash (/)"
+      "Demonstrative pronoun",
+      "Relative pronoun",
+      "Personal pronoun",
+      "Indefinite pronoun"
     ],
     "correctAnswer": 2,
-    "explanation": "A semicolon joins two independent clauses that are closely connected in thought when no conjunction is used.",
+    "explanation": "Personal pronouns substitute for specific grammatical persons.",
     "tags": [
       "english-grammar",
-      "vocabulary-etymology",
+      "parts-of-speech",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "english-grammar-common-errors-0008",
+    "id": "english-grammar-parts-of-speech-0008",
     "category": "English & Grammar",
-    "subcategory": "Common Errors",
+    "subcategory": "Parts of Speech",
     "difficulty": "medium",
-    "question": "English grammar and usage: Which word represents the possessive form in the English homophone trio: they're / there / their? (Ref #8)",
+    "question": "In the sentence 'She took herself to the doctor', what type of pronoun is 'herself'?",
     "options": [
-      "They're (contraction of they are)",
-      "There (indicating place or direction)",
-      "Theyre (without apostrophe)",
-      "Their (e.g., 'their books')"
+      "Relative pronoun",
+      "Demonstrative pronoun",
+      "Interrogative pronoun",
+      "Reflexive pronoun"
     ],
     "correctAnswer": 3,
-    "explanation": "'Their' is the possessive pronoun; 'they're' is a contraction of 'they are'; and 'there' refers to location.",
+    "explanation": "'Herself' refers back to the subject 'she' as the direct object.",
     "tags": [
       "english-grammar",
-      "common-errors",
+      "parts-of-speech",
       "medium"
     ],
     "active": true
@@ -172,15 +172,15 @@
     "category": "English & Grammar",
     "subcategory": "Parts of Speech",
     "difficulty": "hard",
-    "question": "English grammar and usage: Identify the sentence structured in active voice rather than passive voice. (Ref #9)",
+    "question": "Which word is an intransitive verb in the sentence 'The tired baby slept peacefully'?",
     "options": [
-      "The nurse administered the medication promptly.",
-      "The medication was administered by the nurse.",
-      "The report was prepared by the technician.",
-      "The test was completed yesterday."
+      "Slept",
+      "Tired",
+      "Baby",
+      "Peacefully"
     ],
     "correctAnswer": 0,
-    "explanation": "In active voice, the subject performs the action directly: 'The nurse (subject) administered (verb) the medication (object)'.",
+    "explanation": "'Slept' expresses an action that does not take a direct object.",
     "tags": [
       "english-grammar",
       "parts-of-speech",
@@ -189,64 +189,64 @@
     "active": true
   },
   {
-    "id": "english-grammar-punctuation-syntax-0010",
+    "id": "english-grammar-parts-of-speech-0010",
     "category": "English & Grammar",
-    "subcategory": "Punctuation & Syntax",
+    "subcategory": "Parts of Speech",
     "difficulty": "easy",
-    "question": "English grammar and usage: Which grammatical error occurs when two independent clauses are joined with only a comma without a conjunction? (Ref #10)",
+    "question": "In the sentence 'Running is excellent cardiovascular exercise', what grammatical role does 'Running' serve?",
     "options": [
-      "Dangling modifier",
-      "Comma splice",
-      "Fragment",
-      "Split infinitive"
+      "Present participle verb",
+      "Gerund (noun)",
+      "Adjective",
+      "Infinitive"
     ],
     "correctAnswer": 1,
-    "explanation": "A comma splice is the incorrect joining of two complete independent clauses with a comma alone.",
+    "explanation": "A gerund is a verb ending in -ing functioning as a noun subject.",
     "tags": [
       "english-grammar",
-      "punctuation-syntax",
+      "parts-of-speech",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "english-grammar-vocabulary-etymology-0011",
+    "id": "english-grammar-parts-of-speech-0011",
     "category": "English & Grammar",
-    "subcategory": "Vocabulary & Etymology",
+    "subcategory": "Parts of Speech",
     "difficulty": "medium",
-    "question": "English grammar and usage: In English grammar, what part of speech describes, quantifies, or modifies a noun or pronoun? (Ref #11)",
+    "question": "In the sentence 'I want to travel around the world', what is 'to travel'?",
     "options": [
-      "Adverb",
-      "Preposition",
-      "Adjective",
-      "Conjunction"
+      "Gerund",
+      "Participle",
+      "Infinitive verb phrase",
+      "Prepositional phrase"
     ],
     "correctAnswer": 2,
-    "explanation": "Adjectives modify or describe nouns and pronouns (e.g., 'gentle breeze', 'five stars').",
+    "explanation": "'To travel' is the base form of the verb preceded by 'to', acting as an infinitive.",
     "tags": [
       "english-grammar",
-      "vocabulary-etymology",
+      "parts-of-speech",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "english-grammar-common-errors-0012",
+    "id": "english-grammar-parts-of-speech-0012",
     "category": "English & Grammar",
-    "subcategory": "Common Errors",
+    "subcategory": "Parts of Speech",
     "difficulty": "hard",
-    "question": "English grammar and usage: What punctuation mark is used to link two closely related independent clauses without a coordinating conjunction? (Ref #12)",
+    "question": "In the sentence 'This book belongs to me', what part of speech is 'This'?",
     "options": [
-      "Comma (,)",
-      "Hyphen (-)",
-      "Slash (/)",
-      "Semicolon (;)"
+      "Demonstrative pronoun",
+      "Adverb",
+      "Noun",
+      "Demonstrative adjective (determiner)"
     ],
     "correctAnswer": 3,
-    "explanation": "A semicolon joins two independent clauses that are closely connected in thought when no conjunction is used.",
+    "explanation": "'This' modifies the noun 'book' directly, functioning as a demonstrative determiner.",
     "tags": [
       "english-grammar",
-      "common-errors",
+      "parts-of-speech",
       "hard"
     ],
     "active": true
@@ -256,15 +256,15 @@
     "category": "English & Grammar",
     "subcategory": "Parts of Speech",
     "difficulty": "easy",
-    "question": "English grammar and usage: Which word represents the possessive form in the English homophone trio: they're / there / their? (Ref #13)",
+    "question": "In the phrase 'an extraordinarily talented musician', what part of speech is 'extraordinarily'?",
     "options": [
-      "Their (e.g., 'their books')",
-      "They're (contraction of they are)",
-      "There (indicating place or direction)",
-      "Theyre (without apostrophe)"
+      "Adverb",
+      "Adjective",
+      "Noun",
+      "Conjunction"
     ],
     "correctAnswer": 0,
-    "explanation": "'Their' is the possessive pronoun; 'they're' is a contraction of 'they are'; and 'there' refers to location.",
+    "explanation": "'Extraordinarily' modifies the adjective 'talented', making it an adverb.",
     "tags": [
       "english-grammar",
       "parts-of-speech",
@@ -273,64 +273,64 @@
     "active": true
   },
   {
-    "id": "english-grammar-punctuation-syntax-0014",
+    "id": "english-grammar-parts-of-speech-0014",
     "category": "English & Grammar",
-    "subcategory": "Punctuation & Syntax",
+    "subcategory": "Parts of Speech",
     "difficulty": "medium",
-    "question": "English grammar and usage: Identify the sentence structured in active voice rather than passive voice. (Ref #14)",
+    "question": "Which word is a collective noun?",
     "options": [
-      "The medication was administered by the nurse.",
-      "The nurse administered the medication promptly.",
-      "The report was prepared by the technician.",
-      "The test was completed yesterday."
+      "Bird",
+      "Flock",
+      "Flying",
+      "Feathered"
     ],
     "correctAnswer": 1,
-    "explanation": "In active voice, the subject performs the action directly: 'The nurse (subject) administered (verb) the medication (object)'.",
+    "explanation": "'Flock' refers to a group or collection of individual animals as a single unit.",
     "tags": [
       "english-grammar",
-      "punctuation-syntax",
+      "parts-of-speech",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "english-grammar-vocabulary-etymology-0015",
+    "id": "english-grammar-parts-of-speech-0015",
     "category": "English & Grammar",
-    "subcategory": "Vocabulary & Etymology",
+    "subcategory": "Parts of Speech",
     "difficulty": "hard",
-    "question": "English grammar and usage: Which grammatical error occurs when two independent clauses are joined with only a comma without a conjunction? (Ref #15)",
+    "question": "What type of verb is 'seem' in the sentence 'The clouds seem heavy today'?",
     "options": [
-      "Dangling modifier",
-      "Fragment",
-      "Comma splice",
-      "Split infinitive"
+      "Action verb",
+      "Auxiliary verb",
+      "Linking verb (copula)",
+      "Modal verb"
     ],
     "correctAnswer": 2,
-    "explanation": "A comma splice is the incorrect joining of two complete independent clauses with a comma alone.",
+    "explanation": "Linking verbs connect the subject to a subject complement without expressing action.",
     "tags": [
       "english-grammar",
-      "vocabulary-etymology",
+      "parts-of-speech",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "english-grammar-common-errors-0016",
+    "id": "english-grammar-parts-of-speech-0016",
     "category": "English & Grammar",
-    "subcategory": "Common Errors",
+    "subcategory": "Parts of Speech",
     "difficulty": "easy",
-    "question": "English grammar and usage: In English grammar, what part of speech describes, quantifies, or modifies a noun or pronoun? (Ref #16)",
+    "question": "In the sentence 'Neither the teacher nor the students were ready', what kind of conjunction is 'neither...nor'?",
     "options": [
-      "Adverb",
-      "Preposition",
-      "Conjunction",
-      "Adjective"
+      "Coordinating conjunction",
+      "Subordinating conjunction",
+      "Adverbial conjunction",
+      "Correlative conjunction"
     ],
     "correctAnswer": 3,
-    "explanation": "Adjectives modify or describe nouns and pronouns (e.g., 'gentle breeze', 'five stars').",
+    "explanation": "Correlative conjunctions work in tandem pairs to join sentence elements.",
     "tags": [
       "english-grammar",
-      "common-errors",
+      "parts-of-speech",
       "easy"
     ],
     "active": true
@@ -340,15 +340,15 @@
     "category": "English & Grammar",
     "subcategory": "Parts of Speech",
     "difficulty": "medium",
-    "question": "English grammar and usage: What punctuation mark is used to link two closely related independent clauses without a coordinating conjunction? (Ref #17)",
+    "question": "In the sentence 'Although it rained, we enjoyed the picnic', what part of speech is 'Although'?",
     "options": [
-      "Semicolon (;)",
-      "Comma (,)",
-      "Hyphen (-)",
-      "Slash (/)"
+      "Subordinating conjunction",
+      "Preposition",
+      "Coordinating conjunction",
+      "Relative pronoun"
     ],
     "correctAnswer": 0,
-    "explanation": "A semicolon joins two independent clauses that are closely connected in thought when no conjunction is used.",
+    "explanation": "'Although' introduces a dependent adverbial clause of concession.",
     "tags": [
       "english-grammar",
       "parts-of-speech",
@@ -357,64 +357,64 @@
     "active": true
   },
   {
-    "id": "english-grammar-punctuation-syntax-0018",
+    "id": "english-grammar-parts-of-speech-0018",
     "category": "English & Grammar",
-    "subcategory": "Punctuation & Syntax",
+    "subcategory": "Parts of Speech",
     "difficulty": "hard",
-    "question": "English grammar and usage: Which word represents the possessive form in the English homophone trio: they're / there / their? (Ref #18)",
+    "question": "What part of speech is 'under' in the phrase 'sleeping under the stars'?",
     "options": [
-      "They're (contraction of they are)",
-      "Their (e.g., 'their books')",
-      "There (indicating place or direction)",
-      "Theyre (without apostrophe)"
+      "Adverb",
+      "Preposition",
+      "Conjunction",
+      "Adjective"
     ],
     "correctAnswer": 1,
-    "explanation": "'Their' is the possessive pronoun; 'they're' is a contraction of 'they are'; and 'there' refers to location.",
+    "explanation": "'Under' relates 'sleeping' to the noun object 'the stars'.",
     "tags": [
       "english-grammar",
-      "punctuation-syntax",
+      "parts-of-speech",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "english-grammar-vocabulary-etymology-0019",
+    "id": "english-grammar-parts-of-speech-0019",
     "category": "English & Grammar",
-    "subcategory": "Vocabulary & Etymology",
+    "subcategory": "Parts of Speech",
     "difficulty": "easy",
-    "question": "English grammar and usage: Identify the sentence structured in active voice rather than passive voice. (Ref #19)",
+    "question": "In the sentence 'She gave him a warm smile', what grammatical function does 'him' serve?",
     "options": [
-      "The medication was administered by the nurse.",
-      "The report was prepared by the technician.",
-      "The nurse administered the medication promptly.",
-      "The test was completed yesterday."
+      "Direct object",
+      "Subject",
+      "Indirect object",
+      "Predicate noun"
     ],
     "correctAnswer": 2,
-    "explanation": "In active voice, the subject performs the action directly: 'The nurse (subject) administered (verb) the medication (object)'.",
+    "explanation": "'Him' receives the direct object ('a warm smile').",
     "tags": [
       "english-grammar",
-      "vocabulary-etymology",
+      "parts-of-speech",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "english-grammar-common-errors-0020",
+    "id": "english-grammar-parts-of-speech-0020",
     "category": "English & Grammar",
-    "subcategory": "Common Errors",
+    "subcategory": "Parts of Speech",
     "difficulty": "medium",
-    "question": "English grammar and usage: Which grammatical error occurs when two independent clauses are joined with only a comma without a conjunction? (Ref #20)",
+    "question": "In the sentence 'The chef baked fresh bread', what grammatical function does 'fresh bread' serve?",
     "options": [
-      "Dangling modifier",
-      "Fragment",
-      "Split infinitive",
-      "Comma splice"
+      "Subject",
+      "Indirect object",
+      "Subject complement",
+      "Direct object"
     ],
     "correctAnswer": 3,
-    "explanation": "A comma splice is the incorrect joining of two complete independent clauses with a comma alone.",
+    "explanation": "'Fresh bread' directly receives the action of the transitive verb 'baked'.",
     "tags": [
       "english-grammar",
-      "common-errors",
+      "parts-of-speech",
       "medium"
     ],
     "active": true
@@ -424,15 +424,15 @@
     "category": "English & Grammar",
     "subcategory": "Parts of Speech",
     "difficulty": "hard",
-    "question": "English grammar and usage: In English grammar, what part of speech describes, quantifies, or modifies a noun or pronoun? (Ref #21)",
+    "question": "Which word in the sentence 'He speaks Spanish very fluently' is an adverb modifying another adverb?",
     "options": [
-      "Adjective",
-      "Adverb",
-      "Preposition",
-      "Conjunction"
+      "Very",
+      "Spanish",
+      "Speaks",
+      "Fluently"
     ],
     "correctAnswer": 0,
-    "explanation": "Adjectives modify or describe nouns and pronouns (e.g., 'gentle breeze', 'five stars').",
+    "explanation": "'Very' is an intensifier adverb modifying the adverb 'fluently'.",
     "tags": [
       "english-grammar",
       "parts-of-speech",
@@ -441,64 +441,64 @@
     "active": true
   },
   {
-    "id": "english-grammar-punctuation-syntax-0022",
+    "id": "english-grammar-parts-of-speech-0022",
     "category": "English & Grammar",
-    "subcategory": "Punctuation & Syntax",
+    "subcategory": "Parts of Speech",
     "difficulty": "easy",
-    "question": "English grammar and usage: What punctuation mark is used to link two closely related independent clauses without a coordinating conjunction? (Ref #22)",
+    "question": "What type of noun is 'committee'?",
     "options": [
-      "Comma (,)",
-      "Semicolon (;)",
-      "Hyphen (-)",
-      "Slash (/)"
+      "Proper noun",
+      "Collective noun",
+      "Abstract noun",
+      "Mass noun"
     ],
     "correctAnswer": 1,
-    "explanation": "A semicolon joins two independent clauses that are closely connected in thought when no conjunction is used.",
+    "explanation": "'Committee' denotes a group of people functioning as a singular body.",
     "tags": [
       "english-grammar",
-      "punctuation-syntax",
+      "parts-of-speech",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "english-grammar-vocabulary-etymology-0023",
+    "id": "english-grammar-parts-of-speech-0023",
     "category": "English & Grammar",
-    "subcategory": "Vocabulary & Etymology",
+    "subcategory": "Parts of Speech",
     "difficulty": "medium",
-    "question": "English grammar and usage: Which word represents the possessive form in the English homophone trio: they're / there / their? (Ref #23)",
+    "question": "In the sentence 'Paris is the capital of France', what type of nouns are 'Paris' and 'France'?",
     "options": [
-      "They're (contraction of they are)",
-      "There (indicating place or direction)",
-      "Their (e.g., 'their books')",
-      "Theyre (without apostrophe)"
+      "Common nouns",
+      "Abstract nouns",
+      "Proper nouns",
+      "Collective nouns"
     ],
     "correctAnswer": 2,
-    "explanation": "'Their' is the possessive pronoun; 'they're' is a contraction of 'they are'; and 'there' refers to location.",
+    "explanation": "Names of specific unique entities are proper nouns and are capitalized.",
     "tags": [
       "english-grammar",
-      "vocabulary-etymology",
+      "parts-of-speech",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "english-grammar-common-errors-0024",
+    "id": "english-grammar-parts-of-speech-0024",
     "category": "English & Grammar",
-    "subcategory": "Common Errors",
+    "subcategory": "Parts of Speech",
     "difficulty": "hard",
-    "question": "English grammar and usage: Identify the sentence structured in active voice rather than passive voice. (Ref #24)",
+    "question": "What is the comparative form of the adjective 'good'?",
     "options": [
-      "The medication was administered by the nurse.",
-      "The report was prepared by the technician.",
-      "The test was completed yesterday.",
-      "The nurse administered the medication promptly."
+      "Gooder",
+      "Best",
+      "More good",
+      "Better"
     ],
     "correctAnswer": 3,
-    "explanation": "In active voice, the subject performs the action directly: 'The nurse (subject) administered (verb) the medication (object)'.",
+    "explanation": "'Good' is an irregular adjective; its comparative form is 'better' and superlative is 'best'.",
     "tags": [
       "english-grammar",
-      "common-errors",
+      "parts-of-speech",
       "hard"
     ],
     "active": true
@@ -508,15 +508,15 @@
     "category": "English & Grammar",
     "subcategory": "Parts of Speech",
     "difficulty": "easy",
-    "question": "English grammar and usage: Which grammatical error occurs when two independent clauses are joined with only a comma without a conjunction? (Ref #25)",
+    "question": "What is the superlative form of the adjective 'bad'?",
     "options": [
-      "Comma splice",
-      "Dangling modifier",
-      "Fragment",
-      "Split infinitive"
+      "Worst",
+      "Worse",
+      "Baddest",
+      "Most bad"
     ],
     "correctAnswer": 0,
-    "explanation": "A comma splice is the incorrect joining of two complete independent clauses with a comma alone.",
+    "explanation": "'Bad' is irregular; comparative is 'worse' and superlative is 'worst'.",
     "tags": [
       "english-grammar",
       "parts-of-speech",
@@ -525,64 +525,64 @@
     "active": true
   },
   {
-    "id": "english-grammar-punctuation-syntax-0026",
+    "id": "english-grammar-parts-of-speech-0026",
     "category": "English & Grammar",
-    "subcategory": "Punctuation & Syntax",
+    "subcategory": "Parts of Speech",
     "difficulty": "medium",
-    "question": "English grammar and usage: In English grammar, what part of speech describes, quantifies, or modifies a noun or pronoun? (Ref #26)",
+    "question": "In the sentence 'The dog wagged its tail', what part of speech is 'its'?",
     "options": [
-      "Adverb",
-      "Adjective",
-      "Preposition",
-      "Conjunction"
+      "Contraction of it is",
+      "Possessive determiner/adjective",
+      "Personal pronoun",
+      "Adverb"
     ],
     "correctAnswer": 1,
-    "explanation": "Adjectives modify or describe nouns and pronouns (e.g., 'gentle breeze', 'five stars').",
+    "explanation": "'Its' indicates possession without an apostrophe, modifying 'tail'.",
     "tags": [
       "english-grammar",
-      "punctuation-syntax",
+      "parts-of-speech",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "english-grammar-vocabulary-etymology-0027",
+    "id": "english-grammar-parts-of-speech-0027",
     "category": "English & Grammar",
-    "subcategory": "Vocabulary & Etymology",
+    "subcategory": "Parts of Speech",
     "difficulty": "hard",
-    "question": "English grammar and usage: What punctuation mark is used to link two closely related independent clauses without a coordinating conjunction? (Ref #27)",
+    "question": "Which of the following is a modal auxiliary verb?",
     "options": [
-      "Comma (,)",
-      "Hyphen (-)",
-      "Semicolon (;)",
-      "Slash (/)"
+      "Running",
+      "Brightly",
+      "Should",
+      "Underneath"
     ],
     "correctAnswer": 2,
-    "explanation": "A semicolon joins two independent clauses that are closely connected in thought when no conjunction is used.",
+    "explanation": "Modal verbs (can, could, may, might, must, shall, should, will, would) express modality.",
     "tags": [
       "english-grammar",
-      "vocabulary-etymology",
+      "parts-of-speech",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "english-grammar-common-errors-0028",
+    "id": "english-grammar-parts-of-speech-0028",
     "category": "English & Grammar",
-    "subcategory": "Common Errors",
+    "subcategory": "Parts of Speech",
     "difficulty": "easy",
-    "question": "English grammar and usage: Which word represents the possessive form in the English homophone trio: they're / there / their? (Ref #28)",
+    "question": "What is the past participle of the irregular verb 'swim'?",
     "options": [
-      "They're (contraction of they are)",
-      "There (indicating place or direction)",
-      "Theyre (without apostrophe)",
-      "Their (e.g., 'their books')"
+      "Swam",
+      "Swimmed",
+      "Swimming",
+      "Swum"
     ],
     "correctAnswer": 3,
-    "explanation": "'Their' is the possessive pronoun; 'they're' is a contraction of 'they are'; and 'there' refers to location.",
+    "explanation": "Conjugation: present swim, simple past swam, past participle swum.",
     "tags": [
       "english-grammar",
-      "common-errors",
+      "parts-of-speech",
       "easy"
     ],
     "active": true
@@ -592,15 +592,15 @@
     "category": "English & Grammar",
     "subcategory": "Parts of Speech",
     "difficulty": "medium",
-    "question": "English grammar and usage: Identify the sentence structured in active voice rather than passive voice. (Ref #29)",
+    "question": "What is the past participle of the irregular verb 'freeze'?",
     "options": [
-      "The nurse administered the medication promptly.",
-      "The medication was administered by the nurse.",
-      "The report was prepared by the technician.",
-      "The test was completed yesterday."
+      "Frozen",
+      "Froze",
+      "Freezed",
+      "Freezing"
     ],
     "correctAnswer": 0,
-    "explanation": "In active voice, the subject performs the action directly: 'The nurse (subject) administered (verb) the medication (object)'.",
+    "explanation": "Conjugation: freeze, froze, frozen.",
     "tags": [
       "english-grammar",
       "parts-of-speech",
@@ -609,64 +609,64 @@
     "active": true
   },
   {
-    "id": "english-grammar-punctuation-syntax-0030",
+    "id": "english-grammar-parts-of-speech-0030",
     "category": "English & Grammar",
-    "subcategory": "Punctuation & Syntax",
+    "subcategory": "Parts of Speech",
     "difficulty": "hard",
-    "question": "English grammar and usage: Which grammatical error occurs when two independent clauses are joined with only a comma without a conjunction? (Ref #30)",
+    "question": "What is the past participle of the irregular verb 'write'?",
     "options": [
-      "Dangling modifier",
-      "Comma splice",
-      "Fragment",
-      "Split infinitive"
+      "Wrote",
+      "Written",
+      "Writed",
+      "Writing"
     ],
     "correctAnswer": 1,
-    "explanation": "A comma splice is the incorrect joining of two complete independent clauses with a comma alone.",
+    "explanation": "Conjugation: write, wrote, written.",
     "tags": [
       "english-grammar",
-      "punctuation-syntax",
+      "parts-of-speech",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "english-grammar-vocabulary-etymology-0031",
+    "id": "english-grammar-parts-of-speech-0031",
     "category": "English & Grammar",
-    "subcategory": "Vocabulary & Etymology",
+    "subcategory": "Parts of Speech",
     "difficulty": "easy",
-    "question": "English grammar and usage: In English grammar, what part of speech describes, quantifies, or modifies a noun or pronoun? (Ref #31)",
+    "question": "In the sentence 'The broken vase could not be repaired', what is 'broken'?",
     "options": [
-      "Adverb",
-      "Preposition",
-      "Adjective",
-      "Conjunction"
+      "Gerund",
+      "Infinitive",
+      "Past participle functioning as an adjective",
+      "Adverb"
     ],
     "correctAnswer": 2,
-    "explanation": "Adjectives modify or describe nouns and pronouns (e.g., 'gentle breeze', 'five stars').",
+    "explanation": "'Broken' is a participial adjective modifying the noun 'vase'.",
     "tags": [
       "english-grammar",
-      "vocabulary-etymology",
+      "parts-of-speech",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "english-grammar-common-errors-0032",
+    "id": "english-grammar-parts-of-speech-0032",
     "category": "English & Grammar",
-    "subcategory": "Common Errors",
+    "subcategory": "Parts of Speech",
     "difficulty": "medium",
-    "question": "English grammar and usage: What punctuation mark is used to link two closely related independent clauses without a coordinating conjunction? (Ref #32)",
+    "question": "Which word is an indefinite pronoun in 'Someone left their umbrella in the hallway'?",
     "options": [
-      "Comma (,)",
-      "Hyphen (-)",
-      "Slash (/)",
-      "Semicolon (;)"
+      "Left",
+      "Their",
+      "Umbrella",
+      "Someone"
     ],
     "correctAnswer": 3,
-    "explanation": "A semicolon joins two independent clauses that are closely connected in thought when no conjunction is used.",
+    "explanation": "'Someone' refers to an unspecified person, functioning as an indefinite pronoun.",
     "tags": [
       "english-grammar",
-      "common-errors",
+      "parts-of-speech",
       "medium"
     ],
     "active": true
@@ -676,15 +676,15 @@
     "category": "English & Grammar",
     "subcategory": "Parts of Speech",
     "difficulty": "hard",
-    "question": "English grammar and usage: Which word represents the possessive form in the English homophone trio: they're / there / their? (Ref #33)",
+    "question": "In the sentence 'The movie was quite entertaining', what part of speech is 'entertaining'?",
     "options": [
-      "Their (e.g., 'their books')",
-      "They're (contraction of they are)",
-      "There (indicating place or direction)",
-      "Theyre (without apostrophe)"
+      "Predicate adjective",
+      "Gerund",
+      "Direct object",
+      "Adverb"
     ],
     "correctAnswer": 0,
-    "explanation": "'Their' is the possessive pronoun; 'they're' is a contraction of 'they are'; and 'there' refers to location.",
+    "explanation": "'Entertaining' acts as a subject complement adjective describing 'movie'.",
     "tags": [
       "english-grammar",
       "parts-of-speech",
@@ -693,64 +693,64 @@
     "active": true
   },
   {
-    "id": "english-grammar-punctuation-syntax-0034",
+    "id": "english-grammar-parts-of-speech-0034",
     "category": "English & Grammar",
-    "subcategory": "Punctuation & Syntax",
+    "subcategory": "Parts of Speech",
     "difficulty": "easy",
-    "question": "English grammar and usage: Identify the sentence structured in active voice rather than passive voice. (Ref #34)",
+    "question": "What part of speech is 'daily' in 'He reads a daily newspaper'?",
     "options": [
-      "The medication was administered by the nurse.",
-      "The nurse administered the medication promptly.",
-      "The report was prepared by the technician.",
-      "The test was completed yesterday."
+      "Adverb",
+      "Adjective",
+      "Noun",
+      "Verb"
     ],
     "correctAnswer": 1,
-    "explanation": "In active voice, the subject performs the action directly: 'The nurse (subject) administered (verb) the medication (object)'.",
+    "explanation": "'Daily' modifies the noun 'newspaper', functioning as an adjective.",
     "tags": [
       "english-grammar",
-      "punctuation-syntax",
+      "parts-of-speech",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "english-grammar-vocabulary-etymology-0035",
+    "id": "english-grammar-parts-of-speech-0035",
     "category": "English & Grammar",
-    "subcategory": "Vocabulary & Etymology",
+    "subcategory": "Parts of Speech",
     "difficulty": "medium",
-    "question": "English grammar and usage: Which grammatical error occurs when two independent clauses are joined with only a comma without a conjunction? (Ref #35)",
+    "question": "What part of speech is 'daily' in 'She exercises daily'?",
     "options": [
-      "Dangling modifier",
-      "Fragment",
-      "Comma splice",
-      "Split infinitive"
+      "Adjective",
+      "Noun",
+      "Adverb",
+      "Preposition"
     ],
     "correctAnswer": 2,
-    "explanation": "A comma splice is the incorrect joining of two complete independent clauses with a comma alone.",
+    "explanation": "'Daily' modifies the verb 'exercises', telling when the action occurs.",
     "tags": [
       "english-grammar",
-      "vocabulary-etymology",
+      "parts-of-speech",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "english-grammar-common-errors-0036",
+    "id": "english-grammar-parts-of-speech-0036",
     "category": "English & Grammar",
-    "subcategory": "Common Errors",
+    "subcategory": "Parts of Speech",
     "difficulty": "hard",
-    "question": "English grammar and usage: In English grammar, what part of speech describes, quantifies, or modifies a noun or pronoun? (Ref #36)",
+    "question": "Which of the following is a compound noun?",
     "options": [
-      "Adverb",
-      "Preposition",
-      "Conjunction",
-      "Adjective"
+      "Beautiful",
+      "Quickly",
+      "Inasmuch",
+      "Toothbrush"
     ],
     "correctAnswer": 3,
-    "explanation": "Adjectives modify or describe nouns and pronouns (e.g., 'gentle breeze', 'five stars').",
+    "explanation": "A compound noun merges two words ('tooth' + 'brush') into a single noun.",
     "tags": [
       "english-grammar",
-      "common-errors",
+      "parts-of-speech",
       "hard"
     ],
     "active": true
@@ -760,15 +760,15 @@
     "category": "English & Grammar",
     "subcategory": "Parts of Speech",
     "difficulty": "easy",
-    "question": "English grammar and usage: What punctuation mark is used to link two closely related independent clauses without a coordinating conjunction? (Ref #37)",
+    "question": "What part of speech is 'since' in 'I have not seen her since Tuesday'?",
     "options": [
-      "Semicolon (;)",
-      "Comma (,)",
-      "Hyphen (-)",
-      "Slash (/)"
+      "Preposition",
+      "Conjunction",
+      "Adverb",
+      "Interjection"
     ],
     "correctAnswer": 0,
-    "explanation": "A semicolon joins two independent clauses that are closely connected in thought when no conjunction is used.",
+    "explanation": "'Since' is followed by the noun object 'Tuesday', acting as a preposition of time.",
     "tags": [
       "english-grammar",
       "parts-of-speech",
@@ -777,85 +777,85 @@
     "active": true
   },
   {
-    "id": "english-grammar-punctuation-syntax-0038",
+    "id": "english-grammar-parts-of-speech-0038",
     "category": "English & Grammar",
-    "subcategory": "Punctuation & Syntax",
+    "subcategory": "Parts of Speech",
     "difficulty": "medium",
-    "question": "English grammar and usage: Which word represents the possessive form in the English homophone trio: they're / there / their? (Ref #38)",
+    "question": "What part of speech is 'since' in 'Since you are here, let us begin'?",
     "options": [
-      "They're (contraction of they are)",
-      "Their (e.g., 'their books')",
-      "There (indicating place or direction)",
-      "Theyre (without apostrophe)"
+      "Preposition",
+      "Subordinating conjunction",
+      "Adverb",
+      "Noun"
     ],
     "correctAnswer": 1,
-    "explanation": "'Their' is the possessive pronoun; 'they're' is a contraction of 'they are'; and 'there' refers to location.",
+    "explanation": "'Since' introduces a causal clause with a subject and verb.",
     "tags": [
       "english-grammar",
-      "punctuation-syntax",
+      "parts-of-speech",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "english-grammar-vocabulary-etymology-0039",
+    "id": "english-grammar-parts-of-speech-0039",
     "category": "English & Grammar",
-    "subcategory": "Vocabulary & Etymology",
+    "subcategory": "Parts of Speech",
     "difficulty": "hard",
-    "question": "English grammar and usage: Identify the sentence structured in active voice rather than passive voice. (Ref #39)",
+    "question": "What part of speech is 'well' in 'She plays the violin well'?",
     "options": [
-      "The medication was administered by the nurse.",
-      "The report was prepared by the technician.",
-      "The nurse administered the medication promptly.",
-      "The test was completed yesterday."
+      "Adjective",
+      "Noun",
+      "Adverb",
+      "Interjection"
     ],
     "correctAnswer": 2,
-    "explanation": "In active voice, the subject performs the action directly: 'The nurse (subject) administered (verb) the medication (object)'.",
+    "explanation": "'Well' modifies the action verb 'plays', serving as an adverb of manner.",
     "tags": [
       "english-grammar",
-      "vocabulary-etymology",
+      "parts-of-speech",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "english-grammar-common-errors-0040",
+    "id": "english-grammar-parts-of-speech-0040",
     "category": "English & Grammar",
-    "subcategory": "Common Errors",
+    "subcategory": "Parts of Speech",
     "difficulty": "easy",
-    "question": "English grammar and usage: Which grammatical error occurs when two independent clauses are joined with only a comma without a conjunction? (Ref #40)",
+    "question": "What part of speech is 'well' in 'I do not feel well today'?",
     "options": [
-      "Dangling modifier",
-      "Fragment",
-      "Split infinitive",
-      "Comma splice"
+      "Adverb",
+      "Noun",
+      "Preposition",
+      "Predicate adjective (referring to health)"
     ],
     "correctAnswer": 3,
-    "explanation": "A comma splice is the incorrect joining of two complete independent clauses with a comma alone.",
+    "explanation": "When describing physical health following a linking verb, 'well' is an adjective.",
     "tags": [
       "english-grammar",
-      "common-errors",
+      "parts-of-speech",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "english-grammar-parts-of-speech-0041",
+    "id": "english-grammar-punctuation-syntax-0041",
     "category": "English & Grammar",
-    "subcategory": "Parts of Speech",
+    "subcategory": "Punctuation & Syntax",
     "difficulty": "medium",
-    "question": "English grammar and usage: In English grammar, what part of speech describes, quantifies, or modifies a noun or pronoun? (Ref #41)",
+    "question": "When is a semicolon primarily used between two independent clauses?",
     "options": [
-      "Adjective",
-      "Adverb",
-      "Preposition",
-      "Conjunction"
+      "To join two closely related independent clauses without a coordinating conjunction",
+      "To introduce a long list of items",
+      "To separate a dependent clause from a main clause",
+      "In place of a question mark"
     ],
     "correctAnswer": 0,
-    "explanation": "Adjectives modify or describe nouns and pronouns (e.g., 'gentle breeze', 'five stars').",
+    "explanation": "A semicolon links independent clauses that share a close thematic connection.",
     "tags": [
       "english-grammar",
-      "parts-of-speech",
+      "punctuation-syntax",
       "medium"
     ],
     "active": true
@@ -865,15 +865,15 @@
     "category": "English & Grammar",
     "subcategory": "Punctuation & Syntax",
     "difficulty": "hard",
-    "question": "English grammar and usage: What punctuation mark is used to link two closely related independent clauses without a coordinating conjunction? (Ref #42)",
+    "question": "What is the Oxford comma (serial comma)?",
     "options": [
-      "Comma (,)",
-      "Semicolon (;)",
-      "Hyphen (-)",
-      "Slash (/)"
+      "A comma used after an introductory adverbial phrase",
+      "The comma placed immediately before the coordinating conjunction in a list of three or more items",
+      "A comma used to set off an appositive",
+      "A comma used inside quotation marks"
     ],
     "correctAnswer": 1,
-    "explanation": "A semicolon joins two independent clauses that are closely connected in thought when no conjunction is used.",
+    "explanation": "The Oxford comma appears before 'and' or 'or' in a series (e.g., apples, oranges, and bananas).",
     "tags": [
       "english-grammar",
       "punctuation-syntax",
@@ -882,64 +882,64 @@
     "active": true
   },
   {
-    "id": "english-grammar-vocabulary-etymology-0043",
+    "id": "english-grammar-punctuation-syntax-0043",
     "category": "English & Grammar",
-    "subcategory": "Vocabulary & Etymology",
+    "subcategory": "Punctuation & Syntax",
     "difficulty": "easy",
-    "question": "English grammar and usage: Which word represents the possessive form in the English homophone trio: they're / there / their? (Ref #43)",
+    "question": "Which punctuation mark is used to enclose incidental explanatory remarks or parenthetical material?",
     "options": [
-      "They're (contraction of they are)",
-      "There (indicating place or direction)",
-      "Their (e.g., 'their books')",
-      "Theyre (without apostrophe)"
+      "Hyphen ( - )",
+      "Colon ( : )",
+      "Parentheses ( )",
+      "Semicolon ( ; )"
     ],
     "correctAnswer": 2,
-    "explanation": "'Their' is the possessive pronoun; 'they're' is a contraction of 'they are'; and 'there' refers to location.",
+    "explanation": "Parentheses set off supplementary information that can be omitted without changing the core meaning.",
     "tags": [
       "english-grammar",
-      "vocabulary-etymology",
+      "punctuation-syntax",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "english-grammar-common-errors-0044",
+    "id": "english-grammar-punctuation-syntax-0044",
     "category": "English & Grammar",
-    "subcategory": "Common Errors",
+    "subcategory": "Punctuation & Syntax",
     "difficulty": "medium",
-    "question": "English grammar and usage: Identify the sentence structured in active voice rather than passive voice. (Ref #44)",
+    "question": "What is an apostrophe used for in the English language?",
     "options": [
-      "The medication was administered by the nurse.",
-      "The report was prepared by the technician.",
-      "The test was completed yesterday.",
-      "The nurse administered the medication promptly."
+      "To separate clauses in compound sentences",
+      "To make plural forms of regular nouns",
+      "To indicate direct speech",
+      "To indicate possession or represent omitted letters in contractions"
     ],
     "correctAnswer": 3,
-    "explanation": "In active voice, the subject performs the action directly: 'The nurse (subject) administered (verb) the medication (object)'.",
+    "explanation": "Apostrophes show ownership (dog's bone) and contractions (don't).",
     "tags": [
       "english-grammar",
-      "common-errors",
+      "punctuation-syntax",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "english-grammar-parts-of-speech-0045",
+    "id": "english-grammar-punctuation-syntax-0045",
     "category": "English & Grammar",
-    "subcategory": "Parts of Speech",
+    "subcategory": "Punctuation & Syntax",
     "difficulty": "hard",
-    "question": "English grammar and usage: Which grammatical error occurs when two independent clauses are joined with only a comma without a conjunction? (Ref #45)",
+    "question": "What is a comma splice?",
     "options": [
-      "Comma splice",
-      "Dangling modifier",
-      "Fragment",
-      "Split infinitive"
+      "An error occurring when two independent clauses are joined by only a comma without a conjunction",
+      "Using too many commas in a single paragraph",
+      "Omitting a comma after an introductory dependent clause",
+      "Placing a comma before a restrictive clause"
     ],
     "correctAnswer": 0,
-    "explanation": "A comma splice is the incorrect joining of two complete independent clauses with a comma alone.",
+    "explanation": "Joining two complete sentences with only a comma creates a run-on error known as a comma splice.",
     "tags": [
       "english-grammar",
-      "parts-of-speech",
+      "punctuation-syntax",
       "hard"
     ],
     "active": true
@@ -949,15 +949,15 @@
     "category": "English & Grammar",
     "subcategory": "Punctuation & Syntax",
     "difficulty": "easy",
-    "question": "English grammar and usage: In English grammar, what part of speech describes, quantifies, or modifies a noun or pronoun? (Ref #46)",
+    "question": "Which punctuation mark correctly introduces a formal quotation, explanation, or enumerated list?",
     "options": [
-      "Adverb",
-      "Adjective",
-      "Preposition",
-      "Conjunction"
+      "Semicolon ( ; )",
+      "Colon ( : )",
+      "Comma ( , )",
+      "Dash ( — )"
     ],
     "correctAnswer": 1,
-    "explanation": "Adjectives modify or describe nouns and pronouns (e.g., 'gentle breeze', 'five stars').",
+    "explanation": "A colon signals that what follows amplifies, explains, or itemizes the preceding clause.",
     "tags": [
       "english-grammar",
       "punctuation-syntax",
@@ -966,64 +966,64 @@
     "active": true
   },
   {
-    "id": "english-grammar-vocabulary-etymology-0047",
+    "id": "english-grammar-punctuation-syntax-0047",
     "category": "English & Grammar",
-    "subcategory": "Vocabulary & Etymology",
+    "subcategory": "Punctuation & Syntax",
     "difficulty": "medium",
-    "question": "English grammar and usage: What punctuation mark is used to link two closely related independent clauses without a coordinating conjunction? (Ref #47)",
+    "question": "What distinguishes an em dash (—) from a hyphen (-)?",
     "options": [
-      "Comma (,)",
-      "Hyphen (-)",
-      "Semicolon (;)",
-      "Slash (/)"
+      "An em dash is shorter than a hyphen",
+      "A hyphen is used for dialogue only",
+      "An em dash creates an emphatic break or aside in a sentence, while a hyphen joins compound words",
+      "They are completely interchangeable"
     ],
     "correctAnswer": 2,
-    "explanation": "A semicolon joins two independent clauses that are closely connected in thought when no conjunction is used.",
+    "explanation": "Em dashes denote emphatic pauses or parenthetical thoughts; hyphens bind compound words (e.g., well-known).",
     "tags": [
       "english-grammar",
-      "vocabulary-etymology",
+      "punctuation-syntax",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "english-grammar-common-errors-0048",
+    "id": "english-grammar-punctuation-syntax-0048",
     "category": "English & Grammar",
-    "subcategory": "Common Errors",
+    "subcategory": "Punctuation & Syntax",
     "difficulty": "hard",
-    "question": "English grammar and usage: Which word represents the possessive form in the English homophone trio: they're / there / their? (Ref #48)",
+    "question": "What is a dangling modifier?",
     "options": [
-      "They're (contraction of they are)",
-      "There (indicating place or direction)",
-      "Theyre (without apostrophe)",
-      "Their (e.g., 'their books')"
+      "A modifier placed at the end of an exclamatory sentence",
+      "A sentence ending with a preposition",
+      "An adjective modifying a pronoun",
+      "A descriptive phrase that lacks a clear grammatical subject to modify in the sentence"
     ],
     "correctAnswer": 3,
-    "explanation": "'Their' is the possessive pronoun; 'they're' is a contraction of 'they are'; and 'there' refers to location.",
+    "explanation": "A dangling modifier occurs when the intended subject of a participial phrase is omitted from the main clause.",
     "tags": [
       "english-grammar",
-      "common-errors",
+      "punctuation-syntax",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "english-grammar-parts-of-speech-0049",
+    "id": "english-grammar-punctuation-syntax-0049",
     "category": "English & Grammar",
-    "subcategory": "Parts of Speech",
+    "subcategory": "Punctuation & Syntax",
     "difficulty": "easy",
-    "question": "English grammar and usage: Identify the sentence structured in active voice rather than passive voice. (Ref #49)",
+    "question": "Where should the period typically be placed relative to closing quotation marks in American English?",
     "options": [
-      "The nurse administered the medication promptly.",
-      "The medication was administered by the nurse.",
-      "The report was prepared by the technician.",
-      "The test was completed yesterday."
+      "Inside the closing quotation mark",
+      "Outside the closing quotation mark",
+      "Before the final word",
+      "Omitted entirely"
     ],
     "correctAnswer": 0,
-    "explanation": "In active voice, the subject performs the action directly: 'The nurse (subject) administered (verb) the medication (object)'.",
+    "explanation": "In American punctuation conventions, periods and commas are placed inside closing quotation marks.",
     "tags": [
       "english-grammar",
-      "parts-of-speech",
+      "punctuation-syntax",
       "easy"
     ],
     "active": true
@@ -1033,15 +1033,15 @@
     "category": "English & Grammar",
     "subcategory": "Punctuation & Syntax",
     "difficulty": "medium",
-    "question": "English grammar and usage: Which grammatical error occurs when two independent clauses are joined with only a comma without a conjunction? (Ref #50)",
+    "question": "What is an appositive in grammatical syntax?",
     "options": [
-      "Dangling modifier",
-      "Comma splice",
-      "Fragment",
-      "Split infinitive"
+      "A verb acting as a preposition",
+      "A noun or noun phrase that immediately renames or explains another adjacent noun",
+      "A sentence containing three independent clauses",
+      "A question disguised as a statement"
     ],
     "correctAnswer": 1,
-    "explanation": "A comma splice is the incorrect joining of two complete independent clauses with a comma alone.",
+    "explanation": "An appositive renames an adjacent noun (e.g., 'My sister, a veterinarian, examined the dog').",
     "tags": [
       "english-grammar",
       "punctuation-syntax",
@@ -1050,64 +1050,64 @@
     "active": true
   },
   {
-    "id": "english-grammar-vocabulary-etymology-0051",
+    "id": "english-grammar-punctuation-syntax-0051",
     "category": "English & Grammar",
-    "subcategory": "Vocabulary & Etymology",
+    "subcategory": "Punctuation & Syntax",
     "difficulty": "hard",
-    "question": "English grammar and usage: In English grammar, what part of speech describes, quantifies, or modifies a noun or pronoun? (Ref #51)",
+    "question": "How should non-restrictive (non-essential) relative clauses be punctuated?",
     "options": [
-      "Adverb",
-      "Preposition",
-      "Adjective",
-      "Conjunction"
+      "Enclosed in quotation marks",
+      "Preceded by a semicolon",
+      "Set off with commas at the beginning and end",
+      "Left without any punctuation"
     ],
     "correctAnswer": 2,
-    "explanation": "Adjectives modify or describe nouns and pronouns (e.g., 'gentle breeze', 'five stars').",
+    "explanation": "Non-restrictive clauses provide non-essential detail and must be surrounded by commas.",
     "tags": [
       "english-grammar",
-      "vocabulary-etymology",
+      "punctuation-syntax",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "english-grammar-common-errors-0052",
+    "id": "english-grammar-punctuation-syntax-0052",
     "category": "English & Grammar",
-    "subcategory": "Common Errors",
+    "subcategory": "Punctuation & Syntax",
     "difficulty": "easy",
-    "question": "English grammar and usage: What punctuation mark is used to link two closely related independent clauses without a coordinating conjunction? (Ref #52)",
+    "question": "Which relative pronoun is typically used for restrictive (essential) clauses modifying things in American English?",
     "options": [
-      "Comma (,)",
-      "Hyphen (-)",
-      "Slash (/)",
-      "Semicolon (;)"
+      "Which",
+      "Who",
+      "Whom",
+      "That"
     ],
     "correctAnswer": 3,
-    "explanation": "A semicolon joins two independent clauses that are closely connected in thought when no conjunction is used.",
+    "explanation": "'That' introduces restrictive clauses without commas; 'which' introduces non-restrictive clauses with commas.",
     "tags": [
       "english-grammar",
-      "common-errors",
+      "punctuation-syntax",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "english-grammar-parts-of-speech-0053",
+    "id": "english-grammar-punctuation-syntax-0053",
     "category": "English & Grammar",
-    "subcategory": "Parts of Speech",
+    "subcategory": "Punctuation & Syntax",
     "difficulty": "medium",
-    "question": "English grammar and usage: Which word represents the possessive form in the English homophone trio: they're / there / their? (Ref #53)",
+    "question": "What is an ellipsis (...)?",
     "options": [
-      "Their (e.g., 'their books')",
-      "They're (contraction of they are)",
-      "There (indicating place or direction)",
-      "Theyre (without apostrophe)"
+      "Three consecutive dots indicating the intentional omission of words from quoted text",
+      "A punctuation mark used to indicate excitement",
+      "A symbol denoting multiplication in grammar",
+      "A symbol replacing a period at paragraph ends"
     ],
     "correctAnswer": 0,
-    "explanation": "'Their' is the possessive pronoun; 'they're' is a contraction of 'they are'; and 'there' refers to location.",
+    "explanation": "Ellipses indicate excised words from a direct quotation or trailing speech in dialogue.",
     "tags": [
       "english-grammar",
-      "parts-of-speech",
+      "punctuation-syntax",
       "medium"
     ],
     "active": true
@@ -1117,15 +1117,15 @@
     "category": "English & Grammar",
     "subcategory": "Punctuation & Syntax",
     "difficulty": "hard",
-    "question": "English grammar and usage: Identify the sentence structured in active voice rather than passive voice. (Ref #54)",
+    "question": "Which sentence demonstrates correct subject-verb agreement with a compound subject joined by 'and'?",
     "options": [
-      "The medication was administered by the nurse.",
-      "The nurse administered the medication promptly.",
-      "The report was prepared by the technician.",
-      "The test was completed yesterday."
+      "The president and the secretary is attending the meeting",
+      "The president and the secretary are attending the meeting",
+      "The president and the secretary was attending the meeting",
+      "The president and the secretary attends the meeting"
     ],
     "correctAnswer": 1,
-    "explanation": "In active voice, the subject performs the action directly: 'The nurse (subject) administered (verb) the medication (object)'.",
+    "explanation": "Subjects joined by 'and' generally form a plural compound subject requiring a plural verb ('are').",
     "tags": [
       "english-grammar",
       "punctuation-syntax",
@@ -1134,64 +1134,64 @@
     "active": true
   },
   {
-    "id": "english-grammar-vocabulary-etymology-0055",
+    "id": "english-grammar-punctuation-syntax-0055",
     "category": "English & Grammar",
-    "subcategory": "Vocabulary & Etymology",
+    "subcategory": "Punctuation & Syntax",
     "difficulty": "easy",
-    "question": "English grammar and usage: Which grammatical error occurs when two independent clauses are joined with only a comma without a conjunction? (Ref #55)",
+    "question": "When two singular subjects are joined by 'neither...nor', what number should the verb agree with?",
     "options": [
-      "Dangling modifier",
-      "Fragment",
-      "Comma splice",
-      "Split infinitive"
+      "Always plural",
+      "Always singular regardless of proximity",
+      "The subject closest to the verb",
+      "The first subject in the sentence"
     ],
     "correctAnswer": 2,
-    "explanation": "A comma splice is the incorrect joining of two complete independent clauses with a comma alone.",
+    "explanation": "Under the rule of proximity, verbs agree with the nearer subject in correlative constructions.",
     "tags": [
       "english-grammar",
-      "vocabulary-etymology",
+      "punctuation-syntax",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "english-grammar-common-errors-0056",
+    "id": "english-grammar-punctuation-syntax-0056",
     "category": "English & Grammar",
-    "subcategory": "Common Errors",
+    "subcategory": "Punctuation & Syntax",
     "difficulty": "medium",
-    "question": "English grammar and usage: In English grammar, what part of speech describes, quantifies, or modifies a noun or pronoun? (Ref #56)",
+    "question": "Which sentence is grammatically correct regarding collective noun agreement in American English?",
     "options": [
-      "Adverb",
-      "Preposition",
-      "Conjunction",
-      "Adjective"
+      "The committee have reached its decision",
+      "The committee has reached their decision",
+      "The committee are reached its decision",
+      "The committee has reached its decision"
     ],
     "correctAnswer": 3,
-    "explanation": "Adjectives modify or describe nouns and pronouns (e.g., 'gentle breeze', 'five stars').",
+    "explanation": "American English treats collective nouns as singular units taking singular verbs and pronouns ('has', 'its').",
     "tags": [
       "english-grammar",
-      "common-errors",
+      "punctuation-syntax",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "english-grammar-parts-of-speech-0057",
+    "id": "english-grammar-punctuation-syntax-0057",
     "category": "English & Grammar",
-    "subcategory": "Parts of Speech",
+    "subcategory": "Punctuation & Syntax",
     "difficulty": "hard",
-    "question": "English grammar and usage: What punctuation mark is used to link two closely related independent clauses without a coordinating conjunction? (Ref #57)",
+    "question": "What is a sentence fragment?",
     "options": [
-      "Semicolon (;)",
-      "Comma (,)",
-      "Hyphen (-)",
-      "Slash (/)"
+      "An incomplete sentence that lacks either a main subject, a finite verb, or an independent thought",
+      "A sentence exceeding 40 words in length",
+      "A compound-complex sentence",
+      "A sentence with two prepositional phrases"
     ],
     "correctAnswer": 0,
-    "explanation": "A semicolon joins two independent clauses that are closely connected in thought when no conjunction is used.",
+    "explanation": "Fragments are grammatically incomplete structures punctuated as complete sentences.",
     "tags": [
       "english-grammar",
-      "parts-of-speech",
+      "punctuation-syntax",
       "hard"
     ],
     "active": true
@@ -1201,15 +1201,15 @@
     "category": "English & Grammar",
     "subcategory": "Punctuation & Syntax",
     "difficulty": "easy",
-    "question": "English grammar and usage: Which word represents the possessive form in the English homophone trio: they're / there / their? (Ref #58)",
+    "question": "What is a run-on sentence (fused sentence)?",
     "options": [
-      "They're (contraction of they are)",
-      "Their (e.g., 'their books')",
-      "There (indicating place or direction)",
-      "Theyre (without apostrophe)"
+      "A sentence containing four or more adjectives",
+      "Two or more independent clauses joined together without appropriate punctuation or conjunctions",
+      "A sentence describing continuous motion",
+      "A sentence starting with 'And'"
     ],
     "correctAnswer": 1,
-    "explanation": "'Their' is the possessive pronoun; 'they're' is a contraction of 'they are'; and 'there' refers to location.",
+    "explanation": "Fused sentences merge independent clauses with zero punctuation between them.",
     "tags": [
       "english-grammar",
       "punctuation-syntax",
@@ -1218,64 +1218,64 @@
     "active": true
   },
   {
-    "id": "english-grammar-vocabulary-etymology-0059",
+    "id": "english-grammar-punctuation-syntax-0059",
     "category": "English & Grammar",
-    "subcategory": "Vocabulary & Etymology",
+    "subcategory": "Punctuation & Syntax",
     "difficulty": "medium",
-    "question": "English grammar and usage: Identify the sentence structured in active voice rather than passive voice. (Ref #59)",
+    "question": "When should a hyphen be used in a compound adjective?",
     "options": [
-      "The medication was administered by the nurse.",
-      "The report was prepared by the technician.",
-      "The nurse administered the medication promptly.",
-      "The test was completed yesterday."
+      "Whenever two adjectives appear consecutively",
+      "Only when the word ends in '-ly'",
+      "When the compound adjective precedes the noun it modifies (e.g., 'well-known author')",
+      "Never in formal prose"
     ],
     "correctAnswer": 2,
-    "explanation": "In active voice, the subject performs the action directly: 'The nurse (subject) administered (verb) the medication (object)'.",
+    "explanation": "Compound adjectives placed before nouns require hyphens to prevent ambiguity; after nouns, hyphens are omitted.",
     "tags": [
       "english-grammar",
-      "vocabulary-etymology",
+      "punctuation-syntax",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "english-grammar-common-errors-0060",
+    "id": "english-grammar-punctuation-syntax-0060",
     "category": "English & Grammar",
-    "subcategory": "Common Errors",
+    "subcategory": "Punctuation & Syntax",
     "difficulty": "hard",
-    "question": "English grammar and usage: Which grammatical error occurs when two independent clauses are joined with only a comma without a conjunction? (Ref #60)",
+    "question": "Why is a hyphen omitted in 'a beautifully decorated room'?",
     "options": [
-      "Dangling modifier",
-      "Fragment",
-      "Split infinitive",
-      "Comma splice"
+      "Because 'decorated' is a verb",
+      "Because 'room' is a singular noun",
+      "Hyphens are prohibited after articles",
+      "Adverbs ending in '-ly' do not take hyphens when modifying adjectives"
     ],
     "correctAnswer": 3,
-    "explanation": "A comma splice is the incorrect joining of two complete independent clauses with a comma alone.",
+    "explanation": "Adverbs ending in -ly clearly modify the adjacent adjective and never require hyphenation.",
     "tags": [
       "english-grammar",
-      "common-errors",
+      "punctuation-syntax",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "english-grammar-parts-of-speech-0061",
+    "id": "english-grammar-punctuation-syntax-0061",
     "category": "English & Grammar",
-    "subcategory": "Parts of Speech",
+    "subcategory": "Punctuation & Syntax",
     "difficulty": "easy",
-    "question": "English grammar and usage: In English grammar, what part of speech describes, quantifies, or modifies a noun or pronoun? (Ref #61)",
+    "question": "Which sentence correctly places the question mark with quotation marks?",
     "options": [
-      "Adjective",
-      "Adverb",
-      "Preposition",
-      "Conjunction"
+      "Did she really say, 'I am leaving tomorrow'?",
+      "Did she really say, 'I am leaving tomorrow?'",
+      "Did she really say, 'I am leaving tomorrow'?.",
+      "Did she really say? 'I am leaving tomorrow'"
     ],
     "correctAnswer": 0,
-    "explanation": "Adjectives modify or describe nouns and pronouns (e.g., 'gentle breeze', 'five stars').",
+    "explanation": "When the overall sentence is a question but the quoted statement is declarative, the question mark goes outside.",
     "tags": [
       "english-grammar",
-      "parts-of-speech",
+      "punctuation-syntax",
       "easy"
     ],
     "active": true
@@ -1285,15 +1285,15 @@
     "category": "English & Grammar",
     "subcategory": "Punctuation & Syntax",
     "difficulty": "medium",
-    "question": "English grammar and usage: What punctuation mark is used to link two closely related independent clauses without a coordinating conjunction? (Ref #62)",
+    "question": "What is parallel structure in sentence syntax?",
     "options": [
-      "Comma (,)",
-      "Semicolon (;)",
-      "Hyphen (-)",
-      "Slash (/)"
+      "Writing sentences of exactly identical character length",
+      "Using matching grammatical forms for words, phrases, or clauses in a series or comparison",
+      "Using two prepositional phrases in every clause",
+      "Balancing subjects and objects phonetically"
     ],
     "correctAnswer": 1,
-    "explanation": "A semicolon joins two independent clauses that are closely connected in thought when no conjunction is used.",
+    "explanation": "Parallelism maintains consistency: 'She likes swimming, hiking, and biking' (all gerunds).",
     "tags": [
       "english-grammar",
       "punctuation-syntax",
@@ -1302,64 +1302,64 @@
     "active": true
   },
   {
-    "id": "english-grammar-vocabulary-etymology-0063",
+    "id": "english-grammar-punctuation-syntax-0063",
     "category": "English & Grammar",
-    "subcategory": "Vocabulary & Etymology",
+    "subcategory": "Punctuation & Syntax",
     "difficulty": "hard",
-    "question": "English grammar and usage: Which word represents the possessive form in the English homophone trio: they're / there / their? (Ref #63)",
+    "question": "Which sentence exhibits faulty parallelism?",
     "options": [
-      "They're (contraction of they are)",
-      "There (indicating place or direction)",
-      "Their (e.g., 'their books')",
-      "Theyre (without apostrophe)"
+      "He likes swimming, hiking, and running",
+      "He likes to swim, to hike, and to run",
+      "He likes swimming, to hike, and running",
+      "He likes reading and writing"
     ],
     "correctAnswer": 2,
-    "explanation": "'Their' is the possessive pronoun; 'they're' is a contraction of 'they are'; and 'there' refers to location.",
+    "explanation": "Mixing a gerund ('swimming') with an infinitive ('to hike') breaks parallel grammatical form.",
     "tags": [
       "english-grammar",
-      "vocabulary-etymology",
+      "punctuation-syntax",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "english-grammar-common-errors-0064",
+    "id": "english-grammar-punctuation-syntax-0064",
     "category": "English & Grammar",
-    "subcategory": "Common Errors",
+    "subcategory": "Punctuation & Syntax",
     "difficulty": "easy",
-    "question": "English grammar and usage: Identify the sentence structured in active voice rather than passive voice. (Ref #64)",
+    "question": "When a sentence begins with an introductory dependent clause, what punctuation follows it?",
     "options": [
-      "The medication was administered by the nurse.",
-      "The report was prepared by the technician.",
-      "The test was completed yesterday.",
-      "The nurse administered the medication promptly."
+      "A semicolon",
+      "A colon",
+      "A period",
+      "A comma"
     ],
     "correctAnswer": 3,
-    "explanation": "In active voice, the subject performs the action directly: 'The nurse (subject) administered (verb) the medication (object)'.",
+    "explanation": "Introductory subordinate clauses are separated from the independent main clause by a comma.",
     "tags": [
       "english-grammar",
-      "common-errors",
+      "punctuation-syntax",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "english-grammar-parts-of-speech-0065",
+    "id": "english-grammar-punctuation-syntax-0065",
     "category": "English & Grammar",
-    "subcategory": "Parts of Speech",
+    "subcategory": "Punctuation & Syntax",
     "difficulty": "medium",
-    "question": "English grammar and usage: Which grammatical error occurs when two independent clauses are joined with only a comma without a conjunction? (Ref #65)",
+    "question": "Do you need a comma when the independent clause precedes the dependent clause in a simple complex sentence?",
     "options": [
-      "Comma splice",
-      "Dangling modifier",
-      "Fragment",
-      "Split infinitive"
+      "Typically no (e.g., 'We went inside because it rained')",
+      "Always yes",
+      "Only if the sentence is over 10 words",
+      "Only with an exclamation point"
     ],
     "correctAnswer": 0,
-    "explanation": "A comma splice is the incorrect joining of two complete independent clauses with a comma alone.",
+    "explanation": "Adverbial dependent clauses following the main clause generally do not require a preceding comma.",
     "tags": [
       "english-grammar",
-      "parts-of-speech",
+      "punctuation-syntax",
       "medium"
     ],
     "active": true
@@ -1369,15 +1369,15 @@
     "category": "English & Grammar",
     "subcategory": "Punctuation & Syntax",
     "difficulty": "hard",
-    "question": "English grammar and usage: In English grammar, what part of speech describes, quantifies, or modifies a noun or pronoun? (Ref #66)",
+    "question": "What punctuation mark should enclose titles of short stories, poems, and magazine articles?",
     "options": [
-      "Adverb",
-      "Adjective",
-      "Preposition",
-      "Conjunction"
+      "Italics",
+      "Quotation marks",
+      "Parentheses",
+      "Underlines"
     ],
     "correctAnswer": 1,
-    "explanation": "Adjectives modify or describe nouns and pronouns (e.g., 'gentle breeze', 'five stars').",
+    "explanation": "Titles of shorter works (articles, poems, songs, chapters) use quotation marks; full books use italics.",
     "tags": [
       "english-grammar",
       "punctuation-syntax",
@@ -1386,64 +1386,64 @@
     "active": true
   },
   {
-    "id": "english-grammar-vocabulary-etymology-0067",
+    "id": "english-grammar-punctuation-syntax-0067",
     "category": "English & Grammar",
-    "subcategory": "Vocabulary & Etymology",
+    "subcategory": "Punctuation & Syntax",
     "difficulty": "easy",
-    "question": "English grammar and usage: What punctuation mark is used to link two closely related independent clauses without a coordinating conjunction? (Ref #67)",
+    "question": "How should titles of full-length books, newspapers, and feature films be styled in printed text?",
     "options": [
-      "Comma (,)",
-      "Hyphen (-)",
-      "Semicolon (;)",
-      "Slash (/)"
+      "Quotation marks",
+      "Bold font",
+      "Italics",
+      "Capital letters only"
     ],
     "correctAnswer": 2,
-    "explanation": "A semicolon joins two independent clauses that are closely connected in thought when no conjunction is used.",
+    "explanation": "Standalone major works (books, movies, albums, newspapers) are italicized.",
     "tags": [
       "english-grammar",
-      "vocabulary-etymology",
+      "punctuation-syntax",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "english-grammar-common-errors-0068",
+    "id": "english-grammar-punctuation-syntax-0068",
     "category": "English & Grammar",
-    "subcategory": "Common Errors",
+    "subcategory": "Punctuation & Syntax",
     "difficulty": "medium",
-    "question": "English grammar and usage: Which word represents the possessive form in the English homophone trio: they're / there / their? (Ref #68)",
+    "question": "What is the purpose of brackets [ ] within a direct quotation?",
     "options": [
-      "They're (contraction of they are)",
-      "There (indicating place or direction)",
-      "Theyre (without apostrophe)",
-      "Their (e.g., 'their books')"
+      "To indicate deleted words",
+      "To denote dialogue inside dialogue",
+      "To highlight spelling errors",
+      "To indicate explanatory editorial insertions or modifications made by the author"
     ],
     "correctAnswer": 3,
-    "explanation": "'Their' is the possessive pronoun; 'they're' is a contraction of 'they are'; and 'there' refers to location.",
+    "explanation": "Square brackets denote clarification or grammatical adjustments supplied by the quoting editor.",
     "tags": [
       "english-grammar",
-      "common-errors",
+      "punctuation-syntax",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "english-grammar-parts-of-speech-0069",
+    "id": "english-grammar-punctuation-syntax-0069",
     "category": "English & Grammar",
-    "subcategory": "Parts of Speech",
+    "subcategory": "Punctuation & Syntax",
     "difficulty": "hard",
-    "question": "English grammar and usage: Identify the sentence structured in active voice rather than passive voice. (Ref #69)",
+    "question": "What does the Latin notation '[sic]' signify inside a quotation?",
     "options": [
-      "The nurse administered the medication promptly.",
-      "The medication was administered by the nurse.",
-      "The report was prepared by the technician.",
-      "The test was completed yesterday."
+      "That an error in the original quoted source is reproduced exactly as written",
+      "That the quotation was translated from Latin",
+      "That the quotation is incomplete",
+      "That the author agrees with the statement"
     ],
     "correctAnswer": 0,
-    "explanation": "In active voice, the subject performs the action directly: 'The nurse (subject) administered (verb) the medication (object)'.",
+    "explanation": "'Sic' (meaning 'thus') indicates that an erroneous spelling or phrasing originated in the quoted text.",
     "tags": [
       "english-grammar",
-      "parts-of-speech",
+      "punctuation-syntax",
       "hard"
     ],
     "active": true
@@ -1453,15 +1453,15 @@
     "category": "English & Grammar",
     "subcategory": "Punctuation & Syntax",
     "difficulty": "easy",
-    "question": "English grammar and usage: Which grammatical error occurs when two independent clauses are joined with only a comma without a conjunction? (Ref #70)",
+    "question": "Which punctuation mark is used to represent an en dash (–)?",
     "options": [
-      "Dangling modifier",
-      "Comma splice",
-      "Fragment",
-      "Split infinitive"
+      "A hyphen used for compound words",
+      "A mid-width dash used primarily to indicate ranges of numbers or dates (e.g., 1939–1945)",
+      "An em dash used for sentence breaks",
+      "A minus sign in algebra only"
     ],
     "correctAnswer": 1,
-    "explanation": "A comma splice is the incorrect joining of two complete independent clauses with a comma alone.",
+    "explanation": "En dashes denote inclusive numerical ranges, scores, and geographic connections.",
     "tags": [
       "english-grammar",
       "punctuation-syntax",
@@ -1470,64 +1470,64 @@
     "active": true
   },
   {
-    "id": "english-grammar-vocabulary-etymology-0071",
+    "id": "english-grammar-punctuation-syntax-0071",
     "category": "English & Grammar",
-    "subcategory": "Vocabulary & Etymology",
+    "subcategory": "Punctuation & Syntax",
     "difficulty": "medium",
-    "question": "English grammar and usage: In English grammar, what part of speech describes, quantifies, or modifies a noun or pronoun? (Ref #71)",
+    "question": "What is the grammatical error in: 'Walking down the street, the trees were beautiful'?",
     "options": [
-      "Adverb",
-      "Preposition",
-      "Adjective",
-      "Conjunction"
+      "Comma splice",
+      "Run-on sentence",
+      "Dangling modifier (trees cannot walk)",
+      "Passive voice violation"
     ],
     "correctAnswer": 2,
-    "explanation": "Adjectives modify or describe nouns and pronouns (e.g., 'gentle breeze', 'five stars').",
+    "explanation": "The introductory participial phrase lacks the logical human subject doing the walking.",
     "tags": [
       "english-grammar",
-      "vocabulary-etymology",
+      "punctuation-syntax",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "english-grammar-common-errors-0072",
+    "id": "english-grammar-punctuation-syntax-0072",
     "category": "English & Grammar",
-    "subcategory": "Common Errors",
+    "subcategory": "Punctuation & Syntax",
     "difficulty": "hard",
-    "question": "English grammar and usage: What punctuation mark is used to link two closely related independent clauses without a coordinating conjunction? (Ref #72)",
+    "question": "Which sentence uses the apostrophe correctly for plural possession?",
     "options": [
-      "Comma (,)",
-      "Hyphen (-)",
-      "Slash (/)",
-      "Semicolon (;)"
+      "The student's lockers were cleaned over the weekend",
+      "The students locker's were cleaned over the weekend",
+      "The students lockers' were cleaned over the weekend",
+      "The students' lockers were cleaned over the weekend"
     ],
     "correctAnswer": 3,
-    "explanation": "A semicolon joins two independent clauses that are closely connected in thought when no conjunction is used.",
+    "explanation": "Plural nouns ending in 's' form the possessive by adding an apostrophe after the 's'.",
     "tags": [
       "english-grammar",
-      "common-errors",
+      "punctuation-syntax",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "english-grammar-parts-of-speech-0073",
+    "id": "english-grammar-punctuation-syntax-0073",
     "category": "English & Grammar",
-    "subcategory": "Parts of Speech",
+    "subcategory": "Punctuation & Syntax",
     "difficulty": "easy",
-    "question": "English grammar and usage: Which word represents the possessive form in the English homophone trio: they're / there / their? (Ref #73)",
+    "question": "How do you form the possessive of an irregular plural noun that does not end in 's' (like 'children')?",
     "options": [
-      "Their (e.g., 'their books')",
-      "They're (contraction of they are)",
-      "There (indicating place or direction)",
-      "Theyre (without apostrophe)"
+      "Add an apostrophe followed by 's' (children's)",
+      "Add only an apostrophe at the end (children')",
+      "Add '-es' at the end (childrenes)",
+      "Irregular plurals cannot show possession"
     ],
     "correctAnswer": 0,
-    "explanation": "'Their' is the possessive pronoun; 'they're' is a contraction of 'they are'; and 'there' refers to location.",
+    "explanation": "Nouns not ending in 's' add 's' to indicate possession (e.g., children's toys, women's rights).",
     "tags": [
       "english-grammar",
-      "parts-of-speech",
+      "punctuation-syntax",
       "easy"
     ],
     "active": true
@@ -1537,15 +1537,15 @@
     "category": "English & Grammar",
     "subcategory": "Punctuation & Syntax",
     "difficulty": "medium",
-    "question": "English grammar and usage: Identify the sentence structured in active voice rather than passive voice. (Ref #74)",
+    "question": "Which sentence demonstrates correct punctuation with a transitional adverb like 'however'?",
     "options": [
-      "The medication was administered by the nurse.",
-      "The nurse administered the medication promptly.",
-      "The report was prepared by the technician.",
-      "The test was completed yesterday."
+      "The weather was stormy, however the flight departed on schedule",
+      "The weather was stormy; however, the flight departed on schedule",
+      "The weather was stormy however; the flight departed on schedule",
+      "The weather was stormy: however, the flight departed on schedule"
     ],
     "correctAnswer": 1,
-    "explanation": "In active voice, the subject performs the action directly: 'The nurse (subject) administered (verb) the medication (object)'.",
+    "explanation": "Transitional adverbs linking independent clauses require a preceding semicolon and a following comma.",
     "tags": [
       "english-grammar",
       "punctuation-syntax",
@@ -1554,64 +1554,64 @@
     "active": true
   },
   {
-    "id": "english-grammar-vocabulary-etymology-0075",
+    "id": "english-grammar-punctuation-syntax-0075",
     "category": "English & Grammar",
-    "subcategory": "Vocabulary & Etymology",
+    "subcategory": "Punctuation & Syntax",
     "difficulty": "hard",
-    "question": "English grammar and usage: Which grammatical error occurs when two independent clauses are joined with only a comma without a conjunction? (Ref #75)",
+    "question": "What is the term for a sentence composed of one independent clause and at least one dependent clause?",
     "options": [
-      "Dangling modifier",
-      "Fragment",
-      "Comma splice",
-      "Split infinitive"
+      "Compound sentence",
+      "Simple sentence",
+      "Complex sentence",
+      "Compound-complex sentence"
     ],
     "correctAnswer": 2,
-    "explanation": "A comma splice is the incorrect joining of two complete independent clauses with a comma alone.",
+    "explanation": "A complex sentence contains one main independent clause joined to one or more subordinate clauses.",
     "tags": [
       "english-grammar",
-      "vocabulary-etymology",
+      "punctuation-syntax",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "english-grammar-common-errors-0076",
+    "id": "english-grammar-punctuation-syntax-0076",
     "category": "English & Grammar",
-    "subcategory": "Common Errors",
+    "subcategory": "Punctuation & Syntax",
     "difficulty": "easy",
-    "question": "English grammar and usage: In English grammar, what part of speech describes, quantifies, or modifies a noun or pronoun? (Ref #76)",
+    "question": "What is the term for a sentence containing two independent clauses joined by a coordinating conjunction?",
     "options": [
-      "Adverb",
-      "Preposition",
-      "Conjunction",
-      "Adjective"
+      "Simple sentence",
+      "Complex sentence",
+      "Periodic sentence",
+      "Compound sentence"
     ],
     "correctAnswer": 3,
-    "explanation": "Adjectives modify or describe nouns and pronouns (e.g., 'gentle breeze', 'five stars').",
+    "explanation": "A compound sentence joins two complete independent clauses with a conjunction like 'and' or 'but'.",
     "tags": [
       "english-grammar",
-      "common-errors",
+      "punctuation-syntax",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "english-grammar-parts-of-speech-0077",
+    "id": "english-grammar-punctuation-syntax-0077",
     "category": "English & Grammar",
-    "subcategory": "Parts of Speech",
+    "subcategory": "Punctuation & Syntax",
     "difficulty": "medium",
-    "question": "English grammar and usage: What punctuation mark is used to link two closely related independent clauses without a coordinating conjunction? (Ref #77)",
+    "question": "What is a periodic sentence?",
     "options": [
-      "Semicolon (;)",
-      "Comma (,)",
-      "Hyphen (-)",
-      "Slash (/)"
+      "A sentence in which the main independent clause is withheld until the very end near the period",
+      "A sentence containing three semicolons",
+      "A sentence that repeats every paragraph",
+      "A sentence focused on chemistry elements"
     ],
     "correctAnswer": 0,
-    "explanation": "A semicolon joins two independent clauses that are closely connected in thought when no conjunction is used.",
+    "explanation": "Periodic sentences build suspense by placing the main grammatical predicate at the end.",
     "tags": [
       "english-grammar",
-      "parts-of-speech",
+      "punctuation-syntax",
       "medium"
     ],
     "active": true
@@ -1621,15 +1621,15 @@
     "category": "English & Grammar",
     "subcategory": "Punctuation & Syntax",
     "difficulty": "hard",
-    "question": "English grammar and usage: Which word represents the possessive form in the English homophone trio: they're / there / their? (Ref #78)",
+    "question": "What is an imperative sentence?",
     "options": [
-      "They're (contraction of they are)",
-      "Their (e.g., 'their books')",
-      "There (indicating place or direction)",
-      "Theyre (without apostrophe)"
+      "A sentence expressing strong emotion",
+      "A sentence that issues a direct command or request with an implied subject 'you'",
+      "A sentence asking a direct question",
+      "A sentence asserting a factual statement"
     ],
     "correctAnswer": 1,
-    "explanation": "'Their' is the possessive pronoun; 'they're' is a contraction of 'they are'; and 'there' refers to location.",
+    "explanation": "Imperative sentences give directives ('Close the door') where the subject '(You)' is understood.",
     "tags": [
       "english-grammar",
       "punctuation-syntax",
@@ -1638,85 +1638,85 @@
     "active": true
   },
   {
-    "id": "english-grammar-vocabulary-etymology-0079",
+    "id": "english-grammar-punctuation-syntax-0079",
     "category": "English & Grammar",
-    "subcategory": "Vocabulary & Etymology",
+    "subcategory": "Punctuation & Syntax",
     "difficulty": "easy",
-    "question": "English grammar and usage: Identify the sentence structured in active voice rather than passive voice. (Ref #79)",
+    "question": "What is an exclamatory sentence?",
     "options": [
-      "The medication was administered by the nurse.",
-      "The report was prepared by the technician.",
-      "The nurse administered the medication promptly.",
-      "The test was completed yesterday."
+      "A sentence asking for information",
+      "A declarative factual statement",
+      "A sentence conveying forceful emotion ending with an exclamation point",
+      "A conditional sentence"
     ],
     "correctAnswer": 2,
-    "explanation": "In active voice, the subject performs the action directly: 'The nurse (subject) administered (verb) the medication (object)'.",
+    "explanation": "Exclamatory sentences express intense feeling, urgency, or excitement.",
     "tags": [
       "english-grammar",
-      "vocabulary-etymology",
+      "punctuation-syntax",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "english-grammar-common-errors-0080",
+    "id": "english-grammar-punctuation-syntax-0080",
     "category": "English & Grammar",
-    "subcategory": "Common Errors",
+    "subcategory": "Punctuation & Syntax",
     "difficulty": "medium",
-    "question": "English grammar and usage: Which grammatical error occurs when two independent clauses are joined with only a comma without a conjunction? (Ref #80)",
+    "question": "Which mark of punctuation can replace a semicolon when emphasizing an emphatic conclusion?",
     "options": [
-      "Dangling modifier",
-      "Fragment",
-      "Split infinitive",
-      "Comma splice"
+      "Period only",
+      "Comma",
+      "Slash",
+      "Colon or em dash"
     ],
     "correctAnswer": 3,
-    "explanation": "A comma splice is the incorrect joining of two complete independent clauses with a comma alone.",
+    "explanation": "Both colons and em dashes can introduce dramatic, explanatory, or emphatic conclusions.",
     "tags": [
       "english-grammar",
-      "common-errors",
+      "punctuation-syntax",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "english-grammar-parts-of-speech-0081",
+    "id": "english-grammar-vocabulary-etymology-0081",
     "category": "English & Grammar",
-    "subcategory": "Parts of Speech",
+    "subcategory": "Vocabulary & Etymology",
     "difficulty": "hard",
-    "question": "English grammar and usage: In English grammar, what part of speech describes, quantifies, or modifies a noun or pronoun? (Ref #81)",
+    "question": "What does the Latin root 'bene' mean, as in 'beneficial' and 'benevolent'?",
     "options": [
-      "Adjective",
-      "Adverb",
-      "Preposition",
-      "Conjunction"
+      "Good or well",
+      "Bad or evil",
+      "Large or great",
+      "Fast or swift"
     ],
     "correctAnswer": 0,
-    "explanation": "Adjectives modify or describe nouns and pronouns (e.g., 'gentle breeze', 'five stars').",
+    "explanation": "'Bene' is Latin for well or good (antonym of 'mal').",
     "tags": [
       "english-grammar",
-      "parts-of-speech",
+      "vocabulary-etymology",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "english-grammar-punctuation-syntax-0082",
+    "id": "english-grammar-vocabulary-etymology-0082",
     "category": "English & Grammar",
-    "subcategory": "Punctuation & Syntax",
+    "subcategory": "Vocabulary & Etymology",
     "difficulty": "easy",
-    "question": "English grammar and usage: What punctuation mark is used to link two closely related independent clauses without a coordinating conjunction? (Ref #82)",
+    "question": "What does the Greek root 'chron' mean, as in 'chronological' and 'chronic'?",
     "options": [
-      "Comma (,)",
-      "Semicolon (;)",
-      "Hyphen (-)",
-      "Slash (/)"
+      "Color",
+      "Time",
+      "Sound",
+      "Shape"
     ],
     "correctAnswer": 1,
-    "explanation": "A semicolon joins two independent clauses that are closely connected in thought when no conjunction is used.",
+    "explanation": "'Chronos' is Greek for time.",
     "tags": [
       "english-grammar",
-      "punctuation-syntax",
+      "vocabulary-etymology",
       "easy"
     ],
     "active": true
@@ -1726,15 +1726,15 @@
     "category": "English & Grammar",
     "subcategory": "Vocabulary & Etymology",
     "difficulty": "medium",
-    "question": "English grammar and usage: Which word represents the possessive form in the English homophone trio: they're / there / their? (Ref #83)",
+    "question": "What does the Latin root 'mal' mean, as in 'malicious' and 'malignant'?",
     "options": [
-      "They're (contraction of they are)",
-      "There (indicating place or direction)",
-      "Their (e.g., 'their books')",
-      "Theyre (without apostrophe)"
+      "Good",
+      "Small",
+      "Bad or evil",
+      "Hidden"
     ],
     "correctAnswer": 2,
-    "explanation": "'Their' is the possessive pronoun; 'they're' is a contraction of 'they are'; and 'there' refers to location.",
+    "explanation": "'Malus' is Latin for bad, harmful, or evil.",
     "tags": [
       "english-grammar",
       "vocabulary-etymology",
@@ -1743,64 +1743,64 @@
     "active": true
   },
   {
-    "id": "english-grammar-common-errors-0084",
+    "id": "english-grammar-vocabulary-etymology-0084",
     "category": "English & Grammar",
-    "subcategory": "Common Errors",
+    "subcategory": "Vocabulary & Etymology",
     "difficulty": "hard",
-    "question": "English grammar and usage: Identify the sentence structured in active voice rather than passive voice. (Ref #84)",
+    "question": "What does the Greek prefix 'bio' mean, as in 'biology' and 'biography'?",
     "options": [
-      "The medication was administered by the nurse.",
-      "The report was prepared by the technician.",
-      "The test was completed yesterday.",
-      "The nurse administered the medication promptly."
+      "Earth",
+      "Mind",
+      "Water",
+      "Life"
     ],
     "correctAnswer": 3,
-    "explanation": "In active voice, the subject performs the action directly: 'The nurse (subject) administered (verb) the medication (object)'.",
+    "explanation": "'Bios' is Greek for life.",
     "tags": [
       "english-grammar",
-      "common-errors",
+      "vocabulary-etymology",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "english-grammar-parts-of-speech-0085",
+    "id": "english-grammar-vocabulary-etymology-0085",
     "category": "English & Grammar",
-    "subcategory": "Parts of Speech",
+    "subcategory": "Vocabulary & Etymology",
     "difficulty": "easy",
-    "question": "English grammar and usage: Which grammatical error occurs when two independent clauses are joined with only a comma without a conjunction? (Ref #85)",
+    "question": "What does the Greek root 'geo' mean, as in 'geology' and 'geography'?",
     "options": [
-      "Comma splice",
-      "Dangling modifier",
-      "Fragment",
-      "Split infinitive"
+      "Earth",
+      "Star",
+      "Rock",
+      "Sky"
     ],
     "correctAnswer": 0,
-    "explanation": "A comma splice is the incorrect joining of two complete independent clauses with a comma alone.",
+    "explanation": "'Ge' or 'Gaia' is Greek for Earth.",
     "tags": [
       "english-grammar",
-      "parts-of-speech",
+      "vocabulary-etymology",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "english-grammar-punctuation-syntax-0086",
+    "id": "english-grammar-vocabulary-etymology-0086",
     "category": "English & Grammar",
-    "subcategory": "Punctuation & Syntax",
+    "subcategory": "Vocabulary & Etymology",
     "difficulty": "medium",
-    "question": "English grammar and usage: In English grammar, what part of speech describes, quantifies, or modifies a noun or pronoun? (Ref #86)",
+    "question": "What is the meaning of the adjective 'ephemeral'?",
     "options": [
-      "Adverb",
-      "Adjective",
-      "Preposition",
-      "Conjunction"
+      "Enduring for centuries",
+      "Lasting for a very short time; fleeting",
+      "Heavy and solid",
+      "Extremely dangerous"
     ],
     "correctAnswer": 1,
-    "explanation": "Adjectives modify or describe nouns and pronouns (e.g., 'gentle breeze', 'five stars').",
+    "explanation": "'Ephemeral' describes transient phenomena that vanish quickly.",
     "tags": [
       "english-grammar",
-      "punctuation-syntax",
+      "vocabulary-etymology",
       "medium"
     ],
     "active": true
@@ -1810,15 +1810,15 @@
     "category": "English & Grammar",
     "subcategory": "Vocabulary & Etymology",
     "difficulty": "hard",
-    "question": "English grammar and usage: What punctuation mark is used to link two closely related independent clauses without a coordinating conjunction? (Ref #87)",
+    "question": "What does the word 'ubiquitous' mean?",
     "options": [
-      "Comma (,)",
-      "Hyphen (-)",
-      "Semicolon (;)",
-      "Slash (/)"
+      "Extremely rare",
+      "Dangerous to health",
+      "Present, appearing, or found everywhere",
+      "Highly expensive"
     ],
     "correctAnswer": 2,
-    "explanation": "A semicolon joins two independent clauses that are closely connected in thought when no conjunction is used.",
+    "explanation": "'Ubiquitous' describes something omnipresent (like mobile phones today).",
     "tags": [
       "english-grammar",
       "vocabulary-etymology",
@@ -1827,64 +1827,64 @@
     "active": true
   },
   {
-    "id": "english-grammar-common-errors-0088",
+    "id": "english-grammar-vocabulary-etymology-0088",
     "category": "English & Grammar",
-    "subcategory": "Common Errors",
+    "subcategory": "Vocabulary & Etymology",
     "difficulty": "easy",
-    "question": "English grammar and usage: Which word represents the possessive form in the English homophone trio: they're / there / their? (Ref #88)",
+    "question": "What is the meaning of 'pragmatic'?",
     "options": [
-      "They're (contraction of they are)",
-      "There (indicating place or direction)",
-      "Theyre (without apostrophe)",
-      "Their (e.g., 'their books')"
+      "Highly idealistic and dream-like",
+      "Aggressive and combative",
+      "Overly emotional",
+      "Dealing with things sensibly and realistically based on practical considerations"
     ],
     "correctAnswer": 3,
-    "explanation": "'Their' is the possessive pronoun; 'they're' is a contraction of 'they are'; and 'there' refers to location.",
+    "explanation": "Pragmatism prioritizes practical results over abstract theory.",
     "tags": [
       "english-grammar",
-      "common-errors",
+      "vocabulary-etymology",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "english-grammar-parts-of-speech-0089",
+    "id": "english-grammar-vocabulary-etymology-0089",
     "category": "English & Grammar",
-    "subcategory": "Parts of Speech",
+    "subcategory": "Vocabulary & Etymology",
     "difficulty": "medium",
-    "question": "English grammar and usage: Identify the sentence structured in active voice rather than passive voice. (Ref #89)",
+    "question": "What is the meaning of 'benevolent'?",
     "options": [
-      "The nurse administered the medication promptly.",
-      "The medication was administered by the nurse.",
-      "The report was prepared by the technician.",
-      "The test was completed yesterday."
+      "Well-meaning, kind, and charitable",
+      "Greedy and selfish",
+      "Hostile and aggressive",
+      "Cautious and fearful"
     ],
     "correctAnswer": 0,
-    "explanation": "In active voice, the subject performs the action directly: 'The nurse (subject) administered (verb) the medication (object)'.",
+    "explanation": "Benevolent combines 'bene' (good) and 'volent' (wishing), meaning wishing good upon others.",
     "tags": [
       "english-grammar",
-      "parts-of-speech",
+      "vocabulary-etymology",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "english-grammar-punctuation-syntax-0090",
+    "id": "english-grammar-vocabulary-etymology-0090",
     "category": "English & Grammar",
-    "subcategory": "Punctuation & Syntax",
+    "subcategory": "Vocabulary & Etymology",
     "difficulty": "hard",
-    "question": "English grammar and usage: Which grammatical error occurs when two independent clauses are joined with only a comma without a conjunction? (Ref #90)",
+    "question": "What does the prefix 'omni-' mean, as in 'omnipotent' and 'omniscient'?",
     "options": [
-      "Dangling modifier",
-      "Comma splice",
-      "Fragment",
-      "Split infinitive"
+      "Few",
+      "All",
+      "Half",
+      "Against"
     ],
     "correctAnswer": 1,
-    "explanation": "A comma splice is the incorrect joining of two complete independent clauses with a comma alone.",
+    "explanation": "'Omnis' is Latin for all or everywhere.",
     "tags": [
       "english-grammar",
-      "punctuation-syntax",
+      "vocabulary-etymology",
       "hard"
     ],
     "active": true
@@ -1894,15 +1894,15 @@
     "category": "English & Grammar",
     "subcategory": "Vocabulary & Etymology",
     "difficulty": "easy",
-    "question": "English grammar and usage: In English grammar, what part of speech describes, quantifies, or modifies a noun or pronoun? (Ref #91)",
+    "question": "What does the Greek root 'path' mean, as in 'sympathy' and 'pathology'?",
     "options": [
-      "Adverb",
-      "Preposition",
-      "Adjective",
-      "Conjunction"
+      "Measurement",
+      "Distance",
+      "Feeling, emotion, or disease",
+      "Sight"
     ],
     "correctAnswer": 2,
-    "explanation": "Adjectives modify or describe nouns and pronouns (e.g., 'gentle breeze', 'five stars').",
+    "explanation": "'Pathos' denotes feeling, suffering, or disease.",
     "tags": [
       "english-grammar",
       "vocabulary-etymology",
@@ -1911,64 +1911,64 @@
     "active": true
   },
   {
-    "id": "english-grammar-common-errors-0092",
+    "id": "english-grammar-vocabulary-etymology-0092",
     "category": "English & Grammar",
-    "subcategory": "Common Errors",
+    "subcategory": "Vocabulary & Etymology",
     "difficulty": "medium",
-    "question": "English grammar and usage: What punctuation mark is used to link two closely related independent clauses without a coordinating conjunction? (Ref #92)",
+    "question": "What does the adjective 'lucid' mean?",
     "options": [
-      "Comma (,)",
-      "Hyphen (-)",
-      "Slash (/)",
-      "Semicolon (;)"
+      "Dark and gloomy",
+      "Confusing and muddy",
+      "Excessively loud",
+      "Expressed clearly; easy to understand; bright"
     ],
     "correctAnswer": 3,
-    "explanation": "A semicolon joins two independent clauses that are closely connected in thought when no conjunction is used.",
+    "explanation": "'Lucid' stems from Latin 'lux' (light), meaning clear, intelligible, or luminous.",
     "tags": [
       "english-grammar",
-      "common-errors",
+      "vocabulary-etymology",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "english-grammar-parts-of-speech-0093",
+    "id": "english-grammar-vocabulary-etymology-0093",
     "category": "English & Grammar",
-    "subcategory": "Parts of Speech",
+    "subcategory": "Vocabulary & Etymology",
     "difficulty": "hard",
-    "question": "English grammar and usage: Which word represents the possessive form in the English homophone trio: they're / there / their? (Ref #93)",
+    "question": "What does 'mitigate' mean?",
     "options": [
-      "Their (e.g., 'their books')",
-      "They're (contraction of they are)",
-      "There (indicating place or direction)",
-      "Theyre (without apostrophe)"
+      "To make less severe, serious, or painful",
+      "To worsen or aggravate",
+      "To destroy completely",
+      "To duplicate accurately"
     ],
     "correctAnswer": 0,
-    "explanation": "'Their' is the possessive pronoun; 'they're' is a contraction of 'they are'; and 'there' refers to location.",
+    "explanation": "Mitigating circumstances lessen severity or harshness.",
     "tags": [
       "english-grammar",
-      "parts-of-speech",
+      "vocabulary-etymology",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "english-grammar-punctuation-syntax-0094",
+    "id": "english-grammar-vocabulary-etymology-0094",
     "category": "English & Grammar",
-    "subcategory": "Punctuation & Syntax",
+    "subcategory": "Vocabulary & Etymology",
     "difficulty": "easy",
-    "question": "English grammar and usage: Identify the sentence structured in active voice rather than passive voice. (Ref #94)",
+    "question": "What is the meaning of 'meticulous'?",
     "options": [
-      "The medication was administered by the nurse.",
-      "The nurse administered the medication promptly.",
-      "The report was prepared by the technician.",
-      "The test was completed yesterday."
+      "Careless and hurried",
+      "Showing great attention to detail; very careful and precise",
+      "Loud and boisterous",
+      "Lazy and indifferent"
     ],
     "correctAnswer": 1,
-    "explanation": "In active voice, the subject performs the action directly: 'The nurse (subject) administered (verb) the medication (object)'.",
+    "explanation": "Meticulous individuals take painstaking care over tiny details.",
     "tags": [
       "english-grammar",
-      "punctuation-syntax",
+      "vocabulary-etymology",
       "easy"
     ],
     "active": true
@@ -1978,15 +1978,15 @@
     "category": "English & Grammar",
     "subcategory": "Vocabulary & Etymology",
     "difficulty": "medium",
-    "question": "English grammar and usage: Which grammatical error occurs when two independent clauses are joined with only a comma without a conjunction? (Ref #95)",
+    "question": "What does the word 'candid' mean?",
     "options": [
-      "Dangling modifier",
-      "Fragment",
-      "Comma splice",
-      "Split infinitive"
+      "Deceitful and secretive",
+      "Polite but insincere",
+      "Truthful, straightforward, and frank",
+      "Angry and bitter"
     ],
     "correctAnswer": 2,
-    "explanation": "A comma splice is the incorrect joining of two complete independent clauses with a comma alone.",
+    "explanation": "A candid remark is honest, forthright, and unvarnished.",
     "tags": [
       "english-grammar",
       "vocabulary-etymology",
@@ -1995,64 +1995,64 @@
     "active": true
   },
   {
-    "id": "english-grammar-common-errors-0096",
+    "id": "english-grammar-vocabulary-etymology-0096",
     "category": "English & Grammar",
-    "subcategory": "Common Errors",
+    "subcategory": "Vocabulary & Etymology",
     "difficulty": "hard",
-    "question": "English grammar and usage: In English grammar, what part of speech describes, quantifies, or modifies a noun or pronoun? (Ref #96)",
+    "question": "What is an 'antonym'?",
     "options": [
-      "Adverb",
-      "Preposition",
-      "Conjunction",
-      "Adjective"
+      "A word with identical meaning",
+      "A word with identical spelling",
+      "A word of ancient origin",
+      "A word opposite in meaning to another word"
     ],
     "correctAnswer": 3,
-    "explanation": "Adjectives modify or describe nouns and pronouns (e.g., 'gentle breeze', 'five stars').",
+    "explanation": "Antonyms express semantic opposites (hot/cold, tall/short).",
     "tags": [
       "english-grammar",
-      "common-errors",
+      "vocabulary-etymology",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "english-grammar-parts-of-speech-0097",
+    "id": "english-grammar-vocabulary-etymology-0097",
     "category": "English & Grammar",
-    "subcategory": "Parts of Speech",
+    "subcategory": "Vocabulary & Etymology",
     "difficulty": "easy",
-    "question": "English grammar and usage: What punctuation mark is used to link two closely related independent clauses without a coordinating conjunction? (Ref #97)",
+    "question": "What is a 'synonym'?",
     "options": [
-      "Semicolon (;)",
-      "Comma (,)",
-      "Hyphen (-)",
-      "Slash (/)"
+      "A word having the same or nearly the same meaning as another word",
+      "A word of opposite meaning",
+      "A rhyming word",
+      "A word derived from Greek"
     ],
     "correctAnswer": 0,
-    "explanation": "A semicolon joins two independent clauses that are closely connected in thought when no conjunction is used.",
+    "explanation": "Synonyms share denotative meaning (e.g., happy/joyful).",
     "tags": [
       "english-grammar",
-      "parts-of-speech",
+      "vocabulary-etymology",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "english-grammar-punctuation-syntax-0098",
+    "id": "english-grammar-vocabulary-etymology-0098",
     "category": "English & Grammar",
-    "subcategory": "Punctuation & Syntax",
+    "subcategory": "Vocabulary & Etymology",
     "difficulty": "medium",
-    "question": "English grammar and usage: Which word represents the possessive form in the English homophone trio: they're / there / their? (Ref #98)",
+    "question": "What is a 'homophone'?",
     "options": [
-      "They're (contraction of they are)",
-      "Their (e.g., 'their books')",
-      "There (indicating place or direction)",
-      "Theyre (without apostrophe)"
+      "Words with identical definitions",
+      "Words that sound the same when pronounced but differ in meaning, origin, or spelling",
+      "Words with opposite meanings",
+      "Words with identical grammatical roles"
     ],
     "correctAnswer": 1,
-    "explanation": "'Their' is the possessive pronoun; 'they're' is a contraction of 'they are'; and 'there' refers to location.",
+    "explanation": "Homophones sound alike (e.g., to, too, two; bare, bear).",
     "tags": [
       "english-grammar",
-      "punctuation-syntax",
+      "vocabulary-etymology",
       "medium"
     ],
     "active": true
@@ -2062,15 +2062,15 @@
     "category": "English & Grammar",
     "subcategory": "Vocabulary & Etymology",
     "difficulty": "hard",
-    "question": "English grammar and usage: Identify the sentence structured in active voice rather than passive voice. (Ref #99)",
+    "question": "What is a 'homograph'?",
     "options": [
-      "The medication was administered by the nurse.",
-      "The report was prepared by the technician.",
-      "The nurse administered the medication promptly.",
-      "The test was completed yesterday."
+      "Words that rhyme exactly",
+      "Words translated into Spanish",
+      "Words that share the same written spelling but have different meanings and sometimes pronunciations",
+      "Words that denote sounds"
     ],
     "correctAnswer": 2,
-    "explanation": "In active voice, the subject performs the action directly: 'The nurse (subject) administered (verb) the medication (object)'.",
+    "explanation": "Homographs share spelling (e.g., lead [metal] vs. lead [guide]).",
     "tags": [
       "english-grammar",
       "vocabulary-etymology",
@@ -2079,64 +2079,64 @@
     "active": true
   },
   {
-    "id": "english-grammar-common-errors-0100",
+    "id": "english-grammar-vocabulary-etymology-0100",
     "category": "English & Grammar",
-    "subcategory": "Common Errors",
+    "subcategory": "Vocabulary & Etymology",
     "difficulty": "easy",
-    "question": "English grammar and usage: Which grammatical error occurs when two independent clauses are joined with only a comma without a conjunction? (Ref #100)",
+    "question": "What does the prefix 'pseudo-' mean, as in 'pseudonym'?",
     "options": [
-      "Dangling modifier",
-      "Fragment",
-      "Split infinitive",
-      "Comma splice"
+      "True or authentic",
+      "Small",
+      "Ancient",
+      "False or fake"
     ],
     "correctAnswer": 3,
-    "explanation": "A comma splice is the incorrect joining of two complete independent clauses with a comma alone.",
+    "explanation": "'Pseudo' is Greek for false or fraudulent.",
     "tags": [
       "english-grammar",
-      "common-errors",
+      "vocabulary-etymology",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "english-grammar-parts-of-speech-0101",
+    "id": "english-grammar-vocabulary-etymology-0101",
     "category": "English & Grammar",
-    "subcategory": "Parts of Speech",
+    "subcategory": "Vocabulary & Etymology",
     "difficulty": "medium",
-    "question": "English grammar and usage: In English grammar, what part of speech describes, quantifies, or modifies a noun or pronoun? (Ref #101)",
+    "question": "What does the prefix 'anti-' mean, as in 'antibiotic' and 'antifreeze'?",
     "options": [
-      "Adjective",
-      "Adverb",
-      "Preposition",
-      "Conjunction"
+      "Against or opposite",
+      "In favor of",
+      "Inside",
+      "Before"
     ],
     "correctAnswer": 0,
-    "explanation": "Adjectives modify or describe nouns and pronouns (e.g., 'gentle breeze', 'five stars').",
+    "explanation": "'Anti' denotes opposition or counteraction.",
     "tags": [
       "english-grammar",
-      "parts-of-speech",
+      "vocabulary-etymology",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "english-grammar-punctuation-syntax-0102",
+    "id": "english-grammar-vocabulary-etymology-0102",
     "category": "English & Grammar",
-    "subcategory": "Punctuation & Syntax",
+    "subcategory": "Vocabulary & Etymology",
     "difficulty": "hard",
-    "question": "English grammar and usage: What punctuation mark is used to link two closely related independent clauses without a coordinating conjunction? (Ref #102)",
+    "question": "What does the prefix 'post-' mean, as in 'postoperative' and 'postpone'?",
     "options": [
-      "Comma (,)",
-      "Semicolon (;)",
-      "Hyphen (-)",
-      "Slash (/)"
+      "Before",
+      "After or behind",
+      "During",
+      "Above"
     ],
     "correctAnswer": 1,
-    "explanation": "A semicolon joins two independent clauses that are closely connected in thought when no conjunction is used.",
+    "explanation": "'Post' is Latin for after or subsequent in time.",
     "tags": [
       "english-grammar",
-      "punctuation-syntax",
+      "vocabulary-etymology",
       "hard"
     ],
     "active": true
@@ -2146,15 +2146,15 @@
     "category": "English & Grammar",
     "subcategory": "Vocabulary & Etymology",
     "difficulty": "easy",
-    "question": "English grammar and usage: Which word represents the possessive form in the English homophone trio: they're / there / their? (Ref #103)",
+    "question": "What does the prefix 'pre-' mean, as in 'precaution' and 'preview'?",
     "options": [
-      "They're (contraction of they are)",
-      "There (indicating place or direction)",
-      "Their (e.g., 'their books')",
-      "Theyre (without apostrophe)"
+      "After",
+      "Against",
+      "Before",
+      "Under"
     ],
     "correctAnswer": 2,
-    "explanation": "'Their' is the possessive pronoun; 'they're' is a contraction of 'they are'; and 'there' refers to location.",
+    "explanation": "'Pre' is Latin for prior to or before.",
     "tags": [
       "english-grammar",
       "vocabulary-etymology",
@@ -2163,64 +2163,64 @@
     "active": true
   },
   {
-    "id": "english-grammar-common-errors-0104",
+    "id": "english-grammar-vocabulary-etymology-0104",
     "category": "English & Grammar",
-    "subcategory": "Common Errors",
+    "subcategory": "Vocabulary & Etymology",
     "difficulty": "medium",
-    "question": "English grammar and usage: Identify the sentence structured in active voice rather than passive voice. (Ref #104)",
+    "question": "What is the meaning of 'garrulous'?",
     "options": [
-      "The medication was administered by the nurse.",
-      "The report was prepared by the technician.",
-      "The test was completed yesterday.",
-      "The nurse administered the medication promptly."
+      "Extremely silent and shy",
+      "Physically weak",
+      "Quick to anger",
+      "Excessively talkative, especially on trivial matters"
     ],
     "correctAnswer": 3,
-    "explanation": "In active voice, the subject performs the action directly: 'The nurse (subject) administered (verb) the medication (object)'.",
+    "explanation": "Garrulous persons babble incessantly about mundane topics.",
     "tags": [
       "english-grammar",
-      "common-errors",
+      "vocabulary-etymology",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "english-grammar-parts-of-speech-0105",
+    "id": "english-grammar-vocabulary-etymology-0105",
     "category": "English & Grammar",
-    "subcategory": "Parts of Speech",
+    "subcategory": "Vocabulary & Etymology",
     "difficulty": "hard",
-    "question": "English grammar and usage: Which grammatical error occurs when two independent clauses are joined with only a comma without a conjunction? (Ref #105)",
+    "question": "What does 'taciturn' mean?",
     "options": [
-      "Comma splice",
-      "Dangling modifier",
-      "Fragment",
-      "Split infinitive"
+      "Reserved or uncommunicative in speech; saying little",
+      "Overly friendly",
+      "Argumentative",
+      "Energetic"
     ],
     "correctAnswer": 0,
-    "explanation": "A comma splice is the incorrect joining of two complete independent clauses with a comma alone.",
+    "explanation": "Taciturn individuals are habitually quiet and disinclined to talk.",
     "tags": [
       "english-grammar",
-      "parts-of-speech",
+      "vocabulary-etymology",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "english-grammar-punctuation-syntax-0106",
+    "id": "english-grammar-vocabulary-etymology-0106",
     "category": "English & Grammar",
-    "subcategory": "Punctuation & Syntax",
+    "subcategory": "Vocabulary & Etymology",
     "difficulty": "easy",
-    "question": "English grammar and usage: In English grammar, what part of speech describes, quantifies, or modifies a noun or pronoun? (Ref #106)",
+    "question": "What is the meaning of the adjective 'austere'?",
     "options": [
-      "Adverb",
-      "Adjective",
-      "Preposition",
-      "Conjunction"
+      "Luxurious and decadent",
+      "Severe, strict, or plain and simple without luxury",
+      "Friendly and warm",
+      "Humorous and playful"
     ],
     "correctAnswer": 1,
-    "explanation": "Adjectives modify or describe nouns and pronouns (e.g., 'gentle breeze', 'five stars').",
+    "explanation": "Austere denotes stern simplicity, lack of ornamentation, or frugality.",
     "tags": [
       "english-grammar",
-      "punctuation-syntax",
+      "vocabulary-etymology",
       "easy"
     ],
     "active": true
@@ -2230,15 +2230,15 @@
     "category": "English & Grammar",
     "subcategory": "Vocabulary & Etymology",
     "difficulty": "medium",
-    "question": "English grammar and usage: What punctuation mark is used to link two closely related independent clauses without a coordinating conjunction? (Ref #107)",
+    "question": "What does 'voracious' mean, as in a 'voracious reader'?",
     "options": [
-      "Comma (,)",
-      "Hyphen (-)",
-      "Semicolon (;)",
-      "Slash (/)"
+      "Hesitant and slow",
+      "Sleepy and inactive",
+      "Having a huge appetite or exceedingly eager enthusiasm",
+      "Bored and unmotivated"
     ],
     "correctAnswer": 2,
-    "explanation": "A semicolon joins two independent clauses that are closely connected in thought when no conjunction is used.",
+    "explanation": "Voracious implies insatiable consumption (of food or books).",
     "tags": [
       "english-grammar",
       "vocabulary-etymology",
@@ -2247,64 +2247,64 @@
     "active": true
   },
   {
-    "id": "english-grammar-common-errors-0108",
+    "id": "english-grammar-vocabulary-etymology-0108",
     "category": "English & Grammar",
-    "subcategory": "Common Errors",
+    "subcategory": "Vocabulary & Etymology",
     "difficulty": "hard",
-    "question": "English grammar and usage: Which word represents the possessive form in the English homophone trio: they're / there / their? (Ref #108)",
+    "question": "What does the Latin root 'dict' mean, as in 'dictate' and 'predict'?",
     "options": [
-      "They're (contraction of they are)",
-      "There (indicating place or direction)",
-      "Theyre (without apostrophe)",
-      "Their (e.g., 'their books')"
+      "To write",
+      "To hear",
+      "To see",
+      "To say or speak"
     ],
     "correctAnswer": 3,
-    "explanation": "'Their' is the possessive pronoun; 'they're' is a contraction of 'they are'; and 'there' refers to location.",
+    "explanation": "'Dicere' is Latin for to speak or proclaim.",
     "tags": [
       "english-grammar",
-      "common-errors",
+      "vocabulary-etymology",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "english-grammar-parts-of-speech-0109",
+    "id": "english-grammar-vocabulary-etymology-0109",
     "category": "English & Grammar",
-    "subcategory": "Parts of Speech",
+    "subcategory": "Vocabulary & Etymology",
     "difficulty": "easy",
-    "question": "English grammar and usage: Identify the sentence structured in active voice rather than passive voice. (Ref #109)",
+    "question": "What does the Latin root 'scrib' or 'script' mean, as in 'inscribe' and 'manuscript'?",
     "options": [
-      "The nurse administered the medication promptly.",
-      "The medication was administered by the nurse.",
-      "The report was prepared by the technician.",
-      "The test was completed yesterday."
+      "To write",
+      "To read",
+      "To draw",
+      "To build"
     ],
     "correctAnswer": 0,
-    "explanation": "In active voice, the subject performs the action directly: 'The nurse (subject) administered (verb) the medication (object)'.",
+    "explanation": "'Scribere' is Latin for to write.",
     "tags": [
       "english-grammar",
-      "parts-of-speech",
+      "vocabulary-etymology",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "english-grammar-punctuation-syntax-0110",
+    "id": "english-grammar-vocabulary-etymology-0110",
     "category": "English & Grammar",
-    "subcategory": "Punctuation & Syntax",
+    "subcategory": "Vocabulary & Etymology",
     "difficulty": "medium",
-    "question": "English grammar and usage: Which grammatical error occurs when two independent clauses are joined with only a comma without a conjunction? (Ref #110)",
+    "question": "What does the Latin root 'vid' or 'vis' mean, as in 'visible' and 'video'?",
     "options": [
-      "Dangling modifier",
-      "Comma splice",
-      "Fragment",
-      "Split infinitive"
+      "To touch",
+      "To see",
+      "To taste",
+      "To smell"
     ],
     "correctAnswer": 1,
-    "explanation": "A comma splice is the incorrect joining of two complete independent clauses with a comma alone.",
+    "explanation": "'Videre' is Latin for to see.",
     "tags": [
       "english-grammar",
-      "punctuation-syntax",
+      "vocabulary-etymology",
       "medium"
     ],
     "active": true
@@ -2314,15 +2314,15 @@
     "category": "English & Grammar",
     "subcategory": "Vocabulary & Etymology",
     "difficulty": "hard",
-    "question": "English grammar and usage: In English grammar, what part of speech describes, quantifies, or modifies a noun or pronoun? (Ref #111)",
+    "question": "What does the Latin root 'aud' mean, as in 'audible' and 'audience'?",
     "options": [
-      "Adverb",
-      "Preposition",
-      "Adjective",
-      "Conjunction"
+      "To speak",
+      "To walk",
+      "To hear",
+      "To run"
     ],
     "correctAnswer": 2,
-    "explanation": "Adjectives modify or describe nouns and pronouns (e.g., 'gentle breeze', 'five stars').",
+    "explanation": "'Audire' is Latin for to hear.",
     "tags": [
       "english-grammar",
       "vocabulary-etymology",
@@ -2331,64 +2331,64 @@
     "active": true
   },
   {
-    "id": "english-grammar-common-errors-0112",
+    "id": "english-grammar-vocabulary-etymology-0112",
     "category": "English & Grammar",
-    "subcategory": "Common Errors",
+    "subcategory": "Vocabulary & Etymology",
     "difficulty": "easy",
-    "question": "English grammar and usage: What punctuation mark is used to link two closely related independent clauses without a coordinating conjunction? (Ref #112)",
+    "question": "What does 'anachronistic' mean?",
     "options": [
-      "Comma (,)",
-      "Hyphen (-)",
-      "Slash (/)",
-      "Semicolon (;)"
+      "Scientifically proven",
+      "Extremely stylish",
+      "Historically verified",
+      "Belonging to a different time period than the one in which it exists"
     ],
     "correctAnswer": 3,
-    "explanation": "A semicolon joins two independent clauses that are closely connected in thought when no conjunction is used.",
+    "explanation": "An anachronism places an item out of its chronological era (e.g., a smartphone in ancient Rome).",
     "tags": [
       "english-grammar",
-      "common-errors",
+      "vocabulary-etymology",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "english-grammar-parts-of-speech-0113",
+    "id": "english-grammar-vocabulary-etymology-0113",
     "category": "English & Grammar",
-    "subcategory": "Parts of Speech",
+    "subcategory": "Vocabulary & Etymology",
     "difficulty": "medium",
-    "question": "English grammar and usage: Which word represents the possessive form in the English homophone trio: they're / there / their? (Ref #113)",
+    "question": "What does the adjective 'superfluous' mean?",
     "options": [
-      "Their (e.g., 'their books')",
-      "They're (contraction of they are)",
-      "There (indicating place or direction)",
-      "Theyre (without apostrophe)"
+      "Exceeding what is sufficient or necessary; redundant",
+      "Essential and critical",
+      "Tiny and fragile",
+      "Inferior in quality"
     ],
     "correctAnswer": 0,
-    "explanation": "'Their' is the possessive pronoun; 'they're' is a contraction of 'they are'; and 'there' refers to location.",
+    "explanation": "Superfluous items are unnecessary surplus.",
     "tags": [
       "english-grammar",
-      "parts-of-speech",
+      "vocabulary-etymology",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "english-grammar-punctuation-syntax-0114",
+    "id": "english-grammar-vocabulary-etymology-0114",
     "category": "English & Grammar",
-    "subcategory": "Punctuation & Syntax",
+    "subcategory": "Vocabulary & Etymology",
     "difficulty": "hard",
-    "question": "English grammar and usage: Identify the sentence structured in active voice rather than passive voice. (Ref #114)",
+    "question": "What is the meaning of 'esoteric'?",
     "options": [
-      "The medication was administered by the nurse.",
-      "The nurse administered the medication promptly.",
-      "The report was prepared by the technician.",
-      "The test was completed yesterday."
+      "Universally popular",
+      "Intended for or likely to be understood by only a small, specialized group",
+      "Extremely simple",
+      "Obsolete and useless"
     ],
     "correctAnswer": 1,
-    "explanation": "In active voice, the subject performs the action directly: 'The nurse (subject) administered (verb) the medication (object)'.",
+    "explanation": "Esoteric knowledge requires specialized training or inside perspective.",
     "tags": [
       "english-grammar",
-      "punctuation-syntax",
+      "vocabulary-etymology",
       "hard"
     ],
     "active": true
@@ -2398,15 +2398,15 @@
     "category": "English & Grammar",
     "subcategory": "Vocabulary & Etymology",
     "difficulty": "easy",
-    "question": "English grammar and usage: Which grammatical error occurs when two independent clauses are joined with only a comma without a conjunction? (Ref #115)",
+    "question": "What does 'reticent' mean?",
     "options": [
-      "Dangling modifier",
-      "Fragment",
-      "Comma splice",
-      "Split infinitive"
+      "Loud and boisterous",
+      "Extremely boastful",
+      "Not revealing one's thoughts or feelings readily; reserved",
+      "Aggressively pushy"
     ],
     "correctAnswer": 2,
-    "explanation": "A comma splice is the incorrect joining of two complete independent clauses with a comma alone.",
+    "explanation": "Reticent persons hold back their feelings and speech.",
     "tags": [
       "english-grammar",
       "vocabulary-etymology",
@@ -2415,64 +2415,64 @@
     "active": true
   },
   {
-    "id": "english-grammar-common-errors-0116",
+    "id": "english-grammar-vocabulary-etymology-0116",
     "category": "English & Grammar",
-    "subcategory": "Common Errors",
+    "subcategory": "Vocabulary & Etymology",
     "difficulty": "medium",
-    "question": "English grammar and usage: In English grammar, what part of speech describes, quantifies, or modifies a noun or pronoun? (Ref #116)",
+    "question": "What is the meaning of 'resilient'?",
     "options": [
-      "Adverb",
-      "Preposition",
-      "Conjunction",
-      "Adjective"
+      "Brittle and fragile",
+      "Rigid and unyielding",
+      "Easily discouraged",
+      "Able to withstand or recover quickly from difficult conditions"
     ],
     "correctAnswer": 3,
-    "explanation": "Adjectives modify or describe nouns and pronouns (e.g., 'gentle breeze', 'five stars').",
+    "explanation": "Resilience describes the capacity to bounce back from adversity.",
     "tags": [
       "english-grammar",
-      "common-errors",
+      "vocabulary-etymology",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "english-grammar-parts-of-speech-0117",
+    "id": "english-grammar-vocabulary-etymology-0117",
     "category": "English & Grammar",
-    "subcategory": "Parts of Speech",
+    "subcategory": "Vocabulary & Etymology",
     "difficulty": "hard",
-    "question": "English grammar and usage: What punctuation mark is used to link two closely related independent clauses without a coordinating conjunction? (Ref #117)",
+    "question": "What does the suffix '-phobia' mean, as in 'claustrophobia'?",
     "options": [
-      "Semicolon (;)",
-      "Comma (,)",
-      "Hyphen (-)",
-      "Slash (/)"
+      "Extreme or irrational fear of something",
+      "Deep love or attraction",
+      "Scientific study of",
+      "Medical treatment of"
     ],
     "correctAnswer": 0,
-    "explanation": "A semicolon joins two independent clauses that are closely connected in thought when no conjunction is used.",
+    "explanation": "Phobia denotes intense, disproportionate fear.",
     "tags": [
       "english-grammar",
-      "parts-of-speech",
+      "vocabulary-etymology",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "english-grammar-punctuation-syntax-0118",
+    "id": "english-grammar-vocabulary-etymology-0118",
     "category": "English & Grammar",
-    "subcategory": "Punctuation & Syntax",
+    "subcategory": "Vocabulary & Etymology",
     "difficulty": "easy",
-    "question": "English grammar and usage: Which word represents the possessive form in the English homophone trio: they're / there / their? (Ref #118)",
+    "question": "What does the suffix '-phile' mean, as in 'bibliophile'?",
     "options": [
-      "They're (contraction of they are)",
-      "Their (e.g., 'their books')",
-      "There (indicating place or direction)",
-      "Theyre (without apostrophe)"
+      "A person who fears something",
+      "A person who has a strong love or affinity for something",
+      "A person who sells something",
+      "A person who manufactures something"
     ],
     "correctAnswer": 1,
-    "explanation": "'Their' is the possessive pronoun; 'they're' is a contraction of 'they are'; and 'there' refers to location.",
+    "explanation": "Phile denotes an avid lover or enthusiast of a subject.",
     "tags": [
       "english-grammar",
-      "punctuation-syntax",
+      "vocabulary-etymology",
       "easy"
     ],
     "active": true
@@ -2482,15 +2482,15 @@
     "category": "English & Grammar",
     "subcategory": "Vocabulary & Etymology",
     "difficulty": "medium",
-    "question": "English grammar and usage: Identify the sentence structured in active voice rather than passive voice. (Ref #119)",
+    "question": "What is the meaning of 'copious'?",
     "options": [
-      "The medication was administered by the nurse.",
-      "The report was prepared by the technician.",
-      "The nurse administered the medication promptly.",
-      "The test was completed yesterday."
+      "Scarce and meager",
+      "Harmful and toxic",
+      "Abundant in supply or quantity",
+      "Ancient and brittle"
     ],
     "correctAnswer": 2,
-    "explanation": "In active voice, the subject performs the action directly: 'The nurse (subject) administered (verb) the medication (object)'.",
+    "explanation": "Copious denotes plentiful, voluminous output or supply.",
     "tags": [
       "english-grammar",
       "vocabulary-etymology",
@@ -2499,85 +2499,85 @@
     "active": true
   },
   {
-    "id": "english-grammar-common-errors-0120",
+    "id": "english-grammar-vocabulary-etymology-0120",
     "category": "English & Grammar",
-    "subcategory": "Common Errors",
+    "subcategory": "Vocabulary & Etymology",
     "difficulty": "hard",
-    "question": "English grammar and usage: Which grammatical error occurs when two independent clauses are joined with only a comma without a conjunction? (Ref #120)",
+    "question": "What does 'tenacious' mean?",
     "options": [
-      "Dangling modifier",
-      "Fragment",
-      "Split infinitive",
-      "Comma splice"
+      "Weak and yielding",
+      "Careless and distracted",
+      "Indifferent",
+      "Holding fast; persistent and determined"
     ],
     "correctAnswer": 3,
-    "explanation": "A comma splice is the incorrect joining of two complete independent clauses with a comma alone.",
+    "explanation": "Tenacious people cling firmly to their objectives without quitting.",
     "tags": [
       "english-grammar",
-      "common-errors",
+      "vocabulary-etymology",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "english-grammar-parts-of-speech-0121",
+    "id": "english-grammar-common-errors-0121",
     "category": "English & Grammar",
-    "subcategory": "Parts of Speech",
+    "subcategory": "Common Errors",
     "difficulty": "easy",
-    "question": "English grammar and usage: In English grammar, what part of speech describes, quantifies, or modifies a noun or pronoun? (Ref #121)",
+    "question": "Which sentence correctly uses 'their', 'there', or 'they're'?",
     "options": [
-      "Adjective",
-      "Adverb",
-      "Preposition",
-      "Conjunction"
+      "They're going to put their luggage over there",
+      "Their going to put there luggage over they're",
+      "There going to put they're luggage over their",
+      "They're going to put there luggage over their"
     ],
     "correctAnswer": 0,
-    "explanation": "Adjectives modify or describe nouns and pronouns (e.g., 'gentle breeze', 'five stars').",
+    "explanation": "'They're' = they are; 'their' = possessive; 'there' = spatial location.",
     "tags": [
       "english-grammar",
-      "parts-of-speech",
+      "common-errors",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "english-grammar-punctuation-syntax-0122",
+    "id": "english-grammar-common-errors-0122",
     "category": "English & Grammar",
-    "subcategory": "Punctuation & Syntax",
+    "subcategory": "Common Errors",
     "difficulty": "medium",
-    "question": "English grammar and usage: What punctuation mark is used to link two closely related independent clauses without a coordinating conjunction? (Ref #122)",
+    "question": "Which sentence correctly uses 'affect' or 'effect' as an action verb?",
     "options": [
-      "Comma (,)",
-      "Semicolon (;)",
-      "Hyphen (-)",
-      "Slash (/)"
+      "The bad weather will effect our travel plans",
+      "The bad weather will affect our travel plans",
+      "The bad weather will have an affect on us",
+      "How will this medicine effect your sleep?"
     ],
     "correctAnswer": 1,
-    "explanation": "A semicolon joins two independent clauses that are closely connected in thought when no conjunction is used.",
+    "explanation": "'Affect' is typically the verb meaning to influence; 'effect' is the noun meaning the result.",
     "tags": [
       "english-grammar",
-      "punctuation-syntax",
+      "common-errors",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "english-grammar-vocabulary-etymology-0123",
+    "id": "english-grammar-common-errors-0123",
     "category": "English & Grammar",
-    "subcategory": "Vocabulary & Etymology",
+    "subcategory": "Common Errors",
     "difficulty": "hard",
-    "question": "English grammar and usage: Which word represents the possessive form in the English homophone trio: they're / there / their? (Ref #123)",
+    "question": "Which sentence correctly uses 'its' versus 'it's'?",
     "options": [
-      "They're (contraction of they are)",
-      "There (indicating place or direction)",
-      "Their (e.g., 'their books')",
-      "Theyre (without apostrophe)"
+      "The dog wagged it's tail because its happy",
+      "The dog wagged it's tail because it's happy",
+      "The dog wagged its tail because it's happy",
+      "The dog wagged its tail because its happy"
     ],
     "correctAnswer": 2,
-    "explanation": "'Their' is the possessive pronoun; 'they're' is a contraction of 'they are'; and 'there' refers to location.",
+    "explanation": "'Its' is possessive; 'it's' is a contraction for 'it is'.",
     "tags": [
       "english-grammar",
-      "vocabulary-etymology",
+      "common-errors",
       "hard"
     ],
     "active": true
@@ -2587,15 +2587,15 @@
     "category": "English & Grammar",
     "subcategory": "Common Errors",
     "difficulty": "easy",
-    "question": "English grammar and usage: Identify the sentence structured in active voice rather than passive voice. (Ref #124)",
+    "question": "Which sentence correctly uses 'your' versus 'you're'?",
     "options": [
-      "The medication was administered by the nurse.",
-      "The report was prepared by the technician.",
-      "The test was completed yesterday.",
-      "The nurse administered the medication promptly."
+      "Your invited to bring you're family to dinner",
+      "Your invited to bring your family to dinner",
+      "You're invited to bring you're family to dinner",
+      "You're invited to bring your family to dinner"
     ],
     "correctAnswer": 3,
-    "explanation": "In active voice, the subject performs the action directly: 'The nurse (subject) administered (verb) the medication (object)'.",
+    "explanation": "'You're' = you are; 'your' = belonging to you.",
     "tags": [
       "english-grammar",
       "common-errors",
@@ -2604,64 +2604,64 @@
     "active": true
   },
   {
-    "id": "english-grammar-parts-of-speech-0125",
+    "id": "english-grammar-common-errors-0125",
     "category": "English & Grammar",
-    "subcategory": "Parts of Speech",
+    "subcategory": "Common Errors",
     "difficulty": "medium",
-    "question": "English grammar and usage: Which grammatical error occurs when two independent clauses are joined with only a comma without a conjunction? (Ref #125)",
+    "question": "When should 'fewer' be used instead of 'less'?",
     "options": [
-      "Comma splice",
-      "Dangling modifier",
-      "Fragment",
-      "Split infinitive"
+      "With plural countable nouns (e.g., fewer chairs)",
+      "With singular mass or uncountable nouns",
+      "Only with monetary currencies",
+      "Never, they are interchangeable"
     ],
     "correctAnswer": 0,
-    "explanation": "A comma splice is the incorrect joining of two complete independent clauses with a comma alone.",
+    "explanation": "'Fewer' applies to discrete countable items; 'less' applies to continuous bulk amounts (e.g., less water).",
     "tags": [
       "english-grammar",
-      "parts-of-speech",
+      "common-errors",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "english-grammar-punctuation-syntax-0126",
+    "id": "english-grammar-common-errors-0126",
     "category": "English & Grammar",
-    "subcategory": "Punctuation & Syntax",
+    "subcategory": "Common Errors",
     "difficulty": "hard",
-    "question": "English grammar and usage: In English grammar, what part of speech describes, quantifies, or modifies a noun or pronoun? (Ref #126)",
+    "question": "Which sentence correctly demonstrates the usage of 'fewer' and 'less'?",
     "options": [
-      "Adverb",
-      "Adjective",
-      "Preposition",
-      "Conjunction"
+      "He drinks fewer coffee and eats less calories",
+      "He drinks less coffee and eats fewer calories",
+      "He drinks fewer coffee and eats fewer calories",
+      "He drinks less coffee and eats less calories"
     ],
     "correctAnswer": 1,
-    "explanation": "Adjectives modify or describe nouns and pronouns (e.g., 'gentle breeze', 'five stars').",
+    "explanation": "Coffee is an uncountable mass noun ('less'); calories are countable units ('fewer').",
     "tags": [
       "english-grammar",
-      "punctuation-syntax",
+      "common-errors",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "english-grammar-vocabulary-etymology-0127",
+    "id": "english-grammar-common-errors-0127",
     "category": "English & Grammar",
-    "subcategory": "Vocabulary & Etymology",
+    "subcategory": "Common Errors",
     "difficulty": "easy",
-    "question": "English grammar and usage: What punctuation mark is used to link two closely related independent clauses without a coordinating conjunction? (Ref #127)",
+    "question": "Which sentence correctly uses 'then' versus 'than'?",
     "options": [
-      "Comma (,)",
-      "Hyphen (-)",
-      "Semicolon (;)",
-      "Slash (/)"
+      "She is taller then her brother, and than she stood on her toes",
+      "She is taller then her brother, and then she stood on her toes",
+      "She is taller than her brother, and then she stood on her toes",
+      "She is taller than her brother, and than she stood on her toes"
     ],
     "correctAnswer": 2,
-    "explanation": "A semicolon joins two independent clauses that are closely connected in thought when no conjunction is used.",
+    "explanation": "'Than' is used for comparisons; 'then' indicates time sequence.",
     "tags": [
       "english-grammar",
-      "vocabulary-etymology",
+      "common-errors",
       "easy"
     ],
     "active": true
@@ -2671,15 +2671,15 @@
     "category": "English & Grammar",
     "subcategory": "Common Errors",
     "difficulty": "medium",
-    "question": "English grammar and usage: Which word represents the possessive form in the English homophone trio: they're / there / their? (Ref #128)",
+    "question": "Which sentence correctly uses 'who' versus 'whom'?",
     "options": [
-      "They're (contraction of they are)",
-      "There (indicating place or direction)",
-      "Theyre (without apostrophe)",
-      "Their (e.g., 'their books')"
+      "Who did you invite to the party?",
+      "Whom went to the store?",
+      "Whom is knocking at the front door?",
+      "Whom did you invite to the party?"
     ],
     "correctAnswer": 3,
-    "explanation": "'Their' is the possessive pronoun; 'they're' is a contraction of 'they are'; and 'there' refers to location.",
+    "explanation": "'Whom' is the objective case, functioning here as the object of 'did invite' (you invited him -> whom).",
     "tags": [
       "english-grammar",
       "common-errors",
@@ -2688,64 +2688,64 @@
     "active": true
   },
   {
-    "id": "english-grammar-parts-of-speech-0129",
+    "id": "english-grammar-common-errors-0129",
     "category": "English & Grammar",
-    "subcategory": "Parts of Speech",
+    "subcategory": "Common Errors",
     "difficulty": "hard",
-    "question": "English grammar and usage: Identify the sentence structured in active voice rather than passive voice. (Ref #129)",
+    "question": "Which sentence correctly uses 'lie' versus 'lay' regarding resting horizontally?",
     "options": [
-      "The nurse administered the medication promptly.",
-      "The medication was administered by the nurse.",
-      "The report was prepared by the technician.",
-      "The test was completed yesterday."
+      "I need to lie down on the sofa for an hour",
+      "I need to lay down on the sofa for an hour",
+      "I laid down on the sofa for an hour right now",
+      "She is laying on the grass"
     ],
     "correctAnswer": 0,
-    "explanation": "In active voice, the subject performs the action directly: 'The nurse (subject) administered (verb) the medication (object)'.",
+    "explanation": "To 'lie' is an intransitive verb meaning to recline; to 'lay' is transitive requiring a direct object ('lay the book down').",
     "tags": [
       "english-grammar",
-      "parts-of-speech",
+      "common-errors",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "english-grammar-punctuation-syntax-0130",
+    "id": "english-grammar-common-errors-0130",
     "category": "English & Grammar",
-    "subcategory": "Punctuation & Syntax",
+    "subcategory": "Common Errors",
     "difficulty": "easy",
-    "question": "English grammar and usage: Which grammatical error occurs when two independent clauses are joined with only a comma without a conjunction? (Ref #130)",
+    "question": "What is the past tense of 'lie' (meaning to recline)?",
     "options": [
-      "Dangling modifier",
-      "Comma splice",
-      "Fragment",
-      "Split infinitive"
+      "Laid",
+      "Lay",
+      "Lied",
+      "Lain"
     ],
     "correctAnswer": 1,
-    "explanation": "A comma splice is the incorrect joining of two complete independent clauses with a comma alone.",
+    "explanation": "Conjugation of recline: present lie, past lay, past participle lain.",
     "tags": [
       "english-grammar",
-      "punctuation-syntax",
+      "common-errors",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "english-grammar-vocabulary-etymology-0131",
+    "id": "english-grammar-common-errors-0131",
     "category": "English & Grammar",
-    "subcategory": "Vocabulary & Etymology",
+    "subcategory": "Common Errors",
     "difficulty": "medium",
-    "question": "English grammar and usage: In English grammar, what part of speech describes, quantifies, or modifies a noun or pronoun? (Ref #131)",
+    "question": "What is the past tense of 'lay' (meaning to place something down)?",
     "options": [
-      "Adverb",
-      "Preposition",
-      "Adjective",
-      "Conjunction"
+      "Lay",
+      "Layed",
+      "Laid",
+      "Lain"
     ],
     "correctAnswer": 2,
-    "explanation": "Adjectives modify or describe nouns and pronouns (e.g., 'gentle breeze', 'five stars').",
+    "explanation": "Conjugation of set down: present lay, past laid, past participle laid.",
     "tags": [
       "english-grammar",
-      "vocabulary-etymology",
+      "common-errors",
       "medium"
     ],
     "active": true
@@ -2755,15 +2755,15 @@
     "category": "English & Grammar",
     "subcategory": "Common Errors",
     "difficulty": "hard",
-    "question": "English grammar and usage: What punctuation mark is used to link two closely related independent clauses without a coordinating conjunction? (Ref #132)",
+    "question": "Which sentence correctly uses 'loose' versus 'lose'?",
     "options": [
-      "Comma (,)",
-      "Hyphen (-)",
-      "Slash (/)",
-      "Semicolon (;)"
+      "If your shoes are too lose, you might loose your footing",
+      "If your shoes are too lose, you might lose your footing",
+      "If your shoes are too loose, you might loose your footing",
+      "If your shoes are too loose, you might lose your footing"
     ],
     "correctAnswer": 3,
-    "explanation": "A semicolon joins two independent clauses that are closely connected in thought when no conjunction is used.",
+    "explanation": "'Loose' means not tight; 'lose' means to misplace or suffer defeat.",
     "tags": [
       "english-grammar",
       "common-errors",
@@ -2772,64 +2772,64 @@
     "active": true
   },
   {
-    "id": "english-grammar-parts-of-speech-0133",
+    "id": "english-grammar-common-errors-0133",
     "category": "English & Grammar",
-    "subcategory": "Parts of Speech",
+    "subcategory": "Common Errors",
     "difficulty": "easy",
-    "question": "English grammar and usage: Which word represents the possessive form in the English homophone trio: they're / there / their? (Ref #133)",
+    "question": "Which sentence correctly uses 'compliment' versus 'complement'?",
     "options": [
-      "Their (e.g., 'their books')",
-      "They're (contraction of they are)",
-      "There (indicating place or direction)",
-      "Theyre (without apostrophe)"
+      "The red wine complements the steak, and the guest gave a nice compliment to the chef",
+      "The red wine compliments the steak, and the guest gave a nice complement to the chef",
+      "The red wine compliments the steak, and the guest gave a nice compliment to the chef",
+      "The red wine complements the steak, and the guest gave a nice complement to the chef"
     ],
     "correctAnswer": 0,
-    "explanation": "'Their' is the possessive pronoun; 'they're' is a contraction of 'they are'; and 'there' refers to location.",
+    "explanation": "'Complement' means to complete or pair well; 'compliment' means praise.",
     "tags": [
       "english-grammar",
-      "parts-of-speech",
+      "common-errors",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "english-grammar-punctuation-syntax-0134",
+    "id": "english-grammar-common-errors-0134",
     "category": "English & Grammar",
-    "subcategory": "Punctuation & Syntax",
+    "subcategory": "Common Errors",
     "difficulty": "medium",
-    "question": "English grammar and usage: Identify the sentence structured in active voice rather than passive voice. (Ref #134)",
+    "question": "Which sentence correctly uses 'principal' versus 'principle'?",
     "options": [
-      "The medication was administered by the nurse.",
-      "The nurse administered the medication promptly.",
-      "The report was prepared by the technician.",
-      "The test was completed yesterday."
+      "The school principle spoke about a fundamental principal of justice",
+      "The school principal spoke about a fundamental principle of justice",
+      "The school principle spoke about a fundamental principle of justice",
+      "The school principal spoke about a fundamental principal of justice"
     ],
     "correctAnswer": 1,
-    "explanation": "In active voice, the subject performs the action directly: 'The nurse (subject) administered (verb) the medication (object)'.",
+    "explanation": "'Principal' = head of school / primary sum; 'principle' = moral rule / natural law.",
     "tags": [
       "english-grammar",
-      "punctuation-syntax",
+      "common-errors",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "english-grammar-vocabulary-etymology-0135",
+    "id": "english-grammar-common-errors-0135",
     "category": "English & Grammar",
-    "subcategory": "Vocabulary & Etymology",
+    "subcategory": "Common Errors",
     "difficulty": "hard",
-    "question": "English grammar and usage: Which grammatical error occurs when two independent clauses are joined with only a comma without a conjunction? (Ref #135)",
+    "question": "Which phrase contains a redundant tautology?",
     "options": [
-      "Dangling modifier",
-      "Fragment",
-      "Comma splice",
-      "Split infinitive"
+      "Valuable asset",
+      "Difficult puzzle",
+      "Free gift",
+      "Fresh bread"
     ],
     "correctAnswer": 2,
-    "explanation": "A comma splice is the incorrect joining of two complete independent clauses with a comma alone.",
+    "explanation": "A gift is by definition free, making 'free gift' a redundant tautology.",
     "tags": [
       "english-grammar",
-      "vocabulary-etymology",
+      "common-errors",
       "hard"
     ],
     "active": true
@@ -2839,15 +2839,15 @@
     "category": "English & Grammar",
     "subcategory": "Common Errors",
     "difficulty": "easy",
-    "question": "English grammar and usage: In English grammar, what part of speech describes, quantifies, or modifies a noun or pronoun? (Ref #136)",
+    "question": "Which phrase is a redundant expression?",
     "options": [
-      "Adverb",
-      "Preposition",
-      "Conjunction",
-      "Adjective"
+      "Ancient history",
+      "World history",
+      "Recent history",
+      "Past history"
     ],
     "correctAnswer": 3,
-    "explanation": "Adjectives modify or describe nouns and pronouns (e.g., 'gentle breeze', 'five stars').",
+    "explanation": "All history is inherently in the past, making 'past history' redundant.",
     "tags": [
       "english-grammar",
       "common-errors",
@@ -2856,64 +2856,64 @@
     "active": true
   },
   {
-    "id": "english-grammar-parts-of-speech-0137",
+    "id": "english-grammar-common-errors-0137",
     "category": "English & Grammar",
-    "subcategory": "Parts of Speech",
+    "subcategory": "Common Errors",
     "difficulty": "medium",
-    "question": "English grammar and usage: What punctuation mark is used to link two closely related independent clauses without a coordinating conjunction? (Ref #137)",
+    "question": "Which sentence correctly uses 'between' versus 'among'?",
     "options": [
-      "Semicolon (;)",
-      "Comma (,)",
-      "Hyphen (-)",
-      "Slash (/)"
+      "The secret was shared between the two friends, but the treasure was hidden among the trees",
+      "The secret was shared among the two friends, but the treasure was hidden between the trees",
+      "The secret was shared between the five friends",
+      "The secret was divided among two siblings"
     ],
     "correctAnswer": 0,
-    "explanation": "A semicolon joins two independent clauses that are closely connected in thought when no conjunction is used.",
+    "explanation": "'Between' is traditionally used for two distinct entities; 'among' applies to three or more within a collective group.",
     "tags": [
       "english-grammar",
-      "parts-of-speech",
+      "common-errors",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "english-grammar-punctuation-syntax-0138",
+    "id": "english-grammar-common-errors-0138",
     "category": "English & Grammar",
-    "subcategory": "Punctuation & Syntax",
+    "subcategory": "Common Errors",
     "difficulty": "hard",
-    "question": "English grammar and usage: Which word represents the possessive form in the English homophone trio: they're / there / their? (Ref #138)",
+    "question": "Which sentence correctly uses 'farther' versus 'further'?",
     "options": [
-      "They're (contraction of they are)",
-      "Their (e.g., 'their books')",
-      "There (indicating place or direction)",
-      "Theyre (without apostrophe)"
+      "He ran further down the road and promised to explain the plan farther tomorrow",
+      "He ran farther down the road and promised to explain the plan further tomorrow",
+      "He ran further down the road and promised to explain the plan further tomorrow",
+      "He ran farther down the road and promised to explain the plan farther tomorrow"
     ],
     "correctAnswer": 1,
-    "explanation": "'Their' is the possessive pronoun; 'they're' is a contraction of 'they are'; and 'there' refers to location.",
+    "explanation": "'Farther' refers to measurable physical distance; 'further' denotes figurative extent or depth.",
     "tags": [
       "english-grammar",
-      "punctuation-syntax",
+      "common-errors",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "english-grammar-vocabulary-etymology-0139",
+    "id": "english-grammar-common-errors-0139",
     "category": "English & Grammar",
-    "subcategory": "Vocabulary & Etymology",
+    "subcategory": "Common Errors",
     "difficulty": "easy",
-    "question": "English grammar and usage: Identify the sentence structured in active voice rather than passive voice. (Ref #139)",
+    "question": "Which sentence correctly uses 'disinterested' versus 'uninterested'?",
     "options": [
-      "The medication was administered by the nurse.",
-      "The report was prepared by the technician.",
-      "The nurse administered the medication promptly.",
-      "The test was completed yesterday."
+      "A disinterested student fell asleep during the dull lecture",
+      "The referee was uninterested in making fair calls",
+      "An impartial judge must be completely disinterested in the financial outcome of the trial",
+      "She was disinterested in reading science fiction"
     ],
     "correctAnswer": 2,
-    "explanation": "In active voice, the subject performs the action directly: 'The nurse (subject) administered (verb) the medication (object)'.",
+    "explanation": "'Disinterested' means impartial and unbiased; 'uninterested' means bored or lacking interest.",
     "tags": [
       "english-grammar",
-      "vocabulary-etymology",
+      "common-errors",
       "easy"
     ],
     "active": true
@@ -2923,15 +2923,15 @@
     "category": "English & Grammar",
     "subcategory": "Common Errors",
     "difficulty": "medium",
-    "question": "English grammar and usage: Which grammatical error occurs when two independent clauses are joined with only a comma without a conjunction? (Ref #140)",
+    "question": "What is the error in: 'Irregardless of the cost, we will proceed'?",
     "options": [
-      "Dangling modifier",
-      "Fragment",
-      "Split infinitive",
-      "Comma splice"
+      "Cost should be plural",
+      "Proceed should be spelled precede",
+      "There is no error",
+      "'Irregardless' is a non-standard double negative; the correct word is 'regardless'"
     ],
     "correctAnswer": 3,
-    "explanation": "A comma splice is the incorrect joining of two complete independent clauses with a comma alone.",
+    "explanation": "'Irregardless' redundantly combines the negative prefix 'ir-' with the negative suffix '-less'.",
     "tags": [
       "english-grammar",
       "common-errors",
@@ -2940,64 +2940,64 @@
     "active": true
   },
   {
-    "id": "english-grammar-parts-of-speech-0141",
+    "id": "english-grammar-common-errors-0141",
     "category": "English & Grammar",
-    "subcategory": "Parts of Speech",
+    "subcategory": "Common Errors",
     "difficulty": "hard",
-    "question": "English grammar and usage: In English grammar, what part of speech describes, quantifies, or modifies a noun or pronoun? (Ref #141)",
+    "question": "Which sentence correctly uses 'could have' instead of the phonetic error 'could of'?",
     "options": [
-      "Adjective",
-      "Adverb",
-      "Preposition",
-      "Conjunction"
+      "She could have arrived earlier if traffic permitted",
+      "She could of arrived earlier if traffic permitted",
+      "She could a arrived earlier",
+      "She might of arrived earlier"
     ],
     "correctAnswer": 0,
-    "explanation": "Adjectives modify or describe nouns and pronouns (e.g., 'gentle breeze', 'five stars').",
+    "explanation": "'Could have' is contracted phonetically as 'could've', often misheard as 'could of'.",
     "tags": [
       "english-grammar",
-      "parts-of-speech",
+      "common-errors",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "english-grammar-punctuation-syntax-0142",
+    "id": "english-grammar-common-errors-0142",
     "category": "English & Grammar",
-    "subcategory": "Punctuation & Syntax",
+    "subcategory": "Common Errors",
     "difficulty": "easy",
-    "question": "English grammar and usage: What punctuation mark is used to link two closely related independent clauses without a coordinating conjunction? (Ref #142)",
+    "question": "Which sentence correctly uses 'who' as a subject?",
     "options": [
-      "Comma (,)",
-      "Semicolon (;)",
-      "Hyphen (-)",
-      "Slash (/)"
+      "Whom baked this delicious chocolate cake?",
+      "Who baked this delicious chocolate cake?",
+      "Whom is knocking at the door?",
+      "To who should I deliver this package?"
     ],
     "correctAnswer": 1,
-    "explanation": "A semicolon joins two independent clauses that are closely connected in thought when no conjunction is used.",
+    "explanation": "'Who' functions as the grammatical subject performing the action.",
     "tags": [
       "english-grammar",
-      "punctuation-syntax",
+      "common-errors",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "english-grammar-vocabulary-etymology-0143",
+    "id": "english-grammar-common-errors-0143",
     "category": "English & Grammar",
-    "subcategory": "Vocabulary & Etymology",
+    "subcategory": "Common Errors",
     "difficulty": "medium",
-    "question": "English grammar and usage: Which word represents the possessive form in the English homophone trio: they're / there / their? (Ref #143)",
+    "question": "Which sentence correctly uses 'whom' as the object of a preposition?",
     "options": [
-      "They're (contraction of they are)",
-      "There (indicating place or direction)",
-      "Their (e.g., 'their books')",
-      "Theyre (without apostrophe)"
+      "To who should the letter be addressed?",
+      "Who should this letter be addressed by?",
+      "To whom should the letter be addressed?",
+      "With who are you attending? "
     ],
     "correctAnswer": 2,
-    "explanation": "'Their' is the possessive pronoun; 'they're' is a contraction of 'they are'; and 'there' refers to location.",
+    "explanation": "Prepositions govern the objective case 'whom' (e.g., to whom, with whom, for whom).",
     "tags": [
       "english-grammar",
-      "vocabulary-etymology",
+      "common-errors",
       "medium"
     ],
     "active": true
@@ -3007,15 +3007,15 @@
     "category": "English & Grammar",
     "subcategory": "Common Errors",
     "difficulty": "hard",
-    "question": "English grammar and usage: Identify the sentence structured in active voice rather than passive voice. (Ref #144)",
+    "question": "Which sentence correctly avoids a double negative?",
     "options": [
-      "The medication was administered by the nurse.",
-      "The report was prepared by the technician.",
-      "The test was completed yesterday.",
-      "The nurse administered the medication promptly."
+      "I do not have no money left",
+      "I cannot find nobody here",
+      "She hardly has no time",
+      "I do not have any money left"
     ],
     "correctAnswer": 3,
-    "explanation": "In active voice, the subject performs the action directly: 'The nurse (subject) administered (verb) the medication (object)'.",
+    "explanation": "Standard English prohibits pairing two negative words ('not' + 'no') in the same clause.",
     "tags": [
       "english-grammar",
       "common-errors",
@@ -3024,64 +3024,64 @@
     "active": true
   },
   {
-    "id": "english-grammar-parts-of-speech-0145",
+    "id": "english-grammar-common-errors-0145",
     "category": "English & Grammar",
-    "subcategory": "Parts of Speech",
+    "subcategory": "Common Errors",
     "difficulty": "easy",
-    "question": "English grammar and usage: Which grammatical error occurs when two independent clauses are joined with only a comma without a conjunction? (Ref #145)",
+    "question": "Which sentence correctly uses 'bare' versus 'bear'?",
     "options": [
-      "Comma splice",
-      "Dangling modifier",
-      "Fragment",
-      "Split infinitive"
+      "He could not bear the heavy burden with his bare hands",
+      "He could not bare the heavy burden with his bear hands",
+      "He could not bare the heavy burden with his bare hands",
+      "He could not bear the heavy burden with his bear hands"
     ],
     "correctAnswer": 0,
-    "explanation": "A comma splice is the incorrect joining of two complete independent clauses with a comma alone.",
+    "explanation": "'Bear' = to endure or carry; 'bare' = unclothed or exposed.",
     "tags": [
       "english-grammar",
-      "parts-of-speech",
+      "common-errors",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "english-grammar-punctuation-syntax-0146",
+    "id": "english-grammar-common-errors-0146",
     "category": "English & Grammar",
-    "subcategory": "Punctuation & Syntax",
+    "subcategory": "Common Errors",
     "difficulty": "medium",
-    "question": "English grammar and usage: In English grammar, what part of speech describes, quantifies, or modifies a noun or pronoun? (Ref #146)",
+    "question": "Which sentence correctly uses 'stationery' versus 'stationary'?",
     "options": [
-      "Adverb",
-      "Adjective",
-      "Preposition",
-      "Conjunction"
+      "The exercise bike remained stationery while she wrote on her new floral stationary",
+      "The exercise bike remained stationary while she wrote on her new floral stationery",
+      "The exercise bike remained stationery while she wrote on her new floral stationery",
+      "The exercise bike remained stationary while she wrote on her new floral stationary"
     ],
     "correctAnswer": 1,
-    "explanation": "Adjectives modify or describe nouns and pronouns (e.g., 'gentle breeze', 'five stars').",
+    "explanation": "'Stationary' with an 'a' means standing still; 'stationery' with an 'e' means paper and envelopes.",
     "tags": [
       "english-grammar",
-      "punctuation-syntax",
+      "common-errors",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "english-grammar-vocabulary-etymology-0147",
+    "id": "english-grammar-common-errors-0147",
     "category": "English & Grammar",
-    "subcategory": "Vocabulary & Etymology",
+    "subcategory": "Common Errors",
     "difficulty": "hard",
-    "question": "English grammar and usage: What punctuation mark is used to link two closely related independent clauses without a coordinating conjunction? (Ref #147)",
+    "question": "Which sentence correctly uses 'allusion' versus 'illusion'?",
     "options": [
-      "Comma (,)",
-      "Hyphen (-)",
-      "Semicolon (;)",
-      "Slash (/)"
+      "The speaker made an illusion to Shakespeare, but the magician created an optical allusion",
+      "The speaker made an illusion to Shakespeare, but the magician created an optical illusion",
+      "The speaker made an allusion to Shakespeare, but the magician created an optical illusion",
+      "The speaker made an allusion to Shakespeare, but the magician created an optical allusion"
     ],
     "correctAnswer": 2,
-    "explanation": "A semicolon joins two independent clauses that are closely connected in thought when no conjunction is used.",
+    "explanation": "'Allusion' is an indirect reference; 'illusion' is a deceptive optical perception.",
     "tags": [
       "english-grammar",
-      "vocabulary-etymology",
+      "common-errors",
       "hard"
     ],
     "active": true
@@ -3091,15 +3091,15 @@
     "category": "English & Grammar",
     "subcategory": "Common Errors",
     "difficulty": "easy",
-    "question": "English grammar and usage: Which word represents the possessive form in the English homophone trio: they're / there / their? (Ref #148)",
+    "question": "Which sentence correctly uses 'eminent' versus 'imminent'?",
     "options": [
-      "They're (contraction of they are)",
-      "There (indicating place or direction)",
-      "Theyre (without apostrophe)",
-      "Their (e.g., 'their books')"
+      "The imminent scientist warned that a severe storm was eminent",
+      "The eminent scientist warned that a severe storm was eminent",
+      "The imminent scientist warned that a severe storm was imminent",
+      "The eminent scientist warned that a severe storm was imminent"
     ],
     "correctAnswer": 3,
-    "explanation": "'Their' is the possessive pronoun; 'they're' is a contraction of 'they are'; and 'there' refers to location.",
+    "explanation": "'Eminent' means distinguished and prominent; 'imminent' means about to happen soon.",
     "tags": [
       "english-grammar",
       "common-errors",
@@ -3108,64 +3108,64 @@
     "active": true
   },
   {
-    "id": "english-grammar-parts-of-speech-0149",
+    "id": "english-grammar-common-errors-0149",
     "category": "English & Grammar",
-    "subcategory": "Parts of Speech",
+    "subcategory": "Common Errors",
     "difficulty": "medium",
-    "question": "English grammar and usage: Identify the sentence structured in active voice rather than passive voice. (Ref #149)",
+    "question": "Which sentence correctly uses 'elicit' versus 'illicit'?",
     "options": [
-      "The nurse administered the medication promptly.",
-      "The medication was administered by the nurse.",
-      "The report was prepared by the technician.",
-      "The test was completed yesterday."
+      "The detective tried to elicit information about the illicit drug operation",
+      "The detective tried to illicit information about the elicit drug operation",
+      "The detective tried to illicit information about the illicit drug operation",
+      "The detective tried to elicit information about the elicit drug operation"
     ],
     "correctAnswer": 0,
-    "explanation": "In active voice, the subject performs the action directly: 'The nurse (subject) administered (verb) the medication (object)'.",
+    "explanation": "'Elicit' is a verb meaning to draw forth; 'illicit' is an adjective meaning unlawful.",
     "tags": [
       "english-grammar",
-      "parts-of-speech",
+      "common-errors",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "english-grammar-punctuation-syntax-0150",
+    "id": "english-grammar-common-errors-0150",
     "category": "English & Grammar",
-    "subcategory": "Punctuation & Syntax",
+    "subcategory": "Common Errors",
     "difficulty": "hard",
-    "question": "English grammar and usage: Which grammatical error occurs when two independent clauses are joined with only a comma without a conjunction? (Ref #150)",
+    "question": "Which sentence correctly uses 'capital' versus 'capitol'?",
     "options": [
-      "Dangling modifier",
-      "Comma splice",
-      "Fragment",
-      "Split infinitive"
+      "The state capitol city features a historic capital building with a gold dome",
+      "The state capital city features a historic capitol building with a gold dome",
+      "The state capitol city features a historic capitol building with a gold dome",
+      "The state capital city features a historic capital building with a gold dome"
     ],
     "correctAnswer": 1,
-    "explanation": "A comma splice is the incorrect joining of two complete independent clauses with a comma alone.",
+    "explanation": "'Capital' = principal city or wealth; 'capitol' = specific legislative building.",
     "tags": [
       "english-grammar",
-      "punctuation-syntax",
+      "common-errors",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "english-grammar-vocabulary-etymology-0151",
+    "id": "english-grammar-common-errors-0151",
     "category": "English & Grammar",
-    "subcategory": "Vocabulary & Etymology",
+    "subcategory": "Common Errors",
     "difficulty": "easy",
-    "question": "English grammar and usage: In English grammar, what part of speech describes, quantifies, or modifies a noun or pronoun? (Ref #151)",
+    "question": "Which sentence correctly uses 'accept' versus 'except'?",
     "options": [
-      "Adverb",
-      "Preposition",
-      "Adjective",
-      "Conjunction"
+      "I except your gracious invitation, as everyone is going accept John",
+      "I except your gracious invitation, as everyone is going except John",
+      "I accept your gracious invitation, as everyone is going except John",
+      "I accept your gracious invitation, as everyone is going accept John"
     ],
     "correctAnswer": 2,
-    "explanation": "Adjectives modify or describe nouns and pronouns (e.g., 'gentle breeze', 'five stars').",
+    "explanation": "'Accept' means to receive; 'except' means excluding.",
     "tags": [
       "english-grammar",
-      "vocabulary-etymology",
+      "common-errors",
       "easy"
     ],
     "active": true
@@ -3175,15 +3175,15 @@
     "category": "English & Grammar",
     "subcategory": "Common Errors",
     "difficulty": "medium",
-    "question": "English grammar and usage: What punctuation mark is used to link two closely related independent clauses without a coordinating conjunction? (Ref #152)",
+    "question": "Which sentence correctly uses 'advice' versus 'advise'?",
     "options": [
-      "Comma (,)",
-      "Hyphen (-)",
-      "Slash (/)",
-      "Semicolon (;)"
+      "My mentor gave me wise advise, and I advice you to listen carefully",
+      "My mentor gave me wise advice, and I advice you to listen carefully",
+      "My mentor gave me wise advise, and I advise you to listen carefully",
+      "My mentor gave me wise advice, and I advise you to listen carefully"
     ],
     "correctAnswer": 3,
-    "explanation": "A semicolon joins two independent clauses that are closely connected in thought when no conjunction is used.",
+    "explanation": "'Advice' is a noun; 'advise' is the verb meaning to offer guidance.",
     "tags": [
       "english-grammar",
       "common-errors",
@@ -3192,64 +3192,64 @@
     "active": true
   },
   {
-    "id": "english-grammar-parts-of-speech-0153",
+    "id": "english-grammar-common-errors-0153",
     "category": "English & Grammar",
-    "subcategory": "Parts of Speech",
+    "subcategory": "Common Errors",
     "difficulty": "hard",
-    "question": "English grammar and usage: Which word represents the possessive form in the English homophone trio: they're / there / their? (Ref #153)",
+    "question": "Which sentence correctly uses 'allude' versus 'elude'?",
     "options": [
-      "Their (e.g., 'their books')",
-      "They're (contraction of they are)",
-      "There (indicating place or direction)",
-      "Theyre (without apostrophe)"
+      "The suspect managed to elude the police, who alluded to his past crimes in the press briefing",
+      "The suspect managed to allude the police, who eluded to his past crimes in the press briefing",
+      "The suspect managed to allude the police, who alluded to his past crimes in the press briefing",
+      "The suspect managed to elude the police, who eluded to his past crimes in the press briefing"
     ],
     "correctAnswer": 0,
-    "explanation": "'Their' is the possessive pronoun; 'they're' is a contraction of 'they are'; and 'there' refers to location.",
+    "explanation": "'Elude' means to escape or evade; 'allude' means to make an indirect reference.",
     "tags": [
       "english-grammar",
-      "parts-of-speech",
+      "common-errors",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "english-grammar-punctuation-syntax-0154",
+    "id": "english-grammar-common-errors-0154",
     "category": "English & Grammar",
-    "subcategory": "Punctuation & Syntax",
+    "subcategory": "Common Errors",
     "difficulty": "easy",
-    "question": "English grammar and usage: Identify the sentence structured in active voice rather than passive voice. (Ref #154)",
+    "question": "Which sentence correctly uses 'climactic' versus 'climatic'?",
     "options": [
-      "The medication was administered by the nurse.",
-      "The nurse administered the medication promptly.",
-      "The report was prepared by the technician.",
-      "The test was completed yesterday."
+      "The climactic changes in the Arctic led to the movie's climatic final scene",
+      "The climatic changes in the Arctic led to the movie's climactic final scene",
+      "The climactic changes in the Arctic led to the movie's climactic final scene",
+      "The climatic changes in the Arctic led to the movie's climatic final scene"
     ],
     "correctAnswer": 1,
-    "explanation": "In active voice, the subject performs the action directly: 'The nurse (subject) administered (verb) the medication (object)'.",
+    "explanation": "'Climatic' relates to climate/weather; 'climactic' relates to a narrative climax.",
     "tags": [
       "english-grammar",
-      "punctuation-syntax",
+      "common-errors",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "english-grammar-vocabulary-etymology-0155",
+    "id": "english-grammar-common-errors-0155",
     "category": "English & Grammar",
-    "subcategory": "Vocabulary & Etymology",
+    "subcategory": "Common Errors",
     "difficulty": "medium",
-    "question": "English grammar and usage: Which grammatical error occurs when two independent clauses are joined with only a comma without a conjunction? (Ref #155)",
+    "question": "Which sentence correctly uses 'censor' versus 'censure'?",
     "options": [
-      "Dangling modifier",
-      "Fragment",
-      "Comma splice",
-      "Split infinitive"
+      "The board voted to censor the mayor after he attempted to censure the local newspaper",
+      "The board voted to censor the mayor after he attempted to censor the local newspaper",
+      "The board voted to censure the mayor after he attempted to censor the local newspaper",
+      "The board voted to censure the mayor after he attempted to censure the local newspaper"
     ],
     "correctAnswer": 2,
-    "explanation": "A comma splice is the incorrect joining of two complete independent clauses with a comma alone.",
+    "explanation": "'Censure' means formal official reprimand; 'censor' means to suppress objectionable content.",
     "tags": [
       "english-grammar",
-      "vocabulary-etymology",
+      "common-errors",
       "medium"
     ],
     "active": true
@@ -3259,15 +3259,15 @@
     "category": "English & Grammar",
     "subcategory": "Common Errors",
     "difficulty": "hard",
-    "question": "English grammar and usage: In English grammar, what part of speech describes, quantifies, or modifies a noun or pronoun? (Ref #156)",
+    "question": "Which sentence correctly uses 'discrete' versus 'discreet'?",
     "options": [
-      "Adverb",
-      "Preposition",
-      "Conjunction",
-      "Adjective"
+      "The investigator made discrete inquiries into the three discreet phases of the project",
+      "The investigator made discrete inquiries into the three discrete phases of the project",
+      "The investigator made discreet inquiries into the three discreet phases of the project",
+      "The investigator made discreet inquiries into the three discrete phases of the project"
     ],
     "correctAnswer": 3,
-    "explanation": "Adjectives modify or describe nouns and pronouns (e.g., 'gentle breeze', 'five stars').",
+    "explanation": "'Discreet' means cautious and prudent; 'discrete' means distinct and separate.",
     "tags": [
       "english-grammar",
       "common-errors",
@@ -3276,64 +3276,64 @@
     "active": true
   },
   {
-    "id": "english-grammar-parts-of-speech-0157",
+    "id": "english-grammar-common-errors-0157",
     "category": "English & Grammar",
-    "subcategory": "Parts of Speech",
+    "subcategory": "Common Errors",
     "difficulty": "easy",
-    "question": "English grammar and usage: What punctuation mark is used to link two closely related independent clauses without a coordinating conjunction? (Ref #157)",
+    "question": "Which sentence correctly uses 'ensure' versus 'insure'?",
     "options": [
-      "Semicolon (;)",
-      "Comma (,)",
-      "Hyphen (-)",
-      "Slash (/)"
+      "Please ensure all windows are locked to insure the property against theft",
+      "Please insure all windows are locked to ensure the property against theft",
+      "Please insure all windows are locked to insure the property against theft",
+      "Please ensure all windows are locked to ensure the property against theft"
     ],
     "correctAnswer": 0,
-    "explanation": "A semicolon joins two independent clauses that are closely connected in thought when no conjunction is used.",
+    "explanation": "'Ensure' means to make certain; 'insure' means to protect with a financial insurance policy.",
     "tags": [
       "english-grammar",
-      "parts-of-speech",
+      "common-errors",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "english-grammar-punctuation-syntax-0158",
+    "id": "english-grammar-common-errors-0158",
     "category": "English & Grammar",
-    "subcategory": "Punctuation & Syntax",
+    "subcategory": "Common Errors",
     "difficulty": "medium",
-    "question": "English grammar and usage: Which word represents the possessive form in the English homophone trio: they're / there / their? (Ref #158)",
+    "question": "Which sentence correctly uses 'altogether' versus 'all together'?",
     "options": [
-      "They're (contraction of they are)",
-      "Their (e.g., 'their books')",
-      "There (indicating place or direction)",
-      "Theyre (without apostrophe)"
+      "It is all together wonderful that we are singing altogether as a family",
+      "It is altogether wonderful that we are singing all together as a family",
+      "It is altogether wonderful that we are singing altogether as a family",
+      "It is all together wonderful that we are singing all together as a family"
     ],
     "correctAnswer": 1,
-    "explanation": "'Their' is the possessive pronoun; 'they're' is a contraction of 'they are'; and 'there' refers to location.",
+    "explanation": "'Altogether' means completely or entirely; 'all together' means gathered collectively in one place.",
     "tags": [
       "english-grammar",
-      "punctuation-syntax",
+      "common-errors",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "english-grammar-vocabulary-etymology-0159",
+    "id": "english-grammar-common-errors-0159",
     "category": "English & Grammar",
-    "subcategory": "Vocabulary & Etymology",
+    "subcategory": "Common Errors",
     "difficulty": "hard",
-    "question": "English grammar and usage: Identify the sentence structured in active voice rather than passive voice. (Ref #159)",
+    "question": "Which sentence correctly uses 'passed' versus 'past'?",
     "options": [
-      "The medication was administered by the nurse.",
-      "The report was prepared by the technician.",
-      "The nurse administered the medication promptly.",
-      "The test was completed yesterday."
+      "The car past our house at 60 mph, racing passed the stop sign",
+      "The car past our house at 60 mph, racing past the stop sign",
+      "The car passed our house at 60 mph, racing past the stop sign",
+      "The car passed our house at 60 mph, racing passed the stop sign"
     ],
     "correctAnswer": 2,
-    "explanation": "In active voice, the subject performs the action directly: 'The nurse (subject) administered (verb) the medication (object)'.",
+    "explanation": "'Passed' is the past tense verb of 'pass'; 'past' functions as a preposition or noun indicating beyond.",
     "tags": [
       "english-grammar",
-      "vocabulary-etymology",
+      "common-errors",
       "hard"
     ],
     "active": true
@@ -3343,15 +3343,15 @@
     "category": "English & Grammar",
     "subcategory": "Common Errors",
     "difficulty": "easy",
-    "question": "English grammar and usage: Which grammatical error occurs when two independent clauses are joined with only a comma without a conjunction? (Ref #160)",
+    "question": "Which sentence correctly uses 'breathe' versus 'breath'?",
     "options": [
-      "Dangling modifier",
-      "Fragment",
-      "Split infinitive",
-      "Comma splice"
+      "Take a deep breathe and breath slowly through your nose",
+      "Take a deep breathe and breathe slowly through your nose",
+      "Take a deep breath and breath slowly through your nose",
+      "Take a deep breath and breathe slowly through your nose"
     ],
     "correctAnswer": 3,
-    "explanation": "A comma splice is the incorrect joining of two complete independent clauses with a comma alone.",
+    "explanation": "'Breath' (rhymes with death) is the noun; 'breathe' (with final 'e') is the action verb.",
     "tags": [
       "english-grammar",
       "common-errors",

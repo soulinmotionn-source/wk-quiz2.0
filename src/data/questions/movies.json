@@ -4,15 +4,15 @@
     "category": "Movies",
     "subcategory": "Classic Cinema",
     "difficulty": "easy",
-    "question": "Regarding cinema and movie history: Which iconic film quote is spoken by Humphrey Bogart to Ingrid Bergman in the 1942 classic 'Casablanca'? (Ref #1)",
+    "question": "What 1941 drama, directed by and starring 25-year-old Orson Welles, is frequently cited by film critics as the greatest motion picture ever made?",
     "options": [
-      "Here's looking at you, kid.",
-      "Frankly, my dear, I don't give a damn.",
-      "May the Force be with you.",
-      "You had me at hello."
+      "Citizen Kane",
+      "Casablanca",
+      "The Third Man",
+      "Sunset Boulevard"
     ],
     "correctAnswer": 0,
-    "explanation": "Humphrey Bogart playing Rick Blaine famously says 'Here's looking at you, kid' to Ilsa Lund in Casablanca.",
+    "explanation": "Welles pioneered deep-focus cinematography with Gregg Toland, non-linear flashback storytelling, and ceiling sets in this portrait of media magnate Charles Foster Kane.",
     "tags": [
       "movies",
       "classic-cinema",
@@ -21,64 +21,64 @@
     "active": true
   },
   {
-    "id": "movies-oscar-winners-0002",
+    "id": "movies-classic-cinema-0002",
     "category": "Movies",
-    "subcategory": "Oscar Winners",
+    "subcategory": "Classic Cinema",
     "difficulty": "medium",
-    "question": "Regarding cinema and movie history: Which visionary director directed both 'Jurassic Park' and the historical epic 'Schindler's List' in the year 1993? (Ref #2)",
+    "question": "What 1942 romantic wartime drama starring Humphrey Bogart and Ingrid Bergman is set in Vichy-controlled French Morocco during World War II?",
     "options": [
-      "James Cameron",
-      "Steven Spielberg",
-      "Martin Scorsese",
-      "Stanley Kubrick"
+      "The Maltese Falcon",
+      "Casablanca",
+      "Notorious",
+      "To Have and Have Not"
     ],
     "correctAnswer": 1,
-    "explanation": "Steven Spielberg released both the groundbreaking blockbuster Jurassic Park and the multi-Oscar winning Schindler's List in 1993.",
+    "explanation": "Bogart played jaded nightclub owner Rick Blaine facing his former lover Ilsa Lund, directed by Michael Curtiz.",
     "tags": [
       "movies",
-      "oscar-winners",
+      "classic-cinema",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "movies-famous-quotes-0003",
+    "id": "movies-classic-cinema-0003",
     "category": "Movies",
-    "subcategory": "Famous Quotes",
+    "subcategory": "Classic Cinema",
     "difficulty": "hard",
-    "question": "Regarding cinema and movie history: Which film shares the historic record of winning 11 Academy Awards alongside 'Ben-Hur' and 'Titanic'? (Ref #3)",
+    "question": "What 1939 Technicolor musical fantasy, directed by Victor Fleming, follows a Kansas farm girl swept away by a tornado?",
     "options": [
-      "The Godfather Part II",
-      "Gladiator",
-      "The Lord of the Rings: The Return of the King",
-      "La La Land"
+      "Gone with the Wind",
+      "Meet Me in St. Louis",
+      "The Wizard of Oz",
+      "Singin' in the Rain"
     ],
     "correctAnswer": 2,
-    "explanation": "The Lord of the Rings: The Return of the King (2003) swept all 11 Oscars it was nominated for, tying Titanic and Ben-Hur.",
+    "explanation": "Judy Garland starred as Dorothy Gale walking the yellow brick road to the Emerald City with the Scarecrow, Tin Man, and Cowardly Lion.",
     "tags": [
       "movies",
-      "famous-quotes",
+      "classic-cinema",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "movies-blockbusters-0004",
+    "id": "movies-classic-cinema-0004",
     "category": "Movies",
-    "subcategory": "Blockbusters",
+    "subcategory": "Classic Cinema",
     "difficulty": "easy",
-    "question": "Regarding cinema and movie history: In the 1972 cinematic masterpiece 'The Godfather', which legendary actor portrayed the patriarch Don Vito Corleone? (Ref #4)",
+    "question": "What 1939 historical epic, set against the American Civil War and Reconstruction, starred Vivien Leigh as Scarlett O'Hara?",
     "options": [
-      "Al Pacino",
-      "Robert De Niro",
-      "James Caan",
-      "Marlon Brando"
+      "Jezebel",
+      "Birth of a Nation",
+      "Wuthering Heights",
+      "Gone with the Wind"
     ],
     "correctAnswer": 3,
-    "explanation": "Marlon Brando won the Academy Award for Best Actor for his unforgettable portrayal of Don Vito Corleone in The Godfather.",
+    "explanation": "Clark Gable played Rhett Butler in this adaptation of Margaret Mitchell's novel, which won eight competitive Academy Awards.",
     "tags": [
       "movies",
-      "blockbusters",
+      "classic-cinema",
       "easy"
     ],
     "active": true
@@ -88,15 +88,15 @@
     "category": "Movies",
     "subcategory": "Classic Cinema",
     "difficulty": "medium",
-    "question": "Regarding cinema and movie history: In Orson Welles' 1941 classic 'Citizen Kane', what mystery object is revealed to be 'Rosebud'? (Ref #5)",
+    "question": "What 1950 Billy Wilder film noir masterpiece stars Gloria Swanson as faded silent film star Norma Desmond plotting her comeback?",
     "options": [
-      "A childhood sled",
-      "A childhood pet dog",
-      "A childhood snow globe",
-      "A gold pocket watch"
+      "Sunset Boulevard",
+      "Double Indemnity",
+      "All About Eve",
+      "The Big Sleep"
     ],
     "correctAnswer": 0,
-    "explanation": "Rosebud is revealed at the climax to be the trade name painted on Charles Foster Kane's childhood winter sled.",
+    "explanation": "Swanson delivered her iconic line: 'I am big. It's the pictures that got small,' alongside William Holden as a struggling screenwriter.",
     "tags": [
       "movies",
       "classic-cinema",
@@ -105,64 +105,64 @@
     "active": true
   },
   {
-    "id": "movies-oscar-winners-0006",
+    "id": "movies-classic-cinema-0006",
     "category": "Movies",
-    "subcategory": "Oscar Winners",
+    "subcategory": "Classic Cinema",
     "difficulty": "hard",
-    "question": "Regarding cinema and movie history: Which horror and suspense director created the 1960 psychological thriller 'Psycho' featuring the famous shower scene? (Ref #6)",
+    "question": "What 1952 musical comedy, starring Gene Kelly, Donald O'Connor, and Debbie Reynolds, depicts Hollywood's tumultuous transition from silent films to talkies?",
     "options": [
-      "Roman Polanski",
-      "Alfred Hitchcock",
-      "William Friedkin",
-      "John Carpenter"
+      "An American in Paris",
+      "Singin' in the Rain",
+      "Band Wagon",
+      "Easter Parade"
     ],
     "correctAnswer": 1,
-    "explanation": "Alfred Hitchcock directed Psycho, starring Anthony Perkins as Norman Bates with revolutionary editing and Bernard Herrmann's screeching strings.",
+    "explanation": "Gene Kelly's joyful umbrella-twirling title number while splashing in street puddles remains one of cinema's most famous dance sequences.",
     "tags": [
       "movies",
-      "oscar-winners",
+      "classic-cinema",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "movies-famous-quotes-0007",
+    "id": "movies-classic-cinema-0007",
     "category": "Movies",
-    "subcategory": "Famous Quotes",
+    "subcategory": "Classic Cinema",
     "difficulty": "easy",
-    "question": "Regarding cinema and movie history: What was the first feature-length animated film ever produced in color and sound by Walt Disney in 1937? (Ref #7)",
+    "question": "What 1960 psychological horror film, directed by Alfred Hitchcock, features the iconic shower murder scene in the Bates Motel?",
     "options": [
-      "Pinocchio",
-      "Fantasia",
-      "Snow White and the Seven Dwarfs",
-      "Bambi"
+      "Vertigo",
+      "Rear Window",
+      "Psycho",
+      "The Birds"
     ],
     "correctAnswer": 2,
-    "explanation": "Snow White and the Seven Dwarfs premiered in December 1937 as the historic first cel-animated feature film in Technicolor.",
+    "explanation": "Hitchcock broke Hollywood conventions by killing off star Janet Leigh early in the film, accompanied by Bernard Herrmann's screeching strings.",
     "tags": [
       "movies",
-      "famous-quotes",
+      "classic-cinema",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "movies-blockbusters-0008",
+    "id": "movies-classic-cinema-0008",
     "category": "Movies",
-    "subcategory": "Blockbusters",
+    "subcategory": "Classic Cinema",
     "difficulty": "medium",
-    "question": "Regarding cinema and movie history: Which iconic film quote is spoken by Humphrey Bogart to Ingrid Bergman in the 1942 classic 'Casablanca'? (Ref #8)",
+    "question": "What 1958 Alfred Hitchcock psychological mystery thriller stars James Stewart as an acrophobic ex-detective obsessed with a woman played by Kim Novak?",
     "options": [
-      "Frankly, my dear, I don't give a damn.",
-      "May the Force be with you.",
-      "You had me at hello.",
-      "Here's looking at you, kid."
+      "Rear Window",
+      "North by Northwest",
+      "Dial M for Murder",
+      "Vertigo"
     ],
     "correctAnswer": 3,
-    "explanation": "Humphrey Bogart playing Rick Blaine famously says 'Here's looking at you, kid' to Ilsa Lund in Casablanca.",
+    "explanation": "Vertigo pioneered the 'dolly zoom' camera effect to visually recreate Scottie Ferguson's vertigo on the bell tower stairs.",
     "tags": [
       "movies",
-      "blockbusters",
+      "classic-cinema",
       "medium"
     ],
     "active": true
@@ -172,15 +172,15 @@
     "category": "Movies",
     "subcategory": "Classic Cinema",
     "difficulty": "hard",
-    "question": "Regarding cinema and movie history: Which visionary director directed both 'Jurassic Park' and the historical epic 'Schindler's List' in the year 1993? (Ref #9)",
+    "question": "What 1954 Alfred Hitchcock suspense thriller stars James Stewart as a wheelchair-bound photographer spying on his neighbors through a telephoto lens?",
     "options": [
-      "Steven Spielberg",
-      "James Cameron",
-      "Martin Scorsese",
-      "Stanley Kubrick"
+      "Rear Window",
+      "Rope",
+      "Shadow of a Doubt",
+      "Strangers on a Train"
     ],
     "correctAnswer": 0,
-    "explanation": "Steven Spielberg released both the groundbreaking blockbuster Jurassic Park and the multi-Oscar winning Schindler's List in 1993.",
+    "explanation": "Grace Kelly co-starred as Lisa Fremont, investigating whether neighbor Lars Thorwald murdered his invalid wife.",
     "tags": [
       "movies",
       "classic-cinema",
@@ -189,64 +189,64 @@
     "active": true
   },
   {
-    "id": "movies-oscar-winners-0010",
+    "id": "movies-classic-cinema-0010",
     "category": "Movies",
-    "subcategory": "Oscar Winners",
+    "subcategory": "Classic Cinema",
     "difficulty": "easy",
-    "question": "Regarding cinema and movie history: Which film shares the historic record of winning 11 Academy Awards alongside 'Ben-Hur' and 'Titanic'? (Ref #10)",
+    "question": "What 1962 sweeping British epic historical drama, directed by David Lean and starring Peter O'Toole, depicts the Arab Revolt against the Ottoman Empire?",
     "options": [
-      "The Godfather Part II",
-      "The Lord of the Rings: The Return of the King",
-      "Gladiator",
-      "La La Land"
+      "The Bridge on the River Kwai",
+      "Lawrence of Arabia",
+      "Doctor Zhivago",
+      "A Passage to India"
     ],
     "correctAnswer": 1,
-    "explanation": "The Lord of the Rings: The Return of the King (2003) swept all 11 Oscars it was nominated for, tying Titanic and Ben-Hur.",
+    "explanation": "Freddie Young's 70mm desert cinematography and Maurice Jarre's score won seven Academy Awards including Best Picture.",
     "tags": [
       "movies",
-      "oscar-winners",
+      "classic-cinema",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "movies-famous-quotes-0011",
+    "id": "movies-classic-cinema-0011",
     "category": "Movies",
-    "subcategory": "Famous Quotes",
+    "subcategory": "Classic Cinema",
     "difficulty": "medium",
-    "question": "Regarding cinema and movie history: In the 1972 cinematic masterpiece 'The Godfather', which legendary actor portrayed the patriarch Don Vito Corleone? (Ref #11)",
+    "question": "What 1946 Frank Capra holiday fantasy drama stars James Stewart as George Bailey discovering what life in Bedford Falls would be like without him?",
     "options": [
-      "Al Pacino",
-      "Robert De Niro",
-      "Marlon Brando",
-      "James Caan"
+      "Mr. Smith Goes to Washington",
+      "Meet John Doe",
+      "It's a Wonderful Life",
+      "The Shop Around the Corner"
     ],
     "correctAnswer": 2,
-    "explanation": "Marlon Brando won the Academy Award for Best Actor for his unforgettable portrayal of Don Vito Corleone in The Godfather.",
+    "explanation": "Guardian angel Clarence Odbody helps George realize that 'no man is a failure who has friends.'",
     "tags": [
       "movies",
-      "famous-quotes",
+      "classic-cinema",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "movies-blockbusters-0012",
+    "id": "movies-classic-cinema-0012",
     "category": "Movies",
-    "subcategory": "Blockbusters",
+    "subcategory": "Classic Cinema",
     "difficulty": "hard",
-    "question": "Regarding cinema and movie history: In Orson Welles' 1941 classic 'Citizen Kane', what mystery object is revealed to be 'Rosebud'? (Ref #12)",
+    "question": "What 1957 courtroom drama, directed by Sidney Lumet in his feature debut, takes place almost entirely within a hot jury room?",
     "options": [
-      "A childhood pet dog",
-      "A childhood snow globe",
-      "A gold pocket watch",
-      "A childhood sled"
+      "To Kill a Mockingbird",
+      "Witness for the Prosecution",
+      "Anatomy of a Murder",
+      "12 Angry Men"
     ],
     "correctAnswer": 3,
-    "explanation": "Rosebud is revealed at the climax to be the trade name painted on Charles Foster Kane's childhood winter sled.",
+    "explanation": "Henry Fonda stars as Juror 8, the lone holdout arguing reasonable doubt in a murder trial.",
     "tags": [
       "movies",
-      "blockbusters",
+      "classic-cinema",
       "hard"
     ],
     "active": true
@@ -256,15 +256,15 @@
     "category": "Movies",
     "subcategory": "Classic Cinema",
     "difficulty": "easy",
-    "question": "Regarding cinema and movie history: Which horror and suspense director created the 1960 psychological thriller 'Psycho' featuring the famous shower scene? (Ref #13)",
+    "question": "What 1962 drama, adapted from Harper Lee's Pulitzer Prize-winning novel, stars Gregory Peck as honorable Alabama lawyer Atticus Finch?",
     "options": [
-      "Alfred Hitchcock",
-      "Roman Polanski",
-      "William Friedkin",
-      "John Carpenter"
+      "To Kill a Mockingbird",
+      "In the Heat of the Night",
+      "Inherit the Wind",
+      "The Defiant Ones"
     ],
     "correctAnswer": 0,
-    "explanation": "Alfred Hitchcock directed Psycho, starring Anthony Perkins as Norman Bates with revolutionary editing and Bernard Herrmann's screeching strings.",
+    "explanation": "Peck won the Academy Award for Best Actor for his portrayal of Atticus defending Tom Robinson in the Jim Crow South.",
     "tags": [
       "movies",
       "classic-cinema",
@@ -273,64 +273,64 @@
     "active": true
   },
   {
-    "id": "movies-oscar-winners-0014",
+    "id": "movies-classic-cinema-0014",
     "category": "Movies",
-    "subcategory": "Oscar Winners",
+    "subcategory": "Classic Cinema",
     "difficulty": "medium",
-    "question": "Regarding cinema and movie history: What was the first feature-length animated film ever produced in color and sound by Walt Disney in 1937? (Ref #14)",
+    "question": "What 1954 Marlon Brando drama, directed by Elia Kazan, centers on a former boxer standing up to corrupt union bosses on the Hoboken waterfront?",
     "options": [
-      "Pinocchio",
-      "Snow White and the Seven Dwarfs",
-      "Fantasia",
-      "Bambi"
+      "A Streetcar Named Desire",
+      "On the Waterfront",
+      "The Wild One",
+      "Viva Zapata!"
     ],
     "correctAnswer": 1,
-    "explanation": "Snow White and the Seven Dwarfs premiered in December 1937 as the historic first cel-animated feature film in Technicolor.",
+    "explanation": "Brando's Terry Malloy delivered his legendary lament: 'I coulda had class. I coulda been a contender. I coulda been somebody.'",
     "tags": [
       "movies",
-      "oscar-winners",
+      "classic-cinema",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "movies-famous-quotes-0015",
+    "id": "movies-classic-cinema-0015",
     "category": "Movies",
-    "subcategory": "Famous Quotes",
+    "subcategory": "Classic Cinema",
     "difficulty": "hard",
-    "question": "Regarding cinema and movie history: Which iconic film quote is spoken by Humphrey Bogart to Ingrid Bergman in the 1942 classic 'Casablanca'? (Ref #15)",
+    "question": "What 1951 film adaptation of Tennessee Williams' play stars Marlon Brando as the raw, visceral Stanley Kowalski alongside Vivien Leigh?",
     "options": [
-      "Frankly, my dear, I don't give a damn.",
-      "May the Force be with you.",
-      "Here's looking at you, kid.",
-      "You had me at hello."
+      "Cat on a Hot Tin Roof",
+      "The Rose Tattoo",
+      "A Streetcar Named Desire",
+      "Suddenly, Last Summer"
     ],
     "correctAnswer": 2,
-    "explanation": "Humphrey Bogart playing Rick Blaine famously says 'Here's looking at you, kid' to Ilsa Lund in Casablanca.",
+    "explanation": "Brando's method acting revolutionized Hollywood screen performance, famous for his desperate cry of 'Stella!'",
     "tags": [
       "movies",
-      "famous-quotes",
+      "classic-cinema",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "movies-blockbusters-0016",
+    "id": "movies-classic-cinema-0016",
     "category": "Movies",
-    "subcategory": "Blockbusters",
+    "subcategory": "Classic Cinema",
     "difficulty": "easy",
-    "question": "Regarding cinema and movie history: Which visionary director directed both 'Jurassic Park' and the historical epic 'Schindler's List' in the year 1993? (Ref #16)",
+    "question": "What 1944 film noir, directed by Billy Wilder from a James M. Cain novel, stars Fred MacMurray and Barbara Stanwyck committing insurance murder?",
     "options": [
-      "James Cameron",
-      "Martin Scorsese",
-      "Stanley Kubrick",
-      "Steven Spielberg"
+      "The Postman Always Rings Twice",
+      "Laura",
+      "Out of the Past",
+      "Double Indemnity"
     ],
     "correctAnswer": 3,
-    "explanation": "Steven Spielberg released both the groundbreaking blockbuster Jurassic Park and the multi-Oscar winning Schindler's List in 1993.",
+    "explanation": "Stanwyck's cold-blooded femme fatale Phyllis Dietrichson manipulates insurance salesman Walter Neff to collect on an accidental death clause.",
     "tags": [
       "movies",
-      "blockbusters",
+      "classic-cinema",
       "easy"
     ],
     "active": true
@@ -340,15 +340,15 @@
     "category": "Movies",
     "subcategory": "Classic Cinema",
     "difficulty": "medium",
-    "question": "Regarding cinema and movie history: Which film shares the historic record of winning 11 Academy Awards alongside 'Ben-Hur' and 'Titanic'? (Ref #17)",
+    "question": "What 1949 British film noir, directed by Carol Reed with an iconic zither score by Anton Karas, stars Orson Welles as Harry Lime in postwar Vienna?",
     "options": [
-      "The Lord of the Rings: The Return of the King",
-      "The Godfather Part II",
-      "Gladiator",
-      "La La Land"
+      "The Third Man",
+      "Brighton Rock",
+      "Odd Man Out",
+      "The Fallen Idol"
     ],
     "correctAnswer": 0,
-    "explanation": "The Lord of the Rings: The Return of the King (2003) swept all 11 Oscars it was nominated for, tying Titanic and Ben-Hur.",
+    "explanation": "Welles delivers the famous 'cuckoo clock' speech on the Riesenrad Ferris wheel overlooking the ruined Austrian capital.",
     "tags": [
       "movies",
       "classic-cinema",
@@ -357,64 +357,64 @@
     "active": true
   },
   {
-    "id": "movies-oscar-winners-0018",
+    "id": "movies-classic-cinema-0018",
     "category": "Movies",
-    "subcategory": "Oscar Winners",
+    "subcategory": "Classic Cinema",
     "difficulty": "hard",
-    "question": "Regarding cinema and movie history: In the 1972 cinematic masterpiece 'The Godfather', which legendary actor portrayed the patriarch Don Vito Corleone? (Ref #18)",
+    "question": "What 1950 drama, directed by Joseph L. Mankiewicz, stars Bette Davis as aging Broadway star Margo Channing threatened by an ambitious young fan?",
     "options": [
-      "Al Pacino",
-      "Marlon Brando",
-      "Robert De Niro",
-      "James Caan"
+      "Sunset Boulevard",
+      "All About Eve",
+      "What Ever Happened to Baby Jane?",
+      "The Heiress"
     ],
     "correctAnswer": 1,
-    "explanation": "Marlon Brando won the Academy Award for Best Actor for his unforgettable portrayal of Don Vito Corleone in The Godfather.",
+    "explanation": "Bette Davis delivered the classic quip: 'Fasten your seat belts, it's going to be a bumpy night.'",
     "tags": [
       "movies",
-      "oscar-winners",
+      "classic-cinema",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "movies-famous-quotes-0019",
+    "id": "movies-classic-cinema-0019",
     "category": "Movies",
-    "subcategory": "Famous Quotes",
+    "subcategory": "Classic Cinema",
     "difficulty": "easy",
-    "question": "Regarding cinema and movie history: In Orson Welles' 1941 classic 'Citizen Kane', what mystery object is revealed to be 'Rosebud'? (Ref #19)",
+    "question": "What 1953 romantic comedy stars Gregory Peck as an American reporter showing Rome to a runaway European princess played by Audrey Hepburn?",
     "options": [
-      "A childhood pet dog",
-      "A childhood snow globe",
-      "A childhood sled",
-      "A gold pocket watch"
+      "Sabrina",
+      "Breakfast at Tiffany's",
+      "Roman Holiday",
+      "Funny Face"
     ],
     "correctAnswer": 2,
-    "explanation": "Rosebud is revealed at the climax to be the trade name painted on Charles Foster Kane's childhood winter sled.",
+    "explanation": "Hepburn won the Academy Award for Best Actress in her American screen debut, touring the Colosseum on a Vespa.",
     "tags": [
       "movies",
-      "famous-quotes",
+      "classic-cinema",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "movies-blockbusters-0020",
+    "id": "movies-classic-cinema-0020",
     "category": "Movies",
-    "subcategory": "Blockbusters",
+    "subcategory": "Classic Cinema",
     "difficulty": "medium",
-    "question": "Regarding cinema and movie history: Which horror and suspense director created the 1960 psychological thriller 'Psycho' featuring the famous shower scene? (Ref #20)",
+    "question": "What 1961 romantic comedy, adapted from Truman Capote's novella, stars Audrey Hepburn as quirky Manhattan socialite Holly Golightly?",
     "options": [
-      "Roman Polanski",
-      "William Friedkin",
-      "John Carpenter",
-      "Alfred Hitchcock"
+      "Charade",
+      "My Fair Lady",
+      "Sabrina",
+      "Breakfast at Tiffany's"
     ],
     "correctAnswer": 3,
-    "explanation": "Alfred Hitchcock directed Psycho, starring Anthony Perkins as Norman Bates with revolutionary editing and Bernard Herrmann's screeching strings.",
+    "explanation": "Hepburn's black Givenchy dress, oversized sunglasses, and performance of 'Moon River' became indelible fashion and cinema landmarks.",
     "tags": [
       "movies",
-      "blockbusters",
+      "classic-cinema",
       "medium"
     ],
     "active": true
@@ -424,15 +424,15 @@
     "category": "Movies",
     "subcategory": "Classic Cinema",
     "difficulty": "hard",
-    "question": "Regarding cinema and movie history: What was the first feature-length animated film ever produced in color and sound by Walt Disney in 1937? (Ref #21)",
+    "question": "What 1959 biblical epic, directed by William Wyler and starring Charlton Heston, won a then-record 11 Academy Awards?",
     "options": [
-      "Snow White and the Seven Dwarfs",
-      "Pinocchio",
-      "Fantasia",
-      "Bambi"
+      "Ben-Hur",
+      "The Ten Commandments",
+      "Spartacus",
+      "Cleopatra"
     ],
     "correctAnswer": 0,
-    "explanation": "Snow White and the Seven Dwarfs premiered in December 1937 as the historic first cel-animated feature film in Technicolor.",
+    "explanation": "The thrilling nine-minute live-action chariot race between Judah Ben-Hur and Messala remains a pinnacle of practical filmmaking.",
     "tags": [
       "movies",
       "classic-cinema",
@@ -441,64 +441,64 @@
     "active": true
   },
   {
-    "id": "movies-oscar-winners-0022",
+    "id": "movies-classic-cinema-0022",
     "category": "Movies",
-    "subcategory": "Oscar Winners",
+    "subcategory": "Classic Cinema",
     "difficulty": "easy",
-    "question": "Regarding cinema and movie history: Which iconic film quote is spoken by Humphrey Bogart to Ingrid Bergman in the 1942 classic 'Casablanca'? (Ref #22)",
+    "question": "What 1956 biblical epic, directed by Cecil B. DeMille, stars Charlton Heston as Moses leading the Hebrews out of Egypt?",
     "options": [
-      "Frankly, my dear, I don't give a damn.",
-      "Here's looking at you, kid.",
-      "May the Force be with you.",
-      "You had me at hello."
+      "Ben-Hur",
+      "The Ten Commandments",
+      "Samson and Delilah",
+      "The Robe"
     ],
     "correctAnswer": 1,
-    "explanation": "Humphrey Bogart playing Rick Blaine famously says 'Here's looking at you, kid' to Ilsa Lund in Casablanca.",
+    "explanation": "Featuring the iconic practical visual effect of parting the Red Sea, it was DeMille's final directorial work.",
     "tags": [
       "movies",
-      "oscar-winners",
+      "classic-cinema",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "movies-famous-quotes-0023",
+    "id": "movies-classic-cinema-0023",
     "category": "Movies",
-    "subcategory": "Famous Quotes",
+    "subcategory": "Classic Cinema",
     "difficulty": "medium",
-    "question": "Regarding cinema and movie history: Which visionary director directed both 'Jurassic Park' and the historical epic 'Schindler's List' in the year 1993? (Ref #23)",
+    "question": "What 1960 historical epic, directed by Stanley Kubrick and starring Kirk Douglas, centers on a rebellious gladiator leading a Roman slave revolt?",
     "options": [
-      "James Cameron",
-      "Martin Scorsese",
-      "Steven Spielberg",
-      "Stanley Kubrick"
+      "Ben-Hur",
+      "Gladiator",
+      "Spartacus",
+      "The Fall of the Roman Empire"
     ],
     "correctAnswer": 2,
-    "explanation": "Steven Spielberg released both the groundbreaking blockbuster Jurassic Park and the multi-Oscar winning Schindler's List in 1993.",
+    "explanation": "Written by blacklisted screenwriter Dalton Trumbo, the film features the defiant climax where enslaved gladiators declare 'I am Spartacus!'",
     "tags": [
       "movies",
-      "famous-quotes",
+      "classic-cinema",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "movies-blockbusters-0024",
+    "id": "movies-classic-cinema-0024",
     "category": "Movies",
-    "subcategory": "Blockbusters",
+    "subcategory": "Classic Cinema",
     "difficulty": "hard",
-    "question": "Regarding cinema and movie history: Which film shares the historic record of winning 11 Academy Awards alongside 'Ben-Hur' and 'Titanic'? (Ref #24)",
+    "question": "What 1964 black comedy political satire, directed by Stanley Kubrick, stars Peter Sellers in three distinct roles regarding nuclear war?",
     "options": [
-      "The Godfather Part II",
-      "Gladiator",
-      "La La Land",
-      "The Lord of the Rings: The Return of the King"
+      "Fail Safe",
+      "2001: A Space Odyssey",
+      "A Clockwork Orange",
+      "Dr. Strangelove"
     ],
     "correctAnswer": 3,
-    "explanation": "The Lord of the Rings: The Return of the King (2003) swept all 11 Oscars it was nominated for, tying Titanic and Ben-Hur.",
+    "explanation": "Peter Sellers played President Muffley, Group Captain Mandrake, and ex-Nazi scientist Dr. Strangelove as a rogue general triggers the apocalypse.",
     "tags": [
       "movies",
-      "blockbusters",
+      "classic-cinema",
       "hard"
     ],
     "active": true
@@ -508,15 +508,15 @@
     "category": "Movies",
     "subcategory": "Classic Cinema",
     "difficulty": "easy",
-    "question": "Regarding cinema and movie history: In the 1972 cinematic masterpiece 'The Godfather', which legendary actor portrayed the patriarch Don Vito Corleone? (Ref #25)",
+    "question": "What 1968 groundbreaking sci-fi masterpiece, directed by Stanley Kubrick, explores human evolution and the rogue AI supercomputer HAL 9000?",
     "options": [
-      "Marlon Brando",
-      "Al Pacino",
-      "Robert De Niro",
-      "James Caan"
+      "2001: A Space Odyssey",
+      "Solaris",
+      "Planet of the Apes",
+      "Close Encounters of the Third Kind"
     ],
     "correctAnswer": 0,
-    "explanation": "Marlon Brando won the Academy Award for Best Actor for his unforgettable portrayal of Don Vito Corleone in The Godfather.",
+    "explanation": "Set to Strauss's 'Also sprach Zarathustra', the film revolutionized cinematic visual effects and realistic depictions of space travel.",
     "tags": [
       "movies",
       "classic-cinema",
@@ -525,64 +525,64 @@
     "active": true
   },
   {
-    "id": "movies-oscar-winners-0026",
+    "id": "movies-classic-cinema-0026",
     "category": "Movies",
-    "subcategory": "Oscar Winners",
+    "subcategory": "Classic Cinema",
     "difficulty": "medium",
-    "question": "Regarding cinema and movie history: In Orson Welles' 1941 classic 'Citizen Kane', what mystery object is revealed to be 'Rosebud'? (Ref #26)",
+    "question": "What 1971 dystopian crime film, directed by Stanley Kubrick, stars Malcolm McDowell as juvenile delinquent Alex undergoing the 'Ludovico technique'?",
     "options": [
-      "A childhood pet dog",
-      "A childhood sled",
-      "A childhood snow globe",
-      "A gold pocket watch"
+      "Taxi Driver",
+      "A Clockwork Orange",
+      "Straw Dogs",
+      "Full Metal Jacket"
     ],
     "correctAnswer": 1,
-    "explanation": "Rosebud is revealed at the climax to be the trade name painted on Charles Foster Kane's childhood winter sled.",
+    "explanation": "Adapted from Anthony Burgess's novel, the film generated intense controversy for its stylized depiction of ultra-violence and Beethoven's Ninth.",
     "tags": [
       "movies",
-      "oscar-winners",
+      "classic-cinema",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "movies-famous-quotes-0027",
+    "id": "movies-classic-cinema-0027",
     "category": "Movies",
-    "subcategory": "Famous Quotes",
+    "subcategory": "Classic Cinema",
     "difficulty": "hard",
-    "question": "Regarding cinema and movie history: Which horror and suspense director created the 1960 psychological thriller 'Psycho' featuring the famous shower scene? (Ref #27)",
+    "question": "What 1957 Swedish philosophical masterpiece, directed by Ingmar Bergman, stars Max von Sydow as a medieval knight playing chess with Death?",
     "options": [
-      "Roman Polanski",
-      "William Friedkin",
-      "Alfred Hitchcock",
-      "John Carpenter"
+      "Wild Strawberries",
+      "Persona",
+      "The Seventh Seal",
+      "Fanny and Alexander"
     ],
     "correctAnswer": 2,
-    "explanation": "Alfred Hitchcock directed Psycho, starring Anthony Perkins as Norman Bates with revolutionary editing and Bernard Herrmann's screeching strings.",
+    "explanation": "Antonius Block stalls the personification of Death across a plague-ridden countryside in one of art-house cinema's defining images.",
     "tags": [
       "movies",
-      "famous-quotes",
+      "classic-cinema",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "movies-blockbusters-0028",
+    "id": "movies-classic-cinema-0028",
     "category": "Movies",
-    "subcategory": "Blockbusters",
+    "subcategory": "Classic Cinema",
     "difficulty": "easy",
-    "question": "Regarding cinema and movie history: What was the first feature-length animated film ever produced in color and sound by Walt Disney in 1937? (Ref #28)",
+    "question": "What 1954 Japanese epic, directed by Akira Kurosawa, follows a masterless ronin assembling six swordsmen to defend a farming village from bandits?",
     "options": [
-      "Pinocchio",
-      "Fantasia",
-      "Bambi",
-      "Snow White and the Seven Dwarfs"
+      "Rashomon",
+      "Yojimbo",
+      "Ran",
+      "Seven Samurai"
     ],
     "correctAnswer": 3,
-    "explanation": "Snow White and the Seven Dwarfs premiered in December 1937 as the historic first cel-animated feature film in Technicolor.",
+    "explanation": "Kurosawa's action masterpiece established the 'assembling the team' narrative archetype, adapted into The Magnificent Seven in Hollywood.",
     "tags": [
       "movies",
-      "blockbusters",
+      "classic-cinema",
       "easy"
     ],
     "active": true
@@ -592,15 +592,15 @@
     "category": "Movies",
     "subcategory": "Classic Cinema",
     "difficulty": "medium",
-    "question": "Regarding cinema and movie history: Which iconic film quote is spoken by Humphrey Bogart to Ingrid Bergman in the 1942 classic 'Casablanca'? (Ref #29)",
+    "question": "What 1950 Akira Kurosawa psychological drama depicts a murder from the contradictory, self-serving perspectives of four different witnesses?",
     "options": [
-      "Here's looking at you, kid.",
-      "Frankly, my dear, I don't give a damn.",
-      "May the Force be with you.",
-      "You had me at hello."
+      "Rashomon",
+      "Seven Samurai",
+      "Ikiru",
+      "Throne of Blood"
     ],
     "correctAnswer": 0,
-    "explanation": "Humphrey Bogart playing Rick Blaine famously says 'Here's looking at you, kid' to Ilsa Lund in Casablanca.",
+    "explanation": "The film won the Golden Lion in Venice and gave its name to the 'Rashomon effect' in legal and psychological theory.",
     "tags": [
       "movies",
       "classic-cinema",
@@ -609,64 +609,64 @@
     "active": true
   },
   {
-    "id": "movies-oscar-winners-0030",
+    "id": "movies-classic-cinema-0030",
     "category": "Movies",
-    "subcategory": "Oscar Winners",
+    "subcategory": "Classic Cinema",
     "difficulty": "hard",
-    "question": "Regarding cinema and movie history: Which visionary director directed both 'Jurassic Park' and the historical epic 'Schindler's List' in the year 1993? (Ref #30)",
+    "question": "What 1959 French New Wave crime drama, directed by Jean-Luc Godard, stars Jean-Paul Belmondo and Jean Seberg using revolutionary jump-cut editing?",
     "options": [
-      "James Cameron",
-      "Steven Spielberg",
-      "Martin Scorsese",
-      "Stanley Kubrick"
+      "The 400 Blows",
+      "Breathless (À bout de souffle)",
+      "Contempt",
+      "Band of Outsiders"
     ],
     "correctAnswer": 1,
-    "explanation": "Steven Spielberg released both the groundbreaking blockbuster Jurassic Park and the multi-Oscar winning Schindler's List in 1993.",
+    "explanation": "Godard threw out conventional Hollywood editing grammar, filming on the streets of Paris with handheld cameras and natural lighting.",
     "tags": [
       "movies",
-      "oscar-winners",
+      "classic-cinema",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "movies-famous-quotes-0031",
+    "id": "movies-classic-cinema-0031",
     "category": "Movies",
-    "subcategory": "Famous Quotes",
+    "subcategory": "Classic Cinema",
     "difficulty": "easy",
-    "question": "Regarding cinema and movie history: Which film shares the historic record of winning 11 Academy Awards alongside 'Ben-Hur' and 'Titanic'? (Ref #31)",
+    "question": "What 1959 François Truffaut coming-of-age drama launched the French New Wave with rebellious schoolboy Antoine Doinel?",
     "options": [
-      "The Godfather Part II",
-      "Gladiator",
-      "The Lord of the Rings: The Return of the King",
-      "La La Land"
+      "Jules and Jim",
+      "Shoot the Piano Player",
+      "The 400 Blows (Les Quatre Cents Coups)",
+      "Breathless"
     ],
     "correctAnswer": 2,
-    "explanation": "The Lord of the Rings: The Return of the King (2003) swept all 11 Oscars it was nominated for, tying Titanic and Ben-Hur.",
+    "explanation": "The film's famous final freeze-frame shot on the beach became a touchstone of cinematic modernism.",
     "tags": [
       "movies",
-      "famous-quotes",
+      "classic-cinema",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "movies-blockbusters-0032",
+    "id": "movies-classic-cinema-0032",
     "category": "Movies",
-    "subcategory": "Blockbusters",
+    "subcategory": "Classic Cinema",
     "difficulty": "medium",
-    "question": "Regarding cinema and movie history: In the 1972 cinematic masterpiece 'The Godfather', which legendary actor portrayed the patriarch Don Vito Corleone? (Ref #32)",
+    "question": "What 1960 Federico Fellini Italian drama coined the term 'paparazzo' and stars Marcello Mastroianni navigating hedonistic Rome high society?",
     "options": [
-      "Al Pacino",
-      "Robert De Niro",
-      "James Caan",
-      "Marlon Brando"
+      "8 1/2",
+      "La Strada",
+      "Nights of Cabiria",
+      "La Dolce Vita"
     ],
     "correctAnswer": 3,
-    "explanation": "Marlon Brando won the Academy Award for Best Actor for his unforgettable portrayal of Don Vito Corleone in The Godfather.",
+    "explanation": "Anita Ekberg wading into Rome's Trevi Fountain in a strapless black evening gown became one of cinema's most famous images.",
     "tags": [
       "movies",
-      "blockbusters",
+      "classic-cinema",
       "medium"
     ],
     "active": true
@@ -676,15 +676,15 @@
     "category": "Movies",
     "subcategory": "Classic Cinema",
     "difficulty": "hard",
-    "question": "Regarding cinema and movie history: In Orson Welles' 1941 classic 'Citizen Kane', what mystery object is revealed to be 'Rosebud'? (Ref #33)",
+    "question": "What 1963 semi-autobiographical Federico Fellini masterpiece stars Marcello Mastroianni as a blocked film director retreating into surreal memories?",
     "options": [
-      "A childhood sled",
-      "A childhood pet dog",
-      "A childhood snow globe",
-      "A gold pocket watch"
+      "8 1/2 (Otto e Mezzo)",
+      "La Dolce Vita",
+      "Amarcord",
+      "Juliet of the Spirits"
     ],
     "correctAnswer": 0,
-    "explanation": "Rosebud is revealed at the climax to be the trade name painted on Charles Foster Kane's childhood winter sled.",
+    "explanation": "8 1/2 defined cinematic surrealist stream-of-consciousness, winning the Academy Award for Best Foreign Language Film.",
     "tags": [
       "movies",
       "classic-cinema",
@@ -693,64 +693,64 @@
     "active": true
   },
   {
-    "id": "movies-oscar-winners-0034",
+    "id": "movies-classic-cinema-0034",
     "category": "Movies",
-    "subcategory": "Oscar Winners",
+    "subcategory": "Classic Cinema",
     "difficulty": "easy",
-    "question": "Regarding cinema and movie history: Which horror and suspense director created the 1960 psychological thriller 'Psycho' featuring the famous shower scene? (Ref #34)",
+    "question": "What 1966 Sergio Leone spaghetti western epic stars Clint Eastwood as the 'Man with No Name' seeking Confederate gold with Eli Wallach and Lee Van Cleef?",
     "options": [
-      "Roman Polanski",
-      "Alfred Hitchcock",
-      "William Friedkin",
-      "John Carpenter"
+      "A Fistful of Dollars",
+      "The Good, the Bad and the Ugly",
+      "For a Few Dollars More",
+      "Once Upon a Time in the West"
     ],
     "correctAnswer": 1,
-    "explanation": "Alfred Hitchcock directed Psycho, starring Anthony Perkins as Norman Bates with revolutionary editing and Bernard Herrmann's screeching strings.",
+    "explanation": "The final three-way Mexican standoff in Sad Hill cemetery, scored by Ennio Morricone's operatic trumpet music, is a western benchmark.",
     "tags": [
       "movies",
-      "oscar-winners",
+      "classic-cinema",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "movies-famous-quotes-0035",
+    "id": "movies-classic-cinema-0035",
     "category": "Movies",
-    "subcategory": "Famous Quotes",
+    "subcategory": "Classic Cinema",
     "difficulty": "medium",
-    "question": "Regarding cinema and movie history: What was the first feature-length animated film ever produced in color and sound by Walt Disney in 1937? (Ref #35)",
+    "question": "What 1967 Mike Nichols comedy-drama stars Dustin Hoffman as disillusioned college graduate Benjamin Braddock seduced by Anne Bancroft's Mrs. Robinson?",
     "options": [
-      "Pinocchio",
-      "Fantasia",
-      "Snow White and the Seven Dwarfs",
-      "Bambi"
+      "Midnight Cowboy",
+      "Bonnie and Clyde",
+      "The Graduate",
+      "Easy Rider"
     ],
     "correctAnswer": 2,
-    "explanation": "Snow White and the Seven Dwarfs premiered in December 1937 as the historic first cel-animated feature film in Technicolor.",
+    "explanation": "Featuring Simon & Garfunkel's soundtrack, The Graduate captured the late-1960s American generation gap and youth alienation.",
     "tags": [
       "movies",
-      "famous-quotes",
+      "classic-cinema",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "movies-blockbusters-0036",
+    "id": "movies-classic-cinema-0036",
     "category": "Movies",
-    "subcategory": "Blockbusters",
+    "subcategory": "Classic Cinema",
     "difficulty": "hard",
-    "question": "Regarding cinema and movie history: Which iconic film quote is spoken by Humphrey Bogart to Ingrid Bergman in the 1942 classic 'Casablanca'? (Ref #36)",
+    "question": "What 1967 Arthur Penn crime drama stars Warren Beatty and Faye Dunaway as depression-era bank robbers, heralding the 'New Hollywood' era?",
     "options": [
-      "Frankly, my dear, I don't give a damn.",
-      "May the Force be with you.",
-      "You had me at hello.",
-      "Here's looking at you, kid."
+      "The Wild Bunch",
+      "Easy Rider",
+      "Butch Cassidy and the Sundance Kid",
+      "Bonnie and Clyde"
     ],
     "correctAnswer": 3,
-    "explanation": "Humphrey Bogart playing Rick Blaine famously says 'Here's looking at you, kid' to Ilsa Lund in Casablanca.",
+    "explanation": "The film broke cinematic taboos with graphic violence, rapid editing, and sympathetic portrayals of countercultural outlaws.",
     "tags": [
       "movies",
-      "blockbusters",
+      "classic-cinema",
       "hard"
     ],
     "active": true
@@ -760,15 +760,15 @@
     "category": "Movies",
     "subcategory": "Classic Cinema",
     "difficulty": "easy",
-    "question": "Regarding cinema and movie history: Which visionary director directed both 'Jurassic Park' and the historical epic 'Schindler's List' in the year 1993? (Ref #37)",
+    "question": "What 1969 counterculture road movie, directed by Dennis Hopper and starring Peter Fonda, follows two motorcyclists traveling through the American South?",
     "options": [
-      "Steven Spielberg",
-      "James Cameron",
-      "Martin Scorsese",
-      "Stanley Kubrick"
+      "Easy Rider",
+      "Five Easy Pieces",
+      "Midnight Cowboy",
+      "The Last Picture Show"
     ],
     "correctAnswer": 0,
-    "explanation": "Steven Spielberg released both the groundbreaking blockbuster Jurassic Park and the multi-Oscar winning Schindler's List in 1993.",
+    "explanation": "Scored to rock tracks like Steppenwolf's 'Born to Be Wild', Easy Rider cost under $400,000 and grossed $60 million, transforming Hollywood studios.",
     "tags": [
       "movies",
       "classic-cinema",
@@ -777,85 +777,85 @@
     "active": true
   },
   {
-    "id": "movies-oscar-winners-0038",
+    "id": "movies-classic-cinema-0038",
     "category": "Movies",
-    "subcategory": "Oscar Winners",
+    "subcategory": "Classic Cinema",
     "difficulty": "medium",
-    "question": "Regarding cinema and movie history: Which film shares the historic record of winning 11 Academy Awards alongside 'Ben-Hur' and 'Titanic'? (Ref #38)",
+    "question": "What 1969 drama starring Dustin Hoffman and Jon Voight as street hustlers in New York City is the only X-rated film ever to win Best Picture?",
     "options": [
-      "The Godfather Part II",
-      "The Lord of the Rings: The Return of the King",
-      "Gladiator",
-      "La La Land"
+      "A Clockwork Orange",
+      "Midnight Cowboy",
+      "Taxi Driver",
+      "The French Connection"
     ],
     "correctAnswer": 1,
-    "explanation": "The Lord of the Rings: The Return of the King (2003) swept all 11 Oscars it was nominated for, tying Titanic and Ben-Hur.",
+    "explanation": "Directed by John Schlesinger, Midnight Cowboy was later re-rated R, praised for its raw empathy and 'I'm walkin' here!' scene.",
     "tags": [
       "movies",
-      "oscar-winners",
+      "classic-cinema",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "movies-famous-quotes-0039",
+    "id": "movies-oscar-winners-0039",
     "category": "Movies",
-    "subcategory": "Famous Quotes",
+    "subcategory": "Oscar Winners",
     "difficulty": "hard",
-    "question": "Regarding cinema and movie history: In the 1972 cinematic masterpiece 'The Godfather', which legendary actor portrayed the patriarch Don Vito Corleone? (Ref #39)",
+    "question": "What 1972 Francis Ford Coppola masterpiece, starring Marlon Brando and Al Pacino, won Best Picture for its depiction of the Corleone mafia family?",
     "options": [
-      "Al Pacino",
-      "Robert De Niro",
-      "Marlon Brando",
-      "James Caan"
+      "The Godfather Part II",
+      "Apocalypse Now",
+      "The Godfather",
+      "Goodfellas"
     ],
     "correctAnswer": 2,
-    "explanation": "Marlon Brando won the Academy Award for Best Actor for his unforgettable portrayal of Don Vito Corleone in The Godfather.",
+    "explanation": "The Godfather transformed the gangster genre into an American epic tragedy, based on Mario Puzo's bestselling novel.",
     "tags": [
       "movies",
-      "famous-quotes",
+      "oscar-winners",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "movies-blockbusters-0040",
+    "id": "movies-oscar-winners-0040",
     "category": "Movies",
-    "subcategory": "Blockbusters",
+    "subcategory": "Oscar Winners",
     "difficulty": "easy",
-    "question": "Regarding cinema and movie history: In Orson Welles' 1941 classic 'Citizen Kane', what mystery object is revealed to be 'Rosebud'? (Ref #40)",
+    "question": "What 1974 sequel won six Academy Awards, becoming the first sequel in Oscar history to win Best Picture?",
     "options": [
-      "A childhood pet dog",
-      "A childhood snow globe",
-      "A gold pocket watch",
-      "A childhood sled"
+      "The Empire Strikes Back",
+      "The French Connection II",
+      "Chinatown",
+      "The Godfather Part II"
     ],
     "correctAnswer": 3,
-    "explanation": "Rosebud is revealed at the climax to be the trade name painted on Charles Foster Kane's childhood winter sled.",
+    "explanation": "Intertwining Michael Corleone's moral decay with young Vito Corleone's rise in Little Italy, Robert De Niro won Best Supporting Actor.",
     "tags": [
       "movies",
-      "blockbusters",
+      "oscar-winners",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "movies-classic-cinema-0041",
+    "id": "movies-oscar-winners-0041",
     "category": "Movies",
-    "subcategory": "Classic Cinema",
+    "subcategory": "Oscar Winners",
     "difficulty": "medium",
-    "question": "Regarding cinema and movie history: Which horror and suspense director created the 1960 psychological thriller 'Psycho' featuring the famous shower scene? (Ref #41)",
+    "question": "What 1993 Steven Spielberg historical drama, shot in black-and-white, won seven Academy Awards for its portrayal of the Holocaust?",
     "options": [
-      "Alfred Hitchcock",
-      "Roman Polanski",
-      "William Friedkin",
-      "John Carpenter"
+      "Schindler's List",
+      "Saving Private Ryan",
+      "The Pianist",
+      "Life Is Beautiful"
     ],
     "correctAnswer": 0,
-    "explanation": "Alfred Hitchcock directed Psycho, starring Anthony Perkins as Norman Bates with revolutionary editing and Bernard Herrmann's screeching strings.",
+    "explanation": "Liam Neeson portrayed German industrialist Oskar Schindler, who saved over 1,100 Jewish lives by employing them in his enamelware factory.",
     "tags": [
       "movies",
-      "classic-cinema",
+      "oscar-winners",
       "medium"
     ],
     "active": true
@@ -865,15 +865,15 @@
     "category": "Movies",
     "subcategory": "Oscar Winners",
     "difficulty": "hard",
-    "question": "Regarding cinema and movie history: What was the first feature-length animated film ever produced in color and sound by Walt Disney in 1937? (Ref #42)",
+    "question": "What 1997 James Cameron epic romance, starring Leonardo DiCaprio and Kate Winslet, tied the record with 11 Academy Awards including Best Picture?",
     "options": [
-      "Pinocchio",
-      "Snow White and the Seven Dwarfs",
-      "Fantasia",
-      "Bambi"
+      "Avatar",
+      "Titanic",
+      "Gladiator",
+      "Braveheart"
     ],
     "correctAnswer": 1,
-    "explanation": "Snow White and the Seven Dwarfs premiered in December 1937 as the historic first cel-animated feature film in Technicolor.",
+    "explanation": "Titanic became the first film to gross $1 billion worldwide, praised for combining technical disaster recreation with a sweeping love story.",
     "tags": [
       "movies",
       "oscar-winners",
@@ -882,64 +882,64 @@
     "active": true
   },
   {
-    "id": "movies-famous-quotes-0043",
+    "id": "movies-oscar-winners-0043",
     "category": "Movies",
-    "subcategory": "Famous Quotes",
+    "subcategory": "Oscar Winners",
     "difficulty": "easy",
-    "question": "Regarding cinema and movie history: Which iconic film quote is spoken by Humphrey Bogart to Ingrid Bergman in the 1942 classic 'Casablanca'? (Ref #43)",
+    "question": "What 2003 fantasy conclusion, directed by Peter Jackson, won all 11 Academy Awards it was nominated for, sweeping every single category?",
     "options": [
-      "Frankly, my dear, I don't give a damn.",
-      "May the Force be with you.",
-      "Here's looking at you, kid.",
-      "You had me at hello."
+      "The Fellowship of the Ring",
+      "The Two Towers",
+      "The Lord of the Rings: The Return of the King",
+      "Gladiator"
     ],
     "correctAnswer": 2,
-    "explanation": "Humphrey Bogart playing Rick Blaine famously says 'Here's looking at you, kid' to Ilsa Lund in Casablanca.",
+    "explanation": "Jackson's Middle-earth finale tied Ben-Hur and Titanic for the most Oscar wins in history, celebrating the triumph over Sauron.",
     "tags": [
       "movies",
-      "famous-quotes",
+      "oscar-winners",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "movies-blockbusters-0044",
+    "id": "movies-oscar-winners-0044",
     "category": "Movies",
-    "subcategory": "Blockbusters",
+    "subcategory": "Oscar Winners",
     "difficulty": "medium",
-    "question": "Regarding cinema and movie history: Which visionary director directed both 'Jurassic Park' and the historical epic 'Schindler's List' in the year 1993? (Ref #44)",
+    "question": "What 1994 Robert Zemeckis comedy-drama starring Tom Hanks as an Alabama man with an IQ of 75 swept six Oscars including Best Picture?",
     "options": [
-      "James Cameron",
-      "Martin Scorsese",
-      "Stanley Kubrick",
-      "Steven Spielberg"
+      "The Shawshank Redemption",
+      "Pulp Fiction",
+      "Apollo 13",
+      "Forrest Gump"
     ],
     "correctAnswer": 3,
-    "explanation": "Steven Spielberg released both the groundbreaking blockbuster Jurassic Park and the multi-Oscar winning Schindler's List in 1993.",
+    "explanation": "Tom Hanks won his second consecutive Best Actor Oscar as Forrest witnessed pivotal moments of 20th-century American history.",
     "tags": [
       "movies",
-      "blockbusters",
+      "oscar-winners",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "movies-classic-cinema-0045",
+    "id": "movies-oscar-winners-0045",
     "category": "Movies",
-    "subcategory": "Classic Cinema",
+    "subcategory": "Oscar Winners",
     "difficulty": "hard",
-    "question": "Regarding cinema and movie history: Which film shares the historic record of winning 11 Academy Awards alongside 'Ben-Hur' and 'Titanic'? (Ref #45)",
+    "question": "What 1991 Jonathan Demme psychological horror film became only the third movie in history to sweep the 'Big Five' Academy Awards?",
     "options": [
-      "The Lord of the Rings: The Return of the King",
-      "The Godfather Part II",
-      "Gladiator",
-      "La La Land"
+      "The Silence of the Lambs",
+      "Misery",
+      "Cape Fear",
+      "Basic Instinct"
     ],
     "correctAnswer": 0,
-    "explanation": "The Lord of the Rings: The Return of the King (2003) swept all 11 Oscars it was nominated for, tying Titanic and Ben-Hur.",
+    "explanation": "It won Best Picture, Director, Actor (Anthony Hopkins as Hannibal Lecter), Actress (Jodie Foster as Clarice Starling), and Adapted Screenplay.",
     "tags": [
       "movies",
-      "classic-cinema",
+      "oscar-winners",
       "hard"
     ],
     "active": true
@@ -949,15 +949,15 @@
     "category": "Movies",
     "subcategory": "Oscar Winners",
     "difficulty": "easy",
-    "question": "Regarding cinema and movie history: In the 1972 cinematic masterpiece 'The Godfather', which legendary actor portrayed the patriarch Don Vito Corleone? (Ref #46)",
+    "question": "What 1975 Miloš Forman drama set in an Oregon psychiatric hospital swept the 'Big Five' Academy Awards?",
     "options": [
-      "Al Pacino",
-      "Marlon Brando",
-      "Robert De Niro",
-      "James Caan"
+      "The Silence of the Lambs",
+      "One Flew Over the Cuckoo's Nest",
+      "It Happened One Night",
+      "Network"
     ],
     "correctAnswer": 1,
-    "explanation": "Marlon Brando won the Academy Award for Best Actor for his unforgettable portrayal of Don Vito Corleone in The Godfather.",
+    "explanation": "Jack Nicholson's rebellious Randle McMurphy clashed with Louise Fletcher's authoritarian Nurse Ratched in a triumph of countercultural rebellion.",
     "tags": [
       "movies",
       "oscar-winners",
@@ -966,64 +966,64 @@
     "active": true
   },
   {
-    "id": "movies-famous-quotes-0047",
+    "id": "movies-oscar-winners-0047",
     "category": "Movies",
-    "subcategory": "Famous Quotes",
+    "subcategory": "Oscar Winners",
     "difficulty": "medium",
-    "question": "Regarding cinema and movie history: In Orson Welles' 1941 classic 'Citizen Kane', what mystery object is revealed to be 'Rosebud'? (Ref #47)",
+    "question": "What 1934 Frank Capra screwball comedy starring Clark Gable and Claudette Colbert was the first film in history to sweep all 'Big Five' Oscars?",
     "options": [
-      "A childhood pet dog",
-      "A childhood snow globe",
-      "A childhood sled",
-      "A gold pocket watch"
+      "The Thin Man",
+      "Bringing Up Baby",
+      "It Happened One Night",
+      "Mr. Deeds Goes to Town"
     ],
     "correctAnswer": 2,
-    "explanation": "Rosebud is revealed at the climax to be the trade name painted on Charles Foster Kane's childhood winter sled.",
+    "explanation": "Gable's newspaper reporter and Colbert's runaway heiress invented the modern romantic comedy template on a cross-country bus trip.",
     "tags": [
       "movies",
-      "famous-quotes",
+      "oscar-winners",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "movies-blockbusters-0048",
+    "id": "movies-oscar-winners-0048",
     "category": "Movies",
-    "subcategory": "Blockbusters",
+    "subcategory": "Oscar Winners",
     "difficulty": "hard",
-    "question": "Regarding cinema and movie history: Which horror and suspense director created the 1960 psychological thriller 'Psycho' featuring the famous shower scene? (Ref #48)",
+    "question": "What 1976 boxing drama written by and starring Sylvester Stallone won Best Picture, beating Taxi Driver, Network, and All the President's Men?",
     "options": [
-      "Roman Polanski",
-      "William Friedkin",
-      "John Carpenter",
-      "Alfred Hitchcock"
+      "Taxi Driver",
+      "Network",
+      "All the President's Men",
+      "Rocky"
     ],
     "correctAnswer": 3,
-    "explanation": "Alfred Hitchcock directed Psycho, starring Anthony Perkins as Norman Bates with revolutionary editing and Bernard Herrmann's screeching strings.",
+    "explanation": "Stallone's underdog Philadelphia club fighter went the distance with Apollo Creed, becoming the highest-grossing film of 1976.",
     "tags": [
       "movies",
-      "blockbusters",
+      "oscar-winners",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "movies-classic-cinema-0049",
+    "id": "movies-oscar-winners-0049",
     "category": "Movies",
-    "subcategory": "Classic Cinema",
+    "subcategory": "Oscar Winners",
     "difficulty": "easy",
-    "question": "Regarding cinema and movie history: What was the first feature-length animated film ever produced in color and sound by Walt Disney in 1937? (Ref #49)",
+    "question": "What 1984 Miloš Forman period musical drama won eight Academy Awards for its depiction of composer Wolfgang Amadeus Mozart?",
     "options": [
-      "Snow White and the Seven Dwarfs",
-      "Pinocchio",
-      "Fantasia",
-      "Bambi"
+      "Amadeus",
+      "The Killing Fields",
+      "A Passage to India",
+      "Out of Africa"
     ],
     "correctAnswer": 0,
-    "explanation": "Snow White and the Seven Dwarfs premiered in December 1937 as the historic first cel-animated feature film in Technicolor.",
+    "explanation": "F. Murray Abraham won Best Actor as court composer Antonio Salieri, consumed by jealous rivalry with Tom Hulce's Mozart.",
     "tags": [
       "movies",
-      "classic-cinema",
+      "oscar-winners",
       "easy"
     ],
     "active": true
@@ -1033,15 +1033,15 @@
     "category": "Movies",
     "subcategory": "Oscar Winners",
     "difficulty": "medium",
-    "question": "Regarding cinema and movie history: Which iconic film quote is spoken by Humphrey Bogart to Ingrid Bergman in the 1942 classic 'Casablanca'? (Ref #50)",
+    "question": "What 1995 historical epic, directed by and starring Mel Gibson as Scottish rebel William Wallace, won five Oscars including Best Picture?",
     "options": [
-      "Frankly, my dear, I don't give a damn.",
-      "Here's looking at you, kid.",
-      "May the Force be with you.",
-      "You had me at hello."
+      "Apollo 13",
+      "Braveheart",
+      "Sense and Sensibility",
+      "Babe"
     ],
     "correctAnswer": 1,
-    "explanation": "Humphrey Bogart playing Rick Blaine famously says 'Here's looking at you, kid' to Ilsa Lund in Casablanca.",
+    "explanation": "Wallace's cry for 'Freedom!' and thrilling tactical highland battle sequences captured Hollywood awards acclaim.",
     "tags": [
       "movies",
       "oscar-winners",
@@ -1050,64 +1050,64 @@
     "active": true
   },
   {
-    "id": "movies-famous-quotes-0051",
+    "id": "movies-oscar-winners-0051",
     "category": "Movies",
-    "subcategory": "Famous Quotes",
+    "subcategory": "Oscar Winners",
     "difficulty": "hard",
-    "question": "Regarding cinema and movie history: Which visionary director directed both 'Jurassic Park' and the historical epic 'Schindler's List' in the year 1993? (Ref #51)",
+    "question": "What 2000 Ridley Scott Roman historical epic starring Russell Crowe as general Maximus Decimus Meridius won five Academy Awards?",
     "options": [
-      "James Cameron",
-      "Martin Scorsese",
-      "Steven Spielberg",
-      "Stanley Kubrick"
+      "Traffic",
+      "Crouching Tiger, Hidden Dragon",
+      "Gladiator",
+      "Chocolat"
     ],
     "correctAnswer": 2,
-    "explanation": "Steven Spielberg released both the groundbreaking blockbuster Jurassic Park and the multi-Oscar winning Schindler's List in 1993.",
+    "explanation": "Crowe's betrayed general fought his way through the Colosseum seeking vengeance against Joaquin Phoenix's Emperor Commodus.",
     "tags": [
       "movies",
-      "famous-quotes",
+      "oscar-winners",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "movies-blockbusters-0052",
+    "id": "movies-oscar-winners-0052",
     "category": "Movies",
-    "subcategory": "Blockbusters",
+    "subcategory": "Oscar Winners",
     "difficulty": "easy",
-    "question": "Regarding cinema and movie history: Which film shares the historic record of winning 11 Academy Awards alongside 'Ben-Hur' and 'Titanic'? (Ref #52)",
+    "question": "What 2001 biographical drama directed by Ron Howard stars Russell Crowe as Nobel-winning mathematician John Nash battling schizophrenia?",
     "options": [
-      "The Godfather Part II",
-      "Gladiator",
-      "La La Land",
-      "The Lord of the Rings: The Return of the King"
+      "The Lord of the Rings: The Fellowship of the Ring",
+      "In the Bedroom",
+      "Moulin Rouge!",
+      "A Beautiful Mind"
     ],
     "correctAnswer": 3,
-    "explanation": "The Lord of the Rings: The Return of the King (2003) swept all 11 Oscars it was nominated for, tying Titanic and Ben-Hur.",
+    "explanation": "Jennifer Connelly won Best Supporting Actress as Alicia Nash supporting John through his groundbreaking economic game theory.",
     "tags": [
       "movies",
-      "blockbusters",
+      "oscar-winners",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "movies-classic-cinema-0053",
+    "id": "movies-oscar-winners-0053",
     "category": "Movies",
-    "subcategory": "Classic Cinema",
+    "subcategory": "Oscar Winners",
     "difficulty": "medium",
-    "question": "Regarding cinema and movie history: In the 1972 cinematic masterpiece 'The Godfather', which legendary actor portrayed the patriarch Don Vito Corleone? (Ref #53)",
+    "question": "What 2002 musical adaptation, directed by Rob Marshall and starring Renée Zellweger and Catherine Zeta-Jones, won six Academy Awards?",
     "options": [
-      "Marlon Brando",
-      "Al Pacino",
-      "Robert De Niro",
-      "James Caan"
+      "Chicago",
+      "The Pianist",
+      "Gangs of New York",
+      "The Hours"
     ],
     "correctAnswer": 0,
-    "explanation": "Marlon Brando won the Academy Award for Best Actor for his unforgettable portrayal of Don Vito Corleone in The Godfather.",
+    "explanation": "Chicago was the first musical to win Best Picture since Oliver! (1968), bringing Bob Fosse's jazz choreography back to Hollywood.",
     "tags": [
       "movies",
-      "classic-cinema",
+      "oscar-winners",
       "medium"
     ],
     "active": true
@@ -1117,15 +1117,15 @@
     "category": "Movies",
     "subcategory": "Oscar Winners",
     "difficulty": "hard",
-    "question": "Regarding cinema and movie history: In Orson Welles' 1941 classic 'Citizen Kane', what mystery object is revealed to be 'Rosebud'? (Ref #54)",
+    "question": "What 2006 Martin Scorsese crime thriller, starring Leonardo DiCaprio and Matt Damon as mole and undercover cop, won Best Picture and Director?",
     "options": [
-      "A childhood pet dog",
-      "A childhood sled",
-      "A childhood snow globe",
-      "A gold pocket watch"
+      "Babel",
+      "The Departed",
+      "Letters from Iwo Jima",
+      "Little Miss Sunshine"
     ],
     "correctAnswer": 1,
-    "explanation": "Rosebud is revealed at the climax to be the trade name painted on Charles Foster Kane's childhood winter sled.",
+    "explanation": "Scorsese finally won his long-overdue Best Director Oscar for this gritty Boston adaptation of Hong Kong's Infernal Affairs.",
     "tags": [
       "movies",
       "oscar-winners",
@@ -1134,64 +1134,64 @@
     "active": true
   },
   {
-    "id": "movies-famous-quotes-0055",
+    "id": "movies-oscar-winners-0055",
     "category": "Movies",
-    "subcategory": "Famous Quotes",
+    "subcategory": "Oscar Winners",
     "difficulty": "easy",
-    "question": "Regarding cinema and movie history: Which horror and suspense director created the 1960 psychological thriller 'Psycho' featuring the famous shower scene? (Ref #55)",
+    "question": "What 2007 neo-Western crime thriller by the Coen brothers stars Javier Bardem as the chilling cattle-gun-wielding hitman Anton Chigurh?",
     "options": [
-      "Roman Polanski",
-      "William Friedkin",
-      "Alfred Hitchcock",
-      "John Carpenter"
+      "There Will Be Blood",
+      "Atonement",
+      "No Country for Old Men",
+      "Michael Clayton"
     ],
     "correctAnswer": 2,
-    "explanation": "Alfred Hitchcock directed Psycho, starring Anthony Perkins as Norman Bates with revolutionary editing and Bernard Herrmann's screeching strings.",
+    "explanation": "Bardem won Best Supporting Actor in this faithful Cormac McCarthy adaptation that won four Oscars including Best Picture.",
     "tags": [
       "movies",
-      "famous-quotes",
+      "oscar-winners",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "movies-blockbusters-0056",
+    "id": "movies-oscar-winners-0056",
     "category": "Movies",
-    "subcategory": "Blockbusters",
+    "subcategory": "Oscar Winners",
     "difficulty": "medium",
-    "question": "Regarding cinema and movie history: What was the first feature-length animated film ever produced in color and sound by Walt Disney in 1937? (Ref #56)",
+    "question": "What 2008 British drama directed by Danny Boyle stars Dev Patel as an 18-year-old Mumbai orphan on the verge of winning 20 million rupees?",
     "options": [
-      "Pinocchio",
-      "Fantasia",
-      "Bambi",
-      "Snow White and the Seven Dwarfs"
+      "The Curious Case of Benjamin Button",
+      "Milk",
+      "Frost/Nixon",
+      "Slumdog Millionaire"
     ],
     "correctAnswer": 3,
-    "explanation": "Snow White and the Seven Dwarfs premiered in December 1937 as the historic first cel-animated feature film in Technicolor.",
+    "explanation": "Capturing eight Oscars including A.R. Rahman's score and song 'Jai Ho', it celebrated human resilience through street-smart survival.",
     "tags": [
       "movies",
-      "blockbusters",
+      "oscar-winners",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "movies-classic-cinema-0057",
+    "id": "movies-oscar-winners-0057",
     "category": "Movies",
-    "subcategory": "Classic Cinema",
+    "subcategory": "Oscar Winners",
     "difficulty": "hard",
-    "question": "Regarding cinema and movie history: Which iconic film quote is spoken by Humphrey Bogart to Ingrid Bergman in the 1942 classic 'Casablanca'? (Ref #57)",
+    "question": "What 2010 British historical drama stars Colin Firth as King George VI overcoming his debilitating speech impediment with Lionel Logue?",
     "options": [
-      "Here's looking at you, kid.",
-      "Frankly, my dear, I don't give a damn.",
-      "May the Force be with you.",
-      "You had me at hello."
+      "The King's Speech",
+      "The Social Network",
+      "Inception",
+      "Black Swan"
     ],
     "correctAnswer": 0,
-    "explanation": "Humphrey Bogart playing Rick Blaine famously says 'Here's looking at you, kid' to Ilsa Lund in Casablanca.",
+    "explanation": "Firth won Best Actor and Tom Hooper won Best Director in this exploration of royal duty on the eve of World War II radio broadcasts.",
     "tags": [
       "movies",
-      "classic-cinema",
+      "oscar-winners",
       "hard"
     ],
     "active": true
@@ -1201,15 +1201,15 @@
     "category": "Movies",
     "subcategory": "Oscar Winners",
     "difficulty": "easy",
-    "question": "Regarding cinema and movie history: Which visionary director directed both 'Jurassic Park' and the historical epic 'Schindler's List' in the year 1993? (Ref #58)",
+    "question": "What 2011 French black-and-white silent romantic comedy-drama, starring Jean Dujardin, was the first silent film to win Best Picture since 1927?",
     "options": [
-      "James Cameron",
-      "Steven Spielberg",
-      "Martin Scorsese",
-      "Stanley Kubrick"
+      "Hugo",
+      "The Artist",
+      "The Descendants",
+      "Midnight in Paris"
     ],
     "correctAnswer": 1,
-    "explanation": "Steven Spielberg released both the groundbreaking blockbuster Jurassic Park and the multi-Oscar winning Schindler's List in 1993.",
+    "explanation": "Directed by Michel Hazanavicius, the film paid homage to Hollywood's late 1920s silent golden era and Dujardin won Best Actor.",
     "tags": [
       "movies",
       "oscar-winners",
@@ -1218,64 +1218,64 @@
     "active": true
   },
   {
-    "id": "movies-famous-quotes-0059",
+    "id": "movies-oscar-winners-0059",
     "category": "Movies",
-    "subcategory": "Famous Quotes",
+    "subcategory": "Oscar Winners",
     "difficulty": "medium",
-    "question": "Regarding cinema and movie history: Which film shares the historic record of winning 11 Academy Awards alongside 'Ben-Hur' and 'Titanic'? (Ref #59)",
+    "question": "What 2012 political thriller, directed by and starring Ben Affleck, dramatized the secret 1979 rescue of six American diplomats from Iran?",
     "options": [
-      "The Godfather Part II",
-      "Gladiator",
-      "The Lord of the Rings: The Return of the King",
-      "La La Land"
+      "Lincoln",
+      "Life of Pi",
+      "Argo",
+      "Django Unchained"
     ],
     "correctAnswer": 2,
-    "explanation": "The Lord of the Rings: The Return of the King (2003) swept all 11 Oscars it was nominated for, tying Titanic and Ben-Hur.",
+    "explanation": "Affleck's depiction of CIA operative Tony Mendez staging a fake sci-fi movie production won Best Picture and Adapted Screenplay.",
     "tags": [
       "movies",
-      "famous-quotes",
+      "oscar-winners",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "movies-blockbusters-0060",
+    "id": "movies-oscar-winners-0060",
     "category": "Movies",
-    "subcategory": "Blockbusters",
+    "subcategory": "Oscar Winners",
     "difficulty": "hard",
-    "question": "Regarding cinema and movie history: In the 1972 cinematic masterpiece 'The Godfather', which legendary actor portrayed the patriarch Don Vito Corleone? (Ref #60)",
+    "question": "What 2013 Steve McQueen historical biographical drama stars Chiwetel Ejiofor as a free African-American kidnapped into Louisiana slavery?",
     "options": [
-      "Al Pacino",
-      "Robert De Niro",
-      "James Caan",
-      "Marlon Brando"
+      "Gravity",
+      "American Hustle",
+      "The Wolf of Wall Street",
+      "12 Years a Slave"
     ],
     "correctAnswer": 3,
-    "explanation": "Marlon Brando won the Academy Award for Best Actor for his unforgettable portrayal of Don Vito Corleone in The Godfather.",
+    "explanation": "Based on Solomon Northup's 1853 memoir, it won three Academy Awards including Best Picture and Best Supporting Actress for Lupita Nyong'o.",
     "tags": [
       "movies",
-      "blockbusters",
+      "oscar-winners",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "movies-classic-cinema-0061",
+    "id": "movies-oscar-winners-0061",
     "category": "Movies",
-    "subcategory": "Classic Cinema",
+    "subcategory": "Oscar Winners",
     "difficulty": "easy",
-    "question": "Regarding cinema and movie history: In Orson Welles' 1941 classic 'Citizen Kane', what mystery object is revealed to be 'Rosebud'? (Ref #61)",
+    "question": "What 2014 satirical black comedy by Alejandro G. Iñárritu stars Michael Keaton as a washed-up superhero actor staging a Raymond Carver play?",
     "options": [
-      "A childhood sled",
-      "A childhood pet dog",
-      "A childhood snow globe",
-      "A gold pocket watch"
+      "Birdman (The Unexpected Virtue of Ignorance)",
+      "Boyhood",
+      "The Grand Budapest Hotel",
+      "The Imitation Game"
     ],
     "correctAnswer": 0,
-    "explanation": "Rosebud is revealed at the climax to be the trade name painted on Charles Foster Kane's childhood winter sled.",
+    "explanation": "Emmanuel Lubezki's continuous fluid tracking camera movements gave the entire film the appearance of a single unbroken take.",
     "tags": [
       "movies",
-      "classic-cinema",
+      "oscar-winners",
       "easy"
     ],
     "active": true
@@ -1285,15 +1285,15 @@
     "category": "Movies",
     "subcategory": "Oscar Winners",
     "difficulty": "medium",
-    "question": "Regarding cinema and movie history: Which horror and suspense director created the 1960 psychological thriller 'Psycho' featuring the famous shower scene? (Ref #62)",
+    "question": "What 2015 biographical drama directed by Tom McCarthy chronicles The Boston Globe's investigative team exposing Catholic Church abuse?",
     "options": [
-      "Roman Polanski",
-      "Alfred Hitchcock",
-      "William Friedkin",
-      "John Carpenter"
+      "The Revenant",
+      "Spotlight",
+      "Mad Max: Fury Road",
+      "The Big Short"
     ],
     "correctAnswer": 1,
-    "explanation": "Alfred Hitchcock directed Psycho, starring Anthony Perkins as Norman Bates with revolutionary editing and Bernard Herrmann's screeching strings.",
+    "explanation": "Mark Ruffalo, Michael Keaton, and Rachel McAdams starred in the investigative journalism triumph that won Best Picture and Original Screenplay.",
     "tags": [
       "movies",
       "oscar-winners",
@@ -1302,64 +1302,64 @@
     "active": true
   },
   {
-    "id": "movies-famous-quotes-0063",
+    "id": "movies-oscar-winners-0063",
     "category": "Movies",
-    "subcategory": "Famous Quotes",
+    "subcategory": "Oscar Winners",
     "difficulty": "hard",
-    "question": "Regarding cinema and movie history: What was the first feature-length animated film ever produced in color and sound by Walt Disney in 1937? (Ref #63)",
+    "question": "What 2016 Barry Jenkins coming-of-age drama follows Chiron, a young Black man growing up in Liberty City, Miami, across three chapters?",
     "options": [
-      "Pinocchio",
-      "Fantasia",
-      "Snow White and the Seven Dwarfs",
-      "Bambi"
+      "La La Land",
+      "Manchester by the Sea",
+      "Moonlight",
+      "Arrival"
     ],
     "correctAnswer": 2,
-    "explanation": "Snow White and the Seven Dwarfs premiered in December 1937 as the historic first cel-animated feature film in Technicolor.",
+    "explanation": "Mahershala Ali won Best Supporting Actor in the intimate indie masterpiece, famous for the shocking envelope mix-up at the 89th Oscars ceremony.",
     "tags": [
       "movies",
-      "famous-quotes",
+      "oscar-winners",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "movies-blockbusters-0064",
+    "id": "movies-oscar-winners-0064",
     "category": "Movies",
-    "subcategory": "Blockbusters",
+    "subcategory": "Oscar Winners",
     "difficulty": "easy",
-    "question": "Regarding cinema and movie history: Which iconic film quote is spoken by Humphrey Bogart to Ingrid Bergman in the 1942 classic 'Casablanca'? (Ref #64)",
+    "question": "What 2017 Guillermo del Toro dark fantasy romance stars Sally Hawkins as a mute cleaner who falls in love with an amphibious river god?",
     "options": [
-      "Frankly, my dear, I don't give a damn.",
-      "May the Force be with you.",
-      "You had me at hello.",
-      "Here's looking at you, kid."
+      "Three Billboards Outside Ebbing, Missouri",
+      "Get Out",
+      "Dunkirk",
+      "The Shape of Water"
     ],
     "correctAnswer": 3,
-    "explanation": "Humphrey Bogart playing Rick Blaine famously says 'Here's looking at you, kid' to Ilsa Lund in Casablanca.",
+    "explanation": "Del Toro won Best Director and Best Picture for his fairy tale exploration of marginalized outsiders during the Cold War.",
     "tags": [
       "movies",
-      "blockbusters",
+      "oscar-winners",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "movies-classic-cinema-0065",
+    "id": "movies-oscar-winners-0065",
     "category": "Movies",
-    "subcategory": "Classic Cinema",
+    "subcategory": "Oscar Winners",
     "difficulty": "medium",
-    "question": "Regarding cinema and movie history: Which visionary director directed both 'Jurassic Park' and the historical epic 'Schindler's List' in the year 1993? (Ref #65)",
+    "question": "What 2018 biographical road comedy-drama stars Viggo Mortensen as a bouncer driving classical African-American pianist Don Shirley on a concert tour?",
     "options": [
-      "Steven Spielberg",
-      "James Cameron",
-      "Martin Scorsese",
-      "Stanley Kubrick"
+      "Green Book",
+      "Roma",
+      "The Favourite",
+      "BlacKkKlansman"
     ],
     "correctAnswer": 0,
-    "explanation": "Steven Spielberg released both the groundbreaking blockbuster Jurassic Park and the multi-Oscar winning Schindler's List in 1993.",
+    "explanation": "Mahershala Ali won his second Best Supporting Actor Oscar as Dr. Shirley traveling through the segregated Deep South in 1962.",
     "tags": [
       "movies",
-      "classic-cinema",
+      "oscar-winners",
       "medium"
     ],
     "active": true
@@ -1369,15 +1369,15 @@
     "category": "Movies",
     "subcategory": "Oscar Winners",
     "difficulty": "hard",
-    "question": "Regarding cinema and movie history: Which film shares the historic record of winning 11 Academy Awards alongside 'Ben-Hur' and 'Titanic'? (Ref #66)",
+    "question": "What 2020 Chloé Zhao drama stars Frances McDormand as a widowed van-dwelling nomad traveling across the American West after the Great Recession?",
     "options": [
-      "The Godfather Part II",
-      "The Lord of the Rings: The Return of the King",
-      "Gladiator",
-      "La La Land"
+      "The Father",
+      "Nomadland",
+      "Minari",
+      "Promising Young Woman"
     ],
     "correctAnswer": 1,
-    "explanation": "The Lord of the Rings: The Return of the King (2003) swept all 11 Oscars it was nominated for, tying Titanic and Ben-Hur.",
+    "explanation": "Zhao became the second woman and first woman of color to win Best Director, featuring real-life modern American nomads.",
     "tags": [
       "movies",
       "oscar-winners",
@@ -1386,64 +1386,64 @@
     "active": true
   },
   {
-    "id": "movies-famous-quotes-0067",
+    "id": "movies-oscar-winners-0067",
     "category": "Movies",
-    "subcategory": "Famous Quotes",
+    "subcategory": "Oscar Winners",
     "difficulty": "easy",
-    "question": "Regarding cinema and movie history: In the 1972 cinematic masterpiece 'The Godfather', which legendary actor portrayed the patriarch Don Vito Corleone? (Ref #67)",
+    "question": "What 2021 coming-of-age comedy-drama, starring Emilia Jones as the only hearing member of a deaf Massachusetts fishing family, won Best Picture?",
     "options": [
-      "Al Pacino",
-      "Robert De Niro",
-      "Marlon Brando",
-      "James Caan"
+      "The Power of the Dog",
+      "Belfast",
+      "CODA (Child of Deaf Adults)",
+      "Dune"
     ],
     "correctAnswer": 2,
-    "explanation": "Marlon Brando won the Academy Award for Best Actor for his unforgettable portrayal of Don Vito Corleone in The Godfather.",
+    "explanation": "Troy Kotsur made history as the first deaf male actor to win an Academy Award, winning Best Supporting Actor.",
     "tags": [
       "movies",
-      "famous-quotes",
+      "oscar-winners",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "movies-blockbusters-0068",
+    "id": "movies-oscar-winners-0068",
     "category": "Movies",
-    "subcategory": "Blockbusters",
+    "subcategory": "Oscar Winners",
     "difficulty": "medium",
-    "question": "Regarding cinema and movie history: In Orson Welles' 1941 classic 'Citizen Kane', what mystery object is revealed to be 'Rosebud'? (Ref #68)",
+    "question": "What 2022 sci-fi comedy-drama by the Daniels swept seven Oscars, starring Michelle Yeoh as an immigrant laundromat owner navigating the multiverse?",
     "options": [
-      "A childhood pet dog",
-      "A childhood snow globe",
-      "A gold pocket watch",
-      "A childhood sled"
+      "The Banshees of Inisherin",
+      "Top Gun: Maverick",
+      "Tár",
+      "Everything Everywhere All at Once"
     ],
     "correctAnswer": 3,
-    "explanation": "Rosebud is revealed at the climax to be the trade name painted on Charles Foster Kane's childhood winter sled.",
+    "explanation": "Michelle Yeoh became the first Asian woman to win Best Actress, alongside Oscar wins for Ke Huy Quan, Jamie Lee Curtis, and the Daniels.",
     "tags": [
       "movies",
-      "blockbusters",
+      "oscar-winners",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "movies-classic-cinema-0069",
+    "id": "movies-oscar-winners-0069",
     "category": "Movies",
-    "subcategory": "Classic Cinema",
+    "subcategory": "Oscar Winners",
     "difficulty": "hard",
-    "question": "Regarding cinema and movie history: Which horror and suspense director created the 1960 psychological thriller 'Psycho' featuring the famous shower scene? (Ref #69)",
+    "question": "What 2023 biographical epic, directed by Christopher Nolan and starring Cillian Murphy, swept seven Academy Awards including Best Picture?",
     "options": [
-      "Alfred Hitchcock",
-      "Roman Polanski",
-      "William Friedkin",
-      "John Carpenter"
+      "Oppenheimer",
+      "Barbie",
+      "Killers of the Flower Moon",
+      "Poor Things"
     ],
     "correctAnswer": 0,
-    "explanation": "Alfred Hitchcock directed Psycho, starring Anthony Perkins as Norman Bates with revolutionary editing and Bernard Herrmann's screeching strings.",
+    "explanation": "Murphy portrayed J. Robert Oppenheimer leading the Manhattan Project to develop the atomic bomb at Los Alamos.",
     "tags": [
       "movies",
-      "classic-cinema",
+      "oscar-winners",
       "hard"
     ],
     "active": true
@@ -1453,15 +1453,15 @@
     "category": "Movies",
     "subcategory": "Oscar Winners",
     "difficulty": "easy",
-    "question": "Regarding cinema and movie history: What was the first feature-length animated film ever produced in color and sound by Walt Disney in 1937? (Ref #70)",
+    "question": "Who holds the all-time record for winning the most Academy Awards for Best Actress, with four career Oscar wins?",
     "options": [
-      "Pinocchio",
-      "Snow White and the Seven Dwarfs",
-      "Fantasia",
-      "Bambi"
+      "Meryl Streep",
+      "Katharine Hepburn",
+      "Ingrid Bergman",
+      "Frances McDormand"
     ],
     "correctAnswer": 1,
-    "explanation": "Snow White and the Seven Dwarfs premiered in December 1937 as the historic first cel-animated feature film in Technicolor.",
+    "explanation": "Hepburn won for Morning Glory (1933), Guess Who's Coming to Dinner (1967), The Lion in Winter (1968), and On Golden Pond (1981).",
     "tags": [
       "movies",
       "oscar-winners",
@@ -1470,64 +1470,64 @@
     "active": true
   },
   {
-    "id": "movies-famous-quotes-0071",
+    "id": "movies-oscar-winners-0071",
     "category": "Movies",
-    "subcategory": "Famous Quotes",
+    "subcategory": "Oscar Winners",
     "difficulty": "medium",
-    "question": "Regarding cinema and movie history: Which iconic film quote is spoken by Humphrey Bogart to Ingrid Bergman in the 1942 classic 'Casablanca'? (Ref #71)",
+    "question": "What actor won three Academy Awards for Best Actor for his performances in My Left Foot, There Will Be Blood, and Lincoln?",
     "options": [
-      "Frankly, my dear, I don't give a damn.",
-      "May the Force be with you.",
-      "Here's looking at you, kid.",
-      "You had me at hello."
+      "Jack Nicholson",
+      "Marlon Brando",
+      "Daniel Day-Lewis",
+      "Spencer Tracy"
     ],
     "correctAnswer": 2,
-    "explanation": "Humphrey Bogart playing Rick Blaine famously says 'Here's looking at you, kid' to Ilsa Lund in Casablanca.",
+    "explanation": "Renowned for total method acting immersion, Day-Lewis is the only performer to win three Best Actor Academy Awards.",
     "tags": [
       "movies",
-      "famous-quotes",
+      "oscar-winners",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "movies-blockbusters-0072",
+    "id": "movies-oscar-winners-0072",
     "category": "Movies",
-    "subcategory": "Blockbusters",
+    "subcategory": "Oscar Winners",
     "difficulty": "hard",
-    "question": "Regarding cinema and movie history: Which visionary director directed both 'Jurassic Park' and the historical epic 'Schindler's List' in the year 1993? (Ref #72)",
+    "question": "What legendary actress holds the record for the most acting Academy Award nominations in history, with 21 nominations?",
     "options": [
-      "James Cameron",
-      "Martin Scorsese",
-      "Stanley Kubrick",
-      "Steven Spielberg"
+      "Katharine Hepburn",
+      "Bette Davis",
+      "Jack Nicholson",
+      "Meryl Streep"
     ],
     "correctAnswer": 3,
-    "explanation": "Steven Spielberg released both the groundbreaking blockbuster Jurassic Park and the multi-Oscar winning Schindler's List in 1993.",
+    "explanation": "Streep won three Oscars: Best Supporting Actress for Kramer vs. Kramer (1979) and Best Actress for Sophie's Choice (1982) and The Iron Lady (2011).",
     "tags": [
       "movies",
-      "blockbusters",
+      "oscar-winners",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "movies-classic-cinema-0073",
+    "id": "movies-oscar-winners-0073",
     "category": "Movies",
-    "subcategory": "Classic Cinema",
+    "subcategory": "Oscar Winners",
     "difficulty": "easy",
-    "question": "Regarding cinema and movie history: Which film shares the historic record of winning 11 Academy Awards alongside 'Ben-Hur' and 'Titanic'? (Ref #73)",
+    "question": "What 1980 Martin Scorsese biographical boxing masterpiece stars Robert De Niro as self-destructive middleweight champion Jake LaMotta?",
     "options": [
-      "The Lord of the Rings: The Return of the King",
-      "The Godfather Part II",
-      "Gladiator",
-      "La La Land"
+      "Raging Bull",
+      "Rocky",
+      "The Fighter",
+      "Cinderella Man"
     ],
     "correctAnswer": 0,
-    "explanation": "The Lord of the Rings: The Return of the King (2003) swept all 11 Oscars it was nominated for, tying Titanic and Ben-Hur.",
+    "explanation": "De Niro gained 60 pounds to portray LaMotta's later years, winning Best Actor in this black-and-white cinematic triumph.",
     "tags": [
       "movies",
-      "classic-cinema",
+      "oscar-winners",
       "easy"
     ],
     "active": true
@@ -1537,15 +1537,15 @@
     "category": "Movies",
     "subcategory": "Oscar Winners",
     "difficulty": "medium",
-    "question": "Regarding cinema and movie history: In the 1972 cinematic masterpiece 'The Godfather', which legendary actor portrayed the patriarch Don Vito Corleone? (Ref #74)",
+    "question": "What 1979 Francis Ford Coppola psychological war epic, adapted from Heart of Darkness, won two Oscars after a notoriously chaotic Philippine shoot?",
     "options": [
-      "Al Pacino",
-      "Marlon Brando",
-      "Robert De Niro",
-      "James Caan"
+      "The Deer Hunter",
+      "Apocalypse Now",
+      "Platoon",
+      "Full Metal Jacket"
     ],
     "correctAnswer": 1,
-    "explanation": "Marlon Brando won the Academy Award for Best Actor for his unforgettable portrayal of Don Vito Corleone in The Godfather.",
+    "explanation": "Marlon Brando starred as rogue Colonel Kurtz, accompanied by Robert Duvall's famous line: 'I love the smell of napalm in the morning.'",
     "tags": [
       "movies",
       "oscar-winners",
@@ -1554,85 +1554,85 @@
     "active": true
   },
   {
-    "id": "movies-famous-quotes-0075",
+    "id": "movies-oscar-winners-0075",
     "category": "Movies",
-    "subcategory": "Famous Quotes",
+    "subcategory": "Oscar Winners",
     "difficulty": "hard",
-    "question": "Regarding cinema and movie history: In Orson Welles' 1941 classic 'Citizen Kane', what mystery object is revealed to be 'Rosebud'? (Ref #75)",
+    "question": "What 1998 Steven Spielberg World War II epic won five Oscars, renowned for its harrowing 24-minute Omaha Beach D-Day landing sequence?",
     "options": [
-      "A childhood pet dog",
-      "A childhood snow globe",
-      "A childhood sled",
-      "A gold pocket watch"
+      "The Thin Red Line",
+      "Life Is Beautiful",
+      "Saving Private Ryan",
+      "Braveheart"
     ],
     "correctAnswer": 2,
-    "explanation": "Rosebud is revealed at the climax to be the trade name painted on Charles Foster Kane's childhood winter sled.",
+    "explanation": "Tom Hanks led a squad behind enemy lines to retrieve paratrooper Private James Ryan, setting a new standard for battlefield realism.",
     "tags": [
       "movies",
-      "famous-quotes",
+      "oscar-winners",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "movies-blockbusters-0076",
+    "id": "movies-oscar-winners-0076",
     "category": "Movies",
-    "subcategory": "Blockbusters",
+    "subcategory": "Oscar Winners",
     "difficulty": "easy",
-    "question": "Regarding cinema and movie history: Which horror and suspense director created the 1960 psychological thriller 'Psycho' featuring the famous shower scene? (Ref #76)",
+    "question": "What 1982 Richard Attenborough biographical epic won eight Academy Awards, starring Ben Kingsley as the leader of India's nonviolent independence?",
     "options": [
-      "Roman Polanski",
-      "William Friedkin",
-      "John Carpenter",
-      "Alfred Hitchcock"
+      "E.T. the Extra-Terrestrial",
+      "Tootsie",
+      "The Verdict",
+      "Gandhi"
     ],
     "correctAnswer": 3,
-    "explanation": "Alfred Hitchcock directed Psycho, starring Anthony Perkins as Norman Bates with revolutionary editing and Bernard Herrmann's screeching strings.",
+    "explanation": "Kingsley's transformative performance as Mahatma Gandhi captured Best Actor, beating Steven Spielberg's E.T. for Best Picture.",
     "tags": [
       "movies",
-      "blockbusters",
+      "oscar-winners",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "movies-classic-cinema-0077",
+    "id": "movies-famous-quotes-0077",
     "category": "Movies",
-    "subcategory": "Classic Cinema",
+    "subcategory": "Famous Quotes",
     "difficulty": "medium",
-    "question": "Regarding cinema and movie history: What was the first feature-length animated film ever produced in color and sound by Walt Disney in 1937? (Ref #77)",
+    "question": "In The Godfather (1972), what famous offer does Don Vito Corleone make regarding Johnny Fontane's film contract?",
     "options": [
-      "Snow White and the Seven Dwarfs",
-      "Pinocchio",
-      "Fantasia",
-      "Bambi"
+      "'I'm gonna make him an offer he can't refuse.'",
+      "'Keep your friends close, but your enemies closer.'",
+      "'It's not personal, Sonny. It's strictly business.'",
+      "'Leave the gun. Take the cannoli.'"
     ],
     "correctAnswer": 0,
-    "explanation": "Snow White and the Seven Dwarfs premiered in December 1937 as the historic first cel-animated feature film in Technicolor.",
+    "explanation": "Marlon Brando whispers the chilling line to his godson Johnny Fontane in his dimly lit study during Connie's wedding.",
     "tags": [
       "movies",
-      "classic-cinema",
+      "famous-quotes",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "movies-oscar-winners-0078",
+    "id": "movies-famous-quotes-0078",
     "category": "Movies",
-    "subcategory": "Oscar Winners",
+    "subcategory": "Famous Quotes",
     "difficulty": "hard",
-    "question": "Regarding cinema and movie history: Which iconic film quote is spoken by Humphrey Bogart to Ingrid Bergman in the 1942 classic 'Casablanca'? (Ref #78)",
+    "question": "What famous closing line does Clark Gable as Rhett Butler deliver to Scarlett O'Hara in Gone with the Wind (1939)?",
     "options": [
-      "Frankly, my dear, I don't give a damn.",
-      "Here's looking at you, kid.",
-      "May the Force be with you.",
-      "You had me at hello."
+      "'Tomorrow is another day!'",
+      "'Frankly, my dear, I don't give a damn.'",
+      "'As God is my witness, I'll never be hungry again.'",
+      "'I can't think about that right now.'"
     ],
     "correctAnswer": 1,
-    "explanation": "Humphrey Bogart playing Rick Blaine famously says 'Here's looking at you, kid' to Ilsa Lund in Casablanca.",
+    "explanation": "Gable walked out into the Atlanta fog, defying the strict 1930s Motion Picture Production Code profanity censorship.",
     "tags": [
       "movies",
-      "oscar-winners",
+      "famous-quotes",
       "hard"
     ],
     "active": true
@@ -1642,15 +1642,15 @@
     "category": "Movies",
     "subcategory": "Famous Quotes",
     "difficulty": "easy",
-    "question": "Regarding cinema and movie history: Which visionary director directed both 'Jurassic Park' and the historical epic 'Schindler's List' in the year 1993? (Ref #79)",
+    "question": "What line does Rick Blaine (Humphrey Bogart) say to Ilsa Lund (Ingrid Bergman) as they prepare to part at the airport in Casablanca (1942)?",
     "options": [
-      "James Cameron",
-      "Martin Scorsese",
-      "Steven Spielberg",
-      "Stanley Kubrick"
+      "'Play it again, Sam.'",
+      "'We'll always have Paris.'",
+      "'Here's looking at you, kid.'",
+      "'Of all the gin joints in all the towns in all the world, she walks into mine.'"
     ],
     "correctAnswer": 2,
-    "explanation": "Steven Spielberg released both the groundbreaking blockbuster Jurassic Park and the multi-Oscar winning Schindler's List in 1993.",
+    "explanation": "Bogart touches Bergman's chin on the foggy tarmac, delivering cinema's most celebrated romantic farewell.",
     "tags": [
       "movies",
       "famous-quotes",
@@ -1659,64 +1659,64 @@
     "active": true
   },
   {
-    "id": "movies-blockbusters-0080",
+    "id": "movies-famous-quotes-0080",
     "category": "Movies",
-    "subcategory": "Blockbusters",
+    "subcategory": "Famous Quotes",
     "difficulty": "medium",
-    "question": "Regarding cinema and movie history: Which film shares the historic record of winning 11 Academy Awards alongside 'Ben-Hur' and 'Titanic'? (Ref #80)",
+    "question": "In Casablanca (1942), what famous line does Rick Blaine say to French police captain Louis Renault in the final shot?",
     "options": [
-      "The Godfather Part II",
-      "Gladiator",
-      "La La Land",
-      "The Lord of the Rings: The Return of the King"
+      "'Round up the usual suspects.'",
+      "'Here's looking at you, kid.'",
+      "'Play it once, Sam. For old times' sake.'",
+      "'Louis, I think this is the beginning of a beautiful friendship.'"
     ],
     "correctAnswer": 3,
-    "explanation": "The Lord of the Rings: The Return of the King (2003) swept all 11 Oscars it was nominated for, tying Titanic and Ben-Hur.",
+    "explanation": "The two men walk into the foggy night together to join the Free French garrison in Brazzaville.",
     "tags": [
       "movies",
-      "blockbusters",
+      "famous-quotes",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "movies-classic-cinema-0081",
+    "id": "movies-famous-quotes-0081",
     "category": "Movies",
-    "subcategory": "Classic Cinema",
+    "subcategory": "Famous Quotes",
     "difficulty": "hard",
-    "question": "Regarding cinema and movie history: In the 1972 cinematic masterpiece 'The Godfather', which legendary actor portrayed the patriarch Don Vito Corleone? (Ref #81)",
+    "question": "In The Wizard of Oz (1939), what line does Dorothy Gale say to her dog upon stepping out into the colorful world of Munchkinland?",
     "options": [
-      "Marlon Brando",
-      "Al Pacino",
-      "Robert De Niro",
-      "James Caan"
+      "'Toto, I've a feeling we're not in Kansas anymore.'",
+      "'There's no place like home.'",
+      "'Lions and tigers and bears, oh my!'",
+      "'Follow the yellow brick road!'"
     ],
     "correctAnswer": 0,
-    "explanation": "Marlon Brando won the Academy Award for Best Actor for his unforgettable portrayal of Don Vito Corleone in The Godfather.",
+    "explanation": "Judy Garland looks around in awe as the sepia-toned film transitions to vibrant three-strip Technicolor.",
     "tags": [
       "movies",
-      "classic-cinema",
+      "famous-quotes",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "movies-oscar-winners-0082",
+    "id": "movies-famous-quotes-0082",
     "category": "Movies",
-    "subcategory": "Oscar Winners",
+    "subcategory": "Famous Quotes",
     "difficulty": "easy",
-    "question": "Regarding cinema and movie history: In Orson Welles' 1941 classic 'Citizen Kane', what mystery object is revealed to be 'Rosebud'? (Ref #82)",
+    "question": "What iconic three-word phrase does Dorothy repeat while clicking the heels of her ruby slippers to return home in The Wizard of Oz?",
     "options": [
-      "A childhood pet dog",
-      "A childhood sled",
-      "A childhood snow globe",
-      "A gold pocket watch"
+      "'Over the rainbow.'",
+      "'There's no place like home.'",
+      "'Take me to Kansas.'",
+      "'I want to go home.'"
     ],
     "correctAnswer": 1,
-    "explanation": "Rosebud is revealed at the climax to be the trade name painted on Charles Foster Kane's childhood winter sled.",
+    "explanation": "Glinda the Good Witch instructs Dorothy that she always possessed the power to return to Uncle Henry and Aunt Em.",
     "tags": [
       "movies",
-      "oscar-winners",
+      "famous-quotes",
       "easy"
     ],
     "active": true
@@ -1726,15 +1726,15 @@
     "category": "Movies",
     "subcategory": "Famous Quotes",
     "difficulty": "medium",
-    "question": "Regarding cinema and movie history: Which horror and suspense director created the 1960 psychological thriller 'Psycho' featuring the famous shower scene? (Ref #83)",
+    "question": "In Sunset Boulevard (1950), what are Norma Desmond's delusionally grand final words as she descends her marble staircase toward news cameras?",
     "options": [
-      "Roman Polanski",
-      "William Friedkin",
-      "Alfred Hitchcock",
-      "John Carpenter"
+      "'I am big! It's the pictures that got small.'",
+      "'There's nothing else. Just us, and the cameras.'",
+      "'All right, Mr. DeMille, I'm ready for my close-up.'",
+      "'Stars don't have ages!'"
     ],
     "correctAnswer": 2,
-    "explanation": "Alfred Hitchcock directed Psycho, starring Anthony Perkins as Norman Bates with revolutionary editing and Bernard Herrmann's screeching strings.",
+    "explanation": "Gloria Swanson gazes directly into the camera lens in a descent into madness after shooting Joe Gillis.",
     "tags": [
       "movies",
       "famous-quotes",
@@ -1743,64 +1743,64 @@
     "active": true
   },
   {
-    "id": "movies-blockbusters-0084",
+    "id": "movies-famous-quotes-0084",
     "category": "Movies",
-    "subcategory": "Blockbusters",
+    "subcategory": "Famous Quotes",
     "difficulty": "hard",
-    "question": "Regarding cinema and movie history: What was the first feature-length animated film ever produced in color and sound by Walt Disney in 1937? (Ref #84)",
+    "question": "What line does Marlon Brando as Terry Malloy lament to his brother Charley in the back of a taxicab in On the Waterfront (1954)?",
     "options": [
-      "Pinocchio",
-      "Fantasia",
-      "Bambi",
-      "Snow White and the Seven Dwarfs"
+      "'You don't understand! I was your brother!'",
+      "'It was you, Charley!'",
+      "'I'm standing up for myself!'",
+      "'I coulda had class. I coulda been a contender. I coulda been somebody, instead of a bum.'"
     ],
     "correctAnswer": 3,
-    "explanation": "Snow White and the Seven Dwarfs premiered in December 1937 as the historic first cel-animated feature film in Technicolor.",
+    "explanation": "Terry regrets taking a dive in the boxing ring for Johnny Friendly's mob syndicate, destroying his athletic future.",
     "tags": [
       "movies",
-      "blockbusters",
+      "famous-quotes",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "movies-classic-cinema-0085",
+    "id": "movies-famous-quotes-0085",
     "category": "Movies",
-    "subcategory": "Classic Cinema",
+    "subcategory": "Famous Quotes",
     "difficulty": "easy",
-    "question": "Regarding cinema and movie history: Which iconic film quote is spoken by Humphrey Bogart to Ingrid Bergman in the 1942 classic 'Casablanca'? (Ref #85)",
+    "question": "In Taxi Driver (1976), what line does lonely vigilante Travis Bickle (Robert De Niro) repeat to himself in his apartment mirror?",
     "options": [
-      "Here's looking at you, kid.",
-      "Frankly, my dear, I don't give a damn.",
-      "May the Force be with you.",
-      "You had me at hello."
+      "'You talkin' to me?'",
+      "'Someday a real rain will come.'",
+      "'I'm God's lonely man.'",
+      "'Here's the man.'"
     ],
     "correctAnswer": 0,
-    "explanation": "Humphrey Bogart playing Rick Blaine famously says 'Here's looking at you, kid' to Ilsa Lund in Casablanca.",
+    "explanation": "De Niro improvised the confrontational mirror monologue, creating one of the defining character studies of alienated cinema.",
     "tags": [
       "movies",
-      "classic-cinema",
+      "famous-quotes",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "movies-oscar-winners-0086",
+    "id": "movies-famous-quotes-0086",
     "category": "Movies",
-    "subcategory": "Oscar Winners",
+    "subcategory": "Famous Quotes",
     "difficulty": "medium",
-    "question": "Regarding cinema and movie history: Which visionary director directed both 'Jurassic Park' and the historical epic 'Schindler's List' in the year 1993? (Ref #86)",
+    "question": "What famous line does Clint Eastwood as Inspector Harry Callahan ask a wounded bank robber staring down his .44 Magnum in Dirty Harry (1971)?",
     "options": [
-      "James Cameron",
-      "Steven Spielberg",
-      "Martin Scorsese",
-      "Stanley Kubrick"
+      "'Go ahead, make my day.'",
+      "'You\\'ve got to ask yourself one question: \\'Do I feel lucky?\\' Well, do ya, punk?'",
+      "'A man\\'s got to know his limitations.'",
+      "'I\\'m just doing my job.'"
     ],
     "correctAnswer": 1,
-    "explanation": "Steven Spielberg released both the groundbreaking blockbuster Jurassic Park and the multi-Oscar winning Schindler's List in 1993.",
+    "explanation": "Dirty Harry challenges the robber to remember whether he fired five shots or six from the most powerful handgun in the world.",
     "tags": [
       "movies",
-      "oscar-winners",
+      "famous-quotes",
       "medium"
     ],
     "active": true
@@ -1810,15 +1810,15 @@
     "category": "Movies",
     "subcategory": "Famous Quotes",
     "difficulty": "hard",
-    "question": "Regarding cinema and movie history: Which film shares the historic record of winning 11 Academy Awards alongside 'Ben-Hur' and 'Titanic'? (Ref #87)",
+    "question": "What phrase does Clint Eastwood as Harry Callahan utter in Sudden Impact (1983) while daring a criminal to shoot a waitress?",
     "options": [
-      "The Godfather Part II",
-      "Gladiator",
-      "The Lord of the Rings: The Return of the King",
-      "La La Land"
+      "'Do you feel lucky, punk?'",
+      "'A man's got to know his limitations.'",
+      "'Go ahead, make my day.'",
+      "'You're out of bullets.'"
     ],
     "correctAnswer": 2,
-    "explanation": "The Lord of the Rings: The Return of the King (2003) swept all 11 Oscars it was nominated for, tying Titanic and Ben-Hur.",
+    "explanation": "Eastwood aims his massive Magnum revolver across the diner counter, a quote later famously referenced by Ronald Reagan.",
     "tags": [
       "movies",
       "famous-quotes",
@@ -1827,64 +1827,64 @@
     "active": true
   },
   {
-    "id": "movies-blockbusters-0088",
+    "id": "movies-famous-quotes-0088",
     "category": "Movies",
-    "subcategory": "Blockbusters",
+    "subcategory": "Famous Quotes",
     "difficulty": "easy",
-    "question": "Regarding cinema and movie history: In the 1972 cinematic masterpiece 'The Godfather', which legendary actor portrayed the patriarch Don Vito Corleone? (Ref #88)",
+    "question": "What terrifying line does Jack Nicholson shout after chopping a hole through a wooden door with an axe in The Shining (1980)?",
     "options": [
-      "Al Pacino",
-      "Robert De Niro",
-      "James Caan",
-      "Marlon Brando"
+      "'Redrum! Redrum!'",
+      "'All work and no play makes Jack a dull boy.'",
+      "'I'm coming in, Wendy!'",
+      "'Here's Johnny!'"
     ],
     "correctAnswer": 3,
-    "explanation": "Marlon Brando won the Academy Award for Best Actor for his unforgettable portrayal of Don Vito Corleone in The Godfather.",
+    "explanation": "Nicholson channeled Ed McMahon's Tonight Show introduction while hunting his terrified wife in the Overlook Hotel.",
     "tags": [
       "movies",
-      "blockbusters",
+      "famous-quotes",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "movies-classic-cinema-0089",
+    "id": "movies-famous-quotes-0089",
     "category": "Movies",
-    "subcategory": "Classic Cinema",
+    "subcategory": "Famous Quotes",
     "difficulty": "medium",
-    "question": "Regarding cinema and movie history: In Orson Welles' 1941 classic 'Citizen Kane', what mystery object is revealed to be 'Rosebud'? (Ref #89)",
+    "question": "In Star Wars: The Empire Strikes Back (1980), what shocking truth does Darth Vader reveal to Luke Skywalker on Cloud City?",
     "options": [
-      "A childhood sled",
-      "A childhood pet dog",
-      "A childhood snow globe",
-      "A gold pocket watch"
+      "'No, I am your father.'",
+      "'Luke, I am your father.'",
+      "'Obi-Wan never told you the truth.'",
+      "'Join me, and we shall rule the galaxy.'"
     ],
     "correctAnswer": 0,
-    "explanation": "Rosebud is revealed at the climax to be the trade name painted on Charles Foster Kane's childhood winter sled.",
+    "explanation": "Often misquoted as 'Luke, I am your father', Vader rejects Luke's claim that Vader murdered his father.",
     "tags": [
       "movies",
-      "classic-cinema",
+      "famous-quotes",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "movies-oscar-winners-0090",
+    "id": "movies-famous-quotes-0090",
     "category": "Movies",
-    "subcategory": "Oscar Winners",
+    "subcategory": "Famous Quotes",
     "difficulty": "hard",
-    "question": "Regarding cinema and movie history: Which horror and suspense director created the 1960 psychological thriller 'Psycho' featuring the famous shower scene? (Ref #90)",
+    "question": "What iconic parting phrase does Arnold Schwarzenegger deliver as the cybernetic killer in The Terminator (1984)?",
     "options": [
-      "Roman Polanski",
-      "Alfred Hitchcock",
-      "William Friedkin",
-      "John Carpenter"
+      "'Hasta la vista, baby.'",
+      "'I'll be back.'",
+      "'Come with me if you want to live.'",
+      "'You're terminated.'"
     ],
     "correctAnswer": 1,
-    "explanation": "Alfred Hitchcock directed Psycho, starring Anthony Perkins as Norman Bates with revolutionary editing and Bernard Herrmann's screeching strings.",
+    "explanation": "The T-800 surveys the police station desk sergeant before driving a car through the front entrance.",
     "tags": [
       "movies",
-      "oscar-winners",
+      "famous-quotes",
       "hard"
     ],
     "active": true
@@ -1894,15 +1894,15 @@
     "category": "Movies",
     "subcategory": "Famous Quotes",
     "difficulty": "easy",
-    "question": "Regarding cinema and movie history: What was the first feature-length animated film ever produced in color and sound by Walt Disney in 1937? (Ref #91)",
+    "question": "What Spanish farewell catchphrase does Arnold Schwarzenegger deliver in Terminator 2: Judgment Day before shooting the frozen T-1000?",
     "options": [
-      "Pinocchio",
-      "Fantasia",
-      "Snow White and the Seven Dwarfs",
-      "Bambi"
+      "'I'll be back.'",
+      "'No problemo.'",
+      "'Hasta la vista, baby.'",
+      "'Sayonara, baby.'"
     ],
     "correctAnswer": 2,
-    "explanation": "Snow White and the Seven Dwarfs premiered in December 1937 as the historic first cel-animated feature film in Technicolor.",
+    "explanation": "Taught to the Terminator by young John Connor, Schwarzenegger delivers the line and fires his pistol into liquid nitrogen.",
     "tags": [
       "movies",
       "famous-quotes",
@@ -1911,64 +1911,64 @@
     "active": true
   },
   {
-    "id": "movies-blockbusters-0092",
+    "id": "movies-famous-quotes-0092",
     "category": "Movies",
-    "subcategory": "Blockbusters",
+    "subcategory": "Famous Quotes",
     "difficulty": "medium",
-    "question": "Regarding cinema and movie history: Which iconic film quote is spoken by Humphrey Bogart to Ingrid Bergman in the 1942 classic 'Casablanca'? (Ref #92)",
+    "question": "What line does Tom Hanks repeat as the chocolate-box metaphor for fate and unpredictability in Forrest Gump (1994)?",
     "options": [
-      "Frankly, my dear, I don't give a damn.",
-      "May the Force be with you.",
-      "You had me at hello.",
-      "Here's looking at you, kid."
+      "'Stupid is as stupid does.'",
+      "'Run, Forrest, run!'",
+      "'Mama always said life is simple.'",
+      "'Life was like a box of chocolates. You never know what you're gonna get.'"
     ],
     "correctAnswer": 3,
-    "explanation": "Humphrey Bogart playing Rick Blaine famously says 'Here's looking at you, kid' to Ilsa Lund in Casablanca.",
+    "explanation": "Sitting on the savannah bus bench, Forrest shares his mother's folksy wisdom with strangers.",
     "tags": [
       "movies",
-      "blockbusters",
+      "famous-quotes",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "movies-classic-cinema-0093",
+    "id": "movies-famous-quotes-0093",
     "category": "Movies",
-    "subcategory": "Classic Cinema",
+    "subcategory": "Famous Quotes",
     "difficulty": "hard",
-    "question": "Regarding cinema and movie history: Which visionary director directed both 'Jurassic Park' and the historical epic 'Schindler's List' in the year 1993? (Ref #93)",
+    "question": "What chilling line does Dr. Hannibal Lecter (Anthony Hopkins) say to FBI trainee Clarice Starling in The Silence of the Lambs (1991)?",
     "options": [
-      "Steven Spielberg",
-      "James Cameron",
-      "Martin Scorsese",
-      "Stanley Kubrick"
+      "'A census taker once tried to test me. I ate his liver with some fava beans and a nice Chianti.'",
+      "'Good morning, Clarice.'",
+      "'Have the lambs stopped screaming?'",
+      "'Quid pro quo, Clarice.'"
     ],
     "correctAnswer": 0,
-    "explanation": "Steven Spielberg released both the groundbreaking blockbuster Jurassic Park and the multi-Oscar winning Schindler's List in 1993.",
+    "explanation": "Hopkins punctuates the horrific confession with an infamous chilling sucking hiss through his teeth.",
     "tags": [
       "movies",
-      "classic-cinema",
+      "famous-quotes",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "movies-oscar-winners-0094",
+    "id": "movies-famous-quotes-0094",
     "category": "Movies",
-    "subcategory": "Oscar Winners",
+    "subcategory": "Famous Quotes",
     "difficulty": "easy",
-    "question": "Regarding cinema and movie history: Which film shares the historic record of winning 11 Academy Awards alongside 'Ben-Hur' and 'Titanic'? (Ref #94)",
+    "question": "In Jerry Maguire (1996), what desperate phrase does football client Rod Tidwell (Cuba Gooding Jr.) force his sports agent to scream on the phone?",
     "options": [
-      "The Godfather Part II",
-      "The Lord of the Rings: The Return of the King",
-      "Gladiator",
-      "La La Land"
+      "'You had me at hello.'",
+      "'Show me the money!'",
+      "'Help me help you!'",
+      "'Show me the contract!'"
     ],
     "correctAnswer": 1,
-    "explanation": "The Lord of the Rings: The Return of the King (2003) swept all 11 Oscars it was nominated for, tying Titanic and Ben-Hur.",
+    "explanation": "Gooding Jr. won the Academy Award for Best Supporting Actor after his energetic, infectious phone call performance.",
     "tags": [
       "movies",
-      "oscar-winners",
+      "famous-quotes",
       "easy"
     ],
     "active": true
@@ -1978,15 +1978,15 @@
     "category": "Movies",
     "subcategory": "Famous Quotes",
     "difficulty": "medium",
-    "question": "Regarding cinema and movie history: In the 1972 cinematic masterpiece 'The Godfather', which legendary actor portrayed the patriarch Don Vito Corleone? (Ref #95)",
+    "question": "In Jerry Maguire (1996), what famous romantic line does Dorothy Boyd (Renée Zellweger) say to stop Tom Cruise's emotional speech?",
     "options": [
-      "Al Pacino",
-      "Robert De Niro",
-      "Marlon Brando",
-      "James Caan"
+      "'Show me the money.'",
+      "'You complete me.'",
+      "'You had me at hello.'",
+      "'I love you, Jerry.'"
     ],
     "correctAnswer": 2,
-    "explanation": "Marlon Brando won the Academy Award for Best Actor for his unforgettable portrayal of Don Vito Corleone in The Godfather.",
+    "explanation": "Cruise's sports agent pours his heart out in front of Dorothy's living room book club, and she tearfully accepts his love.",
     "tags": [
       "movies",
       "famous-quotes",
@@ -1995,64 +1995,64 @@
     "active": true
   },
   {
-    "id": "movies-blockbusters-0096",
+    "id": "movies-famous-quotes-0096",
     "category": "Movies",
-    "subcategory": "Blockbusters",
+    "subcategory": "Famous Quotes",
     "difficulty": "hard",
-    "question": "Regarding cinema and movie history: In Orson Welles' 1941 classic 'Citizen Kane', what mystery object is revealed to be 'Rosebud'? (Ref #96)",
+    "question": "What battle rallying cry does Mel Gibson shout to Scottish warriors before the clash at Stirling in Braveheart (1995)?",
     "options": [
-      "A childhood pet dog",
-      "A childhood snow globe",
-      "A gold pocket watch",
-      "A childhood sled"
+      "'Hold the line!'",
+      "'For Scotland and glory!'",
+      "'Fight, and you may die!'",
+      "'They may take our lives, but they'll never take our freedom!'"
     ],
     "correctAnswer": 3,
-    "explanation": "Rosebud is revealed at the climax to be the trade name painted on Charles Foster Kane's childhood winter sled.",
+    "explanation": "Riding his horse before thousands of terrified highlanders, William Wallace inspires ordinary farmers to stand against the English cavalry.",
     "tags": [
       "movies",
-      "blockbusters",
+      "famous-quotes",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "movies-classic-cinema-0097",
+    "id": "movies-famous-quotes-0097",
     "category": "Movies",
-    "subcategory": "Classic Cinema",
+    "subcategory": "Famous Quotes",
     "difficulty": "easy",
-    "question": "Regarding cinema and movie history: Which horror and suspense director created the 1960 psychological thriller 'Psycho' featuring the famous shower scene? (Ref #97)",
+    "question": "What line does Jack Nicholson as Colonel Nathan R. Jessep scream during cross-examination by Tom Cruise in A Few Good Men (1992)?",
     "options": [
-      "Alfred Hitchcock",
-      "Roman Polanski",
-      "William Friedkin",
-      "John Carpenter"
+      "'You can't handle the truth!'",
+      "'I ordered the Code Red!'",
+      "'We live in a world that has walls!'",
+      "'I don't have to answer you!'"
     ],
     "correctAnswer": 0,
-    "explanation": "Alfred Hitchcock directed Psycho, starring Anthony Perkins as Norman Bates with revolutionary editing and Bernard Herrmann's screeching strings.",
+    "explanation": "Jessep snaps in the military courtroom after Cruise's naval lawyer demands the truth regarding Private Santiago's death.",
     "tags": [
       "movies",
-      "classic-cinema",
+      "famous-quotes",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "movies-oscar-winners-0098",
+    "id": "movies-famous-quotes-0098",
     "category": "Movies",
-    "subcategory": "Oscar Winners",
+    "subcategory": "Famous Quotes",
     "difficulty": "medium",
-    "question": "Regarding cinema and movie history: What was the first feature-length animated film ever produced in color and sound by Walt Disney in 1937? (Ref #98)",
+    "question": "What chilling line does six-year-old Cole Sear (Haley Joel Osment) whisper to child psychologist Malcolm Crowe in The Sixth Sense (1999)?",
     "options": [
-      "Pinocchio",
-      "Snow White and the Seven Dwarfs",
-      "Fantasia",
-      "Bambi"
+      "'They don't know they're dead.'",
+      "'I see dead people.'",
+      "'They're all around us.'",
+      "'Help me, Dr. Crowe.'"
     ],
     "correctAnswer": 1,
-    "explanation": "Snow White and the Seven Dwarfs premiered in December 1937 as the historic first cel-animated feature film in Technicolor.",
+    "explanation": "Wrapped in blankets in a hospital bed, Cole reveals his terrifying psychic ability to Bruce Willis.",
     "tags": [
       "movies",
-      "oscar-winners",
+      "famous-quotes",
       "medium"
     ],
     "active": true
@@ -2062,15 +2062,15 @@
     "category": "Movies",
     "subcategory": "Famous Quotes",
     "difficulty": "hard",
-    "question": "Regarding cinema and movie history: Which iconic film quote is spoken by Humphrey Bogart to Ingrid Bergman in the 1942 classic 'Casablanca'? (Ref #99)",
+    "question": "What line does Roy Scheider as Police Chief Martin Brody say to Quint after seeing the colossal Great White shark in Jaws (1975)?",
     "options": [
-      "Frankly, my dear, I don't give a damn.",
-      "May the Force be with you.",
-      "Here's looking at you, kid.",
-      "You had me at hello."
+      "'That's a twenty-footer!'",
+      "'Turn the boat around!'",
+      "'You're gonna need a bigger boat.'",
+      "'We can't kill this thing.'"
     ],
     "correctAnswer": 2,
-    "explanation": "Humphrey Bogart playing Rick Blaine famously says 'Here's looking at you, kid' to Ilsa Lund in Casablanca.",
+    "explanation": "Brody slowly backs into the wheelhouse after the monster shark breaches the water surface while he chums fish.",
     "tags": [
       "movies",
       "famous-quotes",
@@ -2079,64 +2079,64 @@
     "active": true
   },
   {
-    "id": "movies-blockbusters-0100",
+    "id": "movies-famous-quotes-0100",
     "category": "Movies",
-    "subcategory": "Blockbusters",
+    "subcategory": "Famous Quotes",
     "difficulty": "easy",
-    "question": "Regarding cinema and movie history: Which visionary director directed both 'Jurassic Park' and the historical epic 'Schindler's List' in the year 1993? (Ref #100)",
+    "question": "What Latin motto meaning 'seize the day' does Robin Williams as English teacher John Keating urge his students to live by in Dead Poets Society (1989)?",
     "options": [
-      "James Cameron",
-      "Martin Scorsese",
-      "Stanley Kubrick",
-      "Steven Spielberg"
+      "'O Captain! My Captain!'",
+      "'Stand on your desks!'",
+      "'Dare to strike out for new ground.'",
+      "'Carpe diem. Seize the day, boys. Make your lives extraordinary.'"
     ],
     "correctAnswer": 3,
-    "explanation": "Steven Spielberg released both the groundbreaking blockbuster Jurassic Park and the multi-Oscar winning Schindler's List in 1993.",
+    "explanation": "Keating leans into his boarding school students as they inspect faded photographs of long-dead alumni in the display case.",
     "tags": [
       "movies",
-      "blockbusters",
+      "famous-quotes",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "movies-classic-cinema-0101",
+    "id": "movies-famous-quotes-0101",
     "category": "Movies",
-    "subcategory": "Classic Cinema",
+    "subcategory": "Famous Quotes",
     "difficulty": "medium",
-    "question": "Regarding cinema and movie history: Which film shares the historic record of winning 11 Academy Awards alongside 'Ben-Hur' and 'Titanic'? (Ref #101)",
+    "question": "In Apollo 13 (1995), what iconic radio message does Tom Hanks as astronaut Jim Lovell send to Mission Control after an oxygen tank explosion?",
     "options": [
-      "The Lord of the Rings: The Return of the King",
-      "The Godfather Part II",
-      "Gladiator",
-      "La La Land"
+      "'Houston, we have a problem.'",
+      "'Houston, we've had a glitch.'",
+      "'Houston, main bus B undervolt.'",
+      "'Houston, the ship is damaged.'"
     ],
     "correctAnswer": 0,
-    "explanation": "The Lord of the Rings: The Return of the King (2003) swept all 11 Oscars it was nominated for, tying Titanic and Ben-Hur.",
+    "explanation": "Slightly adapted from Lovell's actual historical transmission ('Houston, we've had a problem'), it became cinema's classic crisis understatement.",
     "tags": [
       "movies",
-      "classic-cinema",
+      "famous-quotes",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "movies-oscar-winners-0102",
+    "id": "movies-famous-quotes-0102",
     "category": "Movies",
-    "subcategory": "Oscar Winners",
+    "subcategory": "Famous Quotes",
     "difficulty": "hard",
-    "question": "Regarding cinema and movie history: In the 1972 cinematic masterpiece 'The Godfather', which legendary actor portrayed the patriarch Don Vito Corleone? (Ref #102)",
+    "question": "What famous line does Arnold Schwarzenegger shout to terrified commandos fleeing the jungle alien in Predator (1987)?",
     "options": [
-      "Al Pacino",
-      "Marlon Brando",
-      "Robert De Niro",
-      "James Caan"
+      "'Kill me, I'm here!'",
+      "'Get to the chopper!'",
+      "'If it bleeds, we can kill it.'",
+      "'Run for your lives!'"
     ],
     "correctAnswer": 1,
-    "explanation": "Marlon Brando won the Academy Award for Best Actor for his unforgettable portrayal of Don Vito Corleone in The Godfather.",
+    "explanation": "Dutch yells as the extraterrestrial hunter closes in, a line that became one of action cinema's most parodied soundbites.",
     "tags": [
       "movies",
-      "oscar-winners",
+      "famous-quotes",
       "hard"
     ],
     "active": true
@@ -2146,15 +2146,15 @@
     "category": "Movies",
     "subcategory": "Famous Quotes",
     "difficulty": "easy",
-    "question": "Regarding cinema and movie history: In Orson Welles' 1941 classic 'Citizen Kane', what mystery object is revealed to be 'Rosebud'? (Ref #103)",
+    "question": "In Fight Club (1999), what is Brad Pitt as Tyler Durden's paramount first and second rule of Fight Club?",
     "options": [
-      "A childhood pet dog",
-      "A childhood snow globe",
-      "A childhood sled",
-      "A gold pocket watch"
+      "'No shirts, no shoes.'",
+      "'Fights go on as long as they have to.'",
+      "'The first rule of Fight Club is: you do not talk about Fight Club.'",
+      "'Only two guys to a fight.'"
     ],
     "correctAnswer": 2,
-    "explanation": "Rosebud is revealed at the climax to be the trade name painted on Charles Foster Kane's childhood winter sled.",
+    "explanation": "Tyler instructs men gathered in the damp basement, emphasizing secrecy as the foundation of their underground brotherhood.",
     "tags": [
       "movies",
       "famous-quotes",
@@ -2163,64 +2163,64 @@
     "active": true
   },
   {
-    "id": "movies-blockbusters-0104",
+    "id": "movies-famous-quotes-0104",
     "category": "Movies",
-    "subcategory": "Blockbusters",
+    "subcategory": "Famous Quotes",
     "difficulty": "medium",
-    "question": "Regarding cinema and movie history: Which horror and suspense director created the 1960 psychological thriller 'Psycho' featuring the famous shower scene? (Ref #104)",
+    "question": "What mathematical declaration does Leonardo DiCaprio shout from the bow of the ship in Titanic (1997)?",
     "options": [
-      "Roman Polanski",
-      "William Friedkin",
-      "John Carpenter",
-      "Alfred Hitchcock"
+      "'Nothing on Earth can come between us!'",
+      "'Hold on to me!'",
+      "'We're flying, Jack!'",
+      "'I'm the king of the world!'"
     ],
     "correctAnswer": 3,
-    "explanation": "Alfred Hitchcock directed Psycho, starring Anthony Perkins as Norman Bates with revolutionary editing and Bernard Herrmann's screeching strings.",
+    "explanation": "Jack Dawson leans over the prow alongside Fabrizio as dolphins jump in the Atlantic sunlight.",
     "tags": [
       "movies",
-      "blockbusters",
+      "famous-quotes",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "movies-classic-cinema-0105",
+    "id": "movies-famous-quotes-0105",
     "category": "Movies",
-    "subcategory": "Classic Cinema",
+    "subcategory": "Famous Quotes",
     "difficulty": "hard",
-    "question": "Regarding cinema and movie history: What was the first feature-length animated film ever produced in color and sound by Walt Disney in 1937? (Ref #105)",
+    "question": "What chilling farewell does Al Pacino as Tony Montana scream while firing an M16 with an under-barrel grenade launcher in Scarface (1983)?",
     "options": [
-      "Snow White and the Seven Dwarfs",
-      "Pinocchio",
-      "Fantasia",
-      "Bambi"
+      "'Say hello to my little friend!'",
+      "'I always tell the truth, even when I lie.'",
+      "'The world is yours!'",
+      "'You think you can take me?!'"
     ],
     "correctAnswer": 0,
-    "explanation": "Snow White and the Seven Dwarfs premiered in December 1937 as the historic first cel-animated feature film in Technicolor.",
+    "explanation": "Under heavy fire from Sosa's assassins, Montana kicks open his mansion double doors in a hail of gunfire.",
     "tags": [
       "movies",
-      "classic-cinema",
+      "famous-quotes",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "movies-oscar-winners-0106",
+    "id": "movies-famous-quotes-0106",
     "category": "Movies",
-    "subcategory": "Oscar Winners",
+    "subcategory": "Famous Quotes",
     "difficulty": "easy",
-    "question": "Regarding cinema and movie history: Which iconic film quote is spoken by Humphrey Bogart to Ingrid Bergman in the 1942 classic 'Casablanca'? (Ref #106)",
+    "question": "In The Matrix (1999), what choice does Laurence Fishburne as Morpheus offer Keanu Reeves as Neo regarding red and blue pills?",
     "options": [
-      "Frankly, my dear, I don't give a damn.",
-      "Here's looking at you, kid.",
-      "May the Force be with you.",
-      "You had me at hello."
+      "'Choose wisely, Neo.'",
+      "'You take the blue pill, the story ends. You take the red pill, you stay in Wonderland, and I show you how deep the rabbit hole goes.'",
+      "'One pill lets you sleep, one wakes you up.'",
+      "'There is no spoon.'"
     ],
     "correctAnswer": 1,
-    "explanation": "Humphrey Bogart playing Rick Blaine famously says 'Here's looking at you, kid' to Ilsa Lund in Casablanca.",
+    "explanation": "Morpheus reveals that reality is a simulated dream world generated by intelligent machines to enslave humanity.",
     "tags": [
       "movies",
-      "oscar-winners",
+      "famous-quotes",
       "easy"
     ],
     "active": true
@@ -2230,15 +2230,15 @@
     "category": "Movies",
     "subcategory": "Famous Quotes",
     "difficulty": "medium",
-    "question": "Regarding cinema and movie history: Which visionary director directed both 'Jurassic Park' and the historical epic 'Schindler's List' in the year 1993? (Ref #107)",
+    "question": "In The Dark Knight (2008), what line does Heath Ledger's Joker say while licking his lips and explaining how he got his facial scars?",
     "options": [
-      "James Cameron",
-      "Martin Scorsese",
-      "Steven Spielberg",
-      "Stanley Kubrick"
+      "'Let's put a smile on that face!'",
+      "'Introduce a little anarchy.'",
+      "'Why so serious?'",
+      "'It's not about money, it's about sending a message.'"
     ],
     "correctAnswer": 2,
-    "explanation": "Steven Spielberg released both the groundbreaking blockbuster Jurassic Park and the multi-Oscar winning Schindler's List in 1993.",
+    "explanation": "The Joker holds a knife inside a mobster's mouth, delivering one of modern cinema's most chilling villain catchphrases.",
     "tags": [
       "movies",
       "famous-quotes",
@@ -2247,64 +2247,64 @@
     "active": true
   },
   {
-    "id": "movies-blockbusters-0108",
+    "id": "movies-famous-quotes-0108",
     "category": "Movies",
-    "subcategory": "Blockbusters",
+    "subcategory": "Famous Quotes",
     "difficulty": "hard",
-    "question": "Regarding cinema and movie history: Which film shares the historic record of winning 11 Academy Awards alongside 'Ben-Hur' and 'Titanic'? (Ref #108)",
+    "question": "What line about morality versus corruption does Harvey Dent (Aaron Eckhart) utter in The Dark Knight (2008)?",
     "options": [
-      "The Godfather Part II",
-      "Gladiator",
-      "La La Land",
-      "The Lord of the Rings: The Return of the King"
+      "'The night is darkest just before the dawn.'",
+      "'I believe in Harvey Dent.'",
+      "'Justice cannot wait.'",
+      "'You either die a hero, or you live long enough to see yourself become the villain.'"
     ],
     "correctAnswer": 3,
-    "explanation": "The Lord of the Rings: The Return of the King (2003) swept all 11 Oscars it was nominated for, tying Titanic and Ben-Hur.",
+    "explanation": "Dent foreshadows his tragic downfall from Gotham's noble White Knight prosecutor into the vengeful killer Two-Face.",
     "tags": [
       "movies",
-      "blockbusters",
+      "famous-quotes",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "movies-classic-cinema-0109",
+    "id": "movies-famous-quotes-0109",
     "category": "Movies",
-    "subcategory": "Classic Cinema",
+    "subcategory": "Famous Quotes",
     "difficulty": "easy",
-    "question": "Regarding cinema and movie history: In the 1972 cinematic masterpiece 'The Godfather', which legendary actor portrayed the patriarch Don Vito Corleone? (Ref #109)",
+    "question": "What line does Russell Crowe as Maximus scream to the bloodthirsty Roman crowd after slaughtering gladiators in Gladiator (2000)?",
     "options": [
-      "Marlon Brando",
-      "Al Pacino",
-      "Robert De Niro",
-      "James Caan"
+      "'Are you not entertained? Are you not entertained?! Is this not why you are here?!'",
+      "'I am Maximus Decimus Meridius!'",
+      "'Roma victor!'",
+      "'Death comes to us all!'"
     ],
     "correctAnswer": 0,
-    "explanation": "Marlon Brando won the Academy Award for Best Actor for his unforgettable portrayal of Don Vito Corleone in The Godfather.",
+    "explanation": "Maximus hurls his bloody swords into the dirt of the provincial arena, disgusted by mob bloodlust.",
     "tags": [
       "movies",
-      "classic-cinema",
+      "famous-quotes",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "movies-oscar-winners-0110",
+    "id": "movies-famous-quotes-0110",
     "category": "Movies",
-    "subcategory": "Oscar Winners",
+    "subcategory": "Famous Quotes",
     "difficulty": "medium",
-    "question": "Regarding cinema and movie history: In Orson Welles' 1941 classic 'Citizen Kane', what mystery object is revealed to be 'Rosebud'? (Ref #110)",
+    "question": "In Network (1976), what furious line does news anchor Howard Beale (Peter Finch) instruct millions of TV viewers to scream out their windows?",
     "options": [
-      "A childhood pet dog",
-      "A childhood sled",
-      "A childhood snow globe",
-      "A gold pocket watch"
+      "'Turn off your television sets!'",
+      "'I'm as mad as hell, and I'm not going to take this anymore!'",
+      "'The truth will set you free!'",
+      "'We're in a depression!'"
     ],
     "correctAnswer": 1,
-    "explanation": "Rosebud is revealed at the climax to be the trade name painted on Charles Foster Kane's childhood winter sled.",
+    "explanation": "Peter Finch won a posthumous Best Actor Academy Award for his prophetic depiction of media rage and spectacle.",
     "tags": [
       "movies",
-      "oscar-winners",
+      "famous-quotes",
       "medium"
     ],
     "active": true
@@ -2314,15 +2314,15 @@
     "category": "Movies",
     "subcategory": "Famous Quotes",
     "difficulty": "hard",
-    "question": "Regarding cinema and movie history: Which horror and suspense director created the 1960 psychological thriller 'Psycho' featuring the famous shower scene? (Ref #111)",
+    "question": "In Sudden Impact (1983), what catchphrase does Clint Eastwood make famous when facing armed robbers in a diner?",
     "options": [
-      "Roman Polanski",
-      "William Friedkin",
-      "Alfred Hitchcock",
-      "John Carpenter"
+      "'Do you feel lucky, punk?'",
+      "'A man's got to know his limitations.'",
+      "'Go ahead, make my day.'",
+      "'You're out of luck.'"
     ],
     "correctAnswer": 2,
-    "explanation": "Alfred Hitchcock directed Psycho, starring Anthony Perkins as Norman Bates with revolutionary editing and Bernard Herrmann's screeching strings.",
+    "explanation": "Eastwood aims his .44 Magnum revolver across the coffee counter, daring the criminal to flinch.",
     "tags": [
       "movies",
       "famous-quotes",
@@ -2331,85 +2331,85 @@
     "active": true
   },
   {
-    "id": "movies-blockbusters-0112",
+    "id": "movies-famous-quotes-0112",
     "category": "Movies",
-    "subcategory": "Blockbusters",
+    "subcategory": "Famous Quotes",
     "difficulty": "easy",
-    "question": "Regarding cinema and movie history: What was the first feature-length animated film ever produced in color and sound by Walt Disney in 1937? (Ref #112)",
+    "question": "In When Harry Met Sally... (1989), what famous line does an older diner patron (played by Estelle Reiner) say after Meg Ryan fakes an orgasm in Katz's Deli?",
     "options": [
-      "Pinocchio",
-      "Fantasia",
-      "Bambi",
-      "Snow White and the Seven Dwarfs"
+      "'Check, please!'",
+      "'That was impressive.'",
+      "'Give me two of those.'",
+      "'I'll have what she's having.'"
     ],
     "correctAnswer": 3,
-    "explanation": "Snow White and the Seven Dwarfs premiered in December 1937 as the historic first cel-animated feature film in Technicolor.",
+    "explanation": "The comedic reaction shot in the crowded Manhattan deli remains one of romantic comedy's most celebrated punchlines.",
     "tags": [
       "movies",
-      "blockbusters",
+      "famous-quotes",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "movies-classic-cinema-0113",
+    "id": "movies-famous-quotes-0113",
     "category": "Movies",
-    "subcategory": "Classic Cinema",
+    "subcategory": "Famous Quotes",
     "difficulty": "medium",
-    "question": "Regarding cinema and movie history: Which iconic film quote is spoken by Humphrey Bogart to Ingrid Bergman in the 1942 classic 'Casablanca'? (Ref #113)",
+    "question": "In Back to the Future (1985), what does Christopher Lloyd as Doc Brown say to Michael J. Fox as Marty McFly before flying into the future in the DeLorean?",
     "options": [
-      "Here's looking at you, kid.",
-      "Frankly, my dear, I don't give a damn.",
-      "May the Force be with you.",
-      "You had me at hello."
+      "'Roads? Where we're going, we don't need roads.'",
+      "'Great Scott!'",
+      "'1.21 gigawatts!'",
+      "'Hold on to your seat!'"
     ],
     "correctAnswer": 0,
-    "explanation": "Humphrey Bogart playing Rick Blaine famously says 'Here's looking at you, kid' to Ilsa Lund in Casablanca.",
+    "explanation": "Doc Brown pulls down his silver sunglasses and flips the time machine into hover mode, accelerating into 2015.",
     "tags": [
       "movies",
-      "classic-cinema",
+      "famous-quotes",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "movies-oscar-winners-0114",
+    "id": "movies-blockbusters-0114",
     "category": "Movies",
-    "subcategory": "Oscar Winners",
+    "subcategory": "Blockbusters",
     "difficulty": "hard",
-    "question": "Regarding cinema and movie history: Which visionary director directed both 'Jurassic Park' and the historical epic 'Schindler's List' in the year 1993? (Ref #114)",
+    "question": "What 1975 Steven Spielberg thriller about a man-eating Great White shark terrorizing Amity Island is recognized as Hollywood's first modern summer blockbuster?",
     "options": [
-      "James Cameron",
-      "Steven Spielberg",
-      "Martin Scorsese",
-      "Stanley Kubrick"
+      "Star Wars",
+      "Jaws",
+      "Close Encounters of the Third Kind",
+      "Alien"
     ],
     "correctAnswer": 1,
-    "explanation": "Steven Spielberg released both the groundbreaking blockbuster Jurassic Park and the multi-Oscar winning Schindler's List in 1993.",
+    "explanation": "Jaws pioneered nationwide wide-release saturation distribution paired with massive television advertising campaigns, shattering box office records.",
     "tags": [
       "movies",
-      "oscar-winners",
+      "blockbusters",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "movies-famous-quotes-0115",
+    "id": "movies-blockbusters-0115",
     "category": "Movies",
-    "subcategory": "Famous Quotes",
+    "subcategory": "Blockbusters",
     "difficulty": "easy",
-    "question": "Regarding cinema and movie history: Which film shares the historic record of winning 11 Academy Awards alongside 'Ben-Hur' and 'Titanic'? (Ref #115)",
+    "question": "What 1977 space fantasy film, directed by George Lucas, became a global cultural phenomenon and changed film merchandising forever?",
     "options": [
-      "The Godfather Part II",
-      "Gladiator",
-      "The Lord of the Rings: The Return of the King",
-      "La La Land"
+      "Close Encounters of the Third Kind",
+      "Star Trek: The Motion Picture",
+      "Star Wars (Episode IV: A New Hope)",
+      "Superman"
     ],
     "correctAnswer": 2,
-    "explanation": "The Lord of the Rings: The Return of the King (2003) swept all 11 Oscars it was nominated for, tying Titanic and Ben-Hur.",
+    "explanation": "Audiences queued around city blocks multiple times to see Luke Skywalker, Princess Leia, and Han Solo battle the Galactic Empire.",
     "tags": [
       "movies",
-      "famous-quotes",
+      "blockbusters",
       "easy"
     ],
     "active": true
@@ -2419,15 +2419,15 @@
     "category": "Movies",
     "subcategory": "Blockbusters",
     "difficulty": "medium",
-    "question": "Regarding cinema and movie history: In the 1972 cinematic masterpiece 'The Godfather', which legendary actor portrayed the patriarch Don Vito Corleone? (Ref #116)",
+    "question": "What 1993 Steven Spielberg dinosaur blockbuster revolutionized computer-generated visual effects and animatronics, grossing over $900 million?",
     "options": [
-      "Al Pacino",
-      "Robert De Niro",
-      "James Caan",
-      "Marlon Brando"
+      "The Lost World",
+      "Terminator 2",
+      "Independence Day",
+      "Jurassic Park"
     ],
     "correctAnswer": 3,
-    "explanation": "Marlon Brando won the Academy Award for Best Actor for his unforgettable portrayal of Don Vito Corleone in The Godfather.",
+    "explanation": "ILM's groundbreaking digital dinosaurs made cinematic history, convincing George Lucas that technology was ready for the Star Wars prequels.",
     "tags": [
       "movies",
       "blockbusters",
@@ -2436,64 +2436,64 @@
     "active": true
   },
   {
-    "id": "movies-classic-cinema-0117",
+    "id": "movies-blockbusters-0117",
     "category": "Movies",
-    "subcategory": "Classic Cinema",
+    "subcategory": "Blockbusters",
     "difficulty": "hard",
-    "question": "Regarding cinema and movie history: In Orson Welles' 1941 classic 'Citizen Kane', what mystery object is revealed to be 'Rosebud'? (Ref #117)",
+    "question": "What 1982 Steven Spielberg family sci-fi masterpiece follows a gentle stranded alien botanist befriended by a ten-year-old boy named Elliott?",
     "options": [
-      "A childhood sled",
-      "A childhood pet dog",
-      "A childhood snow globe",
-      "A gold pocket watch"
+      "E.T. the Extra-Terrestrial",
+      "Close Encounters of the Third Kind",
+      "The Goonies",
+      "Poltergeist"
     ],
     "correctAnswer": 0,
-    "explanation": "Rosebud is revealed at the climax to be the trade name painted on Charles Foster Kane's childhood winter sled.",
+    "explanation": "E.T. surpassed Star Wars to become the highest-grossing film of all time, famous for children flying bicycles across the face of the full moon.",
     "tags": [
       "movies",
-      "classic-cinema",
+      "blockbusters",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "movies-oscar-winners-0118",
+    "id": "movies-blockbusters-0118",
     "category": "Movies",
-    "subcategory": "Oscar Winners",
+    "subcategory": "Blockbusters",
     "difficulty": "easy",
-    "question": "Regarding cinema and movie history: Which horror and suspense director created the 1960 psychological thriller 'Psycho' featuring the famous shower scene? (Ref #118)",
+    "question": "What 1996 alien invasion disaster blockbuster, directed by Roland Emmerich, features Will Smith and Jeff Goldblum fighting to save Earth on the Fourth of July?",
     "options": [
-      "Roman Polanski",
-      "Alfred Hitchcock",
-      "William Friedkin",
-      "John Carpenter"
+      "Men in Black",
+      "Independence Day",
+      "Armageddon",
+      "Deep Impact"
     ],
     "correctAnswer": 1,
-    "explanation": "Alfred Hitchcock directed Psycho, starring Anthony Perkins as Norman Bates with revolutionary editing and Bernard Herrmann's screeching strings.",
+    "explanation": "Famous for the White House explosion visual effect and Bill Pullman's presidential speech, it grossed over $800 million worldwide.",
     "tags": [
       "movies",
-      "oscar-winners",
+      "blockbusters",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "movies-famous-quotes-0119",
+    "id": "movies-blockbusters-0119",
     "category": "Movies",
-    "subcategory": "Famous Quotes",
+    "subcategory": "Blockbusters",
     "difficulty": "medium",
-    "question": "Regarding cinema and movie history: What was the first feature-length animated film ever produced in color and sound by Walt Disney in 1937? (Ref #119)",
+    "question": "What 1998 disaster film, directed by Michael Bay and starring Bruce Willis as a deep-core driller sent to destroy an asteroid, was the year's top grosser?",
     "options": [
-      "Pinocchio",
-      "Fantasia",
-      "Snow White and the Seven Dwarfs",
-      "Bambi"
+      "Deep Impact",
+      "Twister",
+      "Armageddon",
+      "The Core"
     ],
     "correctAnswer": 2,
-    "explanation": "Snow White and the Seven Dwarfs premiered in December 1937 as the historic first cel-animated feature film in Technicolor.",
+    "explanation": "Scored to Aerosmith's hit 'I Don't Want to Miss a Thing', Armageddon combined high-octane action with emotional space heroics.",
     "tags": [
       "movies",
-      "famous-quotes",
+      "blockbusters",
       "medium"
     ],
     "active": true
@@ -2503,15 +2503,15 @@
     "category": "Movies",
     "subcategory": "Blockbusters",
     "difficulty": "hard",
-    "question": "Regarding cinema and movie history: Which iconic film quote is spoken by Humphrey Bogart to Ingrid Bergman in the 1942 classic 'Casablanca'? (Ref #120)",
+    "question": "What 1991 sci-fi action masterpiece, directed by James Cameron, utilized groundbreaking CGI liquid metal effects for the villainous T-1000?",
     "options": [
-      "Frankly, my dear, I don't give a damn.",
-      "May the Force be with you.",
-      "You had me at hello.",
-      "Here's looking at you, kid."
+      "Total Recall",
+      "The Abyss",
+      "Jurassic Park",
+      "Terminator 2: Judgment Day"
     ],
     "correctAnswer": 3,
-    "explanation": "Humphrey Bogart playing Rick Blaine famously says 'Here's looking at you, kid' to Ilsa Lund in Casablanca.",
+    "explanation": "T2 cost an unprecedented $100 million, grossing over $500 million and winning four Academy Awards for visual effects and sound.",
     "tags": [
       "movies",
       "blockbusters",
@@ -2520,64 +2520,64 @@
     "active": true
   },
   {
-    "id": "movies-classic-cinema-0121",
+    "id": "movies-blockbusters-0121",
     "category": "Movies",
-    "subcategory": "Classic Cinema",
+    "subcategory": "Blockbusters",
     "difficulty": "easy",
-    "question": "Regarding cinema and movie history: Which visionary director directed both 'Jurassic Park' and the historical epic 'Schindler's List' in the year 1993? (Ref #121)",
+    "question": "What 1989 superhero blockbuster, directed by Tim Burton and starring Michael Keaton and Jack Nicholson, sparked global 'Batmania'?",
     "options": [
-      "Steven Spielberg",
-      "James Cameron",
-      "Martin Scorsese",
-      "Stanley Kubrick"
+      "Batman",
+      "Superman",
+      "Dick Tracy",
+      "The Shadow"
     ],
     "correctAnswer": 0,
-    "explanation": "Steven Spielberg released both the groundbreaking blockbuster Jurassic Park and the multi-Oscar winning Schindler's List in 1993.",
+    "explanation": "Nicholson's scene-stealing Joker and Anton Furst's gothic art-deco production design proved superhero films could be dark, stylish, and immensely profitable.",
     "tags": [
       "movies",
-      "classic-cinema",
+      "blockbusters",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "movies-oscar-winners-0122",
+    "id": "movies-blockbusters-0122",
     "category": "Movies",
-    "subcategory": "Oscar Winners",
+    "subcategory": "Blockbusters",
     "difficulty": "medium",
-    "question": "Regarding cinema and movie history: Which film shares the historic record of winning 11 Academy Awards alongside 'Ben-Hur' and 'Titanic'? (Ref #122)",
+    "question": "What 2008 superhero masterpiece, directed by Christopher Nolan, features Christian Bale as Batman facing Heath Ledger's Oscar-winning Joker?",
     "options": [
-      "The Godfather Part II",
-      "The Lord of the Rings: The Return of the King",
-      "Gladiator",
-      "La La Land"
+      "Batman Begins",
+      "The Dark Knight",
+      "The Dark Knight Rises",
+      "Iron Man"
     ],
     "correctAnswer": 1,
-    "explanation": "The Lord of the Rings: The Return of the King (2003) swept all 11 Oscars it was nominated for, tying Titanic and Ben-Hur.",
+    "explanation": "The Dark Knight transcended the comic book genre with gritty crime drama realism, grossing over $1 billion and reshaping modern Hollywood.",
     "tags": [
       "movies",
-      "oscar-winners",
+      "blockbusters",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "movies-famous-quotes-0123",
+    "id": "movies-blockbusters-0123",
     "category": "Movies",
-    "subcategory": "Famous Quotes",
+    "subcategory": "Blockbusters",
     "difficulty": "hard",
-    "question": "Regarding cinema and movie history: In the 1972 cinematic masterpiece 'The Godfather', which legendary actor portrayed the patriarch Don Vito Corleone? (Ref #123)",
+    "question": "What 2012 superhero team-up film, directed by Joss Whedon, united Iron Man, Captain America, Thor, and the Hulk, grossing $1.5 billion?",
     "options": [
-      "Al Pacino",
-      "Robert De Niro",
-      "Marlon Brando",
-      "James Caan"
+      "Avengers: Age of Ultron",
+      "Captain America: Civil War",
+      "The Avengers (Marvel's The Avengers)",
+      "Justice League"
     ],
     "correctAnswer": 2,
-    "explanation": "Marlon Brando won the Academy Award for Best Actor for his unforgettable portrayal of Don Vito Corleone in The Godfather.",
+    "explanation": "The Battle of New York validated Marvel's interconnected cinematic universe strategy, shattering opening weekend box office records.",
     "tags": [
       "movies",
-      "famous-quotes",
+      "blockbusters",
       "hard"
     ],
     "active": true
@@ -2587,15 +2587,15 @@
     "category": "Movies",
     "subcategory": "Blockbusters",
     "difficulty": "easy",
-    "question": "Regarding cinema and movie history: In Orson Welles' 1941 classic 'Citizen Kane', what mystery object is revealed to be 'Rosebud'? (Ref #124)",
+    "question": "What 2019 Marvel Studios epic concluded the Infinity Saga, grossing $2.799 billion to become briefly the highest-grossing film in history?",
     "options": [
-      "A childhood pet dog",
-      "A childhood snow globe",
-      "A gold pocket watch",
-      "A childhood sled"
+      "Avengers: Infinity War",
+      "Spider-Man: No Way Home",
+      "Avatar",
+      "Avengers: Endgame"
     ],
     "correctAnswer": 3,
-    "explanation": "Rosebud is revealed at the climax to be the trade name painted on Charles Foster Kane's childhood winter sled.",
+    "explanation": "Directed by the Russo brothers, Endgame brought the 22-film Infinity Saga to an emotional, spectacle-filled climax.",
     "tags": [
       "movies",
       "blockbusters",
@@ -2604,64 +2604,64 @@
     "active": true
   },
   {
-    "id": "movies-classic-cinema-0125",
+    "id": "movies-blockbusters-0125",
     "category": "Movies",
-    "subcategory": "Classic Cinema",
+    "subcategory": "Blockbusters",
     "difficulty": "medium",
-    "question": "Regarding cinema and movie history: Which horror and suspense director created the 1960 psychological thriller 'Psycho' featuring the famous shower scene? (Ref #125)",
+    "question": "What 2021 Marvel/Sony superhero blockbuster united three generations of live-action Spider-Man actors (Tom Holland, Tobey Maguire, Andrew Garfield)?",
     "options": [
-      "Alfred Hitchcock",
-      "Roman Polanski",
-      "William Friedkin",
-      "John Carpenter"
+      "Spider-Man: No Way Home",
+      "Spider-Man: Far From Home",
+      "The Amazing Spider-Man 2",
+      "Spider-Man: Into the Spider-Verse"
     ],
     "correctAnswer": 0,
-    "explanation": "Alfred Hitchcock directed Psycho, starring Anthony Perkins as Norman Bates with revolutionary editing and Bernard Herrmann's screeching strings.",
+    "explanation": "No Way Home grossed over $1.9 billion during the pandemic recovery, fulfilling decades of comic book multiverse dreams.",
     "tags": [
       "movies",
-      "classic-cinema",
+      "blockbusters",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "movies-oscar-winners-0126",
+    "id": "movies-blockbusters-0126",
     "category": "Movies",
-    "subcategory": "Oscar Winners",
+    "subcategory": "Blockbusters",
     "difficulty": "hard",
-    "question": "Regarding cinema and movie history: What was the first feature-length animated film ever produced in color and sound by Walt Disney in 1937? (Ref #126)",
+    "question": "What 1999 sci-fi action film, directed by the Wachowskis, popularized 'bullet time' visual effects and leather-trenchcoat cyberpunk aesthetics?",
     "options": [
-      "Pinocchio",
-      "Snow White and the Seven Dwarfs",
-      "Fantasia",
-      "Bambi"
+      "Dark City",
+      "The Matrix",
+      "Blade Runner",
+      "The Fifth Element"
     ],
     "correctAnswer": 1,
-    "explanation": "Snow White and the Seven Dwarfs premiered in December 1937 as the historic first cel-animated feature film in Technicolor.",
+    "explanation": "Keanu Reeves' Neo dodged bullets on a rooftop in a 360-degree frozen-time camera rig that permanently changed Hollywood action cinematography.",
     "tags": [
       "movies",
-      "oscar-winners",
+      "blockbusters",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "movies-famous-quotes-0127",
+    "id": "movies-blockbusters-0127",
     "category": "Movies",
-    "subcategory": "Famous Quotes",
+    "subcategory": "Blockbusters",
     "difficulty": "easy",
-    "question": "Regarding cinema and movie history: Which iconic film quote is spoken by Humphrey Bogart to Ingrid Bergman in the 1942 classic 'Casablanca'? (Ref #127)",
+    "question": "What 1985 time-travel sci-fi comedy, directed by Robert Zemeckis, sent high schooler Marty McFly back to 1955 in a plutonium-powered DeLorean?",
     "options": [
-      "Frankly, my dear, I don't give a damn.",
-      "May the Force be with you.",
-      "Here's looking at you, kid.",
-      "You had me at hello."
+      "Ghostbusters",
+      "Bill & Ted's Excellent Adventure",
+      "Back to the Future",
+      "Ferris Bueller's Day Off"
     ],
     "correctAnswer": 2,
-    "explanation": "Humphrey Bogart playing Rick Blaine famously says 'Here's looking at you, kid' to Ilsa Lund in Casablanca.",
+    "explanation": "The chemistry between Michael J. Fox and Christopher Lloyd produced the highest-grossing film of 1985 and an enduring trilogy.",
     "tags": [
       "movies",
-      "famous-quotes",
+      "blockbusters",
       "easy"
     ],
     "active": true
@@ -2671,15 +2671,15 @@
     "category": "Movies",
     "subcategory": "Blockbusters",
     "difficulty": "medium",
-    "question": "Regarding cinema and movie history: Which visionary director directed both 'Jurassic Park' and the historical epic 'Schindler's List' in the year 1993? (Ref #128)",
+    "question": "What 1984 supernatural comedy, starring Bill Murray, Dan Aykroyd, and Harold Ramis, followed eccentric parapsychologists fighting ghosts in New York City?",
     "options": [
-      "James Cameron",
-      "Martin Scorsese",
-      "Stanley Kubrick",
-      "Steven Spielberg"
+      "Beetlejuice",
+      "Gremlins",
+      "Ghostbusters II",
+      "Ghostbusters"
     ],
     "correctAnswer": 3,
-    "explanation": "Steven Spielberg released both the groundbreaking blockbuster Jurassic Park and the multi-Oscar winning Schindler's List in 1993.",
+    "explanation": "Fighting the giant Stay Puft Marshmallow Man and Slimer, Ghostbusters became an iconic pop culture franchise with Ray Parker Jr.'s theme song.",
     "tags": [
       "movies",
       "blockbusters",
@@ -2688,64 +2688,64 @@
     "active": true
   },
   {
-    "id": "movies-classic-cinema-0129",
+    "id": "movies-blockbusters-0129",
     "category": "Movies",
-    "subcategory": "Classic Cinema",
+    "subcategory": "Blockbusters",
     "difficulty": "hard",
-    "question": "Regarding cinema and movie history: Which film shares the historic record of winning 11 Academy Awards alongside 'Ben-Hur' and 'Titanic'? (Ref #129)",
+    "question": "What 1986 naval aviation action blockbuster, directed by Tony Scott, cemented Tom Cruise's status as a global superstar as Pete 'Maverick' Mitchell?",
     "options": [
-      "The Lord of the Rings: The Return of the King",
-      "The Godfather Part II",
-      "Gladiator",
-      "La La Land"
+      "Top Gun",
+      "Days of Thunder",
+      "The Color of Money",
+      "Mission: Impossible"
     ],
     "correctAnswer": 0,
-    "explanation": "The Lord of the Rings: The Return of the King (2003) swept all 11 Oscars it was nominated for, tying Titanic and Ben-Hur.",
+    "explanation": "Featuring thrilling cockpit F-14 dogfight footage and 'Danger Zone', it drove historic real-world U.S. Navy pilot recruitment surges.",
     "tags": [
       "movies",
-      "classic-cinema",
+      "blockbusters",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "movies-oscar-winners-0130",
+    "id": "movies-blockbusters-0130",
     "category": "Movies",
-    "subcategory": "Oscar Winners",
+    "subcategory": "Blockbusters",
     "difficulty": "easy",
-    "question": "Regarding cinema and movie history: In the 1972 cinematic masterpiece 'The Godfather', which legendary actor portrayed the patriarch Don Vito Corleone? (Ref #130)",
+    "question": "What 2022 high-flying sequel, directed by Joseph Kosinski, grossed nearly $1.5 billion and was hailed for revitalizing theatrical moviegoing?",
     "options": [
-      "Al Pacino",
-      "Marlon Brando",
-      "Robert De Niro",
-      "James Caan"
+      "Mission: Impossible - Dead Reckoning",
+      "Top Gun: Maverick",
+      "Avatar: The Way of Water",
+      "Jurassic World Dominion"
     ],
     "correctAnswer": 1,
-    "explanation": "Marlon Brando won the Academy Award for Best Actor for his unforgettable portrayal of Don Vito Corleone in The Godfather.",
+    "explanation": "Cruise insisted on practical aerial filming with IMAX cameras inside actual F/A-18 Super Hornet cockpits, earning universal critical acclaim.",
     "tags": [
       "movies",
-      "oscar-winners",
+      "blockbusters",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "movies-famous-quotes-0131",
+    "id": "movies-blockbusters-0131",
     "category": "Movies",
-    "subcategory": "Famous Quotes",
+    "subcategory": "Blockbusters",
     "difficulty": "medium",
-    "question": "Regarding cinema and movie history: In Orson Welles' 1941 classic 'Citizen Kane', what mystery object is revealed to be 'Rosebud'? (Ref #131)",
+    "question": "What 2003 swashbuckler fantasy blockbuster, starring Johnny Depp as the eccentric pirate Captain Jack Sparrow, launched a $4.5 billion franchise?",
     "options": [
-      "A childhood pet dog",
-      "A childhood snow globe",
-      "A childhood sled",
-      "A gold pocket watch"
+      "Master and Commander",
+      "Cutthroat Island",
+      "Pirates of the Caribbean: The Curse of the Black Pearl",
+      "The Mask of Zorro"
     ],
     "correctAnswer": 2,
-    "explanation": "Rosebud is revealed at the climax to be the trade name painted on Charles Foster Kane's childhood winter sled.",
+    "explanation": "Depp earned an Oscar nomination for his rum-soaked, Keith Richards-inspired pirate performance in the Disney theme park ride adaptation.",
     "tags": [
       "movies",
-      "famous-quotes",
+      "blockbusters",
       "medium"
     ],
     "active": true
@@ -2755,15 +2755,15 @@
     "category": "Movies",
     "subcategory": "Blockbusters",
     "difficulty": "hard",
-    "question": "Regarding cinema and movie history: Which horror and suspense director created the 1960 psychological thriller 'Psycho' featuring the famous shower scene? (Ref #132)",
+    "question": "What 2001 animated fantasy comedy by DreamWorks, starring Mike Myers and Eddie Murphy, won the first-ever Academy Award for Best Animated Feature?",
     "options": [
-      "Roman Polanski",
-      "William Friedkin",
-      "John Carpenter",
-      "Alfred Hitchcock"
+      "Monsters, Inc.",
+      "Jimmy Neutron",
+      "Ice Age",
+      "Shrek"
     ],
     "correctAnswer": 3,
-    "explanation": "Alfred Hitchcock directed Psycho, starring Anthony Perkins as Norman Bates with revolutionary editing and Bernard Herrmann's screeching strings.",
+    "explanation": "Subverting classic Disney fairy tales with pop culture satire and smash hits like 'All Star', Shrek became a cultural touchstone.",
     "tags": [
       "movies",
       "blockbusters",
@@ -2772,64 +2772,64 @@
     "active": true
   },
   {
-    "id": "movies-classic-cinema-0133",
+    "id": "movies-blockbusters-0133",
     "category": "Movies",
-    "subcategory": "Classic Cinema",
+    "subcategory": "Blockbusters",
     "difficulty": "easy",
-    "question": "Regarding cinema and movie history: What was the first feature-length animated film ever produced in color and sound by Walt Disney in 1937? (Ref #133)",
+    "question": "What 1994 Disney hand-drawn animated musical epic, featuring songs by Elton John and Tim Rice, grossed over $960 million?",
     "options": [
-      "Snow White and the Seven Dwarfs",
-      "Pinocchio",
-      "Fantasia",
-      "Bambi"
+      "The Lion King",
+      "Beauty and the Beast",
+      "Aladdin",
+      "Pocahontas"
     ],
     "correctAnswer": 0,
-    "explanation": "Snow White and the Seven Dwarfs premiered in December 1937 as the historic first cel-animated feature film in Technicolor.",
+    "explanation": "Simba's Hamlet-inspired African savanna journey featured the iconic Circle of Life opening and became Disney's most profitable animated film.",
     "tags": [
       "movies",
-      "classic-cinema",
+      "blockbusters",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "movies-oscar-winners-0134",
+    "id": "movies-blockbusters-0134",
     "category": "Movies",
-    "subcategory": "Oscar Winners",
+    "subcategory": "Blockbusters",
     "difficulty": "medium",
-    "question": "Regarding cinema and movie history: Which iconic film quote is spoken by Humphrey Bogart to Ingrid Bergman in the 1942 classic 'Casablanca'? (Ref #134)",
+    "question": "What 2013 Disney computer-animated musical phenomenon, featuring the hit anthem 'Let It Go' sung by Idina Menzel, grossed $1.28 billion?",
     "options": [
-      "Frankly, my dear, I don't give a damn.",
-      "Here's looking at you, kid.",
-      "May the Force be with you.",
-      "You had me at hello."
+      "Tangled",
+      "Frozen",
+      "Moana",
+      "Brave"
     ],
     "correctAnswer": 1,
-    "explanation": "Humphrey Bogart playing Rick Blaine famously says 'Here's looking at you, kid' to Ilsa Lund in Casablanca.",
+    "explanation": "Sisters Elsa and Anna subverted the true love's kiss trope, creating an inescapable global merchandising and sing-along craze.",
     "tags": [
       "movies",
-      "oscar-winners",
+      "blockbusters",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "movies-famous-quotes-0135",
+    "id": "movies-blockbusters-0135",
     "category": "Movies",
-    "subcategory": "Famous Quotes",
+    "subcategory": "Blockbusters",
     "difficulty": "hard",
-    "question": "Regarding cinema and movie history: Which visionary director directed both 'Jurassic Park' and the historical epic 'Schindler's List' in the year 1993? (Ref #135)",
+    "question": "What 2018 animated superhero masterpiece by Sony utilized revolutionary comic-book halftones and mixed frame rates for Miles Morales?",
     "options": [
-      "James Cameron",
-      "Martin Scorsese",
-      "Steven Spielberg",
-      "Stanley Kubrick"
+      "Spider-Man: Across the Spider-Verse",
+      "The Incredibles 2",
+      "Spider-Man: Into the Spider-Verse",
+      "Big Hero 6"
     ],
     "correctAnswer": 2,
-    "explanation": "Steven Spielberg released both the groundbreaking blockbuster Jurassic Park and the multi-Oscar winning Schindler's List in 1993.",
+    "explanation": "Winning the Academy Award for Best Animated Feature, Spider-Verse permanently changed modern feature animation aesthetics across Hollywood.",
     "tags": [
       "movies",
-      "famous-quotes",
+      "blockbusters",
       "hard"
     ],
     "active": true
@@ -2839,15 +2839,15 @@
     "category": "Movies",
     "subcategory": "Blockbusters",
     "difficulty": "easy",
-    "question": "Regarding cinema and movie history: Which film shares the historic record of winning 11 Academy Awards alongside 'Ben-Hur' and 'Titanic'? (Ref #136)",
+    "question": "What 2023 fantasy comedy, directed by Greta Gerwig and starring Margot Robbie and Ryan Gosling, grossed $1.44 billion as the year's top film?",
     "options": [
-      "The Godfather Part II",
-      "Gladiator",
-      "La La Land",
-      "The Lord of the Rings: The Return of the King"
+      "Oppenheimer",
+      "The Super Mario Bros. Movie",
+      "Guardians of the Galaxy Vol. 3",
+      "Barbie"
     ],
     "correctAnswer": 3,
-    "explanation": "The Lord of the Rings: The Return of the King (2003) swept all 11 Oscars it was nominated for, tying Titanic and Ben-Hur.",
+    "explanation": "Barbie explored existential feminism and modern identity in Barbieland, fueling the global 'Barbenheimer' box office phenomenon.",
     "tags": [
       "movies",
       "blockbusters",
@@ -2856,64 +2856,64 @@
     "active": true
   },
   {
-    "id": "movies-classic-cinema-0137",
+    "id": "movies-blockbusters-0137",
     "category": "Movies",
-    "subcategory": "Classic Cinema",
+    "subcategory": "Blockbusters",
     "difficulty": "medium",
-    "question": "Regarding cinema and movie history: In the 1972 cinematic masterpiece 'The Godfather', which legendary actor portrayed the patriarch Don Vito Corleone? (Ref #137)",
+    "question": "What 2023 Nintendo and Illumination animated video game adaptation grossed $1.36 billion with Chris Pratt, Jack Black, and Anya Taylor-Joy?",
     "options": [
-      "Marlon Brando",
-      "Al Pacino",
-      "Robert De Niro",
-      "James Caan"
+      "The Super Mario Bros. Movie",
+      "Sonic the Hedgehog 2",
+      "Detective Pikachu",
+      "The Lego Movie"
     ],
     "correctAnswer": 0,
-    "explanation": "Marlon Brando won the Academy Award for Best Actor for his unforgettable portrayal of Don Vito Corleone in The Godfather.",
+    "explanation": "Jack Black's ballad 'Peaches' went viral as the film delivered a faithful, easter-egg-packed love letter to decades of Mario games.",
     "tags": [
       "movies",
-      "classic-cinema",
+      "blockbusters",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "movies-oscar-winners-0138",
+    "id": "movies-blockbusters-0138",
     "category": "Movies",
-    "subcategory": "Oscar Winners",
+    "subcategory": "Blockbusters",
     "difficulty": "hard",
-    "question": "Regarding cinema and movie history: In Orson Welles' 1941 classic 'Citizen Kane', what mystery object is revealed to be 'Rosebud'? (Ref #138)",
+    "question": "What 2015 space adventure, directed by J.J. Abrams, marked the return of Han Solo and Princess Leia and grossed $2.07 billion worldwide?",
     "options": [
-      "A childhood pet dog",
-      "A childhood sled",
-      "A childhood snow globe",
-      "A gold pocket watch"
+      "The Last Jedi",
+      "Star Wars: The Force Awakens (Episode VII)",
+      "The Rise of Skywalker",
+      "Rogue One"
     ],
     "correctAnswer": 1,
-    "explanation": "Rosebud is revealed at the climax to be the trade name painted on Charles Foster Kane's childhood winter sled.",
+    "explanation": "The Force Awakens smashed domestic box office records with $936 million in North America, introducing Rey, Finn, and Kylo Ren.",
     "tags": [
       "movies",
-      "oscar-winners",
+      "blockbusters",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "movies-famous-quotes-0139",
+    "id": "movies-blockbusters-0139",
     "category": "Movies",
-    "subcategory": "Famous Quotes",
+    "subcategory": "Blockbusters",
     "difficulty": "easy",
-    "question": "Regarding cinema and movie history: Which horror and suspense director created the 1960 psychological thriller 'Psycho' featuring the famous shower scene? (Ref #139)",
+    "question": "What 2016 standalone Star Wars war film follows a ragtag band of Rebel spies stealing the Death Star plans, leading directly into A New Hope?",
     "options": [
-      "Roman Polanski",
-      "William Friedkin",
-      "Alfred Hitchcock",
-      "John Carpenter"
+      "Solo",
+      "The Force Awakens",
+      "Rogue One: A Star Wars Story",
+      "Revenge of the Sith"
     ],
     "correctAnswer": 2,
-    "explanation": "Alfred Hitchcock directed Psycho, starring Anthony Perkins as Norman Bates with revolutionary editing and Bernard Herrmann's screeching strings.",
+    "explanation": "Felicity Jones starred as Jyn Erso in a gritty war thriller famous for its climactic terrifying Darth Vader hallway lightsaber scene.",
     "tags": [
       "movies",
-      "famous-quotes",
+      "blockbusters",
       "easy"
     ],
     "active": true
@@ -2923,15 +2923,15 @@
     "category": "Movies",
     "subcategory": "Blockbusters",
     "difficulty": "medium",
-    "question": "Regarding cinema and movie history: What was the first feature-length animated film ever produced in color and sound by Walt Disney in 1937? (Ref #140)",
+    "question": "What 2005 Peter Jackson adventure remake, starring Naomi Watts and Andy Serkis via motion-capture, recreated 1933 Skull Island on an epic scale?",
     "options": [
-      "Pinocchio",
-      "Fantasia",
-      "Bambi",
-      "Snow White and the Seven Dwarfs"
+      "Godzilla",
+      "The Lord of the Rings",
+      "Mighty Joe Young",
+      "King Kong"
     ],
     "correctAnswer": 3,
-    "explanation": "Snow White and the Seven Dwarfs premiered in December 1937 as the historic first cel-animated feature film in Technicolor.",
+    "explanation": "Andy Serkis brought unprecedented emotional depth to the giant ape, setting new milestones for performance-capture digital animation.",
     "tags": [
       "movies",
       "blockbusters",
@@ -2940,64 +2940,64 @@
     "active": true
   },
   {
-    "id": "movies-classic-cinema-0141",
+    "id": "movies-blockbusters-0141",
     "category": "Movies",
-    "subcategory": "Classic Cinema",
+    "subcategory": "Blockbusters",
     "difficulty": "hard",
-    "question": "Regarding cinema and movie history: Which iconic film quote is spoken by Humphrey Bogart to Ingrid Bergman in the 1942 classic 'Casablanca'? (Ref #141)",
+    "question": "What 2014 space sci-fi epic, directed by Christopher Nolan, depicts astronauts traveling through a Saturn wormhole searching for habitable worlds?",
     "options": [
-      "Here's looking at you, kid.",
-      "Frankly, my dear, I don't give a damn.",
-      "May the Force be with you.",
-      "You had me at hello."
+      "Interstellar",
+      "Gravity",
+      "The Martian",
+      "Arrival"
     ],
     "correctAnswer": 0,
-    "explanation": "Humphrey Bogart playing Rick Blaine famously says 'Here's looking at you, kid' to Ilsa Lund in Casablanca.",
+    "explanation": "Matthew McConaughey starred alongside Hans Zimmer's pipe organ score, utilizing Nobel physicist Kip Thorne's equations to model a supermassive black hole.",
     "tags": [
       "movies",
-      "classic-cinema",
+      "blockbusters",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "movies-oscar-winners-0142",
+    "id": "movies-blockbusters-0142",
     "category": "Movies",
-    "subcategory": "Oscar Winners",
+    "subcategory": "Blockbusters",
     "difficulty": "easy",
-    "question": "Regarding cinema and movie history: Which visionary director directed both 'Jurassic Park' and the historical epic 'Schindler's List' in the year 1993? (Ref #142)",
+    "question": "What 2010 Christopher Nolan sci-fi heist thriller stars Leonardo DiCaprio as an extractor who infiltrates subconscious dreams to plant an idea?",
     "options": [
-      "James Cameron",
-      "Steven Spielberg",
-      "Martin Scorsese",
-      "Stanley Kubrick"
+      "Shutter Island",
+      "Inception",
+      "The Prestige",
+      "Memento"
     ],
     "correctAnswer": 1,
-    "explanation": "Steven Spielberg released both the groundbreaking blockbuster Jurassic Park and the multi-Oscar winning Schindler's List in 1993.",
+    "explanation": "Inception mesmerized audiences with rotating hallway gravity stunts, dream-level nesting, and the lingering spin of a metal totem top.",
     "tags": [
       "movies",
-      "oscar-winners",
+      "blockbusters",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "movies-famous-quotes-0143",
+    "id": "movies-blockbusters-0143",
     "category": "Movies",
-    "subcategory": "Famous Quotes",
+    "subcategory": "Blockbusters",
     "difficulty": "medium",
-    "question": "Regarding cinema and movie history: Which film shares the historic record of winning 11 Academy Awards alongside 'Ben-Hur' and 'Titanic'? (Ref #143)",
+    "question": "What 2015 post-apocalyptic action masterpiece, directed by George Miller, stars Charlize Theron as Imperator Furiosa and Tom Hardy as Max?",
     "options": [
-      "The Godfather Part II",
-      "Gladiator",
-      "The Lord of the Rings: The Return of the King",
-      "La La Land"
+      "The Road Warrior",
+      "Children of Men",
+      "Mad Max: Fury Road",
+      "Snowpiercer"
     ],
     "correctAnswer": 2,
-    "explanation": "The Lord of the Rings: The Return of the King (2003) swept all 11 Oscars it was nominated for, tying Titanic and Ben-Hur.",
+    "explanation": "Shot with practical vehicular stunts across Namibian deserts, Fury Road won six Academy Awards and is hailed among the greatest action films ever made.",
     "tags": [
       "movies",
-      "famous-quotes",
+      "blockbusters",
       "medium"
     ],
     "active": true
@@ -3007,15 +3007,15 @@
     "category": "Movies",
     "subcategory": "Blockbusters",
     "difficulty": "hard",
-    "question": "Regarding cinema and movie history: In the 1972 cinematic masterpiece 'The Godfather', which legendary actor portrayed the patriarch Don Vito Corleone? (Ref #144)",
+    "question": "What 1988 holiday action classic stars Bruce Willis as off-duty NYPD cop John McClane battling German terrorists in Nakatomi Plaza?",
     "options": [
-      "Al Pacino",
-      "Robert De Niro",
-      "James Caan",
-      "Marlon Brando"
+      "Lethal Weapon",
+      "Speed",
+      "Commando",
+      "Die Hard"
     ],
     "correctAnswer": 3,
-    "explanation": "Marlon Brando won the Academy Award for Best Actor for his unforgettable portrayal of Don Vito Corleone in The Godfather.",
+    "explanation": "Alan Rickman played villain Hans Gruber, establishing the 'everyman hero trapped in an isolated building' action template.",
     "tags": [
       "movies",
       "blockbusters",
@@ -3024,64 +3024,64 @@
     "active": true
   },
   {
-    "id": "movies-classic-cinema-0145",
+    "id": "movies-blockbusters-0145",
     "category": "Movies",
-    "subcategory": "Classic Cinema",
+    "subcategory": "Blockbusters",
     "difficulty": "easy",
-    "question": "Regarding cinema and movie history: In Orson Welles' 1941 classic 'Citizen Kane', what mystery object is revealed to be 'Rosebud'? (Ref #145)",
+    "question": "What 1994 high-speed action thriller stars Keanu Reeves and Sandra Bullock trying to keep a city bus traveling above 50 mph to prevent an explosion?",
     "options": [
-      "A childhood sled",
-      "A childhood pet dog",
-      "A childhood snow globe",
-      "A gold pocket watch"
+      "Speed",
+      "Die Hard with a Vengeance",
+      "The Rock",
+      "Con Air"
     ],
     "correctAnswer": 0,
-    "explanation": "Rosebud is revealed at the climax to be the trade name painted on Charles Foster Kane's childhood winter sled.",
+    "explanation": "Jan de Bont's directorial debut became a runaway critical and commercial smash hit, cementing Reeves and Bullock as top box office stars.",
     "tags": [
       "movies",
-      "classic-cinema",
+      "blockbusters",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "movies-oscar-winners-0146",
+    "id": "movies-blockbusters-0146",
     "category": "Movies",
-    "subcategory": "Oscar Winners",
+    "subcategory": "Blockbusters",
     "difficulty": "medium",
-    "question": "Regarding cinema and movie history: Which horror and suspense director created the 1960 psychological thriller 'Psycho' featuring the famous shower scene? (Ref #146)",
+    "question": "What 1997 action thriller stars Nicolas Cage, John Cusack, and John Malkovich aboard a hijacked prison transport airplane filled with dangerous convicts?",
     "options": [
-      "Roman Polanski",
-      "Alfred Hitchcock",
-      "William Friedkin",
-      "John Carpenter"
+      "The Rock",
+      "Con Air",
+      "Face/Off",
+      "Air Force One"
     ],
     "correctAnswer": 1,
-    "explanation": "Alfred Hitchcock directed Psycho, starring Anthony Perkins as Norman Bates with revolutionary editing and Bernard Herrmann's screeching strings.",
+    "explanation": "Cage's portrayal of paroled Army Ranger Cameron Poe and Malkovich's Cyrus 'The Virus' Grissom made it a cult summer action classic.",
     "tags": [
       "movies",
-      "oscar-winners",
+      "blockbusters",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "movies-famous-quotes-0147",
+    "id": "movies-blockbusters-0147",
     "category": "Movies",
-    "subcategory": "Famous Quotes",
+    "subcategory": "Blockbusters",
     "difficulty": "hard",
-    "question": "Regarding cinema and movie history: What was the first feature-length animated film ever produced in color and sound by Walt Disney in 1937? (Ref #147)",
+    "question": "What 1997 sci-fi action comedy stars Will Smith and Tommy Lee Jones as secret agents monitoring extraterrestrial immigration on Earth?",
     "options": [
-      "Pinocchio",
-      "Fantasia",
-      "Snow White and the Seven Dwarfs",
-      "Bambi"
+      "Independence Day",
+      "Wild Wild West",
+      "Men in Black",
+      "Mars Attacks!"
     ],
     "correctAnswer": 2,
-    "explanation": "Snow White and the Seven Dwarfs premiered in December 1937 as the historic first cel-animated feature film in Technicolor.",
+    "explanation": "Sporting Ray-Ban sunglasses and memory-wiping Neuralyzers, the film blended alien creature comedy with sharp deadpan banter.",
     "tags": [
       "movies",
-      "famous-quotes",
+      "blockbusters",
       "hard"
     ],
     "active": true
@@ -3091,15 +3091,15 @@
     "category": "Movies",
     "subcategory": "Blockbusters",
     "difficulty": "easy",
-    "question": "Regarding cinema and movie history: Which iconic film quote is spoken by Humphrey Bogart to Ingrid Bergman in the 1942 classic 'Casablanca'? (Ref #148)",
+    "question": "What 1999 supernatural psychological thriller, directed by M. Night Shyamalan, features the legendary twist ending regarding Bruce Willis' character?",
     "options": [
-      "Frankly, my dear, I don't give a damn.",
-      "May the Force be with you.",
-      "You had me at hello.",
-      "Here's looking at you, kid."
+      "Unbreakable",
+      "Signs",
+      "The Others",
+      "The Sixth Sense"
     ],
     "correctAnswer": 3,
-    "explanation": "Humphrey Bogart playing Rick Blaine famously says 'Here's looking at you, kid' to Ilsa Lund in Casablanca.",
+    "explanation": "Shyamalan's atmospheric ghost drama grossed $672 million and earned six Academy Award nominations including Best Picture.",
     "tags": [
       "movies",
       "blockbusters",
@@ -3108,43 +3108,43 @@
     "active": true
   },
   {
-    "id": "movies-classic-cinema-0149",
+    "id": "movies-blockbusters-0149",
     "category": "Movies",
-    "subcategory": "Classic Cinema",
+    "subcategory": "Blockbusters",
     "difficulty": "medium",
-    "question": "Regarding cinema and movie history: Which visionary director directed both 'Jurassic Park' and the historical epic 'Schindler's List' in the year 1993? (Ref #149)",
+    "question": "What 2002 Sony superhero blockbuster, directed by Sam Raimi and starring Tobey Maguire, was the first film in history to open to over $100 million in a weekend?",
     "options": [
-      "Steven Spielberg",
-      "James Cameron",
-      "Martin Scorsese",
-      "Stanley Kubrick"
+      "Spider-Man",
+      "X-Men",
+      "Hulk",
+      "Batman Begins"
     ],
     "correctAnswer": 0,
-    "explanation": "Steven Spielberg released both the groundbreaking blockbuster Jurassic Park and the multi-Oscar winning Schindler's List in 1993.",
+    "explanation": "Maguire's upside-down rain kiss with Kirsten Dunst and Willem Dafoe's Green Goblin launched modern Hollywood's superhero box office dominance.",
     "tags": [
       "movies",
-      "classic-cinema",
+      "blockbusters",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "movies-oscar-winners-0150",
+    "id": "movies-blockbusters-0150",
     "category": "Movies",
-    "subcategory": "Oscar Winners",
+    "subcategory": "Blockbusters",
     "difficulty": "hard",
-    "question": "Regarding cinema and movie history: Which film shares the historic record of winning 11 Academy Awards alongside 'Ben-Hur' and 'Titanic'? (Ref #150)",
+    "question": "What 2009 James Cameron sci-fi epic utilized stereoscopic 3D cameras and the lush alien moon of Pandora to become the all-time box office champion?",
     "options": [
-      "The Godfather Part II",
-      "The Lord of the Rings: The Return of the King",
-      "Gladiator",
-      "La La Land"
+      "Avatar: The Way of Water",
+      "Avatar",
+      "Avengers: Endgame",
+      "Titanic"
     ],
     "correctAnswer": 1,
-    "explanation": "The Lord of the Rings: The Return of the King (2003) swept all 11 Oscars it was nominated for, tying Titanic and Ben-Hur.",
+    "explanation": "Cameron spent over a decade developing motion-capture technology to bring the blue-skinned Na'vi and Pandora's bioluminescent ecosystem to life.",
     "tags": [
       "movies",
-      "oscar-winners",
+      "blockbusters",
       "hard"
     ],
     "active": true

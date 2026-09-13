@@ -4,15 +4,15 @@
     "category": "TV Shows",
     "subcategory": "Sitcoms",
     "difficulty": "easy",
-    "question": "Regarding television shows and series: What is the name of the neighborhood coffeehouse where the main characters frequently gather in the sitcom 'Friends'? (Ref #1)",
+    "question": "What iconic NBC sitcom, airing from 1994 to 2004, chronicled the lives of Rachel, Monica, Phoebe, Joey, Chandler, and Ross in Manhattan?",
     "options": [
-      "Central Perk",
-      "Monk's Diner",
-      "Cafe Nervosa",
-      "The Peach Pit"
+      "Friends",
+      "Seinfeld",
+      "How I Met Your Mother",
+      "Will & Grace"
     ],
     "correctAnswer": 0,
-    "explanation": "The six friends in Friends hang out on the orange couch at Central Perk in Greenwich Village, managed by Gunther.",
+    "explanation": "Created by David Crane and Marta Kauffman, Friends became a global streaming phenomenon and cultural touchstone.",
     "tags": [
       "tv-shows",
       "sitcoms",
@@ -21,64 +21,64 @@
     "active": true
   },
   {
-    "id": "tv-shows-drama-series-0002",
+    "id": "tv-shows-sitcoms-0002",
     "category": "TV Shows",
-    "subcategory": "Drama Series",
+    "subcategory": "Sitcoms",
     "difficulty": "medium",
-    "question": "Regarding television shows and series: In the acclaimed drama series 'Breaking Bad', what high school subject does Walter White initially teach before cooking crystal meth? (Ref #2)",
+    "question": "What acclaimed NBC comedy, created by Larry David and Jerry Seinfeld, was famously described as 'a show about nothing'?",
     "options": [
-      "Biology",
-      "Chemistry",
-      "Physics",
-      "Mathematics"
+      "Friends",
+      "Seinfeld",
+      "Curb Your Enthusiasm",
+      "Cheers"
     ],
     "correctAnswer": 1,
-    "explanation": "Walter White is a brilliant former research chemist teaching high school chemistry in Albuquerque, New Mexico.",
+    "explanation": "Jerry, George Costanza, Elaine Benes, and Cosmo Kramer navigated social minutiae, unwritten rules, and bizarre grievances in New York.",
     "tags": [
       "tv-shows",
-      "drama-series",
+      "sitcoms",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "tv-shows-tv-history-0003",
+    "id": "tv-shows-sitcoms-0003",
     "category": "TV Shows",
-    "subcategory": "TV History",
+    "subcategory": "Sitcoms",
     "difficulty": "hard",
-    "question": "Regarding television shows and series: What is the name of the fictional regional paper supply company where characters work in 'The Office' (US)? (Ref #3)",
+    "question": "What workplace mockumentary comedy, adapted by Greg Daniels from a British series, followed Dunder Mifflin Paper Company employees in Scranton?",
     "options": [
-      "Wernham Hogg",
-      "Initech Corporation",
-      "Dunder Mifflin",
-      "Sterling Cooper"
+      "Parks and Recreation",
+      "Brooklyn Nine-Nine",
+      "The Office (US)",
+      "Community"
     ],
     "correctAnswer": 2,
-    "explanation": "Dunder Mifflin Paper Company's Scranton branch is managed by Michael Scott in the beloved comedy series.",
+    "explanation": "Steve Carell's bumbling regional manager Michael Scott led an ensemble that became one of the most-streamed sitcoms in television history.",
     "tags": [
       "tv-shows",
-      "tv-history",
+      "sitcoms",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "tv-shows-iconic-episodes-0004",
+    "id": "tv-shows-sitcoms-0004",
     "category": "TV Shows",
-    "subcategory": "Iconic Episodes",
+    "subcategory": "Sitcoms",
     "difficulty": "easy",
-    "question": "Regarding television shows and series: In HBO's 'Game of Thrones', what is the coveted seat of political power in King's Landing called? (Ref #4)",
+    "question": "What CBS sitcom, running for 12 seasons, followed caltech physicists Sheldon Cooper and Leonard Hofstadter alongside their neighbor Penny?",
     "options": [
-      "The Golden Throne",
-      "The Dragon Throne",
-      "The High Seat of Valyria",
-      "The Iron Throne"
+      "Young Sheldon",
+      "Silicon Valley",
+      "Community",
+      "The Big Bang Theory"
     ],
     "correctAnswer": 3,
-    "explanation": "The Iron Throne was forged from 1,000 swords of Aegon the Conqueror's defeated enemies, heated by dragon breath.",
+    "explanation": "Jim Parsons won four Emmy Awards as the brilliant, socially oblivious theoretical physicist Sheldon Cooper with his catchphrase 'Bazinga!'",
     "tags": [
       "tv-shows",
-      "iconic-episodes",
+      "sitcoms",
       "easy"
     ],
     "active": true
@@ -88,15 +88,15 @@
     "category": "TV Shows",
     "subcategory": "Sitcoms",
     "difficulty": "medium",
-    "question": "Regarding television shows and series: Which mob boss and suburban patriarch is the central protagonist of HBO's landmark series 'The Sopranos'? (Ref #5)",
+    "question": "What mockumentary sitcom, airing on ABC from 2009 to 2020, chronicled the diverse, interconnected Dunphy-Pritchett-Tucker clan?",
     "options": [
-      "Tony Soprano",
-      "Silvio Dante",
-      "Paulie Gualtieri",
-      "Christopher Moltisanti"
+      "Modern Family",
+      "Arrested Development",
+      "The Middle",
+      "Black-ish"
     ],
     "correctAnswer": 0,
-    "explanation": "James Gandolfini portrayed New Jersey mob boss Tony Soprano, navigating organized crime and psychiatry sessions with Dr. Melfi.",
+    "explanation": "Modern Family won the Primetime Emmy Award for Outstanding Comedy Series five consecutive times, matching Frasier's record.",
     "tags": [
       "tv-shows",
       "sitcoms",
@@ -105,64 +105,64 @@
     "active": true
   },
   {
-    "id": "tv-shows-drama-series-0006",
+    "id": "tv-shows-sitcoms-0006",
     "category": "TV Shows",
-    "subcategory": "Drama Series",
+    "subcategory": "Sitcoms",
     "difficulty": "hard",
-    "question": "Regarding television shows and series: In Netflix's 'Stranger Things', what eerie alternate dimension coexists beneath the town of Hawkins, Indiana? (Ref #6)",
+    "question": "What legendary NBC barroom sitcom, set in Boston 'where everybody knows your name', starred Ted Danson as bartender Sam Malone?",
     "options": [
-      "The Netherworld",
-      "The Upside Down",
-      "The Shadow Realm",
-      "The Dark Dimension"
+      "Frasier",
+      "Cheers",
+      "Taxi",
+      "Night Court"
     ],
     "correctAnswer": 1,
-    "explanation": "The Upside Down is a dark, decaying parallel dimension inhabited by the Demogorgon and the Mind Flayer.",
+    "explanation": "Airing from 1982 to 1993, Cheers earned 28 Emmy Awards and featured memorable regulars like Norm Peterson and Cliff Clavin.",
     "tags": [
       "tv-shows",
-      "drama-series",
+      "sitcoms",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "tv-shows-tv-history-0007",
+    "id": "tv-shows-sitcoms-0007",
     "category": "TV Shows",
-    "subcategory": "TV History",
+    "subcategory": "Sitcoms",
     "difficulty": "easy",
-    "question": "Regarding television shows and series: What is the name of the neighborhood coffeehouse where the main characters frequently gather in the sitcom 'Friends'? (Ref #7)",
+    "question": "What critically acclaimed Cheers spin-off starred Kelsey Grammer as an uptight Seattle radio psychiatrist living with his eccentric father?",
     "options": [
-      "Monk's Diner",
-      "Cafe Nervosa",
-      "Central Perk",
-      "The Peach Pit"
+      "Wings",
+      "Becker",
+      "Frasier",
+      "Mad About You"
     ],
     "correctAnswer": 2,
-    "explanation": "The six friends in Friends hang out on the orange couch at Central Perk in Greenwich Village, managed by Gunther.",
+    "explanation": "Frasier set an Emmy record by winning Outstanding Comedy Series five consecutive years (1994-1998) alongside David Hyde Pierce as Niles.",
     "tags": [
       "tv-shows",
-      "tv-history",
+      "sitcoms",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "tv-shows-iconic-episodes-0008",
+    "id": "tv-shows-sitcoms-0008",
     "category": "TV Shows",
-    "subcategory": "Iconic Episodes",
+    "subcategory": "Sitcoms",
     "difficulty": "medium",
-    "question": "Regarding television shows and series: In the acclaimed drama series 'Breaking Bad', what high school subject does Walter White initially teach before cooking crystal meth? (Ref #8)",
+    "question": "What classic 1950s CBS sitcom starred Lucille Ball and her real-life husband Desi Arnaz, pioneering the three-camera setup on film?",
     "options": [
-      "Biology",
-      "Physics",
-      "Mathematics",
-      "Chemistry"
+      "The Honeymooners",
+      "Leave It to Beaver",
+      "Father Knows Best",
+      "I Love Lucy"
     ],
     "correctAnswer": 3,
-    "explanation": "Walter White is a brilliant former research chemist teaching high school chemistry in Albuquerque, New Mexico.",
+    "explanation": "Lucy Ricardo's comedic escapades, including the chocolate conveyor belt and grape stomping, defined early television comedy.",
     "tags": [
       "tv-shows",
-      "iconic-episodes",
+      "sitcoms",
       "medium"
     ],
     "active": true
@@ -172,15 +172,15 @@
     "category": "TV Shows",
     "subcategory": "Sitcoms",
     "difficulty": "hard",
-    "question": "Regarding television shows and series: What is the name of the fictional regional paper supply company where characters work in 'The Office' (US)? (Ref #9)",
+    "question": "What pioneering 1970s CBS feminist workplace sitcom starred Mary Tyler Moore as single 30-something Minneapolis TV news producer Mary Richards?",
     "options": [
-      "Dunder Mifflin",
-      "Wernham Hogg",
-      "Initech Corporation",
-      "Sterling Cooper"
+      "The Mary Tyler Moore Show",
+      "Rhoda",
+      "Phyllis",
+      "Maude"
     ],
     "correctAnswer": 0,
-    "explanation": "Dunder Mifflin Paper Company's Scranton branch is managed by Michael Scott in the beloved comedy series.",
+    "explanation": "Created by James L. Brooks and Allan Burns, it revolutionized depictions of independent working women, famous for Mary tossing her beret in the air.",
     "tags": [
       "tv-shows",
       "sitcoms",
@@ -189,64 +189,64 @@
     "active": true
   },
   {
-    "id": "tv-shows-drama-series-0010",
+    "id": "tv-shows-sitcoms-0010",
     "category": "TV Shows",
-    "subcategory": "Drama Series",
+    "subcategory": "Sitcoms",
     "difficulty": "easy",
-    "question": "Regarding television shows and series: In HBO's 'Game of Thrones', what is the coveted seat of political power in King's Landing called? (Ref #10)",
+    "question": "What ground-breaking 1970s Norman Lear sitcom tackled race, politics, and social change through bigoted Queens patriarch Archie Bunker?",
     "options": [
-      "The Golden Throne",
-      "The Iron Throne",
-      "The Dragon Throne",
-      "The High Seat of Valyria"
+      "Sanford and Son",
+      "All in the Family",
+      "The Jeffersons",
+      "Good Times"
     ],
     "correctAnswer": 1,
-    "explanation": "The Iron Throne was forged from 1,000 swords of Aegon the Conqueror's defeated enemies, heated by dragon breath.",
+    "explanation": "Carroll O'Connor and Jean Stapleton starred in the highest-rated American television program for five consecutive seasons.",
     "tags": [
       "tv-shows",
-      "drama-series",
+      "sitcoms",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "tv-shows-tv-history-0011",
+    "id": "tv-shows-sitcoms-0011",
     "category": "TV Shows",
-    "subcategory": "TV History",
+    "subcategory": "Sitcoms",
     "difficulty": "medium",
-    "question": "Regarding television shows and series: Which mob boss and suburban patriarch is the central protagonist of HBO's landmark series 'The Sopranos'? (Ref #11)",
+    "question": "What groundbreaking 1970s Norman Lear sitcom followed a prosperous African-American dry-cleaning couple 'movin' on up' to Manhattan?",
     "options": [
-      "Silvio Dante",
-      "Paulie Gualtieri",
-      "Tony Soprano",
-      "Christopher Moltisanti"
+      "All in the Family",
+      "Sanford and Son",
+      "The Jeffersons",
+      "Good Times"
     ],
     "correctAnswer": 2,
-    "explanation": "James Gandolfini portrayed New Jersey mob boss Tony Soprano, navigating organized crime and psychiatry sessions with Dr. Melfi.",
+    "explanation": "George and Louise Jefferson (Sherman Hemsley and Isabel Sanford) starred in one of TV's longest-running African-American family comedies.",
     "tags": [
       "tv-shows",
-      "tv-history",
+      "sitcoms",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "tv-shows-iconic-episodes-0012",
+    "id": "tv-shows-sitcoms-0012",
     "category": "TV Shows",
-    "subcategory": "Iconic Episodes",
+    "subcategory": "Sitcoms",
     "difficulty": "hard",
-    "question": "Regarding television shows and series: In Netflix's 'Stranger Things', what eerie alternate dimension coexists beneath the town of Hawkins, Indiana? (Ref #12)",
+    "question": "What beloved 1980s NBC sitcom starred Bea Arthur, Betty White, Rue McClanahan, and Estelle Getty sharing a Miami home in retirement?",
     "options": [
-      "The Netherworld",
-      "The Shadow Realm",
-      "The Dark Dimension",
-      "The Upside Down"
+      "Empty Nest",
+      "Maude",
+      "Designing Women",
+      "The Golden Girls"
     ],
     "correctAnswer": 3,
-    "explanation": "The Upside Down is a dark, decaying parallel dimension inhabited by the Demogorgon and the Mind Flayer.",
+    "explanation": "The witty four-woman ensemble tackled aging, romance, and friendship over late-night kitchen cheesecake.",
     "tags": [
       "tv-shows",
-      "iconic-episodes",
+      "sitcoms",
       "hard"
     ],
     "active": true
@@ -256,15 +256,15 @@
     "category": "TV Shows",
     "subcategory": "Sitcoms",
     "difficulty": "easy",
-    "question": "Regarding television shows and series: What is the name of the neighborhood coffeehouse where the main characters frequently gather in the sitcom 'Friends'? (Ref #13)",
+    "question": "What Fox comedy series, created by Mitchell Hurwitz, chronicled the wealthy, eccentric Bluth family who lost everything after corporate fraud?",
     "options": [
-      "Central Perk",
-      "Monk's Diner",
-      "Cafe Nervosa",
-      "The Peach Pit"
+      "Arrested Development",
+      "Schitt's Creek",
+      "Succession",
+      "Modern Family"
     ],
     "correctAnswer": 0,
-    "explanation": "The six friends in Friends hang out on the orange couch at Central Perk in Greenwich Village, managed by Gunther.",
+    "explanation": "Featuring deadpan narration by Ron Howard, Jason Bateman's Michael Bluth attempted to hold together his deeply dysfunctional family.",
     "tags": [
       "tv-shows",
       "sitcoms",
@@ -273,64 +273,64 @@
     "active": true
   },
   {
-    "id": "tv-shows-drama-series-0014",
+    "id": "tv-shows-sitcoms-0014",
     "category": "TV Shows",
-    "subcategory": "Drama Series",
+    "subcategory": "Sitcoms",
     "difficulty": "medium",
-    "question": "Regarding television shows and series: In the acclaimed drama series 'Breaking Bad', what high school subject does Walter White initially teach before cooking crystal meth? (Ref #14)",
+    "question": "What Canadian comedy series, created by Dan and Eugene Levy, won all seven major comedy Emmy Awards in 2020 for its final season?",
     "options": [
-      "Biology",
-      "Chemistry",
-      "Physics",
-      "Mathematics"
+      "Kim's Convenience",
+      "Schitt's Creek",
+      "Letterkenny",
+      "Corner Gas"
     ],
     "correctAnswer": 1,
-    "explanation": "Walter White is a brilliant former research chemist teaching high school chemistry in Albuquerque, New Mexico.",
+    "explanation": "The formerly wealthy Rose family was forced to relocate to a run-down town they once bought as a joke, earning universal acclaim.",
     "tags": [
       "tv-shows",
-      "drama-series",
+      "sitcoms",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "tv-shows-tv-history-0015",
+    "id": "tv-shows-sitcoms-0015",
     "category": "TV Shows",
-    "subcategory": "TV History",
+    "subcategory": "Sitcoms",
     "difficulty": "hard",
-    "question": "Regarding television shows and series: What is the name of the fictional regional paper supply company where characters work in 'The Office' (US)? (Ref #15)",
+    "question": "What NBC workplace mockumentary, created by Greg Daniels and Michael Schur, starred Amy Poehler as indefatigable small-town bureaucrat Leslie Knope?",
     "options": [
-      "Wernham Hogg",
-      "Initech Corporation",
-      "Dunder Mifflin",
-      "Sterling Cooper"
+      "The Office",
+      "Brooklyn Nine-Nine",
+      "Parks and Recreation",
+      "The Good Place"
     ],
     "correctAnswer": 2,
-    "explanation": "Dunder Mifflin Paper Company's Scranton branch is managed by Michael Scott in the beloved comedy series.",
+    "explanation": "Set in fictional Pawnee, Indiana, the comedy celebrated local civic service alongside Nick Offerman's libertarian bacon-lover Ron Swanson.",
     "tags": [
       "tv-shows",
-      "tv-history",
+      "sitcoms",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "tv-shows-iconic-episodes-0016",
+    "id": "tv-shows-sitcoms-0016",
     "category": "TV Shows",
-    "subcategory": "Iconic Episodes",
+    "subcategory": "Sitcoms",
     "difficulty": "easy",
-    "question": "Regarding television shows and series: In HBO's 'Game of Thrones', what is the coveted seat of political power in King's Landing called? (Ref #16)",
+    "question": "What philosophical NBC fantasy comedy, created by Michael Schur, followed four deceased humans navigating a bureaucratic afterlife?",
     "options": [
-      "The Golden Throne",
-      "The Dragon Throne",
-      "The High Seat of Valyria",
-      "The Iron Throne"
+      "Parks and Recreation",
+      "Upload",
+      "Dead Like Me",
+      "The Good Place"
     ],
     "correctAnswer": 3,
-    "explanation": "The Iron Throne was forged from 1,000 swords of Aegon the Conqueror's defeated enemies, heated by dragon breath.",
+    "explanation": "Kristen Bell and Ted Danson starred in an acclaimed ethical comedy exploring moral philosophy and what people owe to each other.",
     "tags": [
       "tv-shows",
-      "iconic-episodes",
+      "sitcoms",
       "easy"
     ],
     "active": true
@@ -340,15 +340,15 @@
     "category": "TV Shows",
     "subcategory": "Sitcoms",
     "difficulty": "medium",
-    "question": "Regarding television shows and series: Which mob boss and suburban patriarch is the central protagonist of HBO's landmark series 'The Sopranos'? (Ref #17)",
+    "question": "What police workplace comedy, created by Dan Goor and Michael Schur, followed immature detective Jake Peralta at a Brooklyn precinct?",
     "options": [
-      "Tony Soprano",
-      "Silvio Dante",
-      "Paulie Gualtieri",
-      "Christopher Moltisanti"
+      "Brooklyn Nine-Nine",
+      "The Office",
+      "Parks and Recreation",
+      "Psych"
     ],
     "correctAnswer": 0,
-    "explanation": "James Gandolfini portrayed New Jersey mob boss Tony Soprano, navigating organized crime and psychiatry sessions with Dr. Melfi.",
+    "explanation": "Andy Samberg starred alongside Andre Braugher's deadpan Captain Raymond Holt, balancing screwball comedy with social awareness.",
     "tags": [
       "tv-shows",
       "sitcoms",
@@ -357,64 +357,64 @@
     "active": true
   },
   {
-    "id": "tv-shows-drama-series-0018",
+    "id": "tv-shows-sitcoms-0018",
     "category": "TV Shows",
-    "subcategory": "Drama Series",
+    "subcategory": "Sitcoms",
     "difficulty": "hard",
-    "question": "Regarding television shows and series: In Netflix's 'Stranger Things', what eerie alternate dimension coexists beneath the town of Hawkins, Indiana? (Ref #18)",
+    "question": "What meta-comedy series, created by Dan Harmon, followed an eccentric study group at Greendale Community College?",
     "options": [
-      "The Netherworld",
-      "The Upside Down",
-      "The Shadow Realm",
-      "The Dark Dimension"
+      "Silicon Valley",
+      "Community",
+      "New Girl",
+      "Happy Endings"
     ],
     "correctAnswer": 1,
-    "explanation": "The Upside Down is a dark, decaying parallel dimension inhabited by the Demogorgon and the Mind Flayer.",
+    "explanation": "Joel McHale led an ensemble featuring Donald Glover, renowned for genre-bending episodes parodying paintball action, zombie films, and D&D.",
     "tags": [
       "tv-shows",
-      "drama-series",
+      "sitcoms",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "tv-shows-tv-history-0019",
+    "id": "tv-shows-sitcoms-0019",
     "category": "TV Shows",
-    "subcategory": "TV History",
+    "subcategory": "Sitcoms",
     "difficulty": "easy",
-    "question": "Regarding television shows and series: What is the name of the neighborhood coffeehouse where the main characters frequently gather in the sitcom 'Friends'? (Ref #19)",
+    "question": "What HBO comedy series created by Mike Judge satirized the absurdities of startup culture and venture capital in modern Silicon Valley?",
     "options": [
-      "Monk's Diner",
-      "Cafe Nervosa",
-      "Central Perk",
-      "The Peach Pit"
+      "Entourage",
+      "Halt and Catch Fire",
+      "Silicon Valley",
+      "Veep"
     ],
     "correctAnswer": 2,
-    "explanation": "The six friends in Friends hang out on the orange couch at Central Perk in Greenwich Village, managed by Gunther.",
+    "explanation": "Thomas Middleditch's Richard Hendricks developed compression algorithm Pied Piper while fighting tech titan Hooli.",
     "tags": [
       "tv-shows",
-      "tv-history",
+      "sitcoms",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "tv-shows-iconic-episodes-0020",
+    "id": "tv-shows-sitcoms-0020",
     "category": "TV Shows",
-    "subcategory": "Iconic Episodes",
+    "subcategory": "Sitcoms",
     "difficulty": "medium",
-    "question": "Regarding television shows and series: In the acclaimed drama series 'Breaking Bad', what high school subject does Walter White initially teach before cooking crystal meth? (Ref #20)",
+    "question": "What razor-sharp HBO political satire, created by Armando Iannucci, starred Julia Louis-Dreyfus as self-absorbed Vice President Selina Meyer?",
     "options": [
-      "Biology",
-      "Physics",
-      "Mathematics",
-      "Chemistry"
+      "The West Wing",
+      "Parks and Recreation",
+      "Spin City",
+      "Veep"
     ],
     "correctAnswer": 3,
-    "explanation": "Walter White is a brilliant former research chemist teaching high school chemistry in Albuquerque, New Mexico.",
+    "explanation": "Julia Louis-Dreyfus won a record six consecutive Primetime Emmy Awards for Best Actress for her foul-mouthed political maneuvering.",
     "tags": [
       "tv-shows",
-      "iconic-episodes",
+      "sitcoms",
       "medium"
     ],
     "active": true
@@ -424,15 +424,15 @@
     "category": "TV Shows",
     "subcategory": "Sitcoms",
     "difficulty": "hard",
-    "question": "Regarding television shows and series: What is the name of the fictional regional paper supply company where characters work in 'The Office' (US)? (Ref #21)",
+    "question": "What off-the-wall Philadelphia sitcom, running for over 16 seasons, stars five narcissistic degenerates running Paddy's Pub?",
     "options": [
-      "Dunder Mifflin",
-      "Wernham Hogg",
-      "Initech Corporation",
-      "Sterling Cooper"
+      "It's Always Sunny in Philadelphia",
+      "Workaholics",
+      "The League",
+      "Trailer Park Boys"
     ],
     "correctAnswer": 0,
-    "explanation": "Dunder Mifflin Paper Company's Scranton branch is managed by Michael Scott in the beloved comedy series.",
+    "explanation": "Created by Rob McElhenney, Glenn Howerton, and Charlie Day alongside Danny DeVito, it became the longest-running live-action sitcom in TV history.",
     "tags": [
       "tv-shows",
       "sitcoms",
@@ -441,64 +441,64 @@
     "active": true
   },
   {
-    "id": "tv-shows-drama-series-0022",
+    "id": "tv-shows-sitcoms-0022",
     "category": "TV Shows",
-    "subcategory": "Drama Series",
+    "subcategory": "Sitcoms",
     "difficulty": "easy",
-    "question": "Regarding television shows and series: In HBO's 'Game of Thrones', what is the coveted seat of political power in King's Landing called? (Ref #22)",
+    "question": "What CBS comedy series, created by Carter Bays and Craig Thomas, followed Ted Mosby recounting his youthful romantic search in New York?",
     "options": [
-      "The Golden Throne",
-      "The Iron Throne",
-      "The Dragon Throne",
-      "The High Seat of Valyria"
+      "Friends",
+      "How I Met Your Mother",
+      "Happy Endings",
+      "New Girl"
     ],
     "correctAnswer": 1,
-    "explanation": "The Iron Throne was forged from 1,000 swords of Aegon the Conqueror's defeated enemies, heated by dragon breath.",
+    "explanation": "Josh Radnor, Neil Patrick Harris as the womanizing Barney Stinson ('Legen-wait for it-dary!'), and Cobie Smulders led the popular decade-long romance mystery.",
     "tags": [
       "tv-shows",
-      "drama-series",
+      "sitcoms",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "tv-shows-tv-history-0023",
+    "id": "tv-shows-sitcoms-0023",
     "category": "TV Shows",
-    "subcategory": "TV History",
+    "subcategory": "Sitcoms",
     "difficulty": "medium",
-    "question": "Regarding television shows and series: Which mob boss and suburban patriarch is the central protagonist of HBO's landmark series 'The Sopranos'? (Ref #23)",
+    "question": "What Fox comedy series, created by Elizabeth Meriwether, starred Zooey Deschanel as offbeat teacher Jess moving into an LA loft with three single guys?",
     "options": [
-      "Silvio Dante",
-      "Paulie Gualtieri",
-      "Tony Soprano",
-      "Christopher Moltisanti"
+      "Happy Endings",
+      "Broad City",
+      "New Girl",
+      "The Mindy Project"
     ],
     "correctAnswer": 2,
-    "explanation": "James Gandolfini portrayed New Jersey mob boss Tony Soprano, navigating organized crime and psychiatry sessions with Dr. Melfi.",
+    "explanation": "Jess's loft dynamic with Nick Miller (Jake Johnson), Schmidt (Max Greenfield), and Winston Bishop (Lamorne Morris) fueled seven seasons of laughs.",
     "tags": [
       "tv-shows",
-      "tv-history",
+      "sitcoms",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "tv-shows-iconic-episodes-0024",
+    "id": "tv-shows-sitcoms-0024",
     "category": "TV Shows",
-    "subcategory": "Iconic Episodes",
+    "subcategory": "Sitcoms",
     "difficulty": "hard",
-    "question": "Regarding television shows and series: In Netflix's 'Stranger Things', what eerie alternate dimension coexists beneath the town of Hawkins, Indiana? (Ref #24)",
+    "question": "What ABC 1980s/90s working-class family sitcom starred Roseanne Barr and John Goodman raising kids in fictional Lanford, Illinois?",
     "options": [
-      "The Netherworld",
-      "The Shadow Realm",
-      "The Dark Dimension",
-      "The Upside Down"
+      "Married... with Children",
+      "Home Improvement",
+      "Grace Under Fire",
+      "Roseanne"
     ],
     "correctAnswer": 3,
-    "explanation": "The Upside Down is a dark, decaying parallel dimension inhabited by the Demogorgon and the Mind Flayer.",
+    "explanation": "Roseanne tackled blue-collar poverty, layoffs, and domestic realism, consistently ranking number one in national television ratings.",
     "tags": [
       "tv-shows",
-      "iconic-episodes",
+      "sitcoms",
       "hard"
     ],
     "active": true
@@ -508,15 +508,15 @@
     "category": "TV Shows",
     "subcategory": "Sitcoms",
     "difficulty": "easy",
-    "question": "Regarding television shows and series: What is the name of the neighborhood coffeehouse where the main characters frequently gather in the sitcom 'Friends'? (Ref #25)",
+    "question": "What subversive 1980s Fox sitcom broke traditional wholesome family tropes with crude shoe salesman Al Bundy and his dysfunctional Chicago family?",
     "options": [
-      "Central Perk",
-      "Monk's Diner",
-      "Cafe Nervosa",
-      "The Peach Pit"
+      "Married... with Children",
+      "Roseanne",
+      "The Simpsons",
+      "Family Ties"
     ],
     "correctAnswer": 0,
-    "explanation": "The six friends in Friends hang out on the orange couch at Central Perk in Greenwich Village, managed by Gunther.",
+    "explanation": "Ed O'Neill's Al Bundy and Katey Sagal's Peggy Bundy anchored the fledgling Fox network's primetime lineup for 11 seasons.",
     "tags": [
       "tv-shows",
       "sitcoms",
@@ -525,64 +525,64 @@
     "active": true
   },
   {
-    "id": "tv-shows-drama-series-0026",
+    "id": "tv-shows-sitcoms-0026",
     "category": "TV Shows",
-    "subcategory": "Drama Series",
+    "subcategory": "Sitcoms",
     "difficulty": "medium",
-    "question": "Regarding television shows and series: In the acclaimed drama series 'Breaking Bad', what high school subject does Walter White initially teach before cooking crystal meth? (Ref #26)",
+    "question": "What popular 1990s ABC family comedy starred Tim Allen as Tim 'The Tool Man' Taylor, host of the fictional DIY cable show Tool Time?",
     "options": [
-      "Biology",
-      "Chemistry",
-      "Physics",
-      "Mathematics"
+      "Roseanne",
+      "Home Improvement",
+      "Boy Meets World",
+      "Full House"
     ],
     "correctAnswer": 1,
-    "explanation": "Walter White is a brilliant former research chemist teaching high school chemistry in Albuquerque, New Mexico.",
+    "explanation": "Tim's accidental mishaps, grunting, and life advice over the fence from neighbor Wilson made it a ratings juggernaut.",
     "tags": [
       "tv-shows",
-      "drama-series",
+      "sitcoms",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "tv-shows-tv-history-0027",
+    "id": "tv-shows-sitcoms-0027",
     "category": "TV Shows",
-    "subcategory": "TV History",
+    "subcategory": "Sitcoms",
     "difficulty": "hard",
-    "question": "Regarding television shows and series: What is the name of the fictional regional paper supply company where characters work in 'The Office' (US)? (Ref #27)",
+    "question": "What 1980s NBC family sitcom starred Michael J. Fox as conservative Young Republican teenager Alex P. Keaton clashing with his ex-hippie parents?",
     "options": [
-      "Wernham Hogg",
-      "Initech Corporation",
-      "Dunder Mifflin",
-      "Sterling Cooper"
+      "Growing Pains",
+      "The Wonder Years",
+      "Family Ties",
+      "Full House"
     ],
     "correctAnswer": 2,
-    "explanation": "Dunder Mifflin Paper Company's Scranton branch is managed by Michael Scott in the beloved comedy series.",
+    "explanation": "Michael J. Fox's charismatic, briefcase-carrying Alex P. Keaton launched him to superstardom and won three Emmy Awards.",
     "tags": [
       "tv-shows",
-      "tv-history",
+      "sitcoms",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "tv-shows-iconic-episodes-0028",
+    "id": "tv-shows-sitcoms-0028",
     "category": "TV Shows",
-    "subcategory": "Iconic Episodes",
+    "subcategory": "Sitcoms",
     "difficulty": "easy",
-    "question": "Regarding television shows and series: In HBO's 'Game of Thrones', what is the coveted seat of political power in King's Landing called? (Ref #28)",
+    "question": "What 1970s ABC military medical comedy-drama, starring Alan Alda as surgeon Hawkeye Pierce, blended dark humor with anti-war drama?",
     "options": [
-      "The Golden Throne",
-      "The Dragon Throne",
-      "The High Seat of Valyria",
-      "The Iron Throne"
+      "Hogan's Heroes",
+      "Catch-22",
+      "Combat!",
+      "M*A*S*H"
     ],
     "correctAnswer": 3,
-    "explanation": "The Iron Throne was forged from 1,000 swords of Aegon the Conqueror's defeated enemies, heated by dragon breath.",
+    "explanation": "Set during the Korean War, M*A*S*H aired for 11 seasons, examining the emotional toll of field surgery and human brotherhood.",
     "tags": [
       "tv-shows",
-      "iconic-episodes",
+      "sitcoms",
       "easy"
     ],
     "active": true
@@ -592,15 +592,15 @@
     "category": "TV Shows",
     "subcategory": "Sitcoms",
     "difficulty": "medium",
-    "question": "Regarding television shows and series: Which mob boss and suburban patriarch is the central protagonist of HBO's landmark series 'The Sopranos'? (Ref #29)",
+    "question": "What 1970s ABC multi-camera sitcom followed military veterans running a New York City fleet at the Sunshine Cab Company?",
     "options": [
-      "Tony Soprano",
-      "Silvio Dante",
-      "Paulie Gualtieri",
-      "Christopher Moltisanti"
+      "Taxi",
+      "Cheers",
+      "Barney Miller",
+      "Night Court"
     ],
     "correctAnswer": 0,
-    "explanation": "James Gandolfini portrayed New Jersey mob boss Tony Soprano, navigating organized crime and psychiatry sessions with Dr. Melfi.",
+    "explanation": "Created by James L. Brooks, Taxi launched Danny DeVito (Louie De Palma), Christopher Lloyd (Jim Ignatowski), and Andy Kaufman.",
     "tags": [
       "tv-shows",
       "sitcoms",
@@ -609,64 +609,64 @@
     "active": true
   },
   {
-    "id": "tv-shows-drama-series-0030",
+    "id": "tv-shows-sitcoms-0030",
     "category": "TV Shows",
-    "subcategory": "Drama Series",
+    "subcategory": "Sitcoms",
     "difficulty": "hard",
-    "question": "Regarding television shows and series: In Netflix's 'Stranger Things', what eerie alternate dimension coexists beneath the town of Hawkins, Indiana? (Ref #30)",
+    "question": "What 1980s NBC comedy starred Harry Anderson as an eccentric, magic-loving young judge presiding over Manhattan's municipal night court?",
     "options": [
-      "The Netherworld",
-      "The Upside Down",
-      "The Shadow Realm",
-      "The Dark Dimension"
+      "Barney Miller",
+      "Night Court",
+      "Cheers",
+      "Boston Legal"
     ],
     "correctAnswer": 1,
-    "explanation": "The Upside Down is a dark, decaying parallel dimension inhabited by the Demogorgon and the Mind Flayer.",
+    "explanation": "John Larroquette won four consecutive Emmy Awards as narcissistic prosecuting attorney Dan Fielding.",
     "tags": [
       "tv-shows",
-      "drama-series",
+      "sitcoms",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "tv-shows-tv-history-0031",
+    "id": "tv-shows-sitcoms-0031",
     "category": "TV Shows",
-    "subcategory": "TV History",
+    "subcategory": "Sitcoms",
     "difficulty": "easy",
-    "question": "Regarding television shows and series: What is the name of the neighborhood coffeehouse where the main characters frequently gather in the sitcom 'Friends'? (Ref #31)",
+    "question": "What 1960s CBS rural comedy starred Andy Griffith as gentle Mayberry Sheriff Andy Taylor alongside Don Knotts as bumbling Deputy Barney Fife?",
     "options": [
-      "Monk's Diner",
-      "Cafe Nervosa",
-      "Central Perk",
-      "The Peach Pit"
+      "The Beverly Hillbillies",
+      "Gomer Pyle",
+      "The Andy Griffith Show",
+      "Green Acres"
     ],
     "correctAnswer": 2,
-    "explanation": "The six friends in Friends hang out on the orange couch at Central Perk in Greenwich Village, managed by Gunther.",
+    "explanation": "Don Knotts won five Emmy Awards as Barney Fife, keeping a single bullet in his shirt pocket in idealized Mayberry, North Carolina.",
     "tags": [
       "tv-shows",
-      "tv-history",
+      "sitcoms",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "tv-shows-iconic-episodes-0032",
+    "id": "tv-shows-sitcoms-0032",
     "category": "TV Shows",
-    "subcategory": "Iconic Episodes",
+    "subcategory": "Sitcoms",
     "difficulty": "medium",
-    "question": "Regarding television shows and series: In the acclaimed drama series 'Breaking Bad', what high school subject does Walter White initially teach before cooking crystal meth? (Ref #32)",
+    "question": "What 1960s CBS sitcom followed an impoverished Ozark hillbilly family who struck oil and relocated to a mansion in California?",
     "options": [
-      "Biology",
-      "Physics",
-      "Mathematics",
-      "Chemistry"
+      "Green Acres",
+      "Petticoat Junction",
+      "Gilligan's Island",
+      "The Beverly Hillbillies"
     ],
     "correctAnswer": 3,
-    "explanation": "Walter White is a brilliant former research chemist teaching high school chemistry in Albuquerque, New Mexico.",
+    "explanation": "Buddy Ebsen starred as Jed Clampett in one of the most wildly watched television comedies of the 1960s.",
     "tags": [
       "tv-shows",
-      "iconic-episodes",
+      "sitcoms",
       "medium"
     ],
     "active": true
@@ -676,15 +676,15 @@
     "category": "TV Shows",
     "subcategory": "Sitcoms",
     "difficulty": "hard",
-    "question": "Regarding television shows and series: What is the name of the fictional regional paper supply company where characters work in 'The Office' (US)? (Ref #33)",
+    "question": "What 1960s CBS comedy followed seven stranded castaways shipwrecked on an uncharted tropical island after a three-hour tour?",
     "options": [
-      "Dunder Mifflin",
-      "Wernham Hogg",
-      "Initech Corporation",
-      "Sterling Cooper"
+      "Gilligan's Island",
+      "The Brady Bunch",
+      "Lost in Space",
+      "F Troop"
     ],
     "correctAnswer": 0,
-    "explanation": "Dunder Mifflin Paper Company's Scranton branch is managed by Michael Scott in the beloved comedy series.",
+    "explanation": "Bob Denver as the clumsy first mate Gilligan and Alan Hale Jr. as the Skipper tried endlessly to escape their island prison.",
     "tags": [
       "tv-shows",
       "sitcoms",
@@ -693,64 +693,64 @@
     "active": true
   },
   {
-    "id": "tv-shows-drama-series-0034",
+    "id": "tv-shows-sitcoms-0034",
     "category": "TV Shows",
-    "subcategory": "Drama Series",
+    "subcategory": "Sitcoms",
     "difficulty": "easy",
-    "question": "Regarding television shows and series: In HBO's 'Game of Thrones', what is the coveted seat of political power in King's Landing called? (Ref #34)",
+    "question": "What 1970s ABC blended-family sitcom followed Mike and Carol Brady raising six children with their live-in housekeeper Alice?",
     "options": [
-      "The Golden Throne",
-      "The Iron Throne",
-      "The Dragon Throne",
-      "The High Seat of Valyria"
+      "The Partridge Family",
+      "The Brady Bunch",
+      "Eight Is Enough",
+      "Full House"
     ],
     "correctAnswer": 1,
-    "explanation": "The Iron Throne was forged from 1,000 swords of Aegon the Conqueror's defeated enemies, heated by dragon breath.",
+    "explanation": "Robert Reed and Florence Henderson led the blended suburban family whose catchy theme song and square-grid credits remain iconic.",
     "tags": [
       "tv-shows",
-      "drama-series",
+      "sitcoms",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "tv-shows-tv-history-0035",
+    "id": "tv-shows-sitcoms-0035",
     "category": "TV Shows",
-    "subcategory": "TV History",
+    "subcategory": "Sitcoms",
     "difficulty": "medium",
-    "question": "Regarding television shows and series: Which mob boss and suburban patriarch is the central protagonist of HBO's landmark series 'The Sopranos'? (Ref #35)",
+    "question": "What 1990s ABC TGIF family comedy followed widowed father Danny Tanner raising three daughters with his brother-in-law and best friend?",
     "options": [
-      "Silvio Dante",
-      "Paulie Gualtieri",
-      "Tony Soprano",
-      "Christopher Moltisanti"
+      "Family Matters",
+      "Step by Step",
+      "Full House",
+      "Boy Meets World"
     ],
     "correctAnswer": 2,
-    "explanation": "James Gandolfini portrayed New Jersey mob boss Tony Soprano, navigating organized crime and psychiatry sessions with Dr. Melfi.",
+    "explanation": "Bob Saget, John Stamos (Uncle Jesse), and Dave Coulier raised D.J., Stephanie, and Michelle (played by the Olsen twins).",
     "tags": [
       "tv-shows",
-      "tv-history",
+      "sitcoms",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "tv-shows-iconic-episodes-0036",
+    "id": "tv-shows-sitcoms-0036",
     "category": "TV Shows",
-    "subcategory": "Iconic Episodes",
+    "subcategory": "Sitcoms",
     "difficulty": "hard",
-    "question": "Regarding television shows and series: In Netflix's 'Stranger Things', what eerie alternate dimension coexists beneath the town of Hawkins, Indiana? (Ref #36)",
+    "question": "What 1990s ABC family sitcom featured Jaleel White as suspender-wearing, clumsy, high-pitched neighbor nerd Steve Urkel?",
     "options": [
-      "The Netherworld",
-      "The Shadow Realm",
-      "The Dark Dimension",
-      "The Upside Down"
+      "The Fresh Prince of Bel-Air",
+      "Full House",
+      "Step by Step",
+      "Family Matters"
     ],
     "correctAnswer": 3,
-    "explanation": "The Upside Down is a dark, decaying parallel dimension inhabited by the Demogorgon and the Mind Flayer.",
+    "explanation": "Urkel's accidental destructions and catchphrase 'Did I do that?' transformed him from a one-time guest into the star of the show.",
     "tags": [
       "tv-shows",
-      "iconic-episodes",
+      "sitcoms",
       "hard"
     ],
     "active": true
@@ -760,15 +760,15 @@
     "category": "TV Shows",
     "subcategory": "Sitcoms",
     "difficulty": "easy",
-    "question": "Regarding television shows and series: What is the name of the neighborhood coffeehouse where the main characters frequently gather in the sitcom 'Friends'? (Ref #37)",
+    "question": "What 1990s NBC sitcom starred Will Smith as a street-smart West Philadelphia teenager sent to live with his wealthy relatives in a California mansion?",
     "options": [
-      "Central Perk",
-      "Monk's Diner",
-      "Cafe Nervosa",
-      "The Peach Pit"
+      "The Fresh Prince of Bel-Air",
+      "Martin",
+      "Family Matters",
+      "A Different World"
     ],
     "correctAnswer": 0,
-    "explanation": "The six friends in Friends hang out on the orange couch at Central Perk in Greenwich Village, managed by Gunther.",
+    "explanation": "Will clashed with conservative Uncle Phil and preppy cousin Carlton Banks, popularizing 'The Carlton Dance' to Tom Jones' music.",
     "tags": [
       "tv-shows",
       "sitcoms",
@@ -777,85 +777,85 @@
     "active": true
   },
   {
-    "id": "tv-shows-drama-series-0038",
+    "id": "tv-shows-sitcoms-0038",
     "category": "TV Shows",
-    "subcategory": "Drama Series",
+    "subcategory": "Sitcoms",
     "difficulty": "medium",
-    "question": "Regarding television shows and series: In the acclaimed drama series 'Breaking Bad', what high school subject does Walter White initially teach before cooking crystal meth? (Ref #38)",
+    "question": "What 1990s ABC teen coming-of-age comedy chronicled Cory Matthews navigating school, love, and life with teacher George Feeny?",
     "options": [
-      "Biology",
-      "Chemistry",
-      "Physics",
-      "Mathematics"
+      "Saved by the Bell",
+      "Boy Meets World",
+      "Full House",
+      "Step by Step"
     ],
     "correctAnswer": 1,
-    "explanation": "Walter White is a brilliant former research chemist teaching high school chemistry in Albuquerque, New Mexico.",
+    "explanation": "Ben Savage and Danielle Fishel (Topanga Lawrence) grew up over seven seasons under the wise mentorship of Mr. Feeny.",
     "tags": [
       "tv-shows",
-      "drama-series",
+      "sitcoms",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "tv-shows-tv-history-0039",
+    "id": "tv-shows-drama-series-0039",
     "category": "TV Shows",
-    "subcategory": "TV History",
+    "subcategory": "Drama Series",
     "difficulty": "hard",
-    "question": "Regarding television shows and series: What is the name of the fictional regional paper supply company where characters work in 'The Office' (US)? (Ref #39)",
+    "question": "What groundbreaking HBO mob drama, created by David Chase and starring James Gandolfini as Tony Soprano, launched television's Golden Age?",
     "options": [
-      "Wernham Hogg",
-      "Initech Corporation",
-      "Dunder Mifflin",
-      "Sterling Cooper"
+      "The Wire",
+      "Boardwalk Empire",
+      "The Sopranos",
+      "Mad Men"
     ],
     "correctAnswer": 2,
-    "explanation": "Dunder Mifflin Paper Company's Scranton branch is managed by Michael Scott in the beloved comedy series.",
+    "explanation": "Tony Soprano balanced running a New Jersey criminal syndicate with suburban family life and sessions with psychiatrist Dr. Jennifer Melfi.",
     "tags": [
       "tv-shows",
-      "tv-history",
+      "drama-series",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "tv-shows-iconic-episodes-0040",
+    "id": "tv-shows-drama-series-0040",
     "category": "TV Shows",
-    "subcategory": "Iconic Episodes",
+    "subcategory": "Drama Series",
     "difficulty": "easy",
-    "question": "Regarding television shows and series: In HBO's 'Game of Thrones', what is the coveted seat of political power in King's Landing called? (Ref #40)",
+    "question": "What AMC drama series, created by Vince Gilligan, followed terminally ill chemistry teacher Walter White transforming into drug kingpin Heisenberg?",
     "options": [
-      "The Golden Throne",
-      "The Dragon Throne",
-      "The High Seat of Valyria",
-      "The Iron Throne"
+      "Better Call Saul",
+      "Ozark",
+      "The Wire",
+      "Breaking Bad"
     ],
     "correctAnswer": 3,
-    "explanation": "The Iron Throne was forged from 1,000 swords of Aegon the Conqueror's defeated enemies, heated by dragon breath.",
+    "explanation": "Bryan Cranston and Aaron Paul (Jesse Pinkman) won multiple Emmy Awards as their blue methamphetamine empire spiraled out of control.",
     "tags": [
       "tv-shows",
-      "iconic-episodes",
+      "drama-series",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "tv-shows-sitcoms-0041",
+    "id": "tv-shows-drama-series-0041",
     "category": "TV Shows",
-    "subcategory": "Sitcoms",
+    "subcategory": "Drama Series",
     "difficulty": "medium",
-    "question": "Regarding television shows and series: Which mob boss and suburban patriarch is the central protagonist of HBO's landmark series 'The Sopranos'? (Ref #41)",
+    "question": "What critically acclaimed AMC prequel series followed Jimmy McGill's transformation into corrupt strip-mall defense attorney Saul Goodman?",
     "options": [
-      "Tony Soprano",
-      "Silvio Dante",
-      "Paulie Gualtieri",
-      "Christopher Moltisanti"
+      "Better Call Saul",
+      "Breaking Bad",
+      "Fargo",
+      "Ozark"
     ],
     "correctAnswer": 0,
-    "explanation": "James Gandolfini portrayed New Jersey mob boss Tony Soprano, navigating organized crime and psychiatry sessions with Dr. Melfi.",
+    "explanation": "Bob Odenkirk and Rhea Seehorn (Kim Wexler) earned widespread critical acclaim for tragic character studies in the Albuquerque legal underworld.",
     "tags": [
       "tv-shows",
-      "sitcoms",
+      "drama-series",
       "medium"
     ],
     "active": true
@@ -865,15 +865,15 @@
     "category": "TV Shows",
     "subcategory": "Drama Series",
     "difficulty": "hard",
-    "question": "Regarding television shows and series: In Netflix's 'Stranger Things', what eerie alternate dimension coexists beneath the town of Hawkins, Indiana? (Ref #42)",
+    "question": "What sprawling HBO urban crime drama, created by former journalist David Simon, examined Baltimore institutions across five seasons?",
     "options": [
-      "The Netherworld",
-      "The Upside Down",
-      "The Shadow Realm",
-      "The Dark Dimension"
+      "The Sopranos",
+      "The Wire",
+      "The Shield",
+      "Treme"
     ],
     "correctAnswer": 1,
-    "explanation": "The Upside Down is a dark, decaying parallel dimension inhabited by the Demogorgon and the Mind Flayer.",
+    "explanation": "The Wire analyzed systemic failure across the drug trade, shipping ports, city hall, public education, and print journalism.",
     "tags": [
       "tv-shows",
       "drama-series",
@@ -882,64 +882,64 @@
     "active": true
   },
   {
-    "id": "tv-shows-tv-history-0043",
+    "id": "tv-shows-drama-series-0043",
     "category": "TV Shows",
-    "subcategory": "TV History",
+    "subcategory": "Drama Series",
     "difficulty": "easy",
-    "question": "Regarding television shows and series: What is the name of the neighborhood coffeehouse where the main characters frequently gather in the sitcom 'Friends'? (Ref #43)",
+    "question": "What AMC period drama, created by Matthew Weiner, followed charismatic ad executive Don Draper at the 1960s Sterling Cooper agency?",
     "options": [
-      "Monk's Diner",
-      "Cafe Nervosa",
-      "Central Perk",
-      "The Peach Pit"
+      "Boardwalk Empire",
+      "Masters of Sex",
+      "Mad Men",
+      "The Americans"
     ],
     "correctAnswer": 2,
-    "explanation": "The six friends in Friends hang out on the orange couch at Central Perk in Greenwich Village, managed by Gunther.",
+    "explanation": "Jon Hamm starred as Don Draper navigating corporate ambition, personal reinvention, and changing American social mores in mid-century Manhattan.",
     "tags": [
       "tv-shows",
-      "tv-history",
+      "drama-series",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "tv-shows-iconic-episodes-0044",
+    "id": "tv-shows-drama-series-0044",
     "category": "TV Shows",
-    "subcategory": "Iconic Episodes",
+    "subcategory": "Drama Series",
     "difficulty": "medium",
-    "question": "Regarding television shows and series: In the acclaimed drama series 'Breaking Bad', what high school subject does Walter White initially teach before cooking crystal meth? (Ref #44)",
+    "question": "What HBO fantasy epic, adapted from George R.R. Martin's novels by David Benioff and D.B. Weiss, became a global cultural juggernaut?",
     "options": [
-      "Biology",
-      "Physics",
-      "Mathematics",
-      "Chemistry"
+      "The Lord of the Rings",
+      "The Witcher",
+      "Outlander",
+      "Game of Thrones"
     ],
     "correctAnswer": 3,
-    "explanation": "Walter White is a brilliant former research chemist teaching high school chemistry in Albuquerque, New Mexico.",
+    "explanation": "Winning 59 Emmy Awards, the struggle for the Iron Throne of Westeros featured Peter Dinklage's acclaimed turn as Tyrion Lannister.",
     "tags": [
       "tv-shows",
-      "iconic-episodes",
+      "drama-series",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "tv-shows-sitcoms-0045",
+    "id": "tv-shows-drama-series-0045",
     "category": "TV Shows",
-    "subcategory": "Sitcoms",
+    "subcategory": "Drama Series",
     "difficulty": "hard",
-    "question": "Regarding television shows and series: What is the name of the fictional regional paper supply company where characters work in 'The Office' (US)? (Ref #45)",
+    "question": "What NBC political drama series, created by Aaron Sorkin, followed the fictional administration of President Josiah Bartlet?",
     "options": [
-      "Dunder Mifflin",
-      "Wernham Hogg",
-      "Initech Corporation",
-      "Sterling Cooper"
+      "The West Wing",
+      "House of Cards",
+      "Scandal",
+      "Commander in Chief"
     ],
     "correctAnswer": 0,
-    "explanation": "Dunder Mifflin Paper Company's Scranton branch is managed by Michael Scott in the beloved comedy series.",
+    "explanation": "Martin Sheen starred as President Bartlet, renowned for rapid-fire 'walk-and-talk' dialogue and won four consecutive Best Drama Series Emmys.",
     "tags": [
       "tv-shows",
-      "sitcoms",
+      "drama-series",
       "hard"
     ],
     "active": true
@@ -949,15 +949,15 @@
     "category": "TV Shows",
     "subcategory": "Drama Series",
     "difficulty": "easy",
-    "question": "Regarding television shows and series: In HBO's 'Game of Thrones', what is the coveted seat of political power in King's Landing called? (Ref #46)",
+    "question": "What ABC sci-fi mystery drama, created by J.J. Abrams, Damon Lindelof, and Jeffrey Lieber, followed survivors of Oceanic Flight 815 on an island?",
     "options": [
-      "The Golden Throne",
-      "The Iron Throne",
-      "The Dragon Throne",
-      "The High Seat of Valyria"
+      "Heroes",
+      "Lost",
+      "Fringe",
+      "The 100"
     ],
     "correctAnswer": 1,
-    "explanation": "The Iron Throne was forged from 1,000 swords of Aegon the Conqueror's defeated enemies, heated by dragon breath.",
+    "explanation": "Matthew Fox, Evangeline Lilly, and Terry O'Quinn (John Locke) unraveled smoke monsters, the Dharma Initiative, and polar bears in the South Pacific.",
     "tags": [
       "tv-shows",
       "drama-series",
@@ -966,64 +966,64 @@
     "active": true
   },
   {
-    "id": "tv-shows-tv-history-0047",
+    "id": "tv-shows-drama-series-0047",
     "category": "TV Shows",
-    "subcategory": "TV History",
+    "subcategory": "Drama Series",
     "difficulty": "medium",
-    "question": "Regarding television shows and series: Which mob boss and suburban patriarch is the central protagonist of HBO's landmark series 'The Sopranos'? (Ref #47)",
+    "question": "What Fox real-time action thriller starred Kiefer Sutherland as counter-terrorist agent Jack Bauer across single 24-hour days?",
     "options": [
-      "Silvio Dante",
-      "Paulie Gualtieri",
-      "Tony Soprano",
-      "Christopher Moltisanti"
+      "Homeland",
+      "Alias",
+      "24",
+      "The Americans"
     ],
     "correctAnswer": 2,
-    "explanation": "James Gandolfini portrayed New Jersey mob boss Tony Soprano, navigating organized crime and psychiatry sessions with Dr. Melfi.",
+    "explanation": "Each 24-episode season covered one continuous day in real time, accompanied by a pulsing digital countdown clock and split-screen visuals.",
     "tags": [
       "tv-shows",
-      "tv-history",
+      "drama-series",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "tv-shows-iconic-episodes-0048",
+    "id": "tv-shows-drama-series-0048",
     "category": "TV Shows",
-    "subcategory": "Iconic Episodes",
+    "subcategory": "Drama Series",
     "difficulty": "hard",
-    "question": "Regarding television shows and series: In Netflix's 'Stranger Things', what eerie alternate dimension coexists beneath the town of Hawkins, Indiana? (Ref #48)",
+    "question": "What FX Cold War spy drama starred Keri Russell and Matthew Rhys as deep-cover Soviet KGB officers posing as an ordinary American married couple?",
     "options": [
-      "The Netherworld",
-      "The Shadow Realm",
-      "The Dark Dimension",
-      "The Upside Down"
+      "Homeland",
+      "The Bureau",
+      "Tinker Tailor Soldier Spy",
+      "The Americans"
     ],
     "correctAnswer": 3,
-    "explanation": "The Upside Down is a dark, decaying parallel dimension inhabited by the Demogorgon and the Mind Flayer.",
+    "explanation": "Elizabeth and Philip Jennings balanced undercover espionage with raising teenage children in suburban 1980s Washington, D.C.",
     "tags": [
       "tv-shows",
-      "iconic-episodes",
+      "drama-series",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "tv-shows-sitcoms-0049",
+    "id": "tv-shows-drama-series-0049",
     "category": "TV Shows",
-    "subcategory": "Sitcoms",
+    "subcategory": "Drama Series",
     "difficulty": "easy",
-    "question": "Regarding television shows and series: What is the name of the neighborhood coffeehouse where the main characters frequently gather in the sitcom 'Friends'? (Ref #49)",
+    "question": "What Showtime political espionage thriller starred Claire Danes as bipolar CIA intelligence officer Carrie Mathison tracking suspected terrorist prisoners?",
     "options": [
-      "Central Perk",
-      "Monk's Diner",
-      "Cafe Nervosa",
-      "The Peach Pit"
+      "Homeland",
+      "24",
+      "The Americans",
+      "Madam Secretary"
     ],
     "correctAnswer": 0,
-    "explanation": "The six friends in Friends hang out on the orange couch at Central Perk in Greenwich Village, managed by Gunther.",
+    "explanation": "Adapted from the Israeli series Prisoners of War, Danes starred alongside Damian Lewis as suspected turned marine Nicholas Brody.",
     "tags": [
       "tv-shows",
-      "sitcoms",
+      "drama-series",
       "easy"
     ],
     "active": true
@@ -1033,15 +1033,15 @@
     "category": "TV Shows",
     "subcategory": "Drama Series",
     "difficulty": "medium",
-    "question": "Regarding television shows and series: In the acclaimed drama series 'Breaking Bad', what high school subject does Walter White initially teach before cooking crystal meth? (Ref #50)",
+    "question": "What FX period crime drama, created by Kurt Sutter, chronicled an outlaw motorcycle club in the fictional town of Charming, California?",
     "options": [
-      "Biology",
-      "Chemistry",
-      "Physics",
-      "Mathematics"
+      "Mayans M.C.",
+      "Sons of Anarchy",
+      "The Shield",
+      "Justified"
     ],
     "correctAnswer": 1,
-    "explanation": "Walter White is a brilliant former research chemist teaching high school chemistry in Albuquerque, New Mexico.",
+    "explanation": "Charlie Hunnam starred as Jax Teller trying to reconcile his father's founding club vision with Ron Perlman's violent gun-running operations.",
     "tags": [
       "tv-shows",
       "drama-series",
@@ -1050,64 +1050,64 @@
     "active": true
   },
   {
-    "id": "tv-shows-tv-history-0051",
+    "id": "tv-shows-drama-series-0051",
     "category": "TV Shows",
-    "subcategory": "TV History",
+    "subcategory": "Drama Series",
     "difficulty": "hard",
-    "question": "Regarding television shows and series: What is the name of the fictional regional paper supply company where characters work in 'The Office' (US)? (Ref #51)",
+    "question": "What FX gritty modern Western crime drama, based on Elmore Leonard's stories, starred Timothy Olyphant as Deputy U.S. Marshal Raylan Givens?",
     "options": [
-      "Wernham Hogg",
-      "Initech Corporation",
-      "Dunder Mifflin",
-      "Sterling Cooper"
+      "Deadwood",
+      "Yellowstone",
+      "Justified",
+      "Longmire"
     ],
     "correctAnswer": 2,
-    "explanation": "Dunder Mifflin Paper Company's Scranton branch is managed by Michael Scott in the beloved comedy series.",
+    "explanation": "Raylan Givens returned to rural Harlan County, Kentucky, clashing with charismatic outlaw frenemy Boyd Crowder (Walton Goggins).",
     "tags": [
       "tv-shows",
-      "tv-history",
+      "drama-series",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "tv-shows-iconic-episodes-0052",
+    "id": "tv-shows-drama-series-0052",
     "category": "TV Shows",
-    "subcategory": "Iconic Episodes",
+    "subcategory": "Drama Series",
     "difficulty": "easy",
-    "question": "Regarding television shows and series: In HBO's 'Game of Thrones', what is the coveted seat of political power in King's Landing called? (Ref #52)",
+    "question": "What HBO frontier Western drama, created by David Milch, chronicled the lawless, foul-mouthed 1870s South Dakota mining camp of Deadwood?",
     "options": [
-      "The Golden Throne",
-      "The Dragon Throne",
-      "The High Seat of Valyria",
-      "The Iron Throne"
+      "Hell on Wheels",
+      "Justified",
+      "The English",
+      "Deadwood"
     ],
     "correctAnswer": 3,
-    "explanation": "The Iron Throne was forged from 1,000 swords of Aegon the Conqueror's defeated enemies, heated by dragon breath.",
+    "explanation": "Ian McShane delivered a legendary, profanity-laced performance as ruthless Gem Saloon proprietor Al Swearengen opposite Timothy Olyphant.",
     "tags": [
       "tv-shows",
-      "iconic-episodes",
+      "drama-series",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "tv-shows-sitcoms-0053",
+    "id": "tv-shows-drama-series-0053",
     "category": "TV Shows",
-    "subcategory": "Sitcoms",
+    "subcategory": "Drama Series",
     "difficulty": "medium",
-    "question": "Regarding television shows and series: Which mob boss and suburban patriarch is the central protagonist of HBO's landmark series 'The Sopranos'? (Ref #53)",
+    "question": "What groundbreaking 1990s ABC serial mystery drama, created by David Lynch and Mark Frost, investigated 'Who killed Laura Palmer?'",
     "options": [
-      "Tony Soprano",
-      "Silvio Dante",
-      "Paulie Gualtieri",
-      "Christopher Moltisanti"
+      "Twin Peaks",
+      "The X-Files",
+      "Wayward Pines",
+      "Bates Motel"
     ],
     "correctAnswer": 0,
-    "explanation": "James Gandolfini portrayed New Jersey mob boss Tony Soprano, navigating organized crime and psychiatry sessions with Dr. Melfi.",
+    "explanation": "Kyle MacLachlan starred as FBI Special Agent Dale Cooper in an eccentric Pacific Northwest town filled with cherry pie, coffee, and surreal spirits.",
     "tags": [
       "tv-shows",
-      "sitcoms",
+      "drama-series",
       "medium"
     ],
     "active": true
@@ -1117,15 +1117,15 @@
     "category": "TV Shows",
     "subcategory": "Drama Series",
     "difficulty": "hard",
-    "question": "Regarding television shows and series: In Netflix's 'Stranger Things', what eerie alternate dimension coexists beneath the town of Hawkins, Indiana? (Ref #54)",
+    "question": "What iconic 1990s Fox sci-fi drama starred David Duchovny and Gillian Anderson as FBI agents investigating paranormal phenomena and aliens?",
     "options": [
-      "The Netherworld",
-      "The Upside Down",
-      "The Shadow Realm",
-      "The Dark Dimension"
+      "Twin Peaks",
+      "The X-Files",
+      "Fringe",
+      "Dark Skies"
     ],
     "correctAnswer": 1,
-    "explanation": "The Upside Down is a dark, decaying parallel dimension inhabited by the Demogorgon and the Mind Flayer.",
+    "explanation": "Believer Fox Mulder and skeptic Dana Scully searched for extraterrestrial truths under the tagline 'The Truth Is Out There.'",
     "tags": [
       "tv-shows",
       "drama-series",
@@ -1134,64 +1134,64 @@
     "active": true
   },
   {
-    "id": "tv-shows-tv-history-0055",
+    "id": "tv-shows-drama-series-0055",
     "category": "TV Shows",
-    "subcategory": "TV History",
+    "subcategory": "Drama Series",
     "difficulty": "easy",
-    "question": "Regarding television shows and series: What is the name of the neighborhood coffeehouse where the main characters frequently gather in the sitcom 'Friends'? (Ref #55)",
+    "question": "What ABC medical drama, created by Shonda Rhimes in 2005, follows surgeon Meredith Grey and is the longest-running medical drama in TV history?",
     "options": [
-      "Monk's Diner",
-      "Cafe Nervosa",
-      "Central Perk",
-      "The Peach Pit"
+      "ER",
+      "House",
+      "Grey's Anatomy",
+      "Chicago Med"
     ],
     "correctAnswer": 2,
-    "explanation": "The six friends in Friends hang out on the orange couch at Central Perk in Greenwich Village, managed by Gunther.",
+    "explanation": "Ellen Pompeo led the Seattle Grace Hospital surgical ensemble through decades of personal tragedy, romance, and medical crises.",
     "tags": [
       "tv-shows",
-      "tv-history",
+      "drama-series",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "tv-shows-iconic-episodes-0056",
+    "id": "tv-shows-drama-series-0056",
     "category": "TV Shows",
-    "subcategory": "Iconic Episodes",
+    "subcategory": "Drama Series",
     "difficulty": "medium",
-    "question": "Regarding television shows and series: In the acclaimed drama series 'Breaking Bad', what high school subject does Walter White initially teach before cooking crystal meth? (Ref #56)",
+    "question": "What NBC medical drama, created by Michael Crichton and airing from 1994 to 2009, launched George Clooney to stardom as Dr. Doug Ross?",
     "options": [
-      "Biology",
-      "Physics",
-      "Mathematics",
-      "Chemistry"
+      "Grey's Anatomy",
+      "St. Elsewhere",
+      "Chicago Hope",
+      "ER"
     ],
     "correctAnswer": 3,
-    "explanation": "Walter White is a brilliant former research chemist teaching high school chemistry in Albuquerque, New Mexico.",
+    "explanation": "Set in Chicago County General Hospital, ER pioneered fast-paced, multi-camera Steadicam tracking shots in television trauma rooms.",
     "tags": [
       "tv-shows",
-      "iconic-episodes",
+      "drama-series",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "tv-shows-sitcoms-0057",
+    "id": "tv-shows-drama-series-0057",
     "category": "TV Shows",
-    "subcategory": "Sitcoms",
+    "subcategory": "Drama Series",
     "difficulty": "hard",
-    "question": "Regarding television shows and series: What is the name of the fictional regional paper supply company where characters work in 'The Office' (US)? (Ref #57)",
+    "question": "What Fox medical mystery drama starred Hugh Laurie as a misanthropic, vicodin-addicted diagnostic genius who insisted 'Everybody lies'?",
     "options": [
-      "Dunder Mifflin",
-      "Wernham Hogg",
-      "Initech Corporation",
-      "Sterling Cooper"
+      "House (House, M.D.)",
+      "ER",
+      "The Good Doctor",
+      "Scrubs"
     ],
     "correctAnswer": 0,
-    "explanation": "Dunder Mifflin Paper Company's Scranton branch is managed by Michael Scott in the beloved comedy series.",
+    "explanation": "Dr. Gregory House solved rare medical puzzles like autoimmune disorders and lupus using an abrasive Sherlock Holmes-inspired approach.",
     "tags": [
       "tv-shows",
-      "sitcoms",
+      "drama-series",
       "hard"
     ],
     "active": true
@@ -1201,15 +1201,15 @@
     "category": "TV Shows",
     "subcategory": "Drama Series",
     "difficulty": "easy",
-    "question": "Regarding television shows and series: In HBO's 'Game of Thrones', what is the coveted seat of political power in King's Landing called? (Ref #58)",
+    "question": "What NBC legal and crime drama, created by Dick Wolf in 1990, spawned a massive procedural television franchise with its signature 'Dun-Dun' sound?",
     "options": [
-      "The Golden Throne",
-      "The Iron Throne",
-      "The Dragon Throne",
-      "The High Seat of Valyria"
+      "Law & Order: SVU",
+      "Law & Order",
+      "CSI",
+      "Blue Bloods"
     ],
     "correctAnswer": 1,
-    "explanation": "The Iron Throne was forged from 1,000 swords of Aegon the Conqueror's defeated enemies, heated by dragon breath.",
+    "explanation": "The format split each episode between the police detectives investigating the crime and the district attorneys prosecuting the accused in court.",
     "tags": [
       "tv-shows",
       "drama-series",
@@ -1218,64 +1218,64 @@
     "active": true
   },
   {
-    "id": "tv-shows-tv-history-0059",
+    "id": "tv-shows-drama-series-0059",
     "category": "TV Shows",
-    "subcategory": "TV History",
+    "subcategory": "Drama Series",
     "difficulty": "medium",
-    "question": "Regarding television shows and series: Which mob boss and suburban patriarch is the central protagonist of HBO's landmark series 'The Sopranos'? (Ref #59)",
+    "question": "What long-running Law & Order spin-off, premiering in 1999, stars Mariska Hargitay as dedicated Special Victims Unit detective Olivia Benson?",
     "options": [
-      "Silvio Dante",
-      "Paulie Gualtieri",
-      "Tony Soprano",
-      "Christopher Moltisanti"
+      "Law & Order: Criminal Intent",
+      "Law & Order: Organized Crime",
+      "Law & Order: Special Victims Unit (SVU)",
+      "Cold Case"
     ],
     "correctAnswer": 2,
-    "explanation": "James Gandolfini portrayed New Jersey mob boss Tony Soprano, navigating organized crime and psychiatry sessions with Dr. Melfi.",
+    "explanation": "Hargitay won an Emmy and Golden Globe, becoming the longest-tenured actor in a continuous live-action American primetime television role.",
     "tags": [
       "tv-shows",
-      "tv-history",
+      "drama-series",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "tv-shows-iconic-episodes-0060",
+    "id": "tv-shows-drama-series-0060",
     "category": "TV Shows",
-    "subcategory": "Iconic Episodes",
+    "subcategory": "Drama Series",
     "difficulty": "hard",
-    "question": "Regarding television shows and series: In Netflix's 'Stranger Things', what eerie alternate dimension coexists beneath the town of Hawkins, Indiana? (Ref #60)",
+    "question": "What CBS forensic procedural television franchise, launched in 2000 by Anthony E. Zuiker, followed Las Vegas crime scene investigators?",
     "options": [
-      "The Netherworld",
-      "The Shadow Realm",
-      "The Dark Dimension",
-      "The Upside Down"
+      "NCIS",
+      "Criminal Minds",
+      "Bones",
+      "CSI: Crime Scene Investigation"
     ],
     "correctAnswer": 3,
-    "explanation": "The Upside Down is a dark, decaying parallel dimension inhabited by the Demogorgon and the Mind Flayer.",
+    "explanation": "William Petersen led forensic scientists analyzing trace blood spatter, DNA, and hair evidence under blue fluorescent lights.",
     "tags": [
       "tv-shows",
-      "iconic-episodes",
+      "drama-series",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "tv-shows-sitcoms-0061",
+    "id": "tv-shows-drama-series-0061",
     "category": "TV Shows",
-    "subcategory": "Sitcoms",
+    "subcategory": "Drama Series",
     "difficulty": "easy",
-    "question": "Regarding television shows and series: What is the name of the neighborhood coffeehouse where the main characters frequently gather in the sitcom 'Friends'? (Ref #61)",
+    "question": "What long-running CBS military police procedural, premiering in 2003, stars Mark Harmon as special agent Leroy Jethro Gibbs?",
     "options": [
-      "Central Perk",
-      "Monk's Diner",
-      "Cafe Nervosa",
-      "The Peach Pit"
+      "NCIS",
+      "JAG",
+      "CSI",
+      "Criminal Minds"
     ],
     "correctAnswer": 0,
-    "explanation": "The six friends in Friends hang out on the orange couch at Central Perk in Greenwich Village, managed by Gunther.",
+    "explanation": "Gibbs led a team of naval special agents solving crimes, consistently ranking among the most-watched network television dramas in the world.",
     "tags": [
       "tv-shows",
-      "sitcoms",
+      "drama-series",
       "easy"
     ],
     "active": true
@@ -1285,15 +1285,15 @@
     "category": "TV Shows",
     "subcategory": "Drama Series",
     "difficulty": "medium",
-    "question": "Regarding television shows and series: In the acclaimed drama series 'Breaking Bad', what high school subject does Walter White initially teach before cooking crystal meth? (Ref #62)",
+    "question": "What CBS procedural drama followed FBI criminal profilers in the Behavioral Analysis Unit (BAU) hunting twisted serial killers?",
     "options": [
-      "Biology",
-      "Chemistry",
-      "Physics",
-      "Mathematics"
+      "Mindhunter",
+      "Criminal Minds",
+      "CSI",
+      "NCIS"
     ],
     "correctAnswer": 1,
-    "explanation": "Walter White is a brilliant former research chemist teaching high school chemistry in Albuquerque, New Mexico.",
+    "explanation": "Starring Mandy Patinkin, Thomas Gibson, and Matthew Gray Gubler, the team analyzed psychopath behavioral signatures and victimology.",
     "tags": [
       "tv-shows",
       "drama-series",
@@ -1302,64 +1302,64 @@
     "active": true
   },
   {
-    "id": "tv-shows-tv-history-0063",
+    "id": "tv-shows-drama-series-0063",
     "category": "TV Shows",
-    "subcategory": "TV History",
+    "subcategory": "Drama Series",
     "difficulty": "hard",
-    "question": "Regarding television shows and series: What is the name of the fictional regional paper supply company where characters work in 'The Office' (US)? (Ref #63)",
+    "question": "What Fox mystery drama, created by Paul Scheuring, starred Wentworth Miller as a structural engineer deliberately imprisoned to break his brother out?",
     "options": [
-      "Wernham Hogg",
-      "Initech Corporation",
-      "Dunder Mifflin",
-      "Sterling Cooper"
+      "Oz",
+      "Breakout Kings",
+      "Prison Break",
+      "Alcatraz"
     ],
     "correctAnswer": 2,
-    "explanation": "Dunder Mifflin Paper Company's Scranton branch is managed by Michael Scott in the beloved comedy series.",
+    "explanation": "Michael Scofield tattooed the entire architectural prison blueprints across his torso to rescue his framed brother Lincoln Burrows.",
     "tags": [
       "tv-shows",
-      "tv-history",
+      "drama-series",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "tv-shows-iconic-episodes-0064",
+    "id": "tv-shows-drama-series-0064",
     "category": "TV Shows",
-    "subcategory": "Iconic Episodes",
+    "subcategory": "Drama Series",
     "difficulty": "easy",
-    "question": "Regarding television shows and series: In HBO's 'Game of Thrones', what is the coveted seat of political power in King's Landing called? (Ref #64)",
+    "question": "What ABC political thriller, created by Shonda Rhimes, starred Kerry Washington as elite Washington D.C. crisis management fixer Olivia Pope?",
     "options": [
-      "The Golden Throne",
-      "The Dragon Throne",
-      "The High Seat of Valyria",
-      "The Iron Throne"
+      "How to Get Away with Murder",
+      "The West Wing",
+      "House of Cards",
+      "Scandal"
     ],
     "correctAnswer": 3,
-    "explanation": "The Iron Throne was forged from 1,000 swords of Aegon the Conqueror's defeated enemies, heated by dragon breath.",
+    "explanation": "Wearing white hats and drinking red wine, Olivia Pope's gladiators managed political scandals and a tumultuous romance with the President.",
     "tags": [
       "tv-shows",
-      "iconic-episodes",
+      "drama-series",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "tv-shows-sitcoms-0065",
+    "id": "tv-shows-drama-series-0065",
     "category": "TV Shows",
-    "subcategory": "Sitcoms",
+    "subcategory": "Drama Series",
     "difficulty": "medium",
-    "question": "Regarding television shows and series: Which mob boss and suburban patriarch is the central protagonist of HBO's landmark series 'The Sopranos'? (Ref #65)",
+    "question": "What ABC legal thriller, produced by Shonda Rhimes, starred Viola Davis as formidable criminal defense professor Annalise Keating?",
     "options": [
-      "Tony Soprano",
-      "Silvio Dante",
-      "Paulie Gualtieri",
-      "Christopher Moltisanti"
+      "How to Get Away with Murder",
+      "Scandal",
+      "The Good Wife",
+      "Damages"
     ],
     "correctAnswer": 0,
-    "explanation": "James Gandolfini portrayed New Jersey mob boss Tony Soprano, navigating organized crime and psychiatry sessions with Dr. Melfi.",
+    "explanation": "Viola Davis made history as the first Black woman to win the Primetime Emmy Award for Outstanding Lead Actress in a Drama Series.",
     "tags": [
       "tv-shows",
-      "sitcoms",
+      "drama-series",
       "medium"
     ],
     "active": true
@@ -1369,15 +1369,15 @@
     "category": "TV Shows",
     "subcategory": "Drama Series",
     "difficulty": "hard",
-    "question": "Regarding television shows and series: In Netflix's 'Stranger Things', what eerie alternate dimension coexists beneath the town of Hawkins, Indiana? (Ref #66)",
+    "question": "What CBS legal and political drama starred Julianna Margulies as Alicia Florrick returning to law after her state attorney husband's sex scandal?",
     "options": [
-      "The Netherworld",
-      "The Upside Down",
-      "The Shadow Realm",
-      "The Dark Dimension"
+      "The Good Fight",
+      "The Good Wife",
+      "Boston Legal",
+      "Suits"
     ],
     "correctAnswer": 1,
-    "explanation": "The Upside Down is a dark, decaying parallel dimension inhabited by the Demogorgon and the Mind Flayer.",
+    "explanation": "Created by Robert and Michelle King, The Good Wife earned acclaim for examining high-stakes litigation, tech patents, and political corruption.",
     "tags": [
       "tv-shows",
       "drama-series",
@@ -1386,64 +1386,64 @@
     "active": true
   },
   {
-    "id": "tv-shows-tv-history-0067",
+    "id": "tv-shows-drama-series-0067",
     "category": "TV Shows",
-    "subcategory": "TV History",
+    "subcategory": "Drama Series",
     "difficulty": "easy",
-    "question": "Regarding television shows and series: What is the name of the neighborhood coffeehouse where the main characters frequently gather in the sitcom 'Friends'? (Ref #67)",
+    "question": "What USA Network legal drama starred Gabriel Macht as top Manhattan corporate closer Harvey Specter and Patrick J. Adams as fraudulent associate Mike Ross?",
     "options": [
-      "Monk's Diner",
-      "Cafe Nervosa",
-      "Central Perk",
-      "The Peach Pit"
+      "The Good Wife",
+      "Boston Legal",
+      "Suits",
+      "White Collar"
     ],
     "correctAnswer": 2,
-    "explanation": "The six friends in Friends hang out on the orange couch at Central Perk in Greenwich Village, managed by Gunther.",
+    "explanation": "Mike's photographic memory helped him practice law without a degree, experiencing a record-breaking streaming resurgence on Netflix in 2023.",
     "tags": [
       "tv-shows",
-      "tv-history",
+      "drama-series",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "tv-shows-iconic-episodes-0068",
+    "id": "tv-shows-drama-series-0068",
     "category": "TV Shows",
-    "subcategory": "Iconic Episodes",
+    "subcategory": "Drama Series",
     "difficulty": "medium",
-    "question": "Regarding television shows and series: In the acclaimed drama series 'Breaking Bad', what high school subject does Walter White initially teach before cooking crystal meth? (Ref #68)",
+    "question": "What British period drama series, created by Julian Fellowes, chronicled the aristocratic Crawley family and their domestic servants in Yorkshire?",
     "options": [
-      "Biology",
-      "Physics",
-      "Mathematics",
-      "Chemistry"
+      "The Crown",
+      "Upstairs, Downstairs",
+      "Victoria",
+      "Downton Abbey"
     ],
     "correctAnswer": 3,
-    "explanation": "Walter White is a brilliant former research chemist teaching high school chemistry in Albuquerque, New Mexico.",
+    "explanation": "Starring Hugh Bonneville and Maggie Smith as the sharp-tongued Dowager Countess of Grantham, it became an international PBS masterpiece phenomenon.",
     "tags": [
       "tv-shows",
-      "iconic-episodes",
+      "drama-series",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "tv-shows-sitcoms-0069",
+    "id": "tv-shows-drama-series-0069",
     "category": "TV Shows",
-    "subcategory": "Sitcoms",
+    "subcategory": "Drama Series",
     "difficulty": "hard",
-    "question": "Regarding television shows and series: What is the name of the fictional regional paper supply company where characters work in 'The Office' (US)? (Ref #69)",
+    "question": "What British historical crime drama, created by Steven Knight, follows Cillian Murphy as Birmingham gang leader Thomas Shelby after World War I?",
     "options": [
-      "Dunder Mifflin",
-      "Wernham Hogg",
-      "Initech Corporation",
-      "Sterling Cooper"
+      "Peaky Blinders",
+      "Boardwalk Empire",
+      "Taboo",
+      "Gangs of London"
     ],
     "correctAnswer": 0,
-    "explanation": "Dunder Mifflin Paper Company's Scranton branch is managed by Michael Scott in the beloved comedy series.",
+    "explanation": "Wearing flat peaked caps stitched with razor blades, the Shelby crime family built a commercial empire across six critically acclaimed seasons.",
     "tags": [
       "tv-shows",
-      "sitcoms",
+      "drama-series",
       "hard"
     ],
     "active": true
@@ -1453,15 +1453,15 @@
     "category": "TV Shows",
     "subcategory": "Drama Series",
     "difficulty": "easy",
-    "question": "Regarding television shows and series: In HBO's 'Game of Thrones', what is the coveted seat of political power in King's Landing called? (Ref #70)",
+    "question": "What HBO Prohibition-era gangster drama, produced by Martin Scorsese and Terence Winter, starred Steve Buscemi as corrupt Atlantic City boss Nucky Thompson?",
     "options": [
-      "The Golden Throne",
-      "The Iron Throne",
-      "The Dragon Throne",
-      "The High Seat of Valyria"
+      "The Sopranos",
+      "Boardwalk Empire",
+      "Peaky Blinders",
+      "Deadwood"
     ],
     "correctAnswer": 1,
-    "explanation": "The Iron Throne was forged from 1,000 swords of Aegon the Conqueror's defeated enemies, heated by dragon breath.",
+    "explanation": "Set against 1920s illegal bootlegging, the lush period drama featured historical mobsters like Al Capone, Lucky Luciano, and Arnold Rothstein.",
     "tags": [
       "tv-shows",
       "drama-series",
@@ -1470,64 +1470,64 @@
     "active": true
   },
   {
-    "id": "tv-shows-tv-history-0071",
+    "id": "tv-shows-drama-series-0071",
     "category": "TV Shows",
-    "subcategory": "TV History",
+    "subcategory": "Drama Series",
     "difficulty": "medium",
-    "question": "Regarding television shows and series: Which mob boss and suburban patriarch is the central protagonist of HBO's landmark series 'The Sopranos'? (Ref #71)",
+    "question": "What AMC post-apocalyptic horror drama, based on Robert Kirkman's comics, followed sheriff's deputy Rick Grimes leading survivors through a zombie apocalypse?",
     "options": [
-      "Silvio Dante",
-      "Paulie Gualtieri",
-      "Tony Soprano",
-      "Christopher Moltisanti"
+      "Fear the Walking Dead",
+      "The Last of Us",
+      "The Walking Dead",
+      "Z Nation"
     ],
     "correctAnswer": 2,
-    "explanation": "James Gandolfini portrayed New Jersey mob boss Tony Soprano, navigating organized crime and psychiatry sessions with Dr. Melfi.",
+    "explanation": "Andrew Lincoln's Rick Grimes led survivors through catastrophic battles with walkers, the Governor, and Jeffrey Dean Morgan's bat-wielding Negan.",
     "tags": [
       "tv-shows",
-      "tv-history",
+      "drama-series",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "tv-shows-iconic-episodes-0072",
+    "id": "tv-shows-drama-series-0072",
     "category": "TV Shows",
-    "subcategory": "Iconic Episodes",
+    "subcategory": "Drama Series",
     "difficulty": "hard",
-    "question": "Regarding television shows and series: In Netflix's 'Stranger Things', what eerie alternate dimension coexists beneath the town of Hawkins, Indiana? (Ref #72)",
+    "question": "What HBO dark vampire drama, created by Alan Ball from Charlaine Harris's novels, followed telepathic waitress Sookie Stackhouse in rural Louisiana?",
     "options": [
-      "The Netherworld",
-      "The Shadow Realm",
-      "The Dark Dimension",
-      "The Upside Down"
+      "The Vampire Diaries",
+      "Buffy the Vampire Slayer",
+      "The Originals",
+      "True Blood"
     ],
     "correctAnswer": 3,
-    "explanation": "The Upside Down is a dark, decaying parallel dimension inhabited by the Demogorgon and the Mind Flayer.",
+    "explanation": "Anna Paquin starred alongside vampires Bill Compton and Eric Northman after synthetic Japanese blood allowed vampires to 'come out of the coffin.'",
     "tags": [
       "tv-shows",
-      "iconic-episodes",
+      "drama-series",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "tv-shows-sitcoms-0073",
+    "id": "tv-shows-drama-series-0073",
     "category": "TV Shows",
-    "subcategory": "Sitcoms",
+    "subcategory": "Drama Series",
     "difficulty": "easy",
-    "question": "Regarding television shows and series: What is the name of the neighborhood coffeehouse where the main characters frequently gather in the sitcom 'Friends'? (Ref #73)",
+    "question": "What groundbreaking 1990s supernatural drama, created by Joss Whedon, starred Sarah Michelle Gellar as a high school girl chosen to fight vampires?",
     "options": [
-      "Central Perk",
-      "Monk's Diner",
-      "Cafe Nervosa",
-      "The Peach Pit"
+      "Buffy the Vampire Slayer",
+      "Angel",
+      "Charmed",
+      "The Vampire Diaries"
     ],
     "correctAnswer": 0,
-    "explanation": "The six friends in Friends hang out on the orange couch at Central Perk in Greenwich Village, managed by Gunther.",
+    "explanation": "Buffy and the 'Scooby Gang' fought demons over the Hellmouth in Sunnydale, revolutionizing feminist television empowerment.",
     "tags": [
       "tv-shows",
-      "sitcoms",
+      "drama-series",
       "easy"
     ],
     "active": true
@@ -1537,15 +1537,15 @@
     "category": "TV Shows",
     "subcategory": "Drama Series",
     "difficulty": "medium",
-    "question": "Regarding television shows and series: In the acclaimed drama series 'Breaking Bad', what high school subject does Walter White initially teach before cooking crystal meth? (Ref #74)",
+    "question": "What 1980s detective drama made Don Johnson a style icon as undercover Miami detective Sonny Crockett wearing pastel t-shirts under Armani jackets?",
     "options": [
-      "Biology",
-      "Chemistry",
-      "Physics",
-      "Mathematics"
+      "Magnum, P.I.",
+      "Miami Vice",
+      "Hawaii Five-O",
+      "Starsky & Hutch"
     ],
     "correctAnswer": 1,
-    "explanation": "Walter White is a brilliant former research chemist teaching high school chemistry in Albuquerque, New Mexico.",
+    "explanation": "Executive produced by Michael Mann, Miami Vice fused MTV pop music, neon aesthetics, and Ferrari sports cars into 1980s television culture.",
     "tags": [
       "tv-shows",
       "drama-series",
@@ -1554,85 +1554,85 @@
     "active": true
   },
   {
-    "id": "tv-shows-tv-history-0075",
+    "id": "tv-shows-drama-series-0075",
     "category": "TV Shows",
-    "subcategory": "TV History",
+    "subcategory": "Drama Series",
     "difficulty": "hard",
-    "question": "Regarding television shows and series: What is the name of the fictional regional paper supply company where characters work in 'The Office' (US)? (Ref #75)",
+    "question": "What 1980s CBS detective series starred Tom Selleck as a Hawaii-based private investigator driving Robin Masters' red Ferrari 308?",
     "options": [
-      "Wernham Hogg",
-      "Initech Corporation",
-      "Dunder Mifflin",
-      "Sterling Cooper"
+      "Miami Vice",
+      "The A-Team",
+      "Magnum, P.I.",
+      "Knight Rider"
     ],
     "correctAnswer": 2,
-    "explanation": "Dunder Mifflin Paper Company's Scranton branch is managed by Michael Scott in the beloved comedy series.",
+    "explanation": "Thomas Magnum lived on a lush Oahu estate, bantering with British estate caretaker Jonathan Higgins and Doberman guard dogs.",
     "tags": [
       "tv-shows",
-      "tv-history",
+      "drama-series",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "tv-shows-iconic-episodes-0076",
+    "id": "tv-shows-drama-series-0076",
     "category": "TV Shows",
-    "subcategory": "Iconic Episodes",
+    "subcategory": "Drama Series",
     "difficulty": "easy",
-    "question": "Regarding television shows and series: In HBO's 'Game of Thrones', what is the coveted seat of political power in King's Landing called? (Ref #76)",
+    "question": "What 1980s NBC action-adventure series followed four Vietnam commandos framed for a crime they didn't commit, helping people as soldiers of fortune?",
     "options": [
-      "The Golden Throne",
-      "The Dragon Throne",
-      "The High Seat of Valyria",
-      "The Iron Throne"
+      "Knight Rider",
+      "MacGyver",
+      "Airwolf",
+      "The A-Team"
     ],
     "correctAnswer": 3,
-    "explanation": "The Iron Throne was forged from 1,000 swords of Aegon the Conqueror's defeated enemies, heated by dragon breath.",
+    "explanation": "George Peppard led Mr. T (B.A. Baracus), Dirk Benedict (Faceman), and Dwight Schultz (Murdock), famous for 'I love it when a plan comes together.'",
     "tags": [
       "tv-shows",
-      "iconic-episodes",
+      "drama-series",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "tv-shows-sitcoms-0077",
+    "id": "tv-shows-tv-history-0077",
     "category": "TV Shows",
-    "subcategory": "Sitcoms",
+    "subcategory": "TV History",
     "difficulty": "medium",
-    "question": "Regarding television shows and series: Which mob boss and suburban patriarch is the central protagonist of HBO's landmark series 'The Sopranos'? (Ref #77)",
+    "question": "In what year was the first public demonstration of an all-electronic television receiver system conducted by inventor Philo Farnsworth in San Francisco?",
     "options": [
-      "Tony Soprano",
-      "Silvio Dante",
-      "Paulie Gualtieri",
-      "Christopher Moltisanti"
+      "1927",
+      "1920",
+      "1935",
+      "1942"
     ],
     "correctAnswer": 0,
-    "explanation": "James Gandolfini portrayed New Jersey mob boss Tony Soprano, navigating organized crime and psychiatry sessions with Dr. Melfi.",
+    "explanation": "At age 21, Farnsworth transmitted a simple straight line using his Image Dissector video camera tube in his laboratory.",
     "tags": [
       "tv-shows",
-      "sitcoms",
+      "tv-history",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "tv-shows-drama-series-0078",
+    "id": "tv-shows-tv-history-0078",
     "category": "TV Shows",
-    "subcategory": "Drama Series",
+    "subcategory": "TV History",
     "difficulty": "hard",
-    "question": "Regarding television shows and series: In Netflix's 'Stranger Things', what eerie alternate dimension coexists beneath the town of Hawkins, Indiana? (Ref #78)",
+    "question": "What Scottish inventor conducted the world's first public demonstration of a working mechanical television system in London in January 1926?",
     "options": [
-      "The Netherworld",
-      "The Upside Down",
-      "The Shadow Realm",
-      "The Dark Dimension"
+      "Guglielmo Marconi",
+      "John Logie Baird",
+      "Alexander Graham Bell",
+      "Vladimir Zworykin"
     ],
     "correctAnswer": 1,
-    "explanation": "The Upside Down is a dark, decaying parallel dimension inhabited by the Demogorgon and the Mind Flayer.",
+    "explanation": "Baird used a motorized rotating Nipkow disk with spiraling holes to transmit moving 30-line silhouette images.",
     "tags": [
       "tv-shows",
-      "drama-series",
+      "tv-history",
       "hard"
     ],
     "active": true
@@ -1642,15 +1642,15 @@
     "category": "TV Shows",
     "subcategory": "TV History",
     "difficulty": "easy",
-    "question": "Regarding television shows and series: What is the name of the neighborhood coffeehouse where the main characters frequently gather in the sitcom 'Friends'? (Ref #79)",
+    "question": "What Russian-American inventor at RCA developed the Iconoscope camera tube and the Kinescope receiver, pioneering modern electronic TV?",
     "options": [
-      "Monk's Diner",
-      "Cafe Nervosa",
-      "Central Perk",
-      "The Peach Pit"
+      "Philo Farnsworth",
+      "David Sarnoff",
+      "Vladimir Zworykin",
+      "Nikola Tesla"
     ],
     "correctAnswer": 2,
-    "explanation": "The six friends in Friends hang out on the orange couch at Central Perk in Greenwich Village, managed by Gunther.",
+    "explanation": "Zworykin's patents for electronic television pickup tubes formed the foundation of RCA's commercial broadcast technology.",
     "tags": [
       "tv-shows",
       "tv-history",
@@ -1659,64 +1659,64 @@
     "active": true
   },
   {
-    "id": "tv-shows-iconic-episodes-0080",
+    "id": "tv-shows-tv-history-0080",
     "category": "TV Shows",
-    "subcategory": "Iconic Episodes",
+    "subcategory": "TV History",
     "difficulty": "medium",
-    "question": "Regarding television shows and series: In the acclaimed drama series 'Breaking Bad', what high school subject does Walter White initially teach before cooking crystal meth? (Ref #80)",
+    "question": "What monumental world event in April 1939 was used by RCA President David Sarnoff to publicly inaugurate regular American television broadcasting?",
     "options": [
-      "Biology",
-      "Physics",
-      "Mathematics",
-      "Chemistry"
+      "The 1936 Berlin Olympics",
+      "The Golden Gate Exposition",
+      "The Chicago World's Fair",
+      "The 1939 New York World's Fair"
     ],
     "correctAnswer": 3,
-    "explanation": "Walter White is a brilliant former research chemist teaching high school chemistry in Albuquerque, New Mexico.",
+    "explanation": "President Franklin D. Roosevelt became the first U.S. President to appear on television during the fair's opening ceremonies.",
     "tags": [
       "tv-shows",
-      "iconic-episodes",
+      "tv-history",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "tv-shows-sitcoms-0081",
+    "id": "tv-shows-tv-history-0081",
     "category": "TV Shows",
-    "subcategory": "Sitcoms",
+    "subcategory": "TV History",
     "difficulty": "hard",
-    "question": "Regarding television shows and series: What is the name of the fictional regional paper supply company where characters work in 'The Office' (US)? (Ref #81)",
+    "question": "What color television broadcast standard, compatible with existing black-and-white sets, was approved by the FCC in December 1953?",
     "options": [
-      "Dunder Mifflin",
-      "Wernham Hogg",
-      "Initech Corporation",
-      "Sterling Cooper"
+      "NTSC (National Television System Committee)",
+      "PAL",
+      "SECAM",
+      "ATSC"
     ],
     "correctAnswer": 0,
-    "explanation": "Dunder Mifflin Paper Company's Scranton branch is managed by Michael Scott in the beloved comedy series.",
+    "explanation": "NTSC introduced a color subcarrier at 3.58 MHz that allowed legacy black-and-white sets to display the luminance signal without distortion.",
     "tags": [
       "tv-shows",
-      "sitcoms",
+      "tv-history",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "tv-shows-drama-series-0082",
+    "id": "tv-shows-tv-history-0082",
     "category": "TV Shows",
-    "subcategory": "Drama Series",
+    "subcategory": "TV History",
     "difficulty": "easy",
-    "question": "Regarding television shows and series: In HBO's 'Game of Thrones', what is the coveted seat of political power in King's Landing called? (Ref #82)",
+    "question": "What live variety program, hosted by a stone-faced newspaper columnist from 1948 to 1971, introduced Elvis Presley and The Beatles to America?",
     "options": [
-      "The Golden Throne",
-      "The Iron Throne",
-      "The Dragon Throne",
-      "The High Seat of Valyria"
+      "The Milton Berle Show",
+      "The Ed Sullivan Show (Toast of the Town)",
+      "The Tonight Show",
+      "Arthur Godfrey and His Friends"
     ],
     "correctAnswer": 1,
-    "explanation": "The Iron Throne was forged from 1,000 swords of Aegon the Conqueror's defeated enemies, heated by dragon breath.",
+    "explanation": "Airing on CBS Sunday nights from Manhattan, Ed Sullivan presented the greatest pop culture acts to massive living room audiences.",
     "tags": [
       "tv-shows",
-      "drama-series",
+      "tv-history",
       "easy"
     ],
     "active": true
@@ -1726,15 +1726,15 @@
     "category": "TV Shows",
     "subcategory": "TV History",
     "difficulty": "medium",
-    "question": "Regarding television shows and series: Which mob boss and suburban patriarch is the central protagonist of HBO's landmark series 'The Sopranos'? (Ref #83)",
+    "question": "What comedian, known as 'Mr. Television' and 'Uncle Miltie', caused NBC television set sales to skyrocket while hosting Texaco Star Theater in 1948?",
     "options": [
-      "Silvio Dante",
-      "Paulie Gualtieri",
-      "Tony Soprano",
-      "Christopher Moltisanti"
+      "Sid Caesar",
+      "Jack Benny",
+      "Milton Berle",
+      "Bob Hope"
     ],
     "correctAnswer": 2,
-    "explanation": "James Gandolfini portrayed New Jersey mob boss Tony Soprano, navigating organized crime and psychiatry sessions with Dr. Melfi.",
+    "explanation": "Berle's wild slapstick comedy emptied movie theaters and closed restaurants on Tuesday nights as America gathered around sets.",
     "tags": [
       "tv-shows",
       "tv-history",
@@ -1743,64 +1743,64 @@
     "active": true
   },
   {
-    "id": "tv-shows-iconic-episodes-0084",
+    "id": "tv-shows-tv-history-0084",
     "category": "TV Shows",
-    "subcategory": "Iconic Episodes",
+    "subcategory": "TV History",
     "difficulty": "hard",
-    "question": "Regarding television shows and series: In Netflix's 'Stranger Things', what eerie alternate dimension coexists beneath the town of Hawkins, Indiana? (Ref #84)",
+    "question": "What CBS television comedy variety program starred Sid Caesar, Imogene Coca, and Carl Reiner, written by Mel Brooks and Neil Simon in the early 1950s?",
     "options": [
-      "The Netherworld",
-      "The Shadow Realm",
-      "The Dark Dimension",
-      "The Upside Down"
+      "The Jack Benny Program",
+      "The Red Skelton Show",
+      "The Honeymooners",
+      "Your Show of Shows"
     ],
     "correctAnswer": 3,
-    "explanation": "The Upside Down is a dark, decaying parallel dimension inhabited by the Demogorgon and the Mind Flayer.",
+    "explanation": "Your Show of Shows' legendary writers' room was the creative nursery that trained the greatest comedy minds of American theater and cinema.",
     "tags": [
       "tv-shows",
-      "iconic-episodes",
+      "tv-history",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "tv-shows-sitcoms-0085",
+    "id": "tv-shows-tv-history-0085",
     "category": "TV Shows",
-    "subcategory": "Sitcoms",
+    "subcategory": "TV History",
     "difficulty": "easy",
-    "question": "Regarding television shows and series: What is the name of the neighborhood coffeehouse where the main characters frequently gather in the sitcom 'Friends'? (Ref #85)",
+    "question": "What broadcast journalist challenged powerful anti-communist Senator Joseph McCarthy on CBS's See It Now on March 9, 1954?",
     "options": [
-      "Central Perk",
-      "Monk's Diner",
-      "Cafe Nervosa",
-      "The Peach Pit"
+      "Edward R. Murrow",
+      "Walter Cronkite",
+      "David Brinkley",
+      "Chet Huntley"
     ],
     "correctAnswer": 0,
-    "explanation": "The six friends in Friends hang out on the orange couch at Central Perk in Greenwich Village, managed by Gunther.",
+    "explanation": "Murrow used McCarthy's own words and recorded speeches to expose his demagoguery, closing with 'Good night, and good luck.'",
     "tags": [
       "tv-shows",
-      "sitcoms",
+      "tv-history",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "tv-shows-drama-series-0086",
+    "id": "tv-shows-tv-history-0086",
     "category": "TV Shows",
-    "subcategory": "Drama Series",
+    "subcategory": "TV History",
     "difficulty": "medium",
-    "question": "Regarding television shows and series: In the acclaimed drama series 'Breaking Bad', what high school subject does Walter White initially teach before cooking crystal meth? (Ref #86)",
+    "question": "Who was the beloved CBS Evening News anchor from 1962 to 1981, famously hailed as 'the most trusted man in America'?",
     "options": [
-      "Biology",
-      "Chemistry",
-      "Physics",
-      "Mathematics"
+      "Dan Rather",
+      "Walter Cronkite",
+      "Edward R. Murrow",
+      "Peter Jennings"
     ],
     "correctAnswer": 1,
-    "explanation": "Walter White is a brilliant former research chemist teaching high school chemistry in Albuquerque, New Mexico.",
+    "explanation": "Cronkite anchored America through the JFK assassination and the Apollo 11 moon landing, signing off: 'And that's the way it is.'",
     "tags": [
       "tv-shows",
-      "drama-series",
+      "tv-history",
       "medium"
     ],
     "active": true
@@ -1810,15 +1810,15 @@
     "category": "TV Shows",
     "subcategory": "TV History",
     "difficulty": "hard",
-    "question": "Regarding television shows and series: What is the name of the fictional regional paper supply company where characters work in 'The Office' (US)? (Ref #87)",
+    "question": "What historic event on September 26, 1960, demonstrated the decisive power of television image over radio in American presidential politics?",
     "options": [
-      "Wernham Hogg",
-      "Initech Corporation",
-      "Dunder Mifflin",
-      "Sterling Cooper"
+      "The 1952 Eisenhower Ad",
+      "The 1964 Daisy Ad",
+      "The First Kennedy-Nixon Presidential Debate",
+      "The 1968 Nixon Town Hall"
     ],
     "correctAnswer": 2,
-    "explanation": "Dunder Mifflin Paper Company's Scranton branch is managed by Michael Scott in the beloved comedy series.",
+    "explanation": "Radio listeners thought Richard Nixon won, while 70 million TV viewers were swayed by John F. Kennedy's tanned, poised, charismatic appearance.",
     "tags": [
       "tv-shows",
       "tv-history",
@@ -1827,64 +1827,64 @@
     "active": true
   },
   {
-    "id": "tv-shows-iconic-episodes-0088",
+    "id": "tv-shows-tv-history-0088",
     "category": "TV Shows",
-    "subcategory": "Iconic Episodes",
+    "subcategory": "TV History",
     "difficulty": "easy",
-    "question": "Regarding television shows and series: In HBO's 'Game of Thrones', what is the coveted seat of political power in King's Landing called? (Ref #88)",
+    "question": "What historic live television broadcast on July 20, 1969, was watched by an estimated global audience of 650 million people?",
     "options": [
-      "The Golden Throne",
-      "The Dragon Throne",
-      "The High Seat of Valyria",
-      "The Iron Throne"
+      "The 1968 Olympics",
+      "The Fall of the Berlin Wall",
+      "The Royal Wedding of Charles and Diana",
+      "The Apollo 11 Moon Landing (Neil Armstrong's first steps)"
     ],
     "correctAnswer": 3,
-    "explanation": "The Iron Throne was forged from 1,000 swords of Aegon the Conqueror's defeated enemies, heated by dragon breath.",
+    "explanation": "Viewers watched ghostly black-and-white footage as Armstrong stepped off the lunar module ladder, declaring 'That's one small step for man.'",
     "tags": [
       "tv-shows",
-      "iconic-episodes",
+      "tv-history",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "tv-shows-sitcoms-0089",
+    "id": "tv-shows-tv-history-0089",
     "category": "TV Shows",
-    "subcategory": "Sitcoms",
+    "subcategory": "TV History",
     "difficulty": "medium",
-    "question": "Regarding television shows and series: Which mob boss and suburban patriarch is the central protagonist of HBO's landmark series 'The Sopranos'? (Ref #89)",
+    "question": "What commercial company, founded by Arthur C. Nielsen in 1923, pioneered television audience measurement ratings and shares?",
     "options": [
-      "Tony Soprano",
-      "Silvio Dante",
-      "Paulie Gualtieri",
-      "Christopher Moltisanti"
+      "The Nielsen Company (Nielsen Ratings)",
+      "Arbitron",
+      "Gallup",
+      "Comscore"
     ],
     "correctAnswer": 0,
-    "explanation": "James Gandolfini portrayed New Jersey mob boss Tony Soprano, navigating organized crime and psychiatry sessions with Dr. Melfi.",
+    "explanation": "Nielsen audimeters and sample diaries determined which programs survived and how billions in TV advertising dollars were spent.",
     "tags": [
       "tv-shows",
-      "sitcoms",
+      "tv-history",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "tv-shows-drama-series-0090",
+    "id": "tv-shows-tv-history-0090",
     "category": "TV Shows",
-    "subcategory": "Drama Series",
+    "subcategory": "TV History",
     "difficulty": "hard",
-    "question": "Regarding television shows and series: In Netflix's 'Stranger Things', what eerie alternate dimension coexists beneath the town of Hawkins, Indiana? (Ref #90)",
+    "question": "What legendary 1977 ABC eight-night miniseries, based on Alex Haley's novel, drew record-shattering viewership for its portrayal of enslaved families?",
     "options": [
-      "The Netherworld",
-      "The Upside Down",
-      "The Shadow Realm",
-      "The Dark Dimension"
+      "The Thorn Birds",
+      "Roots",
+      "North and South",
+      "Holocaust"
     ],
     "correctAnswer": 1,
-    "explanation": "The Upside Down is a dark, decaying parallel dimension inhabited by the Demogorgon and the Mind Flayer.",
+    "explanation": "Roots starred LeVar Burton as young Kunta Kinte, culminating in a finale watched by 100 million Americans (a 71% audience share).",
     "tags": [
       "tv-shows",
-      "drama-series",
+      "tv-history",
       "hard"
     ],
     "active": true
@@ -1894,15 +1894,15 @@
     "category": "TV Shows",
     "subcategory": "TV History",
     "difficulty": "easy",
-    "question": "Regarding television shows and series: What is the name of the neighborhood coffeehouse where the main characters frequently gather in the sitcom 'Friends'? (Ref #91)",
+    "question": "What 1983 ABC post-apocalyptic television film, depicting the catastrophic aftermath of nuclear war on Lawrence, Kansas, shook American politics?",
     "options": [
-      "Monk's Diner",
-      "Cafe Nervosa",
-      "Central Perk",
-      "The Peach Pit"
+      "Threads",
+      "Testament",
+      "The Day After",
+      "Fail Safe"
     ],
     "correctAnswer": 2,
-    "explanation": "The six friends in Friends hang out on the orange couch at Central Perk in Greenwich Village, managed by Gunther.",
+    "explanation": "Watched by over 100 million people, President Ronald Reagan noted in his diary that the film profoundly influenced his nuclear arms negotiations with the Soviets.",
     "tags": [
       "tv-shows",
       "tv-history",
@@ -1911,64 +1911,64 @@
     "active": true
   },
   {
-    "id": "tv-shows-iconic-episodes-0092",
+    "id": "tv-shows-tv-history-0092",
     "category": "TV Shows",
-    "subcategory": "Iconic Episodes",
+    "subcategory": "TV History",
     "difficulty": "medium",
-    "question": "Regarding television shows and series: In the acclaimed drama series 'Breaking Bad', what high school subject does Walter White initially teach before cooking crystal meth? (Ref #92)",
+    "question": "What pioneering 24-hour cable news network was launched by media entrepreneur Ted Turner from Atlanta on June 1, 1980?",
     "options": [
-      "Biology",
-      "Physics",
-      "Mathematics",
-      "Chemistry"
+      "MSNBC",
+      "Fox News",
+      "Headline News",
+      "CNN (Cable News Network)"
     ],
     "correctAnswer": 3,
-    "explanation": "Walter White is a brilliant former research chemist teaching high school chemistry in Albuquerque, New Mexico.",
+    "explanation": "Skeptics dubbed it the 'Chicken Noodle Network', but CNN proved its revolutionary value during the 1986 Challenger disaster and 1991 Gulf War.",
     "tags": [
       "tv-shows",
-      "iconic-episodes",
+      "tv-history",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "tv-shows-sitcoms-0093",
+    "id": "tv-shows-tv-history-0093",
     "category": "TV Shows",
-    "subcategory": "Sitcoms",
+    "subcategory": "TV History",
     "difficulty": "hard",
-    "question": "Regarding television shows and series: What is the name of the fictional regional paper supply company where characters work in 'The Office' (US)? (Ref #93)",
+    "question": "What music video television cable network launched on August 1, 1981, opening with the words 'Ladies and gentlemen, rock and roll'?",
     "options": [
-      "Dunder Mifflin",
-      "Wernham Hogg",
-      "Initech Corporation",
-      "Sterling Cooper"
+      "MTV (Music Television)",
+      "VH1",
+      "BET",
+      "CMT"
     ],
     "correctAnswer": 0,
-    "explanation": "Dunder Mifflin Paper Company's Scranton branch is managed by Michael Scott in the beloved comedy series.",
+    "explanation": "The first music video broadcast was 'Video Killed the Radio Star' by The Buggles, transforming recording artist image and fashion.",
     "tags": [
       "tv-shows",
-      "sitcoms",
+      "tv-history",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "tv-shows-drama-series-0094",
+    "id": "tv-shows-tv-history-0094",
     "category": "TV Shows",
-    "subcategory": "Drama Series",
+    "subcategory": "TV History",
     "difficulty": "easy",
-    "question": "Regarding television shows and series: In HBO's 'Game of Thrones', what is the coveted seat of political power in King's Landing called? (Ref #94)",
+    "question": "What premium cable television network, launched by Time Inc. on November 8, 1972, pioneered uncut Hollywood movies and commercial-free original drama?",
     "options": [
-      "The Golden Throne",
-      "The Iron Throne",
-      "The Dragon Throne",
-      "The High Seat of Valyria"
+      "Showtime",
+      "HBO (Home Box Office)",
+      "Cinemax",
+      "The Movie Channel"
     ],
     "correctAnswer": 1,
-    "explanation": "The Iron Throne was forged from 1,000 swords of Aegon the Conqueror's defeated enemies, heated by dragon breath.",
+    "explanation": "HBO became the first TV network to deliver programming continuously via communications satellite (Satcom 1) in 1975 for the 'Thrilla in Manila'.",
     "tags": [
       "tv-shows",
-      "drama-series",
+      "tv-history",
       "easy"
     ],
     "active": true
@@ -1978,15 +1978,15 @@
     "category": "TV Shows",
     "subcategory": "TV History",
     "difficulty": "medium",
-    "question": "Regarding television shows and series: Which mob boss and suburban patriarch is the central protagonist of HBO's landmark series 'The Sopranos'? (Ref #95)",
+    "question": "What 1970s legal battle between Sony and Universal Studios established that consumer home VCR taping of TV shows constitutes non-infringing fair use?",
     "options": [
-      "Silvio Dante",
-      "Paulie Gualtieri",
-      "Tony Soprano",
-      "Christopher Moltisanti"
+      "The Napster Case",
+      "The Grokster Case",
+      "The Sony Betamax Case (Sony Corp. of America v. Universal City Studios)",
+      "The A&M Case"
     ],
     "correctAnswer": 2,
-    "explanation": "James Gandolfini portrayed New Jersey mob boss Tony Soprano, navigating organized crime and psychiatry sessions with Dr. Melfi.",
+    "explanation": "In 1984, the U.S. Supreme Court ruled 5-4 that 'time-shifting' television programs with home video recorders is protected legal fair use.",
     "tags": [
       "tv-shows",
       "tv-history",
@@ -1995,64 +1995,64 @@
     "active": true
   },
   {
-    "id": "tv-shows-iconic-episodes-0096",
+    "id": "tv-shows-tv-history-0096",
     "category": "TV Shows",
-    "subcategory": "Iconic Episodes",
+    "subcategory": "TV History",
     "difficulty": "hard",
-    "question": "Regarding television shows and series: In Netflix's 'Stranger Things', what eerie alternate dimension coexists beneath the town of Hawkins, Indiana? (Ref #96)",
+    "question": "What home video cassette tape format, developed by JVC in 1976, won the legendary format war against Sony's higher-resolution Betamax?",
     "options": [
-      "The Netherworld",
-      "The Shadow Realm",
-      "The Dark Dimension",
-      "The Upside Down"
+      "Betamax",
+      "LaserDisc",
+      "Video 2000",
+      "VHS (Video Home System)"
     ],
     "correctAnswer": 3,
-    "explanation": "The Upside Down is a dark, decaying parallel dimension inhabited by the Demogorgon and the Mind Flayer.",
+    "explanation": "VHS offered longer two-hour recording times sufficient for complete Hollywood movies and sports games, capturing the mass rental market.",
     "tags": [
       "tv-shows",
-      "iconic-episodes",
+      "tv-history",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "tv-shows-sitcoms-0097",
+    "id": "tv-shows-tv-history-0097",
     "category": "TV Shows",
-    "subcategory": "Sitcoms",
+    "subcategory": "TV History",
     "difficulty": "easy",
-    "question": "Regarding television shows and series: What is the name of the neighborhood coffeehouse where the main characters frequently gather in the sitcom 'Friends'? (Ref #97)",
+    "question": "What company, founded in 1997 by Reed Hastings and Marc Randolph, began as a DVD-by-mail service before revolutionizing video streaming?",
     "options": [
-      "Central Perk",
-      "Monk's Diner",
-      "Cafe Nervosa",
-      "The Peach Pit"
+      "Netflix",
+      "Blockbuster Online",
+      "Hulu",
+      "Redbox"
     ],
     "correctAnswer": 0,
-    "explanation": "The six friends in Friends hang out on the orange couch at Central Perk in Greenwich Village, managed by Gunther.",
+    "explanation": "Netflix eliminated late fees with red DVD mailers, later pivoting to on-demand streaming in 2007 and launching original content with House of Cards.",
     "tags": [
       "tv-shows",
-      "sitcoms",
+      "tv-history",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "tv-shows-drama-series-0098",
+    "id": "tv-shows-tv-history-0098",
     "category": "TV Shows",
-    "subcategory": "Drama Series",
+    "subcategory": "TV History",
     "difficulty": "medium",
-    "question": "Regarding television shows and series: In the acclaimed drama series 'Breaking Bad', what high school subject does Walter White initially teach before cooking crystal meth? (Ref #98)",
+    "question": "What streaming term describes the modern viewer habit of watching multiple episodes of a television series back-to-back in rapid succession?",
     "options": [
-      "Biology",
-      "Chemistry",
-      "Physics",
-      "Mathematics"
+      "Time-Shifting",
+      "Binge-Watching",
+      "Channel Surfing",
+      "Linear Viewing"
     ],
     "correctAnswer": 1,
-    "explanation": "Walter White is a brilliant former research chemist teaching high school chemistry in Albuquerque, New Mexico.",
+    "explanation": "Popularized when Netflix released entire seasons of House of Cards and Orange Is the New Black simultaneously in 2013.",
     "tags": [
       "tv-shows",
-      "drama-series",
+      "tv-history",
       "medium"
     ],
     "active": true
@@ -2062,15 +2062,15 @@
     "category": "TV Shows",
     "subcategory": "TV History",
     "difficulty": "hard",
-    "question": "Regarding television shows and series: What is the name of the fictional regional paper supply company where characters work in 'The Office' (US)? (Ref #99)",
+    "question": "What consumer technology transition in the United States on June 12, 2009, permanently shut down legacy analog NTSC television broadcasts?",
     "options": [
-      "Wernham Hogg",
-      "Initech Corporation",
-      "Dunder Mifflin",
-      "Sterling Cooper"
+      "The HDTV Rollout",
+      "The Cable Mandate",
+      "The Digital Television (DTV) Transition",
+      "The Spectrum Auction"
     ],
     "correctAnswer": 2,
-    "explanation": "Dunder Mifflin Paper Company's Scranton branch is managed by Michael Scott in the beloved comedy series.",
+    "explanation": "Over-the-air television transitioned exclusively to digital ATSC broadcasting, freeing up 700 MHz analog wireless spectrum for emergency and cellular networks.",
     "tags": [
       "tv-shows",
       "tv-history",
@@ -2079,64 +2079,64 @@
     "active": true
   },
   {
-    "id": "tv-shows-iconic-episodes-0100",
+    "id": "tv-shows-tv-history-0100",
     "category": "TV Shows",
-    "subcategory": "Iconic Episodes",
+    "subcategory": "TV History",
     "difficulty": "easy",
-    "question": "Regarding television shows and series: In HBO's 'Game of Thrones', what is the coveted seat of political power in King's Landing called? (Ref #100)",
+    "question": "What long-running children's educational television program, created by Joan Ganz Cooney and Lloyd Morrisett, debuted on PBS on November 10, 1969?",
     "options": [
-      "The Golden Throne",
-      "The Dragon Throne",
-      "The High Seat of Valyria",
-      "The Iron Throne"
+      "Mister Rogers' Neighborhood",
+      "The Electric Company",
+      "Reading Rainbow",
+      "Sesame Street"
     ],
     "correctAnswer": 3,
-    "explanation": "The Iron Throne was forged from 1,000 swords of Aegon the Conqueror's defeated enemies, heated by dragon breath.",
+    "explanation": "Featuring Jim Henson's Muppets (Big Bird, Elmo, Cookie Monster), Sesame Street won over 200 Emmy Awards, teaching literacy and empathy to generations.",
     "tags": [
       "tv-shows",
-      "iconic-episodes",
+      "tv-history",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "tv-shows-sitcoms-0101",
+    "id": "tv-shows-tv-history-0101",
     "category": "TV Shows",
-    "subcategory": "Sitcoms",
+    "subcategory": "TV History",
     "difficulty": "medium",
-    "question": "Regarding television shows and series: Which mob boss and suburban patriarch is the central protagonist of HBO's landmark series 'The Sopranos'? (Ref #101)",
+    "question": "What gentle PBS children's television program, hosted by an ordained Presbyterian minister in a zippered sweater, taught emotional self-worth for 33 years?",
     "options": [
-      "Tony Soprano",
-      "Silvio Dante",
-      "Paulie Gualtieri",
-      "Christopher Moltisanti"
+      "Mister Rogers' Neighborhood",
+      "Sesame Street",
+      "Captain Kangaroo",
+      "Shining Time Station"
     ],
     "correctAnswer": 0,
-    "explanation": "James Gandolfini portrayed New Jersey mob boss Tony Soprano, navigating organized crime and psychiatry sessions with Dr. Melfi.",
+    "explanation": "Fred Rogers looked directly into the camera to remind children: 'You've made this day a special day, by just your being you.'",
     "tags": [
       "tv-shows",
-      "sitcoms",
+      "tv-history",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "tv-shows-drama-series-0102",
+    "id": "tv-shows-tv-history-0102",
     "category": "TV Shows",
-    "subcategory": "Drama Series",
+    "subcategory": "TV History",
     "difficulty": "hard",
-    "question": "Regarding television shows and series: In Netflix's 'Stranger Things', what eerie alternate dimension coexists beneath the town of Hawkins, Indiana? (Ref #102)",
+    "question": "What iconic science and nature PBS documentary series, hosted by astronomer Carl Sagan in 1980, explored human space exploration and astrophysics?",
     "options": [
-      "The Netherworld",
-      "The Upside Down",
-      "The Shadow Realm",
-      "The Dark Dimension"
+      "Nova",
+      "Cosmos: A Personal Voyage",
+      "Nature",
+      "Planet Earth"
     ],
     "correctAnswer": 1,
-    "explanation": "The Upside Down is a dark, decaying parallel dimension inhabited by the Demogorgon and the Mind Flayer.",
+    "explanation": "Watched by over 500 million people worldwide, Sagan popularized science with wonder and phrases like 'billions and billions of stars.'",
     "tags": [
       "tv-shows",
-      "drama-series",
+      "tv-history",
       "hard"
     ],
     "active": true
@@ -2146,15 +2146,15 @@
     "category": "TV Shows",
     "subcategory": "TV History",
     "difficulty": "easy",
-    "question": "Regarding television shows and series: What is the name of the neighborhood coffeehouse where the main characters frequently gather in the sitcom 'Friends'? (Ref #103)",
+    "question": "What British nature documentary series, narrated by Sir David Attenborough in 2006, was the first landmark series filmed entirely in high-definition?",
     "options": [
-      "Monk's Diner",
-      "Cafe Nervosa",
-      "Central Perk",
-      "The Peach Pit"
+      "The Blue Planet",
+      "Life",
+      "Planet Earth",
+      "Our Planet"
     ],
     "correctAnswer": 2,
-    "explanation": "The six friends in Friends hang out on the orange couch at Central Perk in Greenwich Village, managed by Gunther.",
+    "explanation": "Produced by the BBC Natural History Unit over five years, it set an unprecedented benchmark for wildlife cinematography and environmental awe.",
     "tags": [
       "tv-shows",
       "tv-history",
@@ -2163,64 +2163,64 @@
     "active": true
   },
   {
-    "id": "tv-shows-iconic-episodes-0104",
+    "id": "tv-shows-tv-history-0104",
     "category": "TV Shows",
-    "subcategory": "Iconic Episodes",
+    "subcategory": "TV History",
     "difficulty": "medium",
-    "question": "Regarding television shows and series: In the acclaimed drama series 'Breaking Bad', what high school subject does Walter White initially teach before cooking crystal meth? (Ref #104)",
+    "question": "What daytime talk show host dominated American television ratings for 25 seasons from 1986 to 2011, launching an influential book club?",
     "options": [
-      "Biology",
-      "Physics",
-      "Mathematics",
-      "Chemistry"
+      "Phil Donahue",
+      "Sally Jessy Raphael",
+      "Ricki Lake",
+      "Oprah Winfrey (The Oprah Winfrey Show)"
     ],
     "correctAnswer": 3,
-    "explanation": "Walter White is a brilliant former research chemist teaching high school chemistry in Albuquerque, New Mexico.",
+    "explanation": "Oprah's emotional empathy, celebrity interviews, and philanthropic giveaways made her the most powerful media mogul in television history.",
     "tags": [
       "tv-shows",
-      "iconic-episodes",
+      "tv-history",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "tv-shows-sitcoms-0105",
+    "id": "tv-shows-tv-history-0105",
     "category": "TV Shows",
-    "subcategory": "Sitcoms",
+    "subcategory": "TV History",
     "difficulty": "hard",
-    "question": "Regarding television shows and series: What is the name of the fictional regional paper supply company where characters work in 'The Office' (US)? (Ref #105)",
+    "question": "Who was the pioneer of the interactive audience daytime television talk show format, debuting his syndicated Chicago program in 1967?",
     "options": [
-      "Dunder Mifflin",
-      "Wernham Hogg",
-      "Initech Corporation",
-      "Sterling Cooper"
+      "Phil Donahue (The Phil Donahue Show)",
+      "Oprah Winfrey",
+      "Merv Griffin",
+      "Mike Douglas"
     ],
     "correctAnswer": 0,
-    "explanation": "Dunder Mifflin Paper Company's Scranton branch is managed by Michael Scott in the beloved comedy series.",
+    "explanation": "Donahue roamed the studio audience with a wireless microphone, debating controversial social and political issues openly for the first time on daytime TV.",
     "tags": [
       "tv-shows",
-      "sitcoms",
+      "tv-history",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "tv-shows-drama-series-0106",
+    "id": "tv-shows-tv-history-0106",
     "category": "TV Shows",
-    "subcategory": "Drama Series",
+    "subcategory": "TV History",
     "difficulty": "easy",
-    "question": "Regarding television shows and series: In HBO's 'Game of Thrones', what is the coveted seat of political power in King's Landing called? (Ref #106)",
+    "question": "What 1980 nighttime soap opera mystery captivated 83 million American viewers asking 'Who shot J.R.?' on CBS's Dallas?",
     "options": [
-      "The Golden Throne",
-      "The Iron Throne",
-      "The Dragon Throne",
-      "The High Seat of Valyria"
+      "Dynasty",
+      "Dallas",
+      "Knots Landing",
+      "Falcon Crest"
     ],
     "correctAnswer": 1,
-    "explanation": "The Iron Throne was forged from 1,000 swords of Aegon the Conqueror's defeated enemies, heated by dragon breath.",
+    "explanation": "Larry Hagman's villainous oil baron J.R. Ewing was shot in the season finale, sparking an eight-month global pop culture cliffhanger frenzy.",
     "tags": [
       "tv-shows",
-      "drama-series",
+      "tv-history",
       "easy"
     ],
     "active": true
@@ -2230,15 +2230,15 @@
     "category": "TV Shows",
     "subcategory": "TV History",
     "difficulty": "medium",
-    "question": "Regarding television shows and series: Which mob boss and suburban patriarch is the central protagonist of HBO's landmark series 'The Sopranos'? (Ref #107)",
+    "question": "What ABC 1980s prime-time soap opera starred Joan Collins as the glamorous, vindictive Alexis Carrington clashing with Linda Evans's Krystle?",
     "options": [
-      "Silvio Dante",
-      "Paulie Gualtieri",
-      "Tony Soprano",
-      "Christopher Moltisanti"
+      "Dallas",
+      "Falcon Crest",
+      "Dynasty",
+      "The Colbys"
     ],
     "correctAnswer": 2,
-    "explanation": "James Gandolfini portrayed New Jersey mob boss Tony Soprano, navigating organized crime and psychiatry sessions with Dr. Melfi.",
+    "explanation": "Created by Richard and Esther Shapiro and produced by Aaron Spelling, Dynasty epitomized 1980s wealth, shoulder pads, and lavish catfights.",
     "tags": [
       "tv-shows",
       "tv-history",
@@ -2247,64 +2247,64 @@
     "active": true
   },
   {
-    "id": "tv-shows-iconic-episodes-0108",
+    "id": "tv-shows-tv-history-0108",
     "category": "TV Shows",
-    "subcategory": "Iconic Episodes",
+    "subcategory": "TV History",
     "difficulty": "hard",
-    "question": "Regarding television shows and series: In Netflix's 'Stranger Things', what eerie alternate dimension coexists beneath the town of Hawkins, Indiana? (Ref #108)",
+    "question": "What legendary television producer held the Guinness World Record for the most prolific TV producer in history, creating Beverly Hills 90210 and Charlie's Angels?",
     "options": [
-      "The Netherworld",
-      "The Shadow Realm",
-      "The Dark Dimension",
-      "The Upside Down"
+      "Norman Lear",
+      "Dick Wolf",
+      "Chuck Lorre",
+      "Aaron Spelling"
     ],
     "correctAnswer": 3,
-    "explanation": "The Upside Down is a dark, decaying parallel dimension inhabited by the Demogorgon and the Mind Flayer.",
+    "explanation": "Spelling produced over 200 television series and TV movies, including The Love Boat, Fantasy Island, Charmed, and Melrose Place.",
     "tags": [
       "tv-shows",
-      "iconic-episodes",
+      "tv-history",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "tv-shows-sitcoms-0109",
+    "id": "tv-shows-tv-history-0109",
     "category": "TV Shows",
-    "subcategory": "Sitcoms",
+    "subcategory": "TV History",
     "difficulty": "easy",
-    "question": "Regarding television shows and series: What is the name of the neighborhood coffeehouse where the main characters frequently gather in the sitcom 'Friends'? (Ref #109)",
+    "question": "What sitcom star received a record $1 million per episode salary alongside her castmates for the final two seasons of NBC's Friends in 2002?",
     "options": [
-      "Central Perk",
-      "Monk's Diner",
-      "Cafe Nervosa",
-      "The Peach Pit"
+      "Jennifer Aniston (along with all six core cast members)",
+      "Sarah Jessica Parker",
+      "Helen Hunt",
+      "Debra Messing"
     ],
     "correctAnswer": 0,
-    "explanation": "The six friends in Friends hang out on the orange couch at Central Perk in Greenwich Village, managed by Gunther.",
+    "explanation": "The six Friends stars bargained collectively as an ensemble, setting a historic precedent for primetime television comedy salaries.",
     "tags": [
       "tv-shows",
-      "sitcoms",
+      "tv-history",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "tv-shows-drama-series-0110",
+    "id": "tv-shows-tv-history-0110",
     "category": "TV Shows",
-    "subcategory": "Drama Series",
+    "subcategory": "TV History",
     "difficulty": "medium",
-    "question": "Regarding television shows and series: In the acclaimed drama series 'Breaking Bad', what high school subject does Walter White initially teach before cooking crystal meth? (Ref #110)",
+    "question": "What beloved 1960s BBC comedy sketch show, created by six British comedians, popularized the surreal, stream-of-consciousness comedy genre?",
     "options": [
-      "Biology",
-      "Chemistry",
-      "Physics",
-      "Mathematics"
+      "Fawlty Towers",
+      "Monty Python's Flying Circus",
+      "Blackadder",
+      "The Goon Show"
     ],
     "correctAnswer": 1,
-    "explanation": "Walter White is a brilliant former research chemist teaching high school chemistry in Albuquerque, New Mexico.",
+    "explanation": "John Cleese, Michael Palin, Graham Chapman, Eric Idle, Terry Jones, and Terry Gilliam influenced modern comedy like The Beatles influenced rock.",
     "tags": [
       "tv-shows",
-      "drama-series",
+      "tv-history",
       "medium"
     ],
     "active": true
@@ -2314,15 +2314,15 @@
     "category": "TV Shows",
     "subcategory": "TV History",
     "difficulty": "hard",
-    "question": "Regarding television shows and series: What is the name of the fictional regional paper supply company where characters work in 'The Office' (US)? (Ref #111)",
+    "question": "What British science-fiction television program, premiering in 1963, introduced the robotic mutant cyborg villains known as Daleks crying 'Exterminate!'?",
     "options": [
-      "Wernham Hogg",
-      "Initech Corporation",
-      "Dunder Mifflin",
-      "Sterling Cooper"
+      "Blake's 7",
+      "Red Dwarf",
+      "Doctor Who",
+      "Torchwood"
     ],
     "correctAnswer": 2,
-    "explanation": "Dunder Mifflin Paper Company's Scranton branch is managed by Michael Scott in the beloved comedy series.",
+    "explanation": "Created by Terry Nation and designed by Raymond Cusick, the Daleks' metal dome heads and plunger arms became cultural icons in Britain.",
     "tags": [
       "tv-shows",
       "tv-history",
@@ -2331,85 +2331,85 @@
     "active": true
   },
   {
-    "id": "tv-shows-iconic-episodes-0112",
+    "id": "tv-shows-tv-history-0112",
     "category": "TV Shows",
-    "subcategory": "Iconic Episodes",
+    "subcategory": "TV History",
     "difficulty": "easy",
-    "question": "Regarding television shows and series: In HBO's 'Game of Thrones', what is the coveted seat of political power in King's Landing called? (Ref #112)",
+    "question": "What iconic British comedy series starring Rowan Atkinson featured an eccentric, infantile man in a tweed jacket who rarely spoke?",
     "options": [
-      "The Golden Throne",
-      "The Dragon Throne",
-      "The High Seat of Valyria",
-      "The Iron Throne"
+      "Blackadder",
+      "The Thin Blue Line",
+      "Fawlty Towers",
+      "Mr. Bean"
     ],
     "correctAnswer": 3,
-    "explanation": "The Iron Throne was forged from 1,000 swords of Aegon the Conqueror's defeated enemies, heated by dragon breath.",
+    "explanation": "Relying on universal physical visual slapstick comedy, Mr. Bean became one of the most widely exported television programs in world history.",
     "tags": [
       "tv-shows",
-      "iconic-episodes",
+      "tv-history",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "tv-shows-sitcoms-0113",
+    "id": "tv-shows-tv-history-0113",
     "category": "TV Shows",
-    "subcategory": "Sitcoms",
+    "subcategory": "TV History",
     "difficulty": "medium",
-    "question": "Regarding television shows and series: Which mob boss and suburban patriarch is the central protagonist of HBO's landmark series 'The Sopranos'? (Ref #113)",
+    "question": "What Canadian sketch comedy program, broadcast on CBC in the late 1970s, launched John Candy, Eugene Levy, Catherine O'Hara, and Rick Moranis?",
     "options": [
-      "Tony Soprano",
-      "Silvio Dante",
-      "Paulie Gualtieri",
-      "Christopher Moltisanti"
+      "SCTV (Second City Television)",
+      "The Kids in the Hall",
+      "Saturday Night Live",
+      "Codco"
     ],
     "correctAnswer": 0,
-    "explanation": "James Gandolfini portrayed New Jersey mob boss Tony Soprano, navigating organized crime and psychiatry sessions with Dr. Melfi.",
+    "explanation": "Set around the fictional low-budget television station in Melonville, SCTV earned multiple Emmy Awards for brilliant media parodies.",
     "tags": [
       "tv-shows",
-      "sitcoms",
+      "tv-history",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "tv-shows-drama-series-0114",
+    "id": "tv-shows-iconic-episodes-0114",
     "category": "TV Shows",
-    "subcategory": "Drama Series",
+    "subcategory": "Iconic Episodes",
     "difficulty": "hard",
-    "question": "Regarding television shows and series: In Netflix's 'Stranger Things', what eerie alternate dimension coexists beneath the town of Hawkins, Indiana? (Ref #114)",
+    "question": "What is the title of the famous Seinfeld episode where Jerry, George, and Elaine wait an entire half-hour to be seated at a dinner table?",
     "options": [
-      "The Netherworld",
-      "The Upside Down",
-      "The Shadow Realm",
-      "The Dark Dimension"
+      "'The Contest'",
+      "'The Chinese Restaurant'",
+      "'The Soup Nazi'",
+      "'The Parking Garage'"
     ],
     "correctAnswer": 1,
-    "explanation": "The Upside Down is a dark, decaying parallel dimension inhabited by the Demogorgon and the Mind Flayer.",
+    "explanation": "NBC executives initially fought airing the episode because 'nothing happens', but it is now celebrated as a television masterpiece of real-time minutiae.",
     "tags": [
       "tv-shows",
-      "drama-series",
+      "iconic-episodes",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "tv-shows-tv-history-0115",
+    "id": "tv-shows-iconic-episodes-0115",
     "category": "TV Shows",
-    "subcategory": "TV History",
+    "subcategory": "Iconic Episodes",
     "difficulty": "easy",
-    "question": "Regarding television shows and series: What is the name of the neighborhood coffeehouse where the main characters frequently gather in the sitcom 'Friends'? (Ref #115)",
+    "question": "What Emmy-winning 1992 Seinfeld episode famously dealt with self-control and masturbation without ever uttering the word on network television?",
     "options": [
-      "Monk's Diner",
-      "Cafe Nervosa",
-      "Central Perk",
-      "The Peach Pit"
+      "'The Chinese Restaurant'",
+      "'The Rye'",
+      "'The Contest'",
+      "'The Junior Mint'"
     ],
     "correctAnswer": 2,
-    "explanation": "The six friends in Friends hang out on the orange couch at Central Perk in Greenwich Village, managed by Gunther.",
+    "explanation": "Written by Larry David, Jerry, George, Elaine, and Kramer wager on who can remain 'master of my domain' the longest.",
     "tags": [
       "tv-shows",
-      "tv-history",
+      "iconic-episodes",
       "easy"
     ],
     "active": true
@@ -2419,15 +2419,15 @@
     "category": "TV Shows",
     "subcategory": "Iconic Episodes",
     "difficulty": "medium",
-    "question": "Regarding television shows and series: In the acclaimed drama series 'Breaking Bad', what high school subject does Walter White initially teach before cooking crystal meth? (Ref #116)",
+    "question": "What classic Seinfeld character, played by Larry Thomas, refuses to serve customers unless they follow strict ordering rules under threat of 'No soup for you!'?",
     "options": [
-      "Biology",
-      "Physics",
-      "Mathematics",
-      "Chemistry"
+      "The Maestro",
+      "Babu Bhatt",
+      "Kenny Bania",
+      "The Soup Nazi (Yev Kassem)"
     ],
     "correctAnswer": 3,
-    "explanation": "Walter White is a brilliant former research chemist teaching high school chemistry in Albuquerque, New Mexico.",
+    "explanation": "Inspired by real-life New York soup vendor Al Yeganeh, the episode became one of the most quoted sitcom half-hours in television history.",
     "tags": [
       "tv-shows",
       "iconic-episodes",
@@ -2436,64 +2436,64 @@
     "active": true
   },
   {
-    "id": "tv-shows-sitcoms-0117",
+    "id": "tv-shows-iconic-episodes-0117",
     "category": "TV Shows",
-    "subcategory": "Sitcoms",
+    "subcategory": "Iconic Episodes",
     "difficulty": "hard",
-    "question": "Regarding television shows and series: What is the name of the fictional regional paper supply company where characters work in 'The Office' (US)? (Ref #117)",
+    "question": "What classic Friends episode features Monica and Rachel losing their spacious apartment to Chandler and Joey in a high-stakes trivia game?",
     "options": [
-      "Dunder Mifflin",
-      "Wernham Hogg",
-      "Initech Corporation",
-      "Sterling Cooper"
+      "'The One with the Embryos'",
+      "'The One with the Prom Video'",
+      "'The One Where Everybody Finds Out'",
+      "'The One with the Blackout'"
     ],
     "correctAnswer": 0,
-    "explanation": "Dunder Mifflin Paper Company's Scranton branch is managed by Michael Scott in the beloved comedy series.",
+    "explanation": "Ross hosts the trivia quiz game, which ends with Rachel guessing that Chandler Bing's job is a 'Transponster!'",
     "tags": [
       "tv-shows",
-      "sitcoms",
+      "iconic-episodes",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "tv-shows-drama-series-0118",
+    "id": "tv-shows-iconic-episodes-0118",
     "category": "TV Shows",
-    "subcategory": "Drama Series",
+    "subcategory": "Iconic Episodes",
     "difficulty": "easy",
-    "question": "Regarding television shows and series: In HBO's 'Game of Thrones', what is the coveted seat of political power in King's Landing called? (Ref #118)",
+    "question": "What romantic Friends episode features the gang watching an old home movie, leading Phoebe to declare 'See? He's her lobster!'?",
     "options": [
-      "The Golden Throne",
-      "The Iron Throne",
-      "The Dragon Throne",
-      "The High Seat of Valyria"
+      "'The One Where Ross and Rachel Take a Break'",
+      "'The One with the Prom Video'",
+      "'The One with the Blackout'",
+      "'The One at the Beach'"
     ],
     "correctAnswer": 1,
-    "explanation": "The Iron Throne was forged from 1,000 swords of Aegon the Conqueror's defeated enemies, heated by dragon breath.",
+    "explanation": "Rachel sees Ross's secret high school devotion and crosses the living room to kiss him for the first time.",
     "tags": [
       "tv-shows",
-      "drama-series",
+      "iconic-episodes",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "tv-shows-tv-history-0119",
+    "id": "tv-shows-iconic-episodes-0119",
     "category": "TV Shows",
-    "subcategory": "TV History",
+    "subcategory": "Iconic Episodes",
     "difficulty": "medium",
-    "question": "Regarding television shows and series: Which mob boss and suburban patriarch is the central protagonist of HBO's landmark series 'The Sopranos'? (Ref #119)",
+    "question": "What iconic Friends episode features Chandler and Monica's secret romance exposed as Phoebe tries to seduce Chandler to break him?",
     "options": [
-      "Silvio Dante",
-      "Paulie Gualtieri",
-      "Tony Soprano",
-      "Christopher Moltisanti"
+      "'The One with all the Kissing'",
+      "'The One with the Routine'",
+      "'The One Where Everybody Finds Out'",
+      "'The One with the Proposal'"
     ],
     "correctAnswer": 2,
-    "explanation": "James Gandolfini portrayed New Jersey mob boss Tony Soprano, navigating organized crime and psychiatry sessions with Dr. Melfi.",
+    "explanation": "Phoebe shouts 'My eyes! My eyes!' upon seeing them through the window, resulting in a game of chicken where 'they don't know that we know they know we know.'",
     "tags": [
       "tv-shows",
-      "tv-history",
+      "iconic-episodes",
       "medium"
     ],
     "active": true
@@ -2503,15 +2503,15 @@
     "category": "TV Shows",
     "subcategory": "Iconic Episodes",
     "difficulty": "hard",
-    "question": "Regarding television shows and series: In Netflix's 'Stranger Things', what eerie alternate dimension coexists beneath the town of Hawkins, Indiana? (Ref #120)",
+    "question": "What celebrated Breaking Bad episode, directed by Rian Johnson in Season 5, depicts the tragic climax in the New Mexico desert where Hank is killed?",
     "options": [
-      "The Netherworld",
-      "The Shadow Realm",
-      "The Dark Dimension",
-      "The Upside Down"
+      "'Fly'",
+      "'Face Off'",
+      "'Felina'",
+      "'Ozymandias'"
     ],
     "correctAnswer": 3,
-    "explanation": "The Upside Down is a dark, decaying parallel dimension inhabited by the Demogorgon and the Mind Flayer.",
+    "explanation": "Frequently cited as the greatest single television episode ever produced, 'Ozymandias' holds a perfect 10/10 rating on IMDb across hundreds of thousands of reviews.",
     "tags": [
       "tv-shows",
       "iconic-episodes",
@@ -2520,64 +2520,64 @@
     "active": true
   },
   {
-    "id": "tv-shows-sitcoms-0121",
+    "id": "tv-shows-iconic-episodes-0121",
     "category": "TV Shows",
-    "subcategory": "Sitcoms",
+    "subcategory": "Iconic Episodes",
     "difficulty": "easy",
-    "question": "Regarding television shows and series: What is the name of the neighborhood coffeehouse where the main characters frequently gather in the sitcom 'Friends'? (Ref #121)",
+    "question": "What Breaking Bad Season 4 finale features Walter White defeating drug kingpin Gus Fring at the Casa Tranquila nursing home?",
     "options": [
-      "Central Perk",
-      "Monk's Diner",
-      "Cafe Nervosa",
-      "The Peach Pit"
+      "'Face Off'",
+      "'Ozymandias'",
+      "'Crawl Space'",
+      "'Full Measure'"
     ],
     "correctAnswer": 0,
-    "explanation": "The six friends in Friends hang out on the orange couch at Central Perk in Greenwich Village, managed by Gunther.",
+    "explanation": "Walt allies with Hector Salamanca and a pipe bomb, ending with the iconic shot of Gus adjusting his tie with half his face blown off.",
     "tags": [
       "tv-shows",
-      "sitcoms",
+      "iconic-episodes",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "tv-shows-drama-series-0122",
+    "id": "tv-shows-iconic-episodes-0122",
     "category": "TV Shows",
-    "subcategory": "Drama Series",
+    "subcategory": "Iconic Episodes",
     "difficulty": "medium",
-    "question": "Regarding television shows and series: In the acclaimed drama series 'Breaking Bad', what high school subject does Walter White initially teach before cooking crystal meth? (Ref #122)",
+    "question": "What controversial Breaking Bad bottle episode, directed by Rian Johnson, takes place entirely inside the underground meth superlab hunting an insect?",
     "options": [
-      "Biology",
-      "Chemistry",
-      "Physics",
-      "Mathematics"
+      "'Ozymandias'",
+      "'Fly'",
+      "'Crawl Space'",
+      "'4 Days Out'"
     ],
     "correctAnswer": 1,
-    "explanation": "Walter White is a brilliant former research chemist teaching high school chemistry in Albuquerque, New Mexico.",
+    "explanation": "Walt's obsessive guilt and sleep-deprived breakdown while chasing a contaminating fly reveals his fractured moral psychology to Jesse.",
     "tags": [
       "tv-shows",
-      "drama-series",
+      "iconic-episodes",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "tv-shows-tv-history-0123",
+    "id": "tv-shows-iconic-episodes-0123",
     "category": "TV Shows",
-    "subcategory": "TV History",
+    "subcategory": "Iconic Episodes",
     "difficulty": "hard",
-    "question": "Regarding television shows and series: What is the name of the fictional regional paper supply company where characters work in 'The Office' (US)? (Ref #123)",
+    "question": "What Breaking Bad Season 4 episode ends with Walter White laughing maniacally in a subterranean crawl space after discovering Skyler gave his cash away?",
     "options": [
-      "Wernham Hogg",
-      "Initech Corporation",
-      "Dunder Mifflin",
-      "Sterling Cooper"
+      "'Face Off'",
+      "'Ozymandias'",
+      "'Crawl Space'",
+      "'Cornered'"
     ],
     "correctAnswer": 2,
-    "explanation": "Dunder Mifflin Paper Company's Scranton branch is managed by Michael Scott in the beloved comedy series.",
+    "explanation": "The camera pulls upward like an open grave while the phone rings and dark cello music swells in one of TV's most terrifying psychological moments.",
     "tags": [
       "tv-shows",
-      "tv-history",
+      "iconic-episodes",
       "hard"
     ],
     "active": true
@@ -2587,15 +2587,15 @@
     "category": "TV Shows",
     "subcategory": "Iconic Episodes",
     "difficulty": "easy",
-    "question": "Regarding television shows and series: In HBO's 'Game of Thrones', what is the coveted seat of political power in King's Landing called? (Ref #124)",
+    "question": "What shocking Season 3 episode of Game of Thrones depicts the betrayal and massacre of Robb Stark, Catelyn Stark, and their army at the Twins?",
     "options": [
-      "The Golden Throne",
-      "The Dragon Throne",
-      "The High Seat of Valyria",
-      "The Iron Throne"
+      "'Baelor'",
+      "'Battle of the Bastards'",
+      "'Hardhome'",
+      "'The Rains of Castamere' (The Red Wedding)"
     ],
     "correctAnswer": 3,
-    "explanation": "The Iron Throne was forged from 1,000 swords of Aegon the Conqueror's defeated enemies, heated by dragon breath.",
+    "explanation": "Walder Frey and Roose Bolton spring a ruthless trap during Edmure Tully's wedding feast, stunning millions of viewers worldwide.",
     "tags": [
       "tv-shows",
       "iconic-episodes",
@@ -2604,64 +2604,64 @@
     "active": true
   },
   {
-    "id": "tv-shows-sitcoms-0125",
+    "id": "tv-shows-iconic-episodes-0125",
     "category": "TV Shows",
-    "subcategory": "Sitcoms",
+    "subcategory": "Iconic Episodes",
     "difficulty": "medium",
-    "question": "Regarding television shows and series: Which mob boss and suburban patriarch is the central protagonist of HBO's landmark series 'The Sopranos'? (Ref #125)",
+    "question": "What epic Season 6 episode of Game of Thrones depicts the clash between Jon Snow and Ramsay Bolton outside Winterfell?",
     "options": [
-      "Tony Soprano",
-      "Silvio Dante",
-      "Paulie Gualtieri",
-      "Christopher Moltisanti"
+      "'Battle of the Bastards'",
+      "'The Winds of Winter'",
+      "'Hardhome'",
+      "'Blackwater'"
     ],
     "correctAnswer": 0,
-    "explanation": "James Gandolfini portrayed New Jersey mob boss Tony Soprano, navigating organized crime and psychiatry sessions with Dr. Melfi.",
+    "explanation": "Directed by Miguel Sapochnik, the episode earned six Emmy Awards for visceral, chaotic combat choreography and cavalry charges.",
     "tags": [
       "tv-shows",
-      "sitcoms",
+      "iconic-episodes",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "tv-shows-drama-series-0126",
+    "id": "tv-shows-iconic-episodes-0126",
     "category": "TV Shows",
-    "subcategory": "Drama Series",
+    "subcategory": "Iconic Episodes",
     "difficulty": "hard",
-    "question": "Regarding television shows and series: In Netflix's 'Stranger Things', what eerie alternate dimension coexists beneath the town of Hawkins, Indiana? (Ref #126)",
+    "question": "What Game of Thrones Season 6 finale opens with a 10-minute piano score ('Light of the Seven') as Cersei Lannister blows up the Great Sept of Baelor?",
     "options": [
-      "The Netherworld",
-      "The Upside Down",
-      "The Shadow Realm",
-      "The Dark Dimension"
+      "'Battle of the Bastards'",
+      "'The Winds of Winter'",
+      "'The Children'",
+      "'Mother's Mercy'"
     ],
     "correctAnswer": 1,
-    "explanation": "The Upside Down is a dark, decaying parallel dimension inhabited by the Demogorgon and the Mind Flayer.",
+    "explanation": "Cersei eliminates her enemies, including the High Sparrow and Margaery Tyrell, with green wildfire, culminating in Tommen's suicide.",
     "tags": [
       "tv-shows",
-      "drama-series",
+      "iconic-episodes",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "tv-shows-tv-history-0127",
+    "id": "tv-shows-iconic-episodes-0127",
     "category": "TV Shows",
-    "subcategory": "TV History",
+    "subcategory": "Iconic Episodes",
     "difficulty": "easy",
-    "question": "Regarding television shows and series: What is the name of the neighborhood coffeehouse where the main characters frequently gather in the sitcom 'Friends'? (Ref #127)",
+    "question": "What Game of Thrones Season 1 episode shocked viewers by executing its perceived main protagonist, honorable Lord Eddard 'Ned' Stark?",
     "options": [
-      "Monk's Diner",
-      "Cafe Nervosa",
-      "Central Perk",
-      "The Peach Pit"
+      "'Winter Is Coming'",
+      "'The Pointy End'",
+      "'Baelor' (Season 1, Episode 9)",
+      "'Fire and Blood'"
     ],
     "correctAnswer": 2,
-    "explanation": "The six friends in Friends hang out on the orange couch at Central Perk in Greenwich Village, managed by Gunther.",
+    "explanation": "King Joffrey ignores the confession plea and orders Ser Ilyn Payne to behead Sean Bean's Ned Stark on the steps of the Great Sept.",
     "tags": [
       "tv-shows",
-      "tv-history",
+      "iconic-episodes",
       "easy"
     ],
     "active": true
@@ -2671,15 +2671,15 @@
     "category": "TV Shows",
     "subcategory": "Iconic Episodes",
     "difficulty": "medium",
-    "question": "Regarding television shows and series: In the acclaimed drama series 'Breaking Bad', what high school subject does Walter White initially teach before cooking crystal meth? (Ref #128)",
+    "question": "What Game of Thrones Season 5 episode features the Night King leading the army of the dead to slaughter a wildling fishing village?",
     "options": [
-      "Biology",
-      "Physics",
-      "Mathematics",
-      "Chemistry"
+      "'The Door'",
+      "'Beyond the Wall'",
+      "'Battle of the Bastards'",
+      "'Hardhome'"
     ],
     "correctAnswer": 3,
-    "explanation": "Walter White is a brilliant former research chemist teaching high school chemistry in Albuquerque, New Mexico.",
+    "explanation": "The silent standoff where the Night King raises his arms on the wooden dock, reanimating thousands of newly slain wildlings as wights, stunned fans.",
     "tags": [
       "tv-shows",
       "iconic-episodes",
@@ -2688,64 +2688,64 @@
     "active": true
   },
   {
-    "id": "tv-shows-sitcoms-0129",
+    "id": "tv-shows-iconic-episodes-0129",
     "category": "TV Shows",
-    "subcategory": "Sitcoms",
+    "subcategory": "Iconic Episodes",
     "difficulty": "hard",
-    "question": "Regarding television shows and series: What is the name of the fictional regional paper supply company where characters work in 'The Office' (US)? (Ref #129)",
+    "question": "What Game of Thrones Season 6 episode reveals the heartbreaking, time-loop origin of the gentle giant Hodor's name?",
     "options": [
-      "Dunder Mifflin",
-      "Wernham Hogg",
-      "Initech Corporation",
-      "Sterling Cooper"
+      "'The Door'",
+      "'Hardhome'",
+      "'Oathkeeper'",
+      "'Book of the Stranger'"
     ],
     "correctAnswer": 0,
-    "explanation": "Dunder Mifflin Paper Company's Scranton branch is managed by Michael Scott in the beloved comedy series.",
+    "explanation": "As wights swarm the cave, Meera shouts 'Hold the door!', which echoes through Bran's greensight into young Wylis' mind in the past.",
     "tags": [
       "tv-shows",
-      "sitcoms",
+      "iconic-episodes",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "tv-shows-drama-series-0130",
+    "id": "tv-shows-iconic-episodes-0130",
     "category": "TV Shows",
-    "subcategory": "Drama Series",
+    "subcategory": "Iconic Episodes",
     "difficulty": "easy",
-    "question": "Regarding television shows and series: In HBO's 'Game of Thrones', what is the coveted seat of political power in King's Landing called? (Ref #130)",
+    "question": "What acclaimed Sopranos episode features Christopher Moltisanti and Paulie Walnuts lost in freezing snowy woods hunting a Russian commando?",
     "options": [
-      "The Golden Throne",
-      "The Iron Throne",
-      "The Dragon Throne",
-      "The High Seat of Valyria"
+      "'College'",
+      "'Pine Barrens'",
+      "'Made in America'",
+      "'Funhouse'"
     ],
     "correctAnswer": 1,
-    "explanation": "The Iron Throne was forged from 1,000 swords of Aegon the Conqueror's defeated enemies, heated by dragon breath.",
+    "explanation": "Directed by Steve Buscemi, Paulie and Christopher survive on ketchup packets and Tic Tacs in an abandoned van in one of TV's funniest dark comedies.",
     "tags": [
       "tv-shows",
-      "drama-series",
+      "iconic-episodes",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "tv-shows-tv-history-0131",
+    "id": "tv-shows-iconic-episodes-0131",
     "category": "TV Shows",
-    "subcategory": "TV History",
+    "subcategory": "Iconic Episodes",
     "difficulty": "medium",
-    "question": "Regarding television shows and series: Which mob boss and suburban patriarch is the central protagonist of HBO's landmark series 'The Sopranos'? (Ref #131)",
+    "question": "What groundbreaking Season 1 Sopranos episode features Tony Soprano touring Maine colleges with his daughter Meadow while hunting down a mob informant?",
     "options": [
-      "Silvio Dante",
-      "Paulie Gualtieri",
-      "Tony Soprano",
-      "Christopher Moltisanti"
+      "'Pine Barrens'",
+      "'I Dream of Jeannie Cusamano'",
+      "'College'",
+      "'Boca'"
     ],
     "correctAnswer": 2,
-    "explanation": "James Gandolfini portrayed New Jersey mob boss Tony Soprano, navigating organized crime and psychiatry sessions with Dr. Melfi.",
+    "explanation": "The episode broke television conventions by showing a charismatic protagonist brutally strangling an informant with wire while on a family trip.",
     "tags": [
       "tv-shows",
-      "tv-history",
+      "iconic-episodes",
       "medium"
     ],
     "active": true
@@ -2755,15 +2755,15 @@
     "category": "TV Shows",
     "subcategory": "Iconic Episodes",
     "difficulty": "hard",
-    "question": "Regarding television shows and series: In Netflix's 'Stranger Things', what eerie alternate dimension coexists beneath the town of Hawkins, Indiana? (Ref #132)",
+    "question": "What polarizing 2007 series finale of The Sopranos ended mid-scene on an abrupt cut to black while Journey's 'Don't Stop Believin'' played?",
     "options": [
-      "The Netherworld",
-      "The Shadow Realm",
-      "The Dark Dimension",
-      "The Upside Down"
+      "'Pine Barrens'",
+      "'Kennedy and Heidi'",
+      "'The Blue Comet'",
+      "'Made in America'"
     ],
     "correctAnswer": 3,
-    "explanation": "The Upside Down is a dark, decaying parallel dimension inhabited by the Demogorgon and the Mind Flayer.",
+    "explanation": "David Chase created television history as Tony looks up at the diner door bell, leaving viewers debating whether Tony was whacked forever.",
     "tags": [
       "tv-shows",
       "iconic-episodes",
@@ -2772,64 +2772,64 @@
     "active": true
   },
   {
-    "id": "tv-shows-sitcoms-0133",
+    "id": "tv-shows-iconic-episodes-0133",
     "category": "TV Shows",
-    "subcategory": "Sitcoms",
+    "subcategory": "Iconic Episodes",
     "difficulty": "easy",
-    "question": "Regarding television shows and series: What is the name of the neighborhood coffeehouse where the main characters frequently gather in the sitcom 'Friends'? (Ref #133)",
+    "question": "What acclaimed Mad Men episode centers on Don Draper and Peggy Olson working all night on the Samsonite campaign around the 1965 Ali-Liston fight?",
     "options": [
-      "Central Perk",
-      "Monk's Diner",
-      "Cafe Nervosa",
-      "The Peach Pit"
+      "'The Suitcase'",
+      "'The Wheel'",
+      "'Waterloo'",
+      "'Shut the Door. Have a Seat.'"
     ],
     "correctAnswer": 0,
-    "explanation": "The six friends in Friends hang out on the orange couch at Central Perk in Greenwich Village, managed by Gunther.",
+    "explanation": "Jon Hamm and Elisabeth Moss delivered a tour-de-force emotional exploration of mentorship, professional ambition, grief, and love.",
     "tags": [
       "tv-shows",
-      "sitcoms",
+      "iconic-episodes",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "tv-shows-drama-series-0134",
+    "id": "tv-shows-iconic-episodes-0134",
     "category": "TV Shows",
-    "subcategory": "Drama Series",
+    "subcategory": "Iconic Episodes",
     "difficulty": "medium",
-    "question": "Regarding television shows and series: In the acclaimed drama series 'Breaking Bad', what high school subject does Walter White initially teach before cooking crystal meth? (Ref #134)",
+    "question": "What Mad Men Season 1 finale features Don Draper delivering an emotional slide-projector pitch for the Kodak Carousel?",
     "options": [
-      "Biology",
-      "Chemistry",
-      "Physics",
-      "Mathematics"
+      "'The Suitcase'",
+      "'The Wheel'",
+      "'Nixon vs. Kennedy'",
+      "'Smoke Gets in Your Eyes'"
     ],
     "correctAnswer": 1,
-    "explanation": "Walter White is a brilliant former research chemist teaching high school chemistry in Albuquerque, New Mexico.",
+    "explanation": "Draper explains that in Greek, nostalgia means 'the pain from an old wound,' projecting photos of his own family in a brilliant sales presentation.",
     "tags": [
       "tv-shows",
-      "drama-series",
+      "iconic-episodes",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "tv-shows-tv-history-0135",
+    "id": "tv-shows-iconic-episodes-0135",
     "category": "TV Shows",
-    "subcategory": "TV History",
+    "subcategory": "Iconic Episodes",
     "difficulty": "hard",
-    "question": "Regarding television shows and series: What is the name of the fictional regional paper supply company where characters work in 'The Office' (US)? (Ref #135)",
+    "question": "What critically acclaimed The Wire episode depicts detectives Bunk Moreland and Jimmy McNulty re-investigating an apartment crime scene using only variations of one four-letter expletive?",
     "options": [
-      "Wernham Hogg",
-      "Initech Corporation",
-      "Dunder Mifflin",
-      "Sterling Cooper"
+      "'The Target'",
+      "'Middle Ground'",
+      "'Old Cases' (Season 1, Episode 4)",
+      "'All Due Respect'"
     ],
     "correctAnswer": 2,
-    "explanation": "Dunder Mifflin Paper Company's Scranton branch is managed by Michael Scott in the beloved comedy series.",
+    "explanation": "The four-minute scene demonstrates exceptional non-verbal detective methodology, ballistics path tracing, and dark police realism.",
     "tags": [
       "tv-shows",
-      "tv-history",
+      "iconic-episodes",
       "hard"
     ],
     "active": true
@@ -2839,15 +2839,15 @@
     "category": "TV Shows",
     "subcategory": "Iconic Episodes",
     "difficulty": "easy",
-    "question": "Regarding television shows and series: In HBO's 'Game of Thrones', what is the coveted seat of political power in King's Landing called? (Ref #136)",
+    "question": "What shocking Season 3 episode of The Wire depicts the downfall and assassination of intellectual Baltimore drug lord Stringer Bell?",
     "options": [
-      "The Golden Throne",
-      "The Dragon Throne",
-      "The High Seat of Valyria",
-      "The Iron Throne"
+      "'Mission Accomplished'",
+      "'Port in a Storm'",
+      "'Final Grades'",
+      "'Middle Ground'"
     ],
     "correctAnswer": 3,
-    "explanation": "The Iron Throne was forged from 1,000 swords of Aegon the Conqueror's defeated enemies, heated by dragon breath.",
+    "explanation": "Betrayed by Avon Barksdale, Stringer Bell (Idris Elba) is trapped in his development warehouse and executed by Omar Little and Brother Mouzone.",
     "tags": [
       "tv-shows",
       "iconic-episodes",
@@ -2856,64 +2856,64 @@
     "active": true
   },
   {
-    "id": "tv-shows-sitcoms-0137",
+    "id": "tv-shows-iconic-episodes-0137",
     "category": "TV Shows",
-    "subcategory": "Sitcoms",
+    "subcategory": "Iconic Episodes",
     "difficulty": "medium",
-    "question": "Regarding television shows and series: Which mob boss and suburban patriarch is the central protagonist of HBO's landmark series 'The Sopranos'? (Ref #137)",
+    "question": "What critically acclaimed bottle episode of The West Wing, written by Aaron Sorkin after 9/11, depicts the White House on crash lockdown discussing terrorism with students?",
     "options": [
-      "Tony Soprano",
-      "Silvio Dante",
-      "Paulie Gualtieri",
-      "Christopher Moltisanti"
+      "'Isaac and Ishmael'",
+      "'Two Cathedrals'",
+      "'In the Shadow of Two Gunmen'",
+      "'Noël'"
     ],
     "correctAnswer": 0,
-    "explanation": "James Gandolfini portrayed New Jersey mob boss Tony Soprano, navigating organized crime and psychiatry sessions with Dr. Melfi.",
+    "explanation": "Written and filmed in just a few weeks, the non-canonical standalone episode addressed the complex roots of religious extremism and tolerance.",
     "tags": [
       "tv-shows",
-      "sitcoms",
+      "iconic-episodes",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "tv-shows-drama-series-0138",
+    "id": "tv-shows-iconic-episodes-0138",
     "category": "TV Shows",
-    "subcategory": "Drama Series",
+    "subcategory": "Iconic Episodes",
     "difficulty": "hard",
-    "question": "Regarding television shows and series: In Netflix's 'Stranger Things', what eerie alternate dimension coexists beneath the town of Hawkins, Indiana? (Ref #138)",
+    "question": "What universally acclaimed The West Wing Season 2 finale features President Bartlet grieving his secretary Mrs. Landingham and cursing God in Latin at the National Cathedral?",
     "options": [
-      "The Netherworld",
-      "The Upside Down",
-      "The Shadow Realm",
-      "The Dark Dimension"
+      "'In the Shadow of Two Gunmen'",
+      "'Two Cathedrals'",
+      "'Isaac and Ishmael'",
+      "'Posse Comitatus'"
     ],
     "correctAnswer": 1,
-    "explanation": "The Upside Down is a dark, decaying parallel dimension inhabited by the Demogorgon and the Mind Flayer.",
+    "explanation": "Bartlet stands in the cathedral, crushes a cigarette on the floor, and steps to the podium to signal he will run for re-election to Dire Straits' 'Brothers in Arms'.",
     "tags": [
       "tv-shows",
-      "drama-series",
+      "iconic-episodes",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "tv-shows-tv-history-0139",
+    "id": "tv-shows-iconic-episodes-0139",
     "category": "TV Shows",
-    "subcategory": "TV History",
+    "subcategory": "Iconic Episodes",
     "difficulty": "easy",
-    "question": "Regarding television shows and series: What is the name of the neighborhood coffeehouse where the main characters frequently gather in the sitcom 'Friends'? (Ref #139)",
+    "question": "What Lost Season 4 episode, widely considered the series' crowning achievement, follows Desmond Hume calling Penny across time shifts?",
     "options": [
-      "Monk's Diner",
-      "Cafe Nervosa",
-      "Central Perk",
-      "The Peach Pit"
+      "'Through the Looking Glass'",
+      "'Pilot'",
+      "'The Constant'",
+      "'Walkabout'"
     ],
     "correctAnswer": 2,
-    "explanation": "The six friends in Friends hang out on the orange couch at Central Perk in Greenwich Village, managed by Gunther.",
+    "explanation": "Desmond's consciousness bounces between 1996 and 2004, anchored by Daniel Faraday's advice to find his constant: Penny Widmore on Christmas Eve.",
     "tags": [
       "tv-shows",
-      "tv-history",
+      "iconic-episodes",
       "easy"
     ],
     "active": true
@@ -2923,15 +2923,15 @@
     "category": "TV Shows",
     "subcategory": "Iconic Episodes",
     "difficulty": "medium",
-    "question": "Regarding television shows and series: In the acclaimed drama series 'Breaking Bad', what high school subject does Walter White initially teach before cooking crystal meth? (Ref #140)",
+    "question": "What Lost Season 3 finale delivers television's most famous plot twist when Jack's apparent flashbacks are revealed to be flash-forwards?",
     "options": [
-      "Biology",
-      "Physics",
-      "Mathematics",
-      "Chemistry"
+      "'The Constant'",
+      "'Live Together, Die Alone'",
+      "'Exodus'",
+      "'Through the Looking Glass'"
     ],
     "correctAnswer": 3,
-    "explanation": "Walter White is a brilliant former research chemist teaching high school chemistry in Albuquerque, New Mexico.",
+    "explanation": "A bearded, broken Jack Shephard screams to Kate on an airport street: 'We have to go back, Kate! We have to go back!'",
     "tags": [
       "tv-shows",
       "iconic-episodes",
@@ -2940,64 +2940,64 @@
     "active": true
   },
   {
-    "id": "tv-shows-sitcoms-0141",
+    "id": "tv-shows-iconic-episodes-0141",
     "category": "TV Shows",
-    "subcategory": "Sitcoms",
+    "subcategory": "Iconic Episodes",
     "difficulty": "hard",
-    "question": "Regarding television shows and series: What is the name of the fictional regional paper supply company where characters work in 'The Office' (US)? (Ref #141)",
+    "question": "What Lost Season 1 episode delivers the shocking revelation that wheelchair-bound John Locke was miraculously healed upon landing on the island?",
     "options": [
-      "Dunder Mifflin",
-      "Wernham Hogg",
-      "Initech Corporation",
-      "Sterling Cooper"
+      "'Walkabout' (Season 1, Episode 4)",
+      "'Pilot'",
+      "'The Moth'",
+      "'White Rabbit'"
     ],
     "correctAnswer": 0,
-    "explanation": "Dunder Mifflin Paper Company's Scranton branch is managed by Michael Scott in the beloved comedy series.",
+    "explanation": "The emotional reveal transformed Locke into the island's central man of faith, punctuated by Michael Giacchino's 'Life and Death' theme.",
     "tags": [
       "tv-shows",
-      "sitcoms",
+      "iconic-episodes",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "tv-shows-drama-series-0142",
+    "id": "tv-shows-iconic-episodes-0142",
     "category": "TV Shows",
-    "subcategory": "Drama Series",
+    "subcategory": "Iconic Episodes",
     "difficulty": "easy",
-    "question": "Regarding television shows and series: In HBO's 'Game of Thrones', what is the coveted seat of political power in King's Landing called? (Ref #142)",
+    "question": "What two-part episode of The Office (US) features Michael Scott hosting an agonizingly awkward, hostile dinner party with Jan Levinson?",
     "options": [
-      "The Golden Throne",
-      "The Iron Throne",
-      "The Dragon Throne",
-      "The High Seat of Valyria"
+      "'Casino Night'",
+      "'Dinner Party'",
+      "'Stress Relief'",
+      "'Threat Level Midnight'"
     ],
     "correctAnswer": 1,
-    "explanation": "The Iron Throne was forged from 1,000 swords of Aegon the Conqueror's defeated enemies, heated by dragon breath.",
+    "explanation": "From Michael's tiny plasma TV to Jan's candle room and playing Hunter's CD, it is celebrated as the pinnacle of cringe comedy.",
     "tags": [
       "tv-shows",
-      "drama-series",
+      "iconic-episodes",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "tv-shows-tv-history-0143",
+    "id": "tv-shows-iconic-episodes-0143",
     "category": "TV Shows",
-    "subcategory": "TV History",
+    "subcategory": "Iconic Episodes",
     "difficulty": "medium",
-    "question": "Regarding television shows and series: Which mob boss and suburban patriarch is the central protagonist of HBO's landmark series 'The Sopranos'? (Ref #143)",
+    "question": "What high-energy episode of The Office (US) opens with Dwight Schrute staging a chaotic, locked-door fire drill that causes Stanley to have a heart attack?",
     "options": [
-      "Silvio Dante",
-      "Paulie Gualtieri",
-      "Tony Soprano",
-      "Christopher Moltisanti"
+      "'Dinner Party'",
+      "'Fun Run'",
+      "'Stress Relief'",
+      "'The Injury'"
     ],
     "correctAnswer": 2,
-    "explanation": "James Gandolfini portrayed New Jersey mob boss Tony Soprano, navigating organized crime and psychiatry sessions with Dr. Melfi.",
+    "explanation": "Aired after the 2009 Super Bowl, the opening scene features cat-tossing, photocopier battering rams, and total Dunder Mifflin panic.",
     "tags": [
       "tv-shows",
-      "tv-history",
+      "iconic-episodes",
       "medium"
     ],
     "active": true
@@ -3007,15 +3007,15 @@
     "category": "TV Shows",
     "subcategory": "Iconic Episodes",
     "difficulty": "hard",
-    "question": "Regarding television shows and series: In Netflix's 'Stranger Things', what eerie alternate dimension coexists beneath the town of Hawkins, Indiana? (Ref #144)",
+    "question": "What beloved Season 2 finale of The Office (US) features Jim Halpert finally confessing his love to Pam Beesly and kissing her in the dark office?",
     "options": [
-      "The Netherworld",
-      "The Shadow Realm",
-      "The Dark Dimension",
-      "The Upside Down"
+      "'The Dundies'",
+      "'Booze Cruise'",
+      "'The Job'",
+      "'Casino Night'"
     ],
     "correctAnswer": 3,
-    "explanation": "The Upside Down is a dark, decaying parallel dimension inhabited by the Demogorgon and the Mind Flayer.",
+    "explanation": "John Krasinski and Jenna Fischer delivered the long-awaited romantic climax of their will-they-won't-they relationship.",
     "tags": [
       "tv-shows",
       "iconic-episodes",
@@ -3024,64 +3024,64 @@
     "active": true
   },
   {
-    "id": "tv-shows-sitcoms-0145",
+    "id": "tv-shows-iconic-episodes-0145",
     "category": "TV Shows",
-    "subcategory": "Sitcoms",
+    "subcategory": "Iconic Episodes",
     "difficulty": "easy",
-    "question": "Regarding television shows and series: What is the name of the neighborhood coffeehouse where the main characters frequently gather in the sitcom 'Friends'? (Ref #145)",
+    "question": "What acclaimed Season 3 episode of Succession depicts the sudden, shocking death of media patriarch Logan Roy aboard his private jet?",
     "options": [
-      "Central Perk",
-      "Monk's Diner",
-      "Cafe Nervosa",
-      "The Peach Pit"
+      "'Connor's Wedding'",
+      "'This Is Not for Tears'",
+      "'All the Bells Say'",
+      "'With Open Eyes'"
     ],
     "correctAnswer": 0,
-    "explanation": "The six friends in Friends hang out on the orange couch at Central Perk in Greenwich Village, managed by Gunther.",
+    "explanation": "Shot in a continuous 27-minute take, the Roy siblings receive the devastating phone call while attending Connor's yacht wedding.",
     "tags": [
       "tv-shows",
-      "sitcoms",
+      "iconic-episodes",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "tv-shows-drama-series-0146",
+    "id": "tv-shows-iconic-episodes-0146",
     "category": "TV Shows",
-    "subcategory": "Drama Series",
+    "subcategory": "Iconic Episodes",
     "difficulty": "medium",
-    "question": "Regarding television shows and series: In the acclaimed drama series 'Breaking Bad', what high school subject does Walter White initially teach before cooking crystal meth? (Ref #146)",
+    "question": "What Succession Season 2 finale ends with Kendall Roy betraying his father Logan at a live press conference instead of taking the corporate fall?",
     "options": [
-      "Biology",
-      "Chemistry",
-      "Physics",
-      "Mathematics"
+      "'Chiantishire'",
+      "'This Is Not for Tears'",
+      "'Tern Haven'",
+      "'Nobody Is Ever Missing'"
     ],
     "correctAnswer": 1,
-    "explanation": "Walter White is a brilliant former research chemist teaching high school chemistry in Albuquerque, New Mexico.",
+    "explanation": "Logan watches his television with a faint prideful smile as Kendall declares: 'He is a corrupt presence, and a malignant presence.'",
     "tags": [
       "tv-shows",
-      "drama-series",
+      "iconic-episodes",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "tv-shows-tv-history-0147",
+    "id": "tv-shows-iconic-episodes-0147",
     "category": "TV Shows",
-    "subcategory": "TV History",
+    "subcategory": "Iconic Episodes",
     "difficulty": "hard",
-    "question": "Regarding television shows and series: What is the name of the fictional regional paper supply company where characters work in 'The Office' (US)? (Ref #147)",
+    "question": "What critically acclaimed Season 2 episode of The Bear depicts a chaotic, agonizing Christmas family dinner featuring Jamie Lee Curtis and Bob Odenkirk?",
     "options": [
-      "Wernham Hogg",
-      "Initech Corporation",
-      "Dunder Mifflin",
-      "Sterling Cooper"
+      "'Forks'",
+      "'Review'",
+      "'Fishes'",
+      "'Braciole'"
     ],
     "correctAnswer": 2,
-    "explanation": "Dunder Mifflin Paper Company's Scranton branch is managed by Michael Scott in the beloved comedy series.",
+    "explanation": "Anxiety mounts over seven fishes as Carmy, Sugar, and Mikey navigate their alcoholic mother's manic breakdown, culminating in a car driven through the wall.",
     "tags": [
       "tv-shows",
-      "tv-history",
+      "iconic-episodes",
       "hard"
     ],
     "active": true
@@ -3091,15 +3091,15 @@
     "category": "TV Shows",
     "subcategory": "Iconic Episodes",
     "difficulty": "easy",
-    "question": "Regarding television shows and series: In HBO's 'Game of Thrones', what is the coveted seat of political power in King's Landing called? (Ref #148)",
+    "question": "What uplifting Season 2 episode of The Bear follows Richie Jerimovich (Ebon Moss-Bachrach) finding purpose and self-respect staging at an elite fine-dining restaurant?",
     "options": [
-      "The Golden Throne",
-      "The Dragon Throne",
-      "The High Seat of Valyria",
-      "The Iron Throne"
+      "'Fishes'",
+      "'Review'",
+      "'Sundae'",
+      "'Forks'"
     ],
     "correctAnswer": 3,
-    "explanation": "The Iron Throne was forged from 1,000 swords of Aegon the Conqueror's defeated enemies, heated by dragon breath.",
+    "explanation": "Richie discovers that cleaning forks and hospital hospitality matter, triumphantly singing along to Taylor Swift's 'Love Story' in his car.",
     "tags": [
       "tv-shows",
       "iconic-episodes",
@@ -3108,43 +3108,43 @@
     "active": true
   },
   {
-    "id": "tv-shows-sitcoms-0149",
+    "id": "tv-shows-iconic-episodes-0149",
     "category": "TV Shows",
-    "subcategory": "Sitcoms",
+    "subcategory": "Iconic Episodes",
     "difficulty": "medium",
-    "question": "Regarding television shows and series: Which mob boss and suburban patriarch is the central protagonist of HBO's landmark series 'The Sopranos'? (Ref #149)",
+    "question": "What gripping Season 1 episode of The Bear was filmed entirely in an unbroken 18-minute single take during a chaotic lunch rush?",
     "options": [
-      "Tony Soprano",
-      "Silvio Dante",
-      "Paulie Gualtieri",
-      "Christopher Moltisanti"
+      "'Review' (Season 1, Episode 7)",
+      "'Braciole'",
+      "'Dogs'",
+      "'Hands'"
     ],
     "correctAnswer": 0,
-    "explanation": "James Gandolfini portrayed New Jersey mob boss Tony Soprano, navigating organized crime and psychiatry sessions with Dr. Melfi.",
+    "explanation": "A barrage of to-go machine orders triggers screaming panic, leading to Sydney accidentally stabbing Richie and walking out.",
     "tags": [
       "tv-shows",
-      "sitcoms",
+      "iconic-episodes",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "tv-shows-drama-series-0150",
+    "id": "tv-shows-iconic-episodes-0150",
     "category": "TV Shows",
-    "subcategory": "Drama Series",
+    "subcategory": "Iconic Episodes",
     "difficulty": "hard",
-    "question": "Regarding television shows and series: In Netflix's 'Stranger Things', what eerie alternate dimension coexists beneath the town of Hawkins, Indiana? (Ref #150)",
+    "question": "What heart-wrenching third episode of HBO's The Last of Us dramatized the 20-year romance of survivalists Bill and Frank?",
     "options": [
-      "The Netherworld",
-      "The Upside Down",
-      "The Shadow Realm",
-      "The Dark Dimension"
+      "'Left Behind'",
+      "'Long, Long Time'",
+      "'When You're Lost in the Darkness'",
+      "'Look for the Light'"
     ],
     "correctAnswer": 1,
-    "explanation": "The Upside Down is a dark, decaying parallel dimension inhabited by the Demogorgon and the Mind Flayer.",
+    "explanation": "Nick Offerman and Murray Bartlett delivered widely praised, Emmy-winning performances finding human love and dignity amidst an apocalypse.",
     "tags": [
       "tv-shows",
-      "drama-series",
+      "iconic-episodes",
       "hard"
     ],
     "active": true

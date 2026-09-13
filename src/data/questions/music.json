@@ -4,15 +4,15 @@
     "category": "Music",
     "subcategory": "Rock & Pop",
     "difficulty": "easy",
-    "question": "Music theory and history: What is the standard pitch tuning from lowest pitch to highest pitch on a 6-string acoustic or electric guitar? (Ref #1)",
+    "question": "What 1975 epic rock single by Queen, written by Freddie Mercury, features an operatic middle section with Galileo and Scaramouche?",
     "options": [
-      "E - A - D - G - B - E",
-      "D - G - C - F - A - D",
-      "C - E - G - B - D - F",
-      "E - B - G - D - A - E"
+      "Bohemian Rhapsody",
+      "Somebody to Love",
+      "We Are the Champions",
+      "Killer Queen"
     ],
     "correctAnswer": 0,
-    "explanation": "Standard guitar tuning from the 6th string to the 1st string is E2 - A2 - D3 - G3 - B3 - E4.",
+    "explanation": "Defying record label skepticism over its six-minute runtime, it topped UK charts twice and remains one of the most celebrated rock anthems in history.",
     "tags": [
       "music",
       "rock-pop",
@@ -21,64 +21,64 @@
     "active": true
   },
   {
-    "id": "music-music-theory-0002",
+    "id": "music-rock-pop-0002",
     "category": "Music",
-    "subcategory": "Music Theory",
+    "subcategory": "Rock & Pop",
     "difficulty": "medium",
-    "question": "Music theory and history: Which classical music composer completed his monumental Ninth Symphony (including the 'Ode to Joy') while completely deaf? (Ref #2)",
+    "question": "What 1971 classic rock ballad by Led Zeppelin from their untitled fourth album features Jimmy Page's famous guitar solo and Robert Plant's vocals?",
     "options": [
-      "Wolfgang Amadeus Mozart",
-      "Ludwig van Beethoven",
-      "Johann Sebastian Bach",
-      "Franz Schubert"
+      "Kashmir",
+      "Stairway to Heaven",
+      "Whole Lotta Love",
+      "Black Dog"
     ],
     "correctAnswer": 1,
-    "explanation": "Beethoven composed his 9th Symphony between 1822 and 1824 despite profound hearing loss, conducting the premiere in Vienna.",
+    "explanation": "Building from acoustic folk recorders to heavy hard rock, it became the most requested FM radio song of the 1970s.",
     "tags": [
       "music",
-      "music-theory",
+      "rock-pop",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "music-classical-masters-0003",
+    "id": "music-rock-pop-0003",
     "category": "Music",
-    "subcategory": "Classical Masters",
+    "subcategory": "Rock & Pop",
     "difficulty": "hard",
-    "question": "Music theory and history: What Italian musical tempo term instructs musicians to perform in a quick, lively, and brisk tempo? (Ref #3)",
+    "question": "What 1971 acoustic ballad by John Lennon imagines a world without borders, religions, or material possessions living in peace?",
     "options": [
-      "Adagio (slow and stately)",
-      "Largo (broad and dignified)",
-      "Allegro",
-      "Andante (walking pace)"
+      "Give Peace a Chance",
+      "Working Class Hero",
+      "Imagine",
+      "Mind Games"
     ],
     "correctAnswer": 2,
-    "explanation": "Allegro means cheerful or brisk in Italian, indicating a tempo typically between 120 and 156 beats per minute.",
+    "explanation": "Co-produced with Phil Spector, Lennon's gentle piano chords became an enduring global peace anthem.",
     "tags": [
       "music",
-      "classical-masters",
+      "rock-pop",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "music-musical-instruments-0004",
+    "id": "music-rock-pop-0004",
     "category": "Music",
-    "subcategory": "Musical Instruments",
+    "subcategory": "Rock & Pop",
     "difficulty": "easy",
-    "question": "Music theory and history: Which musical clef, wrapping around the second line of the musical staff, is also known as the G clef? (Ref #4)",
+    "question": "What British rock band released the landmark 1973 conceptual album The Dark Side of the Moon, which stayed on the Billboard charts for 950+ weeks?",
     "options": [
-      "Bass Clef (F clef)",
-      "Alto Clef",
-      "Tenor Clef",
-      "Treble Clef"
+      "Led Zeppelin",
+      "The Who",
+      "Yes",
+      "Pink Floyd"
     ],
     "correctAnswer": 3,
-    "explanation": "The treble clef spirals around the G line above middle C, establishing the pitch reference for high-register instruments.",
+    "explanation": "Engineered by Alan Parsons at Abbey Road, it explored greed, mental illness, and mortality with synchronized heartbeat and clock loops.",
     "tags": [
       "music",
-      "musical-instruments",
+      "rock-pop",
       "easy"
     ],
     "active": true
@@ -88,15 +88,15 @@
     "category": "Music",
     "subcategory": "Rock & Pop",
     "difficulty": "medium",
-    "question": "Music theory and history: Which English rock band from Liverpool featured members John Lennon, Paul McCartney, George Harrison, and Ringo Starr? (Ref #5)",
+    "question": "What 1982 pop anthem by Michael Jackson features a legendary electric guitar solo recorded for free by Eddie Van Halen?",
     "options": [
-      "The Beatles",
-      "The Rolling Stones",
-      "The Who",
-      "Led Zeppelin"
+      "Beat It",
+      "Billie Jean",
+      "Thriller",
+      "Bad"
     ],
     "correctAnswer": 0,
-    "explanation": "The Beatles formed in Liverpool in 1960 and became the most critically acclaimed and commercially successful band in history.",
+    "explanation": "Jackson united R&B dance with heavy metal guitar, winning the Grammy for Record of the Year alongside its gang-truce music video.",
     "tags": [
       "music",
       "rock-pop",
@@ -105,64 +105,64 @@
     "active": true
   },
   {
-    "id": "music-music-theory-0006",
+    "id": "music-rock-pop-0006",
     "category": "Music",
-    "subcategory": "Music Theory",
+    "subcategory": "Rock & Pop",
     "difficulty": "hard",
-    "question": "Music theory and history: What is the standard pitch tuning from lowest pitch to highest pitch on a 6-string acoustic or electric guitar? (Ref #6)",
+    "question": "What 1983 Michael Jackson hit single popularized the world-famous Moonwalk dance during the Motown 25 television special?",
     "options": [
-      "D - G - C - F - A - D",
-      "E - A - D - G - B - E",
-      "C - E - G - B - D - F",
-      "E - B - G - D - A - E"
+      "Beat It",
+      "Billie Jean",
+      "Smooth Criminal",
+      "Wanna Be Startin' Somethin'"
     ],
     "correctAnswer": 1,
-    "explanation": "Standard guitar tuning from the 6th string to the 1st string is E2 - A2 - D3 - G3 - B3 - E4.",
+    "explanation": "Jackson's iconic bassline and fedora hat dance routine on May 16, 1983, became a defining television moment in pop history.",
     "tags": [
       "music",
-      "music-theory",
+      "rock-pop",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "music-classical-masters-0007",
+    "id": "music-rock-pop-0007",
     "category": "Music",
-    "subcategory": "Classical Masters",
+    "subcategory": "Rock & Pop",
     "difficulty": "easy",
-    "question": "Music theory and history: Which classical music composer completed his monumental Ninth Symphony (including the 'Ode to Joy') while completely deaf? (Ref #7)",
+    "question": "What 1977 title track by the Eagles tells the eerie story of a traveler trapped in a lavish desert luxury hotel where 'you can check out any time you like, but you can never leave'?",
     "options": [
-      "Wolfgang Amadeus Mozart",
-      "Johann Sebastian Bach",
-      "Ludwig van Beethoven",
-      "Franz Schubert"
+      "Take It Easy",
+      "Desperado",
+      "Hotel California",
+      "Life in the Fast Lane"
     ],
     "correctAnswer": 2,
-    "explanation": "Beethoven composed his 9th Symphony between 1822 and 1824 despite profound hearing loss, conducting the premiere in Vienna.",
+    "explanation": "Featuring Don Felder and Joe Walsh's dueling guitar harmony solos, it won the Grammy Award for Record of the Year.",
     "tags": [
       "music",
-      "classical-masters",
+      "rock-pop",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "music-musical-instruments-0008",
+    "id": "music-rock-pop-0008",
     "category": "Music",
-    "subcategory": "Musical Instruments",
+    "subcategory": "Rock & Pop",
     "difficulty": "medium",
-    "question": "Music theory and history: What Italian musical tempo term instructs musicians to perform in a quick, lively, and brisk tempo? (Ref #8)",
+    "question": "What 1984 synth-pop dance hit by Madonna established her as a global fashion and cultural icon, accompanied by a gondola Venice music video?",
     "options": [
-      "Adagio (slow and stately)",
-      "Largo (broad and dignified)",
-      "Andante (walking pace)",
-      "Allegro"
+      "Material Girl",
+      "Holiday",
+      "Vogue",
+      "Like a Virgin"
     ],
     "correctAnswer": 3,
-    "explanation": "Allegro means cheerful or brisk in Italian, indicating a tempo typically between 120 and 156 beats per minute.",
+    "explanation": "Produced by Nile Rodgers, Madonna performed the hit in a bridal gown at the inaugural 1984 MTV Video Music Awards.",
     "tags": [
       "music",
-      "musical-instruments",
+      "rock-pop",
       "medium"
     ],
     "active": true
@@ -172,15 +172,15 @@
     "category": "Music",
     "subcategory": "Rock & Pop",
     "difficulty": "hard",
-    "question": "Music theory and history: Which musical clef, wrapping around the second line of the musical staff, is also known as the G clef? (Ref #9)",
+    "question": "What 1984 power ballad by Prince from his semi-autobiographical rock film features an extended crying guitar solo in the rain?",
     "options": [
-      "Treble Clef",
-      "Bass Clef (F clef)",
-      "Alto Clef",
-      "Tenor Clef"
+      "Purple Rain",
+      "When Doves Cry",
+      "1999",
+      "Little Red Corvette"
     ],
     "correctAnswer": 0,
-    "explanation": "The treble clef spirals around the G line above middle C, establishing the pitch reference for high-register instruments.",
+    "explanation": "Recorded live at Minneapolis's First Avenue club, it won the Academy Award for Best Original Song Score.",
     "tags": [
       "music",
       "rock-pop",
@@ -189,64 +189,64 @@
     "active": true
   },
   {
-    "id": "music-music-theory-0010",
+    "id": "music-rock-pop-0010",
     "category": "Music",
-    "subcategory": "Music Theory",
+    "subcategory": "Rock & Pop",
     "difficulty": "easy",
-    "question": "Music theory and history: Which English rock band from Liverpool featured members John Lennon, Paul McCartney, George Harrison, and Ringo Starr? (Ref #10)",
+    "question": "What 1991 grunge anthem by Nirvana, with its four-chord intro and explosive chorus, launched alternative rock into mainstream global youth culture?",
     "options": [
-      "The Rolling Stones",
-      "The Beatles",
-      "The Who",
-      "Led Zeppelin"
+      "Come as You Are",
+      "Smells Like Teen Spirit",
+      "Lithium",
+      "Heart-Shaped Box"
     ],
     "correctAnswer": 1,
-    "explanation": "The Beatles formed in Liverpool in 1960 and became the most critically acclaimed and commercially successful band in history.",
+    "explanation": "Directed by Samuel Bayer with a chaotic high school pep rally, the video broke 1980s hair metal and reshaped 1990s music.",
     "tags": [
       "music",
-      "music-theory",
+      "rock-pop",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "music-classical-masters-0011",
+    "id": "music-rock-pop-0011",
     "category": "Music",
-    "subcategory": "Classical Masters",
+    "subcategory": "Rock & Pop",
     "difficulty": "medium",
-    "question": "Music theory and history: What is the standard pitch tuning from lowest pitch to highest pitch on a 6-string acoustic or electric guitar? (Ref #11)",
+    "question": "What 1991 rock ballad by Guns N' Roses, running nearly nine minutes with an iconic piano intro and desert church video, was written by Axl Rose?",
     "options": [
-      "D - G - C - F - A - D",
-      "C - E - G - B - D - F",
-      "E - A - D - G - B - E",
-      "E - B - G - D - A - E"
+      "Sweet Child O' Mine",
+      "Paradise City",
+      "November Rain",
+      "Patience"
     ],
     "correctAnswer": 2,
-    "explanation": "Standard guitar tuning from the 6th string to the 1st string is E2 - A2 - D3 - G3 - B3 - E4.",
+    "explanation": "Slash's guitar solo outside the windswept desert church helped make it the first 1990s music video to reach one billion YouTube views.",
     "tags": [
       "music",
-      "classical-masters",
+      "rock-pop",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "music-musical-instruments-0012",
+    "id": "music-rock-pop-0012",
     "category": "Music",
-    "subcategory": "Musical Instruments",
+    "subcategory": "Rock & Pop",
     "difficulty": "hard",
-    "question": "Music theory and history: Which classical music composer completed his monumental Ninth Symphony (including the 'Ode to Joy') while completely deaf? (Ref #12)",
+    "question": "What 1987 debut single by Guns N' Roses features Slash's iconic circular guitar riff and was written for Axl Rose's girlfriend Erin Everly?",
     "options": [
-      "Wolfgang Amadeus Mozart",
-      "Johann Sebastian Bach",
-      "Franz Schubert",
-      "Ludwig van Beethoven"
+      "Welcome to the Jungle",
+      "Paradise City",
+      "Patience",
+      "Sweet Child O' Mine"
     ],
     "correctAnswer": 3,
-    "explanation": "Beethoven composed his 9th Symphony between 1822 and 1824 despite profound hearing loss, conducting the premiere in Vienna.",
+    "explanation": "It became the band's only number-one single on the US Billboard Hot 100, driving Appetite for Destruction to diamond sales.",
     "tags": [
       "music",
-      "musical-instruments",
+      "rock-pop",
       "hard"
     ],
     "active": true
@@ -256,15 +256,15 @@
     "category": "Music",
     "subcategory": "Rock & Pop",
     "difficulty": "easy",
-    "question": "Music theory and history: What Italian musical tempo term instructs musicians to perform in a quick, lively, and brisk tempo? (Ref #13)",
+    "question": "What 1994 punk rock album by Green Day featured hits like 'Basket Case' and 'When I Come Around', reviving American pop-punk?",
     "options": [
-      "Allegro",
-      "Adagio (slow and stately)",
-      "Largo (broad and dignified)",
-      "Andante (walking pace)"
+      "Dookie",
+      "American Idiot",
+      "Insomniac",
+      "Nimrod"
     ],
     "correctAnswer": 0,
-    "explanation": "Allegro means cheerful or brisk in Italian, indicating a tempo typically between 120 and 156 beats per minute.",
+    "explanation": "Selling over 20 million copies worldwide, Dookie won the Grammy for Best Alternative Music Album.",
     "tags": [
       "music",
       "rock-pop",
@@ -273,64 +273,64 @@
     "active": true
   },
   {
-    "id": "music-music-theory-0014",
+    "id": "music-rock-pop-0014",
     "category": "Music",
-    "subcategory": "Music Theory",
+    "subcategory": "Rock & Pop",
     "difficulty": "medium",
-    "question": "Music theory and history: Which musical clef, wrapping around the second line of the musical staff, is also known as the G clef? (Ref #14)",
+    "question": "What 2004 politically charged punk rock opera concept album by Green Day follows the disillusioned anti-hero 'Jesus of Suburbia'?",
     "options": [
-      "Bass Clef (F clef)",
-      "Treble Clef",
-      "Alto Clef",
-      "Tenor Clef"
+      "Dookie",
+      "American Idiot",
+      "21st Century Breakdown",
+      "Warning"
     ],
     "correctAnswer": 1,
-    "explanation": "The treble clef spirals around the G line above middle C, establishing the pitch reference for high-register instruments.",
+    "explanation": "Featuring 'Boulevard of Broken Dreams' and 'Holiday', it won Best Rock Album and was adapted into a Broadway musical.",
     "tags": [
       "music",
-      "music-theory",
+      "rock-pop",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "music-classical-masters-0015",
+    "id": "music-rock-pop-0015",
     "category": "Music",
-    "subcategory": "Classical Masters",
+    "subcategory": "Rock & Pop",
     "difficulty": "hard",
-    "question": "Music theory and history: Which English rock band from Liverpool featured members John Lennon, Paul McCartney, George Harrison, and Ringo Starr? (Ref #15)",
+    "question": "What 1995 Britpop anthem by Oasis, written by Noel Gallagher, became an international acoustic singalong with its chorus 'Because maybe... '?",
     "options": [
-      "The Rolling Stones",
-      "The Who",
-      "The Beatles",
-      "Led Zeppelin"
+      "Don't Look Back in Anger",
+      "Champagne Supernova",
+      "Wonderwall",
+      "Live Forever"
     ],
     "correctAnswer": 2,
-    "explanation": "The Beatles formed in Liverpool in 1960 and became the most critically acclaimed and commercially successful band in history.",
+    "explanation": "From their multi-platinum album (What's the Story) Morning Glory?, it became the quintessential British 1990s indie anthem.",
     "tags": [
       "music",
-      "classical-masters",
+      "rock-pop",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "music-musical-instruments-0016",
+    "id": "music-rock-pop-0016",
     "category": "Music",
-    "subcategory": "Musical Instruments",
+    "subcategory": "Rock & Pop",
     "difficulty": "easy",
-    "question": "Music theory and history: What is the standard pitch tuning from lowest pitch to highest pitch on a 6-string acoustic or electric guitar? (Ref #16)",
+    "question": "What 1997 alternative rock single by The Verve famously sampled an orchestral version of The Rolling Stones' 'The Last Time'?",
     "options": [
-      "D - G - C - F - A - D",
-      "C - E - G - B - D - F",
-      "E - B - G - D - A - E",
-      "E - A - D - G - B - E"
+      "Lucky Man",
+      "Sonnet",
+      "The Drugs Don't Work",
+      "Bitter Sweet Symphony"
     ],
     "correctAnswer": 3,
-    "explanation": "Standard guitar tuning from the 6th string to the 1st string is E2 - A2 - D3 - G3 - B3 - E4.",
+    "explanation": "Richard Ashcroft walking down a busy London pavement bumping into pedestrians became one of the 1990s' most iconic videos.",
     "tags": [
       "music",
-      "musical-instruments",
+      "rock-pop",
       "easy"
     ],
     "active": true
@@ -340,15 +340,15 @@
     "category": "Music",
     "subcategory": "Rock & Pop",
     "difficulty": "medium",
-    "question": "Music theory and history: Which classical music composer completed his monumental Ninth Symphony (including the 'Ode to Joy') while completely deaf? (Ref #17)",
+    "question": "What 1965 acoustic ballad by Paul McCartney, originally titled 'Scrambled Eggs', is one of the most covered pop songs in recording history?",
     "options": [
-      "Ludwig van Beethoven",
-      "Wolfgang Amadeus Mozart",
-      "Johann Sebastian Bach",
-      "Franz Schubert"
+      "Yesterday",
+      "Hey Jude",
+      "Let It Be",
+      "Blackbird"
     ],
     "correctAnswer": 0,
-    "explanation": "Beethoven composed his 9th Symphony between 1822 and 1824 despite profound hearing loss, conducting the premiere in Vienna.",
+    "explanation": "McCartney recorded the track solo with a string quartet, dreaming the entire melody upon waking at his girlfriend Jane Asher's home.",
     "tags": [
       "music",
       "rock-pop",
@@ -357,64 +357,64 @@
     "active": true
   },
   {
-    "id": "music-music-theory-0018",
+    "id": "music-rock-pop-0018",
     "category": "Music",
-    "subcategory": "Music Theory",
+    "subcategory": "Rock & Pop",
     "difficulty": "hard",
-    "question": "Music theory and history: What Italian musical tempo term instructs musicians to perform in a quick, lively, and brisk tempo? (Ref #18)",
+    "question": "What 1968 seven-minute Beatles anthem, written by Paul McCartney to comfort young Julian Lennon during his parents' divorce, ends with a four-minute 'Na-na-na' singalong?",
     "options": [
-      "Adagio (slow and stately)",
-      "Allegro",
-      "Largo (broad and dignified)",
-      "Andante (walking pace)"
+      "Let It Be",
+      "Hey Jude",
+      "Yesterday",
+      "Revolution"
     ],
     "correctAnswer": 1,
-    "explanation": "Allegro means cheerful or brisk in Italian, indicating a tempo typically between 120 and 156 beats per minute.",
+    "explanation": "Topping American charts for nine consecutive weeks, it was the first single released on The Beatles' own Apple Records label.",
     "tags": [
       "music",
-      "music-theory",
+      "rock-pop",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "music-classical-masters-0019",
+    "id": "music-rock-pop-0019",
     "category": "Music",
-    "subcategory": "Classical Masters",
+    "subcategory": "Rock & Pop",
     "difficulty": "easy",
-    "question": "Music theory and history: Which musical clef, wrapping around the second line of the musical staff, is also known as the G clef? (Ref #19)",
+    "question": "What 1965 rock single by The Rolling Stones features Keith Richards' fuzz-guitar riff and Mick Jagger singing about commercial dissatisfaction?",
     "options": [
-      "Bass Clef (F clef)",
-      "Alto Clef",
-      "Treble Clef",
-      "Tenor Clef"
+      "Paint It Black",
+      "Gimme Shelter",
+      "(I Can't Get No) Satisfaction",
+      "Jumpin' Jack Flash"
     ],
     "correctAnswer": 2,
-    "explanation": "The treble clef spirals around the G line above middle C, establishing the pitch reference for high-register instruments.",
+    "explanation": "Richards woke up in a hotel room, recorded the riff onto a portable cassette player with the words 'I can't get no satisfaction', and fell back asleep.",
     "tags": [
       "music",
-      "classical-masters",
+      "rock-pop",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "music-musical-instruments-0020",
+    "id": "music-rock-pop-0020",
     "category": "Music",
-    "subcategory": "Musical Instruments",
+    "subcategory": "Rock & Pop",
     "difficulty": "medium",
-    "question": "Music theory and history: Which English rock band from Liverpool featured members John Lennon, Paul McCartney, George Harrison, and Ringo Starr? (Ref #20)",
+    "question": "What 1987 multi-platinum debut solo album by George Michael featured massive hits like 'Faith', 'Father Figure', and 'One More Try'?",
     "options": [
-      "The Rolling Stones",
-      "The Who",
-      "Led Zeppelin",
-      "The Beatles"
+      "Listen Without Prejudice Vol. 1",
+      "Older",
+      "Patience",
+      "Faith"
     ],
     "correctAnswer": 3,
-    "explanation": "The Beatles formed in Liverpool in 1960 and became the most critically acclaimed and commercially successful band in history.",
+    "explanation": "Sporting sunglasses, a leather jacket, and guitar, Faith won the Grammy Award for Album of the Year, establishing him as a solo icon.",
     "tags": [
       "music",
-      "musical-instruments",
+      "rock-pop",
       "medium"
     ],
     "active": true
@@ -424,15 +424,15 @@
     "category": "Music",
     "subcategory": "Rock & Pop",
     "difficulty": "hard",
-    "question": "Music theory and history: What is the standard pitch tuning from lowest pitch to highest pitch on a 6-string acoustic or electric guitar? (Ref #21)",
+    "question": "What 1984 pop single by a-ha featured a revolutionary rotoscoped pencil-sketch animation music video where a comic-book hero pulls a girl into his world?",
     "options": [
-      "E - A - D - G - B - E",
-      "D - G - C - F - A - D",
-      "C - E - G - B - D - F",
-      "E - B - G - D - A - E"
+      "Take On Me",
+      "The Sun Always Shines on T.V.",
+      "Hunting High and Low",
+      "Cry Wolf"
     ],
     "correctAnswer": 0,
-    "explanation": "Standard guitar tuning from the 6th string to the 1st string is E2 - A2 - D3 - G3 - B3 - E4.",
+    "explanation": "Morten Harket's soaring falsetto vocal high note and Steve Barron's video won six MTV Video Music Awards.",
     "tags": [
       "music",
       "rock-pop",
@@ -441,64 +441,64 @@
     "active": true
   },
   {
-    "id": "music-music-theory-0022",
+    "id": "music-rock-pop-0022",
     "category": "Music",
-    "subcategory": "Music Theory",
+    "subcategory": "Rock & Pop",
     "difficulty": "easy",
-    "question": "Music theory and history: Which classical music composer completed his monumental Ninth Symphony (including the 'Ode to Joy') while completely deaf? (Ref #22)",
+    "question": "What 1983 hit single by The Police, written by Sting, topped the Billboard charts for eight weeks despite being mistaken as a romantic love song rather than about surveillance?",
     "options": [
-      "Wolfgang Amadeus Mozart",
-      "Ludwig van Beethoven",
-      "Johann Sebastian Bach",
-      "Franz Schubert"
+      "Roxanne",
+      "Every Breath You Take",
+      "Message in a Bottle",
+      "King of Pain"
     ],
     "correctAnswer": 1,
-    "explanation": "Beethoven composed his 9th Symphony between 1822 and 1824 despite profound hearing loss, conducting the premiere in Vienna.",
+    "explanation": "Sting wrote the track in Jamaica following his divorce, describing the dark psychology of obsessive jealousy and surveillance.",
     "tags": [
       "music",
-      "music-theory",
+      "rock-pop",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "music-classical-masters-0023",
+    "id": "music-rock-pop-0023",
     "category": "Music",
-    "subcategory": "Classical Masters",
+    "subcategory": "Rock & Pop",
     "difficulty": "medium",
-    "question": "Music theory and history: What Italian musical tempo term instructs musicians to perform in a quick, lively, and brisk tempo? (Ref #23)",
+    "question": "What 1981 arena rock anthem by Journey, featuring Steve Perry's vocals and Jonathan Cain's opening keyboard piano riff, is a staple karaoke classic?",
     "options": [
-      "Adagio (slow and stately)",
-      "Largo (broad and dignified)",
-      "Allegro",
-      "Andante (walking pace)"
+      "Open Arms",
+      "Faithfully",
+      "Don't Stop Believin'",
+      "Separate Ways"
     ],
     "correctAnswer": 2,
-    "explanation": "Allegro means cheerful or brisk in Italian, indicating a tempo typically between 120 and 156 beats per minute.",
+    "explanation": "Telling the story of a small-town girl and a city boy taking the midnight train to anywhere, it became a massive digital download smash after The Sopranos finale.",
     "tags": [
       "music",
-      "classical-masters",
+      "rock-pop",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "music-musical-instruments-0024",
+    "id": "music-rock-pop-0024",
     "category": "Music",
-    "subcategory": "Musical Instruments",
+    "subcategory": "Rock & Pop",
     "difficulty": "hard",
-    "question": "Music theory and history: Which musical clef, wrapping around the second line of the musical staff, is also known as the G clef? (Ref #24)",
+    "question": "What 1982 survival rock anthem by Survivor, commissioned by Sylvester Stallone for Rocky III, became the quintessential training montage song?",
     "options": [
-      "Bass Clef (F clef)",
-      "Alto Clef",
-      "Tenor Clef",
-      "Treble Clef"
+      "Burning Heart",
+      "Hearts on Fire",
+      "Gonna Fly Now",
+      "Eye of the Tiger"
     ],
     "correctAnswer": 3,
-    "explanation": "The treble clef spirals around the G line above middle C, establishing the pitch reference for high-register instruments.",
+    "explanation": "Stallone turned to Survivor after Queen denied rights to 'Another One Bites the Dust', resulting in a Grammy-winning global number-one smash.",
     "tags": [
       "music",
-      "musical-instruments",
+      "rock-pop",
       "hard"
     ],
     "active": true
@@ -508,15 +508,15 @@
     "category": "Music",
     "subcategory": "Rock & Pop",
     "difficulty": "easy",
-    "question": "Music theory and history: Which English rock band from Liverpool featured members John Lennon, Paul McCartney, George Harrison, and Ringo Starr? (Ref #25)",
+    "question": "What 1986 rock collaboration saw hip-hop pioneers Run-DMC team up with Steven Tyler and Joe Perry of Aerosmith, bridging rap and rock on MTV?",
     "options": [
-      "The Beatles",
-      "The Rolling Stones",
-      "The Who",
-      "Led Zeppelin"
+      "Walk This Way",
+      "King of Rock",
+      "Rock Box",
+      "Fight the Power"
     ],
     "correctAnswer": 0,
-    "explanation": "The Beatles formed in Liverpool in 1960 and became the most critically acclaimed and commercially successful band in history.",
+    "explanation": "Directed by Geoff Lynch, the video literally depicted the artists breaking down a wall between their rehearsal rooms, introducing hip-hop to mainstream radio.",
     "tags": [
       "music",
       "rock-pop",
@@ -525,64 +525,64 @@
     "active": true
   },
   {
-    "id": "music-music-theory-0026",
+    "id": "music-rock-pop-0026",
     "category": "Music",
-    "subcategory": "Music Theory",
+    "subcategory": "Rock & Pop",
     "difficulty": "medium",
-    "question": "Music theory and history: What is the standard pitch tuning from lowest pitch to highest pitch on a 6-string acoustic or electric guitar? (Ref #26)",
+    "question": "What 1987 debut album by Guns N' Roses remains the bestselling debut album of all time in the United States, with over 30 million copies sold?",
     "options": [
-      "D - G - C - F - A - D",
-      "E - A - D - G - B - E",
-      "C - E - G - B - D - F",
-      "E - B - G - D - A - E"
+      "Use Your Illusion I",
+      "Appetite for Destruction",
+      "G N' R Lies",
+      "The Spaghetti Incident?"
     ],
     "correctAnswer": 1,
-    "explanation": "Standard guitar tuning from the 6th string to the 1st string is E2 - A2 - D3 - G3 - B3 - E4.",
+    "explanation": "Blending raw punk energy with classic blues-rock guitar virtuosity, it delivered 'Welcome to the Jungle', 'Paradise City', and 'Sweet Child O' Mine.'",
     "tags": [
       "music",
-      "music-theory",
+      "rock-pop",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "music-classical-masters-0027",
+    "id": "music-rock-pop-0027",
     "category": "Music",
-    "subcategory": "Classical Masters",
+    "subcategory": "Rock & Pop",
     "difficulty": "hard",
-    "question": "Music theory and history: Which classical music composer completed his monumental Ninth Symphony (including the 'Ode to Joy') while completely deaf? (Ref #27)",
+    "question": "What 1991 Metallica album, known as 'The Black Album', propelled heavy metal into mainstream radio with hits like 'Enter Sandman' and 'Nothing Else Matters'?",
     "options": [
-      "Wolfgang Amadeus Mozart",
-      "Johann Sebastian Bach",
-      "Ludwig van Beethoven",
-      "Franz Schubert"
+      "Master of Puppets",
+      "...And Justice for All",
+      "Metallica (The Black Album)",
+      "Ride the Lightning"
     ],
     "correctAnswer": 2,
-    "explanation": "Beethoven composed his 9th Symphony between 1822 and 1824 despite profound hearing loss, conducting the premiere in Vienna.",
+    "explanation": "Produced by Bob Rock, it spent over 700 weeks on the Billboard 200, becoming the bestselling album of the SoundScan era.",
     "tags": [
       "music",
-      "classical-masters",
+      "rock-pop",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "music-musical-instruments-0028",
+    "id": "music-rock-pop-0028",
     "category": "Music",
-    "subcategory": "Musical Instruments",
+    "subcategory": "Rock & Pop",
     "difficulty": "easy",
-    "question": "Music theory and history: What Italian musical tempo term instructs musicians to perform in a quick, lively, and brisk tempo? (Ref #28)",
+    "question": "What 1980 hard rock anthem by AC/DC opens with the tolling of a four-ton bronze funeral bell for late singer Bon Scott?",
     "options": [
-      "Adagio (slow and stately)",
-      "Largo (broad and dignified)",
-      "Andante (walking pace)",
-      "Allegro"
+      "Back in Black",
+      "Highway to Hell",
+      "You Shook Me All Night Long",
+      "Hells Bells"
     ],
     "correctAnswer": 3,
-    "explanation": "Allegro means cheerful or brisk in Italian, indicating a tempo typically between 120 and 156 beats per minute.",
+    "explanation": "Lead singer Brian Johnson debuted on Back in Black, which became the second bestselling music album in world history (50+ million copies).",
     "tags": [
       "music",
-      "musical-instruments",
+      "rock-pop",
       "easy"
     ],
     "active": true
@@ -592,15 +592,15 @@
     "category": "Music",
     "subcategory": "Rock & Pop",
     "difficulty": "medium",
-    "question": "Music theory and history: Which musical clef, wrapping around the second line of the musical staff, is also known as the G clef? (Ref #29)",
+    "question": "What 1970 anti-war psychedelic hard rock anthem by Black Sabbath, originally titled 'Walpurgis', features Ozzy Osbourne's vocals and Tony Iommi's heavy riffs?",
     "options": [
-      "Treble Clef",
-      "Bass Clef (F clef)",
-      "Alto Clef",
-      "Tenor Clef"
+      "War Pigs",
+      "Paranoid",
+      "Iron Man",
+      "Children of the Grave"
     ],
     "correctAnswer": 0,
-    "explanation": "The treble clef spirals around the G line above middle C, establishing the pitch reference for high-register instruments.",
+    "explanation": "War Pigs attacked political elites sending poor working-class youths into bloody battlefields for corporate gain.",
     "tags": [
       "music",
       "rock-pop",
@@ -609,64 +609,64 @@
     "active": true
   },
   {
-    "id": "music-music-theory-0030",
+    "id": "music-rock-pop-0030",
     "category": "Music",
-    "subcategory": "Music Theory",
+    "subcategory": "Rock & Pop",
     "difficulty": "hard",
-    "question": "Music theory and history: Which English rock band from Liverpool featured members John Lennon, Paul McCartney, George Harrison, and Ringo Starr? (Ref #30)",
+    "question": "What 1976 punk rock anthem by The Ramones opens with the iconic four-word chant: 'Hey! Ho! Let's go!'?",
     "options": [
-      "The Rolling Stones",
-      "The Beatles",
-      "The Who",
-      "Led Zeppelin"
+      "I Wanna Be Sedated",
+      "Blitzkrieg Bop",
+      "Sheena Is a Punk Rocker",
+      "Rockaway Beach"
     ],
     "correctAnswer": 1,
-    "explanation": "The Beatles formed in Liverpool in 1960 and became the most critically acclaimed and commercially successful band in history.",
+    "explanation": "Clocking in at just over two minutes of blistering three-chord energy, it became the defining rallying cry of American punk rock.",
     "tags": [
       "music",
-      "music-theory",
+      "rock-pop",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "music-classical-masters-0031",
+    "id": "music-rock-pop-0031",
     "category": "Music",
-    "subcategory": "Classical Masters",
+    "subcategory": "Rock & Pop",
     "difficulty": "easy",
-    "question": "Music theory and history: What is the standard pitch tuning from lowest pitch to highest pitch on a 6-string acoustic or electric guitar? (Ref #31)",
+    "question": "What 1977 British punk single by the Sex Pistols was famously banned by the BBC during Queen Elizabeth II's Silver Jubilee?",
     "options": [
-      "D - G - C - F - A - D",
-      "C - E - G - B - D - F",
-      "E - A - D - G - B - E",
-      "E - B - G - D - A - E"
+      "Anarchy in the U.K.",
+      "Pretty Vacant",
+      "God Save the Queen",
+      "Holidays in the Sun"
     ],
     "correctAnswer": 2,
-    "explanation": "Standard guitar tuning from the 6th string to the 1st string is E2 - A2 - D3 - G3 - B3 - E4.",
+    "explanation": "Featuring Jamie Reid's safety-pinned Queen portrait, it reached number two on the UK charts despite being omitted from official playlists.",
     "tags": [
       "music",
-      "classical-masters",
+      "rock-pop",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "music-musical-instruments-0032",
+    "id": "music-rock-pop-0032",
     "category": "Music",
-    "subcategory": "Musical Instruments",
+    "subcategory": "Rock & Pop",
     "difficulty": "medium",
-    "question": "Music theory and history: Which classical music composer completed his monumental Ninth Symphony (including the 'Ode to Joy') while completely deaf? (Ref #32)",
+    "question": "What 1979 post-punk disco masterpiece by The Clash merged reggae, rockabilly, and punk on their double album London Calling?",
     "options": [
-      "Wolfgang Amadeus Mozart",
-      "Johann Sebastian Bach",
-      "Franz Schubert",
-      "Ludwig van Beethoven"
+      "Rock the Casbah",
+      "Train in Vain",
+      "Should I Stay or Should I Go",
+      "London Calling"
     ],
     "correctAnswer": 3,
-    "explanation": "Beethoven composed his 9th Symphony between 1822 and 1824 despite profound hearing loss, conducting the premiere in Vienna.",
+    "explanation": "Penned by Joe Strummer and Mick Jones, the album cover paid homage to Elvis Presley's debut with Paul Simonon smashing his bass.",
     "tags": [
       "music",
-      "musical-instruments",
+      "rock-pop",
       "medium"
     ],
     "active": true
@@ -676,15 +676,15 @@
     "category": "Music",
     "subcategory": "Rock & Pop",
     "difficulty": "hard",
-    "question": "Music theory and history: What Italian musical tempo term instructs musicians to perform in a quick, lively, and brisk tempo? (Ref #33)",
+    "question": "What 1989 alternative rock album by The Cure featured atmospheric masterpieces like 'Lovesong', 'Pictures of You', and 'Lullaby'?",
     "options": [
-      "Allegro",
-      "Adagio (slow and stately)",
-      "Largo (broad and dignified)",
-      "Andante (walking pace)"
+      "Disintegration",
+      "The Head on the Door",
+      "Kiss Me, Kiss Me, Kiss Me",
+      "Wish"
     ],
     "correctAnswer": 0,
-    "explanation": "Allegro means cheerful or brisk in Italian, indicating a tempo typically between 120 and 156 beats per minute.",
+    "explanation": "Robert Smith created a dark, lush, swirling gothic pop masterpiece that became the band's artistic and commercial pinnacle.",
     "tags": [
       "music",
       "rock-pop",
@@ -693,64 +693,64 @@
     "active": true
   },
   {
-    "id": "music-music-theory-0034",
+    "id": "music-rock-pop-0034",
     "category": "Music",
-    "subcategory": "Music Theory",
+    "subcategory": "Rock & Pop",
     "difficulty": "easy",
-    "question": "Music theory and history: Which musical clef, wrapping around the second line of the musical staff, is also known as the G clef? (Ref #34)",
+    "question": "What 1997 alternative rock masterpiece by Radiohead explored alienation, technological dread, and consumerism with tracks like 'Paranoid Android'?",
     "options": [
-      "Bass Clef (F clef)",
-      "Treble Clef",
-      "Alto Clef",
-      "Tenor Clef"
+      "The Bends",
+      "OK Computer",
+      "Kid A",
+      "In Rainbows"
     ],
     "correctAnswer": 1,
-    "explanation": "The treble clef spirals around the G line above middle C, establishing the pitch reference for high-register instruments.",
+    "explanation": "Produced by Nigel Godrich, it is widely acclaimed by critics as one of the greatest rock albums of the late 20th century.",
     "tags": [
       "music",
-      "music-theory",
+      "rock-pop",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "music-classical-masters-0035",
+    "id": "music-rock-pop-0035",
     "category": "Music",
-    "subcategory": "Classical Masters",
+    "subcategory": "Rock & Pop",
     "difficulty": "medium",
-    "question": "Music theory and history: Which English rock band from Liverpool featured members John Lennon, Paul McCartney, George Harrison, and Ringo Starr? (Ref #35)",
+    "question": "What 2000 Radiohead album abandoned traditional guitars for modular synthesizers, drum machines, and jazz brass, alienating and exciting critics?",
     "options": [
-      "The Rolling Stones",
-      "The Who",
-      "The Beatles",
-      "Led Zeppelin"
+      "Amnesiac",
+      "Hail to the Thief",
+      "Kid A",
+      "OK Computer"
     ],
     "correctAnswer": 2,
-    "explanation": "The Beatles formed in Liverpool in 1960 and became the most critically acclaimed and commercially successful band in history.",
+    "explanation": "Opening with the warm Rhodes chords of 'Everything in Its Right Place', it won the Grammy for Best Alternative Music Album.",
     "tags": [
       "music",
-      "classical-masters",
+      "rock-pop",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "music-musical-instruments-0036",
+    "id": "music-rock-pop-0036",
     "category": "Music",
-    "subcategory": "Musical Instruments",
+    "subcategory": "Rock & Pop",
     "difficulty": "hard",
-    "question": "Music theory and history: What is the standard pitch tuning from lowest pitch to highest pitch on a 6-string acoustic or electric guitar? (Ref #36)",
+    "question": "What 1999 multi-platinum album by Santana won nine Grammy Awards, featuring the record-breaking collaboration 'Smooth' with Rob Thomas?",
     "options": [
-      "D - G - C - F - A - D",
-      "C - E - G - B - D - F",
-      "E - B - G - D - A - E",
-      "E - A - D - G - B - E"
+      "Abraxas",
+      "Santana",
+      "Caravanserai",
+      "Supernatural"
     ],
     "correctAnswer": 3,
-    "explanation": "Standard guitar tuning from the 6th string to the 1st string is E2 - A2 - D3 - G3 - B3 - E4.",
+    "explanation": "Carlos Santana staged a historic career resurgence, spending 12 weeks atop the Billboard Hot 100 with 'Smooth.'",
     "tags": [
       "music",
-      "musical-instruments",
+      "rock-pop",
       "hard"
     ],
     "active": true
@@ -760,15 +760,15 @@
     "category": "Music",
     "subcategory": "Rock & Pop",
     "difficulty": "easy",
-    "question": "Music theory and history: Which classical music composer completed his monumental Ninth Symphony (including the 'Ode to Joy') while completely deaf? (Ref #37)",
+    "question": "What 2011 global dance-pop anthem by Swedish house producer Avicii (Tim Bergling) famously sampled Etta James's 1962 vocal from 'Something's Got a Hold on Me'?",
     "options": [
-      "Ludwig van Beethoven",
-      "Wolfgang Amadeus Mozart",
-      "Johann Sebastian Bach",
-      "Franz Schubert"
+      "Levels",
+      "Wake Me Up",
+      "Hey Brother",
+      "Waiting for Love"
     ],
     "correctAnswer": 0,
-    "explanation": "Beethoven composed his 9th Symphony between 1822 and 1824 despite profound hearing loss, conducting the premiere in Vienna.",
+    "explanation": "Levels revolutionized electronic dance music (EDM), propelling mainstage festival house music into worldwide pop radio domination.",
     "tags": [
       "music",
       "rock-pop",
@@ -777,85 +777,85 @@
     "active": true
   },
   {
-    "id": "music-music-theory-0038",
+    "id": "music-rock-pop-0038",
     "category": "Music",
-    "subcategory": "Music Theory",
+    "subcategory": "Rock & Pop",
     "difficulty": "medium",
-    "question": "Music theory and history: What Italian musical tempo term instructs musicians to perform in a quick, lively, and brisk tempo? (Ref #38)",
+    "question": "What 2013 country-EDM hybrid single by Avicii featuring American soul singer Aloe Blacc topped charts in over 20 countries?",
     "options": [
-      "Adagio (slow and stately)",
-      "Allegro",
-      "Largo (broad and dignified)",
-      "Andante (walking pace)"
+      "Levels",
+      "Wake Me Up",
+      "Hey Brother",
+      "The Nights"
     ],
     "correctAnswer": 1,
-    "explanation": "Allegro means cheerful or brisk in Italian, indicating a tempo typically between 120 and 156 beats per minute.",
+    "explanation": "Debuting with acoustic guitars and a live bluegrass band at Ultra Music Festival, it became one of the fastest-selling dance singles in history.",
     "tags": [
       "music",
-      "music-theory",
+      "rock-pop",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "music-classical-masters-0039",
+    "id": "music-music-theory-0039",
     "category": "Music",
-    "subcategory": "Classical Masters",
+    "subcategory": "Music Theory",
     "difficulty": "hard",
-    "question": "Music theory and history: Which musical clef, wrapping around the second line of the musical staff, is also known as the G clef? (Ref #39)",
+    "question": "What are the two fundamental clefs combined to form the Great Stave (Grand Staff) used in piano sheet music?",
     "options": [
-      "Bass Clef (F clef)",
-      "Alto Clef",
-      "Treble Clef",
-      "Tenor Clef"
+      "The Alto Clef and Tenor Clef",
+      "The Soprano Clef and Baritone Clef",
+      "The Treble Clef (G-clef) and the Bass Clef (F-clef)",
+      "The Percussion Clef and Neutral Clef"
     ],
     "correctAnswer": 2,
-    "explanation": "The treble clef spirals around the G line above middle C, establishing the pitch reference for high-register instruments.",
+    "explanation": "The treble clef curls around the G line above middle C, while the two dots of the bass clef flank the F line below middle C.",
     "tags": [
       "music",
-      "classical-masters",
+      "music-theory",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "music-musical-instruments-0040",
+    "id": "music-music-theory-0040",
     "category": "Music",
-    "subcategory": "Musical Instruments",
+    "subcategory": "Music Theory",
     "difficulty": "easy",
-    "question": "Music theory and history: Which English rock band from Liverpool featured members John Lennon, Paul McCartney, George Harrison, and Ringo Starr? (Ref #40)",
+    "question": "What are the names of the notes that sit upon the five lines of a standard treble clef stave from bottom to top?",
     "options": [
-      "The Rolling Stones",
-      "The Who",
-      "Led Zeppelin",
-      "The Beatles"
+      "F, A, C, E",
+      "G, B, D, F, A",
+      "A, C, E, G",
+      "E, G, B, D, F (Every Good Boy Does Fine)"
     ],
     "correctAnswer": 3,
-    "explanation": "The Beatles formed in Liverpool in 1960 and became the most critically acclaimed and commercially successful band in history.",
+    "explanation": "Lines are E4, G4, B4, D5, F5; the four spaces in between spell the word FACE (F4, A4, C5, E5).",
     "tags": [
       "music",
-      "musical-instruments",
+      "music-theory",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "music-rock-pop-0041",
+    "id": "music-music-theory-0041",
     "category": "Music",
-    "subcategory": "Rock & Pop",
+    "subcategory": "Music Theory",
     "difficulty": "medium",
-    "question": "Music theory and history: What is the standard pitch tuning from lowest pitch to highest pitch on a 6-string acoustic or electric guitar? (Ref #41)",
+    "question": "What are the names of the notes that sit in the four spaces of a standard treble clef stave from bottom to top?",
     "options": [
-      "E - A - D - G - B - E",
-      "D - G - C - F - A - D",
-      "C - E - G - B - D - F",
-      "E - B - G - D - A - E"
+      "F, A, C, E",
+      "E, G, B, D",
+      "A, C, E, G",
+      "D, F, A, C"
     ],
     "correctAnswer": 0,
-    "explanation": "Standard guitar tuning from the 6th string to the 1st string is E2 - A2 - D3 - G3 - B3 - E4.",
+    "explanation": "The spaces naturally spell the English word 'FACE', providing a universal mnemonic for beginning music students.",
     "tags": [
       "music",
-      "rock-pop",
+      "music-theory",
       "medium"
     ],
     "active": true
@@ -865,15 +865,15 @@
     "category": "Music",
     "subcategory": "Music Theory",
     "difficulty": "hard",
-    "question": "Music theory and history: Which classical music composer completed his monumental Ninth Symphony (including the 'Ode to Joy') while completely deaf? (Ref #42)",
+    "question": "What are the note names for the five lines of the bass clef stave from bottom to top?",
     "options": [
-      "Wolfgang Amadeus Mozart",
-      "Ludwig van Beethoven",
-      "Johann Sebastian Bach",
-      "Franz Schubert"
+      "A, C, E, G",
+      "G, B, D, F, A (Good Boys Do Fine Always)",
+      "E, G, B, D, F",
+      "F, A, C, E"
     ],
     "correctAnswer": 1,
-    "explanation": "Beethoven composed his 9th Symphony between 1822 and 1824 despite profound hearing loss, conducting the premiere in Vienna.",
+    "explanation": "The lines correspond to G2, B2, D3, F3, A3, while the spaces spell ACEG (All Cows Eat Grass).",
     "tags": [
       "music",
       "music-theory",
@@ -882,64 +882,64 @@
     "active": true
   },
   {
-    "id": "music-classical-masters-0043",
+    "id": "music-music-theory-0043",
     "category": "Music",
-    "subcategory": "Classical Masters",
+    "subcategory": "Music Theory",
     "difficulty": "easy",
-    "question": "Music theory and history: What Italian musical tempo term instructs musicians to perform in a quick, lively, and brisk tempo? (Ref #43)",
+    "question": "What musical term defines the fundamental pitch note located centrally between the treble and bass staves (C4, vibrating at ~261.6 Hz)?",
     "options": [
-      "Adagio (slow and stately)",
-      "Largo (broad and dignified)",
-      "Allegro",
-      "Andante (walking pace)"
+      "Concert A",
+      "High C",
+      "Middle C (C4)",
+      "Low C"
     ],
     "correctAnswer": 2,
-    "explanation": "Allegro means cheerful or brisk in Italian, indicating a tempo typically between 120 and 156 beats per minute.",
+    "explanation": "Middle C sits on a single ledger line below the treble stave or above the bass stave, anchoring pitch orientation for keyboardists.",
     "tags": [
       "music",
-      "classical-masters",
+      "music-theory",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "music-musical-instruments-0044",
+    "id": "music-music-theory-0044",
     "category": "Music",
-    "subcategory": "Musical Instruments",
+    "subcategory": "Music Theory",
     "difficulty": "medium",
-    "question": "Music theory and history: Which musical clef, wrapping around the second line of the musical staff, is also known as the G clef? (Ref #44)",
+    "question": "What standard musical note value receives one beat of duration in common 4/4 time?",
     "options": [
-      "Bass Clef (F clef)",
-      "Alto Clef",
-      "Tenor Clef",
-      "Treble Clef"
+      "A Whole Note (Semibreve)",
+      "A Half Note (Minim)",
+      "An Eighth Note (Quaver)",
+      "A Quarter Note (Crotchet)"
     ],
     "correctAnswer": 3,
-    "explanation": "The treble clef spirals around the G line above middle C, establishing the pitch reference for high-register instruments.",
+    "explanation": "In 4/4 time, there are four quarter notes per measure; each quarter note receives exactly one beat.",
     "tags": [
       "music",
-      "musical-instruments",
+      "music-theory",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "music-rock-pop-0045",
+    "id": "music-music-theory-0045",
     "category": "Music",
-    "subcategory": "Rock & Pop",
+    "subcategory": "Music Theory",
     "difficulty": "hard",
-    "question": "Music theory and history: Which English rock band from Liverpool featured members John Lennon, Paul McCartney, George Harrison, and Ringo Starr? (Ref #45)",
+    "question": "How many beats does a standard Whole Note (Semibreve) receive in 4/4 common time?",
     "options": [
-      "The Beatles",
-      "The Rolling Stones",
-      "The Who",
-      "Led Zeppelin"
+      "4 Beats",
+      "2 Beats",
+      "1 Beat",
+      "3 Beats"
     ],
     "correctAnswer": 0,
-    "explanation": "The Beatles formed in Liverpool in 1960 and became the most critically acclaimed and commercially successful band in history.",
+    "explanation": "An open oval without a stem, a whole note fills an entire measure of 4/4 time.",
     "tags": [
       "music",
-      "rock-pop",
+      "music-theory",
       "hard"
     ],
     "active": true
@@ -949,15 +949,15 @@
     "category": "Music",
     "subcategory": "Music Theory",
     "difficulty": "easy",
-    "question": "Music theory and history: What is the standard pitch tuning from lowest pitch to highest pitch on a 6-string acoustic or electric guitar? (Ref #46)",
+    "question": "What effect does placing an augmentation dot immediately to the right of a musical note head have on its rhythmic duration?",
     "options": [
-      "D - G - C - F - A - D",
-      "E - A - D - G - B - E",
-      "C - E - G - B - D - F",
-      "E - B - G - D - A - E"
+      "It doubles the duration",
+      "It increases the note's duration by exactly half (50%) of its original value",
+      "It cuts duration in half",
+      "It shortens duration by one beat"
     ],
     "correctAnswer": 1,
-    "explanation": "Standard guitar tuning from the 6th string to the 1st string is E2 - A2 - D3 - G3 - B3 - E4.",
+    "explanation": "A dotted half note (2 beats + 1 beat) receives 3 beats; a dotted quarter note (1 beat + 0.5 beat) receives 1.5 beats.",
     "tags": [
       "music",
       "music-theory",
@@ -966,64 +966,64 @@
     "active": true
   },
   {
-    "id": "music-classical-masters-0047",
+    "id": "music-music-theory-0047",
     "category": "Music",
-    "subcategory": "Classical Masters",
+    "subcategory": "Music Theory",
     "difficulty": "medium",
-    "question": "Music theory and history: Which classical music composer completed his monumental Ninth Symphony (including the 'Ode to Joy') while completely deaf? (Ref #47)",
+    "question": "What time signature is known as 'Common Time', represented on sheet music by a large capital letter 'C'?",
     "options": [
-      "Wolfgang Amadeus Mozart",
-      "Johann Sebastian Bach",
-      "Ludwig van Beethoven",
-      "Franz Schubert"
+      "3/4 Time Signature",
+      "2/4 Time Signature",
+      "4/4 Time Signature",
+      "6/8 Time Signature"
     ],
     "correctAnswer": 2,
-    "explanation": "Beethoven composed his 9th Symphony between 1822 and 1824 despite profound hearing loss, conducting the premiere in Vienna.",
+    "explanation": "Common time indicates there are four quarter-note beats in each measure.",
     "tags": [
       "music",
-      "classical-masters",
+      "music-theory",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "music-musical-instruments-0048",
+    "id": "music-music-theory-0048",
     "category": "Music",
-    "subcategory": "Musical Instruments",
+    "subcategory": "Music Theory",
     "difficulty": "hard",
-    "question": "Music theory and history: What Italian musical tempo term instructs musicians to perform in a quick, lively, and brisk tempo? (Ref #48)",
+    "question": "What time signature is known as 'Cut Time' (Alla Breve), represented by a capital letter 'C' with a vertical slash through it?",
     "options": [
-      "Adagio (slow and stately)",
-      "Largo (broad and dignified)",
-      "Andante (walking pace)",
-      "Allegro"
+      "4/4 Time Signature",
+      "3/4 Time Signature",
+      "6/8 Time Signature",
+      "2/2 Time Signature"
     ],
     "correctAnswer": 3,
-    "explanation": "Allegro means cheerful or brisk in Italian, indicating a tempo typically between 120 and 156 beats per minute.",
+    "explanation": "Cut time indicates there are two half-note beats per measure, common in fast marches and orchestral allegros.",
     "tags": [
       "music",
-      "musical-instruments",
+      "music-theory",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "music-rock-pop-0049",
+    "id": "music-music-theory-0049",
     "category": "Music",
-    "subcategory": "Rock & Pop",
+    "subcategory": "Music Theory",
     "difficulty": "easy",
-    "question": "Music theory and history: Which musical clef, wrapping around the second line of the musical staff, is also known as the G clef? (Ref #49)",
+    "question": "What musical term describes placing rhythmic emphasis or accents on weak or off-beats, creating driving rhythmic groove in jazz and funk?",
     "options": [
-      "Treble Clef",
-      "Bass Clef (F clef)",
-      "Alto Clef",
-      "Tenor Clef"
+      "Syncopation",
+      "Rubato",
+      "Polyphony",
+      "Modulation"
     ],
     "correctAnswer": 0,
-    "explanation": "The treble clef spirals around the G line above middle C, establishing the pitch reference for high-register instruments.",
+    "explanation": "Syncopation subverts listeners' expectations by accenting unexpected upbeats and sixteenth-note subdivisions.",
     "tags": [
       "music",
-      "rock-pop",
+      "music-theory",
       "easy"
     ],
     "active": true
@@ -1033,15 +1033,15 @@
     "category": "Music",
     "subcategory": "Music Theory",
     "difficulty": "medium",
-    "question": "Music theory and history: Which English rock band from Liverpool featured members John Lennon, Paul McCartney, George Harrison, and Ringo Starr? (Ref #50)",
+    "question": "What Italian musical tempo marking directs performers to play at a slow, stately, walking pace (typically 76-108 BPM)?",
     "options": [
-      "The Rolling Stones",
-      "The Beatles",
-      "The Who",
-      "Led Zeppelin"
+      "Allegro",
+      "Andante",
+      "Presto",
+      "Largo"
     ],
     "correctAnswer": 1,
-    "explanation": "The Beatles formed in Liverpool in 1960 and became the most critically acclaimed and commercially successful band in history.",
+    "explanation": "Andante translates literally to 'walking'; Largo is very slow, Allegro is fast/lively, and Presto is very fast.",
     "tags": [
       "music",
       "music-theory",
@@ -1050,64 +1050,64 @@
     "active": true
   },
   {
-    "id": "music-classical-masters-0051",
+    "id": "music-music-theory-0051",
     "category": "Music",
-    "subcategory": "Classical Masters",
+    "subcategory": "Music Theory",
     "difficulty": "hard",
-    "question": "Music theory and history: What is the standard pitch tuning from lowest pitch to highest pitch on a 6-string acoustic or electric guitar? (Ref #51)",
+    "question": "What Italian tempo marking directs performers to play at a fast, brisk, and lively speed (typically 120-156 BPM)?",
     "options": [
-      "D - G - C - F - A - D",
-      "C - E - G - B - D - F",
-      "E - A - D - G - B - E",
-      "E - B - G - D - A - E"
+      "Andante",
+      "Adagio",
+      "Allegro",
+      "Moderato"
     ],
     "correctAnswer": 2,
-    "explanation": "Standard guitar tuning from the 6th string to the 1st string is E2 - A2 - D3 - G3 - B3 - E4.",
+    "explanation": "Allegro translates to 'cheerful' or 'lively', the most common tempo for first movements in classical symphonies.",
     "tags": [
       "music",
-      "classical-masters",
+      "music-theory",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "music-musical-instruments-0052",
+    "id": "music-music-theory-0052",
     "category": "Music",
-    "subcategory": "Musical Instruments",
+    "subcategory": "Music Theory",
     "difficulty": "easy",
-    "question": "Music theory and history: Which classical music composer completed his monumental Ninth Symphony (including the 'Ode to Joy') while completely deaf? (Ref #52)",
+    "question": "What Italian musical term directs the performer to gradually increase the speed or tempo of the music?",
     "options": [
-      "Wolfgang Amadeus Mozart",
-      "Johann Sebastian Bach",
-      "Franz Schubert",
-      "Ludwig van Beethoven"
+      "Ritardando (rit.)",
+      "Crescendo",
+      "Diminuendo",
+      "Accelerando (accel.)"
     ],
     "correctAnswer": 3,
-    "explanation": "Beethoven composed his 9th Symphony between 1822 and 1824 despite profound hearing loss, conducting the premiere in Vienna.",
+    "explanation": "Accelerando builds dramatic momentum by steadily quickening the underlying pulse.",
     "tags": [
       "music",
-      "musical-instruments",
+      "music-theory",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "music-rock-pop-0053",
+    "id": "music-music-theory-0053",
     "category": "Music",
-    "subcategory": "Rock & Pop",
+    "subcategory": "Music Theory",
     "difficulty": "medium",
-    "question": "Music theory and history: What Italian musical tempo term instructs musicians to perform in a quick, lively, and brisk tempo? (Ref #53)",
+    "question": "What Italian musical term directs the performer to gradually slow down the tempo of the music?",
     "options": [
-      "Allegro",
-      "Adagio (slow and stately)",
-      "Largo (broad and dignified)",
-      "Andante (walking pace)"
+      "Ritardando (rit. / Rallentando)",
+      "Accelerando",
+      "Staccato",
+      "Tenuto"
     ],
     "correctAnswer": 0,
-    "explanation": "Allegro means cheerful or brisk in Italian, indicating a tempo typically between 120 and 156 beats per minute.",
+    "explanation": "Ritardando winds down tempo, frequently used to emphasize emotional final cadences before a pause.",
     "tags": [
       "music",
-      "rock-pop",
+      "music-theory",
       "medium"
     ],
     "active": true
@@ -1117,15 +1117,15 @@
     "category": "Music",
     "subcategory": "Music Theory",
     "difficulty": "hard",
-    "question": "Music theory and history: Which musical clef, wrapping around the second line of the musical staff, is also known as the G clef? (Ref #54)",
+    "question": "What dynamic volume marking indicates that music should be played softly, represented by the lowercase letter 'p'?",
     "options": [
-      "Bass Clef (F clef)",
-      "Treble Clef",
-      "Alto Clef",
-      "Tenor Clef"
+      "Forte",
+      "Piano",
+      "Mezzo-piano",
+      "Pianissimo"
     ],
     "correctAnswer": 1,
-    "explanation": "The treble clef spirals around the G line above middle C, establishing the pitch reference for high-register instruments.",
+    "explanation": "Piano indicates soft volume; Pianissimo (pp) is very soft, Forte (f) is loud, and Fortissimo (ff) is very loud.",
     "tags": [
       "music",
       "music-theory",
@@ -1134,64 +1134,64 @@
     "active": true
   },
   {
-    "id": "music-classical-masters-0055",
+    "id": "music-music-theory-0055",
     "category": "Music",
-    "subcategory": "Classical Masters",
+    "subcategory": "Music Theory",
     "difficulty": "easy",
-    "question": "Music theory and history: Which English rock band from Liverpool featured members John Lennon, Paul McCartney, George Harrison, and Ringo Starr? (Ref #55)",
+    "question": "What musical term directs a gradual increase in volume from soft to loud, denoted by a widening hairpin symbol?",
     "options": [
-      "The Rolling Stones",
-      "The Who",
-      "The Beatles",
-      "Led Zeppelin"
+      "Decrescendo (Diminuendo)",
+      "Subito Forte",
+      "Crescendo",
+      "Forte-piano"
     ],
     "correctAnswer": 2,
-    "explanation": "The Beatles formed in Liverpool in 1960 and became the most critically acclaimed and commercially successful band in history.",
+    "explanation": "Crescendo builds acoustic volume and emotional tension across musical phrases.",
     "tags": [
       "music",
-      "classical-masters",
+      "music-theory",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "music-musical-instruments-0056",
+    "id": "music-music-theory-0056",
     "category": "Music",
-    "subcategory": "Musical Instruments",
+    "subcategory": "Music Theory",
     "difficulty": "medium",
-    "question": "Music theory and history: What is the standard pitch tuning from lowest pitch to highest pitch on a 6-string acoustic or electric guitar? (Ref #56)",
+    "question": "What accidental musical symbol raises the pitch of a note by one half-step (semitone)?",
     "options": [
-      "D - G - C - F - A - D",
-      "C - E - G - B - D - F",
-      "E - B - G - D - A - E",
-      "E - A - D - G - B - E"
+      "A Flat (b)",
+      "A Natural",
+      "A Double Sharp",
+      "A Sharp (#)"
     ],
     "correctAnswer": 3,
-    "explanation": "Standard guitar tuning from the 6th string to the 1st string is E2 - A2 - D3 - G3 - B3 - E4.",
+    "explanation": "Placing a sharp before note C raises it to C-sharp, one fret up on a guitar or the black key immediately to the right on a piano.",
     "tags": [
       "music",
-      "musical-instruments",
+      "music-theory",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "music-rock-pop-0057",
+    "id": "music-music-theory-0057",
     "category": "Music",
-    "subcategory": "Rock & Pop",
+    "subcategory": "Music Theory",
     "difficulty": "hard",
-    "question": "Music theory and history: Which classical music composer completed his monumental Ninth Symphony (including the 'Ode to Joy') while completely deaf? (Ref #57)",
+    "question": "What accidental symbol lowers the pitch of a note by one half-step (semitone)?",
     "options": [
-      "Ludwig van Beethoven",
-      "Wolfgang Amadeus Mozart",
-      "Johann Sebastian Bach",
-      "Franz Schubert"
+      "A Flat (b)",
+      "A Sharp (#)",
+      "A Natural",
+      "A Double Flat"
     ],
     "correctAnswer": 0,
-    "explanation": "Beethoven composed his 9th Symphony between 1822 and 1824 despite profound hearing loss, conducting the premiere in Vienna.",
+    "explanation": "Placing a flat before note B lowers it to B-flat, one fret down on a guitar or the black key immediately to the left.",
     "tags": [
       "music",
-      "rock-pop",
+      "music-theory",
       "hard"
     ],
     "active": true
@@ -1201,15 +1201,15 @@
     "category": "Music",
     "subcategory": "Music Theory",
     "difficulty": "easy",
-    "question": "Music theory and history: What Italian musical tempo term instructs musicians to perform in a quick, lively, and brisk tempo? (Ref #58)",
+    "question": "What musical symbol cancels any previous sharp or flat accidental, restoring the note to its unaltered natural pitch?",
     "options": [
-      "Adagio (slow and stately)",
-      "Allegro",
-      "Largo (broad and dignified)",
-      "Andante (walking pace)"
+      "A Flat",
+      "A Natural Sign",
+      "A Sharp",
+      "A Fermata"
     ],
     "correctAnswer": 1,
-    "explanation": "Allegro means cheerful or brisk in Italian, indicating a tempo typically between 120 and 156 beats per minute.",
+    "explanation": "A natural sign returns the note to its white-key pitch within the active measure.",
     "tags": [
       "music",
       "music-theory",
@@ -1218,64 +1218,64 @@
     "active": true
   },
   {
-    "id": "music-classical-masters-0059",
+    "id": "music-music-theory-0059",
     "category": "Music",
-    "subcategory": "Classical Masters",
+    "subcategory": "Music Theory",
     "difficulty": "medium",
-    "question": "Music theory and history: Which musical clef, wrapping around the second line of the musical staff, is also known as the G clef? (Ref #59)",
+    "question": "What musical term describes notes that sound identical in pitch but are spelled with different letter names (such as C-sharp and D-flat)?",
     "options": [
-      "Bass Clef (F clef)",
-      "Alto Clef",
-      "Treble Clef",
-      "Tenor Clef"
+      "Dissonant Notes",
+      "Harmonic Intervals",
+      "Enharmonic Equivalents",
+      "Consonant Tones"
     ],
     "correctAnswer": 2,
-    "explanation": "The treble clef spirals around the G line above middle C, establishing the pitch reference for high-register instruments.",
+    "explanation": "On an equal-tempered keyboard, C# and Db strike the exact same physical key and frequency (277.18 Hz).",
     "tags": [
       "music",
-      "classical-masters",
+      "music-theory",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "music-musical-instruments-0060",
+    "id": "music-music-theory-0060",
     "category": "Music",
-    "subcategory": "Musical Instruments",
+    "subcategory": "Music Theory",
     "difficulty": "hard",
-    "question": "Music theory and history: Which English rock band from Liverpool featured members John Lennon, Paul McCartney, George Harrison, and Ringo Starr? (Ref #60)",
+    "question": "What pattern of whole steps (W) and half steps (H) forms every Major Scale in Western music theory?",
     "options": [
-      "The Rolling Stones",
-      "The Who",
-      "Led Zeppelin",
-      "The Beatles"
+      "W - H - W - W - H - W - W",
+      "H - W - W - W - H - W - W",
+      "W - W - W - H - W - W - H",
+      "W - W - H - W - W - W - H"
     ],
     "correctAnswer": 3,
-    "explanation": "The Beatles formed in Liverpool in 1960 and became the most critically acclaimed and commercially successful band in history.",
+    "explanation": "The major scale formula (Whole, Whole, Half, Whole, Whole, Whole, Half) defines the bright, consonant major sound.",
     "tags": [
       "music",
-      "musical-instruments",
+      "music-theory",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "music-rock-pop-0061",
+    "id": "music-music-theory-0061",
     "category": "Music",
-    "subcategory": "Rock & Pop",
+    "subcategory": "Music Theory",
     "difficulty": "easy",
-    "question": "Music theory and history: What is the standard pitch tuning from lowest pitch to highest pitch on a 6-string acoustic or electric guitar? (Ref #61)",
+    "question": "What key signature contains zero sharps and zero flats, using only the white keys on a piano?",
     "options": [
-      "E - A - D - G - B - E",
-      "D - G - C - F - A - D",
-      "C - E - G - B - D - F",
-      "E - B - G - D - A - E"
+      "C Major (and A Natural Minor)",
+      "G Major",
+      "F Major",
+      "D Major"
     ],
     "correctAnswer": 0,
-    "explanation": "Standard guitar tuning from the 6th string to the 1st string is E2 - A2 - D3 - G3 - B3 - E4.",
+    "explanation": "C Major consists strictly of natural notes C, D, E, F, G, A, B, C, serving as the foundational reference key in music theory.",
     "tags": [
       "music",
-      "rock-pop",
+      "music-theory",
       "easy"
     ],
     "active": true
@@ -1285,15 +1285,15 @@
     "category": "Music",
     "subcategory": "Music Theory",
     "difficulty": "medium",
-    "question": "Music theory and history: Which classical music composer completed his monumental Ninth Symphony (including the 'Ode to Joy') while completely deaf? (Ref #62)",
+    "question": "How many sharps are in the key signature of G Major, and what is the sharped note?",
     "options": [
-      "Wolfgang Amadeus Mozart",
-      "Ludwig van Beethoven",
-      "Johann Sebastian Bach",
-      "Franz Schubert"
+      "Two sharps: F# and C#",
+      "One sharp: F-sharp (F#)",
+      "One sharp: C#",
+      "Zero sharps"
     ],
     "correctAnswer": 1,
-    "explanation": "Beethoven composed his 9th Symphony between 1822 and 1824 despite profound hearing loss, conducting the premiere in Vienna.",
+    "explanation": "G Major consists of G, A, B, C, D, E, F#, G, following the W-W-H-W-W-W-H formula.",
     "tags": [
       "music",
       "music-theory",
@@ -1302,64 +1302,64 @@
     "active": true
   },
   {
-    "id": "music-classical-masters-0063",
+    "id": "music-music-theory-0063",
     "category": "Music",
-    "subcategory": "Classical Masters",
+    "subcategory": "Music Theory",
     "difficulty": "hard",
-    "question": "Music theory and history: What Italian musical tempo term instructs musicians to perform in a quick, lively, and brisk tempo? (Ref #63)",
+    "question": "What musical interval consists of twelve semitones, representing the distance between a note and the next note of the same letter name?",
     "options": [
-      "Adagio (slow and stately)",
-      "Largo (broad and dignified)",
-      "Allegro",
-      "Andante (walking pace)"
+      "A Fifth",
+      "A Major Seventh",
+      "An Octave",
+      "A Fourth"
     ],
     "correctAnswer": 2,
-    "explanation": "Allegro means cheerful or brisk in Italian, indicating a tempo typically between 120 and 156 beats per minute.",
+    "explanation": "An octave doubles the fundamental sound frequency; A4 vibrates at 440 Hz while A5 vibrates at 880 Hz.",
     "tags": [
       "music",
-      "classical-masters",
+      "music-theory",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "music-musical-instruments-0064",
+    "id": "music-music-theory-0064",
     "category": "Music",
-    "subcategory": "Musical Instruments",
+    "subcategory": "Music Theory",
     "difficulty": "easy",
-    "question": "Music theory and history: Which musical clef, wrapping around the second line of the musical staff, is also known as the G clef? (Ref #64)",
+    "question": "What three fundamental scale degrees make up a basic major or minor triad chord?",
     "options": [
-      "Bass Clef (F clef)",
-      "Alto Clef",
-      "Tenor Clef",
-      "Treble Clef"
+      "The Root, Fourth, and Seventh",
+      "The First, Second, and Third",
+      "The Root, Third, and Sixth",
+      "The Root, Third, and Fifth (Scale degrees 1, 3, 5)"
     ],
     "correctAnswer": 3,
-    "explanation": "The treble clef spirals around the G line above middle C, establishing the pitch reference for high-register instruments.",
+    "explanation": "Stacking two thirds creates a triad; a major triad stacks a major third (4 semitones) and minor third (3 semitones).",
     "tags": [
       "music",
-      "musical-instruments",
+      "music-theory",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "music-rock-pop-0065",
+    "id": "music-music-theory-0065",
     "category": "Music",
-    "subcategory": "Rock & Pop",
+    "subcategory": "Music Theory",
     "difficulty": "medium",
-    "question": "Music theory and history: Which English rock band from Liverpool featured members John Lennon, Paul McCartney, George Harrison, and Ringo Starr? (Ref #65)",
+    "question": "What is the musical interval between the root note and the third note of a Major Triad chord?",
     "options": [
-      "The Beatles",
-      "The Rolling Stones",
-      "The Who",
-      "Led Zeppelin"
+      "A Major Third (4 semitones / 2 whole steps)",
+      "A Minor Third (3 semitones)",
+      "A Perfect Fourth",
+      "A Minor Second"
     ],
     "correctAnswer": 0,
-    "explanation": "The Beatles formed in Liverpool in 1960 and became the most critically acclaimed and commercially successful band in history.",
+    "explanation": "The 4-semitone major third gives the major chord its bright, stable, and uplifting emotional quality.",
     "tags": [
       "music",
-      "rock-pop",
+      "music-theory",
       "medium"
     ],
     "active": true
@@ -1369,15 +1369,15 @@
     "category": "Music",
     "subcategory": "Music Theory",
     "difficulty": "hard",
-    "question": "Music theory and history: What is the standard pitch tuning from lowest pitch to highest pitch on a 6-string acoustic or electric guitar? (Ref #66)",
+    "question": "What is the musical interval between the root note and the third note of a Minor Triad chord?",
     "options": [
-      "D - G - C - F - A - D",
-      "E - A - D - G - B - E",
-      "C - E - G - B - D - F",
-      "E - B - G - D - A - E"
+      "A Major Third (4 semitones)",
+      "A Minor Third (3 semitones / 1.5 steps)",
+      "A Diminished Fourth",
+      "A Major Second"
     ],
     "correctAnswer": 1,
-    "explanation": "Standard guitar tuning from the 6th string to the 1st string is E2 - A2 - D3 - G3 - B3 - E4.",
+    "explanation": "The flattened 3-semitone third gives the minor chord its somber, melancholy emotional color.",
     "tags": [
       "music",
       "music-theory",
@@ -1386,64 +1386,64 @@
     "active": true
   },
   {
-    "id": "music-classical-masters-0067",
+    "id": "music-music-theory-0067",
     "category": "Music",
-    "subcategory": "Classical Masters",
+    "subcategory": "Music Theory",
     "difficulty": "easy",
-    "question": "Music theory and history: Which classical music composer completed his monumental Ninth Symphony (including the 'Ode to Joy') while completely deaf? (Ref #67)",
+    "question": "In music harmony, what Roman numeral chord analysis designation represents the primary home tonic chord of a major key?",
     "options": [
-      "Wolfgang Amadeus Mozart",
-      "Johann Sebastian Bach",
-      "Ludwig van Beethoven",
-      "Franz Schubert"
+      "The IV Chord (Subdominant)",
+      "The V Chord (Dominant)",
+      "The I Chord (Tonic)",
+      "The vi Chord"
     ],
     "correctAnswer": 2,
-    "explanation": "Beethoven composed his 9th Symphony between 1822 and 1824 despite profound hearing loss, conducting the premiere in Vienna.",
+    "explanation": "The I chord provides harmonic resolution and stability, toward which all other chords gravitate.",
     "tags": [
       "music",
-      "classical-masters",
+      "music-theory",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "music-musical-instruments-0068",
+    "id": "music-music-theory-0068",
     "category": "Music",
-    "subcategory": "Musical Instruments",
+    "subcategory": "Music Theory",
     "difficulty": "medium",
-    "question": "Music theory and history: What Italian musical tempo term instructs musicians to perform in a quick, lively, and brisk tempo? (Ref #68)",
+    "question": "What harmonic chord built on the fifth scale degree creates strong tension that resolves naturally back to the tonic I chord?",
     "options": [
-      "Adagio (slow and stately)",
-      "Largo (broad and dignified)",
-      "Andante (walking pace)",
-      "Allegro"
+      "The IV Chord (Subdominant)",
+      "The ii Chord (Supertonic)",
+      "The vi Chord",
+      "The V Chord (Dominant / Dominant 7th)"
     ],
     "correctAnswer": 3,
-    "explanation": "Allegro means cheerful or brisk in Italian, indicating a tempo typically between 120 and 156 beats per minute.",
+    "explanation": "The leading tone in the V chord creates a strong pull that resolves upward by half-step into the tonic root.",
     "tags": [
       "music",
-      "musical-instruments",
+      "music-theory",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "music-rock-pop-0069",
+    "id": "music-music-theory-0069",
     "category": "Music",
-    "subcategory": "Rock & Pop",
+    "subcategory": "Music Theory",
     "difficulty": "hard",
-    "question": "Music theory and history: Which musical clef, wrapping around the second line of the musical staff, is also known as the G clef? (Ref #69)",
+    "question": "What popular four-chord harmonic progression dominates hundreds of modern pop and rock songs?",
     "options": [
-      "Treble Clef",
-      "Bass Clef (F clef)",
-      "Alto Clef",
-      "Tenor Clef"
+      "I - V - vi - IV (e.g., C - G - Am - F)",
+      "ii - V - I - IV",
+      "I - iii - IV - V",
+      "vi - ii - V - I"
     ],
     "correctAnswer": 0,
-    "explanation": "The treble clef spirals around the G line above middle C, establishing the pitch reference for high-register instruments.",
+    "explanation": "Popularized in songs from 'Don't Stop Believin'' to 'With or Without You', this circular chord loop underpins modern pop hits.",
     "tags": [
       "music",
-      "rock-pop",
+      "music-theory",
       "hard"
     ],
     "active": true
@@ -1453,15 +1453,15 @@
     "category": "Music",
     "subcategory": "Music Theory",
     "difficulty": "easy",
-    "question": "Music theory and history: Which English rock band from Liverpool featured members John Lennon, Paul McCartney, George Harrison, and Ringo Starr? (Ref #70)",
+    "question": "What foundational jazz chord progression moves through the second, fifth, and first scale degrees to establish key centers?",
     "options": [
-      "The Rolling Stones",
-      "The Beatles",
-      "The Who",
-      "Led Zeppelin"
+      "I - IV - V Progression",
+      "ii - V - I Progression",
+      "I - vi - ii - V",
+      "IV - V - I"
     ],
     "correctAnswer": 1,
-    "explanation": "The Beatles formed in Liverpool in 1960 and became the most critically acclaimed and commercially successful band in history.",
+    "explanation": "The ii-V-I progression provides smooth voice-leading and bass motion, ubiquitous in the Great American Songbook and bebop standards.",
     "tags": [
       "music",
       "music-theory",
@@ -1470,64 +1470,64 @@
     "active": true
   },
   {
-    "id": "music-classical-masters-0071",
+    "id": "music-music-theory-0071",
     "category": "Music",
-    "subcategory": "Classical Masters",
+    "subcategory": "Music Theory",
     "difficulty": "medium",
-    "question": "Music theory and history: What is the standard pitch tuning from lowest pitch to highest pitch on a 6-string acoustic or electric guitar? (Ref #71)",
+    "question": "What traditional 12-measure harmonic chord structure forms the foundation of American blues, rock, and jazz music?",
     "options": [
-      "D - G - C - F - A - D",
-      "C - E - G - B - D - F",
-      "E - A - D - G - B - E",
-      "E - B - G - D - A - E"
+      "The Rhythm Changes Progression",
+      "The 16-Bar Ballad",
+      "The 12-Bar Blues Progression (I - I - I - I - IV - IV - I - I - V - IV - I - V)",
+      "The 8-Bar Waltz"
     ],
     "correctAnswer": 2,
-    "explanation": "Standard guitar tuning from the 6th string to the 1st string is E2 - A2 - D3 - G3 - B3 - E4.",
+    "explanation": "The 12-bar blues loops dominant 7th chords through subdominant IV and dominant V turns before returning home.",
     "tags": [
       "music",
-      "classical-masters",
+      "music-theory",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "music-musical-instruments-0072",
+    "id": "music-music-theory-0072",
     "category": "Music",
-    "subcategory": "Musical Instruments",
+    "subcategory": "Music Theory",
     "difficulty": "hard",
-    "question": "Music theory and history: Which classical music composer completed his monumental Ninth Symphony (including the 'Ode to Joy') while completely deaf? (Ref #72)",
+    "question": "What musical term describes changing from one musical key to a different key within the same composition?",
     "options": [
-      "Wolfgang Amadeus Mozart",
-      "Johann Sebastian Bach",
-      "Franz Schubert",
-      "Ludwig van Beethoven"
+      "Transposition",
+      "Syncopation",
+      "Improvisation",
+      "Modulation"
     ],
     "correctAnswer": 3,
-    "explanation": "Beethoven composed his 9th Symphony between 1822 and 1824 despite profound hearing loss, conducting the premiere in Vienna.",
+    "explanation": "Composers modulate to the dominant key or relative minor to build harmonic development, variety, and emotional elevation.",
     "tags": [
       "music",
-      "musical-instruments",
+      "music-theory",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "music-rock-pop-0073",
+    "id": "music-music-theory-0073",
     "category": "Music",
-    "subcategory": "Rock & Pop",
+    "subcategory": "Music Theory",
     "difficulty": "easy",
-    "question": "Music theory and history: What Italian musical tempo term instructs musicians to perform in a quick, lively, and brisk tempo? (Ref #73)",
+    "question": "What performance direction, abbreviated D.C. al Fine, instructs musicians to return to the beginning of the piece and play to the word 'Fine'?",
     "options": [
-      "Allegro",
-      "Adagio (slow and stately)",
-      "Largo (broad and dignified)",
-      "Andante (walking pace)"
+      "Da Capo al Fine (Return to the head/top)",
+      "Dal Segno al Fine",
+      "Coda",
+      "Fermata"
     ],
     "correctAnswer": 0,
-    "explanation": "Allegro means cheerful or brisk in Italian, indicating a tempo typically between 120 and 156 beats per minute.",
+    "explanation": "Da Capo translates literally to 'from the head', saving paper by reusing musical sections in ternary forms.",
     "tags": [
       "music",
-      "rock-pop",
+      "music-theory",
       "easy"
     ],
     "active": true
@@ -1537,15 +1537,15 @@
     "category": "Music",
     "subcategory": "Music Theory",
     "difficulty": "medium",
-    "question": "Music theory and history: Which musical clef, wrapping around the second line of the musical staff, is also known as the G clef? (Ref #74)",
+    "question": "What musical symbol featuring a dot beneath a semi-circular arc indicates that a note should be sustained beyond its normal duration?",
     "options": [
-      "Bass Clef (F clef)",
-      "Treble Clef",
-      "Alto Clef",
-      "Tenor Clef"
+      "A Tenuto Mark",
+      "A Fermata (Bird's Eye / Pause)",
+      "A Staccato Dot",
+      "An Accent"
     ],
     "correctAnswer": 1,
-    "explanation": "The treble clef spirals around the G line above middle C, establishing the pitch reference for high-register instruments.",
+    "explanation": "A fermata leaves the duration of the held note to the artistic discretion of the conductor or solo performer.",
     "tags": [
       "music",
       "music-theory",
@@ -1554,85 +1554,85 @@
     "active": true
   },
   {
-    "id": "music-classical-masters-0075",
+    "id": "music-music-theory-0075",
     "category": "Music",
-    "subcategory": "Classical Masters",
+    "subcategory": "Music Theory",
     "difficulty": "hard",
-    "question": "Music theory and history: Which English rock band from Liverpool featured members John Lennon, Paul McCartney, George Harrison, and Ringo Starr? (Ref #75)",
+    "question": "What articulation marking, indicated by a small dot placed above or below a note head, directs musicians to play the note short and detached?",
     "options": [
-      "The Rolling Stones",
-      "The Who",
-      "The Beatles",
-      "Led Zeppelin"
+      "Legato",
+      "Tenuto",
+      "Staccato",
+      "Marcato"
     ],
     "correctAnswer": 2,
-    "explanation": "The Beatles formed in Liverpool in 1960 and became the most critically acclaimed and commercially successful band in history.",
+    "explanation": "Staccato notes are played crisp and separated, contrasting with legato which connects notes smoothly without silence.",
     "tags": [
       "music",
-      "classical-masters",
+      "music-theory",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "music-musical-instruments-0076",
+    "id": "music-music-theory-0076",
     "category": "Music",
-    "subcategory": "Musical Instruments",
+    "subcategory": "Music Theory",
     "difficulty": "easy",
-    "question": "Music theory and history: What is the standard pitch tuning from lowest pitch to highest pitch on a 6-string acoustic or electric guitar? (Ref #76)",
+    "question": "What articulation instruction directs musicians to play consecutive notes smoothly and connectedly under a curved slur line?",
     "options": [
-      "D - G - C - F - A - D",
-      "C - E - G - B - D - F",
-      "E - B - G - D - A - E",
-      "E - A - D - G - B - E"
+      "Staccato",
+      "Glissando",
+      "Pizzicato",
+      "Legato"
     ],
     "correctAnswer": 3,
-    "explanation": "Standard guitar tuning from the 6th string to the 1st string is E2 - A2 - D3 - G3 - B3 - E4.",
+    "explanation": "Legato creates a singing, seamless melodic line where adjacent notes flow together without audible breaks.",
     "tags": [
       "music",
-      "musical-instruments",
+      "music-theory",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "music-rock-pop-0077",
+    "id": "music-classical-masters-0077",
     "category": "Music",
-    "subcategory": "Rock & Pop",
+    "subcategory": "Classical Masters",
     "difficulty": "medium",
-    "question": "Music theory and history: Which classical music composer completed his monumental Ninth Symphony (including the 'Ode to Joy') while completely deaf? (Ref #77)",
+    "question": "What 1808 Ludwig van Beethoven symphony opens with the famous four-note fate motif: 'short-short-short-LONG' (da-da-da-DUM)?",
     "options": [
-      "Ludwig van Beethoven",
-      "Wolfgang Amadeus Mozart",
-      "Johann Sebastian Bach",
-      "Franz Schubert"
+      "Symphony No. 5 in C minor, Op. 67",
+      "Symphony No. 3 (Eroica)",
+      "Symphony No. 9 (Choral)",
+      "Symphony No. 7"
     ],
     "correctAnswer": 0,
-    "explanation": "Beethoven composed his 9th Symphony between 1822 and 1824 despite profound hearing loss, conducting the premiere in Vienna.",
+    "explanation": "Beethoven famously described the opening four notes as 'Fate knocking at the door', revolutionizing thematic symphonic development.",
     "tags": [
       "music",
-      "rock-pop",
+      "classical-masters",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "music-music-theory-0078",
+    "id": "music-classical-masters-0078",
     "category": "Music",
-    "subcategory": "Music Theory",
+    "subcategory": "Classical Masters",
     "difficulty": "hard",
-    "question": "Music theory and history: What Italian musical tempo term instructs musicians to perform in a quick, lively, and brisk tempo? (Ref #78)",
+    "question": "What monumental Beethoven symphony, completed while he was completely deaf, features vocal soloists and choir singing Friedrich Schiller's 'Ode to Joy'?",
     "options": [
-      "Adagio (slow and stately)",
-      "Allegro",
-      "Largo (broad and dignified)",
-      "Andante (walking pace)"
+      "Symphony No. 5",
+      "Symphony No. 9 in D minor, Op. 125 ('Choral')",
+      "Symphony No. 6 (Pastoral)",
+      "Missa Solemnis"
     ],
     "correctAnswer": 1,
-    "explanation": "Allegro means cheerful or brisk in Italian, indicating a tempo typically between 120 and 156 beats per minute.",
+    "explanation": "The Ninth Symphony broke classical conventions by introducing human voices into a symphony, now adopted as the official Anthem of Europe.",
     "tags": [
       "music",
-      "music-theory",
+      "classical-masters",
       "hard"
     ],
     "active": true
@@ -1642,15 +1642,15 @@
     "category": "Music",
     "subcategory": "Classical Masters",
     "difficulty": "easy",
-    "question": "Music theory and history: Which musical clef, wrapping around the second line of the musical staff, is also known as the G clef? (Ref #79)",
+    "question": "What monumental 1804 Beethoven symphony was originally dedicated to Napoleon Bonaparte before Beethoven tore the title page in anger?",
     "options": [
-      "Bass Clef (F clef)",
-      "Alto Clef",
-      "Treble Clef",
-      "Tenor Clef"
+      "Symphony No. 5",
+      "Symphony No. 9",
+      "Symphony No. 3 in E-flat major ('Eroica')",
+      "Wellington's Victory"
     ],
     "correctAnswer": 2,
-    "explanation": "The treble clef spirals around the G line above middle C, establishing the pitch reference for high-register instruments.",
+    "explanation": "Beethoven erased the dedication when Napoleon crowned himself Emperor of the French, renaming it 'Eroica' to celebrate the heroic memory of a great man.",
     "tags": [
       "music",
       "classical-masters",
@@ -1659,64 +1659,64 @@
     "active": true
   },
   {
-    "id": "music-musical-instruments-0080",
+    "id": "music-classical-masters-0080",
     "category": "Music",
-    "subcategory": "Musical Instruments",
+    "subcategory": "Classical Masters",
     "difficulty": "medium",
-    "question": "Music theory and history: Which English rock band from Liverpool featured members John Lennon, Paul McCartney, George Harrison, and Ringo Starr? (Ref #80)",
+    "question": "What Austrian child prodigy began composing at age five, writing over 600 masterpieces including The Marriage of Figaro and Requiem before dying at 35?",
     "options": [
-      "The Rolling Stones",
-      "The Who",
-      "Led Zeppelin",
-      "The Beatles"
+      "Franz Joseph Haydn",
+      "Franz Schubert",
+      "Johann Sebastian Bach",
+      "Wolfgang Amadeus Mozart"
     ],
     "correctAnswer": 3,
-    "explanation": "The Beatles formed in Liverpool in 1960 and became the most critically acclaimed and commercially successful band in history.",
+    "explanation": "Mozart's melodic perfection and operatic mastery established him alongside Haydn and Beethoven in the First Viennese School.",
     "tags": [
       "music",
-      "musical-instruments",
+      "classical-masters",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "music-rock-pop-0081",
+    "id": "music-classical-masters-0081",
     "category": "Music",
-    "subcategory": "Rock & Pop",
+    "subcategory": "Classical Masters",
     "difficulty": "hard",
-    "question": "Music theory and history: What is the standard pitch tuning from lowest pitch to highest pitch on a 6-string acoustic or electric guitar? (Ref #81)",
+    "question": "What unfinished masterpiece was Mozart writing on his deathbed in December 1791, famously completed by his pupil Franz Xaver Süssmayr?",
     "options": [
-      "E - A - D - G - B - E",
-      "D - G - C - F - A - D",
-      "C - E - G - B - D - F",
-      "E - B - G - D - A - E"
+      "Requiem in D minor, K. 626",
+      "The Magic Flute",
+      "Don Giovanni",
+      "Così fan tutte"
     ],
     "correctAnswer": 0,
-    "explanation": "Standard guitar tuning from the 6th string to the 1st string is E2 - A2 - D3 - G3 - B3 - E4.",
+    "explanation": "Commissioned anonymously by Count Franz von Walsegg, Mozart believed he was composing a funeral mass for his own death.",
     "tags": [
       "music",
-      "rock-pop",
+      "classical-masters",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "music-music-theory-0082",
+    "id": "music-classical-masters-0082",
     "category": "Music",
-    "subcategory": "Music Theory",
+    "subcategory": "Classical Masters",
     "difficulty": "easy",
-    "question": "Music theory and history: Which classical music composer completed his monumental Ninth Symphony (including the 'Ode to Joy') while completely deaf? (Ref #82)",
+    "question": "What 1791 German opera (Singspiel) by Mozart features the Prince Tamino, bird-catcher Papageno, and the stratospheric Queen of the Night aria?",
     "options": [
-      "Wolfgang Amadeus Mozart",
-      "Ludwig van Beethoven",
-      "Johann Sebastian Bach",
-      "Franz Schubert"
+      "The Marriage of Figaro",
+      "The Magic Flute (Die Zauberflöte)",
+      "Don Giovanni",
+      "The Abduction from the Seraglio"
     ],
     "correctAnswer": 1,
-    "explanation": "Beethoven composed his 9th Symphony between 1822 and 1824 despite profound hearing loss, conducting the premiere in Vienna.",
+    "explanation": "The Queen of the Night's vengeful aria 'Der Hölle Rache' requires soprano vocal leaps up to high F (F6).",
     "tags": [
       "music",
-      "music-theory",
+      "classical-masters",
       "easy"
     ],
     "active": true
@@ -1726,15 +1726,15 @@
     "category": "Music",
     "subcategory": "Classical Masters",
     "difficulty": "medium",
-    "question": "Music theory and history: What Italian musical tempo term instructs musicians to perform in a quick, lively, and brisk tempo? (Ref #83)",
+    "question": "What 1787 Mozart opera dramma giocoso follows the unrepentant libertine Don Juan dragged down to hell by the statue of the Commendatore?",
     "options": [
-      "Adagio (slow and stately)",
-      "Largo (broad and dignified)",
-      "Allegro",
-      "Andante (walking pace)"
+      "The Marriage of Figaro",
+      "Così fan tutte",
+      "Don Giovanni",
+      "Idomeneo"
     ],
     "correctAnswer": 2,
-    "explanation": "Allegro means cheerful or brisk in Italian, indicating a tempo typically between 120 and 156 beats per minute.",
+    "explanation": "Considered by philosophers like Kierkegaard as the greatest opera ever created, it blends dark comedy with supernatural damnation.",
     "tags": [
       "music",
       "classical-masters",
@@ -1743,64 +1743,64 @@
     "active": true
   },
   {
-    "id": "music-musical-instruments-0084",
+    "id": "music-classical-masters-0084",
     "category": "Music",
-    "subcategory": "Musical Instruments",
+    "subcategory": "Classical Masters",
     "difficulty": "hard",
-    "question": "Music theory and history: Which musical clef, wrapping around the second line of the musical staff, is also known as the G clef? (Ref #84)",
+    "question": "What German Baroque master composed the Brandenburg Concertos, The Well-Tempered Clavier, and Mass in B Minor?",
     "options": [
-      "Bass Clef (F clef)",
-      "Alto Clef",
-      "Tenor Clef",
-      "Treble Clef"
+      "George Frideric Handel",
+      "Georg Philipp Telemann",
+      "Antonio Vivaldi",
+      "Johann Sebastian Bach"
     ],
     "correctAnswer": 3,
-    "explanation": "The treble clef spirals around the G line above middle C, establishing the pitch reference for high-register instruments.",
+    "explanation": "Bach perfected polyphonic counterpoint and fugue, celebrated as the greatest musical craftsman in Western classical history.",
     "tags": [
       "music",
-      "musical-instruments",
+      "classical-masters",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "music-rock-pop-0085",
+    "id": "music-classical-masters-0085",
     "category": "Music",
-    "subcategory": "Rock & Pop",
+    "subcategory": "Classical Masters",
     "difficulty": "easy",
-    "question": "Music theory and history: Which English rock band from Liverpool featured members John Lennon, Paul McCartney, George Harrison, and Ringo Starr? (Ref #85)",
+    "question": "What pedagogical keyboard work by J.S. Bach consists of 48 preludes and fugues traversing all 24 major and minor keys in two books?",
     "options": [
-      "The Beatles",
-      "The Rolling Stones",
-      "The Who",
-      "Led Zeppelin"
+      "The Well-Tempered Clavier (BWV 842-893)",
+      "The Art of Fugue",
+      "Goldberg Variations",
+      "Inventions and Sinfonias"
     ],
     "correctAnswer": 0,
-    "explanation": "The Beatles formed in Liverpool in 1960 and became the most critically acclaimed and commercially successful band in history.",
+    "explanation": "Bach proved the practical superiority of equal-temperament tuning systems, allowing musicians to play in any key without retuning.",
     "tags": [
       "music",
-      "rock-pop",
+      "classical-masters",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "music-music-theory-0086",
+    "id": "music-classical-masters-0086",
     "category": "Music",
-    "subcategory": "Music Theory",
+    "subcategory": "Classical Masters",
     "difficulty": "medium",
-    "question": "Music theory and history: What is the standard pitch tuning from lowest pitch to highest pitch on a 6-string acoustic or electric guitar? (Ref #86)",
+    "question": "What complex keyboard composition by J.S. Bach consists of an aria and 30 variations, commissioned to cure an insomniac Russian count?",
     "options": [
-      "D - G - C - F - A - D",
-      "E - A - D - G - B - E",
-      "C - E - G - B - D - F",
-      "E - B - G - D - A - E"
+      "The Well-Tempered Clavier",
+      "The Goldberg Variations (BWV 988)",
+      "Partitas",
+      "The Art of Fugue"
     ],
     "correctAnswer": 1,
-    "explanation": "Standard guitar tuning from the 6th string to the 1st string is E2 - A2 - D3 - G3 - B3 - E4.",
+    "explanation": "Johann Gottlieb Goldberg was hired to play the intricate contrapuntal variations to soothe Count Kaiserling during sleepless nights.",
     "tags": [
       "music",
-      "music-theory",
+      "classical-masters",
       "medium"
     ],
     "active": true
@@ -1810,15 +1810,15 @@
     "category": "Music",
     "subcategory": "Classical Masters",
     "difficulty": "hard",
-    "question": "Music theory and history: Which classical music composer completed his monumental Ninth Symphony (including the 'Ode to Joy') while completely deaf? (Ref #87)",
+    "question": "What German-born British Baroque composer wrote the celebrated 1741 oratorio Messiah, featuring the famous 'Hallelujah' Chorus?",
     "options": [
-      "Wolfgang Amadeus Mozart",
       "Johann Sebastian Bach",
-      "Ludwig van Beethoven",
-      "Franz Schubert"
+      "Henry Purcell",
+      "George Frideric Handel",
+      "Antonio Vivaldi"
     ],
     "correctAnswer": 2,
-    "explanation": "Beethoven composed his 9th Symphony between 1822 and 1824 despite profound hearing loss, conducting the premiere in Vienna.",
+    "explanation": "King George II reportedly stood during the 'Hallelujah' Chorus in London, establishing a tradition followed by audiences worldwide.",
     "tags": [
       "music",
       "classical-masters",
@@ -1827,64 +1827,64 @@
     "active": true
   },
   {
-    "id": "music-musical-instruments-0088",
+    "id": "music-classical-masters-0088",
     "category": "Music",
-    "subcategory": "Musical Instruments",
+    "subcategory": "Classical Masters",
     "difficulty": "easy",
-    "question": "Music theory and history: What Italian musical tempo term instructs musicians to perform in a quick, lively, and brisk tempo? (Ref #88)",
+    "question": "What 1717 orchestral suite was composed by George Frideric Handel for an outdoor royal concert aboard a barge on the River Thames for King George I?",
     "options": [
-      "Adagio (slow and stately)",
-      "Largo (broad and dignified)",
-      "Andante (walking pace)",
-      "Allegro"
+      "Music for the Royal Fireworks",
+      "Messiah",
+      "Zadok the Priest",
+      "Water Music"
     ],
     "correctAnswer": 3,
-    "explanation": "Allegro means cheerful or brisk in Italian, indicating a tempo typically between 120 and 156 beats per minute.",
+    "explanation": "Fifty musicians floated beside the royal barge, playing so brilliantly that the King demanded the entire suite be repeated three times.",
     "tags": [
       "music",
-      "musical-instruments",
+      "classical-masters",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "music-rock-pop-0089",
+    "id": "music-classical-masters-0089",
     "category": "Music",
-    "subcategory": "Rock & Pop",
+    "subcategory": "Classical Masters",
     "difficulty": "medium",
-    "question": "Music theory and history: Which musical clef, wrapping around the second line of the musical staff, is also known as the G clef? (Ref #89)",
+    "question": "What Venetian Baroque composer and violin virtuoso, nicknamed 'The Red Priest', composed the famous concerto suite The Four Seasons?",
     "options": [
-      "Treble Clef",
-      "Bass Clef (F clef)",
-      "Alto Clef",
-      "Tenor Clef"
+      "Antonio Vivaldi",
+      "Arcangelo Corelli",
+      "Tomaso Albinoni",
+      "Claudio Monteverdi"
     ],
     "correctAnswer": 0,
-    "explanation": "The treble clef spirals around the G line above middle C, establishing the pitch reference for high-register instruments.",
+    "explanation": "Vivaldi's Four Seasons features musical program depictions of barking dogs, buzzing flies, icy winds, and drunken autumn dances.",
     "tags": [
       "music",
-      "rock-pop",
+      "classical-masters",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "music-music-theory-0090",
+    "id": "music-classical-masters-0090",
     "category": "Music",
-    "subcategory": "Music Theory",
+    "subcategory": "Classical Masters",
     "difficulty": "hard",
-    "question": "Music theory and history: Which English rock band from Liverpool featured members John Lennon, Paul McCartney, George Harrison, and Ringo Starr? (Ref #90)",
+    "question": "What Austrian composer, celebrated as both the 'Father of the Symphony' and 'Father of the String Quartet', composed 106 symphonies?",
     "options": [
-      "The Rolling Stones",
-      "The Beatles",
-      "The Who",
-      "Led Zeppelin"
+      "Wolfgang Amadeus Mozart",
+      "Franz Joseph Haydn",
+      "Ludwig van Beethoven",
+      "Franz Schubert"
     ],
     "correctAnswer": 1,
-    "explanation": "The Beatles formed in Liverpool in 1960 and became the most critically acclaimed and commercially successful band in history.",
+    "explanation": "Haydn spent three decades as court Kapellmeister for the wealthy Hungarian Esterházy princes, mentoring Mozart and teaching Beethoven.",
     "tags": [
       "music",
-      "music-theory",
+      "classical-masters",
       "hard"
     ],
     "active": true
@@ -1894,15 +1894,15 @@
     "category": "Music",
     "subcategory": "Classical Masters",
     "difficulty": "easy",
-    "question": "Music theory and history: What is the standard pitch tuning from lowest pitch to highest pitch on a 6-string acoustic or electric guitar? (Ref #91)",
+    "question": "What Haydn symphony features a sudden, loud fortissimo orchestral chord in its quiet Andante movement designed to wake up sleepy London patrons?",
     "options": [
-      "D - G - C - F - A - D",
-      "C - E - G - B - D - F",
-      "E - A - D - G - B - E",
-      "E - B - G - D - A - E"
+      "Symphony No. 45 ('Farewell')",
+      "Symphony No. 104 ('London')",
+      "Symphony No. 94 in G major ('The Surprise Symphony')",
+      "Symphony No. 101 ('The Clock')"
     ],
     "correctAnswer": 2,
-    "explanation": "Standard guitar tuning from the 6th string to the 1st string is E2 - A2 - D3 - G3 - B3 - E4.",
+    "explanation": "Haydn joked that the sudden explosive crash would make ladies shriek and awaken elderly gentlemen in the audience.",
     "tags": [
       "music",
       "classical-masters",
@@ -1911,64 +1911,64 @@
     "active": true
   },
   {
-    "id": "music-musical-instruments-0092",
+    "id": "music-classical-masters-0092",
     "category": "Music",
-    "subcategory": "Musical Instruments",
+    "subcategory": "Classical Masters",
     "difficulty": "medium",
-    "question": "Music theory and history: Which classical music composer completed his monumental Ninth Symphony (including the 'Ode to Joy') while completely deaf? (Ref #92)",
+    "question": "What 1772 Haydn symphony concluded with musicians extinguishing their stand candles and quietly exiting the stage one by one until only two violins remained?",
     "options": [
-      "Wolfgang Amadeus Mozart",
-      "Johann Sebastian Bach",
-      "Franz Schubert",
-      "Ludwig van Beethoven"
+      "Symphony No. 94 ('Surprise')",
+      "Symphony No. 103 ('Drumroll')",
+      "Symphony No. 88",
+      "Symphony No. 45 in F-sharp minor ('The Farewell Symphony')"
     ],
     "correctAnswer": 3,
-    "explanation": "Beethoven composed his 9th Symphony between 1822 and 1824 despite profound hearing loss, conducting the premiere in Vienna.",
+    "explanation": "Haydn used the polite musical protest to signal to Prince Esterházy that the exhausted musicians were overdue to return home to their families.",
     "tags": [
       "music",
-      "musical-instruments",
+      "classical-masters",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "music-rock-pop-0093",
+    "id": "music-classical-masters-0093",
     "category": "Music",
-    "subcategory": "Rock & Pop",
+    "subcategory": "Classical Masters",
     "difficulty": "hard",
-    "question": "Music theory and history: What Italian musical tempo term instructs musicians to perform in a quick, lively, and brisk tempo? (Ref #93)",
+    "question": "What Austrian Romantic composer wrote over 600 lieder (art songs), including 'The Erlking' and 'Ave Maria', alongside his famous 'Unfinished Symphony'?",
     "options": [
-      "Allegro",
-      "Adagio (slow and stately)",
-      "Largo (broad and dignified)",
-      "Andante (walking pace)"
+      "Franz Schubert",
+      "Robert Schumann",
+      "Johannes Brahms",
+      "Hugo Wolf"
     ],
     "correctAnswer": 0,
-    "explanation": "Allegro means cheerful or brisk in Italian, indicating a tempo typically between 120 and 156 beats per minute.",
+    "explanation": "Schubert lived in bohemian poverty in Vienna, gathering friends for intimate musical salons known as 'Schubertiades' before dying at 31.",
     "tags": [
       "music",
-      "rock-pop",
+      "classical-masters",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "music-music-theory-0094",
+    "id": "music-classical-masters-0094",
     "category": "Music",
-    "subcategory": "Music Theory",
+    "subcategory": "Classical Masters",
     "difficulty": "easy",
-    "question": "Music theory and history: Which musical clef, wrapping around the second line of the musical staff, is also known as the G clef? (Ref #94)",
+    "question": "What Polish-French Romantic composer and virtuoso pianist composed exclusively for the piano, creating celebrated Nocturnes, Polonaises, and Ballades?",
     "options": [
-      "Bass Clef (F clef)",
-      "Treble Clef",
-      "Alto Clef",
-      "Tenor Clef"
+      "Franz Liszt",
+      "Frédéric Chopin",
+      "Robert Schumann",
+      "Johannes Brahms"
     ],
     "correctAnswer": 1,
-    "explanation": "The treble clef spirals around the G line above middle C, establishing the pitch reference for high-register instruments.",
+    "explanation": "Chopin expanded piano color and expressive rubato, maintaining a tempestuous romance with French novelist George Sand.",
     "tags": [
       "music",
-      "music-theory",
+      "classical-masters",
       "easy"
     ],
     "active": true
@@ -1978,15 +1978,15 @@
     "category": "Music",
     "subcategory": "Classical Masters",
     "difficulty": "medium",
-    "question": "Music theory and history: Which English rock band from Liverpool featured members John Lennon, Paul McCartney, George Harrison, and Ringo Starr? (Ref #95)",
+    "question": "What Hungarian piano virtuoso and composer created the symphonic poem genre and ignited fanatical rock-star-like hysteria known as 'Lisztomania'?",
     "options": [
-      "The Rolling Stones",
-      "The Who",
-      "The Beatles",
-      "Led Zeppelin"
+      "Frédéric Chopin",
+      "Béla Bartók",
+      "Franz Liszt",
+      "Anton Rubinstein"
     ],
     "correctAnswer": 2,
-    "explanation": "The Beatles formed in Liverpool in 1960 and became the most critically acclaimed and commercially successful band in history.",
+    "explanation": "Liszt's superhuman finger dexterity and dramatic hair-tossing performances made aristocratic women swoon across 19th-century Europe.",
     "tags": [
       "music",
       "classical-masters",
@@ -1995,64 +1995,64 @@
     "active": true
   },
   {
-    "id": "music-musical-instruments-0096",
+    "id": "music-classical-masters-0096",
     "category": "Music",
-    "subcategory": "Musical Instruments",
+    "subcategory": "Classical Masters",
     "difficulty": "hard",
-    "question": "Music theory and history: What is the standard pitch tuning from lowest pitch to highest pitch on a 6-string acoustic or electric guitar? (Ref #96)",
+    "question": "What German Romantic composer wrote the Hungarian Dances and Academic Festival Overture, revered as one of the 'Three Bs' with Bach and Beethoven?",
     "options": [
-      "D - G - C - F - A - D",
-      "C - E - G - B - D - F",
-      "E - B - G - D - A - E",
-      "E - A - D - G - B - E"
+      "Anton Bruckner",
+      "Gustav Mahler",
+      "Richard Strauss",
+      "Johannes Brahms"
     ],
     "correctAnswer": 3,
-    "explanation": "Standard guitar tuning from the 6th string to the 1st string is E2 - A2 - D3 - G3 - B3 - E4.",
+    "explanation": "Brahms was a champion of absolute classical form against the progressive Wagnerian movement, renowned for his warm German Requiem.",
     "tags": [
       "music",
-      "musical-instruments",
+      "classical-masters",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "music-rock-pop-0097",
+    "id": "music-classical-masters-0097",
     "category": "Music",
-    "subcategory": "Rock & Pop",
+    "subcategory": "Classical Masters",
     "difficulty": "easy",
-    "question": "Music theory and history: Which classical music composer completed his monumental Ninth Symphony (including the 'Ode to Joy') while completely deaf? (Ref #97)",
+    "question": "What Russian Romantic composer created the world-famous ballet scores for The Nutcracker, Swan Lake, and The Sleeping Beauty?",
     "options": [
-      "Ludwig van Beethoven",
-      "Wolfgang Amadeus Mozart",
-      "Johann Sebastian Bach",
-      "Franz Schubert"
+      "Pyotr Ilyich Tchaikovsky",
+      "Sergei Rachmaninoff",
+      "Modest Mussorgsky",
+      "Nikolai Rimsky-Korsakov"
     ],
     "correctAnswer": 0,
-    "explanation": "Beethoven composed his 9th Symphony between 1822 and 1824 despite profound hearing loss, conducting the premiere in Vienna.",
+    "explanation": "Tchaikovsky's soaring melodies and emotional orchestration made his Russian ballets and symphonies beloved across the globe.",
     "tags": [
       "music",
-      "rock-pop",
+      "classical-masters",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "music-music-theory-0098",
+    "id": "music-classical-masters-0098",
     "category": "Music",
-    "subcategory": "Music Theory",
+    "subcategory": "Classical Masters",
     "difficulty": "medium",
-    "question": "Music theory and history: What Italian musical tempo term instructs musicians to perform in a quick, lively, and brisk tempo? (Ref #98)",
+    "question": "What explosive 1880 Tchaikovsky orchestral overture commemorates Russia's defense against Napoleon, scored with real live firing cannons?",
     "options": [
-      "Adagio (slow and stately)",
-      "Allegro",
-      "Largo (broad and dignified)",
-      "Andante (walking pace)"
+      "Romeo and Juliet Overture",
+      "The 1812 Overture, Op. 49",
+      "Marche Slave",
+      "Capriccio Italien"
     ],
     "correctAnswer": 1,
-    "explanation": "Allegro means cheerful or brisk in Italian, indicating a tempo typically between 120 and 156 beats per minute.",
+    "explanation": "Ending with church bells peeling and live artillery fire, it is a staple of American Fourth of July outdoor summer concerts.",
     "tags": [
       "music",
-      "music-theory",
+      "classical-masters",
       "medium"
     ],
     "active": true
@@ -2062,15 +2062,15 @@
     "category": "Music",
     "subcategory": "Classical Masters",
     "difficulty": "hard",
-    "question": "Music theory and history: Which musical clef, wrapping around the second line of the musical staff, is also known as the G clef? (Ref #99)",
+    "question": "What 1892 holiday ballet by Tchaikovsky features the Sugar Plum Fairy, the Rat King, and the dance of the wooden toy come to life on Christmas Eve?",
     "options": [
-      "Bass Clef (F clef)",
-      "Alto Clef",
-      "Treble Clef",
-      "Tenor Clef"
+      "Swan Lake",
+      "The Sleeping Beauty",
+      "The Nutcracker",
+      "Coppélia"
     ],
     "correctAnswer": 2,
-    "explanation": "The treble clef spirals around the G line above middle C, establishing the pitch reference for high-register instruments.",
+    "explanation": "Tchaikovsky introduced the celestial chime sound of the celesta in the famous 'Dance of the Sugar Plum Fairy.'",
     "tags": [
       "music",
       "classical-masters",
@@ -2079,64 +2079,64 @@
     "active": true
   },
   {
-    "id": "music-musical-instruments-0100",
+    "id": "music-classical-masters-0100",
     "category": "Music",
-    "subcategory": "Musical Instruments",
+    "subcategory": "Classical Masters",
     "difficulty": "easy",
-    "question": "Music theory and history: Which English rock band from Liverpool featured members John Lennon, Paul McCartney, George Harrison, and Ringo Starr? (Ref #100)",
+    "question": "What Russian piano virtuoso and composer with massive hands composed the notoriously difficult Piano Concerto No. 3 and Rhapsody on a Theme of Paganini?",
     "options": [
-      "The Rolling Stones",
-      "The Who",
-      "Led Zeppelin",
-      "The Beatles"
+      "Alexander Scriabin",
+      "Vladimir Horowitz",
+      "Pyotr Ilyich Tchaikovsky",
+      "Sergei Rachmaninoff"
     ],
     "correctAnswer": 3,
-    "explanation": "The Beatles formed in Liverpool in 1960 and became the most critically acclaimed and commercially successful band in history.",
+    "explanation": "Rachmaninoff could span an interval of a 13th on the piano keyboard, renowned for dark, sweeping Russian romanticism.",
     "tags": [
       "music",
-      "musical-instruments",
+      "classical-masters",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "music-rock-pop-0101",
+    "id": "music-classical-masters-0101",
     "category": "Music",
-    "subcategory": "Rock & Pop",
+    "subcategory": "Classical Masters",
     "difficulty": "medium",
-    "question": "Music theory and history: What is the standard pitch tuning from lowest pitch to highest pitch on a 6-string acoustic or electric guitar? (Ref #101)",
+    "question": "What French Impressionist composer pioneered floating modal harmonies and shimmering orchestral colors in 'Clair de Lune' and 'La Mer'?",
     "options": [
-      "E - A - D - G - B - E",
-      "D - G - C - F - A - D",
-      "C - E - G - B - D - F",
-      "E - B - G - D - A - E"
+      "Claude Debussy",
+      "Maurice Ravel",
+      "Gabriel Fauré",
+      "Camille Saint-Saëns"
     ],
     "correctAnswer": 0,
-    "explanation": "Standard guitar tuning from the 6th string to the 1st string is E2 - A2 - D3 - G3 - B3 - E4.",
+    "explanation": "Debussy rejected rigid German harmonic rules, creating dreamlike sensory impressions inspired by symbolist poetry and Javanese gamelan.",
     "tags": [
       "music",
-      "rock-pop",
+      "classical-masters",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "music-music-theory-0102",
+    "id": "music-classical-masters-0102",
     "category": "Music",
-    "subcategory": "Music Theory",
+    "subcategory": "Classical Masters",
     "difficulty": "hard",
-    "question": "Music theory and history: Which classical music composer completed his monumental Ninth Symphony (including the 'Ode to Joy') while completely deaf? (Ref #102)",
+    "question": "What French Impressionist master orchestrated Mussorgsky's Pictures at an Exhibition and composed the hypnotic crescendo masterpiece Boléro?",
     "options": [
-      "Wolfgang Amadeus Mozart",
-      "Ludwig van Beethoven",
-      "Johann Sebastian Bach",
-      "Franz Schubert"
+      "Claude Debussy",
+      "Maurice Ravel",
+      "Erik Satie",
+      "Hector Berlioz"
     ],
     "correctAnswer": 1,
-    "explanation": "Beethoven composed his 9th Symphony between 1822 and 1824 despite profound hearing loss, conducting the premiere in Vienna.",
+    "explanation": "Boléro repeats a single 18-measure Spanish melody over an unvarying snare drum ostinato rhythm, gradually swelling to deafening fortissimo.",
     "tags": [
       "music",
-      "music-theory",
+      "classical-masters",
       "hard"
     ],
     "active": true
@@ -2146,15 +2146,15 @@
     "category": "Music",
     "subcategory": "Classical Masters",
     "difficulty": "easy",
-    "question": "Music theory and history: What Italian musical tempo term instructs musicians to perform in a quick, lively, and brisk tempo? (Ref #103)",
+    "question": "What groundbreaking 1913 ballet score by Igor Stravinsky ignited an infamous near-riot at the Théâtre des Champs-Élysées in Paris?",
     "options": [
-      "Adagio (slow and stately)",
-      "Largo (broad and dignified)",
-      "Allegro",
-      "Andante (walking pace)"
+      "The Firebird",
+      "Petrushka",
+      "The Rite of Spring (Le Sacre du printemps)",
+      "The Soldier's Tale"
     ],
     "correctAnswer": 2,
-    "explanation": "Allegro means cheerful or brisk in Italian, indicating a tempo typically between 120 and 156 beats per minute.",
+    "explanation": "Stravinsky's savage polyrhythms and dissonant pagan sacrifice chords shocked conservative Parisian audiences into shouting matches.",
     "tags": [
       "music",
       "classical-masters",
@@ -2163,64 +2163,64 @@
     "active": true
   },
   {
-    "id": "music-musical-instruments-0104",
+    "id": "music-classical-masters-0104",
     "category": "Music",
-    "subcategory": "Musical Instruments",
+    "subcategory": "Classical Masters",
     "difficulty": "medium",
-    "question": "Music theory and history: Which musical clef, wrapping around the second line of the musical staff, is also known as the G clef? (Ref #104)",
+    "question": "What Czech Romantic composer wrote the Symphony No. 9 'From the New World' after living in the United States and absorbing spirituals?",
     "options": [
-      "Bass Clef (F clef)",
-      "Alto Clef",
-      "Tenor Clef",
-      "Treble Clef"
+      "Bedřich Smetana",
+      "Leoš Janáček",
+      "Béla Bartók",
+      "Antonín Dvořák"
     ],
     "correctAnswer": 3,
-    "explanation": "The treble clef spirals around the G line above middle C, establishing the pitch reference for high-register instruments.",
+    "explanation": "Dvořák's famous English horn solo in the Largo movement was later adapted into the spiritual hymn 'Goin' Home.'",
     "tags": [
       "music",
-      "musical-instruments",
+      "classical-masters",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "music-rock-pop-0105",
+    "id": "music-classical-masters-0105",
     "category": "Music",
-    "subcategory": "Rock & Pop",
+    "subcategory": "Classical Masters",
     "difficulty": "hard",
-    "question": "Music theory and history: Which English rock band from Liverpool featured members John Lennon, Paul McCartney, George Harrison, and Ringo Starr? (Ref #105)",
+    "question": "What Finnish nationalist composer composed the patriotic tone poem Finlandia and the Karelia Suite, inspiring Finnish independence from Russia?",
     "options": [
-      "The Beatles",
-      "The Rolling Stones",
-      "The Who",
-      "Led Zeppelin"
+      "Jean Sibelius",
+      "Edvard Grieg",
+      "Carl Nielsen",
+      "Johan Svendsen"
     ],
     "correctAnswer": 0,
-    "explanation": "The Beatles formed in Liverpool in 1960 and became the most critically acclaimed and commercially successful band in history.",
+    "explanation": "Sibelius's stark orchestral landscapes and soaring brass melodies made him Finland's greatest cultural national hero.",
     "tags": [
       "music",
-      "rock-pop",
+      "classical-masters",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "music-music-theory-0106",
+    "id": "music-classical-masters-0106",
     "category": "Music",
-    "subcategory": "Music Theory",
+    "subcategory": "Classical Masters",
     "difficulty": "easy",
-    "question": "Music theory and history: What is the standard pitch tuning from lowest pitch to highest pitch on a 6-string acoustic or electric guitar? (Ref #106)",
+    "question": "What Norwegian Romantic composer celebrated his homeland's fjords and folklore in the Peer Gynt Suite, including 'In the Hall of the Mountain King'?",
     "options": [
-      "D - G - C - F - A - D",
-      "E - A - D - G - B - E",
-      "C - E - G - B - D - F",
-      "E - B - G - D - A - E"
+      "Jean Sibelius",
+      "Edvard Grieg",
+      "Carl Nielsen",
+      "Johan Halvorsen"
     ],
     "correctAnswer": 1,
-    "explanation": "Standard guitar tuning from the 6th string to the 1st string is E2 - A2 - D3 - G3 - B3 - E4.",
+    "explanation": "Grieg's gentle piano miniatures and dramatic troll dances captured the spirit of Scandinavian nationalist Romanticism.",
     "tags": [
       "music",
-      "music-theory",
+      "classical-masters",
       "easy"
     ],
     "active": true
@@ -2230,15 +2230,15 @@
     "category": "Music",
     "subcategory": "Classical Masters",
     "difficulty": "medium",
-    "question": "Music theory and history: Which classical music composer completed his monumental Ninth Symphony (including the 'Ode to Joy') while completely deaf? (Ref #107)",
+    "question": "What Austrian late-Romantic composer and conductor composed massive symphonies with cowbells and hammer blows, declaring 'The symphony must be like the world'?",
     "options": [
-      "Wolfgang Amadeus Mozart",
-      "Johann Sebastian Bach",
-      "Ludwig van Beethoven",
-      "Franz Schubert"
+      "Anton Bruckner",
+      "Richard Strauss",
+      "Gustav Mahler",
+      "Alban Berg"
     ],
     "correctAnswer": 2,
-    "explanation": "Beethoven composed his 9th Symphony between 1822 and 1824 despite profound hearing loss, conducting the premiere in Vienna.",
+    "explanation": "Mahler's monumental 'Symphony of a Thousand' (No. 8) required over a thousand choral and orchestral performers on stage.",
     "tags": [
       "music",
       "classical-masters",
@@ -2247,64 +2247,64 @@
     "active": true
   },
   {
-    "id": "music-musical-instruments-0108",
+    "id": "music-classical-masters-0108",
     "category": "Music",
-    "subcategory": "Musical Instruments",
+    "subcategory": "Classical Masters",
     "difficulty": "hard",
-    "question": "Music theory and history: What Italian musical tempo term instructs musicians to perform in a quick, lively, and brisk tempo? (Ref #108)",
+    "question": "What monumental 1830 program symphony by Hector Berlioz depicts an artist's opium-fueled hallucinations over his beloved, ending with a Witches' Sabbath?",
     "options": [
-      "Adagio (slow and stately)",
-      "Largo (broad and dignified)",
-      "Andante (walking pace)",
-      "Allegro"
+      "Harold in Italy",
+      "The Damnation of Faust",
+      "Roméo et Juliette",
+      "Symphonie fantastique, Op. 14"
     ],
     "correctAnswer": 3,
-    "explanation": "Allegro means cheerful or brisk in Italian, indicating a tempo typically between 120 and 156 beats per minute.",
+    "explanation": "Berlioz used an 'idée fixe' melodic motif representing his unrequited love for actress Harriet Smithson, revolutionizing modern orchestration.",
     "tags": [
       "music",
-      "musical-instruments",
+      "classical-masters",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "music-rock-pop-0109",
+    "id": "music-classical-masters-0109",
     "category": "Music",
-    "subcategory": "Rock & Pop",
+    "subcategory": "Classical Masters",
     "difficulty": "easy",
-    "question": "Music theory and history: Which musical clef, wrapping around the second line of the musical staff, is also known as the G clef? (Ref #109)",
+    "question": "What Italian opera master composed Nabucco, Rigoletto, Il Trovatore, La Traviata, and the grand Egyptian spectacle Aida?",
     "options": [
-      "Treble Clef",
-      "Bass Clef (F clef)",
-      "Alto Clef",
-      "Tenor Clef"
+      "Giuseppe Verdi",
+      "Giacomo Puccini",
+      "Gioachino Rossini",
+      "Vincenzo Bellini"
     ],
     "correctAnswer": 0,
-    "explanation": "The treble clef spirals around the G line above middle C, establishing the pitch reference for high-register instruments.",
+    "explanation": "Verdi's stirring choruses like 'Va, pensiero' became anthems of the Italian Risorgimento unification movement.",
     "tags": [
       "music",
-      "rock-pop",
+      "classical-masters",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "music-music-theory-0110",
+    "id": "music-classical-masters-0110",
     "category": "Music",
-    "subcategory": "Music Theory",
+    "subcategory": "Classical Masters",
     "difficulty": "medium",
-    "question": "Music theory and history: Which English rock band from Liverpool featured members John Lennon, Paul McCartney, George Harrison, and Ringo Starr? (Ref #110)",
+    "question": "What Italian opera master composed La Bohème, Tosca, Madama Butterfly, and the unfinished Turandot with the aria 'Nessun dorma'?",
     "options": [
-      "The Rolling Stones",
-      "The Beatles",
-      "The Who",
-      "Led Zeppelin"
+      "Giuseppe Verdi",
+      "Giacomo Puccini",
+      "Gioachino Rossini",
+      "Gaetano Donizetti"
     ],
     "correctAnswer": 1,
-    "explanation": "The Beatles formed in Liverpool in 1960 and became the most critically acclaimed and commercially successful band in history.",
+    "explanation": "Puccini perfected the verismo (realism) style, moving international opera audiences to tears with soaring melodic tragedy.",
     "tags": [
       "music",
-      "music-theory",
+      "classical-masters",
       "medium"
     ],
     "active": true
@@ -2314,15 +2314,15 @@
     "category": "Music",
     "subcategory": "Classical Masters",
     "difficulty": "hard",
-    "question": "Music theory and history: What is the standard pitch tuning from lowest pitch to highest pitch on a 6-string acoustic or electric guitar? (Ref #111)",
+    "question": "What German composer transformed opera into 'Music Drama' with leitmotifs and built his own festival theater in Bayreuth for his 16-hour Ring Cycle?",
     "options": [
-      "D - G - C - F - A - D",
-      "C - E - G - B - D - F",
-      "E - A - D - G - B - E",
-      "E - B - G - D - A - E"
+      "Richard Strauss",
+      "Johannes Brahms",
+      "Richard Wagner",
+      "Carl Maria von Weber"
     ],
     "correctAnswer": 2,
-    "explanation": "Standard guitar tuning from the 6th string to the 1st string is E2 - A2 - D3 - G3 - B3 - E4.",
+    "explanation": "Der Ring des Nibelungen (The Rhinegold, The Valkyrie, Siegfried, Twilight of the Gods) took Wagner 26 years to compose.",
     "tags": [
       "music",
       "classical-masters",
@@ -2331,85 +2331,85 @@
     "active": true
   },
   {
-    "id": "music-musical-instruments-0112",
+    "id": "music-classical-masters-0112",
     "category": "Music",
-    "subcategory": "Musical Instruments",
+    "subcategory": "Classical Masters",
     "difficulty": "easy",
-    "question": "Music theory and history: Which classical music composer completed his monumental Ninth Symphony (including the 'Ode to Joy') while completely deaf? (Ref #112)",
+    "question": "What Italian comic opera overture by Gioachino Rossini is famous worldwide as the galloping theme music for The Lone Ranger?",
     "options": [
-      "Wolfgang Amadeus Mozart",
-      "Johann Sebastian Bach",
-      "Franz Schubert",
-      "Ludwig van Beethoven"
+      "The Barber of Seville",
+      "The Thieving Magpie",
+      "La Cenerentola",
+      "The William Tell Overture"
     ],
     "correctAnswer": 3,
-    "explanation": "Beethoven composed his 9th Symphony between 1822 and 1824 despite profound hearing loss, conducting the premiere in Vienna.",
+    "explanation": "The brassy fourth movement cavalry gallop ('March of the Swiss Soldiers') became one of the most recognizable melodies in popular culture.",
     "tags": [
       "music",
-      "musical-instruments",
+      "classical-masters",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "music-rock-pop-0113",
+    "id": "music-classical-masters-0113",
     "category": "Music",
-    "subcategory": "Rock & Pop",
+    "subcategory": "Classical Masters",
     "difficulty": "medium",
-    "question": "Music theory and history: What Italian musical tempo term instructs musicians to perform in a quick, lively, and brisk tempo? (Ref #113)",
+    "question": "What 1924 hybrid masterpiece by George Gershwin fused European classical concerto form with American jazz rhythms and blue notes?",
     "options": [
-      "Allegro",
-      "Adagio (slow and stately)",
-      "Largo (broad and dignified)",
-      "Andante (walking pace)"
+      "Rhapsody in Blue",
+      "An American in Paris",
+      "Concerto in F",
+      "Porgy and Bess"
     ],
     "correctAnswer": 0,
-    "explanation": "Allegro means cheerful or brisk in Italian, indicating a tempo typically between 120 and 156 beats per minute.",
+    "explanation": "Opening with an iconic ascending clarinet glissando, Gershwin legitimized American jazz within classical concert halls.",
     "tags": [
       "music",
-      "rock-pop",
+      "classical-masters",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "music-music-theory-0114",
+    "id": "music-musical-instruments-0114",
     "category": "Music",
-    "subcategory": "Music Theory",
+    "subcategory": "Musical Instruments",
     "difficulty": "hard",
-    "question": "Music theory and history: Which musical clef, wrapping around the second line of the musical staff, is also known as the G clef? (Ref #114)",
+    "question": "What are the four primary instrument families that comprise a modern standard Western symphony orchestra?",
     "options": [
-      "Bass Clef (F clef)",
-      "Treble Clef",
-      "Alto Clef",
-      "Tenor Clef"
+      "Keyboards, Reeds, Guitars, and Drums",
+      "Strings, Woodwinds, Brass, and Percussion",
+      "Bows, Tubes, Horns, and Bells",
+      "Pianos, Harps, Pipes, and Cymbals"
     ],
     "correctAnswer": 1,
-    "explanation": "The treble clef spirals around the G line above middle C, establishing the pitch reference for high-register instruments.",
+    "explanation": "The conductor balances the sound of over 100 musicians organized into these four distinct acoustic instrument families.",
     "tags": [
       "music",
-      "music-theory",
+      "musical-instruments",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "music-classical-masters-0115",
+    "id": "music-musical-instruments-0115",
     "category": "Music",
-    "subcategory": "Classical Masters",
+    "subcategory": "Musical Instruments",
     "difficulty": "easy",
-    "question": "Music theory and history: Which English rock band from Liverpool featured members John Lennon, Paul McCartney, George Harrison, and Ringo Starr? (Ref #115)",
+    "question": "What acoustic instrument family makes up more than half of all musicians seated in a standard symphony orchestra?",
     "options": [
-      "The Rolling Stones",
-      "The Who",
-      "The Beatles",
-      "Led Zeppelin"
+      "The Woodwind Family",
+      "The Brass Family",
+      "The String Family (Violins, Violas, Cellos, Double Basses)",
+      "The Percussion Family"
     ],
     "correctAnswer": 2,
-    "explanation": "The Beatles formed in Liverpool in 1960 and became the most critically acclaimed and commercially successful band in history.",
+    "explanation": "String instruments produce sound when horsehair bows draw across tensioned strings or when strings are plucked (pizzicato).",
     "tags": [
       "music",
-      "classical-masters",
+      "musical-instruments",
       "easy"
     ],
     "active": true
@@ -2419,15 +2419,15 @@
     "category": "Music",
     "subcategory": "Musical Instruments",
     "difficulty": "medium",
-    "question": "Music theory and history: What is the standard pitch tuning from lowest pitch to highest pitch on a 6-string acoustic or electric guitar? (Ref #116)",
+    "question": "What is the smallest and highest-pitched member of the orchestral bowed string family?",
     "options": [
-      "D - G - C - F - A - D",
-      "C - E - G - B - D - F",
-      "E - B - G - D - A - E",
-      "E - A - D - G - B - E"
+      "The Viola",
+      "The Cello",
+      "The Double Bass",
+      "The Violin (Fiddle)"
     ],
     "correctAnswer": 3,
-    "explanation": "Standard guitar tuning from the 6th string to the 1st string is E2 - A2 - D3 - G3 - B3 - E4.",
+    "explanation": "Tuned in fifths (G3, D4, A4, E5), the violin section carries primary melodic lines and is led by the concertmaster.",
     "tags": [
       "music",
       "musical-instruments",
@@ -2436,64 +2436,64 @@
     "active": true
   },
   {
-    "id": "music-rock-pop-0117",
+    "id": "music-musical-instruments-0117",
     "category": "Music",
-    "subcategory": "Rock & Pop",
+    "subcategory": "Musical Instruments",
     "difficulty": "hard",
-    "question": "Music theory and history: Which classical music composer completed his monumental Ninth Symphony (including the 'Ode to Joy') while completely deaf? (Ref #117)",
+    "question": "What bowed string instrument is slightly larger than a violin, tuned a fifth lower (C3, G3, D3, A4), and produces a darker, warmer tone?",
     "options": [
-      "Ludwig van Beethoven",
-      "Wolfgang Amadeus Mozart",
-      "Johann Sebastian Bach",
-      "Franz Schubert"
+      "The Viola",
+      "The Cello",
+      "The Violin",
+      "The Double Bass"
     ],
     "correctAnswer": 0,
-    "explanation": "Beethoven composed his 9th Symphony between 1822 and 1824 despite profound hearing loss, conducting the premiere in Vienna.",
+    "explanation": "Playing primarily in the alto clef, the viola fills inner orchestral harmonies between the high violins and low cellos.",
     "tags": [
       "music",
-      "rock-pop",
+      "musical-instruments",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "music-music-theory-0118",
+    "id": "music-musical-instruments-0118",
     "category": "Music",
-    "subcategory": "Music Theory",
+    "subcategory": "Musical Instruments",
     "difficulty": "easy",
-    "question": "Music theory and history: What Italian musical tempo term instructs musicians to perform in a quick, lively, and brisk tempo? (Ref #118)",
+    "question": "What large bowed string instrument is held between the performer's knees while seated, resting on an adjustable metal endpin on the floor?",
     "options": [
-      "Adagio (slow and stately)",
-      "Allegro",
-      "Largo (broad and dignified)",
-      "Andante (walking pace)"
+      "The Double Bass",
+      "The Cello (Violoncello)",
+      "The Viola",
+      "The Viola da Gamba"
     ],
     "correctAnswer": 1,
-    "explanation": "Allegro means cheerful or brisk in Italian, indicating a tempo typically between 120 and 156 beats per minute.",
+    "explanation": "Tuned in fifths an octave below the viola (C2, G2, D3, A3), the cello produces rich, resonant baritone and tenor melodies.",
     "tags": [
       "music",
-      "music-theory",
+      "musical-instruments",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "music-classical-masters-0119",
+    "id": "music-musical-instruments-0119",
     "category": "Music",
-    "subcategory": "Classical Masters",
+    "subcategory": "Musical Instruments",
     "difficulty": "medium",
-    "question": "Music theory and history: Which musical clef, wrapping around the second line of the musical staff, is also known as the G clef? (Ref #119)",
+    "question": "What is the largest, lowest-pitched bowed string instrument in the orchestra, standing over six feet tall and tuned in fourths?",
     "options": [
-      "Bass Clef (F clef)",
-      "Alto Clef",
-      "Treble Clef",
-      "Tenor Clef"
+      "The Cello",
+      "The Bassoon",
+      "The Double Bass (Contrabass / Upright Bass)",
+      "The Tuba"
     ],
     "correctAnswer": 2,
-    "explanation": "The treble clef spirals around the G line above middle C, establishing the pitch reference for high-register instruments.",
+    "explanation": "Double basses anchor the harmonic bass foundation of symphonic music, jazz ensembles, and bluegrass bands.",
     "tags": [
       "music",
-      "classical-masters",
+      "musical-instruments",
       "medium"
     ],
     "active": true
@@ -2503,15 +2503,15 @@
     "category": "Music",
     "subcategory": "Musical Instruments",
     "difficulty": "hard",
-    "question": "Music theory and history: Which English rock band from Liverpool featured members John Lennon, Paul McCartney, George Harrison, and Ringo Starr? (Ref #120)",
+    "question": "What Italian Renaissance and Baroque luthier from Cremona is revered as the greatest violin maker in history, crafting 'Strads' worth millions?",
     "options": [
-      "The Rolling Stones",
-      "The Who",
-      "Led Zeppelin",
-      "The Beatles"
+      "Giuseppe Guarneri",
+      "Andrea Amati",
+      "Nicola Amati",
+      "Antonio Stradivari (Stradivarius)"
     ],
     "correctAnswer": 3,
-    "explanation": "The Beatles formed in Liverpool in 1960 and became the most critically acclaimed and commercially successful band in history.",
+    "explanation": "Crafted with maple, spruce, and proprietary pine varnishes, Stradivarius violins are renowned for unmatched projection and acoustic warmth.",
     "tags": [
       "music",
       "musical-instruments",
@@ -2520,64 +2520,64 @@
     "active": true
   },
   {
-    "id": "music-rock-pop-0121",
+    "id": "music-musical-instruments-0121",
     "category": "Music",
-    "subcategory": "Rock & Pop",
+    "subcategory": "Musical Instruments",
     "difficulty": "easy",
-    "question": "Music theory and history: What is the standard pitch tuning from lowest pitch to highest pitch on a 6-string acoustic or electric guitar? (Ref #121)",
+    "question": "What acoustic stringed keyboard instrument produces sound when pressing keys triggers felt-padded wooden hammers to strike metal strings?",
     "options": [
-      "E - A - D - G - B - E",
-      "D - G - C - F - A - D",
-      "C - E - G - B - D - F",
-      "E - B - G - D - A - E"
+      "The Piano (Pianoforte)",
+      "The Harpsichord",
+      "The Clavichord",
+      "The Pipe Organ"
     ],
     "correctAnswer": 0,
-    "explanation": "Standard guitar tuning from the 6th string to the 1st string is E2 - A2 - D3 - G3 - B3 - E4.",
+    "explanation": "Invented by Bartolomeo Cristofori around 1700, its name pianoforte reflects its ability to play both soft (piano) and loud (forte).",
     "tags": [
       "music",
-      "rock-pop",
+      "musical-instruments",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "music-music-theory-0122",
+    "id": "music-musical-instruments-0122",
     "category": "Music",
-    "subcategory": "Music Theory",
+    "subcategory": "Musical Instruments",
     "difficulty": "medium",
-    "question": "Music theory and history: Which classical music composer completed his monumental Ninth Symphony (including the 'Ode to Joy') while completely deaf? (Ref #122)",
+    "question": "What Renaissance and Baroque keyboard instrument produces sound by mechanically plucking strings with small quill plectrums?",
     "options": [
-      "Wolfgang Amadeus Mozart",
-      "Ludwig van Beethoven",
-      "Johann Sebastian Bach",
-      "Franz Schubert"
+      "The Piano",
+      "The Harpsichord",
+      "The Clavichord",
+      "The Organ"
     ],
     "correctAnswer": 1,
-    "explanation": "Beethoven composed his 9th Symphony between 1822 and 1824 despite profound hearing loss, conducting the premiere in Vienna.",
+    "explanation": "Because plucking produces a uniform volume regardless of key strike force, harpsichords cannot vary dynamic volume through touch.",
     "tags": [
       "music",
-      "music-theory",
+      "musical-instruments",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "music-classical-masters-0123",
+    "id": "music-musical-instruments-0123",
     "category": "Music",
-    "subcategory": "Classical Masters",
+    "subcategory": "Musical Instruments",
     "difficulty": "hard",
-    "question": "Music theory and history: What Italian musical tempo term instructs musicians to perform in a quick, lively, and brisk tempo? (Ref #123)",
+    "question": "What monumental keyboard instrument, nicknamed 'The King of Instruments', uses keyboard consoles and foot pedals to blow air through thousands of metal and wood pipes?",
     "options": [
-      "Adagio (slow and stately)",
-      "Largo (broad and dignified)",
-      "Allegro",
-      "Andante (walking pace)"
+      "The Accordion",
+      "The Harpsichord",
+      "The Pipe Organ",
+      "The Synthesizer"
     ],
     "correctAnswer": 2,
-    "explanation": "Allegro means cheerful or brisk in Italian, indicating a tempo typically between 120 and 156 beats per minute.",
+    "explanation": "Housed in cathedrals and concert halls, stops route pressurized wind through flue and reed pipes spanning dozens of registers.",
     "tags": [
       "music",
-      "classical-masters",
+      "musical-instruments",
       "hard"
     ],
     "active": true
@@ -2587,15 +2587,15 @@
     "category": "Music",
     "subcategory": "Musical Instruments",
     "difficulty": "easy",
-    "question": "Music theory and history: Which musical clef, wrapping around the second line of the musical staff, is also known as the G clef? (Ref #124)",
+    "question": "What large plucked string instrument features 47 strings stretched across a triangular wooden frame, equipped with seven foot pedals to alter pitches?",
     "options": [
-      "Bass Clef (F clef)",
-      "Alto Clef",
-      "Tenor Clef",
-      "Treble Clef"
+      "The Zither",
+      "The Lyre",
+      "The Clavichord",
+      "The Concert Grand Harp"
     ],
     "correctAnswer": 3,
-    "explanation": "The treble clef spirals around the G line above middle C, establishing the pitch reference for high-register instruments.",
+    "explanation": "Pedals adjust disc mechanisms in the neck to raise strings by semitones, enabling harps to execute sweeping arpeggiated glissando runs.",
     "tags": [
       "music",
       "musical-instruments",
@@ -2604,64 +2604,64 @@
     "active": true
   },
   {
-    "id": "music-rock-pop-0125",
+    "id": "music-musical-instruments-0125",
     "category": "Music",
-    "subcategory": "Rock & Pop",
+    "subcategory": "Musical Instruments",
     "difficulty": "medium",
-    "question": "Music theory and history: Which English rock band from Liverpool featured members John Lennon, Paul McCartney, George Harrison, and Ringo Starr? (Ref #125)",
+    "question": "What side-blown orchestral woodwind instrument, traditionally made of silver or gold, produces sound when air splits across an embouchure blow hole?",
     "options": [
-      "The Beatles",
-      "The Rolling Stones",
-      "The Who",
-      "Led Zeppelin"
+      "The Concert Flute",
+      "The Clarinet",
+      "The Oboe",
+      "The Piccolo"
     ],
     "correctAnswer": 0,
-    "explanation": "The Beatles formed in Liverpool in 1960 and became the most critically acclaimed and commercially successful band in history.",
+    "explanation": "Originally carved from wood, the modern concert flute uses Boehm padded keys to produce brilliant, agile soprano melodies.",
     "tags": [
       "music",
-      "rock-pop",
+      "musical-instruments",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "music-music-theory-0126",
+    "id": "music-musical-instruments-0126",
     "category": "Music",
-    "subcategory": "Music Theory",
+    "subcategory": "Musical Instruments",
     "difficulty": "hard",
-    "question": "Music theory and history: What is the standard pitch tuning from lowest pitch to highest pitch on a 6-string acoustic or electric guitar? (Ref #126)",
+    "question": "What miniature, high-pitched member of the flute family sounds an octave higher than the standard concert flute, cutting through loud brass sections?",
     "options": [
-      "D - G - C - F - A - D",
-      "E - A - D - G - B - E",
-      "C - E - G - B - D - F",
-      "E - B - G - D - A - E"
+      "The Recorder",
+      "The Piccolo",
+      "The Fife",
+      "The Ocarina"
     ],
     "correctAnswer": 1,
-    "explanation": "Standard guitar tuning from the 6th string to the 1st string is E2 - A2 - D3 - G3 - B3 - E4.",
+    "explanation": "The piccolo is the highest-pitched voice in the orchestra, used in military marches like Sousa's 'The Stars and Stripes Forever.'",
     "tags": [
       "music",
-      "music-theory",
+      "musical-instruments",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "music-classical-masters-0127",
+    "id": "music-musical-instruments-0127",
     "category": "Music",
-    "subcategory": "Classical Masters",
+    "subcategory": "Musical Instruments",
     "difficulty": "easy",
-    "question": "Music theory and history: Which classical music composer completed his monumental Ninth Symphony (including the 'Ode to Joy') while completely deaf? (Ref #127)",
+    "question": "What orchestral woodwind instrument uses a single flat cane reed clamped to a mouthpiece with a metal ligature, featuring a cylindrical bore?",
     "options": [
-      "Wolfgang Amadeus Mozart",
-      "Johann Sebastian Bach",
-      "Ludwig van Beethoven",
-      "Franz Schubert"
+      "The Oboe",
+      "The Bassoon",
+      "The Clarinet",
+      "The Saxophone"
     ],
     "correctAnswer": 2,
-    "explanation": "Beethoven composed his 9th Symphony between 1822 and 1824 despite profound hearing loss, conducting the premiere in Vienna.",
+    "explanation": "Invented in the early 1700s, the B-flat soprano clarinet spans four distinct registers (chalumeau, throat, clarion, altissimo).",
     "tags": [
       "music",
-      "classical-masters",
+      "musical-instruments",
       "easy"
     ],
     "active": true
@@ -2671,15 +2671,15 @@
     "category": "Music",
     "subcategory": "Musical Instruments",
     "difficulty": "medium",
-    "question": "Music theory and history: What Italian musical tempo term instructs musicians to perform in a quick, lively, and brisk tempo? (Ref #128)",
+    "question": "What conical brass woodwind instrument, invented by Belgian instrument maker Adolphe Sax in 1840, uses a single reed mouthpiece?",
     "options": [
-      "Adagio (slow and stately)",
-      "Largo (broad and dignified)",
-      "Andante (walking pace)",
-      "Allegro"
+      "The Clarinet",
+      "The French Horn",
+      "The Trumpet",
+      "The Saxophone (Alto, Tenor, Soprano, Baritone)"
     ],
     "correctAnswer": 3,
-    "explanation": "Allegro means cheerful or brisk in Italian, indicating a tempo typically between 120 and 156 beats per minute.",
+    "explanation": "Though made of brass, the saxophone is classified as a woodwind because it produces sound via a vibrating cane reed, dominating jazz music.",
     "tags": [
       "music",
       "musical-instruments",
@@ -2688,64 +2688,64 @@
     "active": true
   },
   {
-    "id": "music-rock-pop-0129",
+    "id": "music-musical-instruments-0129",
     "category": "Music",
-    "subcategory": "Rock & Pop",
+    "subcategory": "Musical Instruments",
     "difficulty": "hard",
-    "question": "Music theory and history: Which musical clef, wrapping around the second line of the musical staff, is also known as the G clef? (Ref #129)",
+    "question": "What slender orchestral woodwind instrument produces a penetrating, clear nasal tone using two thin cane reeds bound together without a mouthpiece?",
     "options": [
-      "Treble Clef",
-      "Bass Clef (F clef)",
-      "Alto Clef",
-      "Tenor Clef"
+      "The Oboe",
+      "The Clarinet",
+      "The Flute",
+      "The English Horn"
     ],
     "correctAnswer": 0,
-    "explanation": "The treble clef spirals around the G line above middle C, establishing the pitch reference for high-register instruments.",
+    "explanation": "Because its pitch is stable and distinct, the principal oboist traditionally sounds the reference Concert A (440 Hz) to tune the orchestra.",
     "tags": [
       "music",
-      "rock-pop",
+      "musical-instruments",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "music-music-theory-0130",
+    "id": "music-musical-instruments-0130",
     "category": "Music",
-    "subcategory": "Music Theory",
+    "subcategory": "Musical Instruments",
     "difficulty": "easy",
-    "question": "Music theory and history: Which English rock band from Liverpool featured members John Lennon, Paul McCartney, George Harrison, and Ringo Starr? (Ref #130)",
+    "question": "What double-reed woodwind instrument, larger than an oboe, features a pear-shaped bell and is pitched a fifth lower in F?",
     "options": [
-      "The Rolling Stones",
-      "The Beatles",
-      "The Who",
-      "Led Zeppelin"
+      "The Oboe d'Amore",
+      "The English Horn (Cor Anglais)",
+      "The Bassoon",
+      "The Heckelphone"
     ],
     "correctAnswer": 1,
-    "explanation": "The Beatles formed in Liverpool in 1960 and became the most critically acclaimed and commercially successful band in history.",
+    "explanation": "The English horn produces melancholy, plaintive pastoral melodies, famous in Dvořák's New World Symphony Largo movement.",
     "tags": [
       "music",
-      "music-theory",
+      "musical-instruments",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "music-classical-masters-0131",
+    "id": "music-musical-instruments-0131",
     "category": "Music",
-    "subcategory": "Classical Masters",
+    "subcategory": "Musical Instruments",
     "difficulty": "medium",
-    "question": "Music theory and history: What is the standard pitch tuning from lowest pitch to highest pitch on a 6-string acoustic or electric guitar? (Ref #131)",
+    "question": "What large, low-pitched double-reed woodwind instrument features over eight feet of folded maple tubing played via a curved metal bocal pipe?",
     "options": [
-      "D - G - C - F - A - D",
-      "C - E - G - B - D - F",
-      "E - A - D - G - B - E",
-      "E - B - G - D - A - E"
+      "The Contrabassoon",
+      "The Oboe",
+      "The Bassoon",
+      "The Tuba"
     ],
     "correctAnswer": 2,
-    "explanation": "Standard guitar tuning from the 6th string to the 1st string is E2 - A2 - D3 - G3 - B3 - E4.",
+    "explanation": "The bassoon plays in the bass and tenor clefs, known for warm low resonance and dry, staccato comedic wit in orchestral passages.",
     "tags": [
       "music",
-      "classical-masters",
+      "musical-instruments",
       "medium"
     ],
     "active": true
@@ -2755,15 +2755,15 @@
     "category": "Music",
     "subcategory": "Musical Instruments",
     "difficulty": "hard",
-    "question": "Music theory and history: Which classical music composer completed his monumental Ninth Symphony (including the 'Ode to Joy') while completely deaf? (Ref #132)",
+    "question": "What massive woodwind instrument uses 16 feet of double-folded wood tubing to sound an octave lower than the bassoon, reaching the contrabass register?",
     "options": [
-      "Wolfgang Amadeus Mozart",
-      "Johann Sebastian Bach",
-      "Franz Schubert",
-      "Ludwig van Beethoven"
+      "The Bass Clarinet",
+      "The Tuba",
+      "The Cello",
+      "The Contrabassoon (Double Bassoon)"
     ],
     "correctAnswer": 3,
-    "explanation": "Beethoven composed his 9th Symphony between 1822 and 1824 despite profound hearing loss, conducting the premiere in Vienna.",
+    "explanation": "The contrabassoon produces the lowest natural acoustic notes in the symphony orchestra, vibrating down to low B-flat (sub-30 Hz).",
     "tags": [
       "music",
       "musical-instruments",
@@ -2772,64 +2772,64 @@
     "active": true
   },
   {
-    "id": "music-rock-pop-0133",
+    "id": "music-musical-instruments-0133",
     "category": "Music",
-    "subcategory": "Rock & Pop",
+    "subcategory": "Musical Instruments",
     "difficulty": "easy",
-    "question": "Music theory and history: What Italian musical tempo term instructs musicians to perform in a quick, lively, and brisk tempo? (Ref #133)",
+    "question": "What acoustic brass instrument produces bright, piercing fanfare calls using three piston valves to redirect air through four feet of coiled brass tubing?",
     "options": [
-      "Allegro",
-      "Adagio (slow and stately)",
-      "Largo (broad and dignified)",
-      "Andante (walking pace)"
+      "The Trumpet (B-flat Trumpet)",
+      "The French Horn",
+      "The Trombone",
+      "The Cornet"
     ],
     "correctAnswer": 0,
-    "explanation": "Allegro means cheerful or brisk in Italian, indicating a tempo typically between 120 and 156 beats per minute.",
+    "explanation": "Trumpet players buzz their lips inside a cup-shaped mouthpiece, navigating harmonic series overtones and three piston valves.",
     "tags": [
       "music",
-      "rock-pop",
+      "musical-instruments",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "music-music-theory-0134",
+    "id": "music-musical-instruments-0134",
     "category": "Music",
-    "subcategory": "Music Theory",
+    "subcategory": "Musical Instruments",
     "difficulty": "medium",
-    "question": "Music theory and history: Which musical clef, wrapping around the second line of the musical staff, is also known as the G clef? (Ref #134)",
+    "question": "What coiled orchestral brass instrument features a wide flared bell, played with the musician's right hand inserted inside the bell to adjust pitch?",
     "options": [
-      "Bass Clef (F clef)",
-      "Treble Clef",
-      "Alto Clef",
-      "Tenor Clef"
+      "The Trumpet",
+      "The French Horn (Horn in F)",
+      "The Trombone",
+      "The Euphonium"
     ],
     "correctAnswer": 1,
-    "explanation": "The treble clef spirals around the G line above middle C, establishing the pitch reference for high-register instruments.",
+    "explanation": "Evolving from hunting horns, the double horn blends warm mellow tones with woodwinds and powerful heroic brass climaxes.",
     "tags": [
       "music",
-      "music-theory",
+      "musical-instruments",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "music-classical-masters-0135",
+    "id": "music-musical-instruments-0135",
     "category": "Music",
-    "subcategory": "Classical Masters",
+    "subcategory": "Musical Instruments",
     "difficulty": "hard",
-    "question": "Music theory and history: Which English rock band from Liverpool featured members John Lennon, Paul McCartney, George Harrison, and Ringo Starr? (Ref #135)",
+    "question": "What orchestral brass instrument uses a long U-shaped telescoping slide rather than valves to vary pitch continuously across seven slide positions?",
     "options": [
-      "The Rolling Stones",
-      "The Who",
-      "The Beatles",
-      "Led Zeppelin"
+      "The French Horn",
+      "The Euphonium",
+      "The Trombone (Tenor Trombone)",
+      "The Tuba"
     ],
     "correctAnswer": 2,
-    "explanation": "The Beatles formed in Liverpool in 1960 and became the most critically acclaimed and commercially successful band in history.",
+    "explanation": "The slide allows trombones to execute smooth, comedic or expressive glissando pitch bends that valved brass cannot match.",
     "tags": [
       "music",
-      "classical-masters",
+      "musical-instruments",
       "hard"
     ],
     "active": true
@@ -2839,15 +2839,15 @@
     "category": "Music",
     "subcategory": "Musical Instruments",
     "difficulty": "easy",
-    "question": "Music theory and history: What is the standard pitch tuning from lowest pitch to highest pitch on a 6-string acoustic or electric guitar? (Ref #136)",
+    "question": "What is the largest, lowest-pitched brass instrument in the orchestra, anchoring symphonic brass with wide conical tubing and a giant upward bell?",
     "options": [
-      "D - G - C - F - A - D",
-      "C - E - G - B - D - F",
-      "E - B - G - D - A - E",
-      "E - A - D - G - B - E"
+      "The Trombone",
+      "The Euphonium",
+      "The French Horn",
+      "The Tuba"
     ],
     "correctAnswer": 3,
-    "explanation": "Standard guitar tuning from the 6th string to the 1st string is E2 - A2 - D3 - G3 - B3 - E4.",
+    "explanation": "Invented in Germany in 1835, the tuba replaced the ophicleide, providing deep foundation bass power in orchestras and marching bands.",
     "tags": [
       "music",
       "musical-instruments",
@@ -2856,64 +2856,64 @@
     "active": true
   },
   {
-    "id": "music-rock-pop-0137",
+    "id": "music-musical-instruments-0137",
     "category": "Music",
-    "subcategory": "Rock & Pop",
+    "subcategory": "Musical Instruments",
     "difficulty": "medium",
-    "question": "Music theory and history: Which classical music composer completed his monumental Ninth Symphony (including the 'Ode to Joy') while completely deaf? (Ref #137)",
+    "question": "What marching band brass tuba variant, designed by J.W. Pepper and John Philip Sousa, wraps comfortably around the musician's body with a forward bell?",
     "options": [
-      "Ludwig van Beethoven",
-      "Wolfgang Amadeus Mozart",
-      "Johann Sebastian Bach",
-      "Franz Schubert"
+      "The Sousaphone",
+      "The Euphonium",
+      "The Baritone Horn",
+      "The Mellophone"
     ],
     "correctAnswer": 0,
-    "explanation": "Beethoven composed his 9th Symphony between 1822 and 1824 despite profound hearing loss, conducting the premiere in Vienna.",
+    "explanation": "The sousaphone distributes heavy brass weight across the left shoulder, projecting bass notes forward over marching stadium fields.",
     "tags": [
       "music",
-      "rock-pop",
+      "musical-instruments",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "music-music-theory-0138",
+    "id": "music-musical-instruments-0138",
     "category": "Music",
-    "subcategory": "Music Theory",
+    "subcategory": "Musical Instruments",
     "difficulty": "hard",
-    "question": "Music theory and history: What Italian musical tempo term instructs musicians to perform in a quick, lively, and brisk tempo? (Ref #138)",
+    "question": "What large kettle-shaped copper drums with tunable calfskin or plastic heads are tuned to specific musical pitches using foot pedals?",
     "options": [
-      "Adagio (slow and stately)",
-      "Allegro",
-      "Largo (broad and dignified)",
-      "Andante (walking pace)"
+      "Bass Drums",
+      "Timpani (Kettledrums)",
+      "Snare Drums",
+      "Tom-Toms"
     ],
     "correctAnswer": 1,
-    "explanation": "Allegro means cheerful or brisk in Italian, indicating a tempo typically between 120 and 156 beats per minute.",
+    "explanation": "A timpanist typically plays four kettle drums, adjusting pitch pedals between symphonic movements while dampening heads with felt mallets.",
     "tags": [
       "music",
-      "music-theory",
+      "musical-instruments",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "music-classical-masters-0139",
+    "id": "music-musical-instruments-0139",
     "category": "Music",
-    "subcategory": "Classical Masters",
+    "subcategory": "Musical Instruments",
     "difficulty": "easy",
-    "question": "Music theory and history: Which musical clef, wrapping around the second line of the musical staff, is also known as the G clef? (Ref #139)",
+    "question": "What tuned mallet percussion instrument features rosewood or padauk wooden bars arranged like a piano keyboard, suspended above resonator tubes?",
     "options": [
-      "Bass Clef (F clef)",
-      "Alto Clef",
-      "Treble Clef",
-      "Tenor Clef"
+      "The Xylophone",
+      "The Vibraphone",
+      "The Marimba",
+      "The Glockenspiel"
     ],
     "correctAnswer": 2,
-    "explanation": "The treble clef spirals around the G line above middle C, establishing the pitch reference for high-register instruments.",
+    "explanation": "Marimbas produce warm, dark, woody resonance when struck with soft yarn mallets, rooted in African and Central American folklore.",
     "tags": [
       "music",
-      "classical-masters",
+      "musical-instruments",
       "easy"
     ],
     "active": true
@@ -2923,15 +2923,15 @@
     "category": "Music",
     "subcategory": "Musical Instruments",
     "difficulty": "medium",
-    "question": "Music theory and history: Which English rock band from Liverpool featured members John Lennon, Paul McCartney, George Harrison, and Ringo Starr? (Ref #140)",
+    "question": "What percussion instrument features bright, hard wooden or synthetic bars that produce sharp, dry, staccato clicks when struck with hard mallets?",
     "options": [
-      "The Rolling Stones",
-      "The Who",
-      "Led Zeppelin",
-      "The Beatles"
+      "The Marimba",
+      "The Vibraphone",
+      "The Celesta",
+      "The Xylophone"
     ],
     "correctAnswer": 3,
-    "explanation": "The Beatles formed in Liverpool in 1960 and became the most critically acclaimed and commercially successful band in history.",
+    "explanation": "Xylophones cut through dense orchestral textures, immortalized in Saint-Saëns's Danse Macabre simulating rattling skeleton bones.",
     "tags": [
       "music",
       "musical-instruments",
@@ -2940,64 +2940,64 @@
     "active": true
   },
   {
-    "id": "music-rock-pop-0141",
+    "id": "music-musical-instruments-0141",
     "category": "Music",
-    "subcategory": "Rock & Pop",
+    "subcategory": "Musical Instruments",
     "difficulty": "hard",
-    "question": "Music theory and history: What is the standard pitch tuning from lowest pitch to highest pitch on a 6-string acoustic or electric guitar? (Ref #141)",
+    "question": "What jazz mallet percussion instrument features tuned aluminum alloy bars and motor-driven spinning butterfly discs inside resonator tubes?",
     "options": [
-      "E - A - D - G - B - E",
-      "D - G - C - F - A - D",
-      "C - E - G - B - D - F",
-      "E - B - G - D - A - E"
+      "The Vibraphone (Vibes)",
+      "The Marimba",
+      "The Glockenspiel",
+      "The Xylophone"
     ],
     "correctAnswer": 0,
-    "explanation": "Standard guitar tuning from the 6th string to the 1st string is E2 - A2 - D3 - G3 - B3 - E4.",
+    "explanation": "Spinning discs create shimmering vibrato modulation while a foot damper pedal controls sustain, popular in modern jazz quartets.",
     "tags": [
       "music",
-      "rock-pop",
+      "musical-instruments",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "music-music-theory-0142",
+    "id": "music-musical-instruments-0142",
     "category": "Music",
-    "subcategory": "Music Theory",
+    "subcategory": "Musical Instruments",
     "difficulty": "easy",
-    "question": "Music theory and history: Which classical music composer completed his monumental Ninth Symphony (including the 'Ode to Joy') while completely deaf? (Ref #142)",
+    "question": "What compact mallet percussion instrument features high-pitched steel bars struck with brass mallets to produce bright bell sounds?",
     "options": [
-      "Wolfgang Amadeus Mozart",
-      "Ludwig van Beethoven",
-      "Johann Sebastian Bach",
-      "Franz Schubert"
+      "The Celesta",
+      "The Glockenspiel (Orchestral Bells)",
+      "The Triangle",
+      "The Chimes"
     ],
     "correctAnswer": 1,
-    "explanation": "Beethoven composed his 9th Symphony between 1822 and 1824 despite profound hearing loss, conducting the premiere in Vienna.",
+    "explanation": "The glockenspiel sounds two octaves higher than written, delivering sparkling fairy-like brilliance in classical and marching music.",
     "tags": [
       "music",
-      "music-theory",
+      "musical-instruments",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "music-classical-masters-0143",
+    "id": "music-musical-instruments-0143",
     "category": "Music",
-    "subcategory": "Classical Masters",
+    "subcategory": "Musical Instruments",
     "difficulty": "medium",
-    "question": "Music theory and history: What Italian musical tempo term instructs musicians to perform in a quick, lively, and brisk tempo? (Ref #143)",
+    "question": "What keyboard instrument looks like a miniature upright piano, but strikes steel bars over resonators to create heavenly music box chimes?",
     "options": [
-      "Adagio (slow and stately)",
-      "Largo (broad and dignified)",
-      "Allegro",
-      "Andante (walking pace)"
+      "The Glockenspiel",
+      "The Harpsichord",
+      "The Celesta",
+      "The Carillon"
     ],
     "correctAnswer": 2,
-    "explanation": "Allegro means cheerful or brisk in Italian, indicating a tempo typically between 120 and 156 beats per minute.",
+    "explanation": "Invented in Paris in 1886, Tchaikovsky secretly purchased one to compose the ethereal 'Dance of the Sugar Plum Fairy' in The Nutcracker.",
     "tags": [
       "music",
-      "classical-masters",
+      "musical-instruments",
       "medium"
     ],
     "active": true
@@ -3007,15 +3007,15 @@
     "category": "Music",
     "subcategory": "Musical Instruments",
     "difficulty": "hard",
-    "question": "Music theory and history: Which musical clef, wrapping around the second line of the musical staff, is also known as the G clef? (Ref #144)",
+    "question": "What cylindrical drum features a set of coiled metal wires (snares) stretched across its bottom head that rattle crisply upon striking?",
     "options": [
-      "Bass Clef (F clef)",
-      "Alto Clef",
-      "Tenor Clef",
-      "Treble Clef"
+      "The Tenor Drum",
+      "The Tom-Tom",
+      "The Bass Drum",
+      "The Snare Drum (Side Drum)"
     ],
     "correctAnswer": 3,
-    "explanation": "The treble clef spirals around the G line above middle C, establishing the pitch reference for high-register instruments.",
+    "explanation": "Essential to military marches and modern rock drum kits, the snare provides the sharp backbeat pulse on beats 2 and 4.",
     "tags": [
       "music",
       "musical-instruments",
@@ -3024,64 +3024,64 @@
     "active": true
   },
   {
-    "id": "music-rock-pop-0145",
+    "id": "music-musical-instruments-0145",
     "category": "Music",
-    "subcategory": "Rock & Pop",
+    "subcategory": "Musical Instruments",
     "difficulty": "easy",
-    "question": "Music theory and history: Which English rock band from Liverpool featured members John Lennon, Paul McCartney, George Harrison, and Ringo Starr? (Ref #145)",
+    "question": "What massive double-headed orchestral drum produces low, thunderous, unpitched acoustic booms when struck with heavy padded mallets?",
     "options": [
-      "The Beatles",
-      "The Rolling Stones",
-      "The Who",
-      "Led Zeppelin"
+      "The Bass Drum (Gran Cassa)",
+      "The Timpani",
+      "The Floor Tom",
+      "The Gong"
     ],
     "correctAnswer": 0,
-    "explanation": "The Beatles formed in Liverpool in 1960 and became the most critically acclaimed and commercially successful band in history.",
+    "explanation": "Measuring up to 36-40 inches in diameter, the orchestral bass drum simulates thunderclaps, heartbeats, and cannon explosions.",
     "tags": [
       "music",
-      "rock-pop",
+      "musical-instruments",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "music-music-theory-0146",
+    "id": "music-musical-instruments-0146",
     "category": "Music",
-    "subcategory": "Music Theory",
+    "subcategory": "Musical Instruments",
     "difficulty": "medium",
-    "question": "Music theory and history: What is the standard pitch tuning from lowest pitch to highest pitch on a 6-string acoustic or electric guitar? (Ref #146)",
+    "question": "What ancient Hawaiian four-stringed plucked chordophone, developed from Portuguese machete instruments, translates to 'jumping flea' in Hawaiian?",
     "options": [
-      "D - G - C - F - A - D",
-      "E - A - D - G - B - E",
-      "C - E - G - B - D - F",
-      "E - B - G - D - A - E"
+      "The Banjo",
+      "The Ukulele",
+      "The Mandolin",
+      "The Cavaquinho"
     ],
     "correctAnswer": 1,
-    "explanation": "Standard guitar tuning from the 6th string to the 1st string is E2 - A2 - D3 - G3 - B3 - E4.",
+    "explanation": "Popularized by Queen Lili'uokalani and international stars, the four nylon strings are standardly tuned in re-entrant tuning (G4, C4, E4, A4).",
     "tags": [
       "music",
-      "music-theory",
+      "musical-instruments",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "music-classical-masters-0147",
+    "id": "music-musical-instruments-0147",
     "category": "Music",
-    "subcategory": "Classical Masters",
+    "subcategory": "Musical Instruments",
     "difficulty": "hard",
-    "question": "Music theory and history: Which classical music composer completed his monumental Ninth Symphony (including the 'Ode to Joy') while completely deaf? (Ref #147)",
+    "question": "What four- or five-stringed American folk instrument features a circular wooden rim with a stretched drumhead skin soundboard beneath strings?",
     "options": [
-      "Wolfgang Amadeus Mozart",
-      "Johann Sebastian Bach",
-      "Ludwig van Beethoven",
-      "Franz Schubert"
+      "The Mandolin",
+      "The Resonator Guitar",
+      "The Banjo",
+      "The Lute"
     ],
     "correctAnswer": 2,
-    "explanation": "Beethoven composed his 9th Symphony between 1822 and 1824 despite profound hearing loss, conducting the premiere in Vienna.",
+    "explanation": "Brought to America by enslaved Africans, Earl Scruggs revolutionized bluegrass banjo with his rapid three-finger picking technique.",
     "tags": [
       "music",
-      "classical-masters",
+      "musical-instruments",
       "hard"
     ],
     "active": true
@@ -3091,15 +3091,15 @@
     "category": "Music",
     "subcategory": "Musical Instruments",
     "difficulty": "easy",
-    "question": "Music theory and history: What Italian musical tempo term instructs musicians to perform in a quick, lively, and brisk tempo? (Ref #148)",
+    "question": "What teardrop-shaped stringed folk instrument features eight metal strings tuned in four unison pairs (G, D, A, E) identical to a violin?",
     "options": [
-      "Adagio (slow and stately)",
-      "Largo (broad and dignified)",
-      "Andante (walking pace)",
-      "Allegro"
+      "The Ukulele",
+      "The Bouzouki",
+      "The Balalaika",
+      "The Mandolin"
     ],
     "correctAnswer": 3,
-    "explanation": "Allegro means cheerful or brisk in Italian, indicating a tempo typically between 120 and 156 beats per minute.",
+    "explanation": "Played with a plectrum using rapid tremolo picking, the mandolin is a cornerstone of Italian folk melodies and American bluegrass breakdowns.",
     "tags": [
       "music",
       "musical-instruments",
@@ -3108,43 +3108,43 @@
     "active": true
   },
   {
-    "id": "music-rock-pop-0149",
+    "id": "music-musical-instruments-0149",
     "category": "Music",
-    "subcategory": "Rock & Pop",
+    "subcategory": "Musical Instruments",
     "difficulty": "medium",
-    "question": "Music theory and history: Which musical clef, wrapping around the second line of the musical staff, is also known as the G clef? (Ref #149)",
+    "question": "What traditional triangular Russian three-stringed folk instrument features a flat back and spruce soundboard played by fingers or leather pick?",
     "options": [
-      "Treble Clef",
-      "Bass Clef (F clef)",
-      "Alto Clef",
-      "Tenor Clef"
+      "The Balalaika",
+      "The Domra",
+      "The Bandura",
+      "The Gusli"
     ],
     "correctAnswer": 0,
-    "explanation": "The treble clef spirals around the G line above middle C, establishing the pitch reference for high-register instruments.",
+    "explanation": "Balalaikas range from tiny piccolo to colossal contrabass sizes that rest on the floor on wooden pegs in traditional Russian folk orchestras.",
     "tags": [
       "music",
-      "rock-pop",
+      "musical-instruments",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "music-music-theory-0150",
+    "id": "music-musical-instruments-0150",
     "category": "Music",
-    "subcategory": "Music Theory",
+    "subcategory": "Musical Instruments",
     "difficulty": "hard",
-    "question": "Music theory and history: Which English rock band from Liverpool featured members John Lennon, Paul McCartney, George Harrison, and Ringo Starr? (Ref #150)",
+    "question": "What ancient Scottish wind instrument uses an enclosed bag of air fed by a blowpipe to sound continuous drone pipes and a melody chanter?",
     "options": [
-      "The Rolling Stones",
-      "The Beatles",
-      "The Who",
-      "Led Zeppelin"
+      "The Uilleann Pipes",
+      "The Great Highland Bagpipe",
+      "The Accordion",
+      "The Harmonica"
     ],
     "correctAnswer": 1,
-    "explanation": "The Beatles formed in Liverpool in 1960 and became the most critically acclaimed and commercially successful band in history.",
+    "explanation": "The bag provides an uninterrupted supply of pressurized air, allowing the piper to maintain a continuous wall of acoustic sound without pausing for breath.",
     "tags": [
       "music",
-      "music-theory",
+      "musical-instruments",
       "hard"
     ],
     "active": true

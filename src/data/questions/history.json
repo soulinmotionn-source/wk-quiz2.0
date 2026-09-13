@@ -4,15 +4,15 @@
     "category": "History",
     "subcategory": "US History",
     "difficulty": "easy",
-    "question": "In world and American history: In what year was the United States Declaration of Independence formally adopted in Philadelphia? (Ref #1)",
+    "question": "In what year did the Second Continental Congress adopt the United States Declaration of Independence?",
     "options": [
       "1776",
+      "1787",
       "1789",
-      "1783",
-      "1765"
+      "1783"
     ],
     "correctAnswer": 0,
-    "explanation": "The Continental Congress formally adopted the Declaration of Independence on July 4, 1776.",
+    "explanation": "The Declaration of Independence was formally adopted on July 4, 1776 in Philadelphia.",
     "tags": [
       "history",
       "us-history",
@@ -21,64 +21,64 @@
     "active": true
   },
   {
-    "id": "history-world-history-0002",
+    "id": "history-us-history-0002",
     "category": "History",
-    "subcategory": "World History",
+    "subcategory": "US History",
     "difficulty": "medium",
-    "question": "In world and American history: Who served as the first official President of the United States under the US Constitution? (Ref #2)",
+    "question": "Who served as the primary draftsman of the United States Declaration of Independence?",
     "options": [
+      "Benjamin Franklin",
       "Thomas Jefferson",
-      "George Washington",
       "John Adams",
-      "Benjamin Franklin"
+      "Alexander Hamilton"
     ],
     "correctAnswer": 1,
-    "explanation": "George Washington was unanimously elected and served as the first US President from 1789 to 1797.",
+    "explanation": "Thomas Jefferson penned the original draft of the Declaration of Independence.",
     "tags": [
       "history",
-      "world-history",
+      "us-history",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "history-ancient-civilizations-0003",
+    "id": "history-us-history-0003",
     "category": "History",
-    "subcategory": "Ancient Civilizations",
+    "subcategory": "US History",
     "difficulty": "hard",
-    "question": "In world and American history: Between which years was the American Civil War fought? (Ref #3)",
+    "question": "Which battle is historically recognized as the turning point of the American Revolutionary War, securing French alliance?",
     "options": [
-      "1775 to 1783",
-      "1812 to 1815",
-      "1861 to 1865",
-      "1846 to 1848"
+      "Battle of Bunker Hill",
+      "Battle of Yorktown",
+      "Battle of Saratoga",
+      "Battle of Trenton"
     ],
     "correctAnswer": 2,
-    "explanation": "The American Civil War erupted with Fort Sumter in April 1861 and concluded with Confederate surrender in spring 1865.",
+    "explanation": "The American victory at Saratoga in October 1777 convinced France to formally enter the war as an American ally.",
     "tags": [
       "history",
-      "ancient-civilizations",
+      "us-history",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "history-modern-milestones-0004",
+    "id": "history-us-history-0004",
     "category": "History",
-    "subcategory": "Modern Milestones",
+    "subcategory": "US History",
     "difficulty": "easy",
-    "question": "In world and American history: Which historic English charter signed in 1215 established that everyone, even the King, is subject to the law? (Ref #4)",
+    "question": "Which 1781 battle resulted in the surrender of British General Cornwallis, effectively ending major combat in the American Revolution?",
     "options": [
-      "English Bill of Rights",
-      "Treaty of Westphalia",
-      "Edict of Nantes",
-      "Magna Carta (The Great Charter)"
+      "Battle of Brandywine",
+      "Battle of Monmouth",
+      "Battle of Guilford Courthouse",
+      "Battle of Yorktown"
     ],
     "correctAnswer": 3,
-    "explanation": "King John of England granted Magna Carta at Runnymede in June 1215 under pressure from feudal barons.",
+    "explanation": "Combined American and French forces trapped Cornwallis at Yorktown, Virginia, forcing his surrender in October 1781.",
     "tags": [
       "history",
-      "modern-milestones",
+      "us-history",
       "easy"
     ],
     "active": true
@@ -88,15 +88,15 @@
     "category": "History",
     "subcategory": "US History",
     "difficulty": "medium",
-    "question": "In world and American history: In what year did the Apollo 11 mission achieve humanity's first manned lunar landing? (Ref #5)",
+    "question": "In what city was the Constitutional Convention of 1787 held?",
     "options": [
-      "1969",
-      "1965",
-      "1971",
-      "1973"
+      "Philadelphia",
+      "New York City",
+      "Boston",
+      "Washington, D.C."
     ],
     "correctAnswer": 0,
-    "explanation": "Neil Armstrong and Buzz Aldrin landed the lunar module Eagle on the Moon on July 20, 1969.",
+    "explanation": "The delegates met at the Pennsylvania State House (now Independence Hall) in Philadelphia from May to September 1787.",
     "tags": [
       "history",
       "us-history",
@@ -105,64 +105,64 @@
     "active": true
   },
   {
-    "id": "history-world-history-0006",
+    "id": "history-us-history-0006",
     "category": "History",
-    "subcategory": "World History",
+    "subcategory": "US History",
     "difficulty": "hard",
-    "question": "In world and American history: What historic symbol of the Cold War began to be dismantled in Berlin in November 1989? (Ref #6)",
+    "question": "Who is celebrated as the 'Father of the Constitution' due to his pivotal role in drafting the document and the Bill of Rights?",
     "options": [
-      "The Iron Gate",
-      "The Berlin Wall",
-      "Checkpoint Alpha",
-      "The Brandenburg Citadel"
+      "George Washington",
+      "James Madison",
+      "Alexander Hamilton",
+      "John Jay"
     ],
     "correctAnswer": 1,
-    "explanation": "The fall of the Berlin Wall on November 9, 1989, paved the way for German reunification and the end of the Cold War.",
+    "explanation": "James Madison authored the Virginia Plan and took copious notes that guided the framework of the US Constitution.",
     "tags": [
       "history",
-      "world-history",
+      "us-history",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "history-ancient-civilizations-0007",
+    "id": "history-us-history-0007",
     "category": "History",
-    "subcategory": "Ancient Civilizations",
+    "subcategory": "US History",
     "difficulty": "easy",
-    "question": "In world and American history: In what year was the United States Declaration of Independence formally adopted in Philadelphia? (Ref #7)",
+    "question": "What land purchase in 1803 doubled the territorial size of the United States under President Thomas Jefferson?",
     "options": [
-      "1789",
-      "1783",
-      "1776",
-      "1765"
+      "The Gadsden Purchase",
+      "The Alaska Purchase",
+      "The Louisiana Purchase",
+      "The Florida Cession"
     ],
     "correctAnswer": 2,
-    "explanation": "The Continental Congress formally adopted the Declaration of Independence on July 4, 1776.",
+    "explanation": "The United States purchased approximately 828,000 square miles of territory from France for $15 million in 1803.",
     "tags": [
       "history",
-      "ancient-civilizations",
+      "us-history",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "history-modern-milestones-0008",
+    "id": "history-us-history-0008",
     "category": "History",
-    "subcategory": "Modern Milestones",
+    "subcategory": "US History",
     "difficulty": "medium",
-    "question": "In world and American history: Who served as the first official President of the United States under the US Constitution? (Ref #8)",
+    "question": "Who were the two explorers commissioned by Thomas Jefferson to map the newly acquired northwestern territory to the Pacific Ocean?",
     "options": [
-      "Thomas Jefferson",
-      "John Adams",
-      "Benjamin Franklin",
-      "George Washington"
+      "Zebulon Pike and Kit Carson",
+      "Daniel Boone and Davy Crockett",
+      "John C. Fremont and Jedediah Smith",
+      "Meriwether Lewis and William Clark"
     ],
     "correctAnswer": 3,
-    "explanation": "George Washington was unanimously elected and served as the first US President from 1789 to 1797.",
+    "explanation": "The Corps of Discovery led by Lewis and Clark traversed from St. Louis to the Pacific Coast between 1804 and 1806.",
     "tags": [
       "history",
-      "modern-milestones",
+      "us-history",
       "medium"
     ],
     "active": true
@@ -172,15 +172,15 @@
     "category": "History",
     "subcategory": "US History",
     "difficulty": "hard",
-    "question": "In world and American history: Between which years was the American Civil War fought? (Ref #9)",
+    "question": "What foreign policy doctrine issued in 1823 warned European powers against further colonization or intervention in the Western Hemisphere?",
     "options": [
-      "1861 to 1865",
-      "1775 to 1783",
-      "1812 to 1815",
-      "1846 to 1848"
+      "The Monroe Doctrine",
+      "The Truman Doctrine",
+      "The Roosevelt Corollary",
+      "The Marshall Doctrine"
     ],
     "correctAnswer": 0,
-    "explanation": "The American Civil War erupted with Fort Sumter in April 1861 and concluded with Confederate surrender in spring 1865.",
+    "explanation": "President James Monroe declared that the Americas were no longer open to European colonial subjugation.",
     "tags": [
       "history",
       "us-history",
@@ -189,64 +189,64 @@
     "active": true
   },
   {
-    "id": "history-world-history-0010",
+    "id": "history-us-history-0010",
     "category": "History",
-    "subcategory": "World History",
+    "subcategory": "US History",
     "difficulty": "easy",
-    "question": "In world and American history: Which historic English charter signed in 1215 established that everyone, even the King, is subject to the law? (Ref #10)",
+    "question": "What 1820 legislative compromise admitted Missouri as a slave state, Maine as a free state, and banned slavery north of latitude 36 30'?",
     "options": [
-      "English Bill of Rights",
-      "Magna Carta (The Great Charter)",
-      "Treaty of Westphalia",
-      "Edict of Nantes"
+      "The Compromise of 1850",
+      "The Missouri Compromise",
+      "The Kansas-Nebraska Act",
+      "The Crittenden Compromise"
     ],
     "correctAnswer": 1,
-    "explanation": "King John of England granted Magna Carta at Runnymede in June 1215 under pressure from feudal barons.",
+    "explanation": "Engineered by Henry Clay, the Missouri Compromise temporarily preserved sectional balance between slave and free states.",
     "tags": [
       "history",
-      "world-history",
+      "us-history",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "history-ancient-civilizations-0011",
+    "id": "history-us-history-0011",
     "category": "History",
-    "subcategory": "Ancient Civilizations",
+    "subcategory": "US History",
     "difficulty": "medium",
-    "question": "In world and American history: In what year did the Apollo 11 mission achieve humanity's first manned lunar landing? (Ref #11)",
+    "question": "What 1854 federal legislation repealed the Missouri Compromise and instituted 'popular sovereignty' to decide slavery in new territories?",
     "options": [
-      "1965",
-      "1971",
-      "1969",
-      "1973"
+      "The Compromise of 1850",
+      "The Wilmot Proviso",
+      "The Kansas-Nebraska Act",
+      "The Fugitive Slave Act"
     ],
     "correctAnswer": 2,
-    "explanation": "Neil Armstrong and Buzz Aldrin landed the lunar module Eagle on the Moon on July 20, 1969.",
+    "explanation": "Introduced by Stephen Douglas, the act led to violent conflict known as 'Bleeding Kansas'.",
     "tags": [
       "history",
-      "ancient-civilizations",
+      "us-history",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "history-modern-milestones-0012",
+    "id": "history-us-history-0012",
     "category": "History",
-    "subcategory": "Modern Milestones",
+    "subcategory": "US History",
     "difficulty": "hard",
-    "question": "In world and American history: What historic symbol of the Cold War began to be dismantled in Berlin in November 1989? (Ref #12)",
+    "question": "Which landmark 1857 Supreme Court decision ruled that African Americans were not US citizens and that Congress could not ban slavery in federal territories?",
     "options": [
-      "The Iron Gate",
-      "Checkpoint Alpha",
-      "The Brandenburg Citadel",
-      "The Berlin Wall"
+      "Plessy v. Ferguson",
+      "Brown v. Board of Education",
+      "Marbury v. Madison",
+      "Dred Scott v. Sandford"
     ],
     "correctAnswer": 3,
-    "explanation": "The fall of the Berlin Wall on November 9, 1989, paved the way for German reunification and the end of the Cold War.",
+    "explanation": "Chief Justice Roger Taney delivered the opinion denying citizenship and constitutional rights to enslaved and free Black people.",
     "tags": [
       "history",
-      "modern-milestones",
+      "us-history",
       "hard"
     ],
     "active": true
@@ -256,15 +256,15 @@
     "category": "History",
     "subcategory": "US History",
     "difficulty": "easy",
-    "question": "In world and American history: In what year was the United States Declaration of Independence formally adopted in Philadelphia? (Ref #13)",
+    "question": "Which fort in Charleston Harbor, South Carolina, was bombarded in April 1861, marking the start of the American Civil War?",
     "options": [
-      "1776",
-      "1789",
-      "1783",
-      "1765"
+      "Fort Sumter",
+      "Fort Pulaski",
+      "Fort Moultrie",
+      "Fort Wagner"
     ],
     "correctAnswer": 0,
-    "explanation": "The Continental Congress formally adopted the Declaration of Independence on July 4, 1776.",
+    "explanation": "Confederate artillery fired upon Fort Sumter on April 12, 1861, initiating armed hostilities of the Civil War.",
     "tags": [
       "history",
       "us-history",
@@ -273,64 +273,64 @@
     "active": true
   },
   {
-    "id": "history-world-history-0014",
+    "id": "history-us-history-0014",
     "category": "History",
-    "subcategory": "World History",
+    "subcategory": "US History",
     "difficulty": "medium",
-    "question": "In world and American history: Who served as the first official President of the United States under the US Constitution? (Ref #14)",
+    "question": "Which 1862 Civil War battle remains the single bloodiest day in American military history, prompting the Preliminary Emancipation Proclamation?",
     "options": [
-      "Thomas Jefferson",
-      "George Washington",
-      "John Adams",
-      "Benjamin Franklin"
+      "Battle of Gettysburg",
+      "Battle of Antietam (Sharpsburg)",
+      "Battle of Shiloh",
+      "First Battle of Bull Run"
     ],
     "correctAnswer": 1,
-    "explanation": "George Washington was unanimously elected and served as the first US President from 1789 to 1797.",
+    "explanation": "Fought on September 17, 1862 in Maryland, Antietam resulted in over 22,000 casualties and halted Lee's northern invasion.",
     "tags": [
       "history",
-      "world-history",
+      "us-history",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "history-ancient-civilizations-0015",
+    "id": "history-us-history-0015",
     "category": "History",
-    "subcategory": "Ancient Civilizations",
+    "subcategory": "US History",
     "difficulty": "hard",
-    "question": "In world and American history: Between which years was the American Civil War fought? (Ref #15)",
+    "question": "What presidential proclamation issued by Abraham Lincoln on January 1, 1863 declared all enslaved persons in rebellious Confederate states free?",
     "options": [
-      "1775 to 1783",
-      "1812 to 1815",
-      "1861 to 1865",
-      "1846 to 1848"
+      "The Gettysburg Address",
+      "The Ten Percent Plan",
+      "The Emancipation Proclamation",
+      "The Wade-Davis Manifesto"
     ],
     "correctAnswer": 2,
-    "explanation": "The American Civil War erupted with Fort Sumter in April 1861 and concluded with Confederate surrender in spring 1865.",
+    "explanation": "Lincoln issued the proclamation under his war powers, transforming the Civil War into an explicit crusade for freedom.",
     "tags": [
       "history",
-      "ancient-civilizations",
+      "us-history",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "history-modern-milestones-0016",
+    "id": "history-us-history-0016",
     "category": "History",
-    "subcategory": "Modern Milestones",
+    "subcategory": "US History",
     "difficulty": "easy",
-    "question": "In world and American history: Which historic English charter signed in 1215 established that everyone, even the King, is subject to the law? (Ref #16)",
+    "question": "Which three-day battle in Pennsylvania in July 1863 is considered the high-water mark of the Confederacy and turning point of the Civil War?",
     "options": [
-      "English Bill of Rights",
-      "Treaty of Westphalia",
-      "Edict of Nantes",
-      "Magna Carta (The Great Charter)"
+      "Battle of Chancellorsville",
+      "Battle of Fredericksburg",
+      "Battle of Cold Harbor",
+      "Battle of Gettysburg"
     ],
     "correctAnswer": 3,
-    "explanation": "King John of England granted Magna Carta at Runnymede in June 1215 under pressure from feudal barons.",
+    "explanation": "Union forces under General George Meade defeated Robert E. Lee's army, turning back the Confederate invasion of the North.",
     "tags": [
       "history",
-      "modern-milestones",
+      "us-history",
       "easy"
     ],
     "active": true
@@ -340,15 +340,15 @@
     "category": "History",
     "subcategory": "US History",
     "difficulty": "medium",
-    "question": "In world and American history: In what year did the Apollo 11 mission achieve humanity's first manned lunar landing? (Ref #17)",
+    "question": "Where did General Robert E. Lee formally surrender the Army of Northern Virginia to General Ulysses S. Grant on April 9, 1865?",
     "options": [
-      "1969",
-      "1965",
-      "1971",
-      "1973"
+      "Appomattox Court House, Virginia",
+      "Richmond, Virginia",
+      "Petersburg, Virginia",
+      "Raleigh, North Carolina"
     ],
     "correctAnswer": 0,
-    "explanation": "Neil Armstrong and Buzz Aldrin landed the lunar module Eagle on the Moon on July 20, 1969.",
+    "explanation": "Lee signed the surrender terms in the parlor of Wilmer McLean's home at Appomattox Court House.",
     "tags": [
       "history",
       "us-history",
@@ -357,64 +357,64 @@
     "active": true
   },
   {
-    "id": "history-world-history-0018",
+    "id": "history-us-history-0018",
     "category": "History",
-    "subcategory": "World History",
+    "subcategory": "US History",
     "difficulty": "hard",
-    "question": "In world and American history: What historic symbol of the Cold War began to be dismantled in Berlin in November 1989? (Ref #18)",
+    "question": "Which constitutional amendment ratified in 1865 permanently abolished slavery throughout the United States?",
     "options": [
-      "The Iron Gate",
-      "The Berlin Wall",
-      "Checkpoint Alpha",
-      "The Brandenburg Citadel"
+      "The Fourteenth Amendment",
+      "The Thirteenth Amendment",
+      "The Fifteenth Amendment",
+      "The Twelfth Amendment"
     ],
     "correctAnswer": 1,
-    "explanation": "The fall of the Berlin Wall on November 9, 1989, paved the way for German reunification and the end of the Cold War.",
+    "explanation": "The 13th Amendment outlawed slavery and involuntary servitude except as punishment for a convicted crime.",
     "tags": [
       "history",
-      "world-history",
+      "us-history",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "history-ancient-civilizations-0019",
+    "id": "history-us-history-0019",
     "category": "History",
-    "subcategory": "Ancient Civilizations",
+    "subcategory": "US History",
     "difficulty": "easy",
-    "question": "In world and American history: In what year was the United States Declaration of Independence formally adopted in Philadelphia? (Ref #19)",
+    "question": "Which constitutional amendment ratified in 1868 granted citizenship to all persons born or naturalized in the US and guaranteed equal protection of the laws?",
     "options": [
-      "1789",
-      "1783",
-      "1776",
-      "1765"
+      "The Thirteenth Amendment",
+      "The Fifteenth Amendment",
+      "The Fourteenth Amendment",
+      "The Sixteenth Amendment"
     ],
     "correctAnswer": 2,
-    "explanation": "The Continental Congress formally adopted the Declaration of Independence on July 4, 1776.",
+    "explanation": "The 14th Amendment established birthright citizenship, due process, and equal protection under the law.",
     "tags": [
       "history",
-      "ancient-civilizations",
+      "us-history",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "history-modern-milestones-0020",
+    "id": "history-us-history-0020",
     "category": "History",
-    "subcategory": "Modern Milestones",
+    "subcategory": "US History",
     "difficulty": "medium",
-    "question": "In world and American history: Who served as the first official President of the United States under the US Constitution? (Ref #20)",
+    "question": "Which constitutional amendment ratified in 1870 prohibited denying a citizen the right to vote based on race, color, or previous condition of servitude?",
     "options": [
-      "Thomas Jefferson",
-      "John Adams",
-      "Benjamin Franklin",
-      "George Washington"
+      "The Fourteenth Amendment",
+      "The Nineteenth Amendment",
+      "The Twenty-Fourth Amendment",
+      "The Fifteenth Amendment"
     ],
     "correctAnswer": 3,
-    "explanation": "George Washington was unanimously elected and served as the first US President from 1789 to 1797.",
+    "explanation": "The 15th Amendment secured voting rights for African American men during Reconstruction.",
     "tags": [
       "history",
-      "modern-milestones",
+      "us-history",
       "medium"
     ],
     "active": true
@@ -424,15 +424,15 @@
     "category": "History",
     "subcategory": "US History",
     "difficulty": "hard",
-    "question": "In world and American history: Between which years was the American Civil War fought? (Ref #21)",
+    "question": "Where was the Golden Spike driven on May 10, 1869, joining the Central Pacific and Union Pacific tracks to complete the First Transcontinental Railroad?",
     "options": [
-      "1861 to 1865",
-      "1775 to 1783",
-      "1812 to 1815",
-      "1846 to 1848"
+      "Promontory Summit, Utah",
+      "Cheyenne, Wyoming",
+      "Sacramento, California",
+      "Omaha, Nebraska"
     ],
     "correctAnswer": 0,
-    "explanation": "The American Civil War erupted with Fort Sumter in April 1861 and concluded with Confederate surrender in spring 1865.",
+    "explanation": "The completion of the transcontinental railroad at Promontory Summit reduced coast-to-coast travel time from months to days.",
     "tags": [
       "history",
       "us-history",
@@ -441,64 +441,64 @@
     "active": true
   },
   {
-    "id": "history-world-history-0022",
+    "id": "history-us-history-0022",
     "category": "History",
-    "subcategory": "World History",
+    "subcategory": "US History",
     "difficulty": "easy",
-    "question": "In world and American history: Which historic English charter signed in 1215 established that everyone, even the King, is subject to the law? (Ref #22)",
+    "question": "What 1898 war propelled the United States onto the global stage as an imperial power with territories in Puerto Rico, Guam, and the Philippines?",
     "options": [
-      "English Bill of Rights",
-      "Magna Carta (The Great Charter)",
-      "Treaty of Westphalia",
-      "Edict of Nantes"
+      "The Mexican-American War",
+      "The Spanish-American War",
+      "The War of 1812",
+      "The Philippine-American War"
     ],
     "correctAnswer": 1,
-    "explanation": "King John of England granted Magna Carta at Runnymede in June 1215 under pressure from feudal barons.",
+    "explanation": "Sparked by the sinking of the USS Maine, the war concluded with the Treaty of Paris in December 1898.",
     "tags": [
       "history",
-      "world-history",
+      "us-history",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "history-ancient-civilizations-0023",
+    "id": "history-us-history-0023",
     "category": "History",
-    "subcategory": "Ancient Civilizations",
+    "subcategory": "US History",
     "difficulty": "medium",
-    "question": "In world and American history: In what year did the Apollo 11 mission achieve humanity's first manned lunar landing? (Ref #23)",
+    "question": "Which progressive US president championed the 'Square Deal', trust-busting, and the creation of the United States Forest Service?",
     "options": [
-      "1965",
-      "1971",
-      "1969",
-      "1973"
+      "Woodrow Wilson",
+      "William Howard Taft",
+      "Theodore Roosevelt",
+      "William McKinley"
     ],
     "correctAnswer": 2,
-    "explanation": "Neil Armstrong and Buzz Aldrin landed the lunar module Eagle on the Moon on July 20, 1969.",
+    "explanation": "Teddy Roosevelt used the 'bully pulpit' to regulate corporate monopolies and conserve 230 million acres of public lands.",
     "tags": [
       "history",
-      "ancient-civilizations",
+      "us-history",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "history-modern-milestones-0024",
+    "id": "history-us-history-0024",
     "category": "History",
-    "subcategory": "Modern Milestones",
+    "subcategory": "US History",
     "difficulty": "hard",
-    "question": "In world and American history: What historic symbol of the Cold War began to be dismantled in Berlin in November 1989? (Ref #24)",
+    "question": "What event on May 7, 1915, involving a German submarine sinking a British ocean liner with 128 Americans aboard, turned US sentiment against Germany?",
     "options": [
-      "The Iron Gate",
-      "Checkpoint Alpha",
-      "The Brandenburg Citadel",
-      "The Berlin Wall"
+      "The Zimmermann Telegram",
+      "The Sussex Incident",
+      "The sinking of the USS Maine",
+      "The sinking of the RMS Lusitania"
     ],
     "correctAnswer": 3,
-    "explanation": "The fall of the Berlin Wall on November 9, 1989, paved the way for German reunification and the end of the Cold War.",
+    "explanation": "The torpedoing of the Lusitania fueled anti-German outrage, moving the nation closer to entering World War I.",
     "tags": [
       "history",
-      "modern-milestones",
+      "us-history",
       "hard"
     ],
     "active": true
@@ -508,15 +508,15 @@
     "category": "History",
     "subcategory": "US History",
     "difficulty": "easy",
-    "question": "In world and American history: In what year was the United States Declaration of Independence formally adopted in Philadelphia? (Ref #25)",
+    "question": "Which constitutional amendment ratified in 1920 granted American women the constitutional right to vote?",
     "options": [
-      "1776",
-      "1789",
-      "1783",
-      "1765"
+      "The Nineteenth Amendment",
+      "The Eighteenth Amendment",
+      "The Sixteenth Amendment",
+      "The Twenty-First Amendment"
     ],
     "correctAnswer": 0,
-    "explanation": "The Continental Congress formally adopted the Declaration of Independence on July 4, 1776.",
+    "explanation": "The 19th Amendment prohibited any US citizen from being denied the right to vote on the basis of sex.",
     "tags": [
       "history",
       "us-history",
@@ -525,64 +525,64 @@
     "active": true
   },
   {
-    "id": "history-world-history-0026",
+    "id": "history-us-history-0026",
     "category": "History",
-    "subcategory": "World History",
+    "subcategory": "US History",
     "difficulty": "medium",
-    "question": "In world and American history: Who served as the first official President of the United States under the US Constitution? (Ref #26)",
+    "question": "What date is remembered as 'Black Tuesday', marking the catastrophic Wall Street crash that initiated the Great Depression?",
     "options": [
-      "Thomas Jefferson",
-      "George Washington",
-      "John Adams",
-      "Benjamin Franklin"
+      "October 24, 1929",
+      "October 29, 1929",
+      "September 15, 1929",
+      "November 11, 1929"
     ],
     "correctAnswer": 1,
-    "explanation": "George Washington was unanimously elected and served as the first US President from 1789 to 1797.",
+    "explanation": "Stock prices collapsed completely on October 29, 1929, wiping out billions in equity and triggering the global depression.",
     "tags": [
       "history",
-      "world-history",
+      "us-history",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "history-ancient-civilizations-0027",
+    "id": "history-us-history-0027",
     "category": "History",
-    "subcategory": "Ancient Civilizations",
+    "subcategory": "US History",
     "difficulty": "hard",
-    "question": "In world and American history: Between which years was the American Civil War fought? (Ref #27)",
+    "question": "Which US president introduced the 'New Deal' domestic programs to provide relief, recovery, and reform during the Great Depression?",
     "options": [
-      "1775 to 1783",
-      "1812 to 1815",
-      "1861 to 1865",
-      "1846 to 1848"
+      "Herbert Hoover",
+      "Harry S. Truman",
+      "Franklin D. Roosevelt",
+      "Dwight D. Eisenhower"
     ],
     "correctAnswer": 2,
-    "explanation": "The American Civil War erupted with Fort Sumter in April 1861 and concluded with Confederate surrender in spring 1865.",
+    "explanation": "FDR enacted legislation establishing the FDIC, SEC, Social Security, and public works programs to revive the American economy.",
     "tags": [
       "history",
-      "ancient-civilizations",
+      "us-history",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "history-modern-milestones-0028",
+    "id": "history-us-history-0028",
     "category": "History",
-    "subcategory": "Modern Milestones",
+    "subcategory": "US History",
     "difficulty": "easy",
-    "question": "In world and American history: Which historic English charter signed in 1215 established that everyone, even the King, is subject to the law? (Ref #28)",
+    "question": "What surprise military attack on December 7, 1941 propelled the United States directly into World War II?",
     "options": [
-      "English Bill of Rights",
-      "Treaty of Westphalia",
-      "Edict of Nantes",
-      "Magna Carta (The Great Charter)"
+      "Battle of Midway",
+      "Bataan Death March",
+      "Sinking of the USS Greer",
+      "Attack on Pearl Harbor, Hawaii"
     ],
     "correctAnswer": 3,
-    "explanation": "King John of England granted Magna Carta at Runnymede in June 1215 under pressure from feudal barons.",
+    "explanation": "Imperial Japanese naval aviation struck the US Pacific Fleet at Pearl Harbor, prompting Congress to declare war the next day.",
     "tags": [
       "history",
-      "modern-milestones",
+      "us-history",
       "easy"
     ],
     "active": true
@@ -592,15 +592,15 @@
     "category": "History",
     "subcategory": "US History",
     "difficulty": "medium",
-    "question": "In world and American history: In what year did the Apollo 11 mission achieve humanity's first manned lunar landing? (Ref #29)",
+    "question": "Which Pacific naval battle in June 1942 resulted in the sinking of four Japanese aircraft carriers, shifting naval supremacy to the US?",
     "options": [
-      "1969",
-      "1965",
-      "1971",
-      "1973"
+      "Battle of Midway",
+      "Battle of Coral Sea",
+      "Battle of Leyte Gulf",
+      "Battle of Guadalcanal"
     ],
     "correctAnswer": 0,
-    "explanation": "Neil Armstrong and Buzz Aldrin landed the lunar module Eagle on the Moon on July 20, 1969.",
+    "explanation": "American naval cryptographers decoded Japanese plans, enabling Admiral Nimitz's forces to ambush the Japanese strike fleet.",
     "tags": [
       "history",
       "us-history",
@@ -609,64 +609,64 @@
     "active": true
   },
   {
-    "id": "history-world-history-0030",
+    "id": "history-us-history-0030",
     "category": "History",
-    "subcategory": "World History",
+    "subcategory": "US History",
     "difficulty": "hard",
-    "question": "In world and American history: What historic symbol of the Cold War began to be dismantled in Berlin in November 1989? (Ref #30)",
+    "question": "What code name was assigned to the Allied amphibious invasion of Normandy, France, on June 6, 1944 (D-Day)?",
     "options": [
-      "The Iron Gate",
-      "The Berlin Wall",
-      "Checkpoint Alpha",
-      "The Brandenburg Citadel"
+      "Operation Torch",
+      "Operation Overlord",
+      "Operation Market Garden",
+      "Operation Husky"
     ],
     "correctAnswer": 1,
-    "explanation": "The fall of the Berlin Wall on November 9, 1989, paved the way for German reunification and the end of the Cold War.",
+    "explanation": "Allied supreme commander Dwight D. Eisenhower oversaw the largest amphibious invasion in history along Normandy beaches.",
     "tags": [
       "history",
-      "world-history",
+      "us-history",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "history-ancient-civilizations-0031",
+    "id": "history-us-history-0031",
     "category": "History",
-    "subcategory": "Ancient Civilizations",
+    "subcategory": "US History",
     "difficulty": "easy",
-    "question": "In world and American history: In what year was the United States Declaration of Independence formally adopted in Philadelphia? (Ref #31)",
+    "question": "What top-secret US scientific research and development program produced the first nuclear weapons during World War II?",
     "options": [
-      "1789",
-      "1783",
-      "1776",
-      "1765"
+      "Project Apollo",
+      "Operation Paperclip",
+      "The Manhattan Project",
+      "The Venona Project"
     ],
     "correctAnswer": 2,
-    "explanation": "The Continental Congress formally adopted the Declaration of Independence on July 4, 1776.",
+    "explanation": "Led by J. Robert Oppenheimer and General Leslie Groves, the project developed the atomic bombs detonated over Hiroshima and Nagasaki.",
     "tags": [
       "history",
-      "ancient-civilizations",
+      "us-history",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "history-modern-milestones-0032",
+    "id": "history-us-history-0032",
     "category": "History",
-    "subcategory": "Modern Milestones",
+    "subcategory": "US History",
     "difficulty": "medium",
-    "question": "In world and American history: Who served as the first official President of the United States under the US Constitution? (Ref #32)",
+    "question": "What major foreign aid initiative launched by the United States in 1948 provided over $13 billion to rebuild Western European economies post-WWII?",
     "options": [
-      "Thomas Jefferson",
-      "John Adams",
-      "Benjamin Franklin",
-      "George Washington"
+      "The Truman Doctrine",
+      "The Lend-Lease Act",
+      "The Dawes Plan",
+      "The Marshall Plan"
     ],
     "correctAnswer": 3,
-    "explanation": "George Washington was unanimously elected and served as the first US President from 1789 to 1797.",
+    "explanation": "Secretary of State George C. Marshall proposed the plan to restore European industrial capacity and prevent communist expansion.",
     "tags": [
       "history",
-      "modern-milestones",
+      "us-history",
       "medium"
     ],
     "active": true
@@ -676,15 +676,15 @@
     "category": "History",
     "subcategory": "US History",
     "difficulty": "hard",
-    "question": "In world and American history: Between which years was the American Civil War fought? (Ref #33)",
+    "question": "Which international military alliance was established by the United States, Canada, and Western European nations in Washington in 1949?",
     "options": [
-      "1861 to 1865",
-      "1775 to 1783",
-      "1812 to 1815",
-      "1846 to 1848"
+      "North Atlantic Treaty Organization (NATO)",
+      "Warsaw Pact",
+      "SEATO",
+      "League of Nations"
     ],
     "correctAnswer": 0,
-    "explanation": "The American Civil War erupted with Fort Sumter in April 1861 and concluded with Confederate surrender in spring 1865.",
+    "explanation": "NATO established collective defense under Article 5, stipulating that an armed attack against one member is an attack against all.",
     "tags": [
       "history",
       "us-history",
@@ -693,64 +693,64 @@
     "active": true
   },
   {
-    "id": "history-world-history-0034",
+    "id": "history-us-history-0034",
     "category": "History",
-    "subcategory": "World History",
+    "subcategory": "US History",
     "difficulty": "easy",
-    "question": "In world and American history: Which historic English charter signed in 1215 established that everyone, even the King, is subject to the law? (Ref #34)",
+    "question": "Which 1954 Supreme Court decision unanimously declared that racial segregation in public schools violates the Equal Protection Clause of the Fourteenth Amendment?",
     "options": [
-      "English Bill of Rights",
-      "Magna Carta (The Great Charter)",
-      "Treaty of Westphalia",
-      "Edict of Nantes"
+      "Plessy v. Ferguson",
+      "Brown v. Board of Education",
+      "Loving v. Virginia",
+      "Korematsu v. United States"
     ],
     "correctAnswer": 1,
-    "explanation": "King John of England granted Magna Carta at Runnymede in June 1215 under pressure from feudal barons.",
+    "explanation": "Chief Justice Earl Warren authored the opinion declaring that 'separate educational facilities are inherently unequal.'",
     "tags": [
       "history",
-      "world-history",
+      "us-history",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "history-ancient-civilizations-0035",
+    "id": "history-us-history-0035",
     "category": "History",
-    "subcategory": "Ancient Civilizations",
+    "subcategory": "US History",
     "difficulty": "medium",
-    "question": "In world and American history: In what year did the Apollo 11 mission achieve humanity's first manned lunar landing? (Ref #35)",
+    "question": "Whose refusal to surrender her seat on a segregated Montgomery, Alabama bus in December 1955 sparked the Montgomery Bus Boycott?",
     "options": [
-      "1965",
-      "1971",
-      "1969",
-      "1973"
+      "Coretta Scott King",
+      "Fannie Lou Hamer",
+      "Rosa Parks",
+      "Ella Baker"
     ],
     "correctAnswer": 2,
-    "explanation": "Neil Armstrong and Buzz Aldrin landed the lunar module Eagle on the Moon on July 20, 1969.",
+    "explanation": "Rosa Parks' act of civil disobedience galvanized the civil rights movement and brought Dr. Martin Luther King Jr. to national prominence.",
     "tags": [
       "history",
-      "ancient-civilizations",
+      "us-history",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "history-modern-milestones-0036",
+    "id": "history-us-history-0036",
     "category": "History",
-    "subcategory": "Modern Milestones",
+    "subcategory": "US History",
     "difficulty": "hard",
-    "question": "In world and American history: What historic symbol of the Cold War began to be dismantled in Berlin in November 1989? (Ref #36)",
+    "question": "What 1962 confrontation between the United States and the Soviet Union brought the two superpowers to the brink of nuclear war over missile installations in Cuba?",
     "options": [
-      "The Iron Gate",
-      "Checkpoint Alpha",
-      "The Brandenburg Citadel",
-      "The Berlin Wall"
+      "The Berlin Airlift",
+      "The Bay of Pigs Invasion",
+      "The Suez Crisis",
+      "The Cuban Missile Crisis"
     ],
     "correctAnswer": 3,
-    "explanation": "The fall of the Berlin Wall on November 9, 1989, paved the way for German reunification and the end of the Cold War.",
+    "explanation": "President John F. Kennedy imposed a naval quarantine on Cuba until Soviet Premier Nikita Khrushchev agreed to dismantle the missiles.",
     "tags": [
       "history",
-      "modern-milestones",
+      "us-history",
       "hard"
     ],
     "active": true
@@ -760,15 +760,15 @@
     "category": "History",
     "subcategory": "US History",
     "difficulty": "easy",
-    "question": "In world and American history: In what year was the United States Declaration of Independence formally adopted in Philadelphia? (Ref #37)",
+    "question": "Where did Dr. Martin Luther King Jr. deliver his iconic 'I Have a Dream' speech during the March on Washington for Jobs and Freedom in August 1963?",
     "options": [
-      "1776",
-      "1789",
-      "1783",
-      "1765"
+      "Lincoln Memorial",
+      "Washington Monument",
+      "US Capitol Steps",
+      "Jefferson Memorial"
     ],
     "correctAnswer": 0,
-    "explanation": "The Continental Congress formally adopted the Declaration of Independence on July 4, 1776.",
+    "explanation": "Dr. King spoke from the steps of the Lincoln Memorial before an audience of more than 250,000 civil rights demonstrators.",
     "tags": [
       "history",
       "us-history",
@@ -777,85 +777,85 @@
     "active": true
   },
   {
-    "id": "history-world-history-0038",
+    "id": "history-us-history-0038",
     "category": "History",
-    "subcategory": "World History",
+    "subcategory": "US History",
     "difficulty": "medium",
-    "question": "In world and American history: Who served as the first official President of the United States under the US Constitution? (Ref #38)",
+    "question": "Which landmark civil rights legislation signed by President Lyndon B. Johnson outlawed discrimination based on race, color, religion, sex, or national origin?",
     "options": [
-      "Thomas Jefferson",
-      "George Washington",
-      "John Adams",
-      "Benjamin Franklin"
+      "The Voting Rights Act of 1965",
+      "The Civil Rights Act of 1964",
+      "The Fair Housing Act of 1968",
+      "The Equal Pay Act of 1963"
     ],
     "correctAnswer": 1,
-    "explanation": "George Washington was unanimously elected and served as the first US President from 1789 to 1797.",
+    "explanation": "The act ended racial segregation in public accommodations and banned employment discrimination under Title VII.",
     "tags": [
       "history",
-      "world-history",
+      "us-history",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "history-ancient-civilizations-0039",
+    "id": "history-us-history-0039",
     "category": "History",
-    "subcategory": "Ancient Civilizations",
+    "subcategory": "US History",
     "difficulty": "hard",
-    "question": "In world and American history: Between which years was the American Civil War fought? (Ref #39)",
+    "question": "What political scandal arising from a June 1972 break-in at the Democratic National Committee headquarters led to the resignation of President Richard Nixon in 1974?",
     "options": [
-      "1775 to 1783",
-      "1812 to 1815",
-      "1861 to 1865",
-      "1846 to 1848"
+      "The Teapot Dome Scandal",
+      "The Iran-Contra Affair",
+      "The Watergate Scandal",
+      "The Whitewater Scandal"
     ],
     "correctAnswer": 2,
-    "explanation": "The American Civil War erupted with Fort Sumter in April 1861 and concluded with Confederate surrender in spring 1865.",
+    "explanation": "Facing imminent impeachment for obstruction of justice and abuse of power, Nixon resigned the presidency on August 9, 1974.",
     "tags": [
       "history",
-      "ancient-civilizations",
+      "us-history",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "history-modern-milestones-0040",
+    "id": "history-us-history-0040",
     "category": "History",
-    "subcategory": "Modern Milestones",
+    "subcategory": "US History",
     "difficulty": "easy",
-    "question": "In world and American history: Which historic English charter signed in 1215 established that everyone, even the King, is subject to the law? (Ref #40)",
+    "question": "What space shuttle mission in July 1969 achieved the first human landing on the Moon with astronauts Neil Armstrong and Buzz Aldrin?",
     "options": [
-      "English Bill of Rights",
-      "Treaty of Westphalia",
-      "Edict of Nantes",
-      "Magna Carta (The Great Charter)"
+      "Apollo 8",
+      "Apollo 13",
+      "Gemini 4",
+      "Apollo 11"
     ],
     "correctAnswer": 3,
-    "explanation": "King John of England granted Magna Carta at Runnymede in June 1215 under pressure from feudal barons.",
+    "explanation": "Neil Armstrong stepped onto the lunar surface on July 20, 1969, declaring 'That's one small step for man, one giant leap for mankind.'",
     "tags": [
       "history",
-      "modern-milestones",
+      "us-history",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "history-us-history-0041",
+    "id": "history-world-history-0041",
     "category": "History",
-    "subcategory": "US History",
+    "subcategory": "World History",
     "difficulty": "medium",
-    "question": "In world and American history: In what year did the Apollo 11 mission achieve humanity's first manned lunar landing? (Ref #41)",
+    "question": "Which ancient Mesopotamian river valley is historically revered as the 'Cradle of Civilization' between the Tigris and Euphrates?",
     "options": [
-      "1969",
-      "1965",
-      "1971",
-      "1973"
+      "Mesopotamia",
+      "Indus Valley",
+      "Nile River Basin",
+      "Yellow River Valley"
     ],
     "correctAnswer": 0,
-    "explanation": "Neil Armstrong and Buzz Aldrin landed the lunar module Eagle on the Moon on July 20, 1969.",
+    "explanation": "Mesopotamia saw the emergence of early agriculture, urbanization, the wheel, mathematics, and cuneiform writing.",
     "tags": [
       "history",
-      "us-history",
+      "world-history",
       "medium"
     ],
     "active": true
@@ -865,15 +865,15 @@
     "category": "History",
     "subcategory": "World History",
     "difficulty": "hard",
-    "question": "In world and American history: What historic symbol of the Cold War began to be dismantled in Berlin in November 1989? (Ref #42)",
+    "question": "Which Babylonian king codified one of the earliest and most complete written legal codes, famous for the principle 'an eye for an eye'?",
     "options": [
-      "The Iron Gate",
-      "The Berlin Wall",
-      "Checkpoint Alpha",
-      "The Brandenburg Citadel"
+      "Nebuchadnezzar II",
+      "Hammurabi",
+      "Sargon of Akkad",
+      "Ashurbanipal"
     ],
     "correctAnswer": 1,
-    "explanation": "The fall of the Berlin Wall on November 9, 1989, paved the way for German reunification and the end of the Cold War.",
+    "explanation": "The Code of Hammurabi (circa 1750 BCE) inscribed 282 legal judgments onto a diorite stele.",
     "tags": [
       "history",
       "world-history",
@@ -882,64 +882,64 @@
     "active": true
   },
   {
-    "id": "history-ancient-civilizations-0043",
+    "id": "history-world-history-0043",
     "category": "History",
-    "subcategory": "Ancient Civilizations",
+    "subcategory": "World History",
     "difficulty": "easy",
-    "question": "In world and American history: In what year was the United States Declaration of Independence formally adopted in Philadelphia? (Ref #43)",
+    "question": "Which ancient Egyptian pharaoh's intact tomb was discovered in the Valley of the Kings by Howard Carter in November 1922?",
     "options": [
-      "1789",
-      "1783",
-      "1776",
-      "1765"
+      "Ramesses II",
+      "Akhenaten",
+      "Tutankhamun",
+      "Thutmose III"
     ],
     "correctAnswer": 2,
-    "explanation": "The Continental Congress formally adopted the Declaration of Independence on July 4, 1776.",
+    "explanation": "The discovery of King Tut's intact tomb yielded thousands of priceless royal artifacts including the golden funeral mask.",
     "tags": [
       "history",
-      "ancient-civilizations",
+      "world-history",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "history-modern-milestones-0044",
+    "id": "history-world-history-0044",
     "category": "History",
-    "subcategory": "Modern Milestones",
+    "subcategory": "World History",
     "difficulty": "medium",
-    "question": "In world and American history: Who served as the first official President of the United States under the US Constitution? (Ref #44)",
+    "question": "In which ancient Greek city-state was direct participatory democracy first developed under Cleisthenes around 508 BCE?",
     "options": [
-      "Thomas Jefferson",
-      "John Adams",
-      "Benjamin Franklin",
-      "George Washington"
+      "Sparta",
+      "Corinth",
+      "Thebes",
+      "Athens"
     ],
     "correctAnswer": 3,
-    "explanation": "George Washington was unanimously elected and served as the first US President from 1789 to 1797.",
+    "explanation": "Athenian democracy enabled citizens to vote directly on legislation and executive bills in the Ecclesia assembly.",
     "tags": [
       "history",
-      "modern-milestones",
+      "world-history",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "history-us-history-0045",
+    "id": "history-world-history-0045",
     "category": "History",
-    "subcategory": "US History",
+    "subcategory": "World History",
     "difficulty": "hard",
-    "question": "In world and American history: Between which years was the American Civil War fought? (Ref #45)",
+    "question": "Which Macedonian king created one of the largest empires of the ancient world by age thirty, stretching from Greece to northwestern India?",
     "options": [
-      "1861 to 1865",
-      "1775 to 1783",
-      "1812 to 1815",
-      "1846 to 1848"
+      "Alexander the Great",
+      "Philip II of Macedon",
+      "Perdiccas",
+      "Antigonus I"
     ],
     "correctAnswer": 0,
-    "explanation": "The American Civil War erupted with Fort Sumter in April 1861 and concluded with Confederate surrender in spring 1865.",
+    "explanation": "Tutored by Aristotle, Alexander undefeated in battle conquered the Achaemenid Persian Empire and spread Hellenistic culture.",
     "tags": [
       "history",
-      "us-history",
+      "world-history",
       "hard"
     ],
     "active": true
@@ -949,15 +949,15 @@
     "category": "History",
     "subcategory": "World History",
     "difficulty": "easy",
-    "question": "In world and American history: Which historic English charter signed in 1215 established that everyone, even the King, is subject to the law? (Ref #46)",
+    "question": "What Roman general crossed the Rubicon River in 49 BCE, sparking civil war and ultimately ending the Roman Republic?",
     "options": [
-      "English Bill of Rights",
-      "Magna Carta (The Great Charter)",
-      "Treaty of Westphalia",
-      "Edict of Nantes"
+      "Mark Antony",
+      "Julius Caesar",
+      "Pompey the Great",
+      "Scipio Africanus"
     ],
     "correctAnswer": 1,
-    "explanation": "King John of England granted Magna Carta at Runnymede in June 1215 under pressure from feudal barons.",
+    "explanation": "Julius Caesar's defiance of the Roman Senate led to his appointment as dictator in perpetuity and the rise of the Empire.",
     "tags": [
       "history",
       "world-history",
@@ -966,64 +966,64 @@
     "active": true
   },
   {
-    "id": "history-ancient-civilizations-0047",
+    "id": "history-world-history-0047",
     "category": "History",
-    "subcategory": "Ancient Civilizations",
+    "subcategory": "World History",
     "difficulty": "medium",
-    "question": "In world and American history: In what year did the Apollo 11 mission achieve humanity's first manned lunar landing? (Ref #47)",
+    "question": "Who was the first official Emperor of the Roman Empire, ruling from 27 BCE until his death in 14 CE?",
     "options": [
-      "1965",
-      "1971",
-      "1969",
-      "1973"
+      "Tiberius",
+      "Nero",
+      "Augustus (Octavian)",
+      "Caligula"
     ],
     "correctAnswer": 2,
-    "explanation": "Neil Armstrong and Buzz Aldrin landed the lunar module Eagle on the Moon on July 20, 1969.",
+    "explanation": "Augustus initiated the Pax Romana, a two-century period of relative peace and stability across the Mediterranean basin.",
     "tags": [
       "history",
-      "ancient-civilizations",
+      "world-history",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "history-modern-milestones-0048",
+    "id": "history-world-history-0048",
     "category": "History",
-    "subcategory": "Modern Milestones",
+    "subcategory": "World History",
     "difficulty": "hard",
-    "question": "In world and American history: What historic symbol of the Cold War began to be dismantled in Berlin in November 1989? (Ref #48)",
+    "question": "What devastating pandemic swept across Europe between 1347 and 1351, killing an estimated 30% to 60% of the population?",
     "options": [
-      "The Iron Gate",
-      "Checkpoint Alpha",
-      "The Brandenburg Citadel",
-      "The Berlin Wall"
+      "The Antonine Plague",
+      "The Plague of Justinian",
+      "The Spanish Flu",
+      "The Black Death (Bubonic Plague)"
     ],
     "correctAnswer": 3,
-    "explanation": "The fall of the Berlin Wall on November 9, 1989, paved the way for German reunification and the end of the Cold War.",
+    "explanation": "Caused by Yersinia pestis transmitted by flea-infested rats, the plague caused catastrophic social and economic disruption.",
     "tags": [
       "history",
-      "modern-milestones",
+      "world-history",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "history-us-history-0049",
+    "id": "history-world-history-0049",
     "category": "History",
-    "subcategory": "US History",
+    "subcategory": "World History",
     "difficulty": "easy",
-    "question": "In world and American history: In what year was the United States Declaration of Independence formally adopted in Philadelphia? (Ref #49)",
+    "question": "What cultural movement originating in 14th-century Italy marked the revival of classical antiquity, art, and humanism across Europe?",
     "options": [
-      "1776",
-      "1789",
-      "1783",
-      "1765"
+      "The Renaissance",
+      "The Enlightenment",
+      "The Reformation",
+      "The Romantic Era"
     ],
     "correctAnswer": 0,
-    "explanation": "The Continental Congress formally adopted the Declaration of Independence on July 4, 1776.",
+    "explanation": "Beginning in Florence, the Renaissance produced revolutionary advances in art, architecture, philosophy, and empirical science.",
     "tags": [
       "history",
-      "us-history",
+      "world-history",
       "easy"
     ],
     "active": true
@@ -1033,15 +1033,15 @@
     "category": "History",
     "subcategory": "World History",
     "difficulty": "medium",
-    "question": "In world and American history: Who served as the first official President of the United States under the US Constitution? (Ref #50)",
+    "question": "Who invented the movable-type mechanical printing press in Mainz, Germany around 1440, revolutionizing information dissemination?",
     "options": [
-      "Thomas Jefferson",
-      "George Washington",
-      "John Adams",
-      "Benjamin Franklin"
+      "Albrecht Durer",
+      "Johannes Gutenberg",
+      "Desiderius Erasmus",
+      "William Caxton"
     ],
     "correctAnswer": 1,
-    "explanation": "George Washington was unanimously elected and served as the first US President from 1789 to 1797.",
+    "explanation": "Gutenberg's printing press enabled mass production of books, fostering rapid literacy and fueling the Protestant Reformation.",
     "tags": [
       "history",
       "world-history",
@@ -1050,64 +1050,64 @@
     "active": true
   },
   {
-    "id": "history-ancient-civilizations-0051",
+    "id": "history-world-history-0051",
     "category": "History",
-    "subcategory": "Ancient Civilizations",
+    "subcategory": "World History",
     "difficulty": "hard",
-    "question": "In world and American history: Between which years was the American Civil War fought? (Ref #51)",
+    "question": "Which German monk sparked the Protestant Reformation in 1517 by posting his Ninety-Five Theses on the door of All Saints' Church in Wittenberg?",
     "options": [
-      "1775 to 1783",
-      "1812 to 1815",
-      "1861 to 1865",
-      "1846 to 1848"
+      "John Calvin",
+      "Huldrych Zwingli",
+      "Martin Luther",
+      "John Wycliffe"
     ],
     "correctAnswer": 2,
-    "explanation": "The American Civil War erupted with Fort Sumter in April 1861 and concluded with Confederate surrender in spring 1865.",
+    "explanation": "Luther protested the sale of papal indulgences, advocating justification by faith alone (sola fide) and scripture (sola scriptura).",
     "tags": [
       "history",
-      "ancient-civilizations",
+      "world-history",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "history-modern-milestones-0052",
+    "id": "history-world-history-0052",
     "category": "History",
-    "subcategory": "Modern Milestones",
+    "subcategory": "World History",
     "difficulty": "easy",
-    "question": "In world and American history: Which historic English charter signed in 1215 established that everyone, even the King, is subject to the law? (Ref #52)",
+    "question": "Which Spanish conquistador led the military expedition that caused the fall of the Aztec Empire between 1519 and 1521?",
     "options": [
-      "English Bill of Rights",
-      "Treaty of Westphalia",
-      "Edict of Nantes",
-      "Magna Carta (The Great Charter)"
+      "Francisco Pizarro",
+      "Vasco Nunez de Balboa",
+      "Francisco Vazquez de Coronado",
+      "Hernan Cortes"
     ],
     "correctAnswer": 3,
-    "explanation": "King John of England granted Magna Carta at Runnymede in June 1215 under pressure from feudal barons.",
+    "explanation": "Cortes allied with indigenous enemies of the Aztecs, captured Emperor Montezuma II, and conquered the capital Tenochtitlan.",
     "tags": [
       "history",
-      "modern-milestones",
+      "world-history",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "history-us-history-0053",
+    "id": "history-world-history-0053",
     "category": "History",
-    "subcategory": "US History",
+    "subcategory": "World History",
     "difficulty": "medium",
-    "question": "In world and American history: In what year did the Apollo 11 mission achieve humanity's first manned lunar landing? (Ref #53)",
+    "question": "Which Spanish conquistador led the conquest of the Inca Empire in western South America, capturing Emperor Atahualpa in 1532?",
     "options": [
-      "1969",
-      "1965",
-      "1971",
-      "1973"
+      "Francisco Pizarro",
+      "Hernan Cortes",
+      "Diego de Almagro",
+      "Pedro de Valdivia"
     ],
     "correctAnswer": 0,
-    "explanation": "Neil Armstrong and Buzz Aldrin landed the lunar module Eagle on the Moon on July 20, 1969.",
+    "explanation": "Pizarro captured Atahualpa at the Battle of Cajamarca, seizing immense silver and gold ransoms before executing him.",
     "tags": [
       "history",
-      "us-history",
+      "world-history",
       "medium"
     ],
     "active": true
@@ -1117,15 +1117,15 @@
     "category": "History",
     "subcategory": "World History",
     "difficulty": "hard",
-    "question": "In world and American history: What historic symbol of the Cold War began to be dismantled in Berlin in November 1989? (Ref #54)",
+    "question": "What Portuguese explorer commanded the first European ship to sail directly to India around the Cape of Good Hope in 1498?",
     "options": [
-      "The Iron Gate",
-      "The Berlin Wall",
-      "Checkpoint Alpha",
-      "The Brandenburg Citadel"
+      "Ferdinand Magellan",
+      "Vasco da Gama",
+      "Bartolomeu Dias",
+      "Prince Henry the Navigator"
     ],
     "correctAnswer": 1,
-    "explanation": "The fall of the Berlin Wall on November 9, 1989, paved the way for German reunification and the end of the Cold War.",
+    "explanation": "Vasco da Gama's voyage opened maritime trade routes between Europe and Asia, bypassing Arab and Venetian monopolies.",
     "tags": [
       "history",
       "world-history",
@@ -1134,64 +1134,64 @@
     "active": true
   },
   {
-    "id": "history-ancient-civilizations-0055",
+    "id": "history-world-history-0055",
     "category": "History",
-    "subcategory": "Ancient Civilizations",
+    "subcategory": "World History",
     "difficulty": "easy",
-    "question": "In world and American history: In what year was the United States Declaration of Independence formally adopted in Philadelphia? (Ref #55)",
+    "question": "Whose maritime expedition completed the first recorded circumnavigation of the globe between 1519 and 1522 under Juan Sebastian Elcano?",
     "options": [
-      "1789",
-      "1783",
-      "1776",
-      "1765"
+      "Sir Francis Drake",
+      "Christopher Columbus",
+      "Ferdinand Magellan",
+      "Amerigo Vespucci"
     ],
     "correctAnswer": 2,
-    "explanation": "The Continental Congress formally adopted the Declaration of Independence on July 4, 1776.",
+    "explanation": "Magellan was killed in the Philippines, but his navigator Juan Sebastian Elcano returned to Spain aboard the Victoria.",
     "tags": [
       "history",
-      "ancient-civilizations",
+      "world-history",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "history-modern-milestones-0056",
+    "id": "history-world-history-0056",
     "category": "History",
-    "subcategory": "Modern Milestones",
+    "subcategory": "World History",
     "difficulty": "medium",
-    "question": "In world and American history: Who served as the first official President of the United States under the US Constitution? (Ref #56)",
+    "question": "Which French monarch, known as the 'Sun King', built the Palace of Versailles and reigned for over 72 years (1643-1715)?",
     "options": [
-      "Thomas Jefferson",
-      "John Adams",
-      "Benjamin Franklin",
-      "George Washington"
+      "Louis XVI",
+      "Henry IV",
+      "Francis I",
+      "Louis XIV"
     ],
     "correctAnswer": 3,
-    "explanation": "George Washington was unanimously elected and served as the first US President from 1789 to 1797.",
+    "explanation": "Louis XIV consolidated absolute royal monarchy in France under the divine right of kings, famously declaring 'L'etat, c'est moi.'",
     "tags": [
       "history",
-      "modern-milestones",
+      "world-history",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "history-us-history-0057",
+    "id": "history-world-history-0057",
     "category": "History",
-    "subcategory": "US History",
+    "subcategory": "World History",
     "difficulty": "hard",
-    "question": "In world and American history: Between which years was the American Civil War fought? (Ref #57)",
+    "question": "What historic event on July 14, 1789, involving the storming of a royal medieval fortress in Paris, ignited the French Revolution?",
     "options": [
-      "1861 to 1865",
-      "1775 to 1783",
-      "1812 to 1815",
-      "1846 to 1848"
+      "The Storming of the Bastille",
+      "The Women's March on Versailles",
+      "The Tennis Court Oath",
+      "The Execution of Louis XVI"
     ],
     "correctAnswer": 0,
-    "explanation": "The American Civil War erupted with Fort Sumter in April 1861 and concluded with Confederate surrender in spring 1865.",
+    "explanation": "Revolutionaries seized the Bastille prison to secure gunpowder and ammunition, symbolizing the collapse of royal despotism.",
     "tags": [
       "history",
-      "us-history",
+      "world-history",
       "hard"
     ],
     "active": true
@@ -1201,15 +1201,15 @@
     "category": "History",
     "subcategory": "World History",
     "difficulty": "easy",
-    "question": "In world and American history: Which historic English charter signed in 1215 established that everyone, even the King, is subject to the law? (Ref #58)",
+    "question": "Which French military commander seized political power in the Coup of 18 Brumaire (1799) and crowned himself Emperor in 1804?",
     "options": [
-      "English Bill of Rights",
-      "Magna Carta (The Great Charter)",
-      "Treaty of Westphalia",
-      "Edict of Nantes"
+      "Maximilian Robespierre",
+      "Napoleon Bonaparte",
+      "Georges Danton",
+      "Charles Maurice de Talleyrand"
     ],
     "correctAnswer": 1,
-    "explanation": "King John of England granted Magna Carta at Runnymede in June 1215 under pressure from feudal barons.",
+    "explanation": "Napoleon conquered continental Europe through brilliant military campaigns and established the Napoleonic Civil Code.",
     "tags": [
       "history",
       "world-history",
@@ -1218,64 +1218,64 @@
     "active": true
   },
   {
-    "id": "history-ancient-civilizations-0059",
+    "id": "history-world-history-0059",
     "category": "History",
-    "subcategory": "Ancient Civilizations",
+    "subcategory": "World History",
     "difficulty": "medium",
-    "question": "In world and American history: In what year did the Apollo 11 mission achieve humanity's first manned lunar landing? (Ref #59)",
+    "question": "Which 1815 battle in modern Belgium marked the final military defeat of Napoleon Bonaparte by British and Prussian coalition armies?",
     "options": [
-      "1965",
-      "1971",
-      "1969",
-      "1973"
+      "Battle of Austerlitz",
+      "Battle of Leipzig",
+      "Battle of Waterloo",
+      "Battle of Trafalgar"
     ],
     "correctAnswer": 2,
-    "explanation": "Neil Armstrong and Buzz Aldrin landed the lunar module Eagle on the Moon on July 20, 1969.",
+    "explanation": "The Duke of Wellington and Field Marshal von Blucher defeated Napoleon, leading to his second abdication and exile to Saint Helena.",
     "tags": [
       "history",
-      "ancient-civilizations",
+      "world-history",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "history-modern-milestones-0060",
+    "id": "history-world-history-0060",
     "category": "History",
-    "subcategory": "Modern Milestones",
+    "subcategory": "World History",
     "difficulty": "hard",
-    "question": "In world and American history: What historic symbol of the Cold War began to be dismantled in Berlin in November 1989? (Ref #60)",
+    "question": "What transformation began in Britain during the mid-18th century with mechanization, steam engines, and factory manufacturing systems?",
     "options": [
-      "The Iron Gate",
-      "Checkpoint Alpha",
-      "The Brandenburg Citadel",
-      "The Berlin Wall"
+      "The Agricultural Revolution",
+      "The Scientific Revolution",
+      "The Commercial Revolution",
+      "The Industrial Revolution"
     ],
     "correctAnswer": 3,
-    "explanation": "The fall of the Berlin Wall on November 9, 1989, paved the way for German reunification and the end of the Cold War.",
+    "explanation": "Innovations like James Watt's steam engine and mechanized spinning jennies shifted agrarian economies toward urban industrial centers.",
     "tags": [
       "history",
-      "modern-milestones",
+      "world-history",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "history-us-history-0061",
+    "id": "history-world-history-0061",
     "category": "History",
-    "subcategory": "US History",
+    "subcategory": "World History",
     "difficulty": "easy",
-    "question": "In world and American history: In what year was the United States Declaration of Independence formally adopted in Philadelphia? (Ref #61)",
+    "question": "What document issued by Karl Marx and Friedrich Engels in London in February 1848 proclaimed 'Workers of the world, unite!'?",
     "options": [
-      "1776",
-      "1789",
-      "1783",
-      "1765"
+      "The Communist Manifesto",
+      "Das Kapital",
+      "The Wealth of Nations",
+      "The Social Contract"
     ],
     "correctAnswer": 0,
-    "explanation": "The Continental Congress formally adopted the Declaration of Independence on July 4, 1776.",
+    "explanation": "The Manifesto analyzed class struggle throughout history and predicted the overthrow of bourgeois capitalism by the proletariat.",
     "tags": [
       "history",
-      "us-history",
+      "world-history",
       "easy"
     ],
     "active": true
@@ -1285,15 +1285,15 @@
     "category": "History",
     "subcategory": "World History",
     "difficulty": "medium",
-    "question": "In world and American history: Who served as the first official President of the United States under the US Constitution? (Ref #62)",
+    "question": "What major political conflict between 1853 and 1856 pitted Russia against an alliance of the Ottoman Empire, Britain, France, and Sardinia?",
     "options": [
-      "Thomas Jefferson",
-      "George Washington",
-      "John Adams",
-      "Benjamin Franklin"
+      "The Franco-Prussian War",
+      "The Crimean War",
+      "The Russo-Turkish War",
+      "The Seven Years' War"
     ],
     "correctAnswer": 1,
-    "explanation": "George Washington was unanimously elected and served as the first US President from 1789 to 1797.",
+    "explanation": "Fought largely on the Crimean Peninsula, the war revealed Russian military weakness and inspired Florence Nightingale's modern nursing reforms.",
     "tags": [
       "history",
       "world-history",
@@ -1302,64 +1302,64 @@
     "active": true
   },
   {
-    "id": "history-ancient-civilizations-0063",
+    "id": "history-world-history-0063",
     "category": "History",
-    "subcategory": "Ancient Civilizations",
+    "subcategory": "World History",
     "difficulty": "hard",
-    "question": "In world and American history: Between which years was the American Civil War fought? (Ref #63)",
+    "question": "Who was the Prussian statesman known as the 'Iron Chancellor' who orchestrated the unification of Germany in 1871 through 'Blood and Iron'?",
     "options": [
-      "1775 to 1783",
-      "1812 to 1815",
-      "1861 to 1865",
-      "1846 to 1848"
+      "Kaiser Wilhelm I",
+      "Helmuth von Moltke",
+      "Otto von Bismarck",
+      "Klemens von Metternich"
     ],
     "correctAnswer": 2,
-    "explanation": "The American Civil War erupted with Fort Sumter in April 1861 and concluded with Confederate surrender in spring 1865.",
+    "explanation": "Bismarck unified Germany through three calculated wars against Denmark, Austria, and France, establishing the German Empire.",
     "tags": [
       "history",
-      "ancient-civilizations",
+      "world-history",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "history-modern-milestones-0064",
+    "id": "history-world-history-0064",
     "category": "History",
-    "subcategory": "Modern Milestones",
+    "subcategory": "World History",
     "difficulty": "easy",
-    "question": "In world and American history: Which historic English charter signed in 1215 established that everyone, even the King, is subject to the law? (Ref #64)",
+    "question": "What event on June 28, 1914 in Sarajevo triggered the alliance chain that initiated World War I?",
     "options": [
-      "English Bill of Rights",
-      "Treaty of Westphalia",
-      "Edict of Nantes",
-      "Magna Carta (The Great Charter)"
+      "The sinking of the Lusitania",
+      "The invasion of Belgium",
+      "The mobilization of Russian troops",
+      "The assassination of Archduke Franz Ferdinand"
     ],
     "correctAnswer": 3,
-    "explanation": "King John of England granted Magna Carta at Runnymede in June 1215 under pressure from feudal barons.",
+    "explanation": "Gavrilo Princip, a Bosnian Serb nationalist, shot Archduke Franz Ferdinand and his wife, setting off the diplomatic July Crisis.",
     "tags": [
       "history",
-      "modern-milestones",
+      "world-history",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "history-us-history-0065",
+    "id": "history-world-history-0065",
     "category": "History",
-    "subcategory": "US History",
+    "subcategory": "World History",
     "difficulty": "medium",
-    "question": "In world and American history: In what year did the Apollo 11 mission achieve humanity's first manned lunar landing? (Ref #65)",
+    "question": "What international treaty signed on June 28, 1919 in the Hall of Mirrors formally ended the state of war between Germany and the Allied Powers?",
     "options": [
-      "1969",
-      "1965",
-      "1971",
-      "1973"
+      "The Treaty of Versailles",
+      "The Treaty of Brest-Litovsk",
+      "The Treaty of Saint-Germain",
+      "The Treaty of Sevres"
     ],
     "correctAnswer": 0,
-    "explanation": "Neil Armstrong and Buzz Aldrin landed the lunar module Eagle on the Moon on July 20, 1969.",
+    "explanation": "The treaty imposed severe territorial losses, military restrictions, and heavy financial reparations on Germany under the War Guilt clause.",
     "tags": [
       "history",
-      "us-history",
+      "world-history",
       "medium"
     ],
     "active": true
@@ -1369,15 +1369,15 @@
     "category": "History",
     "subcategory": "World History",
     "difficulty": "hard",
-    "question": "In world and American history: What historic symbol of the Cold War began to be dismantled in Berlin in November 1989? (Ref #66)",
+    "question": "Which revolutionary leader led the Bolshevik Party to overthrow the Russian Provisional Government in the October Revolution of 1917?",
     "options": [
-      "The Iron Gate",
-      "The Berlin Wall",
-      "Checkpoint Alpha",
-      "The Brandenburg Citadel"
+      "Leon Trotsky",
+      "Vladimir Lenin",
+      "Joseph Stalin",
+      "Nikolai Bukharin"
     ],
     "correctAnswer": 1,
-    "explanation": "The fall of the Berlin Wall on November 9, 1989, paved the way for German reunification and the end of the Cold War.",
+    "explanation": "Lenin established Soviet Russia, pulling Russia out of World War I and founding the world's first socialist state.",
     "tags": [
       "history",
       "world-history",
@@ -1386,64 +1386,64 @@
     "active": true
   },
   {
-    "id": "history-ancient-civilizations-0067",
+    "id": "history-world-history-0067",
     "category": "History",
-    "subcategory": "Ancient Civilizations",
+    "subcategory": "World History",
     "difficulty": "easy",
-    "question": "In world and American history: In what year was the United States Declaration of Independence formally adopted in Philadelphia? (Ref #67)",
+    "question": "What was the state of political and geopolitical tension between the Western Bloc (led by the US) and the Eastern Bloc (USSR) from 1947 to 1991?",
     "options": [
-      "1789",
-      "1783",
-      "1776",
-      "1765"
+      "The Great Northern War",
+      "The Thirty Years' War",
+      "The Cold War",
+      "The Seven Years' War"
     ],
     "correctAnswer": 2,
-    "explanation": "The Continental Congress formally adopted the Declaration of Independence on July 4, 1776.",
+    "explanation": "The conflict featured nuclear arms proliferation, ideological proxy wars (Korea, Vietnam), and the Space Race without direct superpower clashes.",
     "tags": [
       "history",
-      "ancient-civilizations",
+      "world-history",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "history-modern-milestones-0068",
+    "id": "history-world-history-0068",
     "category": "History",
-    "subcategory": "Modern Milestones",
+    "subcategory": "World History",
     "difficulty": "medium",
-    "question": "In world and American history: Who served as the first official President of the United States under the US Constitution? (Ref #68)",
+    "question": "What physical barrier erected by East Germany in August 1961 completely encircled West Berlin until its historic fall in November 1989?",
     "options": [
-      "Thomas Jefferson",
-      "John Adams",
-      "Benjamin Franklin",
-      "George Washington"
+      "The Iron Curtain",
+      "The Maginot Line",
+      "The Siegfried Line",
+      "The Berlin Wall"
     ],
     "correctAnswer": 3,
-    "explanation": "George Washington was unanimously elected and served as the first US President from 1789 to 1797.",
+    "explanation": "The wall stood for 28 years as the paramount symbol of the Cold War division between Soviet communism and Western democracy.",
     "tags": [
       "history",
-      "modern-milestones",
+      "world-history",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "history-us-history-0069",
+    "id": "history-world-history-0069",
     "category": "History",
-    "subcategory": "US History",
+    "subcategory": "World History",
     "difficulty": "hard",
-    "question": "In world and American history: Between which years was the American Civil War fought? (Ref #69)",
+    "question": "Which Soviet leader introduced the political reforms of 'Glasnost' (openness) and 'Perestroika' (restructuring) in the late 1980s?",
     "options": [
-      "1861 to 1865",
-      "1775 to 1783",
-      "1812 to 1815",
-      "1846 to 1848"
+      "Mikhail Gorbachev",
+      "Nikita Khrushchev",
+      "Leonid Brezhnev",
+      "Boris Yeltsin"
     ],
     "correctAnswer": 0,
-    "explanation": "The American Civil War erupted with Fort Sumter in April 1861 and concluded with Confederate surrender in spring 1865.",
+    "explanation": "Gorbachev's reforms inadvertently accelerated nationalist sentiment across the Soviet republics, culminating in the dissolution of the USSR in 1991.",
     "tags": [
       "history",
-      "us-history",
+      "world-history",
       "hard"
     ],
     "active": true
@@ -1453,15 +1453,15 @@
     "category": "History",
     "subcategory": "World History",
     "difficulty": "easy",
-    "question": "In world and American history: Which historic English charter signed in 1215 established that everyone, even the King, is subject to the law? (Ref #70)",
+    "question": "In what year did the Soviet Union formally dissolve, creating 15 independent sovereign states including the Russian Federation?",
     "options": [
-      "English Bill of Rights",
-      "Magna Carta (The Great Charter)",
-      "Treaty of Westphalia",
-      "Edict of Nantes"
+      "1989",
+      "1991",
+      "1990",
+      "1993"
     ],
     "correctAnswer": 1,
-    "explanation": "King John of England granted Magna Carta at Runnymede in June 1215 under pressure from feudal barons.",
+    "explanation": "The USSR ceased to exist on December 26, 1991 following the resignation of President Gorbachev and the Alma-Ata Protocol.",
     "tags": [
       "history",
       "world-history",
@@ -1470,64 +1470,64 @@
     "active": true
   },
   {
-    "id": "history-ancient-civilizations-0071",
+    "id": "history-world-history-0071",
     "category": "History",
-    "subcategory": "Ancient Civilizations",
+    "subcategory": "World History",
     "difficulty": "medium",
-    "question": "In world and American history: In what year did the Apollo 11 mission achieve humanity's first manned lunar landing? (Ref #71)",
+    "question": "Who was the anti-apartheid revolutionary who served 27 years in prison before becoming the first Black president of South Africa in 1994?",
     "options": [
-      "1965",
-      "1971",
-      "1969",
-      "1973"
+      "Desmond Tutu",
+      "Steve Biko",
+      "Nelson Mandela",
+      "Thabo Mbeki"
     ],
     "correctAnswer": 2,
-    "explanation": "Neil Armstrong and Buzz Aldrin landed the lunar module Eagle on the Moon on July 20, 1969.",
+    "explanation": "Mandela led negotiations with the apartheid government to dismantle racial segregation and organize the country's first multiracial democratic elections.",
     "tags": [
       "history",
-      "ancient-civilizations",
+      "world-history",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "history-modern-milestones-0072",
+    "id": "history-world-history-0072",
     "category": "History",
-    "subcategory": "Modern Milestones",
+    "subcategory": "World History",
     "difficulty": "hard",
-    "question": "In world and American history: What historic symbol of the Cold War began to be dismantled in Berlin in November 1989? (Ref #72)",
+    "question": "Which international organization was founded in San Francisco in October 1945 following World War II to maintain global peace and security?",
     "options": [
-      "The Iron Gate",
-      "Checkpoint Alpha",
-      "The Brandenburg Citadel",
-      "The Berlin Wall"
+      "The League of Nations",
+      "The International Red Cross",
+      "The Organization of American States",
+      "The United Nations (UN)"
     ],
     "correctAnswer": 3,
-    "explanation": "The fall of the Berlin Wall on November 9, 1989, paved the way for German reunification and the end of the Cold War.",
+    "explanation": "Fifty nations signed the UN Charter to foster international cooperation and prevent future global military catastrophes.",
     "tags": [
       "history",
-      "modern-milestones",
+      "world-history",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "history-us-history-0073",
+    "id": "history-world-history-0073",
     "category": "History",
-    "subcategory": "US History",
+    "subcategory": "World History",
     "difficulty": "easy",
-    "question": "In world and American history: In what year was the United States Declaration of Independence formally adopted in Philadelphia? (Ref #73)",
+    "question": "What 1839-1842 war between Great Britain and the Qing Dynasty resulted in China ceding Hong Kong Island under the Treaty of Nanking?",
     "options": [
-      "1776",
-      "1789",
-      "1783",
-      "1765"
+      "The First Opium War",
+      "The Second Opium War",
+      "The Taiping Rebellion",
+      "The Boxer Rebellion"
     ],
     "correctAnswer": 0,
-    "explanation": "The Continental Congress formally adopted the Declaration of Independence on July 4, 1776.",
+    "explanation": "Britain waged war to force open Chinese trade and protect its illicit exports of Indian opium to Chinese markets.",
     "tags": [
       "history",
-      "us-history",
+      "world-history",
       "easy"
     ],
     "active": true
@@ -1537,15 +1537,15 @@
     "category": "History",
     "subcategory": "World History",
     "difficulty": "medium",
-    "question": "In world and American history: Who served as the first official President of the United States under the US Constitution? (Ref #74)",
+    "question": "Which 1850-1864 civil war in southern China, led by Hong Xiuquan against the Qing Dynasty, caused an estimated 20 to 30 million deaths?",
     "options": [
-      "Thomas Jefferson",
-      "George Washington",
-      "John Adams",
-      "Benjamin Franklin"
+      "The Boxer Rebellion",
+      "The Taiping Rebellion",
+      "The White Lotus Rebellion",
+      "The Nian Rebellion"
     ],
     "correctAnswer": 1,
-    "explanation": "George Washington was unanimously elected and served as the first US President from 1789 to 1797.",
+    "explanation": "The Taiping Heavenly Kingdom fought the Qing imperial forces in one of the deadliest military conflicts in human history.",
     "tags": [
       "history",
       "world-history",
@@ -1554,64 +1554,64 @@
     "active": true
   },
   {
-    "id": "history-ancient-civilizations-0075",
+    "id": "history-world-history-0075",
     "category": "History",
-    "subcategory": "Ancient Civilizations",
+    "subcategory": "World History",
     "difficulty": "hard",
-    "question": "In world and American history: Between which years was the American Civil War fought? (Ref #75)",
+    "question": "What period of rapid modernization, industrialization, and Westernization began in Japan in 1868 following the overthrow of the Tokugawa Shogunate?",
     "options": [
-      "1775 to 1783",
-      "1812 to 1815",
-      "1861 to 1865",
-      "1846 to 1848"
+      "The Edo Period",
+      "The Taisho Era",
+      "The Meiji Restoration",
+      "The Showa Restoration"
     ],
     "correctAnswer": 2,
-    "explanation": "The American Civil War erupted with Fort Sumter in April 1861 and concluded with Confederate surrender in spring 1865.",
+    "explanation": "Emperor Meiji restored direct imperial rule, propelling Japan from an isolated feudal state into an industrialized global military power.",
     "tags": [
       "history",
-      "ancient-civilizations",
+      "world-history",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "history-modern-milestones-0076",
+    "id": "history-world-history-0076",
     "category": "History",
-    "subcategory": "Modern Milestones",
+    "subcategory": "World History",
     "difficulty": "easy",
-    "question": "In world and American history: Which historic English charter signed in 1215 established that everyone, even the King, is subject to the law? (Ref #76)",
+    "question": "Who led the non-violent civil disobedience movement (Satyagraha) that culminated in Indian independence from British colonial rule in 1947?",
     "options": [
-      "English Bill of Rights",
-      "Treaty of Westphalia",
-      "Edict of Nantes",
-      "Magna Carta (The Great Charter)"
+      "Jawaharlal Nehru",
+      "Subhas Chandra Bose",
+      "Muhammad Ali Jinnah",
+      "Mahatma Gandhi"
     ],
     "correctAnswer": 3,
-    "explanation": "King John of England granted Magna Carta at Runnymede in June 1215 under pressure from feudal barons.",
+    "explanation": "Gandhi organized peaceful nationwide mass protests including the historic 1930 Salt March against British salt taxation monopolies.",
     "tags": [
       "history",
-      "modern-milestones",
+      "world-history",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "history-us-history-0077",
+    "id": "history-world-history-0077",
     "category": "History",
-    "subcategory": "US History",
+    "subcategory": "World History",
     "difficulty": "medium",
-    "question": "In world and American history: In what year did the Apollo 11 mission achieve humanity's first manned lunar landing? (Ref #77)",
+    "question": "Which ancient trade route network connected China and the Far East with Europe and the Mediterranean for overland commerce across Eurasia?",
     "options": [
-      "1969",
-      "1965",
-      "1971",
-      "1973"
+      "The Silk Road",
+      "The Amber Road",
+      "The Incense Route",
+      "The Royal Road of Persia"
     ],
     "correctAnswer": 0,
-    "explanation": "Neil Armstrong and Buzz Aldrin landed the lunar module Eagle on the Moon on July 20, 1969.",
+    "explanation": "Caravans transported silk, spices, glassware, and porcelain, along with scientific discoveries and religions, across Eurasian steppes.",
     "tags": [
       "history",
-      "us-history",
+      "world-history",
       "medium"
     ],
     "active": true
@@ -1621,15 +1621,15 @@
     "category": "History",
     "subcategory": "World History",
     "difficulty": "hard",
-    "question": "In world and American history: What historic symbol of the Cold War began to be dismantled in Berlin in November 1989? (Ref #78)",
+    "question": "Which emperor of the Mongol Empire founded the Yuan Dynasty of China and hosted Venetian merchant traveler Marco Polo in his court?",
     "options": [
-      "The Iron Gate",
-      "The Berlin Wall",
-      "Checkpoint Alpha",
-      "The Brandenburg Citadel"
+      "Genghis Khan",
+      "Kublai Khan",
+      "Ogedei Khan",
+      "Batu Khan"
     ],
     "correctAnswer": 1,
-    "explanation": "The fall of the Berlin Wall on November 9, 1989, paved the way for German reunification and the end of the Cold War.",
+    "explanation": "Kublai Khan, grandson of Genghis Khan, conquered the Southern Song Dynasty and established Khanbaliq (modern Beijing) as his capital.",
     "tags": [
       "history",
       "world-history",
@@ -1638,85 +1638,85 @@
     "active": true
   },
   {
-    "id": "history-ancient-civilizations-0079",
+    "id": "history-world-history-0079",
     "category": "History",
-    "subcategory": "Ancient Civilizations",
+    "subcategory": "World History",
     "difficulty": "easy",
-    "question": "In world and American history: In what year was the United States Declaration of Independence formally adopted in Philadelphia? (Ref #79)",
+    "question": "What 1453 historical event, in which Ottoman forces under Sultan Mehmed II conquered the capital of the Byzantine Empire, ended the Roman Empire?",
     "options": [
-      "1789",
-      "1783",
-      "1776",
-      "1765"
+      "The Siege of Vienna",
+      "The Battle of Lepanto",
+      "The Fall of Constantinople",
+      "The Battle of Manzikert"
     ],
     "correctAnswer": 2,
-    "explanation": "The Continental Congress formally adopted the Declaration of Independence on July 4, 1776.",
+    "explanation": "Ottoman capture of Constantinople severed European overland trade routes to Asia, spurring European exploratory maritime voyages.",
     "tags": [
       "history",
-      "ancient-civilizations",
+      "world-history",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "history-modern-milestones-0080",
+    "id": "history-world-history-0080",
     "category": "History",
-    "subcategory": "Modern Milestones",
+    "subcategory": "World History",
     "difficulty": "medium",
-    "question": "In world and American history: Who served as the first official President of the United States under the US Constitution? (Ref #80)",
+    "question": "Which 1986 catastrophic nuclear reactor explosion in the Ukrainian Soviet Republic spread radioactive fallout across Europe?",
     "options": [
-      "Thomas Jefferson",
-      "John Adams",
-      "Benjamin Franklin",
-      "George Washington"
+      "The Three Mile Island Accident",
+      "The Fukushima Daiichi Disaster",
+      "The Kyshtym Incident",
+      "The Chernobyl Disaster"
     ],
     "correctAnswer": 3,
-    "explanation": "George Washington was unanimously elected and served as the first US President from 1789 to 1797.",
+    "explanation": "Reactor No. 4 at the Chernobyl nuclear power plant suffered a steam explosion and open graphite fire during an unauthorized safety test.",
     "tags": [
       "history",
-      "modern-milestones",
+      "world-history",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "history-us-history-0081",
+    "id": "history-ancient-civilizations-0081",
     "category": "History",
-    "subcategory": "US History",
+    "subcategory": "Ancient Civilizations",
     "difficulty": "hard",
-    "question": "In world and American history: Between which years was the American Civil War fought? (Ref #81)",
+    "question": "What is the earliest known system of writing in human history, developed by the Sumerians using wedge-shaped stylus impressions on clay?",
     "options": [
-      "1861 to 1865",
-      "1775 to 1783",
-      "1812 to 1815",
-      "1846 to 1848"
+      "Cuneiform",
+      "Hieroglyphics",
+      "Linear A",
+      "Phoenician alphabet"
     ],
     "correctAnswer": 0,
-    "explanation": "The American Civil War erupted with Fort Sumter in April 1861 and concluded with Confederate surrender in spring 1865.",
+    "explanation": "Sumerians in southern Mesopotamia developed cuneiform script around 3400 BCE for administrative accounting and literature.",
     "tags": [
       "history",
-      "us-history",
+      "ancient-civilizations",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "history-world-history-0082",
+    "id": "history-ancient-civilizations-0082",
     "category": "History",
-    "subcategory": "World History",
+    "subcategory": "Ancient Civilizations",
     "difficulty": "easy",
-    "question": "In world and American history: Which historic English charter signed in 1215 established that everyone, even the King, is subject to the law? (Ref #82)",
+    "question": "Which monumental limestone tomb, the oldest of the Seven Wonders of the Ancient World, was built for the Egyptian pharaoh Khufu?",
     "options": [
-      "English Bill of Rights",
-      "Magna Carta (The Great Charter)",
-      "Treaty of Westphalia",
-      "Edict of Nantes"
+      "The Step Pyramid of Djoser",
+      "The Great Pyramid of Giza",
+      "The Red Pyramid of Dahshur",
+      "The Bent Pyramid"
     ],
     "correctAnswer": 1,
-    "explanation": "King John of England granted Magna Carta at Runnymede in June 1215 under pressure from feudal barons.",
+    "explanation": "Constructed around 2560 BCE over a 20-year span, the Great Pyramid remained the tallest man-made structure for over 3,800 years.",
     "tags": [
       "history",
-      "world-history",
+      "ancient-civilizations",
       "easy"
     ],
     "active": true
@@ -1726,15 +1726,15 @@
     "category": "History",
     "subcategory": "Ancient Civilizations",
     "difficulty": "medium",
-    "question": "In world and American history: In what year did the Apollo 11 mission achieve humanity's first manned lunar landing? (Ref #83)",
+    "question": "What massive monolithic limestone statue with the body of a lion and the head of a human stands guard on the Giza Plateau?",
     "options": [
-      "1965",
-      "1971",
-      "1969",
-      "1973"
+      "The Colossi of Memnon",
+      "The Statues of Ramses II at Abu Simbel",
+      "The Great Sphinx of Giza",
+      "The Obelisk of Hatshepsut"
     ],
     "correctAnswer": 2,
-    "explanation": "Neil Armstrong and Buzz Aldrin landed the lunar module Eagle on the Moon on July 20, 1969.",
+    "explanation": "Carved from limestone bedrock, the Sphinx is generally believed to represent Pharaoh Khafre of Egypt's Fourth Dynasty.",
     "tags": [
       "history",
       "ancient-civilizations",
@@ -1743,64 +1743,64 @@
     "active": true
   },
   {
-    "id": "history-modern-milestones-0084",
+    "id": "history-ancient-civilizations-0084",
     "category": "History",
-    "subcategory": "Modern Milestones",
+    "subcategory": "Ancient Civilizations",
     "difficulty": "hard",
-    "question": "In world and American history: What historic symbol of the Cold War began to be dismantled in Berlin in November 1989? (Ref #84)",
+    "question": "Which ancient Indus Valley Civilization city in modern-day Pakistan is famous for its advanced urban planning and Great Bath?",
     "options": [
-      "The Iron Gate",
-      "Checkpoint Alpha",
-      "The Brandenburg Citadel",
-      "The Berlin Wall"
+      "Harappa",
+      "Lothal",
+      "Dholavira",
+      "Mohenjo-daro"
     ],
     "correctAnswer": 3,
-    "explanation": "The fall of the Berlin Wall on November 9, 1989, paved the way for German reunification and the end of the Cold War.",
+    "explanation": "Flourishing around 2500 BCE, Mohenjo-daro featured grid-based streets, standardized kiln-fired bricks, and covered sewage drains.",
     "tags": [
       "history",
-      "modern-milestones",
+      "ancient-civilizations",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "history-us-history-0085",
+    "id": "history-ancient-civilizations-0085",
     "category": "History",
-    "subcategory": "US History",
+    "subcategory": "Ancient Civilizations",
     "difficulty": "easy",
-    "question": "In world and American history: In what year was the United States Declaration of Independence formally adopted in Philadelphia? (Ref #85)",
+    "question": "What decipherment artifact discovered by French soldiers in Egypt in 1799 contained a decree written in Hieroglyphic, Demotic, and Ancient Greek?",
     "options": [
-      "1776",
-      "1789",
-      "1783",
-      "1765"
+      "The Rosetta Stone",
+      "The Narmer Palette",
+      "The Papyrus of Ani",
+      "The Turin King List"
     ],
     "correctAnswer": 0,
-    "explanation": "The Continental Congress formally adopted the Declaration of Independence on July 4, 1776.",
+    "explanation": "The multilingual inscriptions allowed Jean-Francois Champollion in 1822 to crack the linguistic code of Egyptian hieroglyphics.",
     "tags": [
       "history",
-      "us-history",
+      "ancient-civilizations",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "history-world-history-0086",
+    "id": "history-ancient-civilizations-0086",
     "category": "History",
-    "subcategory": "World History",
+    "subcategory": "Ancient Civilizations",
     "difficulty": "medium",
-    "question": "In world and American history: Who served as the first official President of the United States under the US Constitution? (Ref #86)",
+    "question": "Which female pharaoh of Egypt's Eighteenth Dynasty ruled as co-regent and is famed for her mortuary temple at Deir el-Bahari and trade expedition to Punt?",
     "options": [
-      "Thomas Jefferson",
-      "George Washington",
-      "John Adams",
-      "Benjamin Franklin"
+      "Cleopatra VII",
+      "Hatshepsut",
+      "Nefertiti",
+      "Nefertari"
     ],
     "correctAnswer": 1,
-    "explanation": "George Washington was unanimously elected and served as the first US President from 1789 to 1797.",
+    "explanation": "Hatshepsut depicted herself with traditional royal male regalia including the pharaonic false beard, overseeing great trade prosperity.",
     "tags": [
       "history",
-      "world-history",
+      "ancient-civilizations",
       "medium"
     ],
     "active": true
@@ -1810,15 +1810,15 @@
     "category": "History",
     "subcategory": "Ancient Civilizations",
     "difficulty": "hard",
-    "question": "In world and American history: Between which years was the American Civil War fought? (Ref #87)",
+    "question": "Which Egyptian pharaoh abandoned traditional polytheism to institute exclusive worship of the sun disc deity Aten?",
     "options": [
-      "1775 to 1783",
-      "1812 to 1815",
-      "1861 to 1865",
-      "1846 to 1848"
+      "Tutankhamun",
+      "Seti I",
+      "Akhenaten (Amenhotep IV)",
+      "Ramesses II"
     ],
     "correctAnswer": 2,
-    "explanation": "The American Civil War erupted with Fort Sumter in April 1861 and concluded with Confederate surrender in spring 1865.",
+    "explanation": "Akhenaten relocated the royal capital to Amarna and pioneered the short-lived Amarna period of sun monotheism.",
     "tags": [
       "history",
       "ancient-civilizations",
@@ -1827,64 +1827,64 @@
     "active": true
   },
   {
-    "id": "history-modern-milestones-0088",
+    "id": "history-ancient-civilizations-0088",
     "category": "History",
-    "subcategory": "Modern Milestones",
+    "subcategory": "Ancient Civilizations",
     "difficulty": "easy",
-    "question": "In world and American history: Which historic English charter signed in 1215 established that everyone, even the King, is subject to the law? (Ref #88)",
+    "question": "Which Persian king founded the Achaemenid Empire through his conquests of Media, Lydia, and Babylon, issuing the Cyrus Cylinder?",
     "options": [
-      "English Bill of Rights",
-      "Treaty of Westphalia",
-      "Edict of Nantes",
-      "Magna Carta (The Great Charter)"
+      "Darius the Great",
+      "Xerxes I",
+      "Artaxerxes I",
+      "Cyrus the Great"
     ],
     "correctAnswer": 3,
-    "explanation": "King John of England granted Magna Carta at Runnymede in June 1215 under pressure from feudal barons.",
+    "explanation": "Cyrus the Great was acclaimed for his governance, religious tolerance, and release of Jewish captives from the Babylonian exile.",
     "tags": [
       "history",
-      "modern-milestones",
+      "ancient-civilizations",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "history-us-history-0089",
+    "id": "history-ancient-civilizations-0089",
     "category": "History",
-    "subcategory": "US History",
+    "subcategory": "Ancient Civilizations",
     "difficulty": "medium",
-    "question": "In world and American history: In what year did the Apollo 11 mission achieve humanity's first manned lunar landing? (Ref #89)",
+    "question": "What 1,600-mile highway constructed by King Darius the Great facilitated rapid courier communication across the Persian Empire from Susa to Sardis?",
     "options": [
-      "1969",
-      "1965",
-      "1971",
-      "1973"
+      "The Persian Royal Road",
+      "The Silk Road",
+      "The Appian Way",
+      "The King's Highway"
     ],
     "correctAnswer": 0,
-    "explanation": "Neil Armstrong and Buzz Aldrin landed the lunar module Eagle on the Moon on July 20, 1969.",
+    "explanation": "Mounted postal couriers could travel the entire length of the Royal Road in seven days using fresh relay stations.",
     "tags": [
       "history",
-      "us-history",
+      "ancient-civilizations",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "history-world-history-0090",
+    "id": "history-ancient-civilizations-0090",
     "category": "History",
-    "subcategory": "World History",
+    "subcategory": "Ancient Civilizations",
     "difficulty": "hard",
-    "question": "In world and American history: What historic symbol of the Cold War began to be dismantled in Berlin in November 1989? (Ref #90)",
+    "question": "Which city-state of ancient Greece was governed as a militaristic oligarchy, renowned for its formidable hoplite army and rigorous Agoge upbringing?",
     "options": [
-      "The Iron Gate",
-      "The Berlin Wall",
-      "Checkpoint Alpha",
-      "The Brandenburg Citadel"
+      "Athens",
+      "Sparta",
+      "Corinth",
+      "Argos"
     ],
     "correctAnswer": 1,
-    "explanation": "The fall of the Berlin Wall on November 9, 1989, paved the way for German reunification and the end of the Cold War.",
+    "explanation": "Spartan society was structured around military discipline, hoplite infantry tactics, and subjugation of helot agricultural laborers.",
     "tags": [
       "history",
-      "world-history",
+      "ancient-civilizations",
       "hard"
     ],
     "active": true
@@ -1894,15 +1894,15 @@
     "category": "History",
     "subcategory": "Ancient Civilizations",
     "difficulty": "easy",
-    "question": "In world and American history: In what year was the United States Declaration of Independence formally adopted in Philadelphia? (Ref #91)",
+    "question": "In what 490 BCE battle did Athenian hoplites decisively defeat the first Persian invasion army of King Darius I?",
     "options": [
-      "1789",
-      "1783",
-      "1776",
-      "1765"
+      "Battle of Thermopylae",
+      "Battle of Salamis",
+      "Battle of Marathon",
+      "Battle of Plataea"
     ],
     "correctAnswer": 2,
-    "explanation": "The Continental Congress formally adopted the Declaration of Independence on July 4, 1776.",
+    "explanation": "The Athenian victory demonstrated that Persian armies were not invincible; legend tells of Pheidippides running to Athens to announce victory.",
     "tags": [
       "history",
       "ancient-civilizations",
@@ -1911,64 +1911,64 @@
     "active": true
   },
   {
-    "id": "history-modern-milestones-0092",
+    "id": "history-ancient-civilizations-0092",
     "category": "History",
-    "subcategory": "Modern Milestones",
+    "subcategory": "Ancient Civilizations",
     "difficulty": "medium",
-    "question": "In world and American history: Who served as the first official President of the United States under the US Constitution? (Ref #92)",
+    "question": "At which narrow mountain pass in 480 BCE did King Leonidas and 300 Spartan warriors make their legendary last stand against Xerxes' Persian host?",
     "options": [
-      "Thomas Jefferson",
-      "John Adams",
-      "Benjamin Franklin",
-      "George Washington"
+      "Marathon",
+      "Salamis",
+      "Plataea",
+      "Thermopylae"
     ],
     "correctAnswer": 3,
-    "explanation": "George Washington was unanimously elected and served as the first US President from 1789 to 1797.",
+    "explanation": "Though ultimately outflanked, the Greek rearguard delayed the Persian advance, allowing Greek allies to evacuate and regroup.",
     "tags": [
       "history",
-      "modern-milestones",
+      "ancient-civilizations",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "history-us-history-0093",
+    "id": "history-ancient-civilizations-0093",
     "category": "History",
-    "subcategory": "US History",
+    "subcategory": "Ancient Civilizations",
     "difficulty": "hard",
-    "question": "In world and American history: Between which years was the American Civil War fought? (Ref #93)",
+    "question": "Which naval battle in 480 BCE resulted in Athenian triremes destroying the Persian fleet under Xerxes in narrow strait waters?",
     "options": [
-      "1861 to 1865",
-      "1775 to 1783",
-      "1812 to 1815",
-      "1846 to 1848"
+      "Battle of Salamis",
+      "Battle of Actium",
+      "Battle of Aegospotami",
+      "Battle of Artemisium"
     ],
     "correctAnswer": 0,
-    "explanation": "The American Civil War erupted with Fort Sumter in April 1861 and concluded with Confederate surrender in spring 1865.",
+    "explanation": "Themistocles lured the larger Persian fleet into the narrow straits of Salamis, where superior maneuverability broke Persian naval power.",
     "tags": [
       "history",
-      "us-history",
+      "ancient-civilizations",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "history-world-history-0094",
+    "id": "history-ancient-civilizations-0094",
     "category": "History",
-    "subcategory": "World History",
+    "subcategory": "Ancient Civilizations",
     "difficulty": "easy",
-    "question": "In world and American history: Which historic English charter signed in 1215 established that everyone, even the King, is subject to the law? (Ref #94)",
+    "question": "What war fought between 431 and 404 BCE pitted the Athenian Delian League against the Spartan Peloponnesian League, ending Athenian hegemony?",
     "options": [
-      "English Bill of Rights",
-      "Magna Carta (The Great Charter)",
-      "Treaty of Westphalia",
-      "Edict of Nantes"
+      "The Persian Wars",
+      "The Peloponnesian War",
+      "The Punic Wars",
+      "The Sacred Wars"
     ],
     "correctAnswer": 1,
-    "explanation": "King John of England granted Magna Carta at Runnymede in June 1215 under pressure from feudal barons.",
+    "explanation": "Recorded by historian Thucydides, the conflict ended with Spartan victory following the destruction of the Athenian fleet at Aegospotami.",
     "tags": [
       "history",
-      "world-history",
+      "ancient-civilizations",
       "easy"
     ],
     "active": true
@@ -1978,15 +1978,15 @@
     "category": "History",
     "subcategory": "Ancient Civilizations",
     "difficulty": "medium",
-    "question": "In world and American history: In what year did the Apollo 11 mission achieve humanity's first manned lunar landing? (Ref #95)",
+    "question": "What classical Greek philosopher was sentenced to death by drinking hemlock in Athens in 399 BCE for 'corrupting the youth'?",
     "options": [
-      "1965",
-      "1971",
-      "1969",
-      "1973"
+      "Plato",
+      "Aristotle",
+      "Socrates",
+      "Zeno of Citium"
     ],
     "correctAnswer": 2,
-    "explanation": "Neil Armstrong and Buzz Aldrin landed the lunar module Eagle on the Moon on July 20, 1969.",
+    "explanation": "Socrates developed the dialectical Socratic method of cross-examination and famously asserted that 'the unexamined life is not worth living.'",
     "tags": [
       "history",
       "ancient-civilizations",
@@ -1995,64 +1995,64 @@
     "active": true
   },
   {
-    "id": "history-modern-milestones-0096",
+    "id": "history-ancient-civilizations-0096",
     "category": "History",
-    "subcategory": "Modern Milestones",
+    "subcategory": "Ancient Civilizations",
     "difficulty": "hard",
-    "question": "In world and American history: What historic symbol of the Cold War began to be dismantled in Berlin in November 1989? (Ref #96)",
+    "question": "Which Greek philosopher founded the Academy in Athens and wrote philosophical dialogues including 'The Republic' and the Allegory of the Cave?",
     "options": [
-      "The Iron Gate",
-      "Checkpoint Alpha",
-      "The Brandenburg Citadel",
-      "The Berlin Wall"
+      "Aristotle",
+      "Socrates",
+      "Epicurus",
+      "Plato"
     ],
     "correctAnswer": 3,
-    "explanation": "The fall of the Berlin Wall on November 9, 1989, paved the way for German reunification and the end of the Cold War.",
+    "explanation": "Plato established the theory of ideal Forms and explored justice, governance, and metaphysics through philosophical dialogues.",
     "tags": [
       "history",
-      "modern-milestones",
+      "ancient-civilizations",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "history-us-history-0097",
+    "id": "history-ancient-civilizations-0097",
     "category": "History",
-    "subcategory": "US History",
+    "subcategory": "Ancient Civilizations",
     "difficulty": "easy",
-    "question": "In world and American history: In what year was the United States Declaration of Independence formally adopted in Philadelphia? (Ref #97)",
+    "question": "Which polymath philosopher studied under Plato, tutored Alexander the Great, and established the Lyceum school in Athens?",
     "options": [
-      "1776",
-      "1789",
-      "1783",
-      "1765"
+      "Aristotle",
+      "Plato",
+      "Socrates",
+      "Heraclitus"
     ],
     "correctAnswer": 0,
-    "explanation": "The Continental Congress formally adopted the Declaration of Independence on July 4, 1776.",
+    "explanation": "Aristotle laid the foundational frameworks for formal logic, zoology, physics, rhetoric, ethics, and political theory.",
     "tags": [
       "history",
-      "us-history",
+      "ancient-civilizations",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "history-world-history-0098",
+    "id": "history-ancient-civilizations-0098",
     "category": "History",
-    "subcategory": "World History",
+    "subcategory": "Ancient Civilizations",
     "difficulty": "medium",
-    "question": "In world and American history: Who served as the first official President of the United States under the US Constitution? (Ref #98)",
+    "question": "What series of three wars fought between 264 and 146 BCE pitted the Roman Republic against the North African mercantile empire of Carthage?",
     "options": [
-      "Thomas Jefferson",
-      "George Washington",
-      "John Adams",
-      "Benjamin Franklin"
+      "The Macedonian Wars",
+      "The Punic Wars",
+      "The Pyrrhic Wars",
+      "The Samnite Wars"
     ],
     "correctAnswer": 1,
-    "explanation": "George Washington was unanimously elected and served as the first US President from 1789 to 1797.",
+    "explanation": "The conflict ended with the total destruction of Carthage in 146 BCE and Roman dominance over the entire western Mediterranean.",
     "tags": [
       "history",
-      "world-history",
+      "ancient-civilizations",
       "medium"
     ],
     "active": true
@@ -2062,15 +2062,15 @@
     "category": "History",
     "subcategory": "Ancient Civilizations",
     "difficulty": "hard",
-    "question": "In world and American history: Between which years was the American Civil War fought? (Ref #99)",
+    "question": "Which brilliant Carthaginian military commander marched war elephants across the Alps into Italy during the Second Punic War, crushing Roman legions at Cannae?",
     "options": [
-      "1775 to 1783",
-      "1812 to 1815",
-      "1861 to 1865",
-      "1846 to 1848"
+      "Hamilcar Barca",
+      "Hasdrubal Barca",
+      "Hannibal Barca",
+      "Mago Barca"
     ],
     "correctAnswer": 2,
-    "explanation": "The American Civil War erupted with Fort Sumter in April 1861 and concluded with Confederate surrender in spring 1865.",
+    "explanation": "Hannibal's tactical double-envelopment at Cannae in 216 BCE remains a masterpiece of military encirclement strategy.",
     "tags": [
       "history",
       "ancient-civilizations",
@@ -2079,64 +2079,64 @@
     "active": true
   },
   {
-    "id": "history-modern-milestones-0100",
+    "id": "history-ancient-civilizations-0100",
     "category": "History",
-    "subcategory": "Modern Milestones",
+    "subcategory": "Ancient Civilizations",
     "difficulty": "easy",
-    "question": "In world and American history: Which historic English charter signed in 1215 established that everyone, even the King, is subject to the law? (Ref #100)",
+    "question": "Which Roman general defeated Hannibal Barca at the Battle of Zama in 202 BCE, concluding the Second Punic War?",
     "options": [
-      "English Bill of Rights",
-      "Treaty of Westphalia",
-      "Edict of Nantes",
-      "Magna Carta (The Great Charter)"
+      "Julius Caesar",
+      "Mark Antony",
+      "Fabius Maximus",
+      "Scipio Africanus"
     ],
     "correctAnswer": 3,
-    "explanation": "King John of England granted Magna Carta at Runnymede in June 1215 under pressure from feudal barons.",
+    "explanation": "Scipio earned the agnomen 'Africanus' for defeating Hannibal in North Africa and dictating peace terms to Carthage.",
     "tags": [
       "history",
-      "modern-milestones",
+      "ancient-civilizations",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "history-us-history-0101",
+    "id": "history-ancient-civilizations-0101",
     "category": "History",
-    "subcategory": "US History",
+    "subcategory": "Ancient Civilizations",
     "difficulty": "medium",
-    "question": "In world and American history: In what year did the Apollo 11 mission achieve humanity's first manned lunar landing? (Ref #101)",
+    "question": "What enslaved Thracian gladiator led a major slave uprising against the Roman Republic from 73 to 71 BCE in the Third Servile War?",
     "options": [
-      "1969",
-      "1965",
-      "1971",
-      "1973"
+      "Spartacus",
+      "Crixus",
+      "Oenomaus",
+      "Castus"
     ],
     "correctAnswer": 0,
-    "explanation": "Neil Armstrong and Buzz Aldrin landed the lunar module Eagle on the Moon on July 20, 1969.",
+    "explanation": "Spartacus led thousands of escaped gladiators and enslaved rural workers, defeating several Roman armies before being killed in battle.",
     "tags": [
       "history",
-      "us-history",
+      "ancient-civilizations",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "history-world-history-0102",
+    "id": "history-ancient-civilizations-0102",
     "category": "History",
-    "subcategory": "World History",
+    "subcategory": "Ancient Civilizations",
     "difficulty": "hard",
-    "question": "In world and American history: What historic symbol of the Cold War began to be dismantled in Berlin in November 1989? (Ref #102)",
+    "question": "On what date (the 'Ides of March') in 44 BCE was Julius Caesar assassinated in the Theatre of Pompey by Roman senators?",
     "options": [
-      "The Iron Gate",
-      "The Berlin Wall",
-      "Checkpoint Alpha",
-      "The Brandenburg Citadel"
+      "January 1, 44 BCE",
+      "March 15, 44 BCE",
+      "April 21, 44 BCE",
+      "July 4, 44 BCE"
     ],
     "correctAnswer": 1,
-    "explanation": "The fall of the Berlin Wall on November 9, 1989, paved the way for German reunification and the end of the Cold War.",
+    "explanation": "A conspiracy led by Marcus Junius Brutus and Gaius Cassius Longinus stabbed Caesar 23 times in an attempt to restore the Republic.",
     "tags": [
       "history",
-      "world-history",
+      "ancient-civilizations",
       "hard"
     ],
     "active": true
@@ -2146,15 +2146,15 @@
     "category": "History",
     "subcategory": "Ancient Civilizations",
     "difficulty": "easy",
-    "question": "In world and American history: In what year was the United States Declaration of Independence formally adopted in Philadelphia? (Ref #103)",
+    "question": "Which naval battle in 31 BCE saw Octavian's fleet under Marcus Agrippa defeat the combined forces of Mark Antony and Cleopatra VII?",
     "options": [
-      "1789",
-      "1783",
-      "1776",
-      "1765"
+      "Battle of Philippi",
+      "Battle of Pharsalus",
+      "Battle of Actium",
+      "Battle of Salamis"
     ],
     "correctAnswer": 2,
-    "explanation": "The Continental Congress formally adopted the Declaration of Independence on July 4, 1776.",
+    "explanation": "The defeat at Actium led to the suicides of Antony and Cleopatra and the annexation of Ptolemaic Egypt as a Roman province.",
     "tags": [
       "history",
       "ancient-civilizations",
@@ -2163,64 +2163,64 @@
     "active": true
   },
   {
-    "id": "history-modern-milestones-0104",
+    "id": "history-ancient-civilizations-0104",
     "category": "History",
-    "subcategory": "Modern Milestones",
+    "subcategory": "Ancient Civilizations",
     "difficulty": "medium",
-    "question": "In world and American history: Who served as the first official President of the United States under the US Constitution? (Ref #104)",
+    "question": "Which Roman emperor legalized Christianity throughout the empire with the Edict of Milan in 313 CE and founded Constantinople?",
     "options": [
-      "Thomas Jefferson",
-      "John Adams",
-      "Benjamin Franklin",
-      "George Washington"
+      "Diocletian",
+      "Marcus Aurelius",
+      "Theodosius I",
+      "Constantine the Great"
     ],
     "correctAnswer": 3,
-    "explanation": "George Washington was unanimously elected and served as the first US President from 1789 to 1797.",
+    "explanation": "Constantine converted to Christianity, convened the Council of Nicaea in 325 CE, and shifted the imperial capital to Byzantium.",
     "tags": [
       "history",
-      "modern-milestones",
+      "ancient-civilizations",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "history-us-history-0105",
+    "id": "history-ancient-civilizations-0105",
     "category": "History",
-    "subcategory": "US History",
+    "subcategory": "Ancient Civilizations",
     "difficulty": "hard",
-    "question": "In world and American history: Between which years was the American Civil War fought? (Ref #105)",
+    "question": "Which Roman emperor ordered the construction of an 73-mile stone turf defensive wall across northern Britain in 122 CE?",
     "options": [
-      "1861 to 1865",
-      "1775 to 1783",
-      "1812 to 1815",
-      "1846 to 1848"
+      "Hadrian",
+      "Trajan",
+      "Antoninus Pius",
+      "Nero"
     ],
     "correctAnswer": 0,
-    "explanation": "The American Civil War erupted with Fort Sumter in April 1861 and concluded with Confederate surrender in spring 1865.",
+    "explanation": "Hadrian's Wall marked the northwestern frontier of the Roman Empire, separating Roman Britannia from Caledonian tribes.",
     "tags": [
       "history",
-      "us-history",
+      "ancient-civilizations",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "history-world-history-0106",
+    "id": "history-ancient-civilizations-0106",
     "category": "History",
-    "subcategory": "World History",
+    "subcategory": "Ancient Civilizations",
     "difficulty": "easy",
-    "question": "In world and American history: Which historic English charter signed in 1215 established that everyone, even the King, is subject to the law? (Ref #106)",
+    "question": "What monumental elliptical amphitheater in the center of Rome, inaugurated in 80 CE under Emperor Titus, hosted gladiatorial contests?",
     "options": [
-      "English Bill of Rights",
-      "Magna Carta (The Great Charter)",
-      "Treaty of Westphalia",
-      "Edict of Nantes"
+      "The Circus Maximus",
+      "The Colosseum (Flavian Amphitheatre)",
+      "The Roman Forum",
+      "The Pantheon"
     ],
     "correctAnswer": 1,
-    "explanation": "King John of England granted Magna Carta at Runnymede in June 1215 under pressure from feudal barons.",
+    "explanation": "Constructed of travertine limestone, volcanic tuff, and concrete, the Colosseum seated over 50,000 Roman spectators.",
     "tags": [
       "history",
-      "world-history",
+      "ancient-civilizations",
       "easy"
     ],
     "active": true
@@ -2230,15 +2230,15 @@
     "category": "History",
     "subcategory": "Ancient Civilizations",
     "difficulty": "medium",
-    "question": "In world and American history: In what year did the Apollo 11 mission achieve humanity's first manned lunar landing? (Ref #107)",
+    "question": "Which temple in Rome, rebuilt by Emperor Hadrian around 126 CE, features the world's largest unreinforced concrete dome with a central oculus?",
     "options": [
-      "1965",
-      "1971",
-      "1969",
-      "1973"
+      "The Temple of Jupiter Optimus Maximus",
+      "The Temple of Vesta",
+      "The Pantheon",
+      "The Temple of Saturn"
     ],
     "correctAnswer": 2,
-    "explanation": "Neil Armstrong and Buzz Aldrin landed the lunar module Eagle on the Moon on July 20, 1969.",
+    "explanation": "The Pantheon's dome measures 43.3 meters in diameter and remains perfectly preserved as an architectural marvel of Roman engineering.",
     "tags": [
       "history",
       "ancient-civilizations",
@@ -2247,64 +2247,64 @@
     "active": true
   },
   {
-    "id": "history-modern-milestones-0108",
+    "id": "history-ancient-civilizations-0108",
     "category": "History",
-    "subcategory": "Modern Milestones",
+    "subcategory": "Ancient Civilizations",
     "difficulty": "hard",
-    "question": "In world and American history: What historic symbol of the Cold War began to be dismantled in Berlin in November 1989? (Ref #108)",
+    "question": "Who was the legendary first emperor of unified China (Qin Dynasty) who standardized weights, measures, script, and commissioned the Terracotta Army?",
     "options": [
-      "The Iron Gate",
-      "Checkpoint Alpha",
-      "The Brandenburg Citadel",
-      "The Berlin Wall"
+      "Emperor Wu of Han",
+      "Sun Tzu",
+      "Liu Bang",
+      "Qin Shi Huang"
     ],
     "correctAnswer": 3,
-    "explanation": "The fall of the Berlin Wall on November 9, 1989, paved the way for German reunification and the end of the Cold War.",
+    "explanation": "Qin Shi Huang unified warring states in 221 BCE, connected early sections of the Great Wall, and was buried with 8,000 terracotta soldiers.",
     "tags": [
       "history",
-      "modern-milestones",
+      "ancient-civilizations",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "history-us-history-0109",
+    "id": "history-ancient-civilizations-0109",
     "category": "History",
-    "subcategory": "US History",
+    "subcategory": "Ancient Civilizations",
     "difficulty": "easy",
-    "question": "In world and American history: In what year was the United States Declaration of Independence formally adopted in Philadelphia? (Ref #109)",
+    "question": "What Chinese imperial dynasty, succeeding the Qin, established the civil service exam system and expanded the Silk Road under Emperor Wu?",
     "options": [
-      "1776",
-      "1789",
-      "1783",
-      "1765"
+      "Han Dynasty",
+      "Tang Dynasty",
+      "Song Dynasty",
+      "Ming Dynasty"
     ],
     "correctAnswer": 0,
-    "explanation": "The Continental Congress formally adopted the Declaration of Independence on July 4, 1776.",
+    "explanation": "The Han Dynasty (202 BCE - 220 CE) presided over a golden age of cultural development, paper-making, and Confucian state governance.",
     "tags": [
       "history",
-      "us-history",
+      "ancient-civilizations",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "history-world-history-0110",
+    "id": "history-ancient-civilizations-0110",
     "category": "History",
-    "subcategory": "World History",
+    "subcategory": "Ancient Civilizations",
     "difficulty": "medium",
-    "question": "In world and American history: Who served as the first official President of the United States under the US Constitution? (Ref #110)",
+    "question": "What Mesoamerican civilization flourished in the Yucatan Peninsula and Guatemala, developing advanced astronomy, hieroglyphs, and base-20 mathematics?",
     "options": [
-      "Thomas Jefferson",
-      "George Washington",
-      "John Adams",
-      "Benjamin Franklin"
+      "The Aztec Empire",
+      "The Maya Civilization",
+      "The Inca Empire",
+      "The Olmec Civilization"
     ],
     "correctAnswer": 1,
-    "explanation": "George Washington was unanimously elected and served as the first US President from 1789 to 1797.",
+    "explanation": "The Maya built towering step-pyramids (Tikal, Chichen Itza), tracked planetary orbits with great precision, and used a zero symbol.",
     "tags": [
       "history",
-      "world-history",
+      "ancient-civilizations",
       "medium"
     ],
     "active": true
@@ -2314,15 +2314,15 @@
     "category": "History",
     "subcategory": "Ancient Civilizations",
     "difficulty": "hard",
-    "question": "In world and American history: Between which years was the American Civil War fought? (Ref #111)",
+    "question": "What ancient pre-Columbian civilization in the Gulf Coast of Mexico is considered the 'mother culture' of Mesoamerica, famous for colossal stone heads?",
     "options": [
-      "1775 to 1783",
-      "1812 to 1815",
-      "1861 to 1865",
-      "1846 to 1848"
+      "The Zapotecs",
+      "The Toltecs",
+      "The Olmecs",
+      "The Mixtecs"
     ],
     "correctAnswer": 2,
-    "explanation": "The American Civil War erupted with Fort Sumter in April 1861 and concluded with Confederate surrender in spring 1865.",
+    "explanation": "The Olmecs carved colossal basalt stone heads and developed early ballgame rituals that influenced all subsequent Mesoamerican cultures.",
     "tags": [
       "history",
       "ancient-civilizations",
@@ -2331,64 +2331,64 @@
     "active": true
   },
   {
-    "id": "history-modern-milestones-0112",
+    "id": "history-ancient-civilizations-0112",
     "category": "History",
-    "subcategory": "Modern Milestones",
+    "subcategory": "Ancient Civilizations",
     "difficulty": "easy",
-    "question": "In world and American history: Which historic English charter signed in 1215 established that everyone, even the King, is subject to the law? (Ref #112)",
+    "question": "What Andean civilization centered in Cusco, Peru built an expansive empire connected by mountain highways and the mountain citadel Machu Picchu?",
     "options": [
-      "English Bill of Rights",
-      "Treaty of Westphalia",
-      "Edict of Nantes",
-      "Magna Carta (The Great Charter)"
+      "The Tiwanaku",
+      "The Moche",
+      "The Chavin",
+      "The Inca Empire"
     ],
     "correctAnswer": 3,
-    "explanation": "King John of England granted Magna Carta at Runnymede in June 1215 under pressure from feudal barons.",
+    "explanation": "The Inca empire (Tawantinsuyu) organized complex terraces and food storage, recording numerical data with knotted cords (quipus).",
     "tags": [
       "history",
-      "modern-milestones",
+      "ancient-civilizations",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "history-us-history-0113",
+    "id": "history-ancient-civilizations-0113",
     "category": "History",
-    "subcategory": "US History",
+    "subcategory": "Ancient Civilizations",
     "difficulty": "medium",
-    "question": "In world and American history: In what year did the Apollo 11 mission achieve humanity's first manned lunar landing? (Ref #113)",
+    "question": "Which ancient Babylonian king built the legendary Ishtar Gate and, according to Greek lore, the Hanging Gardens of Babylon?",
     "options": [
-      "1969",
-      "1965",
-      "1971",
-      "1973"
+      "Nebuchadnezzar II",
+      "Nabonidus",
+      "Sennacherib",
+      "Tiglath-Pileser III"
     ],
     "correctAnswer": 0,
-    "explanation": "Neil Armstrong and Buzz Aldrin landed the lunar module Eagle on the Moon on July 20, 1969.",
+    "explanation": "Nebuchadnezzar II restored Babylon into an imperial capital with defensive walls, the blue-glazed Ishtar Gate, and the Etemenanki ziggurat.",
     "tags": [
       "history",
-      "us-history",
+      "ancient-civilizations",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "history-world-history-0114",
+    "id": "history-ancient-civilizations-0114",
     "category": "History",
-    "subcategory": "World History",
+    "subcategory": "Ancient Civilizations",
     "difficulty": "hard",
-    "question": "In world and American history: What historic symbol of the Cold War began to be dismantled in Berlin in November 1989? (Ref #114)",
+    "question": "What stepped pyramid temple structures were built by ancient Mesopotamian Sumerians, Babylonians, and Assyrians to honor local deities?",
     "options": [
-      "The Iron Gate",
-      "The Berlin Wall",
-      "Checkpoint Alpha",
-      "The Brandenburg Citadel"
+      "Mastabas",
+      "Ziggurats",
+      "Pyramids",
+      "Dolmens"
     ],
     "correctAnswer": 1,
-    "explanation": "The fall of the Berlin Wall on November 9, 1989, paved the way for German reunification and the end of the Cold War.",
+    "explanation": "Ziggurats were massive terraced mudbrick towers with an elevated summit shrine accessed by grand ceremonial staircases.",
     "tags": [
       "history",
-      "world-history",
+      "ancient-civilizations",
       "hard"
     ],
     "active": true
@@ -2398,15 +2398,15 @@
     "category": "History",
     "subcategory": "Ancient Civilizations",
     "difficulty": "easy",
-    "question": "In world and American history: In what year was the United States Declaration of Independence formally adopted in Philadelphia? (Ref #115)",
+    "question": "Which seafaring ancient Mediterranean civilization originated the 22-letter phonetic consonant alphabet that became the ancestor of Greek and Latin scripts?",
     "options": [
-      "1789",
-      "1783",
-      "1776",
-      "1765"
+      "The Minoans",
+      "The Mycenaeans",
+      "The Phoenicians",
+      "The Philistines"
     ],
     "correctAnswer": 2,
-    "explanation": "The Continental Congress formally adopted the Declaration of Independence on July 4, 1776.",
+    "explanation": "Phoenician maritime merchants from Tyre and Byblos spread their practical phonetic alphabet across Mediterranean trading posts.",
     "tags": [
       "history",
       "ancient-civilizations",
@@ -2415,64 +2415,64 @@
     "active": true
   },
   {
-    "id": "history-modern-milestones-0116",
+    "id": "history-ancient-civilizations-0116",
     "category": "History",
-    "subcategory": "Modern Milestones",
+    "subcategory": "Ancient Civilizations",
     "difficulty": "medium",
-    "question": "In world and American history: Who served as the first official President of the United States under the US Constitution? (Ref #116)",
+    "question": "Which Bronze Age civilization centered on the island of Crete is famous for the Palace of Knossos, bull-leaping frescoes, and Linear A script?",
     "options": [
-      "Thomas Jefferson",
-      "John Adams",
-      "Benjamin Franklin",
-      "George Washington"
+      "The Mycenaeans",
+      "The Cycladic Culture",
+      "The Trojans",
+      "The Minoans"
     ],
     "correctAnswer": 3,
-    "explanation": "George Washington was unanimously elected and served as the first US President from 1789 to 1797.",
+    "explanation": "Minoan maritime society flourished in the Aegean Sea until volcanic eruptions and Mycenaean conquest brought its decline.",
     "tags": [
       "history",
-      "modern-milestones",
+      "ancient-civilizations",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "history-us-history-0117",
+    "id": "history-ancient-civilizations-0117",
     "category": "History",
-    "subcategory": "US History",
+    "subcategory": "Ancient Civilizations",
     "difficulty": "hard",
-    "question": "In world and American history: Between which years was the American Civil War fought? (Ref #117)",
+    "question": "Which mainland Greek Bronze Age warrior civilization, celebrated in Homer's Iliad, built the Lion Gate at Mycenae and wrote Linear B?",
     "options": [
-      "1861 to 1865",
-      "1775 to 1783",
-      "1812 to 1815",
-      "1846 to 1848"
+      "The Mycenaeans",
+      "The Minoans",
+      "The Dorians",
+      "The Ionians"
     ],
     "correctAnswer": 0,
-    "explanation": "The American Civil War erupted with Fort Sumter in April 1861 and concluded with Confederate surrender in spring 1865.",
+    "explanation": "The Mycenaeans dominated the Aegean from 1600 to 1100 BCE, building cyclopean stone palaces and tholos beehive tombs.",
     "tags": [
       "history",
-      "us-history",
+      "ancient-civilizations",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "history-world-history-0118",
+    "id": "history-ancient-civilizations-0118",
     "category": "History",
-    "subcategory": "World History",
+    "subcategory": "Ancient Civilizations",
     "difficulty": "easy",
-    "question": "In world and American history: Which historic English charter signed in 1215 established that everyone, even the King, is subject to the law? (Ref #118)",
+    "question": "Which Mauryan emperor of India embraced Buddhism after the horrific bloodshed of the Kalinga War, erecting pillar and rock edicts across the subcontinent?",
     "options": [
-      "English Bill of Rights",
-      "Magna Carta (The Great Charter)",
-      "Treaty of Westphalia",
-      "Edict of Nantes"
+      "Chandragupta Maurya",
+      "Ashoka the Great",
+      "Bindusara",
+      "Samudragupta"
     ],
     "correctAnswer": 1,
-    "explanation": "King John of England granted Magna Carta at Runnymede in June 1215 under pressure from feudal barons.",
+    "explanation": "Ashoka renounced armed conquest, promoting Ahimsa (non-violence), religious tolerance, and public welfare across ancient India.",
     "tags": [
       "history",
-      "world-history",
+      "ancient-civilizations",
       "easy"
     ],
     "active": true
@@ -2482,15 +2482,15 @@
     "category": "History",
     "subcategory": "Ancient Civilizations",
     "difficulty": "medium",
-    "question": "In world and American history: In what year did the Apollo 11 mission achieve humanity's first manned lunar landing? (Ref #119)",
+    "question": "Which ancient Persian religion founded by the prophet Zarathustra centers on the cosmic struggle between Ahura Mazda and Angra Mainyu?",
     "options": [
-      "1965",
-      "1971",
-      "1969",
-      "1973"
+      "Manichaeism",
+      "Mithraism",
+      "Zoroastrianism",
+      "Tengrism"
     ],
     "correctAnswer": 2,
-    "explanation": "Neil Armstrong and Buzz Aldrin landed the lunar module Eagle on the Moon on July 20, 1969.",
+    "explanation": "Zoroastrianism, with its sacred text the Avesta and veneration of sacred fire, served as the imperial faith of the Achaemenid and Sassanian empires.",
     "tags": [
       "history",
       "ancient-civilizations",
@@ -2499,85 +2499,85 @@
     "active": true
   },
   {
-    "id": "history-modern-milestones-0120",
+    "id": "history-ancient-civilizations-0120",
     "category": "History",
-    "subcategory": "Modern Milestones",
+    "subcategory": "Ancient Civilizations",
     "difficulty": "hard",
-    "question": "In world and American history: What historic symbol of the Cold War began to be dismantled in Berlin in November 1989? (Ref #120)",
+    "question": "What ancient legal principle etched into the Roman Twelve Tables and English common law dictates that an accused person is presumed innocent until proven guilty?",
     "options": [
-      "The Iron Gate",
-      "Checkpoint Alpha",
-      "The Brandenburg Citadel",
-      "The Berlin Wall"
+      "Lex Talionis",
+      "Habeas Corpus",
+      "Stare Decisis",
+      "Presumption of Innocence"
     ],
     "correctAnswer": 3,
-    "explanation": "The fall of the Berlin Wall on November 9, 1989, paved the way for German reunification and the end of the Cold War.",
+    "explanation": "Roman jurisprudence introduced basic procedural rights: the burden of proof rests on the accuser, not the defendant.",
     "tags": [
       "history",
-      "modern-milestones",
+      "ancient-civilizations",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "history-us-history-0121",
+    "id": "history-modern-milestones-0121",
     "category": "History",
-    "subcategory": "US History",
+    "subcategory": "Modern Milestones",
     "difficulty": "easy",
-    "question": "In world and American history: In what year was the United States Declaration of Independence formally adopted in Philadelphia? (Ref #121)",
+    "question": "In what year did the Apollo 11 lunar module 'Eagle' touch down on the Moon, making Neil Armstrong the first human to set foot on another world?",
     "options": [
-      "1776",
-      "1789",
-      "1783",
-      "1765"
+      "1969",
+      "1967",
+      "1971",
+      "1973"
     ],
     "correctAnswer": 0,
-    "explanation": "The Continental Congress formally adopted the Declaration of Independence on July 4, 1776.",
+    "explanation": "Apollo 11 landed on the lunar Sea of Tranquility on July 20, 1969, fulfilling President Kennedy's national objective.",
     "tags": [
       "history",
-      "us-history",
+      "modern-milestones",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "history-world-history-0122",
+    "id": "history-modern-milestones-0122",
     "category": "History",
-    "subcategory": "World History",
+    "subcategory": "Modern Milestones",
     "difficulty": "medium",
-    "question": "In world and American history: Who served as the first official President of the United States under the US Constitution? (Ref #122)",
+    "question": "Which British computer scientist invented the World Wide Web in 1989 while working at CERN in Switzerland?",
     "options": [
-      "Thomas Jefferson",
-      "George Washington",
-      "John Adams",
-      "Benjamin Franklin"
+      "Alan Turing",
+      "Tim Berners-Lee",
+      "Vint Cerf",
+      "Marc Andreessen"
     ],
     "correctAnswer": 1,
-    "explanation": "George Washington was unanimously elected and served as the first US President from 1789 to 1797.",
+    "explanation": "Tim Berners-Lee developed HTML, URI/URL addressing, and the HTTP protocol to facilitate hyperlinked data sharing among physicists.",
     "tags": [
       "history",
-      "world-history",
+      "modern-milestones",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "history-ancient-civilizations-0123",
+    "id": "history-modern-milestones-0123",
     "category": "History",
-    "subcategory": "Ancient Civilizations",
+    "subcategory": "Modern Milestones",
     "difficulty": "hard",
-    "question": "In world and American history: Between which years was the American Civil War fought? (Ref #123)",
+    "question": "In what year did the Berlin Wall fall, opening border crossings between East and West Berlin and heralding the end of the Cold War in Europe?",
     "options": [
-      "1775 to 1783",
-      "1812 to 1815",
-      "1861 to 1865",
-      "1846 to 1848"
+      "1987",
+      "1991",
+      "1989",
+      "1993"
     ],
     "correctAnswer": 2,
-    "explanation": "The American Civil War erupted with Fort Sumter in April 1861 and concluded with Confederate surrender in spring 1865.",
+    "explanation": "On November 9, 1989, East German officials announced unrestricted transit, prompting thousands of citizens to dismantle the wall.",
     "tags": [
       "history",
-      "ancient-civilizations",
+      "modern-milestones",
       "hard"
     ],
     "active": true
@@ -2587,15 +2587,15 @@
     "category": "History",
     "subcategory": "Modern Milestones",
     "difficulty": "easy",
-    "question": "In world and American history: Which historic English charter signed in 1215 established that everyone, even the King, is subject to the law? (Ref #124)",
+    "question": "What international scientific research project, completed in 2003, successfully sequenced the entire 3-billion base-pair genetic code of human DNA?",
     "options": [
-      "English Bill of Rights",
-      "Treaty of Westphalia",
-      "Edict of Nantes",
-      "Magna Carta (The Great Charter)"
+      "The Manhattan Project",
+      "The ENCODE Project",
+      "The 1000 Genomes Project",
+      "The Human Genome Project"
     ],
     "correctAnswer": 3,
-    "explanation": "King John of England granted Magna Carta at Runnymede in June 1215 under pressure from feudal barons.",
+    "explanation": "The international collaboration identified the sequence of nucleotide base pairs and mapped all functional genes in the human genome.",
     "tags": [
       "history",
       "modern-milestones",
@@ -2604,64 +2604,64 @@
     "active": true
   },
   {
-    "id": "history-us-history-0125",
+    "id": "history-modern-milestones-0125",
     "category": "History",
-    "subcategory": "US History",
+    "subcategory": "Modern Milestones",
     "difficulty": "medium",
-    "question": "In world and American history: In what year did the Apollo 11 mission achieve humanity's first manned lunar landing? (Ref #125)",
+    "question": "Which commercial passenger supersonic airliner, operated by British Airways and Air France, flew transatlantic routes at Mach 2 from 1976 to 2003?",
     "options": [
-      "1969",
-      "1965",
-      "1971",
-      "1973"
+      "Concorde",
+      "Tupolev Tu-144",
+      "Boeing 747",
+      "Airbus A380"
     ],
     "correctAnswer": 0,
-    "explanation": "Neil Armstrong and Buzz Aldrin landed the lunar module Eagle on the Moon on July 20, 1969.",
+    "explanation": "Concorde carried passengers from London/Paris to New York in under 3.5 hours at twice the speed of sound.",
     "tags": [
       "history",
-      "us-history",
+      "modern-milestones",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "history-world-history-0126",
+    "id": "history-modern-milestones-0126",
     "category": "History",
-    "subcategory": "World History",
+    "subcategory": "Modern Milestones",
     "difficulty": "hard",
-    "question": "In world and American history: What historic symbol of the Cold War began to be dismantled in Berlin in November 1989? (Ref #126)",
+    "question": "In what year was the first successful human organ transplant (a living-donor kidney transplant) performed by Dr. Joseph Murray in Boston?",
     "options": [
-      "The Iron Gate",
-      "The Berlin Wall",
-      "Checkpoint Alpha",
-      "The Brandenburg Citadel"
+      "1967",
+      "1954",
+      "1948",
+      "1972"
     ],
     "correctAnswer": 1,
-    "explanation": "The fall of the Berlin Wall on November 9, 1989, paved the way for German reunification and the end of the Cold War.",
+    "explanation": "Dr. Joseph Murray transplanted a healthy kidney between identical twin brothers at Peter Bent Brigham Hospital, earning a Nobel Prize.",
     "tags": [
       "history",
-      "world-history",
+      "modern-milestones",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "history-ancient-civilizations-0127",
+    "id": "history-modern-milestones-0127",
     "category": "History",
-    "subcategory": "Ancient Civilizations",
+    "subcategory": "Modern Milestones",
     "difficulty": "easy",
-    "question": "In world and American history: In what year was the United States Declaration of Independence formally adopted in Philadelphia? (Ref #127)",
+    "question": "Who performed the world's first successful human-to-human heart transplant at Groote Schuur Hospital in Cape Town, South Africa in December 1967?",
     "options": [
-      "1789",
-      "1783",
-      "1776",
-      "1765"
+      "Dr. Michael DeBakey",
+      "Dr. Denton Cooley",
+      "Dr. Christiaan Barnard",
+      "Dr. Joseph Murray"
     ],
     "correctAnswer": 2,
-    "explanation": "The Continental Congress formally adopted the Declaration of Independence on July 4, 1776.",
+    "explanation": "Dr. Christiaan Barnard transplanted the heart of a 25-year-old donor into recipient Louis Washkansky, who lived for 18 days.",
     "tags": [
       "history",
-      "ancient-civilizations",
+      "modern-milestones",
       "easy"
     ],
     "active": true
@@ -2671,15 +2671,15 @@
     "category": "History",
     "subcategory": "Modern Milestones",
     "difficulty": "medium",
-    "question": "In world and American history: Who served as the first official President of the United States under the US Constitution? (Ref #128)",
+    "question": "What Scottish biological team led by Ian Wilmut successfully cloned the first mammal from an adult somatic cell in 1996?",
     "options": [
-      "Thomas Jefferson",
-      "John Adams",
-      "Benjamin Franklin",
-      "George Washington"
+      "Polly the Goat",
+      "CC the Cat",
+      "Cumulina the Mouse",
+      "Dolly the Sheep"
     ],
     "correctAnswer": 3,
-    "explanation": "George Washington was unanimously elected and served as the first US President from 1789 to 1797.",
+    "explanation": "Dolly was produced at the Roslin Institute via somatic cell nuclear transfer using an adult mammary gland epithelial cell.",
     "tags": [
       "history",
       "modern-milestones",
@@ -2688,64 +2688,64 @@
     "active": true
   },
   {
-    "id": "history-us-history-0129",
+    "id": "history-modern-milestones-0129",
     "category": "History",
-    "subcategory": "US History",
+    "subcategory": "Modern Milestones",
     "difficulty": "hard",
-    "question": "In world and American history: Between which years was the American Civil War fought? (Ref #129)",
+    "question": "Which Scottish physician discovered penicillin, the first true modern clinical antibiotic, at St. Mary's Hospital in London in September 1928?",
     "options": [
-      "1861 to 1865",
-      "1775 to 1783",
-      "1812 to 1815",
-      "1846 to 1848"
+      "Alexander Fleming",
+      "Howard Florey",
+      "Ernst Chain",
+      "Edward Jenner"
     ],
     "correctAnswer": 0,
-    "explanation": "The American Civil War erupted with Fort Sumter in April 1861 and concluded with Confederate surrender in spring 1865.",
+    "explanation": "Fleming noted that a contaminated fungal mold (Penicillium notatum) lysed surrounding Staphylococcal colonies on a petri dish.",
     "tags": [
       "history",
-      "us-history",
+      "modern-milestones",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "history-world-history-0130",
+    "id": "history-modern-milestones-0130",
     "category": "History",
-    "subcategory": "World History",
+    "subcategory": "Modern Milestones",
     "difficulty": "easy",
-    "question": "In world and American history: Which historic English charter signed in 1215 established that everyone, even the King, is subject to the law? (Ref #130)",
+    "question": "Which American medical researcher and virologist developed the first effective inactivated (injected) polio vaccine, declared safe in April 1955?",
     "options": [
-      "English Bill of Rights",
-      "Magna Carta (The Great Charter)",
-      "Treaty of Westphalia",
-      "Edict of Nantes"
+      "Albert Sabin",
+      "Jonas Salk",
+      "Edward Jenner",
+      "Louis Pasteur"
     ],
     "correctAnswer": 1,
-    "explanation": "King John of England granted Magna Carta at Runnymede in June 1215 under pressure from feudal barons.",
+    "explanation": "Dr. Salk declined to patent the vaccine, ensuring widespread affordable global distribution and dramatic eradication of paralytic polio.",
     "tags": [
       "history",
-      "world-history",
+      "modern-milestones",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "history-ancient-civilizations-0131",
+    "id": "history-modern-milestones-0131",
     "category": "History",
-    "subcategory": "Ancient Civilizations",
+    "subcategory": "Modern Milestones",
     "difficulty": "medium",
-    "question": "In world and American history: In what year did the Apollo 11 mission achieve humanity's first manned lunar landing? (Ref #131)",
+    "question": "Which medical researcher developed the oral attenuated live-virus polio vaccine administered on sugar cubes, approved in the early 1960s?",
     "options": [
-      "1965",
-      "1971",
-      "1969",
-      "1973"
+      "Jonas Salk",
+      "Maurice Hilleman",
+      "Albert Sabin",
+      "John Enders"
     ],
     "correctAnswer": 2,
-    "explanation": "Neil Armstrong and Buzz Aldrin landed the lunar module Eagle on the Moon on July 20, 1969.",
+    "explanation": "Dr. Sabin's oral vaccine provided superior intestinal immunity and simpler mass distribution, leading to near-total global polio elimination.",
     "tags": [
       "history",
-      "ancient-civilizations",
+      "modern-milestones",
       "medium"
     ],
     "active": true
@@ -2755,15 +2755,15 @@
     "category": "History",
     "subcategory": "Modern Milestones",
     "difficulty": "hard",
-    "question": "In world and American history: What historic symbol of the Cold War began to be dismantled in Berlin in November 1989? (Ref #132)",
+    "question": "What was the name of the first artificial Earth satellite launched into orbit by the Soviet Union on October 4, 1957, igniting the Space Race?",
     "options": [
-      "The Iron Gate",
-      "Checkpoint Alpha",
-      "The Brandenburg Citadel",
-      "The Berlin Wall"
+      "Vostok 1",
+      "Explorer 1",
+      "Luna 2",
+      "Sputnik 1"
     ],
     "correctAnswer": 3,
-    "explanation": "The fall of the Berlin Wall on November 9, 1989, paved the way for German reunification and the end of the Cold War.",
+    "explanation": "Sputnik 1 orbited Earth for three weeks, transmitting radio beeps and prompting the US to establish NASA and accelerate STEM funding.",
     "tags": [
       "history",
       "modern-milestones",
@@ -2772,64 +2772,64 @@
     "active": true
   },
   {
-    "id": "history-us-history-0133",
+    "id": "history-modern-milestones-0133",
     "category": "History",
-    "subcategory": "US History",
+    "subcategory": "Modern Milestones",
     "difficulty": "easy",
-    "question": "In world and American history: In what year was the United States Declaration of Independence formally adopted in Philadelphia? (Ref #133)",
+    "question": "Who became the first human being to journey into outer space, orbiting the Earth aboard Vostok 1 on April 12, 1961?",
     "options": [
-      "1776",
-      "1789",
-      "1783",
-      "1765"
+      "Yuri Gagarin",
+      "Alan Shepard",
+      "John Glenn",
+      "Alexei Leonov"
     ],
     "correctAnswer": 0,
-    "explanation": "The Continental Congress formally adopted the Declaration of Independence on July 4, 1776.",
+    "explanation": "Soviet cosmonaut Yuri Gagarin completed a single 108-minute orbit around Earth, uttering his famous phrase 'Poyekhali!' ('Off we go!').",
     "tags": [
       "history",
-      "us-history",
+      "modern-milestones",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "history-world-history-0134",
+    "id": "history-modern-milestones-0134",
     "category": "History",
-    "subcategory": "World History",
+    "subcategory": "Modern Milestones",
     "difficulty": "medium",
-    "question": "In world and American history: Who served as the first official President of the United States under the US Constitution? (Ref #134)",
+    "question": "Who was the first American astronaut to enter space, conducting a suborbital flight aboard Freedom 7 in May 1961?",
     "options": [
-      "Thomas Jefferson",
-      "George Washington",
-      "John Adams",
-      "Benjamin Franklin"
+      "John Glenn",
+      "Alan Shepard",
+      "Gus Grissom",
+      "Neil Armstrong"
     ],
     "correctAnswer": 1,
-    "explanation": "George Washington was unanimously elected and served as the first US President from 1789 to 1797.",
+    "explanation": "Alan Shepard piloted Mercury-Redstone 3 to an altitude of 116 miles, paving the way for orbital American space missions.",
     "tags": [
       "history",
-      "world-history",
+      "modern-milestones",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "history-ancient-civilizations-0135",
+    "id": "history-modern-milestones-0135",
     "category": "History",
-    "subcategory": "Ancient Civilizations",
+    "subcategory": "Modern Milestones",
     "difficulty": "hard",
-    "question": "In world and American history: Between which years was the American Civil War fought? (Ref #135)",
+    "question": "Who was the first American astronaut to orbit the Earth, circling the globe three times aboard Friendship 7 in February 1962?",
     "options": [
-      "1775 to 1783",
-      "1812 to 1815",
-      "1861 to 1865",
-      "1846 to 1848"
+      "Alan Shepard",
+      "Scott Carpenter",
+      "John Glenn",
+      "Gordon Cooper"
     ],
     "correctAnswer": 2,
-    "explanation": "The American Civil War erupted with Fort Sumter in April 1861 and concluded with Confederate surrender in spring 1865.",
+    "explanation": "John Glenn orbited Earth at 17,500 mph, restoring American parity in the burgeoning orbital Space Race.",
     "tags": [
       "history",
-      "ancient-civilizations",
+      "modern-milestones",
       "hard"
     ],
     "active": true
@@ -2839,15 +2839,15 @@
     "category": "History",
     "subcategory": "Modern Milestones",
     "difficulty": "easy",
-    "question": "In world and American history: Which historic English charter signed in 1215 established that everyone, even the King, is subject to the law? (Ref #136)",
+    "question": "Who was the first human being to walk in open space (extravehicular activity) during the Voskhod 2 mission on March 18, 1965?",
     "options": [
-      "English Bill of Rights",
-      "Treaty of Westphalia",
-      "Edict of Nantes",
-      "Magna Carta (The Great Charter)"
+      "Ed White",
+      "Yuri Gagarin",
+      "Valeri Polyakov",
+      "Alexei Leonov"
     ],
     "correctAnswer": 3,
-    "explanation": "King John of England granted Magna Carta at Runnymede in June 1215 under pressure from feudal barons.",
+    "explanation": "Soviet cosmonaut Alexei Leonov spent 12 minutes tethered outside his spacecraft, battling a ballooned spacesuit to re-enter the airlock.",
     "tags": [
       "history",
       "modern-milestones",
@@ -2856,64 +2856,64 @@
     "active": true
   },
   {
-    "id": "history-us-history-0137",
+    "id": "history-modern-milestones-0137",
     "category": "History",
-    "subcategory": "US History",
+    "subcategory": "Modern Milestones",
     "difficulty": "medium",
-    "question": "In world and American history: In what year did the Apollo 11 mission achieve humanity's first manned lunar landing? (Ref #137)",
+    "question": "What joint international modular space station, continuously inhabited since November 2000, circles the globe in low Earth orbit?",
     "options": [
-      "1969",
-      "1965",
-      "1971",
-      "1973"
+      "International Space Station (ISS)",
+      "Mir",
+      "Skylab",
+      "Tiangong"
     ],
     "correctAnswer": 0,
-    "explanation": "Neil Armstrong and Buzz Aldrin landed the lunar module Eagle on the Moon on July 20, 1969.",
+    "explanation": "A cooperative endeavor between NASA, Roscosmos, ESA, JAXA, and CSA, the ISS serves as a continuous microgravity research laboratory.",
     "tags": [
       "history",
-      "us-history",
+      "modern-milestones",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "history-world-history-0138",
+    "id": "history-modern-milestones-0138",
     "category": "History",
-    "subcategory": "World History",
+    "subcategory": "Modern Milestones",
     "difficulty": "hard",
-    "question": "In world and American history: What historic symbol of the Cold War began to be dismantled in Berlin in November 1989? (Ref #138)",
+    "question": "What massive particle accelerator built in a 27-kilometer underground tunnel beneath the France-Switzerland border confirmed the Higgs boson in 2012?",
     "options": [
-      "The Iron Gate",
-      "The Berlin Wall",
-      "Checkpoint Alpha",
-      "The Brandenburg Citadel"
+      "Tevatron",
+      "The Large Hadron Collider (LHC)",
+      "Stanford Linear Accelerator",
+      "Relativistic Heavy Ion Collider"
     ],
     "correctAnswer": 1,
-    "explanation": "The fall of the Berlin Wall on November 9, 1989, paved the way for German reunification and the end of the Cold War.",
+    "explanation": "Operated by CERN, the LHC accelerates counter-rotating proton beams near the speed of light to probe fundamental particle physics.",
     "tags": [
       "history",
-      "world-history",
+      "modern-milestones",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "history-ancient-civilizations-0139",
+    "id": "history-modern-milestones-0139",
     "category": "History",
-    "subcategory": "Ancient Civilizations",
+    "subcategory": "Modern Milestones",
     "difficulty": "easy",
-    "question": "In world and American history: In what year was the United States Declaration of Independence formally adopted in Philadelphia? (Ref #139)",
+    "question": "What groundbreaking gene-editing technology, adapted from a bacterial antiviral defense system, earned Emmanuelle Charpentier and Jennifer Doudna the Nobel Prize in 2020?",
     "options": [
-      "1789",
-      "1783",
-      "1776",
-      "1765"
+      "Zinc Finger Nucleases",
+      "TALENs",
+      "CRISPR-Cas9",
+      "RNA Interference"
     ],
     "correctAnswer": 2,
-    "explanation": "The Continental Congress formally adopted the Declaration of Independence on July 4, 1776.",
+    "explanation": "CRISPR-Cas9 enables precise targeted genetic modification by pairing a guide RNA with the Cas9 endonuclease to edit specific DNA sequences.",
     "tags": [
       "history",
-      "ancient-civilizations",
+      "modern-milestones",
       "easy"
     ],
     "active": true
@@ -2923,15 +2923,15 @@
     "category": "History",
     "subcategory": "Modern Milestones",
     "difficulty": "medium",
-    "question": "In world and American history: Who served as the first official President of the United States under the US Constitution? (Ref #140)",
+    "question": "In what year did the devastating terrorist attacks against the World Trade Center and the Pentagon occur in the United States?",
     "options": [
-      "Thomas Jefferson",
-      "John Adams",
-      "Benjamin Franklin",
-      "George Washington"
+      "1999",
+      "2000",
+      "2003",
+      "2001"
     ],
     "correctAnswer": 3,
-    "explanation": "George Washington was unanimously elected and served as the first US President from 1789 to 1797.",
+    "explanation": "On September 11, 2001, nineteen hijackers took control of four commercial airliners, killing nearly 3,000 people and transforming global counterterrorism.",
     "tags": [
       "history",
       "modern-milestones",
@@ -2940,64 +2940,64 @@
     "active": true
   },
   {
-    "id": "history-us-history-0141",
+    "id": "history-modern-milestones-0141",
     "category": "History",
-    "subcategory": "US History",
+    "subcategory": "Modern Milestones",
     "difficulty": "hard",
-    "question": "In world and American history: Between which years was the American Civil War fought? (Ref #141)",
+    "question": "Which international environmental treaty, adopted in December 2015 by 196 nations, established the goal of limiting global warming below 2.0 degrees Celsius?",
     "options": [
-      "1861 to 1865",
-      "1775 to 1783",
-      "1812 to 1815",
-      "1846 to 1848"
+      "The Paris Agreement",
+      "The Kyoto Protocol",
+      "The Montreal Protocol",
+      "The Copenhagen Accord"
     ],
     "correctAnswer": 0,
-    "explanation": "The American Civil War erupted with Fort Sumter in April 1861 and concluded with Confederate surrender in spring 1865.",
+    "explanation": "The Paris Agreement requires participating nations to set nationally determined contributions (NDCs) to reduce greenhouse gas emissions.",
     "tags": [
       "history",
-      "us-history",
+      "modern-milestones",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "history-world-history-0142",
+    "id": "history-modern-milestones-0142",
     "category": "History",
-    "subcategory": "World History",
+    "subcategory": "Modern Milestones",
     "difficulty": "easy",
-    "question": "In world and American history: Which historic English charter signed in 1215 established that everyone, even the King, is subject to the law? (Ref #142)",
+    "question": "Which international treaty signed in 1987 successfully phased out chlorofluorocarbons (CFCs) to protect the Earth's stratospheric ozone layer?",
     "options": [
-      "English Bill of Rights",
-      "Magna Carta (The Great Charter)",
-      "Treaty of Westphalia",
-      "Edict of Nantes"
+      "The Kyoto Protocol",
+      "The Montreal Protocol",
+      "The Basel Convention",
+      "The Stockholm Convention"
     ],
     "correctAnswer": 1,
-    "explanation": "King John of England granted Magna Carta at Runnymede in June 1215 under pressure from feudal barons.",
+    "explanation": "The Montreal Protocol is celebrated as the most successful multilateral environmental treaty, leading to the gradual recovery of the ozone hole.",
     "tags": [
       "history",
-      "world-history",
+      "modern-milestones",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "history-ancient-civilizations-0143",
+    "id": "history-modern-milestones-0143",
     "category": "History",
-    "subcategory": "Ancient Civilizations",
+    "subcategory": "Modern Milestones",
     "difficulty": "medium",
-    "question": "In world and American history: In what year did the Apollo 11 mission achieve humanity's first manned lunar landing? (Ref #143)",
+    "question": "In what year was the first successful mechanical heart, the Jarvik-7, permanently implanted into patient Barney Clark by Dr. William DeVries?",
     "options": [
-      "1965",
-      "1971",
-      "1969",
-      "1973"
+      "1975",
+      "1989",
+      "1982",
+      "1994"
     ],
     "correctAnswer": 2,
-    "explanation": "Neil Armstrong and Buzz Aldrin landed the lunar module Eagle on the Moon on July 20, 1969.",
+    "explanation": "The pneumatically powered Jarvik-7 artificial heart sustained dental surgeon Barney Clark for 112 days at the University of Utah.",
     "tags": [
       "history",
-      "ancient-civilizations",
+      "modern-milestones",
       "medium"
     ],
     "active": true
@@ -3007,15 +3007,15 @@
     "category": "History",
     "subcategory": "Modern Milestones",
     "difficulty": "hard",
-    "question": "In world and American history: What historic symbol of the Cold War began to be dismantled in Berlin in November 1989? (Ref #144)",
+    "question": "What optical space telescope launched aboard Space Shuttle Discovery in 1990 provided breathtaking deep-space observations for over three decades?",
     "options": [
-      "The Iron Gate",
-      "Checkpoint Alpha",
-      "The Brandenburg Citadel",
-      "The Berlin Wall"
+      "The James Webb Space Telescope",
+      "The Spitzer Space Telescope",
+      "The Kepler Space Telescope",
+      "The Hubble Space Telescope"
     ],
     "correctAnswer": 3,
-    "explanation": "The fall of the Berlin Wall on November 9, 1989, paved the way for German reunification and the end of the Cold War.",
+    "explanation": "Positioned above atmospheric distortion, Hubble revolutionized astronomy with precise measurements of cosmic expansion and deep field galaxies.",
     "tags": [
       "history",
       "modern-milestones",
@@ -3024,64 +3024,64 @@
     "active": true
   },
   {
-    "id": "history-us-history-0145",
+    "id": "history-modern-milestones-0145",
     "category": "History",
-    "subcategory": "US History",
+    "subcategory": "Modern Milestones",
     "difficulty": "easy",
-    "question": "In world and American history: In what year was the United States Declaration of Independence formally adopted in Philadelphia? (Ref #145)",
+    "question": "What revolutionary infrared space telescope launched on Christmas Day 2021 to observe the earliest stars and galaxies formed after the Big Bang?",
     "options": [
-      "1776",
-      "1789",
-      "1783",
-      "1765"
+      "The James Webb Space Telescope (JWST)",
+      "The Hubble Space Telescope",
+      "The Nancy Grace Roman Telescope",
+      "The Chandra X-ray Observatory"
     ],
     "correctAnswer": 0,
-    "explanation": "The Continental Congress formally adopted the Declaration of Independence on July 4, 1776.",
+    "explanation": "JWST operates at the Sun-Earth L2 Lagrange point with a 6.5-meter gold-coated beryllium mirror, imaging cosmic infrared wavelengths.",
     "tags": [
       "history",
-      "us-history",
+      "modern-milestones",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "history-world-history-0146",
+    "id": "history-modern-milestones-0146",
     "category": "History",
-    "subcategory": "World History",
+    "subcategory": "Modern Milestones",
     "difficulty": "medium",
-    "question": "In world and American history: Who served as the first official President of the United States under the US Constitution? (Ref #146)",
+    "question": "Which American company founded by Steve Jobs and Steve Wozniak introduced the Apple II computer in 1977 and the Macintosh in 1984?",
     "options": [
-      "Thomas Jefferson",
-      "George Washington",
-      "John Adams",
-      "Benjamin Franklin"
+      "Microsoft",
+      "Apple Computer",
+      "IBM",
+      "Commodore"
     ],
     "correctAnswer": 1,
-    "explanation": "George Washington was unanimously elected and served as the first US President from 1789 to 1797.",
+    "explanation": "Apple popularized graphical user interfaces (GUI), desktop computing, and later portable digital music (iPod) and smartphones (iPhone).",
     "tags": [
       "history",
-      "world-history",
+      "modern-milestones",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "history-ancient-civilizations-0147",
+    "id": "history-modern-milestones-0147",
     "category": "History",
-    "subcategory": "Ancient Civilizations",
+    "subcategory": "Modern Milestones",
     "difficulty": "hard",
-    "question": "In world and American history: Between which years was the American Civil War fought? (Ref #147)",
+    "question": "Which iconic smartphone introduced by Apple CEO Steve Jobs on January 9, 2007 revolutionized mobile computing and touchscreen interfaces?",
     "options": [
-      "1775 to 1783",
-      "1812 to 1815",
-      "1861 to 1865",
-      "1846 to 1848"
+      "The BlackBerry Curve",
+      "The Motorola RAZR",
+      "The iPhone",
+      "The Palm Pre"
     ],
     "correctAnswer": 2,
-    "explanation": "The American Civil War erupted with Fort Sumter in April 1861 and concluded with Confederate surrender in spring 1865.",
+    "explanation": "The iPhone combined a multi-touch widescreen, web browser, and cellular phone, inaugurating the modern mobile app ecosystem.",
     "tags": [
       "history",
-      "ancient-civilizations",
+      "modern-milestones",
       "hard"
     ],
     "active": true
@@ -3091,15 +3091,15 @@
     "category": "History",
     "subcategory": "Modern Milestones",
     "difficulty": "easy",
-    "question": "In world and American history: Which historic English charter signed in 1215 established that everyone, even the King, is subject to the law? (Ref #148)",
+    "question": "Which global network standard established in 1983 under TCP/IP protocols interconnected disparate computer networks into the global Internet?",
     "options": [
-      "English Bill of Rights",
-      "Treaty of Westphalia",
-      "Edict of Nantes",
-      "Magna Carta (The Great Charter)"
+      "Ethernet standard",
+      "X.25 protocol",
+      "BBS networking",
+      "The ARPANET TCP/IP transition"
     ],
     "correctAnswer": 3,
-    "explanation": "King John of England granted Magna Carta at Runnymede in June 1215 under pressure from feudal barons.",
+    "explanation": "On January 1, 1983 ('Flag Day'), the US Department of Defense's ARPANET adopted TCP/IP, creating the core communications architecture of the Internet.",
     "tags": [
       "history",
       "modern-milestones",
@@ -3108,64 +3108,64 @@
     "active": true
   },
   {
-    "id": "history-us-history-0149",
+    "id": "history-modern-milestones-0149",
     "category": "History",
-    "subcategory": "US History",
+    "subcategory": "Modern Milestones",
     "difficulty": "medium",
-    "question": "In world and American history: In what year did the Apollo 11 mission achieve humanity's first manned lunar landing? (Ref #149)",
+    "question": "Which global navigation satellite system developed by the United States Department of Defense achieved full operational capability with 24 satellites in 1995?",
     "options": [
-      "1969",
-      "1965",
-      "1971",
-      "1973"
+      "Global Positioning System (GPS)",
+      "GLONASS",
+      "Galileo",
+      "BeiDou"
     ],
     "correctAnswer": 0,
-    "explanation": "Neil Armstrong and Buzz Aldrin landed the lunar module Eagle on the Moon on July 20, 1969.",
+    "explanation": "GPS provides precise geolocation and atomic clock time synchronization to military and civilian receivers globally.",
     "tags": [
       "history",
-      "us-history",
+      "modern-milestones",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "history-world-history-0150",
+    "id": "history-modern-milestones-0150",
     "category": "History",
-    "subcategory": "World History",
+    "subcategory": "Modern Milestones",
     "difficulty": "hard",
-    "question": "In world and American history: What historic symbol of the Cold War began to be dismantled in Berlin in November 1989? (Ref #150)",
+    "question": "What 1980 historic World Health Organization declaration marked the first (and so far only) infectious human disease to be completely eradicated by vaccination?",
     "options": [
-      "The Iron Gate",
-      "The Berlin Wall",
-      "Checkpoint Alpha",
-      "The Brandenburg Citadel"
+      "Polio",
+      "Smallpox",
+      "Rinderpest",
+      "Measles"
     ],
     "correctAnswer": 1,
-    "explanation": "The fall of the Berlin Wall on November 9, 1989, paved the way for German reunification and the end of the Cold War.",
+    "explanation": "A coordinated global campaign of ring vaccination and surveillance eliminated smallpox, a pathogen that had killed hundreds of millions across human history.",
     "tags": [
       "history",
-      "world-history",
+      "modern-milestones",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "history-ancient-civilizations-0151",
+    "id": "history-modern-milestones-0151",
     "category": "History",
-    "subcategory": "Ancient Civilizations",
+    "subcategory": "Modern Milestones",
     "difficulty": "easy",
-    "question": "In world and American history: In what year was the United States Declaration of Independence formally adopted in Philadelphia? (Ref #151)",
+    "question": "Which British primatologist revolutionized anthropology in 1960 through her pioneering studies of wild chimpanzees using tools in Gombe Stream, Tanzania?",
     "options": [
-      "1789",
-      "1783",
-      "1776",
-      "1765"
+      "Dian Fossey",
+      "Birute Galdikas",
+      "Jane Goodall",
+      "Mary Leakey"
     ],
     "correctAnswer": 2,
-    "explanation": "The Continental Congress formally adopted the Declaration of Independence on July 4, 1776.",
+    "explanation": "Jane Goodall discovered that chimpanzees fashion and use tools to fish for termites, disproving the notion that only humans make tools.",
     "tags": [
       "history",
-      "ancient-civilizations",
+      "modern-milestones",
       "easy"
     ],
     "active": true
@@ -3175,15 +3175,15 @@
     "category": "History",
     "subcategory": "Modern Milestones",
     "difficulty": "medium",
-    "question": "In world and American history: Who served as the first official President of the United States under the US Constitution? (Ref #152)",
+    "question": "What major trade agreement implemented in January 1994 established a trilateral free trade zone between the United States, Canada, and Mexico?",
     "options": [
-      "Thomas Jefferson",
-      "John Adams",
-      "Benjamin Franklin",
-      "George Washington"
+      "Trans-Pacific Partnership (TPP)",
+      "USMCA",
+      "European Free Trade Association",
+      "North American Free Trade Agreement (NAFTA)"
     ],
     "correctAnswer": 3,
-    "explanation": "George Washington was unanimously elected and served as the first US President from 1789 to 1797.",
+    "explanation": "NAFTA eliminated tariffs on cross-border agricultural and manufactured goods, integrating North American commercial supply chains.",
     "tags": [
       "history",
       "modern-milestones",
@@ -3192,64 +3192,64 @@
     "active": true
   },
   {
-    "id": "history-us-history-0153",
+    "id": "history-modern-milestones-0153",
     "category": "History",
-    "subcategory": "US History",
+    "subcategory": "Modern Milestones",
     "difficulty": "hard",
-    "question": "In world and American history: Between which years was the American Civil War fought? (Ref #153)",
+    "question": "In what year was the Euro currency introduced for electronic financial transactions across initial European Union member states?",
     "options": [
-      "1861 to 1865",
-      "1775 to 1783",
-      "1812 to 1815",
-      "1846 to 1848"
+      "1999",
+      "1992",
+      "2002",
+      "1995"
     ],
     "correctAnswer": 0,
-    "explanation": "The American Civil War erupted with Fort Sumter in April 1861 and concluded with Confederate surrender in spring 1865.",
+    "explanation": "The euro launched on January 1, 1999 for non-cash accounting, followed by physical banknotes and coins circulating on January 1, 2002.",
     "tags": [
       "history",
-      "us-history",
+      "modern-milestones",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "history-world-history-0154",
+    "id": "history-modern-milestones-0154",
     "category": "History",
-    "subcategory": "World History",
+    "subcategory": "Modern Milestones",
     "difficulty": "easy",
-    "question": "In world and American history: Which historic English charter signed in 1215 established that everyone, even the King, is subject to the law? (Ref #154)",
+    "question": "Which digital cryptocurrency based on a decentralized proof-of-work blockchain ledger was released by pseudonymous creator Satoshi Nakamoto in 2009?",
     "options": [
-      "English Bill of Rights",
-      "Magna Carta (The Great Charter)",
-      "Treaty of Westphalia",
-      "Edict of Nantes"
+      "Ethereum",
+      "Bitcoin",
+      "Ripple",
+      "Litecoin"
     ],
     "correctAnswer": 1,
-    "explanation": "King John of England granted Magna Carta at Runnymede in June 1215 under pressure from feudal barons.",
+    "explanation": "Bitcoin introduced decentralized cryptographic digital currency without the need for central banking intermediaries.",
     "tags": [
       "history",
-      "world-history",
+      "modern-milestones",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "history-ancient-civilizations-0155",
+    "id": "history-modern-milestones-0155",
     "category": "History",
-    "subcategory": "Ancient Civilizations",
+    "subcategory": "Modern Milestones",
     "difficulty": "medium",
-    "question": "In world and American history: In what year did the Apollo 11 mission achieve humanity's first manned lunar landing? (Ref #155)",
+    "question": "In what year did the Deepwater Horizon offshore drilling rig explode in the Gulf of Mexico, causing the largest marine oil spill in petroleum history?",
     "options": [
-      "1965",
-      "1971",
-      "1969",
-      "1973"
+      "2008",
+      "2012",
+      "2010",
+      "2005"
     ],
     "correctAnswer": 2,
-    "explanation": "Neil Armstrong and Buzz Aldrin landed the lunar module Eagle on the Moon on July 20, 1969.",
+    "explanation": "The blowout released an estimated 4.9 million barrels of crude oil into the Gulf of Mexico over 87 days until capped.",
     "tags": [
       "history",
-      "ancient-civilizations",
+      "modern-milestones",
       "medium"
     ],
     "active": true
@@ -3259,15 +3259,15 @@
     "category": "History",
     "subcategory": "Modern Milestones",
     "difficulty": "hard",
-    "question": "In world and American history: What historic symbol of the Cold War began to be dismantled in Berlin in November 1989? (Ref #156)",
+    "question": "What international public health agency headquartered in Geneva, Switzerland was founded on April 7, 1948 as a specialized branch of the United Nations?",
     "options": [
-      "The Iron Gate",
-      "Checkpoint Alpha",
-      "The Brandenburg Citadel",
-      "The Berlin Wall"
+      "Doctors Without Borders (MSF)",
+      "UNICEF",
+      "Centers for Disease Control (CDC)",
+      "World Health Organization (WHO)"
     ],
     "correctAnswer": 3,
-    "explanation": "The fall of the Berlin Wall on November 9, 1989, paved the way for German reunification and the end of the Cold War.",
+    "explanation": "The WHO directs international health initiatives, sets global health standards, and coordinates responses to worldwide infectious pandemics.",
     "tags": [
       "history",
       "modern-milestones",
@@ -3276,64 +3276,64 @@
     "active": true
   },
   {
-    "id": "history-us-history-0157",
+    "id": "history-modern-milestones-0157",
     "category": "History",
-    "subcategory": "US History",
+    "subcategory": "Modern Milestones",
     "difficulty": "easy",
-    "question": "In world and American history: In what year was the United States Declaration of Independence formally adopted in Philadelphia? (Ref #157)",
+    "question": "What major 2008 economic collapse, triggered by subprime mortgage defaults and the collapse of Lehman Brothers, became known as the Great Recession?",
     "options": [
-      "1776",
-      "1789",
-      "1783",
-      "1765"
+      "The Global Financial Crisis",
+      "The Dot-Com Crash",
+      "Black Monday",
+      "The Asian Financial Crisis"
     ],
     "correctAnswer": 0,
-    "explanation": "The Continental Congress formally adopted the Declaration of Independence on July 4, 1776.",
+    "explanation": "Systemic banking liquidity failure led to massive credit freezes, emergency government bailouts, and severe worldwide economic contraction.",
     "tags": [
       "history",
-      "us-history",
+      "modern-milestones",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "history-world-history-0158",
+    "id": "history-modern-milestones-0158",
     "category": "History",
-    "subcategory": "World History",
+    "subcategory": "Modern Milestones",
     "difficulty": "medium",
-    "question": "In world and American history: Who served as the first official President of the United States under the US Constitution? (Ref #158)",
+    "question": "Which commercial space company founded by Elon Musk in 2002 became the first private entity to launch, orbit, and recover a spacecraft in 2010?",
     "options": [
-      "Thomas Jefferson",
-      "George Washington",
-      "John Adams",
-      "Benjamin Franklin"
+      "Blue Origin",
+      "SpaceX (Space Exploration Technologies Corp.)",
+      "Virgin Galactic",
+      "Rocket Lab"
     ],
     "correctAnswer": 1,
-    "explanation": "George Washington was unanimously elected and served as the first US President from 1789 to 1797.",
+    "explanation": "SpaceX pioneered orbital rocket reusability with its Falcon 9 first-stage boosters landing vertically on land and automated drone ships.",
     "tags": [
       "history",
-      "world-history",
+      "modern-milestones",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "history-ancient-civilizations-0159",
+    "id": "history-modern-milestones-0159",
     "category": "History",
-    "subcategory": "Ancient Civilizations",
+    "subcategory": "Modern Milestones",
     "difficulty": "hard",
-    "question": "In world and American history: Between which years was the American Civil War fought? (Ref #159)",
+    "question": "What massive earthquake and tsunami struck the Tohoku region of northeastern Japan on March 11, 2011, triggering meltdowns at the Fukushima nuclear plant?",
     "options": [
-      "1775 to 1783",
-      "1812 to 1815",
-      "1861 to 1865",
-      "1846 to 1848"
+      "The Kobe Earthquake",
+      "The Boxing Day Tsunami",
+      "The Great East Japan Earthquake (Tohoku)",
+      "The Niigata Earthquake"
     ],
     "correctAnswer": 2,
-    "explanation": "The American Civil War erupted with Fort Sumter in April 1861 and concluded with Confederate surrender in spring 1865.",
+    "explanation": "The magnitude 9.1 megathrust earthquake generated a 40-meter tsunami that devastated coastal communities and disabled backup nuclear cooling generators.",
     "tags": [
       "history",
-      "ancient-civilizations",
+      "modern-milestones",
       "hard"
     ],
     "active": true
@@ -3343,15 +3343,15 @@
     "category": "History",
     "subcategory": "Modern Milestones",
     "difficulty": "easy",
-    "question": "In world and American history: Which historic English charter signed in 1215 established that everyone, even the King, is subject to the law? (Ref #160)",
+    "question": "What global viral respiratory pandemic caused by the novel coronavirus SARS-CoV-2 was officially declared by the WHO on March 11, 2020?",
     "options": [
-      "English Bill of Rights",
-      "Treaty of Westphalia",
-      "Edict of Nantes",
-      "Magna Carta (The Great Charter)"
+      "H1N1 Swine Flu Pandemic",
+      "SARS Epidemic",
+      "MERS Outbreak",
+      "COVID-19 Pandemic"
     ],
     "correctAnswer": 3,
-    "explanation": "King John of England granted Magna Carta at Runnymede in June 1215 under pressure from feudal barons.",
+    "explanation": "The COVID-19 pandemic caused global social and economic lockdowns and prompted the fastest vaccine development (mRNA vaccines) in human history.",
     "tags": [
       "history",
       "modern-milestones",

@@ -4,7 +4,7 @@
     "category": "Geography",
     "subcategory": "US State Capitals",
     "difficulty": "easy",
-    "question": "World geography quiz: What is the official state capital of California? (Ref #1)",
+    "question": "What is the capital city of California?",
     "options": [
       "Sacramento",
       "Los Angeles",
@@ -12,7 +12,7 @@
       "San Diego"
     ],
     "correctAnswer": 0,
-    "explanation": "Sacramento has been California's capital since 1854, situated at the confluence of the Sacramento and American rivers.",
+    "explanation": "Sacramento became the permanent capital of California in 1854.",
     "tags": [
       "geography",
       "us-state-capitals",
@@ -21,11 +21,11 @@
     "active": true
   },
   {
-    "id": "geography-world-capitals-0002",
+    "id": "geography-us-state-capitals-0002",
     "category": "Geography",
-    "subcategory": "World Capitals",
+    "subcategory": "US State Capitals",
     "difficulty": "medium",
-    "question": "World geography quiz: What is the official state capital of Texas? (Ref #2)",
+    "question": "What is the capital city of Texas?",
     "options": [
       "Houston",
       "Austin",
@@ -33,52 +33,52 @@
       "San Antonio"
     ],
     "correctAnswer": 1,
-    "explanation": "Austin is the state capital of Texas and the seat of Travis County, known as the Live Music Capital of the World.",
+    "explanation": "Austin is the state capital of Texas, named after Stephen F. Austin.",
     "tags": [
       "geography",
-      "world-capitals",
+      "us-state-capitals",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "geography-physical-geography-0003",
+    "id": "geography-us-state-capitals-0003",
     "category": "Geography",
-    "subcategory": "Physical Geography",
+    "subcategory": "US State Capitals",
     "difficulty": "hard",
-    "question": "World geography quiz: What is the official national capital of Australia? (Ref #3)",
+    "question": "What is the capital city of Florida?",
     "options": [
-      "Sydney",
-      "Melbourne",
-      "Canberra",
-      "Brisbane"
+      "Miami",
+      "Orlando",
+      "Tallahassee",
+      "Jacksonville"
     ],
     "correctAnswer": 2,
-    "explanation": "Canberra was selected as a planned capital city compromise between rivals Sydney and Melbourne in 1908.",
+    "explanation": "Tallahassee is the capital of Florida, situated in the state panhandle.",
     "tags": [
       "geography",
-      "physical-geography",
+      "us-state-capitals",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "geography-nations-territories-0004",
+    "id": "geography-us-state-capitals-0004",
     "category": "Geography",
-    "subcategory": "Nations & Territories",
+    "subcategory": "US State Capitals",
     "difficulty": "easy",
-    "question": "World geography quiz: What is the official national capital of Canada? (Ref #4)",
+    "question": "What is the capital city of New York?",
     "options": [
-      "Toronto",
-      "Montreal",
-      "Vancouver",
-      "Ottawa"
+      "New York City",
+      "Buffalo",
+      "Rochester",
+      "Albany"
     ],
     "correctAnswer": 3,
-    "explanation": "Queen Victoria designated Ottawa as the capital of Canada in 1857 due to its strategic location.",
+    "explanation": "Albany has been the capital of New York State since 1797.",
     "tags": [
       "geography",
-      "nations-territories",
+      "us-state-capitals",
       "easy"
     ],
     "active": true
@@ -88,15 +88,15 @@
     "category": "Geography",
     "subcategory": "US State Capitals",
     "difficulty": "medium",
-    "question": "World geography quiz: What is the vastest hot desert on planet Earth, spanning much of North Africa? (Ref #5)",
+    "question": "What is the capital city of Illinois?",
     "options": [
-      "The Sahara Desert",
-      "The Gobi Desert",
-      "The Kalahari Desert",
-      "The Arabian Desert"
+      "Springfield",
+      "Chicago",
+      "Peoria",
+      "Naperville"
     ],
     "correctAnswer": 0,
-    "explanation": "The Sahara covers approximately 3.5 million square miles, making it the largest non-polar desert on Earth.",
+    "explanation": "Springfield is the state capital of Illinois, famed as the home of Abraham Lincoln.",
     "tags": [
       "geography",
       "us-state-capitals",
@@ -105,64 +105,64 @@
     "active": true
   },
   {
-    "id": "geography-world-capitals-0006",
+    "id": "geography-us-state-capitals-0006",
     "category": "Geography",
-    "subcategory": "World Capitals",
+    "subcategory": "US State Capitals",
     "difficulty": "hard",
-    "question": "World geography quiz: What imaginary line of latitude divides the Earth into the Northern and Southern Hemispheres at zero degrees? (Ref #6)",
+    "question": "What is the capital city of Pennsylvania?",
     "options": [
-      "Prime Meridian",
-      "The Equator",
-      "Tropic of Cancer",
-      "Tropic of Capricorn"
+      "Philadelphia",
+      "Harrisburg",
+      "Pittsburgh",
+      "Allentown"
     ],
     "correctAnswer": 1,
-    "explanation": "The Equator is the zero-degree parallel of latitude, measuring approximately 24,901 miles in circumference.",
+    "explanation": "Harrisburg is the state capital of Pennsylvania, situated on the Susquehanna River.",
     "tags": [
       "geography",
-      "world-capitals",
+      "us-state-capitals",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "geography-physical-geography-0007",
+    "id": "geography-us-state-capitals-0007",
     "category": "Geography",
-    "subcategory": "Physical Geography",
+    "subcategory": "US State Capitals",
     "difficulty": "easy",
-    "question": "World geography quiz: What is the official state capital of California? (Ref #7)",
+    "question": "What is the capital city of Washington state?",
     "options": [
-      "Los Angeles",
-      "San Francisco",
-      "Sacramento",
-      "San Diego"
+      "Seattle",
+      "Spokane",
+      "Olympia",
+      "Tacoma"
     ],
     "correctAnswer": 2,
-    "explanation": "Sacramento has been California's capital since 1854, situated at the confluence of the Sacramento and American rivers.",
+    "explanation": "Olympia is the state capital of Washington, located on Puget Sound.",
     "tags": [
       "geography",
-      "physical-geography",
+      "us-state-capitals",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "geography-nations-territories-0008",
+    "id": "geography-us-state-capitals-0008",
     "category": "Geography",
-    "subcategory": "Nations & Territories",
+    "subcategory": "US State Capitals",
     "difficulty": "medium",
-    "question": "World geography quiz: What is the official state capital of Texas? (Ref #8)",
+    "question": "What is the capital city of Ohio?",
     "options": [
-      "Houston",
-      "Dallas",
-      "San Antonio",
-      "Austin"
+      "Cleveland",
+      "Cincinnati",
+      "Dayton",
+      "Columbus"
     ],
     "correctAnswer": 3,
-    "explanation": "Austin is the state capital of Texas and the seat of Travis County, known as the Live Music Capital of the World.",
+    "explanation": "Columbus is the state capital and most populous city in Ohio.",
     "tags": [
       "geography",
-      "nations-territories",
+      "us-state-capitals",
       "medium"
     ],
     "active": true
@@ -172,15 +172,15 @@
     "category": "Geography",
     "subcategory": "US State Capitals",
     "difficulty": "hard",
-    "question": "World geography quiz: What is the official national capital of Australia? (Ref #9)",
+    "question": "What is the capital city of Georgia?",
     "options": [
-      "Canberra",
-      "Sydney",
-      "Melbourne",
-      "Brisbane"
+      "Atlanta",
+      "Savannah",
+      "Augusta",
+      "Macon"
     ],
     "correctAnswer": 0,
-    "explanation": "Canberra was selected as a planned capital city compromise between rivals Sydney and Melbourne in 1908.",
+    "explanation": "Atlanta is the capital and major metropolitan hub of Georgia.",
     "tags": [
       "geography",
       "us-state-capitals",
@@ -189,64 +189,64 @@
     "active": true
   },
   {
-    "id": "geography-world-capitals-0010",
+    "id": "geography-us-state-capitals-0010",
     "category": "Geography",
-    "subcategory": "World Capitals",
+    "subcategory": "US State Capitals",
     "difficulty": "easy",
-    "question": "World geography quiz: What is the official national capital of Canada? (Ref #10)",
+    "question": "What is the capital city of North Carolina?",
     "options": [
-      "Toronto",
-      "Ottawa",
-      "Montreal",
-      "Vancouver"
+      "Charlotte",
+      "Raleigh",
+      "Greensboro",
+      "Durham"
     ],
     "correctAnswer": 1,
-    "explanation": "Queen Victoria designated Ottawa as the capital of Canada in 1857 due to its strategic location.",
+    "explanation": "Raleigh is the state capital of North Carolina, part of the Research Triangle.",
     "tags": [
       "geography",
-      "world-capitals",
+      "us-state-capitals",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "geography-physical-geography-0011",
+    "id": "geography-us-state-capitals-0011",
     "category": "Geography",
-    "subcategory": "Physical Geography",
+    "subcategory": "US State Capitals",
     "difficulty": "medium",
-    "question": "World geography quiz: What is the vastest hot desert on planet Earth, spanning much of North Africa? (Ref #11)",
+    "question": "What is the capital city of Michigan?",
     "options": [
-      "The Gobi Desert",
-      "The Kalahari Desert",
-      "The Sahara Desert",
-      "The Arabian Desert"
+      "Detroit",
+      "Grand Rapids",
+      "Lansing",
+      "Ann Arbor"
     ],
     "correctAnswer": 2,
-    "explanation": "The Sahara covers approximately 3.5 million square miles, making it the largest non-polar desert on Earth.",
+    "explanation": "Lansing is the state capital of Michigan, located in the central Lower Peninsula.",
     "tags": [
       "geography",
-      "physical-geography",
+      "us-state-capitals",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "geography-nations-territories-0012",
+    "id": "geography-us-state-capitals-0012",
     "category": "Geography",
-    "subcategory": "Nations & Territories",
+    "subcategory": "US State Capitals",
     "difficulty": "hard",
-    "question": "World geography quiz: What imaginary line of latitude divides the Earth into the Northern and Southern Hemispheres at zero degrees? (Ref #12)",
+    "question": "What is the capital city of Arizona?",
     "options": [
-      "Prime Meridian",
-      "Tropic of Cancer",
-      "Tropic of Capricorn",
-      "The Equator"
+      "Tucson",
+      "Mesa",
+      "Scottsdale",
+      "Phoenix"
     ],
     "correctAnswer": 3,
-    "explanation": "The Equator is the zero-degree parallel of latitude, measuring approximately 24,901 miles in circumference.",
+    "explanation": "Phoenix is the capital of Arizona and the most populous state capital in the US.",
     "tags": [
       "geography",
-      "nations-territories",
+      "us-state-capitals",
       "hard"
     ],
     "active": true
@@ -256,15 +256,15 @@
     "category": "Geography",
     "subcategory": "US State Capitals",
     "difficulty": "easy",
-    "question": "World geography quiz: What is the official state capital of California? (Ref #13)",
+    "question": "What is the capital city of Colorado?",
     "options": [
-      "Sacramento",
-      "Los Angeles",
-      "San Francisco",
-      "San Diego"
+      "Denver",
+      "Colorado Springs",
+      "Aurora",
+      "Boulder"
     ],
     "correctAnswer": 0,
-    "explanation": "Sacramento has been California's capital since 1854, situated at the confluence of the Sacramento and American rivers.",
+    "explanation": "Denver, known as the 'Mile High City', is the capital of Colorado.",
     "tags": [
       "geography",
       "us-state-capitals",
@@ -273,64 +273,64 @@
     "active": true
   },
   {
-    "id": "geography-world-capitals-0014",
+    "id": "geography-us-state-capitals-0014",
     "category": "Geography",
-    "subcategory": "World Capitals",
+    "subcategory": "US State Capitals",
     "difficulty": "medium",
-    "question": "World geography quiz: What is the official state capital of Texas? (Ref #14)",
+    "question": "What is the capital city of Massachusetts?",
     "options": [
-      "Houston",
-      "Austin",
-      "Dallas",
-      "San Antonio"
+      "Worcester",
+      "Boston",
+      "Cambridge",
+      "Springfield"
     ],
     "correctAnswer": 1,
-    "explanation": "Austin is the state capital of Texas and the seat of Travis County, known as the Live Music Capital of the World.",
+    "explanation": "Boston is the historic capital and largest city of Massachusetts.",
     "tags": [
       "geography",
-      "world-capitals",
+      "us-state-capitals",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "geography-physical-geography-0015",
+    "id": "geography-us-state-capitals-0015",
     "category": "Geography",
-    "subcategory": "Physical Geography",
+    "subcategory": "US State Capitals",
     "difficulty": "hard",
-    "question": "World geography quiz: What is the official national capital of Australia? (Ref #15)",
+    "question": "What is the capital city of Virginia?",
     "options": [
-      "Sydney",
-      "Melbourne",
-      "Canberra",
-      "Brisbane"
+      "Virginia Beach",
+      "Norfolk",
+      "Richmond",
+      "Arlington"
     ],
     "correctAnswer": 2,
-    "explanation": "Canberra was selected as a planned capital city compromise between rivals Sydney and Melbourne in 1908.",
+    "explanation": "Richmond is the historic capital of the Commonwealth of Virginia.",
     "tags": [
       "geography",
-      "physical-geography",
+      "us-state-capitals",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "geography-nations-territories-0016",
+    "id": "geography-us-state-capitals-0016",
     "category": "Geography",
-    "subcategory": "Nations & Territories",
+    "subcategory": "US State Capitals",
     "difficulty": "easy",
-    "question": "World geography quiz: What is the official national capital of Canada? (Ref #16)",
+    "question": "What is the capital city of Tennessee?",
     "options": [
-      "Toronto",
-      "Montreal",
-      "Vancouver",
-      "Ottawa"
+      "Memphis",
+      "Knoxville",
+      "Chattanooga",
+      "Nashville"
     ],
     "correctAnswer": 3,
-    "explanation": "Queen Victoria designated Ottawa as the capital of Canada in 1857 due to its strategic location.",
+    "explanation": "Nashville is the state capital of Tennessee, celebrated as 'Music City'.",
     "tags": [
       "geography",
-      "nations-territories",
+      "us-state-capitals",
       "easy"
     ],
     "active": true
@@ -340,15 +340,15 @@
     "category": "Geography",
     "subcategory": "US State Capitals",
     "difficulty": "medium",
-    "question": "World geography quiz: What is the vastest hot desert on planet Earth, spanning much of North Africa? (Ref #17)",
+    "question": "What is the capital city of Indiana?",
     "options": [
-      "The Sahara Desert",
-      "The Gobi Desert",
-      "The Kalahari Desert",
-      "The Arabian Desert"
+      "Indianapolis",
+      "Fort Wayne",
+      "Bloomington",
+      "South Bend"
     ],
     "correctAnswer": 0,
-    "explanation": "The Sahara covers approximately 3.5 million square miles, making it the largest non-polar desert on Earth.",
+    "explanation": "Indianapolis is the capital and geographic center of Indiana.",
     "tags": [
       "geography",
       "us-state-capitals",
@@ -357,64 +357,64 @@
     "active": true
   },
   {
-    "id": "geography-world-capitals-0018",
+    "id": "geography-us-state-capitals-0018",
     "category": "Geography",
-    "subcategory": "World Capitals",
+    "subcategory": "US State Capitals",
     "difficulty": "hard",
-    "question": "World geography quiz: What imaginary line of latitude divides the Earth into the Northern and Southern Hemispheres at zero degrees? (Ref #18)",
+    "question": "What is the capital city of Missouri?",
     "options": [
-      "Prime Meridian",
-      "The Equator",
-      "Tropic of Cancer",
-      "Tropic of Capricorn"
+      "Kansas City",
+      "Jefferson City",
+      "St. Louis",
+      "Springfield"
     ],
     "correctAnswer": 1,
-    "explanation": "The Equator is the zero-degree parallel of latitude, measuring approximately 24,901 miles in circumference.",
+    "explanation": "Jefferson City is the state capital of Missouri, located on the Missouri River.",
     "tags": [
       "geography",
-      "world-capitals",
+      "us-state-capitals",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "geography-physical-geography-0019",
+    "id": "geography-us-state-capitals-0019",
     "category": "Geography",
-    "subcategory": "Physical Geography",
+    "subcategory": "US State Capitals",
     "difficulty": "easy",
-    "question": "World geography quiz: What is the official state capital of California? (Ref #19)",
+    "question": "What is the capital city of Maryland?",
     "options": [
-      "Los Angeles",
-      "San Francisco",
-      "Sacramento",
-      "San Diego"
+      "Baltimore",
+      "Bethesda",
+      "Annapolis",
+      "Silver Spring"
     ],
     "correctAnswer": 2,
-    "explanation": "Sacramento has been California's capital since 1854, situated at the confluence of the Sacramento and American rivers.",
+    "explanation": "Annapolis is the historic capital of Maryland and home of the US Naval Academy.",
     "tags": [
       "geography",
-      "physical-geography",
+      "us-state-capitals",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "geography-nations-territories-0020",
+    "id": "geography-us-state-capitals-0020",
     "category": "Geography",
-    "subcategory": "Nations & Territories",
+    "subcategory": "US State Capitals",
     "difficulty": "medium",
-    "question": "World geography quiz: What is the official state capital of Texas? (Ref #20)",
+    "question": "What is the capital city of Wisconsin?",
     "options": [
-      "Houston",
-      "Dallas",
-      "San Antonio",
-      "Austin"
+      "Milwaukee",
+      "Green Bay",
+      "Kenosha",
+      "Madison"
     ],
     "correctAnswer": 3,
-    "explanation": "Austin is the state capital of Texas and the seat of Travis County, known as the Live Music Capital of the World.",
+    "explanation": "Madison is the state capital of Wisconsin, situated between Lakes Mendota and Monona.",
     "tags": [
       "geography",
-      "nations-territories",
+      "us-state-capitals",
       "medium"
     ],
     "active": true
@@ -424,15 +424,15 @@
     "category": "Geography",
     "subcategory": "US State Capitals",
     "difficulty": "hard",
-    "question": "World geography quiz: What is the official national capital of Australia? (Ref #21)",
+    "question": "What is the capital city of Minnesota?",
     "options": [
-      "Canberra",
-      "Sydney",
-      "Melbourne",
-      "Brisbane"
+      "Saint Paul",
+      "Minneapolis",
+      "Duluth",
+      "Rochester"
     ],
     "correctAnswer": 0,
-    "explanation": "Canberra was selected as a planned capital city compromise between rivals Sydney and Melbourne in 1908.",
+    "explanation": "Saint Paul is the state capital of Minnesota, forming the 'Twin Cities' with Minneapolis.",
     "tags": [
       "geography",
       "us-state-capitals",
@@ -441,64 +441,64 @@
     "active": true
   },
   {
-    "id": "geography-world-capitals-0022",
+    "id": "geography-us-state-capitals-0022",
     "category": "Geography",
-    "subcategory": "World Capitals",
+    "subcategory": "US State Capitals",
     "difficulty": "easy",
-    "question": "World geography quiz: What is the official national capital of Canada? (Ref #22)",
+    "question": "What is the capital city of Louisiana?",
     "options": [
-      "Toronto",
-      "Ottawa",
-      "Montreal",
-      "Vancouver"
+      "New Orleans",
+      "Baton Rouge",
+      "Shreveport",
+      "Lafayette"
     ],
     "correctAnswer": 1,
-    "explanation": "Queen Victoria designated Ottawa as the capital of Canada in 1857 due to its strategic location.",
+    "explanation": "Baton Rouge is the state capital of Louisiana, located on the Mississippi River.",
     "tags": [
       "geography",
-      "world-capitals",
+      "us-state-capitals",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "geography-physical-geography-0023",
+    "id": "geography-us-state-capitals-0023",
     "category": "Geography",
-    "subcategory": "Physical Geography",
+    "subcategory": "US State Capitals",
     "difficulty": "medium",
-    "question": "World geography quiz: What is the vastest hot desert on planet Earth, spanning much of North Africa? (Ref #23)",
+    "question": "What is the capital city of Alabama?",
     "options": [
-      "The Gobi Desert",
-      "The Kalahari Desert",
-      "The Sahara Desert",
-      "The Arabian Desert"
+      "Birmingham",
+      "Mobile",
+      "Montgomery",
+      "Huntsville"
     ],
     "correctAnswer": 2,
-    "explanation": "The Sahara covers approximately 3.5 million square miles, making it the largest non-polar desert on Earth.",
+    "explanation": "Montgomery is the state capital of Alabama, a key site of the Civil Rights Movement.",
     "tags": [
       "geography",
-      "physical-geography",
+      "us-state-capitals",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "geography-nations-territories-0024",
+    "id": "geography-us-state-capitals-0024",
     "category": "Geography",
-    "subcategory": "Nations & Territories",
+    "subcategory": "US State Capitals",
     "difficulty": "hard",
-    "question": "World geography quiz: What imaginary line of latitude divides the Earth into the Northern and Southern Hemispheres at zero degrees? (Ref #24)",
+    "question": "What is the capital city of Kentucky?",
     "options": [
-      "Prime Meridian",
-      "Tropic of Cancer",
-      "Tropic of Capricorn",
-      "The Equator"
+      "Louisville",
+      "Lexington",
+      "Bowling Green",
+      "Frankfort"
     ],
     "correctAnswer": 3,
-    "explanation": "The Equator is the zero-degree parallel of latitude, measuring approximately 24,901 miles in circumference.",
+    "explanation": "Frankfort is the state capital of Kentucky, located along the Kentucky River.",
     "tags": [
       "geography",
-      "nations-territories",
+      "us-state-capitals",
       "hard"
     ],
     "active": true
@@ -508,15 +508,15 @@
     "category": "Geography",
     "subcategory": "US State Capitals",
     "difficulty": "easy",
-    "question": "World geography quiz: What is the official state capital of California? (Ref #25)",
+    "question": "What is the capital city of Oregon?",
     "options": [
-      "Sacramento",
-      "Los Angeles",
-      "San Francisco",
-      "San Diego"
+      "Salem",
+      "Portland",
+      "Eugene",
+      "Bend"
     ],
     "correctAnswer": 0,
-    "explanation": "Sacramento has been California's capital since 1854, situated at the confluence of the Sacramento and American rivers.",
+    "explanation": "Salem is the state capital of Oregon, located in the Willamette Valley.",
     "tags": [
       "geography",
       "us-state-capitals",
@@ -525,64 +525,64 @@
     "active": true
   },
   {
-    "id": "geography-world-capitals-0026",
+    "id": "geography-us-state-capitals-0026",
     "category": "Geography",
-    "subcategory": "World Capitals",
+    "subcategory": "US State Capitals",
     "difficulty": "medium",
-    "question": "World geography quiz: What is the official state capital of Texas? (Ref #26)",
+    "question": "What is the capital city of Oklahoma?",
     "options": [
-      "Houston",
-      "Austin",
-      "Dallas",
-      "San Antonio"
+      "Tulsa",
+      "Oklahoma City",
+      "Norman",
+      "Broken Arrow"
     ],
     "correctAnswer": 1,
-    "explanation": "Austin is the state capital of Texas and the seat of Travis County, known as the Live Music Capital of the World.",
+    "explanation": "Oklahoma City is the state capital and largest city in Oklahoma.",
     "tags": [
       "geography",
-      "world-capitals",
+      "us-state-capitals",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "geography-physical-geography-0027",
+    "id": "geography-us-state-capitals-0027",
     "category": "Geography",
-    "subcategory": "Physical Geography",
+    "subcategory": "US State Capitals",
     "difficulty": "hard",
-    "question": "World geography quiz: What is the official national capital of Australia? (Ref #27)",
+    "question": "What is the capital city of Connecticut?",
     "options": [
-      "Sydney",
-      "Melbourne",
-      "Canberra",
-      "Brisbane"
+      "New Haven",
+      "Stamford",
+      "Hartford",
+      "Bridgeport"
     ],
     "correctAnswer": 2,
-    "explanation": "Canberra was selected as a planned capital city compromise between rivals Sydney and Melbourne in 1908.",
+    "explanation": "Hartford is the state capital of Connecticut, known as the insurance capital of the world.",
     "tags": [
       "geography",
-      "physical-geography",
+      "us-state-capitals",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "geography-nations-territories-0028",
+    "id": "geography-us-state-capitals-0028",
     "category": "Geography",
-    "subcategory": "Nations & Territories",
+    "subcategory": "US State Capitals",
     "difficulty": "easy",
-    "question": "World geography quiz: What is the official national capital of Canada? (Ref #28)",
+    "question": "What is the capital city of Iowa?",
     "options": [
-      "Toronto",
-      "Montreal",
-      "Vancouver",
-      "Ottawa"
+      "Cedar Rapids",
+      "Davenport",
+      "Iowa City",
+      "Des Moines"
     ],
     "correctAnswer": 3,
-    "explanation": "Queen Victoria designated Ottawa as the capital of Canada in 1857 due to its strategic location.",
+    "explanation": "Des Moines is the state capital and largest city in Iowa.",
     "tags": [
       "geography",
-      "nations-territories",
+      "us-state-capitals",
       "easy"
     ],
     "active": true
@@ -592,15 +592,15 @@
     "category": "Geography",
     "subcategory": "US State Capitals",
     "difficulty": "medium",
-    "question": "World geography quiz: What is the vastest hot desert on planet Earth, spanning much of North Africa? (Ref #29)",
+    "question": "What is the capital city of Utah?",
     "options": [
-      "The Sahara Desert",
-      "The Gobi Desert",
-      "The Kalahari Desert",
-      "The Arabian Desert"
+      "Salt Lake City",
+      "Provo",
+      "Ogden",
+      "St. George"
     ],
     "correctAnswer": 0,
-    "explanation": "The Sahara covers approximately 3.5 million square miles, making it the largest non-polar desert on Earth.",
+    "explanation": "Salt Lake City is the capital of Utah, located near the Great Salt Lake.",
     "tags": [
       "geography",
       "us-state-capitals",
@@ -609,64 +609,64 @@
     "active": true
   },
   {
-    "id": "geography-world-capitals-0030",
+    "id": "geography-us-state-capitals-0030",
     "category": "Geography",
-    "subcategory": "World Capitals",
+    "subcategory": "US State Capitals",
     "difficulty": "hard",
-    "question": "World geography quiz: What imaginary line of latitude divides the Earth into the Northern and Southern Hemispheres at zero degrees? (Ref #30)",
+    "question": "What is the capital city of Nevada?",
     "options": [
-      "Prime Meridian",
-      "The Equator",
-      "Tropic of Cancer",
-      "Tropic of Capricorn"
+      "Las Vegas",
+      "Carson City",
+      "Reno",
+      "Henderson"
     ],
     "correctAnswer": 1,
-    "explanation": "The Equator is the zero-degree parallel of latitude, measuring approximately 24,901 miles in circumference.",
+    "explanation": "Carson City is the state capital of Nevada, near Lake Tahoe.",
     "tags": [
       "geography",
-      "world-capitals",
+      "us-state-capitals",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "geography-physical-geography-0031",
+    "id": "geography-us-state-capitals-0031",
     "category": "Geography",
-    "subcategory": "Physical Geography",
+    "subcategory": "US State Capitals",
     "difficulty": "easy",
-    "question": "World geography quiz: What is the official state capital of California? (Ref #31)",
+    "question": "What is the capital city of Arkansas?",
     "options": [
-      "Los Angeles",
-      "San Francisco",
-      "Sacramento",
-      "San Diego"
+      "Fayetteville",
+      "Fort Smith",
+      "Little Rock",
+      "Springdale"
     ],
     "correctAnswer": 2,
-    "explanation": "Sacramento has been California's capital since 1854, situated at the confluence of the Sacramento and American rivers.",
+    "explanation": "Little Rock is the state capital of Arkansas, located on the Arkansas River.",
     "tags": [
       "geography",
-      "physical-geography",
+      "us-state-capitals",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "geography-nations-territories-0032",
+    "id": "geography-us-state-capitals-0032",
     "category": "Geography",
-    "subcategory": "Nations & Territories",
+    "subcategory": "US State Capitals",
     "difficulty": "medium",
-    "question": "World geography quiz: What is the official state capital of Texas? (Ref #32)",
+    "question": "What is the capital city of Mississippi?",
     "options": [
-      "Houston",
-      "Dallas",
-      "San Antonio",
-      "Austin"
+      "Gulfport",
+      "Biloxi",
+      "Hattiesburg",
+      "Jackson"
     ],
     "correctAnswer": 3,
-    "explanation": "Austin is the state capital of Texas and the seat of Travis County, known as the Live Music Capital of the World.",
+    "explanation": "Jackson is the state capital and largest city in Mississippi.",
     "tags": [
       "geography",
-      "nations-territories",
+      "us-state-capitals",
       "medium"
     ],
     "active": true
@@ -676,15 +676,15 @@
     "category": "Geography",
     "subcategory": "US State Capitals",
     "difficulty": "hard",
-    "question": "World geography quiz: What is the official national capital of Australia? (Ref #33)",
+    "question": "What is the capital city of Kansas?",
     "options": [
-      "Canberra",
-      "Sydney",
-      "Melbourne",
-      "Brisbane"
+      "Topeka",
+      "Wichita",
+      "Overland Park",
+      "Kansas City"
     ],
     "correctAnswer": 0,
-    "explanation": "Canberra was selected as a planned capital city compromise between rivals Sydney and Melbourne in 1908.",
+    "explanation": "Topeka is the state capital of Kansas.",
     "tags": [
       "geography",
       "us-state-capitals",
@@ -693,64 +693,64 @@
     "active": true
   },
   {
-    "id": "geography-world-capitals-0034",
+    "id": "geography-us-state-capitals-0034",
     "category": "Geography",
-    "subcategory": "World Capitals",
+    "subcategory": "US State Capitals",
     "difficulty": "easy",
-    "question": "World geography quiz: What is the official national capital of Canada? (Ref #34)",
+    "question": "What is the capital city of New Mexico?",
     "options": [
-      "Toronto",
-      "Ottawa",
-      "Montreal",
-      "Vancouver"
+      "Albuquerque",
+      "Santa Fe",
+      "Las Cruces",
+      "Rio Rancho"
     ],
     "correctAnswer": 1,
-    "explanation": "Queen Victoria designated Ottawa as the capital of Canada in 1857 due to its strategic location.",
+    "explanation": "Santa Fe is the state capital of New Mexico and the oldest state capital in the US (founded 1610).",
     "tags": [
       "geography",
-      "world-capitals",
+      "us-state-capitals",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "geography-physical-geography-0035",
+    "id": "geography-us-state-capitals-0035",
     "category": "Geography",
-    "subcategory": "Physical Geography",
+    "subcategory": "US State Capitals",
     "difficulty": "medium",
-    "question": "World geography quiz: What is the vastest hot desert on planet Earth, spanning much of North Africa? (Ref #35)",
+    "question": "What is the capital city of Nebraska?",
     "options": [
-      "The Gobi Desert",
-      "The Kalahari Desert",
-      "The Sahara Desert",
-      "The Arabian Desert"
+      "Omaha",
+      "Bellevue",
+      "Lincoln",
+      "Grand Island"
     ],
     "correctAnswer": 2,
-    "explanation": "The Sahara covers approximately 3.5 million square miles, making it the largest non-polar desert on Earth.",
+    "explanation": "Lincoln is the state capital of Nebraska, named in honor of Abraham Lincoln.",
     "tags": [
       "geography",
-      "physical-geography",
+      "us-state-capitals",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "geography-nations-territories-0036",
+    "id": "geography-us-state-capitals-0036",
     "category": "Geography",
-    "subcategory": "Nations & Territories",
+    "subcategory": "US State Capitals",
     "difficulty": "hard",
-    "question": "World geography quiz: What imaginary line of latitude divides the Earth into the Northern and Southern Hemispheres at zero degrees? (Ref #36)",
+    "question": "What is the capital city of West Virginia?",
     "options": [
-      "Prime Meridian",
-      "Tropic of Cancer",
-      "Tropic of Capricorn",
-      "The Equator"
+      "Huntington",
+      "Morgantown",
+      "Parkersburg",
+      "Charleston"
     ],
     "correctAnswer": 3,
-    "explanation": "The Equator is the zero-degree parallel of latitude, measuring approximately 24,901 miles in circumference.",
+    "explanation": "Charleston is the state capital and most populous city in West Virginia.",
     "tags": [
       "geography",
-      "nations-territories",
+      "us-state-capitals",
       "hard"
     ],
     "active": true
@@ -760,15 +760,15 @@
     "category": "Geography",
     "subcategory": "US State Capitals",
     "difficulty": "easy",
-    "question": "World geography quiz: What is the official state capital of California? (Ref #37)",
+    "question": "What is the capital city of Idaho?",
     "options": [
-      "Sacramento",
-      "Los Angeles",
-      "San Francisco",
-      "San Diego"
+      "Boise",
+      "Meridian",
+      "Nampa",
+      "Idaho Falls"
     ],
     "correctAnswer": 0,
-    "explanation": "Sacramento has been California's capital since 1854, situated at the confluence of the Sacramento and American rivers.",
+    "explanation": "Boise is the state capital and largest city in Idaho.",
     "tags": [
       "geography",
       "us-state-capitals",
@@ -777,85 +777,85 @@
     "active": true
   },
   {
-    "id": "geography-world-capitals-0038",
+    "id": "geography-us-state-capitals-0038",
     "category": "Geography",
-    "subcategory": "World Capitals",
+    "subcategory": "US State Capitals",
     "difficulty": "medium",
-    "question": "World geography quiz: What is the official state capital of Texas? (Ref #38)",
+    "question": "What is the capital city of Hawaii?",
     "options": [
-      "Houston",
-      "Austin",
-      "Dallas",
-      "San Antonio"
+      "Hilo",
+      "Honolulu",
+      "Kailua",
+      "Kahului"
     ],
     "correctAnswer": 1,
-    "explanation": "Austin is the state capital of Texas and the seat of Travis County, known as the Live Music Capital of the World.",
+    "explanation": "Honolulu, located on the island of Oahu, is the state capital of Hawaii.",
     "tags": [
       "geography",
-      "world-capitals",
+      "us-state-capitals",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "geography-physical-geography-0039",
+    "id": "geography-us-state-capitals-0039",
     "category": "Geography",
-    "subcategory": "Physical Geography",
+    "subcategory": "US State Capitals",
     "difficulty": "hard",
-    "question": "World geography quiz: What is the official national capital of Australia? (Ref #39)",
+    "question": "What is the capital city of Maine?",
     "options": [
-      "Sydney",
-      "Melbourne",
-      "Canberra",
-      "Brisbane"
+      "Portland",
+      "Bangor",
+      "Augusta",
+      "Lewiston"
     ],
     "correctAnswer": 2,
-    "explanation": "Canberra was selected as a planned capital city compromise between rivals Sydney and Melbourne in 1908.",
+    "explanation": "Augusta is the state capital of Maine, located on the Kennebec River.",
     "tags": [
       "geography",
-      "physical-geography",
+      "us-state-capitals",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "geography-nations-territories-0040",
+    "id": "geography-us-state-capitals-0040",
     "category": "Geography",
-    "subcategory": "Nations & Territories",
+    "subcategory": "US State Capitals",
     "difficulty": "easy",
-    "question": "World geography quiz: What is the official national capital of Canada? (Ref #40)",
+    "question": "What is the capital city of Alaska?",
     "options": [
-      "Toronto",
-      "Montreal",
-      "Vancouver",
-      "Ottawa"
+      "Anchorage",
+      "Fairbanks",
+      "Sitka",
+      "Juneau"
     ],
     "correctAnswer": 3,
-    "explanation": "Queen Victoria designated Ottawa as the capital of Canada in 1857 due to its strategic location.",
+    "explanation": "Juneau is the capital of Alaska, accessible only by boat or aircraft.",
     "tags": [
       "geography",
-      "nations-territories",
+      "us-state-capitals",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "geography-us-state-capitals-0041",
+    "id": "geography-world-capitals-0041",
     "category": "Geography",
-    "subcategory": "US State Capitals",
+    "subcategory": "World Capitals",
     "difficulty": "medium",
-    "question": "World geography quiz: What is the vastest hot desert on planet Earth, spanning much of North Africa? (Ref #41)",
+    "question": "What is the capital city of Australia?",
     "options": [
-      "The Sahara Desert",
-      "The Gobi Desert",
-      "The Kalahari Desert",
-      "The Arabian Desert"
+      "Canberra",
+      "Sydney",
+      "Melbourne",
+      "Brisbane"
     ],
     "correctAnswer": 0,
-    "explanation": "The Sahara covers approximately 3.5 million square miles, making it the largest non-polar desert on Earth.",
+    "explanation": "Canberra was chosen as the federal capital of Australia in 1908 as a compromise between Sydney and Melbourne.",
     "tags": [
       "geography",
-      "us-state-capitals",
+      "world-capitals",
       "medium"
     ],
     "active": true
@@ -865,15 +865,15 @@
     "category": "Geography",
     "subcategory": "World Capitals",
     "difficulty": "hard",
-    "question": "World geography quiz: What imaginary line of latitude divides the Earth into the Northern and Southern Hemispheres at zero degrees? (Ref #42)",
+    "question": "What is the capital city of Canada?",
     "options": [
-      "Prime Meridian",
-      "The Equator",
-      "Tropic of Cancer",
-      "Tropic of Capricorn"
+      "Toronto",
+      "Ottawa",
+      "Montreal",
+      "Vancouver"
     ],
     "correctAnswer": 1,
-    "explanation": "The Equator is the zero-degree parallel of latitude, measuring approximately 24,901 miles in circumference.",
+    "explanation": "Ottawa, situated in Ontario along the border with Quebec, was chosen by Queen Victoria as Canada's capital.",
     "tags": [
       "geography",
       "world-capitals",
@@ -882,64 +882,64 @@
     "active": true
   },
   {
-    "id": "geography-physical-geography-0043",
+    "id": "geography-world-capitals-0043",
     "category": "Geography",
-    "subcategory": "Physical Geography",
+    "subcategory": "World Capitals",
     "difficulty": "easy",
-    "question": "World geography quiz: What is the official state capital of California? (Ref #43)",
+    "question": "What is the capital city of Brazil?",
     "options": [
-      "Los Angeles",
-      "San Francisco",
-      "Sacramento",
-      "San Diego"
+      "Rio de Janeiro",
+      "Sao Paulo",
+      "Brasilia",
+      "Salvador"
     ],
     "correctAnswer": 2,
-    "explanation": "Sacramento has been California's capital since 1854, situated at the confluence of the Sacramento and American rivers.",
+    "explanation": "Brasilia is the planned federal capital of Brazil, inaugurated in 1960 to replace Rio de Janeiro.",
     "tags": [
       "geography",
-      "physical-geography",
+      "world-capitals",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "geography-nations-territories-0044",
+    "id": "geography-world-capitals-0044",
     "category": "Geography",
-    "subcategory": "Nations & Territories",
+    "subcategory": "World Capitals",
     "difficulty": "medium",
-    "question": "World geography quiz: What is the official state capital of Texas? (Ref #44)",
+    "question": "What is the capital city of Japan?",
     "options": [
-      "Houston",
-      "Dallas",
-      "San Antonio",
-      "Austin"
+      "Kyoto",
+      "Osaka",
+      "Yokohama",
+      "Tokyo"
     ],
     "correctAnswer": 3,
-    "explanation": "Austin is the state capital of Texas and the seat of Travis County, known as the Live Music Capital of the World.",
+    "explanation": "Tokyo has been the imperial capital of Japan since the Meiji Restoration in 1868.",
     "tags": [
       "geography",
-      "nations-territories",
+      "world-capitals",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "geography-us-state-capitals-0045",
+    "id": "geography-world-capitals-0045",
     "category": "Geography",
-    "subcategory": "US State Capitals",
+    "subcategory": "World Capitals",
     "difficulty": "hard",
-    "question": "World geography quiz: What is the official national capital of Australia? (Ref #45)",
+    "question": "What is the capital city of Germany?",
     "options": [
-      "Canberra",
-      "Sydney",
-      "Melbourne",
-      "Brisbane"
+      "Berlin",
+      "Munich",
+      "Frankfurt",
+      "Hamburg"
     ],
     "correctAnswer": 0,
-    "explanation": "Canberra was selected as a planned capital city compromise between rivals Sydney and Melbourne in 1908.",
+    "explanation": "Berlin is the capital and largest city of Germany, reunified following the fall of the Berlin Wall.",
     "tags": [
       "geography",
-      "us-state-capitals",
+      "world-capitals",
       "hard"
     ],
     "active": true
@@ -949,15 +949,15 @@
     "category": "Geography",
     "subcategory": "World Capitals",
     "difficulty": "easy",
-    "question": "World geography quiz: What is the official national capital of Canada? (Ref #46)",
+    "question": "What is the capital city of France?",
     "options": [
-      "Toronto",
-      "Ottawa",
-      "Montreal",
-      "Vancouver"
+      "Marseille",
+      "Paris",
+      "Lyon",
+      "Bordeaux"
     ],
     "correctAnswer": 1,
-    "explanation": "Queen Victoria designated Ottawa as the capital of Canada in 1857 due to its strategic location.",
+    "explanation": "Paris, situated on the Seine River, has served as the capital of France for over a millennium.",
     "tags": [
       "geography",
       "world-capitals",
@@ -966,64 +966,64 @@
     "active": true
   },
   {
-    "id": "geography-physical-geography-0047",
+    "id": "geography-world-capitals-0047",
     "category": "Geography",
-    "subcategory": "Physical Geography",
+    "subcategory": "World Capitals",
     "difficulty": "medium",
-    "question": "World geography quiz: What is the vastest hot desert on planet Earth, spanning much of North Africa? (Ref #47)",
+    "question": "What is the capital city of Italy?",
     "options": [
-      "The Gobi Desert",
-      "The Kalahari Desert",
-      "The Sahara Desert",
-      "The Arabian Desert"
+      "Milan",
+      "Florence",
+      "Rome",
+      "Naples"
     ],
     "correctAnswer": 2,
-    "explanation": "The Sahara covers approximately 3.5 million square miles, making it the largest non-polar desert on Earth.",
+    "explanation": "Rome, known as the 'Eternal City', became the capital of unified Italy in 1871.",
     "tags": [
       "geography",
-      "physical-geography",
+      "world-capitals",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "geography-nations-territories-0048",
+    "id": "geography-world-capitals-0048",
     "category": "Geography",
-    "subcategory": "Nations & Territories",
+    "subcategory": "World Capitals",
     "difficulty": "hard",
-    "question": "World geography quiz: What imaginary line of latitude divides the Earth into the Northern and Southern Hemispheres at zero degrees? (Ref #48)",
+    "question": "What is the capital city of the United Kingdom?",
     "options": [
-      "Prime Meridian",
-      "Tropic of Cancer",
-      "Tropic of Capricorn",
-      "The Equator"
+      "Edinburgh",
+      "Manchester",
+      "Birmingham",
+      "London"
     ],
     "correctAnswer": 3,
-    "explanation": "The Equator is the zero-degree parallel of latitude, measuring approximately 24,901 miles in circumference.",
+    "explanation": "London is the capital of the United Kingdom, standing on the River Thames.",
     "tags": [
       "geography",
-      "nations-territories",
+      "world-capitals",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "geography-us-state-capitals-0049",
+    "id": "geography-world-capitals-0049",
     "category": "Geography",
-    "subcategory": "US State Capitals",
+    "subcategory": "World Capitals",
     "difficulty": "easy",
-    "question": "World geography quiz: What is the official state capital of California? (Ref #49)",
+    "question": "What is the capital city of Spain?",
     "options": [
-      "Sacramento",
-      "Los Angeles",
-      "San Francisco",
-      "San Diego"
+      "Madrid",
+      "Barcelona",
+      "Seville",
+      "Valencia"
     ],
     "correctAnswer": 0,
-    "explanation": "Sacramento has been California's capital since 1854, situated at the confluence of the Sacramento and American rivers.",
+    "explanation": "Madrid, located in the geographic center of the Iberian Peninsula, is Spain's capital.",
     "tags": [
       "geography",
-      "us-state-capitals",
+      "world-capitals",
       "easy"
     ],
     "active": true
@@ -1033,15 +1033,15 @@
     "category": "Geography",
     "subcategory": "World Capitals",
     "difficulty": "medium",
-    "question": "World geography quiz: What is the official state capital of Texas? (Ref #50)",
+    "question": "What is the capital city of China?",
     "options": [
-      "Houston",
-      "Austin",
-      "Dallas",
-      "San Antonio"
+      "Shanghai",
+      "Beijing",
+      "Guangzhou",
+      "Hong Kong"
     ],
     "correctAnswer": 1,
-    "explanation": "Austin is the state capital of Texas and the seat of Travis County, known as the Live Music Capital of the World.",
+    "explanation": "Beijing is the historic and political capital of the People's Republic of China.",
     "tags": [
       "geography",
       "world-capitals",
@@ -1050,64 +1050,64 @@
     "active": true
   },
   {
-    "id": "geography-physical-geography-0051",
+    "id": "geography-world-capitals-0051",
     "category": "Geography",
-    "subcategory": "Physical Geography",
+    "subcategory": "World Capitals",
     "difficulty": "hard",
-    "question": "World geography quiz: What is the official national capital of Australia? (Ref #51)",
+    "question": "What is the capital city of India?",
     "options": [
-      "Sydney",
-      "Melbourne",
-      "Canberra",
-      "Brisbane"
+      "Mumbai",
+      "Kolkata",
+      "New Delhi",
+      "Bengaluru"
     ],
     "correctAnswer": 2,
-    "explanation": "Canberra was selected as a planned capital city compromise between rivals Sydney and Melbourne in 1908.",
+    "explanation": "New Delhi was inaugurated as the capital of India in 1931, replacing Calcutta.",
     "tags": [
       "geography",
-      "physical-geography",
+      "world-capitals",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "geography-nations-territories-0052",
+    "id": "geography-world-capitals-0052",
     "category": "Geography",
-    "subcategory": "Nations & Territories",
+    "subcategory": "World Capitals",
     "difficulty": "easy",
-    "question": "World geography quiz: What is the official national capital of Canada? (Ref #52)",
+    "question": "What is the capital city of Russia?",
     "options": [
-      "Toronto",
-      "Montreal",
-      "Vancouver",
-      "Ottawa"
+      "Saint Petersburg",
+      "Novosibirsk",
+      "Kazan",
+      "Moscow"
     ],
     "correctAnswer": 3,
-    "explanation": "Queen Victoria designated Ottawa as the capital of Canada in 1857 due to its strategic location.",
+    "explanation": "Moscow is the capital and largest metropolis of Russia.",
     "tags": [
       "geography",
-      "nations-territories",
+      "world-capitals",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "geography-us-state-capitals-0053",
+    "id": "geography-world-capitals-0053",
     "category": "Geography",
-    "subcategory": "US State Capitals",
+    "subcategory": "World Capitals",
     "difficulty": "medium",
-    "question": "World geography quiz: What is the vastest hot desert on planet Earth, spanning much of North Africa? (Ref #53)",
+    "question": "What is the capital city of South Africa's executive branch?",
     "options": [
-      "The Sahara Desert",
-      "The Gobi Desert",
-      "The Kalahari Desert",
-      "The Arabian Desert"
+      "Pretoria",
+      "Cape Town",
+      "Bloemfontein",
+      "Johannesburg"
     ],
     "correctAnswer": 0,
-    "explanation": "The Sahara covers approximately 3.5 million square miles, making it the largest non-polar desert on Earth.",
+    "explanation": "South Africa has three capital cities: Pretoria (executive), Cape Town (legislative), and Bloemfontein (judicial).",
     "tags": [
       "geography",
-      "us-state-capitals",
+      "world-capitals",
       "medium"
     ],
     "active": true
@@ -1117,15 +1117,15 @@
     "category": "Geography",
     "subcategory": "World Capitals",
     "difficulty": "hard",
-    "question": "World geography quiz: What imaginary line of latitude divides the Earth into the Northern and Southern Hemispheres at zero degrees? (Ref #54)",
+    "question": "What is the capital city of South Korea?",
     "options": [
-      "Prime Meridian",
-      "The Equator",
-      "Tropic of Cancer",
-      "Tropic of Capricorn"
+      "Busan",
+      "Seoul",
+      "Incheon",
+      "Daegu"
     ],
     "correctAnswer": 1,
-    "explanation": "The Equator is the zero-degree parallel of latitude, measuring approximately 24,901 miles in circumference.",
+    "explanation": "Seoul has been the historic capital of Korea for over 600 years.",
     "tags": [
       "geography",
       "world-capitals",
@@ -1134,64 +1134,64 @@
     "active": true
   },
   {
-    "id": "geography-physical-geography-0055",
+    "id": "geography-world-capitals-0055",
     "category": "Geography",
-    "subcategory": "Physical Geography",
+    "subcategory": "World Capitals",
     "difficulty": "easy",
-    "question": "World geography quiz: What is the official state capital of California? (Ref #55)",
+    "question": "What is the capital city of Egypt?",
     "options": [
-      "Los Angeles",
-      "San Francisco",
-      "Sacramento",
-      "San Diego"
+      "Alexandria",
+      "Giza",
+      "Cairo",
+      "Luxor"
     ],
     "correctAnswer": 2,
-    "explanation": "Sacramento has been California's capital since 1854, situated at the confluence of the Sacramento and American rivers.",
+    "explanation": "Cairo is the capital of Egypt and the largest metropolitan area in the Arab world.",
     "tags": [
       "geography",
-      "physical-geography",
+      "world-capitals",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "geography-nations-territories-0056",
+    "id": "geography-world-capitals-0056",
     "category": "Geography",
-    "subcategory": "Nations & Territories",
+    "subcategory": "World Capitals",
     "difficulty": "medium",
-    "question": "World geography quiz: What is the official state capital of Texas? (Ref #56)",
+    "question": "What is the capital city of Argentina?",
     "options": [
-      "Houston",
-      "Dallas",
-      "San Antonio",
-      "Austin"
+      "Cordoba",
+      "Rosario",
+      "Mendoza",
+      "Buenos Aires"
     ],
     "correctAnswer": 3,
-    "explanation": "Austin is the state capital of Texas and the seat of Travis County, known as the Live Music Capital of the World.",
+    "explanation": "Buenos Aires, situated on the Rio de la Plata estuary, is the capital of Argentina.",
     "tags": [
       "geography",
-      "nations-territories",
+      "world-capitals",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "geography-us-state-capitals-0057",
+    "id": "geography-world-capitals-0057",
     "category": "Geography",
-    "subcategory": "US State Capitals",
+    "subcategory": "World Capitals",
     "difficulty": "hard",
-    "question": "World geography quiz: What is the official national capital of Australia? (Ref #57)",
+    "question": "What is the capital city of Turkey?",
     "options": [
-      "Canberra",
-      "Sydney",
-      "Melbourne",
-      "Brisbane"
+      "Ankara",
+      "Istanbul",
+      "Izmir",
+      "Antalya"
     ],
     "correctAnswer": 0,
-    "explanation": "Canberra was selected as a planned capital city compromise between rivals Sydney and Melbourne in 1908.",
+    "explanation": "Ankara became the capital of modern Turkey in 1923 under Mustafa Kemal Ataturk, replacing Istanbul.",
     "tags": [
       "geography",
-      "us-state-capitals",
+      "world-capitals",
       "hard"
     ],
     "active": true
@@ -1201,15 +1201,15 @@
     "category": "Geography",
     "subcategory": "World Capitals",
     "difficulty": "easy",
-    "question": "World geography quiz: What is the official national capital of Canada? (Ref #58)",
+    "question": "What is the capital city of Mexico?",
     "options": [
-      "Toronto",
-      "Ottawa",
-      "Montreal",
-      "Vancouver"
+      "Guadalajara",
+      "Mexico City",
+      "Monterrey",
+      "Cancun"
     ],
     "correctAnswer": 1,
-    "explanation": "Queen Victoria designated Ottawa as the capital of Canada in 1857 due to its strategic location.",
+    "explanation": "Mexico City, built on the historic ruins of the Aztec capital Tenochtitlan, is Mexico's capital.",
     "tags": [
       "geography",
       "world-capitals",
@@ -1218,64 +1218,64 @@
     "active": true
   },
   {
-    "id": "geography-physical-geography-0059",
+    "id": "geography-world-capitals-0059",
     "category": "Geography",
-    "subcategory": "Physical Geography",
+    "subcategory": "World Capitals",
     "difficulty": "medium",
-    "question": "World geography quiz: What is the vastest hot desert on planet Earth, spanning much of North Africa? (Ref #59)",
+    "question": "What is the capital city of Saudi Arabia?",
     "options": [
-      "The Gobi Desert",
-      "The Kalahari Desert",
-      "The Sahara Desert",
-      "The Arabian Desert"
+      "Jeddah",
+      "Mecca",
+      "Riyadh",
+      "Medina"
     ],
     "correctAnswer": 2,
-    "explanation": "The Sahara covers approximately 3.5 million square miles, making it the largest non-polar desert on Earth.",
+    "explanation": "Riyadh is the capital and financial hub of the Kingdom of Saudi Arabia.",
     "tags": [
       "geography",
-      "physical-geography",
+      "world-capitals",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "geography-nations-territories-0060",
+    "id": "geography-world-capitals-0060",
     "category": "Geography",
-    "subcategory": "Nations & Territories",
+    "subcategory": "World Capitals",
     "difficulty": "hard",
-    "question": "World geography quiz: What imaginary line of latitude divides the Earth into the Northern and Southern Hemispheres at zero degrees? (Ref #60)",
+    "question": "What is the capital city of Thailand?",
     "options": [
-      "Prime Meridian",
-      "Tropic of Cancer",
-      "Tropic of Capricorn",
-      "The Equator"
+      "Chiang Mai",
+      "Phuket",
+      "Pattaya",
+      "Bangkok"
     ],
     "correctAnswer": 3,
-    "explanation": "The Equator is the zero-degree parallel of latitude, measuring approximately 24,901 miles in circumference.",
+    "explanation": "Bangkok is the vibrant capital city of the Kingdom of Thailand.",
     "tags": [
       "geography",
-      "nations-territories",
+      "world-capitals",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "geography-us-state-capitals-0061",
+    "id": "geography-world-capitals-0061",
     "category": "Geography",
-    "subcategory": "US State Capitals",
+    "subcategory": "World Capitals",
     "difficulty": "easy",
-    "question": "World geography quiz: What is the official state capital of California? (Ref #61)",
+    "question": "What is the capital city of Poland?",
     "options": [
-      "Sacramento",
-      "Los Angeles",
-      "San Francisco",
-      "San Diego"
+      "Warsaw",
+      "Krakow",
+      "Gdansk",
+      "Wroclaw"
     ],
     "correctAnswer": 0,
-    "explanation": "Sacramento has been California's capital since 1854, situated at the confluence of the Sacramento and American rivers.",
+    "explanation": "Warsaw, located on the Vistula River, is the capital of Poland.",
     "tags": [
       "geography",
-      "us-state-capitals",
+      "world-capitals",
       "easy"
     ],
     "active": true
@@ -1285,15 +1285,15 @@
     "category": "Geography",
     "subcategory": "World Capitals",
     "difficulty": "medium",
-    "question": "World geography quiz: What is the official state capital of Texas? (Ref #62)",
+    "question": "What is the capital city of Sweden?",
     "options": [
-      "Houston",
-      "Austin",
-      "Dallas",
-      "San Antonio"
+      "Gothenburg",
+      "Stockholm",
+      "Malmo",
+      "Uppsala"
     ],
     "correctAnswer": 1,
-    "explanation": "Austin is the state capital of Texas and the seat of Travis County, known as the Live Music Capital of the World.",
+    "explanation": "Stockholm, built across 14 islands on Lake Malaren, is Sweden's capital.",
     "tags": [
       "geography",
       "world-capitals",
@@ -1302,64 +1302,64 @@
     "active": true
   },
   {
-    "id": "geography-physical-geography-0063",
+    "id": "geography-world-capitals-0063",
     "category": "Geography",
-    "subcategory": "Physical Geography",
+    "subcategory": "World Capitals",
     "difficulty": "hard",
-    "question": "World geography quiz: What is the official national capital of Australia? (Ref #63)",
+    "question": "What is the capital city of Norway?",
     "options": [
-      "Sydney",
-      "Melbourne",
-      "Canberra",
-      "Brisbane"
+      "Bergen",
+      "Trondheim",
+      "Oslo",
+      "Stavanger"
     ],
     "correctAnswer": 2,
-    "explanation": "Canberra was selected as a planned capital city compromise between rivals Sydney and Melbourne in 1908.",
+    "explanation": "Oslo, situated at the head of the Oslofjord, is the capital of Norway.",
     "tags": [
       "geography",
-      "physical-geography",
+      "world-capitals",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "geography-nations-territories-0064",
+    "id": "geography-world-capitals-0064",
     "category": "Geography",
-    "subcategory": "Nations & Territories",
+    "subcategory": "World Capitals",
     "difficulty": "easy",
-    "question": "World geography quiz: What is the official national capital of Canada? (Ref #64)",
+    "question": "What is the capital city of Greece?",
     "options": [
-      "Toronto",
-      "Montreal",
-      "Vancouver",
-      "Ottawa"
+      "Thessaloniki",
+      "Patras",
+      "Heraklion",
+      "Athens"
     ],
     "correctAnswer": 3,
-    "explanation": "Queen Victoria designated Ottawa as the capital of Canada in 1857 due to its strategic location.",
+    "explanation": "Athens is the historic cradle of Western civilization and the capital of Greece.",
     "tags": [
       "geography",
-      "nations-territories",
+      "world-capitals",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "geography-us-state-capitals-0065",
+    "id": "geography-world-capitals-0065",
     "category": "Geography",
-    "subcategory": "US State Capitals",
+    "subcategory": "World Capitals",
     "difficulty": "medium",
-    "question": "World geography quiz: What is the vastest hot desert on planet Earth, spanning much of North Africa? (Ref #65)",
+    "question": "What is the capital city of Portugal?",
     "options": [
-      "The Sahara Desert",
-      "The Gobi Desert",
-      "The Kalahari Desert",
-      "The Arabian Desert"
+      "Lisbon",
+      "Porto",
+      "Coimbra",
+      "Faro"
     ],
     "correctAnswer": 0,
-    "explanation": "The Sahara covers approximately 3.5 million square miles, making it the largest non-polar desert on Earth.",
+    "explanation": "Lisbon, situated at the mouth of the Tagus River, is the capital of Portugal.",
     "tags": [
       "geography",
-      "us-state-capitals",
+      "world-capitals",
       "medium"
     ],
     "active": true
@@ -1369,15 +1369,15 @@
     "category": "Geography",
     "subcategory": "World Capitals",
     "difficulty": "hard",
-    "question": "World geography quiz: What imaginary line of latitude divides the Earth into the Northern and Southern Hemispheres at zero degrees? (Ref #66)",
+    "question": "What is the capital city of the Netherlands?",
     "options": [
-      "Prime Meridian",
-      "The Equator",
-      "Tropic of Cancer",
-      "Tropic of Capricorn"
+      "The Hague",
+      "Amsterdam",
+      "Rotterdam",
+      "Utrecht"
     ],
     "correctAnswer": 1,
-    "explanation": "The Equator is the zero-degree parallel of latitude, measuring approximately 24,901 miles in circumference.",
+    "explanation": "Amsterdam is the constitutional capital of the Netherlands, though the government sits in The Hague.",
     "tags": [
       "geography",
       "world-capitals",
@@ -1386,64 +1386,64 @@
     "active": true
   },
   {
-    "id": "geography-physical-geography-0067",
+    "id": "geography-world-capitals-0067",
     "category": "Geography",
-    "subcategory": "Physical Geography",
+    "subcategory": "World Capitals",
     "difficulty": "easy",
-    "question": "World geography quiz: What is the official state capital of California? (Ref #67)",
+    "question": "What is the capital city of Switzerland?",
     "options": [
-      "Los Angeles",
-      "San Francisco",
-      "Sacramento",
-      "San Diego"
+      "Zurich",
+      "Geneva",
+      "Bern",
+      "Basel"
     ],
     "correctAnswer": 2,
-    "explanation": "Sacramento has been California's capital since 1854, situated at the confluence of the Sacramento and American rivers.",
+    "explanation": "Bern serves as the federal city and de facto capital of the Swiss Confederation.",
     "tags": [
       "geography",
-      "physical-geography",
+      "world-capitals",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "geography-nations-territories-0068",
+    "id": "geography-world-capitals-0068",
     "category": "Geography",
-    "subcategory": "Nations & Territories",
+    "subcategory": "World Capitals",
     "difficulty": "medium",
-    "question": "World geography quiz: What is the official state capital of Texas? (Ref #68)",
+    "question": "What is the capital city of Austria?",
     "options": [
-      "Houston",
-      "Dallas",
-      "San Antonio",
-      "Austin"
+      "Salzburg",
+      "Innsbruck",
+      "Graz",
+      "Vienna"
     ],
     "correctAnswer": 3,
-    "explanation": "Austin is the state capital of Texas and the seat of Travis County, known as the Live Music Capital of the World.",
+    "explanation": "Vienna, located on the Danube River, is the cultural and political capital of Austria.",
     "tags": [
       "geography",
-      "nations-territories",
+      "world-capitals",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "geography-us-state-capitals-0069",
+    "id": "geography-world-capitals-0069",
     "category": "Geography",
-    "subcategory": "US State Capitals",
+    "subcategory": "World Capitals",
     "difficulty": "hard",
-    "question": "World geography quiz: What is the official national capital of Australia? (Ref #69)",
+    "question": "What is the capital city of Ireland?",
     "options": [
-      "Canberra",
-      "Sydney",
-      "Melbourne",
-      "Brisbane"
+      "Dublin",
+      "Cork",
+      "Galway",
+      "Limerick"
     ],
     "correctAnswer": 0,
-    "explanation": "Canberra was selected as a planned capital city compromise between rivals Sydney and Melbourne in 1908.",
+    "explanation": "Dublin, situated on the east coast at the mouth of the River Liffey, is the capital of Ireland.",
     "tags": [
       "geography",
-      "us-state-capitals",
+      "world-capitals",
       "hard"
     ],
     "active": true
@@ -1453,15 +1453,15 @@
     "category": "Geography",
     "subcategory": "World Capitals",
     "difficulty": "easy",
-    "question": "World geography quiz: What is the official national capital of Canada? (Ref #70)",
+    "question": "What is the capital city of New Zealand?",
     "options": [
-      "Toronto",
-      "Ottawa",
-      "Montreal",
-      "Vancouver"
+      "Auckland",
+      "Wellington",
+      "Christchurch",
+      "Queenstown"
     ],
     "correctAnswer": 1,
-    "explanation": "Queen Victoria designated Ottawa as the capital of Canada in 1857 due to its strategic location.",
+    "explanation": "Wellington is the southernmost national capital city in the world.",
     "tags": [
       "geography",
       "world-capitals",
@@ -1470,64 +1470,64 @@
     "active": true
   },
   {
-    "id": "geography-physical-geography-0071",
+    "id": "geography-world-capitals-0071",
     "category": "Geography",
-    "subcategory": "Physical Geography",
+    "subcategory": "World Capitals",
     "difficulty": "medium",
-    "question": "World geography quiz: What is the vastest hot desert on planet Earth, spanning much of North Africa? (Ref #71)",
+    "question": "What is the capital city of Colombia?",
     "options": [
-      "The Gobi Desert",
-      "The Kalahari Desert",
-      "The Sahara Desert",
-      "The Arabian Desert"
+      "Medellin",
+      "Cali",
+      "Bogota",
+      "Cartagena"
     ],
     "correctAnswer": 2,
-    "explanation": "The Sahara covers approximately 3.5 million square miles, making it the largest non-polar desert on Earth.",
+    "explanation": "Bogota, situated in the high Andes plateau at 2,640 meters altitude, is Colombia's capital.",
     "tags": [
       "geography",
-      "physical-geography",
+      "world-capitals",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "geography-nations-territories-0072",
+    "id": "geography-world-capitals-0072",
     "category": "Geography",
-    "subcategory": "Nations & Territories",
+    "subcategory": "World Capitals",
     "difficulty": "hard",
-    "question": "World geography quiz: What imaginary line of latitude divides the Earth into the Northern and Southern Hemispheres at zero degrees? (Ref #72)",
+    "question": "What is the capital city of Peru?",
     "options": [
-      "Prime Meridian",
-      "Tropic of Cancer",
-      "Tropic of Capricorn",
-      "The Equator"
+      "Cusco",
+      "Arequipa",
+      "Trujillo",
+      "Lima"
     ],
     "correctAnswer": 3,
-    "explanation": "The Equator is the zero-degree parallel of latitude, measuring approximately 24,901 miles in circumference.",
+    "explanation": "Lima, founded by Francisco Pizarro in 1535 on the Pacific coast, is Peru's capital.",
     "tags": [
       "geography",
-      "nations-territories",
+      "world-capitals",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "geography-us-state-capitals-0073",
+    "id": "geography-world-capitals-0073",
     "category": "Geography",
-    "subcategory": "US State Capitals",
+    "subcategory": "World Capitals",
     "difficulty": "easy",
-    "question": "World geography quiz: What is the official state capital of California? (Ref #73)",
+    "question": "What is the capital city of Chile?",
     "options": [
-      "Sacramento",
-      "Los Angeles",
-      "San Francisco",
-      "San Diego"
+      "Santiago",
+      "Valparaiso",
+      "Concepcion",
+      "Antofagasta"
     ],
     "correctAnswer": 0,
-    "explanation": "Sacramento has been California's capital since 1854, situated at the confluence of the Sacramento and American rivers.",
+    "explanation": "Santiago, framed by the snow-capped Andes mountains, is Chile's capital.",
     "tags": [
       "geography",
-      "us-state-capitals",
+      "world-capitals",
       "easy"
     ],
     "active": true
@@ -1537,15 +1537,15 @@
     "category": "Geography",
     "subcategory": "World Capitals",
     "difficulty": "medium",
-    "question": "World geography quiz: What is the official state capital of Texas? (Ref #74)",
+    "question": "What is the capital city of Kenya?",
     "options": [
-      "Houston",
-      "Austin",
-      "Dallas",
-      "San Antonio"
+      "Mombasa",
+      "Nairobi",
+      "Kisumu",
+      "Nakuru"
     ],
     "correctAnswer": 1,
-    "explanation": "Austin is the state capital of Texas and the seat of Travis County, known as the Live Music Capital of the World.",
+    "explanation": "Nairobi is the capital and major economic hub of Kenya in East Africa.",
     "tags": [
       "geography",
       "world-capitals",
@@ -1554,64 +1554,64 @@
     "active": true
   },
   {
-    "id": "geography-physical-geography-0075",
+    "id": "geography-world-capitals-0075",
     "category": "Geography",
-    "subcategory": "Physical Geography",
+    "subcategory": "World Capitals",
     "difficulty": "hard",
-    "question": "World geography quiz: What is the official national capital of Australia? (Ref #75)",
+    "question": "What is the capital city of Nigeria?",
     "options": [
-      "Sydney",
-      "Melbourne",
-      "Canberra",
-      "Brisbane"
+      "Lagos",
+      "Kano",
+      "Abuja",
+      "Ibadan"
     ],
     "correctAnswer": 2,
-    "explanation": "Canberra was selected as a planned capital city compromise between rivals Sydney and Melbourne in 1908.",
+    "explanation": "Abuja was built as a planned federal capital in the center of Nigeria, replacing coastal Lagos in 1991.",
     "tags": [
       "geography",
-      "physical-geography",
+      "world-capitals",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "geography-nations-territories-0076",
+    "id": "geography-world-capitals-0076",
     "category": "Geography",
-    "subcategory": "Nations & Territories",
+    "subcategory": "World Capitals",
     "difficulty": "easy",
-    "question": "World geography quiz: What is the official national capital of Canada? (Ref #76)",
+    "question": "What is the capital city of Vietnam?",
     "options": [
-      "Toronto",
-      "Montreal",
-      "Vancouver",
-      "Ottawa"
+      "Ho Chi Minh City",
+      "Da Nang",
+      "Hai Phong",
+      "Hanoi"
     ],
     "correctAnswer": 3,
-    "explanation": "Queen Victoria designated Ottawa as the capital of Canada in 1857 due to its strategic location.",
+    "explanation": "Hanoi, located on the Red River, is the capital of Vietnam.",
     "tags": [
       "geography",
-      "nations-territories",
+      "world-capitals",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "geography-us-state-capitals-0077",
+    "id": "geography-world-capitals-0077",
     "category": "Geography",
-    "subcategory": "US State Capitals",
+    "subcategory": "World Capitals",
     "difficulty": "medium",
-    "question": "World geography quiz: What is the vastest hot desert on planet Earth, spanning much of North Africa? (Ref #77)",
+    "question": "What is the capital city of the Philippines?",
     "options": [
-      "The Sahara Desert",
-      "The Gobi Desert",
-      "The Kalahari Desert",
-      "The Arabian Desert"
+      "Manila",
+      "Cebu City",
+      "Davao City",
+      "Quezon City"
     ],
     "correctAnswer": 0,
-    "explanation": "The Sahara covers approximately 3.5 million square miles, making it the largest non-polar desert on Earth.",
+    "explanation": "Manila, located on Manila Bay on the island of Luzon, is the capital of the Philippines.",
     "tags": [
       "geography",
-      "us-state-capitals",
+      "world-capitals",
       "medium"
     ],
     "active": true
@@ -1621,15 +1621,15 @@
     "category": "Geography",
     "subcategory": "World Capitals",
     "difficulty": "hard",
-    "question": "World geography quiz: What imaginary line of latitude divides the Earth into the Northern and Southern Hemispheres at zero degrees? (Ref #78)",
+    "question": "What is the capital city of Indonesia?",
     "options": [
-      "Prime Meridian",
-      "The Equator",
-      "Tropic of Cancer",
-      "Tropic of Capricorn"
+      "Surabaya",
+      "Jakarta",
+      "Bandung",
+      "Medan"
     ],
     "correctAnswer": 1,
-    "explanation": "The Equator is the zero-degree parallel of latitude, measuring approximately 24,901 miles in circumference.",
+    "explanation": "Jakarta, located on the northwest coast of Java, is the historic capital of Indonesia.",
     "tags": [
       "geography",
       "world-capitals",
@@ -1638,85 +1638,85 @@
     "active": true
   },
   {
-    "id": "geography-physical-geography-0079",
+    "id": "geography-world-capitals-0079",
     "category": "Geography",
-    "subcategory": "Physical Geography",
+    "subcategory": "World Capitals",
     "difficulty": "easy",
-    "question": "World geography quiz: What is the official state capital of California? (Ref #79)",
+    "question": "What is the capital city of Morocco?",
     "options": [
-      "Los Angeles",
-      "San Francisco",
-      "Sacramento",
-      "San Diego"
+      "Casablanca",
+      "Marrakech",
+      "Rabat",
+      "Fes"
     ],
     "correctAnswer": 2,
-    "explanation": "Sacramento has been California's capital since 1854, situated at the confluence of the Sacramento and American rivers.",
+    "explanation": "Rabat, located on the Atlantic coast, is the administrative capital of Morocco.",
     "tags": [
       "geography",
-      "physical-geography",
+      "world-capitals",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "geography-nations-territories-0080",
+    "id": "geography-world-capitals-0080",
     "category": "Geography",
-    "subcategory": "Nations & Territories",
+    "subcategory": "World Capitals",
     "difficulty": "medium",
-    "question": "World geography quiz: What is the official state capital of Texas? (Ref #80)",
+    "question": "What is the capital city of Finland?",
     "options": [
-      "Houston",
-      "Dallas",
-      "San Antonio",
-      "Austin"
+      "Espoo",
+      "Tampere",
+      "Turku",
+      "Helsinki"
     ],
     "correctAnswer": 3,
-    "explanation": "Austin is the state capital of Texas and the seat of Travis County, known as the Live Music Capital of the World.",
+    "explanation": "Helsinki, situated on the Gulf of Finland, is the capital of Finland.",
     "tags": [
       "geography",
-      "nations-territories",
+      "world-capitals",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "geography-us-state-capitals-0081",
+    "id": "geography-physical-geography-0081",
     "category": "Geography",
-    "subcategory": "US State Capitals",
+    "subcategory": "Physical Geography",
     "difficulty": "hard",
-    "question": "World geography quiz: What is the official national capital of Australia? (Ref #81)",
+    "question": "What is the deepest known location in Earth's oceans?",
     "options": [
-      "Canberra",
-      "Sydney",
-      "Melbourne",
-      "Brisbane"
+      "Challenger Deep in the Mariana Trench",
+      "Puerto Rico Trench",
+      "Java Trench",
+      "Tonga Trench"
     ],
     "correctAnswer": 0,
-    "explanation": "Canberra was selected as a planned capital city compromise between rivals Sydney and Melbourne in 1908.",
+    "explanation": "Challenger Deep in the Mariana Trench descends to approximately 36,000 feet (11,000 meters) below sea level.",
     "tags": [
       "geography",
-      "us-state-capitals",
+      "physical-geography",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "geography-world-capitals-0082",
+    "id": "geography-physical-geography-0082",
     "category": "Geography",
-    "subcategory": "World Capitals",
+    "subcategory": "Physical Geography",
     "difficulty": "easy",
-    "question": "World geography quiz: What is the official national capital of Canada? (Ref #82)",
+    "question": "What is the longest river in the world by traditional geographical measurement?",
     "options": [
-      "Toronto",
-      "Ottawa",
-      "Montreal",
-      "Vancouver"
+      "The Amazon River",
+      "The Nile River",
+      "The Yangtze River",
+      "The Mississippi River"
     ],
     "correctAnswer": 1,
-    "explanation": "Queen Victoria designated Ottawa as the capital of Canada in 1857 due to its strategic location.",
+    "explanation": "The Nile River in northeastern Africa flows approximately 6,650 kilometers (4,130 miles).",
     "tags": [
       "geography",
-      "world-capitals",
+      "physical-geography",
       "easy"
     ],
     "active": true
@@ -1726,15 +1726,15 @@
     "category": "Geography",
     "subcategory": "Physical Geography",
     "difficulty": "medium",
-    "question": "World geography quiz: What is the vastest hot desert on planet Earth, spanning much of North Africa? (Ref #83)",
+    "question": "Which river discharges the largest volume of freshwater into the oceans on Earth?",
     "options": [
-      "The Gobi Desert",
-      "The Kalahari Desert",
-      "The Sahara Desert",
-      "The Arabian Desert"
+      "The Congo River",
+      "The Ganges River",
+      "The Amazon River",
+      "The Mississippi River"
     ],
     "correctAnswer": 2,
-    "explanation": "The Sahara covers approximately 3.5 million square miles, making it the largest non-polar desert on Earth.",
+    "explanation": "The Amazon River accounts for approximately 20% of the world's total river flow into oceans.",
     "tags": [
       "geography",
       "physical-geography",
@@ -1743,64 +1743,64 @@
     "active": true
   },
   {
-    "id": "geography-nations-territories-0084",
+    "id": "geography-physical-geography-0084",
     "category": "Geography",
-    "subcategory": "Nations & Territories",
+    "subcategory": "Physical Geography",
     "difficulty": "hard",
-    "question": "World geography quiz: What imaginary line of latitude divides the Earth into the Northern and Southern Hemispheres at zero degrees? (Ref #84)",
+    "question": "What is the highest mountain peak above sea level on Earth?",
     "options": [
-      "Prime Meridian",
-      "Tropic of Cancer",
-      "Tropic of Capricorn",
-      "The Equator"
+      "K2",
+      "Kangchenjunga",
+      "Lhotse",
+      "Mount Everest"
     ],
     "correctAnswer": 3,
-    "explanation": "The Equator is the zero-degree parallel of latitude, measuring approximately 24,901 miles in circumference.",
+    "explanation": "Mount Everest stands at 8,848.86 meters (29,031.7 feet) on the border of Nepal and China.",
     "tags": [
       "geography",
-      "nations-territories",
+      "physical-geography",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "geography-us-state-capitals-0085",
+    "id": "geography-physical-geography-0085",
     "category": "Geography",
-    "subcategory": "US State Capitals",
+    "subcategory": "Physical Geography",
     "difficulty": "easy",
-    "question": "World geography quiz: What is the official state capital of California? (Ref #85)",
+    "question": "What is the largest hot desert on Earth by surface area?",
     "options": [
-      "Sacramento",
-      "Los Angeles",
-      "San Francisco",
-      "San Diego"
+      "The Sahara Desert",
+      "The Arabian Desert",
+      "The Gobi Desert",
+      "The Kalahari Desert"
     ],
     "correctAnswer": 0,
-    "explanation": "Sacramento has been California's capital since 1854, situated at the confluence of the Sacramento and American rivers.",
+    "explanation": "The Sahara Desert in North Africa spans over 9.2 million square kilometers.",
     "tags": [
       "geography",
-      "us-state-capitals",
+      "physical-geography",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "geography-world-capitals-0086",
+    "id": "geography-physical-geography-0086",
     "category": "Geography",
-    "subcategory": "World Capitals",
+    "subcategory": "Physical Geography",
     "difficulty": "medium",
-    "question": "World geography quiz: What is the official state capital of Texas? (Ref #86)",
+    "question": "What is the largest desert overall on planet Earth?",
     "options": [
-      "Houston",
-      "Austin",
-      "Dallas",
-      "San Antonio"
+      "The Arctic Desert",
+      "The Antarctic Desert",
+      "The Sahara Desert",
+      "The Australian Desert"
     ],
     "correctAnswer": 1,
-    "explanation": "Austin is the state capital of Texas and the seat of Travis County, known as the Live Music Capital of the World.",
+    "explanation": "A desert is defined by low precipitation; the Antarctic ice sheet is the largest desert on Earth (14 million sq km).",
     "tags": [
       "geography",
-      "world-capitals",
+      "physical-geography",
       "medium"
     ],
     "active": true
@@ -1810,15 +1810,15 @@
     "category": "Geography",
     "subcategory": "Physical Geography",
     "difficulty": "hard",
-    "question": "World geography quiz: What is the official national capital of Australia? (Ref #87)",
+    "question": "Which lake is the largest freshwater lake by surface area in the world?",
     "options": [
-      "Sydney",
-      "Melbourne",
-      "Canberra",
-      "Brisbane"
+      "Lake Victoria",
+      "Lake Huron",
+      "Lake Superior",
+      "Lake Michigan"
     ],
     "correctAnswer": 2,
-    "explanation": "Canberra was selected as a planned capital city compromise between rivals Sydney and Melbourne in 1908.",
+    "explanation": "Lake Superior in North America covers approximately 82,100 square kilometers.",
     "tags": [
       "geography",
       "physical-geography",
@@ -1827,64 +1827,64 @@
     "active": true
   },
   {
-    "id": "geography-nations-territories-0088",
+    "id": "geography-physical-geography-0088",
     "category": "Geography",
-    "subcategory": "Nations & Territories",
+    "subcategory": "Physical Geography",
     "difficulty": "easy",
-    "question": "World geography quiz: What is the official national capital of Canada? (Ref #88)",
+    "question": "Which lake is the deepest and most voluminous freshwater lake on Earth?",
     "options": [
-      "Toronto",
-      "Montreal",
-      "Vancouver",
-      "Ottawa"
+      "Lake Tanganyika",
+      "Lake Superior",
+      "Caspian Sea",
+      "Lake Baikal"
     ],
     "correctAnswer": 3,
-    "explanation": "Queen Victoria designated Ottawa as the capital of Canada in 1857 due to its strategic location.",
+    "explanation": "Lake Baikal in Siberia holds over 20% of Earth's unfrozen surface freshwater and reaches 1,642 meters depth.",
     "tags": [
       "geography",
-      "nations-territories",
+      "physical-geography",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "geography-us-state-capitals-0089",
+    "id": "geography-physical-geography-0089",
     "category": "Geography",
-    "subcategory": "US State Capitals",
+    "subcategory": "Physical Geography",
     "difficulty": "medium",
-    "question": "World geography quiz: What is the vastest hot desert on planet Earth, spanning much of North Africa? (Ref #89)",
+    "question": "What is the largest enclosed inland body of water by surface area on Earth?",
     "options": [
-      "The Sahara Desert",
-      "The Gobi Desert",
-      "The Kalahari Desert",
-      "The Arabian Desert"
+      "The Caspian Sea",
+      "The Black Sea",
+      "The Mediterranean Sea",
+      "Lake Superior"
     ],
     "correctAnswer": 0,
-    "explanation": "The Sahara covers approximately 3.5 million square miles, making it the largest non-polar desert on Earth.",
+    "explanation": "The Caspian Sea covers 371,000 square kilometers and is classified as the world's largest inland lake or sea.",
     "tags": [
       "geography",
-      "us-state-capitals",
+      "physical-geography",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "geography-world-capitals-0090",
+    "id": "geography-physical-geography-0090",
     "category": "Geography",
-    "subcategory": "World Capitals",
+    "subcategory": "Physical Geography",
     "difficulty": "hard",
-    "question": "World geography quiz: What imaginary line of latitude divides the Earth into the Northern and Southern Hemispheres at zero degrees? (Ref #90)",
+    "question": "What is the name of the highest uninterrupted waterfall in the world?",
     "options": [
-      "Prime Meridian",
-      "The Equator",
-      "Tropic of Cancer",
-      "Tropic of Capricorn"
+      "Niagara Falls",
+      "Angel Falls (Kerepakupai Meru)",
+      "Victoria Falls",
+      "Iguazu Falls"
     ],
     "correctAnswer": 1,
-    "explanation": "The Equator is the zero-degree parallel of latitude, measuring approximately 24,901 miles in circumference.",
+    "explanation": "Angel Falls in Venezuela plunges 979 meters (3,212 feet) from the Auyan-tepui plateau.",
     "tags": [
       "geography",
-      "world-capitals",
+      "physical-geography",
       "hard"
     ],
     "active": true
@@ -1894,15 +1894,15 @@
     "category": "Geography",
     "subcategory": "Physical Geography",
     "difficulty": "easy",
-    "question": "World geography quiz: What is the official state capital of California? (Ref #91)",
+    "question": "Which mountain range forms the traditional geographical boundary between Europe and Asia?",
     "options": [
-      "Los Angeles",
-      "San Francisco",
-      "Sacramento",
-      "San Diego"
+      "The Caucasus Mountains",
+      "The Alps",
+      "The Ural Mountains",
+      "The Carpathian Mountains"
     ],
     "correctAnswer": 2,
-    "explanation": "Sacramento has been California's capital since 1854, situated at the confluence of the Sacramento and American rivers.",
+    "explanation": "The Ural Mountains in Russia run north to south, delineating the conventional European-Asian border.",
     "tags": [
       "geography",
       "physical-geography",
@@ -1911,64 +1911,64 @@
     "active": true
   },
   {
-    "id": "geography-nations-territories-0092",
+    "id": "geography-physical-geography-0092",
     "category": "Geography",
-    "subcategory": "Nations & Territories",
+    "subcategory": "Physical Geography",
     "difficulty": "medium",
-    "question": "World geography quiz: What is the official state capital of Texas? (Ref #92)",
+    "question": "What geological feature is formed when a meandering river erodes through a narrow neck and leaves behind an abandoned curve?",
     "options": [
-      "Houston",
-      "Dallas",
-      "San Antonio",
-      "Austin"
+      "A caldera",
+      "A fjord",
+      "A sinkhole",
+      "An oxbow lake"
     ],
     "correctAnswer": 3,
-    "explanation": "Austin is the state capital of Texas and the seat of Travis County, known as the Live Music Capital of the World.",
+    "explanation": "Oxbow lakes form when meandering rivers take a straighter path, cutting off an old crescent-shaped river loop.",
     "tags": [
       "geography",
-      "nations-territories",
+      "physical-geography",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "geography-us-state-capitals-0093",
+    "id": "geography-physical-geography-0093",
     "category": "Geography",
-    "subcategory": "US State Capitals",
+    "subcategory": "Physical Geography",
     "difficulty": "hard",
-    "question": "World geography quiz: What is the official national capital of Australia? (Ref #93)",
+    "question": "What is the term for a long, deep, narrow sea inlet bordered by steep glacial cliffs?",
     "options": [
-      "Canberra",
-      "Sydney",
-      "Melbourne",
-      "Brisbane"
+      "A fjord",
+      "A delta",
+      "An estuary",
+      "An atoll"
     ],
     "correctAnswer": 0,
-    "explanation": "Canberra was selected as a planned capital city compromise between rivals Sydney and Melbourne in 1908.",
+    "explanation": "Fjords are carved by moving glaciers and subsequently flooded by seawater (prominent in Norway).",
     "tags": [
       "geography",
-      "us-state-capitals",
+      "physical-geography",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "geography-world-capitals-0094",
+    "id": "geography-physical-geography-0094",
     "category": "Geography",
-    "subcategory": "World Capitals",
+    "subcategory": "Physical Geography",
     "difficulty": "easy",
-    "question": "World geography quiz: What is the official national capital of Canada? (Ref #94)",
+    "question": "What is the name of the ring of active volcanoes and seismic activity encircling the Pacific Basin?",
     "options": [
-      "Toronto",
-      "Ottawa",
-      "Montreal",
-      "Vancouver"
+      "The Mid-Atlantic Ridge",
+      "The Ring of Fire",
+      "The Alpine Fault",
+      "The Great Rift Valley"
     ],
     "correctAnswer": 1,
-    "explanation": "Queen Victoria designated Ottawa as the capital of Canada in 1857 due to its strategic location.",
+    "explanation": "The Pacific Ring of Fire hosts about 75% of Earth's active volcanoes and 90% of all earthquakes.",
     "tags": [
       "geography",
-      "world-capitals",
+      "physical-geography",
       "easy"
     ],
     "active": true
@@ -1978,15 +1978,15 @@
     "category": "Geography",
     "subcategory": "Physical Geography",
     "difficulty": "medium",
-    "question": "World geography quiz: What is the vastest hot desert on planet Earth, spanning much of North Africa? (Ref #95)",
+    "question": "What type of plate tectonic boundary occurs where two continental plates slide horizontally past one another?",
     "options": [
-      "The Gobi Desert",
-      "The Kalahari Desert",
-      "The Sahara Desert",
-      "The Arabian Desert"
+      "Divergent boundary",
+      "Convergent boundary",
+      "Transform boundary",
+      "Subduction zone"
     ],
     "correctAnswer": 2,
-    "explanation": "The Sahara covers approximately 3.5 million square miles, making it the largest non-polar desert on Earth.",
+    "explanation": "Transform faults (like California's San Andreas Fault) involve lateral horizontal strike-slip motion.",
     "tags": [
       "geography",
       "physical-geography",
@@ -1995,64 +1995,64 @@
     "active": true
   },
   {
-    "id": "geography-nations-territories-0096",
+    "id": "geography-physical-geography-0096",
     "category": "Geography",
-    "subcategory": "Nations & Territories",
+    "subcategory": "Physical Geography",
     "difficulty": "hard",
-    "question": "World geography quiz: What imaginary line of latitude divides the Earth into the Northern and Southern Hemispheres at zero degrees? (Ref #96)",
+    "question": "What is the lowest dry-land elevation on the surface of the Earth?",
     "options": [
-      "Prime Meridian",
-      "Tropic of Cancer",
-      "Tropic of Capricorn",
-      "The Equator"
+      "Death Valley",
+      "Lake Eyre",
+      "Qattara Depression",
+      "The shores of the Dead Sea"
     ],
     "correctAnswer": 3,
-    "explanation": "The Equator is the zero-degree parallel of latitude, measuring approximately 24,901 miles in circumference.",
+    "explanation": "The shoreline of the Dead Sea in Jordan/Israel lies at approximately 430 meters (1,410 feet) below sea level.",
     "tags": [
       "geography",
-      "nations-territories",
+      "physical-geography",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "geography-us-state-capitals-0097",
+    "id": "geography-physical-geography-0097",
     "category": "Geography",
-    "subcategory": "US State Capitals",
+    "subcategory": "Physical Geography",
     "difficulty": "easy",
-    "question": "World geography quiz: What is the official state capital of California? (Ref #97)",
+    "question": "What is the highest point in North America?",
     "options": [
-      "Sacramento",
-      "Los Angeles",
-      "San Francisco",
-      "San Diego"
+      "Denali (Mount McKinley)",
+      "Mount Logan",
+      "Mount Whitney",
+      "Mount Rainier"
     ],
     "correctAnswer": 0,
-    "explanation": "Sacramento has been California's capital since 1854, situated at the confluence of the Sacramento and American rivers.",
+    "explanation": "Denali in Alaska rises to an elevation of 6,190 meters (20,310 feet) above sea level.",
     "tags": [
       "geography",
-      "us-state-capitals",
+      "physical-geography",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "geography-world-capitals-0098",
+    "id": "geography-physical-geography-0098",
     "category": "Geography",
-    "subcategory": "World Capitals",
+    "subcategory": "Physical Geography",
     "difficulty": "medium",
-    "question": "World geography quiz: What is the official state capital of Texas? (Ref #98)",
+    "question": "What is the longest continental mountain range in the world?",
     "options": [
-      "Houston",
-      "Austin",
-      "Dallas",
-      "San Antonio"
+      "The Rocky Mountains",
+      "The Andes Mountains",
+      "The Himalayas",
+      "The Great Dividing Range"
     ],
     "correctAnswer": 1,
-    "explanation": "Austin is the state capital of Texas and the seat of Travis County, known as the Live Music Capital of the World.",
+    "explanation": "The Andes stretch over 7,000 kilometers (4,350 miles) along the entire western coast of South America.",
     "tags": [
       "geography",
-      "world-capitals",
+      "physical-geography",
       "medium"
     ],
     "active": true
@@ -2062,15 +2062,15 @@
     "category": "Geography",
     "subcategory": "Physical Geography",
     "difficulty": "hard",
-    "question": "World geography quiz: What is the official national capital of Australia? (Ref #99)",
+    "question": "What is the highest point on the African continent?",
     "options": [
-      "Sydney",
-      "Melbourne",
-      "Canberra",
-      "Brisbane"
+      "Mount Kenya",
+      "Mount Stanley",
+      "Mount Kilimanjaro",
+      "Ras Dashen"
     ],
     "correctAnswer": 2,
-    "explanation": "Canberra was selected as a planned capital city compromise between rivals Sydney and Melbourne in 1908.",
+    "explanation": "Mount Kilimanjaro in Tanzania is a dormant stratovolcano rising 5,895 meters (19,341 feet) above sea level.",
     "tags": [
       "geography",
       "physical-geography",
@@ -2079,64 +2079,64 @@
     "active": true
   },
   {
-    "id": "geography-nations-territories-0100",
+    "id": "geography-physical-geography-0100",
     "category": "Geography",
-    "subcategory": "Nations & Territories",
+    "subcategory": "Physical Geography",
     "difficulty": "easy",
-    "question": "World geography quiz: What is the official national capital of Canada? (Ref #100)",
+    "question": "What is the name of the world's largest coral reef ecosystem?",
     "options": [
-      "Toronto",
-      "Montreal",
-      "Vancouver",
-      "Ottawa"
+      "The Mesoamerican Reef",
+      "The New Caledonia Barrier Reef",
+      "The Red Sea Coral Reef",
+      "The Great Barrier Reef"
     ],
     "correctAnswer": 3,
-    "explanation": "Queen Victoria designated Ottawa as the capital of Canada in 1857 due to its strategic location.",
+    "explanation": "The Great Barrier Reef off Queensland, Australia, spans over 2,300 kilometers and is visible from space.",
     "tags": [
       "geography",
-      "nations-territories",
+      "physical-geography",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "geography-us-state-capitals-0101",
+    "id": "geography-physical-geography-0101",
     "category": "Geography",
-    "subcategory": "US State Capitals",
+    "subcategory": "Physical Geography",
     "difficulty": "medium",
-    "question": "World geography quiz: What is the vastest hot desert on planet Earth, spanning much of North Africa? (Ref #101)",
+    "question": "Which strait connects the Atlantic Ocean to the Mediterranean Sea?",
     "options": [
-      "The Sahara Desert",
-      "The Gobi Desert",
-      "The Kalahari Desert",
-      "The Arabian Desert"
+      "The Strait of Gibraltar",
+      "The Bosporus Strait",
+      "The Strait of Malacca",
+      "The Bab-el-Mandeb"
     ],
     "correctAnswer": 0,
-    "explanation": "The Sahara covers approximately 3.5 million square miles, making it the largest non-polar desert on Earth.",
+    "explanation": "The Strait of Gibraltar separates Spain from Morocco, linking the Atlantic to the Mediterranean.",
     "tags": [
       "geography",
-      "us-state-capitals",
+      "physical-geography",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "geography-world-capitals-0102",
+    "id": "geography-physical-geography-0102",
     "category": "Geography",
-    "subcategory": "World Capitals",
+    "subcategory": "Physical Geography",
     "difficulty": "hard",
-    "question": "World geography quiz: What imaginary line of latitude divides the Earth into the Northern and Southern Hemispheres at zero degrees? (Ref #102)",
+    "question": "Which narrow waterway connects the Black Sea to the Sea of Marmara?",
     "options": [
-      "Prime Meridian",
-      "The Equator",
-      "Tropic of Cancer",
-      "Tropic of Capricorn"
+      "The Dardanelles",
+      "The Bosporus Strait",
+      "The Suez Canal",
+      "The Strait of Hormuz"
     ],
     "correctAnswer": 1,
-    "explanation": "The Equator is the zero-degree parallel of latitude, measuring approximately 24,901 miles in circumference.",
+    "explanation": "The Bosporus Strait divides Istanbul between Europe and Asia, connecting the Black Sea to the Sea of Marmara.",
     "tags": [
       "geography",
-      "world-capitals",
+      "physical-geography",
       "hard"
     ],
     "active": true
@@ -2146,15 +2146,15 @@
     "category": "Geography",
     "subcategory": "Physical Geography",
     "difficulty": "easy",
-    "question": "World geography quiz: What is the official state capital of California? (Ref #103)",
+    "question": "What is the term for a ring-shaped coral reef that encloses a central lagoon?",
     "options": [
-      "Los Angeles",
-      "San Francisco",
-      "Sacramento",
-      "San Diego"
+      "A barrier reef",
+      "A fringing reef",
+      "An atoll",
+      "A seamount"
     ],
     "correctAnswer": 2,
-    "explanation": "Sacramento has been California's capital since 1854, situated at the confluence of the Sacramento and American rivers.",
+    "explanation": "Atolls develop around subsiding oceanic volcanic islands, leaving a circular reef surrounding a lagoon.",
     "tags": [
       "geography",
       "physical-geography",
@@ -2163,64 +2163,64 @@
     "active": true
   },
   {
-    "id": "geography-nations-territories-0104",
+    "id": "geography-physical-geography-0104",
     "category": "Geography",
-    "subcategory": "Nations & Territories",
+    "subcategory": "Physical Geography",
     "difficulty": "medium",
-    "question": "World geography quiz: What is the official state capital of Texas? (Ref #104)",
+    "question": "What is the deepest lake in the United States?",
     "options": [
-      "Houston",
-      "Dallas",
-      "San Antonio",
-      "Austin"
+      "Lake Tahoe",
+      "Lake Superior",
+      "Lake Chelan",
+      "Crater Lake"
     ],
     "correctAnswer": 3,
-    "explanation": "Austin is the state capital of Texas and the seat of Travis County, known as the Live Music Capital of the World.",
+    "explanation": "Crater Lake in Oregon fills a volcanic caldera formed by Mount Mazama, reaching 594 meters (1,949 feet) depth.",
     "tags": [
       "geography",
-      "nations-territories",
+      "physical-geography",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "geography-us-state-capitals-0105",
+    "id": "geography-physical-geography-0105",
     "category": "Geography",
-    "subcategory": "US State Capitals",
+    "subcategory": "Physical Geography",
     "difficulty": "hard",
-    "question": "World geography quiz: What is the official national capital of Australia? (Ref #105)",
+    "question": "Which atmospheric layer closest to Earth's surface contains the vast majority of clouds and weather phenomena?",
     "options": [
-      "Canberra",
-      "Sydney",
-      "Melbourne",
-      "Brisbane"
+      "The troposphere",
+      "The stratosphere",
+      "The mesosphere",
+      "The thermosphere"
     ],
     "correctAnswer": 0,
-    "explanation": "Canberra was selected as a planned capital city compromise between rivals Sydney and Melbourne in 1908.",
+    "explanation": "The troposphere extends from sea level up to ~12 km and contains ~75% of the atmosphere's mass and almost all weather.",
     "tags": [
       "geography",
-      "us-state-capitals",
+      "physical-geography",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "geography-world-capitals-0106",
+    "id": "geography-physical-geography-0106",
     "category": "Geography",
-    "subcategory": "World Capitals",
+    "subcategory": "Physical Geography",
     "difficulty": "easy",
-    "question": "World geography quiz: What is the official national capital of Canada? (Ref #106)",
+    "question": "What is the geological term for molten rock beneath Earth's surface before it erupts?",
     "options": [
-      "Toronto",
-      "Ottawa",
-      "Montreal",
-      "Vancouver"
+      "Lava",
+      "Magma",
+      "Basalt",
+      "Pumice"
     ],
     "correctAnswer": 1,
-    "explanation": "Queen Victoria designated Ottawa as the capital of Canada in 1857 due to its strategic location.",
+    "explanation": "Molten rock under the crust is magma; upon erupting onto the surface, it is termed lava.",
     "tags": [
       "geography",
-      "world-capitals",
+      "physical-geography",
       "easy"
     ],
     "active": true
@@ -2230,15 +2230,15 @@
     "category": "Geography",
     "subcategory": "Physical Geography",
     "difficulty": "medium",
-    "question": "World geography quiz: What is the vastest hot desert on planet Earth, spanning much of North Africa? (Ref #107)",
+    "question": "What type of rock is formed from the cooling and solidification of molten magma or lava?",
     "options": [
-      "The Gobi Desert",
-      "The Kalahari Desert",
-      "The Sahara Desert",
-      "The Arabian Desert"
+      "Sedimentary rock",
+      "Metamorphic rock",
+      "Igneous rock",
+      "Limestone"
     ],
     "correctAnswer": 2,
-    "explanation": "The Sahara covers approximately 3.5 million square miles, making it the largest non-polar desert on Earth.",
+    "explanation": "Igneous rocks (granite, basalt, obsidian) crystallize directly from cooling silicate melt.",
     "tags": [
       "geography",
       "physical-geography",
@@ -2247,64 +2247,64 @@
     "active": true
   },
   {
-    "id": "geography-nations-territories-0108",
+    "id": "geography-physical-geography-0108",
     "category": "Geography",
-    "subcategory": "Nations & Territories",
+    "subcategory": "Physical Geography",
     "difficulty": "hard",
-    "question": "World geography quiz: What imaginary line of latitude divides the Earth into the Northern and Southern Hemispheres at zero degrees? (Ref #108)",
+    "question": "What type of rock is formed through the accumulation and compaction of mineral or organic particles over time?",
     "options": [
-      "Prime Meridian",
-      "Tropic of Cancer",
-      "Tropic of Capricorn",
-      "The Equator"
+      "Igneous rock",
+      "Metamorphic rock",
+      "Plutonic rock",
+      "Sedimentary rock"
     ],
     "correctAnswer": 3,
-    "explanation": "The Equator is the zero-degree parallel of latitude, measuring approximately 24,901 miles in circumference.",
+    "explanation": "Sedimentary rocks (sandstone, limestone, shale) form from weathered sediment deposits.",
     "tags": [
       "geography",
-      "nations-territories",
+      "physical-geography",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "geography-us-state-capitals-0109",
+    "id": "geography-physical-geography-0109",
     "category": "Geography",
-    "subcategory": "US State Capitals",
+    "subcategory": "Physical Geography",
     "difficulty": "easy",
-    "question": "World geography quiz: What is the official state capital of California? (Ref #109)",
+    "question": "What type of rock forms when existing rock is subjected to extreme heat and pressure without melting?",
     "options": [
-      "Sacramento",
-      "Los Angeles",
-      "San Francisco",
-      "San Diego"
+      "Metamorphic rock",
+      "Igneous rock",
+      "Sedimentary rock",
+      "Volcanic ash"
     ],
     "correctAnswer": 0,
-    "explanation": "Sacramento has been California's capital since 1854, situated at the confluence of the Sacramento and American rivers.",
+    "explanation": "Metamorphism alters mineral crystal lattices (e.g., limestone transforms into marble; shale into slate).",
     "tags": [
       "geography",
-      "us-state-capitals",
+      "physical-geography",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "geography-world-capitals-0110",
+    "id": "geography-physical-geography-0110",
     "category": "Geography",
-    "subcategory": "World Capitals",
+    "subcategory": "Physical Geography",
     "difficulty": "medium",
-    "question": "World geography quiz: What is the official state capital of Texas? (Ref #110)",
+    "question": "What is the name of the supercontinent that existed approximately 300 million years ago before continental drift?",
     "options": [
-      "Houston",
-      "Austin",
-      "Dallas",
-      "San Antonio"
+      "Gondwana",
+      "Pangaea",
+      "Laurasia",
+      "Rodinia"
     ],
     "correctAnswer": 1,
-    "explanation": "Austin is the state capital of Texas and the seat of Travis County, known as the Live Music Capital of the World.",
+    "explanation": "Pangaea assembled in the late Paleozoic and began rifting apart during the Mesozoic era.",
     "tags": [
       "geography",
-      "world-capitals",
+      "physical-geography",
       "medium"
     ],
     "active": true
@@ -2314,15 +2314,15 @@
     "category": "Geography",
     "subcategory": "Physical Geography",
     "difficulty": "hard",
-    "question": "World geography quiz: What is the official national capital of Australia? (Ref #111)",
+    "question": "What is the highest plateau in the world, often nicknamed the 'Roof of the World'?",
     "options": [
-      "Sydney",
-      "Melbourne",
-      "Canberra",
-      "Brisbane"
+      "The Colorado Plateau",
+      "The Deccan Plateau",
+      "The Tibetan Plateau",
+      "The Altiplano"
     ],
     "correctAnswer": 2,
-    "explanation": "Canberra was selected as a planned capital city compromise between rivals Sydney and Melbourne in 1908.",
+    "explanation": "The Tibetan Plateau covers 2.5 million square kilometers at an average elevation exceeding 4,500 meters.",
     "tags": [
       "geography",
       "physical-geography",
@@ -2331,64 +2331,64 @@
     "active": true
   },
   {
-    "id": "geography-nations-territories-0112",
+    "id": "geography-physical-geography-0112",
     "category": "Geography",
-    "subcategory": "Nations & Territories",
+    "subcategory": "Physical Geography",
     "difficulty": "easy",
-    "question": "World geography quiz: What is the official national capital of Canada? (Ref #112)",
+    "question": "Which narrow passage connects the Persian Gulf to the Gulf of Oman and Arabian Sea?",
     "options": [
-      "Toronto",
-      "Montreal",
-      "Vancouver",
-      "Ottawa"
+      "The Strait of Malacca",
+      "The Suez Canal",
+      "The Bab-el-Mandeb",
+      "The Strait of Hormuz"
     ],
     "correctAnswer": 3,
-    "explanation": "Queen Victoria designated Ottawa as the capital of Canada in 1857 due to its strategic location.",
+    "explanation": "The Strait of Hormuz is the world's most critical oil transit chokepoint.",
     "tags": [
       "geography",
-      "nations-territories",
+      "physical-geography",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "geography-us-state-capitals-0113",
+    "id": "geography-physical-geography-0113",
     "category": "Geography",
-    "subcategory": "US State Capitals",
+    "subcategory": "Physical Geography",
     "difficulty": "medium",
-    "question": "World geography quiz: What is the vastest hot desert on planet Earth, spanning much of North Africa? (Ref #113)",
+    "question": "What is the term for a narrow strip of land connecting two larger land areas with water on both sides?",
     "options": [
-      "The Sahara Desert",
-      "The Gobi Desert",
-      "The Kalahari Desert",
-      "The Arabian Desert"
+      "An isthmus",
+      "A peninsula",
+      "A strait",
+      "An archipelago"
     ],
     "correctAnswer": 0,
-    "explanation": "The Sahara covers approximately 3.5 million square miles, making it the largest non-polar desert on Earth.",
+    "explanation": "An isthmus (like the Isthmus of Panama) joins two large land masses between bodies of water.",
     "tags": [
       "geography",
-      "us-state-capitals",
+      "physical-geography",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "geography-world-capitals-0114",
+    "id": "geography-physical-geography-0114",
     "category": "Geography",
-    "subcategory": "World Capitals",
+    "subcategory": "Physical Geography",
     "difficulty": "hard",
-    "question": "World geography quiz: What imaginary line of latitude divides the Earth into the Northern and Southern Hemispheres at zero degrees? (Ref #114)",
+    "question": "What is the term for a group or cluster of islands scattered in a body of water?",
     "options": [
-      "Prime Meridian",
-      "The Equator",
-      "Tropic of Cancer",
-      "Tropic of Capricorn"
+      "An atoll",
+      "An archipelago",
+      "An isthmus",
+      "A cape"
     ],
     "correctAnswer": 1,
-    "explanation": "The Equator is the zero-degree parallel of latitude, measuring approximately 24,901 miles in circumference.",
+    "explanation": "An archipelago (like Indonesia or the Philippines) comprises an island chain or cluster.",
     "tags": [
       "geography",
-      "world-capitals",
+      "physical-geography",
       "hard"
     ],
     "active": true
@@ -2398,15 +2398,15 @@
     "category": "Geography",
     "subcategory": "Physical Geography",
     "difficulty": "easy",
-    "question": "World geography quiz: What is the official state capital of California? (Ref #115)",
+    "question": "What is the largest island in the world by land area?",
     "options": [
-      "Los Angeles",
-      "San Francisco",
-      "Sacramento",
-      "San Diego"
+      "New Guinea",
+      "Borneo",
+      "Greenland",
+      "Madagascar"
     ],
     "correctAnswer": 2,
-    "explanation": "Sacramento has been California's capital since 1854, situated at the confluence of the Sacramento and American rivers.",
+    "explanation": "Greenland covers over 2.16 million square kilometers, making it the largest non-continental island.",
     "tags": [
       "geography",
       "physical-geography",
@@ -2415,64 +2415,64 @@
     "active": true
   },
   {
-    "id": "geography-nations-territories-0116",
+    "id": "geography-physical-geography-0116",
     "category": "Geography",
-    "subcategory": "Nations & Territories",
+    "subcategory": "Physical Geography",
     "difficulty": "medium",
-    "question": "World geography quiz: What is the official state capital of Texas? (Ref #116)",
+    "question": "Which river flows through the Grand Canyon in the United States?",
     "options": [
-      "Houston",
-      "Dallas",
-      "San Antonio",
-      "Austin"
+      "The Rio Grande",
+      "The Snake River",
+      "The Columbia River",
+      "The Colorado River"
     ],
     "correctAnswer": 3,
-    "explanation": "Austin is the state capital of Texas and the seat of Travis County, known as the Live Music Capital of the World.",
+    "explanation": "The Colorado River eroded the Kaibab Plateau over millions of years to sculpt the Grand Canyon.",
     "tags": [
       "geography",
-      "nations-territories",
+      "physical-geography",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "geography-us-state-capitals-0117",
+    "id": "geography-physical-geography-0117",
     "category": "Geography",
-    "subcategory": "US State Capitals",
+    "subcategory": "Physical Geography",
     "difficulty": "hard",
-    "question": "World geography quiz: What is the official national capital of Australia? (Ref #117)",
+    "question": "What is the largest bay by area in the world?",
     "options": [
-      "Canberra",
-      "Sydney",
-      "Melbourne",
-      "Brisbane"
+      "The Bay of Bengal",
+      "Hudson Bay",
+      "The Bay of Biscay",
+      "Chesapeake Bay"
     ],
     "correctAnswer": 0,
-    "explanation": "Canberra was selected as a planned capital city compromise between rivals Sydney and Melbourne in 1908.",
+    "explanation": "The Bay of Bengal in the northeastern Indian Ocean spans over 2.17 million square kilometers.",
     "tags": [
       "geography",
-      "us-state-capitals",
+      "physical-geography",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "geography-world-capitals-0118",
+    "id": "geography-physical-geography-0118",
     "category": "Geography",
-    "subcategory": "World Capitals",
+    "subcategory": "Physical Geography",
     "difficulty": "easy",
-    "question": "World geography quiz: What is the official national capital of Canada? (Ref #118)",
+    "question": "What is the driest non-polar desert on Earth?",
     "options": [
-      "Toronto",
-      "Ottawa",
-      "Montreal",
-      "Vancouver"
+      "The Mojave Desert",
+      "The Atacama Desert",
+      "The Namib Desert",
+      "The Thar Desert"
     ],
     "correctAnswer": 1,
-    "explanation": "Queen Victoria designated Ottawa as the capital of Canada in 1857 due to its strategic location.",
+    "explanation": "The Atacama Desert in northern Chile receives virtually zero rainfall due to the Pacific rain-shadow effect.",
     "tags": [
       "geography",
-      "world-capitals",
+      "physical-geography",
       "easy"
     ],
     "active": true
@@ -2482,15 +2482,15 @@
     "category": "Geography",
     "subcategory": "Physical Geography",
     "difficulty": "medium",
-    "question": "World geography quiz: What is the vastest hot desert on planet Earth, spanning much of North Africa? (Ref #119)",
+    "question": "Which African lake is the world's second-largest freshwater lake by surface area?",
     "options": [
-      "The Gobi Desert",
-      "The Kalahari Desert",
-      "The Sahara Desert",
-      "The Arabian Desert"
+      "Lake Tanganyika",
+      "Lake Malawi",
+      "Lake Victoria",
+      "Lake Chad"
     ],
     "correctAnswer": 2,
-    "explanation": "The Sahara covers approximately 3.5 million square miles, making it the largest non-polar desert on Earth.",
+    "explanation": "Lake Victoria spans 68,800 square kilometers, shared by Uganda, Kenya, and Tanzania.",
     "tags": [
       "geography",
       "physical-geography",
@@ -2499,85 +2499,85 @@
     "active": true
   },
   {
-    "id": "geography-nations-territories-0120",
+    "id": "geography-physical-geography-0120",
     "category": "Geography",
-    "subcategory": "Nations & Territories",
+    "subcategory": "Physical Geography",
     "difficulty": "hard",
-    "question": "World geography quiz: What imaginary line of latitude divides the Earth into the Northern and Southern Hemispheres at zero degrees? (Ref #120)",
+    "question": "What is the name of the tectonic fault line responsible for major earthquakes in California?",
     "options": [
-      "Prime Meridian",
-      "Tropic of Cancer",
-      "Tropic of Capricorn",
-      "The Equator"
+      "The New Madrid Fault",
+      "The Hayward Fault",
+      "The Cascadia Subduction Zone",
+      "The San Andreas Fault"
     ],
     "correctAnswer": 3,
-    "explanation": "The Equator is the zero-degree parallel of latitude, measuring approximately 24,901 miles in circumference.",
+    "explanation": "The San Andreas Fault is a right-lateral transform fault marking the Pacific and North American plate boundary.",
     "tags": [
       "geography",
-      "nations-territories",
+      "physical-geography",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "geography-us-state-capitals-0121",
+    "id": "geography-nations-territories-0121",
     "category": "Geography",
-    "subcategory": "US State Capitals",
+    "subcategory": "Nations & Territories",
     "difficulty": "easy",
-    "question": "World geography quiz: What is the official state capital of California? (Ref #121)",
+    "question": "Which country is completely landlocked by a single other country (an enclave)?",
     "options": [
-      "Sacramento",
-      "Los Angeles",
-      "San Francisco",
-      "San Diego"
+      "Lesotho",
+      "Switzerland",
+      "Bolivia",
+      "Nepal"
     ],
     "correctAnswer": 0,
-    "explanation": "Sacramento has been California's capital since 1854, situated at the confluence of the Sacramento and American rivers.",
+    "explanation": "Lesotho is an independent sovereign enclave entirely surrounded by the Republic of South Africa.",
     "tags": [
       "geography",
-      "us-state-capitals",
+      "nations-territories",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "geography-world-capitals-0122",
+    "id": "geography-nations-territories-0122",
     "category": "Geography",
-    "subcategory": "World Capitals",
+    "subcategory": "Nations & Territories",
     "difficulty": "medium",
-    "question": "World geography quiz: What is the official state capital of Texas? (Ref #122)",
+    "question": "Which country is the smallest independent sovereign state in the world by both area and population?",
     "options": [
-      "Houston",
-      "Austin",
-      "Dallas",
-      "San Antonio"
+      "Monaco",
+      "Vatican City",
+      "Nauru",
+      "San Marino"
     ],
     "correctAnswer": 1,
-    "explanation": "Austin is the state capital of Texas and the seat of Travis County, known as the Live Music Capital of the World.",
+    "explanation": "Vatican City covers just 0.49 square kilometers (121 acres) entirely within Rome, Italy.",
     "tags": [
       "geography",
-      "world-capitals",
+      "nations-territories",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "geography-physical-geography-0123",
+    "id": "geography-nations-territories-0123",
     "category": "Geography",
-    "subcategory": "Physical Geography",
+    "subcategory": "Nations & Territories",
     "difficulty": "hard",
-    "question": "World geography quiz: What is the official national capital of Australia? (Ref #123)",
+    "question": "Which country has the longest coastline in the world?",
     "options": [
-      "Sydney",
-      "Melbourne",
-      "Canberra",
-      "Brisbane"
+      "Norway",
+      "Indonesia",
+      "Canada",
+      "Russia"
     ],
     "correctAnswer": 2,
-    "explanation": "Canberra was selected as a planned capital city compromise between rivals Sydney and Melbourne in 1908.",
+    "explanation": "Canada possesses over 202,080 kilometers of marine coastline along three oceans.",
     "tags": [
       "geography",
-      "physical-geography",
+      "nations-territories",
       "hard"
     ],
     "active": true
@@ -2587,15 +2587,15 @@
     "category": "Geography",
     "subcategory": "Nations & Territories",
     "difficulty": "easy",
-    "question": "World geography quiz: What is the official national capital of Canada? (Ref #124)",
+    "question": "Which sovereign nation spans the greatest number of contiguous time zones on land?",
     "options": [
-      "Toronto",
-      "Montreal",
-      "Vancouver",
-      "Ottawa"
+      "China",
+      "Canada",
+      "United States",
+      "Russia"
     ],
     "correctAnswer": 3,
-    "explanation": "Queen Victoria designated Ottawa as the capital of Canada in 1857 due to its strategic location.",
+    "explanation": "Russia stretches across 11 contiguous time zones from Kaliningrad to Kamchatka.",
     "tags": [
       "geography",
       "nations-territories",
@@ -2604,64 +2604,64 @@
     "active": true
   },
   {
-    "id": "geography-us-state-capitals-0125",
+    "id": "geography-nations-territories-0125",
     "category": "Geography",
-    "subcategory": "US State Capitals",
+    "subcategory": "Nations & Territories",
     "difficulty": "medium",
-    "question": "World geography quiz: What is the vastest hot desert on planet Earth, spanning much of North Africa? (Ref #125)",
+    "question": "How many official time zones does the mainland People's Republic of China officially observe?",
     "options": [
-      "The Sahara Desert",
-      "The Gobi Desert",
-      "The Kalahari Desert",
-      "The Arabian Desert"
+      "One single time zone (Beijing Time, UTC+8)",
+      "Three time zones",
+      "Four time zones",
+      "Five time zones"
     ],
     "correctAnswer": 0,
-    "explanation": "The Sahara covers approximately 3.5 million square miles, making it the largest non-polar desert on Earth.",
+    "explanation": "Despite spanning roughly 5,000 km longitudinally, China has officially observed a single time zone since 1949.",
     "tags": [
       "geography",
-      "us-state-capitals",
+      "nations-territories",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "geography-world-capitals-0126",
+    "id": "geography-nations-territories-0126",
     "category": "Geography",
-    "subcategory": "World Capitals",
+    "subcategory": "Nations & Territories",
     "difficulty": "hard",
-    "question": "World geography quiz: What imaginary line of latitude divides the Earth into the Northern and Southern Hemispheres at zero degrees? (Ref #126)",
+    "question": "Which South American country is landlocked?",
     "options": [
-      "Prime Meridian",
-      "The Equator",
-      "Tropic of Cancer",
-      "Tropic of Capricorn"
+      "Ecuador",
+      "Bolivia",
+      "Uruguay",
+      "Suriname"
     ],
     "correctAnswer": 1,
-    "explanation": "The Equator is the zero-degree parallel of latitude, measuring approximately 24,901 miles in circumference.",
+    "explanation": "Bolivia and Paraguay are the two landlocked sovereign nations of South America.",
     "tags": [
       "geography",
-      "world-capitals",
+      "nations-territories",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "geography-physical-geography-0127",
+    "id": "geography-nations-territories-0127",
     "category": "Geography",
-    "subcategory": "Physical Geography",
+    "subcategory": "Nations & Territories",
     "difficulty": "easy",
-    "question": "World geography quiz: What is the official state capital of California? (Ref #127)",
+    "question": "Which African country was historically known as Abyssinia?",
     "options": [
-      "Los Angeles",
-      "San Francisco",
-      "Sacramento",
-      "San Diego"
+      "Sudan",
+      "Somalia",
+      "Ethiopia",
+      "Eritrea"
     ],
     "correctAnswer": 2,
-    "explanation": "Sacramento has been California's capital since 1854, situated at the confluence of the Sacramento and American rivers.",
+    "explanation": "Ethiopia was known internationally as Abyssinia until the 20th century.",
     "tags": [
       "geography",
-      "physical-geography",
+      "nations-territories",
       "easy"
     ],
     "active": true
@@ -2671,15 +2671,15 @@
     "category": "Geography",
     "subcategory": "Nations & Territories",
     "difficulty": "medium",
-    "question": "World geography quiz: What is the official state capital of Texas? (Ref #128)",
+    "question": "Which Southeast Asian country is the only one never colonized by European powers?",
     "options": [
-      "Houston",
-      "Dallas",
-      "San Antonio",
-      "Austin"
+      "Vietnam",
+      "Myanmar",
+      "Malaysia",
+      "Thailand"
     ],
     "correctAnswer": 3,
-    "explanation": "Austin is the state capital of Texas and the seat of Travis County, known as the Live Music Capital of the World.",
+    "explanation": "The Kingdom of Siam (Thailand) maintained independence by serving as a diplomatic buffer between British and French colonies.",
     "tags": [
       "geography",
       "nations-territories",
@@ -2688,64 +2688,64 @@
     "active": true
   },
   {
-    "id": "geography-us-state-capitals-0129",
+    "id": "geography-nations-territories-0129",
     "category": "Geography",
-    "subcategory": "US State Capitals",
+    "subcategory": "Nations & Territories",
     "difficulty": "hard",
-    "question": "World geography quiz: What is the official national capital of Australia? (Ref #129)",
+    "question": "Which European nation is divided into 26 sovereign federal cantons?",
     "options": [
-      "Canberra",
-      "Sydney",
-      "Melbourne",
-      "Brisbane"
+      "Switzerland",
+      "Belgium",
+      "Austria",
+      "Germany"
     ],
     "correctAnswer": 0,
-    "explanation": "Canberra was selected as a planned capital city compromise between rivals Sydney and Melbourne in 1908.",
+    "explanation": "The Swiss Confederation is composed of 26 federal cantons with substantial local autonomy.",
     "tags": [
       "geography",
-      "us-state-capitals",
+      "nations-territories",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "geography-world-capitals-0130",
+    "id": "geography-nations-territories-0130",
     "category": "Geography",
-    "subcategory": "World Capitals",
+    "subcategory": "Nations & Territories",
     "difficulty": "easy",
-    "question": "World geography quiz: What is the official national capital of Canada? (Ref #130)",
+    "question": "What is the official currency of the United Kingdom?",
     "options": [
-      "Toronto",
-      "Ottawa",
-      "Montreal",
-      "Vancouver"
+      "Euro",
+      "Pound Sterling",
+      "Crown",
+      "Franc"
     ],
     "correctAnswer": 1,
-    "explanation": "Queen Victoria designated Ottawa as the capital of Canada in 1857 due to its strategic location.",
+    "explanation": "The British pound sterling (GBP) is the world's oldest currency still in continuous circulation.",
     "tags": [
       "geography",
-      "world-capitals",
+      "nations-territories",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "geography-physical-geography-0131",
+    "id": "geography-nations-territories-0131",
     "category": "Geography",
-    "subcategory": "Physical Geography",
+    "subcategory": "Nations & Territories",
     "difficulty": "medium",
-    "question": "World geography quiz: What is the vastest hot desert on planet Earth, spanning much of North Africa? (Ref #131)",
+    "question": "What is the official national currency of Japan?",
     "options": [
-      "The Gobi Desert",
-      "The Kalahari Desert",
-      "The Sahara Desert",
-      "The Arabian Desert"
+      "Won",
+      "Yuan",
+      "Yen",
+      "Ringgit"
     ],
     "correctAnswer": 2,
-    "explanation": "The Sahara covers approximately 3.5 million square miles, making it the largest non-polar desert on Earth.",
+    "explanation": "The yen (JPY) was established during the Meiji modernization in 1871.",
     "tags": [
       "geography",
-      "physical-geography",
+      "nations-territories",
       "medium"
     ],
     "active": true
@@ -2755,15 +2755,15 @@
     "category": "Geography",
     "subcategory": "Nations & Territories",
     "difficulty": "hard",
-    "question": "World geography quiz: What imaginary line of latitude divides the Earth into the Northern and Southern Hemispheres at zero degrees? (Ref #132)",
+    "question": "What is the official currency of South Korea?",
     "options": [
-      "Prime Meridian",
-      "Tropic of Cancer",
-      "Tropic of Capricorn",
-      "The Equator"
+      "Yen",
+      "Yuan",
+      "Baht",
+      "Won"
     ],
     "correctAnswer": 3,
-    "explanation": "The Equator is the zero-degree parallel of latitude, measuring approximately 24,901 miles in circumference.",
+    "explanation": "The South Korean won (KRW) is subdivided into 100 jeon.",
     "tags": [
       "geography",
       "nations-territories",
@@ -2772,64 +2772,64 @@
     "active": true
   },
   {
-    "id": "geography-us-state-capitals-0133",
+    "id": "geography-nations-territories-0133",
     "category": "Geography",
-    "subcategory": "US State Capitals",
+    "subcategory": "Nations & Territories",
     "difficulty": "easy",
-    "question": "World geography quiz: What is the official state capital of California? (Ref #133)",
+    "question": "Which country is known as the 'Land of the Midnight Sun' because parts lie north of the Arctic Circle?",
     "options": [
-      "Sacramento",
-      "Los Angeles",
-      "San Francisco",
-      "San Diego"
+      "Norway",
+      "Denmark",
+      "Iceland",
+      "Ireland"
     ],
     "correctAnswer": 0,
-    "explanation": "Sacramento has been California's capital since 1854, situated at the confluence of the Sacramento and American rivers.",
+    "explanation": "Norway's northern regions experience 24 hours of continuous daylight during the summer solstice.",
     "tags": [
       "geography",
-      "us-state-capitals",
+      "nations-territories",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "geography-world-capitals-0134",
+    "id": "geography-nations-territories-0134",
     "category": "Geography",
-    "subcategory": "World Capitals",
+    "subcategory": "Nations & Territories",
     "difficulty": "medium",
-    "question": "World geography quiz: What is the official state capital of Texas? (Ref #134)",
+    "question": "Which country possesses the largest exclusive economic maritime zone in the world?",
     "options": [
-      "Houston",
-      "Austin",
-      "Dallas",
-      "San Antonio"
+      "United States",
+      "France",
+      "Australia",
+      "Russia"
     ],
     "correctAnswer": 1,
-    "explanation": "Austin is the state capital of Texas and the seat of Travis County, known as the Live Music Capital of the World.",
+    "explanation": "Due to its numerous overseas departments and territories across all oceans, France commands over 11.6 million sq km of EEZ.",
     "tags": [
       "geography",
-      "world-capitals",
+      "nations-territories",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "geography-physical-geography-0135",
+    "id": "geography-nations-territories-0135",
     "category": "Geography",
-    "subcategory": "Physical Geography",
+    "subcategory": "Nations & Territories",
     "difficulty": "hard",
-    "question": "World geography quiz: What is the official national capital of Australia? (Ref #135)",
+    "question": "Which two countries share the longest international land border in the world?",
     "options": [
-      "Sydney",
-      "Melbourne",
-      "Canberra",
-      "Brisbane"
+      "Russia and China",
+      "Argentina and Chile",
+      "The United States and Canada",
+      "India and Bangladesh"
     ],
     "correctAnswer": 2,
-    "explanation": "Canberra was selected as a planned capital city compromise between rivals Sydney and Melbourne in 1908.",
+    "explanation": "The Canada-US border spans 8,891 kilometers (5,525 miles), including the Alaska border.",
     "tags": [
       "geography",
-      "physical-geography",
+      "nations-territories",
       "hard"
     ],
     "active": true
@@ -2839,15 +2839,15 @@
     "category": "Geography",
     "subcategory": "Nations & Territories",
     "difficulty": "easy",
-    "question": "World geography quiz: What is the official national capital of Canada? (Ref #136)",
+    "question": "Which country has the world's highest population density among sovereign nations?",
     "options": [
-      "Toronto",
-      "Montreal",
-      "Vancouver",
-      "Ottawa"
+      "Singapore",
+      "Bahrain",
+      "Maldives",
+      "Monaco"
     ],
     "correctAnswer": 3,
-    "explanation": "Queen Victoria designated Ottawa as the capital of Canada in 1857 due to its strategic location.",
+    "explanation": "Monaco has over 19,000 inhabitants per square kilometer within its 2 square kilometer territory.",
     "tags": [
       "geography",
       "nations-territories",
@@ -2856,64 +2856,64 @@
     "active": true
   },
   {
-    "id": "geography-us-state-capitals-0137",
+    "id": "geography-nations-territories-0137",
     "category": "Geography",
-    "subcategory": "US State Capitals",
+    "subcategory": "Nations & Territories",
     "difficulty": "medium",
-    "question": "World geography quiz: What is the vastest hot desert on planet Earth, spanning much of North Africa? (Ref #137)",
+    "question": "Which sovereign island nation lies closest to the Horn of Africa in the Indian Ocean?",
     "options": [
-      "The Sahara Desert",
-      "The Gobi Desert",
-      "The Kalahari Desert",
-      "The Arabian Desert"
+      "Madagascar",
+      "Seychelles",
+      "Mauritius",
+      "Comoros"
     ],
     "correctAnswer": 0,
-    "explanation": "The Sahara covers approximately 3.5 million square miles, making it the largest non-polar desert on Earth.",
+    "explanation": "Madagascar is the largest island in Africa and fourth-largest globally.",
     "tags": [
       "geography",
-      "us-state-capitals",
+      "nations-territories",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "geography-world-capitals-0138",
+    "id": "geography-nations-territories-0138",
     "category": "Geography",
-    "subcategory": "World Capitals",
+    "subcategory": "Nations & Territories",
     "difficulty": "hard",
-    "question": "World geography quiz: What imaginary line of latitude divides the Earth into the Northern and Southern Hemispheres at zero degrees? (Ref #138)",
+    "question": "What is the only country that is also classified as a continent?",
     "options": [
-      "Prime Meridian",
-      "The Equator",
-      "Tropic of Cancer",
-      "Tropic of Capricorn"
+      "Greenland",
+      "Australia",
+      "Antarctica",
+      "Madagascar"
     ],
     "correctAnswer": 1,
-    "explanation": "The Equator is the zero-degree parallel of latitude, measuring approximately 24,901 miles in circumference.",
+    "explanation": "Australia is both an independent sovereign nation and a distinct geographic continent.",
     "tags": [
       "geography",
-      "world-capitals",
+      "nations-territories",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "geography-physical-geography-0139",
+    "id": "geography-nations-territories-0139",
     "category": "Geography",
-    "subcategory": "Physical Geography",
+    "subcategory": "Nations & Territories",
     "difficulty": "easy",
-    "question": "World geography quiz: What is the official state capital of California? (Ref #139)",
+    "question": "Which nation is composed of more than 17,000 islands along the equator?",
     "options": [
-      "Los Angeles",
-      "San Francisco",
-      "Sacramento",
-      "San Diego"
+      "The Philippines",
+      "Japan",
+      "Indonesia",
+      "Maldives"
     ],
     "correctAnswer": 2,
-    "explanation": "Sacramento has been California's capital since 1854, situated at the confluence of the Sacramento and American rivers.",
+    "explanation": "Indonesia is the world's largest archipelago state, with over 17,500 islands.",
     "tags": [
       "geography",
-      "physical-geography",
+      "nations-territories",
       "easy"
     ],
     "active": true
@@ -2923,15 +2923,15 @@
     "category": "Geography",
     "subcategory": "Nations & Territories",
     "difficulty": "medium",
-    "question": "World geography quiz: What is the official state capital of Texas? (Ref #140)",
+    "question": "Which European country is renowned for having no traffic lights or speed limits on sections of its Autobahn?",
     "options": [
-      "Houston",
-      "Dallas",
-      "San Antonio",
-      "Austin"
+      "Austria",
+      "Switzerland",
+      "Poland",
+      "Germany"
     ],
     "correctAnswer": 3,
-    "explanation": "Austin is the state capital of Texas and the seat of Travis County, known as the Live Music Capital of the World.",
+    "explanation": "Germany's federal Autobahn network famously maintains advisory speed sections without mandatory speed limits.",
     "tags": [
       "geography",
       "nations-territories",
@@ -2940,64 +2940,64 @@
     "active": true
   },
   {
-    "id": "geography-us-state-capitals-0141",
+    "id": "geography-nations-territories-0141",
     "category": "Geography",
-    "subcategory": "US State Capitals",
+    "subcategory": "Nations & Territories",
     "difficulty": "hard",
-    "question": "World geography quiz: What is the official national capital of Australia? (Ref #141)",
+    "question": "What is the primary official language spoken in Brazil?",
     "options": [
-      "Canberra",
-      "Sydney",
-      "Melbourne",
-      "Brisbane"
+      "Portuguese",
+      "Spanish",
+      "French",
+      "Italian"
     ],
     "correctAnswer": 0,
-    "explanation": "Canberra was selected as a planned capital city compromise between rivals Sydney and Melbourne in 1908.",
+    "explanation": "Brazil was colonized by Portugal following the 1494 Treaty of Tordesillas, making Portuguese the national language.",
     "tags": [
       "geography",
-      "us-state-capitals",
+      "nations-territories",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "geography-world-capitals-0142",
+    "id": "geography-nations-territories-0142",
     "category": "Geography",
-    "subcategory": "World Capitals",
+    "subcategory": "Nations & Territories",
     "difficulty": "easy",
-    "question": "World geography quiz: What is the official national capital of Canada? (Ref #142)",
+    "question": "Which nation's flag is the only national flag in the world that is not quadrilateral (rectangular or square)?",
     "options": [
-      "Toronto",
-      "Ottawa",
-      "Montreal",
-      "Vancouver"
+      "Switzerland",
+      "Nepal",
+      "Vatican City",
+      "Bhutan"
     ],
     "correctAnswer": 1,
-    "explanation": "Queen Victoria designated Ottawa as the capital of Canada in 1857 due to its strategic location.",
+    "explanation": "Nepal's flag is formed by two stacked pennant triangles representing the Himalayas and its religions.",
     "tags": [
       "geography",
-      "world-capitals",
+      "nations-territories",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "geography-physical-geography-0143",
+    "id": "geography-nations-territories-0143",
     "category": "Geography",
-    "subcategory": "Physical Geography",
+    "subcategory": "Nations & Territories",
     "difficulty": "medium",
-    "question": "World geography quiz: What is the vastest hot desert on planet Earth, spanning much of North Africa? (Ref #143)",
+    "question": "Which two sovereign nations have strictly square national flags?",
     "options": [
-      "The Gobi Desert",
-      "The Kalahari Desert",
-      "The Sahara Desert",
-      "The Arabian Desert"
+      "Monaco and Indonesia",
+      "Belgium and Germany",
+      "Switzerland and Vatican City",
+      "Poland and Singapore"
     ],
     "correctAnswer": 2,
-    "explanation": "The Sahara covers approximately 3.5 million square miles, making it the largest non-polar desert on Earth.",
+    "explanation": "Switzerland and Vatican City are the only two UN-recognized states with official 1:1 square flags.",
     "tags": [
       "geography",
-      "physical-geography",
+      "nations-territories",
       "medium"
     ],
     "active": true
@@ -3007,15 +3007,15 @@
     "category": "Geography",
     "subcategory": "Nations & Territories",
     "difficulty": "hard",
-    "question": "World geography quiz: What imaginary line of latitude divides the Earth into the Northern and Southern Hemispheres at zero degrees? (Ref #144)",
+    "question": "Which canal connects the Mediterranean Sea directly to the Red Sea?",
     "options": [
-      "Prime Meridian",
-      "Tropic of Cancer",
-      "Tropic of Capricorn",
-      "The Equator"
+      "The Panama Canal",
+      "The Kiel Canal",
+      "The Corinth Canal",
+      "The Suez Canal"
     ],
     "correctAnswer": 3,
-    "explanation": "The Equator is the zero-degree parallel of latitude, measuring approximately 24,901 miles in circumference.",
+    "explanation": "Opened in 1869, the Suez Canal in Egypt enables maritime transit between Europe and Asia without circumnavigating Africa.",
     "tags": [
       "geography",
       "nations-territories",
@@ -3024,64 +3024,64 @@
     "active": true
   },
   {
-    "id": "geography-us-state-capitals-0145",
+    "id": "geography-nations-territories-0145",
     "category": "Geography",
-    "subcategory": "US State Capitals",
+    "subcategory": "Nations & Territories",
     "difficulty": "easy",
-    "question": "World geography quiz: What is the official state capital of California? (Ref #145)",
+    "question": "Which canal cuts across an isthmus to connect the Atlantic and Pacific Oceans?",
     "options": [
-      "Sacramento",
-      "Los Angeles",
-      "San Francisco",
-      "San Diego"
+      "The Panama Canal",
+      "The Suez Canal",
+      "The Erie Canal",
+      "The Grand Canal"
     ],
     "correctAnswer": 0,
-    "explanation": "Sacramento has been California's capital since 1854, situated at the confluence of the Sacramento and American rivers.",
+    "explanation": "Opened in 1914, the Panama Canal uses a system of locks to lift ships across the continental divide.",
     "tags": [
       "geography",
-      "us-state-capitals",
+      "nations-territories",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "geography-world-capitals-0146",
+    "id": "geography-nations-territories-0146",
     "category": "Geography",
-    "subcategory": "World Capitals",
+    "subcategory": "Nations & Territories",
     "difficulty": "medium",
-    "question": "World geography quiz: What is the official state capital of Texas? (Ref #146)",
+    "question": "What is the official language of Egypt?",
     "options": [
-      "Houston",
-      "Austin",
-      "Dallas",
-      "San Antonio"
+      "Coptic",
+      "Arabic",
+      "French",
+      "English"
     ],
     "correctAnswer": 1,
-    "explanation": "Austin is the state capital of Texas and the seat of Travis County, known as the Live Music Capital of the World.",
+    "explanation": "Modern Standard Arabic is the official language of the Arab Republic of Egypt.",
     "tags": [
       "geography",
-      "world-capitals",
+      "nations-territories",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "geography-physical-geography-0147",
+    "id": "geography-nations-territories-0147",
     "category": "Geography",
-    "subcategory": "Physical Geography",
+    "subcategory": "Nations & Territories",
     "difficulty": "hard",
-    "question": "World geography quiz: What is the official national capital of Australia? (Ref #147)",
+    "question": "What is the national currency used in India?",
     "options": [
-      "Sydney",
-      "Melbourne",
-      "Canberra",
-      "Brisbane"
+      "Rupiah",
+      "Taka",
+      "Indian Rupee",
+      "Rupee-cent"
     ],
     "correctAnswer": 2,
-    "explanation": "Canberra was selected as a planned capital city compromise between rivals Sydney and Melbourne in 1908.",
+    "explanation": "The Indian Rupee (INR) is the official currency, regulated by the Reserve Bank of India.",
     "tags": [
       "geography",
-      "physical-geography",
+      "nations-territories",
       "hard"
     ],
     "active": true
@@ -3091,15 +3091,15 @@
     "category": "Geography",
     "subcategory": "Nations & Territories",
     "difficulty": "easy",
-    "question": "World geography quiz: What is the official national capital of Canada? (Ref #148)",
+    "question": "Which country operates the territory of Greenland under its realm?",
     "options": [
-      "Toronto",
-      "Montreal",
-      "Vancouver",
-      "Ottawa"
+      "Norway",
+      "Iceland",
+      "Canada",
+      "Denmark"
     ],
     "correctAnswer": 3,
-    "explanation": "Queen Victoria designated Ottawa as the capital of Canada in 1857 due to its strategic location.",
+    "explanation": "Greenland is an autonomous constituent country within the Kingdom of Denmark.",
     "tags": [
       "geography",
       "nations-territories",
@@ -3108,64 +3108,64 @@
     "active": true
   },
   {
-    "id": "geography-us-state-capitals-0149",
+    "id": "geography-nations-territories-0149",
     "category": "Geography",
-    "subcategory": "US State Capitals",
+    "subcategory": "Nations & Territories",
     "difficulty": "medium",
-    "question": "World geography quiz: What is the vastest hot desert on planet Earth, spanning much of North Africa? (Ref #149)",
+    "question": "Which European microstate is nestled entirely in the Pyrenees mountains between France and Spain?",
     "options": [
-      "The Sahara Desert",
-      "The Gobi Desert",
-      "The Kalahari Desert",
-      "The Arabian Desert"
+      "Andorra",
+      "Liechtenstein",
+      "San Marino",
+      "Luxembourg"
     ],
     "correctAnswer": 0,
-    "explanation": "The Sahara covers approximately 3.5 million square miles, making it the largest non-polar desert on Earth.",
+    "explanation": "The Principality of Andorra is a sovereign co-principality in the eastern Pyrenees.",
     "tags": [
       "geography",
-      "us-state-capitals",
+      "nations-territories",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "geography-world-capitals-0150",
+    "id": "geography-nations-territories-0150",
     "category": "Geography",
-    "subcategory": "World Capitals",
+    "subcategory": "Nations & Territories",
     "difficulty": "hard",
-    "question": "World geography quiz: What imaginary line of latitude divides the Earth into the Northern and Southern Hemispheres at zero degrees? (Ref #150)",
+    "question": "Which European microstate is landlocked between Switzerland and Austria along the Rhine River?",
     "options": [
-      "Prime Meridian",
-      "The Equator",
-      "Tropic of Cancer",
-      "Tropic of Capricorn"
+      "Monaco",
+      "Liechtenstein",
+      "Luxembourg",
+      "Andorra"
     ],
     "correctAnswer": 1,
-    "explanation": "The Equator is the zero-degree parallel of latitude, measuring approximately 24,901 miles in circumference.",
+    "explanation": "Liechtenstein is a doubly landlocked Alpine principality.",
     "tags": [
       "geography",
-      "world-capitals",
+      "nations-territories",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "geography-physical-geography-0151",
+    "id": "geography-nations-territories-0151",
     "category": "Geography",
-    "subcategory": "Physical Geography",
+    "subcategory": "Nations & Territories",
     "difficulty": "easy",
-    "question": "World geography quiz: What is the official state capital of California? (Ref #151)",
+    "question": "Which country has the city of Istanbul, historically located on two different continents?",
     "options": [
-      "Los Angeles",
-      "San Francisco",
-      "Sacramento",
-      "San Diego"
+      "Egypt",
+      "Russia",
+      "Turkey",
+      "Cyprus"
     ],
     "correctAnswer": 2,
-    "explanation": "Sacramento has been California's capital since 1854, situated at the confluence of the Sacramento and American rivers.",
+    "explanation": "Istanbul is split by the Bosporus Strait, placing half of the city in Europe and half in Asia.",
     "tags": [
       "geography",
-      "physical-geography",
+      "nations-territories",
       "easy"
     ],
     "active": true
@@ -3175,15 +3175,15 @@
     "category": "Geography",
     "subcategory": "Nations & Territories",
     "difficulty": "medium",
-    "question": "World geography quiz: What is the official state capital of Texas? (Ref #152)",
+    "question": "Which nation contains the famous historic ruin citadel of Machu Picchu?",
     "options": [
-      "Houston",
-      "Dallas",
-      "San Antonio",
-      "Austin"
+      "Bolivia",
+      "Chile",
+      "Ecuador",
+      "Peru"
     ],
     "correctAnswer": 3,
-    "explanation": "Austin is the state capital of Texas and the seat of Travis County, known as the Live Music Capital of the World.",
+    "explanation": "Machu Picchu is a 15th-century Inca citadel situated high in the Andes mountains of Peru.",
     "tags": [
       "geography",
       "nations-territories",
@@ -3192,64 +3192,64 @@
     "active": true
   },
   {
-    "id": "geography-us-state-capitals-0153",
+    "id": "geography-nations-territories-0153",
     "category": "Geography",
-    "subcategory": "US State Capitals",
+    "subcategory": "Nations & Territories",
     "difficulty": "hard",
-    "question": "World geography quiz: What is the official national capital of Australia? (Ref #153)",
+    "question": "What is the official currency of the People's Republic of China?",
     "options": [
-      "Canberra",
-      "Sydney",
-      "Melbourne",
-      "Brisbane"
+      "Renminbi (Yuan)",
+      "Yen",
+      "Won",
+      "Baht"
     ],
     "correctAnswer": 0,
-    "explanation": "Canberra was selected as a planned capital city compromise between rivals Sydney and Melbourne in 1908.",
+    "explanation": "The official currency of China is the Renminbi ('people's currency'), with the primary unit being the Yuan.",
     "tags": [
       "geography",
-      "us-state-capitals",
+      "nations-territories",
       "hard"
     ],
     "active": true
   },
   {
-    "id": "geography-world-capitals-0154",
+    "id": "geography-nations-territories-0154",
     "category": "Geography",
-    "subcategory": "World Capitals",
+    "subcategory": "Nations & Territories",
     "difficulty": "easy",
-    "question": "World geography quiz: What is the official national capital of Canada? (Ref #154)",
+    "question": "Which country borders the most other sovereign nations by land (sharing 14 land borders)?",
     "options": [
-      "Toronto",
-      "Ottawa",
-      "Montreal",
-      "Vancouver"
+      "Germany and France",
+      "China and Russia",
+      "Brazil and Argentina",
+      "India and Pakistan"
     ],
     "correctAnswer": 1,
-    "explanation": "Queen Victoria designated Ottawa as the capital of Canada in 1857 due to its strategic location.",
+    "explanation": "Both China and Russia border 14 distinct recognized sovereign states on land.",
     "tags": [
       "geography",
-      "world-capitals",
+      "nations-territories",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "geography-physical-geography-0155",
+    "id": "geography-nations-territories-0155",
     "category": "Geography",
-    "subcategory": "Physical Geography",
+    "subcategory": "Nations & Territories",
     "difficulty": "medium",
-    "question": "World geography quiz: What is the vastest hot desert on planet Earth, spanning much of North Africa? (Ref #155)",
+    "question": "What is the largest country in South America by both land area and population?",
     "options": [
-      "The Gobi Desert",
-      "The Kalahari Desert",
-      "The Sahara Desert",
-      "The Arabian Desert"
+      "Argentina",
+      "Colombia",
+      "Brazil",
+      "Peru"
     ],
     "correctAnswer": 2,
-    "explanation": "The Sahara covers approximately 3.5 million square miles, making it the largest non-polar desert on Earth.",
+    "explanation": "Brazil occupies nearly half the South American landmass and has over 215 million citizens.",
     "tags": [
       "geography",
-      "physical-geography",
+      "nations-territories",
       "medium"
     ],
     "active": true
@@ -3259,15 +3259,15 @@
     "category": "Geography",
     "subcategory": "Nations & Territories",
     "difficulty": "hard",
-    "question": "World geography quiz: What imaginary line of latitude divides the Earth into the Northern and Southern Hemispheres at zero degrees? (Ref #156)",
+    "question": "Which country is located on the Iberian Peninsula along with Spain?",
     "options": [
-      "Prime Meridian",
-      "Tropic of Cancer",
-      "Tropic of Capricorn",
-      "The Equator"
+      "Italy",
+      "France",
+      "Greece",
+      "Portugal"
     ],
     "correctAnswer": 3,
-    "explanation": "The Equator is the zero-degree parallel of latitude, measuring approximately 24,901 miles in circumference.",
+    "explanation": "The Iberian Peninsula in southwestern Europe is predominantly shared by Spain and Portugal.",
     "tags": [
       "geography",
       "nations-territories",
@@ -3276,64 +3276,64 @@
     "active": true
   },
   {
-    "id": "geography-us-state-capitals-0157",
+    "id": "geography-nations-territories-0157",
     "category": "Geography",
-    "subcategory": "US State Capitals",
+    "subcategory": "Nations & Territories",
     "difficulty": "easy",
-    "question": "World geography quiz: What is the official state capital of California? (Ref #157)",
+    "question": "Which nation comprises the North Island and South Island separated by Cook Strait?",
     "options": [
-      "Sacramento",
-      "Los Angeles",
-      "San Francisco",
-      "San Diego"
+      "New Zealand",
+      "Fiji",
+      "Samoa",
+      "Vanuatu"
     ],
     "correctAnswer": 0,
-    "explanation": "Sacramento has been California's capital since 1854, situated at the confluence of the Sacramento and American rivers.",
+    "explanation": "New Zealand consists of two main landmasses: Te Ika-a-Maui (North Island) and Te Waipounamu (South Island).",
     "tags": [
       "geography",
-      "us-state-capitals",
+      "nations-territories",
       "easy"
     ],
     "active": true
   },
   {
-    "id": "geography-world-capitals-0158",
+    "id": "geography-nations-territories-0158",
     "category": "Geography",
-    "subcategory": "World Capitals",
+    "subcategory": "Nations & Territories",
     "difficulty": "medium",
-    "question": "World geography quiz: What is the official state capital of Texas? (Ref #158)",
+    "question": "What is the national currency of the Russian Federation?",
     "options": [
-      "Houston",
-      "Austin",
-      "Dallas",
-      "San Antonio"
+      "Dinar",
+      "Ruble",
+      "Lira",
+      "Kopek"
     ],
     "correctAnswer": 1,
-    "explanation": "Austin is the state capital of Texas and the seat of Travis County, known as the Live Music Capital of the World.",
+    "explanation": "The Russian ruble (RUB) is the official currency of Russia.",
     "tags": [
       "geography",
-      "world-capitals",
+      "nations-territories",
       "medium"
     ],
     "active": true
   },
   {
-    "id": "geography-physical-geography-0159",
+    "id": "geography-nations-territories-0159",
     "category": "Geography",
-    "subcategory": "Physical Geography",
+    "subcategory": "Nations & Territories",
     "difficulty": "hard",
-    "question": "World geography quiz: What is the official national capital of Australia? (Ref #159)",
+    "question": "Which nation in East Africa has Nairobi as its capital?",
     "options": [
-      "Sydney",
-      "Melbourne",
-      "Canberra",
-      "Brisbane"
+      "Tanzania",
+      "Uganda",
+      "Kenya",
+      "Rwanda"
     ],
     "correctAnswer": 2,
-    "explanation": "Canberra was selected as a planned capital city compromise between rivals Sydney and Melbourne in 1908.",
+    "explanation": "Nairobi is the capital of Kenya, known as the 'Green City in the Sun'.",
     "tags": [
       "geography",
-      "physical-geography",
+      "nations-territories",
       "hard"
     ],
     "active": true
@@ -3343,15 +3343,15 @@
     "category": "Geography",
     "subcategory": "Nations & Territories",
     "difficulty": "easy",
-    "question": "World geography quiz: What is the official national capital of Canada? (Ref #160)",
+    "question": "Which country is home to the ancient rock-cut city of Petra?",
     "options": [
-      "Toronto",
-      "Montreal",
-      "Vancouver",
-      "Ottawa"
+      "Syria",
+      "Lebanon",
+      "Israel",
+      "Jordan"
     ],
     "correctAnswer": 3,
-    "explanation": "Queen Victoria designated Ottawa as the capital of Canada in 1857 due to its strategic location.",
+    "explanation": "Petra, the rose-red capital of the Nabataean Kingdom, is located in southern Jordan.",
     "tags": [
       "geography",
       "nations-territories",
