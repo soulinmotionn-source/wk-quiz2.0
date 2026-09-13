@@ -211,7 +211,12 @@ export function generateQuizQuestions(options: QuizFilterOptions = {}): Shuffled
     const subKey = normalizeKey(options.subcategory);
     const subFiltered = pool.filter(q => normalizeKey(q.subcategory).includes(subKey));
     if (subFiltered.length > 0) {
-      pool = subFiltered;
+      if (options.count && subFiltered.length < options.count) {
+        const remaining = pool.filter(q => !normalizeKey(q.subcategory).includes(subKey));
+        pool = [...subFiltered, ...remaining];
+      } else {
+        pool = subFiltered;
+      }
     }
   }
 

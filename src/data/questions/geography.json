@@ -80,42 +80,42 @@
       "Tacoma"
     ],
     "correctAnswer": 2,
-    "explanation": "Olympia is the capital of Washington State, located at the southern end of Puget Sound on Budd Inlet.",
-    "tags": ["USA", "washington", "capitals"],
+    "explanation": "Carson City was named after mountain man Kit Carson and became the capital of Nevada upon statehood in 1864.",
+    "tags": ["capitals", "nevada", "usa"],
     "active": true
   },
   {
     "id": "geo-006",
     "category": "Geography",
-    "subcategory": "World Geography",
+    "subcategory": "US State Capitals",
     "difficulty": "easy",
-    "question": "Which ocean is the largest and deepest on Earth?",
+    "question": "What is the capital city of Florida?",
     "options": [
-      "Atlantic Ocean",
-      "Indian Ocean",
-      "Pacific Ocean",
-      "Arctic Ocean"
+      "Miami",
+      "Orlando",
+      "Tallahassee",
+      "Jacksonville"
     ],
     "correctAnswer": 2,
-    "explanation": "The Pacific Ocean covers more than 60 million square miles (roughly 30% of the Earth's surface) and contains the Mariana Trench, the deepest spot on the planet.",
-    "tags": ["oceans", "world", "earth"],
+    "explanation": "Tallahassee has served as Florida's capital since 1824, chosen as a midpoint between Pensacola and St. Augustine.",
+    "tags": ["capitals", "florida", "usa"],
     "active": true
   },
   {
     "id": "geo-007",
     "category": "Geography",
-    "subcategory": "World Geography",
+    "subcategory": "US State Capitals",
     "difficulty": "medium",
-    "question": "Which river is widely recognized as the longest river in the world?",
+    "question": "What is the capital city of Washington State?",
     "options": [
-      "Amazon River",
-      "Nile River",
-      "Yangtze River",
-      "Mississippi River"
+      "Seattle",
+      "Olympia",
+      "Spokane",
+      "Tacoma"
     ],
     "correctAnswer": 1,
-    "explanation": "The Nile River in northeastern Africa flows approximately 6,650 kilometers (4,132 miles), traditionally recognized as the longest river on Earth.",
-    "tags": ["rivers", "africa", "world-geography"],
+    "explanation": "Olympia is the capital of Washington State, incorporated in 1859 and situated at the southern end of Puget Sound.",
+    "tags": ["capitals", "washington", "usa"],
     "active": true
   },
   {
