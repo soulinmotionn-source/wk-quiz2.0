@@ -1,0 +1,87 @@
+[
+  {
+    "id": "med-001",
+    "category": "Medical",
+    "subcategory": "Medical Terminology",
+    "difficulty": "easy",
+    "question": "What does the medical suffix '-itis' denote in clinical terminology?",
+    "options": [
+      "Surgical removal or excision",
+      "Inflammation or swelling",
+      "Abnormal enlargement",
+      "Deficiency or reduction"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The suffix '-itis' indicates inflammation (e.g., bronchitis = inflammation of the bronchi; appendicitis = inflammation of the appendix).",
+    "tags": ["terminology", "suffixes", "basics"],
+    "active": true
+  },
+  {
+    "id": "med-002",
+    "category": "Medical",
+    "subcategory": "Cardiology",
+    "difficulty": "medium",
+    "question": "What is the primary electrical pacemaker of the human heart under normal physiologic conditions?",
+    "options": [
+      "Atrioventricular (AV) node",
+      "Sinoatrial (SA) node",
+      "Bundle of His",
+      "Purkinje fiber network"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Sinoatrial (SA) node, located in the superior wall of the right atrium, generates spontaneous rhythmic electrical impulses at 60-100 beats per minute, functioning as the natural cardiac pacemaker.",
+    "tags": ["cardiology", "electrophysiology", "heart"],
+    "active": true
+  },
+  {
+    "id": "med-003",
+    "category": "Medical",
+    "subcategory": "Pathophysiology",
+    "difficulty": "medium",
+    "question": "What does a Glasgow Coma Scale (GCS) score of 8 or less generally indicate?",
+    "options": [
+      "Mild concussion with intact airway",
+      "Fully oriented and responsive mental state",
+      "Severe brain injury requiring intubation/airway protection",
+      "Moderate drowsiness managed with oral stimulation"
+    ],
+    "correctAnswer": 2,
+    "explanation": "A GCS score ranges from 3 to 15. A score of 8 or less denotes severe neurological impairment ('GCS of 8, intubate!') requiring immediate airway protection.",
+    "tags": ["neurology", "critical-care", "triage"],
+    "active": true
+  },
+  {
+    "id": "med-004",
+    "category": "Medical",
+    "subcategory": "Medical Terminology",
+    "difficulty": "easy",
+    "question": "The medical term 'dysphagia' refers to difficulty with which physiological action?",
+    "options": [
+      "Speaking or forming words",
+      "Swallowing liquids or solids",
+      "Breathing or gas exchange",
+      "Urination or bladder emptying"
+    ],
+    "correctAnswer": 1,
+    "explanation": "'Dysphagia' refers to difficulty swallowing, whereas 'dysphasia' or 'aphasia' relates to speech impairment, and 'dyspnea' denotes shortness of breath.",
+    "tags": ["terminology", "symptoms", "gastroenterology"],
+    "active": true
+  },
+  {
+    "id": "med-005",
+    "category": "Medical",
+    "subcategory": "Endocrinology",
+    "difficulty": "hard",
+    "question": "Which hormone is secreted by the adrenal cortex in response to ACTH to regulate carbohydrate metabolism and suppress inflammation?",
+    "options": [
+      "Aldosterone",
+      "Epinephrine",
+      "Cortisol",
+      "Calcitonin"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Cortisol is the primary glucocorticoid synthesized in the zona fasciculata of the adrenal cortex under the influence of adrenocorticotropic hormone (ACTH).",
+    "tags": ["endocrinology", "hormones", "adrenal"],
+    "active": true
+  }
+]

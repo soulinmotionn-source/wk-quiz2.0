@@ -1,0 +1,53 @@
+[
+  {
+    "id": "ent-001",
+    "category": "Entertainment",
+    "subcategory": "Cartoon Characters",
+    "difficulty": "easy",
+    "question": "What is the name of Mickey Mouse's loyal pet dog in classic Disney animation?",
+    "options": [
+      "Goofy",
+      "Pluto",
+      "Bolt",
+      "Scooby-Doo"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Pluto is Mickey Mouse's loyal yellow-orange pet dog who debuted in Disney shorts in 1930. Goofy is an anthropomorphic canine friend.",
+    "tags": ["disney", "cartoons", "animation"],
+    "active": true
+  },
+  {
+    "id": "ent-002",
+    "category": "Entertainment",
+    "subcategory": "Movies",
+    "difficulty": "medium",
+    "question": "Which film directed by James Cameron won 11 Academy Awards in 1998, tying the all-time Oscar record?",
+    "options": [
+      "Avatar",
+      "Titanic",
+      "The Terminator",
+      "Aliens"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Titanic (1997) won 11 Oscars at the 70th Academy Awards, tying Ben-Hur (1959) and later Lord of the Rings: Return of the King (2003).",
+    "tags": ["oscars", "movies", "cinema"],
+    "active": true
+  },
+  {
+    "id": "ent-003",
+    "category": "Entertainment",
+    "subcategory": "Cartoon Characters",
+    "difficulty": "easy",
+    "question": "In the animated series SpongeBob SquarePants, what type of sea creature is SpongeBob's best friend Patrick Star?",
+    "options": [
+      "Sea cucumber",
+      "Octopus",
+      "Starfish",
+      "Crab"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Patrick Star is an overweight, good-natured pink starfish who lives under a rock in the underwater city of Bikini Bottom.",
+    "tags": ["cartoons", "nickelodeon", "spongebob"],
+    "active": true
+  }
+]

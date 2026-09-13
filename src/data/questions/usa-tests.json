@@ -1,0 +1,53 @@
+[
+  {
+    "id": "dmv-001",
+    "category": "USA Tests",
+    "subcategory": "DMV Test",
+    "difficulty": "easy",
+    "question": "When approaching a flashing red traffic signal at an intersection, what must a driver do?",
+    "options": [
+      "Slow down and proceed with caution without stopping",
+      "Come to a complete stop, yield the right-of-way, and proceed when safe",
+      "Accelerate quickly before cross traffic arrives",
+      "Stop only if pedestrians are visible in the crosswalk"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A flashing red traffic light operates identically to a stop sign. You must make a complete stop behind the limit line or crosswalk, yield to oncoming vehicles and pedestrians, and proceed only when safe.",
+    "tags": ["DMV", "driving", "traffic-laws"],
+    "active": true
+  },
+  {
+    "id": "dmv-002",
+    "category": "USA Tests",
+    "subcategory": "DMV Test",
+    "difficulty": "medium",
+    "question": "What is the recommended minimum following distance behind another vehicle under ideal dry highway conditions?",
+    "options": [
+      "1 second",
+      "3 to 4 seconds",
+      "6 to 8 seconds",
+      "10 car lengths"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Modern defensive driving guidelines recommend a minimum 3 to 4-second following distance under normal dry conditions to provide adequate perception and braking buffer.",
+    "tags": ["defensive-driving", "DMV", "safety"],
+    "active": true
+  },
+  {
+    "id": "dmv-003",
+    "category": "USA Tests",
+    "subcategory": "DMV Test",
+    "difficulty": "hard",
+    "question": "Under what circumstance is it legal to exceed the posted speed limit on a multi-lane highway?",
+    "options": [
+      "When passing a slow-moving vehicle on a two-lane road in selected states",
+      "Never; the posted speed limit represents the absolute maximum legal speed under ideal conditions",
+      "Whenever the flow of adjacent traffic is moving faster",
+      "During early morning hours when visibility is clear"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Speed limits are statutory or regulatory ceilings. It is illegal to exceed the posted speed limit regardless of traffic flow, time of day, or lane position.",
+    "tags": ["speed-limits", "DMV", "traffic-laws"],
+    "active": true
+  }
+]

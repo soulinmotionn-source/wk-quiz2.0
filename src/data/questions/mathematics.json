@@ -1,0 +1,53 @@
+[
+  {
+    "id": "math-001",
+    "category": "Mathematics",
+    "subcategory": "Mental Math & Arithmetic",
+    "difficulty": "easy",
+    "question": "What is the product of 15 multiplied by 14?",
+    "options": [
+      "190",
+      "210",
+      "225",
+      "205"
+    ],
+    "correctAnswer": 1,
+    "explanation": "15 × 14 = 15 × (10 + 4) = 150 + 60 = 210.",
+    "tags": ["arithmetic", "math", "mental-math"],
+    "active": true
+  },
+  {
+    "id": "math-002",
+    "category": "Mathematics",
+    "subcategory": "Geometry",
+    "difficulty": "medium",
+    "question": "What is the sum of the interior angles of any planar polygon with 5 sides (a pentagon)?",
+    "options": [
+      "360 degrees",
+      "540 degrees",
+      "720 degrees",
+      "900 degrees"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The formula for the sum of the interior angles of an n-sided polygon is (n - 2) × 180°. For a pentagon (n=5): (5 - 2) × 180° = 3 × 180° = 540°.",
+    "tags": ["geometry", "angles", "polygons"],
+    "active": true
+  },
+  {
+    "id": "math-003",
+    "category": "Mathematics",
+    "subcategory": "IQ & Logic",
+    "difficulty": "medium",
+    "question": "What is the next number in the sequence: 2, 6, 12, 20, 30, ...?",
+    "options": [
+      "40",
+      "42",
+      "44",
+      "46"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The differences between consecutive terms increase by 2 each step: +4, +6, +8, +10, +12. Thus, 30 + 12 = 42. Alternatively, n × (n + 1) for n=1..6 gives 1×2=2, 2×3=6, 3×4=12, 4×5=20, 5×6=30, 6×7=42.",
+    "tags": ["logic", "sequences", "patterns"],
+    "active": true
+  }
+]

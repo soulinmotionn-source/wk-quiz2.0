@@ -1,0 +1,70 @@
+[
+  {
+    "id": "tech-001",
+    "category": "Technology",
+    "subcategory": "Web & Software",
+    "difficulty": "easy",
+    "question": "What does the abbreviation 'HTML' stand for in web development?",
+    "options": [
+      "Hyper Text Markup Language",
+      "High Tech Modern Language",
+      "Hyper Transfer Machine Language",
+      "Home Tool Management Layer"
+    ],
+    "correctAnswer": 0,
+    "explanation": "HTML stands for HyperText Markup Language, the standard authoring format for documents designed to be displayed in a web browser.",
+    "tags": ["web", "html", "programming"],
+    "active": true
+  },
+  {
+    "id": "tech-002",
+    "category": "Technology",
+    "subcategory": "Computer Architecture",
+    "difficulty": "easy",
+    "question": "What primary role does RAM (Random Access Memory) play in a computer?",
+    "options": [
+      "Permanent optical storage for media files",
+      "High-speed temporary volatile memory for active running processes",
+      "Translating digital video signals into display pixels",
+      "Regulating electrical power input from the wall outlet"
+    ],
+    "correctAnswer": 1,
+    "explanation": "RAM is fast, volatile primary storage used by the CPU to rapidly read and write working data for currently active programs and operating system operations.",
+    "tags": ["hardware", "computers", "memory"],
+    "active": true
+  },
+  {
+    "id": "tech-003",
+    "category": "Technology",
+    "subcategory": "Networking",
+    "difficulty": "medium",
+    "question": "Which networking protocol functions on port 443 to secure encrypted HTTP web traffic using TLS/SSL?",
+    "options": [
+      "FTP",
+      "SMTP",
+      "HTTPS",
+      "SSH"
+    ],
+    "correctAnswer": 2,
+    "explanation": "HTTPS (Hypertext Transfer Protocol Secure) operates primarily over TCP port 443, securing browser communication via Transport Layer Security (TLS).",
+    "tags": ["networking", "security", "protocols"],
+    "active": true
+  },
+  {
+    "id": "tech-004",
+    "category": "Technology",
+    "subcategory": "Computer Science",
+    "difficulty": "hard",
+    "question": "What is the average-case time complexity of the standard QuickSort algorithm?",
+    "options": [
+      "O(n)",
+      "O(n log n)",
+      "O(n²)",
+      "O(log n)"
+    ],
+    "correctAnswer": 1,
+    "explanation": "QuickSort achieves an average time complexity of O(n log n) by partitioning elements around a pivot. Its worst-case time complexity is O(n²) when the partition is unbalanced.",
+    "tags": ["algorithms", "computer-science", "sorting"],
+    "active": true
+  }
+]

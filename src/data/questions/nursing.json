@@ -1,0 +1,104 @@
+[
+  {
+    "id": "nurs-001",
+    "category": "Nursing",
+    "subcategory": "Fundamentals & Clinical Judgment",
+    "difficulty": "easy",
+    "question": "What is considered a normal resting heart rate range for a healthy adult?",
+    "options": [
+      "40 to 60 beats per minute",
+      "60 to 100 beats per minute",
+      "100 to 120 beats per minute",
+      "120 to 140 beats per minute"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A normal resting heart rate for a healthy adult typically ranges between 60 and 100 beats per minute. Bradycardia is defined as <60 bpm, and tachycardia is >100 bpm.",
+    "tags": ["vital-signs", "adult-health", "fundamentals"],
+    "active": true
+  },
+  {
+    "id": "nurs-002",
+    "category": "Nursing",
+    "subcategory": "NCLEX",
+    "difficulty": "medium",
+    "question": "A nurse receives report on four clients. Which client should the nurse assess first (Priority Assessment)?",
+    "options": [
+      "A client with diabetes whose morning blood glucose is 180 mg/dL",
+      "A post-op client reporting surgical site pain rated 6 out of 10",
+      "A client with asthma demonstrating inspiratory stridor and intercostal retractions",
+      "A client scheduled for discharge requesting medication education"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Using ABCs (Airway, Breathing, Circulation), inspiratory stridor and intercostal retractions signify severe upper airway obstruction or acute respiratory distress requiring immediate intervention.",
+    "tags": ["NCLEX", "triage", "prioritization", "ABCs"],
+    "active": true
+  },
+  {
+    "id": "nurs-003",
+    "category": "Nursing",
+    "subcategory": "Infection Control",
+    "difficulty": "easy",
+    "question": "Which personal protective equipment (PPE) is mandatory when caring for a patient on Airborne Precautions with suspected Tuberculosis?",
+    "options": [
+      "Standard surgical mask and clean gloves",
+      "N95 respirator or PAPR, plus negative pressure room isolation",
+      "Gown and sterile surgical gloves only",
+      "Face shield only"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Tuberculosis droplet nuclei remain suspended in the air. Healthcare providers must wear an N95 respirator mask or powered air-purifying respirator (PAPR) and place the patient in a negative-pressure airborne infection isolation room (AIIR).",
+    "tags": ["infection-control", "tuberculosis", "PPE"],
+    "active": true
+  },
+  {
+    "id": "nurs-004",
+    "category": "Nursing",
+    "subcategory": "NCLEX",
+    "difficulty": "hard",
+    "question": "A client taking digoxin (Lanoxin) reports seeing yellow-green halos around lights and experiencing nausea. What is the nurse's priority action?",
+    "options": [
+      "Administer an antiemetic and reassess in one hour",
+      "Withhold the dose, check serum potassium and digoxin levels, and notify the provider",
+      "Encourage oral fluids to dilute the medication",
+      "Document the finding as a common benign side effect"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Visual halos (xanthopsia), nausea, and vomiting are hallmark signs of digoxin toxicity, frequently exacerbated by hypokalemia. The nurse must withhold the medication, check serum potassium and digoxin levels, and alert the provider immediately.",
+    "tags": ["pharmacology", "NCLEX", "cardiovascular", "toxicity"],
+    "active": true
+  },
+  {
+    "id": "nurs-005",
+    "category": "Nursing",
+    "subcategory": "Patient Safety",
+    "difficulty": "medium",
+    "question": "According to the 'Five Rights of Delegation', what task can a Registered Nurse appropriately delegate to an unlicensed assistive personnel (UAP)?",
+    "options": [
+      "Evaluating pain relief after narcotic administration",
+      "Initial assessment of a newly admitted client",
+      "Measuring and recording intake and output (I&O) for a stable client",
+      "Teaching a client how to self-administer subcutaneous insulin"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Nurses cannot delegate assessment, teaching, medication administration, or clinical evaluation (remember 'EAT'). Measuring standard intake and output on a stable client is well within the UAP's scope.",
+    "tags": ["delegation", "scope-of-practice", "safety"],
+    "active": true
+  },
+  {
+    "id": "nurs-006",
+    "category": "Nursing",
+    "subcategory": "Fundamentals",
+    "difficulty": "hard",
+    "question": "A patient with severe burns has entered the emergent phase. Which laboratory abnormality is most critical to monitor for during the initial 24 to 48 hours?",
+    "options": [
+      "Hypercalcemia",
+      "Hyperkalemia due to massive cellular destruction",
+      "Hypoglycemia",
+      "Metabolic alkalosis"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Massive cellular lysis in severe thermal burns releases intracellular potassium into the extracellular space, resulting in life-threatening hyperkalemia and cardiac dysrhythmias.",
+    "tags": ["burns", "fluids-electrolytes", "NCLEX"],
+    "active": true
+  }
+]

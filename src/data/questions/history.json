@@ -1,0 +1,53 @@
+[
+  {
+    "id": "hist-001",
+    "category": "History",
+    "subcategory": "US History",
+    "difficulty": "easy",
+    "question": "In what year was the United States Declaration of Independence adopted in Philadelphia?",
+    "options": [
+      "1776",
+      "1789",
+      "1765",
+      "1812"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The Continental Congress officially adopted the Declaration of Independence on July 4, 1776, proclaiming the 13 American colonies free from British rule.",
+    "tags": ["USA", "independence", "revolution"],
+    "active": true
+  },
+  {
+    "id": "hist-002",
+    "category": "History",
+    "subcategory": "World History",
+    "difficulty": "medium",
+    "question": "Which ancient civilization constructed Machu Picchu high in the Andes mountains of Peru?",
+    "options": [
+      "Aztec Empire",
+      "Inca Empire",
+      "Maya Civilization",
+      "Olmec Civilization"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Machu Picchu was built by the Inca Empire around 1450 CE under the reign of Emperor Pachacuti.",
+    "tags": ["ancient-history", "south-america", "inca"],
+    "active": true
+  },
+  {
+    "id": "hist-003",
+    "category": "History",
+    "subcategory": "World History",
+    "difficulty": "hard",
+    "question": "Which 1215 English royal charter granted protections against arbitrary arrest and established that the king was bound by the rule of law?",
+    "options": [
+      "The Magna Carta",
+      "The English Bill of Rights",
+      "The Treaty of Utrecht",
+      "The Petition of Right"
+    ],
+    "correctAnswer": 0,
+    "explanation": "King John of England was forced by rebel barons to agree to the Magna Carta (Great Charter) at Runnymede in June 1215.",
+    "tags": ["medieval", "law", "magna-carta"],
+    "active": true
+  }
+]

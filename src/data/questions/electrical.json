@@ -1,0 +1,53 @@
+[
+  {
+    "id": "elec-001",
+    "category": "Electrical",
+    "subcategory": "Basic Circuits",
+    "difficulty": "easy",
+    "question": "According to Ohm's Law, which equation correctly relates Voltage (V), Current (I), and Resistance (R)?",
+    "options": [
+      "V = I × R",
+      "V = I / R",
+      "I = V × R",
+      "R = V × I"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Ohm's Law states that the current through a conductor between two points is directly proportional to voltage and inversely proportional to resistance: V = I × R.",
+    "tags": ["circuits", "ohms-law", "physics"],
+    "active": true
+  },
+  {
+    "id": "elec-002",
+    "category": "Electrical",
+    "subcategory": "Electrical Symbols",
+    "difficulty": "medium",
+    "question": "In standard schematic diagrams, what component is represented by two parallel flat plates with a gap between them?",
+    "options": [
+      "Resistor",
+      "Inductor",
+      "Capacitor",
+      "Diode"
+    ],
+    "correctAnswer": 2,
+    "explanation": "A capacitor is symbolized by two parallel plates separated by a dielectric gap, representing its function of storing electrical energy in an electrostatic field.",
+    "tags": ["schematics", "symbols", "capacitors"],
+    "active": true
+  },
+  {
+    "id": "elec-003",
+    "category": "Electrical",
+    "subcategory": "Electronics",
+    "difficulty": "medium",
+    "question": "What is the primary function of a diode in an electronic circuit?",
+    "options": [
+      "Amplify an alternating current signal",
+      "Allow current to flow in one direction while blocking it in reverse",
+      "Store large amounts of electrical charge",
+      "Step down AC voltage to lower levels"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A semiconductor diode exhibits low resistance to current flow in one direction (forward bias) and very high resistance in the opposite direction (reverse bias).",
+    "tags": ["semiconductors", "diodes", "electronics"],
+    "active": true
+  }
+]

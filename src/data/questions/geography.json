@@ -1,0 +1,121 @@
+[
+  {
+    "id": "geo-001",
+    "category": "Geography",
+    "subcategory": "US State Capitals",
+    "difficulty": "easy",
+    "question": "What is the capital city of California?",
+    "options": [
+      "Los Angeles",
+      "Sacramento",
+      "San Francisco",
+      "San Diego"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Sacramento has been the official capital of California since 1854, located at the confluence of the Sacramento River and the American River.",
+    "tags": ["USA", "capitals", "california"],
+    "active": true
+  },
+  {
+    "id": "geo-002",
+    "category": "Geography",
+    "subcategory": "US State Capitals",
+    "difficulty": "easy",
+    "question": "What is the state capital of Texas?",
+    "options": [
+      "Houston",
+      "Dallas",
+      "Austin",
+      "San Antonio"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Austin is the capital city of Texas and the seat of Travis County, famous for the Texas State Capitol building made of sunset red granite.",
+    "tags": ["USA", "texas", "capitals"],
+    "active": true
+  },
+  {
+    "id": "geo-003",
+    "category": "Geography",
+    "subcategory": "US State Capitals",
+    "difficulty": "medium",
+    "question": "What is the capital of New York State?",
+    "options": [
+      "New York City",
+      "Buffalo",
+      "Albany",
+      "Rochester"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Albany has served as the capital of New York State since 1797. Many mistakenly assume New York City is the capital.",
+    "tags": ["USA", "new-york", "capitals"],
+    "active": true
+  },
+  {
+    "id": "geo-004",
+    "category": "Geography",
+    "subcategory": "US State Capitals",
+    "difficulty": "medium",
+    "question": "What is the state capital of Florida?",
+    "options": [
+      "Miami",
+      "Orlando",
+      "Tallahassee",
+      "Tampa"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Tallahassee became the capital of Florida in 1824, chosen as a compromise location situated between St. Augustine and Pensacola.",
+    "tags": ["USA", "florida", "capitals"],
+    "active": true
+  },
+  {
+    "id": "geo-005",
+    "category": "Geography",
+    "subcategory": "US State Capitals",
+    "difficulty": "hard",
+    "question": "What is the capital city of Washington State?",
+    "options": [
+      "Seattle",
+      "Spokane",
+      "Olympia",
+      "Tacoma"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Olympia is the capital of Washington State, located at the southern end of Puget Sound on Budd Inlet.",
+    "tags": ["USA", "washington", "capitals"],
+    "active": true
+  },
+  {
+    "id": "geo-006",
+    "category": "Geography",
+    "subcategory": "World Geography",
+    "difficulty": "easy",
+    "question": "Which ocean is the largest and deepest on Earth?",
+    "options": [
+      "Atlantic Ocean",
+      "Indian Ocean",
+      "Pacific Ocean",
+      "Arctic Ocean"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Pacific Ocean covers more than 60 million square miles (roughly 30% of the Earth's surface) and contains the Mariana Trench, the deepest spot on the planet.",
+    "tags": ["oceans", "world", "earth"],
+    "active": true
+  },
+  {
+    "id": "geo-007",
+    "category": "Geography",
+    "subcategory": "World Geography",
+    "difficulty": "medium",
+    "question": "Which river is widely recognized as the longest river in the world?",
+    "options": [
+      "Amazon River",
+      "Nile River",
+      "Yangtze River",
+      "Mississippi River"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Nile River in northeastern Africa flows approximately 6,650 kilometers (4,132 miles), traditionally recognized as the longest river on Earth.",
+    "tags": ["rivers", "africa", "world-geography"],
+    "active": true
+  }
+]

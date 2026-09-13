@@ -1,0 +1,87 @@
+[
+  {
+    "id": "sci-001",
+    "category": "Science",
+    "subcategory": "Cell Biology",
+    "difficulty": "easy",
+    "question": "Which organelle is widely referred to as the 'powerhouse of the cell' for synthesizing ATP?",
+    "options": [
+      "Ribosome",
+      "Endoplasmic reticulum",
+      "Mitochondrion",
+      "Golgi apparatus"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Mitochondria produce the majority of cellular adenosine triphosphate (ATP) through oxidative phosphorylation and cellular respiration.",
+    "tags": ["biology", "cells", "ATP"],
+    "active": true
+  },
+  {
+    "id": "sci-002",
+    "category": "Science",
+    "subcategory": "Chemistry",
+    "difficulty": "easy",
+    "question": "What is the chemical symbol for gold on the periodic table?",
+    "options": [
+      "Ag",
+      "Au",
+      "Fe",
+      "Gd"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The chemical symbol 'Au' derives from the Latin word 'aurum', meaning shining dawn or gold.",
+    "tags": ["chemistry", "periodic-table", "elements"],
+    "active": true
+  },
+  {
+    "id": "sci-003",
+    "category": "Science",
+    "subcategory": "Physics",
+    "difficulty": "medium",
+    "question": "What is the approximate speed of light in a vacuum?",
+    "options": [
+      "150,000 kilometers per second",
+      "300,000 kilometers per second",
+      "450,000 kilometers per second",
+      "3,000,000 kilometers per second"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The speed of light in a vacuum (c) is precisely 299,792,458 meters per second, or approximately 300,000 km/s (186,282 miles per second).",
+    "tags": ["physics", "light", "astronomy"],
+    "active": true
+  },
+  {
+    "id": "sci-004",
+    "category": "Science",
+    "subcategory": "Earth Science",
+    "difficulty": "medium",
+    "question": "Which gas comprises approximately 78% of Earth's atmosphere by volume?",
+    "options": [
+      "Oxygen",
+      "Nitrogen",
+      "Carbon Dioxide",
+      "Argon"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Nitrogen makes up roughly 78% of dry air in Earth's atmosphere, followed by oxygen at roughly 21%, argon at 0.93%, and trace amounts of other gases.",
+    "tags": ["earth-science", "atmosphere", "gases"],
+    "active": true
+  },
+  {
+    "id": "sci-005",
+    "category": "Science",
+    "subcategory": "Genetics",
+    "difficulty": "hard",
+    "question": "Which nitrogenous base pairs specifically with adenine in double-stranded DNA via two hydrogen bonds?",
+    "options": [
+      "Cytosine",
+      "Guanine",
+      "Thymine",
+      "Uracil"
+    ],
+    "correctAnswer": 2,
+    "explanation": "In DNA, adenine (A) pairs with thymine (T) via two hydrogen bonds, while guanine (G) pairs with cytosine (C) via three hydrogen bonds. Uracil replaces thymine in RNA.",
+    "tags": ["genetics", "DNA", "molecular-biology"],
+    "active": true
+  }
+]

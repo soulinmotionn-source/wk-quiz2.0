@@ -1,0 +1,87 @@
+[
+  {
+    "id": "anat-001",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Skeletal System",
+    "difficulty": "easy",
+    "question": "What is the longest and strongest bone in the human body?",
+    "options": [
+      "Tibia",
+      "Femur (Thigh bone)",
+      "Humerus",
+      "Fibula"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The femur, or thigh bone, is both the longest and strongest bone in the human skeletal system, supporting substantial body weight and mechanical stress during walking and jumping.",
+    "tags": ["skeletal-system", "bones", "anatomy"],
+    "active": true
+  },
+  {
+    "id": "anat-002",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Skeletal System",
+    "difficulty": "medium",
+    "question": "How many cervical vertebrae are found in the normal human adult spinal column?",
+    "options": [
+      "5 vertebrae",
+      "7 vertebrae",
+      "12 vertebrae",
+      "4 vertebrae"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The human spinal column has 7 cervical vertebrae (C1-C7), 12 thoracic vertebrae (T1-T12), and 5 lumbar vertebrae (L1-L5). A common mnemonic is eating meals at 7 AM, 12 PM, and 5 PM.",
+    "tags": ["spine", "vertebrae", "bones"],
+    "active": true
+  },
+  {
+    "id": "anat-003",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Organ Systems",
+    "difficulty": "easy",
+    "question": "Which organ is the largest internal organ in the human body?",
+    "options": [
+      "Brain",
+      "Liver",
+      "Lungs",
+      "Kidneys"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The liver is the largest internal organ (and the largest gland) in the human body, weighing approximately 3 to 3.5 pounds. The skin is the largest organ overall.",
+    "tags": ["organs", "digestive-system", "liver"],
+    "active": true
+  },
+  {
+    "id": "anat-004",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Cardiovascular Anatomy",
+    "difficulty": "medium",
+    "question": "Which blood vessel carries oxygen-rich blood from the lungs directly into the left atrium of the heart?",
+    "options": [
+      "Superior vena cava",
+      "Pulmonary veins",
+      "Pulmonary artery",
+      "Aorta"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Pulmonary veins are unusual because unlike systemic veins, they carry oxygenated blood from the lungs back to the left atrium of the heart.",
+    "tags": ["circulatory", "heart", "lungs"],
+    "active": true
+  },
+  {
+    "id": "anat-005",
+    "category": "Anatomy & Physiology",
+    "subcategory": "Musculoskeletal",
+    "difficulty": "hard",
+    "question": "Which tendon connects the calf muscles (gastrocnemius and soleus) to the calcaneus (heel bone)?",
+    "options": [
+      "Patellar tendon",
+      "Achilles tendon (calcaneal tendon)",
+      "Hamstring tendon",
+      "Plantaris aponeurosis"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Achilles tendon (calcaneal tendon) is the thickest and strongest tendon in the human body, inserting into the posterior surface of the calcaneus.",
+    "tags": ["muscles", "tendons", "lower-extremity"],
+    "active": true
+  }
+]
