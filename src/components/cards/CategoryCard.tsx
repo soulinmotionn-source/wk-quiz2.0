@@ -86,7 +86,7 @@ export const CategoryCard: React.FC<CategoryCardProps> = ({ category }) => {
             color: 'var(--color-text-muted)'
           }}
         >
-          {category.questionCount}+ Questions
+          {category.questionCount > 0 ? `${category.questionCount} Questions` : 'Coming Soon'}
         </span>
 
         <span

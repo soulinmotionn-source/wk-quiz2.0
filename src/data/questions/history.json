@@ -49,5 +49,124 @@
     "explanation": "King John of England was forced by rebel barons to agree to the Magna Carta (Great Charter) at Runnymede in June 1215.",
     "tags": ["medieval", "law", "magna-carta"],
     "active": true
+  },
+  {
+    "id": "hist-004",
+    "category": "History",
+    "subcategory": "US History",
+    "difficulty": "easy",
+    "question": "Who served as the first President of the United States under the US Constitution?",
+    "options": [
+      "Thomas Jefferson",
+      "George Washington",
+      "John Adams",
+      "Benjamin Franklin"
+    ],
+    "correctAnswer": 1,
+    "explanation": "George Washington served as the first US president from 1789 to 1797, following his role as commander-in-chief of the Continental Army.",
+    "tags": ["USA", "presidents", "constitution"],
+    "active": true
+  },
+  {
+    "id": "hist-005",
+    "category": "History",
+    "subcategory": "World History",
+    "difficulty": "medium",
+    "question": "Which historic landmark amphitheater in Rome was completed under Emperor Titus in 80 CE?",
+    "options": [
+      "The Pantheon",
+      "The Colosseum",
+      "The Forum Romanum",
+      "The Circus Maximus"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Colosseum (Flavian Amphitheater) seated over 50,000 spectators for gladiatorial games and public spectacles.",
+    "tags": ["rome", "ancient-history", "architecture"],
+    "active": true
+  },
+  {
+    "id": "hist-006",
+    "category": "History",
+    "subcategory": "US History",
+    "difficulty": "medium",
+    "question": "Which major executive order issued by Abraham Lincoln on January 1, 1863, declared all slaves in Confederate territories to be forever free?",
+    "options": [
+      "The Gettysburg Address",
+      "The Emancipation Proclamation",
+      "The Compromise of 1850",
+      "The Civil Rights Act"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Emancipation Proclamation applied to states in rebellion and reshaped the Civil War into an explicit struggle for human freedom.",
+    "tags": ["civil-war", "lincoln", "emancipation"],
+    "active": true
+  },
+  {
+    "id": "hist-007",
+    "category": "History",
+    "subcategory": "World History",
+    "difficulty": "medium",
+    "question": "In what year did the Allied D-Day amphibious landings in Normandy take place during World War II?",
+    "options": [
+      "1941",
+      "1944",
+      "1945",
+      "1939"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Operation Overlord (D-Day) began on June 6, 1944, opening the Western Front in Europe against Nazi German forces.",
+    "tags": ["ww2", "d-day", "normandy"],
+    "active": true
+  },
+  {
+    "id": "hist-008",
+    "category": "History",
+    "subcategory": "US History",
+    "difficulty": "easy",
+    "question": "In July 1969, which NASA Apollo mission landed the first humans on the Moon?",
+    "options": [
+      "Apollo 8",
+      "Apollo 11",
+      "Apollo 13",
+      "Gemini 4"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Apollo 11 commander Neil Armstrong and lunar module pilot Buzz Aldrin landed on the lunar surface on July 20, 1969.",
+    "tags": ["nasa", "moon-landing", "space-race"],
+    "active": true
+  },
+  {
+    "id": "hist-009",
+    "category": "History",
+    "subcategory": "World History",
+    "difficulty": "medium",
+    "question": "Which cultural movement began in 14th-century Italy and marked the transition from the Middle Ages to modernity?",
+    "options": [
+      "The Enlightenment",
+      "The Renaissance",
+      "The Reformation",
+      "The Industrial Revolution"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Renaissance fostered a rebirth of classical learning, art (Michelangelo, Da Vinci), literature, and humanist philosophy.",
+    "tags": ["renaissance", "europe", "culture"],
+    "active": true
+  },
+  {
+    "id": "hist-010",
+    "category": "History",
+    "subcategory": "World History",
+    "difficulty": "hard",
+    "question": "Which 1919 treaty officially concluded World War I and established the League of Nations?",
+    "options": [
+      "Treaty of Ghent",
+      "Treaty of Versailles",
+      "Treaty of Paris",
+      "Treaty of Westphalia"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Treaty of Versailles was signed in June 1919 in the Hall of Mirrors at Versailles, formally ending hostilities between Germany and the Allied Powers.",
+    "tags": ["ww1", "treaty", "versailles"],
+    "active": true
   }
 ]

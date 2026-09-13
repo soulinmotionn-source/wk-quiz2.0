@@ -49,5 +49,124 @@
     "explanation": "A semiconductor diode exhibits low resistance to current flow in one direction (forward bias) and very high resistance in the opposite direction (reverse bias).",
     "tags": ["semiconductors", "diodes", "electronics"],
     "active": true
+  },
+  {
+    "id": "elec-004",
+    "category": "Electrical",
+    "subcategory": "Basic Circuits",
+    "difficulty": "easy",
+    "question": "What is the SI unit of electrical resistance?",
+    "options": [
+      "Ampere",
+      "Volt",
+      "Ohm",
+      "Watt"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Ohm (symbol: Ω) is the SI unit of electrical resistance, named after German physicist Georg Simon Ohm.",
+    "tags": ["units", "resistance", "basics"],
+    "active": true
+  },
+  {
+    "id": "elec-005",
+    "category": "Electrical",
+    "subcategory": "Electrical Machines",
+    "difficulty": "medium",
+    "question": "What is the primary function of an electrical transformer?",
+    "options": [
+      "Convert AC power directly to DC battery power",
+      "Change alternating voltage and current levels via electromagnetic induction",
+      "Measure instantaneous electrical wattage consumed",
+      "Prevent ground faults by opening the neutral wire"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Transformers use mutual induction between primary and secondary windings to step up or step down AC voltage levels while preserving total electrical power.",
+    "tags": ["transformers", "power", "induction"],
+    "active": true
+  },
+  {
+    "id": "elec-006",
+    "category": "Electrical",
+    "subcategory": "Safety & Devices",
+    "difficulty": "easy",
+    "question": "What happens when an electrical fuse experiences an electrical current exceeding its rated amperage?",
+    "options": [
+      "It amplifies the voltage output to compensate",
+      "Its internal metallic strip melts to break the circuit and protect equipment",
+      "It redirects excess current into the local ground rod",
+      "It switches from AC to DC mode"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A fuse is a sacrificial overcurrent protection device containing a metal strip that melts (blows) when excessive current flows, opening the circuit.",
+    "tags": ["safety", "fuses", "protection"],
+    "active": true
+  },
+  {
+    "id": "elec-007",
+    "category": "Electrical",
+    "subcategory": "Electrical Symbols",
+    "difficulty": "easy",
+    "question": "In standard schematic diagrams, what component is represented by a zigzag jagged line?",
+    "options": [
+      "Capacitor",
+      "Battery",
+      "Fixed Resistor",
+      "Transformer"
+    ],
+    "correctAnswer": 2,
+    "explanation": "In ANSI/IEEE standards, a fixed resistor is symbolized by a zigzag jagged line.",
+    "tags": ["symbols", "resistors", "schematics"],
+    "active": true
+  },
+  {
+    "id": "elec-008",
+    "category": "Electrical",
+    "subcategory": "Wiring & Codes",
+    "difficulty": "easy",
+    "question": "In standard US residential AC branch wiring (120V), which color insulation designates the equipment grounding conductor?",
+    "options": [
+      "Black",
+      "White",
+      "Green (or bare copper)",
+      "Red"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Under the National Electrical Code (NEC), the equipment grounding wire is color-coded green, green with yellow stripes, or bare copper.",
+    "tags": ["NEC", "wiring", "safety"],
+    "active": true
+  },
+  {
+    "id": "elec-009",
+    "category": "Electrical",
+    "subcategory": "Electronics",
+    "difficulty": "easy",
+    "question": "Which semiconductor device allows electrical current to flow predominantly in only one direction?",
+    "options": [
+      "Diode",
+      "Capacitor",
+      "Inductor",
+      "Transformer"
+    ],
+    "correctAnswer": 0,
+    "explanation": "A diode functions as a one-way electrical valve, allowing forward current flow when forward-biased and blocking reverse current when reverse-biased.",
+    "tags": ["diode", "semiconductors", "electronics"],
+    "active": true
+  },
+  {
+    "id": "elec-010",
+    "category": "Electrical",
+    "subcategory": "Basic Circuits",
+    "difficulty": "medium",
+    "question": "If a 120V electric heater draws 10 Amperes of current, what is the electric power consumed in Watts?",
+    "options": [
+      "12 Watts",
+      "1,200 Watts (1.2 kW)",
+      "120 Watts",
+      "12,000 Watts"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Using Watt's Law (Power = Voltage × Current), Power = 120V × 10A = 1,200 Watts (1.2 kW).",
+    "tags": ["power", "ohms-law", "calculations"],
+    "active": true
   }
 ]

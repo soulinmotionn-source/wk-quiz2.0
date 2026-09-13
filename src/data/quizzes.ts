@@ -123,7 +123,7 @@ export const FEATURED_QUIZZES: QuizMetadata[] = [
     subcategory: 'Electrical Symbols',
     difficulty: 'medium',
     estimatedTime: '4 mins',
-    questionCount: 8,
+    questionCount: 10,
     mode: 'classic',
     tags: ['electrical', 'circuits', 'engineering', 'symbols'],
     learningPoints: [
@@ -157,8 +157,8 @@ export const FEATURED_QUIZZES: QuizMetadata[] = [
     category: 'Entertainment',
     subcategory: 'Cartoon Characters',
     difficulty: 'easy',
-    estimatedTime: '3 mins',
-    questionCount: 8,
+    estimatedTime: '4 mins',
+    questionCount: 10,
     mode: 'classic',
     tags: ['cartoons', 'animation', 'disney', 'entertainment'],
     isNew: true

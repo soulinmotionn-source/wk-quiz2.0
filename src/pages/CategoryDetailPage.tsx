@@ -67,6 +67,7 @@ export const CategoryDetailPage: React.FC = () => {
               category={category.name}
               difficulty={selectedDifficulty}
               mode={selectedMode}
+              count={category.questionCount > 0 ? category.questionCount : 10}
               categorySlug={category.slug}
               onExit={() => setIsPlaying(false)}
             />
@@ -104,7 +105,9 @@ export const CategoryDetailPage: React.FC = () => {
 
               <div style={{ flex: 1, minWidth: '280px' }}>
                 <div style={{ display: 'flex', alignItems: 'center', gap: '8px', marginBottom: 'var(--space-xs)' }}>
-                  <span className="badge badge-primary">{category.questionCount}+ Questions</span>
+                  <span className="badge badge-primary">
+                    {category.questionCount > 0 ? `${category.questionCount} Questions` : 'Coming Soon'}
+                  </span>
                   <span style={{ fontSize: '0.8rem', color: 'var(--color-text-muted)' }}>Verified Bank</span>
                 </div>
 

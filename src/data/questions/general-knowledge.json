@@ -1,0 +1,172 @@
+[
+  {
+    "id": "gen-001",
+    "category": "General Knowledge",
+    "subcategory": "World Geography & Nature",
+    "difficulty": "easy",
+    "question": "What is the highest mountain above sea level on Earth?",
+    "options": [
+      "K2",
+      "Mount Everest",
+      "Mount Kilimanjaro",
+      "Denali"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Mount Everest in the Himalayas reaches an elevation of 8,848.86 meters (29,031.7 feet) above sea level.",
+    "tags": ["mountains", "nature", "geography"],
+    "active": true
+  },
+  {
+    "id": "gen-002",
+    "category": "General Knowledge",
+    "subcategory": "Art & Culture",
+    "difficulty": "easy",
+    "question": "Which Renaissance master painted the world-famous Mona Lisa portrait exhibited in the Louvre Museum?",
+    "options": [
+      "Michelangelo",
+      "Leonardo da Vinci",
+      "Raphael",
+      "Sandro Botticelli"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Leonardo da Vinci began painting the Mona Lisa (La Gioconda) in Florence around 1503.",
+    "tags": ["art", "renaissance", "culture"],
+    "active": true
+  },
+  {
+    "id": "gen-003",
+    "category": "General Knowledge",
+    "subcategory": "Science & Nature",
+    "difficulty": "easy",
+    "question": "What is the largest ocean by surface area and water volume on Earth?",
+    "options": [
+      "Atlantic Ocean",
+      "Indian Ocean",
+      "Pacific Ocean",
+      "Arctic Ocean"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Pacific Ocean covers over 60 million square miles (155 million km²), accounting for more than 30% of Earth's total surface area.",
+    "tags": ["oceans", "earth", "nature"],
+    "active": true
+  },
+  {
+    "id": "gen-004",
+    "category": "General Knowledge",
+    "subcategory": "World Currencies",
+    "difficulty": "easy",
+    "question": "What is the official currency of Japan?",
+    "options": [
+      "Yuan",
+      "Won",
+      "Yen",
+      "Baht"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Japanese yen (symbol: ¥) is the official currency of Japan and the third most traded currency in the global foreign exchange market.",
+    "tags": ["currency", "japan", "economics"],
+    "active": true
+  },
+  {
+    "id": "gen-005",
+    "category": "General Knowledge",
+    "subcategory": "World Literature",
+    "difficulty": "medium",
+    "question": "Who authored the classic 1597 romantic tragedy 'Romeo and Juliet'?",
+    "options": [
+      "William Shakespeare",
+      "Charles Dickens",
+      "Jane Austen",
+      "Mark Twain"
+    ],
+    "correctAnswer": 0,
+    "explanation": "William Shakespeare wrote 'Romeo and Juliet' early in his career, dramatizing the star-crossed lovers of Verona.",
+    "tags": ["literature", "shakespeare", "drama"],
+    "active": true
+  },
+  {
+    "id": "gen-006",
+    "category": "General Knowledge",
+    "subcategory": "Chemistry & Food",
+    "difficulty": "easy",
+    "question": "What is the chemical formula for common table salt?",
+    "options": [
+      "NaCl",
+      "KCl",
+      "CaCO3",
+      "NaHCO3"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Table salt is composed primarily of sodium chloride (NaCl), an ionic compound in a 1:1 ratio of sodium and chlorine ions.",
+    "tags": ["chemistry", "salt", "science"],
+    "active": true
+  },
+  {
+    "id": "gen-007",
+    "category": "General Knowledge",
+    "subcategory": "Geography",
+    "difficulty": "easy",
+    "question": "What is the largest country in the world by total land area?",
+    "options": [
+      "Canada",
+      "China",
+      "Russia",
+      "United States"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Russia spans over 17 million square kilometers (6.6 million square miles), covering more than one-eighth of Earth's inhabited land area.",
+    "tags": ["geography", "russia", "countries"],
+    "active": true
+  },
+  {
+    "id": "gen-008",
+    "category": "General Knowledge",
+    "subcategory": "Time & Astronomy",
+    "difficulty": "easy",
+    "question": "How many days are in a standard leap year?",
+    "options": [
+      "364",
+      "365",
+      "366",
+      "367"
+    ],
+    "correctAnswer": 2,
+    "explanation": "A leap year contains 366 days instead of 365, with the additional intercalary day added to February (February 29).",
+    "tags": ["calendar", "astronomy", "time"],
+    "active": true
+  },
+  {
+    "id": "gen-009",
+    "category": "General Knowledge",
+    "subcategory": "Physics & Nature",
+    "difficulty": "medium",
+    "question": "Approximately what is the speed of light in a vacuum?",
+    "options": [
+      "300,000 km/s (186,000 mi/s)",
+      "150,000 km/s (93,000 mi/s)",
+      "3,000 km/s (1,860 mi/s)",
+      "30,000 km/s (18,600 mi/s)"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The speed of light in vacuum is exactly 299,792,458 meters per second, approximately 300,000 kilometers per second.",
+    "tags": ["physics", "speed-of-light", "science"],
+    "active": true
+  },
+  {
+    "id": "gen-010",
+    "category": "General Knowledge",
+    "subcategory": "World Flags & Symbols",
+    "difficulty": "easy",
+    "question": "How many stars are displayed on the official national flag of the United States?",
+    "options": [
+      "48",
+      "50",
+      "52",
+      "13"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The US flag has 50 stars representing the 50 US states, and 13 stripes representing the original thirteen colonies.",
+    "tags": ["usa", "flags", "symbols"],
+    "active": true
+  }
+]

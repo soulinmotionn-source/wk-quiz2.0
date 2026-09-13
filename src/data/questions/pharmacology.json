@@ -1,0 +1,172 @@
+[
+  {
+    "id": "pharm-001",
+    "category": "Pharmacology",
+    "subcategory": "Cardiovascular Pharmacology",
+    "difficulty": "medium",
+    "question": "Which adverse clinical effect is an ACE inhibitor (e.g., Lisinopril) class-effect that often prompts switching to an ARB?",
+    "options": [
+      "Persistent dry, nonproductive cough",
+      "Severe hypoglycemia",
+      "Urinary retention",
+      "Orange discoloration of urine"
+    ],
+    "correctAnswer": 0,
+    "explanation": "ACE inhibitors prevent bradykinin degradation in lung tissue, causing a persistent dry cough in up to 10-20% of patients. Angiotensin Receptor Blockers (ARBs) do not affect bradykinin.",
+    "tags": ["pharmacology", "ace-inhibitor", "nclex", "cardiology"],
+    "active": true
+  },
+  {
+    "id": "pharm-002",
+    "category": "Pharmacology",
+    "subcategory": "Anticoagulants",
+    "difficulty": "medium",
+    "question": "Which laboratory parameter is most essential to monitor for therapeutic dosing in a patient taking Warfarin (Coumadin)?",
+    "options": [
+      "International Normalized Ratio (INR) / PT",
+      "Activated Partial Thromboplastin Time (aPTT)",
+      "Serum Creatinine",
+      "Platelet Aggregation Count only"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Warfarin inhibits vitamin K-dependent clotting factors; therapeutic response is monitored via the International Normalized Ratio (INR), with a typical target of 2.0–3.0.",
+    "tags": ["warfarin", "inr", "anticoagulant", "nursing"],
+    "active": true
+  },
+  {
+    "id": "pharm-003",
+    "category": "Pharmacology",
+    "subcategory": "Antidotes & Toxicity",
+    "difficulty": "easy",
+    "question": "What is the primary emergency opioid receptor antagonist administered for suspected narcotic overdose and acute respiratory depression?",
+    "options": [
+      "Naloxone (Narcan)",
+      "Flumazenil",
+      "Protamine Sulfate",
+      "N-acetylcysteine"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Naloxone (Narcan) rapidly binds mu-opioid receptors with high affinity, reversing central nervous system and respiratory depression induced by opioids.",
+    "tags": ["antidote", "naloxone", "emergency", "nursing"],
+    "active": true
+  },
+  {
+    "id": "pharm-004",
+    "category": "Pharmacology",
+    "subcategory": "Cardiovascular Pharmacology",
+    "difficulty": "medium",
+    "question": "Before administering a scheduled morning dose of Digoxin, which vital clinical assessment must the nurse prioritize?",
+    "options": [
+      "Measure apical pulse for a full 60 seconds (hold if < 60 bpm)",
+      "Assess bilateral pedal pulses",
+      "Check 24-hour dietary calcium intake",
+      "Weigh patient on a standing scale"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Digoxin is a cardiac glycoside that slows AV node conduction and strengthens myocardial contraction. An apical heart rate below 60 bpm warrants withholding the drug and notifying the prescriber.",
+    "tags": ["digoxin", "apical-pulse", "cardiology", "nclex"],
+    "active": true
+  },
+  {
+    "id": "pharm-005",
+    "category": "Pharmacology",
+    "subcategory": "Endocrine Pharmacology",
+    "difficulty": "medium",
+    "question": "What is the approximate peak action window for Regular (short-acting) insulin administered subcutaneously?",
+    "options": [
+      "15 to 30 minutes",
+      "2 to 4 hours",
+      "6 to 8 hours",
+      "No peak (flat 24-hour curve)"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Regular insulin has an onset of 30-60 minutes, peaks between 2 and 4 hours (highest risk for hypoglycemic reaction), and has a duration of 5-8 hours.",
+    "tags": ["insulin", "diabetes", "endocrine", "nursing"],
+    "active": true
+  },
+  {
+    "id": "pharm-006",
+    "category": "Pharmacology",
+    "subcategory": "Antibiotics",
+    "difficulty": "medium",
+    "question": "A patient with an anaphylactic allergy to Penicillin should be prescribed cephalosporin antibiotics with extreme caution due to what pharmacological phenomenon?",
+    "options": [
+      "Cross-sensitivity due to shared beta-lactam chemical ring structure",
+      "Severe antagonistic drug receptor competition",
+      "Irreversible enzyme inhibition in renal tubules",
+      "Acute hepatic enzyme induction"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Penicillins and cephalosporins both feature a beta-lactam chemical nucleus. Up to 5-10% of penicillin-allergic patients exhibit cross-reactivity.",
+    "tags": ["antibiotics", "beta-lactam", "allergies", "safety"],
+    "active": true
+  },
+  {
+    "id": "pharm-007",
+    "category": "Pharmacology",
+    "subcategory": "Respiratory Pharmacology",
+    "difficulty": "easy",
+    "question": "Which medication is classified as a short-acting beta-2 agonist (SABA) used as a rescue bronchodilator during acute asthma attacks?",
+    "options": [
+      "Albuterol (Salbutamol)",
+      "Fluticasone",
+      "Salmeterol",
+      "Montelukast"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Albuterol relaxes airway smooth muscle within minutes by stimulating beta-2 adrenergic receptors, serving as the gold standard rescue bronchodilator.",
+    "tags": ["respiratory", "asthma", "albuterol", "pharmacology"],
+    "active": true
+  },
+  {
+    "id": "pharm-008",
+    "category": "Pharmacology",
+    "subcategory": "Cardiovascular Pharmacology",
+    "difficulty": "medium",
+    "question": "When taking sublingual Nitroglycerin tablets for acute angina, what instruction should the patient follow if chest pain persists after 5 minutes?",
+    "options": [
+      "Take a second tablet and call emergency services (911) immediately",
+      "Wait 1 hour before attempting another dose",
+      "Chew three tablets simultaneously with warm water",
+      "Engage in vigorous cardiovascular exercise to increase blood flow"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Current AHA guidelines recommend calling 911 if chest discomfort is unimproved or worsening 5 minutes after the first dose, and taking a second tablet while awaiting emergency transport.",
+    "tags": ["nitroglycerin", "angina", "emergency", "cardiology"],
+    "active": true
+  },
+  {
+    "id": "pharm-009",
+    "category": "Pharmacology",
+    "subcategory": "Renal & Diuretics",
+    "difficulty": "medium",
+    "question": "Which loop diuretic is well-known for depleting serum potassium (hypokalemia), requiring frequent electrolyte monitoring?",
+    "options": [
+      "Spironolactone",
+      "Furosemide (Lasix)",
+      "Triamterene",
+      "Amiloride"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Furosemide inhibits the Na-K-2Cl cotransporter in the ascending limb of Henle, causing substantial urinary excretion of potassium and water.",
+    "tags": ["diuretics", "furosemide", "potassium", "nclex"],
+    "active": true
+  },
+  {
+    "id": "pharm-010",
+    "category": "Pharmacology",
+    "subcategory": "Antidotes & Toxicity",
+    "difficulty": "easy",
+    "question": "What is the specific reversal agent administered for life-threatening bleeding associated with unfractionated Heparin overdose?",
+    "options": [
+      "Protamine Sulfate",
+      "Vitamin K (Phytonadione)",
+      "Atropine Sulfate",
+      "Deferoxamine"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Protamine sulfate is a strongly basic peptide that binds negatively charged heparin molecules to form a stable, inactive salt complex.",
+    "tags": ["heparin", "protamine-sulfate", "antidote", "safety"],
+    "active": true
+  }
+]

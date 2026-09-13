@@ -9,6 +9,7 @@ export interface UseQuizEngineProps {
   subcategory?: string;
   difficulty?: Difficulty;
   mode?: QuizMode;
+  count?: number;
   initialQuestions?: ShuffledQuestion[];
   timeLimitSeconds?: number; // for timed challenge per question (default 20s)
   onComplete?: (result: QuizResult) => void;
@@ -21,6 +22,7 @@ export function useQuizEngine({
   subcategory,
   difficulty = 'mixed',
   mode = 'classic',
+  count,
   initialQuestions,
   timeLimitSeconds = 20,
   onComplete
@@ -33,8 +35,8 @@ export function useQuizEngine({
     if (mode === 'daily') {
       return getDailyQuizQuestions();
     }
-    const count = mode === 'quick' ? 5 : 10;
-    return generateQuizQuestions({ category, subcategory, difficulty, count });
+    const targetCount = count && count > 0 ? count : (mode === 'quick' ? 5 : 10);
+    return generateQuizQuestions({ category, subcategory, difficulty, count: targetCount });
   });
 
   const [currentIndex, setCurrentIndex] = useState(0);

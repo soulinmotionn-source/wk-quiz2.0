@@ -6,6 +6,7 @@ import { CategoryCard } from '../components/cards/CategoryCard';
 import { QuizCard } from '../components/cards/QuizCard';
 import { DailyChallengeCard } from '../components/cards/DailyChallengeCard';
 import { AdSlot } from '../components/common/AdSlot';
+import { InteractiveHeroQuiz } from '../components/home/InteractiveHeroQuiz';
 import { CATEGORIES } from '../data/categories';
 import { FEATURED_QUIZZES } from '../data/quizzes';
 
@@ -133,7 +134,7 @@ export const HomePage: React.FC = () => {
               </div>
             </div>
 
-            {/* Right Column: Original Educational Illustration Graphic */}
+            {/* Right Column: Live Playable Interactive Quiz */}
             <div
               style={{
                 display: 'flex',
@@ -142,101 +143,7 @@ export const HomePage: React.FC = () => {
                 width: '100%'
               }}
             >
-              <div
-                style={{
-                  width: '100%',
-                  maxWidth: '420px',
-                  backgroundColor: 'var(--color-surface)',
-                  border: '1px solid var(--color-border)',
-                  borderRadius: 'var(--radius-xl)',
-                  padding: 'var(--space-lg)',
-                  boxShadow: 'var(--shadow-lg)',
-                  position: 'relative'
-                }}
-              >
-                {/* Visual Header */}
-                <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', marginBottom: 'var(--space-md)' }}>
-                  <span className="badge badge-primary">Practice Question</span>
-                  <span style={{ fontSize: '0.8rem', color: 'var(--color-text-muted)' }}>10s left</span>
-                </div>
-
-                <p style={{ fontWeight: 700, fontSize: '1.05rem', color: 'var(--color-text-primary)', marginBottom: 'var(--space-md)', lineHeight: 1.4 }}>
-                  Which organelle produces cellular energy in the form of ATP?
-                </p>
-
-                {/* Sample visual options */}
-                <div style={{ display: 'flex', flexDirection: 'column', gap: '10px', marginBottom: 'var(--space-md)' }}>
-                  <div
-                    style={{
-                      padding: '10px 14px',
-                      borderRadius: 'var(--radius-md)',
-                      backgroundColor: 'var(--color-bg)',
-                      border: '1px solid var(--color-border)',
-                      fontSize: '0.875rem',
-                      display: 'flex',
-                      alignItems: 'center',
-                      gap: '10px'
-                    }}
-                  >
-                    <span style={{ fontWeight: 700, color: 'var(--color-text-muted)' }}>A</span>
-                    <span>Ribosome</span>
-                  </div>
-
-                  <div
-                    style={{
-                      padding: '10px 14px',
-                      borderRadius: 'var(--radius-md)',
-                      backgroundColor: 'var(--color-success-light)',
-                      border: '1.5px solid var(--color-success)',
-                      color: 'var(--color-text-primary)',
-                      fontSize: '0.875rem',
-                      display: 'flex',
-                      alignItems: 'center',
-                      justifyContent: 'space-between'
-                    }}
-                  >
-                    <div style={{ display: 'flex', alignItems: 'center', gap: '10px' }}>
-                      <span style={{ fontWeight: 700, color: 'var(--color-success)' }}>B</span>
-                      <span style={{ fontWeight: 600 }}>Mitochondrion</span>
-                    </div>
-                    <span style={{ color: 'var(--color-success)', fontWeight: 700 }}>✓ Correct</span>
-                  </div>
-
-                  <div
-                    style={{
-                      padding: '10px 14px',
-                      borderRadius: 'var(--radius-md)',
-                      backgroundColor: 'var(--color-bg)',
-                      border: '1px solid var(--color-border)',
-                      fontSize: '0.875rem',
-                      display: 'flex',
-                      alignItems: 'center',
-                      gap: '10px'
-                    }}
-                  >
-                    <span style={{ fontWeight: 700, color: 'var(--color-text-muted)' }}>C</span>
-                    <span>Endoplasmic Reticulum</span>
-                  </div>
-                </div>
-
-                {/* XP Badge */}
-                <div
-                  style={{
-                    backgroundColor: 'var(--color-primary)',
-                    color: '#FFFFFF',
-                    borderRadius: 'var(--radius-full)',
-                    padding: '6px 14px',
-                    display: 'inline-flex',
-                    alignItems: 'center',
-                    gap: '6px',
-                    fontSize: '0.8rem',
-                    fontWeight: 700
-                  }}
-                >
-                  <Zap size={14} />
-                  <span>+10 XP Earned!</span>
-                </div>
-              </div>
+              <InteractiveHeroQuiz />
             </div>
           </div>
         </div>

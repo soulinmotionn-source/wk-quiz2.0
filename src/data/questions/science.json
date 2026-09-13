@@ -83,5 +83,90 @@
     "explanation": "In DNA, adenine (A) pairs with thymine (T) via two hydrogen bonds, while guanine (G) pairs with cytosine (C) via three hydrogen bonds. Uracil replaces thymine in RNA.",
     "tags": ["genetics", "DNA", "molecular-biology"],
     "active": true
+  },
+  {
+    "id": "sci-006",
+    "category": "Science",
+    "subcategory": "Astronomy",
+    "difficulty": "easy",
+    "question": "Which planet is the largest in our solar system by both mass and volume?",
+    "options": [
+      "Saturn",
+      "Jupiter",
+      "Neptune",
+      "Uranus"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Jupiter has more than twice the mass of all the other planets in our solar system combined and features the iconic Great Red Spot storm.",
+    "tags": ["astronomy", "planets", "solar-system"],
+    "active": true
+  },
+  {
+    "id": "sci-007",
+    "category": "Science",
+    "subcategory": "Botany & Biology",
+    "difficulty": "easy",
+    "question": "Which green pigment in plant leaves absorbs sunlight to drive photosynthesis?",
+    "options": [
+      "Carotenoid",
+      "Chlorophyll",
+      "Anthocyanin",
+      "Melanin"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Chlorophyll, located within plant chloroplasts, absorbs blue and red light wavelengths while reflecting green light, facilitating photosynthesis.",
+    "tags": ["biology", "plants", "photosynthesis"],
+    "active": true
+  },
+  {
+    "id": "sci-008",
+    "category": "Science",
+    "subcategory": "Chemistry",
+    "difficulty": "easy",
+    "question": "What is the common chemical formula for standard table salt?",
+    "options": [
+      "KCl",
+      "NaCl",
+      "CaCl2",
+      "NaHCO3"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Table salt is composed of sodium and chlorine in a 1:1 ionic lattice ratio: Sodium Chloride (NaCl).",
+    "tags": ["chemistry", "salt", "formulas"],
+    "active": true
+  },
+  {
+    "id": "sci-009",
+    "category": "Science",
+    "subcategory": "Physics",
+    "difficulty": "medium",
+    "question": "Newton's First Law of Motion is commonly known by what name?",
+    "options": [
+      "The Law of Universal Gravitation",
+      "The Law of Inertia",
+      "The Law of Action and Reaction",
+      "The Law of Conservation of Momentum"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Law of Inertia states that an object at rest will remain at rest, and an object in motion will remain in uniform motion in a straight line, unless acted upon by an external net force.",
+    "tags": ["physics", "newton", "motion"],
+    "active": true
+  },
+  {
+    "id": "sci-010",
+    "category": "Science",
+    "subcategory": "Thermodynamics",
+    "difficulty": "easy",
+    "question": "At standard atmospheric pressure (1 atm), at what temperature does pure water freeze on the Celsius scale?",
+    "options": [
+      "-32 degrees Celsius",
+      "0 degrees Celsius",
+      "32 degrees Celsius",
+      "100 degrees Celsius"
+    ],
+    "correctAnswer": 1,
+    "explanation": "On the Celsius scale, the freezing point of water is defined as 0°C (equivalent to 32°F and 273.15 K).",
+    "tags": ["chemistry", "water", "temperature"],
+    "active": true
   }
 ]

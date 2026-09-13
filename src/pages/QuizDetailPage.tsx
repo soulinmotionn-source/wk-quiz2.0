@@ -104,6 +104,7 @@ export const QuizDetailPage: React.FC = () => {
           subcategory={quiz.subcategory}
           difficulty={quiz.difficulty}
           mode={quiz.mode}
+          count={quiz.questionCount}
           categorySlug={categoryInfo?.slug}
         />
 

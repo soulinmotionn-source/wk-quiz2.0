@@ -66,5 +66,107 @@
     "explanation": "QuickSort achieves an average time complexity of O(n log n) by partitioning elements around a pivot. Its worst-case time complexity is O(n²) when the partition is unbalanced.",
     "tags": ["algorithms", "computer-science", "sorting"],
     "active": true
+  },
+  {
+    "id": "tech-005",
+    "category": "Technology",
+    "subcategory": "Computers",
+    "difficulty": "easy",
+    "question": "How many bits are contained within a single byte of computer memory?",
+    "options": [
+      "4 bits",
+      "8 bits",
+      "16 bits",
+      "32 bits"
+    ],
+    "correctAnswer": 1,
+    "explanation": "One standard computer byte consists of 8 bits (capable of representing 256 distinct values from 0 to 255).",
+    "tags": ["binary", "computers", "bytes"],
+    "active": true
+  },
+  {
+    "id": "tech-006",
+    "category": "Technology",
+    "subcategory": "Web & Software",
+    "difficulty": "easy",
+    "question": "What stylesheet language is used to style and lay out HTML web pages?",
+    "options": [
+      "SQL",
+      "CSS (Cascading Style Sheets)",
+      "JSON",
+      "XML"
+    ],
+    "correctAnswer": 1,
+    "explanation": "CSS (Cascading Style Sheets) describes how HTML elements are presented and visually formatted across screens.",
+    "tags": ["css", "web", "frontend"],
+    "active": true
+  },
+  {
+    "id": "tech-007",
+    "category": "Technology",
+    "subcategory": "Networking",
+    "difficulty": "medium",
+    "question": "Which standard IPv4 address is universally reserved as the local computer loopback (localhost)?",
+    "options": [
+      "192.168.1.1",
+      "127.0.0.1",
+      "10.0.0.1",
+      "8.8.8.8"
+    ],
+    "correctAnswer": 1,
+    "explanation": "127.0.0.1 is defined by RFC 1122 as the loopback address, routing network requests directly back to the host machine without network packet transmission.",
+    "tags": ["networking", "ip", "localhost"],
+    "active": true
+  },
+  {
+    "id": "tech-008",
+    "category": "Technology",
+    "subcategory": "Computer Science",
+    "difficulty": "easy",
+    "question": "Which programming language was created by Guido van Rossum and is renowned for indentation-based syntax and machine learning libraries?",
+    "options": [
+      "Java",
+      "C++",
+      "Python",
+      "Ruby"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Python was created by Guido van Rossum and released in 1991, celebrated for its readable syntax, versatility, and rich scientific ecosystem.",
+    "tags": ["python", "programming", "languages"],
+    "active": true
+  },
+  {
+    "id": "tech-009",
+    "category": "Technology",
+    "subcategory": "Computer Architecture",
+    "difficulty": "easy",
+    "question": "What hardware component is considered the 'brain' of a personal computer, executing instructions and arithmetic logic?",
+    "options": [
+      "Power Supply Unit (PSU)",
+      "Central Processing Unit (CPU)",
+      "Graphics Processing Unit (GPU)",
+      "Motherboard Chipset"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The CPU (Central Processing Unit) executes program instructions, manages control flow, and performs calculations via its arithmetic logic units.",
+    "tags": ["hardware", "cpu", "computers"],
+    "active": true
+  },
+  {
+    "id": "tech-010",
+    "category": "Technology",
+    "subcategory": "Web & Software",
+    "difficulty": "medium",
+    "question": "What distributed version control system was designed by Linus Torvalds in 2005 to coordinate software source code changes?",
+    "options": [
+      "Subversion (SVN)",
+      "Git",
+      "Mercurial",
+      "CVS"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Git is the world's most widely used distributed version control system, created by Linus Torvalds for Linux kernel development.",
+    "tags": ["git", "devtools", "software"],
+    "active": true
   }
 ]

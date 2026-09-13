@@ -117,5 +117,56 @@
     "explanation": "The Nile River in northeastern Africa flows approximately 6,650 kilometers (4,132 miles), traditionally recognized as the longest river on Earth.",
     "tags": ["rivers", "africa", "world-geography"],
     "active": true
+  },
+  {
+    "id": "geo-008",
+    "category": "Geography",
+    "subcategory": "US State Capitals",
+    "difficulty": "medium",
+    "question": "What is the state capital of Alaska?",
+    "options": [
+      "Anchorage",
+      "Fairbanks",
+      "Juneau",
+      "Sitka"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Juneau is the capital of Alaska. Although Anchorage is the most populous city, Juneau has served as the capital since 1906.",
+    "tags": ["USA", "alaska", "capitals"],
+    "active": true
+  },
+  {
+    "id": "geo-009",
+    "category": "Geography",
+    "subcategory": "US State Capitals",
+    "difficulty": "easy",
+    "question": "What is the capital city of Hawaii?",
+    "options": [
+      "Hilo",
+      "Honolulu",
+      "Kailua",
+      "Lahaina"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Honolulu is the capital and largest city of Hawaii, located along the southeast coast of the island of Oahu.",
+    "tags": ["USA", "hawaii", "capitals"],
+    "active": true
+  },
+  {
+    "id": "geo-010",
+    "category": "Geography",
+    "subcategory": "US State Capitals",
+    "difficulty": "medium",
+    "question": "What is the capital city of Illinois?",
+    "options": [
+      "Chicago",
+      "Rockford",
+      "Springfield",
+      "Peoria"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Springfield is the capital of Illinois, famously known as the home of President Abraham Lincoln from 1837 to 1861.",
+    "tags": ["USA", "illinois", "capitals"],
+    "active": true
   }
 ]

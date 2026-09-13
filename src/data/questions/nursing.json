@@ -100,5 +100,73 @@
     "explanation": "Massive cellular lysis in severe thermal burns releases intracellular potassium into the extracellular space, resulting in life-threatening hyperkalemia and cardiac dysrhythmias.",
     "tags": ["burns", "fluids-electrolytes", "NCLEX"],
     "active": true
+  },
+  {
+    "id": "nurs-007",
+    "category": "Nursing",
+    "subcategory": "NCLEX",
+    "difficulty": "hard",
+    "question": "A client receiving a unit of packed red blood cells suddenly reports chills, fever, and lower back pain 10 minutes after initiation. What is the nurse's immediate action?",
+    "options": [
+      "Slow the transfusion rate and recheck vital signs in 15 minutes",
+      "Stop the transfusion immediately and disconnect the tubing at the catheter hub",
+      "Administer PRN acetaminophen and continue monitoring",
+      "Notify the blood bank before taking any clinical action"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Chills, fever, and flank pain indicate an acute hemolytic transfusion reaction. The nurse must stop the infusion immediately, disconnect the tubing to prevent any further blood entry, and infuse normal saline with fresh tubing.",
+    "tags": ["transfusion", "NCLEX", "priority"],
+    "active": true
+  },
+  {
+    "id": "nurs-008",
+    "category": "Nursing",
+    "subcategory": "Fundamentals",
+    "difficulty": "medium",
+    "question": "Which communication framework is standardized across healthcare for concise, structured handoff reports?",
+    "options": [
+      "SOAP (Subjective, Objective, Assessment, Plan)",
+      "SBAR (Situation, Background, Assessment, Recommendation)",
+      "APIE (Assessment, Problem, Intervention, Evaluation)",
+      "DAR (Data, Action, Response)"
+    ],
+    "correctAnswer": 1,
+    "explanation": "SBAR (Situation, Background, Assessment, Recommendation) is the internationally recommended standard communication tool for critical patient handoffs and physician communication.",
+    "tags": ["communication", "SBAR", "safety"],
+    "active": true
+  },
+  {
+    "id": "nurs-009",
+    "category": "Nursing",
+    "subcategory": "Infection Control",
+    "difficulty": "easy",
+    "question": "Which hand hygiene practice is mandatory when caring for a client diagnosed with Clostridioides difficile (C. diff)?",
+    "options": [
+      "Alcohol-based hand sanitizer rub for 20 seconds",
+      "Washing hands thoroughly with soap and running water",
+      "Rinsing hands with sterile saline solution",
+      "Using antiseptic chlorhexidine wipes only"
+    ],
+    "correctAnswer": 1,
+    "explanation": "C. diff forms bacterial endospores that are resistant to alcohol. Hand hygiene must be performed with soap and warm running water to physically remove spores.",
+    "tags": ["infection-control", "C-diff", "hygiene"],
+    "active": true
+  },
+  {
+    "id": "nurs-010",
+    "category": "Nursing",
+    "subcategory": "NCLEX",
+    "difficulty": "medium",
+    "question": "A client is prescribed furosemide (Lasix) 40 mg daily. Which serum laboratory value must the nurse review prior to administering the dose?",
+    "options": [
+      "Serum Potassium level",
+      "Serum Amylase level",
+      "Platelet count",
+      "Troponin I level"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Furosemide is a loop diuretic that causes excretion of potassium in urine. The nurse must verify normal serum potassium (3.5 to 5.0 mEq/L) to prevent dangerous hypokalemia.",
+    "tags": ["pharmacology", "electrolytes", "NCLEX"],
+    "active": true
   }
 ]

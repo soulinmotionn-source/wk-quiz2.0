@@ -49,5 +49,124 @@
     "explanation": "Speed limits are statutory or regulatory ceilings. It is illegal to exceed the posted speed limit regardless of traffic flow, time of day, or lane position.",
     "tags": ["speed-limits", "DMV", "traffic-laws"],
     "active": true
+  },
+  {
+    "id": "dmv-004",
+    "category": "USA Tests",
+    "subcategory": "DMV Test",
+    "difficulty": "easy",
+    "question": "What is the shape of an official regulatory STOP sign on US roads?",
+    "options": [
+      "Triangle",
+      "Octagon (8 sides)",
+      "Diamond",
+      "Pentagon"
+    ],
+    "correctAnswer": 1,
+    "explanation": "STOP signs are unique 8-sided octagons with white lettering on a red background so they are recognizable even from the reverse side.",
+    "tags": ["road-signs", "DMV", "safety"],
+    "active": true
+  },
+  {
+    "id": "dmv-005",
+    "category": "USA Tests",
+    "subcategory": "DMV Test",
+    "difficulty": "easy",
+    "question": "What does a single solid yellow line on your side of the roadway center indicate?",
+    "options": [
+      "Passing is permitted when clear",
+      "Passing is prohibited",
+      "Reserved for carpools only",
+      "Emergency parking only"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A solid yellow line indicates that passing or driving to the left of the line is prohibited for vehicles on that side.",
+    "tags": ["road-markings", "DMV", "traffic-laws"],
+    "active": true
+  },
+  {
+    "id": "dmv-006",
+    "category": "USA Tests",
+    "subcategory": "DMV Test",
+    "difficulty": "medium",
+    "question": "In all 50 US states, it is illegal for a non-commercial driver aged 21 or older to operate a motor vehicle with a Blood Alcohol Concentration (BAC) of what level or higher?",
+    "options": [
+      "0.02%",
+      "0.05%",
+      "0.08%",
+      "0.10%"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Across all 50 US states, 0.08% BAC is the per se legal limit for adult drivers aged 21 and older (Utah has a lower 0.05% threshold).",
+    "tags": ["BAC", "laws", "DMV"],
+    "active": true
+  },
+  {
+    "id": "dmv-007",
+    "category": "USA Tests",
+    "subcategory": "DMV Test",
+    "difficulty": "easy",
+    "question": "What should you do when you hear sirens and see flashing lights of an emergency vehicle approaching from behind?",
+    "options": [
+      "Speed up to clear the intersection",
+      "Pull over to the right edge of the road and come to a complete stop",
+      "Stop immediately in your current travel lane",
+      "Honk your horn to alert pedestrians"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Drivers must immediately pull parallel to the right-hand edge or curb of the highway, clear of any intersection, and stop until the emergency vehicle passes.",
+    "tags": ["emergency", "right-of-way", "DMV"],
+    "active": true
+  },
+  {
+    "id": "dmv-008",
+    "category": "USA Tests",
+    "subcategory": "DMV Test",
+    "difficulty": "medium",
+    "question": "If your vehicle begins to hydroplane on a wet roadway, what is the correct defensive driving response?",
+    "options": [
+      "Slam hard on the brakes immediately",
+      "Gradually ease your foot off the accelerator and steer straight until tires regain traction",
+      "Turn the steering wheel sharply in the opposite direction",
+      "Pull the emergency handbrake instantly"
+    ],
+    "correctAnswer": 1,
+    "explanation": "To recover from hydroplaning, ease off the accelerator slowly, hold the steering wheel firmly, and avoid sudden braking, which could cause a skid.",
+    "tags": ["defensive-driving", "weather", "DMV"],
+    "active": true
+  },
+  {
+    "id": "dmv-009",
+    "category": "USA Tests",
+    "subcategory": "DMV Test",
+    "difficulty": "easy",
+    "question": "What does a downward-pointing equilateral triangular road sign signify?",
+    "options": [
+      "Stop",
+      "Yield the right-of-way",
+      "School Crossing",
+      "Railroad Ahead"
+    ],
+    "correctAnswer": 1,
+    "explanation": "An inverted triangle is reserved exclusively for YIELD signs, requiring drivers to slow down and give way to all other vehicles and pedestrians.",
+    "tags": ["signs", "yield", "DMV"],
+    "active": true
+  },
+  {
+    "id": "dmv-010",
+    "category": "USA Tests",
+    "subcategory": "DMV Test",
+    "difficulty": "medium",
+    "question": "What does a round yellow sign with a black 'X' and the letters 'RR' warn drivers about?",
+    "options": [
+      "Rest area ahead",
+      "Railroad highway crossing advance warning",
+      "Roundabout ahead",
+      "Rough road conditions"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A circular yellow sign with an 'X' and 'RR' is the advance warning sign for a railroad crossing ahead.",
+    "tags": ["railroad", "signs", "DMV"],
+    "active": true
   }
 ]

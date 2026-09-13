@@ -49,5 +49,124 @@
     "explanation": "Patrick Star is an overweight, good-natured pink starfish who lives under a rock in the underwater city of Bikini Bottom.",
     "tags": ["cartoons", "nickelodeon", "spongebob"],
     "active": true
+  },
+  {
+    "id": "ent-004",
+    "category": "Entertainment",
+    "subcategory": "Cartoon Characters",
+    "difficulty": "easy",
+    "question": "In the Hanna-Barbera prehistoric series The Flintstones, what is the name of Fred and Wilma's pet dinosaur?",
+    "options": [
+      "Dino",
+      "Rex",
+      "Spike",
+      "Bam-Bam"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Dino is the energetic pet Snorkasaurus of the Flintstone family who behaves like an affectionate puppy.",
+    "tags": ["flintstones", "cartoons", "animation"],
+    "active": true
+  },
+  {
+    "id": "ent-005",
+    "category": "Entertainment",
+    "subcategory": "Cartoon Characters",
+    "difficulty": "easy",
+    "question": "In Disney's 1994 animated classic The Lion King, what is the name of the lion cub protagonist who becomes king?",
+    "options": [
+      "Mufasa",
+      "Scar",
+      "Simba",
+      "Kovu"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Simba is the central protagonist of The Lion King, voiced as an adult by Matthew Broderick.",
+    "tags": ["disney", "lion-king", "cartoons"],
+    "active": true
+  },
+  {
+    "id": "ent-006",
+    "category": "Entertainment",
+    "subcategory": "Cartoon Characters",
+    "difficulty": "easy",
+    "question": "What is the famous catchphrase of Looney Tunes icon Bugs Bunny when greeting others?",
+    "options": [
+      "What's up, Doc?",
+      "Yabba Dabba Doo!",
+      "I tawt I taw a puddy tat!",
+      "That's all, folks!"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'What's up, Doc?' is Bugs Bunny's trademark greeting, accompanied by him chewing a carrot, debuted in 1940.",
+    "tags": ["warner-bros", "looney-tunes", "cartoons"],
+    "active": true
+  },
+  {
+    "id": "ent-007",
+    "category": "Entertainment",
+    "subcategory": "Cartoon Characters",
+    "difficulty": "easy",
+    "question": "In Pixar's Toy Story franchise, what catchphrase is famously uttered by Space Ranger Buzz Lightyear?",
+    "options": [
+      "To infinity and beyond!",
+      "There's a snake in my boot!",
+      "Just keep swimming!",
+      "Adventure is out there!"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'To infinity and beyond!' is the signature heroic motto of Star Command ranger Buzz Lightyear, voiced by Tim Allen.",
+    "tags": ["pixar", "toy-story", "cartoons"],
+    "active": true
+  },
+  {
+    "id": "ent-008",
+    "category": "Entertainment",
+    "subcategory": "Animation History",
+    "difficulty": "medium",
+    "question": "Which 1937 film was the world's first full-length cel-animated feature produced by Walt Disney?",
+    "options": [
+      "Pinocchio",
+      "Snow White and the Seven Dwarfs",
+      "Bambi",
+      "Fantasia"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Snow White and the Seven Dwarfs (1937) was the first full-length cel-animated feature film in history and a colossal commercial success.",
+    "tags": ["disney", "animation", "history"],
+    "active": true
+  },
+  {
+    "id": "ent-009",
+    "category": "Entertainment",
+    "subcategory": "Cartoon Characters",
+    "difficulty": "easy",
+    "question": "What underwater pineapple-dwelling character works as a fry cook at the Krusty Krab?",
+    "options": [
+      "Squidward Tentacles",
+      "Patrick Star",
+      "SpongeBob SquarePants",
+      "Mr. Krabs"
+    ],
+    "correctAnswer": 2,
+    "explanation": "SpongeBob SquarePants lives in a pineapple under the sea and flips Krabby Patties under owner Eugene H. Krabs.",
+    "tags": ["nickelodeon", "spongebob", "animation"],
+    "active": true
+  },
+  {
+    "id": "ent-010",
+    "category": "Entertainment",
+    "subcategory": "Movies",
+    "difficulty": "easy",
+    "question": "In Disney's animated classic 'The Lion King', what does the phrase 'Hakuna Matata' famously mean?",
+    "options": [
+      "No worries for the rest of your days",
+      "Always be strong and brave",
+      "The circle of endless life",
+      "Remember who you are"
+    ],
+    "correctAnswer": 0,
+    "explanation": "In Swahili-inspired phrasing popularized by Timon and Pumbaa, 'Hakuna Matata' means 'no troubles/no worries'.",
+    "tags": ["disney", "lion-king", "movies"],
+    "active": true
   }
 ]

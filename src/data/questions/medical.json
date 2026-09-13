@@ -83,5 +83,90 @@
     "explanation": "Cortisol is the primary glucocorticoid synthesized in the zona fasciculata of the adrenal cortex under the influence of adrenocorticotropic hormone (ACTH).",
     "tags": ["endocrinology", "hormones", "adrenal"],
     "active": true
+  },
+  {
+    "id": "med-006",
+    "category": "Medical",
+    "subcategory": "Medical Terminology",
+    "difficulty": "easy",
+    "question": "What does the clinical prefix 'brady-' indicate when preceding a medical condition?",
+    "options": [
+      "Fast or elevated",
+      "Slow or decreased",
+      "Irregular or intermittent",
+      "Absence or total lack of"
+    ],
+    "correctAnswer": 1,
+    "explanation": "'Brady-' denotes slow (e.g., bradycardia = heart rate under 60 bpm, bradypnea = respiratory rate under 12 breaths/min). Conversely, 'tachy-' denotes fast.",
+    "tags": ["prefixes", "terminology", "cardiology"],
+    "active": true
+  },
+  {
+    "id": "med-007",
+    "category": "Medical",
+    "subcategory": "Medical Terminology",
+    "difficulty": "easy",
+    "question": "What does the Latin medical order abbreviation 'NPO' stand for?",
+    "options": [
+      "Nothing Per Os (Nothing by mouth)",
+      "Normal Patient Observation",
+      "New Provider On-call",
+      "No Prior Operations"
+    ],
+    "correctAnswer": 0,
+    "explanation": "NPO stands for the Latin phrase 'nil per os', instructing that the patient should withhold all food and liquid intake by mouth.",
+    "tags": ["abbreviations", "orders", "fundamentals"],
+    "active": true
+  },
+  {
+    "id": "med-008",
+    "category": "Medical",
+    "subcategory": "Cardiology",
+    "difficulty": "medium",
+    "question": "According to the ACC/AHA guidelines, Stage 1 Hypertension in adults is defined starting at which blood pressure reading?",
+    "options": [
+      "120/80 mmHg",
+      "130/80 mmHg",
+      "140/90 mmHg",
+      "160/100 mmHg"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Under 2017 ACC/AHA guidelines, Stage 1 Hypertension is defined as systolic blood pressure of 130-139 mmHg or diastolic blood pressure of 80-89 mmHg.",
+    "tags": ["hypertension", "cardiology", "vital-signs"],
+    "active": true
+  },
+  {
+    "id": "med-009",
+    "category": "Medical",
+    "subcategory": "Clinical Assessment",
+    "difficulty": "easy",
+    "question": "The clinical sign 'cyanosis' (bluish discoloration of skin and nailbeds) is typically caused by what condition?",
+    "options": [
+      "Hyperthermia and excessive blood flow",
+      "Inadequate oxygenation or hypoxemia in arterial blood",
+      "Severe hypoglycemia",
+      "Accumulation of bile pigment bilirubin"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Cyanosis reflects deoxygenated hemoglobin exceeding 5 g/dL in capillary blood, indicating low arterial oxygen saturation and poor tissue perfusion.",
+    "tags": ["cyanosis", "hypoxia", "symptoms"],
+    "active": true
+  },
+  {
+    "id": "med-010",
+    "category": "Medical",
+    "subcategory": "Surgery & Terminology",
+    "difficulty": "medium",
+    "question": "The surgical procedure termed 'nephrectomy' involves the surgical removal of which organ?",
+    "options": [
+      "Gallbladder",
+      "Kidney",
+      "Spleen",
+      "Appendix"
+    ],
+    "correctAnswer": 1,
+    "explanation": "'Nephr/o' refers to the kidney, and '-ectomy' means surgical excision. Cholecystectomy is gallbladder removal, and splenectomy is spleen removal.",
+    "tags": ["surgery", "terminology", "kidney"],
+    "active": true
   }
 ]

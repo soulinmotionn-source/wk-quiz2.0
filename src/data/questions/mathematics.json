@@ -49,5 +49,124 @@
     "explanation": "The differences between consecutive terms increase by 2 each step: +4, +6, +8, +10, +12. Thus, 30 + 12 = 42. Alternatively, n × (n + 1) for n=1..6 gives 1×2=2, 2×3=6, 3×4=12, 4×5=20, 5×6=30, 6×7=42.",
     "tags": ["logic", "sequences", "patterns"],
     "active": true
+  },
+  {
+    "id": "math-004",
+    "category": "Mathematics",
+    "subcategory": "Mental Math & Arithmetic",
+    "difficulty": "easy",
+    "question": "What is the positive square root of 144?",
+    "options": [
+      "11",
+      "12",
+      "13",
+      "14"
+    ],
+    "correctAnswer": 1,
+    "explanation": "12 × 12 = 144, therefore √144 = 12.",
+    "tags": ["roots", "math", "arithmetic"],
+    "active": true
+  },
+  {
+    "id": "math-005",
+    "category": "Mathematics",
+    "subcategory": "Percentages",
+    "difficulty": "easy",
+    "question": "What is 25% of 240?",
+    "options": [
+      "50",
+      "60",
+      "70",
+      "80"
+    ],
+    "correctAnswer": 1,
+    "explanation": "25% is equivalent to 1/4. 240 ÷ 4 = 60.",
+    "tags": ["percentages", "arithmetic", "mental-math"],
+    "active": true
+  },
+  {
+    "id": "math-006",
+    "category": "Mathematics",
+    "subcategory": "Geometry",
+    "difficulty": "easy",
+    "question": "What is the sum of the three interior angles of any planar Euclidean triangle?",
+    "options": [
+      "90 degrees",
+      "180 degrees",
+      "270 degrees",
+      "360 degrees"
+    ],
+    "correctAnswer": 1,
+    "explanation": "In Euclidean planar geometry, the interior angles of any triangle always sum to precisely 180 degrees (π radians).",
+    "tags": ["geometry", "triangles", "angles"],
+    "active": true
+  },
+  {
+    "id": "math-007",
+    "category": "Mathematics",
+    "subcategory": "Number Theory",
+    "difficulty": "medium",
+    "question": "Which of the following numbers is a prime number?",
+    "options": [
+      "21",
+      "27",
+      "29",
+      "33"
+    ],
+    "correctAnswer": 2,
+    "explanation": "29 has no positive integer divisors other than 1 and 29. 21 = 3×7, 27 = 3×9, and 33 = 3×11.",
+    "tags": ["prime-numbers", "number-theory", "math"],
+    "active": true
+  },
+  {
+    "id": "math-008",
+    "category": "Mathematics",
+    "subcategory": "Algebra & Powers",
+    "difficulty": "medium",
+    "question": "What is the value of 8 cubed (8³)?",
+    "options": [
+      "256",
+      "512",
+      "648",
+      "1024"
+    ],
+    "correctAnswer": 1,
+    "explanation": "8 × 8 = 64, and 64 × 8 = 512.",
+    "tags": ["powers", "arithmetic", "exponents"],
+    "active": true
+  },
+  {
+    "id": "math-009",
+    "category": "Mathematics",
+    "subcategory": "Geometry",
+    "difficulty": "easy",
+    "question": "According to the Pythagorean Theorem for a right-angled triangle with legs a and b and hypotenuse c, which formula is correct?",
+    "options": [
+      "a + b = c",
+      "a² + b² = c²",
+      "a² - b² = c²",
+      "2a + 2b = c²"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Pythagorean Theorem states that in any right-angled triangle: a² + b² = c².",
+    "tags": ["geometry", "pythagoras", "triangles"],
+    "active": true
+  },
+  {
+    "id": "math-010",
+    "category": "Mathematics",
+    "subcategory": "Constants & Numbers",
+    "difficulty": "easy",
+    "question": "What is the value of the mathematical constant Pi (π) rounded to two decimal places?",
+    "options": [
+      "3.12",
+      "3.14",
+      "3.16",
+      "3.18"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Pi is the ratio of a circle's circumference to its diameter, approximately 3.14159... or 3.14 rounded to two decimal places.",
+    "tags": ["constants", "pi", "geometry"],
+    "active": true
   }
 ]

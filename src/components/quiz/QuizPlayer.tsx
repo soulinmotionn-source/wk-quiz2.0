@@ -14,6 +14,7 @@ interface QuizPlayerProps {
   subcategory?: string;
   difficulty?: Difficulty;
   mode?: QuizMode;
+  count?: number;
   categorySlug?: string;
   onExit?: () => void;
 }
@@ -25,6 +26,7 @@ export const QuizPlayer: React.FC<QuizPlayerProps> = ({
   subcategory,
   difficulty = 'mixed',
   mode = 'classic',
+  count,
   categorySlug,
   onExit
 }) => {
@@ -56,6 +58,7 @@ export const QuizPlayer: React.FC<QuizPlayerProps> = ({
     subcategory,
     difficulty,
     mode,
+    count,
     onComplete: handleComplete
   });
 
