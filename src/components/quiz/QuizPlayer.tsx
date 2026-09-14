@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useState, useRef, useEffect } from 'react';
 import { ArrowLeft, ArrowRight, Check, Volume2, VolumeX, Sparkles } from 'lucide-react';
 import type { QuizMode, Difficulty, QuizResult } from '../../types/quiz';
 import { useQuizEngine } from '../../hooks/useQuizEngine';
@@ -96,6 +96,28 @@ export const QuizPlayer: React.FC<QuizPlayerProps> = ({
     } catch {
       // Ignore audio synthesis errors
     }
+  };
+
+  const questionCardRef = useRef<HTMLDivElement>(null);
+  const isFirstRender = useRef(true);
+
+  useEffect(() => {
+    if (isFirstRender.current) {
+      isFirstRender.current = false;
+      return;
+    }
+    if (questionCardRef.current) {
+      questionCardRef.current.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    }
+  }, [currentIndex]);
+
+  const handleNextQuestion = () => {
+    nextQuestion();
+    setTimeout(() => {
+      if (questionCardRef.current) {
+        questionCardRef.current.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      }
+    }, 40);
   };
 
   const handleSelectOption = (idx: number) => {
@@ -238,8 +260,11 @@ export const QuizPlayer: React.FC<QuizPlayerProps> = ({
 
       {/* Main Question Card with Playful Theme */}
       <div
-        className="card"
+        ref={questionCardRef}
+        key={currentIndex}
+        className="card animate-question-enter"
         style={{
+          scrollMarginTop: '88px',
           padding: 'var(--space-2xl)',
           borderRadius: 'var(--radius-2xl)',
           boxShadow: '0 12px 36px rgba(0, 0, 0, 0.25)',
@@ -354,7 +379,7 @@ export const QuizPlayer: React.FC<QuizPlayerProps> = ({
           >
             <button
               type="button"
-              onClick={nextQuestion}
+              onClick={handleNextQuestion}
               className="btn btn-primary btn-lg btn-mobile-full"
               style={{
                 borderRadius: 'var(--radius-full)',

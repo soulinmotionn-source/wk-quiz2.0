@@ -204,12 +204,13 @@ export const CategoryDetailPage: React.FC = () => {
               style={{
                 marginTop: 'var(--space-2xl)',
                 paddingTop: 'var(--space-xl)',
-                borderTop: '1px solid var(--color-border-light)'
+                borderTop: '1px solid var(--color-border-light)',
+                width: '100%'
               }}
             >
-              <div style={{ display: 'flex', flexWrap: 'wrap', gap: 'var(--space-xl)', justifyContent: 'space-between', alignItems: 'flex-end' }}>
+              <div style={{ display: 'flex', flexWrap: 'wrap', gap: 'var(--space-xl)', justifyContent: 'space-between', alignItems: 'flex-end', width: '100%' }}>
                 {/* Mode Selector */}
-                <div>
+                <div style={{ maxWidth: '100%' }}>
                   <label style={{ display: 'block', fontSize: '0.825rem', fontWeight: 800, textTransform: 'uppercase', marginBottom: '8px', color: 'var(--color-text-muted)', letterSpacing: '0.04em' }}>
                     Select Quiz Mode
                   </label>
@@ -257,7 +258,7 @@ export const CategoryDetailPage: React.FC = () => {
                 </div>
 
                 {/* Question Count Selector (without 25q) */}
-                <div>
+                <div style={{ maxWidth: '100%' }}>
                   <label style={{ display: 'block', fontSize: '0.825rem', fontWeight: 800, textTransform: 'uppercase', marginBottom: '8px', color: 'var(--color-text-muted)', letterSpacing: '0.04em' }}>
                     Questions to Play
                   </label>
@@ -316,11 +317,11 @@ export const CategoryDetailPage: React.FC = () => {
                 </div>
 
                 {/* Difficulty Selector (unified animated style) */}
-                <div>
+                <div style={{ maxWidth: '100%' }}>
                   <label style={{ display: 'block', fontSize: '0.825rem', fontWeight: 800, textTransform: 'uppercase', marginBottom: '8px', color: 'var(--color-text-muted)', letterSpacing: '0.04em' }}>
                     Difficulty Level
                   </label>
-                  <div style={{ display: 'flex', gap: '8px' }}>
+                  <div style={{ display: 'flex', flexWrap: 'wrap', gap: '8px' }}>
                     {(['easy', 'medium', 'hard', 'mixed'] as Difficulty[]).map(diff => {
                       const isActive = selectedDifficulty === diff;
                       return (
@@ -356,7 +357,7 @@ export const CategoryDetailPage: React.FC = () => {
                 <button
                   type="button"
                   onClick={() => setIsPlaying(true)}
-                  className="btn btn-primary btn-lg"
+                  className="btn btn-primary btn-lg btn-mobile-full"
                   style={{
                     borderRadius: 'var(--radius-full)',
                     padding: '14px 36px',

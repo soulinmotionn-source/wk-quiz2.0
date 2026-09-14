@@ -318,6 +318,21 @@ img, svg {
   animation: fadeIn var(--transition-smooth) forwards;
 }
 
+@keyframes questionEnter {
+  0% {
+    opacity: 0;
+    transform: translateY(16px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-question-enter {
+  animation: questionEnter 0.35s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+}
+
 .hover-lift {
   transition: transform var(--transition-fast);
 }

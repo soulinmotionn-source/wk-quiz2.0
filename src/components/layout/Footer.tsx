@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import { Zap, Heart, ShieldAlert } from 'lucide-react';
+import { Zap, ShieldAlert } from 'lucide-react';
 
 export const Footer: React.FC = () => {
   return (
@@ -262,10 +262,8 @@ export const Footer: React.FC = () => {
             fontSize: '0.85rem'
           }}
         >
-          <div style={{ display: 'flex', alignItems: 'center', gap: '4px' }}>
-            <span>© {new Date().getFullYear()} WKQuiz.com. All rights reserved. Crafted with</span>
-            <Heart size={14} fill="#EF4444" color="#EF4444" />
-            <span>for learners worldwide.</span>
+          <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', textAlign: 'center' }}>
+            <span>© {new Date().getFullYear()} WKQuiz.com. All rights reserved.</span>
           </div>
         </div>
       </div>

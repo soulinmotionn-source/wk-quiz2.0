@@ -1,12 +1,11 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import { Play, Sparkles, BookOpen, BarChart3, Globe2, ArrowRight, ShieldCheck, Zap } from 'lucide-react';
+import { Play, Sparkles, BookOpen, BarChart3, Globe2, ArrowRight, Zap } from 'lucide-react';
 import { SEOHead } from '../components/common/SEOHead';
 import { CategoryCard } from '../components/cards/CategoryCard';
 import { QuizCard } from '../components/cards/QuizCard';
 import { DailyChallengeCard } from '../components/cards/DailyChallengeCard';
 import { AdSlot } from '../components/common/AdSlot';
-import { InteractiveHeroQuiz } from '../components/home/InteractiveHeroQuiz';
 import { CATEGORIES } from '../data/categories';
 import { FEATURED_QUIZZES } from '../data/quizzes';
 import { getQuestionStats } from '../data/questionBank';
@@ -42,7 +41,7 @@ export const HomePage: React.FC = () => {
       {/* HERO SECTION */}
       <section
         style={{
-          paddingTop: 'var(--space-2xl)',
+          paddingTop: 'var(--space-3xl)',
           paddingBottom: 'var(--space-3xl)',
           background: 'radial-gradient(ellipse at 50% 0%, var(--color-primary-light) 0%, var(--color-bg) 70%)',
           borderBottom: '1px solid var(--color-border-light)'
@@ -51,102 +50,90 @@ export const HomePage: React.FC = () => {
         <div className="app-container">
           <div
             style={{
-              display: 'grid',
-              gridTemplateColumns: 'repeat(auto-fit, minmax(min(100%, 300px), 1fr))',
-              gap: 'var(--space-2xl)',
+              maxWidth: '820px',
+              margin: '0 auto',
+              textAlign: 'center',
+              display: 'flex',
+              flexDirection: 'column',
               alignItems: 'center'
             }}
           >
-            {/* Left Column: Headlines & CTA */}
-            <div>
-              {/* Badge */}
-              <div
-                style={{
-                  display: 'inline-flex',
-                  alignItems: 'center',
-                  gap: '6px',
-                  padding: '6px 14px',
-                  borderRadius: 'var(--radius-full)',
-                  backgroundColor: 'var(--color-primary-light)',
-                  color: 'var(--color-primary)',
-                  fontWeight: 700,
-                  fontSize: '0.85rem',
-                  letterSpacing: '0.02em',
-                  marginBottom: 'var(--space-md)'
-                }}
-              >
-                <Sparkles size={16} />
-                <span>Small Quizzes. A Smarter You.</span>
-              </div>
-
-              {/* H1 Headline */}
-              <h1 className="h1-title" style={{ marginBottom: 'var(--space-md)' }}>
-                Test Your <span style={{ color: 'var(--color-primary)' }}>Knowledge</span>
-              </h1>
-
-              {/* Subheading */}
-              <p
-                style={{
-                  fontSize: '1.1rem',
-                  lineHeight: 1.6,
-                  color: 'var(--color-text-secondary)',
-                  marginBottom: 'var(--space-xl)',
-                  maxWidth: '520px'
-                }}
-              >
-                Fun and engaging quizzes to help you learn, remember and grow. Explore nursing NCLEX scenarios, anatomy, geography, science, and daily challenges.
-              </p>
-
-              {/* CTAs */}
-              <div style={{ display: 'flex', flexWrap: 'wrap', gap: 'var(--space-md)' }}>
-                <Link
-                  to="/quizzes/mixed-knowledge-classic"
-                  className="btn btn-primary btn-lg btn-mobile-full"
-                  style={{ borderRadius: 'var(--radius-full)' }}
-                >
-                  <Play size={18} fill="currentColor" />
-                  <span>Start Mixed Quiz</span>
-                </Link>
-
-                <Link
-                  to="/categories"
-                  className="btn btn-secondary btn-lg btn-mobile-full"
-                  style={{ borderRadius: 'var(--radius-full)' }}
-                >
-                  <span>Browse Categories</span>
-                  <ArrowRight size={18} />
-                </Link>
-              </div>
-
-              {/* Trust Metric */}
-              <div
-                style={{
-                  display: 'flex',
-                  flexWrap: 'wrap',
-                  alignItems: 'center',
-                  gap: 'var(--space-md)',
-                  marginTop: 'var(--space-xl)',
-                  fontSize: '0.85rem',
-                  color: 'var(--color-text-muted)'
-                }}
-              >
-                <span>✓ {stats.totalQuestions.toLocaleString()}+ Questions</span>
-                <span>✓ {CATEGORIES.length} Categories</span>
-                <span>✓ Instant Explanations</span>
-                <span>✓ 100% Free</span>
-              </div>
+            {/* Badge */}
+            <div
+              style={{
+                display: 'inline-flex',
+                alignItems: 'center',
+                gap: '6px',
+                padding: '6px 16px',
+                borderRadius: 'var(--radius-full)',
+                backgroundColor: 'var(--color-primary-light)',
+                color: 'var(--color-primary)',
+                fontWeight: 700,
+                fontSize: '0.875rem',
+                letterSpacing: '0.02em',
+                marginBottom: 'var(--space-md)'
+              }}
+            >
+              <Sparkles size={16} />
+              <span>Small Quizzes. A Smarter You.</span>
             </div>
 
-            {/* Right Column: Live Playable Interactive Quiz */}
+            {/* H1 Headline */}
+            <h1 className="h1-title" style={{ marginBottom: 'var(--space-md)', maxWidth: '720px' }}>
+              Test Your <span style={{ color: 'var(--color-primary)' }}>Knowledge</span>
+            </h1>
+
+            {/* Subheading */}
+            <p
+              style={{
+                fontSize: '1.15rem',
+                lineHeight: 1.6,
+                color: 'var(--color-text-secondary)',
+                marginBottom: 'var(--space-xl)',
+                maxWidth: '640px'
+              }}
+            >
+              Fun and engaging quizzes to help you learn, remember and grow. Explore nursing NCLEX scenarios, anatomy, geography, science, and daily challenges.
+            </p>
+
+            {/* CTAs */}
+            <div style={{ display: 'flex', flexWrap: 'wrap', justifyContent: 'center', gap: 'var(--space-md)' }}>
+              <Link
+                to="/quizzes/mixed-knowledge-classic"
+                className="btn btn-primary btn-lg btn-mobile-full"
+                style={{ borderRadius: 'var(--radius-full)' }}
+              >
+                <Play size={18} fill="currentColor" />
+                <span>Start Mixed Quiz</span>
+              </Link>
+
+              <Link
+                to="/categories"
+                className="btn btn-secondary btn-lg btn-mobile-full"
+                style={{ borderRadius: 'var(--radius-full)' }}
+              >
+                <span>Browse Categories</span>
+                <ArrowRight size={18} />
+              </Link>
+            </div>
+
+            {/* Trust Metric */}
             <div
               style={{
                 display: 'flex',
+                flexWrap: 'wrap',
                 justifyContent: 'center',
                 alignItems: 'center',
-                width: '100%'
+                gap: 'var(--space-lg)',
+                marginTop: 'var(--space-2xl)',
+                fontSize: '0.9rem',
+                color: 'var(--color-text-muted)'
               }}
             >
-              <InteractiveHeroQuiz />
+              <span>✓ {stats.totalQuestions.toLocaleString()}+ Questions</span>
+              <span>✓ {CATEGORIES.length} Categories</span>
+              <span>✓ Instant Explanations</span>
+              <span>✓ 100% Free</span>
             </div>
           </div>
         </div>
@@ -366,61 +353,6 @@ export const HomePage: React.FC = () => {
             {newQuizzes.map(quiz => (
               <QuizCard key={quiz.id} quiz={quiz} />
             ))}
-          </div>
-        </div>
-      </section>
-
-      {/* WHY WKQUIZ SEO SECTION */}
-      <section
-        style={{
-          padding: 'var(--space-3xl) 0',
-          backgroundColor: 'var(--color-bg-alt)',
-          borderTop: '1px solid var(--color-border)',
-          borderBottom: '1px solid var(--color-border)',
-          margin: 'var(--space-3xl) 0'
-        }}
-      >
-        <div className="app-container">
-          <div style={{ maxWidth: '820px', margin: '0 auto', textAlign: 'center' }}>
-            <h2 className="h2-title" style={{ marginBottom: 'var(--space-md)' }}>
-              Why Choose WKQuiz?
-            </h2>
-            <p style={{ color: 'var(--color-text-secondary)', fontSize: '1.05rem', lineHeight: 1.7, marginBottom: 'var(--space-xl)' }}>
-              At WKQuiz.com, we believe that self-testing is the single most effective cognitive technique for active recall and long-term retention. Whether you are a nursing student revising for the NCLEX exam, an engineering student memorizing electrical schematics, a driver studying state DMV guidelines, or simply a trivia enthusiast having fun, WKQuiz is engineered to be lightweight, instant, and mobile-friendly.
-            </p>
-
-            <div
-              style={{
-                display: 'grid',
-                gridTemplateColumns: 'repeat(auto-fit, minmax(220px, 1fr))',
-                gap: 'var(--space-lg)',
-                textAlign: 'left'
-              }}
-            >
-              <div className="card" style={{ padding: 'var(--space-lg)' }}>
-                <ShieldCheck size={28} color="var(--color-primary)" style={{ marginBottom: 'var(--space-sm)' }} />
-                <h3 style={{ fontSize: '1.1rem', fontWeight: 700, marginBottom: '6px' }}>Verified Explanations</h3>
-                <p style={{ fontSize: '0.875rem', color: 'var(--color-text-secondary)', lineHeight: 1.5 }}>
-                  Every question includes in-depth explanations revealing the rationale behind the correct choice.
-                </p>
-              </div>
-
-              <div className="card" style={{ padding: 'var(--space-lg)' }}>
-                <Zap size={28} color="var(--color-primary)" style={{ marginBottom: 'var(--space-sm)' }} />
-                <h3 style={{ fontSize: '1.1rem', fontWeight: 700, marginBottom: '6px' }}>True Randomization</h3>
-                <p style={{ fontSize: '0.875rem', color: 'var(--color-text-secondary)', lineHeight: 1.5 }}>
-                  Questions and answer options shuffle dynamically so you never rely on mechanical rote memorization.
-                </p>
-              </div>
-
-              <div className="card" style={{ padding: 'var(--space-lg)' }}>
-                <Sparkles size={28} color="var(--color-primary)" style={{ marginBottom: 'var(--space-sm)' }} />
-                <h3 style={{ fontSize: '1.1rem', fontWeight: 700, marginBottom: '6px' }}>Zero Barriers</h3>
-                <p style={{ fontSize: '0.875rem', color: 'var(--color-text-secondary)', lineHeight: 1.5 }}>
-                  No mandatory logins, no credit card paywalls. Start playing and learning immediately in one tap.
-                </p>
-              </div>
-            </div>
           </div>
         </div>
       </section>
