@@ -10,21 +10,26 @@ import { FEATURED_QUIZZES } from '../data/quizzes';
 import type { Difficulty, QuizMode } from '../types/quiz';
 import { IconHelper } from '../components/common/IconHelper';
 import { getCategoryStats } from '../data/questionBank';
+import { NotFoundPage } from './NotFoundPage';
 
 export const CategoryDetailPage: React.FC = () => {
   const { category: categorySlug } = useParams<{ category: string }>();
-
-  // Find matching category
-  const category = CATEGORIES.find(
-    c => c.slug === categorySlug || c.id === categorySlug
-  ) || CATEGORIES[0];
-
-  const stats = getCategoryStats(category.slug || category.name);
 
   const [selectedDifficulty, setSelectedDifficulty] = useState<Difficulty>('mixed');
   const [selectedMode, setSelectedMode] = useState<QuizMode>('classic');
   const [selectedCount, setSelectedCount] = useState<number>(10);
   const [isPlaying, setIsPlaying] = useState(false);
+
+  // Find matching category
+  const category = CATEGORIES.find(
+    c => c.slug === categorySlug || c.id === categorySlug
+  );
+
+  if (!category) {
+    return <NotFoundPage />;
+  }
+
+  const stats = getCategoryStats(category.slug || category.name);
 
   // Available quizzes matching category
   const relatedQuizzes = FEATURED_QUIZZES.filter(

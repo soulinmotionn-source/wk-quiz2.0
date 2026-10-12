@@ -1,6 +1,8 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 import { Zap, ShieldAlert } from 'lucide-react';
+import { CATEGORIES } from '../../data/categories';
+import { FEATURED_QUIZZES } from '../../data/quizzes';
 
 export const Footer: React.FC = () => {
   return (
@@ -246,6 +248,92 @@ export const Footer: React.FC = () => {
                 <span>Facebook</span>
               </a>
             </div>
+          </div>
+        </div>
+
+        {/* Full Directory of Categories & Quizzes for Search Discovery & Accessibility */}
+        <div
+          style={{
+            borderTop: '1px solid var(--color-border-light)',
+            paddingTop: 'var(--space-xl)',
+            marginBottom: 'var(--space-xl)'
+          }}
+        >
+          <div style={{ marginBottom: 'var(--space-sm)' }}>
+            <h4
+              style={{
+                fontSize: '0.85rem',
+                fontWeight: 700,
+                textTransform: 'uppercase',
+                letterSpacing: '0.05em',
+                marginBottom: '4px',
+                color: 'var(--color-text-primary)'
+              }}
+            >
+              All 34 Knowledge Categories
+            </h4>
+            <p style={{ fontSize: '0.8rem', color: 'var(--color-text-muted)' }}>
+              Direct access to interactive study banks across all subjects:
+            </p>
+          </div>
+          <div
+            style={{
+              display: 'flex',
+              flexWrap: 'wrap',
+              gap: '6px 12px',
+              fontSize: '0.8rem',
+              lineHeight: 1.8
+            }}
+          >
+            {CATEGORIES.map(cat => (
+              <Link
+                key={cat.id}
+                to={`/categories/${cat.slug}`}
+                style={{
+                  color: 'var(--color-text-secondary)',
+                  textDecoration: 'none'
+                }}
+              >
+                {cat.name}
+              </Link>
+            ))}
+          </div>
+
+          <div style={{ marginTop: 'var(--space-md)', marginBottom: 'var(--space-xs)' }}>
+            <h4
+              style={{
+                fontSize: '0.85rem',
+                fontWeight: 700,
+                textTransform: 'uppercase',
+                letterSpacing: '0.05em',
+                marginBottom: '4px',
+                color: 'var(--color-text-primary)'
+              }}
+            >
+              Curated Practice Quizzes
+            </h4>
+          </div>
+          <div
+            style={{
+              display: 'flex',
+              flexWrap: 'wrap',
+              gap: '6px 16px',
+              fontSize: '0.8rem',
+              lineHeight: 1.8
+            }}
+          >
+            {FEATURED_QUIZZES.map(q => (
+              <Link
+                key={q.id}
+                to={`/quizzes/${q.slug}`}
+                style={{
+                  color: 'var(--color-text-secondary)',
+                  textDecoration: 'none'
+                }}
+              >
+                {q.title}
+              </Link>
+            ))}
           </div>
         </div>
 

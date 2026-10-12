@@ -9,6 +9,7 @@ export const NotFoundPage: React.FC = () => {
       <SEOHead
         title="404 — Page Not Found | WKQuiz.com"
         description="The page you were looking for could not be found. Explore our quiz categories or try today's daily challenge."
+        noindex={true}
       />
 
       <div className="app-container" style={{ maxWidth: '600px', textAlign: 'center' }}>

@@ -6,13 +6,15 @@ interface SEOHeadProps {
   canonicalPath?: string;
   type?: 'website' | 'article';
   schema?: Record<string, any>;
+  noindex?: boolean;
 }
 
 export const SEOHead: React.FC<SEOHeadProps> = ({
   title,
   description,
   canonicalPath = '',
-  schema
+  schema,
+  noindex = false
 }) => {
   useEffect(() => {
     // 1. Update Title
@@ -28,14 +30,32 @@ export const SEOHead: React.FC<SEOHeadProps> = ({
     }
     metaDesc.setAttribute('content', description);
 
-    // 3. Update Canonical Link
-    let canonical = document.querySelector('link[rel="canonical"]') as HTMLLinkElement;
-    if (!canonical) {
-      canonical = document.createElement('link');
-      canonical.setAttribute('rel', 'canonical');
-      document.head.appendChild(canonical);
+    // 3. Update Robots Meta
+    let robotsMeta = document.querySelector('meta[name="robots"]');
+    if (noindex) {
+      if (!robotsMeta) {
+        robotsMeta = document.createElement('meta');
+        robotsMeta.setAttribute('name', 'robots');
+        document.head.appendChild(robotsMeta);
+      }
+      robotsMeta.setAttribute('content', 'noindex, follow');
+    } else if (robotsMeta) {
+      robotsMeta.setAttribute('content', 'index, follow');
     }
-    canonical.setAttribute('href', `https://wkquiz.com${canonicalPath}`);
+
+    // 4. Update Canonical Link (only for indexable pages)
+    let canonical = document.querySelector('link[rel="canonical"]') as HTMLLinkElement;
+    if (!noindex) {
+      if (!canonical) {
+        canonical = document.createElement('link');
+        canonical.setAttribute('rel', 'canonical');
+        document.head.appendChild(canonical);
+      }
+      const cleanPath = canonicalPath === '/' ? '/' : canonicalPath.replace(/\/$/, '');
+      canonical.setAttribute('href', `https://wkquiz.com${cleanPath}`);
+    } else if (canonical) {
+      canonical.remove();
+    }
 
     // 4. Update OpenGraph
     let ogTitle = document.querySelector('meta[property="og:title"]');

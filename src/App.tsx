@@ -1,5 +1,5 @@
 import React from 'react';
-import { BrowserRouter, Routes, Route } from 'react-router-dom';
+import { BrowserRouter, Routes, Route, Navigate } from 'react-router-dom';
 import { Header } from './components/layout/Header';
 import { Footer } from './components/layout/Footer';
 import { MobileBottomNav } from './components/layout/MobileBottomNav';
@@ -33,6 +33,8 @@ export const App: React.FC = () => {
             <Route path="/categories" element={<CategoriesPage />} />
             <Route path="/categories/:category" element={<CategoryDetailPage />} />
             <Route path="/quizzes" element={<QuizzesPage />} />
+            {/* Alias / Redirect for legacy indexed slug */}
+            <Route path="/quizzes/medical-abbreviations" element={<Navigate to="/quizzes/medical-terminology-essentials" replace />} />
             <Route path="/quizzes/:slug" element={<QuizDetailPage />} />
             <Route path="/daily-quiz" element={<DailyQuizPage />} />
             <Route path="/search" element={<SearchPage />} />

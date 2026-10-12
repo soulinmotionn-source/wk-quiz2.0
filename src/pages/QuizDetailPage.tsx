@@ -7,12 +7,17 @@ import { QuizCard } from '../components/cards/QuizCard';
 import { AdSlot } from '../components/common/AdSlot';
 import { FEATURED_QUIZZES } from '../data/quizzes';
 import { CATEGORIES } from '../data/categories';
+import { NotFoundPage } from './NotFoundPage';
 
 export const QuizDetailPage: React.FC = () => {
   const { slug } = useParams<{ slug: string }>();
 
   // Find quiz by slug
-  const quiz = FEATURED_QUIZZES.find(q => q.slug === slug) || FEATURED_QUIZZES[0];
+  const quiz = FEATURED_QUIZZES.find(q => q.slug === slug);
+
+  if (!quiz) {
+    return <NotFoundPage />;
+  }
 
   // Matching category
   const categoryInfo = CATEGORIES.find(c => c.name.toLowerCase() === quiz.category.toLowerCase());
