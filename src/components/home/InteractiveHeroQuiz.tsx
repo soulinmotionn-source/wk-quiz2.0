@@ -1,6 +1,5 @@
 import React, { useState } from 'react';
 import { Link } from 'react-router-dom';
-import confetti from 'canvas-confetti';
 import { Check, X, ArrowRight, Lightbulb, Zap } from 'lucide-react';
 
 interface HeroQuestion {
@@ -81,15 +80,22 @@ export const InteractiveHeroQuiz: React.FC = () => {
     const isCorrect = idx === currentQ.correctAnswer;
     if (isCorrect) {
       setXpEarned(x => x + 10);
-      try {
-        confetti({
-          particleCount: 50,
-          spread: 60,
-          origin: { y: 0.7 }
+      // Lazy-load confetti only when it is actually shown
+      import('canvas-confetti')
+        .then(({ default: confetti }) => {
+          try {
+            confetti({
+              particleCount: 50,
+              spread: 60,
+              origin: { y: 0.7 }
+            });
+          } catch {
+            // ignore
+          }
+        })
+        .catch(() => {
+          // ignore load failures
         });
-      } catch {
-        // ignore
-      }
     }
   };
 

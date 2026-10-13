@@ -4,14 +4,23 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     
-    <!-- Google tag (gtag.js) -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-PEVFZLT56S"></script>
+    <!-- Google tag (gtag.js) — deferred so it never blocks first paint -->
     <script>
       window.dataLayer = window.dataLayer || [];
       function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-
-      gtag('config', 'G-PEVFZLT56S');
+      function loadGtag(){
+        var s = document.createElement('script');
+        s.async = true;
+        s.src = 'https://www.googletagmanager.com/gtag/js?id=G-PEVFZLT56S';
+        document.head.appendChild(s);
+        gtag('js', new Date());
+        gtag('config', 'G-PEVFZLT56S');
+      }
+      if ('requestIdleCallback' in window) {
+        requestIdleCallback(loadGtag, { timeout: 4000 });
+      } else {
+        window.addEventListener('load', function(){ setTimeout(loadGtag, 1500); });
+      }
     </script>
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <link rel="manifest" href="/manifest.json" />
@@ -37,10 +46,12 @@
     <meta property="twitter:description" content="Fun, educational quizzes to help you learn, remember, and grow. Multiple modes, detailed explanations, and progress tracking." />
     <meta property="twitter:image" content="https://wkquiz.com/favicon.svg" />
 
-    <!-- Fonts: Inter -->
+    <!-- Fonts: Inter (non-blocking load) -->
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+    <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" media="print" onload="this.media='all'" />
+    <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" /></noscript>
   </head>
   <body>
     <div id="root"></div>

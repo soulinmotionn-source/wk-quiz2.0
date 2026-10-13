@@ -1,6 +1,5 @@
 import React, { useEffect } from 'react';
 import { Link } from 'react-router-dom';
-import confetti from 'canvas-confetti';
 import { Trophy, RotateCcw, AlertTriangle, Play, Grid, Home, Clock, Award, CheckCircle, XCircle } from 'lucide-react';
 import type { QuizResult } from '../../types/quiz';
 import { ReviewList } from './ReviewList';
@@ -25,15 +24,22 @@ export const ResultsCard: React.FC<ResultsCardProps> = ({
 
   useEffect(() => {
     if (percentage >= 70) {
-      try {
-        confetti({
-          particleCount: 80,
-          spread: 70,
-          origin: { y: 0.6 }
+      // Lazy-load confetti only when it is actually shown
+      import('canvas-confetti')
+        .then(({ default: confetti }) => {
+          try {
+            confetti({
+              particleCount: 80,
+              spread: 70,
+              origin: { y: 0.6 }
+            });
+          } catch {
+            // ignore
+          }
+        })
+        .catch(() => {
+          // ignore load failures
         });
-      } catch {
-        // ignore
-      }
     }
   }, [percentage]);
 

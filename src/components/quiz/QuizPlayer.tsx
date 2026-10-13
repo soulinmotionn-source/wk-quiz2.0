@@ -43,6 +43,7 @@ export const QuizPlayer: React.FC<QuizPlayerProps> = ({
     currentQuestion,
     currentIndex,
     totalQuestions,
+    isLoadingQuestions,
     selectedOption,
     isAnswerSubmitted,
     isCompleted,
@@ -126,6 +127,20 @@ export const QuizPlayer: React.FC<QuizPlayerProps> = ({
     const isCorrect = currentQuestion.correctAnswer === idx;
     playTone(isCorrect);
   };
+
+  if (isLoadingQuestions) {
+    return (
+      <div className="card quiz-loading-card" style={{ textAlign: 'center', padding: 'var(--space-2xl)' }}>
+        <div className="quiz-spinner" aria-hidden="true" />
+        <h3 className="h3-title" style={{ marginBottom: 'var(--space-sm)' }}>
+          Loading questions…
+        </h3>
+        <p style={{ color: 'var(--color-text-secondary)' }}>
+          Preparing your quiz. This only takes a moment.
+        </p>
+      </div>
+    );
+  }
 
   if (isCompleted) {
     const finalResult: QuizResult = {

@@ -1,6 +1,6 @@
 import { useState, useEffect, useCallback, useRef } from 'react';
 import type { ShuffledQuestion, QuizMode, Difficulty, QuizResult, QuestionReviewItem } from '../types/quiz';
-import { generateQuizQuestions, getDailyQuizQuestions } from '../data/questionBank';
+import { generateQuizQuestionsAsync, getDailyQuizQuestionsAsync } from '../data/questionBank';
 
 export interface UseQuizEngineProps {
   quizId: string;
@@ -27,17 +27,39 @@ export function useQuizEngine({
   timeLimitSeconds = 20,
   onComplete
 }: UseQuizEngineProps) {
-  // Questions list
+  // Questions list — loaded asynchronously so the question bank
+  // (~3.5 MB of JSON) is only downloaded when a quiz is actually played.
   const [questions, setQuestions] = useState<ShuffledQuestion[]>(() => {
     if (initialQuestions && initialQuestions.length > 0) {
       return initialQuestions;
     }
+    return [];
+  });
+  const [isLoadingQuestions, setIsLoadingQuestions] = useState<boolean>(
+    !(initialQuestions && initialQuestions.length > 0)
+  );
+
+  // Load (or reload) questions for the current quiz configuration
+  const loadQuestions = useCallback(async () => {
+    if (initialQuestions && initialQuestions.length > 0) {
+      return initialQuestions;
+    }
     if (mode === 'daily') {
-      return getDailyQuizQuestions();
+      return getDailyQuizQuestionsAsync();
     }
     const targetCount = count && count > 0 ? count : (mode === 'quick' ? 5 : 10);
-    return generateQuizQuestions({ category, subcategory, difficulty, count: targetCount });
-  });
+    return generateQuizQuestionsAsync({ category, subcategory, difficulty, count: targetCount });
+  }, [quizId, category, subcategory, difficulty, mode, count, initialQuestions]);
+
+  const resetQuizState = useCallback(() => {
+    setCurrentIndex(0);
+    setSelectedOption(null);
+    setIsAnswerSubmitted(false);
+    setReviews([]);
+    setScore(0);
+    setIsCompleted(false);
+    setTotalTimeElapsed(0);
+  }, []);
 
   const [currentIndex, setCurrentIndex] = useState(0);
   const [selectedOption, setSelectedOption] = useState<number | null>(null);
@@ -54,24 +76,35 @@ export function useQuizEngine({
   const timerRef = useRef<number | null>(null);
   const totalTimerRef = useRef<number | null>(null);
 
-  // Synchronize and re-initialize questions whenever quizId or configuration changes
+  // Synchronize and re-initialize questions whenever quizId or configuration changes.
+  // Questions load asynchronously from the on-demand question bank.
   useEffect(() => {
+    // Supplied questions render immediately with no loading state
     if (initialQuestions && initialQuestions.length > 0) {
       setQuestions(initialQuestions);
-    } else if (mode === 'daily') {
-      setQuestions(getDailyQuizQuestions());
-    } else {
-      const targetCount = count && count > 0 ? count : (mode === 'quick' ? 5 : 10);
-      setQuestions(generateQuizQuestions({ category, subcategory, difficulty, count: targetCount }));
+      resetQuizState();
+      setIsLoadingQuestions(false);
+      return;
     }
-    setCurrentIndex(0);
-    setSelectedOption(null);
-    setIsAnswerSubmitted(false);
-    setReviews([]);
-    setScore(0);
-    setIsCompleted(false);
-    setTotalTimeElapsed(0);
-  }, [quizId, category, subcategory, difficulty, mode, count, initialQuestions]);
+    let cancelled = false;
+    setIsLoadingQuestions(true);
+    loadQuestions()
+      .then(qs => {
+        if (cancelled) return;
+        setQuestions(qs);
+        resetQuizState();
+        setIsLoadingQuestions(false);
+      })
+      .catch(() => {
+        if (cancelled) return;
+        setQuestions([]);
+        resetQuizState();
+        setIsLoadingQuestions(false);
+      });
+    return () => {
+      cancelled = true;
+    };
+  }, [loadQuestions, resetQuizState]);
 
   // Total elapsed timer
   useEffect(() => {
@@ -196,24 +229,25 @@ export function useQuizEngine({
   };
 
   // Restart quiz with fresh questions
-  const restartQuiz = () => {
-    let freshQuestions: ShuffledQuestion[];
-    if (mode === 'daily') {
-      freshQuestions = getDailyQuizQuestions();
-    } else {
-      const count = mode === 'quick' ? 5 : 10;
-      freshQuestions = generateQuizQuestions({ category, subcategory, difficulty, count });
+  const restartQuiz = useCallback(async () => {
+    setIsLoadingQuestions(true);
+    try {
+      let freshQuestions: ShuffledQuestion[];
+      if (mode === 'daily') {
+        freshQuestions = await getDailyQuizQuestionsAsync();
+      } else {
+        const targetCount = mode === 'quick' ? 5 : 10;
+        freshQuestions = await generateQuizQuestionsAsync({ category, subcategory, difficulty, count: targetCount });
+      }
+      setQuestions(freshQuestions);
+    } catch {
+      setQuestions([]);
+    } finally {
+      resetQuizState();
+      setSecondsRemaining(timeLimitSeconds);
+      setIsLoadingQuestions(false);
     }
-    setQuestions(freshQuestions);
-    setCurrentIndex(0);
-    setSelectedOption(null);
-    setIsAnswerSubmitted(false);
-    setReviews([]);
-    setScore(0);
-    setIsCompleted(false);
-    setTotalTimeElapsed(0);
-    setSecondsRemaining(timeLimitSeconds);
-  };
+  }, [mode, category, subcategory, difficulty, timeLimitSeconds, resetQuizState]);
 
   // Retry ONLY incorrect questions from the current attempt
   const retryIncorrect = () => {
@@ -248,6 +282,7 @@ export function useQuizEngine({
 
   return {
     questions,
+    isLoadingQuestions,
     currentQuestion,
     currentIndex,
     totalQuestions: questions.length,
