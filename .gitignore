@@ -31,3 +31,6 @@ dist-ssr
 # Python
 __pycache__/
 *.py[cod]
+
+# Self-hosted font binaries are downloaded at build time (scripts/downloadFonts.js)
+public/fonts/*.woff2
