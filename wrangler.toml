@@ -5,3 +5,5 @@ pages_build_output_dir = "./dist"
 [assets]
 directory = "./dist"
 not_found_handling = "404-page"
+# /iq-test/ redirects to /iq-test so URLs match the canonical tags and the sitemap
+html_handling = "drop-trailing-slash"
