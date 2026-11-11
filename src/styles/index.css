@@ -1,5 +1,8 @@
 @import './fonts.css';
 @import './tokens.css';
+@import './redesign.css';
+@import './iq.css';
+@import './theme.css';
 
 /* CSS Reset & Global Base */
 *, *::before, *::after {

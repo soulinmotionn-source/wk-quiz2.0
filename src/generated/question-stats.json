@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-11T08:59:03.873Z",
-  "totalQuestions": 5000,
-  "activeQuestions": 5000,
-  "inactiveQuestions": 0,
+  "generatedAt": "2026-11-11T10:33:31.184Z",
+  "totalQuestions": 5092,
+  "activeQuestions": 4728,
+  "inactiveQuestions": 364,
   "questionsByCategory": {
     "Anatomy & Physiology": 160,
     "Automotive": 150,
@@ -10,7 +10,7 @@
     "Celebrity": 130,
     "Computers": 160,
     "Diseases & Disorders": 160,
-    "DMV Test": 160,
+    "DMV Test": 57,
     "Drama": 130,
     "Electrical Symbols": 150,
     "Electrical": 160,
@@ -25,11 +25,11 @@
     "IQ & Logic": 160,
     "License Plate Quiz": 130,
     "Mathematics": 160,
-    "Medical": 150,
+    "Medical": 103,
     "Movies": 150,
     "Music": 150,
-    "NCLEX": 150,
-    "Nursing": 150,
+    "NCLEX": 80,
+    "Nursing": 98,
     "Pharmacology": 160,
     "Relationships": 130,
     "Science": 160,
@@ -63,10 +63,10 @@
     "Diseases & Disorders > Infectious Diseases": 40,
     "Diseases & Disorders > Autoimmune Disorders": 40,
     "Diseases & Disorders > Emergency Conditions": 40,
-    "DMV Test > Rules of the Road": 40,
-    "DMV Test > Traffic Signs": 40,
-    "DMV Test > Right of Way": 40,
-    "DMV Test > Safe Driving Practices": 40,
+    "DMV Test > Rules of the Road": 27,
+    "DMV Test > Traffic Signs": 6,
+    "DMV Test > Right of Way": 2,
+    "DMV Test > Safe Driving Practices": 22,
     "Drama > Shakespeare": 33,
     "Drama > Modern Theater": 33,
     "Drama > Dramatic Arts": 32,
@@ -123,10 +123,10 @@
     "Mathematics > Algebra & Equations": 40,
     "Mathematics > Geometry & Angles": 40,
     "Mathematics > Percentages & Ratios": 40,
-    "Medical > Medical Terminology": 38,
-    "Medical > Clinical Assessment": 38,
-    "Medical > Cardiology": 37,
-    "Medical > Pathophysiology": 37,
+    "Medical > Medical Terminology": 37,
+    "Medical > Clinical Assessment": 34,
+    "Medical > Cardiology": 27,
+    "Medical > Pathophysiology": 5,
     "Movies > Classic Cinema": 38,
     "Movies > Oscar Winners": 38,
     "Movies > Famous Quotes": 37,
@@ -135,14 +135,14 @@
     "Music > Music Theory": 38,
     "Music > Classical Masters": 37,
     "Music > Musical Instruments": 37,
-    "NCLEX > Priority & Delegation": 38,
-    "NCLEX > Safe & Effective Care": 38,
-    "NCLEX > Health Promotion": 37,
-    "NCLEX > Pharmacological Therapies": 37,
-    "Nursing > Fundamentals": 38,
-    "Nursing > Patient Safety": 38,
-    "Nursing > Clinical Judgment": 37,
-    "Nursing > Infection Control": 37,
+    "NCLEX > Priority & Delegation": 34,
+    "NCLEX > Safe & Effective Care": 13,
+    "NCLEX > Health Promotion": 16,
+    "NCLEX > Pharmacological Therapies": 17,
+    "Nursing > Fundamentals": 42,
+    "Nursing > Patient Safety": 18,
+    "Nursing > Clinical Judgment": 19,
+    "Nursing > Infection Control": 19,
     "Pharmacology > Cardiovascular Pharmacology": 40,
     "Pharmacology > Antibiotics & Antivirals": 40,
     "Pharmacology > Antidotes & Toxicity": 40,
@@ -173,9 +173,9 @@
     "Wisdom > Mindfulness": 32
   },
   "questionsByDifficulty": {
-    "easy": 1680,
-    "medium": 1660,
-    "hard": 1660
+    "easy": 1585,
+    "medium": 1593,
+    "hard": 1550
   },
   "categories": {
     "anatomy-physiology": {
@@ -258,15 +258,15 @@
     },
     "dmv-test": {
       "name": "DMV Test",
-      "total": 160,
-      "easy": 54,
-      "medium": 53,
-      "hard": 53,
+      "total": 57,
+      "easy": 19,
+      "medium": 28,
+      "hard": 10,
       "subcategories": {
-        "Rules of the Road": 40,
-        "Traffic Signs": 40,
-        "Right of Way": 40,
-        "Safe Driving Practices": 40
+        "Rules of the Road": 27,
+        "Traffic Signs": 6,
+        "Right of Way": 2,
+        "Safe Driving Practices": 22
       }
     },
     "drama": {
@@ -453,15 +453,15 @@
     },
     "medical": {
       "name": "Medical",
-      "total": 150,
-      "easy": 50,
-      "medium": 50,
-      "hard": 50,
+      "total": 103,
+      "easy": 36,
+      "medium": 38,
+      "hard": 29,
       "subcategories": {
-        "Medical Terminology": 38,
-        "Clinical Assessment": 38,
-        "Cardiology": 37,
-        "Pathophysiology": 37
+        "Medical Terminology": 37,
+        "Clinical Assessment": 34,
+        "Cardiology": 27,
+        "Pathophysiology": 5
       }
     },
     "movies": {
@@ -492,28 +492,28 @@
     },
     "nclex": {
       "name": "NCLEX",
-      "total": 150,
-      "easy": 50,
-      "medium": 50,
-      "hard": 50,
+      "total": 80,
+      "easy": 21,
+      "medium": 29,
+      "hard": 30,
       "subcategories": {
-        "Priority & Delegation": 38,
-        "Safe & Effective Care": 38,
-        "Health Promotion": 37,
-        "Pharmacological Therapies": 37
+        "Priority & Delegation": 34,
+        "Safe & Effective Care": 13,
+        "Health Promotion": 16,
+        "Pharmacological Therapies": 17
       }
     },
     "nursing": {
       "name": "Nursing",
-      "total": 150,
-      "easy": 50,
-      "medium": 50,
-      "hard": 50,
+      "total": 98,
+      "easy": 33,
+      "medium": 41,
+      "hard": 24,
       "subcategories": {
-        "Fundamentals": 38,
-        "Patient Safety": 38,
-        "Clinical Judgment": 37,
-        "Infection Control": 37
+        "Fundamentals": 42,
+        "Patient Safety": 18,
+        "Clinical Judgment": 19,
+        "Infection Control": 19
       }
     },
     "pharmacology": {

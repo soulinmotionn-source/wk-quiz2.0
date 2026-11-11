@@ -1,4 +1,5 @@
 import React, { useEffect, useRef } from 'react';
+import { useConsent } from '../../hooks/useConsent';
 
 export type AdSlotType = 'banner' | 'in-content' | 'between-section' | 'results';
 
@@ -14,6 +15,7 @@ export const AdSlot: React.FC<AdSlotProps> = ({
   slotId = 'wk-ad-placeholder'
 }) => {
   const containerRef = useRef<HTMLDivElement>(null);
+  const { consent } = useConsent();
 
   // Height and max-width based on standard IAB ad dimensions
   let minHeight = '90px';
@@ -32,7 +34,7 @@ export const AdSlot: React.FC<AdSlotProps> = ({
 
   useEffect(() => {
     const el = containerRef.current;
-    if (!el) return;
+    if (!el || consent !== 'granted') return;
 
     // Clear any previous ad elements to avoid duplicate containers
     el.innerHTML = '';
@@ -54,7 +56,7 @@ export const AdSlot: React.FC<AdSlotProps> = ({
         el.innerHTML = '';
       }
     };
-  }, [slotId]);
+  }, [slotId, consent]);
 
   return (
     <div 

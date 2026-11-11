@@ -7,7 +7,7 @@
       (function () {
         try {
           var t = localStorage.getItem('wkquiz_theme');
-          var dark = t === 'dark' || (t !== 'light' && window.matchMedia('(prefers-color-scheme: dark)').matches);
+          var dark = t === 'dark' || (t === 'system' && window.matchMedia('(prefers-color-scheme: dark)').matches);
           document.documentElement.setAttribute('data-theme', dark ? 'dark' : 'light');
         } catch (e) {}
       })();
@@ -31,8 +31,13 @@
         gtag('js', new Date());
         gtag('config', 'G-PEVFZLT56S');
       }
-      window.addEventListener('load', function(){ setTimeout(loadGtag, 3000); });
-      setTimeout(loadGtag, 9000); // safety net if load is delayed
+      // Analytics only loads after the visitor accepts cookies (see ConsentBanner)
+      window.wkLoadAnalytics = loadGtag;
+      try {
+        if (localStorage.getItem('wkquiz_consent') === 'granted') {
+          window.addEventListener('load', function(){ setTimeout(loadGtag, 3000); });
+        }
+      } catch (e) {}
     </script>
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <link rel="manifest" href="/manifest.json" />

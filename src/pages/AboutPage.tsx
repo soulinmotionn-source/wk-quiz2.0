@@ -57,7 +57,7 @@ export const AboutPage: React.FC = () => {
             We developed WKQuiz to provide high-yield, distraction-free practice quizzes across crucial fields: nursing fundamentals, NCLEX-style clinical prioritization, human anatomy, essential sciences, world geography, and practical everyday challenges like DMV rules of the road.
           </p>
           <p style={{ color: 'var(--color-text-secondary)' }}>
-            Every quiz on WKQuiz is completely free, mobile-optimized, requires no account to get started, and provides instant, verified explanations so every wrong answer becomes a learning milestone.
+            Every quiz on WKQuiz is completely free, mobile-optimized, requires no account to get started, and gives you a clear explanation for every answer, so every wrong answer becomes a learning moment. Read how we write and check our questions in the <Link to="/editorial-policy" style={{ color: 'var(--color-primary)', fontWeight: 700 }}>Editorial Policy</Link>.
           </p>
         </div>
 
@@ -90,7 +90,7 @@ export const AboutPage: React.FC = () => {
             <ShieldCheck size={30} color="var(--color-primary)" style={{ marginBottom: 'var(--space-sm)' }} />
             <h3 style={{ fontSize: '1.2rem', fontWeight: 700, marginBottom: '6px' }}>Responsible Content</h3>
             <p style={{ fontSize: '0.9rem', color: 'var(--color-text-secondary)', lineHeight: 1.6 }}>
-              Every clinical or technical question is verified with accurate explanations and clear educational disclaimers.
+              Clinical and technical questions come with explanations and clear educational disclaimers. If you spot a mistake, please tell us through the contact page and we will correct it.
             </p>
           </div>
         </div>

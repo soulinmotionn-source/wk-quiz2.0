@@ -12,7 +12,10 @@ import { IconHelper } from '../components/common/IconHelper';
 import { getCategoryStats } from '../data/questionBank';
 import { NotFoundPage } from './NotFoundPage';
 import { getRelatedCategories } from '../data/categoryGroups';
-import { breadcrumbSchema, collectionSchema } from '../seo/schema';
+import { breadcrumbSchema, collectionSchema, faqSchema } from '../seo/schema';
+import { getHub } from '../content/hubs';
+import { HubGuide } from '../components/common/HubGuide';
+import { isCategoryIndexable } from '../seo/indexing';
 
 export const CategoryDetailPage: React.FC = () => {
   const { category: categorySlug } = useParams<{ category: string }>();
@@ -46,6 +49,7 @@ export const CategoryDetailPage: React.FC = () => {
   const otherCategories = getRelatedCategories(category.slug, 6);
 
   const pagePath = `/categories/${category.slug}`;
+  const hub = getHub(category.slug);
   const pageSchema = [
     breadcrumbSchema([
       { name: 'Home', path: '/' },
@@ -57,16 +61,18 @@ export const CategoryDetailPage: React.FC = () => {
       category.description,
       pagePath,
       relatedQuizzes.map(q => ({ name: q.title, path: `/quizzes/${q.slug}` }))
-    )
+    ),
+    ...(hub ? [faqSchema(hub.faqs)] : [])
   ];
 
   return (
     <div style={{ padding: 'var(--space-2xl) 0' }}>
       <SEOHead
-        title={`${category.name} Quizzes — Free Practice Questions & Tests`}
-        description={`${category.description} Take a free ${category.name} quiz with ${category.questionCount}+ practice questions and instant explanations.`}
+        title={hub ? hub.seoTitle : `${category.name} Quizzes — Free Practice Questions`}
+        description={hub ? hub.seoDescription : `${category.description} Take a free ${category.name} quiz with instant explanations.`}
         canonicalPath={pagePath}
         schema={pageSchema}
+        noindex={!isCategoryIndexable(category.slug)}
       />
 
       <div className="app-container">
@@ -97,9 +103,8 @@ export const CategoryDetailPage: React.FC = () => {
         ) : (
           /* Category Hero Banner */
           <div
-            className="card"
+            className="card cat-hero"
             style={{
-              padding: 'var(--space-2xl)',
               borderRadius: 'var(--radius-xl)',
               marginBottom: 'var(--space-2xl)',
               position: 'relative',
@@ -130,7 +135,7 @@ export const CategoryDetailPage: React.FC = () => {
                   <span className="badge badge-primary">
                     {category.questionCount > 0 ? `${category.questionCount} Questions` : 'Coming Soon'}
                   </span>
-                  <span style={{ fontSize: '0.8rem', color: 'var(--color-text-muted)' }}>Verified Bank</span>
+                  <span style={{ fontSize: '0.8rem', color: 'var(--color-text-muted)' }}>Free practice</span>
                 </div>
 
                 <h1 className="h1-title" style={{ fontSize: '2.5rem', marginBottom: 'var(--space-xs)' }}>
@@ -388,6 +393,9 @@ export const CategoryDetailPage: React.FC = () => {
             </div>
           </div>
         )}
+
+        {/* STUDY GUIDE (original long-form content for priority topics) */}
+        {hub && !isPlaying && <HubGuide hub={hub} categoryName={category.name} />}
 
         {/* RELATED CURATED QUIZZES */}
         {relatedQuizzes.length > 0 && (

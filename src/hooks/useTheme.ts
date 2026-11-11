@@ -12,10 +12,10 @@ function readPreference(): ThemePreference {
   } catch {
     // storage blocked
   }
-  return 'system';
+  return 'light';
 }
 
-let preference: ThemePreference = typeof window === 'undefined' ? 'system' : readPreference();
+let preference: ThemePreference = typeof window === 'undefined' ? 'light' : readPreference();
 
 function resolve(pref: ThemePreference): 'light' | 'dark' {
   if (pref !== 'system') return pref;
@@ -44,7 +44,7 @@ function subscribe(listener: () => void) {
 
 export function useTheme() {
   // Server snapshot is 'system' so hydration markup always matches the prerendered HTML.
-  const theme = useSyncExternalStore(subscribe, () => preference, () => 'system' as ThemePreference);
+  const theme = useSyncExternalStore(subscribe, () => preference, () => 'light' as ThemePreference);
 
   useEffect(() => {
     applyTheme();

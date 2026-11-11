@@ -10,6 +10,7 @@ import { CATEGORIES } from '../data/categories';
 import { NotFoundPage } from './NotFoundPage';
 import { getRelatedCategories } from '../data/categoryGroups';
 import { breadcrumbSchema, faqSchema } from '../seo/schema';
+import { isQuizIndexable } from '../seo/indexing';
 
 export const QuizDetailPage: React.FC = () => {
   const { slug } = useParams<{ slug: string }>();
@@ -65,9 +66,10 @@ export const QuizDetailPage: React.FC = () => {
     <div style={{ padding: 'var(--space-2xl) 0' }}>
       <SEOHead
         title={`${quiz.title} — Test & Practice Online`}
-        description={`${quiz.description} Practice interactive multiple-choice questions with verified explanations on WKQuiz.com.`}
+        description={`${quiz.description} Practice interactive multiple-choice questions with explanations on WKQuiz.com.`}
         canonicalPath={`/quizzes/${quiz.slug}`}
         schema={quizSchema}
+        noindex={!isQuizIndexable(quiz)}
       />
 
       <div className="app-container">

@@ -1,62 +1,72 @@
 import React from 'react';
-import { SEOHead } from '../../components/common/SEOHead';
+import { Link } from 'react-router-dom';
+import { LegalPage } from '../../components/common/LegalPage';
+import { reopenConsent } from '../../hooks/useConsent';
 
-export const CookiePolicyPage: React.FC = () => {
-  return (
-    <div style={{ padding: 'var(--space-2xl) 0' }}>
-      <SEOHead
-        title="Cookie Policy — WKQuiz.com"
-        description="Learn how WKQuiz uses cookies and browser storage technologies to maintain themes and user preferences."
-        canonicalPath="/cookie-policy"
-      />
+export const CookiePolicyPage: React.FC = () => (
+  <LegalPage
+    title="Cookie Policy"
+    description="Which cookies and browser storage WKQuiz.com uses, why, and how to accept, decline or change your choice at any time."
+    path="/cookie-policy"
+  >
+    <p>
+      Cookies are small files that websites store in your browser. We also use “local storage”, a similar browser feature that is not sent to our servers. This page explains what we use and how you stay in control.
+    </p>
 
-      <div className="app-container" style={{ maxWidth: '800px' }}>
-        <div className="card" style={{ padding: 'var(--space-2xl)', borderRadius: 'var(--radius-xl)' }}>
-          <span style={{ fontSize: '0.85rem', fontWeight: 700, textTransform: 'uppercase', color: 'var(--color-primary)' }}>
-            Legal Information
-          </span>
-          <h1 className="h1-title" style={{ fontSize: '2.4rem', margin: 'var(--space-xs) 0 var(--space-lg)' }}>
-            Cookie Policy
-          </h1>
-          <p style={{ color: 'var(--color-text-muted)', fontSize: '0.85rem', marginBottom: 'var(--space-xl)' }}>
-            Last Updated: September 13, 2026 • <em>Placeholder Cookie Policy</em>
-          </p>
+    <h2>1. What we use</h2>
+    <h3 style={{ margin: '14px 0 4px', fontWeight: 800 }}>Essential browser storage (always on)</h3>
+    <p>This is needed for the site to work the way you expect and stays on your device:</p>
+    <ul>
+      <li>
+        <code>wkquiz_user_progress</code>: your quiz results, XP, level and streak
+      </li>
+      <li>
+        <code>wkquiz_theme</code>: your light, dark or system theme choice
+      </li>
+      <li>
+        <code>wkquiz_consent</code>: whether you accepted or declined cookies
+      </li>
+      <li>
+        <code>wkquiz_iq_history</code>: your brain-test history
+      </li>
+    </ul>
 
-          <div style={{ color: 'var(--color-text-secondary)', lineHeight: 1.7, display: 'flex', flexDirection: 'column', gap: 'var(--space-lg)' }}>
-            <section>
-              <h2 className="h3-title" style={{ color: 'var(--color-text-primary)', marginBottom: 'var(--space-xs)' }}>
-                1. What Are Cookies?
-              </h2>
-              <p>
-                Cookies and browser storage objects (such as HTML5 <code>localStorage</code>) are small data files stored directly on your computer or mobile device when you visit a website.
-              </p>
-            </section>
+    <h3 style={{ margin: '18px 0 4px', fontWeight: 800 }}>Analytics cookies (only if you accept)</h3>
+    <p>
+      Google Analytics sets cookies, usually named <code>_ga</code> and <code>_ga_*</code>, to tell visits apart and report aggregated usage such as pages viewed and device type. Without consent, the analytics script is not loaded.
+    </p>
 
-            <section>
-              <h2 className="h3-title" style={{ color: 'var(--color-text-primary)', marginBottom: 'var(--space-xs)' }}>
-                2. How WKQuiz Uses Storage
-              </h2>
-              <p>
-                We use strictly functional client storage to:
-              </p>
-              <ul style={{ paddingLeft: '20px', marginTop: '8px' }}>
-                <li>Remember your Light, Dark, or System visual theme preference.</li>
-                <li>Track your XP points, learning streak, and past quiz attempts locally.</li>
-                <li>Prevent repeating questions in endless or daily quiz modes.</li>
-              </ul>
-            </section>
+    <h3 style={{ margin: '18px 0 4px', fontWeight: 800 }}>Advertising cookies (only if you accept)</h3>
+    <p>
+      Advertising partners, which may include Google AdSense and other ad networks, can set cookies to show ads, limit repeats and measure results. Without consent, advertising scripts are not loaded, so those cookies are not set.
+    </p>
 
-            <section>
-              <h2 className="h3-title" style={{ color: 'var(--color-text-primary)', marginBottom: 'var(--space-xs)' }}>
-                3. Third-Party Advertising Cookies
-              </h2>
-              <p>
-                Third-party ad networks (e.g., Google AdSense) may set cookies to deliver tailored advertisements and measure ad performance. You can manage cookie preferences via your web browser settings at any time.
-              </p>
-            </section>
-          </div>
-        </div>
-      </div>
-    </div>
-  );
-};
+    <h2>2. Your choices</h2>
+    <ul>
+      <li>
+        Change your choice at any time:{' '}
+        <button type="button" className="guide-link" onClick={reopenConsent}>
+          open cookie settings
+        </button>
+        , or use the “Cookie settings” link in the footer.
+      </li>
+      <li>Delete cookies and site data in your browser settings. Doing so also resets your saved quiz progress.</li>
+      <li>
+        Control personalised ads through{' '}
+        <a href="https://adssettings.google.com" target="_blank" rel="noopener noreferrer">
+          Google Ads Settings
+        </a>{' '}
+        or{' '}
+        <a href="https://www.aboutads.info" target="_blank" rel="noopener noreferrer">
+          aboutads.info
+        </a>
+        .
+      </li>
+    </ul>
+
+    <h2>3. More information</h2>
+    <p>
+      Read the <Link to="/privacy-policy">Privacy Policy</Link> for how we handle information and the <Link to="/advertising-disclosure">Advertising Disclosure</Link> for how ads work on WKQuiz.
+    </p>
+  </LegalPage>
+);

@@ -125,6 +125,12 @@ export const Header: React.FC = () => {
             Categories
           </Link>
           <Link
+            to="/iq-test"
+            style={{ fontWeight: 600, fontSize: '0.95rem', color: 'var(--color-text-secondary)' }}
+          >
+            IQ Test
+          </Link>
+          <Link
             to="/daily-quiz"
             style={{
               fontWeight: 600,
@@ -340,6 +346,13 @@ export const Header: React.FC = () => {
               }}
             >
               Today's Daily Quiz
+            </Link>
+            <Link
+              to="/iq-test"
+              onClick={() => setMobileMenuOpen(false)}
+              style={{ padding: '12px 14px', borderRadius: 'var(--radius-md)', fontWeight: 600, color: 'var(--color-primary)' }}
+            >
+              Free IQ Test
             </Link>
             <Link
               to="/quizzes"

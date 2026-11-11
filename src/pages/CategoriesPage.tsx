@@ -22,7 +22,7 @@ export const CategoriesPage: React.FC = () => {
     <div style={{ padding: 'var(--space-2xl) 0' }}>
       <SEOHead
         title={`All Quiz Categories — ${CATEGORIES.length} Knowledge Fields`}
-        description={`Browse all ${CATEGORIES.length} quiz categories and ${stats.totalQuestions.toLocaleString()}+ practice questions on WKQuiz.com.`}
+        description={`Browse all ${CATEGORIES.length} quiz categories and ${stats.activeQuestions.toLocaleString()} practice questions on WKQuiz.com.`}
         canonicalPath="/categories"
       />
 
@@ -46,7 +46,7 @@ export const CategoriesPage: React.FC = () => {
               Explore Categories
             </h1>
             <p style={{ color: 'var(--color-text-secondary)', fontSize: '1.05rem', marginTop: 'var(--space-xs)' }}>
-              Choose from {CATEGORIES.length} curated topics with {stats.totalQuestions.toLocaleString()}+ verified questions across nursing, sciences, and technical trades.
+              Choose from {CATEGORIES.length} curated topics with {stats.activeQuestions.toLocaleString()} practice questions across nursing, sciences, and technical trades.
             </p>
           </div>
 

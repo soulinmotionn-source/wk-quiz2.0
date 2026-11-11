@@ -120,8 +120,9 @@ async function main() {
       'utf8'
     );
 
-    fs.writeFileSync(path.join(DIST, 'sitemap.xml'), sitemapXml(routes), 'utf8');
-    console.log(`[prerender] ${routes.length} routes rendered, plus 404.html, redirects and sitemap.xml`);
+    const indexable = routes.filter(r => r.indexable);
+    fs.writeFileSync(path.join(DIST, 'sitemap.xml'), sitemapXml(indexable), 'utf8');
+    console.log(`[prerender] ${routes.length} routes rendered (${indexable.length} in sitemap, ${routes.length - indexable.length} noindex), plus 404.html and redirects`);
   } finally {
     await vite.close();
   }

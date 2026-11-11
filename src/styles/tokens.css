@@ -1,63 +1,60 @@
-/* WKQuiz Design Tokens: Centralized Color, Typography & Layout Variables */
+/* WKQuiz Design Tokens — "playful bright" theme (light default, dark variant) */
 
 :root {
-  /* Fonts */
   --font-sans: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
-  
-  /* Light Theme (Warm Cream / Beige) */
-  --color-bg: #FAF7F2;
-  --color-bg-alt: #F3ECE1;
+
+  /* Light theme: soft lilac-white canvas, indigo ink, orange energy */
+  --color-bg: #F7F5FF;
+  --color-bg-alt: #EFEBFF;
   --color-surface: #FFFFFF;
-  --color-surface-hover: #FDFBF7;
-  --color-border: #E8DFD3;
-  --color-border-light: #F0EAE1;
-  
-  /* Text */
-  --color-text-primary: #1E293B;
-  --color-text-secondary: #475569;
-  --color-text-muted: #64748B;
+  --color-surface-hover: #FBFAFF;
+  --color-border: #E3DEF7;
+  --color-border-light: #EFEBFB;
+
+  --color-text-primary: #1B1740;
+  --color-text-secondary: #4B4775;
+  --color-text-muted: #6B6790;
   --color-text-inverse: #FFFFFF;
-  
-  /* Brand & Accents */
-  --color-primary: #FF6B35;
-  --color-primary-hover: #E8590C;
-  --color-primary-light: #FFF2EB;
-  --color-secondary: #2563EB;
-  --color-secondary-hover: #1D4ED8;
-  --color-secondary-light: #EFF6FF;
-  
-  /* Semantic Status */
-  --color-success: #10B981;
-  --color-success-hover: #059669;
-  --color-success-light: #ECFDF5;
-  --color-success-border: #A7F3D0;
-  
-  --color-error: #EF4444;
-  --color-error-hover: #DC2626;
-  --color-error-light: #FEF2F2;
-  --color-error-border: #FECACA;
-  
-  --color-warning: #F59E0B;
-  --color-warning-light: #FEF3C7;
-  
-  --color-info: #0EA5E9;
-  --color-info-light: #E0F2FE;
 
-  /* Card & Modal Shadows */
-  --shadow-xs: 0 1px 2px rgba(30, 41, 59, 0.05);
-  --shadow-sm: 0 2px 4px rgba(30, 41, 59, 0.06);
-  --shadow-md: 0 6px 16px rgba(30, 41, 59, 0.08);
-  --shadow-lg: 0 12px 28px rgba(30, 41, 59, 0.1);
-  --shadow-card-hover: 0 12px 24px -4px rgba(255, 107, 53, 0.15), 0 4px 10px -2px rgba(0, 0, 0, 0.05);
+  --color-primary: #D6420A;
+  --color-primary-hover: #AE3407;
+  --color-primary-light: #FFEDE4;
+  --color-on-primary: #FFFFFF;
+  --color-secondary: #5B4BFF;
+  --color-secondary-hover: #4636E6;
+  --color-secondary-light: #EEEBFF;
+  --color-accent: #7C3AED;
 
-  /* Radius */
-  --radius-sm: 8px;
-  --radius-md: 12px;
-  --radius-lg: 18px;
-  --radius-xl: 24px;
+  --color-success: #0F9F6E;
+  --color-success-hover: #0B8A5F;
+  --color-success-light: #E6F8F0;
+  --color-success-border: #A6E6CD;
+
+  --color-error: #DC3B3B;
+  --color-error-hover: #C42E2E;
+  --color-error-light: #FDECEC;
+  --color-error-border: #F5BEBE;
+
+  --color-warning: #D98A00;
+  --color-warning-light: #FFF3D6;
+
+  --color-info: #0E86D4;
+  --color-info-light: #E3F3FD;
+
+  /* Indigo-tinted shadows feel softer than neutral black */
+  --shadow-xs: 0 1px 2px rgba(39, 24, 120, 0.06);
+  --shadow-sm: 0 2px 6px rgba(39, 24, 120, 0.08);
+  --shadow-md: 0 8px 20px rgba(39, 24, 120, 0.1);
+  --shadow-lg: 0 16px 36px rgba(39, 24, 120, 0.14);
+  --shadow-card-hover: 0 14px 28px -6px rgba(242, 92, 31, 0.22), 0 4px 10px -2px rgba(39, 24, 120, 0.08);
+
+  /* Rounder shapes read as friendlier and are easier to tap */
+  --radius-sm: 10px;
+  --radius-md: 14px;
+  --radius-lg: 20px;
+  --radius-xl: 28px;
   --radius-full: 9999px;
 
-  /* Spacing */
   --space-xs: 4px;
   --space-sm: 8px;
   --space-md: 16px;
@@ -66,47 +63,48 @@
   --space-2xl: 48px;
   --space-3xl: 64px;
 
-  /* Transitions */
   --transition-fast: 150ms cubic-bezier(0.4, 0, 0.2, 1);
   --transition-base: 250ms cubic-bezier(0.4, 0, 0.2, 1);
   --transition-smooth: 350ms cubic-bezier(0.16, 1, 0.3, 1);
 
-  /* Layout */
   --container-max-w: 1200px;
-  --header-height: 72px;
+  --header-height: 68px;
+
+  color-scheme: light;
 }
 
-/* Dark Theme (Deep Navy & Slate) */
+/* Dark theme: deep indigo night, same accents */
 [data-theme="dark"] {
-  --color-bg: #0B0F19;
-  --color-bg-alt: #111726;
-  --color-surface: #172033;
-  --color-surface-hover: #1D283E;
-  --color-border: #26354D;
-  --color-border-light: #1E293B;
+  --color-bg: #0F0D24;
+  --color-bg-alt: #151236;
+  --color-surface: #1A1741;
+  --color-surface-hover: #221E52;
+  --color-border: #2F2A66;
+  --color-border-light: #25215A;
 
-  --color-text-primary: #F8FAFC;
-  --color-text-secondary: #CBD5E1;
-  --color-text-muted: #94A3B8;
-  --color-text-inverse: #0B0F19;
+  --color-text-primary: #F5F3FF;
+  --color-text-secondary: #CFCAF0;
+  --color-text-muted: #A19CCB;
+  --color-text-inverse: #0F0D24;
 
-  --color-primary: #FF7849;
-  --color-primary-hover: #FF6229;
-  --color-primary-light: rgba(255, 120, 73, 0.15);
-
-  --color-secondary: #3B82F6;
-  --color-secondary-hover: #60A5FA;
-  --color-secondary-light: rgba(59, 130, 246, 0.15);
+  --color-primary: #FF7A45;
+  --color-primary-hover: #FF6629;
+  --color-primary-light: rgba(255, 122, 69, 0.16);
+  --color-on-primary: #1B0D02;
+  --color-secondary: #8B80FF;
+  --color-secondary-hover: #A298FF;
+  --color-secondary-light: rgba(139, 128, 255, 0.16);
+  --color-accent: #A78BFA;
 
   --color-success: #34D399;
   --color-success-hover: #10B981;
   --color-success-light: rgba(52, 211, 153, 0.15);
-  --color-success-border: rgba(52, 211, 153, 0.3);
+  --color-success-border: rgba(52, 211, 153, 0.35);
 
   --color-error: #F87171;
   --color-error-hover: #EF4444;
   --color-error-light: rgba(248, 113, 113, 0.15);
-  --color-error-border: rgba(248, 113, 113, 0.3);
+  --color-error-border: rgba(248, 113, 113, 0.35);
 
   --color-warning: #FBBF24;
   --color-warning-light: rgba(251, 191, 36, 0.15);
@@ -114,9 +112,11 @@
   --color-info: #38BDF8;
   --color-info-light: rgba(56, 189, 248, 0.15);
 
-  --shadow-xs: 0 1px 2px rgba(0, 0, 0, 0.3);
-  --shadow-sm: 0 2px 4px rgba(0, 0, 0, 0.4);
-  --shadow-md: 0 6px 16px rgba(0, 0, 0, 0.5);
-  --shadow-lg: 0 12px 28px rgba(0, 0, 0, 0.6);
-  --shadow-card-hover: 0 12px 24px -4px rgba(255, 120, 73, 0.2), 0 4px 10px -2px rgba(0, 0, 0, 0.4);
+  --shadow-xs: 0 1px 2px rgba(0, 0, 0, 0.35);
+  --shadow-sm: 0 2px 6px rgba(0, 0, 0, 0.4);
+  --shadow-md: 0 8px 20px rgba(0, 0, 0, 0.5);
+  --shadow-lg: 0 16px 36px rgba(0, 0, 0, 0.6);
+  --shadow-card-hover: 0 14px 28px -6px rgba(255, 122, 69, 0.28), 0 4px 10px -2px rgba(0, 0, 0, 0.4);
+
+  color-scheme: dark;
 }

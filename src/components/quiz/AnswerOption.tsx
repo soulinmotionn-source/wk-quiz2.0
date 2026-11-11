@@ -67,13 +67,13 @@ export const AnswerOption: React.FC<AnswerOptionProps> = ({
       badgeBorder = 'var(--color-border)';
     }
   } else if (isSelected) {
-    bg = 'rgba(255, 107, 53, 0.12)';
-    borderColor = 'var(--color-primary)';
+    bg = 'color-mix(in srgb, var(--topic, #FF6B35) 14%, transparent)';
+    borderColor = 'var(--topic, var(--color-primary))';
     textColor = 'var(--color-text-primary)';
-    badgeBg = 'var(--color-primary)';
+    badgeBg = 'var(--topic, var(--color-primary))';
     badgeColor = '#FFFFFF';
-    badgeBorder = 'var(--color-primary)';
-    boxShadow = '0 0 14px rgba(255, 107, 53, 0.35)';
+    badgeBorder = 'var(--topic, var(--color-primary))';
+    boxShadow = '0 0 14px color-mix(in srgb, var(--topic, #FF6B35) 40%, transparent)';
   }
 
   return (
@@ -83,7 +83,7 @@ export const AnswerOption: React.FC<AnswerOptionProps> = ({
       disabled={disabled}
       style={{
         width: '100%',
-        minHeight: '56px',
+        minHeight: '60px',
         padding: '14px 18px',
         borderRadius: 'var(--radius-md)',
         backgroundColor: bg,
@@ -127,7 +127,7 @@ export const AnswerOption: React.FC<AnswerOptionProps> = ({
         </span>
 
         {/* Text */}
-        <span style={{ fontSize: '1rem', fontWeight: 500, lineHeight: 1.4, wordBreak: 'break-word' }}>
+        <span style={{ fontSize: '1.02rem', fontWeight: 600, lineHeight: 1.4, wordBreak: 'break-word' }}>
           {optionText}
         </span>
       </div>

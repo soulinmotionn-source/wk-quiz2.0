@@ -42,7 +42,7 @@ export const QuizProgress: React.FC<QuizProgressProps> = ({
               color: 'var(--color-text-primary)'
             }}
           >
-            Question <span style={{ color: 'var(--color-primary)', fontSize: '1.15rem' }}>{current + 1}</span> of {total}
+            Question <span style={{ color: 'var(--topic, var(--color-primary))', fontSize: '1.15rem' }}>{current + 1}</span> of {total}
           </span>
 
           <span
@@ -131,7 +131,7 @@ export const QuizProgress: React.FC<QuizProgressProps> = ({
         style={{
           width: '100%',
           height: '10px',
-          backgroundColor: 'rgba(255, 255, 255, 0.08)',
+          backgroundColor: 'var(--color-border-light)',
           borderRadius: 'var(--radius-full)',
           overflow: 'hidden',
           padding: '2px',
@@ -147,7 +147,7 @@ export const QuizProgress: React.FC<QuizProgressProps> = ({
           style={{
             width: `${percentage}%`,
             height: '100%',
-            background: 'linear-gradient(90deg, #10B981 0%, #06B6D4 50%, #F59E0B 100%)',
+            background: 'linear-gradient(90deg, var(--topic, #10B981), color-mix(in srgb, var(--topic, #10B981) 55%, #FFC83D))',
             borderRadius: 'var(--radius-full)',
             transition: 'width 0.4s cubic-bezier(0.4, 0, 0.2, 1)',
             boxShadow: '0 0 10px rgba(6, 182, 212, 0.5)'

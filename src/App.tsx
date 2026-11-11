@@ -4,24 +4,34 @@ import { Header } from './components/layout/Header';
 import { Footer } from './components/layout/Footer';
 import { MobileBottomNav } from './components/layout/MobileBottomNav';
 import { ScrollToTop } from './components/common/ScrollToTop';
+import { ConsentBanner } from './components/common/ConsentBanner';
 
-// Route-level code splitting: each page becomes its own chunk that only
-// downloads when the user navigates to it. The homepage bundle stays lean.
-const HomePage = lazy(() => import('./pages/HomePage').then(m => ({ default: m.HomePage })));
-const CategoriesPage = lazy(() => import('./pages/CategoriesPage').then(m => ({ default: m.CategoriesPage })));
-const CategoryDetailPage = lazy(() => import('./pages/CategoryDetailPage').then(m => ({ default: m.CategoryDetailPage })));
-const QuizzesPage = lazy(() => import('./pages/QuizzesPage').then(m => ({ default: m.QuizzesPage })));
-const QuizDetailPage = lazy(() => import('./pages/QuizDetailPage').then(m => ({ default: m.QuizDetailPage })));
-const DailyQuizPage = lazy(() => import('./pages/DailyQuizPage').then(m => ({ default: m.DailyQuizPage })));
-const SearchPage = lazy(() => import('./pages/SearchPage').then(m => ({ default: m.SearchPage })));
-const AboutPage = lazy(() => import('./pages/AboutPage').then(m => ({ default: m.AboutPage })));
-const ContactPage = lazy(() => import('./pages/ContactPage').then(m => ({ default: m.ContactPage })));
+// Route-level code splitting: in the browser each page is its own chunk that downloads
+// when needed. During static prerendering the same pages are passed in eagerly
+// (see entry-server.tsx) so the generated HTML contains real content, not Suspense fallbacks.
+const lazyPages = {
+  HomePage: lazy(() => import('./pages/HomePage').then(m => ({ default: m.HomePage }))),
+  CategoriesPage: lazy(() => import('./pages/CategoriesPage').then(m => ({ default: m.CategoriesPage }))),
+  CategoryDetailPage: lazy(() => import('./pages/CategoryDetailPage').then(m => ({ default: m.CategoryDetailPage }))),
+  QuizzesPage: lazy(() => import('./pages/QuizzesPage').then(m => ({ default: m.QuizzesPage }))),
+  QuizDetailPage: lazy(() => import('./pages/QuizDetailPage').then(m => ({ default: m.QuizDetailPage }))),
+  DailyQuizPage: lazy(() => import('./pages/DailyQuizPage').then(m => ({ default: m.DailyQuizPage }))),
+  IqTestPage: lazy(() => import('./pages/IqTestPage').then(m => ({ default: m.IqTestPage }))),
+  SearchPage: lazy(() => import('./pages/SearchPage').then(m => ({ default: m.SearchPage }))),
+  AboutPage: lazy(() => import('./pages/AboutPage').then(m => ({ default: m.AboutPage }))),
+  ContactPage: lazy(() => import('./pages/ContactPage').then(m => ({ default: m.ContactPage }))),
+  PrivacyPolicyPage: lazy(() => import('./pages/legal/PrivacyPolicyPage').then(m => ({ default: m.PrivacyPolicyPage }))),
+  TermsPage: lazy(() => import('./pages/legal/TermsPage').then(m => ({ default: m.TermsPage }))),
+  CookiePolicyPage: lazy(() => import('./pages/legal/CookiePolicyPage').then(m => ({ default: m.CookiePolicyPage }))),
+  DisclaimerPage: lazy(() => import('./pages/legal/DisclaimerPage').then(m => ({ default: m.DisclaimerPage }))),
+  EditorialPolicyPage: lazy(() => import('./pages/legal/EditorialPolicyPage').then(m => ({ default: m.EditorialPolicyPage }))),
+  AdvertisingPage: lazy(() => import('./pages/legal/AdvertisingPage').then(m => ({ default: m.AdvertisingPage }))),
+  AccessibilityPage: lazy(() => import('./pages/legal/AccessibilityPage').then(m => ({ default: m.AccessibilityPage }))),
+  SiteMapPage: lazy(() => import('./pages/SiteMapPage').then(m => ({ default: m.SiteMapPage }))),
+  NotFoundPage: lazy(() => import('./pages/NotFoundPage').then(m => ({ default: m.NotFoundPage })))
+} satisfies Record<string, React.ComponentType>;
 
-const PrivacyPolicyPage = lazy(() => import('./pages/legal/PrivacyPolicyPage').then(m => ({ default: m.PrivacyPolicyPage })));
-const TermsPage = lazy(() => import('./pages/legal/TermsPage').then(m => ({ default: m.TermsPage })));
-const CookiePolicyPage = lazy(() => import('./pages/legal/CookiePolicyPage').then(m => ({ default: m.CookiePolicyPage })));
-const DisclaimerPage = lazy(() => import('./pages/legal/DisclaimerPage').then(m => ({ default: m.DisclaimerPage })));
-const NotFoundPage = lazy(() => import('./pages/NotFoundPage').then(m => ({ default: m.NotFoundPage })));
+export type PageSet = Record<keyof typeof lazyPages, React.ComponentType>;
 
 const RouteFallback: React.FC = () => (
   <div className="route-loading" aria-busy="true" aria-label="Loading page">
@@ -30,7 +40,10 @@ const RouteFallback: React.FC = () => (
   </div>
 );
 
-export const App: React.FC = () => {
+export const App: React.FC<{ pages?: PageSet }> = ({ pages = lazyPages }) => {
+  const {
+    HomePage, CategoriesPage, CategoryDetailPage, QuizzesPage, QuizDetailPage, DailyQuizPage, IqTestPage, SearchPage, AboutPage, ContactPage, PrivacyPolicyPage, TermsPage, CookiePolicyPage, DisclaimerPage, EditorialPolicyPage, AdvertisingPage, AccessibilityPage, SiteMapPage, NotFoundPage
+  } = pages;
   return (
     <>
       <ScrollToTop />
@@ -49,6 +62,7 @@ export const App: React.FC = () => {
               <Route path="/quizzes/:slug" element={<QuizDetailPage />} />
               <Route path="/daily-quiz" element={<DailyQuizPage />} />
               <Route path="/search" element={<SearchPage />} />
+              <Route path="/iq-test" element={<IqTestPage />} />
               <Route path="/about" element={<AboutPage />} />
               <Route path="/contact" element={<ContactPage />} />
 
@@ -57,6 +71,10 @@ export const App: React.FC = () => {
               <Route path="/terms-and-conditions" element={<TermsPage />} />
               <Route path="/cookie-policy" element={<CookiePolicyPage />} />
               <Route path="/disclaimer" element={<DisclaimerPage />} />
+              <Route path="/editorial-policy" element={<EditorialPolicyPage />} />
+              <Route path="/advertising-disclosure" element={<AdvertisingPage />} />
+              <Route path="/accessibility" element={<AccessibilityPage />} />
+              <Route path="/site-map" element={<SiteMapPage />} />
 
               {/* 404 Catch-All */}
               <Route path="*" element={<NotFoundPage />} />
@@ -65,6 +83,7 @@ export const App: React.FC = () => {
         </main>
         <Footer />
         <MobileBottomNav />
+        <ConsentBanner />
       </div>
     </>
   );

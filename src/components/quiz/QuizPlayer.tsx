@@ -8,6 +8,8 @@ import { AnswerOption } from './AnswerOption';
 import { ExplanationCard } from './ExplanationCard';
 import { ResultsCard } from './ResultsCard';
 import { cleanQuestionText } from '../../data/questionBank';
+import { CATEGORIES } from '../../data/categories';
+import { Mascot, type MascotMood } from '../common/Mascot';
 
 interface QuizPlayerProps {
   quizId: string;
@@ -18,6 +20,8 @@ interface QuizPlayerProps {
   mode?: QuizMode;
   count?: number;
   categorySlug?: string;
+  /** Topic colour; looked up from the category when omitted */
+  accent?: string;
   onExit?: () => void;
 }
 
@@ -30,8 +34,10 @@ export const QuizPlayer: React.FC<QuizPlayerProps> = ({
   mode = 'classic',
   count,
   categorySlug,
+  accent,
   onExit
 }) => {
+  const topic = accent ?? CATEGORIES.find(c => c.name === category || c.slug === categorySlug)?.color ?? '#FF6B35';
   const { recordQuizResult } = useQuizStorage();
   const [isMuted, setIsMuted] = useState(false);
 
@@ -215,9 +221,28 @@ export const QuizPlayer: React.FC<QuizPlayerProps> = ({
     );
   }
 
+  const answeredCorrect = isAnswerSubmitted && selectedOption === currentQuestion.correctAnswer;
+  const timedOut = isAnswerSubmitted && selectedOption === null;
+  const coachMood: MascotMood = !isAnswerSubmitted ? 'thinking' : answeredCorrect ? 'cheer' : 'sad';
+  const coachText = !isAnswerSubmitted
+    ? mode === 'timed'
+      ? 'Quick, the clock is ticking!'
+      : streak >= 3
+        ? `${streak} in a row. Keep it going!`
+        : 'Take your time and pick one.'
+    : answeredCorrect
+      ? streak >= 3
+        ? `Correct! ${streak} in a row 🔥`
+        : ['Nice one!', 'Spot on!', 'You got it!', 'Brilliant!'][currentIndex % 4]
+      : timedOut
+        ? 'Time is up. Read why below.'
+        : 'Not quite. The explanation below will help.';
+
   return (
     <div
+      className="quiz-topic"
       style={{
+        ['--topic' as string]: topic,
         maxWidth: '820px',
         margin: '0 auto',
         animation: 'fadeIn var(--transition-base) ease-out'
@@ -256,9 +281,9 @@ export const QuizPlayer: React.FC<QuizPlayerProps> = ({
               gap: '6px',
               padding: '6px 14px',
               borderRadius: 'var(--radius-full)',
-              backgroundColor: 'rgba(255, 107, 53, 0.12)',
-              border: '1px solid rgba(255, 107, 53, 0.25)',
-              color: 'var(--color-primary)',
+              backgroundColor: 'color-mix(in srgb, var(--topic) 14%, transparent)',
+              border: '1px solid color-mix(in srgb, var(--topic) 35%, transparent)',
+              color: 'var(--topic)',
               fontSize: '0.85rem',
               fontWeight: 800,
               textTransform: 'uppercase',
@@ -314,8 +339,8 @@ export const QuizPlayer: React.FC<QuizPlayerProps> = ({
           borderRadius: 'var(--radius-2xl)',
           boxShadow: '0 12px 36px rgba(0, 0, 0, 0.25)',
           marginBottom: 'var(--space-xl)',
-          background: 'radial-gradient(ellipse at top, rgba(255, 107, 53, 0.06) 0%, var(--color-surface) 60%)',
-          border: '1.5px solid var(--color-border)'
+          background: 'radial-gradient(ellipse at top, color-mix(in srgb, var(--topic) 10%, transparent) 0%, var(--color-surface) 60%)',
+          border: '1.5px solid color-mix(in srgb, var(--topic) 30%, var(--color-border))'
         }}
       >
         {/* Difficulty & Subcategory Tag Row */}
@@ -367,6 +392,17 @@ export const QuizPlayer: React.FC<QuizPlayerProps> = ({
           <span style={{ fontSize: '0.85rem', fontWeight: 700, color: 'var(--color-text-muted)' }}>
             #{currentIndex + 1}
           </span>
+        </div>
+
+        {/* Mascot coach: reacts to every answer */}
+        <div className="coach" aria-live="polite">
+          <Mascot mood={coachMood} size={56} className={`coach-mascot${isAnswerSubmitted ? ' coach-react' : ''}`} />
+          <div className="coach-bubble">{coachText}</div>
+          {isAnswerSubmitted && selectedOption === currentQuestion.correctAnswer && (
+            <span key={reviews.length} className="xp-pop" aria-hidden="true">
+              +10 XP
+            </span>
+          )}
         </div>
 
         {/* Question Heading */}
@@ -437,7 +473,8 @@ export const QuizPlayer: React.FC<QuizPlayerProps> = ({
               style={{
                 borderRadius: 'var(--radius-full)',
                 padding: '14px 36px',
-                boxShadow: '0 4px 20px rgba(255, 107, 53, 0.4)'
+                background: 'var(--topic)',
+                boxShadow: '0 4px 20px color-mix(in srgb, var(--topic) 45%, transparent)'
               }}
             >
               <span>{isLastQuestion ? 'View Results' : 'Next Question'}</span>
