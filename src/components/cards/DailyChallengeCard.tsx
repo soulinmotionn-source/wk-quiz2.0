@@ -71,7 +71,7 @@ export const DailyChallengeCard: React.FC = () => {
             }}
           >
             <Calendar size={14} />
-            {todayFormatted}
+            <span suppressHydrationWarning>{todayFormatted}</span>
           </span>
         </div>
 

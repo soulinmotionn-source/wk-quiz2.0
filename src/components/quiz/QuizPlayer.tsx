@@ -47,6 +47,8 @@ export const QuizPlayer: React.FC<QuizPlayerProps> = ({
     selectedOption,
     isAnswerSubmitted,
     isCompleted,
+    isLastQuestion,
+    endQuizEarly,
     secondsRemaining,
     reviews,
     selectAnswer,
@@ -67,13 +69,18 @@ export const QuizPlayer: React.FC<QuizPlayerProps> = ({
     onComplete: handleComplete
   });
 
+  const audioCtxRef = useRef<AudioContext | null>(null);
+  useEffect(() => () => { void audioCtxRef.current?.close(); }, []);
+
   // Synthesized audio feedback for playful interactive delight
   const playTone = (isCorrect: boolean) => {
     if (isMuted) return;
     try {
       const AudioCtx = window.AudioContext || (window as any).webkitAudioContext;
       if (!AudioCtx) return;
-      const ctx = new AudioCtx();
+      // Reuse one context — browsers cap how many can exist at once.
+      const ctx: AudioContext = (audioCtxRef.current ??= new AudioCtx());
+      if (ctx.state === 'suspended') void ctx.resume();
       const osc = ctx.createOscillator();
       const gain = ctx.createGain();
       osc.connect(gain);
@@ -128,6 +135,31 @@ export const QuizPlayer: React.FC<QuizPlayerProps> = ({
     playTone(isCorrect);
   };
 
+  // Keyboard: 1-4 / A-D pick an answer, Enter / → continue
+  useEffect(() => {
+    const onKey = (e: KeyboardEvent) => {
+      if (e.ctrlKey || e.metaKey || e.altKey) return;
+      const target = e.target as HTMLElement | null;
+      if (target && ['INPUT', 'TEXTAREA', 'SELECT'].includes(target.tagName)) return;
+      if (isLoadingQuestions || isCompleted || !currentQuestion) return;
+
+      if (!isAnswerSubmitted) {
+        const key = e.key.toLowerCase();
+        const idx = /^[1-9]$/.test(key) ? Number(key) - 1 : 'abcdefgh'.indexOf(key);
+        if (key.length === 1 && idx >= 0 && idx < currentQuestion.options.length) {
+          e.preventDefault();
+          handleSelectOption(idx);
+        }
+      } else if (e.key === 'Enter' || e.key === 'ArrowRight') {
+        if (target && target.tagName === 'BUTTON' && e.key === 'Enter') return; // a focused button handles Enter itself
+        e.preventDefault();
+        handleNextQuestion();
+      }
+    };
+    window.addEventListener('keydown', onKey);
+    return () => window.removeEventListener('keydown', onKey);
+  });
+
   if (isLoadingQuestions) {
     return (
       <div className="card quiz-loading-card" style={{ textAlign: 'center', padding: 'var(--space-2xl)' }}>
@@ -148,8 +180,8 @@ export const QuizPlayer: React.FC<QuizPlayerProps> = ({
       quizTitle,
       category,
       score,
-      totalQuestions,
-      percentage: totalQuestions > 0 ? Math.round((score / totalQuestions) * 100) : 0,
+      totalQuestions: reviews.length, // answered questions (endless runs end early)
+      percentage: reviews.length > 0 ? Math.round((score / reviews.length) * 100) : 0,
       timeTakenSeconds: totalTimeElapsed,
       difficulty,
       mode,
@@ -182,8 +214,6 @@ export const QuizPlayer: React.FC<QuizPlayerProps> = ({
       </div>
     );
   }
-
-  const isLastQuestion = currentIndex + 1 >= totalQuestions;
 
   return (
     <div
@@ -389,9 +419,17 @@ export const QuizPlayer: React.FC<QuizPlayerProps> = ({
             style={{
               marginTop: 'var(--space-xl)',
               display: 'flex',
-              justifyContent: 'flex-end'
+              flexWrap: 'wrap',
+              alignItems: 'center',
+              justifyContent: 'flex-end',
+              gap: 'var(--space-md)'
             }}
           >
+            {mode === 'endless' && !isLastQuestion && (
+              <button type="button" onClick={endQuizEarly} className="btn btn-secondary">
+                End &amp; see results
+              </button>
+            )}
             <button
               type="button"
               onClick={handleNextQuestion}

@@ -1,4 +1,4 @@
-import React, { useState, useMemo } from 'react';
+import React, { useState } from 'react';
 import { Search } from 'lucide-react';
 import { SEOHead } from '../components/common/SEOHead';
 import { CategoryCard } from '../components/cards/CategoryCard';
@@ -10,13 +10,13 @@ export const CategoriesPage: React.FC = () => {
   const [filterQuery, setFilterQuery] = useState('');
   const stats = getQuestionStats();
 
-  const filteredCategories = useMemo(() => {
+  const filteredCategories = (() => {
     if (!filterQuery.trim()) return CATEGORIES;
     const q = filterQuery.toLowerCase().trim();
     return CATEGORIES.filter(
       c => c.name.toLowerCase().includes(q) || c.description.toLowerCase().includes(q)
     );
-  }, [filterQuery]);
+  })();
 
   return (
     <div style={{ padding: 'var(--space-2xl) 0' }}>
@@ -100,7 +100,7 @@ export const CategoriesPage: React.FC = () => {
               No categories match "{filterQuery}"
             </h3>
             <p style={{ color: 'var(--color-text-secondary)', marginBottom: 'var(--space-md)' }}>
-              Try another keyword or clear your filter to view all 34 categories.
+              Try another keyword or clear your filter to view all {CATEGORIES.length} categories.
             </p>
             <button
               type="button"

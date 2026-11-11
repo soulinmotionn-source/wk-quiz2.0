@@ -1,4 +1,4 @@
-import React, { useState, useEffect, useMemo } from 'react';
+import React, { useState, useMemo } from 'react';
 import { useSearchParams, Link } from 'react-router-dom';
 import { Search, BookOpen, Grid } from 'lucide-react';
 import { SEOHead } from '../components/common/SEOHead';
@@ -6,15 +6,19 @@ import { QuizCard } from '../components/cards/QuizCard';
 import { CategoryCard } from '../components/cards/CategoryCard';
 import { FEATURED_QUIZZES } from '../data/quizzes';
 import { CATEGORIES } from '../data/categories';
+import { CATEGORY_REGISTRY } from '../data/categoryRegistry';
 
 export const SearchPage: React.FC = () => {
   const [searchParams, setSearchParams] = useSearchParams();
-  const initialQuery = searchParams.get('q') || '';
-  const [query, setQuery] = useState(initialQuery);
+  const urlQuery = searchParams.get('q') || '';
+  const [query, setQuery] = useState(urlQuery);
 
-  useEffect(() => {
-    setQuery(searchParams.get('q') || '');
-  }, [searchParams]);
+  // Keep the input in sync when the URL changes (e.g. a search from the header)
+  const [seenUrlQuery, setSeenUrlQuery] = useState(urlQuery);
+  if (urlQuery !== seenUrlQuery) {
+    setSeenUrlQuery(urlQuery);
+    setQuery(urlQuery);
+  }
 
   const handleSearchSubmit = (e: React.FormEvent) => {
     e.preventDefault();
@@ -23,30 +27,28 @@ export const SearchPage: React.FC = () => {
 
   const currentQ = (searchParams.get('q') || '').trim().toLowerCase();
 
-  // Search in quizzes
+  // Every word typed must appear somewhere in the item (so "nursing safety" still finds things)
+  const tokens = currentQ.split(/\s+/).filter(Boolean);
+  const matchesAll = (haystack: string) => {
+    const h = haystack.toLowerCase();
+    return tokens.every(t => h.includes(t));
+  };
+
   const matchingQuizzes = useMemo(() => {
-    if (!currentQ) return [];
-    return FEATURED_QUIZZES.filter(q => {
-      return (
-        q.title.toLowerCase().includes(currentQ) ||
-        q.description.toLowerCase().includes(currentQ) ||
-        q.category.toLowerCase().includes(currentQ) ||
-        (q.subcategory && q.subcategory.toLowerCase().includes(currentQ)) ||
-        q.tags.some(t => t.toLowerCase().includes(currentQ))
-      );
-    });
+    if (tokens.length === 0) return [];
+    return FEATURED_QUIZZES.filter(q =>
+      matchesAll([q.title, q.description, q.category, q.subcategory ?? '', ...q.tags].join(' '))
+    );
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [currentQ]);
 
-  // Search in categories
   const matchingCategories = useMemo(() => {
-    if (!currentQ) return [];
+    if (tokens.length === 0) return [];
     return CATEGORIES.filter(c => {
-      return (
-        c.name.toLowerCase().includes(currentQ) ||
-        c.description.toLowerCase().includes(currentQ) ||
-        c.slug.toLowerCase().includes(currentQ)
-      );
+      const subs = CATEGORY_REGISTRY.find(r => r.slug === c.slug)?.subcategories ?? [];
+      return matchesAll([c.name, c.description, c.slug.replace(/-/g, ' '), ...subs].join(' '));
     });
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [currentQ]);
 
   const totalResults = matchingQuizzes.length + matchingCategories.length;
@@ -57,6 +59,7 @@ export const SearchPage: React.FC = () => {
         title={currentQ ? `Search results for "${currentQ}"` : 'Search Quizzes & Categories'}
         description="Search through quizzes, questions, medical topics, and study categories on WKQuiz.com."
         canonicalPath="/search"
+        noindex={Boolean(currentQ)}
       />
 
       <div className="app-container">

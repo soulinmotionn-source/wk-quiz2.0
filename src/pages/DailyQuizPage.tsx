@@ -4,11 +4,12 @@ import { Link } from 'react-router-dom';
 import { SEOHead } from '../components/common/SEOHead';
 import { QuizPlayer } from '../components/quiz/QuizPlayer';
 import { useQuizStorage } from '../hooks/useQuizStorage';
+import { localDateString } from '../data/questionUtils';
 
 export const DailyQuizPage: React.FC = () => {
   const { progress } = useQuizStorage();
 
-  const todayDateStr = new Date().toISOString().slice(0, 10);
+  const todayDateStr = localDateString();
   const todayFormatted = new Date().toLocaleDateString('en-US', {
     weekday: 'long',
     month: 'long',
@@ -19,7 +20,7 @@ export const DailyQuizPage: React.FC = () => {
   return (
     <div style={{ padding: 'var(--space-2xl) 0' }}>
       <SEOHead
-        title={`Daily Quiz — ${todayFormatted} Challenge`}
+        title="Daily Quiz — Free 10-Question Challenge, New Every Day"
         description="Take today's official WKQuiz daily challenge. 10 mixed trivia and educational questions refreshed every 24 hours. Keep your streak alive!"
         canonicalPath="/daily-quiz"
       />
@@ -111,7 +112,7 @@ export const DailyQuizPage: React.FC = () => {
             }}
           >
             <Calendar size={16} />
-            <span>{todayFormatted}</span>
+            <span suppressHydrationWarning>{todayFormatted}</span>
           </div>
 
           <p style={{ color: 'var(--color-text-secondary)', fontSize: '0.95rem', maxWidth: '540px', margin: '0 auto' }}>

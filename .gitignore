@@ -34,3 +34,6 @@ __pycache__/
 
 # Self-hosted font binaries are downloaded at build time (scripts/downloadFonts.js)
 public/fonts/*.woff2
+
+# Local Claude Code config
+.claude/

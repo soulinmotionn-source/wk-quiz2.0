@@ -8,6 +8,8 @@ import { AdSlot } from '../components/common/AdSlot';
 import { FEATURED_QUIZZES } from '../data/quizzes';
 import { CATEGORIES } from '../data/categories';
 import { NotFoundPage } from './NotFoundPage';
+import { getRelatedCategories } from '../data/categoryGroups';
+import { breadcrumbSchema, faqSchema } from '../seo/schema';
 
 export const QuizDetailPage: React.FC = () => {
   const { slug } = useParams<{ slug: string }>();
@@ -22,28 +24,42 @@ export const QuizDetailPage: React.FC = () => {
   // Matching category
   const categoryInfo = CATEGORIES.find(c => c.name.toLowerCase() === quiz.category.toLowerCase());
 
-  // Related quizzes
-  const relatedQuizzes = FEATURED_QUIZZES.filter(
-    q => q.id !== quiz.id && (q.category === quiz.category || q.difficulty === quiz.difficulty)
-  ).slice(0, 3);
+  // Related quizzes: same category first, then shared tags, then same difficulty
+  const relatedQuizzes = FEATURED_QUIZZES.filter(q => q.id !== quiz.id)
+    .map(q => ({
+      q,
+      score:
+        (q.category === quiz.category ? 4 : 0) +
+        (q.tags ?? []).filter(t => (quiz.tags ?? []).includes(t)).length * 2 +
+        (q.difficulty === quiz.difficulty ? 1 : 0)
+    }))
+    .sort((a, b) => b.score - a.score)
+    .slice(0, 3)
+    .map(x => x.q);
 
-  // Schema.org Quiz metadata
-  const quizSchema = {
-    '@context': 'https://schema.org',
-    '@type': 'Quiz',
-    name: quiz.title,
-    description: quiz.description,
-    educationalLevel: quiz.difficulty,
-    about: {
-      '@type': 'Thing',
-      name: quiz.category
+  const moreCategories = categoryInfo ? getRelatedCategories(categoryInfo.slug, 6) : [];
+
+  // Structured data: Quiz + breadcrumbs (+ FAQ when present)
+  const quizSchema = [
+    {
+      '@context': 'https://schema.org',
+      '@type': 'Quiz',
+      name: quiz.title,
+      description: quiz.description,
+      url: `https://wkquiz.com/quizzes/${quiz.slug}`,
+      educationalLevel: quiz.difficulty,
+      about: { '@type': 'Thing', name: quiz.category },
+      timeRequired: `PT${parseInt(quiz.estimatedTime, 10) || 5}M`,
+      provider: { '@type': 'Organization', name: 'WKQuiz.com', url: 'https://wkquiz.com' }
     },
-    provider: {
-      '@type': 'Organization',
-      name: 'WKQuiz.com',
-      url: 'https://wkquiz.com'
-    }
-  };
+    breadcrumbSchema([
+      { name: 'Home', path: '/' },
+      { name: 'Quizzes', path: '/quizzes' },
+      ...(categoryInfo ? [{ name: quiz.category, path: `/categories/${categoryInfo.slug}` }] : []),
+      { name: quiz.title, path: `/quizzes/${quiz.slug}` }
+    ]),
+    ...(quiz.faq && quiz.faq.length > 0 ? [faqSchema(quiz.faq)] : [])
+  ];
 
   return (
     <div style={{ padding: 'var(--space-2xl) 0' }}>
@@ -56,9 +72,11 @@ export const QuizDetailPage: React.FC = () => {
 
       <div className="app-container">
         {/* Navigation Breadcrumb */}
-        <div
+        <nav
+          aria-label="Breadcrumb"
           style={{
             display: 'flex',
+            flexWrap: 'wrap',
             alignItems: 'center',
             gap: '8px',
             fontSize: '0.85rem',
@@ -78,8 +96,8 @@ export const QuizDetailPage: React.FC = () => {
               <span>/</span>
             </>
           )}
-          <span style={{ color: 'var(--color-text-primary)', fontWeight: 600 }}>{quiz.title}</span>
-        </div>
+          <span aria-current="page" style={{ color: 'var(--color-text-primary)', fontWeight: 600 }}>{quiz.title}</span>
+        </nav>
 
         {/* Header Intro for humans first */}
         <div style={{ maxWidth: '780px', margin: '0 auto var(--space-xl)' }}>
@@ -182,6 +200,24 @@ export const QuizDetailPage: React.FC = () => {
         <div style={{ maxWidth: '780px', margin: '0 auto' }}>
           <AdSlot type="in-content" slotId="quiz-detail-footer" />
         </div>
+
+        {/* KEEP PRACTICING: category + related-topic links */}
+        {categoryInfo && (
+          <section style={{ maxWidth: '780px', margin: 'var(--space-xl) auto 0' }}>
+            <h3 className="h3-title" style={{ marginBottom: 'var(--space-md)' }}>Keep practicing</h3>
+            <div style={{ display: 'flex', flexWrap: 'wrap', gap: 'var(--space-sm)' }}>
+              <Link to={`/categories/${categoryInfo.slug}`} className="btn btn-primary btn-sm">
+                All {categoryInfo.name} questions ({categoryInfo.questionCount})
+              </Link>
+              {moreCategories.map(c => (
+                <Link key={c.id} to={`/categories/${c.slug}`} className="btn btn-secondary btn-sm">
+                  {c.name}
+                </Link>
+              ))}
+              <Link to="/daily-quiz" className="btn btn-secondary btn-sm">Today's daily quiz</Link>
+            </div>
+          </section>
+        )}
 
         {/* RELATED QUIZZES */}
         {relatedQuizzes.length > 0 && (

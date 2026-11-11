@@ -1,87 +1,84 @@
 import { useEffect } from 'react';
+import { DEFAULT_OG_IMAGE, canonicalUrl, clampDescription, withSiteName } from '../../seo/site';
+import { recordServerSEO } from '../../seo/serverSeo';
 
-interface SEOHeadProps {
+export type JsonLd = Record<string, unknown>;
+
+export interface SEOData {
   title: string;
   description: string;
   canonicalPath?: string;
   type?: 'website' | 'article';
-  schema?: Record<string, any>;
+  schema?: JsonLd | JsonLd[];
   noindex?: boolean;
+  image?: string;
 }
 
-export const SEOHead: React.FC<SEOHeadProps> = ({
-  title,
-  description,
-  canonicalPath = '',
-  schema,
-  noindex = false
-}) => {
+function upsertMeta(attr: 'name' | 'property', key: string, content: string) {
+  let el = document.head.querySelector<HTMLMetaElement>(`meta[${attr}="${key}"]`);
+  if (!el) {
+    el = document.createElement('meta');
+    el.setAttribute(attr, key);
+    document.head.appendChild(el);
+  }
+  el.setAttribute('content', content);
+}
+
+export const SEOHead: React.FC<SEOData> = props => {
+  const { title, description, canonicalPath = '/', type = 'website', schema, noindex = false, image = DEFAULT_OG_IMAGE } = props;
+
+  if (typeof document === 'undefined') {
+    recordServerSEO(props);
+  }
+
+  const schemaJson = schema ? JSON.stringify(schema) : '';
+
   useEffect(() => {
-    // 1. Update Title
-    const fullTitle = title.includes('WKQuiz') ? title : `${title} | WKQuiz.com`;
+    const fullTitle = withSiteName(title);
+    const desc = clampDescription(description);
+    const url = canonicalUrl(canonicalPath);
+
     document.title = fullTitle;
+    upsertMeta('name', 'description', desc);
+    upsertMeta('name', 'robots', noindex ? 'noindex, follow' : 'index, follow, max-image-preview:large');
 
-    // 2. Update Meta Description
-    let metaDesc = document.querySelector('meta[name="description"]');
-    if (!metaDesc) {
-      metaDesc = document.createElement('meta');
-      metaDesc.setAttribute('name', 'description');
-      document.head.appendChild(metaDesc);
-    }
-    metaDesc.setAttribute('content', description);
-
-    // 3. Update Robots Meta
-    let robotsMeta = document.querySelector('meta[name="robots"]');
+    // Canonical only for indexable pages
+    let canonical = document.head.querySelector<HTMLLinkElement>('link[rel="canonical"]');
     if (noindex) {
-      if (!robotsMeta) {
-        robotsMeta = document.createElement('meta');
-        robotsMeta.setAttribute('name', 'robots');
-        document.head.appendChild(robotsMeta);
-      }
-      robotsMeta.setAttribute('content', 'noindex, follow');
-    } else if (robotsMeta) {
-      robotsMeta.setAttribute('content', 'index, follow');
-    }
-
-    // 4. Update Canonical Link (only for indexable pages)
-    let canonical = document.querySelector('link[rel="canonical"]') as HTMLLinkElement;
-    if (!noindex) {
+      canonical?.remove();
+    } else {
       if (!canonical) {
         canonical = document.createElement('link');
-        canonical.setAttribute('rel', 'canonical');
+        canonical.rel = 'canonical';
         document.head.appendChild(canonical);
       }
-      const cleanPath = canonicalPath === '/' ? '/' : canonicalPath.replace(/\/$/, '');
-      canonical.setAttribute('href', `https://wkquiz.com${cleanPath}`);
-    } else if (canonical) {
-      canonical.remove();
+      canonical.href = url;
     }
 
-    // 4. Update OpenGraph
-    let ogTitle = document.querySelector('meta[property="og:title"]');
-    if (ogTitle) ogTitle.setAttribute('content', fullTitle);
+    upsertMeta('property', 'og:type', type);
+    upsertMeta('property', 'og:site_name', 'WKQuiz.com');
+    upsertMeta('property', 'og:title', fullTitle);
+    upsertMeta('property', 'og:description', desc);
+    upsertMeta('property', 'og:url', url);
+    upsertMeta('property', 'og:image', image);
+    upsertMeta('name', 'twitter:card', 'summary_large_image');
+    upsertMeta('name', 'twitter:title', fullTitle);
+    upsertMeta('name', 'twitter:description', desc);
+    upsertMeta('name', 'twitter:image', image);
 
-    let ogDesc = document.querySelector('meta[property="og:description"]');
-    if (ogDesc) ogDesc.setAttribute('content', description);
-
-    // 5. Schema.org JSON-LD
-    let scriptTag = document.getElementById('wkquiz-schema-jsonld') as HTMLScriptElement;
-    if (schema) {
-      if (!scriptTag) {
-        scriptTag = document.createElement('script');
-        scriptTag.id = 'wkquiz-schema-jsonld';
-        scriptTag.type = 'application/ld+json';
-        document.head.appendChild(scriptTag);
+    let script = document.getElementById('wkquiz-schema-jsonld') as HTMLScriptElement | null;
+    if (schemaJson) {
+      if (!script) {
+        script = document.createElement('script');
+        script.id = 'wkquiz-schema-jsonld';
+        script.type = 'application/ld+json';
+        document.head.appendChild(script);
       }
-      scriptTag.textContent = JSON.stringify(schema);
-    } else if (scriptTag) {
-      scriptTag.remove();
+      script.textContent = schemaJson;
+    } else {
+      script?.remove();
     }
-
-    return () => {
-      // clean up schema on unmount if appropriate
-    };
-  }, [title, description, canonicalPath, schema]);
+  }, [title, description, canonicalPath, type, noindex, image, schemaJson]);
 
   return null;
 };

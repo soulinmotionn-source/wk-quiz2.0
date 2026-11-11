@@ -68,7 +68,6 @@ function validateQuestionBank() {
   const seenIds = new Set();
   const seenQuestionTexts = new Set();
   const errors = [];
-  const warnings = [];
 
   for (const file of files) {
     const filePath = path.join(QUESTIONS_DIR, file);

@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { useParams, Link } from 'react-router-dom';
-import { ArrowLeft, Play, ShieldAlert } from 'lucide-react';
+import { Play, ShieldAlert } from 'lucide-react';
 import { SEOHead } from '../components/common/SEOHead';
 import { QuizPlayer } from '../components/quiz/QuizPlayer';
 import { QuizCard } from '../components/cards/QuizCard';
@@ -11,6 +11,8 @@ import type { Difficulty, QuizMode } from '../types/quiz';
 import { IconHelper } from '../components/common/IconHelper';
 import { getCategoryStats } from '../data/questionBank';
 import { NotFoundPage } from './NotFoundPage';
+import { getRelatedCategories } from '../data/categoryGroups';
+import { breadcrumbSchema, collectionSchema } from '../seo/schema';
 
 export const CategoryDetailPage: React.FC = () => {
   const { category: categorySlug } = useParams<{ category: string }>();
@@ -18,7 +20,10 @@ export const CategoryDetailPage: React.FC = () => {
   const [selectedDifficulty, setSelectedDifficulty] = useState<Difficulty>('mixed');
   const [selectedMode, setSelectedMode] = useState<QuizMode>('classic');
   const [selectedCount, setSelectedCount] = useState<number>(10);
-  const [isPlaying, setIsPlaying] = useState(false);
+  // Tied to the slug so switching categories never carries a running quiz over
+  const [playingSlug, setPlayingSlug] = useState<string | null>(null);
+  const isPlaying = playingSlug !== null && playingSlug === categorySlug;
+  const setIsPlaying = (value: boolean) => setPlayingSlug(value ? categorySlug ?? null : null);
 
   // Find matching category
   const category = CATEGORIES.find(
@@ -38,34 +43,41 @@ export const CategoryDetailPage: React.FC = () => {
   );
 
   // Suggested other categories
-  const otherCategories = CATEGORIES.filter(c => c.id !== category.id).slice(0, 4);
+  const otherCategories = getRelatedCategories(category.slug, 6);
+
+  const pagePath = `/categories/${category.slug}`;
+  const pageSchema = [
+    breadcrumbSchema([
+      { name: 'Home', path: '/' },
+      { name: 'Categories', path: '/categories' },
+      { name: category.name, path: pagePath }
+    ]),
+    collectionSchema(
+      `${category.name} Quizzes`,
+      category.description,
+      pagePath,
+      relatedQuizzes.map(q => ({ name: q.title, path: `/quizzes/${q.slug}` }))
+    )
+  ];
 
   return (
     <div style={{ padding: 'var(--space-2xl) 0' }}>
       <SEOHead
-        title={`${category.name} Quizzes — Practice Questions & Tests`}
-        description={category.description}
-        canonicalPath={`/categories/${category.slug}`}
+        title={`${category.name} Quizzes — Free Practice Questions & Tests`}
+        description={`${category.description} Take a free ${category.name} quiz with ${category.questionCount}+ practice questions and instant explanations.`}
+        canonicalPath={pagePath}
+        schema={pageSchema}
       />
 
       <div className="app-container">
-        {/* Breadcrumb / Back button */}
-        <div style={{ marginBottom: 'var(--space-lg)' }}>
-          <Link
-            to="/categories"
-            style={{
-              display: 'inline-flex',
-              alignItems: 'center',
-              gap: '6px',
-              fontSize: '0.85rem',
-              fontWeight: 600,
-              color: 'var(--color-text-muted)'
-            }}
-          >
-            <ArrowLeft size={16} />
-            <span>Back to Categories</span>
-          </Link>
-        </div>
+        {/* Breadcrumb */}
+        <nav aria-label="Breadcrumb" style={{ marginBottom: 'var(--space-lg)', fontSize: '0.85rem', color: 'var(--color-text-muted)', display: 'flex', flexWrap: 'wrap', alignItems: 'center', gap: '8px' }}>
+          <Link to="/" style={{ color: 'var(--color-text-muted)' }}>Home</Link>
+          <span aria-hidden="true">/</span>
+          <Link to="/categories" style={{ color: 'var(--color-text-muted)' }}>Categories</Link>
+          <span aria-hidden="true">/</span>
+          <span aria-current="page" style={{ color: 'var(--color-text-primary)', fontWeight: 600 }}>{category.name}</span>
+        </nav>
 
         {isPlaying ? (
           /* Active Interactive Quiz Player */

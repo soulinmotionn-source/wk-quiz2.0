@@ -1,12 +1,13 @@
 {
   "short_name": "WKQuiz",
   "name": "WKQuiz - Learn • Play • Grow",
-  "description": "Fun, engaging, and educational quizzes to test your knowledge across 34+ categories.",
+  "description": "Fun, engaging, and educational quizzes to test your knowledge across 30+ categories.",
   "icons": [
     {
       "src": "/favicon.svg",
       "type": "image/svg+xml",
-      "sizes": "192x192 512x512"
+      "sizes": "any",
+      "purpose": "any"
     }
   ],
   "start_url": "/",

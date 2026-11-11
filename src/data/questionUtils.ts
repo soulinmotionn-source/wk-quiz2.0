@@ -1,5 +1,13 @@
 import type { Question, ShuffledQuestion, Difficulty } from '../types/quiz';
 
+/** Local-calendar date as YYYY-MM-DD (toISOString() would give the UTC date, which rolls over at the wrong time for most users). */
+export function localDateString(date: Date = new Date()): string {
+  const y = date.getFullYear();
+  const m = String(date.getMonth() + 1).padStart(2, '0');
+  const d = String(date.getDate()).padStart(2, '0');
+  return `${y}-${m}-${d}`;
+}
+
 export function normalizeKey(str: string): string {
   return str.toLowerCase().replace(/[^a-z0-9]/g, '');
 }
@@ -31,7 +39,7 @@ export function cleanQuestionText(raw: string): string {
   let cleaned = raw.trim();
 
   // Strip trailing reference tags like (Ref #12), (Scenario #3), (Item #5), [Ref #...], etc.
-  cleaned = cleaned.replace(/\s*[\(\[]\s*(?:Ref|Scenario|Item|Q|Question)?\s*#?\s*\d+\s*[\)\]]\s*$/i, '');
+  cleaned = cleaned.replace(/\s*[([]\s*(?:(?:Ref|Scenario|Item|Q|Question)\s*#?\s*|#\s*)\d+\s*[)\]]\s*$/i, '');
   cleaned = cleaned.replace(/\s*\(Ref #[0-9]+\)/gi, '');
   cleaned = cleaned.replace(/\s*\(Scenario #[0-9]+\)/gi, '');
   cleaned = cleaned.replace(/\s*\(Item #[0-9]+\)/gi, '');
@@ -42,9 +50,9 @@ export function cleanQuestionText(raw: string): string {
   // "Regarding cinema and movie history: "
   // "In world and American history: "
   // "In electrical systems and engineering, "
-  cleaned = cleaned.replace(/^(?:In\s+[a-zA-Z\s&,-]+(?:,|:)\s*)/i, '');
-  cleaned = cleaned.replace(/^(?:Regarding\s+[a-zA-Z\s&,-]+(?:,|:)\s*)/i, '');
-  cleaned = cleaned.replace(/^(?:When\s+considering\s+[a-zA-Z\s&,-]+(?:,|:)\s*)/i, '');
+  cleaned = cleaned.replace(/^(?:In\s+[a-zA-Z\s&-]+?(?:,|:)\s*)/i, '');
+  cleaned = cleaned.replace(/^(?:Regarding\s+[a-zA-Z\s&-]+?(?:,|:)\s*)/i, '');
+  cleaned = cleaned.replace(/^(?:When\s+considering\s+[a-zA-Z\s&-]+?(?:,|:)\s*)/i, '');
 
   // Capitalize the first character of the cleaned question
   if (cleaned.length > 0) {
@@ -132,5 +140,7 @@ export function buildQuizQuestions(pool: Question[], options: QuizFilterOptions 
   const limit = options.count && options.count > 0 ? Math.min(options.count, shuffledPool.length) : Math.min(10, shuffledPool.length);
   const selected = shuffledPool.slice(0, limit);
 
-  return selected.map(q => prepareShuffledQuestion(q, options.seed));
+  return selected.map((q, i) =>
+    prepareShuffledQuestion(q, typeof options.seed === 'number' ? options.seed + i * 7919 : undefined)
+  );
 }

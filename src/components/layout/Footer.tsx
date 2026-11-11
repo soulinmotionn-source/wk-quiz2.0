@@ -108,7 +108,7 @@ export const Footer: React.FC = () => {
               </li>
               <li>
                 <Link to="/categories" style={{ color: 'var(--color-text-secondary)', fontSize: '0.9rem' }}>
-                  All 34 Categories
+                  All {CATEGORIES.length} Categories
                 </Link>
               </li>
               <li>
@@ -270,7 +270,7 @@ export const Footer: React.FC = () => {
                 color: 'var(--color-text-primary)'
               }}
             >
-              All 34 Knowledge Categories
+              All {CATEGORIES.length} Knowledge Categories
             </h4>
             <p style={{ fontSize: '0.8rem', color: 'var(--color-text-muted)' }}>
               Direct access to interactive study banks across all subjects:
@@ -371,7 +371,7 @@ export const Footer: React.FC = () => {
           }}
         >
           <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', textAlign: 'center' }}>
-            <span>© {new Date().getFullYear()} WKQuiz.com. All rights reserved.</span>
+            <span suppressHydrationWarning>© {new Date().getFullYear()} WKQuiz.com. All rights reserved.</span>
           </div>
         </div>
       </div>

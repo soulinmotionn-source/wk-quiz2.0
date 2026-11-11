@@ -1,48 +1,58 @@
-import { useState, useEffect } from 'react';
+import { useEffect, useSyncExternalStore } from 'react';
 
 export type ThemePreference = 'light' | 'dark' | 'system';
 
-export function useTheme() {
-  const [theme, setThemeState] = useState<ThemePreference>(() => {
-    const saved = localStorage.getItem('wkquiz_theme');
-    if (saved === 'light' || saved === 'dark' || saved === 'system') {
-      return saved;
-    }
-    return 'system';
-  });
+const STORAGE_KEY = 'wkquiz_theme';
+const listeners = new Set<() => void>();
 
-  const [activeTheme, setActiveTheme] = useState<'light' | 'dark'>('light');
+function readPreference(): ThemePreference {
+  try {
+    const saved = localStorage.getItem(STORAGE_KEY);
+    if (saved === 'light' || saved === 'dark' || saved === 'system') return saved;
+  } catch {
+    // storage blocked
+  }
+  return 'system';
+}
+
+let preference: ThemePreference = typeof window === 'undefined' ? 'system' : readPreference();
+
+function resolve(pref: ThemePreference): 'light' | 'dark' {
+  if (pref !== 'system') return pref;
+  return window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+}
+
+function applyTheme() {
+  document.documentElement.setAttribute('data-theme', resolve(preference));
+}
+
+function setPreference(next: ThemePreference) {
+  preference = next;
+  try {
+    localStorage.setItem(STORAGE_KEY, next);
+  } catch {
+    // ignore
+  }
+  applyTheme();
+  listeners.forEach(l => l());
+}
+
+function subscribe(listener: () => void) {
+  listeners.add(listener);
+  return () => listeners.delete(listener);
+}
+
+export function useTheme() {
+  // Server snapshot is 'system' so hydration markup always matches the prerendered HTML.
+  const theme = useSyncExternalStore(subscribe, () => preference, () => 'system' as ThemePreference);
 
   useEffect(() => {
-    const mediaQuery = window.matchMedia('(prefers-color-scheme: dark)');
-    
-    const applyTheme = () => {
-      let resolved: 'light' | 'dark' = 'light';
-      if (theme === 'system') {
-        resolved = mediaQuery.matches ? 'dark' : 'light';
-      } else {
-        resolved = theme;
-      }
-      setActiveTheme(resolved);
-      document.documentElement.setAttribute('data-theme', resolved);
-      localStorage.setItem('wkquiz_theme', theme);
-    };
-
     applyTheme();
-
-    const handler = () => {
-      if (theme === 'system') {
-        applyTheme();
-      }
-    };
-
-    mediaQuery.addEventListener('change', handler);
-    return () => mediaQuery.removeEventListener('change', handler);
+    if (theme !== 'system') return;
+    const mq = window.matchMedia('(prefers-color-scheme: dark)');
+    mq.addEventListener('change', applyTheme);
+    return () => mq.removeEventListener('change', applyTheme);
   }, [theme]);
 
-  const setTheme = (newTheme: ThemePreference) => {
-    setThemeState(newTheme);
-  };
-
-  return { theme, activeTheme, setTheme };
+  return { theme, activeTheme: typeof window === 'undefined' ? 'light' : resolve(theme), setTheme: setPreference };
 }

@@ -2,6 +2,7 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 import { Zap, Target, ShieldCheck, ArrowRight } from 'lucide-react';
 import { SEOHead } from '../components/common/SEOHead';
+import { CATEGORIES } from '../data/categories';
 
 export const AboutPage: React.FC = () => {
   return (
@@ -111,7 +112,7 @@ export const AboutPage: React.FC = () => {
             Explore our curated question banks and join thousands of daily learners.
           </p>
           <Link to="/categories" className="btn btn-primary btn-lg" style={{ borderRadius: 'var(--radius-full)' }}>
-            <span>Explore All 34 Categories</span>
+            <span>Explore All {CATEGORIES.length} Categories</span>
             <ArrowRight size={18} />
           </Link>
         </div>

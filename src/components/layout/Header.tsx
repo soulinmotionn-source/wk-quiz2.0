@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import { Link, useNavigate } from 'react-router-dom';
 import { Search, Menu, X, Play, Zap } from 'lucide-react';
 import { ThemeToggle } from '../common/ThemeToggle';
+import { CATEGORIES } from '../../data/categories';
 
 export const Header: React.FC = () => {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
@@ -194,7 +195,8 @@ export const Header: React.FC = () => {
               }}
             />
             <input
-              type="text"
+              type="search"
+              aria-label="Search quizzes"
               placeholder="Search quizzes..."
               value={searchQuery}
               onChange={e => setSearchQuery(e.target.value)}
@@ -241,6 +243,7 @@ export const Header: React.FC = () => {
             className="mobile-menu-btn"
             onClick={() => setMobileMenuOpen(!mobileMenuOpen)}
             aria-label="Toggle mobile menu"
+            aria-expanded={mobileMenuOpen}
             style={{
               display: 'flex',
               alignItems: 'center',
@@ -324,7 +327,7 @@ export const Header: React.FC = () => {
                 color: 'var(--color-text-primary)'
               }}
             >
-              All 34 Categories
+              All {CATEGORIES.length} Categories
             </Link>
             <Link
               to="/daily-quiz"
@@ -398,6 +401,12 @@ export const Header: React.FC = () => {
           .desktop-search { display: flex !important; }
           .mobile-menu-btn { display: none !important; }
           .desktop-cta { display: inline-flex !important; }
+        }
+        .desktop-nav a { white-space: nowrap; }
+        @media (min-width: 900px) and (max-width: 1139px) {
+          .desktop-nav { gap: 16px !important; }
+          .desktop-search input { width: 128px !important; }
+          .logo-tagline { display: none !important; }
         }
         @media (max-width: 899px) {
           .desktop-cta { display: none !important; }

@@ -39,7 +39,8 @@ WKQuiz.com is a modern, responsive, mobile-first educational quiz application bu
   - Dynamic document title and meta descriptions on every route.
   - Canonical URLs and OpenGraph social tags.
   - Schema.org JSON-LD structured data (`WebSite` and `Quiz`).
-  - Pre-generated `sitemap.xml` and `robots.txt`.
+  - Every route is prerendered to static HTML at build time (full content, unique title/description/canonical, JSON-LD), then hydrated by React.
+  - `sitemap.xml` and a real `404.html` are generated into `dist/` on every build.
 - **AdSense-Ready Architecture**:
   - Reusable `AdSlot` components for banner, in-content, between-section, and results page placements.
   - Non-intrusive, compliant spacing that never overlaps answer buttons.
@@ -72,7 +73,7 @@ new-wk-quiz/
 │   ├── favicon.svg          # High-res vector knowledge logo
 │   ├── manifest.json        # Web app manifest for PWA installability
 │   ├── robots.txt           # Search crawler directives
-│   └── sitemap.xml          # XML Sitemap with all key URLs
+│   └── og-image.jpg         # Social share image
 ├── scripts/
 │   └── validateQuestions.js # Automated question-bank validation script
 ├── src/
@@ -112,6 +113,17 @@ new-wk-quiz/
 ├── package.json
 └── vite.config.ts
 ```
+
+---
+
+## 🔧 Build Pipeline & SEO
+
+`npm run build` runs: font download → question validation → stats → `tsc` → `vite build` → **`scripts/prerender.js`** → cleanup.
+
+- `scripts/prerender.js` renders every route of the real app (`src/entry-server.tsx`) into `dist/<route>/index.html`, injects each page's `<SEOHead>` data into the `<head>`, and writes `dist/sitemap.xml` and `dist/404.html`.
+- The route list lives in one place: `getRoutes()` in `src/entry-server.tsx` (derived from the category registry and `quizzes.ts`). Add a category or quiz and it is prerendered and added to the sitemap automatically.
+- `npm run check:links` verifies that every internal link on every built page (and every sitemap URL) resolves.
+- `wrangler.toml` uses `not_found_handling = "404-page"` so unknown URLs return a real HTTP 404 (served from `404.html`) instead of a soft-404.
 
 ---
 

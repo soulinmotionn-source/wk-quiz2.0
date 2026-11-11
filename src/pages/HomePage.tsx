@@ -9,6 +9,7 @@ import { AdSlot } from '../components/common/AdSlot';
 import { CATEGORIES } from '../data/categories';
 import { FEATURED_QUIZZES } from '../data/quizzes';
 import { getQuestionStats } from '../data/questionBank';
+import { organizationSchema } from '../seo/schema';
 
 export const HomePage: React.FC = () => {
   const stats = getQuestionStats();
@@ -35,7 +36,7 @@ export const HomePage: React.FC = () => {
         title="WKQuiz.com — Learn • Play • Grow | Test Your Knowledge"
         description="Fun, educational quizzes to help you learn, remember and grow. Practice NCLEX nursing questions, anatomy, US state capitals, science, and DMV tests."
         canonicalPath="/"
-        schema={homeSchema}
+        schema={[homeSchema, organizationSchema()]}
       />
 
       {/* HERO SECTION */}

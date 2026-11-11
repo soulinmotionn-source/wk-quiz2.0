@@ -1,6 +1,14 @@
 import React, { useState } from 'react';
 import { Send, CheckCircle2 } from 'lucide-react';
 import { SEOHead } from '../components/common/SEOHead';
+import { CONTACT_EMAIL } from '../seo/site';
+
+const SUBJECT_LABELS: Record<string, string> = {
+  general: 'General Feedback',
+  correction: 'Question Correction',
+  suggest: 'New Question Bank Suggestion',
+  business: 'Partnership Inquiry'
+};
 
 export const ContactPage: React.FC = () => {
   const [submitted, setSubmitted] = useState(false);
@@ -14,6 +22,12 @@ export const ContactPage: React.FC = () => {
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault();
     if (formData.name && formData.email && formData.message) {
+      // There is no server to post to, so hand the message to the visitor's email app.
+      const subject = encodeURIComponent(`[WKQuiz] ${SUBJECT_LABELS[formData.subject] ?? 'Message'}`);
+      const body = encodeURIComponent(`${formData.message}
+
+— ${formData.name} (${formData.email})`);
+      window.location.href = `mailto:${CONTACT_EMAIL}?subject=${subject}&body=${body}`;
       setSubmitted(true);
     }
   };
@@ -45,11 +59,11 @@ export const ContactPage: React.FC = () => {
             <div style={{ textAlign: 'center', padding: 'var(--space-xl)' }}>
               <CheckCircle2 size={54} color="var(--color-success)" style={{ margin: '0 auto var(--space-md)' }} />
               <h3 className="h2-title" style={{ fontSize: '1.5rem', marginBottom: 'var(--space-xs)' }}>
-                Thank You for Reaching Out!
+                Your email app should be opening
               </h3>
               <p style={{ color: 'var(--color-text-secondary)', marginBottom: 'var(--space-lg)' }}>
-                Your message has been received. Our team will review your feedback and respond to{' '}
-                <strong>{formData.email}</strong> shortly.
+                We've prepared your message to {CONTACT_EMAIL}. Press send in your email app to deliver it. Nothing opened? Email us directly at{' '}
+                <a href={`mailto:${CONTACT_EMAIL}`} style={{ color: 'var(--color-primary)', fontWeight: 700 }}>{CONTACT_EMAIL}</a>.
               </p>
               <button
                 type="button"
@@ -59,17 +73,19 @@ export const ContactPage: React.FC = () => {
                 }}
                 className="btn btn-primary"
               >
-                Send Another Message
+                Write Another Message
               </button>
             </div>
           ) : (
             <form onSubmit={handleSubmit} style={{ display: 'flex', flexDirection: 'column', gap: 'var(--space-lg)' }}>
               <div>
-                <label style={{ display: 'block', fontSize: '0.85rem', fontWeight: 700, marginBottom: '6px' }}>
+                <label htmlFor="contact-name" style={{ display: 'block', fontSize: '0.85rem', fontWeight: 700, marginBottom: '6px' }}>
                   Your Name
                 </label>
                 <input
+                  id="contact-name"
                   type="text"
+                  autoComplete="name"
                   required
                   placeholder="e.g. Alex Johnson"
                   value={formData.name}
@@ -87,11 +103,13 @@ export const ContactPage: React.FC = () => {
               </div>
 
               <div>
-                <label style={{ display: 'block', fontSize: '0.85rem', fontWeight: 700, marginBottom: '6px' }}>
+                <label htmlFor="contact-email" style={{ display: 'block', fontSize: '0.85rem', fontWeight: 700, marginBottom: '6px' }}>
                   Email Address
                 </label>
                 <input
+                  id="contact-email"
                   type="email"
+                  autoComplete="email"
                   required
                   placeholder="you@example.com"
                   value={formData.email}
@@ -109,10 +127,11 @@ export const ContactPage: React.FC = () => {
               </div>
 
               <div>
-                <label style={{ display: 'block', fontSize: '0.85rem', fontWeight: 700, marginBottom: '6px' }}>
+                <label htmlFor="contact-topic" style={{ display: 'block', fontSize: '0.85rem', fontWeight: 700, marginBottom: '6px' }}>
                   Topic / Category
                 </label>
                 <select
+                  id="contact-topic"
                   value={formData.subject}
                   onChange={e => setFormData({ ...formData, subject: e.target.value })}
                   style={{
@@ -133,10 +152,11 @@ export const ContactPage: React.FC = () => {
               </div>
 
               <div>
-                <label style={{ display: 'block', fontSize: '0.85rem', fontWeight: 700, marginBottom: '6px' }}>
+                <label htmlFor="contact-message" style={{ display: 'block', fontSize: '0.85rem', fontWeight: 700, marginBottom: '6px' }}>
                   Your Message
                 </label>
                 <textarea
+                  id="contact-message"
                   required
                   rows={5}
                   placeholder="Tell us what's on your mind..."

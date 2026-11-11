@@ -4,6 +4,7 @@ import { CATEGORY_REGISTRY } from './categoryRegistry';
 import { loadAllQuestions, loadCategoryQuestions, resolveCategorySlug } from './questionLoader';
 import {
   normalizeKey,
+  localDateString,
   shuffleArray,
   cleanQuestionText,
   prepareShuffledQuestion,
@@ -13,7 +14,7 @@ import {
 
 // Re-export pure helpers so existing imports keep working without
 // pulling the question data into the bundle.
-export { normalizeKey, shuffleArray, cleanQuestionText, prepareShuffledQuestion };
+export { normalizeKey, localDateString, shuffleArray, cleanQuestionText, prepareShuffledQuestion };
 export type { QuizFilterOptions };
 
 // --------------------------------------------------------
@@ -135,7 +136,7 @@ export async function generateQuizQuestionsAsync(options: QuizFilterOptions = {}
 }
 
 export async function getDailyQuizQuestionsAsync(dateString?: string): Promise<ShuffledQuestion[]> {
-  const targetDate = dateString || new Date().toISOString().slice(0, 10);
+  const targetDate = dateString || localDateString();
   const numericSeed = targetDate.split('-').reduce((acc, part) => acc * 100 + parseInt(part, 10), 0);
 
   return generateQuizQuestionsAsync({

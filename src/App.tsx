@@ -1,5 +1,5 @@
 import React, { Suspense, lazy } from 'react';
-import { BrowserRouter, Routes, Route, Navigate } from 'react-router-dom';
+import { Routes, Route, Navigate } from 'react-router-dom';
 import { Header } from './components/layout/Header';
 import { Footer } from './components/layout/Footer';
 import { MobileBottomNav } from './components/layout/MobileBottomNav';
@@ -32,11 +32,12 @@ const RouteFallback: React.FC = () => (
 
 export const App: React.FC = () => {
   return (
-    <BrowserRouter>
+    <>
       <ScrollToTop />
       <div style={{ display: 'flex', flexDirection: 'column', minHeight: '100vh' }}>
+        <a href="#main-content" className="skip-link">Skip to main content</a>
         <Header />
-        <main className="main-content">
+        <main id="main-content" className="main-content" tabIndex={-1}>
           <Suspense fallback={<RouteFallback />}>
             <Routes>
               <Route path="/" element={<HomePage />} />
@@ -65,7 +66,7 @@ export const App: React.FC = () => {
         <Footer />
         <MobileBottomNav />
       </div>
-    </BrowserRouter>
+    </>
   );
 };
 

@@ -5,10 +5,10 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "node scripts/downloadFonts.js && node scripts/cleanDist.js && node scripts/validateQuestions.js && node scripts/generateQuestionStats.js && node scripts/generateSitemap.js && tsc -b && vite build && node scripts/cleanDist.js --post",
-    "generate:sitemap": "node scripts/generateSitemap.js",
+    "build": "node scripts/downloadFonts.js && node scripts/cleanDist.js && node scripts/validateQuestions.js && node scripts/generateQuestionStats.js && tsc -b && vite build && node scripts/prerender.js && node scripts/cleanDist.js --post",
     "validate:questions": "node scripts/validateQuestions.js",
     "stats:questions": "node scripts/statsReport.js",
+    "check:links": "node scripts/checkLinks.js",
     "lint": "oxlint",
     "preview": "vite preview"
   },
