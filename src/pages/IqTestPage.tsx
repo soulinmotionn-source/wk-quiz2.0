@@ -115,13 +115,14 @@ const PuzzleBody: React.FC<{
             key={i}
             type="button"
             className={`iq-option${picked === i ? ' is-picked' : ''}`}
+            style={opt.kind === 'fig' && opt.fig.h / opt.fig.w >= 1.4 ? { aspectRatio: '3 / 4' } : undefined}
             onClick={() => onPick(i)}
             disabled={picked !== null}
             aria-label={opt.kind === 'text' ? opt.text : `Option ${i + 1}`}
           >
             <span className="iq-key">{i + 1}</span>
             {opt.kind === 'cell' && <Glyph cell={opt.cell as Cell} title={`Option ${i + 1}`} />}
-            {opt.kind === 'fig' && <FigView fig={opt.fig} title={`Option ${i + 1}`} />}
+            {opt.kind === 'fig' && <FigView fig={opt.fig} title={`Option ${i + 1}`} fit />}
             {opt.kind === 'text' && <span className="iq-opt-text">{opt.text}</span>}
           </button>
         ))}
@@ -146,6 +147,15 @@ export const IqTestPage: React.FC = () => {
   const [history, setHistory] = useState<IqRecord[]>([]);
   const [copied, setCopied] = useState(false);
   const [busy, setBusy] = useState(false);
+
+  // The cookie banner would cover the answers on a phone, so it waits until the test is over
+  useEffect(() => {
+    if (phase === 'memorize' || phase === 'play') document.body.dataset.quizActive = '1';
+    else delete document.body.dataset.quizActive;
+    return () => {
+      delete document.body.dataset.quizActive;
+    };
+  }, [phase]);
 
   const questionStart = useRef(0);
   const timer = useRef<number | null>(null);

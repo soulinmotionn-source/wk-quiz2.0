@@ -37,3 +37,12 @@ public/fonts/*.woff2
 
 # Local Claude Code config
 .claude/
+
+# Video project build output
+video/**/node_modules/
+video/**/renders/
+video/**/.media/
+video/**/*.mp4
+video/**/.hyperframes/
+video/**/.thumbnails/
+video/**/assets/audio/*.wav

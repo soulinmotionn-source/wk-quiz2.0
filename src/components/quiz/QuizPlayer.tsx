@@ -75,6 +75,16 @@ export const QuizPlayer: React.FC<QuizPlayerProps> = ({
     onComplete: handleComplete
   });
 
+  // The cookie banner would cover the answers on a phone, so it waits until the quiz is over
+  const inProgress = !isLoadingQuestions && !isCompleted && totalQuestions > 0;
+  useEffect(() => {
+    if (inProgress) document.body.dataset.quizActive = '1';
+    else delete document.body.dataset.quizActive;
+    return () => {
+      delete document.body.dataset.quizActive;
+    };
+  }, [inProgress]);
+
   const audioCtxRef = useRef<AudioContext | null>(null);
   useEffect(() => () => { void audioCtxRef.current?.close(); }, []);
 

@@ -24,17 +24,16 @@ export const Glyph: React.FC<{ cell: Cell; title?: string }> = ({ cell, title })
 
   const shapeAt = (x: number, y: number, i: number) => {
     const common = {
-      key: i,
       fill,
       stroke: 'var(--color-text-primary)',
       strokeWidth: 3.2,
       strokeLinejoin: 'round' as const,
       transform: `rotate(${cell.rot} ${x} ${y})`
     };
-    if (cell.shape === 0) return <circle {...common} cx={x} cy={y} r={r} />;
-    if (cell.shape === 1) return <rect {...common} x={x - r * 0.9} y={y - r * 0.9} width={r * 1.8} height={r * 1.8} rx={2} />;
+    if (cell.shape === 0) return <circle key={i} {...common} cx={x} cy={y} r={r} />;
+    if (cell.shape === 1) return <rect key={i} {...common} x={x - r * 0.9} y={y - r * 0.9} width={r * 1.8} height={r * 1.8} rx={2} />;
     const h = r * 1.15;
-    return <polygon {...common} points={`${x},${y - h} ${x + h * 1.05},${y + h * 0.8} ${x - h * 1.05},${y + h * 0.8}`} />;
+    return <polygon key={i} {...common} points={`${x},${y - h} ${x + h * 1.05},${y + h * 0.8} ${x - h * 1.05},${y + h * 0.8}`} />;
   };
 
   return (

@@ -1,0 +1,39 @@
+<template>
+  <style>
+  #root { position: absolute; inset: 0; overflow: hidden; font-family: 'Inter', sans-serif; color: #1B1740;
+    --color-primary: #FF6A2B; --color-text-primary: #1B1740; --color-border: #CFC8F0; --color-bg: #F7F5FF; }
+  .bg { position: absolute; inset: 0; }
+  .head { position: absolute; left: 72px; margin: 0; font-weight: 900; letter-spacing: -0.03em; line-height: 0.95; text-transform: uppercase; }
+  .card { position: absolute; background: #FFFFFF; border: 8px solid #1B1740; border-radius: 56px; box-shadow: 18px 18px 0 #1B1740; box-sizing: border-box; }
+  .iq-glyph { width: 100%; height: 100%; display: block; }
+  .iq-fig { width: 100%; height: auto; display: block; }
+  .tag { position: absolute; font-weight: 900; text-transform: uppercase; letter-spacing: -0.02em; }
+  #s4-card .bars { position: absolute; left: 44px; right: 44px; top: 530px; display: grid; gap: 16px; }
+  #s4-card .bar { display: grid; grid-template-columns: 190px 1fr; align-items: center; gap: 16px; font-weight: 900; font-size: 38px; }
+  #s4-card .trk { height: 36px; border-radius: 18px; background: #E7E2FA; overflow: hidden; border: 4px solid #1B1740; box-sizing: border-box; }
+  #s4-card .trk i { display: block; height: 100%; background: #FF6A2B; transform-origin: left center; }</style>
+  <div id="root" data-composition-id="s4-result" data-width="1080" data-height="1920">
+    <div class="bg" style="background:#F7F5FF"></div>
+    <div id="s4-card" class="card" style="left:72px; top:190px; width:840px; height:1010px;">
+      <div class="tag" style="left:44px; top:34px; font-size:36px; color:#1B1740; opacity:0.7;">IQ-style estimate</div>
+      <div class="tag" style="left:0; right:0; top:940px; text-align:center; font-size:34px; color:#3F2FD0;">Example result</div>
+      <div id="s4-score" class="tag" style="left:0; right:0; top:80px; text-align:center; font-size:300px; line-height:1; color:#E8501C;">0</div>
+      <div class="tag" style="left:0; right:0; top:400px; text-align:center; font-size:88px; color:#1B1740; line-height:1;">Sharp Thinker</div>
+      <div class="bars"><div class="bar"><span>Pattern</span><div class="trk"><i id="s4-bar-0" style="width:88%"></i></div></div><div class="bar"><span>Spatial</span><div class="trk"><i id="s4-bar-1" style="width:92%"></i></div></div><div class="bar"><span>Numbers</span><div class="trk"><i id="s4-bar-2" style="width:76%"></i></div></div><div class="bar"><span>Words</span><div class="trk"><i id="s4-bar-3" style="width:84%"></i></div></div><div class="bar"><span>Logic</span><div class="trk"><i id="s4-bar-4" style="width:70%"></i></div></div><div class="bar"><span>Memory</span><div class="trk"><i id="s4-bar-5" style="width:100%"></i></div></div></div>
+    </div>
+    <div id="s4-stamp" style="position:absolute; left:790px; top:180px; width:220px; height:220px; border-radius:50%; background:#FF6A2B; border:8px solid #1B1740; box-shadow:12px 12px 0 #1B1740; display:grid; place-items:center; font-weight:900; font-size:54px; line-height:0.95; text-align:center; color:#1B1740; text-transform:uppercase;">100%<br>free</div>
+    <h1 id="s4-cap" class="head" style="top:1236px; font-size:64px; color:#1B1740; width:940px; white-space:nowrap;">Instant results. Free.</h1>
+  </div>
+  <script>
+    const tl = gsap.timeline({ paused: true });
+    tl.fromTo('#s4-card', { scale: 1.4, opacity: 0 }, { scale: 1, opacity: 1, duration: 0.25, ease: 'back.out(1.6)' }, 0);
+    const counter = { v: 0 };
+    tl.to(counter, { v: 124, duration: 1.2, ease: 'power4.out', onUpdate: () => { document.getElementById('s4-score').textContent = String(Math.round(counter.v)); } }, 0.25);
+    for (let i = 0; i < 6; i++) tl.fromTo('#s4-bar-' + i, { scaleX: 0 }, { scaleX: 1, duration: 0.35, ease: 'power3.out' }, 1.0 + i * 0.2);
+    tl.fromTo('#s4-cap', { y: 40, opacity: 0 }, { y: 0, opacity: 1, duration: 0.3, ease: 'power3.out' }, 1.9);
+    tl.fromTo('#s4-stamp', { scale: 2.2, rotation: -40, opacity: 0 }, { scale: 1, rotation: -12, opacity: 1, duration: 0.5, ease: 'back.out(1.8)' }, 2.6);
+    tl.fromTo('#s4-score', { scale: 1 }, { scale: 1.08, duration: 0.3, ease: 'power2.out', yoyo: true, repeat: 1 }, 3.6);
+    tl.fromTo('#s4-cap', { scale: 1 }, { scale: 1.05, duration: 0.3, ease: 'power2.out', yoyo: true, repeat: 1 }, 4.2);
+    window.__timelines["s4-result"] = tl;
+  </script>
+</template>

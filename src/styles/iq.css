@@ -459,3 +459,118 @@
     width: 90px;
   }
 }
+
+/* ---------- Phones: give the puzzle pictures room ---------- */
+@media (max-width: 480px) {
+  .iq-stage {
+    padding-left: 8px;
+    padding-right: 8px;
+  }
+  .iq-card {
+    padding: 16px 10px 14px;
+    border-radius: var(--radius-lg);
+  }
+  .iq-prompt {
+    font-size: 1.12rem;
+    margin-bottom: 14px;
+    padding: 0 4px;
+  }
+
+  /* Matrix uses the full width */
+  .iq-matrix {
+    max-width: none;
+    gap: 6px;
+    margin-bottom: 18px;
+  }
+
+  /* Series row: 3 per line instead of 5 tiny squares */
+  .iq-series {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    max-width: none;
+    gap: 8px;
+  }
+
+  /* Figure stems: bigger boxes that wrap two to a line (rotation) or sit side by side (symmetry) */
+  .iq-figs-row {
+    flex-wrap: wrap;
+    gap: 10px;
+  }
+  .iq-figbox {
+    width: 128px;
+    padding: 10px;
+  }
+  .iq-figs.is-joined .iq-figs-row {
+    flex-wrap: nowrap;
+    gap: 0;
+  }
+  .iq-figs.is-joined .iq-figbox {
+    width: 138px;
+  }
+
+  /* Counting field: tighter padding so each shape is bigger */
+  .iq-scatter {
+    max-width: none;
+    padding: 6px;
+    gap: 2px;
+  }
+  .iq-dot {
+    padding: 0;
+  }
+
+  /* Answer pictures: less padding, shapes fill the tile */
+  .iq-options {
+    gap: 8px;
+  }
+  .iq-option {
+    padding: 8px 10px;
+  }
+  .iq-options-cells .iq-option {
+    padding: 4px;
+    border-width: 2px;
+    border-radius: var(--radius-md);
+  }
+  .iq-options-cells .iq-option .iq-fig {
+    max-width: none;
+    width: 88%;
+  }
+  .iq-key {
+    top: 3px;
+    left: 5px;
+    font-size: 0.62rem;
+  }
+}
+
+/* Answer figures: fill their tile and scale to fit, whatever the figure's proportions */
+.iq-option {
+  position: relative;
+}
+.iq-option .iq-fig.fit {
+  position: absolute;
+  inset: 10px;
+  width: calc(100% - 20px);
+  height: calc(100% - 20px);
+  max-width: none;
+  margin: 0;
+}
+@media (max-width: 480px) {
+  .iq-option .iq-fig.fit {
+    inset: 8px;
+    width: calc(100% - 16px);
+    height: calc(100% - 16px);
+  }
+  /* Symmetry: a narrower pair so the tall half-pictures do not tower over the options */
+  .iq-figs.is-joined .iq-figbox {
+    width: 104px;
+  }
+}
+.iq-key {
+  opacity: 0.6;
+  z-index: 1;
+}
+
+/* Keep picture answers a comfortable size on wide screens */
+.iq-options-cells {
+  max-width: 480px;
+  margin-left: auto;
+  margin-right: auto;
+}

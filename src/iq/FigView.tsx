@@ -2,7 +2,7 @@ import React from 'react';
 import type { Fig } from './puzzles';
 
 /** Draws a figure (grid of lit squares) as inline SVG. */
-export const FigView: React.FC<{ fig: Fig; title?: string }> = ({ fig, title }) => {
+export const FigView: React.FC<{ fig: Fig; title?: string; fit?: boolean }> = ({ fig, title, fit = false }) => {
   const unit = 12;
   const lit = new Set(fig.on);
   const cells = [];
@@ -25,7 +25,14 @@ export const FigView: React.FC<{ fig: Fig; title?: string }> = ({ fig, title }) 
     }
   }
   return (
-    <svg viewBox={`0 0 ${fig.w * unit} ${fig.h * unit}`} role="img" aria-label={title ?? 'Puzzle figure'} className="iq-fig" style={{ aspectRatio: `${fig.w} / ${fig.h}` }}>
+    <svg
+      viewBox={`0 0 ${fig.w * unit} ${fig.h * unit}`}
+      preserveAspectRatio="xMidYMid meet"
+      role="img"
+      aria-label={title ?? 'Puzzle figure'}
+      className={fit ? 'iq-fig fit' : 'iq-fig'}
+      style={fit ? undefined : { aspectRatio: `${fig.w} / ${fig.h}` }}
+    >
       {cells}
     </svg>
   );
