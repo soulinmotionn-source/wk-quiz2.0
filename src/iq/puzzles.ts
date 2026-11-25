@@ -389,21 +389,24 @@ export function buildTest(seed: number, mode: TestMode): TestSet {
   };
 
   if (mode === 'daily') {
+    // Visual first, text in between, so the teaser never opens with a dull question
     const order: [string, Level][] = [
-      ['number', 1],
+      ['matrix', 1],
+      ['count', 1],
       ['mirror', 1],
-      ['matrix', 2],
       ['word', 2],
       ['rotate', 2],
-      ['logic', 2]
+      ['number', 2]
     ];
     return { seed, mode, memoryCode: null, puzzles: order.map(([k, l]) => make[k](l)) };
   }
 
   const { code, puzzle: memory } = genMemory(rng);
   const tiers: [Level, string[]][] = [
-    [1, ['number', 'matrix', 'word', 'mirror', 'logic', 'count', 'series']],
-    [2, ['matrix', 'rotate', 'number', 'word', 'symmetry', 'odd', 'logic']],
+    // Order matters for engagement: start with easy, colourful visual puzzles for quick wins,
+    // and never put two text puzzles back to back.
+    [1, ['odd', 'matrix', 'count', 'mirror', 'word', 'series', 'number']],
+    [2, ['matrix', 'rotate', 'word', 'symmetry', 'number', 'odd', 'logic']],
     [3, ['mirror', 'matrix', 'number', 'symmetry', 'word', 'rotate']]
   ];
   const puzzles = tiers.flatMap(([level, kinds]) => kinds.map(k => make[k](level)));

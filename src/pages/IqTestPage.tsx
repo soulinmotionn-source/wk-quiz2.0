@@ -2,6 +2,7 @@ import React, { useEffect, useMemo, useRef, useState } from 'react';
 import { Link, useSearchParams } from 'react-router-dom';
 import { Brain, Clock, Play, Share2, Link2, Download, RotateCcw, ChevronDown, Flame, Info, Swords } from 'lucide-react';
 import { SEOHead } from '../components/common/SEOHead';
+import { Mascot, type MascotMood } from '../components/common/Mascot';
 import { AdSlot } from '../components/common/AdSlot';
 import { Glyph } from '../iq/Glyph';
 import { FigView } from '../iq/FigView';
@@ -23,7 +24,48 @@ import {
 import { renderShareCard } from '../iq/shareCard';
 import { breadcrumbSchema, faqSchema } from '../seo/schema';
 
-type Phase = 'intro' | 'memorize' | 'play' | 'results';
+type Phase = 'intro' | 'memorize' | 'play' | 'break' | 'results';
+
+/** The memory code is shown after this many puzzles, as a quick mid-test moment (not a dull opening screen). */
+const MEMORIZE_AT = 3;
+const ACCENT = '#7C3AED';
+
+const ROUND_NAMES: Record<number, string> = { 1: 'Warm-up', 2: 'Level up', 3: 'Brain buster' };
+const roundName = (p: Puzzle) => (p.domain === 'memory' ? 'Memory check' : ROUND_NAMES[p.level]);
+const ROUND_BLURB: Record<string, string> = {
+  'Level up': 'The puzzles get a bit trickier.',
+  'Brain buster': 'The hardest round. Take your time.',
+  'Memory check': 'One last question, about the code from earlier.'
+};
+const PRAISE = ['Nice!', 'Sharp eye!', 'Yes!', 'Brilliant!', 'You got it!', 'Smooth!'];
+const CONSOLE = ['So close!', 'Tricky one!', 'Shake it off!', 'Onward!', 'Good try!'];
+const PUZZLE_HINT: Record<string, string> = {
+  pattern: 'Spot the rule.',
+  spatial: 'Picture it turning in your head.',
+  number: 'Look at the gaps between numbers.',
+  verbal: 'Find the relationship.',
+  logic: 'Think it through.',
+  memory: 'Remember that code?'
+};
+const pickFrom = (list: string[], i: number) => list[i % list.length];
+
+interface RoundInfo {
+  done: string;
+  solved: number;
+  total: number;
+  next: string;
+  blurb: string;
+  praise: string;
+}
+
+/** One dot per puzzle: filled as you go, so the end is always in sight. */
+const Dots: React.FC<{ total: number; done: number; current?: number }> = ({ total, done, current }) => (
+  <div className="iq-dots" aria-hidden="true">
+    {Array.from({ length: total }, (_, i) => (
+      <i key={i} className={i < done ? 'done' : i === current ? 'now' : ''} />
+    ))}
+  </div>
+);
 
 const FAQS = [
   {
@@ -62,6 +104,8 @@ const PuzzleBody: React.FC<{
 }> = ({ puzzle, picked, onPick }) => {
   const pictureOptions = puzzle.options.every(o => o.kind !== 'text');
   const stem = puzzle.stem;
+  const stateOf = (i: number) =>
+    picked === null ? '' : i === picked ? (picked === puzzle.answer ? ' is-right' : ' is-wrong') : i === puzzle.answer && picked !== puzzle.answer ? ' is-reveal' : '';
   return (
     <>
       <h2 className="iq-prompt">{puzzle.prompt}</h2>
@@ -114,7 +158,7 @@ const PuzzleBody: React.FC<{
           <button
             key={i}
             type="button"
-            className={`iq-option${picked === i ? ' is-picked' : ''}`}
+            className={`iq-option${stateOf(i)}`}
             style={opt.kind === 'fig' && opt.fig.h / opt.fig.w >= 1.4 ? { aspectRatio: '3 / 4' } : undefined}
             onClick={() => onPick(i)}
             disabled={picked !== null}
@@ -147,10 +191,14 @@ export const IqTestPage: React.FC = () => {
   const [history, setHistory] = useState<IqRecord[]>([]);
   const [copied, setCopied] = useState(false);
   const [busy, setBusy] = useState(false);
+  const [combo, setCombo] = useState(0);
+  const [coach, setCoach] = useState<{ mood: MascotMood; text: string }>({ mood: 'thinking', text: '' });
+  const [roundInfo, setRoundInfo] = useState<RoundInfo | null>(null);
+  const memorySeen = useRef(false);
 
   // The cookie banner would cover the answers on a phone, so it waits until the test is over
   useEffect(() => {
-    if (phase === 'memorize' || phase === 'play') document.body.dataset.quizActive = '1';
+    if (phase === 'memorize' || phase === 'play' || phase === 'break') document.body.dataset.quizActive = '1';
     else delete document.body.dataset.quizActive;
     return () => {
       delete document.body.dataset.quizActive;
@@ -194,14 +242,22 @@ export const IqTestPage: React.FC = () => {
     setAnswers([]);
     setElapsed(0);
     setCopied(false);
-    setPhase(set.memoryCode ? 'memorize' : 'play');
+    setCombo(0);
+    memorySeen.current = false;
+    setCoach({ mood: 'thinking', text: set.mode === 'full' ? 'Warm-up round: spot the odd one out!' : 'Quick teaser. Ready?' });
+    setPhase('play');
     questionStart.current = Date.now();
     window.scrollTo({ top: 0 });
   };
 
   const beginPlay = () => {
     questionStart.current = Date.now();
+    if (test) {
+      const p = test.puzzles[index];
+      setCoach({ mood: 'thinking', text: test.mode === 'full' ? `${roundName(p)}. ${PUZZLE_HINT[p.domain]}` : PUZZLE_HINT[p.domain] });
+    }
     setPhase('play');
+    window.scrollTo({ top: 0 });
   };
 
   const finish = (all: Answered[], set: TestSet, seconds: number) => {
@@ -226,24 +282,62 @@ export const IqTestPage: React.FC = () => {
   const pick = (i: number) => {
     if (!test || picked !== null) return;
     const puzzle = test.puzzles[index];
+    const correct = i === puzzle.answer;
     const record: Answered = {
       puzzle,
       chosen: i,
-      correct: i === puzzle.answer,
+      correct,
       seconds: Math.max(1, Math.round((Date.now() - questionStart.current) / 1000))
     };
     const all = [...answers, record];
+    const nextCombo = correct ? combo + 1 : 0;
     setPicked(i);
     setAnswers(all);
+    setCombo(nextCombo);
+    setCoach({ mood: correct ? 'cheer' : 'sad', text: correct ? (nextCombo >= 3 ? `${nextCombo} in a row!` : pickFrom(PRAISE, index)) : pickFrom(CONSOLE, index) });
+
     advance.current = window.setTimeout(() => {
-      if (index + 1 >= test.puzzles.length) {
+      const next = index + 1;
+      if (next >= test.puzzles.length) {
         finish(all, test, Math.floor((Date.now() - tickBase.current) / 1000));
-      } else {
-        setIndex(index + 1);
-        setPicked(null);
-        questionStart.current = Date.now();
+        return;
       }
-    }, 420);
+      const nxt = test.puzzles[next];
+      setIndex(next);
+      setPicked(null);
+      questionStart.current = Date.now();
+      setCoach({ mood: 'thinking', text: test.mode === 'full' ? PUZZLE_HINT[nxt.domain] : PUZZLE_HINT[nxt.domain] });
+
+      if (test.mode !== 'full') return;
+
+      // A quick mid-test memory moment
+      if (test.memoryCode && !memorySeen.current && next === MEMORIZE_AT) {
+        memorySeen.current = true;
+        setPhase('memorize');
+        window.scrollTo({ top: 0 });
+        return;
+      }
+
+      // End of a round: celebrate, show the next one
+      if (nxt.domain === 'memory' || nxt.level !== puzzle.level) {
+        const round = all.filter(r => r.puzzle.level === puzzle.level && r.puzzle.domain !== 'memory');
+        const solved = round.filter(r => r.correct).length;
+        const nextName = roundName(nxt);
+        setRoundInfo({
+          done: ROUND_NAMES[puzzle.level],
+          solved,
+          total: round.length,
+          next: nextName,
+          blurb: ROUND_BLURB[nextName] ?? '',
+          praise: solved >= round.length - 1 ? 'Excellent!' : solved >= Math.ceil(round.length / 2) ? 'Nice going!' : 'Keep at it!'
+        });
+        setPhase('break');
+        window.scrollTo({ top: 0 });
+        if (solved >= round.length - 1) {
+          import('canvas-confetti').then(({ default: confetti }) => confetti({ particleCount: 70, spread: 70, origin: { y: 0.4 } })).catch(() => {});
+        }
+      }
+    }, correct ? 700 : 1150);
   };
 
   // Keyboard: 1–6 pick an option
@@ -365,7 +459,7 @@ export const IqTestPage: React.FC = () => {
                 </span>
                 <h1>How sharp is your brain? Find out in about 12 minutes.</h1>
                 <p className="hero2-sub">
-                  Twenty-one fresh puzzles: shape patterns, mirrors and rotations, numbers, words, logic and memory. Your result, strengths and a shareable score card appear instantly. Free, no sign-up, nothing hidden behind a paywall.
+                  Twenty-one fresh puzzles, starting with quick colourful visual ones: shape patterns, mirrors and rotations, then numbers, words, logic and memory. Your result, strengths and a shareable score card appear instantly. Free, no sign-up, nothing hidden behind a paywall.
                 </p>
 
                 {challengeSeed && (
@@ -434,16 +528,38 @@ export const IqTestPage: React.FC = () => {
       {phase === 'memorize' && test?.memoryCode && (
         <section className="app-container iq-stage">
           <div className="iq-card iq-center">
-            <span className="iq-mascot floaty" aria-hidden="true">🧠</span>
-            <h2 className="iq-prompt">Memorise this code</h2>
-            <p className="text-secondary">You will be asked about it near the end. Order matters.</p>
+            <Mascot mood="thinking" size={84} color={ACCENT} className="floaty" />
+            <h2 className="iq-prompt">Quick! Memorise this code</h2>
+            <p className="text-secondary">It will come back at the very end. Order matters.</p>
             <div className="iq-code" aria-label={`Code: ${test.memoryCode.join(', ')}`}>
               {test.memoryCode.map((s, i) => (
                 <span key={i}>{s}</span>
               ))}
             </div>
             <button type="button" className="btn btn-primary btn-lg" onClick={beginPlay}>
-              I have it, start the puzzles
+              I have it, keep going
+            </button>
+          </div>
+        </section>
+      )}
+
+      {/* ------------------------------------------------------------- BREAK */}
+      {phase === 'break' && roundInfo && test && (
+        <section className="app-container iq-stage">
+          <div className="iq-card iq-center iq-break">
+            <Mascot mood="cheer" size={96} color={ACCENT} className="floaty" />
+            <p className="iq-kicker">{roundInfo.done} complete</p>
+            <div className="iq-break-score">
+              {roundInfo.solved}
+              <small>/{roundInfo.total}</small>
+            </div>
+            <p className="iq-break-praise">{roundInfo.praise}</p>
+            <Dots total={test.puzzles.length} done={answers.length} current={index} />
+            <p className="iq-next">
+              Next up: <b>{roundInfo.next}</b>. {roundInfo.blurb}
+            </p>
+            <button type="button" className="btn btn-primary btn-lg" onClick={beginPlay}>
+              Keep going
             </button>
           </div>
         </section>
@@ -454,23 +570,32 @@ export const IqTestPage: React.FC = () => {
         <section className="app-container iq-stage">
           <div className="iq-topbar">
             <span className="iq-pill">
-              <Brain size={14} aria-hidden="true" /> {DOMAIN_LABEL[test.puzzles[index].domain]}
+              <Brain size={14} aria-hidden="true" /> {test.mode === 'full' ? roundName(test.puzzles[index]) : DOMAIN_LABEL[test.puzzles[index].domain]}
             </span>
             <span className="iq-count">
               {index + 1} / {test.puzzles.length}
+              {combo >= 2 && (
+                <b className="iq-combo" key={combo}>
+                  {' '}
+                  🔥 {combo}
+                </b>
+              )}
             </span>
             <span className="iq-pill" aria-label="Time elapsed">
               <Clock size={14} aria-hidden="true" /> {formatTime(elapsed)}
             </span>
           </div>
-          <div className="iq-progress" role="progressbar" aria-valuemin={0} aria-valuemax={test.puzzles.length} aria-valuenow={index}>
-            <i style={{ width: `${(index / test.puzzles.length) * 100}%` }} />
+          <Dots total={test.puzzles.length} done={picked === null ? answers.length : answers.length - 1} current={index} />
+
+          <div className="iq-coach" aria-live="polite">
+            <Mascot mood={coach.mood} size={52} color={ACCENT} className={picked !== null ? 'coach-react' : ''} />
+            <div className="iq-coach-bubble">{coach.text || PUZZLE_HINT[test.puzzles[index].domain]}</div>
           </div>
 
           <div className="iq-card" key={test.puzzles[index].id}>
             <PuzzleBody puzzle={test.puzzles[index]} picked={picked} onPick={pick} />
           </div>
-          <p className="iq-hint">Tip: tap an answer, or press the number key. No going back, so trust your first instinct.</p>
+          <p className="iq-hint">Tap an answer or press its number key. Trust your first instinct!</p>
         </section>
       )}
 
