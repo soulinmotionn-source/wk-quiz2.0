@@ -451,3 +451,85 @@ nav a:hover {
 body[data-quiz-active] .consent {
   display: none;
 }
+
+/* ---------- Mobile bottom navigation ---------- */
+.mobile-bottom-nav {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  z-index: 90;
+  background-color: color-mix(in srgb, var(--color-surface) 94%, transparent);
+  border-top: 1.5px solid var(--color-border);
+  box-shadow: 0 -6px 18px rgba(39, 24, 120, 0.1);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  padding-bottom: env(safe-area-inset-bottom, 0px);
+}
+.mobile-bottom-nav-row {
+  display: flex;
+  align-items: stretch;
+  justify-content: space-around;
+  height: 62px;
+  max-width: 500px;
+  margin: 0 auto;
+  padding: 0 4px;
+}
+.mobile-nav-item {
+  flex: 1 1 0;
+  min-width: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 3px;
+  font-size: 0.7rem;
+  font-weight: 600;
+  color: var(--color-text-muted);
+  border-radius: var(--radius-sm);
+  transition: color var(--transition-fast);
+}
+.mobile-nav-item.active {
+  color: var(--color-primary);
+  font-weight: 800;
+}
+.mobile-nav-icon {
+  position: relative;
+  display: grid;
+  place-items: center;
+}
+.mobile-nav-dot {
+  position: absolute;
+  top: -2px;
+  right: -5px;
+  width: 7px;
+  height: 7px;
+  border-radius: 50%;
+  background: var(--color-primary);
+}
+/* IQ test: a raised purple pill so it stands out from the plain items */
+.mobile-nav-item.is-highlight {
+  color: var(--color-accent);
+  font-weight: 800;
+}
+.mobile-nav-item.is-highlight .mobile-nav-icon {
+  width: 46px;
+  height: 32px;
+  margin-top: -8px;
+  border-radius: var(--radius-full);
+  background: var(--color-accent);
+  color: #fff;
+  box-shadow: 0 3px 0 color-mix(in srgb, var(--color-accent) 65%, #000);
+}
+.mobile-nav-item.is-highlight.active .mobile-nav-icon {
+  background: var(--color-primary);
+  box-shadow: 0 3px 0 var(--color-primary-hover);
+}
+.mobile-nav-item.is-highlight.active {
+  color: var(--color-primary);
+}
+@media (min-width: 768px) {
+  .mobile-bottom-nav {
+    display: none;
+  }
+}
